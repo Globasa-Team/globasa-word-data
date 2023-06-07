@@ -1,0 +1,47 @@
+---
+term: moyto
+slug: moyto
+ipa: "\u02C8mojto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mojto&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - everything
+  epo:
+  - - "\u0109io"
+  spa:
+  - - todo (toda cosa)
+search terms:
+  glb:
+  - moyto
+  eng:
+  - everything
+  epo:
+  - "\u0109io"
+  spa:
+  - todo toda cosa
+  - todo
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: moyto
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: everything
+    epo: "\u0109io"
+    spa: todo (toda cosa)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + to
+...

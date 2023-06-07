@@ -1,0 +1,59 @@
+---
+term: por
+slug: por
+ipa: "po\u027E"
+ipa link: "http://ipa-reader.xyz/?text=po\u027E&voice=Ewa"
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - (in exchange) for
+  epo:
+  - - "por (por povi a\u0109eti"
+    - kiel pago por)
+  spa:
+  - - a cambio de
+search terms:
+  glb:
+  - por
+  eng:
+  - in exchange for
+  - for
+  epo:
+  - "por por povi a\u0109eti"
+  - "por (por povi a\u0109eti"
+  - kiel pago por
+  spa:
+  - a cambio de
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - per
+    - for
+  Fransesa:
+  - - par
+  Doycisa:
+  - - pro
+  Espanisa:
+  - - por
+raw data:
+  term: por
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: (in exchange) for
+    epo: "por (por povi a\u0109eti, kiel pago por)"
+    spa: a cambio de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (per, for), Fransesa (par), Doycisa (pro), Espanisa (por)
+...

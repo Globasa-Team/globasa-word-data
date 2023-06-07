@@ -1,0 +1,54 @@
+---
+term: burcu
+slug: burcu
+ipa: "\u02C8bu\u027Et\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8bu\u027Et\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - worsen
+    - get worse
+    - become worse
+  epo:
+  - - "malboni\u011Do"
+  - - "malboni\u011Di"
+  spa:
+  - - empeorar
+    - hacerse peor
+search terms:
+  glb:
+  - burcu
+  eng:
+  - worsen
+  - get worse
+  - become worse
+  epo:
+  - "malboni\u011Do"
+  - "malboni\u011Di"
+  spa:
+  - empeorar
+  - hacerse peor
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur">bur</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: burcu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: worsen, get worse, become worse
+    epo: "malboni\u011Do; malboni\u011Di"
+    spa: empeorar, hacerse peor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur + -cu
+...

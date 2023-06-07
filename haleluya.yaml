@@ -1,0 +1,61 @@
+---
+term: haleluya
+slug: haleluya
+ipa: "xale\u02C8luja"
+ipa link: "http://ipa-reader.xyz/?text=xale\u02C8luja&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hallelujah
+  epo:
+  - - halelujo
+    - haleluja
+  spa:
+  - - aleluya
+search terms:
+  glb:
+  - haleluya
+  eng:
+  - hallelujah
+  epo:
+  - halelujo
+  - haleluja
+  spa:
+  - aleluya
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- dini
+raw data:
+  term: haleluya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hallelujah
+    epo: halelujo, haleluja
+    spa: aleluya
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: "Ivrisa (\u05D4\u05B7\u05DC\u05B0\u05BC\u05DC\u05D5\u05BC\u05D9\u05B8\u05D4\u05BC
+    \u201Chal'luyah\u201D), Englisa (hallelujah), Doycisa, Espanisa (aleluya), Pilipinasa,
+    Fransesa (all\xE9luia), Rusisa (\u0430\u043B\u043B\u0438\u043B\u0443\u0439\u044F
+    \u201Caliluyya\u201D), Indonesisa (haleluya), Putunhwa (\u54C8\u5229\u8DEF\u4E9A
+    \u201Chaliluya\u201D, \u963F\u5229\u8DEF\u4E9A \u201Caliluya\u201D, \u963F\u808B\u8DEF\u4E9A
+    \u201Caleluya\u201D), Hindisa (\u0939\u0932\u093F\u0932\u0941\u092F \u201Chaliluy\u201D),
+    Arabisa (\u0647\u064E\u0644\u0650\u0651\u0644\u064F\u0648\u064A\u064E\u0627 \u201Challiluya\u201D,
+    \u0647\u064E\u0644\u064F\u0648\u0644\u0650\u064A\u064E\u0627 \u201Chaluliya\u201D),
+    Niponsa (\u30CF\u30EC\u30EB\u30E4 \u201Chareruya\u201D), Telugusa (\u0C39\u0C32\u0C4D\u0C32\u0C46\u0C32\u0C42\u0C2F\u0C3E
+    \u201Chaleluya\u201D), Hangusa (\uD560\uB810\uB8E8\uC57C \u201Challelluya\u201D),
+    Vyetnamsa (a-l\xEA-lu-gia), Parsisa (\u0647\u0644\u0648\u06CC\u0627 \u201Chaleluy\xE2\u201D),
+    Swahilisa (haleluya)"
+...

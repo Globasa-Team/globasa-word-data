@@ -1,0 +1,67 @@
+---
+term: bleydo
+slug: bleydo
+ipa: "\u02C8blejdo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8blejdo&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - (knife) blade
+  epo:
+  - - klingo
+  spa:
+  - - cuchilla
+    - hoja (de un cuchillo)
+  deu:
+  - - Klinge
+search terms:
+  glb:
+  - bleydo
+  eng:
+  - knife blade
+  - blade
+  epo:
+  - klingo
+  spa:
+  - cuchilla
+  - hoja de un cuchillo
+  - hoja
+  deu:
+  - klinge
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - blade
+  Hindisa:
+  - - "\u092C\u094D\u0932\u0947\u0921 \"bled\""
+  Niponsa:
+  - - "\u5203 \"ha\""
+    - "\u30D6\u30EC\u30FC\u30C9 \"buredo\""
+  Telugusa:
+  - - "\u0C2C\u0C4D\u0C32\u0C47\u0C21\u0C4D \"bled\""
+tags:
+- tul
+raw data:
+  term: bleydo
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: (knife) blade
+    epo: klingo
+    spa: cuchilla, hoja (de un cuchillo)
+    deu: Klinge
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: tul
+  etymology: "Englisa (blade), Hindisa (\u092C\u094D\u0932\u0947\u0921 \"bled\"),
+    Niponsa (\u5203 \"ha\", \u30D6\u30EC\u30FC\u30C9 \"buredo\"), Telugusa (\u0C2C\u0C4D\u0C32\u0C47\u0C21\u0C4D
+    \"bled\")"
+...

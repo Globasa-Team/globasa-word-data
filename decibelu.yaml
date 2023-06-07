@@ -1,0 +1,68 @@
+---
+term: decibelu
+slug: decibelu
+ipa: "det\u0361\u0283i\u02C8belu"
+ipa link: "http://ipa-reader.xyz/?text=det\u0361\u0283i\u02C8belu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - decibel
+    - dB
+  epo:
+  - - decibelo
+  spa:
+  - - decibel
+    - decibelio
+    - dB
+  deu:
+  - - Dezibel
+  fra:
+  - - "d\xE9cibel"
+  rus:
+  - - "\u0434\u0435\u0446\u0438\u0431\u0435\u043B"
+  zho:
+  - - "\u5206\u8C9D"
+search terms:
+  glb:
+  - decibelu
+  eng:
+  - decibel
+  - db
+  epo:
+  - decibelo
+  spa:
+  - decibel
+  - decibelio
+  - db
+  deu:
+  - dezibel
+  fra:
+  - "d\xE9cibel"
+  rus:
+  - "\u0434\u0435\u0446\u0438\u0431\u0435\u043B"
+  zho:
+  - "\u5206\u8C9D"
+etymology_type: DERIVD
+etymology: <a href="../lexi/deci">deci</a> + <a href="../lexi/bel">bel</a>
+raw data:
+  term: decibelu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: decibel, dB
+    epo: decibelo
+    spa: decibel, decibelio, dB
+    deu: Dezibel
+    fra: "d\xE9cibel"
+    rus: "\u0434\u0435\u0446\u0438\u0431\u0435\u043B"
+    zho: "\u5206\u8C9D"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: deci + bel
+...

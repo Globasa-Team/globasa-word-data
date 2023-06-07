@@ -1,0 +1,58 @@
+---
+term: esliper
+slug: esliper
+ipa: "esli\u02C8pe\u027E"
+ipa link: "http://ipa-reader.xyz/?text=esli\u02C8pe\u027E&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - slipper
+  epo:
+  - - pantoflo
+  spa:
+  - - pantufla
+search terms:
+  glb:
+  - esliper
+  eng:
+  - slipper
+  epo:
+  - pantoflo
+  spa:
+  - pantufla
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - slipper
+  Indonesisa:
+  - - selop
+    - selipar
+  Niponsa:
+  - - "\u30B9\u30EA\u30C3\u30D1 \"surippa\""
+  Hangusa:
+  - - "\uC2AC\uB9AC\uD37C \"sullipo\""
+tags:
+- labas
+raw data:
+  term: esliper
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: slipper
+    epo: pantoflo
+    spa: pantufla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Englisa (slipper), Indonesisa (selop, selipar), Niponsa (\u30B9\u30EA\u30C3\u30D1
+    \"surippa\"), Hangusa (\uC2AC\uB9AC\uD37C \"sullipo\")"
+...

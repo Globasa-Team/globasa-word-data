@@ -1,0 +1,48 @@
+---
+term: fe basi fe
+slug: fe basi fe
+ipa: "fe \u02C8basi fe"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8basi fe&voice=Ewa"
+status: false
+category: phrase
+word class: jm p
+trans:
+  eng:
+  - - on the basis of
+  epo:
+  - - surbaze de
+  spa:
+  - - sobre la base de
+search terms:
+  glb:
+  - fe basi fe
+  - fe
+  - basi
+  eng:
+  - on the basis of
+  epo:
+  - surbaze de
+  spa:
+  - sobre la base de
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/basi">basi</a>, <a href="../lexi/fe">fe</a>
+raw data:
+  term: fe basi fe
+  category: phrase
+  word class: jm p
+  status: false
+  trans:
+    eng: on the basis of
+    epo: surbaze de
+    spa: sobre la base de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, basi, fe
+...

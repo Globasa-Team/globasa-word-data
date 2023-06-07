@@ -1,0 +1,80 @@
+---
+term: soseji
+slug: soseji
+ipa: "so\u02C8sed\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=so\u02C8sed\u0361\u0292i&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sausage
+  epo:
+  - - kolbaso
+  spa:
+  - - salchicha
+search terms:
+  glb:
+  - soseji
+  eng:
+  - sausage
+  epo:
+  - kolbaso
+  spa:
+  - salchicha
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sausage
+  Espanisa:
+  - - salchicha
+  Fransesa:
+  - - saucisse
+  Rusisa:
+  - - "\u0441\u043E\u0441\u0438\u0441\u043A\u0430 \u201Csosiska\u201D"
+  Indonesisa:
+  - - sosis
+  Hindisa:
+  - - "\u0938\u0949\u0938\u0947\u091C \u201Csosej\u201D"
+  Niponsa:
+  - - "\u30BD\u30FC\u30BB\u30FC\u30B8 \u201Csoseji\u201D"
+  Telugusa:
+  - - "\u0C38\u0C3E\u0C38\u0C47\u0C1C\u0C4D \u201Csasej\u201D"
+  Turkisa:
+  - - sosis
+  Hangusa:
+  - - "\uC18C\uC2DC\uC9C0 \u201Csosiji\u201D"
+  Vyetnamsa:
+  - - "x\xFAc x\xEDch"
+  Parsisa:
+  - - "\u0633\u0648\u0633\u06CC\u0633 \u201Csosis\u201D"
+  Swahilisa:
+  - - soseji
+tags:
+- yamxey
+raw data:
+  term: soseji
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sausage
+    epo: kolbaso
+    spa: salchicha
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (sausage), Espanisa (salchicha), Fransesa (saucisse), Rusisa
+    (\u0441\u043E\u0441\u0438\u0441\u043A\u0430 \u201Csosiska\u201D), Indonesisa (sosis),
+    Hindisa (\u0938\u0949\u0938\u0947\u091C \u201Csosej\u201D), Niponsa (\u30BD\u30FC\u30BB\u30FC\u30B8
+    \u201Csoseji\u201D), Telugusa (\u0C38\u0C3E\u0C38\u0C47\u0C1C\u0C4D \u201Csasej\u201D),
+    Turkisa (sosis), Hangusa (\uC18C\uC2DC\uC9C0 \u201Csosiji\u201D), Vyetnamsa (x\xFAc
+    x\xEDch), Parsisa (\u0633\u0648\u0633\u06CC\u0633 \u201Csosis\u201D), Swahilisa
+    (soseji)"
+...

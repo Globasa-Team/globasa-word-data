@@ -1,0 +1,46 @@
+---
+term: hukimuyen
+slug: hukimuyen
+ipa: "xukimu\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=xukimu\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - judge
+  epo:
+  - - "ju\u011Disto"
+  spa:
+  - - juez
+search terms:
+  glb:
+  - hukimuyen
+  eng:
+  - judge
+  epo:
+  - "ju\u011Disto"
+  spa:
+  - juez
+etymology_type: DERIVD
+etymology: <a href="../lexi/hukimu">hukimu</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: hukimuyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: judge
+    epo: "ju\u011Disto"
+    spa: juez
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hukimu + -yen
+...

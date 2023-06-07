@@ -1,0 +1,48 @@
+---
+term: iris
+slug: iris
+ipa: "i\u02C8\u027Eis"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8\u027Eis&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Iris (_mythology_)
+  epo:
+  - - Iriso (_mitologio_)
+  spa:
+  - - "Iris (_mitolog\xEDa_)"
+search terms:
+  glb:
+  - iris
+  eng:
+  - iris
+  epo:
+  - iriso
+  spa:
+  - iris
+etymology_type: NATLNG
+etymology:
+  Elinisa:
+  - - "\u1F3E\u03C1\u1FD0\u03C2 \"iris\""
+raw data:
+  term: Iris
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Iris (_mythology_)
+    epo: Iriso (_mitologio_)
+    spa: "Iris (_mitolog\xEDa_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Elinisa (\u1F3E\u03C1\u1FD0\u03C2 \"iris\")"
+...

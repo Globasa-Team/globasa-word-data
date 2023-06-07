@@ -1,0 +1,59 @@
+---
+term: pesa
+slug: pesa
+ipa: "\u02C8pesa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pesa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - money
+  - - fund
+  epo:
+  - - mono
+  - - financi
+  spa:
+  - - dinero
+  - - financiar
+search terms:
+  glb:
+  - pesa
+  eng:
+  - money
+  - fund
+  epo:
+  - mono
+  - financi
+  spa:
+  - dinero
+  - financiar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u092A\u0948\u0938\u0947 \u201Cpaise\u201D"
+  Swahilisa:
+  - - pesa
+  Pilipinasa:
+  - - pera
+raw data:
+  term: pesa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: money; fund
+    epo: mono; financi
+    spa: dinero; financiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u092A\u0948\u0938\u0947 \u201Cpaise\u201D), Swahilisa (pesa),
+    Pilipinasa (pera)"
+...

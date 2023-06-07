@@ -1,0 +1,52 @@
+---
+term: kontato
+slug: kontato
+ipa: "kon\u02C8tato"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8tato&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - contact
+  epo:
+  - - kontakto
+  - - kontakti
+  spa:
+  - - contacto
+  - - contactar
+search terms:
+  glb:
+  - kontato
+  eng:
+  - contact
+  epo:
+  - kontakto
+  - kontakti
+  spa:
+  - contacto
+  - contactar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kontato
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: contact
+    epo: kontakto; kontakti
+    spa: contacto; contactar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (contact), Doycisa (Kontakt), Fransesa (contact), Espanisa (contacto),
+    Rusisa (\u043A\u043E\u043D\u0442\u0430\u043A\u0442 \u201Ckontakt\u201D), Turkisa
+    (kontak), Indonesisa (kontak), Pilipinasa (kontak)"
+...

@@ -1,0 +1,50 @@
+---
+term: xekayefil
+slug: xekayefil
+ipa: "\u0283ekaje\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=\u0283ekaje\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - peevish
+    - grumbling
+  epo:
+  - - plendema
+  - - plendeme
+  spa:
+  - - quejumbroso
+search terms:
+  glb:
+  - xekayefil
+  eng:
+  - peevish
+  - grumbling
+  epo:
+  - plendema
+  - plendeme
+  spa:
+  - quejumbroso
+etymology_type: DERIVD
+etymology: <a href="../lexi/xekaye">xekaye</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: xekayefil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: peevish, grumbling
+    epo: plendema; plendeme
+    spa: quejumbroso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xekaye + -fil
+...

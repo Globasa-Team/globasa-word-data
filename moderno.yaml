@@ -1,0 +1,50 @@
+---
+term: moderno
+slug: moderno
+ipa: "mo\u02C8de\u027Eno"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8de\u027Eno&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - modern
+  epo:
+  - - moderna
+  - - moderne
+  spa:
+  - - moderno
+search terms:
+  glb:
+  - moderno
+  eng:
+  - modern
+  epo:
+  - moderna
+  - moderne
+  spa:
+  - moderno
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: moderno
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: modern
+    epo: moderna; moderne
+    spa: moderno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (modern), Fransesa (moderne), Doycisa (modern), Espanisa (moderno),
+    Niponsa (\u30E2\u30C0\u30F3 \u201Cmodan\u201D), Turkisa (modern), Indonesisa (modern),
+    Pilipinasa (moderno)"
+...

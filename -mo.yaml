@@ -1,0 +1,53 @@
+---
+term: -mo
+slug: -mo
+ipa: "\u02C8-mo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-mo&voice=Ewa"
+status: true
+category: affix
+word class: m xfik
+trans:
+  eng:
+  - - _adverb of degree and manner_
+  epo:
+  - - _adverbo de grado kaj maniero_
+  spa:
+  - - _adverbio de grado y manera_
+search terms:
+  glb:
+  - -mo
+  eng:
+  - adverb of degree and manner
+  epo:
+  - adverbo de grado kaj maniero
+  spa:
+  - adverbio de grado y manera
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - -ment
+  Espanisa:
+  - - -mente
+    - como
+  Rusisa:
+  - - "-\u043E \u201C-o\u201D"
+raw data:
+  term: -mo
+  category: affix
+  word class: m xfik
+  status: true
+  trans:
+    eng: _adverb of degree and manner_
+    epo: _adverbo de grado kaj maniero_
+    spa: _adverbio de grado y manera_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (-ment), Espanisa (-mente, como), Rusisa (-\u043E \u201C-o\u201D)"
+...

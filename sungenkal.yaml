@@ -1,0 +1,48 @@
+---
+term: sungenkal
+slug: sungenkal
+ipa: "sungen\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=sungen\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - degrading
+  epo:
+  - - sendigna
+  - - sendigne
+  spa:
+  - - degradante
+search terms:
+  glb:
+  - sungenkal
+  eng:
+  - degrading
+  epo:
+  - sendigna
+  - sendigne
+  spa:
+  - degradante
+etymology_type: DERIVD
+etymology: <a href="../lexi/sungen">sungen</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: sungenkal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: degrading
+    epo: sendigna; sendigne
+    spa: degradante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sungen + -kal
+...

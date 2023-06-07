@@ -1,0 +1,51 @@
+---
+term: idi
+slug: idi
+ipa: "\u02C8idi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8idi&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - go
+  epo:
+  - - iro
+  - - iri
+  spa:
+  - - ida
+  - - ir
+search terms:
+  glb:
+  - idi
+  eng:
+  - go
+  epo:
+  - iro
+  - iri
+  spa:
+  - ida
+  - ir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: idi
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: go
+    epo: iro; iri
+    spa: ida; ir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Rusisa (\u0438\u0434\u0442\u0438 \u201Cidti\u201D), Espanisa (ir), Vyetnamsa
+    (\u0111i)"
+...

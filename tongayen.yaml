@@ -1,0 +1,47 @@
+---
+term: tongayen
+slug: tongayen
+ipa: "tonga\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=tonga\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Tongan (person)
+  epo:
+  - - tongano
+  spa:
+  - - tongano (_persona_)
+search terms:
+  glb:
+  - tongayen
+  eng:
+  - tongan person
+  - tongan
+  epo:
+  - tongano
+  spa:
+  - tongano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Tonga">Tonga</a> + <a href="../lexi/yen">yen</a>
+raw data:
+  term: Tongayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Tongan (person)
+    epo: tongano
+    spa: tongano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Tonga + yen
+...

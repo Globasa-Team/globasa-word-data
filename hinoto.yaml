@@ -1,0 +1,49 @@
+---
+term: hinoto
+slug: hinoto
+ipa: "xi\u02C8noto"
+ipa link: "http://ipa-reader.xyz/?text=xi\u02C8noto&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - these (things)
+    - these ones
+  epo:
+  - - "\u0109i tioj"
+  spa:
+  - - estos
+search terms:
+  glb:
+  - hinoto
+  eng:
+  - these things
+  - these
+  - these ones
+  epo:
+  - "\u0109i tioj"
+  spa:
+  - estos
+etymology_type: DERIVD
+etymology: <a href="../lexi/hin">hin</a> + <a href="../lexi/oto">oto</a>
+raw data:
+  term: hinoto
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: these (things), these ones
+    epo: "\u0109i tioj"
+    spa: estos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hin + oto
+...

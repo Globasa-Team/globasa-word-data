@@ -1,0 +1,84 @@
+---
+term: pengwin
+slug: pengwin
+ipa: "pen\u02C8gwin"
+ipa link: "http://ipa-reader.xyz/?text=pen\u02C8gwin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - penguin
+    - _Sphenisciformes_
+  epo:
+  - - pingveno
+  spa:
+  - - "ping\xFCino"
+    - _Sphenisciformes_
+search terms:
+  glb:
+  - pengwin
+  eng:
+  - penguin
+  - sphenisciformes
+  epo:
+  - pingveno
+  spa:
+  - "ping\xFCino"
+  - sphenisciformes
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - penguin
+  Doycisa:
+  - - Pinguin
+  Rusisa:
+  - - "\u043F\u0438\u043D\u0433\u0432\u0438\u043D \u201Cpingvin\u201D"
+  Espanisa:
+  - - "ping\xFCino"
+  Indonesisa:
+  - - pinguin
+  Pilipinasa:
+  - - penguino
+  Niponsa:
+  - - "\u30DA\u30F3\u30AE\u30F3 \u201Cpengin\u201D"
+  Hangusa:
+  - - "\uD3AD\uADC4 \u201Cpenggwin\u201D"
+  Hindisa:
+  - - "\u092A\u0947\u0902\u0917\u094D\u0935\u093F\u0928 \u201Cpe\u1E45guin\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C46\u0C02\u0C17\u0C4D\u0C35\u0C3F\u0C28\u0C4D \u201Cpe\u1E45gvin\u201D"
+  Swahilisa:
+  - - pengwini
+  Parsisa:
+  - - "\u067E\u0646\u06AF\u0648\u0626\u0646 \u201Cpangu'an\u201D"
+  Turkisa:
+  - - penguen
+tags:
+- hewan
+raw data:
+  term: pengwin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: penguin, _Sphenisciformes_
+    epo: pingveno
+    spa: "ping\xFCino, _Sphenisciformes_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (penguin), Doycisa (Pinguin), Rusisa (\u043F\u0438\u043D\u0433\u0432\u0438\u043D
+    \u201Cpingvin\u201D), Espanisa (ping\xFCino), Indonesisa (pinguin), Pilipinasa
+    (penguino), Niponsa (\u30DA\u30F3\u30AE\u30F3 \u201Cpengin\u201D), Hangusa (\uD3AD\uADC4
+    \u201Cpenggwin\u201D), Hindisa (\u092A\u0947\u0902\u0917\u094D\u0935\u093F\u0928
+    \u201Cpe\u1E45guin\u201D), Telugusa (\u0C2A\u0C46\u0C02\u0C17\u0C4D\u0C35\u0C3F\u0C28\u0C4D
+    \u201Cpe\u1E45gvin\u201D), Swahilisa (pengwini), Parsisa (\u067E\u0646\u06AF\u0648\u0626\u0646
+    \u201Cpangu'an\u201D), Turkisa (penguen)"
+...

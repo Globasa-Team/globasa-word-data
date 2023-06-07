@@ -1,0 +1,54 @@
+---
+term: pre-
+slug: pre-
+ipa: "\u02C8p\u027Ee-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8p\u027Ee-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - here
+    - there
+  epo:
+  - - malfor-
+    - "\u0109i-"
+  spa:
+  - - "aqu\xED"
+    - "all\xED"
+search terms:
+  glb:
+  - pre-
+  eng:
+  - here
+  - there
+  epo:
+  - malfor-
+  - "\u0109i-"
+  spa:
+  - "aqu\xED"
+  - "all\xED"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/presenti">presenti</a>.
+antonyms:
+- aw-
+raw data:
+  term: pre-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: here, there
+    epo: "malfor-, \u0109i-"
+    spa: "aqu\xED, all\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: aw-
+  example: ""
+  tags: ""
+  etymology: Am oko _presenti_.
+...

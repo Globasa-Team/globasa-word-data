@@ -1,0 +1,55 @@
+---
+term: gamikalyen
+slug: gamikalyen
+ipa: "gamika\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=gamika\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - bachelor
+    - bachelorette
+  epo:
+  - - senedzulo
+    - senedzinulo
+    - "fra\u016Dlo"
+    - "fra\u016Dlino"
+  spa:
+  - - soltero (_persona_)
+search terms:
+  glb:
+  - gamikalyen
+  eng:
+  - bachelor
+  - bachelorette
+  epo:
+  - senedzulo
+  - senedzinulo
+  - "fra\u016Dlo"
+  - "fra\u016Dlino"
+  spa:
+  - soltero
+etymology_type: DERIVD
+etymology: <a href="../lexi/gami">gami</a> + <a href="../lexi/-kal">-kal</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: gamikalyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: bachelor, bachelorette
+    epo: "senedzulo, senedzinulo, fra\u016Dlo, fra\u016Dlino"
+    spa: soltero (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gami + -kal + -yen
+...

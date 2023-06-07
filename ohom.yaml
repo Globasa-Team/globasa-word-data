@@ -1,0 +1,50 @@
+---
+term: ohom
+slug: ohom
+ipa: "o\u02C8xom"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8xom&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Assam (_state in India_)
+  epo:
+  - - Asamio
+  spa:
+  - - Assam
+    - Asam
+search terms:
+  glb:
+  - ohom
+  eng:
+  - assam
+  epo:
+  - asamio
+  spa:
+  - assam
+  - asam
+etymology_type: NATLNG
+etymology:
+  Ohomsa:
+  - - "\u0985\u09B8\u09AE \u201Cohom\u201D"
+raw data:
+  term: Ohom
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Assam (_state in India_)
+    epo: Asamio
+    spa: Assam, Asam
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Ohomsa (\u0985\u09B8\u09AE \u201Cohom\u201D)"
+...

@@ -1,0 +1,46 @@
+---
+term: nubwayen
+slug: nubwayen
+ipa: "nubwa\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=nubwa\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - prophet
+  epo:
+  - - profeto
+  spa:
+  - - profeta
+search terms:
+  glb:
+  - nubwayen
+  eng:
+  - prophet
+  epo:
+  - profeto
+  spa:
+  - profeta
+etymology_type: DERIVD
+etymology: <a href="../lexi/nubwa">nubwa</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: nubwayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: prophet
+    epo: profeto
+    spa: profeta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nubwa + -yen
+...

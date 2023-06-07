@@ -1,0 +1,46 @@
+---
+term: mubilelari
+slug: mubilelari
+ipa: "mubile\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=mubile\u02C8la\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - furniture
+  epo:
+  - - meblaro
+  spa:
+  - - muebles
+search terms:
+  glb:
+  - mubilelari
+  eng:
+  - furniture
+  epo:
+  - meblaro
+  spa:
+  - muebles
+etymology_type: DERIVD
+etymology: <a href="../lexi/mubile">mubile</a> + <a href="../lexi/-lari">-lari</a>
+raw data:
+  term: mubilelari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: furniture
+    epo: meblaro
+    spa: muebles
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mubile + -lari
+...

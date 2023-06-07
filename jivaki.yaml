@@ -1,0 +1,52 @@
+---
+term: jivaki
+slug: jivaki
+ipa: "d\u0361\u0292i\u02C8vaki"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i\u02C8vaki&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mercury (_element_)
+  epo:
+  - - hidrargo
+  spa:
+  - - mercurio
+    - Hg
+search terms:
+  glb:
+  - jivaki
+  eng:
+  - mercury
+  epo:
+  - hidrargo
+  spa:
+  - mercurio
+  - hg
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: jivaki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mercury (_element_)
+    epo: hidrargo
+    spa: mercurio, Hg
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Arabisa (\u0632\u0650\u0626\u0652\u0628\u064E\u0642 \u201Czibak\u201D),
+    Turkisa (c\u0131va), Parsisa (\u062C\u06CC\u0648\u0647 \u201Cjive\u201D), Swahilisa
+    (zebaki)"
+...

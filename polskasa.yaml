@@ -1,0 +1,49 @@
+---
+term: polskasa
+slug: polskasa
+ipa: "pols\u02C8kasa"
+ipa link: "http://ipa-reader.xyz/?text=pols\u02C8kasa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Polish
+  epo:
+  - - la pola (lingvo)
+  spa:
+  - - polaco (_idioma_)
+search terms:
+  glb:
+  - polskasa
+  eng:
+  - polish
+  epo:
+  - la pola lingvo
+  - la pola
+  spa:
+  - polaco
+etymology_type: DERIVD
+etymology: <a href="../lexi/Polska">Polska</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Polskasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Polish
+    epo: la pola (lingvo)
+    spa: polaco (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Polska + -sa
+...

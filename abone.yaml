@@ -1,0 +1,77 @@
+---
+term: abone
+slug: abone
+ipa: aˈbone
+ipa link: http://ipa-reader.xyz/?text=aˈbone&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - subscription
+  - - subscribe
+  epo:
+  - - abono
+  - - aboni
+  spa:
+  - - suscripción
+    - abono
+  - - suscribirse
+    - abonarse
+search terms:
+  glb:
+  - abone
+  eng:
+  - subscription
+  - subscribe
+  epo:
+  - abono
+  - aboni
+  spa:
+  - suscripción
+  - abono
+  - suscribirse
+  - abonarse
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - abono
+  Fransesa:
+  - - abonnement
+  - - abonner
+  - - abonné
+  Rusisa:
+  - - абонемент "abonement"
+  Doycisa:
+  - - Abonnement
+  Indonesisa:
+  - - abonemen
+  - - abone
+  Turkisa:
+  - - abonelik
+    - abonman
+    - abone
+  Parsisa:
+  - - آبونمان "âbonmân"
+raw data:
+  term: abone
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: subscription; subscribe
+    epo: abono; aboni
+    spa: suscripción, abono; suscribirse, abonarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (abono), Fransesa (abonnement; abonner; abonné), Rusisa (абонемент
+    "abonement"), Doycisa (Abonnement), Indonesisa (abonemen; abone), Turkisa (abonelik,
+    abonman, abone), Parsisa (آبونمان "âbonmân")
+...

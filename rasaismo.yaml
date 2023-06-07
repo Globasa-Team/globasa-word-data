@@ -1,0 +1,46 @@
+---
+term: rasaismo
+slug: rasaismo
+ipa: "\u027Easa\u02C8ismo"
+ipa link: "http://ipa-reader.xyz/?text=\u027Easa\u02C8ismo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - racism
+  epo:
+  - - rasismo
+  spa:
+  - - racismo
+search terms:
+  glb:
+  - rasaismo
+  eng:
+  - racism
+  epo:
+  - rasismo
+  spa:
+  - racismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/rasa">rasa</a> + <a href="../lexi/-ismo">-ismo</a>
+raw data:
+  term: rasaismo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: racism
+    epo: rasismo
+    spa: racismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: rasa + -ismo
+...

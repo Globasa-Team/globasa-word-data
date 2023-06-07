@@ -1,0 +1,48 @@
+---
+term: in-
+slug: in-
+ipa: "\u02C8in-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8in-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - in-
+  epo:
+  - - en-
+  spa:
+  - - en
+    - dentro de
+search terms:
+  glb:
+  - in-
+  eng:
+  - in-
+  epo:
+  - en-
+  spa:
+  - en
+  - dentro de
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/in">in</a>.
+raw data:
+  term: in-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: in-
+    epo: en-
+    spa: en, dentro de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _in_.
+...

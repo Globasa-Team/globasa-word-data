@@ -1,0 +1,71 @@
+---
+term: broxa
+slug: broxa
+ipa: ˈbɾoʃa
+ipa link: http://ipa-reader.xyz/?text=ˈbɾoʃa&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - brush
+  epo:
+  - - broso
+  spa:
+  - - cepillo
+    - brocha
+search terms:
+  glb:
+  - broxa
+  eng:
+  - brush
+  epo:
+  - broso
+  spa:
+  - cepillo
+  - brocha
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - brush
+  Espanisa:
+  - - brocha
+  Fransesa:
+  - - brosse
+  Doycisa:
+  - - Bürste
+  Niponsa:
+  - - ブラシ “burashi”
+  Hangusa:
+  - - 브러시 “beureosi”
+  Hindisa:
+  - - ब्रश “braś”
+  Telugusa:
+  - - బ్రష్ “braṣ”
+  Swahilisa:
+  - - burashi
+    - brashi
+  Parsisa:
+  - - برس‎ “boros”
+raw data:
+  term: broxa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: brush
+    epo: broso
+    spa: cepillo, brocha
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (brush), Espanisa (brocha), Fransesa (brosse), Doycisa (Bürste),
+    Niponsa (ブラシ “burashi”), Hangusa (브러시 “beureosi”), Hindisa (ब्रश “braś”), Telugusa
+    (బ్రష్ “braṣ”), Swahilisa (burashi, brashi), Parsisa (برس‎ “boros”)
+...

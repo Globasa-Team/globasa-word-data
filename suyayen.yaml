@@ -1,0 +1,46 @@
+---
+term: suyayen
+slug: suyayen
+ipa: "suja\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=suja\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - owner
+  epo:
+  - - posedanto
+  spa:
+  - - poseedor
+search terms:
+  glb:
+  - suyayen
+  eng:
+  - owner
+  epo:
+  - posedanto
+  spa:
+  - poseedor
+etymology_type: DERIVD
+etymology: <a href="../lexi/su">su</a> + <a href="../lexi/-ya">-ya</a> + <a href="../lexi/yen">yen</a>
+raw data:
+  term: suyayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: owner
+    epo: posedanto
+    spa: poseedor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: su + -ya + yen
+...

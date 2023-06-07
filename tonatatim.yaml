@@ -1,0 +1,48 @@
+---
+term: tonatatim
+slug: tonatatim
+ipa: "tonata\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=tonata\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - assembly
+  epo:
+  - - kunveno
+    - kunvenantaro
+  spa:
+  - - asamblea
+search terms:
+  glb:
+  - tonatatim
+  eng:
+  - assembly
+  epo:
+  - kunveno
+  - kunvenantaro
+  spa:
+  - asamblea
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton-">ton-</a> + <a href="../lexi/ata">ata</a> + <a href="../lexi/-tim">-tim</a>
+raw data:
+  term: tonatatim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'assembly '
+    epo: kunveno, kunvenantaro
+    spa: asamblea
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton- + ata + -tim
+...

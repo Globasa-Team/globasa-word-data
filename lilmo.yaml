@@ -1,0 +1,59 @@
+---
+term: lilmo
+slug: lilmo
+ipa: "\u02C8lilmo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lilmo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - (a) little (_of degree
+    - rather than quantity_)
+    - (a) little bit
+  epo:
+  - - iomete
+    - ete
+  spa:
+  - - un poco (_de grado
+    - no de cantidad_)
+search terms:
+  glb:
+  - lilmo
+  eng:
+  - a little of degree
+  - little (_of degree
+  - rather than quantity
+  - a little bit
+  - little bit
+  epo:
+  - iomete
+  - ete
+  spa:
+  - un poco de grado
+  - un poco (_de grado
+  - no de cantidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/-mo">-mo</a>
+antonyms:
+- daymo
+raw data:
+  term: lilmo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: (a) little (_of degree, rather than quantity_), (a) little bit
+    epo: iomete, ete
+    spa: un poco (_de grado, no de cantidad_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: daymo
+  example: ""
+  tags: ""
+  etymology: lil- + -mo
+...

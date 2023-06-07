@@ -1,0 +1,53 @@
+---
+term: jileko
+slug: jileko
+ipa: "d\u0361\u0292i\u02C8leko"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i\u02C8leko&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - waistcoat
+    - vest
+    - gilet
+  epo:
+  - - "ve\u015Dto"
+  spa:
+  - - chaleco
+search terms:
+  glb:
+  - jileko
+  eng:
+  - waistcoat
+  - vest
+  - gilet
+  epo:
+  - "ve\u015Dto"
+  spa:
+  - chaleco
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jileko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: waistcoat, vest, gilet
+    epo: "ve\u015Dto"
+    spa: chaleco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (gilet), Espanisa (chaleco), Fransesa (gilet), Rusisa (\u0436\u0438\u043B\u0435\u0442
+    \"jilet\"), Doycisa (Gilet), Pilipinasa (tsaleko), Masrili Arabisa (\u0686\u064A\u0644\u064A\u0647
+    \"jileh\"), Turkisa (yelek), Vyetnamsa (gi-l\xEA), Parsisa (\u0698\u06CC\u0644\u0647
+    \"jile\", \u062C\u0644\u06CC\u0642\u0647 \"jelike\")"
+...

@@ -1,0 +1,50 @@
+---
+term: kampuciyen
+slug: kampuciyen
+ipa: "kamput\u0361\u0283i\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=kamput\u0361\u0283i\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Khmer
+    - Cambodian
+  epo:
+  - - kmero
+    - "kambo\u011Dano"
+  spa:
+  - - camboyano (_persona_)
+search terms:
+  glb:
+  - kampuciyen
+  eng:
+  - khmer
+  - cambodian
+  epo:
+  - kmero
+  - "kambo\u011Dano"
+  spa:
+  - camboyano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kampuci">Kampuci</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Kampuciyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'Khmer, Cambodian '
+    epo: "kmero, kambo\u011Dano"
+    spa: camboyano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kampuci + -yen
+...

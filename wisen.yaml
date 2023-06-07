@@ -1,0 +1,55 @@
+---
+term: wisen
+slug: wisen
+ipa: "wi\u02C8sen"
+ipa link: "http://ipa-reader.xyz/?text=wi\u02C8sen&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hygiene
+  epo:
+  - - higieno
+  spa:
+  - - higiene
+search terms:
+  glb:
+  - wisen
+  eng:
+  - hygiene
+  epo:
+  - higieno
+  spa:
+  - higiene
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u536B\u751F \u201Cweyxeng\u201D"
+  Niponsa:
+  - - "\u885B\u751F \u201Ceysey\u201D"
+  Hangusa:
+  - - "\uC704\uC0DD \u201Cwiseng\u201D"
+  Vyetnamsa:
+  - - "v\u1EC7 sinh"
+raw data:
+  term: wisen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hygiene
+    epo: higieno
+    spa: higiene
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u536B\u751F \u201Cweyxeng\u201D), Niponsa (\u885B\u751F \u201Ceysey\u201D),
+    Hangusa (\uC704\uC0DD \u201Cwiseng\u201D), Vyetnamsa (v\u1EC7 sinh)"
+...

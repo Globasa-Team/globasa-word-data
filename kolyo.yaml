@@ -1,0 +1,61 @@
+---
+term: kolyo
+slug: kolyo
+ipa: "\u02C8koljo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8koljo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - consideration
+  - - consider
+    - take into consideration
+    - take into account
+  epo:
+  - - konsidero
+  - - konsideri
+  spa:
+  - - "consideraci\xF3n"
+  - - considerar
+    - tener en cuenta
+    - tomar en cuenta
+search terms:
+  glb:
+  - kolyo
+  eng:
+  - consideration
+  - consider
+  - take into consideration
+  - take into account
+  epo:
+  - konsidero
+  - konsideri
+  spa:
+  - "consideraci\xF3n"
+  - considerar
+  - tener en cuenta
+  - tomar en cuenta
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kolyo
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: consideration; consider, take into consideration, take into account
+    epo: konsidero; konsideri
+    spa: "consideraci\xF3n; considerar, tener en cuenta, tomar en cuenta"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u8003\u8651 \u201Ck\u01CEol\u01DC\u201D), Niponsa (\u8003\u616E
+    \u201Ck\u014Dryo\u201D), Hangusa (\uACE0\uB824 \u201Cgolyeo\u201D)"
+...

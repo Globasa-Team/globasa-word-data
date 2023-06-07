@@ -1,0 +1,46 @@
+---
+term: kwas
+slug: kwas
+ipa: kwas
+ipa link: http://ipa-reader.xyz/?text=kwas&voice=Ewa
+status: true
+category: root
+word class: l
+trans:
+  eng:
+  - - as if
+  epo:
+  - - "kvaza\u016D"
+  spa:
+  - - como si
+search terms:
+  glb:
+  - kwas
+  eng:
+  - as if
+  epo:
+  - "kvaza\u016D"
+  spa:
+  - como si
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: kwas
+  category: root
+  word class: l
+  status: true
+  trans:
+    eng: as if
+    epo: "kvaza\u016D"
+    spa: como si
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: as if, as, if
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _kwasi_.
+...

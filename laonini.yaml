@@ -1,0 +1,54 @@
+---
+term: laonini
+slug: laonini
+ipa: "lao\u02C8nini"
+ipa link: "http://ipa-reader.xyz/?text=lao\u02C8nini&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - teen
+    - teenager
+    - adolescent
+  epo:
+  - - adoleskanto
+    - dekkelkjarulo
+  spa:
+  - - joven
+    - adolescente
+search terms:
+  glb:
+  - laonini
+  eng:
+  - teen
+  - teenager
+  - adolescent
+  epo:
+  - adoleskanto
+  - dekkelkjarulo
+  spa:
+  - joven
+  - adolescente
+etymology_type: DERIVD
+etymology: <a href="../lexi/lao-">lao-</a> + <a href="../lexi/nini">nini</a>
+raw data:
+  term: laonini
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: teen, teenager, adolescent
+    epo: adoleskanto, dekkelkjarulo
+    spa: joven, adolescente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lao- + nini
+...

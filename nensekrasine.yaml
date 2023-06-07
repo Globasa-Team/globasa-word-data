@@ -1,0 +1,53 @@
+---
+term: nensekrasine
+slug: nensekrasine
+ipa: "nensek\u027Ea\u02C8sine"
+ipa link: "http://ipa-reader.xyz/?text=nensek\u027Ea\u02C8sine&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - non-self-governing
+  epo:
+  - - malmemreganta
+    - "mala\u016Dtonoma"
+  - - malmemregante
+    - "mala\u016Dtonome"
+  spa:
+  - - "no aut\xF3nomo"
+search terms:
+  glb:
+  - nensekrasine
+  eng:
+  - non-self-governing
+  epo:
+  - malmemreganta
+  - "mala\u016Dtonoma"
+  - malmemregante
+  - "mala\u016Dtonome"
+  spa:
+  - "no aut\xF3nomo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/se-">se-</a> + <a href="../lexi/krasi">krasi</a>
+  + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: nensekrasine
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: non-self-governing
+    epo: "malmemreganta, mala\u016Dtonoma; malmemregante, mala\u016Dtonome"
+    spa: "no aut\xF3nomo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + se- + krasi + -ne
+...

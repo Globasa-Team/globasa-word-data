@@ -1,0 +1,54 @@
+---
+term: ner fe
+slug: ner fe
+ipa: "\u02C8ne\u027E fe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ne\u027E fe&voice=Ewa"
+status: false
+category: phrase
+word class: p
+trans:
+  eng:
+  - - near
+    - close to
+    - approximately
+  epo:
+  - - proksime de
+    - proksime al
+  spa:
+  - - cerca de
+search terms:
+  glb:
+  - ner fe
+  - ner
+  - fe
+  eng:
+  - near
+  - close to
+  - approximately
+  epo:
+  - proksime de
+  - proksime al
+  spa:
+  - cerca de
+etymology_type: DERIVD
+etymology: <a href="../lexi/ner">ner</a>, <a href="../lexi/fe">fe</a>
+raw data:
+  term: ner fe
+  category: phrase
+  word class: p
+  status: false
+  trans:
+    eng: near, close to, approximately
+    epo: proksime de, proksime al
+    spa: cerca de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ner, fe
+...

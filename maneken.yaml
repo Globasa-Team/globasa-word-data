@@ -1,0 +1,50 @@
+---
+term: maneken
+slug: maneken
+ipa: "mane\u02C8ken"
+ipa link: "http://ipa-reader.xyz/?text=mane\u02C8ken&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mannequin
+  epo:
+  - - manekeno
+  spa:
+  - - "maniqu\xED"
+search terms:
+  glb:
+  - maneken
+  eng:
+  - mannequin
+  epo:
+  - manekeno
+  spa:
+  - "maniqu\xED"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: maneken
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: mannequin
+    epo: manekeno
+    spa: "maniqu\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mannequin), Espanisa (maniqu\xED), Fransesa (mannequin), Rusisa
+    (\u043C\u0430\u043C\u0435\u043A\u0435\u043D \"maneken\"), Indonesisa (maneken),
+    Arabisa (\u0645\u064E\u0627\u0646\u0650\u064A\u0643\u064E\u0627\u0646 \"manikan\"),
+    Turkisa (manken), Vyetnamsa (ma-n\u01A1-canh), Hangusa (\uB9C8\uB124\uD0B9 \"maneking\"),
+    Parsisa (\u0645\u0627\u0646\u06A9\u0646 \"m\xE2nkan\")"
+...

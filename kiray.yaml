@@ -1,0 +1,55 @@
+---
+term: kiray
+slug: kiray
+ipa: "ki\u02C8\u027Eaj"
+ipa link: "http://ipa-reader.xyz/?text=ki\u02C8\u027Eaj&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - rent
+  epo:
+  - - luo
+  - - lui
+  spa:
+  - - renta
+    - alquiler
+  - - rentar
+    - alquilar
+search terms:
+  glb:
+  - kiray
+  eng:
+  - rent
+  epo:
+  - luo
+  - lui
+  spa:
+  - renta
+  - alquiler
+  - rentar
+  - alquilar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kiray
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: rent
+    epo: luo; lui
+    spa: renta, alquiler; rentar, alquilar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0915\u093F\u0930\u093E\u092F\u093E \u201Ckiraya\u201D), Turkisa
+    (kira)"
+...

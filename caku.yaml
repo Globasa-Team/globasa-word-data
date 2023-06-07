@@ -1,0 +1,61 @@
+---
+term: caku
+slug: caku
+ipa: ˈt͡ʃaku
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃaku&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chalk
+  epo:
+  - - kreto
+  spa:
+  - - tiza
+    - gis
+    - creta
+search terms:
+  glb:
+  - caku
+  eng:
+  - chalk
+  epo:
+  - kreto
+  spa:
+  - tiza
+  - gis
+  - creta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - chalk
+  Hindisa:
+  - - चाक “cak”
+  Niponsa:
+  - - チョーク “coku”
+  Swahilisa:
+  - - chaki
+tags:
+- petra
+raw data:
+  term: caku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chalk
+    epo: kreto
+    spa: tiza, gis, creta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: Englisa (chalk), Hindisa (चाक “cak”), Niponsa (チョーク “coku”), Swahilisa
+    (chaki)
+...

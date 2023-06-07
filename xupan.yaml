@@ -1,0 +1,61 @@
+---
+term: xupan
+slug: xupan
+ipa: "\u0283u\u02C8pan"
+ipa link: "http://ipa-reader.xyz/?text=\u0283u\u02C8pan&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - publication
+  - - publish
+  epo:
+  - - "publika\u0135o"
+  - - publikigi
+  spa:
+  - - "publicaci\xF3n"
+  - - publicar
+search terms:
+  glb:
+  - xupan
+  eng:
+  - publication
+  - publish
+  epo:
+  - "publika\u0135o"
+  - publikigi
+  spa:
+  - "publicaci\xF3n"
+  - publicar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u51FA\u7248 \u201Ccuban\u201D"
+  Niponsa:
+  - - "\u51FA\u7248 \u201Cxupan\u201D"
+  Hangusa:
+  - - "\uCD9C\uD310 \u201Cculpan\u201D"
+  Vyetnamsa:
+  - - "xu\u1EA5t b\u1EA3n"
+raw data:
+  term: xupan
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: publication; publish
+    epo: "publika\u0135o; publikigi"
+    spa: "publicaci\xF3n; publicar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u51FA\u7248 \u201Ccuban\u201D), Niponsa (\u51FA\u7248 \u201Cxupan\u201D),
+    Hangusa (\uCD9C\uD310 \u201Cculpan\u201D), Vyetnamsa (xu\u1EA5t b\u1EA3n)"
+...

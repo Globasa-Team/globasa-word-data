@@ -1,0 +1,63 @@
+---
+term: xirani
+slug: xirani
+ipa: "\u0283i\u02C8\u027Eani"
+ipa link: "http://ipa-reader.xyz/?text=\u0283i\u02C8\u027Eani&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - louse
+    - lice
+    - _Phthiraptera_
+  epo:
+  - - pediko
+  spa:
+  - - piojo
+    - _Phthiraptera_
+search terms:
+  glb:
+  - xirani
+  eng:
+  - louse
+  - lice
+  - phthiraptera
+  epo:
+  - pediko
+  spa:
+  - piojo
+  - phthiraptera
+etymology_type: NATLNG
+etymology:
+  Niponsa:
+  - - "\u8671 \u201Cshirami\u201D"
+  Putunhwa:
+  - - "\u8671 \u201Csh\u012B\u201D"
+  Vyetnamsa:
+  - - "ch\u1EA5y"
+    - "r\u1EADn"
+tags:
+- hewan
+- koncun
+raw data:
+  term: xirani
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: louse, lice, _Phthiraptera_
+    epo: pediko
+    spa: piojo, _Phthiraptera_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan, koncun
+  etymology: "Niponsa (\u8671 \u201Cshirami\u201D), Putunhwa (\u8671 \u201Csh\u012B\u201D),
+    Vyetnamsa (ch\u1EA5y, r\u1EADn)"
+...

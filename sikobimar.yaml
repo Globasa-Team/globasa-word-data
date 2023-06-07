@@ -1,0 +1,48 @@
+---
+term: sikobimar
+slug: sikobimar
+ipa: "sikobi\u02C8ma\u027E"
+ipa link: "http://ipa-reader.xyz/?text=sikobi\u02C8ma\u027E&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - mentally ill
+  epo:
+  - - mensmalsana
+  - - mensmalsane
+  spa:
+  - - enfermo mental
+search terms:
+  glb:
+  - sikobimar
+  eng:
+  - mentally ill
+  epo:
+  - mensmalsana
+  - mensmalsane
+  spa:
+  - enfermo mental
+etymology_type: DERIVD
+etymology: <a href="../lexi/siko">siko</a> + <a href="../lexi/-bimar">-bimar</a>
+raw data:
+  term: sikobimar
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: mentally ill
+    epo: mensmalsana; mensmalsane
+    spa: enfermo mental
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: siko + -bimar
+...

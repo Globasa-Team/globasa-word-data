@@ -1,0 +1,57 @@
+---
+term: kulube
+slug: kulube
+ipa: "ku\u02C8lube"
+ipa link: "http://ipa-reader.xyz/?text=ku\u02C8lube&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cabin
+    - hut
+  epo:
+  - - kabano
+    - "\u0125ato"
+  spa:
+  - - "caba\xF1a"
+search terms:
+  glb:
+  - kulube
+  eng:
+  - cabin
+  - hut
+  epo:
+  - kabano
+  - "\u0125ato"
+  spa:
+  - "caba\xF1a"
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - "\u0445\u0430\u043B\u0443\u043F\u0430 \"halupa\""
+  Turkisa:
+  - - "kul\xFCbe"
+  Parsisa:
+  - - "\u06A9\u0644\u0628\u0647 \"kolbe\""
+raw data:
+  term: kulube
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: cabin, hut
+    epo: "kabano, \u0125ato"
+    spa: "caba\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Rusisa (\u0445\u0430\u043B\u0443\u043F\u0430 \"halupa\"), Turkisa (kul\xFCbe),
+    Parsisa (\u06A9\u0644\u0628\u0647 \"kolbe\")"
+...

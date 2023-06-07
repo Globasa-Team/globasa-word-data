@@ -1,0 +1,61 @@
+---
+term: atre
+slug: atre
+ipa: ˈatɾe
+ipa link: http://ipa-reader.xyz/?text=ˈatɾe&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - parent
+  epo:
+  - - patro
+    - patrino
+    - gepatroj
+  - - patri
+    - patrini
+  spa:
+  - - tutor
+    - madre
+    - padre
+search terms:
+  glb:
+  - atre
+  eng:
+  - parent
+  epo:
+  - patro
+  - patrino
+  - gepatroj
+  - patri
+  - patrini
+  spa:
+  - tutor
+  - madre
+  - padre
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/matre">matre</a>, <a href="../lexi/patre">patre</a>.
+tags:
+- famil
+- insan
+raw data:
+  term: atre
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: parent
+    epo: patro, patrino, gepatroj; patri, patrini
+    spa: tutor, madre, padre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: famil, insan
+  etymology: Am oko _matre_, _patre_.
+...

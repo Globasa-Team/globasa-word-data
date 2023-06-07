@@ -1,0 +1,60 @@
+---
+term: farina
+slug: farina
+ipa: faˈɾina
+ipa link: http://ipa-reader.xyz/?text=faˈɾina&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - flour
+  epo:
+  - - faruno
+  spa:
+  - - harina
+search terms:
+  glb:
+  - farina
+  eng:
+  - flour
+  epo:
+  - faruno
+  spa:
+  - harina
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - harina
+  Fransesa:
+  - - farine
+  Pilipinasa:
+  - - harina
+    - arina
+  Portugalsa:
+  - - farinha
+  Italisa:
+  - - farina
+tags:
+- yamxey
+raw data:
+  term: farina
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: flour
+    epo: faruno
+    spa: harina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Espanisa (harina), Fransesa (farine), Pilipinasa (harina, arina), Portugalsa
+    (farinha), Italisa (farina)
+...

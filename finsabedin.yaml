@@ -1,0 +1,47 @@
+---
+term: finsabedin
+slug: finsabedin
+ipa: "finsabe\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=finsabe\u02C8din&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - weekend
+  epo:
+  - - semajnfino
+  spa:
+  - - fin de semana
+search terms:
+  glb:
+  - finsabedin
+  eng:
+  - weekend
+  epo:
+  - semajnfino
+  spa:
+  - fin de semana
+etymology_type: DERIVD
+etymology: <a href="../lexi/fin-">fin-</a> + <a href="../lexi/sabe">sabe</a> + <a
+  href="../lexi/-din">-din</a>
+raw data:
+  term: finsabedin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: weekend
+    epo: semajnfino
+    spa: fin de semana
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fin- + sabe + -din
+...

@@ -1,0 +1,55 @@
+---
+term: nigalu
+slug: nigalu
+ipa: "ni\u02C8galu"
+ipa link: "http://ipa-reader.xyz/?text=ni\u02C8galu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - swallow
+  epo:
+  - - gluto
+  - - gluti
+  spa:
+  - - trago
+  - - tragar
+search terms:
+  glb:
+  - nigalu
+  eng:
+  - swallow
+  epo:
+  - gluto
+  - gluti
+  spa:
+  - trago
+  - tragar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0928\u093F\u0917\u0932 \u201Cnigal\u201D"
+  Karnatakasa:
+  - - "\u0CA8\u0CC1\u0C82\u0C97\u0CB2\u0CC1 \u201Cnu\u1E45galu\u201D"
+raw data:
+  term: nigalu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: swallow
+    epo: gluto; gluti
+    spa: trago; tragar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0928\u093F\u0917\u0932 \u201Cnigal\u201D), Karnatakasa (\u0CA8\u0CC1\u0C82\u0C97\u0CB2\u0CC1
+    \u201Cnu\u1E45galu\u201D)"
+...

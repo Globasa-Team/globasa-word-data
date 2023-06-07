@@ -1,0 +1,84 @@
+---
+term: gorila
+slug: gorila
+ipa: goˈɾila
+ipa link: http://ipa-reader.xyz/?text=goˈɾila&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gorilla
+  epo:
+  - - gorilo
+  spa:
+  - - gorila
+    - _Gorillini_
+search terms:
+  glb:
+  - gorila
+  eng:
+  - gorilla
+  epo:
+  - gorilo
+  spa:
+  - gorila
+  - gorillini
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gorilla
+  Fransesa:
+  - - gorille
+  Doycisa:
+  - - Gorilla
+  Rusisa:
+  - - горилла “gorilla”
+  Espanisa:
+  - - gorila
+  Indonesisa:
+  - - gorila
+  Pilipinasa:
+  - - gorilya
+  Niponsa:
+  - - ゴリラ “gorira”
+  Hangusa:
+  - - 고릴라 “gorilla”
+  Vyetnamsa:
+  - - gôrila
+  Hindisa:
+  - - गोरिल्ला “gorillā”
+  Telugusa:
+  - - గొరిల్లా “gorillā”
+  Arabisa:
+  - - غوريلا “ḡūrīlā”
+  Parsisa:
+  - - گوریل “goril”
+  Turkisa:
+  - - goril
+tags:
+- hewan
+raw data:
+  term: gorila
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gorilla
+    epo: gorilo
+    spa: gorila, _Gorillini_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (gorilla), Fransesa (gorille), Doycisa (Gorilla), Rusisa (горилла
+    “gorilla”), Espanisa (gorila), Indonesisa (gorila), Pilipinasa (gorilya), Niponsa
+    (ゴリラ “gorira”), Hangusa (고릴라 “gorilla”), Vyetnamsa (gôrila), Hindisa (गोरिल्ला
+    “gorillā”), Telugusa (గొరిల్లా “gorillā”), Arabisa (غوريلا “ḡūrīlā”), Parsisa
+    (گوریل “goril”), Turkisa (goril)
+...

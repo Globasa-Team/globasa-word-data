@@ -1,0 +1,48 @@
+---
+term: neoklasiko
+slug: neoklasiko
+ipa: "neokla\u02C8siko"
+ipa link: "http://ipa-reader.xyz/?text=neokla\u02C8siko&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - neoclassical
+  epo:
+  - - novklasika
+  - - novklasike
+  spa:
+  - - "neocl\xE1sico"
+search terms:
+  glb:
+  - neoklasiko
+  eng:
+  - neoclassical
+  epo:
+  - novklasika
+  - novklasike
+  spa:
+  - "neocl\xE1sico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/neo-">neo-</a> + <a href="../lexi/klasiko">klasiko</a>
+raw data:
+  term: neoklasiko
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: neoclassical
+    epo: novklasika; novklasike
+    spa: "neocl\xE1sico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: neo- + klasiko
+...

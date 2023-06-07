@@ -1,0 +1,65 @@
+---
+term: estato
+slug: estato
+ipa: esˈtato
+ipa link: http://ipa-reader.xyz/?text=esˈtato&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - state
+    - province
+  epo:
+  - - ŝtato
+    - provinco
+  spa:
+  - - estado
+    - provincia
+search terms:
+  glb:
+  - estato
+  eng:
+  - state
+  - province
+  epo:
+  - ŝtato
+  - provinco
+  spa:
+  - estado
+  - provincia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - state
+  Fransesa:
+  - - état
+  Doycisa:
+  - - Staat
+  Rusisa:
+  - - штат “xtat”
+  Espanisa:
+  - - estado
+  Hindi:
+  - - स्टेट “stet”
+raw data:
+  term: estato
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: state, province
+    epo: ŝtato, provinco
+    spa: estado, provincia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (state), Fransesa (état), Doycisa (Staat), Rusisa (штат “xtat”),
+    Espanisa (estado), Hindi (स्टेट “stet”)
+...

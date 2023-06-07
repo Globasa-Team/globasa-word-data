@@ -1,0 +1,47 @@
+---
+term: ofatagilexi
+slug: ofatagilexi
+ipa: "ofatagi\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=ofatagi\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - derived word
+  epo:
+  - - devenigita vorto
+  spa:
+  - - palabra derivada
+search terms:
+  glb:
+  - ofatagilexi
+  eng:
+  - derived word
+  epo:
+  - devenigita vorto
+  spa:
+  - palabra derivada
+etymology_type: DERIVD
+etymology: <a href="../lexi/of-">of-</a> + <a href="../lexi/ata">ata</a> + <a href="../lexi/-gi">-gi</a>
+  + <a href="../lexi/-lexi">-lexi</a>
+raw data:
+  term: ofatagilexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: derived word
+    epo: devenigita vorto
+    spa: palabra derivada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: of- + ata + -gi + -lexi
+...

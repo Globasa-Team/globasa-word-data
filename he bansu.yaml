@@ -1,0 +1,50 @@
+---
+term: he bansu
+slug: he bansu
+ipa: "\u02C8xe \u02C8bansu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8bansu&voice=Ewa"
+status: false
+category: phrase
+word class: su s
+trans:
+  eng:
+  - - anybody's
+    - anyone's
+  epo:
+  - - ies ajn
+  spa:
+  - - de quien sea
+search terms:
+  glb:
+  - he bansu
+  - he
+  - bansu
+  eng:
+  - anybody's
+  - anyone's
+  epo:
+  - ies ajn
+  spa:
+  - de quien sea
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/ban">ban</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: he bansu
+  category: phrase
+  word class: su s
+  status: false
+  trans:
+    eng: anybody's, anyone's
+    epo: ies ajn
+    spa: de quien sea
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, ban + -su
+...

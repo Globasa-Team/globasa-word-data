@@ -1,0 +1,56 @@
+---
+term: hidrogen
+slug: hidrogen
+ipa: "xid\u027Eo\u02C8gen"
+ipa link: "http://ipa-reader.xyz/?text=xid\u027Eo\u02C8gen&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hydrogen
+  epo:
+  - - hidrogeno
+  spa:
+  - - "hidr\xF3geno"
+    - H
+search terms:
+  glb:
+  - hidrogen
+  eng:
+  - hydrogen
+  epo:
+  - hidrogeno
+  spa:
+  - "hidr\xF3geno"
+  - h
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: hidrogen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hydrogen
+    epo: hidrogeno
+    spa: "hidr\xF3geno, H"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (hydrogen), Fransesa (hydrog\xE8ne), Doycisa (Hydrogen, Hydrogenium),
+    Espanisa (hidr\xF3geno), Indonesisa (hidrogen), Pilipinasa (idroheno, idrohino),
+    Vyetnamsa (hi\u0111r\xF4, hy\u0111r\xF4), Hindisa (\u0939\u093E\u0907\u0921\u094D\u0930\u094B\u091C\u0928
+    \u201Chaydrojan\u201D), Parsisa (\u0647\u06CC\u062F\u0631\u0648\u0698\u0646 \u201Chidro\u017Een\u201D),
+    Turkisa (hidrojen), Arabisa (\u0647\u0650\u064A\u062F\u0652\u0631\u064F\u0648\u062C\u0650\u064A\u0646
+    \u201Chidrojen\u201D, \u0647\u064E\u064A\u0652\u062F\u0652\u0631\u064F\u0648\u062C\u0650\u064A\u0646
+    \u201Chaydrojin\u201D), Swahilisa (hidrojeni)"
+...

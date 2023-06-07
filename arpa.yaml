@@ -1,0 +1,75 @@
+---
+term: arpa
+slug: arpa
+ipa: ˈaɾpa
+ipa link: http://ipa-reader.xyz/?text=ˈaɾpa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - harp
+  epo:
+  - - harpo
+  spa:
+  - - arpa
+search terms:
+  glb:
+  - arpa
+  eng:
+  - harp
+  epo:
+  - harpo
+  spa:
+  - arpa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - harp
+  Espanisa:
+  - - arpa
+  Fransesa:
+  - - harpe
+  Rusisa:
+  - - арфа “arfa”
+  Doycisa:
+  - - Harfe
+  Indonesisa:
+  - - harpa
+  Pilipinasa:
+  - - alpa
+  Hindisa:
+  - - हार्प “harpa”
+  Niponsa:
+  - - ハープ “hapu”
+  Telugusa:
+  - - హార్ప్ “harp”
+  Turkisa:
+  - - arp
+  Hangusa:
+  - - 하프 “hapu”
+  Vyetnamsa:
+  - - đàn harp
+raw data:
+  term: arpa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: harp
+    epo: harpo
+    spa: arpa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (harp), Espanisa (arpa), Fransesa (harpe), Rusisa (арфа “arfa”),
+    Doycisa (Harfe), Indonesisa (harpa), Pilipinasa (alpa), Hindisa (हार्प “harpa”),
+    Niponsa (ハープ “hapu”), Telugusa (హార్ప్ “harp”), Turkisa (arp), Hangusa (하프 “hapu”),
+    Vyetnamsa (đàn harp)
+...

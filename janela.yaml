@@ -1,0 +1,48 @@
+---
+term: janela
+slug: janela
+ipa: "d\u0361\u0292a\u02C8nela"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8nela&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - window
+  epo:
+  - - fenestro
+  spa:
+  - - ventana
+search terms:
+  glb:
+  - janela
+  eng:
+  - window
+  epo:
+  - fenestro
+  spa:
+  - ventana
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: janela
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: window
+    epo: fenestro
+    spa: ventana
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Portugalsa (janela), Indonesisa (jendela), Banglasa (\u099C\u09BE\u09A8\u09B2\u09BE
+    \ \u201Cj\u0101nal\u0101\u201D), Tamilsa (\u0B9C\u0BA9\u0BCD\u0BA9\u0BB2\u0BCD
+    \u201Cja\u1E49\u1E49al\u201D)"
+...

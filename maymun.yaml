@@ -1,0 +1,52 @@
+---
+term: maymun
+slug: maymun
+ipa: "maj\u02C8mun"
+ipa link: "http://ipa-reader.xyz/?text=maj\u02C8mun&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - monkey
+  epo:
+  - - simio
+  spa:
+  - - mono
+    - _Simiiformes_
+search terms:
+  glb:
+  - maymun
+  eng:
+  - monkey
+  epo:
+  - simio
+  spa:
+  - mono
+  - simiiformes
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: maymun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: monkey
+    epo: simio
+    spa: mono, _Simiiformes_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Arabisa (\u0645\u064E\u064A\u0652\u0645\u064F\u0648\u0646 \u201Cmaym\u016Bn\u201D),
+    Parsisa (\u0645\u06CC\u0645\u0648\u0646 \u201Cmaymun\u201D), Turkisa (maymun),
+    Serbihervatskasa (\u043C\u0430\u0458\u043C\u0443\u043D, majmun)"
+...

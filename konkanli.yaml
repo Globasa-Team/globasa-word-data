@@ -1,0 +1,46 @@
+---
+term: konkanli
+slug: konkanli
+ipa: "kon\u02C8kanli"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8kanli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Konkani
+  epo:
+  - - konkana
+  spa:
+  - - konkani
+search terms:
+  glb:
+  - konkanli
+  eng:
+  - konkani
+  epo:
+  - konkana
+  spa:
+  - konkani
+etymology_type: DERIVD
+etymology: <a href="../lexi/Konkan">Konkan</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Konkanli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Konkani
+    epo: konkana
+    spa: konkani
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Konkan + -li
+...

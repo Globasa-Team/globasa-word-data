@@ -1,0 +1,46 @@
+---
+term: dosteya
+slug: dosteya
+ipa: "dos\u02C8teja"
+ipa link: "http://ipa-reader.xyz/?text=dos\u02C8teja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - friendship
+  epo:
+  - - amikeco
+  spa:
+  - - amistad
+search terms:
+  glb:
+  - dosteya
+  eng:
+  - friendship
+  epo:
+  - amikeco
+  spa:
+  - amistad
+etymology_type: DERIVD
+etymology: <a href="../lexi/doste">doste</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: dosteya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: friendship
+    epo: amikeco
+    spa: amistad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: doste + -ya
+...

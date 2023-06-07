@@ -1,0 +1,48 @@
+---
+term: labasgi
+slug: labasgi
+ipa: "la\u02C8basgi"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8basgi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - dress
+  epo:
+  - - vestado
+  - - vesti
+  spa:
+  - - vestir
+search terms:
+  glb:
+  - labasgi
+  eng:
+  - dress
+  epo:
+  - vestado
+  - vesti
+  spa:
+  - vestir
+etymology_type: DERIVD
+etymology: <a href="../lexi/labas">labas</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: labasgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: dress
+    epo: vestado; vesti
+    spa: vestir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: labas + -gi
+...

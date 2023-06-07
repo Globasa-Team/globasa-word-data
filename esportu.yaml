@@ -1,0 +1,64 @@
+---
+term: esportu
+slug: esportu
+ipa: esˈpoɾtu
+ipa link: http://ipa-reader.xyz/?text=esˈpoɾtu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sport
+  epo:
+  - - sporto
+  spa:
+  - - deporte
+search terms:
+  glb:
+  - esportu
+  eng:
+  - sport
+  epo:
+  - sporto
+  spa:
+  - deporte
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sport
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa:
+  - - спорт “sport”
+  Espanisa:
+  - - deporte
+  Hangusa:
+  - - 스포츠 “supocu”
+  Niponsa:
+  - - スポーツ “supotsu”
+  Hindisa:
+  - - स्पोर्ट “sport”
+  Swahilisa:
+  - - spoti
+raw data:
+  term: esportu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sport
+    epo: sporto
+    spa: deporte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (sport), Fransesa, Doycisa, Rusisa (спорт “sport”), Espanisa
+    (deporte), Hangusa (스포츠 “supocu”), Niponsa (スポーツ “supotsu”), Hindisa (स्पोर्ट
+    “sport”), Swahilisa (spoti)
+...

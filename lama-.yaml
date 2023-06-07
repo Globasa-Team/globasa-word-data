@@ -1,0 +1,52 @@
+---
+term: lama-
+slug: lama-
+ipa: "la\u02C8ma-"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8ma-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - ancient
+    - old
+  epo:
+  - - pra-
+    - malnova
+    - antikva
+  spa:
+  - - antiguo
+search terms:
+  glb:
+  - lama-
+  eng:
+  - ancient
+  - old
+  epo:
+  - pra-
+  - malnova
+  - antikva
+  spa:
+  - antiguo
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/lama">lama</a>.
+raw data:
+  term: lama-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: ancient, old
+    epo: pra-, malnova, antikva
+    spa: antiguo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _lama_.
+...

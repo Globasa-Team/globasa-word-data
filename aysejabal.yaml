@@ -1,0 +1,51 @@
+---
+term: aysejabal
+slug: aysejabal
+ipa: "ajsed\u0361\u0292a\u02C8bal"
+ipa link: "http://ipa-reader.xyz/?text=ajsed\u0361\u0292a\u02C8bal&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - iceberg
+  epo:
+  - - glacimonto
+  spa:
+  - - _iceberg_
+    - "t\xE9mpano (de hielo)"
+search terms:
+  glb:
+  - aysejabal
+  eng:
+  - iceberg
+  epo:
+  - glacimonto
+  spa:
+  - iceberg
+  - "t\xE9mpano de hielo"
+  - "t\xE9mpano"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ayse">ayse</a> + <a href="../lexi/jabal">jabal</a>
+tags:
+- xey
+raw data:
+  term: aysejabal
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: iceberg
+    epo: glacimonto
+    spa: "_iceberg_, t\xE9mpano (de hielo)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: xey
+  etymology: ayse + jabal
+...

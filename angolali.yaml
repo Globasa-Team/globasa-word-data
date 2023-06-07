@@ -1,0 +1,48 @@
+---
+term: angolali
+slug: angolali
+ipa: "ango\u02C8lali"
+ipa link: "http://ipa-reader.xyz/?text=ango\u02C8lali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Angolan
+  epo:
+  - - angola
+  - - angole
+  spa:
+  - - "angole\xF1o"
+search terms:
+  glb:
+  - angolali
+  eng:
+  - angolan
+  epo:
+  - angola
+  - angole
+  spa:
+  - "angole\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Angola">Angola</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Angolali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Angolan
+    epo: angola; angole
+    spa: "angole\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Angola + -li
+...

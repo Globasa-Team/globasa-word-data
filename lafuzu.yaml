@@ -1,0 +1,58 @@
+---
+term: lafuzu
+slug: lafuzu
+ipa: "la\u02C8fuzu"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8fuzu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - pronunciation
+  - - pronounce
+  epo:
+  - - elparolo
+    - prononco
+  - - elparoli
+    - prononci
+  spa:
+  - - "pronunciaci\xF3n"
+  - - pronunciar
+search terms:
+  glb:
+  - lafuzu
+  eng:
+  - pronunciation
+  - pronounce
+  epo:
+  - elparolo
+  - prononco
+  - elparoli
+  - prononci
+  spa:
+  - "pronunciaci\xF3n"
+  - pronunciar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lafuzu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: pronunciation; pronounce
+    epo: elparolo, prononco; elparoli, prononci
+    spa: "pronunciaci\xF3n; pronunciar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0644\u0641\u0638 \u201Clafaz\u201D, \u064A\u064E\u0644\u0652\u0641\u0650\u0638\u064F\u200E\u200E
+    \u201Cyalfi\u1E93u\u201D), Parsisa (\u062A\u0644\u0641\u0638 \u201Ctalafoz\u201D),
+    Turkisa (telaffuz)"
+...

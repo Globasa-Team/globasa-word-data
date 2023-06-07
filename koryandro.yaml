@@ -1,0 +1,54 @@
+---
+term: koryandro
+slug: koryandro
+ipa: "ko\u02C8\u027Ejand\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8\u027Ejand\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coriander
+    - cilantro
+  epo:
+  - - koriandro
+  spa:
+  - - cilantro
+    - _Coriandrum sativum_
+search terms:
+  glb:
+  - koryandro
+  eng:
+  - coriander
+  - cilantro
+  epo:
+  - koriandro
+  spa:
+  - cilantro
+  - coriandrum sativum
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: koryandro
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coriander, cilantro
+    epo: koriandro
+    spa: cilantro, _Coriandrum sativum_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Doycisa (Koriander), Englisa (coriander), Espanisa (coriandro), Fransesa
+    (coriandre), Rusisa (\u043A\u043E\u0440\u0438\u0430\u043D\u0434\u0440 \u201Ckoryandr\u201D),
+    Pilipinasa (koriandro), Niponsa ( \u30B3\u30EA\u30A2\u30F3\u30C0\u30FC \u201Ckorianda\u201D)"
+...

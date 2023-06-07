@@ -1,0 +1,52 @@
+---
+term: myanma
+slug: myanma
+ipa: "\u02C8mjanma"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mjanma&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Myanmar
+  epo:
+  - - Mjanmao
+    - Birmo
+  spa:
+  - - Birmania
+search terms:
+  glb:
+  - myanma
+  eng:
+  - myanmar
+  epo:
+  - mjanmao
+  - birmo
+  spa:
+  - birmania
+etymology_type: NATLNG
+etymology:
+  Myanmasa:
+  - - "\u1019\u103C\u1014\u103A\u1019\u102C \u201Cmyanma\u201D"
+tags:
+- dexa
+raw data:
+  term: Myanma
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Myanmar
+    epo: Mjanmao, Birmo
+    spa: Birmania
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Myanmasa (\u1019\u103C\u1014\u103A\u1019\u102C \u201Cmyanma\u201D)"
+...

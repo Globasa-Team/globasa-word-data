@@ -1,0 +1,61 @@
+---
+term: un
+slug: un
+ipa: "\u02C8un"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8un&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - one
+    - a
+  epo:
+  - - unu
+  spa:
+  - - uno
+search terms:
+  glb:
+  - un
+  eng:
+  - one
+  - a
+  epo:
+  - unu
+  spa:
+  - uno
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - one
+    - uni-
+    - an
+  Fransesa:
+  - - un
+  Doycisa:
+  - - ein
+  Espanisa:
+  - - un
+  Pilipinasa:
+  - - uno
+raw data:
+  term: un
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: one, a
+    epo: unu
+    spa: uno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (one, uni-, an), Fransesa (un), Doycisa (ein), Espanisa (un),
+    Pilipinasa (uno)
+...

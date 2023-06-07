@@ -1,0 +1,48 @@
+---
+term: xatu
+slug: xatu
+ipa: "\u02C8\u0283atu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283atu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sand
+  epo:
+  - - sablo
+  spa:
+  - - arena
+search terms:
+  glb:
+  - xatu
+  eng:
+  - sand
+  epo:
+  - sablo
+  spa:
+  - arena
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u7802\u571F \u201Csh\u0101 t\u01D4\u201D"
+raw data:
+  term: xatu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sand
+    epo: sablo
+    spa: arena
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u7802\u571F \u201Csh\u0101 t\u01D4\u201D)"
+...

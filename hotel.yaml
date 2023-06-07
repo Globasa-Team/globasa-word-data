@@ -1,0 +1,54 @@
+---
+term: hotel
+slug: hotel
+ipa: "xo\u02C8tel"
+ipa link: "http://ipa-reader.xyz/?text=xo\u02C8tel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hotel
+  epo:
+  - - hotelo
+  spa:
+  - - hotel
+search terms:
+  glb:
+  - hotel
+  eng:
+  - hotel
+  epo:
+  - hotelo
+  spa:
+  - hotel
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- dom
+raw data:
+  term: hotel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hotel
+    epo: hotelo
+    spa: hotel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dom
+  etymology: "Englisa (hotel), Doycisa (Hotel), Fransesa (h\xF4tel), Espanisa (hotel),
+    Rusisa (\u043E\u0442\u0435\u043B\u044C \u201Cotel\u201D), Hindisa (\u0939\u094B\u091F\u0932
+    \u201Chotal\u201D), Arabisa (\u0623\u064F\u0648\u062A\u0650\u064A\u0644 \u201Cotel\u201D),
+    Turkisa (otel), Indonesisa (hotel), Niponsa (\u30DB\u30C6\u30EB \u201Choteru\u201D),
+    Telugusa (\u0C39\u0C4B\u0C1F\u0C32\u0C4D \u201Chotal\u201D), Hangusa (\uD638\uD154
+    \u201Chotel\u201D), Vyetnamsa (\xF4 ten), Parsisa (\u0647\u062A\u0644 \u201Chotel\u201D),
+    Swahlisa (hoteli), Pilipinasa (hotel, otel)"
+...

@@ -1,0 +1,73 @@
+---
+term: fale
+slug: fale
+ipa: ˈfale
+ipa link: http://ipa-reader.xyz/?text=ˈfale&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - deed
+    - act
+  - - do
+    - does
+    - make
+    - perform
+  epo:
+  - - faro
+  - - fari
+  spa:
+  - - hecho
+    - acto
+  - - hacer
+search terms:
+  glb:
+  - fale
+  eng:
+  - deed
+  - act
+  - do
+  - does
+  - make
+  - perform
+  epo:
+  - faro
+  - fari
+  spa:
+  - hecho
+  - acto
+  - hacer
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فعل “fa’al”
+  Indonesisa:
+  - - faal
+  Parsisa:
+  - - فعل "fel"
+  Italisa:
+  - - fare
+  Portugalsa:
+  - - fazer
+raw data:
+  term: fale
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: deed, act; do, does, make, perform
+    epo: faro; fari
+    spa: hecho, acto; hacer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (فعل “fa’al”), Indonesisa (faal), Parsisa (فعل "fel"), Italisa
+    (fare), Portugalsa (fazer)
+...

@@ -1,0 +1,81 @@
+---
+term: yaku
+slug: yaku
+ipa: "\u02C8jaku"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jaku&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - yak
+    - _Bos grunniens_
+  epo:
+  - - gruntbovo
+    - gjako
+    - poefago
+  spa:
+  - - yak
+    - _Bos grunniens_
+search terms:
+  glb:
+  - yaku
+  eng:
+  - yak
+  - bos grunniens
+  epo:
+  - gruntbovo
+  - gjako
+  - poefago
+  spa:
+  - yak
+  - bos grunniens
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - yak
+  Indonesisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Espanisa:
+  - - yac
+    - yak
+  Fransesa:
+  - - yack
+    - yak
+  Rusisa:
+  - - "\u044F\u043A \u201Cyak\u201D"
+  Doycisa:
+  - - Jak
+    - Yak
+  Hindisa:
+  - - "\u092F\u093E\u0915 \u201Cyak\u201D"
+  Niponsa:
+  - - "\u092F\u093E\u0915 \u201Cyak\u201D"
+  Hangusa:
+  - - "\uC57C\uD06C \u201Cyaku\u201D"
+tags:
+- hewan
+raw data:
+  term: yaku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: yak, _Bos grunniens_
+    epo: gruntbovo, gjako, poefago
+    spa: yak, _Bos grunniens_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (yak), Indonesisa, Pilipinasa, Turkisa, Espanisa (yac, yak),
+    Fransesa (yack, yak), Rusisa (\u044F\u043A \u201Cyak\u201D), Doycisa (Jak, Yak),
+    Hindisa (\u092F\u093E\u0915 \u201Cyak\u201D), Niponsa (\u092F\u093E\u0915 \u201Cyak\u201D),
+    Hangusa (\uC57C\uD06C \u201Cyaku\u201D)"
+...

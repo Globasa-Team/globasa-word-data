@@ -1,0 +1,58 @@
+---
+term: lawfenne
+slug: lawfenne
+ipa: "law\u02C8fenne"
+ipa link: "http://ipa-reader.xyz/?text=law\u02C8fenne&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - annoying
+  - - annoyingly
+  epo:
+  - - "\u011Dena"
+    - "\u0109agrena"
+  - - "\u011Dene"
+    - "\u0109agrene"
+  spa:
+  - - fastidioso
+    - molesto
+    - irritante
+search terms:
+  glb:
+  - lawfenne
+  eng:
+  - annoying
+  - annoyingly
+  epo:
+  - "\u011Dena"
+  - "\u0109agrena"
+  - "\u011Dene"
+  - "\u0109agrene"
+  spa:
+  - fastidioso
+  - molesto
+  - irritante
+etymology_type: DERIVD
+etymology: <a href="../lexi/lawfen">lawfen</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: lawfenne
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: annoying; annoyingly
+    epo: "\u011Dena, \u0109agrena; \u011Dene, \u0109agrene"
+    spa: fastidioso, molesto, irritante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lawfen + -ne
+...

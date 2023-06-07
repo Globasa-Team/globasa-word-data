@@ -1,0 +1,69 @@
+---
+term: titulo
+slug: titulo
+ipa: "ti\u02C8tulo"
+ipa link: "http://ipa-reader.xyz/?text=ti\u02C8tulo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - title (_book
+    - song
+    - etc._)
+  epo:
+  - - titolo
+  spa:
+  - - "t\xEDtulo"
+search terms:
+  glb:
+  - titulo
+  eng:
+  - title book
+  - title (_book
+  - song
+  - etc.
+  epo:
+  - titolo
+  spa:
+  - "t\xEDtulo"
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Titel
+  Englisa:
+  - - title
+  Espanisa:
+  - - "t\xEDtulo"
+  Fransesa:
+  - - titre
+  Pilipinasa:
+  - - titulo
+  Niponsa:
+  - - "\u30BF\u30A4\u30C8\u30EB \u201Ctaytoru\u201D"
+  Hangusa:
+  - - "\uD0C0\uC774\uD2C0 \u201Ctaytul\u201D"
+  Parsisa:
+  - - "\u062A\u06CC\u062A\u0631 \"titr\""
+raw data:
+  term: titulo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: title (_book, song, etc._)
+    epo: titolo
+    spa: "t\xEDtulo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Titel), Englisa (title), Espanisa (t\xEDtulo), Fransesa (titre),
+    Pilipinasa (titulo), Niponsa (\u30BF\u30A4\u30C8\u30EB \u201Ctaytoru\u201D), Hangusa
+    (\uD0C0\uC774\uD2C0 \u201Ctaytul\u201D). Parsisa (\u062A\u06CC\u062A\u0631 \"titr\")"
+...

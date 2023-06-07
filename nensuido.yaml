@@ -1,0 +1,48 @@
+---
+term: nensuido
+slug: nensuido
+ipa: "nensu\u02C8ido"
+ipa link: "http://ipa-reader.xyz/?text=nensu\u02C8ido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - dehydrated
+  epo:
+  - - senagvigita
+  - - senagvigite
+  spa:
+  - - deshidratado
+search terms:
+  glb:
+  - nensuido
+  eng:
+  - dehydrated
+  epo:
+  - senagvigita
+  - senagvigite
+  spa:
+  - deshidratado
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/sui">sui</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: nensuido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: dehydrated
+    epo: senagvigita; senagvigite
+    spa: deshidratado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + sui + -do
+...

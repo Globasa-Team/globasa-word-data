@@ -1,0 +1,50 @@
+---
+term: moypul
+slug: moypul
+ipa: "moj\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=moj\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - every kind of
+    - in every way
+  epo:
+  - - "\u0109ia"
+  spa:
+  - - de toda manera
+search terms:
+  glb:
+  - moypul
+  eng:
+  - every kind of
+  - in every way
+  epo:
+  - "\u0109ia"
+  spa:
+  - de toda manera
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: moypul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: |-
+      every kind of,
+      in every way
+    epo: "\u0109ia"
+    spa: de toda manera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + -pul
+...

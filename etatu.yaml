@@ -1,0 +1,62 @@
+---
+term: etatu
+slug: etatu
+ipa: eˈtatu
+ipa link: http://ipa-reader.xyz/?text=eˈtatu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - obedience
+  - - obey
+  epo:
+  - - obeo
+  - - obei
+  spa:
+  - - obediencia
+  - - obedecer
+search terms:
+  glb:
+  - etatu
+  eng:
+  - obedience
+  - obey
+  epo:
+  - obeo
+  - obei
+  spa:
+  - obediencia
+  - obedecer
+etymology_type: NATLNG
+etymology:
+  Turkisa:
+  - - itaat
+  Parsisa:
+  - - اطاعت “etaat”
+  Arabisa:
+  - - أطاع “atae”
+  Indonesisa:
+  - - taat
+    - menaati
+raw data:
+  term: etatu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: obedience; obey
+    epo: obeo; obei
+    spa: obediencia; obedecer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Turkisa (itaat), Parsisa (اطاعت “etaat”), Arabisa (أطاع “atae”), Indonesisa
+    (taat, menaati)
+...

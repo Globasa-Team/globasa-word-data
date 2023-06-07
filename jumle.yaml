@@ -1,0 +1,48 @@
+---
+term: jumle
+slug: jumle
+ipa: "\u02C8d\u0361\u0292umle"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292umle&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sentence (_language_)
+  epo:
+  - - frazo
+  spa:
+  - - "oraci\xF3n (_gram\xE1tica_)"
+search terms:
+  glb:
+  - jumle
+  eng:
+  - sentence
+  epo:
+  - frazo
+  spa:
+  - "oraci\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jumle
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sentence (_language_)
+    epo: frazo
+    spa: "oraci\xF3n (_gram\xE1tica_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u0645\u0644\u0629 \u201Cjumla\u201D), Turkisa (c\xFCmle),
+    Parsisa (\u062C\u0645\u0644\u0647 \u201Cjumle\u201D), Hindisa (\u091C\u0941\u092E\u0932\u093E
+    \u201Cjumla\u201D)"
+...

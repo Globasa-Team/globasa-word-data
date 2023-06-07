@@ -1,0 +1,53 @@
+---
+term: baxasmanli
+slug: baxasmanli
+ipa: "ba\u0283as\u02C8manli"
+ipa link: "http://ipa-reader.xyz/?text=ba\u0283as\u02C8manli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - outdoor
+    - open-air
+  epo:
+  - - "sub\u0109iela"
+  - - "sub\u0109iele"
+  spa:
+  - - al aire libre
+    - exterior
+search terms:
+  glb:
+  - baxasmanli
+  eng:
+  - outdoor
+  - open-air
+  epo:
+  - "sub\u0109iela"
+  - "sub\u0109iele"
+  spa:
+  - al aire libre
+  - exterior
+etymology_type: DERIVD
+etymology: <a href="../lexi/bax-">bax-</a> + <a href="../lexi/asman">asman</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: baxasmanli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: outdoor, open-air
+    epo: "sub\u0109iela; sub\u0109iele"
+    spa: al aire libre, exterior
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bax- + asman + -li
+...

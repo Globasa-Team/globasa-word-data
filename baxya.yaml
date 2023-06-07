@@ -1,0 +1,54 @@
+---
+term: baxya
+slug: baxya
+ipa: "\u02C8ba\u0283ja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ba\u0283ja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - underneath
+  - - be under
+    - be underneath
+  epo:
+  - - subeco
+  - - esti sub
+  spa:
+  - - parte inferior
+  - - estar debajo
+search terms:
+  glb:
+  - baxya
+  eng:
+  - underneath
+  - be under
+  - be underneath
+  epo:
+  - subeco
+  - esti sub
+  spa:
+  - parte inferior
+  - estar debajo
+etymology_type: DERIVD
+etymology: <a href="../lexi/bax">bax</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: baxya
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: underneath; be under, be underneath
+    epo: subeco; esti sub
+    spa: parte inferior; estar debajo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bax + -ya
+...

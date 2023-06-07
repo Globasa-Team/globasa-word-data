@@ -1,0 +1,64 @@
+---
+term: muhim
+slug: muhim
+ipa: "mu\u02C8xim"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8xim&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - important
+    - importantly
+    - serious
+    - seriously
+    - significant
+    - significantly
+  epo:
+  - - grava
+  - - grave
+  spa:
+  - - importante
+    - serio
+    - significativo
+search terms:
+  glb:
+  - muhim
+  eng:
+  - important
+  - importantly
+  - serious
+  - seriously
+  - significant
+  - significantly
+  epo:
+  - grava
+  - grave
+  spa:
+  - importante
+  - serio
+  - significativo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: muhim
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: important, importantly, serious, seriously, significant, significantly
+    epo: grava; grave
+    spa: importante, serio, significativo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0647\u0645 \u201Cmuhimun\u201D), Turkisa (m\xFChim),
+    Swahilisa (muhimu), Parsisa (\u0645\u0647\u0645 \u201Cmuhem\u201D), Hindisa (\u0905\u0939\u092E\u093F\u092F\u0924
+    \u201Cahmiyat\" - muhimya)"
+...

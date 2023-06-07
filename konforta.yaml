@@ -1,0 +1,55 @@
+---
+term: konforta
+slug: konforta
+ipa: "kon\u02C8fo\u027Eta"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8fo\u027Eta&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - comfort
+  - - make comfortable
+  epo:
+  - - komforto
+  - - komforti
+  spa:
+  - - comodidad
+    - confort
+  - - "hacer c\xF3modo"
+search terms:
+  glb:
+  - konforta
+  eng:
+  - comfort
+  - make comfortable
+  epo:
+  - komforto
+  - komforti
+  spa:
+  - comodidad
+  - confort
+  - "hacer c\xF3modo"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: konforta
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: comfort; make comfortable
+    epo: komforto; komforti
+    spa: "comodidad, confort; hacer c\xF3modo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (comfort), Fransesa (confort), Doycisa (Komfort), Rusisa (\u043A\u043E\u043C\u0444\u043E\u0440\u0442
+    \u201Ckomfort\u201D), Espanisa (confortar), Pilipinasa ( ), Turkisa (konfor)"
+...

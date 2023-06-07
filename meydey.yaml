@@ -1,0 +1,49 @@
+---
+term: meydey
+slug: meydey
+ipa: "mej\u02C8dej"
+ipa link: "http://ipa-reader.xyz/?text=mej\u02C8dej&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - emergency
+  epo:
+  - - "ekgrava\u0135o"
+    - (kriza) ekokazo
+  spa:
+  - - emergencia
+search terms:
+  glb:
+  - meydey
+  eng:
+  - emergency
+  epo:
+  - "ekgrava\u0135o"
+  - kriza ekokazo
+  - ekokazo
+  spa:
+  - emergencia
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: meydey
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: emergency
+    epo: "ekgrava\u0135o, (kriza) ekokazo"
+    spa: emergencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'Englisa (Mayday) '
+...

@@ -1,0 +1,64 @@
+---
+term: dingya
+slug: dingya
+ipa: ˈdingja
+ipa link: http://ipa-reader.xyz/?text=ˈdingja&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - definition
+    - determination
+  - - define
+    - determine
+  epo:
+  - - difino
+  - - difini
+  spa:
+  - - definición
+    - determinación
+  - - definir
+    - determinar
+search terms:
+  glb:
+  - dingya
+  eng:
+  - definition
+  - determination
+  - define
+  - determine
+  epo:
+  - difino
+  - difini
+  spa:
+  - definición
+  - determinación
+  - definir
+  - determinar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 定义 “dìngyì”
+  Vyetnamsa:
+  - - định nghĩa
+raw data:
+  term: dingya
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: definition, determination; define, determine
+    epo: difino; difini
+    spa: definición, determinación; definir, determinar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (定义 “dìngyì”), Vyetnamsa (định nghĩa)
+...

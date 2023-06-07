@@ -1,0 +1,50 @@
+---
+term: kubo
+slug: kubo
+ipa: "\u02C8kubo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kubo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cube
+  epo:
+  - - kubo
+  spa:
+  - - cubo (_poliedro_)
+search terms:
+  glb:
+  - kubo
+  eng:
+  - cube
+  epo:
+  - kubo
+  spa:
+  - cubo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kubo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cube
+    epo: kubo
+    spa: cubo (_poliedro_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cube), Fransesa, Englisa (cubo), Rusisa (\u043A\u0443\u0431
+    \u201Ckub\u201D), Doycisa (Kubus), Indonesisa, Arabisa (\u0643\u064E\u0639\u0652\u0628\u064E\u0629
+    \u201Ckaba\u201D), Telugusa (\u0C15\u0C4D\u0C2F\u0C42\u0C2C\u0C4D \u201Ckyub\u201D),
+    Turkisa (k\xFCp), Parsisa (\u0645\u06A9\u0639\u0628 \u201Cmokaab\u201D, \u063A\u0627\u0628
+    \u201Ckab\u201D, \u0642\u0627\u067E \u201Ckap\u201D)"
+...

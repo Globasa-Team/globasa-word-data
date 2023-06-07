@@ -1,0 +1,52 @@
+---
+term: lefeloga
+slug: lefeloga
+ipa: "lefe\u02C8loga"
+ipa link: "http://ipa-reader.xyz/?text=lefe\u02C8loga&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - prediction
+  - - predict
+  epo:
+  - - "anta\u016Ddiro"
+  - - "anta\u016Ddiri"
+  spa:
+  - - "predicci\xF3n"
+  - - predecir
+search terms:
+  glb:
+  - lefeloga
+  eng:
+  - prediction
+  - predict
+  epo:
+  - "anta\u016Ddiro"
+  - "anta\u016Ddiri"
+  spa:
+  - "predicci\xF3n"
+  - predecir
+etymology_type: DERIVD
+etymology: <a href="../lexi/lefe-">lefe-</a> + <a href="../lexi/loga">loga</a>
+raw data:
+  term: lefeloga
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: prediction; predict
+    epo: "anta\u016Ddiro; anta\u016Ddiri"
+    spa: "predicci\xF3n; predecir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lefe- + loga
+...

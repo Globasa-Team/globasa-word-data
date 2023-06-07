@@ -1,0 +1,65 @@
+---
+term: sungay
+slug: sungay
+ipa: "sun\u02C8gaj"
+ipa link: "http://ipa-reader.xyz/?text=sun\u02C8gaj&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - damage
+    - harm
+    - injury
+  - - damage
+    - harm
+    - injure
+  epo:
+  - - "dama\u011Do"
+  - - "dama\u011Di"
+  spa:
+  - - "da\xF1o"
+  - - "da\xF1ar"
+search terms:
+  glb:
+  - sungay
+  eng:
+    0: damage
+    1: harm
+    2: injury
+    5: injure
+  epo:
+  - "dama\u011Do"
+  - "dama\u011Di"
+  spa:
+  - "da\xF1o"
+  - "da\xF1ar"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u635F\u5BB3 \u201Csunhay\u201D"
+  Niponsa:
+  - - "\u640D\u5BB3 \u201Csongay\u201D"
+  Hangusa:
+  - - "\uC190\uD574 \u201Csonhe\u201D"
+raw data:
+  term: sungay
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: damage, harm, injury; damage, harm, injure
+    epo: "dama\u011Do; dama\u011Di"
+    spa: "da\xF1o; da\xF1ar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u635F\u5BB3 \u201Csunhay\u201D), Niponsa (\u640D\u5BB3 \u201Csongay\u201D),
+    Hangusa (\uC190\uD574 \u201Csonhe\u201D)"
+...

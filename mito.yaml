@@ -1,0 +1,49 @@
+---
+term: mito
+slug: mito
+ipa: "\u02C8mito"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mito&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - myth
+  epo:
+  - - mito
+  spa:
+  - - mito
+search terms:
+  glb:
+  - mito
+  eng:
+  - myth
+  epo:
+  - mito
+  spa:
+  - mito
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mito
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: myth
+    epo: mito
+    spa: mito
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (myth), Espanisa (mito), Pilipinasa, Fransesa (mythe), Rusisa
+    (\u043C\u0438\u0444 \u201Cmif\u201D), Doycisa (Mythos), Indonesisa (mitos, mite),
+    Hindisa (\u092E\u093F\u0925\u0915 \u201Cmitak\u201D), Telugusa (\u0C2E\u0C3F\u0C25\u0C4D
+    \u201Cmit\u201D), Turkisa (mit), Swahilisa (mithiolojia)"
+...

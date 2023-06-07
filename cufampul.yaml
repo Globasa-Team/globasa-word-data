@@ -1,0 +1,48 @@
+---
+term: cufampul
+slug: cufampul
+ipa: "t\u0361\u0283ufam\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ufam\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - offensive
+  epo:
+  - - ofenda
+  - - ofende
+  spa:
+  - - ofensivo
+search terms:
+  glb:
+  - cufampul
+  eng:
+  - offensive
+  epo:
+  - ofenda
+  - ofende
+  spa:
+  - ofensivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/cufam">cufam</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: cufampul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: offensive
+    epo: ofenda; ofende
+    spa: ofensivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cufam + -pul
+...

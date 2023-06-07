@@ -1,0 +1,64 @@
+---
+term: konkure
+slug: konkure
+ipa: "kon\u02C8ku\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8ku\u027Ee&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - competition
+  - - compete (against)
+  epo:
+  - - konkuro
+    - konkurso
+    - konkurenco
+  - - konkuri
+    - konkursi
+    - konkurenci
+  spa:
+  - - competencia
+  - - competir
+search terms:
+  glb:
+  - konkure
+  eng:
+  - competition
+  - compete against
+  - compete
+  epo:
+  - konkuro
+  - konkurso
+  - konkurenco
+  - konkuri
+  - konkursi
+  - konkurenci
+  spa:
+  - competencia
+  - competir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: konkure
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: competition; compete (against)
+    epo: konkuro, konkurso, konkurenco; konkuri, konkursi, konkurenci
+    spa: competencia; competir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (concurrence, concours), Doycisa (Konkurrenz), Rusisa (\u043A\u043E\u043D\u043A\u0443\u0440\u0435\u043D\u0446\u0438\u044F
+    \u201Ckonkurentsiya\u201D, \u043A\u043E\u043D\u043A\u0443\u0440\u0441 \u201Ckonkurs\u201D),
+    Espanisa (concurso), Niponsa (\u30B3\u30F3\u30AF\u30FC\u30EB \u201Ckonk\u016Bru\u201D),
+    Hangusa (\uCF69\uCFE0\uB974 \u201Ckongkureu\u201D)"
+...

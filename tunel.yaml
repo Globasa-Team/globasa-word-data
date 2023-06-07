@@ -1,0 +1,67 @@
+---
+term: tunel
+slug: tunel
+ipa: "tu\u02C8nel"
+ipa link: "http://ipa-reader.xyz/?text=tu\u02C8nel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tunnel
+  epo:
+  - - tunelo
+  spa:
+  - - "t\xFAnel"
+search terms:
+  glb:
+  - tunel
+  eng:
+  - tunnel
+  epo:
+  - tunelo
+  spa:
+  - "t\xFAnel"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tunnel
+  Espanisa:
+  - - "t\xFAnel"
+  Fransesa:
+  - - tunnel
+  Rusisa:
+  - - "\u0442\u043E\u043D\u043D\u0435\u043B\u044C \u201Ctonnel\u201D"
+  Doycisa:
+  - - Tunnel
+  Niponsa:
+  - - "\u30C8\u30F3\u30CD\u30EB \u201Ctoneru\u201D"
+  Turkisa:
+  - - "t\xFCnel"
+  Hangusa:
+  - - "\uD130\uB110 \u201Ctonol\u201D"
+  Parsisa:
+  - - "\u062A\u0648\u0646\u0644 \u201Ctunel\u201D"
+raw data:
+  term: tunel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tunnel
+    epo: tunelo
+    spa: "t\xFAnel"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tunnel), Espanisa (t\xFAnel), Fransesa (tunnel), Rusisa (\u0442\u043E\u043D\u043D\u0435\u043B\u044C
+    \u201Ctonnel\u201D), Doycisa (Tunnel), Niponsa (\u30C8\u30F3\u30CD\u30EB \u201Ctoneru\u201D),
+    Turkisa (t\xFCnel), Hangusa (\uD130\uB110 \u201Ctonol\u201D), Parsisa (\u062A\u0648\u0646\u0644
+    \u201Ctunel\u201D)"
+...

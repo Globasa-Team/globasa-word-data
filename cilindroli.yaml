@@ -1,0 +1,48 @@
+---
+term: cilindroli
+slug: cilindroli
+ipa: "t\u0361\u0283ilin\u02C8d\u027Eoli"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ilin\u02C8d\u027Eoli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - cylindrical
+  epo:
+  - - cilindra
+  - - cilindre
+  spa:
+  - - "cil\xEDndrico"
+search terms:
+  glb:
+  - cilindroli
+  eng:
+  - cylindrical
+  epo:
+  - cilindra
+  - cilindre
+  spa:
+  - "cil\xEDndrico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/cilindro">cilindro</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: cilindroli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: cylindrical
+    epo: cilindra; cilindre
+    spa: "cil\xEDndrico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cilindro + -li
+...

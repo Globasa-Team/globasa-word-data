@@ -1,0 +1,75 @@
+---
+term: herzi
+slug: herzi
+ipa: "\u02C8xe\u027Ezi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe\u027Ezi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hertz
+  epo:
+  - - herco
+  spa:
+  - - _hertz_
+    - hercio
+    - Hz
+  deu:
+  - - Hertz
+  fra:
+  - - hertz
+  rus:
+  - - "\u0433\u0435\u0440\u0446"
+  zho:
+  - - "\u8D6B\u5179"
+search terms:
+  glb:
+  - herzi
+  eng:
+  - hertz
+  epo:
+  - herco
+  spa:
+  - hertz
+  - hercio
+  - hz
+  deu:
+  - hertz
+  fra:
+  - hertz
+  rus:
+  - "\u0433\u0435\u0440\u0446"
+  zho:
+  - "\u8D6B\u5179"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- meterya
+raw data:
+  term: herzi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hertz
+    epo: herco
+    spa: _hertz_, hercio, Hz
+    deu: Hertz
+    fra: hertz
+    rus: "\u0433\u0435\u0440\u0446"
+    zho: "\u8D6B\u5179"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: meterya
+  etymology: "Englisa (hertz), Espanisa (hercio, hertz), Fransesa (hertz), Rusisa
+    (\u0433\u0435\u0440\u0446 \u201Cgerts\u201D), Doycisa (Hertz), Indonesisa (hertz),
+    Pilipinasa (herso), Putunhwa (\u8D6B\u5179 \u201Chedzi\u201D), Hindisa (\u0939\u0930\u094D\u091F\u094D\u091C\u093C
+    \u201Chartz\u201D), Arabisa (\u0647\u0650\u0631\u0652\u062A\u0650\u0632 \u201Chirtiz\u201D),
+    Niponsa (\u30D8\u30EB\u30C4 \u201Cherutsu\u201D), Telugusa (\u0C39\u0C46\u0C30\u0C4D\u0C1F\u0C4D\u0C1C\u0C4D
+    \u201Chertj\u201D), Turkisa (hertz), Hangusa (\uD5E4\uB974\uCE20 \u201Cherucu\u201D),
+    Vyetnamsa (hertz), Parsisa (\u0647\u0631\u062A\u0632 \u201Chertz\u201D), Swahilisa
+    (hezi)"
+...

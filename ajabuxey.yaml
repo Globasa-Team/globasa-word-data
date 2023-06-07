@@ -1,0 +1,54 @@
+---
+term: ajabuxey
+slug: ajabuxey
+ipa: "ad\u0361\u0292abu\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=ad\u0361\u0292abu\u02C8\u0283ej&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - peculiarity
+    - oddity
+  epo:
+  - - "stranga\u0135o"
+    - "bizara\u0135o"
+    - "kurioza\u0135o"
+  spa:
+  - - peculiaridad
+    - rareza
+search terms:
+  glb:
+  - ajabuxey
+  eng:
+  - peculiarity
+  - oddity
+  epo:
+  - "stranga\u0135o"
+  - "bizara\u0135o"
+  - "kurioza\u0135o"
+  spa:
+  - peculiaridad
+  - rareza
+etymology_type: DERIVD
+etymology: <a href="../lexi/ajabu">ajabu</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: ajabuxey
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: peculiarity, oddity
+    epo: "stranga\u0135o, bizara\u0135o, kurioza\u0135o"
+    spa: peculiaridad, rareza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ajabu + -xey
+...

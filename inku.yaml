@@ -1,0 +1,47 @@
+---
+term: inku
+slug: inku
+ipa: "\u02C8inku"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8inku&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ink
+  epo:
+  - - inko
+  spa:
+  - - tinta
+search terms:
+  glb:
+  - inku
+  eng:
+  - ink
+  epo:
+  - inko
+  spa:
+  - tinta
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: inku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ink
+    epo: inko
+    spa: tinta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (ink), Fransesa (encre), Niponsa (\u30A4\u30F3\u30AF \u201Cinku\u201D),
+    Hangusa (\uC789\uD06C \u201Cingkeu\u201D)"
+...

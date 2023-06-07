@@ -1,0 +1,54 @@
+---
+term: kolera
+slug: kolera
+ipa: "ko\u02C8le\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8le\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cholera
+  epo:
+  - - "\u0125olero"
+  spa:
+  - - "c\xF3lera"
+search terms:
+  glb:
+  - kolera
+  eng:
+  - cholera
+  epo:
+  - "\u0125olero"
+  spa:
+  - "c\xF3lera"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: kolera
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cholera
+    epo: "\u0125olero"
+    spa: "c\xF3lera"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (cholera), Doycisa, Espanisa (c\xF3lera), Fransesa (chol\xE9ra),
+    Rusisa (\u0445\u043E\u043B\u0435\u0440\u0430 \u201Cholera\u201D), Indonesisa (kolera),
+    Pilipinasa, Turkisa, Hindisa (\u0915\u0949\u0932\u0930\u093E \u201Ckolra\u201D),
+    Arabisa (\u0643\u064F\u0648\u0644\u0650\u064A\u0631\u064E\u0627 \u201Ckolira\u201D),
+    Putunhwa (\u864E\u5217\u62C9 \u201Ch\u01D4li\xE8l\u0101\u201D), Niponsa (\u30B3\u30EC\u30E9
+    \u201Ckorera\u201D), Telugusa (\u0C15\u0C32\u0C30\u0C3E \u201Ckalara\u201D), Hangusa
+    (\uCF5C\uB808\uB77C \u201Ckolera\u201D)"
+...

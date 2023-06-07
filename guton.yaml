@@ -1,0 +1,60 @@
+---
+term: guton
+slug: guton
+ipa: guˈton
+ipa link: http://ipa-reader.xyz/?text=guˈton&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - pain
+    - ache
+  - - ache
+    - hurt (_feel or give pain_)
+  epo:
+  - - doloro
+  - - dolori(gi)
+  spa:
+  - - dolor
+  - - doler
+search terms:
+  glb:
+  - guton
+  eng:
+    0: pain
+    1: ache
+    3: hurt
+  epo:
+  - doloro
+  - dolorigi
+  - dolori
+  spa:
+  - dolor
+  - doler
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 苦痛 “kǔtòng”
+  Hangusa:
+  - - 고통 “gotong”
+raw data:
+  term: guton
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: pain, ache; ache, hurt (_feel or give pain_)
+    epo: doloro; dolori(gi)
+    spa: dolor; doler
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (苦痛 “kǔtòng”), Hangusa (고통 “gotong”)
+...

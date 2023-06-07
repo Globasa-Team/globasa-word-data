@@ -1,0 +1,54 @@
+---
+term: santogi
+slug: santogi
+ipa: "san\u02C8togi"
+ipa link: "http://ipa-reader.xyz/?text=san\u02C8togi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - sanctify
+    - hallow
+    - make holy
+    - make sacred
+  epo:
+  - - sanktigo
+  - - sanktigi
+  spa:
+  - - santificar
+search terms:
+  glb:
+  - santogi
+  eng:
+  - sanctify
+  - hallow
+  - make holy
+  - make sacred
+  epo:
+  - sanktigo
+  - sanktigi
+  spa:
+  - santificar
+etymology_type: DERIVD
+etymology: <a href="../lexi/santo">santo</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: santogi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: sanctify, hallow, make holy, make sacred
+    epo: sanktigo; sanktigi
+    spa: santificar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: santo + -gi
+...

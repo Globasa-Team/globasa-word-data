@@ -1,0 +1,49 @@
+---
+term: mesi des un
+slug: mesi des un
+ipa: "\u02C8mesi \u02C8des \u02C8un"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mesi \u02C8des \u02C8un&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - November
+  epo:
+  - - Novembro
+  spa:
+  - - noviembre
+search terms:
+  glb:
+  - mesi des un
+  - mesi
+  - des
+  - un
+  eng:
+  - november
+  epo:
+  - novembro
+  spa:
+  - noviembre
+etymology_type: DERIVD
+etymology: <a href="../lexi/mesi">mesi</a>, <a href="../lexi/des">des</a>, <a href="../lexi/un">un</a>
+raw data:
+  term: mesi des un
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: November
+    epo: Novembro
+    spa: noviembre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mesi, des, un
+...

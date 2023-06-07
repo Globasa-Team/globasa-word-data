@@ -1,0 +1,55 @@
+---
+term: mosaiko
+slug: mosaiko
+ipa: "mosa\u02C8iko"
+ipa link: "http://ipa-reader.xyz/?text=mosa\u02C8iko&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mosaic
+  epo:
+  - - mozaiko
+  spa:
+  - - mosaico
+  deu:
+  - - Mosaik
+search terms:
+  glb:
+  - mosaiko
+  eng:
+  - mosaic
+  epo:
+  - mozaiko
+  spa:
+  - mosaico
+  deu:
+  - mosaik
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mosaiko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mosaic
+    epo: mozaiko
+    spa: mosaico
+    deu: Mosaik
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mosaic), Espanisa (mosaico), Fransesa (mosa\xEFque), Rusisa
+    (\u043C\u043E\u0437\u0430\u0438\u043A\u0430 \"mozaika\"), Doycisa (Mosaik), Indonesisa
+    (mosaik), Pilipinasa (mosaic), Putunhwa (\u9A6C\u8D5B\u514B \"masaike\"), Hindisa
+    (\u092E\u094C\u091C\u093C\u0947\u0915 \"mauzek\"), Niponsa (\u30E2\u30B6\u30A4\u30AF
+    \"mozaiku\"), Turkisa (mozaik), Vyetnamsa (mosaic), Hangusa (\uBAA8\uC790\uC774\uD06C
+    \"mojaiku\"), Parsisa (\u0645\u0648\u0632\u0627\u0626\u06CC\u06A9 \"mozaik\")"
+...

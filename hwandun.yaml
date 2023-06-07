@@ -1,0 +1,47 @@
+---
+term: hwandun
+slug: hwandun
+ipa: "xwan\u02C8dun"
+ipa link: "http://ipa-reader.xyz/?text=xwan\u02C8dun&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - brass
+  epo:
+  - - latuno
+  spa:
+  - - "lat\xF3n"
+search terms:
+  glb:
+  - hwandun
+  eng:
+  - brass
+  epo:
+  - latuno
+  spa:
+  - "lat\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hwandun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: brass
+    epo: latuno
+    spa: "lat\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u9EC3\u9285 \u201Chwangtong\u201D), Hangusa (\uD669\uB3D9
+    \u201Chwangdong\u201D)"
+...

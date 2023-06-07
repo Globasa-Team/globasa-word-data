@@ -1,0 +1,60 @@
+---
+term: plu
+slug: plu
+ipa: "\u02C8plu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8plu&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - multiple
+    - _plurality marker_
+  epo:
+  - - pluraj
+    - -j _plureca markilo_
+  spa:
+  - - "m\xFAltiple (_marcador de la pluralidad_)"
+search terms:
+  glb:
+  - plu
+  eng:
+  - multiple
+  - plurality marker
+  epo:
+  - pluraj
+  - -j plureca markilo
+  spa:
+  - "m\xFAltiple"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - plural
+  Fransesa:
+  - - pluriel
+  Doycisa:
+  - - pluralisch
+    - plural
+  Espanisa:
+  - - plural
+raw data:
+  term: plu
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: multiple, _plurality marker_
+    epo: pluraj, -j _plureca markilo_
+    spa: "m\xFAltiple (_marcador de la pluralidad_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (plural), Fransesa (pluriel), Doycisa (pluralisch, plural), Espanisa
+    (plural)
+...

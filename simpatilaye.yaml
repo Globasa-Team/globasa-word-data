@@ -1,0 +1,58 @@
+---
+term: simpatilaye
+slug: simpatilaye
+ipa: "simpati\u02C8laje"
+ipa link: "http://ipa-reader.xyz/?text=simpati\u02C8laje&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - pitiful
+  - - pitifully
+  epo:
+  - - kompatinda
+  - - kompatinde
+  spa:
+  - - lamentable
+    - lastimero
+    - "pat\xE9tico"
+  - - penosamente
+    - lastimosamente
+search terms:
+  glb:
+  - simpatilaye
+  eng:
+  - pitiful
+  - pitifully
+  epo:
+  - kompatinda
+  - kompatinde
+  spa:
+  - lamentable
+  - lastimero
+  - "pat\xE9tico"
+  - penosamente
+  - lastimosamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/simpati">simpati</a> + <a href="../lexi/-laye">-laye</a>
+raw data:
+  term: simpatilaye
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: pitiful; pitifully
+    epo: kompatinda; kompatinde
+    spa: "lamentable, lastimero, pat\xE9tico; penosamente, lastimosamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: simpati + -laye
+...

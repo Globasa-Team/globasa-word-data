@@ -1,0 +1,52 @@
+---
+term: bumabil
+slug: bumabil
+ipa: "buma\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=buma\u02C8bil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - explosive
+    - explosively
+  epo:
+  - - eksplodpova
+  - - eksplodpove
+  spa:
+  - - explosivo
+    - detonable
+search terms:
+  glb:
+  - bumabil
+  eng:
+  - explosive
+  - explosively
+  epo:
+  - eksplodpova
+  - eksplodpove
+  spa:
+  - explosivo
+  - detonable
+etymology_type: DERIVD
+etymology: <a href="../lexi/bum">bum</a> + <a href="../lexi/-abil">-abil</a>
+raw data:
+  term: bumabil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: explosive, explosively
+    epo: eksplodpova; eksplodpove
+    spa: explosivo, detonable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bum + -abil
+...

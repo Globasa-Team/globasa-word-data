@@ -1,0 +1,70 @@
+---
+term: diplomasi
+slug: diplomasi
+ipa: diploˈmasi
+ipa link: http://ipa-reader.xyz/?text=diploˈmasi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - diplomacy
+  epo:
+  - - diplomatio
+  spa:
+  - - diplomacia
+search terms:
+  glb:
+  - diplomasi
+  eng:
+  - diplomacy
+  epo:
+  - diplomatio
+  spa:
+  - diplomacia
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Diplomatie
+  Englisa:
+  - - diplomacy
+  Espanisa:
+  - - diplomacia
+  Fransesa:
+  - - diplomatie
+  Rusisa:
+  - - дипломатия “diplomatiya”
+  Indonesisa:
+  - - diplomasi
+  Pilipinasa:
+  - - diplomasya
+  Turkisa:
+  - - diplomasi
+  Swahilisa:
+  - - diplomasia
+  Parsisa:
+  - - دیپلماسی “diplomâsi”
+tags:
+- politi
+raw data:
+  term: diplomasi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: diplomacy
+    epo: diplomatio
+    spa: diplomacia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: Doycisa (Diplomatie), Englisa (diplomacy), Espanisa (diplomacia), Fransesa
+    (diplomatie), Rusisa (дипломатия “diplomatiya”), Indonesisa (diplomasi), Pilipinasa
+    (diplomasya), Turkisa (diplomasi), Swahilisa (diplomasia), Parsisa (دیپلماسی “diplomâsi”)
+...

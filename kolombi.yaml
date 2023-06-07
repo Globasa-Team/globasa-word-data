@@ -1,0 +1,50 @@
+---
+term: kolombi
+slug: kolombi
+ipa: "ko\u02C8lombi"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8lombi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Colombia
+  epo:
+  - - Kolombio
+  spa:
+  - - Colombia
+search terms:
+  glb:
+  - kolombi
+  eng:
+  - colombia
+  epo:
+  - kolombio
+  spa:
+  - colombia
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Colombia
+tags:
+- dexa
+raw data:
+  term: Kolombi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Colombia
+    epo: Kolombio
+    spa: Colombia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Colombia)
+...

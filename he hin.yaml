@@ -1,0 +1,48 @@
+---
+term: he hin
+slug: he hin
+ipa: "\u02C8xe \u02C8xin"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8xin&voice=Ewa"
+status: false
+category: phrase
+word class: d
+trans:
+  eng:
+  - - this specific
+  epo:
+  - - "specife \u0109i tiu"
+  spa:
+  - - "este espec\xEDfico"
+search terms:
+  glb:
+  - he hin
+  - he
+  - hin
+  eng:
+  - this specific
+  epo:
+  - "specife \u0109i tiu"
+  spa:
+  - "este espec\xEDfico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/hin ">hin </a>
+raw data:
+  term: he hin
+  category: phrase
+  word class: d
+  status: false
+  trans:
+    eng: this specific
+    epo: "specife \u0109i tiu"
+    spa: "este espec\xEDfico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'he, hin '
+...

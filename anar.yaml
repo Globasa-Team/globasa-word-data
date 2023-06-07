@@ -1,0 +1,58 @@
+---
+term: anar
+slug: anar
+ipa: aˈnaɾ
+ipa link: http://ipa-reader.xyz/?text=aˈnaɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pomegranate
+  epo:
+  - - granato
+  spa:
+  - - granada (fruta)
+    - _Punica granatum_
+search terms:
+  glb:
+  - anar
+  eng:
+  - pomegranate
+  epo:
+  - granato
+  spa:
+  - granada fruta
+  - granada
+  - punica granatum
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - अनार “anār”
+  Parsisa:
+  - - انار‎ “anâr”
+  Turkisa:
+  - - nar
+tags:
+- yamxey
+- fruta
+raw data:
+  term: anar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pomegranate
+    epo: granato
+    spa: granada (fruta), _Punica granatum_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey, fruta
+  etymology: Hindisa (अनार “anār”), Parsisa (انار‎ “anâr”), Turkisa (nar)
+...

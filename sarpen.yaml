@@ -1,0 +1,70 @@
+---
+term: sarpen
+slug: sarpen
+ipa: "sa\u027E\u02C8pen"
+ipa link: "http://ipa-reader.xyz/?text=sa\u027E\u02C8pen&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - snake
+    - serpent
+  epo:
+  - - serpento
+  spa:
+  - - serpiente
+    - culebra
+    - _Serpentes_
+search terms:
+  glb:
+  - sarpen
+  eng:
+  - snake
+  - serpent
+  epo:
+  - serpento
+  spa:
+  - serpiente
+  - culebra
+  - serpentes
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - serpent
+  Fransesa:
+  - - serpent
+  Rumanisa:
+  - - "\u015Farpe"
+  Espanisa:
+  - - serpiente
+  Pilipinasa:
+  - - serpyente
+  Hindisa:
+  - - "\u0938\u093E\u0901\u092A \u201Csanp\u201D"
+  Banglasa:
+  - - "\u09B8\u09B0\u09CD\u09AA \u201Csarpa\u201D"
+tags:
+- hewan
+raw data:
+  term: sarpen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: snake, serpent
+    epo: serpento
+    spa: serpiente, culebra, _Serpentes_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (serpent), Fransesa (serpent), Rumanisa (\u015Farpe), Espanisa
+    (serpiente), Pilipinasa (serpyente), Hindisa (\u0938\u093E\u0901\u092A \u201Csanp\u201D),
+    Banglasa (\u09B8\u09B0\u09CD\u09AA \u201Csarpa\u201D)"
+...

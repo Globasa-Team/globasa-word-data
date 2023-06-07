@@ -1,0 +1,65 @@
+---
+term: maxus
+slug: maxus
+ipa: "ma\u02C8\u0283us"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8\u0283us&voice=Ewa"
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - plus
+    - in addition to
+    - with addition of
+    - besides
+    - aside from
+    - including
+    - other than
+  epo:
+  - - plus
+    - kun aldono de
+  spa:
+  - - "adem\xE1s de"
+    - aparte de
+search terms:
+  glb:
+  - maxus
+  eng:
+  - plus
+  - in addition to
+  - with addition of
+  - besides
+  - aside from
+  - including
+  - other than
+  epo:
+  - plus
+  - kun aldono de
+  spa:
+  - "adem\xE1s de"
+  - aparte de
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: maxus
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: plus, in addition to, with addition of, besides, aside from, including, other
+      than
+    epo: plus, kun aldono de
+    spa: "adem\xE1s de, aparte de"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa, Espanisa (mas, maximo), Englisa (maximum, minus/plus), Doycisa
+    (maximal), Rusisa (\u043C\u0430\u043A\u0441\u0438\u043C\u0443\u043C \u201Cmaksimum\u201D),
+    Turkisa (maksimum)"
+...

@@ -1,0 +1,48 @@
+---
+term: fembwaw
+slug: fembwaw
+ipa: "fem\u02C8bwaw"
+ipa link: "http://ipa-reader.xyz/?text=fem\u02C8bwaw&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - bitch
+    - dam (_female dog_)
+  epo:
+  - - hundino
+  spa:
+  - - perra
+search terms:
+  glb:
+  - fembwaw
+  eng:
+  - bitch
+  - dam
+  epo:
+  - hundino
+  spa:
+  - perra
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/bwaw">bwaw</a>
+raw data:
+  term: fembwaw
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: bitch, dam (_female dog_)
+    epo: hundino
+    spa: perra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem- + bwaw
+...

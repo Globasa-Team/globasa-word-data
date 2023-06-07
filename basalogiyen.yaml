@@ -1,0 +1,49 @@
+---
+term: basalogiyen
+slug: basalogiyen
+ipa: "basalogi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=basalogi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - linguist
+  epo:
+  - - lingvosciencisto
+    - lingvisto
+  spa:
+  - - "ling\xFCista"
+search terms:
+  glb:
+  - basalogiyen
+  eng:
+  - linguist
+  epo:
+  - lingvosciencisto
+  - lingvisto
+  spa:
+  - "ling\xFCista"
+etymology_type: DERIVD
+etymology: <a href="../lexi/basa">basa</a> + <a href="../lexi/-logi">-logi</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: basalogiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: linguist
+    epo: lingvosciencisto, lingvisto
+    spa: "ling\xFCista"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: basa + -logi + -yen
+...

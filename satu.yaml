@@ -1,0 +1,60 @@
+---
+term: satu
+slug: satu
+ipa: "\u02C8satu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8satu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hour
+    - time
+  epo:
+  - - horo
+  spa:
+  - - hora
+search terms:
+  glb:
+  - satu
+  eng:
+  - hour
+  - time
+  epo:
+  - horo
+  spa:
+  - hora
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0633\u0627\u0639\u0629 \u201Csaea\u201D"
+  Turkisa:
+  - - saat
+  Parsisa:
+  - - "\u0633\u0627\u0639\u062A \u201Csaat\u201D"
+  Indonesisa:
+  - - saat
+  Swahilisa:
+  - - saa
+raw data:
+  term: satu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hour, time
+    epo: horo
+    spa: hora
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0633\u0627\u0639\u0629 \u201Csaea\u201D), Turkisa (saat),
+    Parsisa (\u0633\u0627\u0639\u062A \u201Csaat\u201D), Indonesisa (saat), Swahilisa
+    (saa)"
+...

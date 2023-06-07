@@ -1,0 +1,73 @@
+---
+term: gowan
+slug: gowan
+ipa: goˈwan
+ipa link: http://ipa-reader.xyz/?text=goˈwan&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - testicle
+    - testis
+    - testes
+    - balls
+  epo:
+  - - testiko(j)
+    - kojono(j)
+    - ĉurovo(j)
+  spa:
+  - - testículo
+    - pelotas
+    - huevos
+    - cojones
+search terms:
+  glb:
+  - gowan
+  eng:
+  - testicle
+  - testis
+  - testes
+  - balls
+  epo:
+  - testikoj
+  - testiko
+  - kojonoj
+  - kojono
+  - ĉurovoj
+  - ĉurovo
+  spa:
+  - testículo
+  - pelotas
+  - huevos
+  - cojones
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 睾丸 “gawwan”
+  Niponsa:
+  - - 睾丸 “kowgan”
+  Hangusa:
+  - - 고환 “gohwan”
+tags:
+- jismulogi
+raw data:
+  term: gowan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: testicle, testis, testes, balls
+    epo: testiko(j), kojono(j), ĉurovo(j)
+    spa: testículo, pelotas, huevos, cojones
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Putunhwa (睾丸 “gawwan”), Niponsa (睾丸 “kowgan”), Hangusa (고환 “gohwan”)
+...

@@ -1,0 +1,46 @@
+---
+term: zambiyen
+slug: zambiyen
+ipa: "zambi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=zambi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Zambian
+  epo:
+  - - zambiano
+  spa:
+  - - zambiano (_persona_)
+search terms:
+  glb:
+  - zambiyen
+  eng:
+  - zambian
+  epo:
+  - zambiano
+  spa:
+  - zambiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Zambi">Zambi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Zambiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Zambian
+    epo: zambiano
+    spa: zambiano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Zambi + -yen
+...

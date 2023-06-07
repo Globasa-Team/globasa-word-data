@@ -1,0 +1,52 @@
+---
+term: hangu
+slug: hangu
+ipa: "\u02C8xangu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xangu&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Korea
+  epo:
+  - - Koreio
+    - Koreujo
+  spa:
+  - - Corea
+search terms:
+  glb:
+  - hangu
+  eng:
+  - korea
+  epo:
+  - koreio
+  - koreujo
+  spa:
+  - corea
+etymology_type: NATLNG
+etymology:
+  Hangusa:
+  - - "\uD55C\uAD6D \u201Changug\u201D"
+  Putunhwa:
+  - - "\u97E9\u56FD \u201CH\xE1ngu\xF3\u201D"
+raw data:
+  term: Hangu
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Korea
+    epo: Koreio, Koreujo
+    spa: Corea
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hangusa (\uD55C\uAD6D \u201Changug\u201D), Putunhwa (\u97E9\u56FD \u201CH\xE1ngu\xF3\u201D)"
+...

@@ -1,0 +1,50 @@
+---
+term: mexiko
+slug: mexiko
+ipa: "me\u02C8\u0283iko"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8\u0283iko&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Mexico
+  epo:
+  - - Meksiko
+  spa:
+  - - "M\xE9xico"
+search terms:
+  glb:
+  - mexiko
+  eng:
+  - mexico
+  epo:
+  - meksiko
+  spa:
+  - "m\xE9xico"
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Mexico
+tags:
+- dexa
+raw data:
+  term: Mexiko
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Mexico
+    epo: Meksiko
+    spa: "M\xE9xico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Mexico)
+...

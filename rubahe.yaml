@@ -1,0 +1,55 @@
+---
+term: rubahe
+slug: rubahe
+ipa: "\u027Eu\u02C8baxe"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8baxe&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fox
+  epo:
+  - - vulpo
+  spa:
+  - - zorro
+    - _Vulpini_
+search terms:
+  glb:
+  - rubahe
+  eng:
+  - fox
+  epo:
+  - vulpo
+  spa:
+  - zorro
+  - vulpini
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - "\u0631\u0648\u0628\u0627\u0647 \u201Crubah\u201D"
+  Indonesisa:
+  - - rubah
+tags:
+- hewan
+raw data:
+  term: rubahe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fox
+    epo: vulpo
+    spa: zorro, _Vulpini_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Parsisa (\u0631\u0648\u0628\u0627\u0647 \u201Crubah\u201D), Indonesisa
+    (rubah)"
+...

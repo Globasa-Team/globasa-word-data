@@ -1,0 +1,74 @@
+---
+term: triunfa
+slug: triunfa
+ipa: "t\u027Ei\u02C8unfa"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Ei\u02C8unfa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - victory
+    - triumph
+  - - win
+    - triumph (over)
+    - defeat
+  epo:
+  - - venko
+    - triumfo
+  - - triumfi (sur)
+    - venki
+  spa:
+  - - triunfo
+    - victoria
+  - - triunfar
+    - ganar
+search terms:
+  glb:
+  - triunfa
+  eng:
+    0: victory
+    1: triumph
+    2: win
+    3: triumph over
+    5: defeat
+  epo:
+  - venko
+  - triumfo
+  - triumfi sur
+  - triumfi
+  - venki
+  spa:
+  - triunfo
+  - victoria
+  - triunfar
+  - ganar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - triumph
+    - triumphal
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+raw data:
+  term: triunfa
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: victory, triumph; win, triumph (over), defeat
+    epo: venko, triumfo; triumfi (sur), venki
+    spa: triunfo, victoria; triunfar, ganar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (triumph, triumphal), Fransesa, Doycisa, Rusisa, Espanisa
+...

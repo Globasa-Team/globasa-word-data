@@ -1,0 +1,52 @@
+---
+term: denloka hu
+slug: denloka hu
+ipa: "den\u02C8loka xu"
+ipa link: "http://ipa-reader.xyz/?text=den\u02C8loka xu&voice=Ewa"
+status: false
+category: phrase
+word class: m
+trans:
+  eng:
+  - - _subordinate clause:_ where
+    - wherever
+  epo:
+  - - (tie
+    - ) kie
+  spa:
+  - - donde
+search terms:
+  glb:
+  - denloka hu
+  - denloka
+  - hu
+  eng:
+  - wherever
+  epo:
+  - tie
+  - (tie
+  - kie
+  spa:
+  - donde
+etymology_type: DERIVD
+etymology: <a href="../lexi/den">den</a> + <a href="../lexi/loka">loka</a>, <a href="../lexi/hu">hu</a>
+raw data:
+  term: denloka hu
+  category: phrase
+  word class: m
+  status: false
+  trans:
+    eng: _subordinate clause:_ where, wherever
+    epo: (tie,) kie
+    spa: donde
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: den + loka, hu
+...

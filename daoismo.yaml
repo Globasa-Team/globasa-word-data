@@ -1,0 +1,50 @@
+---
+term: daoismo
+slug: daoismo
+ipa: "dao\u02C8ismo"
+ipa link: "http://ipa-reader.xyz/?text=dao\u02C8ismo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Taoism
+  epo:
+  - - taoismo
+    - "da\u016Dismo"
+    - "ta\u016Dismo"
+  spa:
+  - - "tao\xEDsmo"
+search terms:
+  glb:
+  - daoismo
+  eng:
+  - taoism
+  epo:
+  - taoismo
+  - "da\u016Dismo"
+  - "ta\u016Dismo"
+  spa:
+  - "tao\xEDsmo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/dao">dao</a> + <a href="../lexi/-ismo">-ismo</a>
+raw data:
+  term: daoismo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Taoism
+    epo: "taoismo, da\u016Dismo, ta\u016Dismo"
+    spa: "tao\xEDsmo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dao + -ismo
+...

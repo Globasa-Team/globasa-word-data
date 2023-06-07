@@ -1,0 +1,55 @@
+---
+term: kisencun
+slug: kisencun
+ipa: "kisen\u02C8t\u0361\u0283un"
+ipa link: "http://ipa-reader.xyz/?text=kisen\u02C8t\u0361\u0283un&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - parasite
+  epo:
+  - - parasito
+  spa:
+  - - "par\xE1sito"
+search terms:
+  glb:
+  - kisencun
+  eng:
+  - parasite
+  epo:
+  - parasito
+  spa:
+  - "par\xE1sito"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5BC4\u751F\u87F2 \"jixengcung\""
+  Niponsa:
+  - - "\u5BC4\u751F\u866B \"kisecu\""
+  Vyetnamsa:
+  - - "k\xED sinh tr\xF9ng"
+  Hangusa:
+  - - "\uAE30\uC0DD\uCDA9 \"gisengcung\""
+raw data:
+  term: kisencun
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: parasite
+    epo: parasito
+    spa: "par\xE1sito"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5BC4\u751F\u87F2 \"jixengcung\"), Niponsa (\u5BC4\u751F\u866B
+    \"kisecu\"), Vyetnamsa (k\xED sinh tr\xF9ng), Hangusa (\uAE30\uC0DD\uCDA9 \"gisengcung\")"
+...

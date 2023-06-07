@@ -1,0 +1,52 @@
+---
+term: possukses
+slug: possukses
+ipa: "possuk\u02C8ses"
+ipa link: "http://ipa-reader.xyz/?text=possuk\u02C8ses&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - failure
+  - - fail
+  epo:
+  - - malsukceso
+  - - malsukcesi
+  spa:
+  - - fracaso
+  - - fracasar
+search terms:
+  glb:
+  - possukses
+  eng:
+  - failure
+  - fail
+  epo:
+  - malsukceso
+  - malsukcesi
+  spa:
+  - fracaso
+  - fracasar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/sukses">sukses</a>
+raw data:
+  term: possukses
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: failure; fail
+    epo: malsukceso; malsukcesi
+    spa: fracaso; fracasar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + sukses
+...

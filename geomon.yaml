@@ -1,0 +1,57 @@
+---
+term: geomon
+slug: geomon
+ipa: "geo\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=geo\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - plot (of land)
+    - field
+  epo:
+  - - agro
+    - kampo
+    - terpeco
+    - tereno
+  spa:
+  - - terreno
+    - campo
+search terms:
+  glb:
+  - geomon
+  eng:
+  - plot of land
+  - plot
+  - field
+  epo:
+  - agro
+  - kampo
+  - terpeco
+  - tereno
+  spa:
+  - terreno
+  - campo
+etymology_type: DERIVD
+etymology: <a href="../lexi/geo">geo</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: geomon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: plot (of land), field
+    epo: agro, kampo, terpeco, tereno
+    spa: terreno, campo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: geo + -mon
+...

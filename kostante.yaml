@@ -1,0 +1,54 @@
+---
+term: kostante
+slug: kostante
+ipa: "kos\u02C8tante"
+ipa link: "http://ipa-reader.xyz/?text=kos\u02C8tante&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - constant
+    - constantly
+  epo:
+  - - konstanta
+  - - konstante
+  spa:
+  - - constante
+  - - constantemente
+search terms:
+  glb:
+  - kostante
+  eng:
+  - constant
+  - constantly
+  epo:
+  - konstanta
+  - konstante
+  spa:
+  - constante
+  - constantemente
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kostante
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: constant, constantly
+    epo: konstanta; konstante
+    spa: constante; constantemente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (constant), Fransesa (constant), Doycisa (konstant), Rusisa
+    (\u043A\u043E\u043D\u0441\u0442\u0430\u043D\u0442\u0430), Espanisa (constante),
+    Indonesisa (konstan)"
+...

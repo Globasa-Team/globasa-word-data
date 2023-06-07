@@ -1,0 +1,48 @@
+---
+term: logika
+slug: logika
+ipa: "lo\u02C8gika"
+ipa link: "http://ipa-reader.xyz/?text=lo\u02C8gika&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - logic
+  epo:
+  - - logiko
+  spa:
+  - - "l\xF3gica"
+search terms:
+  glb:
+  - logika
+  eng:
+  - logic
+  epo:
+  - logiko
+  spa:
+  - "l\xF3gica"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: logika
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: logic
+    epo: logiko
+    spa: "l\xF3gica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (logic), Fransesa (logique), Doycisa (Logik), Rusisa (\u043B\u043E\u0433\u0438\u043A\u0430
+    \u201Cl\xF3gika\u201D), Espanisa (l\xF3gica), Indonesisa (logika), Pilipinasa
+    (lohika)"
+...

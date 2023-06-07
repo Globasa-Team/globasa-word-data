@@ -1,0 +1,49 @@
+---
+term: mas
+slug: mas
+ipa: mas
+ipa link: http://ipa-reader.xyz/?text=mas&voice=Ewa
+status: true
+category: root
+word class: l
+trans:
+  eng:
+  - - but
+  epo:
+  - - sed
+  spa:
+  - - pero
+    - mas
+search terms:
+  glb:
+  - mas
+  eng:
+  - but
+  epo:
+  - sed
+  spa:
+  - pero
+  - mas
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mas
+  category: root
+  word class: l
+  status: true
+  trans:
+    eng: but
+    epo: sed
+    spa: pero, mas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (mas), Fransesa (mais), Nederisa (maar), Arabisa (\u0623\u0645\u0627
+    \u201Camma\u201D), Parsisa (\u0627\u0645\u0627 \u201Camma\u201D), Turkisa (ama)"
+...

@@ -1,0 +1,55 @@
+---
+term: kantaka
+slug: kantaka
+ipa: "kan\u02C8taka"
+ipa link: "http://ipa-reader.xyz/?text=kan\u02C8taka&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - thorn
+    - barb
+    - prickle
+  epo:
+  - - dorno
+    - piko
+  spa:
+  - - espina
+    - "p\xFAa"
+search terms:
+  glb:
+  - kantaka
+  eng:
+  - thorn
+  - barb
+  - prickle
+  epo:
+  - dorno
+  - piko
+  spa:
+  - espina
+  - "p\xFAa"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kantaka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: thorn, barb, prickle
+    epo: dorno, piko
+    spa: "espina, p\xFAa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (acantha, acantho-) Hindisa (\u0915\u093E\u0901\u091F\u093E
+    \u201Ckanta\u201D), Telugusa (\u0C15\u0C02\u0C1F\u0C15\u0C2E\u0C41 \u201Ckantakamu\u201D)"
+...

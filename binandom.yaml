@@ -1,0 +1,50 @@
+---
+term: binandom
+slug: binandom
+ipa: "binan\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=binan\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - asylum
+    - refuge
+  epo:
+  - - "rifu\u011Dejo"
+  spa:
+  - - asilo
+    - refugio
+search terms:
+  glb:
+  - binandom
+  eng:
+  - asylum
+  - refuge
+  epo:
+  - "rifu\u011Dejo"
+  spa:
+  - asilo
+  - refugio
+etymology_type: DERIVD
+etymology: <a href="../lexi/binan">binan</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: binandom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: asylum, refuge
+    epo: "rifu\u011Dejo"
+    spa: asilo, refugio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: binan + -dom
+...

@@ -1,0 +1,66 @@
+---
+term: biradom
+slug: biradom
+ipa: "bi\u027Ea\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=bi\u027Ea\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - bar
+    - pub
+    - tavern
+  - - brewery
+  epo:
+  - - bierejo
+    - trinkejo
+    - drinkejo
+    - taverno
+  - - bierfarejo
+  spa:
+  - - bar
+    - cantina
+    - taberna
+    - "cervecer\xEDa"
+search terms:
+  glb:
+  - biradom
+  eng:
+  - bar
+  - pub
+  - tavern
+  - brewery
+  epo:
+  - bierejo
+  - trinkejo
+  - drinkejo
+  - taverno
+  - bierfarejo
+  spa:
+  - bar
+  - cantina
+  - taberna
+  - "cervecer\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bira">bira</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: biradom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: bar, pub, tavern; brewery
+    epo: bierejo, trinkejo, drinkejo, taverno; bierfarejo
+    spa: "bar, cantina, taberna, cervecer\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bira + -dom
+...

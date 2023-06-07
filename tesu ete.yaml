@@ -1,0 +1,54 @@
+---
+term: tesu ete
+slug: tesu ete
+ipa: "\u02C8tesu \u02C8ete"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tesu \u02C8ete&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - hers
+    - his (_those beings belonging to her/him_)
+  epo:
+  - - la liaj
+    - "la \u015Diaj"
+    - la riaj
+  spa:
+  - - "los de \xE9l (_seres vivientes_)"
+search terms:
+  glb:
+  - tesu ete
+  - tesu
+  - ete
+  eng:
+  - hers
+  - his
+  epo:
+  - la liaj
+  - "la \u015Diaj"
+  - la riaj
+  spa:
+  - "los de \xE9l"
+etymology_type: DERIVD
+etymology: <a href="../lexi/te">te</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/ete">ete</a>
+raw data:
+  term: tesu ete
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: hers, his (_those beings belonging to her/him_)
+    epo: "la liaj, la \u015Diaj, la riaj"
+    spa: "los de \xE9l (_seres vivientes_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: te + -su, ete
+...

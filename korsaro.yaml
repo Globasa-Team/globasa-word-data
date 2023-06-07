@@ -1,0 +1,58 @@
+---
+term: korsaro
+slug: korsaro
+ipa: "ko\u027E\u02C8sa\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=ko\u027E\u02C8sa\u027Eo&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pirate
+    - corsair
+  epo:
+  - - pirato
+    - korsaro
+  - - pirati
+  spa:
+  - - pirata
+    - corsario
+search terms:
+  glb:
+  - korsaro
+  eng:
+  - pirate
+  - corsair
+  epo:
+  - pirato
+  - korsaro
+  - pirati
+  spa:
+  - pirata
+  - corsario
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- insan
+raw data:
+  term: korsaro
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: pirate, corsair
+    epo: pirato, korsaro; pirati
+    spa: pirata, corsario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: "Italisa (corsaro), English (corsair), Fransesa (corsaire), Rusisa (\u043A\u043E\u0440\u0441\u0430\u0440
+    \"korsar\"), Doycisa (Korsar), Arabisa (\u0642\u064F\u0631\u0652\u0635\u064E\u0627\u0646
+    \"kursan\"), Turkisa (korsan)"
+...

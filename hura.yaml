@@ -1,0 +1,59 @@
+---
+term: hura
+slug: hura
+ipa: "\u02C8xu\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xu\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: il
+trans:
+  eng:
+  - - hooray
+    - hurrah
+    - hoorah
+    - yay
+    - woo-hoo
+  epo:
+  - - hura
+  spa:
+  - - hurra
+search terms:
+  glb:
+  - hura
+  eng:
+  - hooray
+  - hurrah
+  - hoorah
+  - yay
+  - woo-hoo
+  epo:
+  - hura
+  spa:
+  - hurra
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- intrelogalexi
+raw data:
+  term: hura
+  category: root
+  word class: il
+  status: true
+  trans:
+    eng: hooray, hurrah, hoorah, yay, woo-hoo
+    epo: hura
+    spa: hurra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: "Englisa (hurra), Fransesa (hourra), Doycisa (hurra), Rusisa (\u0443\u0440\u0430
+    \u201Cura\u201D), Espanisa (hurra), Putunhwa (\u597D\u54C7 \u201Chawwa\u201D),
+    Hindisa (\u0939\u0941\u0930\u094D\u0930\u093E \u201Chura\u201D), Indonesisa (hore),
+    Parsisa (\u0647\u0648\u0631\u0627 \u201Chur\xE2\u201D)"
+...

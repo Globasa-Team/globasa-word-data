@@ -1,0 +1,64 @@
+---
+term: bibi
+slug: bibi
+ipa: ˈbibi
+ipa link: http://ipa-reader.xyz/?text=ˈbibi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - honk
+  epo:
+  - - hupo
+  - - hupi
+    - korni
+  spa:
+  - - claxon
+    - bocinazo
+  - - pitar
+    - sonar el claxon
+search terms:
+  glb:
+  - bibi
+  eng:
+  - honk
+  epo:
+  - hupo
+  - hupi
+  - korni
+  spa:
+  - claxon
+  - bocinazo
+  - pitar
+  - sonar el claxon
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Arabisa: ~
+  Englisa: ~
+  Rusisa: ~
+  Portugalsa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Vyetnamsa: ~
+raw data:
+  term: bibi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: honk
+    epo: hupo; hupi, korni
+    spa: claxon, bocinazo; pitar, sonar el claxon
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwasilexi - Arabisa, Englisa ( ), Rusisa, Portugalsa, Pilipinasa, Turkisa,
+    Vyetnamsa
+...

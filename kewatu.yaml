@@ -1,0 +1,46 @@
+---
+term: kewatu
+slug: kewatu
+ipa: "ke\u02C8watu"
+ipa link: "http://ipa-reader.xyz/?text=ke\u02C8watu&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - when
+  epo:
+  - - kiam
+  spa:
+  - - "\xBFcu\xE1ndo?"
+search terms:
+  glb:
+  - kewatu
+  eng:
+  - when
+  epo:
+  - kiam
+  spa:
+  - "\xBFcu\xE1ndo?"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ke">ke</a> + <a href="../lexi/watu">watu</a>
+raw data:
+  term: kewatu
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: when
+    epo: kiam
+    spa: "\xBFcu\xE1ndo?"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ke + watu
+...

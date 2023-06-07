@@ -1,0 +1,52 @@
+---
+term: kliku
+slug: kliku
+ipa: "\u02C8kliku"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kliku&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - click (on)
+  epo:
+  - - klako
+  - - klaki
+  spa:
+  - - clic
+  - - hacer clic en
+search terms:
+  glb:
+  - kliku
+  eng:
+  - click on
+  - click
+  epo:
+  - klako
+  - klaki
+  spa:
+  - clic
+  - hacer clic en
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kliku
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: click (on)
+    epo: klako; klaki
+    spa: clic; hacer clic en
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (click), Fransesa (cluc), Doycisa (Klick), Espanisa (clic),
+    Indonesisa (klik), Pilipinasa (magklik), Niponsa (\u30AF\u30EA\u30C3\u30AF \u201Ckurikku\u201D)"
+...

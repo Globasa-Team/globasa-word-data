@@ -1,0 +1,48 @@
+---
+term: payagi
+slug: payagi
+ipa: "pa\u02C8jagi"
+ipa link: "http://ipa-reader.xyz/?text=pa\u02C8jagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - charge (_cause to pay_)
+  epo:
+  - - pagigo
+  - - pagigi
+  spa:
+  - - cobrar
+search terms:
+  glb:
+  - payagi
+  eng:
+  - charge
+  epo:
+  - pagigo
+  - pagigi
+  spa:
+  - cobrar
+etymology_type: DERIVD
+etymology: <a href="../lexi/paya">paya</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: payagi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: charge (_cause to pay_)
+    epo: pagigo; pagigi
+    spa: cobrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: paya + -gi
+...

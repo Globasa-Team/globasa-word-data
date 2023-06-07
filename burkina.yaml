@@ -1,0 +1,52 @@
+---
+term: burkina
+slug: burkina
+ipa: "bu\u027E\u02C8kina"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027E\u02C8kina&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Burkina Faso
+  epo:
+  - - Burkino
+    - Burkina Faso
+  spa:
+  - - Burkina Faso
+search terms:
+  glb:
+  - burkina
+  eng:
+  - burkina faso
+  epo:
+  - burkino
+  - burkina faso
+  spa:
+  - burkina faso
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - Burkina
+tags:
+- dexa
+raw data:
+  term: Burkina
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Burkina Faso
+    epo: Burkino, Burkina Faso
+    spa: Burkina Faso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Fransesa (Burkina)
+...

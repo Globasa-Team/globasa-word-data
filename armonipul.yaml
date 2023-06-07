@@ -1,0 +1,48 @@
+---
+term: armonipul
+slug: armonipul
+ipa: "a\u027Emoni\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Emoni\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - harmonious
+  epo:
+  - - harmonia
+  - - harmonie
+  spa:
+  - - armonioso
+search terms:
+  glb:
+  - armonipul
+  eng:
+  - harmonious
+  epo:
+  - harmonia
+  - harmonie
+  spa:
+  - armonioso
+etymology_type: DERIVD
+etymology: <a href="../lexi/armoni">armoni</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: armonipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: harmonious
+    epo: harmonia; harmonie
+    spa: armonioso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: armoni + -pul
+...

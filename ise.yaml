@@ -1,0 +1,46 @@
+---
+term: ise
+slug: ise
+ipa: "\u02C8ise"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ise&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter s
+  epo:
+  - - litero s
+  spa:
+  - - letra s
+search terms:
+  glb:
+  - ise
+  eng:
+  - letter s
+  epo:
+  - litero s
+  spa:
+  - letra s
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ise
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter s
+    epo: litero s
+    spa: letra s
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

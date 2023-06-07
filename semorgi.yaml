@@ -1,0 +1,56 @@
+---
+term: semorgi
+slug: semorgi
+ipa: "se\u02C8mo\u027Egi"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8mo\u027Egi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - suicide
+  - - commit suicide
+    - kill oneself
+    - take one's life
+  epo:
+  - - memmortigo
+  - - memmortigi
+  spa:
+  - - suicidio
+  - - suicidarse
+search terms:
+  glb:
+  - semorgi
+  eng:
+  - suicide
+  - commit suicide
+  - kill oneself
+  - take one's life
+  epo:
+  - memmortigo
+  - memmortigi
+  spa:
+  - suicidio
+  - suicidarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/se-">se-</a> + <a href="../lexi/morgi">morgi</a>
+raw data:
+  term: semorgi
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: suicide; commit suicide, kill oneself, take one's life
+    epo: memmortigo; memmortigi
+    spa: suicidio; suicidarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se- + morgi
+...

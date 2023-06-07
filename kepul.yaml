@@ -1,0 +1,50 @@
+---
+term: kepul
+slug: kepul
+ipa: "ke\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=ke\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - like what
+    - how
+    - in what way
+  epo:
+  - - kiel
+  spa:
+  - - "\xBFc\xF3mo? \xBFde qu\xE9 manera? \xBFcomo qu\xE9?"
+search terms:
+  glb:
+  - kepul
+  eng:
+  - like what
+  - how
+  - in what way
+  epo:
+  - kiel
+  spa:
+  - "\xBFc\xF3mo? \xBFde qu\xE9 manera? \xBFcomo qu\xE9?"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ke">ke</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: kepul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: like what, how, in what way
+    epo: kiel
+    spa: "\xBFc\xF3mo? \xBFde qu\xE9 manera? \xBFcomo qu\xE9?"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ke + -pul
+...

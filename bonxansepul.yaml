@@ -1,0 +1,57 @@
+---
+term: bonxansepul
+slug: bonxansepul
+ipa: "bon\u0283anse\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=bon\u0283anse\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - fortunate
+    - fortunately
+    - lucky
+    - luckily
+  epo:
+  - - "bon\u015Danca"
+  - - "bon\u015Dance"
+  spa:
+  - - afortunado
+  - - afortunadamente
+search terms:
+  glb:
+  - bonxansepul
+  eng:
+  - fortunate
+  - fortunately
+  - lucky
+  - luckily
+  epo:
+  - "bon\u015Danca"
+  - "bon\u015Dance"
+  spa:
+  - afortunado
+  - afortunadamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/xanse">xanse</a> + <a
+  href="../lexi/-pul">-pul</a>
+raw data:
+  term: bonxansepul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: fortunate, fortunately, lucky, luckily
+    epo: "bon\u015Danca; bon\u015Dance"
+    spa: afortunado; afortunadamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bon- + xanse + -pul
+...

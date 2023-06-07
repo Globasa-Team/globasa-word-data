@@ -1,0 +1,58 @@
+---
+term: kasete
+slug: kasete
+ipa: "ka\u02C8sete"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8sete&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cassette
+  epo:
+  - - kasedo
+    - kaseto
+  spa:
+  - - _cassette_
+    - casete
+search terms:
+  glb:
+  - kasete
+  eng:
+  - cassette
+  epo:
+  - kasedo
+  - kaseto
+  spa:
+  - cassette
+  - casete
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kasete
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cassette
+    epo: kasedo, kaseto
+    spa: _cassette_, casete
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cassette), Espanisa (casete), Fransesa (cassette), Rusisa (\u043A\u0430\u0441\u0441\u0435\u0442\u0430
+    \u201Ckaseta\u201D), Doycisa (Kassette), Indonesisa (kas\xE9t), Pilipinasa (kaset),
+    Putunhwa (\u5361\u5F0F \u201Ckaxi\", \u5361\u5323 \u201Ckaxya\u201D), Hindisa
+    (\u0915\u0948\u0938\u0947\u091F \u201Ckeset\u201D), Arabisa (\u0643\u064E\u0627\u0633\u0650\u064A\u062A
+    \u201Ckaset\", \u0643\u064E\u0627\u0633\u0650\u064A\u062A \u201Ckasit\u201D),
+    Niponsa (\u30AB\u30BB\u30C3\u30C8 \u201Ckasetto\u201D), Telugusa (\u0C15\u0C4D\u0C2F\u0C3E\u0C38\u0C46\u0C1F\u0C4D
+    \u201Ckyaset\u201D), Turkisa (kaset), Vyetnamsa (c\xE1t-x\xE9t), Hangusa (\uCE74\uC138\uD2B8
+    \u201Ckasetu\u201D), Parsisa (\u06A9\u0627\u0633\u062A \u201Ckaset\u201D), Swahilisa
+    (kaseti)"
+...

@@ -1,0 +1,48 @@
+---
+term: bonsoba
+slug: bonsoba
+ipa: "bon\u02C8soba"
+ipa link: "http://ipa-reader.xyz/?text=bon\u02C8soba&voice=Ewa"
+status: false
+category: derived
+word class: il
+trans:
+  eng:
+  - - good morning
+  epo:
+  - - bonan matenon
+  spa:
+  - - "buenos d\xEDas"
+search terms:
+  glb:
+  - bonsoba
+  eng:
+  - good morning
+  epo:
+  - bonan matenon
+  spa:
+  - "buenos d\xEDas"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/soba">soba</a>
+tags:
+- intrelogalexi
+raw data:
+  term: bonsoba
+  category: derived
+  word class: il
+  status: false
+  trans:
+    eng: good morning
+    epo: bonan matenon
+    spa: "buenos d\xEDas"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: bon- + soba
+...

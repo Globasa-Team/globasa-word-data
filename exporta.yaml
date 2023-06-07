@@ -1,0 +1,54 @@
+---
+term: exporta
+slug: exporta
+ipa: "e\u0283\u02C8po\u027Eta"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283\u02C8po\u027Eta&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - export
+  epo:
+  - - elporto
+    - eksporto
+  - - elporti
+    - eksporti
+  spa:
+  - - "exportaci\xF3n"
+  - - exportar
+search terms:
+  glb:
+  - exporta
+  eng:
+  - export
+  epo:
+  - elporto
+  - eksporto
+  - elporti
+  - eksporti
+  spa:
+  - "exportaci\xF3n"
+  - exportar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/porta">porta</a>
+raw data:
+  term: exporta
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: export
+    epo: elporto, eksporto; elporti, eksporti
+    spa: "exportaci\xF3n; exportar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex- + porta
+...

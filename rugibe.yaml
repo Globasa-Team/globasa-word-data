@@ -1,0 +1,50 @@
+---
+term: rugibe
+slug: rugibe
+ipa: "\u027Eu\u02C8gibe"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8gibe&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - return
+    - give back
+  epo:
+  - - redono
+  - - redoni
+  spa:
+  - - devolver
+search terms:
+  glb:
+  - rugibe
+  eng:
+  - return
+  - give back
+  epo:
+  - redono
+  - redoni
+  spa:
+  - devolver
+etymology_type: DERIVD
+etymology: <a href="../lexi/ru-">ru-</a> + <a href="../lexi/gibe">gibe</a>
+raw data:
+  term: rugibe
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: return, give back
+    epo: redono; redoni
+    spa: devolver
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ru- + gibe
+...

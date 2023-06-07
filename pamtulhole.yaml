@@ -1,0 +1,50 @@
+---
+term: pamtulhole
+slug: pamtulhole
+ipa: "pamtul\u02C8xole"
+ipa link: "http://ipa-reader.xyz/?text=pamtul\u02C8xole&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - holster
+  epo:
+  - - pafilujo
+  spa:
+  - - pistolera
+    - funda de pistola
+    - cartuchera
+search terms:
+  glb:
+  - pamtulhole
+  eng:
+  - holster
+  epo:
+  - pafilujo
+  spa:
+  - pistolera
+  - funda de pistola
+  - cartuchera
+etymology_type: DERIVD
+etymology: <a href="../lexi/pam">pam</a> + <a href="../lexi/-tul">-tul</a> + <a href="../lexi/-hole">-hole</a>
+raw data:
+  term: pamtulhole
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: holster
+    epo: pafilujo
+    spa: pistolera, funda de pistola, cartuchera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pam + -tul + -hole
+...

@@ -1,0 +1,46 @@
+---
+term: fol-
+slug: fol-
+ipa: "\u02C8fol-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8fol-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - according to
+  epo:
+  - - "la\u016D-"
+  spa:
+  - - "seg\xFAn"
+search terms:
+  glb:
+  - fol-
+  eng:
+  - according to
+  epo:
+  - "la\u016D-"
+  spa:
+  - "seg\xFAn"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/folo">folo</a>.
+raw data:
+  term: fol-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: according to
+    epo: "la\u016D-"
+    spa: "seg\xFAn"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _folo_.
+...

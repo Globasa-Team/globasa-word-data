@@ -1,0 +1,60 @@
+---
+term: inya
+slug: inya
+ipa: "\u02C8inja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8inja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - inside
+  - - be in
+    - be inside
+    - be inside of
+  epo:
+  - - interno
+  - - esti interna
+  - - esti en
+  spa:
+  - - interior
+    - parte de adentro
+  - - estar dentro
+search terms:
+  glb:
+  - inya
+  eng:
+  - inside
+  - be in
+  - be inside
+  - be inside of
+  epo:
+  - interno
+  - esti interna
+  - esti en
+  spa:
+  - interior
+  - parte de adentro
+  - estar dentro
+etymology_type: DERIVD
+etymology: <a href="../lexi/in">in</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: inya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: inside; be in, be inside, be inside of
+    epo: interno; esti interna; esti en
+    spa: interior, parte de adentro; estar dentro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in + -ya
+...

@@ -1,0 +1,60 @@
+---
+term: ofata
+slug: ofata
+ipa: "o\u02C8fata"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8fata&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - source
+    - provenance
+  - - come from
+    - be sourced from
+  epo:
+  - - deveno
+  - - deveni
+  spa:
+  - - procedencia
+    - origen
+    - fuente
+  - - provenir
+search terms:
+  glb:
+  - ofata
+  eng:
+  - source
+  - provenance
+  - come from
+  - be sourced from
+  epo:
+  - deveno
+  - deveni
+  spa:
+  - procedencia
+  - origen
+  - fuente
+  - provenir
+etymology_type: DERIVD
+etymology: <a href="../lexi/of-">of-</a> + <a href="../lexi/ata">ata</a>
+raw data:
+  term: ofata
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: source, provenance; come from, be sourced from
+    epo: deveno; deveni
+    spa: procedencia, origen, fuente; provenir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: of- + ata
+...

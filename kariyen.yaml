@@ -1,0 +1,46 @@
+---
+term: kariyen
+slug: kariyen
+ipa: "ka\u027Ei\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027Ei\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - buyer
+  epo:
+  - - "a\u0109etanto"
+  spa:
+  - - comprador
+search terms:
+  glb:
+  - kariyen
+  eng:
+  - buyer
+  epo:
+  - "a\u0109etanto"
+  spa:
+  - comprador
+etymology_type: DERIVD
+etymology: <a href="../lexi/kari">kari</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: kariyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: buyer
+    epo: "a\u0109etanto"
+    spa: comprador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kari + -yen
+...

@@ -1,0 +1,59 @@
+---
+term: xidu
+slug: xidu
+ipa: "\u02C8\u0283idu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283idu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - attempt
+    - try
+  epo:
+  - - provo
+  - - provi
+  spa:
+  - - intento
+  - - intentar
+    - tratar
+search terms:
+  glb:
+  - xidu
+  eng:
+  - attempt
+  - try
+  epo:
+  - provo
+  - provi
+  spa:
+  - intento
+  - intentar
+  - tratar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u8BD5\u56FE \u201Csh\xECt\xFA\u201D"
+  Hangusa:
+  - - "\uC2DC\uB3C4 \u201Csido\u201D"
+raw data:
+  term: xidu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: attempt, try
+    epo: provo; provi
+    spa: intento; intentar, tratar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u8BD5\u56FE \u201Csh\xECt\xFA\u201D), Hangusa (\uC2DC\uB3C4
+    \u201Csido\u201D)"
+...

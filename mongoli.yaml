@@ -1,0 +1,53 @@
+---
+term: mongoli
+slug: mongoli
+ipa: "mon\u02C8goli"
+ipa link: "http://ipa-reader.xyz/?text=mon\u02C8goli&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Mongolia
+  epo:
+  - - Mongolio
+    - Mongolujo
+  spa:
+  - - Mongolia
+search terms:
+  glb:
+  - mongoli
+  eng:
+  - mongolia
+  epo:
+  - mongolio
+  - mongolujo
+  spa:
+  - mongolia
+etymology_type: NATLNG
+etymology:
+  Mongolisa:
+  - - "\u041C\u043E\u043D\u0433\u043E\u043B \u0423\u043B\u0441 \u201CMongol Uls\u201D"
+tags:
+- dexa
+raw data:
+  term: Mongoli
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Mongolia
+    epo: Mongolio, Mongolujo
+    spa: Mongolia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Mongolisa (\u041C\u043E\u043D\u0433\u043E\u043B \u0423\u043B\u0441 \u201CMongol
+    Uls\u201D)"
+...

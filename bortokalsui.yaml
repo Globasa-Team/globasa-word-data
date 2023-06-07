@@ -1,0 +1,48 @@
+---
+term: bortokalsui
+slug: bortokalsui
+ipa: "bo\u027Etokal\u02C8sui"
+ipa link: "http://ipa-reader.xyz/?text=bo\u027Etokal\u02C8sui&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - orangeade
+  epo:
+  - - "oran\u011Dakvo"
+  spa:
+  - - naranjada
+    - agua de naranja
+search terms:
+  glb:
+  - bortokalsui
+  eng:
+  - orangeade
+  epo:
+  - "oran\u011Dakvo"
+  spa:
+  - naranjada
+  - agua de naranja
+etymology_type: DERIVD
+etymology: <a href="../lexi/bortokal">bortokal</a> + <a href="../lexi/sui">sui</a>
+raw data:
+  term: bortokalsui
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: orangeade
+    epo: "oran\u011Dakvo"
+    spa: naranjada, agua de naranja
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bortokal + sui
+...

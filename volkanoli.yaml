@@ -1,0 +1,52 @@
+---
+term: volkanoli
+slug: volkanoli
+ipa: "volka\u02C8noli"
+ipa link: "http://ipa-reader.xyz/?text=volka\u02C8noli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - volcanic
+    - volcanically
+  epo:
+  - - vulkana
+  - - vulkane
+  spa:
+  - - "volc\xE1nico"
+  - - "volc\xE1nicamente"
+search terms:
+  glb:
+  - volkanoli
+  eng:
+  - volcanic
+  - volcanically
+  epo:
+  - vulkana
+  - vulkane
+  spa:
+  - "volc\xE1nico"
+  - "volc\xE1nicamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/volkano">volkano</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: volkanoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: volcanic, volcanically
+    epo: vulkana; vulkane
+    spa: "volc\xE1nico; volc\xE1nicamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: volkano + -li
+...

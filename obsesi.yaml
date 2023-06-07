@@ -1,0 +1,63 @@
+---
+term: obsesi
+slug: obsesi
+ipa: "ob\u02C8sesi"
+ipa link: "http://ipa-reader.xyz/?text=ob\u02C8sesi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - obsession
+  - - obsess
+  epo:
+  - - obsedo
+  - - obsedi
+  spa:
+  - - "obsesi\xF3n"
+  - - obsesionarse
+search terms:
+  glb:
+  - obsesi
+  eng:
+  - obsession
+  - obsess
+  epo:
+  - obsedo
+  - obsedi
+  spa:
+  - "obsesi\xF3n"
+  - obsesionarse
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Obsession
+  Englisa:
+  - - obsession
+  Espanisa:
+  - - "obsesi\xF3n"
+  Fransesa:
+  - - obsession
+  Indonesisa:
+  - - obsesi
+raw data:
+  term: obsesi
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: obsession; obsess
+    epo: obsedo; obsedi
+    spa: "obsesi\xF3n; obsesionarse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Obsession), Englisa (obsession), Espanisa (obsesi\xF3n), Fransesa
+    (obsession), Indonesisa (obsesi)"
+...

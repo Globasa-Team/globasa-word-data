@@ -1,0 +1,80 @@
+---
+term: serotonin
+slug: serotonin
+ipa: "se\u027Eoto\u02C8nin"
+ipa link: "http://ipa-reader.xyz/?text=se\u027Eoto\u02C8nin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - serotonin
+  epo:
+  - - serotonino
+  spa:
+  - - serotonina
+search terms:
+  glb:
+  - serotonin
+  eng:
+  - serotonin
+  epo:
+  - serotonino
+  spa:
+  - serotonina
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - serotonin
+  Doycisa: ~
+  Indonesisa: ~
+  Turkisa: ~
+  Pilipinasa: ~
+  Vyetnamsa: ~
+  Espanisa:
+  - - serotonina
+  Fransesa:
+  - - "s\xE9rotonine"
+  Rusisa:
+  - - "\u0441\u0435\u0440\u043E\u0442\u043E\u043D\u0438\u043D \u201Cserotonin\u201D"
+  Arabisa:
+  - - "\u0633\u064A\u0631\u0648\u062A\u0648\u0646\u064A\u0646 \u201Csirutunin\u201D"
+  Hindisa:
+  - - "\u0938\u0940\u0930\u094B\u091F\u094B\u0928\u093F\u0928 \u201Cs\u012Br\u014D\u1E6D\u014Dnina\u201D"
+  Niponsa:
+  - - "\u30BB\u30ED\u30C8\u30CB\u30F3 \u201Cserotonin\u201D"
+  Hangusa:
+  - - "\uC138\uB85C\uD1A0\uB2CC \u201Cserotonin\u201D"
+  Telugusa:
+  - - "\u0C38\u0C46\u0C30\u0C4B\u0C1F\u0C4B\u0C28\u0C3F\u0C28\u0C4D \u201Cser\u014D\u1E6D\u014Dnin\u201D"
+  Parsisa:
+  - - "\u0633\u0631\u0648\u062A\u0648\u0646\u06CC\u0646"
+tags:
+- medis
+raw data:
+  term: serotonin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: serotonin
+    epo: serotonino
+    spa: serotonina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (serotonin), Doycisa, Indonesisa, Turkisa, Pilipinasa, Vyetnamsa,
+    Espanisa (serotonina), Fransesa (s\xE9rotonine), Rusisa (\u0441\u0435\u0440\u043E\u0442\u043E\u043D\u0438\u043D
+    \u201Cserotonin\u201D), Arabisa (\u0633\u064A\u0631\u0648\u062A\u0648\u0646\u064A\u0646
+    \u201Csirutunin\u201D), Hindisa (\u0938\u0940\u0930\u094B\u091F\u094B\u0928\u093F\u0928
+    \u201Cs\u012Br\u014D\u1E6D\u014Dnina\u201D), Niponsa (\u30BB\u30ED\u30C8\u30CB\u30F3
+    \u201Cserotonin\u201D), Hangusa (\uC138\uB85C\uD1A0\uB2CC \u201Cserotonin\u201D),
+    Telugusa (\u0C38\u0C46\u0C30\u0C4B\u0C1F\u0C4B\u0C28\u0C3F\u0C28\u0C4D \u201Cser\u014D\u1E6D\u014Dnin\u201D),
+    Parsisa (\u0633\u0631\u0648\u062A\u0648\u0646\u06CC\u0646)"
+...

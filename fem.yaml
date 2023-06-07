@@ -1,0 +1,64 @@
+---
+term: fem
+slug: fem
+ipa: ˈfem
+ipa link: http://ipa-reader.xyz/?text=ˈfem&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - female
+    - feminine
+  epo:
+  - - ina
+  - - ine
+  spa:
+  - - femenino
+search terms:
+  glb:
+  - fem
+  eng:
+  - female
+  - feminine
+  epo:
+  - ina
+  - ine
+  spa:
+  - femenino
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - female
+  Fransesa:
+  - - femelle
+    - féminin
+  Doycisa:
+  - - feminin
+  Espanisa:
+  - - feminino
+  Indonesisa:
+  - - feminin
+  Turkisa:
+  - - feminen
+raw data:
+  term: fem
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: female, feminine
+    epo: ina; ine
+    spa: femenino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (female), Fransesa (femelle, féminin), Doycisa (feminin), Espanisa
+    (feminino), Indonesisa (feminin), Turkisa (feminen)
+...

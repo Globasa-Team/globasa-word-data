@@ -1,0 +1,51 @@
+---
+term: lampu
+slug: lampu
+ipa: "\u02C8lampu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lampu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lamp
+  epo:
+  - - lampo
+  spa:
+  - - "l\xE1mpara"
+search terms:
+  glb:
+  - lampu
+  eng:
+  - lamp
+  epo:
+  - lampo
+  spa:
+  - "l\xE1mpara"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lampu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lamp
+    epo: lampo
+    spa: "l\xE1mpara"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lamp), Fransesa (lampe), Doycisa (Lampe), Rusisa (\u043B\u0430\u043C\u043F\u0430
+    \u201Clampa\u201D), Espanisa (l\xE1mpara), Indonesisa (lanpu), Pilipinasa (l\xE1mpara),
+    Hindisa (\u0932\u0948\u0902\u092A \u201Clemp\u201D), Niponsa (\u30E9\u30F3\u30D7
+    \u201Cranpu\u201D), Hangusa (\uB79C\uD504 \u201Crenpu\u201D), Hindisa (\u0932\u0948\u092E\u094D\u092A
+    \u201Clempa\u201D), Arabisa (\u0644\u064E\u0645\u0652\u0628\u0629 \u201Clamba\u201D),
+    Turkisa (lamba)"
+...

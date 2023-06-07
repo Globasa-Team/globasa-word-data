@@ -1,0 +1,50 @@
+---
+term: juninini
+slug: juninini
+ipa: "d\u0361\u0292uni\u02C8nini"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292uni\u02C8nini&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - infant
+    - toddler
+  epo:
+  - - infano
+    - "pa\u015Detulo"
+  spa:
+  - - "ni\xF1o peque\xF1o"
+search terms:
+  glb:
+  - juninini
+  eng:
+  - infant
+  - toddler
+  epo:
+  - infano
+  - "pa\u015Detulo"
+  spa:
+  - "ni\xF1o peque\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/juni-">juni-</a> + <a href="../lexi/nini">nini</a>
+raw data:
+  term: juninini
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: infant, toddler
+    epo: "infano, pa\u015Detulo"
+    spa: "ni\xF1o peque\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: juni- + nini
+...

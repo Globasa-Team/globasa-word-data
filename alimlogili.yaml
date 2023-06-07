@@ -1,0 +1,53 @@
+---
+term: alimlogili
+slug: alimlogili
+ipa: "alimlo\u02C8gili"
+ipa link: "http://ipa-reader.xyz/?text=alimlo\u02C8gili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - pedagogic
+  epo:
+  - - pedagogia
+    - instruscienca
+  - - pedagogie
+    - instruscience
+  spa:
+  - - "pedag\xF3gico"
+search terms:
+  glb:
+  - alimlogili
+  eng:
+  - pedagogic
+  epo:
+  - pedagogia
+  - instruscienca
+  - pedagogie
+  - instruscience
+  spa:
+  - "pedag\xF3gico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/alim">alim</a> + <a href="../lexi/-logi">-logi</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: alimlogili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: pedagogic
+    epo: pedagogia, instruscienca; pedagogie, instruscience
+    spa: "pedag\xF3gico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alim + -logi + -li
+...

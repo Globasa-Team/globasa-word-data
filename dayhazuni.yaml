@@ -1,0 +1,52 @@
+---
+term: dayhazuni
+slug: dayhazuni
+ipa: "dajxa\u02C8zuni"
+ipa link: "http://ipa-reader.xyz/?text=dajxa\u02C8zuni&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - inconsolable
+  epo:
+  - - "malfeli\u0109ega"
+    - "mal\u011Dojega"
+    - malgajega
+  - - "malfeli\u0109ege"
+  spa:
+  - - inconsolable
+search terms:
+  glb:
+  - dayhazuni
+  eng:
+  - inconsolable
+  epo:
+  - "malfeli\u0109ega"
+  - "mal\u011Dojega"
+  - malgajega
+  - "malfeli\u0109ege"
+  spa:
+  - inconsolable
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/hazuni">hazuni</a>
+raw data:
+  term: dayhazuni
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: inconsolable
+    epo: "malfeli\u0109ega, mal\u011Dojega, malgajega; malfeli\u0109ege"
+    spa: inconsolable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + hazuni
+...

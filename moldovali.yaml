@@ -1,0 +1,46 @@
+---
+term: moldovali
+slug: moldovali
+ipa: "moldo\u02C8vali"
+ipa link: "http://ipa-reader.xyz/?text=moldo\u02C8vali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Moldovan
+  epo:
+  - - moldava
+  spa:
+  - - moldavo
+search terms:
+  glb:
+  - moldovali
+  eng:
+  - moldovan
+  epo:
+  - moldava
+  spa:
+  - moldavo
+etymology_type: DERIVD
+etymology: <a href="../lexi/Moldova">Moldova</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Moldovali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Moldovan
+    epo: moldava
+    spa: moldavo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Moldova + -li
+...

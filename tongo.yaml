@@ -1,0 +1,56 @@
+---
+term: tongo
+slug: tongo
+ipa: "\u02C8tongo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tongo&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - together
+    - along
+  epo:
+  - - kuna
+  - - kune
+  spa:
+  - - juntos
+search terms:
+  glb:
+  - tongo
+  eng:
+  - together
+  - along
+  epo:
+  - kuna
+  - kune
+  spa:
+  - juntos
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u540C \u201Ct\xF3ng\u201D"
+  Niponsa:
+  - - "\u3068 \u201Cto\u201D"
+  - - "\u3068\u5171\u306B \u201Cto tomo ni\u201D"
+raw data:
+  term: tongo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: together, along
+    epo: kuna; kune
+    spa: juntos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u540C \u201Ct\xF3ng\u201D), Niponsa (\u3068 \u201Cto\u201D;
+    \u3068\u5171\u306B \u201Cto tomo ni\u201D)"
+...

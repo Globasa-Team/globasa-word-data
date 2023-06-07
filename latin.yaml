@@ -1,0 +1,90 @@
+---
+term: latin
+slug: latin
+ipa: "la\u02C8tin"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8tin&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Latin
+  epo:
+  - - latina
+  - - latine
+  spa:
+  - - latino
+search terms:
+  glb:
+  - latin
+  eng:
+  - latin
+  epo:
+  - latina
+  - latine
+  spa:
+  - latino
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - lateinisch
+  Englisa:
+  - - Latin
+  Espanisa:
+  - - "lat\xEDn"
+  Fransesa:
+  - - latin
+  Rusisa:
+  - - "\u043B\u0430\u0442\u0438\u043D\u0441\u043A\u0438\u0439 \u201Clatinskiy\u201D"
+  Arabisa:
+  - - "\u0644\u064E\u0627\u062A\u0650\u064A\u0646\u0650\u064A\u0651 \u201Clatiniy\u201D"
+  Parsisa:
+  - - "\u0644\u0627\u062A\u06CC\u0646 \u201Cl\xE2tin\u201D"
+  Hindisa:
+  - - "\u0932\u093E\u0924\u093F\u0928 \u201Clatin\u201D"
+  Telegusa:
+  - - "\u0C32\u0C3E\u0C1F\u0C3F\u0C28\u0C41 \u201Clatinu\u201D"
+  Indonesisa:
+  - - Latin
+  Pilipinasa:
+  - - "Lat\xEDn"
+  Turkisa:
+  - - Latince
+  Swahilisa:
+  - - Kilatini
+  Putunhwa:
+  - - "\u62C9\u4E01 (\u0932\u093E\u0924\u093F\u0928 \u201Clading\u201D"
+  Niponsa:
+  - - "\u30E9\u30C6\u30F3 \u201Craten\u201D"
+  Hangusa:
+  - - "\uB77C\uD2F4 \u201Cratin\u201D"
+  Vyetnamsa:
+  - - Latinh
+raw data:
+  term: Latin
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: Latin
+    epo: latina; latine
+    spa: latino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (lateinisch), Englisa (Latin), Espanisa (lat\xEDn), Fransesa
+    (latin), Rusisa (\u043B\u0430\u0442\u0438\u043D\u0441\u043A\u0438\u0439 \u201Clatinskiy\u201D),
+    Arabisa (\u0644\u064E\u0627\u062A\u0650\u064A\u0646\u0650\u064A\u0651 \u201Clatiniy\u201D),
+    Parsisa (\u0644\u0627\u062A\u06CC\u0646 \u201Cl\xE2tin\u201D), Hindisa (\u0932\u093E\u0924\u093F\u0928
+    \u201Clatin\u201D), Telegusa (\u0C32\u0C3E\u0C1F\u0C3F\u0C28\u0C41 \u201Clatinu\u201D),
+    Indonesisa (Latin), Pilipinasa (Lat\xEDn), Turkisa (Latince), Swahilisa (Kilatini),
+    Putunhwa (\u62C9\u4E01 (\u0932\u093E\u0924\u093F\u0928 \u201Clading\u201D), Niponsa
+    (\u30E9\u30C6\u30F3 \u201Craten\u201D), Hangusa (\uB77C\uD2F4 \u201Cratin\u201D),
+    Vyetnamsa (Latinh)"
+...

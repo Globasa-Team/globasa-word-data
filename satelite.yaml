@@ -1,0 +1,63 @@
+---
+term: satelite
+slug: satelite
+ipa: "sate\u02C8lite"
+ipa link: "http://ipa-reader.xyz/?text=sate\u02C8lite&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - satellite
+  epo:
+  - - satelito
+  spa:
+  - - "sat\xE9lite"
+search terms:
+  glb:
+  - satelite
+  eng:
+  - satellite
+  epo:
+  - satelito
+  spa:
+  - "sat\xE9lite"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - satellite
+  Fransesa: ~
+  Espanisa:
+  - - "sat\xE9lite"
+  Rusisa:
+  - - "\u0441\u0430\u0442\u0435\u043B\u043B\u0438\u0442 \u201Csatelit\u201D"
+  Doycisa:
+  - - Satellit
+  Indonesisa:
+  - - Satellit
+  Pilipinasa:
+  - - satelayt
+  Swahilisa:
+  - - satelaiti
+raw data:
+  term: satelite
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: satellite
+    epo: satelito
+    spa: "sat\xE9lite"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (satellite), Fransesa, Espanisa (sat\xE9lite), Rusisa (\u0441\u0430\u0442\u0435\u043B\u043B\u0438\u0442
+    \u201Csatelit\u201D), Doycisa (Satellit), Indonesisa (Satellit), Pilipinasa (satelayt),
+    Swahilisa (satelaiti)"
+...

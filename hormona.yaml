@@ -1,0 +1,55 @@
+---
+term: hormona
+slug: hormona
+ipa: "xo\u027E\u02C8mona"
+ipa link: "http://ipa-reader.xyz/?text=xo\u027E\u02C8mona&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hormone
+  epo:
+  - - hormono
+  spa:
+  - - hormona
+search terms:
+  glb:
+  - hormona
+  eng:
+  - hormone
+  epo:
+  - hormono
+  spa:
+  - hormona
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: hormona
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hormone
+    epo: hormono
+    spa: hormona
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Espanisa (hormona), Pilipinasa, Englisa (hormone, hormonal), Fransesa
+    (hormone), Doycisa (Hormon), Indonesisa, Turkisa, Rusisa (\u0433\u043E\u0440\u043C\u043E\u043D
+    \u201Cgormon\u201D), Putunhwa (\u8377\u5C14\u8499 \u201Cheermeng\u201D), Hindisa
+    (\u0939\u0949\u0930\u094D\u092E\u094B\u0928 \u201Chormon\u201D), Arabisa (\u0647\u064F\u0631\u0652\u0645\u064F\u0648\u0646
+    \u201Churmun\u201D), Niponsa (\u30DB\u30EB\u30E2\u30F3 \u201Chorumon\u201D), Telugusa
+    (\u0C39\u0C3E\u0C30\u0C4D\u0C2E\u0C4B\u0C28\u0C4D \u201Charmon\u201D), Hangusa
+    (\uD638\uB974\uBAAC \u201Chorumon\u201D), Vyetnamsa (ho\xF3c-m\xF4n), Swahilisa
+    (homoni)"
+...

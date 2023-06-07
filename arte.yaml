@@ -1,0 +1,71 @@
+---
+term: arte
+slug: arte
+ipa: ˈaɾte
+ipa link: http://ipa-reader.xyz/?text=ˈaɾte&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - art
+  epo:
+  - - arto
+  spa:
+  - - arte
+search terms:
+  glb:
+  - arte
+  eng:
+  - art
+  epo:
+  - arto
+  spa:
+  - arte
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - art
+    - artist
+  Fransesa:
+  - - art
+    - artiste
+  Doycisa:
+  - - Artist
+  Rusisa:
+  - - артист
+  Espanisa:
+  - - arte
+  Niponsa:
+  - - アート “āto”
+    - アーティスト “ātisuto”
+  Indonesisa:
+  - - artis
+  Pilipinasa:
+  - - artista
+  Turkisa:
+  - - artist
+tags:
+- arte
+raw data:
+  term: arte
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: art
+    epo: arto
+    spa: arte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: arte
+  etymology: Englisa (art, artist), Fransesa (art, artiste), Doycisa (Artist), Rusisa
+    (артист), Espanisa (arte), Niponsa (アート “āto”, アーティスト “ātisuto”), Indonesisa (artis),
+    Pilipinasa (artista), Turkisa (artist)
+...

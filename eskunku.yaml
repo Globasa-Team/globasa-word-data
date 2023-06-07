@@ -1,0 +1,71 @@
+---
+term: eskunku
+slug: eskunku
+ipa: esˈkunku
+ipa link: http://ipa-reader.xyz/?text=esˈkunku&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - skunk
+    - _Mephitidae_
+  epo:
+  - - mefito
+  spa:
+  - - mofeta
+    - zorillo
+    - _Mephitidae_
+search terms:
+  glb:
+  - eskunku
+  eng:
+  - skunk
+  - mephitidae
+  epo:
+  - mefito
+  spa:
+  - mofeta
+  - zorillo
+  - mephitidae
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - skunk
+  Doycisa: ~
+  Fransesa:
+  - - sconse
+  Rusisa:
+  - - скунс “skuns”
+  Indonesisa:
+  - - sigung
+  Hindisa:
+  - - स्कंक “skank”
+  Niponsa:
+  - - スカンク “sukanku”
+  Hangusa:
+  - - 스컹크 “sukongku”
+tags:
+- hewan
+raw data:
+  term: eskunku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: skunk, _Mephitidae_
+    epo: mefito
+    spa: mofeta, zorillo, _Mephitidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (skunk), Doycisa, Fransesa (sconse), Rusisa (скунс “skuns”),
+    Indonesisa (sigung), Hindisa (स्कंक “skank”), Niponsa (スカンク “sukanku”), Hangusa
+    (스컹크 “sukongku”)
+...

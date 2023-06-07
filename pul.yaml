@@ -1,0 +1,57 @@
+---
+term: pul
+slug: pul
+ipa: "\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pul&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - full
+  epo:
+  - - plena
+  - - plene
+  spa:
+  - - lleno
+search terms:
+  glb:
+  - pul
+  eng:
+  - full
+  epo:
+  - plena
+  - plene
+  spa:
+  - lleno
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - full
+  Doycisa:
+  - - voll
+  Hindisa:
+  - - "\u092A\u0942\u0930\u094D\u0923 \u201Cpurn\u201D"
+  Rusisa:
+  - - "\u043F\u043E\u043B\u043D\u044B\u0439 \u201Cpoln-\u201D"
+raw data:
+  term: pul
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: full
+    epo: plena; plene
+    spa: lleno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (full), Doycisa (voll), Hindisa (\u092A\u0942\u0930\u094D\u0923
+    \u201Cpurn\u201D), Rusisa (\u043F\u043E\u043B\u043D\u044B\u0439 \u201Cpoln-\u201D)"
+...

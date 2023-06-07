@@ -1,0 +1,73 @@
+---
+term: alkali
+slug: alkali
+ipa: alˈkali
+ipa link: http://ipa-reader.xyz/?text=alˈkali&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - alkali
+  epo:
+  - - alkalo
+  spa:
+  - - álcali
+search terms:
+  glb:
+  - alkali
+  eng:
+  - alkali
+  epo:
+  - alkalo
+  spa:
+  - álcali
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - alkali
+  Espanisa:
+  - - álcali
+  Fransesa:
+  - - alcali
+  Doycisa:
+  - - Alkali
+  Indonesisa:
+  - - alkali
+  Pilipinasa:
+  - - alkali
+  Arabisa:
+  - - قَلَوِيّ “kalawiy”
+  Niponsa:
+  - - アルカリ “arukari”
+  Turkisa:
+  - - alkali
+  Hangusa:
+  - - 알칼리 “alkali”
+  Parsisa:
+  - - قلیا “kaliya”
+  Swahilisa:
+  - - alkali
+raw data:
+  term: alkali
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: alkali
+    epo: alkalo
+    spa: álcali
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (alkali), Espanisa (álcali), Fransesa (alcali), Doycisa (Alkali),
+    Indonesisa (alkali), Pilipinasa (alkali), Arabisa (قَلَوِيّ “kalawiy”), Niponsa
+    (アルカリ “arukari”), Turkisa (alkali), Hangusa (알칼리 “alkali”), Parsisa (قلیا “kaliya”),
+    Swahilisa (alkali)
+...

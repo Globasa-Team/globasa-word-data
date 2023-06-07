@@ -1,0 +1,60 @@
+---
+term: of
+slug: of
+ipa: of
+ipa link: http://ipa-reader.xyz/?text=of&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - off (of)
+    - (out) of
+    - from
+  epo:
+  - - el
+  spa:
+  - - de
+    - desde
+    - fuera de
+search terms:
+  glb:
+  - of
+  eng:
+  - off of
+  - "off"
+  - out of
+  - of
+  - from
+  epo:
+  - el
+  spa:
+  - de
+  - desde
+  - fuera de
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - "off"
+  Rusisa:
+  - - "\u043E\u0442 \u201Cot\u201D"
+raw data:
+  term: of
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: off (of), (out) of, from
+    epo: el
+    spa: de, desde, fuera de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (off), Rusisa (\u043E\u0442 \u201Cot\u201D)"
+...

@@ -1,0 +1,56 @@
+---
+term: fe leya
+slug: fe leya
+ipa: "fe \u02C8leja"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8leja&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - in the past
+    - prior
+  epo:
+  - - en la pasinteco
+    - en la pasinto
+    - "anta\u016De"
+  spa:
+  - - en el pasado
+    - anteriormente
+search terms:
+  glb:
+  - fe leya
+  - fe
+  - leya
+  eng:
+  - in the past
+  - prior
+  epo:
+  - en la pasinteco
+  - en la pasinto
+  - "anta\u016De"
+  spa:
+  - en el pasado
+  - anteriormente
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/le">le</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fe leya
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: in the past, prior
+    epo: "en la pasinteco, en la pasinto, anta\u016De"
+    spa: en el pasado, anteriormente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, le + -ya
+...

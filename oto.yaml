@@ -1,0 +1,48 @@
+---
+term: oto
+slug: oto
+ipa: "\u02C8oto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8oto&voice=Ewa"
+status: true
+category: root
+word class: pn
+trans:
+  eng:
+  - - they
+    - them (_inanimate_)
+  epo:
+  - - ili (_neviva_)
+  spa:
+  - - ellos (_inanimado_)
+search terms:
+  glb:
+  - oto
+  eng:
+  - they
+  - them
+  epo:
+  - ili
+  spa:
+  - ellos
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/to">to</a>.
+raw data:
+  term: oto
+  category: root
+  word class: pn
+  status: true
+  trans:
+    eng: they, them (_inanimate_)
+    epo: ili (_neviva_)
+    spa: ellos (_inanimado_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _to_.
+...

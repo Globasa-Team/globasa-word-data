@@ -1,0 +1,50 @@
+---
+term: sistemapul
+slug: sistemapul
+ipa: "sistema\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=sistema\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - systematic
+  - - systematically
+  epo:
+  - - sistema
+  - - sisteme
+  spa:
+  - - "sistem\xE1tico"
+search terms:
+  glb:
+  - sistemapul
+  eng:
+  - systematic
+  - systematically
+  epo:
+  - sistema
+  - sisteme
+  spa:
+  - "sistem\xE1tico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sistema">sistema</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: sistemapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: systematic; systematically
+    epo: sistema; sisteme
+    spa: "sistem\xE1tico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sistema + -pul
+...

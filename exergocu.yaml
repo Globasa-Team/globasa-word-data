@@ -1,0 +1,56 @@
+---
+term: exergocu
+slug: exergocu
+ipa: "e\u0283e\u027E\u02C8got\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283e\u027E\u02C8got\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - resignation
+  - - resign
+    - quit
+  epo:
+  - - demisio
+    - "eksi\u011Do"
+  - - demisii
+    - "eksi\u011Di"
+  spa:
+  - - renunciar
+search terms:
+  glb:
+  - exergocu
+  eng:
+  - resignation
+  - resign
+  - quit
+  epo:
+  - demisio
+  - "eksi\u011Do"
+  - demisii
+  - "eksi\u011Di"
+  spa:
+  - renunciar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/ergo">ergo</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: exergocu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: resignation; resign, quit
+    epo: "demisio, eksi\u011Do; demisii, eksi\u011Di"
+    spa: renunciar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex- + ergo + -cu
+...

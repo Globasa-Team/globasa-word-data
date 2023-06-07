@@ -1,0 +1,46 @@
+---
+term: godomo
+slug: godomo
+ipa: "go\u02C8domo"
+ipa link: "http://ipa-reader.xyz/?text=go\u02C8domo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - too (_excessively_)
+  epo:
+  - - tro
+  spa:
+  - - excesivamente
+search terms:
+  glb:
+  - godomo
+  eng:
+  - too
+  epo:
+  - tro
+  spa:
+  - excesivamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/godo">godo</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: godomo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: too (_excessively_)
+    epo: tro
+    spa: excesivamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: godo + -mo
+...

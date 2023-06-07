@@ -1,0 +1,61 @@
+---
+term: kinsasakongo
+slug: kinsasakongo
+ipa: "kinsasa\u02C8kongo"
+ipa link: "http://ipa-reader.xyz/?text=kinsasa\u02C8kongo&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Democratic Republic of the Congo
+  epo:
+  - - Demokratia Respubliko Kongo
+    - "Kongo Kin\u015Dasa"
+  spa:
+  - - "Rep\xFAblica Democr\xE1tica del Congo"
+    - Congo-Kinsasa
+search terms:
+  glb:
+  - kinsasakongo
+  eng:
+  - democratic republic of the congo
+  epo:
+  - demokratia respubliko kongo
+  - "kongo kin\u015Dasa"
+  spa:
+  - "rep\xFAblica democr\xE1tica del congo"
+  - congo-kinsasa
+etymology_type: NATLNG
+etymology:
+  Kongosa:
+  - - "K\xF4ngo-Kinsasa"
+  Lingala:
+  - - "Kong\xF3-Kins\xE1s\xE1"
+  Fransesa:
+  - - Congo-Kinshasa
+  Swahilisa:
+  - - Kongo-Kinshasa
+tags:
+- dexa
+raw data:
+  term: Kinsasakongo
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Democratic Republic of the Congo
+    epo: "Demokratia Respubliko Kongo, Kongo Kin\u015Dasa"
+    spa: "Rep\xFAblica Democr\xE1tica del Congo, Congo-Kinsasa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Kongosa (K\xF4ngo-Kinsasa), Lingala (Kong\xF3-Kins\xE1s\xE1), Fransesa
+    (Congo-Kinshasa), Swahilisa (Kongo-Kinshasa)"
+...

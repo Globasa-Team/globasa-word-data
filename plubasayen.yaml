@@ -1,0 +1,48 @@
+---
+term: plubasayen
+slug: plubasayen
+ipa: "plubasa\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=plubasa\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - polyglot
+  epo:
+  - - poligloto
+    - plurlingvulo
+  spa:
+  - - "pol\xEDglota"
+search terms:
+  glb:
+  - plubasayen
+  eng:
+  - polyglot
+  epo:
+  - poligloto
+  - plurlingvulo
+  spa:
+  - "pol\xEDglota"
+etymology_type: DERIVD
+etymology: <a href="../lexi/plu">plu</a> + <a href="../lexi/basa">basa</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: plubasayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: polyglot
+    epo: poligloto, plurlingvulo
+    spa: "pol\xEDglota"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: plu + basa + -yen
+...

@@ -1,0 +1,87 @@
+---
+term: xenon
+slug: xenon
+ipa: "\u0283e\u02C8non"
+ipa link: "http://ipa-reader.xyz/?text=\u0283e\u02C8non&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - xenon
+  epo:
+  - - ksenono
+  spa:
+  - - "xen\xF3n"
+    - Xe
+search terms:
+  glb:
+  - xenon
+  eng:
+  - xenon
+  epo:
+  - ksenono
+  spa:
+  - "xen\xF3n"
+  - xe
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - xenon
+  Espanisa:
+  - - "xen\xF3n"
+  Arabisa:
+  - - "\u0625\u0650\u0643\u0652\u0633\u0650\u064A\u0646\u064F\u0648\u0646 \u201Ciksinon\u201D"
+  Fransesa:
+  - - "x\xE9non"
+  Rusisa:
+  - - "\u043A\u0441\u0435\u043D\u043E\u043D \u201Cksenon\u201D"
+  Indonesisa:
+  - - xenon
+  Doycisa:
+  - - Xenon
+  Niponsa:
+  - - "\u30AD\u30BB\u30CE\u30F3 \u201Ckisenon\u201D"
+  Telugusa:
+  - - "\u0C1C\u0C46\u0C28\u0C3E\u0C28\u0C4D \u201Cjenan\u201D"
+  Turkisa:
+  - - ksenon
+  Hangusa:
+  - - "\uD06C\uC138\uB17C \u201Ckusenon\u201D"
+    - "\uC81C\uB17C \u201Cjenon\u201D"
+  Vyetnamsa:
+  - - xenon
+  Parsisa:
+  - - "\u0632\u0646\u0648\u0646 \u201Czenon\u201D"
+  Swahilisa:
+  - - xenoni
+  Pilipinasa:
+  - - henon
+tags:
+- kimikali monlari
+raw data:
+  term: xenon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: xenon
+    epo: ksenono
+    spa: "xen\xF3n, Xe"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (xenon), Espanisa (xen\xF3n), Arabisa (\u0625\u0650\u0643\u0652\u0633\u0650\u064A\u0646\u064F\u0648\u0646
+    \u201Ciksinon\u201D), Fransesa (x\xE9non), Rusisa (\u043A\u0441\u0435\u043D\u043E\u043D
+    \u201Cksenon\u201D), Indonesisa (xenon), Doycisa (Xenon), Niponsa (\u30AD\u30BB\u30CE\u30F3
+    \u201Ckisenon\u201D), Telugusa (\u0C1C\u0C46\u0C28\u0C3E\u0C28\u0C4D \u201Cjenan\u201D),
+    Turkisa (ksenon), Hangusa (\uD06C\uC138\uB17C \u201Ckusenon\u201D, \uC81C\uB17C
+    \u201Cjenon\u201D), Vyetnamsa (xenon), Parsisa (\u0632\u0646\u0648\u0646 \u201Czenon\u201D),
+    Swahilisa (xenoni), Pilipinasa (henon)"
+...

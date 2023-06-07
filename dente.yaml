@@ -1,0 +1,54 @@
+---
+term: dente
+slug: dente
+ipa: "\u02C8dente"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dente&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - that
+    - that one
+    - that being
+    - that person
+  epo:
+  - - tiu
+  spa:
+  - - "\xE9se"
+    - "\xE9sa (_ser viviente_)"
+search terms:
+  glb:
+  - dente
+  eng:
+  - that
+  - that one
+  - that being
+  - that person
+  epo:
+  - tiu
+  spa:
+  - "\xE9se"
+  - "\xE9sa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/den">den</a> + <a href="../lexi/te">te</a>
+raw data:
+  term: dente
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: that, that one, that being, that person
+    epo: tiu
+    spa: "\xE9se, \xE9sa (_ser viviente_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: den + te
+...

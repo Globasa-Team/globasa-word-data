@@ -1,0 +1,51 @@
+---
+term: sidegi
+slug: sidegi
+ipa: "si\u02C8degi"
+ipa link: "http://ipa-reader.xyz/?text=si\u02C8degi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - seat
+    - sit (down)
+  epo:
+  - - sidigo
+  - - sidigi
+  spa:
+  - - sentar
+search terms:
+  glb:
+  - sidegi
+  eng:
+  - seat
+  - sit down
+  - sit
+  epo:
+  - sidigo
+  - sidigi
+  spa:
+  - sentar
+etymology_type: DERIVD
+etymology: <a href="../lexi/side">side</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: sidegi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: seat, sit (down)
+    epo: sidigo; sidigi
+    spa: sentar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: side + -gi
+...

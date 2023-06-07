@@ -1,0 +1,57 @@
+---
+term: taco
+slug: taco
+ipa: "\u02C8tat\u0361\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tat\u0361\u0283o&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ostrich
+    - _Struthionidae_
+  epo:
+  - - struto
+  spa:
+  - - avestruz
+    - _Struthionidae_
+search terms:
+  glb:
+  - taco
+  eng:
+  - ostrich
+  - struthionidae
+  epo:
+  - struto
+  spa:
+  - avestruz
+  - struthionidae
+etymology_type: NATLNG
+etymology:
+  Niponsa:
+  - - "\u99DD\u9CE5 \u201Cdach\u014D\u201D"
+  Hangusa:
+  - - "\uD0C0\uC870 \u201Ctajo\u201D"
+tags:
+- hewan
+raw data:
+  term: taco
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ostrich, _Struthionidae_
+    epo: struto
+    spa: avestruz, _Struthionidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Niponsa (\u99DD\u9CE5 \u201Cdach\u014D\u201D), Hangusa (\uD0C0\uC870
+    \u201Ctajo\u201D) "
+...

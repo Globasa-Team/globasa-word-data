@@ -1,0 +1,60 @@
+---
+term: buka
+slug: buka
+ipa: ˈbuka
+ipa link: http://ipa-reader.xyz/?text=ˈbuka&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - opening
+  - - open
+  epo:
+  - - malfermo
+  - - malfermi
+  spa:
+  - - apertura
+  - - abrir
+    - abrirse
+search terms:
+  glb:
+  - buka
+  eng:
+  - opening
+  - open
+  epo:
+  - malfermo
+  - malfermi
+  spa:
+  - apertura
+  - abrir
+  - abrirse
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - buka
+  Pilipinasa:
+  - - buka
+    - buksan
+    - ibukas
+raw data:
+  term: buka
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: opening; open
+    epo: malfermo; malfermi
+    spa: apertura; abrir, abrirse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Indonesisa (buka), Pilipinasa (buka, buksan, ibukas)
+...

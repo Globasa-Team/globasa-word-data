@@ -1,0 +1,69 @@
+---
+term: gida
+slug: gida
+ipa: ˈgida
+ipa link: http://ipa-reader.xyz/?text=ˈgida&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - guide
+  epo:
+  - - gvidado
+    - gvido
+  - - gvidi
+  spa:
+  - - guía
+  - - guiar
+search terms:
+  glb:
+  - gida
+  eng:
+  - guide
+  epo:
+  - gvidado
+  - gvido
+  - gvidi
+  spa:
+  - guía
+  - guiar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - guide
+  Fransesa:
+  - - guide
+  Italisa:
+  - - guida
+  Espanisa:
+  - - guia
+  Rusisa:
+  - - гид “gid”
+  Hindisa:
+  - - गाइड “gaid”
+  Niponsa:
+  - - ガイド “gaido”
+  Hangusa:
+  - - 가이드 “gaidu”
+raw data:
+  term: gida
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: guide
+    epo: gvidado, gvido; gvidi
+    spa: guía; guiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (guide), Fransesa (guide), Italisa (guida) Espanisa (guia), Rusisa
+    (гид “gid”), Hindisa (गाइड “gaid”), Niponsa (ガイド “gaido”) Hangusa (가이드 “gaidu”)
+...

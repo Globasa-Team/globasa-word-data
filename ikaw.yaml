@@ -1,0 +1,58 @@
+---
+term: ikaw
+slug: ikaw
+ipa: "i\u02C8kaw"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8kaw&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - dependence
+  - - depend (on)
+    - rely (on)
+  epo:
+  - - dependeco
+  - - dependi (de)
+  spa:
+  - - dependencia
+  - - depender (de)
+search terms:
+  glb:
+  - ikaw
+  eng:
+  - dependence
+  - depend on
+  - depend
+  - rely on
+  - rely
+  epo:
+  - dependeco
+  - dependi de
+  - dependi
+  spa:
+  - dependencia
+  - depender de
+  - depender
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: 'ikaw '
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: dependence; depend (on), rely (on)
+    epo: dependeco; dependi (de)
+    spa: dependencia; depender (de)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u4F9D\u9760 \u201Cy\u012Bk\xE0o\u201D)"
+...

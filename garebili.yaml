@@ -1,0 +1,52 @@
+---
+term: garebili
+slug: garebili
+ipa: "ga\u027Ee\u02C8bili"
+ipa link: "http://ipa-reader.xyz/?text=ga\u027Ee\u02C8bili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - west
+    - western
+  epo:
+  - - okcidenta
+  - - okcidente
+  spa:
+  - - del oeste
+    - occidental
+search terms:
+  glb:
+  - garebili
+  eng:
+  - west
+  - western
+  epo:
+  - okcidenta
+  - okcidente
+  spa:
+  - del oeste
+  - occidental
+etymology_type: DERIVD
+etymology: <a href="../lexi/garebi">garebi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: garebili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: west, western
+    epo: okcidenta; okcidente
+    spa: del oeste, occidental
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: garebi + -li
+...

@@ -1,0 +1,60 @@
+---
+term: tarhaxkun
+slug: tarhaxkun
+ipa: "ta\u027Exa\u0283\u02C8kun"
+ipa link: "http://ipa-reader.xyz/?text=ta\u027Exa\u0283\u02C8kun&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dandelion
+  epo:
+  - - taraksako
+    - leontodo
+  spa:
+  - - "diente de le\xF3n"
+    - "amarg\xF3n"
+search terms:
+  glb:
+  - tarhaxkun
+  eng:
+  - dandelion
+  epo:
+  - taraksako
+  - leontodo
+  spa:
+  - "diente de le\xF3n"
+  - "amarg\xF3n"
+etymology_type: NATLNG
+etymology:
+  Portugalsa:
+  - - "tar\xE1xaco"
+  Arabisa:
+  - - "\u0637\u064E\u0631\u0652\u062E\u064E\u0634\u0652\u0642\u064F\u0648\u0646 \u201Ctarhaxkun\u201D"
+  Parsisa:
+  - - "\u0637\u0644\u062E\u0634\u06A9\u0648\u06A9 \u201Ctelhaxkuk\u201D"
+  Syensilatinsa:
+  - - Taraxacum
+raw data:
+  term: tarhaxkun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dandelion
+    epo: taraksako, leontodo
+    spa: "diente de le\xF3n, amarg\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Portugalsa (tar\xE1xaco), Arabisa (\u0637\u064E\u0631\u0652\u062E\u064E\u0634\u0652\u0642\u064F\u0648\u0646
+    \u201Ctarhaxkun\u201D), Parsisa (\u0637\u0644\u062E\u0634\u06A9\u0648\u06A9 \u201Ctelhaxkuk\u201D),
+    Syensilatinsa (Taraxacum)"
+...

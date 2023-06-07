@@ -1,0 +1,79 @@
+---
+term: awtenti
+slug: awtenti
+ipa: awˈtenti
+ipa link: http://ipa-reader.xyz/?text=awˈtenti&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - authentic
+    - authentically
+    - genuine
+    - genuinely
+  epo:
+  - - aŭtentika
+    - aŭtenta
+  - - aŭtentike
+    - aŭtente
+  spa:
+  - - auténtico
+search terms:
+  glb:
+  - awtenti
+  eng:
+  - authentic
+  - authentically
+  - genuine
+  - genuinely
+  epo:
+  - aŭtentika
+  - aŭtenta
+  - aŭtentike
+  - aŭtente
+  spa:
+  - auténtico
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - authentic
+  Fransesa:
+  - - authentique
+  Doycisa:
+  - - authentisch
+  Rusisa:
+  - - аутенти́чный “autenticniy”
+  Espanisa:
+  - - auténtico
+  Turkisa:
+  - - otantik
+  Indonesisa:
+  - - autentik
+    - otentik
+  Pilipinasa:
+  - - autentisidad
+antonyms:
+- sewdo
+raw data:
+  term: awtenti
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: authentic, authentically, genuine, genuinely
+    epo: aŭtentika, aŭtenta; aŭtentike, aŭtente
+    spa: auténtico
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: sewdo
+  example: ""
+  tags: ""
+  etymology: Englisa (authentic), Fransesa (authentique), Doycisa (authentisch), Rusisa
+    (аутенти́чный “autenticniy”), Espanisa (auténtico), Turkisa (otantik), Indonesisa
+    (autentik, otentik), Pilipinasa (autentisidad)
+...

@@ -1,0 +1,50 @@
+---
+term: fleyabil
+slug: fleyabil
+ipa: "fleja\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=fleja\u02C8bil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - able to fly
+    - fledged
+  epo:
+  - - flugpova
+  - - flugpove
+  spa:
+  - - que puede volar
+search terms:
+  glb:
+  - fleyabil
+  eng:
+  - able to fly
+  - fledged
+  epo:
+  - flugpova
+  - flugpove
+  spa:
+  - que puede volar
+etymology_type: DERIVD
+etymology: <a href="../lexi/fley">fley</a> + <a href="../lexi/-abil">-abil</a>
+raw data:
+  term: fleyabil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: able to fly, fledged
+    epo: flugpova; flugpove
+    spa: que puede volar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fley + -abil
+...

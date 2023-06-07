@@ -1,0 +1,48 @@
+---
+term: uyusu oto
+slug: uyusu oto
+ipa: "u\u02C8jusu \u02C8oto"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8jusu \u02C8oto&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - yours (_those things belonging to you all_)
+  epo:
+  - - la viaj
+  spa:
+  - - sus (_cosas que pertenecen a ustedes_)
+search terms:
+  glb:
+  - uyusu oto
+  - uyusu
+  - oto
+  eng:
+  - yours
+  epo:
+  - la viaj
+  spa:
+  - sus
+etymology_type: DERIVD
+etymology: <a href="../lexi/uyu">uyu</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/oto">oto</a>
+raw data:
+  term: uyusu oto
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: yours (_those things belonging to you all_)
+    epo: la viaj
+    spa: sus (_cosas que pertenecen a ustedes_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: uyu + -su, oto
+...

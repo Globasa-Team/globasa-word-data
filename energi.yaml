@@ -1,0 +1,70 @@
+---
+term: energi
+slug: energi
+ipa: eˈneɾgi
+ipa link: http://ipa-reader.xyz/?text=eˈneɾgi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - energy
+  epo:
+  - - energio
+  spa:
+  - - energía
+search terms:
+  glb:
+  - energi
+  eng:
+  - energy
+  epo:
+  - energio
+  spa:
+  - energía
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - energy
+  Fransesa:
+  - - énergie
+  Doycisa:
+  - - Energie
+  Rusisa:
+  - - энергия “energiya”
+  Espanisa:
+  - - energía
+  Niponsa:
+  - - エネルギー “enerugi”
+  Hangusa:
+  - - 에너지 “enoji”
+  Turkisa:
+  - - enerji
+  Indonesisa:
+  - - energi
+  Parsisa:
+  - - انرژی “enerži”
+  Pilipinasa:
+  - - enerhiya
+raw data:
+  term: energi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: energy
+    epo: energio
+    spa: energía
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (energy), Fransesa (énergie), Doycisa (Energie), Rusisa (энергия
+    “energiya”), Espanisa (energía), Niponsa (エネルギー “enerugi”), Hangusa (에너지 “enoji”)
+    Turkisa (enerji), Indonesisa (energi), Parsisa (انرژی “enerži”), Pilipinasa (enerhiya)
+...

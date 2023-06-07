@@ -1,0 +1,46 @@
+---
+term: yumawlari
+slug: yumawlari
+ipa: "jumaw\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=jumaw\u02C8la\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - plumage
+  epo:
+  - - plumaro
+  spa:
+  - - plumaje
+search terms:
+  glb:
+  - yumawlari
+  eng:
+  - plumage
+  epo:
+  - plumaro
+  spa:
+  - plumaje
+etymology_type: DERIVD
+etymology: <a href="../lexi/yumaw">yumaw</a> + <a href="../lexi/-lari">-lari</a>
+raw data:
+  term: yumawlari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: plumage
+    epo: plumaro
+    spa: plumaje
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yumaw + -lari
+...

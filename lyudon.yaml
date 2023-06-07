@@ -1,0 +1,51 @@
+---
+term: lyudon
+slug: lyudon
+ipa: "lju\u02C8don"
+ipa link: "http://ipa-reader.xyz/?text=lju\u02C8don&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - flow
+  epo:
+  - - fluo
+  - - flui
+  spa:
+  - - flujo
+  - - fluir
+search terms:
+  glb:
+  - lyudon
+  eng:
+  - flow
+  epo:
+  - fluo
+  - flui
+  spa:
+  - flujo
+  - fluir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lyudon
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: 'flow '
+    epo: fluo; flui
+    spa: flujo; fluir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6D41\u52A8 \u201Cli\xFAd\xF2ng\u201D), (Niponsa (\u6D41\u52D5
+    \u201Cry\u016Bd\u014D\u201D)"
+...

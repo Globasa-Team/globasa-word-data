@@ -1,0 +1,57 @@
+---
+term: moynyanli
+slug: moynyanli
+ipa: "moj\u02C8njanli"
+ipa link: "http://ipa-reader.xyz/?text=moj\u02C8njanli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - yearly
+    - annual
+  - - annually
+  epo:
+  - - "\u0109iujara"
+  - - "\u0109iujare"
+  spa:
+  - - anual
+  - - anualmente
+    - "cada a\xF1o"
+search terms:
+  glb:
+  - moynyanli
+  eng:
+  - yearly
+  - annual
+  - annually
+  epo:
+  - "\u0109iujara"
+  - "\u0109iujare"
+  spa:
+  - anual
+  - anualmente
+  - "cada a\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy-">moy-</a> + <a href="../lexi/nyan">nyan</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: moynyanli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: yearly, annual; annually
+    epo: "\u0109iujara; \u0109iujare"
+    spa: "anual; anualmente, cada a\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy- + nyan + -li
+...

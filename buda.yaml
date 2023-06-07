@@ -1,0 +1,80 @@
+---
+term: buda
+slug: buda
+ipa: "\u02C8buda"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8buda&voice=Ewa"
+status: true
+category: proper noun
+word class: su n
+trans:
+  eng:
+  - - Buddha
+  epo:
+  - - Budho
+  spa:
+  - - el Buda
+search terms:
+  glb:
+  - buda
+  eng:
+  - buddha
+  epo:
+  - budho
+  spa:
+  - el buda
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Buddha
+  Fransesa:
+  - - Bouddha
+  Doycisa:
+  - - Buddha
+  Rusisa:
+  - - "\u0411\u0443\u0434\u0434\u0430 \u201CBudda\u201D"
+  Espanisa:
+  - - Buda
+  Indonesisa:
+  - - Buddha
+  Pilipinasa:
+  - - Buddha
+  Putunhwa: ~
+  Niponsa: ~
+  Hangusa: ~
+  Vyetnamsa: ~
+  Hindisa:
+  - - "\u092C\u0941\u0926\u094D\u0927 \u201Cbuddh\u201D"
+  Telugusa:
+  - - "\u0C2C\u0C41\u0C26\u0C4D\u0C27\u0C41\u0C21\u0C41 \u201Cbuddhu\u1E0Du\u201D"
+  Arabisa:
+  - - "\u0628\u064F\u0648\u0630\u064E\u0627\u200E \u201Cb\u016B\u1E0F\u0101\u201D"
+  Swahilisa:
+  - - Buddha
+  Parsisa: ~
+  Turkisa:
+  - - Buda
+raw data:
+  term: Buda
+  category: proper noun
+  word class: su n
+  status: true
+  trans:
+    eng: Buddha
+    epo: Budho
+    spa: el Buda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (Buddha), Fransesa (Bouddha), Doycisa (Buddha), Rusisa (\u0411\u0443\u0434\u0434\u0430
+    \u201CBudda\u201D), Espanisa (Buda), Indonesisa (Buddha), Pilipinasa (Buddha),
+    Putunhwa, Niponsa, Hangusa, Vyetnamsa, Hindisa (\u092C\u0941\u0926\u094D\u0927
+    \u201Cbuddh\u201D), Telugusa (\u0C2C\u0C41\u0C26\u0C4D\u0C27\u0C41\u0C21\u0C41
+    \u201Cbuddhu\u1E0Du\u201D), Arabisa (\u0628\u064F\u0648\u0630\u064E\u0627\u200E
+    \u201Cb\u016B\u1E0F\u0101\u201D), Swahilisa (Buddha), Parsisa, Turkisa (Buda)"
+...

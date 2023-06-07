@@ -1,0 +1,48 @@
+---
+term: bimarya
+slug: bimarya
+ipa: "bi\u02C8ma\u027Eja"
+ipa link: "http://ipa-reader.xyz/?text=bi\u02C8ma\u027Eja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - illness
+    - disease
+  epo:
+  - - malsano
+  spa:
+  - - enfermedad
+search terms:
+  glb:
+  - bimarya
+  eng:
+  - illness
+  - disease
+  epo:
+  - malsano
+  spa:
+  - enfermedad
+etymology_type: DERIVD
+etymology: <a href="../lexi/bimar">bimar</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: bimarya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: illness, disease
+    epo: malsano
+    spa: enfermedad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bimar + -ya
+...

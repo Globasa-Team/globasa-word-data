@@ -1,0 +1,51 @@
+---
+term: lyutu
+slug: lyutu
+ipa: "\u02C8ljutu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ljutu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lute
+  epo:
+  - - liuto
+  spa:
+  - - "la\xFAd"
+search terms:
+  glb:
+  - lyutu
+  eng:
+  - lute
+  epo:
+  - liuto
+  spa:
+  - "la\xFAd"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lyutu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lute
+    epo: liuto
+    spa: "la\xFAd"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hangusa (\uB958\uD2B8 \u201Cryutu\u201D), Englisa (lute), Putunhwa (\u7409\u7279\u7434
+    \u201Clyutecin\u201D), Niponsa (\u30EA\u30E5\u30FC\u30C8 \u201Cryuto\u201D), Rusisa
+    (\u043B\u044E\u0442\u043D\u044F \u201Clyutnya\u201D), Italisa (liuto), Fransesa
+    (luth), Parsisa (\u0644\u0648\u062A \u201Clut\u201D), Espanisa (la\xFAd), Pilipinasa
+    (laud), Hindisa (\u0914\u0926 \u201Caud\u201D), Turkisa (ut), Vyetnamsa (\u0111\xE0n
+    lu\xFDt \u201Cdan lwit\u201D)"
+...

@@ -1,0 +1,50 @@
+---
+term: un-
+slug: un-
+ipa: "\u02C8un-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8un-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - mono-
+  epo:
+  - - unu-
+    - mono-
+  spa:
+  - - uni-
+    - mono-
+search terms:
+  glb:
+  - un-
+  eng:
+  - mono-
+  epo:
+  - unu-
+  - mono-
+  spa:
+  - uni-
+  - mono-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/un">un</a>.
+raw data:
+  term: un-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: mono-
+    epo: unu-, mono-
+    spa: uni-, mono-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _un_.
+...

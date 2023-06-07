@@ -1,0 +1,50 @@
+---
+term: tortiya
+slug: tortiya
+ipa: "to\u027E\u02C8tija"
+ipa link: "http://ipa-reader.xyz/?text=to\u027E\u02C8tija&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tortilla
+  epo:
+  - - tortiljo
+  spa:
+  - - tortilla
+search terms:
+  glb:
+  - tortiya
+  eng:
+  - tortilla
+  epo:
+  - tortiljo
+  spa:
+  - tortilla
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - tortilla
+tags:
+- yamxey
+raw data:
+  term: tortiya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tortilla
+    epo: tortiljo
+    spa: tortilla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Espanisa (tortilla)
+...

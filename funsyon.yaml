@@ -1,0 +1,76 @@
+---
+term: funsyon
+slug: funsyon
+ipa: funˈsjon
+ipa link: http://ipa-reader.xyz/?text=funˈsjon&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - work
+    - function
+    - be in operating condition
+    - run
+    - operate
+  epo:
+  - - funkcio
+  - - funkcii
+  spa:
+  - - función
+  - - funcionar
+search terms:
+  glb:
+  - funsyon
+  eng:
+  - work
+  - function
+  - be in operating condition
+  - run
+  - operate
+  epo:
+  - funkcio
+  - funkcii
+  spa:
+  - función
+  - funcionar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - function
+  Fransesa:
+  - - fonction
+  Doycisa:
+  - - Funktion
+  Rusisa:
+  - - функция “funkciya”
+  Espanisa:
+  - - función
+  Indonesisa:
+  - - fungsi
+  Pilipinasa:
+  - - punsiyon
+  Turkisa:
+  - - fonksiyon
+raw data:
+  term: funsyon
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: work, function, be in operating condition, run, operate
+    epo: funkcio; funkcii
+    spa: función; funcionar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (function), Fransesa (fonction), Doycisa (Funktion), Rusisa (функция
+    “funkciya”), Espanisa (función), Indonesisa (fungsi), Pilipinasa (punsiyon), Turkisa
+    (fonksiyon)
+...

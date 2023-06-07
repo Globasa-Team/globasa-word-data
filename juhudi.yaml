@@ -1,0 +1,57 @@
+---
+term: juhudi
+slug: juhudi
+ipa: "d\u0361\u0292u\u02C8xudi"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292u\u02C8xudi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - effort
+  - - put forth effort (towards)
+    - strive (for)
+  epo:
+  - - klopodo
+  - - klopodi
+  spa:
+  - - esfuerzo
+  - - esforzarse
+search terms:
+  glb:
+  - juhudi
+  eng:
+  - effort
+  - put forth effort towards
+  - put forth effort
+  - strive for
+  - strive
+  epo:
+  - klopodo
+  - klopodi
+  spa:
+  - esfuerzo
+  - esforzarse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: juhudi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: effort; put forth effort (towards), strive (for)
+    epo: klopodo; klopodi
+    spa: esfuerzo; esforzarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u0647\u062F \u201Cjuhd\u201D), Parsisa (\u062C\u0647\u062F
+    \u201Cjahd\u201D), Swahilisa (juhudi)"
+...

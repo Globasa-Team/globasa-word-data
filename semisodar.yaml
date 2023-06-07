@@ -1,0 +1,52 @@
+---
+term: semisodar
+slug: semisodar
+ipa: "semiso\u02C8da\u027E"
+ipa link: "http://ipa-reader.xyz/?text=semiso\u02C8da\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - half-sibling
+    - half-brother
+    - half-sister
+  epo:
+  - - duonfrato
+    - duonfratino
+  spa:
+  - - medio hermano
+search terms:
+  glb:
+  - semisodar
+  eng:
+  - half-sibling
+  - half-brother
+  - half-sister
+  epo:
+  - duonfrato
+  - duonfratino
+  spa:
+  - medio hermano
+etymology_type: DERIVD
+etymology: <a href="../lexi/semi">semi</a> + <a href="../lexi/sodar">sodar</a>
+raw data:
+  term: semisodar
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: half-sibling, half-brother, half-sister
+    epo: duonfrato, duonfratino
+    spa: medio hermano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: semi + sodar
+...

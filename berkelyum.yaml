@@ -1,0 +1,86 @@
+---
+term: berkelyum
+slug: berkelyum
+ipa: beɾkeˈljum
+ipa link: http://ipa-reader.xyz/?text=beɾkeˈljum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - berkelium
+  epo:
+  - - berkelio
+  spa:
+  - - berkelio
+    - Bk
+search terms:
+  glb:
+  - berkelyum
+  eng:
+  - berkelium
+  epo:
+  - berkelio
+  spa:
+  - berkelio
+  - bk
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - berkelium
+  Hindisa:
+  - - बर्केलियम “berkeliyam”
+  Espanisa:
+  - - berkelio
+  Arabisa:
+  - - بِرْكِلْيُوم “birkilyum”
+  Fransesa:
+  - - berkélium
+  Rusisa:
+  - - берклий “berkeliy”
+  Indonesisa:
+  - - berkelium
+  Doycisa:
+  - - Berkelium
+  Niponsa:
+  - - バークリウム “bakuriumu”
+  Telugusa:
+  - - బెర్కీలియం “berkiliyam”
+  Turkisa:
+  - - berkelyum
+  Hangusa:
+  - - 버클륨 “bakulyum”
+  Vyetnamsa:
+  - - berkeli
+  Parsisa:
+  - - برکلیم “berkelyom”
+  Swahilisa:
+  - - berkeli
+  Pilipinasa:
+  - - berkelyo
+tags:
+- kimikali monlari
+raw data:
+  term: berkelyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: berkelium
+    epo: berkelio
+    spa: berkelio, Bk
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (berkelium), Hindisa (बर्केलियम “berkeliyam”), Espanisa (berkelio),
+    Arabisa (بِرْكِلْيُوم “birkilyum”), Fransesa (berkélium), Rusisa (берклий “berkeliy”),
+    Indonesisa (berkelium), Doycisa (Berkelium), Niponsa (バークリウム “bakuriumu”), Telugusa
+    (బెర్కీలియం “berkiliyam”), Turkisa (berkelyum), Hangusa (버클륨 “bakulyum”), Vyetnamsa
+    (berkeli), Parsisa (برکلیم “berkelyom”), Swahilisa (berkeli), Pilipinasa (berkelyo)
+...

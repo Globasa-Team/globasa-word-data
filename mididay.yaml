@@ -1,0 +1,50 @@
+---
+term: mididay
+slug: mididay
+ipa: "midi\u02C8daj"
+ipa link: "http://ipa-reader.xyz/?text=midi\u02C8daj&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - medium
+    - medium-sized
+  epo:
+  - - mezgranda
+  - - mezgrande
+  spa:
+  - - mediano
+search terms:
+  glb:
+  - mididay
+  eng:
+  - medium
+  - medium-sized
+  epo:
+  - mezgranda
+  - mezgrande
+  spa:
+  - mediano
+etymology_type: DERIVD
+etymology: <a href="../lexi/mididay">mididay</a>
+raw data:
+  term: mididay
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: medium, medium-sized
+    epo: mezgranda; mezgrande
+    spa: mediano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mididay
+...

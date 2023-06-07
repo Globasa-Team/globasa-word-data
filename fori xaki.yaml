@@ -1,0 +1,50 @@
+---
+term: fori xaki
+slug: fori xaki
+ipa: "\u02C8fo\u027Ei \u02C8\u0283aki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8fo\u027Ei \u02C8\u0283aki&voice=Ewa"
+status: false
+category: phrase
+word class: l jm
+trans:
+  eng:
+  - - "as soon as (_\u201Cimmediately after\u201D_)"
+  epo:
+  - - tuj poste
+    - tuj kiam
+  spa:
+  - - tan pronto como
+search terms:
+  glb:
+  - fori xaki
+  - fori
+  - xaki
+  eng:
+  - as soon as
+  epo:
+  - tuj poste
+  - tuj kiam
+  spa:
+  - tan pronto como
+etymology_type: DERIVD
+etymology: <a href="../lexi/fori">fori</a>, <a href="../lexi/xa-">xa-</a> + <a href="../lexi/ki">ki</a>
+raw data:
+  term: fori xaki
+  category: phrase
+  word class: l jm
+  status: false
+  trans:
+    eng: "as soon as (_\u201Cimmediately after\u201D_)"
+    epo: tuj poste, tuj kiam
+    spa: tan pronto como
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fori, xa- + ki
+...

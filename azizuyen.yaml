@@ -1,0 +1,52 @@
+---
+term: azizuyen
+slug: azizuyen
+ipa: "azizu\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=azizu\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - darling
+    - beloved
+  epo:
+  - - karulo
+    - kara (_persono_)
+  spa:
+  - - ser querido
+search terms:
+  glb:
+  - azizuyen
+  eng:
+  - darling
+  - beloved
+  epo:
+  - karulo
+  - kara
+  spa:
+  - ser querido
+etymology_type: DERIVD
+etymology: <a href="../lexi/azizu">azizu</a> + <a href="../lexi/-yen">-yen</a>
+synonyms:
+- belubiyen
+raw data:
+  term: azizuyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: darling, beloved
+    epo: karulo, kara (_persono_)
+    spa: ser querido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: belubiyen
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: azizu + -yen
+...

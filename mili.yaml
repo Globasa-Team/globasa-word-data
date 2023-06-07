@@ -1,0 +1,56 @@
+---
+term: mili
+slug: mili
+ipa: "\u02C8mili"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mili&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - "1 \xD7 10^-3"
+    - one thousandth of
+  epo:
+  - - milono
+  spa:
+  - - mili-
+    - "1 \xD7 10^-3"
+    - "mil\xE9sima parte de"
+    - m
+search terms:
+  glb:
+  - mili
+  eng:
+  - "1 \xD7 10^-3"
+  - one thousandth of
+  epo:
+  - milono
+  spa:
+  - mili-
+  - "1 \xD7 10^-3"
+  - "mil\xE9sima parte de"
+  - m
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mili
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: "1 \xD7 10^-3, one thousandth of"
+    epo: milono
+    spa: "mili-, 1 \xD7 10^-3, mil\xE9sima parte de, m"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (milli-), Fransesa ( ), Doycisa, Rusisa, Espanisa, Arabisa, Hindisa,
+    Telugusa, Parsisa, Turkisa, Indonesisa, Pilipinasa, Swahilisa, Vyetnamsa, Niponsa,
+    Hangusa
+...

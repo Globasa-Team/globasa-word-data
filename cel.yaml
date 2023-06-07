@@ -1,0 +1,67 @@
+---
+term: cel
+slug: cel
+ipa: t͡ʃel
+ipa link: http://ipa-reader.xyz/?text=t͡ʃel&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - to
+    - for (_denotes destination/goal
+    - intention to attain_)
+  - - -wards
+  epo:
+  - - al
+    - por (_montri celon
+    - intencon atingi_)
+  - - -en
+  spa:
+  - - a
+    - para
+    - hacia (_denota destinación/meta
+    - intención a lograr_)
+search terms:
+  glb:
+  - cel
+  eng:
+  - to
+  - for denotes destination/goal
+  - for (_denotes destination/goal
+  - intention to attain
+  - -wards
+  epo:
+  - al
+  - por montri celon
+  - por (_montri celon
+  - intencon atingi
+  - -en
+  spa:
+  - a
+  - para
+  - hacia denota destinación/meta
+  - hacia (_denota destinación/meta
+  - intención a lograr
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/cele">cele</a>.
+raw data:
+  term: cel
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: to, for (_denotes destination/goal, intention to attain_); -wards
+    epo: al, por (_montri celon, intencon atingi_); -en
+    spa: a, para, hacia (_denota destinación/meta, intención a lograr_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _cele_.
+...

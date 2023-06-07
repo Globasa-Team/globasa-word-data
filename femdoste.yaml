@@ -1,0 +1,52 @@
+---
+term: femdoste
+slug: femdoste
+ipa: "fem\u02C8doste"
+ipa link: "http://ipa-reader.xyz/?text=fem\u02C8doste&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - girlfriend
+    - lady friend
+    - girl friend
+    - female friend
+  epo:
+  - - amikino
+  spa:
+  - - amiga
+search terms:
+  glb:
+  - femdoste
+  eng:
+  - girlfriend
+  - lady friend
+  - girl friend
+  - female friend
+  epo:
+  - amikino
+  spa:
+  - amiga
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/doste">doste</a>
+raw data:
+  term: femdoste
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: girlfriend, lady friend, girl friend, female friend
+    epo: amikino
+    spa: amiga
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem- + doste
+...

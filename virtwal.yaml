@@ -1,0 +1,74 @@
+---
+term: virtwal
+slug: virtwal
+ipa: "vi\u027E\u02C8twal"
+ipa link: "http://ipa-reader.xyz/?text=vi\u027E\u02C8twal&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - virtual
+  epo:
+  - - virtuala
+  - - virtuale
+  spa:
+  - - virtual
+  - - virtualmente
+search terms:
+  glb:
+  - virtwal
+  eng:
+  - virtual
+  epo:
+  - virtuala
+  - virtuale
+  spa:
+  - virtual
+  - virtualmente
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - virtual
+  Espanisa:
+  - - virtual
+  Fransesa:
+  - - virtuel
+  Rusisa:
+  - - "\u0432\u0438\u0440\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439 \u201Cvirtualniy\u201D"
+  Doycisa:
+  - - virtuell
+  Indonesisa:
+  - - virtual
+  Pilipinasa:
+  - - birtuwal
+  Hindisa:
+  - - "\u0935\u0930\u094D\u091A\u0941\u0905\u0932 \u201Cvarcual\u201D"
+  Niponsa:
+  - - "\u30D0\u30FC\u30C1\u30E3\u30EB \u201Cbacaru\u201D"
+  Telugusa:
+  - - "\u0C35\u0C30\u0C4D\u0C1A\u0C41\u0C35\u0C32\u0C4D \u201Cvarcuval\u201D"
+raw data:
+  term: virtwal
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: virtual
+    epo: virtuala; virtuale
+    spa: virtual; virtualmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (virtual), Espanisa (virtual), Fransesa (virtuel), Rusisa (\u0432\u0438\u0440\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0439
+    \u201Cvirtualniy\u201D), Doycisa (virtuell), Indonesisa (virtual) Pilipinasa (birtuwal),
+    Hindisa (\u0935\u0930\u094D\u091A\u0941\u0905\u0932 \u201Cvarcual\u201D), Niponsa
+    (\u30D0\u30FC\u30C1\u30E3\u30EB \u201Cbacaru\u201D), Telugusa (\u0C35\u0C30\u0C4D\u0C1A\u0C41\u0C35\u0C32\u0C4D
+    \u201Cvarcuval\u201D)"
+...

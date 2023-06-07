@@ -1,0 +1,70 @@
+---
+term: ahamible
+slug: ahamible
+ipa: "axa\u02C8mible"
+ipa link: "http://ipa-reader.xyz/?text=axa\u02C8mible&voice=Ewa"
+status: true
+category: derived
+word class: t
+trans:
+  eng:
+  - - understandable
+    - comprehensible
+    - intelligible
+  - - understandably
+    - comprehensibly
+    - intelligibly
+  epo:
+  - - komprenebla
+  - - kompreneble
+  spa:
+  - - entendible
+    - comprensible
+    - inteligible
+  - - entendiblemente
+    - comprensiblemente
+    - inteligiblemente
+search terms:
+  glb:
+  - ahamible
+  eng:
+  - understandable
+  - comprehensible
+  - intelligible
+  - understandably
+  - comprehensibly
+  - intelligibly
+  epo:
+  - komprenebla
+  - kompreneble
+  spa:
+  - entendible
+  - comprensible
+  - inteligible
+  - entendiblemente
+  - comprensiblemente
+  - inteligiblemente
+etymology_type: DERIVD
+etymology: <a href="../lexi/aham">aham</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: ahamible
+  category: derived
+  word class: t
+  status: true
+  trans:
+    eng: understandable, comprehensible, intelligible; understandably, comprehensibly,
+      intelligibly
+    epo: komprenebla; kompreneble
+    spa: entendible, comprensible, inteligible; entendiblemente, comprensiblemente,
+      inteligiblemente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aham + -ible
+...

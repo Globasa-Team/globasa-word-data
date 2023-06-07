@@ -1,0 +1,58 @@
+---
+term: luna
+slug: luna
+ipa: "\u02C8luna"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8luna&voice=Ewa"
+status: true
+category: proper noun
+word class: su n
+trans:
+  eng:
+  - - Earth's moon
+  epo:
+  - - la Luno de la Tero
+  spa:
+  - - la Luna de la Tierra
+search terms:
+  glb:
+  - luna
+  eng:
+  - earth's moon
+  epo:
+  - la luno de la tero
+  spa:
+  - la luna de la tierra
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - lunar
+  Fransesa:
+  - - lune
+    - lunaire
+  Doycisa:
+  - - lunar
+  Espanisa:
+  - - luna
+  Rusisa:
+  - - "\u043B\u0443\u043D\u0430 \u201Cluna\u201D"
+raw data:
+  term: Luna
+  category: proper noun
+  word class: su n
+  status: true
+  trans:
+    eng: Earth's moon
+    epo: la Luno de la Tero
+    spa: la Luna de la Tierra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: moon, the moon, Earth's moon
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lunar), Fransesa (lune, lunaire), Doycisa (lunar), Espanisa
+    (luna), Rusisa (\u043B\u0443\u043D\u0430 \u201Cluna\u201D)"
+...

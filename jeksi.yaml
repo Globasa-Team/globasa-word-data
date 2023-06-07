@@ -1,0 +1,67 @@
+---
+term: jeksi
+slug: jeksi
+ipa: "\u02C8d\u0361\u0292eksi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292eksi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - inject
+    - draw
+  epo:
+  - - injektado
+    - drenado
+  - - injekti
+    - dreni (malinjekti)
+  spa:
+  - - "inyecci\xF3n"
+  - - inyectar
+    - extraer (sangre)
+search terms:
+  glb:
+  - jeksi
+  eng:
+  - inject
+  - draw
+  epo:
+  - injektado
+  - drenado
+  - injekti
+  - dreni malinjekti
+  - dreni
+  spa:
+  - "inyecci\xF3n"
+  - inyectar
+  - extraer sangre
+  - extraer
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: jeksi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: inject, draw
+    epo: injektado, drenado; injekti, dreni (malinjekti)
+    spa: "inyecci\xF3n; inyectar, extraer (sangre)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Indonesisa (injeksi), Englisa (injection), Fransesa, Doycisa, Espanisa
+    (inyecci\xF3n), Rusisa (\u0438\u043D\u044A\u0435\u043A\u0446\u0438\u044F \u201Cinyektsya\u201D),
+    Pilipinasa (iniksyon), Hindisa (\u0907\u0902\u091C\u0915\u094D\u0936\u0928 \u201Cinjakxan\u201D),
+    Arabisa (\u0627\u0646\u0698\u06A9\u0633\u06CC\u0648\u0646 \u201Canjeksyon\u201D),
+    Telugusa (\u0C07\u0C02\u0C1C\u0C46\u0C15\u0C4D\u0C37\u0C28\u0C4D \u201Cinjekxan\u201D),
+    Turkisa (enjeksiyon), Parsisa (\u0627\u0646\u0698\u06A9\u0633\u06CC\u0648\u0646)"
+...

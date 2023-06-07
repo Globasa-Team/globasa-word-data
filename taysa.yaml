@@ -1,0 +1,50 @@
+---
+term: taysa
+slug: taysa
+ipa: "\u02C8tajsa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tajsa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Thai (language)
+  epo:
+  - - la taja (lingvo)
+  spa:
+  - - "idioma tailand\xE9s"
+search terms:
+  glb:
+  - taysa
+  eng:
+  - thai language
+  - thai
+  epo:
+  - la taja lingvo
+  - la taja
+  spa:
+  - "idioma tailand\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Tay">Tay</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Taysa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Thai (language)
+    epo: la taja (lingvo)
+    spa: "idioma tailand\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Tay + -sa
+...

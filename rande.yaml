@@ -1,0 +1,79 @@
+---
+term: rande
+slug: rande
+ipa: "\u02C8\u027Eande"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eande&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - plane
+    - grater
+  - - plane
+    - grate
+  epo:
+  - - rabotilo
+    - raspilo
+  - - raboti
+    - raspi
+  spa:
+  - - cepillo de carpintero
+    - garlopa
+    - rallador
+  - - cepillar
+    - dolar
+    - rallar
+search terms:
+  glb:
+  - rande
+  eng:
+    0: plane
+    1: grater
+    3: grate
+  epo:
+  - rabotilo
+  - raspilo
+  - raboti
+  - raspi
+  spa:
+  - cepillo de carpintero
+  - garlopa
+  - rallador
+  - cepillar
+  - dolar
+  - rallar
+etymology_type: NATLNG
+etymology:
+  Hindi:
+  - - "\u0930\u0902\u0926\u093E \u201Cranda\u201D"
+  Turkisa:
+  - - rende
+  - - rendelemek
+  Parsisa:
+  - - "\u0631\u0646\u062F\u0647 \u201Crande\""
+  - - "\u0631\u064E\u0646\u062F\u06CC\u062F\u064E\u0646 \u201Crandidan\u201D"
+  Swahilisa:
+  - - randa
+raw data:
+  term: rande
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: plane, grater; plane, grate
+    epo: rabotilo, raspilo; raboti, raspi
+    spa: cepillo de carpintero, garlopa, rallador; cepillar, dolar, rallar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindi (\u0930\u0902\u0926\u093E \u201Cranda\u201D), Turkisa (rende;
+    rendelemek), Parsisa (\u0631\u0646\u062F\u0647 \u201Crande\"; \u0631\u064E\u0646\u062F\u06CC\u062F\u064E\u0646
+    \u201Crandidan\u201D), Swahilisa (randa)"
+...

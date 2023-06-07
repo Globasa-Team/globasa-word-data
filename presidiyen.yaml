@@ -1,0 +1,50 @@
+---
+term: presidiyen
+slug: presidiyen
+ipa: "p\u027Eesidi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eesidi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - president
+  epo:
+  - - prezidanto
+    - prezidento
+  spa:
+  - - presidente
+search terms:
+  glb:
+  - presidiyen
+  eng:
+  - president
+  epo:
+  - prezidanto
+  - prezidento
+  spa:
+  - presidente
+etymology_type: DERIVD
+etymology: <a href="../lexi/presidi">presidi</a> + <a href="../lexi/-yen">-yen</a>
+tags:
+- politi
+raw data:
+  term: presidiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: president
+    epo: prezidanto, prezidento
+    spa: presidente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: presidi + -yen
+...

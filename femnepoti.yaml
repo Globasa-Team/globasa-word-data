@@ -1,0 +1,48 @@
+---
+term: femnepoti
+slug: femnepoti
+ipa: "femne\u02C8poti"
+ipa link: "http://ipa-reader.xyz/?text=femne\u02C8poti&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - niece
+  epo:
+  - - nevino
+    - fratidino
+  spa:
+  - - sobrina
+search terms:
+  glb:
+  - femnepoti
+  eng:
+  - niece
+  epo:
+  - nevino
+  - fratidino
+  spa:
+  - sobrina
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/nepoti">nepoti</a>
+raw data:
+  term: femnepoti
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: niece
+    epo: nevino, fratidino
+    spa: sobrina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem- + nepoti
+...

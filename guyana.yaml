@@ -1,0 +1,50 @@
+---
+term: guyana
+slug: guyana
+ipa: "gu\u02C8jana"
+ipa link: "http://ipa-reader.xyz/?text=gu\u02C8jana&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Guyana
+  epo:
+  - - Gujano
+  spa:
+  - - Guyana
+search terms:
+  glb:
+  - guyana
+  eng:
+  - guyana
+  epo:
+  - gujano
+  spa:
+  - guyana
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Guyana
+tags:
+- dexa
+raw data:
+  term: Guyana
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Guyana
+    epo: Gujano
+    spa: Guyana
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Guyana)
+...

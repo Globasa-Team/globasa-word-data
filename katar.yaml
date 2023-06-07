@@ -1,0 +1,50 @@
+---
+term: katar
+slug: katar
+ipa: "ka\u02C8ta\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8ta\u027E&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Qatar
+  epo:
+  - - Kataro
+  spa:
+  - - Catar
+search terms:
+  glb:
+  - katar
+  eng:
+  - qatar
+  epo:
+  - kataro
+  spa:
+  - catar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0642\u0637\u0631 \u201CQa\u1E6Dar\u201D"
+tags:
+- dexa
+raw data:
+  term: Katar
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Qatar
+    epo: Kataro
+    spa: Catar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u0642\u0637\u0631 \u201CQa\u1E6Dar\u201D)"
+...

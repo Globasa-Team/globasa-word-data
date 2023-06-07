@@ -1,0 +1,61 @@
+---
+term: falso
+slug: falso
+ipa: ˈfalso
+ipa link: http://ipa-reader.xyz/?text=ˈfalso&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - "false"
+  epo:
+  - - falsa
+  - - "false"
+  spa:
+  - - falso
+search terms:
+  glb:
+  - falso
+  eng:
+  - "false"
+  epo:
+  - falsa
+  - "false"
+  spa:
+  - falso
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - "false"
+  Fransesa:
+  - - faux
+  Doycisa:
+  - - falsch
+  Rusisa:
+  - - фальшивый “falxiviy”
+  Espanisa:
+  - - falso
+  Indonesisa:
+  - - palsu
+raw data:
+  term: falso
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: "false"
+    epo: falsa; false
+    spa: falso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (false), Fransesa (faux), Doycisa (falsch), Rusisa (фальшивый
+    “falxiviy”), Espanisa (falso), Indonesisa (palsu)
+...

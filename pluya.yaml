@@ -1,0 +1,54 @@
+---
+term: pluya
+slug: pluya
+ipa: "\u02C8pluja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pluja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - multiplicity
+    - multipleness
+    - plurality
+  epo:
+  - - multeco
+    - plureco
+  spa:
+  - - multiplicidad
+    - pluralidad
+search terms:
+  glb:
+  - pluya
+  eng:
+  - multiplicity
+  - multipleness
+  - plurality
+  epo:
+  - multeco
+  - plureco
+  spa:
+  - multiplicidad
+  - pluralidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/plu">plu</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: pluya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: multiplicity, multipleness, plurality
+    epo: multeco, plureco
+    spa: multiplicidad, pluralidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: plu + -ya
+...

@@ -1,0 +1,46 @@
+---
+term: calunkursi
+slug: calunkursi
+ipa: "t\u0361\u0283alun\u02C8ku\u027Esi"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283alun\u02C8ku\u027Esi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - wheel chair
+  epo:
+  - - "rulse\u011Do"
+  spa:
+  - - silla de ruedas
+search terms:
+  glb:
+  - calunkursi
+  eng:
+  - wheel chair
+  epo:
+  - "rulse\u011Do"
+  spa:
+  - silla de ruedas
+etymology_type: DERIVD
+etymology: <a href="../lexi/calun">calun</a> + <a href="../lexi/kursi">kursi</a>
+raw data:
+  term: calunkursi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: wheel chair
+    epo: "rulse\u011Do"
+    spa: silla de ruedas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: calun + kursi
+...

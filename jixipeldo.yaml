@@ -1,0 +1,50 @@
+---
+term: jixipeldo
+slug: jixipeldo
+ipa: "d\u0361\u0292i\u0283i\u02C8peldo"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i\u0283i\u02C8peldo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - curious
+    - curiously
+  epo:
+  - - scivola
+  - - scivole
+  spa:
+  - - curioso
+search terms:
+  glb:
+  - jixipeldo
+  eng:
+  - curious
+  - curiously
+  epo:
+  - scivola
+  - scivole
+  spa:
+  - curioso
+etymology_type: DERIVD
+etymology: <a href="../lexi/jixi">jixi</a> + <a href="../lexi/-peldo">-peldo</a>
+raw data:
+  term: jixipeldo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: curious, curiously
+    epo: scivola; scivole
+    spa: curioso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jixi + -peldo
+...

@@ -1,0 +1,54 @@
+---
+term: komunika
+slug: komunika
+ipa: "komu\u02C8nika"
+ipa link: "http://ipa-reader.xyz/?text=komu\u02C8nika&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - communication
+  - - communicate
+  epo:
+  - - komunikado
+  - - komuniki
+  spa:
+  - - "comunicaci\xF3n"
+  - - comunicar
+search terms:
+  glb:
+  - komunika
+  eng:
+  - communication
+  - communicate
+  epo:
+  - komunikado
+  - komuniki
+  spa:
+  - "comunicaci\xF3n"
+  - comunicar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: komunika
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: communication; communicate
+    epo: komunikado; komuniki
+    spa: "comunicaci\xF3n; comunicar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (communication), Fransesa, Doycisa (kommunikativ), Rusisa (\u043A\u043E\u043C\u043C\u0443\u043D\u0438\u043A\u0430\u0442\u0438\u0432\u043D\u044B\u0439
+    \u201Ckommunikativniy\u201D), Espanisa (comunicaci\xF3n), Niponsa (\u30B3\u30DF\u30E5\u30CB\u30B1\u30FC\u30B7\u30E7\u30F3
+    \u201Ckomyunikeyxon\u201D), Turkisa (kom\xFCnikasyon), Pilipinasa (komunikasyon)"
+...

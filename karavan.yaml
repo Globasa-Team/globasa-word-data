@@ -1,0 +1,56 @@
+---
+term: karavan
+slug: karavan
+ipa: "ka\u027Ea\u02C8van"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027Ea\u02C8van&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - caravan
+  epo:
+  - - karavano
+  spa:
+  - - caravana
+  deu:
+  - - Karawane
+search terms:
+  glb:
+  - karavan
+  eng:
+  - caravan
+  epo:
+  - karavano
+  spa:
+  - caravana
+  deu:
+  - karawane
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: karavan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: caravan
+    epo: karavano
+    spa: caravana
+    deu: Karawane
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (caravan), Espanisa (caravana), Fransesa (caravane), Rusisa
+    (\u043A\u0430\u0440\u0430\u0432\u0430\u043D \u201Ckaravan\u201D), Doycisa (Karawane),
+    Pilipinasa (karabana), Hindisa (\u0915\u093E\u0930\u0935\u093E\u0901 \u201Ckarvan\u201D),
+    Niponsa (\u30AD\u30E3\u30E9\u30D0\u30F3 \u201Ckyaraban\u201D), Telugusa (\u0C15\u0C3E\u0C30\u0C35\u0C3E\u0C28\u0C4D
+    \u201Ckaravan\u201D), Turkisa (\u0C15\u0C3E\u0C30\u0C35\u0C3E\u0C28\u0C4D \u201Ckaravan\u201D),
+    Hangusa (\uCE74\uB77C\uBC18 \u201Ckaraban\u201D), Parsisa (\u06A9\u0627\u0631\u0648\u0627\u0646
+    \u201Ckarvan\u201D)"
+...

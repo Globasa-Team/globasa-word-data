@@ -1,0 +1,58 @@
+---
+term: kapibara
+slug: kapibara
+ipa: "kapi\u02C8ba\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=kapi\u02C8ba\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - capybara
+    - _Hydrochoerus_
+  epo:
+  - - kapibaro
+  spa:
+  - - capibara
+    - carpincho
+    - _Hydrochoerus hydrochaeris_
+search terms:
+  glb:
+  - kapibara
+  eng:
+  - capybara
+  - hydrochoerus
+  epo:
+  - kapibaro
+  spa:
+  - capibara
+  - carpincho
+  - hydrochoerus hydrochaeris
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kapibara
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: capybara, _Hydrochoerus_
+    epo: kapibaro
+    spa: capibara, carpincho, _Hydrochoerus hydrochaeris_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (capybara), Fransesa, Doycisa, Vyetnamsa, Espanisa (capibara),
+    Indonesisa (kapibara), Pilipinasa, Turkisa, Swahilisa, Hindisa (\u0915\u0948\u092A\u0940\u092C\u093E\u0930\u093E
+    \u201Ckepibara\u201D), Niponsa (\u30AB\u30D4\u30D0\u30E9 \u201Ckapibara\u201D),
+    Hangusa (\uCE74\uD53C\uBC14\uB77C \u201Ckapibara\u201D), Parsisa (\u06A9\u064E\u067E\u06CC\u200C\u0628\u0627\u0631\u0627
+    \u201Ckapibara\u201D)"
+...

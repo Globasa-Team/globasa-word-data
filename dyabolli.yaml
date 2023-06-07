@@ -1,0 +1,50 @@
+---
+term: dyabolli
+slug: dyabolli
+ipa: "dja\u02C8bolli"
+ipa link: "http://ipa-reader.xyz/?text=dja\u02C8bolli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - diabolical
+    - diabolically
+  epo:
+  - - diabola
+  - - diabole
+  spa:
+  - - "diab\xF3lico"
+search terms:
+  glb:
+  - dyabolli
+  eng:
+  - diabolical
+  - diabolically
+  epo:
+  - diabola
+  - diabole
+  spa:
+  - "diab\xF3lico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/dyabol">dyabol</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: dyabolli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: diabolical, diabolically
+    epo: diabola; diabole
+    spa: "diab\xF3lico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dyabol + -li
+...

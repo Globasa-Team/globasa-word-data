@@ -1,0 +1,46 @@
+---
+term: lao-
+slug: lao-
+ipa: "la\u02C8o-"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8o-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - old
+  epo:
+  - - maljuna
+  spa:
+  - - viejo
+search terms:
+  glb:
+  - lao-
+  eng:
+  - old
+  epo:
+  - maljuna
+  spa:
+  - viejo
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/lao">lao</a>.
+raw data:
+  term: lao-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: old
+    epo: maljuna
+    spa: viejo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _lao_.
+...

@@ -1,0 +1,77 @@
+---
+term: reylu
+slug: reylu
+ipa: "\u02C8\u027Eejlu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eejlu&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rail
+  epo:
+  - - relo
+  spa:
+  - - riel
+search terms:
+  glb:
+  - reylu
+  eng:
+  - rail
+  epo:
+  - relo
+  spa:
+  - riel
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rail
+  Espanisa:
+  - - "ra\xEDl"
+    - riel
+  Fransesa:
+  - - rail
+  Rusisa:
+  - - "\u0440\u0435\u043B\u044C\u0441 \"rels\""
+  Indonesisa:
+  - - rel
+  Pilipinasa:
+  - - riles
+  Hindisa:
+  - - "\u0930\u0947\u0932\u0935\u0947 \"relwey\""
+  Niponsa:
+  - - "\u30EC\u30FC\u30EB \"reru\""
+  Telugusa:
+  - - "\u0C30\u0C48\u0C32\u0C41 \"raylu\""
+  Vyetnamsa:
+  - - "\u0111\u01B0\u1EDDng r\u1EA7y"
+  Hangusa:
+  - - "\uB808\uC77C \"reyl\""
+  Parsisa:
+  - - "\u0631\u06CC\u0644 \"reyl\""
+  Swahilisa:
+  - - reli
+raw data:
+  term: reylu
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: rail
+    epo: relo
+    spa: riel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (rail), Espanisa (ra\xEDl, riel), Fransesa (rail), Rusisa (\u0440\u0435\u043B\u044C\u0441
+    \"rels\"). Indonesisa (rel), Pilipinasa (riles), Hindisa (\u0930\u0947\u0932\u0935\u0947
+    \"relwey\"), Niponsa (\u30EC\u30FC\u30EB \"reru\"), Telugusa (\u0C30\u0C48\u0C32\u0C41
+    \"raylu\"), Vyetnamsa (\u0111\u01B0\u1EDDng r\u1EA7y), Hangusa (\uB808\uC77C \"reyl\"),
+    Parsisa (\u0631\u06CC\u0644 \"reyl\"), Swahilisa (reli)"
+...

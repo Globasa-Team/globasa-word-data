@@ -1,0 +1,75 @@
+---
+term: vetor
+slug: vetor
+ipa: "ve\u02C8to\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ve\u02C8to\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vector
+  epo:
+  - - vektoro
+  spa:
+  - - vector
+search terms:
+  glb:
+  - vetor
+  eng:
+  - vector
+  epo:
+  - vektoro
+  spa:
+  - vector
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - vector
+  Espanisa:
+  - - vector
+  Fransesa:
+  - - vecteur
+  Rusisa:
+  - - "\u0432\u0435\u043A\u0442\u043E\u0440 \"vektor\""
+  Doycisa:
+  - - Vektor
+  Portugalsa:
+  - - vetor
+  Italisa:
+  - - vettore
+  Indonesisa:
+  - - vektor
+  Pilipinasa:
+  - - bektor
+  Niponsa:
+  - - "\u30D9\u30AF\u30C8\u30EB \"bekutoru\""
+  Turkisa:
+  - - "vekt\xF6r"
+  Vyetnamsa:
+  - - "vect\u01A1"
+  Hangusa:
+  - - "\uBCA1\uD130 \"bekto\""
+raw data:
+  term: vetor
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vector
+    epo: vektoro
+    spa: vector
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (vector), Espanisa (vector), Fransesa (vecteur), Rusisa (\u0432\u0435\u043A\u0442\u043E\u0440
+    \"vektor\"), Doycisa (Vektor), Portugalsa (vetor), Italisa (vettore), Indonesisa
+    (vektor), Pilipinasa (bektor), Niponsa (\u30D9\u30AF\u30C8\u30EB \"bekutoru\"),
+    Turkisa (vekt\xF6r), Vyetnamsa (vect\u01A1), Hangusa (\uBCA1\uD130 \"bekto\")"
+...

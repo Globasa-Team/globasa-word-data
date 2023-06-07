@@ -1,0 +1,56 @@
+---
+term: zangar
+slug: zangar
+ipa: "zan\u02C8ga\u027E"
+ipa link: "http://ipa-reader.xyz/?text=zan\u02C8ga\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rust
+  epo:
+  - - rusto
+  spa:
+  - - herrumbre
+    - "\xF3xido"
+    - "or\xEDn"
+search terms:
+  glb:
+  - zangar
+  eng:
+  - rust
+  epo:
+  - rusto
+  spa:
+  - herrumbre
+  - "\xF3xido"
+  - "or\xEDn"
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u091C\u093C\u0902\u0917 \u201Czang\u201D"
+  Turkisa:
+  - - "\u0632\u0646\u06AF \u201Czang\u201D"
+    - "\u0632\u0646\u06AF\u0627\u0631 \u201Czangar\u201D"
+raw data:
+  term: zangar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rust
+    epo: rusto
+    spa: "herrumbre, \xF3xido, or\xEDn"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u091C\u093C\u0902\u0917 \u201Czang\u201D), Turkisa (\u0632\u0646\u06AF
+    \u201Czang\u201D, \u0632\u0646\u06AF\u0627\u0631 \u201Czangar\u201D)"
+...

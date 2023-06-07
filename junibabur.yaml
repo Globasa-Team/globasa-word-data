@@ -1,0 +1,47 @@
+---
+term: junibabur
+slug: junibabur
+ipa: "d\u0361\u0292uniba\u02C8bu\u027E"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292uniba\u02C8bu\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (tiger) cub
+  epo:
+  - - tigrido
+  spa:
+  - - cachorro de tigre
+search terms:
+  glb:
+  - junibabur
+  eng:
+  - tiger cub
+  - cub
+  epo:
+  - tigrido
+  spa:
+  - cachorro de tigre
+etymology_type: DERIVD
+etymology: <a href="../lexi/juni-">juni-</a> + <a href="../lexi/babur">babur</a>
+raw data:
+  term: junibabur
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (tiger) cub
+    epo: tigrido
+    spa: cachorro de tigre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: juni- + babur
+...

@@ -1,0 +1,66 @@
+---
+term: alga
+slug: alga
+ipa: ˈalga
+ipa link: http://ipa-reader.xyz/?text=ˈalga&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - alga
+    - algae
+  epo:
+  - - algo(j)
+  spa:
+  - - alga
+search terms:
+  glb:
+  - alga
+  eng:
+  - alga
+  - algae
+  epo:
+  - algoj
+  - algo
+  spa:
+  - alga
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - alga
+  Espanisa:
+  - - alga
+  Fransesa:
+  - - alg
+  Doycisa:
+  - - Alge
+  Indonesisa:
+  - - alga
+  Turkisa:
+  - - alg
+  Parsisa:
+  - - آلگ “alg”
+  Swahilisa:
+  - - alga
+raw data:
+  term: alga
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: alga, algae
+    epo: algo(j)
+    spa: alga
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (alga), Espanisa (alga), Fransesa (alg), Doycisa (Alge), Indonesisa
+    (alga), Turkisa (alg), Parsisa (آلگ “alg”), Swahilisa (alga)
+...

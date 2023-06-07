@@ -1,0 +1,52 @@
+---
+term: pampasi
+slug: pampasi
+ipa: "pam\u02C8pasi"
+ipa link: "http://ipa-reader.xyz/?text=pam\u02C8pasi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rib
+  epo:
+  - - ripo
+  spa:
+  - - costilla
+search terms:
+  glb:
+  - pampasi
+  eng:
+  - rib
+  epo:
+  - ripo
+  spa:
+  - costilla
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u092A\u0938\u0932\u0940 \u201Cpasli\u201D"
+  Swahilisa:
+  - - pambazi
+tags:
+- jismulogi
+raw data:
+  term: pampasi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rib
+    epo: ripo
+    spa: costilla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Hindisa (\u092A\u0938\u0932\u0940 \u201Cpasli\u201D), Swahilisa (pambazi)"
+...

@@ -1,0 +1,58 @@
+---
+term: kutububaru
+slug: kutububaru
+ipa: "kutubu\u02C8ba\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=kutubu\u02C8ba\u027Eu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - polar bear
+    - _Ursus maritimus_
+  epo:
+  - - blanka urso
+    - glaciurso
+    - polusa urso
+    - arkta urso
+  spa:
+  - - oso polar
+    - _Ursus maritimus_
+search terms:
+  glb:
+  - kutububaru
+  eng:
+  - polar bear
+  - ursus maritimus
+  epo:
+  - blanka urso
+  - glaciurso
+  - polusa urso
+  - arkta urso
+  spa:
+  - oso polar
+  - ursus maritimus
+etymology_type: DERIVD
+etymology: <a href="../lexi/kutubu">kutubu</a> + <a href="../lexi/baru">baru</a>
+tags:
+- hewan
+raw data:
+  term: kutububaru
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: polar bear, _Ursus maritimus_
+    epo: blanka urso, glaciurso, polusa urso, arkta urso
+    spa: oso polar, _Ursus maritimus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: kutubu + baru
+...

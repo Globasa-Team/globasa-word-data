@@ -1,0 +1,53 @@
+---
+term: lefe
+slug: lefe
+ipa: "\u02C8lefe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lefe&voice=Ewa"
+status: false
+category: derived
+word class: p
+trans:
+  eng:
+  - - before (_+ noun
+    - -ing_)
+    - ago
+  epo:
+  - - "anta\u016D"
+  spa:
+  - - antes de
+    - hace
+search terms:
+  glb:
+  - lefe
+  eng:
+  - before + noun
+  - before (_+ noun
+  - -ing
+  - ago
+  epo:
+  - "anta\u016D"
+  spa:
+  - antes de
+  - hace
+etymology_type: DERIVD
+etymology: <a href="../lexi/le-">le-</a> + <a href="../lexi/fe">fe</a>
+raw data:
+  term: lefe
+  category: derived
+  word class: p
+  status: false
+  trans:
+    eng: before (_+ noun, -ing_), ago
+    epo: "anta\u016D"
+    spa: antes de, hace
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: le- + fe
+...

@@ -1,0 +1,103 @@
+---
+term: nyuton
+slug: nyuton
+ipa: "nju\u02C8ton"
+ipa link: "http://ipa-reader.xyz/?text=nju\u02C8ton&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - newton (unit)
+  epo:
+  - - "ne\u016Dtono"
+  spa:
+  - - _newton_
+    - "N"
+  deu:
+  - - Newton
+  fra:
+  - - newton
+  rus:
+  - - "\u043D\u044C\u044E\u0442\u043E\u043D"
+  zho:
+  - - "\u725B\u987F"
+search terms:
+  glb:
+  - nyuton
+  eng:
+  - newton unit
+  - newton
+  epo:
+  - "ne\u016Dtono"
+  spa:
+  - newton
+  - "n"
+  deu:
+  - newton
+  fra:
+  - newton
+  rus:
+  - "\u043D\u044C\u044E\u0442\u043E\u043D"
+  zho:
+  - "\u725B\u987F"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - newton
+  Espanisa:
+  - - newton
+  Fransesa:
+  - - newton
+  Rusisa:
+  - - "\u043D\u044C\u044E\u0442\u043E\u043D \u201Cnjuton\u201D"
+  Doycisa:
+  - - Newton
+  Indonesisa:
+  - - newton
+  Pilipinasa:
+  - - newton
+  Putunhwa:
+  - - "\u725B\u987F \u201Cnyowdun\u201D"
+  Hindisa:
+  - - "\u0928\u094D\u092F\u0942\u091F\u0928 \u201Cnyutan\u201D"
+  Arabisa:
+  - - "\u0646\u0652\u064A\u064F\u0648\u062A\u064E\u0646 \u201Cnyutan\u201D"
+  Niponsa:
+  - - "\u30CB\u30E5\u30FC\u30C8\u30F3 \u201Cnyuton\u201D"
+  Turkisa:
+  - - newton
+  Hangusa:
+  - - "\uB274\uD134 \u201Cnyuton\u201D"
+  Vyetnamsa:
+  - - "newt\u01A1n"
+  Parsisa:
+  - - "\u0646\u06CC\u0648\u062A\u0648\u0646 \u201Cnyuton\u201D"
+  Swahilisa:
+  - - nyutoni
+raw data:
+  term: nyuton
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: newton (unit)
+    epo: "ne\u016Dtono"
+    spa: _newton_, N
+    deu: Newton
+    fra: newton
+    rus: "\u043D\u044C\u044E\u0442\u043E\u043D"
+    zho: "\u725B\u987F"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (newton), Espanisa (newton), Fransesa (newton), Rusisa (\u043D\u044C\u044E\u0442\u043E\u043D
+    \u201Cnjuton\u201D), Doycisa (Newton), Indonesisa (newton), Pilipinasa (newton),
+    Putunhwa (\u725B\u987F \u201Cnyowdun\u201D), Hindisa (\u0928\u094D\u092F\u0942\u091F\u0928
+    \u201Cnyutan\u201D), Arabisa (\u0646\u0652\u064A\u064F\u0648\u062A\u064E\u0646
+    \u201Cnyutan\u201D), Niponsa (\u30CB\u30E5\u30FC\u30C8\u30F3 \u201Cnyuton\u201D),
+    Turkisa (newton), Hangusa (\uB274\uD134 \u201Cnyuton\u201D), Vyetnamsa (newt\u01A1n),
+    Parsisa (\u0646\u06CC\u0648\u062A\u0648\u0646 \u201Cnyuton\u201D), Swahilisa (nyutoni)"
+...

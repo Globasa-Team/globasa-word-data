@@ -1,0 +1,48 @@
+---
+term: riadres
+slug: riadres
+ipa: "\u027Eia\u02C8d\u027Ees"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eia\u02C8d\u027Ees&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - forward (_mail_)
+  epo:
+  - - plusendo
+  - - plusendi
+  spa:
+  - - reenviar
+search terms:
+  glb:
+  - riadres
+  eng:
+  - forward
+  epo:
+  - plusendo
+  - plusendi
+  spa:
+  - reenviar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ri-">ri-</a> + <a href="../lexi/adres">adres</a>
+raw data:
+  term: riadres
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: forward (_mail_)
+    epo: plusendo; plusendi
+    spa: reenviar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ri- + adres
+...

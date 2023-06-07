@@ -1,0 +1,57 @@
+---
+term: gawlu
+slug: gawlu
+ipa: ˈgawlu
+ipa link: http://ipa-reader.xyz/?text=ˈgawlu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - throat
+  epo:
+  - - gorĝo
+  spa:
+  - - garganta
+search terms:
+  glb:
+  - gawlu
+  eng:
+  - throat
+  epo:
+  - gorĝo
+  spa:
+  - garganta
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - गला “gala”
+  Parsisa:
+  - - گلو “galu”
+    - “golu”
+  Urdu:
+  - - گلو “galu”
+    - “gulu”
+tags:
+- jismulogi
+raw data:
+  term: gawlu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: throat
+    epo: gorĝo
+    spa: garganta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Hindisa (गला “gala”), Parsisa (گلو “galu”, “golu”), Urdu (گلو “galu”,
+    “gulu”)
+...

@@ -1,0 +1,59 @@
+---
+term: komiki
+slug: komiki
+ipa: "ko\u02C8miki"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8miki&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - comics
+    - manga
+  epo:
+  - - komikso
+    - bildliteraturo
+  spa:
+  - - "tira c\xF3mica"
+    - "c\xF3mic"
+    - manga
+search terms:
+  glb:
+  - komiki
+  eng:
+  - comics
+  - manga
+  epo:
+  - komikso
+  - bildliteraturo
+  spa:
+  - "tira c\xF3mica"
+  - "c\xF3mic"
+  - manga
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: komiki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: comics, manga
+    epo: komikso, bildliteraturo
+    spa: "tira c\xF3mica, c\xF3mic, manga"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (comics), Espanisa (c\xF3mic), Rusisa (\u043A\u043E\u043C\u0438\u043A\u0441
+    \u201Ckomiks\u201D), Doycisa (Comic), Indonesisa (komik), Pilipinasa (komiks),
+    Hindisa (\u0915\u0949\u092E\u093F\u0915\u094D\u0938 \u201Ckomiks\u201D), Niponsa
+    (\u30B3\u30DF\u30C3\u30AF \u201Ckomikku\u201D), Telugusa (\u0C15\u0C3E\u0C2E\u0C3F\u0C15\u0C4D\u0C38\u0C4D
+    \u201Ckamiks\u201D), Parsisa (\u06A9\u064F\u0645\u06CC\u06A9 \u201Ckomik\u201D),
+    Swahilisa (komiki)"
+...

@@ -1,0 +1,50 @@
+---
+term: moyli
+slug: moyli
+ipa: "\u02C8mojli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mojli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - universal
+  - - universally
+  epo:
+  - - universala
+  - - unversale
+  spa:
+  - - universal
+search terms:
+  glb:
+  - moyli
+  eng:
+  - universal
+  - universally
+  epo:
+  - universala
+  - unversale
+  spa:
+  - universal
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: moyli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: universal; universally
+    epo: universala; unversale
+    spa: universal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + -li
+...

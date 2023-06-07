@@ -1,0 +1,50 @@
+---
+term: nasyonli
+slug: nasyonli
+ipa: "na\u02C8sjonli"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8sjonli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - national
+  - - nationally
+  epo:
+  - - nacia
+  - - nacie
+  spa:
+  - - nacional
+search terms:
+  glb:
+  - nasyonli
+  eng:
+  - national
+  - nationally
+  epo:
+  - nacia
+  - nacie
+  spa:
+  - nacional
+etymology_type: DERIVD
+etymology: <a href="../lexi/nasyon">nasyon</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: nasyonli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: national; nationally
+    epo: nacia; nacie
+    spa: nacional
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nasyon + -li
+...

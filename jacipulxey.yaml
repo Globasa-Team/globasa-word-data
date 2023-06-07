@@ -1,0 +1,47 @@
+---
+term: jacipulxey
+slug: jacipulxey
+ipa: "d\u0361\u0292at\u0361\u0283ipul\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292at\u0361\u0283ipul\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - valuables
+  epo:
+  - - "valora\u0135o"
+  spa:
+  - - objeto de valor
+search terms:
+  glb:
+  - jacipulxey
+  eng:
+  - valuables
+  epo:
+  - "valora\u0135o"
+  spa:
+  - objeto de valor
+etymology_type: DERIVD
+etymology: <a href="../lexi/jaci">jaci</a> + <a href="../lexi/-pul">-pul</a> + <a
+  href="../lexi/-xey">-xey</a>
+raw data:
+  term: jacipulxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: valuables
+    epo: "valora\u0135o"
+    spa: objeto de valor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: valuable, valuables
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jaci + -pul + -xey
+...

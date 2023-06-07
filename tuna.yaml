@@ -1,0 +1,84 @@
+---
+term: tuna
+slug: tuna
+ipa: "\u02C8tuna"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tuna&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tuna
+    - _Thunnini_
+  epo:
+  - - tinuso
+    - tino
+  spa:
+  - - "at\xFAn"
+    - _Thunnini_
+search terms:
+  glb:
+  - tuna
+  eng:
+  - tuna
+  - thunnini
+  epo:
+  - tinuso
+  - tino
+  spa:
+  - "at\xFAn"
+  - thunnini
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tuna
+  Indonesisa: ~
+  Espanisa:
+  - - "at\xFAn"
+  Fransesa:
+  - - thon
+  Rusisa:
+  - - "\u0442\u0443\u043D\u0435\u0446 \u201Ctunets\u201D"
+  Doycisa:
+  - - Thun
+  Pilipinasa:
+  - - atun
+  Hindisa:
+  - - "\u091F\u0942\u0928\u093E \u201Ctuna\u201D"
+  Arabisa:
+  - - "\u062A\u064F\u0648\u0646\u064E\u0629 \u201Ctuna\u201D"
+  Niponsa:
+  - - "\u30C4\u30CA \u201Ctsuna\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C4D\u0C2F\u0C42\u0C28\u0C3E \u201Ctyuna\u201D"
+  Turkisa:
+  - - "ton bal\u0131\u011F\u0131"
+  Parsisa:
+  - - "\u0645\u0627\u0647\u06CC \u062A\u0646 \u201Cmahiye ton\u201D"
+tags:
+- hewan
+raw data:
+  term: tuna
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tuna, _Thunnini_
+    epo: tinuso, tino
+    spa: "at\xFAn, _Thunnini_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (tuna), Indonesisa, Espanisa (at\xFAn), Fransesa (thon), Rusisa
+    (\u0442\u0443\u043D\u0435\u0446 \u201Ctunets\u201D), Doycisa (Thun), Pilipinasa
+    (atun), Hindisa (\u091F\u0942\u0928\u093E \u201Ctuna\u201D), Arabisa (\u062A\u064F\u0648\u0646\u064E\u0629
+    \u201Ctuna\u201D), Niponsa (\u30C4\u30CA \u201Ctsuna\u201D), Telugusa (\u0C1F\u0C4D\u0C2F\u0C42\u0C28\u0C3E
+    \u201Ctyuna\u201D), Turkisa (ton bal\u0131\u011F\u0131), Parsisa (\u0645\u0627\u0647\u06CC
+    \u062A\u0646 \u201Cmahiye ton\u201D)"
+...

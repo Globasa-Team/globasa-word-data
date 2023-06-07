@@ -1,0 +1,50 @@
+---
+term: libi
+slug: libi
+ipa: "\u02C8libi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8libi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Libya
+  epo:
+  - - Libio
+  spa:
+  - - Libia
+search terms:
+  glb:
+  - libi
+  eng:
+  - libya
+  epo:
+  - libio
+  spa:
+  - libia
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0644\u064A\u0628\u064A\u0627\u200E \u201CL\u012Bbiy\u0101\u201D"
+tags:
+- dexa
+raw data:
+  term: Libi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Libya
+    epo: Libio
+    spa: Libia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u0644\u064A\u0628\u064A\u0627\u200E \u201CL\u012Bbiy\u0101\u201D)"
+...

@@ -1,0 +1,46 @@
+---
+term: seli
+slug: seli
+ipa: "\u02C8seli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8seli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - itself
+  epo:
+  - - mem
+  spa:
+  - - "s\xED mismo"
+search terms:
+  glb:
+  - seli
+  eng:
+  - itself
+  epo:
+  - mem
+  spa:
+  - "s\xED mismo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/se">se</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: seli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: itself
+    epo: mem
+    spa: "s\xED mismo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se + -li
+...

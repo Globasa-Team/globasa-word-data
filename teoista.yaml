@@ -1,0 +1,48 @@
+---
+term: teoista
+slug: teoista
+ipa: "teo\u02C8ista"
+ipa link: "http://ipa-reader.xyz/?text=teo\u02C8ista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - theist
+  epo:
+  - - teisto
+    - diisto
+  spa:
+  - - "te\xEDsta"
+search terms:
+  glb:
+  - teoista
+  eng:
+  - theist
+  epo:
+  - teisto
+  - diisto
+  spa:
+  - "te\xEDsta"
+etymology_type: DERIVD
+etymology: <a href="../lexi/teo">teo</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: teoista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: theist
+    epo: teisto, diisto
+    spa: "te\xEDsta"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: teo + -ista
+...

@@ -1,0 +1,53 @@
+---
+term: ufuku
+slug: ufuku
+ipa: "u\u02C8fuku"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8fuku&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - horizon
+  epo:
+  - - horizonto
+  spa:
+  - - horizonte
+search terms:
+  glb:
+  - ufuku
+  eng:
+  - horizon
+  epo:
+  - horizonto
+  spa:
+  - horizonte
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0627\u0644\u0623\u0641\u0642 \u201Calufuk\u201D"
+  Turkisa:
+  - - ufuk
+  Parsisa:
+  - - "\u0627\u0641\u0642 \u201Cafoku\u201D"
+raw data:
+  term: ufuku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: horizon
+    epo: horizonto
+    spa: horizonte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0627\u0644\u0623\u0641\u0642 \u201Calufuk\u201D), Turkisa
+    (ufuk), Parsisa (\u0627\u0641\u0642 \u201Cafoku\u201D)"
+...

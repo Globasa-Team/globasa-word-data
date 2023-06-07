@@ -1,0 +1,58 @@
+---
+term: xafe dento
+slug: xafe dento
+ipa: "\u02C8\u0283afe \u02C8dento"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283afe \u02C8dento&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - later (after that)
+    - afterwards
+    - (and) then
+  epo:
+  - - post tio
+    - poste
+  spa:
+  - - "despu\xE9s (de eso)"
+search terms:
+  glb:
+  - xafe dento
+  - xafe
+  - dento
+  eng:
+  - later after that
+  - later
+  - afterwards
+  - and then
+  - then
+  epo:
+  - post tio
+  - poste
+  spa:
+  - "despu\xE9s de eso"
+  - "despu\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/xa-">xa-</a> + <a href="../lexi/fe">fe</a>, <a href="../lexi/den">den</a>
+  + <a href="../lexi/to">to</a>
+raw data:
+  term: xafe dento
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: later (after that), afterwards, (and) then
+    epo: post tio, poste
+    spa: "despu\xE9s (de eso)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xa- + fe, den + to
+...

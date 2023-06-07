@@ -1,0 +1,54 @@
+---
+term: daydenmo
+slug: daydenmo
+ipa: "daj\u02C8denmo"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8denmo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - so
+    - such
+    - how
+  epo:
+  - - tiom
+  spa:
+  - - "qu\xE9"
+    - vaya
+    - tan
+search terms:
+  glb:
+  - daydenmo
+  eng:
+  - so
+  - such
+  - how
+  epo:
+  - tiom
+  spa:
+  - "qu\xE9"
+  - vaya
+  - tan
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/den">den</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: daydenmo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: so, such, how
+    epo: tiom
+    spa: "qu\xE9, vaya, tan"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + den + -mo
+...

@@ -1,0 +1,46 @@
+---
+term: ibe
+slug: ibe
+ipa: "\u02C8ibe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ibe&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter b
+  epo:
+  - - litero b
+  spa:
+  - - letra b
+search terms:
+  glb:
+  - ibe
+  eng:
+  - letter b
+  epo:
+  - litero b
+  spa:
+  - letra b
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ibe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter b
+    epo: litero b
+    spa: letra b
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

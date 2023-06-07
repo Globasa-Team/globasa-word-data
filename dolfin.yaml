@@ -1,0 +1,72 @@
+---
+term: dolfin
+slug: dolfin
+ipa: dolˈfin
+ipa link: http://ipa-reader.xyz/?text=dolˈfin&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dolphin
+  epo:
+  - - delfeno
+  spa:
+  - - delfín
+    - _Odontoceti_
+search terms:
+  glb:
+  - dolfin
+  eng:
+  - dolphin
+  epo:
+  - delfeno
+  spa:
+  - delfín
+  - odontoceti
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - dolphin
+  Fransesa:
+  - - dauphin
+  Doycisa:
+  - - Delfin
+  Rusisa:
+  - - дельфин “delʹfin”
+  Espanisa:
+  - - delfín
+  Hindisa:
+  - - डॉल्फ़िन “ḍŏlfin”
+  Telugusa:
+  - - డాల్ఫిన్ “ḍālphin”
+  Arabisa:
+  - - دلفين “dulfīn”
+  Parsisa:
+  - - دلفین “dolfin”
+  Turkisa:
+  - - delfin
+tags:
+- hewan
+raw data:
+  term: dolfin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dolphin
+    epo: delfeno
+    spa: delfín, _Odontoceti_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (dolphin), Fransesa (dauphin), Doycisa (Delfin), Rusisa (дельфин
+    “delʹfin”), Espanisa (delfín), Hindisa (डॉल्फ़िन “ḍŏlfin”), Telugusa (డాల్ఫిన్
+    “ḍālphin”), Arabisa (دلفين “dulfīn”), Parsisa (دلفین “dolfin”), Turkisa (delfin)
+...

@@ -1,0 +1,52 @@
+---
+term: midi
+slug: midi
+ipa: "\u02C8midi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8midi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - middle
+    - mid-
+  epo:
+  - - meza
+  - - meze
+  spa:
+  - - medio
+    - mitad
+search terms:
+  glb:
+  - midi
+  eng:
+  - middle
+  - mid-
+  epo:
+  - meza
+  - meze
+  spa:
+  - medio
+  - mitad
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: midi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: middle, mid-
+    epo: meza; meze
+    spa: medio, mitad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (mid-), Fransesa, Doycisa, Espanisa
+...

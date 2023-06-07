@@ -1,0 +1,52 @@
+---
+term: tenmunlogi
+slug: tenmunlogi
+ipa: "tenmun\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=tenmun\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - astronomy
+  epo:
+  - - astronomio
+  spa:
+  - - "astronom\xEDa"
+  deu:
+  - - Astronomie
+    - Sternkunde
+search terms:
+  glb:
+  - tenmunlogi
+  eng:
+  - astronomy
+  epo:
+  - astronomio
+  spa:
+  - "astronom\xEDa"
+  deu:
+  - astronomie
+  - sternkunde
+etymology_type: DERIVD
+etymology: <a href="../lexi/tenmun">tenmun</a> + <a href="../lexi/logi">logi</a>
+raw data:
+  term: tenmunlogi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: astronomy
+    epo: astronomio
+    spa: "astronom\xEDa"
+    deu: Astronomie, Sternkunde
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tenmun + logi
+...

@@ -1,0 +1,58 @@
+---
+term: dolo
+slug: dolo
+ipa: ˈdolo
+ipa link: http://ipa-reader.xyz/?text=ˈdolo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - street
+    - road
+  epo:
+  - - strato
+    - vojo
+  spa:
+  - - calle
+    - camino
+search terms:
+  glb:
+  - dolo
+  eng:
+  - street
+  - road
+  epo:
+  - strato
+  - vojo
+  spa:
+  - calle
+  - camino
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 道路 “dàolù”
+  Hangusa:
+  - - 도로 “dolo”
+  Niponsa:
+  - - 道路 “dōro”
+raw data:
+  term: dolo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: street, road
+    epo: strato, vojo
+    spa: calle, camino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (道路 “dàolù”), Hangusa (도로 “dolo”), Niponsa (道路 “dōro”)
+...

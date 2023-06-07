@@ -1,0 +1,46 @@
+---
+term: keete
+slug: keete
+ipa: "ke\u02C8ete"
+ipa link: "http://ipa-reader.xyz/?text=ke\u02C8ete&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - who? which ones?
+  epo:
+  - - kiuj
+  spa:
+  - - "\xBFqui\xE9nes?"
+search terms:
+  glb:
+  - keete
+  eng:
+  - who? which ones?
+  epo:
+  - kiuj
+  spa:
+  - "\xBFqui\xE9nes?"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ke">ke</a> + <a href="../lexi/ete">ete</a>
+raw data:
+  term: keete
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: who? which ones?
+    epo: kiuj
+    spa: "\xBFqui\xE9nes?"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ke + ete
+...

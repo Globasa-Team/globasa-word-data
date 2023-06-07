@@ -1,0 +1,73 @@
+---
+term: tomate
+slug: tomate
+ipa: "to\u02C8mate"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8mate&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tomato
+  epo:
+  - - tomato
+  spa:
+  - - jitomate
+search terms:
+  glb:
+  - tomate
+  eng:
+  - tomato
+  epo:
+  - tomato
+  spa:
+  - jitomate
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tomato
+  Fransesa:
+  - - tomate
+  Doycisa:
+  - - Tomate
+  Espanisa:
+  - - tomate
+  Indonesisa:
+  - - tomat
+  Niponsa:
+  - - "\u30C8\u30DE\u30C8 \u201Ctomato\u201D"
+  Hangusa:
+  - - "\uD1A0\uB9C8\uD1A0 \u201Ctomato\u201D"
+  Hindisa:
+  - - "\u091F\u092E\u093E\u091F\u0930 \u201C\u1E6Dam\u0101\u1E6Dar\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C2E\u0C3E\u0C1F\u0C4B \u201C\u1E6Dam\u0101\u1E6D\u014D\u201D"
+  Arabisa:
+  - - "\u0637\u0645\u0627\u0637\u0645 \u201C\u1E6Dam\u0101\u1E6Dim\u201D"
+  Turkisa:
+  - - domates
+raw data:
+  term: tomate
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tomato
+    epo: tomato
+    spa: jitomate
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tomato), Fransesa (tomate), Doycisa (Tomate), Espanisa (tomate),
+    Indonesisa (tomat), Niponsa (\u30C8\u30DE\u30C8 \u201Ctomato\u201D), Hangusa (\uD1A0\uB9C8\uD1A0
+    \u201Ctomato\u201D), Hindisa (\u091F\u092E\u093E\u091F\u0930 \u201C\u1E6Dam\u0101\u1E6Dar\u201D),
+    Telugusa (\u0C1F\u0C2E\u0C3E\u0C1F\u0C4B \u201C\u1E6Dam\u0101\u1E6D\u014D\u201D),
+    Arabisa (\u0637\u0645\u0627\u0637\u0645 \u201C\u1E6Dam\u0101\u1E6Dim\u201D), Turkisa
+    (domates)"
+...

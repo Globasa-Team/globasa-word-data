@@ -1,0 +1,59 @@
+---
+term: burinsanli
+slug: burinsanli
+ipa: "bu\u027Ein\u02C8sanli"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027Ein\u02C8sanli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - inhuman
+    - inhumane
+    - inhumanely
+  epo:
+  - - malhumana
+    - nehumana
+  - - malhumane
+    - nehumane
+  spa:
+  - - inhumano
+  - - inhumanamente
+search terms:
+  glb:
+  - burinsanli
+  eng:
+  - inhuman
+  - inhumane
+  - inhumanely
+  epo:
+  - malhumana
+  - nehumana
+  - malhumane
+  - nehumane
+  spa:
+  - inhumano
+  - inhumanamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/insan">insan</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: burinsanli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: inhuman, inhumane, inhumanely
+    epo: malhumana, nehumana; malhumane, nehumane
+    spa: inhumano; inhumanamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + insan + -li
+...

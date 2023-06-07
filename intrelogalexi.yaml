@@ -1,0 +1,49 @@
+---
+term: intrelogalexi
+slug: intrelogalexi
+ipa: "int\u027Eeloga\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=int\u027Eeloga\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - interjection
+  epo:
+  - - interjekcio
+  spa:
+  - - "interjecci\xF3n"
+search terms:
+  glb:
+  - intrelogalexi
+  eng:
+  - interjection
+  epo:
+  - interjekcio
+  spa:
+  - "interjecci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/intre-">intre-</a> + <a href="../lexi/loga">loga</a> +
+  <a href="../lexi/-lexi">-lexi</a>
+tags:
+- gramati
+raw data:
+  term: intrelogalexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: interjection
+    epo: interjekcio
+    spa: "interjecci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gramati
+  etymology: intre- + loga + -lexi
+...

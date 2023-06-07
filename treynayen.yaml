@@ -1,0 +1,50 @@
+---
+term: treynayen
+slug: treynayen
+ipa: "t\u027Eejna\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Eejna\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - trainer
+    - coach
+  epo:
+  - - trejnisto
+    - trejnanto
+  spa:
+  - - entrenador
+search terms:
+  glb:
+  - treynayen
+  eng:
+  - trainer
+  - coach
+  epo:
+  - trejnisto
+  - trejnanto
+  spa:
+  - entrenador
+etymology_type: DERIVD
+etymology: <a href="../lexi/treyna">treyna</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: treynayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: trainer, coach
+    epo: trejnisto, trejnanto
+    spa: entrenador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: treyna + -yen
+...

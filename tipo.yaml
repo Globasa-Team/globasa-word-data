@@ -1,0 +1,78 @@
+---
+term: tipo
+slug: tipo
+ipa: "\u02C8tipo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tipo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - type
+    - kind
+    - sort
+    - genus
+  epo:
+  - - tipo
+    - speco
+  spa:
+  - - tipo
+    - clase
+    - "categor\xEDa"
+search terms:
+  glb:
+  - tipo
+  eng:
+  - type
+  - kind
+  - sort
+  - genus
+  epo:
+  - tipo
+  - speco
+  spa:
+  - tipo
+  - clase
+  - "categor\xEDa"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - type
+  Fransesa:
+  - - type
+  Rusisa:
+  - - "\u0442\u0438\u043F \u201Ctip\u201D"
+  Doycisa:
+  - - Typ
+  Espanisa:
+  - - tipo
+  Turkisa:
+  - - tip
+  Niponsa:
+  - - "\u30BF\u30A4\u30D7 \u201Ctaipu\u201D"
+  Hangusa:
+  - - "\uD0C0\uC785 \u201Ctaip\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C48\u0C2A\u0C41 \u201Ctaipu\u201D"
+raw data:
+  term: tipo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: type, kind, sort, genus
+    epo: tipo, speco
+    spa: "tipo, clase, categor\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (type), Fransesa (type), Rusisa (\u0442\u0438\u043F \u201Ctip\u201D),
+    Doycisa (Typ), Espanisa (tipo), Turkisa (tip), Niponsa (\u30BF\u30A4\u30D7 \u201Ctaipu\u201D),
+    Hangusa (\uD0C0\uC785 \u201Ctaip\u201D), Telugusa (\u0C1F\u0C48\u0C2A\u0C41 \u201Ctaipu\u201D)"
+...

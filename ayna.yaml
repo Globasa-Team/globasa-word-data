@@ -1,0 +1,65 @@
+---
+term: ayna
+slug: ayna
+ipa: ˈajna
+ipa link: http://ipa-reader.xyz/?text=ˈajna&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - mirror
+  - - mirror
+    - reflect
+  epo:
+  - - spegulo
+  - - speguli
+    - reflekti
+  spa:
+  - - espejo
+  - - reflejar
+    - reflejarse
+search terms:
+  glb:
+  - ayna
+  eng:
+    0: mirror
+    2: reflect
+  epo:
+  - spegulo
+  - speguli
+  - reflekti
+  spa:
+  - espejo
+  - reflejar
+  - reflejarse
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - आईना “aina”
+  Parsisa:
+  - - آینه “ayne”
+  Turkisa:
+  - - ayna
+tags:
+- xey
+raw data:
+  term: ayna
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: mirror; mirror, reflect
+    epo: spegulo; speguli, reflekti
+    spa: espejo; reflejar, reflejarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: xey
+  etymology: Hindisa (आईना “aina”), Parsisa (آینه “ayne”), Turkisa (ayna)
+...

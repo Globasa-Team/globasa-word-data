@@ -1,0 +1,50 @@
+---
+term: yehudi
+slug: yehudi
+ipa: "je\u02C8xudi"
+ipa link: "http://ipa-reader.xyz/?text=je\u02C8xudi&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Jewish
+  epo:
+  - - juda
+  - - jude
+  spa:
+  - - "jud\xEDo"
+search terms:
+  glb:
+  - yehudi
+  eng:
+  - jewish
+  epo:
+  - juda
+  - jude
+  spa:
+  - "jud\xEDo"
+etymology_type: NATLNG
+etymology:
+  Ivrisa:
+  - - "\u05D9\u05B0\u05D4\u05D5\u05BC\u05D3\u05B4\u05D9 \u201Cyehudi\u201D"
+raw data:
+  term: Yehudi
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: Jewish
+    epo: juda; jude
+    spa: "jud\xEDo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Ivrisa (\u05D9\u05B0\u05D4\u05D5\u05BC\u05D3\u05B4\u05D9 \u201Cyehudi\u201D)"
+...

@@ -1,0 +1,51 @@
+---
+term: burdoydayfil
+slug: burdoydayfil
+ipa: "bu\u027Edojdaj\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027Edojdaj\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - abusive
+  epo:
+  - - fitraktema
+    - fitrakta
+  - - fitrakteme
+  spa:
+  - - abusivo
+search terms:
+  glb:
+  - burdoydayfil
+  eng:
+  - abusive
+  epo:
+  - fitraktema
+  - fitrakta
+  - fitrakteme
+  spa:
+  - abusivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/doyday">doyday</a> +
+  <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: burdoydayfil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: abusive
+    epo: fitraktema, fitrakta; fitrakteme
+    spa: abusivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + doyday + -fil
+...

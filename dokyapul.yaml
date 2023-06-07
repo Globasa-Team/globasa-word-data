@@ -1,0 +1,52 @@
+---
+term: dokyapul
+slug: dokyapul
+ipa: "dokja\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=dokja\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - poisonous
+    - toxic
+  epo:
+  - - venena
+  - - venene
+  spa:
+  - - venenoso
+    - "t\xF3xico"
+search terms:
+  glb:
+  - dokyapul
+  eng:
+  - poisonous
+  - toxic
+  epo:
+  - venena
+  - venene
+  spa:
+  - venenoso
+  - "t\xF3xico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/dokya">dokya</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: dokyapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: poisonous, toxic
+    epo: venena; venene
+    spa: "venenoso, t\xF3xico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dokya + -pul
+...

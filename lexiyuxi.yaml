@@ -1,0 +1,48 @@
+---
+term: lexiyuxi
+slug: lexiyuxi
+ipa: "le\u0283i\u02C8ju\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=le\u0283i\u02C8ju\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - word-play
+    - wordplay
+  epo:
+  - - vortludo
+  spa:
+  - - juego de palabras
+search terms:
+  glb:
+  - lexiyuxi
+  eng:
+  - word-play
+  - wordplay
+  epo:
+  - vortludo
+  spa:
+  - juego de palabras
+etymology_type: DERIVD
+etymology: <a href="../lexi/lexi">lexi</a> + <a href="../lexi/yuxi">yuxi</a>
+raw data:
+  term: lexiyuxi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: word-play, wordplay
+    epo: vortludo
+    spa: juego de palabras
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lexi + yuxi
+...

@@ -1,0 +1,72 @@
+---
+term: sahi
+slug: sahi
+ipa: "\u02C8saxi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8saxi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - correct
+    - correctly
+    - right
+    - accurate
+    - accurately
+  epo:
+  - - "\u011Dusta"
+    - prava
+  - - "\u011Duste"
+    - prave
+  spa:
+  - - correcto
+    - cierto
+search terms:
+  glb:
+  - sahi
+  eng:
+  - correct
+  - correctly
+  - right
+  - accurate
+  - accurately
+  epo:
+  - "\u011Dusta"
+  - prava
+  - "\u011Duste"
+  - prave
+  spa:
+  - correcto
+  - cierto
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0635\u062D\u064A\u062D \u201Csahih\u201D"
+  Swahilisa:
+  - - sahihi
+  Hindisa:
+  - - "\u0938\u0939\u0940 \u201Csahi\u201D"
+  Parsisa:
+  - - "\u0635\u062D\u06CC\u062D \u201Csahih\u201D"
+raw data:
+  term: sahi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: correct, correctly, right, accurate, accurately
+    epo: "\u011Dusta, prava; \u011Duste, prave"
+    spa: correcto, cierto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0635\u062D\u064A\u062D \u201Csahih\u201D), Swahilisa (sahihi),
+    Hindisa (\u0938\u0939\u0940 \u201Csahi\u201D), Parsisa (\u0635\u062D\u06CC\u062D
+    \u201Csahih\u201D)"
+...

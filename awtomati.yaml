@@ -1,0 +1,68 @@
+---
+term: awtomati
+slug: awtomati
+ipa: awtoˈmati
+ipa link: http://ipa-reader.xyz/?text=awtoˈmati&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - automatic
+    - automatically
+  epo:
+  - - aŭtomata
+    - aŭtomate
+  spa:
+  - - automático
+search terms:
+  glb:
+  - awtomati
+  eng:
+  - automatic
+  - automatically
+  epo:
+  - aŭtomata
+  - aŭtomate
+  spa:
+  - automático
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - automatic
+  Fransesa:
+  - - automatique
+  Doycisa:
+  - - automatisch
+  Rusisa:
+  - - автоматический “avtomaticeskiy”
+  Espanisa:
+  - - automático
+  Turkisa:
+  - - otomatik
+  Indonesisa:
+  - - otomatis
+  Pilipinasa:
+  - - awtomatiko
+raw data:
+  term: awtomati
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: automatic, automatically
+    epo: aŭtomata, aŭtomate
+    spa: automático
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (automatic), Fransesa (automatique), Doycisa (automatisch), Rusisa
+    (автоматический “avtomaticeskiy”), Espanisa (automático), Turkisa (otomatik),
+    Indonesisa (otomatis), Pilipinasa (awtomatiko)
+...

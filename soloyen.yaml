@@ -1,0 +1,56 @@
+---
+term: soloyen
+slug: soloyen
+ipa: "solo\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=solo\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - loner
+    - solitaire
+    - hermit
+    - recluse
+  epo:
+  - - solulo
+  spa:
+  - - solitario
+    - "ermita\xF1o"
+    - "mis\xE1ntropo"
+search terms:
+  glb:
+  - soloyen
+  eng:
+  - loner
+  - solitaire
+  - hermit
+  - recluse
+  epo:
+  - solulo
+  spa:
+  - solitario
+  - "ermita\xF1o"
+  - "mis\xE1ntropo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/solo">solo</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: soloyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: loner, solitaire, hermit, recluse
+    epo: solulo
+    spa: "solitario, ermita\xF1o, mis\xE1ntropo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: solo + -yen
+...

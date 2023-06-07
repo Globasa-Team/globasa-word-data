@@ -1,0 +1,50 @@
+---
+term: xohrapul
+slug: xohrapul
+ipa: "\u0283ox\u027Ea\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=\u0283ox\u027Ea\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - famous
+    - famously
+  epo:
+  - - fama
+  - - fame
+  spa:
+  - - famoso
+search terms:
+  glb:
+  - xohrapul
+  eng:
+  - famous
+  - famously
+  epo:
+  - fama
+  - fame
+  spa:
+  - famoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/xohra">xohra</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: xohrapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: famous, famously
+    epo: fama; fame
+    spa: famoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xohra + -pul
+...

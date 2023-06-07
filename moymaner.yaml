@@ -1,0 +1,48 @@
+---
+term: moymaner
+slug: moymaner
+ipa: "mojma\u02C8ne\u027E"
+ipa link: "http://ipa-reader.xyz/?text=mojma\u02C8ne\u027E&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - by every manner
+    - in every manner
+  epo:
+  - - "\u0109iel"
+  spa:
+  - - de toda manera
+search terms:
+  glb:
+  - moymaner
+  eng:
+  - by every manner
+  - in every manner
+  epo:
+  - "\u0109iel"
+  spa:
+  - de toda manera
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/maner">maner</a>
+raw data:
+  term: moymaner
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: by every manner, in every manner
+    epo: "\u0109iel"
+    spa: de toda manera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + maner
+...

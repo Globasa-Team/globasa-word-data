@@ -1,0 +1,55 @@
+---
+term: xohra
+slug: xohra
+ipa: "\u02C8\u0283ox\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283ox\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fame
+  epo:
+  - - famo
+    - fameco
+  spa:
+  - - fama
+search terms:
+  glb:
+  - xohra
+  eng:
+  - fame
+  epo:
+  - famo
+  - fameco
+  spa:
+  - fama
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0634\u0647\u0631\u0629 \u201Cshuhra\u201D"
+  Turkisa:
+  - - "\u015F\xF6hret"
+  Parsisa:
+  - - "\u0634\u0647\u0631\u062A \u201Cxohrat\u201D"
+raw data:
+  term: xohra
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fame
+    epo: famo, fameco
+    spa: fama
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0634\u0647\u0631\u0629 \u201Cshuhra\u201D), Turkisa (\u015F\xF6hret),
+    Parsisa (\u0634\u0647\u0631\u062A \u201Cxohrat\u201D)"
+...

@@ -1,0 +1,55 @@
+---
+term: rafu
+slug: rafu
+ipa: "\u02C8\u027Eafu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eafu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - shelf
+  epo:
+  - - breto
+  spa:
+  - - estante
+search terms:
+  glb:
+  - rafu
+  eng:
+  - shelf
+  epo:
+  - breto
+  spa:
+  - estante
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0631\u064E\u0641\u0651 \u201Craff\u201D"
+  Turkisa:
+  - - raf
+  Parsisa:
+  - - "\u0631\u0641 \u201Craf\u201D"
+  Swahilisa:
+  - - rafu
+raw data:
+  term: rafu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: shelf
+    epo: breto
+    spa: estante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0631\u064E\u0641\u0651 \u201Craff\u201D), Turkisa (raf),
+    Parsisa (\u0631\u0641 \u201Craf\u201D), Swahilisa (rafu)"
+...

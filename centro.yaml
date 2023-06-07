@@ -1,0 +1,74 @@
+---
+term: centro
+slug: centro
+ipa: ˈt͡ʃentɾo
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃentɾo&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - center
+    - centre
+  epo:
+  - - centro
+  - - centri
+  spa:
+  - - centro
+  - - centrar
+    - centrarse
+search terms:
+  glb:
+  - centro
+  eng:
+  - center
+  - centre
+  epo:
+  - centro
+  - centri
+  spa:
+  - centro
+  - centrar
+  - centrarse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - centre
+    - center
+  Doycisa:
+  - - Zentrum
+  Fransesa:
+  - - centre
+  Espanisa:
+  - - centro
+  Italisa: ~
+  Rusisa:
+  - - центр “centr”
+  Hindisa:
+  - - केंद्र “kendr”
+  Telugusa:
+  - - కేంద్రం “kēndraṃ”
+  Elinisa:
+  - - κέντρο “kentro”
+raw data:
+  term: centro
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: center, centre
+    epo: centro; centri
+    spa: centro; centrar, centrarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (centre, center), Doycisa (Zentrum), Fransesa (centre), Espanisa
+    (centro), Italisa, Rusisa (центр “centr”), Hindisa (केंद्र “kendr”), Telugusa
+    (కేంద్రం “kēndraṃ”), Elinisa (κέντρο “kentro”)
+...

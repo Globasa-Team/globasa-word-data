@@ -1,0 +1,51 @@
+---
+term: kimakal
+slug: kimakal
+ipa: "kima\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=kima\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - free (of charge)
+  epo:
+  - - senkosta
+  - - senkoste
+  spa:
+  - - gratuito
+    - gratis
+search terms:
+  glb:
+  - kimakal
+  eng:
+  - free of charge
+  - free
+  epo:
+  - senkosta
+  - senkoste
+  spa:
+  - gratuito
+  - gratis
+etymology_type: DERIVD
+etymology: <a href="../lexi/kima">kima</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: kimakal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: free (of charge)
+    epo: senkosta; senkoste
+    spa: gratuito, gratis
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kima + -kal
+...

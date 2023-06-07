@@ -1,0 +1,82 @@
+---
+term: eskol
+slug: eskol
+ipa: esˈkol
+ipa link: http://ipa-reader.xyz/?text=esˈkol&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - school
+  - - school
+    - educate
+  epo:
+  - - lernejo
+  - - eduki
+    - instrui
+    - lernigi
+  spa:
+  - - escuela
+  - - educar
+search terms:
+  glb:
+  - eskol
+  eng:
+    0: school
+    2: educate
+  epo:
+  - lernejo
+  - eduki
+  - instrui
+  - lernigi
+  spa:
+  - escuela
+  - educar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - school
+  Fransesa:
+  - - école
+  Doycisa:
+  - - Schule
+  Rusisa:
+  - - школа “xkola”
+  Espanisa:
+  - - escuela
+  Hindisa:
+  - - स्कूल “skul”
+  Indonesisa:
+  - - sekolah
+  Pilipinasa:
+  - - eskuwelahan
+  Turkisa:
+  - - okul
+  Swahilisa:
+  - - schule
+    - skule
+tags:
+- eskolya
+raw data:
+  term: eskol
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: school; school, educate
+    epo: lernejo; eduki, instrui, lernigi
+    spa: escuela; educar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: eskolya
+  etymology: Englisa (school), Fransesa (école), Doycisa (Schule), Rusisa (школа “xkola”),
+    Espanisa (escuela), Hindisa (स्कूल “skul”), Indonesisa (sekolah), Pilipinasa (eskuwelahan),
+    Turkisa (okul), Swahilisa (schule, skule)
+...

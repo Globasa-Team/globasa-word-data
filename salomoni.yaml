@@ -1,0 +1,52 @@
+---
+term: salomoni
+slug: salomoni
+ipa: "salo\u02C8moni"
+ipa link: "http://ipa-reader.xyz/?text=salo\u02C8moni&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Solomon Islands
+  epo:
+  - - Salomonoj
+  spa:
+  - - "Islas Salom\xF3n"
+search terms:
+  glb:
+  - salomoni
+  eng:
+  - solomon islands
+  epo:
+  - salomonoj
+  spa:
+  - "islas salom\xF3n"
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - "Islas Salom\xF3n"
+  Englisa:
+  - - Solomon Islands
+tags:
+- dexa
+raw data:
+  term: Salomoni
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Solomon Islands
+    epo: Salomonoj
+    spa: "Islas Salom\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Espanisa (Islas Salom\xF3n), Englisa (Solomon Islands)"
+...

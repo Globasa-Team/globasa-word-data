@@ -1,0 +1,55 @@
+---
+term: naytu
+slug: naytu
+ipa: "\u02C8najtu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8najtu&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - knight
+  epo:
+  - - kavaliro
+  spa:
+  - - caballero
+search terms:
+  glb:
+  - naytu
+  eng:
+  - knight
+  epo:
+  - kavaliro
+  spa:
+  - caballero
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - knight
+  Hindisa:
+  - - "\u0928\u093E\u0907\u091F \"nayt\""
+  Niponsa:
+  - - "\u30CA\u30A4\u30C8 \"nayto\""
+  Hangusa:
+  - - "\uB098\uC774\uD2B8 \"naytu\""
+raw data:
+  term: naytu
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: knight
+    epo: kavaliro
+    spa: caballero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (knight), Hindisa (\u0928\u093E\u0907\u091F \"nayt\"), Niponsa
+    (\u30CA\u30A4\u30C8 \"nayto\"), Hangusa (\uB098\uC774\uD2B8 \"naytu\")"
+...

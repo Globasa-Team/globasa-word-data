@@ -1,0 +1,50 @@
+---
+term: fukuzaya
+slug: fukuzaya
+ipa: "fuku\u02C8zaja"
+ipa link: "http://ipa-reader.xyz/?text=fuku\u02C8zaja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - complexity
+  epo:
+  - - komplikeco
+    - komplekseco
+    - malsimpleco
+  spa:
+  - - complejidad
+search terms:
+  glb:
+  - fukuzaya
+  eng:
+  - complexity
+  epo:
+  - komplikeco
+  - komplekseco
+  - malsimpleco
+  spa:
+  - complejidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/fukuza">fukuza</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fukuzaya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: complexity
+    epo: komplikeco, komplekseco, malsimpleco
+    spa: complejidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fukuza + -ya
+...

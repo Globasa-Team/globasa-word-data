@@ -1,0 +1,61 @@
+---
+term: fefu
+slug: fefu
+ipa: ˈfefu
+ipa link: http://ipa-reader.xyz/?text=ˈfefu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lung
+  epo:
+  - - pulmo
+  spa:
+  - - pulmón
+search terms:
+  glb:
+  - fefu
+  eng:
+  - lung
+  epo:
+  - pulmo
+  spa:
+  - pulmón
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 肺 “fèi”
+  Vyetnamsa:
+  - - phổi
+  Hindisa:
+  - - फेफड़ा “phephada”
+  Banglasa:
+  - - ফুসফুস “phusphus”
+  Maratisa:
+  - - फुफ्फुस “phuphus”
+  Swahilisa:
+  - - pafu
+tags:
+- jismulogi
+raw data:
+  term: fefu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lung
+    epo: pulmo
+    spa: pulmón
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Putunhwa (肺 “fèi”), Vyetnamsa (phổi), Hindisa (फेफड़ा “phephada”), Banglasa
+    (ফুসফুস “phusphus”), Maratisa (फुफ्फुस “phuphus”), Swahilisa (pafu)
+...

@@ -1,0 +1,69 @@
+---
+term: acum
+slug: acum
+ipa: aˈt͡ʃum
+ipa link: http://ipa-reader.xyz/?text=aˈt͡ʃum&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - sneeze
+  - - sneeze
+  epo:
+  - - terno
+  - - terni
+  spa:
+  - - estornudo
+  - - estornudar
+  deu:
+  - - Nieser
+  - - niesen
+search terms:
+  glb:
+  - acum
+  eng:
+  - sneeze
+  epo:
+  - terno
+  - terni
+  spa:
+  - estornudo
+  - estornudar
+  deu:
+  - nieser
+  - niesen
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Arabisa: ~
+  Doycisa: ~
+  Englisa:
+  - - achoo
+  Hindisa: ~
+  Hangusa: ~
+  Parsisa: ~
+  Espanisa: ~
+  Turkisa: ~
+  Tamilsa: ~
+  ji maxya: ~
+raw data:
+  term: acum
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: sneeze; sneeze
+    epo: terno; terni
+    spa: estornudo; estornudar
+    deu: Nieser; niesen
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: Luminpul sola acumgi te.
+  tags: ""
+  etymology: kwasilexi - Arabisa ( ), Doycisa, Englisa (achoo), Hindisa, Hangusa,
+    Parsisa, Espanisa, Turkisa, Tamilsa, ji maxya
+...

@@ -1,0 +1,78 @@
+---
+term: sodyum
+slug: sodyum
+ipa: "so\u02C8djum"
+ipa link: "http://ipa-reader.xyz/?text=so\u02C8djum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sodium
+  epo:
+  - - natrio
+  spa:
+  - - sodio
+    - Na
+search terms:
+  glb:
+  - sodyum
+  eng:
+  - sodium
+  epo:
+  - natrio
+  spa:
+  - sodio
+  - na
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sodium
+  Hindisa:
+  - - "\u0938\u094B\u0921\u093F\u092F\u092E \u201Csodiyam\u201D"
+  Espanisa:
+  - - sodio
+  Arabisa:
+  - - "\u0635\u064F\u0648\u062F\u0652\u064A\u064F\u0648\u0645 \u201Csodyum\u201D"
+  Fransesa:
+  - - sodium
+  Telugusa:
+  - - "\u0C38\u0C4B\u0C21\u0C3F\u0C2F\u0C2E\u0C4D \u201Csodiyam\u201D"
+  Turkisa:
+  - - sodyum
+  Hangusa:
+  - - "\uC18C\uB4D0 \u201Csodyum\u201D"
+  Parsisa:
+  - - "\u0633\u062F\u06CC\u0645 \u201Csodiyom\u201D"
+  Swahilisa:
+  - - sodiamu
+  Pilipinasa:
+  - - sodyo
+    - sodyum
+tags:
+- kimikali monlari
+raw data:
+  term: sodyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sodium
+    epo: natrio
+    spa: sodio, Na
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (sodium), Hindisa (\u0938\u094B\u0921\u093F\u092F\u092E \u201Csodiyam\u201D),
+    Espanisa (sodio), Arabisa (\u0635\u064F\u0648\u062F\u0652\u064A\u064F\u0648\u0645
+    \u201Csodyum\u201D), Fransesa (sodium), Telugusa (\u0C38\u0C4B\u0C21\u0C3F\u0C2F\u0C2E\u0C4D
+    \u201Csodiyam\u201D), Turkisa (sodyum), Hangusa (\uC18C\uB4D0 \u201Csodyum\u201D),
+    Parsisa (\u0633\u062F\u06CC\u0645 \u201Csodiyom\u201D), Swahilisa (sodiamu), Pilipinasa
+    (sodyo, sodyum)"
+...

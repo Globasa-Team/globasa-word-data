@@ -1,0 +1,59 @@
+---
+term: yulaf
+slug: yulaf
+ipa: "ju\u02C8laf"
+ipa link: "http://ipa-reader.xyz/?text=ju\u02C8laf&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - oat
+    - _Avena_
+  epo:
+  - - aveno
+  spa:
+  - - avena
+    - _Avena sativa_
+search terms:
+  glb:
+  - yulaf
+  eng:
+  - oat
+  - avena
+  epo:
+  - aveno
+  spa:
+  - avena
+  - avena sativa
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0639\u064E\u0644\u064E\u0641 \u201Calaf\u201C - yamxey tas hewan"
+  Turkisa:
+  - - yulaf
+  Parsisa:
+  - - "\u06CC\u0648\u0644\u0627\u0641 \u201Cyulaf\u201D"
+tags:
+- yamxey
+raw data:
+  term: yulaf
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: oat, _Avena_
+    epo: aveno
+    spa: avena, _Avena sativa_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Arabisa (\u0639\u064E\u0644\u064E\u0641 \u201Calaf\u201C - yamxey tas
+    hewan), Turkisa (yulaf), Parsisa (\u06CC\u0648\u0644\u0627\u0641 \u201Cyulaf\u201D)"
+...

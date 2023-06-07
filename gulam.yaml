@@ -1,0 +1,52 @@
+---
+term: gulam
+slug: gulam
+ipa: guˈlam
+ipa link: http://ipa-reader.xyz/?text=guˈlam&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - slave
+  epo:
+  - - sklavo
+  spa:
+  - - esclavo
+search terms:
+  glb:
+  - gulam
+  eng:
+  - slave
+  epo:
+  - sklavo
+  spa:
+  - esclavo
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - ग़ुलाम “gulam”
+  Parsisa:
+  - - غلام “gholam”
+  Arabisa:
+  - - غُلَام “gulam”
+raw data:
+  term: gulam
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: slave
+    epo: sklavo
+    spa: esclavo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (ग़ुलाम “gulam”), Parsisa (غلام “gholam”), Arabisa (غُلَام “gulam”)
+...

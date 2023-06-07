@@ -1,0 +1,57 @@
+---
+term: papwa neogini
+slug: papwa neogini
+ipa: "\u02C8papwa neo\u02C8gini"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8papwa neo\u02C8gini&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - Papua New Guinea
+  epo:
+  - - Papuo-Nov-Gvineo
+  spa:
+  - - "Pap\xFAa Nueva Guinea"
+search terms:
+  glb:
+  - papwa neogini
+  - papwa
+  - neogini
+  eng:
+  - papua new guinea
+  epo:
+  - papuo-nov-gvineo
+  spa:
+  - "pap\xFAa nueva guinea"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Papua New Guinea
+  Tok Pisin:
+  - - Papua Niugini
+  Hiri Motu:
+  - - Papua Niu Gini
+tags:
+- dexa
+raw data:
+  term: Papwa Neogini
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: Papua New Guinea
+    epo: Papuo-Nov-Gvineo
+    spa: "Pap\xFAa Nueva Guinea"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Papua New Guinea), Tok Pisin (Papua Niugini), Hiri Motu (Papua
+    Niu Gini)
+...

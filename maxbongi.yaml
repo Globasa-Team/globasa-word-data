@@ -1,0 +1,57 @@
+---
+term: maxbongi
+slug: maxbongi
+ipa: "ma\u0283\u02C8bongi"
+ipa link: "http://ipa-reader.xyz/?text=ma\u0283\u02C8bongi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - improvement
+    - betterment
+  - - improve
+    - (make) better
+  epo:
+  - - plibonigo
+  - - plibonigi
+  spa:
+  - - mejora
+  - - mejorar
+search terms:
+  glb:
+  - maxbongi
+  eng:
+  - improvement
+  - betterment
+  - improve
+  - make better
+  - better
+  epo:
+  - plibonigo
+  - plibonigi
+  spa:
+  - mejora
+  - mejorar
+etymology_type: DERIVD
+etymology: <a href="../lexi/max">max</a> + <a href="../lexi/bon">bon</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: maxbongi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: improvement, betterment; improve, (make) better
+    epo: plibonigo; plibonigi
+    spa: mejora; mejorar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: max + bon + -gi
+...

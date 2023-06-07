@@ -1,0 +1,48 @@
+---
+term: estodom
+slug: estodom
+ipa: "esto\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=esto\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (_bus_) stop
+  epo:
+  - - stacio
+    - stacidomo
+  spa:
+  - - parada (_de transporte_)
+search terms:
+  glb:
+  - estodom
+  eng:
+  - stop
+  epo:
+  - stacio
+  - stacidomo
+  spa:
+  - parada
+etymology_type: DERIVD
+etymology: <a href="../lexi/esto">esto</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: estodom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (_bus_) stop
+    epo: stacio, stacidomo
+    spa: parada (_de transporte_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: esto + -dom
+...

@@ -1,0 +1,66 @@
+---
+term: bronze
+slug: bronze
+ipa: ˈbɾonze
+ipa link: http://ipa-reader.xyz/?text=ˈbɾonze&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bronze
+  epo:
+  - - bronzo
+  spa:
+  - - bronce
+search terms:
+  glb:
+  - bronze
+  eng:
+  - bronze
+  epo:
+  - bronzo
+  spa:
+  - bronce
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bronze
+  Fransesa:
+  - - bronze
+  Doycisa:
+  - - Bronze
+  Rusisa:
+  - - бро́нза “brónza”
+  Espanisa:
+  - - bronce
+  Arabisa:
+  - - برونز “brūnz”
+  Swahilisa:
+  - - bronzi
+  Parsisa:
+  - - برنز‎ ‎“bronz”
+  Turkisa:
+  - - bronz
+raw data:
+  term: bronze
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bronze
+    epo: bronzo
+    spa: bronce
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (bronze), Fransesa (bronze), Doycisa (Bronze), Rusisa (бро́нза
+    “brónza”), Espanisa (bronce), Arabisa (برونز “brūnz”), Swahilisa (bronzi), Parsisa
+    (برنز‎ ‎“bronz”), Turkisa (bronz)
+...

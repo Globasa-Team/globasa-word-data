@@ -1,0 +1,50 @@
+---
+term: alimible
+slug: alimible
+ipa: "ali\u02C8mible"
+ipa link: "http://ipa-reader.xyz/?text=ali\u02C8mible&voice=Ewa"
+status: true
+category: derived
+word class: t
+trans:
+  eng:
+  - - teacheable
+    - amenable to instruction
+  epo:
+  - - instruebla
+  - - instrueble
+  spa:
+  - - "ense\xF1able"
+search terms:
+  glb:
+  - alimible
+  eng:
+  - teacheable
+  - amenable to instruction
+  epo:
+  - instruebla
+  - instrueble
+  spa:
+  - "ense\xF1able"
+etymology_type: DERIVD
+etymology: <a href="../lexi/alim">alim</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: alimible
+  category: derived
+  word class: t
+  status: true
+  trans:
+    eng: teacheable, amenable to instruction
+    epo: instruebla; instrueble
+    spa: "ense\xF1able"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alim + -ible
+...

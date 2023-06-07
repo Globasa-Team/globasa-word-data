@@ -1,0 +1,50 @@
+---
+term: normapul
+slug: normapul
+ipa: "no\u027Ema\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=no\u027Ema\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - normal
+  - - normally
+  epo:
+  - - norma
+  - - norme
+  spa:
+  - - normal
+search terms:
+  glb:
+  - normapul
+  eng:
+  - normal
+  - normally
+  epo:
+  - norma
+  - norme
+  spa:
+  - normal
+etymology_type: DERIVD
+etymology: <a href="../lexi/norma">norma</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: normapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: normal; normally
+    epo: norma; norme
+    spa: normal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: norma + -pul
+...

@@ -1,0 +1,58 @@
+---
+term: aknemon
+slug: aknemon
+ipa: "akne\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=akne\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pustule
+    - pimple
+    - zit
+  epo:
+  - - aknero
+    - akno
+  spa:
+  - - "p\xFAstula"
+    - granito
+    - barro
+    - espinilla
+search terms:
+  glb:
+  - aknemon
+  eng:
+  - pustule
+  - pimple
+  - zit
+  epo:
+  - aknero
+  - akno
+  spa:
+  - "p\xFAstula"
+  - granito
+  - barro
+  - espinilla
+etymology_type: DERIVD
+etymology: <a href="../lexi/akne">akne</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: aknemon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pustule, pimple, zit
+    epo: aknero, akno
+    spa: "p\xFAstula, granito, barro, espinilla"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: akne + -mon
+...

@@ -1,0 +1,48 @@
+---
+term: hawa
+slug: hawa
+ipa: "\u02C8xawa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xawa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - air
+  epo:
+  - - aero
+  spa:
+  - - aire
+search terms:
+  glb:
+  - hawa
+  eng:
+  - air
+  epo:
+  - aero
+  spa:
+  - aire
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hawa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: air
+    epo: aero
+    spa: aire
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0647\u0648\u0627\u0621 \u201Chawa\u201D), Turkisa (hava),
+    Swahilisa (hewa), Panjabisa (\u0A39\u0A35\u0A3E \u201Chava\u201D), Parsisa (\u0647\u0648\u0627
+    \u201Chava\u201D), Indonesisa (hawa)"
+...

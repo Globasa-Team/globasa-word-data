@@ -1,0 +1,49 @@
+---
+term: xencudin
+slug: xencudin
+ipa: "\u0283ent\u0361\u0283u\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=\u0283ent\u0361\u0283u\u02C8din&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - birthday
+  epo:
+  - - "naski\u011Dtago"
+    - naskotago
+  spa:
+  - - "cumplea\xF1os"
+search terms:
+  glb:
+  - xencudin
+  eng:
+  - birthday
+  epo:
+  - "naski\u011Dtago"
+  - naskotago
+  spa:
+  - "cumplea\xF1os"
+etymology_type: DERIVD
+etymology: <a href="../lexi/xen">xen</a> + <a href="../lexi/-cu">-cu</a> + <a href="../lexi/
+  -din"> -din</a>
+raw data:
+  term: xencudin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: birthday
+    epo: "naski\u011Dtago, naskotago"
+    spa: "cumplea\xF1os"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xen + -cu +  -din
+...

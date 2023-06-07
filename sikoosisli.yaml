@@ -1,0 +1,53 @@
+---
+term: sikoosisli
+slug: sikoosisli
+ipa: "sikoo\u02C8sisli"
+ipa link: "http://ipa-reader.xyz/?text=sikoo\u02C8sisli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - psychotic
+  epo:
+  - - psikoza
+    - "psi\u0125oza"
+  - - psikoze
+    - "psi\u0125oze"
+  spa:
+  - - "psic\xF3tico"
+search terms:
+  glb:
+  - sikoosisli
+  eng:
+  - psychotic
+  epo:
+  - psikoza
+  - "psi\u0125oza"
+  - psikoze
+  - "psi\u0125oze"
+  spa:
+  - "psic\xF3tico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/siko">siko</a> + <a href="../lexi/-osis">-osis</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: sikoosisli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: psychotic
+    epo: "psikoza, psi\u0125oza; psikoze, psi\u0125oze"
+    spa: "psic\xF3tico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: siko + -osis + -li
+...

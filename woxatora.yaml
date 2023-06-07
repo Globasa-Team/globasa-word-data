@@ -1,0 +1,46 @@
+---
+term: woxatora
+slug: woxatora
+ipa: "wo\u0283a\u02C8to\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=wo\u0283a\u02C8to\u027Ea&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - washing machine
+  epo:
+  - - "lavma\u015Dino"
+  spa:
+  - - lavadora
+search terms:
+  glb:
+  - woxatora
+  eng:
+  - washing machine
+  epo:
+  - "lavma\u015Dino"
+  spa:
+  - lavadora
+etymology_type: DERIVD
+etymology: <a href="../lexi/woxa">woxa</a> + <a href="../lexi/-tora">-tora</a>
+raw data:
+  term: woxatora
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: washing machine
+    epo: "lavma\u015Dino"
+    spa: lavadora
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: woxa + -tora
+...

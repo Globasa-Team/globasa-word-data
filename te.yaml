@@ -1,0 +1,83 @@
+---
+term: te
+slug: te
+ipa: "\u02C8te"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8te&voice=Ewa"
+status: true
+category: root
+word class: pn
+trans:
+  eng:
+  - - he
+    - him
+    - she
+    - her (_animate
+    - personified object_)
+  epo:
+  - - ri
+    - li
+    - "\u015Di"
+    - "\u011Di (kiam viva\u0135o a\u016D personigita a\u0135o)"
+  spa:
+  - - "\xE9l"
+    - ella (_cualquier forma de vida u objeto personificado_)
+search terms:
+  glb:
+  - te
+  eng:
+  - he
+  - him
+  - she
+  - her animate
+  - her (_animate
+  - personified object
+  epo:
+  - ri
+  - li
+  - "\u015Di"
+  - "\u011Di kiam viva\u0135o a\u016D personigita a\u0135o"
+  - "\u011Di"
+  spa:
+  - "\xE9l"
+  - ella
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4ED6 \u201Cta\u201D \u5979 \u201Cta\u201D"
+  Mongolisa:
+  - - "\u0442\u044D\u0440 \u201Cter\u201D"
+  Gujaratisa:
+  - - "\u0AA4\u0AC7 \u201Cte\u201D"
+    - "\u0AA4\u0AC7\u0AA3\u0AC0 \u201Cteni\u201D"
+  Taysa:
+  - - "\u0E40\u0E18\u0E2D \u201C\u1E6Dhex\u201D"
+  Polskasa:
+  - - ten - hinte
+  Estisa:
+  - - ta
+    - tema
+  Englisa:
+  - - they
+raw data:
+  term: te
+  category: root
+  word class: pn
+  status: true
+  trans:
+    eng: he, him, she, her (_animate, personified object_)
+    epo: "ri, li, \u015Di, \u011Di (kiam viva\u0135o a\u016D personigita a\u0135o)"
+    spa: "\xE9l, ella (_cualquier forma de vida u objeto personificado_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u4ED6 \u201Cta\u201D \u5979 \u201Cta\u201D), Mongolisa (\u0442\u044D\u0440
+    \u201Cter\u201D), Gujaratisa (\u0AA4\u0AC7 \u201Cte\u201D, \u0AA4\u0AC7\u0AA3\u0AC0
+    \u201Cteni\u201D), Taysa (\u0E40\u0E18\u0E2D \u201C\u1E6Dhex\u201D), Polskasa
+    (ten - hinte), Estisa (ta, tema), Englisa (they)"
+...

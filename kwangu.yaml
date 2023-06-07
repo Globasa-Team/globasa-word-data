@@ -1,0 +1,48 @@
+---
+term: kwangu
+slug: kwangu
+ipa: "\u02C8kwangu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kwangu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ore
+  epo:
+  - - erco
+  spa:
+  - - "mena (_miner\xEDa_)"
+search terms:
+  glb:
+  - kwangu
+  eng:
+  - ore
+  epo:
+  - erco
+  spa:
+  - mena
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kwangu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ore
+    epo: erco
+    spa: "mena (_miner\xEDa_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u77FF\u77F3 \u201Ckwangxi\u201D, \u77FF \u201Ckwang\u201D),
+    Hangusa (\uAD11\uC11D \u201Cgwangsok\u201D, \uAD11 \u201Cgwang\u201D), Vyetnamsa
+    (qu\u1EB7ng)"
+...

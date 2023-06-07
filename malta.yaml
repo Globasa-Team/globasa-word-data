@@ -1,0 +1,52 @@
+---
+term: malta
+slug: malta
+ipa: "\u02C8malta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8malta&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Malta
+  epo:
+  - - Malto
+  spa:
+  - - Malta
+search terms:
+  glb:
+  - malta
+  eng:
+  - malta
+  epo:
+  - malto
+  spa:
+  - malta
+etymology_type: NATLNG
+etymology:
+  Maltasa:
+  - - Malta
+  Englisa:
+  - - Malta
+tags:
+- dexa
+raw data:
+  term: Malta
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Malta
+    epo: Malto
+    spa: Malta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Maltasa (Malta), Englisa (Malta)
+...

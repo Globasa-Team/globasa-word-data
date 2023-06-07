@@ -1,0 +1,46 @@
+---
+term: xamahole
+slug: xamahole
+ipa: "\u0283ama\u02C8xole"
+ipa link: "http://ipa-reader.xyz/?text=\u0283ama\u02C8xole&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - candlestick
+  epo:
+  - - kandelingo
+  spa:
+  - - candelero
+search terms:
+  glb:
+  - xamahole
+  eng:
+  - candlestick
+  epo:
+  - kandelingo
+  spa:
+  - candelero
+etymology_type: DERIVD
+etymology: <a href="../lexi/xama">xama</a> + <a href="../lexi/-hole">-hole</a>
+raw data:
+  term: xamahole
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: candlestick
+    epo: kandelingo
+    spa: candelero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xama + -hole
+...

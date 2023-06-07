@@ -1,0 +1,53 @@
+---
+term: kompostu
+slug: kompostu
+ipa: "kom\u02C8postu"
+ipa link: "http://ipa-reader.xyz/?text=kom\u02C8postu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - compost
+  epo:
+  - - "kompo\u015Dto"
+  spa:
+  - - abono
+    - composta
+search terms:
+  glb:
+  - kompostu
+  eng:
+  - compost
+  epo:
+  - "kompo\u015Dto"
+  spa:
+  - abono
+  - composta
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kompostu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: compost
+    epo: "kompo\u015Dto"
+    spa: abono, composta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (compost), Espanisa (compost), Fransesa (compost), Rusisa (\u043A\u043E\u043C\u043F\u043E\u0441\u0442
+    \"kompost\"), Doycisa (Kompost), Portugalsa (composto), Italisa (compost), Indonesisa
+    (kompos), Hindisa (\u0915\u092E\u094D\u092A\u094B\u0938\u094D\u091F \"kampost\"),
+    Telugusa (\u0C15\u0C02\u0C2A\u0C4B\u0C38\u0C4D\u0C1F\u0C41 \"kampostu\"), Turkisa
+    (kompost), Vyetnamsa (ph\xE2n compost), Parsisa (\u06A9\u0645\u067E\u0648\u0633\u062A
+    \"kompost\")"
+...

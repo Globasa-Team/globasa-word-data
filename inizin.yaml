@@ -1,0 +1,60 @@
+---
+term: inizin
+slug: inizin
+ipa: "ini\u02C8zin"
+ipa link: "http://ipa-reader.xyz/?text=ini\u02C8zin&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - admission
+    - admittance
+    - access
+  - - let in
+    - allow in
+    - admit
+  epo:
+  - - enlaso
+  - - enlasi
+  spa:
+  - - "admisi\xF3n"
+  - - admitir
+search terms:
+  glb:
+  - inizin
+  eng:
+  - admission
+  - admittance
+  - access
+  - let in
+  - allow in
+  - admit
+  epo:
+  - enlaso
+  - enlasi
+  spa:
+  - "admisi\xF3n"
+  - admitir
+etymology_type: DERIVD
+etymology: <a href="../lexi/in-">in-</a> + <a href="../lexi/izin">izin</a>
+raw data:
+  term: inizin
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: admission, admittance, access; let in, allow in, admit
+    epo: enlaso; enlasi
+    spa: "admisi\xF3n; admitir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in- + izin
+...

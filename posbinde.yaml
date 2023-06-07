@@ -1,0 +1,56 @@
+---
+term: posbinde
+slug: posbinde
+ipa: "pos\u02C8binde"
+ipa link: "http://ipa-reader.xyz/?text=pos\u02C8binde&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - untie
+    - unfasten
+  epo:
+  - - malbindado
+    - malligado
+  - - malbindi
+    - malligi
+  spa:
+  - - desamarrar
+    - desatar
+search terms:
+  glb:
+  - posbinde
+  eng:
+  - untie
+  - unfasten
+  epo:
+  - malbindado
+  - malligado
+  - malbindi
+  - malligi
+  spa:
+  - desamarrar
+  - desatar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/binde">binde</a>
+raw data:
+  term: posbinde
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: untie, unfasten
+    epo: malbindado, malligado; malbindi, malligi
+    spa: desamarrar, desatar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + binde
+...

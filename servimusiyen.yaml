@@ -1,0 +1,49 @@
+---
+term: servimusiyen
+slug: servimusiyen
+ipa: "se\u027Evimusi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=se\u027Evimusi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - servant
+  epo:
+  - - servisto
+    - servanto
+  spa:
+  - - sirviente
+search terms:
+  glb:
+  - servimusiyen
+  eng:
+  - servant
+  epo:
+  - servisto
+  - servanto
+  spa:
+  - sirviente
+etymology_type: DERIVD
+etymology: <a href="../lexi/servi">servi</a> + <a href="../lexi/-musi">-musi</a> +
+  <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: servimusiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: servant
+    epo: servisto, servanto
+    spa: sirviente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: servi + -musi + -yen
+...

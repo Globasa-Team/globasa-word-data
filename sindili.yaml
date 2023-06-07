@@ -1,0 +1,46 @@
+---
+term: sindili
+slug: sindili
+ipa: "sin\u02C8dili"
+ipa link: "http://ipa-reader.xyz/?text=sin\u02C8dili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Sindhi
+  epo:
+  - - sinda
+  spa:
+  - - "sind\xED"
+search terms:
+  glb:
+  - sindili
+  eng:
+  - sindhi
+  epo:
+  - sinda
+  spa:
+  - "sind\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Sindi">Sindi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Sindili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Sindhi
+    epo: sinda
+    spa: "sind\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Sindi + -li
+...

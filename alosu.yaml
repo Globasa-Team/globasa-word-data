@@ -1,0 +1,50 @@
+---
+term: alosu
+slug: alosu
+ipa: "a\u02C8losu"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8losu&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - somebody else's
+    - someone else's
+  epo:
+  - - de iu alia
+    - alies
+  spa:
+  - - de otro
+search terms:
+  glb:
+  - alosu
+  eng:
+  - somebody else's
+  - someone else's
+  epo:
+  - de iu alia
+  - alies
+  spa:
+  - de otro
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: alosu
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: somebody else's, someone else's
+    epo: de iu alia, alies
+    spa: de otro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + -su
+...

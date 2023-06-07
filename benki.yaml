@@ -1,0 +1,80 @@
+---
+term: benki
+slug: benki
+ipa: ˈbenki
+ipa link: http://ipa-reader.xyz/?text=ˈbenki&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bench
+  epo:
+  - - benko
+  spa:
+  - - banco
+    - banca
+    - banquillo
+search terms:
+  glb:
+  - benki
+  eng:
+  - bench
+  epo:
+  - benko
+  spa:
+  - banco
+  - banca
+  - banquillo
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Bank
+  Englisa:
+  - - bench
+  Espanisa:
+  - - banca
+    - banco
+  Fransesa:
+  - - banc
+  Indonesisa:
+  - - bangku
+  Pilipinasa:
+  - - bangko
+  Turkisa:
+  - - bank
+  Hindisa:
+  - - बैंच “benc”
+  Telugusa:
+  - - బెంచ్ “benc”
+  Swahilisa:
+  - - benchi
+  Niponsa:
+  - - ベンチ “benci”
+  Hangusa:
+  - - 벤치 “benci”
+  Vyetnamsa:
+  - - băng ghế
+raw data:
+  term: benki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bench
+    epo: benko
+    spa: banco, banca, banquillo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Bank), Englisa (bench), Espanisa (banca, banco), Fransesa (banc),
+    Indonesisa (bangku), Pilipinasa (bangko), Turkisa (bank), Hindisa (बैंच “benc”),
+    Telugusa (బెంచ్ “benc”), Swahilisa (benchi), Niponsa ( ベンチ “benci”), Hangusa (벤치
+    “benci”), Vyetnamsa (băng ghế)
+...

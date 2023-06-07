@@ -1,0 +1,57 @@
+---
+term: xaher
+slug: xaher
+ipa: "\u0283a\u02C8xe\u027E"
+ipa link: "http://ipa-reader.xyz/?text=\u0283a\u02C8xe\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - city
+    - town
+  epo:
+  - - urbo
+  spa:
+  - - ciudad
+    - pueblo
+search terms:
+  glb:
+  - xaher
+  eng:
+  - city
+  - town
+  epo:
+  - urbo
+  spa:
+  - ciudad
+  - pueblo
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0936\u0939\u0930 \u201Cshahar\u201D"
+  Parsisa:
+  - - "\u0634\u0647\u0631 \u201Cxahr\u201D"
+  Turkisa:
+  - - "\u015Fehir"
+raw data:
+  term: xaher
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: city, town
+    epo: urbo
+    spa: ciudad, pueblo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0936\u0939\u0930 \u201Cshahar\u201D), Parsisa (\u0634\u0647\u0631
+    \u201Cxahr\u201D), Turkisa (\u015Fehir)"
+...

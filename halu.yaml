@@ -1,0 +1,47 @@
+---
+term: halu
+slug: halu
+ipa: "\u02C8xalu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xalu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - circumstance
+  epo:
+  - - cirkonstanco
+  spa:
+  - - circumstancia
+search terms:
+  glb:
+  - halu
+  eng:
+  - circumstance
+  epo:
+  - cirkonstanco
+  spa:
+  - circumstancia
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: halu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: circumstance
+    epo: cirkonstanco
+    spa: circumstancia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u0627\u0644 \u201Chal\u201D), Swahilisa (hali), Turkisa
+    (h\xE2l), Indonesisa (hal), Hindisa (\u0939\u093E\u0932 \u201Chal\u201D)"
+...

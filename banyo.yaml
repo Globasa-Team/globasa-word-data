@@ -1,0 +1,67 @@
+---
+term: banyo
+slug: banyo
+ipa: ˈbanjo
+ipa link: http://ipa-reader.xyz/?text=ˈbanjo&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - bath
+  - - bathe
+  epo:
+  - - bano
+  - - sinbani
+    - bani
+  spa:
+  - - baño
+  - - bañar
+    - bañarse
+search terms:
+  glb:
+  - banyo
+  eng:
+  - bath
+  - bathe
+  epo:
+  - bano
+  - sinbani
+  - bani
+  spa:
+  - baño
+  - bañar
+  - bañarse
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - baño
+  Fransesa:
+  - - bein
+  Rusisa:
+  - - баня “banya”
+  Turkisa:
+  - - banyo
+  Pilipinasa:
+  - - banyo
+raw data:
+  term: banyo
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: bath; bathe
+    epo: bano; sinbani, bani
+    spa: baño; bañar, bañarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (baño), Fransesa (bein), Rusisa (баня “banya”), Turkisa (banyo),
+    Pilipinasa (banyo)
+...

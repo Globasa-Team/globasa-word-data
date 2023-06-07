@@ -1,0 +1,54 @@
+---
+term: kakao
+slug: kakao
+ipa: "ka\u02C8kao"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8kao&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cocoa
+  epo:
+  - - kakao
+  spa:
+  - - cacao
+search terms:
+  glb:
+  - kakao
+  eng:
+  - cocoa
+  epo:
+  - kakao
+  spa:
+  - cacao
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: kakao
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cocoa
+    epo: kakao
+    spa: cacao
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (cacao, cocoa), Espanisa (cacao), Fransesa, Vyetnamsa, Rusisa
+    (\u043A\u0430\u043A\u0430\u043E \u201Ckakao\u201D), Doycisa (Kakao), Indonesisa,
+    Turkisa, Swahilisa, Pilipinasa (kakaw), Putunhwa (\u53EF\u53EF\u8C46 \u201Ckekedow\u201D),
+    Hindisa (\u0915\u094B\u0915\u094B \u201Ckoko\u201D), Arabisa (\u0643\u064E\u0627\u0643\u064E\u0627\u0648
+    \u201Ckakaw\u201D), Niponsa (\u30AB\u30AB\u30AA \u201Ckakao\u201D), Telugusa (\u0C15\u0C4B\u0C15\u0C4B
+    \u201Ckoko\u201D), Hangusa (\uCE74\uCE74\uC624 \u201Ckakao\u201D), Parsisa (\u06A9\u0627\u06A9\u0627\u0626\u0648
+    \u201Ckakao\u201D)"
+...

@@ -1,0 +1,52 @@
+---
+term: kwasiatre
+slug: kwasiatre
+ipa: "kwasi\u02C8at\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=kwasi\u02C8at\u027Ee&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - step-parent
+    - stepparent
+  epo:
+  - - vicpatro
+    - vicpatrino
+  spa:
+  - - padrastro
+    - madrastra
+search terms:
+  glb:
+  - kwasiatre
+  eng:
+  - step-parent
+  - stepparent
+  epo:
+  - vicpatro
+  - vicpatrino
+  spa:
+  - padrastro
+  - madrastra
+etymology_type: DERIVD
+etymology: <a href="../lexi/kwasi">kwasi</a> + <a href="../lexi/atre">atre</a>
+raw data:
+  term: kwasiatre
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: step-parent, stepparent
+    epo: vicpatro, vicpatrino
+    spa: padrastro, madrastra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwasi + atre
+...

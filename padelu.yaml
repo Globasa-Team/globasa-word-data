@@ -1,0 +1,70 @@
+---
+term: padelu
+slug: padelu
+ipa: "pa\u02C8delu"
+ipa link: "http://ipa-reader.xyz/?text=pa\u02C8delu&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - oar
+    - paddle
+  - - row
+  epo:
+  - - remilo
+    - padelo
+  - - remi
+    - padeli
+  spa:
+  - - remo
+  - - remar
+search terms:
+  glb:
+  - padelu
+  eng:
+  - oar
+  - paddle
+  - row
+  epo:
+  - remilo
+  - padelo
+  - remi
+  - padeli
+  spa:
+  - remo
+  - remar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - paddle
+  Doycisa:
+  - - Paddel
+  - - paddeln
+  Niponsa:
+  - - "\u30D1\u30C9\u30EB \"padoru\""
+  Parsisa:
+  - - "\u067E\u0627\u0631\u0648 \"p\xE2ru\""
+tags:
+- tul
+raw data:
+  term: padelu
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: oar, paddle; row
+    epo: remilo, padelo; remi, padeli
+    spa: remo; remar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: tul
+  etymology: "Englisa (paddle), Doycisa (Paddel; paddeln), Niponsa (\u30D1\u30C9\u30EB
+    \"padoru\"), Parsisa (\u067E\u0627\u0631\u0648 \"p\xE2ru\")"
+...

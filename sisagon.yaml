@@ -1,0 +1,48 @@
+---
+term: sisagon
+slug: sisagon
+ipa: "sisa\u02C8gon"
+ipa link: "http://ipa-reader.xyz/?text=sisa\u02C8gon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hexagon
+  epo:
+  - - sesangulo
+    - seslatero
+  spa:
+  - - "hex\xE1gono"
+search terms:
+  glb:
+  - sisagon
+  eng:
+  - hexagon
+  epo:
+  - sesangulo
+  - seslatero
+  spa:
+  - "hex\xE1gono"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sisa">sisa</a> + <a href="../lexi/gon">gon</a>
+raw data:
+  term: sisagon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hexagon
+    epo: sesangulo, seslatero
+    spa: "hex\xE1gono"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sisa + gon
+...

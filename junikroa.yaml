@@ -1,0 +1,48 @@
+---
+term: junikroa
+slug: junikroa
+ipa: "d\u0361\u0292uni\u02C8k\u027Eoa"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292uni\u02C8k\u027Eoa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - tadpole
+    - pollywog
+  epo:
+  - - ranido
+  spa:
+  - - renacuajo
+search terms:
+  glb:
+  - junikroa
+  eng:
+  - tadpole
+  - pollywog
+  epo:
+  - ranido
+  spa:
+  - renacuajo
+etymology_type: DERIVD
+etymology: <a href="../lexi/juni-">juni-</a> + <a href="../lexi/kroa">kroa</a>
+raw data:
+  term: junikroa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: tadpole, pollywog
+    epo: ranido
+    spa: renacuajo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: juni- + kroa
+...

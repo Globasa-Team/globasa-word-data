@@ -1,0 +1,48 @@
+---
+term: swomiyen
+slug: swomiyen
+ipa: "swomi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=swomi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Finn
+  epo:
+  - - finno
+  spa:
+  - - "fin\xE9s"
+    - "finland\xE9s (_persona_)"
+search terms:
+  glb:
+  - swomiyen
+  eng:
+  - finn
+  epo:
+  - finno
+  spa:
+  - "fin\xE9s"
+  - "finland\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Swomi">Swomi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Swomiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Finn
+    epo: finno
+    spa: "fin\xE9s, finland\xE9s (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Swomi + -yen
+...

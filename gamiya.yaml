@@ -1,0 +1,52 @@
+---
+term: gamiya
+slug: gamiya
+ipa: "ga\u02C8mija"
+ipa link: "http://ipa-reader.xyz/?text=ga\u02C8mija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - marriage
+    - spousehood
+  epo:
+  - - edzeco
+    - edzineco
+    - geedzineco
+  spa:
+  - - matrimonio
+search terms:
+  glb:
+  - gamiya
+  eng:
+  - marriage
+  - spousehood
+  epo:
+  - edzeco
+  - edzineco
+  - geedzineco
+  spa:
+  - matrimonio
+etymology_type: DERIVD
+etymology: <a href="../lexi/gami">gami</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: gamiya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: marriage, spousehood
+    epo: edzeco, edzineco, geedzineco
+    spa: matrimonio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gami + -ya
+...

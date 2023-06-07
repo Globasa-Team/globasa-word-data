@@ -1,0 +1,52 @@
+---
+term: kuba
+slug: kuba
+ipa: "\u02C8kuba"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kuba&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Cuba
+  epo:
+  - - Kubo (_lando_)
+    - Kuba Respubliko
+  spa:
+  - - Cuba
+search terms:
+  glb:
+  - kuba
+  eng:
+  - cuba
+  epo:
+  - kubo
+  - kuba respubliko
+  spa:
+  - cuba
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Cuba
+tags:
+- dexa
+raw data:
+  term: Kuba
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Cuba
+    epo: Kubo (_lando_), Kuba Respubliko
+    spa: Cuba
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Cuba)
+...

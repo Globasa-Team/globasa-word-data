@@ -1,0 +1,89 @@
+---
+term: kiwi
+slug: kiwi
+ipa: "\u02C8kiwi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kiwi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - kiwi
+    - _Apterygidae_ (bird)
+  epo:
+  - - kivio
+    - apterigo
+  spa:
+  - - kiwi (_ave_)
+    - _Apterygidae_
+search terms:
+  glb:
+  - kiwi
+  eng:
+  - kiwi
+  epo:
+  - kivio
+  - apterigo
+  spa:
+  - kiwi
+  - apterygidae
+etymology_type: NATLNG
+etymology:
+  Maorisa:
+  - - kiwi
+  Englisa: ~
+  Espanisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Vyetnamsa: ~
+  Swahilisa: ~
+  Rusisa:
+  - - "\u043A\u0438\u0432\u0438 \u201Ckivi\u201D"
+  Putunhwa:
+  - - "\u5947\u7570 \u201Cciyi\u201D"
+    - "\u5E7E\u7DAD \u201Cjiwey\u201D"
+    - "\u5947\u5A01 \u201Cciwey\u201D"
+  Hindisa:
+  - - "\u0915\u0940\u0935\u0940 \u201Ckivi\u201D"
+  Arabisa:
+  - - "\u0643\u0650\u064A\u0648\u0650\u064A \u201Ckiwi\u201D"
+  Niponsa:
+  - - "\u30AD\u30FC\u30A6\u30A3 \u201Ckiwi\u201D"
+  Telegusa:
+  - - "\u0C15\u0C3F\u0C35\u0C3F \u201Ckivi\u201D"
+  Turkisa:
+  - - kivi
+  Hangusa:
+  - - "\uD0A4\uC704 \u201Ckiwi\u201D"
+  Parsisa:
+  - - "\u06A9\u06CC\u0648\u06CC \u201Ckiwi\u201D"
+tags:
+- hewan
+raw data:
+  term: 'kiwi '
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: kiwi, _Apterygidae_ (bird)
+    epo: kivio, apterigo
+    spa: 'kiwi (_ave_), _Apterygidae_ '
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Maorisa (kiwi), Englisa, Espanisa, Fransesa, Doycisa, Indonesisa, Pilipinasa,
+    Vyetnamsa, Swahilisa, Rusisa (\u043A\u0438\u0432\u0438 \u201Ckivi\u201D), Putunhwa
+    (\u5947\u7570 \u201Cciyi\u201D, \u5E7E\u7DAD \u201Cjiwey\u201D, \u5947\u5A01 \u201Cciwey\u201D),
+    Hindisa (\u0915\u0940\u0935\u0940 \u201Ckivi\u201D), Arabisa (\u0643\u0650\u064A\u0648\u0650\u064A
+    \u201Ckiwi\u201D), Niponsa (\u30AD\u30FC\u30A6\u30A3 \u201Ckiwi\u201D), Telegusa
+    (\u0C15\u0C3F\u0C35\u0C3F \u201Ckivi\u201D), Turkisa (kivi), Hangusa (\uD0A4\uC704
+    \u201Ckiwi\u201D), Parsisa (\u06A9\u06CC\u0648\u06CC \u201Ckiwi\u201D)"
+...

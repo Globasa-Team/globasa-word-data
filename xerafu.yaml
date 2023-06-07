@@ -1,0 +1,64 @@
+---
+term: xerafu
+slug: xerafu
+ipa: "\u0283e\u02C8\u027Eafu"
+ipa link: "http://ipa-reader.xyz/?text=\u0283e\u02C8\u027Eafu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - honor
+    - glory
+  - - honor
+    - glorify
+  epo:
+  - - honoro
+  - - honori
+  spa:
+  - - honor
+  - - honrar
+search terms:
+  glb:
+  - xerafu
+  eng:
+    0: honor
+    1: glory
+    3: glorify
+  epo:
+  - honoro
+  - honori
+  spa:
+  - honor
+  - honrar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0634\u0631\u0641 \u201Csharaf\u201D"
+    - "\u064A\u064F\u0634\u064E\u0631\u0650\u0651\u0641\u064F\u200E\u200E \u201Cyu\u0161arrifu\u201D"
+  Parsisa:
+  - - "\u0634\u0631\u0641 \u201Csharaf\u201D"
+  Turkisa:
+  - - "\u015Feref"
+raw data:
+  term: xerafu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: honor, glory; honor, glorify
+    epo: honoro; honori
+    spa: honor; honrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0634\u0631\u0641 \u201Csharaf\u201D, \u064A\u064F\u0634\u064E\u0631\u0650\u0651\u0641\u064F\u200E\u200E
+    \u201Cyu\u0161arrifu\u201D), Parsisa (\u0634\u0631\u0641 \u201Csharaf\u201D),
+    Turkisa (\u015Feref)"
+...

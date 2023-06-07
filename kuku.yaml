@@ -1,0 +1,64 @@
+---
+term: kuku
+slug: kuku
+ipa: "\u02C8kuku"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kuku&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chicken
+    - hen
+    - rooster
+    - _Gallus_
+  epo:
+  - - koko
+    - kokino
+  spa:
+  - - pollo
+    - gallina
+    - gallo
+    - _Gallus_
+search terms:
+  glb:
+  - kuku
+  eng:
+  - chicken
+  - hen
+  - rooster
+  - gallus
+  epo:
+  - koko
+  - kokino
+  spa:
+  - pollo
+  - gallina
+  - gallo
+  - gallus
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kuku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chicken, hen, rooster, _Gallus_
+    epo: koko, kokino
+    spa: pollo, gallina, gallo, _Gallus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (cock), Fransesa (coq), Doycisa (K\xFCken - chick), Swahilisa
+    (kuku); kwasilexi - Arabisa, Putunhwa, Hangusa, Niponsa, Hindisa, Indonesisa,
+    Parsisa, Rusisa, ji max to"
+...

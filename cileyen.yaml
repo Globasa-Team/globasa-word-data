@@ -1,0 +1,46 @@
+---
+term: cileyen
+slug: cileyen
+ipa: "t\u0361\u0283ile\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ile\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Chilean
+  epo:
+  - - "\u0109iliano"
+  spa:
+  - - chileno (_persona_)
+search terms:
+  glb:
+  - cileyen
+  eng:
+  - chilean
+  epo:
+  - "\u0109iliano"
+  spa:
+  - chileno
+etymology_type: DERIVD
+etymology: <a href="../lexi/Cile">Cile</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Cileyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Chilean
+    epo: "\u0109iliano"
+    spa: chileno (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Cile + -yen
+...

@@ -1,0 +1,65 @@
+---
+term: estano
+slug: estano
+ipa: esˈtano
+ipa link: http://ipa-reader.xyz/?text=esˈtano&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tin
+  epo:
+  - - stano
+  spa:
+  - - estaño
+    - Sn
+search terms:
+  glb:
+  - estano
+  eng:
+  - tin
+  epo:
+  - stano
+  spa:
+  - estaño
+  - sn
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tin
+  Espanisa:
+  - - estaño
+  Fransesa:
+  - - étain
+  Rusisa:
+  - - станнум “stanum”
+  Doycisa:
+  - - Zinn
+  Swahilisa:
+  - - stani
+  Pilipinasa:
+  - - estanyo
+tags:
+- kimikali monlari
+raw data:
+  term: estano
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tin
+    epo: stano
+    spa: estaño, Sn
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (tin), Espanisa (estaño), Fransesa (étain), Rusisa (станнум “stanum”),
+    Doycisa (Zinn), Swahilisa (stani), Pilipinasa (estanyo)
+...

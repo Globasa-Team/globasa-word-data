@@ -1,0 +1,48 @@
+---
+term: pluyali
+slug: pluyali
+ipa: "plu\u02C8jali"
+ipa link: "http://ipa-reader.xyz/?text=plu\u02C8jali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - plural
+  epo:
+  - - pluraj
+  - - plure
+  spa:
+  - - plural
+search terms:
+  glb:
+  - pluyali
+  eng:
+  - plural
+  epo:
+  - pluraj
+  - plure
+  spa:
+  - plural
+etymology_type: DERIVD
+etymology: <a href="../lexi/pluya">pluya</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: pluyali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: plural
+    epo: pluraj; plure
+    spa: plural
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pluya + -li
+...

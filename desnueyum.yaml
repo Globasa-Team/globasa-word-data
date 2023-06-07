@@ -1,0 +1,48 @@
+---
+term: desnueyum
+slug: desnueyum
+ipa: "desnue\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=desnue\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - nineteenth
+  epo:
+  - - "dekna\u016Da"
+  - - "dekna\u016De"
+  spa:
+  - - "d\xE9cimo noveno"
+search terms:
+  glb:
+  - desnueyum
+  eng:
+  - nineteenth
+  epo:
+  - "dekna\u016Da"
+  - "dekna\u016De"
+  spa:
+  - "d\xE9cimo noveno"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/nue">nue</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: desnueyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: nineteenth
+    epo: "dekna\u016Da; dekna\u016De"
+    spa: "d\xE9cimo noveno"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + nue + -yum
+...

@@ -1,0 +1,55 @@
+---
+term: kismetu
+slug: kismetu
+ipa: "kis\u02C8metu"
+ipa link: "http://ipa-reader.xyz/?text=kis\u02C8metu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fate
+    - destiny
+  epo:
+  - - fato
+    - sorto
+    - destino
+  spa:
+  - - destino
+search terms:
+  glb:
+  - kismetu
+  eng:
+  - fate
+  - destiny
+  epo:
+  - fato
+  - sorto
+  - destino
+  spa:
+  - destino
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kismetu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fate, destiny
+    epo: fato, sorto, destino
+    spa: destino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (kismet), Rusisa (\u043A\u0438\u0441\u043C\u0435\u0442 \u201Ckismet\u201D),
+    Hindisa (\u0915\u093C\u093F\u0938\u094D\u092E\u0924  \u201Cqismat\u201D), Arabisa:
+    (\u0642\u0633\u0645\u0629 \u201Cqisma\u201D), Turkisa (k\u0131smet), Parsisa (\u0642\u0633\u0645\u062A\u200E
+    \u201Cqismat\u201D)"
+...

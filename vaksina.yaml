@@ -1,0 +1,88 @@
+---
+term: vaksina
+slug: vaksina
+ipa: "vak\u02C8sina"
+ipa link: "http://ipa-reader.xyz/?text=vak\u02C8sina&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - vaccine
+  - - vaccinate
+  epo:
+  - - vakcino
+  - - "vakcini\u011Di"
+    - vakcini
+  spa:
+  - - vacuna
+  - - vacunar
+    - vacunarse
+search terms:
+  glb:
+  - vaksina
+  eng:
+  - vaccine
+  - vaccinate
+  epo:
+  - vakcino
+  - "vakcini\u011Di"
+  - vakcini
+  spa:
+  - vacuna
+  - vacunar
+  - vacunarse
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Vakzine
+  Englisa:
+  - - vaccine
+    - vaccination
+  Espanisa:
+  - - vacuna
+  Fransesa:
+  - - vaccine
+    - vaccination
+  Rusisa:
+  - - "\u0432\u0430\u043A\u0446\u0438\u043D\u0430 \u201Cvaktsina\u201D"
+  Indonesisa:
+  - - vaksin
+    - vaksinasi
+  Turkisa:
+  - - vaksin
+  Vyetnamsa:
+  - - "v\u1EAFc xin"
+  Niponsa:
+  - - "\u30EF\u30AF\u30C1\u30F3 \u201Cwakuchin\u201D"
+  Hangusa:
+  - - "\uBC31\uC2E0 \u201Cbaegsin\u201D"
+  Parsisa:
+  - - "\u200C\u0648\u0627\u06A9\u0633\u0646 \"v\xE2ksan\""
+tags:
+- medis
+raw data:
+  term: vaksina
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: vaccine; vaccinate
+    epo: "vakcino; vakcini\u011Di, vakcini"
+    spa: vacuna; vacunar, vacunarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Doycisa (Vakzine), Englisa (vaccine, vaccination), Espanisa (vacuna),
+    Fransesa (vaccine, vaccination), Rusisa (\u0432\u0430\u043A\u0446\u0438\u043D\u0430
+    \u201Cvaktsina\u201D), Indonesisa (vaksin, vaksinasi), Turkisa (vaksin), Vyetnamsa
+    (v\u1EAFc xin), Niponsa (\u30EF\u30AF\u30C1\u30F3 \u201Cwakuchin\u201D), Hangusa
+    (\uBC31\uC2E0 \u201Cbaegsin\u201D), Parsisa (\u200C\u0648\u0627\u06A9\u0633\u0646
+    \"v\xE2ksan\")"
+...

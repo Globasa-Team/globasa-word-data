@@ -1,0 +1,50 @@
+---
+term: kreayen
+slug: kreayen
+ipa: "k\u027Eea\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Eea\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - creator
+    - author
+  epo:
+  - - kreanto
+    - kreinto
+  spa:
+  - - creador
+search terms:
+  glb:
+  - kreayen
+  eng:
+  - creator
+  - author
+  epo:
+  - kreanto
+  - kreinto
+  spa:
+  - creador
+etymology_type: DERIVD
+etymology: <a href="../lexi/krea">krea</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: kreayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: creator, author
+    epo: kreanto, kreinto
+    spa: creador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: krea + -yen
+...

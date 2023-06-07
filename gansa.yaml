@@ -1,0 +1,61 @@
+---
+term: gansa
+slug: gansa
+ipa: ˈgansa
+ipa link: http://ipa-reader.xyz/?text=ˈgansa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - goose
+  epo:
+  - - ansero
+  spa:
+  - - ganso
+    - _Anatidae_
+search terms:
+  glb:
+  - gansa
+  eng:
+  - goose
+  epo:
+  - ansero
+  spa:
+  - ganso
+  - anatidae
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Gans
+  Espanisa:
+  - - ganso
+  Indonesisa:
+  - - angsa
+  Pilipinasa:
+  - - gansa
+  Hindisa:
+  - - हंस “hans”
+tags:
+- hewan
+raw data:
+  term: gansa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: goose
+    epo: ansero
+    spa: ganso, _Anatidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Doycisa (Gans), Espanisa (ganso), Indonesisa (angsa), Pilipinasa (gansa),
+    Hindisa (हंस “hans”)
+...

@@ -1,0 +1,80 @@
+---
+term: name
+slug: name
+ipa: "\u02C8name"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8name&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - name
+  - - have as name
+    - be named
+    - be called
+  epo:
+  - - nomo
+  - - "nomi\u011Di"
+  spa:
+  - - nombre
+  - - llamarse
+    - tener como nombre
+search terms:
+  glb:
+  - name
+  eng:
+  - name
+  - have as name
+  - be named
+  - be called
+  epo:
+  - nomo
+  - "nomi\u011Di"
+  spa:
+  - nombre
+  - llamarse
+  - tener como nombre
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - name
+    - nominate
+  Doycisa:
+  - - Name
+  Espanisa:
+  - - nombre
+  Fransesa:
+  - - nom
+  Hindisa:
+  - - "\u0928\u093E\u092E \u201Cnaam\u201D"
+  Indonesisa:
+  - - nama
+  Niponsa:
+  - - "\u540D\u524D \u201Cnamae\u201D"
+  Taysa:
+  - - "\u0E19\u0E32\u0E21 \u201Cnaam\u201D"
+  Telugusa:
+  - - "\u0C28\u0C3E\u0C2E\u0C2E\u0C41 \u201Cnaamamu\u201D"
+raw data:
+  term: name
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: name; have as name, be named, be called
+    epo: "nomo; nomi\u011Di"
+    spa: nombre; llamarse, tener como nombre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (name, nominate), Doycisa (Name), Espanisa (nombre), Fransesa
+    (nom), Hindisa  (\u0928\u093E\u092E \u201Cnaam\u201D), Indonesisa (nama), Niponsa
+    (\u540D\u524D \u201Cnamae\u201D), Taysa (\u0E19\u0E32\u0E21 \u201Cnaam\u201D),
+    Telugusa (\u0C28\u0C3E\u0C2E\u0C2E\u0C41 \u201Cnaamamu\u201D)"
+...

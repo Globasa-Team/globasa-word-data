@@ -1,0 +1,52 @@
+---
+term: afrikanseyen
+slug: afrikanseyen
+ipa: "af\u027Eikanse\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=af\u027Eikanse\u02C8jen&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Afrikaner
+  epo:
+  - - afrikanso
+    - arikanero
+    - buro
+  spa:
+  - - "afrik\xE1ner"
+    - "b\xF3er"
+search terms:
+  glb:
+  - afrikanseyen
+  eng:
+  - afrikaner
+  epo:
+  - afrikanso
+  - arikanero
+  - buro
+  spa:
+  - "afrik\xE1ner"
+  - "b\xF3er"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Afrikanse">Afrikanse</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Afrikanseyen
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: Afrikaner
+    epo: afrikanso, arikanero, buro
+    spa: "afrik\xE1ner, b\xF3er"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Afrikanse + -yen
+...

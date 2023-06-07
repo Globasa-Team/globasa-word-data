@@ -1,0 +1,55 @@
+---
+term: krema
+slug: krema
+ipa: "\u02C8k\u027Eema"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8k\u027Eema&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cream
+    - paste
+  epo:
+  - - pasto
+    - kremo (vidu [krimu] por lakta kremo)
+  spa:
+  - - crema
+    - pasta
+search terms:
+  glb:
+  - krema
+  eng:
+  - cream
+  - paste
+  epo:
+  - pasto
+  - kremo vidu [krimu] por lakta kremo
+  - kremo
+  spa:
+  - crema
+  - pasta
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: krema
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cream, paste
+    epo: pasto, kremo (vidu [krimu] por lakta kremo)
+    spa: crema, pasta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cream), Fransesa (cr\xE8me), Espanisa (crema), Indonesisa (krim),
+    Niponsa (\u30AF\u30EA\u30FC\u30E0 \u201Ckur\u012Bmu\u201D), Hangusa (\uD06C\uB9BC
+    \u201Ckeurim\u201D), Vyetnamsa (kem)"
+...

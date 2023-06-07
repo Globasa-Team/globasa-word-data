@@ -1,0 +1,50 @@
+---
+term: jiwajotay
+slug: jiwajotay
+ipa: "d\u0361\u0292iwad\u0361\u0292o\u02C8taj"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292iwad\u0361\u0292o\u02C8taj&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - standard of life
+    - standard of living
+  epo:
+  - - vivnivelo
+  spa:
+  - - "est\xE1ndar de vida"
+    - nivel de vida
+search terms:
+  glb:
+  - jiwajotay
+  eng:
+  - standard of life
+  - standard of living
+  epo:
+  - vivnivelo
+  spa:
+  - "est\xE1ndar de vida"
+  - nivel de vida
+etymology_type: DERIVD
+etymology: <a href="../lexi/jiwa">jiwa</a> + <a href="../lexi/jotay">jotay</a>
+raw data:
+  term: jiwajotay
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: standard of life, standard of living
+    epo: vivnivelo
+    spa: "est\xE1ndar de vida, nivel de vida"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jiwa + jotay
+...

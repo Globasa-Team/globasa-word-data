@@ -1,0 +1,58 @@
+---
+term: atreli
+slug: atreli
+ipa: "a\u02C8t\u027Eeli"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8t\u027Eeli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - parental
+    - parenting
+  epo:
+  - - patra
+    - patrina
+    - gepatra
+  - - patre
+    - patrine
+    - gepatre
+  spa:
+  - - parental
+search terms:
+  glb:
+  - atreli
+  eng:
+  - parental
+  - parenting
+  epo:
+  - patra
+  - patrina
+  - gepatra
+  - patre
+  - patrine
+  - gepatre
+  spa:
+  - parental
+etymology_type: DERIVD
+etymology: <a href="../lexi/atre">atre</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: atreli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: parental, parenting
+    epo: patra, patrina, gepatra; patre, patrine, gepatre
+    spa: parental
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: atre + -li
+...

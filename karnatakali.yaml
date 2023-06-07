@@ -1,0 +1,53 @@
+---
+term: karnatakali
+slug: karnatakali
+ipa: "ka\u027Enata\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027Enata\u02C8kali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - (of) Karnataka
+  epo:
+  - - karnataka
+    - karnata
+    - kanara
+  spa:
+  - - "carnar\xE9s"
+    - kannada
+search terms:
+  glb:
+  - karnatakali
+  eng:
+  - of karnataka
+  - karnataka
+  epo:
+  - karnataka
+  - karnata
+  - kanara
+  spa:
+  - "carnar\xE9s"
+  - kannada
+etymology_type: DERIVD
+etymology: <a href="../lexi/Karnataka">Karnataka</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Karnatakali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: (of) Karnataka
+    epo: karnataka, karnata, kanara
+    spa: "carnar\xE9s, kannada"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Karnataka + -li
+...

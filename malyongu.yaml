@@ -1,0 +1,50 @@
+---
+term: malyongu
+slug: malyongu
+ipa: "ma\u02C8ljongu"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8ljongu&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - misuse
+    - waste
+  epo:
+  - - misuzo
+  - - misuzi
+  spa:
+  - - mal uso
+search terms:
+  glb:
+  - malyongu
+  eng:
+  - misuse
+  - waste
+  epo:
+  - misuzo
+  - misuzi
+  spa:
+  - mal uso
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal-">mal-</a> + <a href="../lexi/yongu">yongu</a>
+raw data:
+  term: malyongu
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: misuse, waste
+    epo: misuzo; misuzi
+    spa: mal uso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal- + yongu
+...

@@ -1,0 +1,50 @@
+---
+term: peru
+slug: peru
+ipa: "\u02C8pe\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pe\u027Eu&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Peru
+  epo:
+  - - Peruo
+  spa:
+  - - "Per\xFA"
+search terms:
+  glb:
+  - peru
+  eng:
+  - peru
+  epo:
+  - peruo
+  spa:
+  - "per\xFA"
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - "Per\xFA"
+tags:
+- dexa
+raw data:
+  term: Peru
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Peru
+    epo: Peruo
+    spa: "Per\xFA"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Espanisa (Per\xFA)"
+...

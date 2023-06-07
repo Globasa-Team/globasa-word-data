@@ -1,0 +1,46 @@
+---
+term: fiksolexi
+slug: fiksolexi
+ipa: "fikso\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=fikso\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - affixed word
+  epo:
+  - - afiksita vorto
+  spa:
+  - - palaba afijada
+search terms:
+  glb:
+  - fiksolexi
+  eng:
+  - affixed word
+  epo:
+  - afiksita vorto
+  spa:
+  - palaba afijada
+etymology_type: DERIVD
+etymology: <a href="../lexi/fikso">fikso</a> + <a href="../lexi/-lexi">-lexi</a>
+raw data:
+  term: fiksolexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: affixed word
+    epo: afiksita vorto
+    spa: palaba afijada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fikso + -lexi
+...

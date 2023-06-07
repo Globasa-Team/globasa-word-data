@@ -1,0 +1,61 @@
+---
+term: dabihu
+slug: dabihu
+ipa: daˈbixu
+ipa link: http://ipa-reader.xyz/?text=daˈbixu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - sacrifice
+    - offering
+  - - sacrifice
+  epo:
+  - - ofero
+  - - oferi
+  spa:
+  - - sacrificio
+    - ofrenda
+  - - sacrificar
+search terms:
+  glb:
+  - dabihu
+  eng:
+  - sacrifice
+  - offering
+  epo:
+  - ofero
+  - oferi
+  spa:
+  - sacrificio
+  - ofrenda
+  - sacrificar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - ذبيحة “dhabiha”
+  Swahilisa:
+  - - dhabihu
+  Parsisa:
+  - - ذبح “zebh”
+raw data:
+  term: dabihu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: sacrifice, offering; sacrifice
+    epo: ofero; oferi
+    spa: sacrificio, ofrenda; sacrificar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (ذبيحة “dhabiha”), Swahilisa (dhabihu), Parsisa (ذبح “zebh”)
+...

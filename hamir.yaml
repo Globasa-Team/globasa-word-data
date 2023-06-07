@@ -1,0 +1,48 @@
+---
+term: hamir
+slug: hamir
+ipa: "xa\u02C8mi\u027E"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8mi\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dough
+  epo:
+  - - pasto
+  spa:
+  - - masa
+search terms:
+  glb:
+  - hamir
+  eng:
+  - dough
+  epo:
+  - pasto
+  spa:
+  - masa
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: hamir
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dough
+    epo: pasto
+    spa: masa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Parsisa (\u062E\u0645\u06CC\u0631 \u201Chamir\u201D), Turkisa (hamur)"
+...

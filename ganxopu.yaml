@@ -1,0 +1,73 @@
+---
+term: ganxopu
+slug: ganxopu
+ipa: ganˈʃopu
+ipa link: http://ipa-reader.xyz/?text=ganˈʃopu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - interference
+    - intervention
+  - - interfere
+    - intervene
+  epo:
+  - - interfero
+    - interveno
+  - - interferi
+    - interveni
+  spa:
+  - - interferencia
+    - intromisión
+  - - interferir
+    - entrometerse
+search terms:
+  glb:
+  - ganxopu
+  eng:
+  - interference
+  - intervention
+  - interfere
+  - intervene
+  epo:
+  - interfero
+  - interveno
+  - interferi
+  - interveni
+  spa:
+  - interferencia
+  - intromisión
+  - interferir
+  - entrometerse
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 干涉 "ganxe"
+  Niponsa:
+  - - 干渉 "kanxo"
+  Vyetnamsa:
+  - - can thiệp
+  Hangusa:
+  - - 간섭 "gansop"
+raw data:
+  term: ganxopu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: interference, intervention; interfere, intervene
+    epo: interfero, interveno; interferi, interveni
+    spa: interferencia, intromisión; interferir, entrometerse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (干涉 "ganxe"), Niponsa (干渉 "kanxo"), Vyetnamsa (can thiệp), Hangusa
+    (간섭 "gansop")
+...

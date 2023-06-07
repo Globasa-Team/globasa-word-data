@@ -1,0 +1,70 @@
+---
+term: privato
+slug: privato
+ipa: "p\u027Ei\u02C8vato"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Ei\u02C8vato&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - private
+    - privately
+  epo:
+  - - privata
+  - - private
+  spa:
+  - - privado
+search terms:
+  glb:
+  - privato
+  eng:
+  - private
+  - privately
+  epo:
+  - privata
+  - private
+  spa:
+  - privado
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - private
+  Fransesa:
+  - - "priv\xE9"
+  Doycisa:
+  - - privat
+  Rusisa:
+  - - "\u043F\u0440\u0438\u0432\u0430\u0442\u043D\u044B\u0439 \u201Cprivatniy\u201D"
+  Espanisa:
+  - - privado
+  Italisa:
+  - - privato
+  Hindisa:
+  - - "\u092A\u094D\u0930\u093E\u0907\u0935\u0947\u091F \u201Cprayvet\u201D"
+  Indonesisa:
+  - - pribadi
+  Pilipinasa:
+  - - pribado
+raw data:
+  term: privato
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: private, privately
+    epo: privata; private
+    spa: privado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (private), Fransesa (priv\xE9), Doycisa (privat), Rusisa (\u043F\u0440\u0438\u0432\u0430\u0442\u043D\u044B\u0439
+    \u201Cprivatniy\u201D), Espanisa (privado), Italisa (privato), Hindisa (\u092A\u094D\u0930\u093E\u0907\u0935\u0947\u091F
+    \u201Cprayvet\u201D), Indonesisa (pribadi), Pilipinasa (pribado)"
+...

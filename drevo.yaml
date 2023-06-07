@@ -1,0 +1,50 @@
+---
+term: drevo
+slug: drevo
+ipa: ˈdɾevo
+ipa link: http://ipa-reader.xyz/?text=ˈdɾevo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tree
+  epo:
+  - - arbo
+  spa:
+  - - árbol
+search terms:
+  glb:
+  - drevo
+  eng:
+  - tree
+  epo:
+  - arbo
+  spa:
+  - árbol
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - درخت “derakht”
+  Rusisa:
+  - - древо “drevo”
+raw data:
+  term: drevo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tree
+    epo: arbo
+    spa: árbol
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Parsisa (درخت “derakht”), Rusisa (древо “drevo”)
+...

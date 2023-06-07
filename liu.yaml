@@ -1,0 +1,56 @@
+---
+term: liu
+slug: liu
+ipa: "\u02C8liu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8liu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - willow
+    - sallow
+    - osier
+    - withy
+    - _Salix_ (tree)
+  epo:
+  - - saliko
+  spa:
+  - - sauce
+    - _Salix_
+search terms:
+  glb:
+  - liu
+  eng:
+  - willow
+  - sallow
+  - osier
+  - withy
+  epo:
+  - saliko
+  spa:
+  - sauce
+  - salix
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: liu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: willow, sallow, osier, withy, _Salix_ (tree)
+    epo: saliko
+    spa: sauce, _Salix_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u67F3 \"lyu\"), Niponsa (\u67F3 \"ryu\"), Vyetnamsa (li\u1EC5u),
+    Hangusa (\"yu\")"
+...

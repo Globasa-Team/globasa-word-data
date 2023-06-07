@@ -1,0 +1,52 @@
+---
+term: injir
+slug: injir
+ipa: "in\u02C8d\u0361\u0292i\u027E"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8d\u0361\u0292i\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fig
+  epo:
+  - - figo
+  spa:
+  - - higo
+    - _Ficus carica_
+search terms:
+  glb:
+  - injir
+  eng:
+  - fig
+  epo:
+  - figo
+  spa:
+  - higo
+  - ficus carica
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- fruta
+- yamxey
+raw data:
+  term: injir
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fig
+    epo: figo
+    spa: higo, _Ficus carica_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Rusisa (\u0438\u043D\u0436\u0438\u0440 \u201Cinjir\u201D), Hindisa (\u0905\u0902\u091C\u0940\u0930
+    \u201Canjir\u201D), Turkisa (incir), Parsisa (\u0627\u0646\u062C\u06CC\u0631 \u201Canjir\u201D)"
+...

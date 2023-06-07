@@ -1,0 +1,50 @@
+---
+term: daypapa
+slug: daypapa
+ipa: "daj\u02C8papa"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8papa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - grandpa
+    - granddad
+    - gramps
+  epo:
+  - - "av\u0109jo"
+  spa:
+  - - abuelito
+search terms:
+  glb:
+  - daypapa
+  eng:
+  - grandpa
+  - granddad
+  - gramps
+  epo:
+  - "av\u0109jo"
+  spa:
+  - abuelito
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/papa">papa</a>
+raw data:
+  term: daypapa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: grandpa, granddad, gramps
+    epo: "av\u0109jo"
+    spa: abuelito
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + papa
+...

@@ -1,0 +1,54 @@
+---
+term: brawa
+slug: brawa
+ipa: ˈbɾawa
+ipa link: http://ipa-reader.xyz/?text=ˈbɾawa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - swamp
+    - marsh
+  epo:
+  - - marĉo
+  spa:
+  - - pantano
+    - ciénaga
+search terms:
+  glb:
+  - brawa
+  eng:
+  - swamp
+  - marsh
+  epo:
+  - marĉo
+  spa:
+  - pantano
+  - ciénaga
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - rawa
+  Swahilisa:
+  - - bwawa
+raw data:
+  term: brawa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: swamp, marsh
+    epo: marĉo
+    spa: pantano, ciénaga
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Indonesisa (rawa), Swahilisa (bwawa)
+...

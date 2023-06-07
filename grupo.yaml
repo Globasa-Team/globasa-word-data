@@ -1,0 +1,75 @@
+---
+term: grupo
+slug: grupo
+ipa: ˈgɾupo
+ipa link: http://ipa-reader.xyz/?text=ˈgɾupo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - group
+  epo:
+  - - grupo
+  spa:
+  - - grupo
+search terms:
+  glb:
+  - grupo
+  eng:
+  - group
+  epo:
+  - grupo
+  spa:
+  - grupo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - group
+  Fransesa:
+  - - groupe
+  Doycisa:
+  - - Gruppe
+  Rusisa:
+  - - группа “gruppa”
+  Espanisa:
+  - - grupo
+  Hindisa:
+  - - ग्रूप “grūp”
+  Niponsa:
+  - - グループ “gurūpu”
+  Hangusa:
+  - - 그룹 “gurup”
+  Turkisa:
+  - - grup
+  Parsisa:
+  - - گروه “goruh”
+  Telugusa:
+  - - గుంపు “gumpu”
+  Indonesisa:
+  - - grup
+  Pilipinasa:
+  - - grupo
+raw data:
+  term: grupo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: group
+    epo: grupo
+    spa: grupo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (group), Fransesa (groupe), Doycisa (Gruppe), Rusisa (группа
+    “gruppa”), Espanisa (grupo), Hindisa (ग्रूप “grūp”), Niponsa (グループ “gurūpu”),
+    Hangusa (그룹 “gurup”), Turkisa (grup), Parsisa (گروه “goruh”), Telugusa (గుంపు
+    “gumpu”), Indonesisa (grup), Pilipinasa (grupo)
+...

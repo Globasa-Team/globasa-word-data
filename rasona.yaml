@@ -1,0 +1,73 @@
+---
+term: rasona
+slug: rasona
+ipa: "\u027Ea\u02C8sona"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8sona&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - reason (_logical thought_)
+  epo:
+  - - racio
+    - rezono
+  - - rezoni
+  spa:
+  - - "raz\xF3n (_pensamiento l\xF3gico_)"
+  - - razonar
+search terms:
+  glb:
+  - rasona
+  eng:
+  - reason
+  epo:
+  - racio
+  - rezono
+  - rezoni
+  spa:
+  - "raz\xF3n"
+  - razonar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rational
+    - reason
+  Doycisa:
+  - - rational
+  Fransesa:
+  - - rationnel
+    - raison
+  Espanisa:
+  - - racional
+    - "raz\xF3n"
+  Rusisa:
+  - - "\u0440\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u201Cratsionalniy\u201D"
+    - "\u0440\u0430\u0437\u0443\u043C \u201Crazum\u201D"
+  Indonesisa:
+  - - rasional
+  Turkisa:
+  - - rasyonel
+raw data:
+  term: rasona
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: reason (_logical thought_)
+    epo: racio, rezono; rezoni
+    spa: "raz\xF3n (_pensamiento l\xF3gico_); razonar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (rational, reason), Doycisa (rational), Fransesa (rationnel,
+    raison), Espanisa (racional, raz\xF3n), Rusisa (\u0440\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439
+    \u201Cratsionalniy\u201D, \u0440\u0430\u0437\u0443\u043C \u201Crazum\u201D), Indonesisa
+    (rasional), Turkisa (rasyonel)"
+...

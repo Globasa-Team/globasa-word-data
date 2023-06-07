@@ -1,0 +1,80 @@
+---
+term: anjil
+slug: anjil
+ipa: anˈd͡ʒil
+ipa link: http://ipa-reader.xyz/?text=anˈd͡ʒil&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gospel
+    - divine message
+  epo:
+  - - evangelio
+    - dia mesaĝo
+  spa:
+  - - evangelio
+    - mensaje divino
+search terms:
+  glb:
+  - anjil
+  eng:
+  - gospel
+  - divine message
+  epo:
+  - evangelio
+  - dia mesaĝo
+  spa:
+  - evangelio
+  - mensaje divino
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - الإنجيل “al'iinjil”
+  Parsisa:
+  - - انجیل “injil”
+  Indonesisa:
+  - - injil
+  Swahilisa:
+  - - injili
+  Turkisa:
+  - - İncil
+  Doycisa:
+  - - Engel
+    - Evangelium
+  Englisa:
+  - - angel
+  Espanisa:
+  - - angel
+    - evangelio
+  Fransesa:
+  - - ange
+  Rusisa:
+  - - ангел “angel”
+    - Евангелие “Evangelie”
+tags:
+- dini
+raw data:
+  term: anjil
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gospel, divine message
+    epo: evangelio, dia mesaĝo
+    spa: evangelio, mensaje divino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: Arabisa (الإنجيل “al'iinjil”), Parsisa (انجیل “injil”), Indonesisa (injil),
+    Swahilisa (injili), Turkisa (İncil), Doycisa (Engel, Evangelium), Englisa (angel),
+    Espanisa (angel, evangelio), Fransesa (ange), Rusisa (ангел “angel”, Евангелие
+    “Evangelie”)
+...

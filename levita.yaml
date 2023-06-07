@@ -1,0 +1,75 @@
+---
+term: levita
+slug: levita
+ipa: "le\u02C8vita"
+ipa link: "http://ipa-reader.xyz/?text=le\u02C8vita&voice=Ewa"
+status: false
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - levitation
+  - - levitate
+  epo:
+  - - levitacio
+  - - levitacii
+    - levitaciigi
+  spa:
+  - - "levitaci\xF3n"
+  - - levitar
+search terms:
+  glb:
+  - levita
+  eng:
+  - levitation
+  - levitate
+  epo:
+  - levitacio
+  - levitacii
+  - levitaciigi
+  spa:
+  - "levitaci\xF3n"
+  - levitar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - levitation
+  - - levitate
+  Espanisa:
+  - - "levitaci\xF3n"
+  - - levitar
+  Fransesa:
+  - - "l\xE9vitation"
+  Rusisa:
+  - - "\u043B\u0435\u0432\u0438\u0442\u0430\u0446\u0438\u044F \"levitatsiya\""
+  Doycisa:
+  - - Levitation
+  Indonesisa:
+  - - levitasi
+  Niponsa:
+  - - "\u30EC\u30D3\u30C6\u30FC\u30B7\u30E7\u30F3 \"rebitexon\""
+  Turkisa:
+  - - levitasyon
+raw data:
+  term: levita
+  category: root
+  word class: n/f.oro.b
+  status: false
+  trans:
+    eng: levitation; levitate
+    epo: levitacio; levitacii, levitaciigi
+    spa: "levitaci\xF3n; levitar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (levitation; levitate), Espanisa (levitaci\xF3n; levitar), Fransesa
+    (l\xE9vitation), Rusisa (\u043B\u0435\u0432\u0438\u0442\u0430\u0446\u0438\u044F
+    \"levitatsiya\"), Doycisa (Levitation), Indonesisa (levitasi), Niponsa (\u30EC\u30D3\u30C6\u30FC\u30B7\u30E7\u30F3
+    \"rebitexon\"), Turkisa (levitasyon)"
+...

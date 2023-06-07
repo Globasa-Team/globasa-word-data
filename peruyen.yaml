@@ -1,0 +1,46 @@
+---
+term: peruyen
+slug: peruyen
+ipa: "pe\u027Eu\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027Eu\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Peruvian
+  epo:
+  - - peruano
+  spa:
+  - - peruano (_persona_)
+search terms:
+  glb:
+  - peruyen
+  eng:
+  - peruvian
+  epo:
+  - peruano
+  spa:
+  - peruano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Peru">Peru</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Peruyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Peruvian
+    epo: peruano
+    spa: peruano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Peru + -yen
+...

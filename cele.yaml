@@ -1,0 +1,66 @@
+---
+term: cele
+slug: cele
+ipa: ˈt͡ʃele
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃele&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - goal
+    - target
+    - purpose
+  - - aim (at)
+    - target
+  epo:
+  - - celo
+  - - celi
+  spa:
+  - - meta
+    - propósito
+  - - apuntar
+search terms:
+  glb:
+  - cele
+  eng:
+  - goal
+  - target
+  - purpose
+  - aim at
+  - aim
+  epo:
+  - celo
+  - celi
+  spa:
+  - meta
+  - propósito
+  - apuntar
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - цель “tsel”
+  Doycisa:
+  - - Ziel
+  Magyarsa:
+  - - cél
+raw data:
+  term: cele
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: goal, target, purpose; aim (at), target
+    epo: celo; celi
+    spa: meta, propósito; apuntar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Rusisa (цель “tsel”), Doycisa (Ziel), Magyarsa (cél)
+...

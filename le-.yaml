@@ -1,0 +1,48 @@
+---
+term: le-
+slug: le-
+ipa: "\u02C8le-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8le-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - past
+  epo:
+  - - estinta
+    - pasinta
+  spa:
+  - - pasado
+search terms:
+  glb:
+  - le-
+  eng:
+  - past
+  epo:
+  - estinta
+  - pasinta
+  spa:
+  - pasado
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/le">le</a>.
+raw data:
+  term: le-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: past
+    epo: estinta, pasinta
+    spa: pasado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _le_.
+...

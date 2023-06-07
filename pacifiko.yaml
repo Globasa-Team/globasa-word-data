@@ -1,0 +1,73 @@
+---
+term: pacifiko
+slug: pacifiko
+ipa: "pat\u0361\u0283i\u02C8fiko"
+ipa link: "http://ipa-reader.xyz/?text=pat\u0361\u0283i\u02C8fiko&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Pacific
+    - Pacific Ocean
+  epo:
+  - - Pacifiko
+    - Pacifika Oceano
+  spa:
+  - - "Oc\xE9ano Pac\xEDfico"
+search terms:
+  glb:
+  - pacifiko
+  eng:
+  - pacific
+  - pacific ocean
+  epo:
+  - pacifiko
+  - pacifika oceano
+  spa:
+  - "oc\xE9ano pac\xEDfico"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Pacific Ocean
+  Espanisa:
+  - - "Pac\xEDfico"
+  Fransesa:
+  - - "oc\xE9an Pacifique"
+  Indonesisa:
+  - - Samudra Pasifik
+  Doycisa:
+  - - Pazifische Ozean
+  Telugusa:
+  - - "\u0C2A\u0C38\u0C3F\u0C2B\u0C3F\u0C15\u0C4D \u0C2E\u0C39\u0C3E\u0C38\u0C2E\u0C41\u0C26\u0C4D\u0C30\u0C02
+      \u201Cpasifik mahasamudram\u201D"
+  Turkisa:
+  - - Pasifik Okyanusu
+  Swahilisa:
+  - - Pasifiki
+  Pilipinasa:
+  - - Karagatang Pasipiko
+raw data:
+  term: Pacifiko
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Pacific, Pacific Ocean
+    epo: Pacifiko, Pacifika Oceano
+    spa: "Oc\xE9ano Pac\xEDfico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (Pacific Ocean), Espanisa (Pac\xEDfico), Fransesa (oc\xE9an
+    Pacifique), Indonesisa (Samudra Pasifik), Doycisa (Pazifische Ozean), Telugusa
+    (\u0C2A\u0C38\u0C3F\u0C2B\u0C3F\u0C15\u0C4D \u0C2E\u0C39\u0C3E\u0C38\u0C2E\u0C41\u0C26\u0C4D\u0C30\u0C02
+    \u201Cpasifik mahasamudram\u201D), Turkisa (Pasifik Okyanusu), Swahilisa (Pasifiki),
+    Pilipinasa (Karagatang Pasipiko)"
+...

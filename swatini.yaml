@@ -1,0 +1,58 @@
+---
+term: swatini
+slug: swatini
+ipa: "swa\u02C8tini"
+ipa link: "http://ipa-reader.xyz/?text=swa\u02C8tini&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Eswatini
+  epo:
+  - - Esvatinio
+    - Svazilando
+    - Svaziio
+    - Svaziujo
+  spa:
+  - - Suazilandia
+    - Esuatini
+search terms:
+  glb:
+  - swatini
+  eng:
+  - eswatini
+  epo:
+  - esvatinio
+  - svazilando
+  - svaziio
+  - svaziujo
+  spa:
+  - suazilandia
+  - esuatini
+etymology_type: NATLNG
+etymology:
+  Swazi:
+  - - eSwatini
+tags:
+- dexa
+raw data:
+  term: Swatini
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Eswatini
+    epo: Esvatinio, Svazilando, Svaziio, Svaziujo
+    spa: Suazilandia, Esuatini
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Swazi (eSwatini)
+...

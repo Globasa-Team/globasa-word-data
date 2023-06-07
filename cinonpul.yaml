@@ -1,0 +1,56 @@
+---
+term: cinonpul
+slug: cinonpul
+ipa: "t\u0361\u0283inon\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283inon\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - intelligent
+    - smart
+  - - intelligently
+    - smartly
+  epo:
+  - - inteligenta
+  - - inteligente
+  spa:
+  - - inteligente
+  - - inteligentemente
+search terms:
+  glb:
+  - cinonpul
+  eng:
+  - intelligent
+  - smart
+  - intelligently
+  - smartly
+  epo:
+  - inteligenta
+  - inteligente
+  spa:
+  - inteligente
+  - inteligentemente
+etymology_type: DERIVD
+etymology: <a href="../lexi/cinon">cinon</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: cinonpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: intelligent, smart; intelligently, smartly
+    epo: inteligenta; inteligente
+    spa: inteligente; inteligentemente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cinon + -pul
+...

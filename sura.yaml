@@ -1,0 +1,58 @@
+---
+term: sura
+slug: sura
+ipa: "\u02C8su\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8su\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sun (_any star in a planetary system_)
+  epo:
+  - - suno (_iu ajn stelo en planeda sistemo_)
+  spa:
+  - - sol (_cualquier estrella en un sistema planetario_)
+search terms:
+  glb:
+  - sura
+  eng:
+  - sun
+  epo:
+  - suno
+  spa:
+  - sol
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u0942\u0930\u091C \u201Csuraj\u201D"
+  Tamilsa:
+  - - "\u0B9A\u0BC2\u0BB0\u0BBF\u0BAF\u0BA9\u0BCD  \u201Cs\u016Briya\u1E49\u201D"
+  Indonesisa:
+  - - surya
+  Telugusa:
+  - - "\u0C38\u0C42\u0C30\u0C4D\u0C2F \u201Csurya\u201D - surali"
+tags:
+- kosmo
+raw data:
+  term: sura
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sun (_any star in a planetary system_)
+    epo: suno (_iu ajn stelo en planeda sistemo_)
+    spa: sol (_cualquier estrella en un sistema planetario_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kosmo
+  etymology: "Hindisa (\u0938\u0942\u0930\u091C \u201Csuraj\u201D), Tamilsa (\u0B9A\u0BC2\u0BB0\u0BBF\u0BAF\u0BA9\u0BCD
+    \ \u201Cs\u016Briya\u1E49\u201D), Indonesisa (surya), Telugusa (\u0C38\u0C42\u0C30\u0C4D\u0C2F
+    \u201Csurya\u201D - surali)"
+...

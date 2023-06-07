@@ -1,0 +1,50 @@
+---
+term: dua tera
+slug: dua tera
+ipa: "\u02C8dua \u02C8te\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dua \u02C8te\u027Ea&voice=Ewa"
+status: false
+category: phrase
+word class: num
+trans:
+  eng:
+  - - two trillion
+  epo:
+  - - du duiliono
+  - - du biliono
+  spa:
+  - - dos billones
+search terms:
+  glb:
+  - dua tera
+  - dua
+  - tera
+  eng:
+  - two trillion
+  epo:
+  - du duiliono
+  - du biliono
+  spa:
+  - dos billones
+etymology_type: DERIVD
+etymology: <a href="../lexi/dua">dua</a> + <a href="../lexi/tera">tera</a>
+raw data:
+  term: dua tera
+  category: phrase
+  word class: num
+  status: false
+  trans:
+    eng: two trillion
+    epo: du duiliono; du biliono
+    spa: dos billones
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dua + tera
+...

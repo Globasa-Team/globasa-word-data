@@ -1,0 +1,46 @@
+---
+term: papa
+slug: papa
+ipa: "\u02C8papa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8papa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dad
+  epo:
+  - - "pa\u0109jo"
+  spa:
+  - - "pap\xE1"
+search terms:
+  glb:
+  - papa
+  eng:
+  - dad
+  epo:
+  - "pa\u0109jo"
+  spa:
+  - "pap\xE1"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/patre">patre</a>.
+raw data:
+  term: papa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dad
+    epo: "pa\u0109jo"
+    spa: "pap\xE1"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _patre_.
+...

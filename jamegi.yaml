@@ -1,0 +1,48 @@
+---
+term: jamegi
+slug: jamegi
+ipa: "d\u0361\u0292a\u02C8megi"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8megi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - freeze
+  epo:
+  - - frostigo
+  - - frostigi
+  spa:
+  - - congelar
+search terms:
+  glb:
+  - jamegi
+  eng:
+  - freeze
+  epo:
+  - frostigo
+  - frostigi
+  spa:
+  - congelar
+etymology_type: DERIVD
+etymology: <a href="../lexi/jame">jame</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: jamegi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: freeze
+    epo: frostigo; frostigi
+    spa: congelar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jame + -gi
+...

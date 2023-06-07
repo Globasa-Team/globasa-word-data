@@ -1,0 +1,86 @@
+---
+term: renyum
+slug: renyum
+ipa: "\u027Ee\u02C8njum"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8njum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rhenium
+  epo:
+  - - renio
+  spa:
+  - - renio
+    - Re
+search terms:
+  glb:
+  - renyum
+  eng:
+  - rhenium
+  epo:
+  - renio
+  spa:
+  - renio
+  - re
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rhenium
+  Espanisa:
+  - - renio
+  Arabisa:
+  - - "\u0631\u0650\u0646\u0652\u064A\u064F\u0648\u0645 \u201Crinyum\u201D"
+  Fransesa:
+  - - "rh\xE9nium"
+  Rusisa:
+  - - "\u0440\u0435\u043D\u0438\u0439 \u201Creniy\u201D"
+  Indonesisa:
+  - - renium
+  Doycisa:
+  - - Rhenium
+  Niponsa:
+  - - "\u30EC\u30CB\u30A6\u30E0 \u201Creniumu\u201D"
+  Telugusa:
+  - - "\u0C30\u0C40\u0C28\u0C3F\u0C2F\u0C02 \u201Criniyam\u201D"
+  Turkisa:
+  - - renyum
+  Hangusa:
+  - - "\uB808\uB284 \u201Crenyum\u201D"
+  Vyetnamsa:
+  - - rheni
+  Parsisa:
+  - - "\u0631\u0646\u06CC\u0648\u0645 \u201Crenyom\u201D"
+  Swahilisa:
+  - - reni
+  Pilipinasa:
+  - - reniyo
+tags:
+- kimikali monlari
+raw data:
+  term: renyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rhenium
+    epo: renio
+    spa: renio, Re
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (rhenium), Espanisa (renio), Arabisa (\u0631\u0650\u0646\u0652\u064A\u064F\u0648\u0645
+    \u201Crinyum\u201D), Fransesa (rh\xE9nium), Rusisa (\u0440\u0435\u043D\u0438\u0439
+    \u201Creniy\u201D), Indonesisa (renium), Doycisa (Rhenium), Niponsa (\u30EC\u30CB\u30A6\u30E0
+    \u201Creniumu\u201D), Telugusa (\u0C30\u0C40\u0C28\u0C3F\u0C2F\u0C02 \u201Criniyam\u201D),
+    Turkisa (renyum), Hangusa (\uB808\uB284 \u201Crenyum\u201D), Vyetnamsa (rheni),
+    Parsisa (\u0631\u0646\u06CC\u0648\u0645 \u201Crenyom\u201D), Swahilisa (reni),
+    Pilipinasa (reniyo)"
+...

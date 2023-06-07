@@ -1,0 +1,48 @@
+---
+term: desduayum
+slug: desduayum
+ipa: "desdua\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=desdua\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - twelveth
+  epo:
+  - - dekdua
+  - - dekdue
+  spa:
+  - - "d\xE9cimo segundo"
+search terms:
+  glb:
+  - desduayum
+  eng:
+  - twelveth
+  epo:
+  - dekdua
+  - dekdue
+  spa:
+  - "d\xE9cimo segundo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/dua">dua</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: desduayum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: twelveth
+    epo: dekdua; dekdue
+    spa: "d\xE9cimo segundo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + dua + -yum
+...

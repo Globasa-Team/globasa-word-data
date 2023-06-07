@@ -1,0 +1,50 @@
+---
+term: mali
+slug: mali
+ipa: "\u02C8mali"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mali&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Mali
+  epo:
+  - - Malio
+  spa:
+  - - "Mal\xED"
+search terms:
+  glb:
+  - mali
+  eng:
+  - mali
+  epo:
+  - malio
+  spa:
+  - "mal\xED"
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - Mali
+tags:
+- dexa
+raw data:
+  term: Mali
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Mali
+    epo: Malio
+    spa: "Mal\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Fransesa (Mali)
+...

@@ -1,0 +1,72 @@
+---
+term: aljebra
+slug: aljebra
+ipa: alˈd͡ʒebɾa
+ipa link: http://ipa-reader.xyz/?text=alˈd͡ʒebɾa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - algebra
+  epo:
+  - - algebro
+  spa:
+  - - álgebra
+search terms:
+  glb:
+  - aljebra
+  eng:
+  - algebra
+  epo:
+  - algebro
+  spa:
+  - álgebra
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - algebra
+  Espanisa:
+  - - álgebra
+  Fransesa:
+  - - algèbre
+  Rusisa:
+  - - алгебра
+  Doycisa:
+  - - Algebra
+  Indonesisa:
+  - - aljabar
+  Pilipinasa:
+  - - alhebra
+  Arabisa:
+  - - عِلْم الْجَبْر “ilm aljabr”
+    - جَبْر “jabr”
+  Turkisa:
+  - - cebir
+  Parsisa:
+  - - جبر “jabr”
+  Swahilisa:
+  - - aljebra
+raw data:
+  term: aljebra
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: algebra
+    epo: algebro
+    spa: álgebra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (algebra), Espanisa (álgebra), Fransesa (algèbre), Rusisa (алгебра),
+    Doycisa (Algebra), Indonesisa (aljabar), Pilipinasa (alhebra), Arabisa (عِلْم
+    الْجَبْر “ilm aljabr”, جَبْر “jabr”), Turkisa (cebir), Parsisa (جبر “jabr”), Swahilisa
+    (aljebra)
+...

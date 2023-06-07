@@ -1,0 +1,50 @@
+---
+term: supragi
+slug: supragi
+ipa: "su\u02C8p\u027Eagi"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8p\u027Eagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - put above
+    - uplift
+    - raise
+  epo:
+  - - meti supren
+  spa:
+  - - poner arriba
+search terms:
+  glb:
+  - supragi
+  eng:
+  - put above
+  - uplift
+  - raise
+  epo:
+  - meti supren
+  spa:
+  - poner arriba
+etymology_type: DERIVD
+etymology: <a href="../lexi/supra">supra</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: supragi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: put above, uplift, raise
+    epo: meti supren
+    spa: poner arriba
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: supra + -gi
+...

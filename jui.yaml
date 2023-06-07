@@ -1,0 +1,58 @@
+---
+term: jui
+slug: jui
+ipa: "\u02C8d\u0361\u0292ui"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ui&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - attention
+    - acknowledge
+  - - pay attention (to)
+  epo:
+  - - atento
+  - - atenti
+  spa:
+  - - "atenci\xF3n"
+  - - "poner atenci\xF3n (a)"
+search terms:
+  glb:
+  - jui
+  eng:
+  - attention
+  - acknowledge
+  - pay attention to
+  - pay attention
+  epo:
+  - atento
+  - atenti
+  spa:
+  - "atenci\xF3n"
+  - "poner atenci\xF3n a"
+  - "poner atenci\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jui
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: attention, acknowledge; pay attention (to)
+    epo: atento; atenti
+    spa: "atenci\xF3n; poner atenci\xF3n (a)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6CE8\u610F \u201Czh\xF9y\xEC\u201D), Hangusa (\uC8FC\uC758
+    \u201Cjuui\u201D), Niponsa (\u6CE8\u610F \u201Cch\u016Bi\u201D), Vyetnamsa (ch\xFA
+    \xFD)"
+...

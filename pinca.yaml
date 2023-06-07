@@ -1,0 +1,76 @@
+---
+term: pinca
+slug: pinca
+ipa: "\u02C8pint\u0361\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pint\u0361\u0283a&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - pinch
+  epo:
+  - - "pin\u0109o"
+  - - "pin\u0109i"
+  spa:
+  - - pellizco
+  - - pellizcar
+search terms:
+  glb:
+  - pinca
+  eng:
+  - pinch
+  epo:
+  - "pin\u0109o"
+  - "pin\u0109i"
+  spa:
+  - pellizco
+  - pellizcar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pinch
+    - pincer
+  Espanisa:
+  - - pinzar
+    - pinza
+  Fransesa:
+  - - pincer
+    - pince
+  Portugalsa:
+  - - "pin\xE7a"
+  Italisa:
+  - - pinza
+  Swahilisa:
+  - - finya
+  Niponsa:
+  - - "\u30DA\u30F3\u30C1 \u201Cpenci\u201D"
+  Hangusa:
+  - - "\uD39C\uCE58 \u201Cpenci\u201D"
+  Turisa:
+  - - pense
+  Parsisa:
+  - - "\u067E\u0646\u0633 \"pans\""
+raw data:
+  term: pinca
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: pinch
+    epo: "pin\u0109o; pin\u0109i"
+    spa: pellizco; pellizcar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (pinch, pincer), Espanisa (pinzar, pinza), Fransesa (pincer,
+    pince), Portugalsa (pin\xE7a), Italisa (pinza), Swahilisa (finya), Niponsa (\u30DA\u30F3\u30C1
+    \u201Cpenci\u201D), Hangusa (\uD39C\uCE58 \u201Cpenci\u201D), Turisa (pense),
+    Parsisa (\u067E\u0646\u0633 \"pans\")"
+...

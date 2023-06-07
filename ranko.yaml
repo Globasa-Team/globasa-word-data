@@ -1,0 +1,75 @@
+---
+term: ranko
+slug: ranko
+ipa: "\u02C8\u027Eanko"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eanko&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rank
+    - standing
+    - place
+    - position
+  epo:
+  - - rango
+  spa:
+  - - rango
+    - "posici\xF3n"
+search terms:
+  glb:
+  - ranko
+  eng:
+  - rank
+  - standing
+  - place
+  - position
+  epo:
+  - rango
+  spa:
+  - rango
+  - "posici\xF3n"
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Rang
+  Englisa:
+  - - rank
+  Espanisa:
+  - - rango
+  Fransesa:
+  - - rang
+  Rusisa:
+  - - "\u0440\u0430\u043D\u0433 \u201Crang\u201D"
+  Pilipinasa:
+  - - ranggo
+  Hindisa:
+  - - "\u0930\u0948\u0902\u0915 \u201Crank\u201D"
+  Telugusa:
+  - - "\u0C30\u0C4D\u0C2F\u0C3E\u0C02\u0C15\u0C4D \u201Crank\u201D"
+  Niponsa:
+  - - "\u30E9\u30F3\u30AF \u201Cranku\u201D"
+raw data:
+  term: ranko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rank, standing, place, position
+    epo: rango
+    spa: "rango, posici\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Rang), Englisa (rank), Espanisa (rango), Fransesa (rang), Rusisa
+    (\u0440\u0430\u043D\u0433 \u201Crang\u201D), Pilipinasa (ranggo), Hindisa (\u0930\u0948\u0902\u0915
+    \u201Crank\u201D), Telugusa (\u0C30\u0C4D\u0C2F\u0C3E\u0C02\u0C15\u0C4D \u201Crank\u201D),
+    Niponsa (\u30E9\u30F3\u30AF \u201Cranku\u201D)"
+...

@@ -1,0 +1,58 @@
+---
+term: krigiri
+slug: krigiri
+ipa: "k\u027Ei\u02C8gi\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Ei\u02C8gi\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cricket
+    - _Ensifera_
+  epo:
+  - - grilo
+  spa:
+  - - grillo
+    - _Ensifera_
+search terms:
+  glb:
+  - krigiri
+  eng:
+  - cricket
+  - ensifera
+  epo:
+  - grilo
+  spa:
+  - grillo
+  - ensifera
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+- koncun
+raw data:
+  term: krigiri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cricket, _Ensifera_
+    epo: grilo
+    spa: grillo, _Ensifera_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan, koncun
+  etymology: "Niponsa (\u87BD\u65AF \u201Ckirigirisu\u201D), Pilipinasa (kuliglig-lupa),
+    Englisa (cricket), Espanisa (grillo), Indonesisa (jangkrik), Fransesa (grillon),
+    Doycisa (Grille), Hangusa (\uADC0\uB69C\uB77C\uBBF8 \u201Cgwiturami\u201D), Parsisa
+    (\u062C\u06CC\u0631\u062C\u06CC\u0631\u06A9 \u201Cjirjirak\u201D); kwasilexi -
+    Fransesa (cri-cri), Niponsa (\u30EA\u30F3\u30EA\u30F3 \u201Crinrin\u201D), ji
+    maxya"
+...

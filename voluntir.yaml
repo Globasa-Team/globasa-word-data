@@ -1,0 +1,65 @@
+---
+term: voluntir
+slug: voluntir
+ipa: "volun\u02C8ti\u027E"
+ipa link: "http://ipa-reader.xyz/?text=volun\u02C8ti\u027E&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - volunteer
+  epo:
+  - - volontulado
+  - - proponi sin volontulo
+    - volontuli
+  spa:
+  - - voluntario
+  - - ofrecerse
+    - trabajar como voluntario
+search terms:
+  glb:
+  - voluntir
+  eng:
+  - volunteer
+  epo:
+  - volontulado
+  - proponi sin volontulo
+  - volontuli
+  spa:
+  - voluntario
+  - ofrecerse
+  - trabajar como voluntario
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - volunteer
+  Espanisa:
+  - - voluntario
+  Fransesa:
+  - - volontaire
+  Pilipinasa:
+  - - boluntaryo
+  Niponsa:
+  - - "\u30DC\u30E9\u30F3\u30C6\u30A3\u30A2 \u201Cborantia\u201D"
+raw data:
+  term: voluntir
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: volunteer
+    epo: volontulado; proponi sin volontulo, volontuli
+    spa: voluntario; ofrecerse, trabajar como voluntario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (volunteer), Espanisa (voluntario), Fransesa (volontaire), Pilipinasa
+    (boluntaryo), Niponsa (\u30DC\u30E9\u30F3\u30C6\u30A3\u30A2 \u201Cborantia\u201D)"
+...

@@ -1,0 +1,51 @@
+---
+term: loteri
+slug: loteri
+ipa: "lo\u02C8te\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=lo\u02C8te\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lottery
+  epo:
+  - - loterio
+  spa:
+  - - "loter\xEDa"
+search terms:
+  glb:
+  - loteri
+  eng:
+  - lottery
+  epo:
+  - loterio
+  spa:
+  - "loter\xEDa"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: loteri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lottery
+    epo: loterio
+    spa: "loter\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lottery), Espanisa (loter\xEDa), Fransesa (loterie), Rusisa
+    (\u043B\u043E\u0442\u0435\u0440\u0435\u044F \u201Clotereya\u201D), Doycisa (Lotterie),
+    Indonesisa (lotre, lotere), Pilipinasa (loteriya), Putunhwa (\u4E50\u900F \u201Cletow\u201D),
+    Hindisa (\u0932\u0949\u091F\u0930\u0940 \u201Clotri\", \u0932\u093E\u091F\u0930\u0940
+    \u201Clatri\u201D), Telugusa (\u0C32\u0C3E\u0C1F\u0C30\u0C40 \u201Clatari\u201D),
+    Turkisa (lotarya), Parsisa (\u0644\u0627\u062A\u0627\u0631\u06CC \u201Clatari\u201D)"
+...

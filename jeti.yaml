@@ -1,0 +1,55 @@
+---
+term: jeti
+slug: jeti
+ipa: "\u02C8d\u0361\u0292eti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292eti&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - throw
+  epo:
+  - - "\u0135eto"
+  - - "\u0135eti"
+  spa:
+  - - tiro
+    - lanzamiento
+  - - tirar
+    - lanzar
+search terms:
+  glb:
+  - jeti
+  eng:
+  - throw
+  epo:
+  - "\u0135eto"
+  - "\u0135eti"
+  spa:
+  - tiro
+  - lanzamiento
+  - tirar
+  - lanzar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jeti
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: throw
+    epo: "\u0135eto; \u0135eti"
+    spa: tiro, lanzamiento; tirar, lanzar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (projectile), Fransesa (jeter, projectile), Doycisa (Projektil),
+    Espanisa (proyectil), Italisa (getto, getti)
+...

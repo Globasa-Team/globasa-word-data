@@ -1,0 +1,48 @@
+---
+term: budaista
+slug: budaista
+ipa: "buda\u02C8ista"
+ipa link: "http://ipa-reader.xyz/?text=buda\u02C8ista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Buddhist
+  epo:
+  - - budhisto
+    - budaisto
+  spa:
+  - - budista
+search terms:
+  glb:
+  - budaista
+  eng:
+  - buddhist
+  epo:
+  - budhisto
+  - budaisto
+  spa:
+  - budista
+etymology_type: DERIVD
+etymology: <a href="../lexi/Buda">Buda</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: Budaista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Buddhist
+    epo: budhisto, budaisto
+    spa: budista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Buda + -ista
+...

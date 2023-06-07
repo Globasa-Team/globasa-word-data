@@ -1,0 +1,47 @@
+---
+term: libiyen
+slug: libiyen
+ipa: "libi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=libi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Libyan (person)
+  epo:
+  - - libiano
+  spa:
+  - - libio (_persona_)
+search terms:
+  glb:
+  - libiyen
+  eng:
+  - libyan person
+  - libyan
+  epo:
+  - libiano
+  spa:
+  - libio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Libi">Libi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Libiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Libyan (person)
+    epo: libiano
+    spa: libio (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Libi + -yen
+...

@@ -1,0 +1,74 @@
+---
+term: fereto
+slug: fereto
+ipa: feˈɾeto
+ipa link: http://ipa-reader.xyz/?text=feˈɾeto&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ferret
+    - _Mustela furo_
+  epo:
+  - - furo
+  spa:
+  - - hurón
+    - _Mustela furo_
+search terms:
+  glb:
+  - fereto
+  eng:
+  - ferret
+  - mustela furo
+  epo:
+  - furo
+  spa:
+  - hurón
+  - mustela furo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ferret
+  Fransesa:
+  - - furet
+  Doycisa:
+  - - Frettchen
+  Indonesisa:
+  - - ferret
+  Pilipinasa:
+  - - peret
+  Hindisa:
+  - - फ़ैरेट “feret”
+  Niponsa:
+  - - フェレット “fereto”
+  Turkisa:
+  - - feret
+  Hangusa:
+  - - 페럿 “perat”
+  Swahilisa:
+  - - fereti
+tags:
+- hewan
+raw data:
+  term: fereto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ferret, _Mustela furo_
+    epo: furo
+    spa: hurón, _Mustela furo_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (ferret), Fransesa (furet), Doycisa (Frettchen), Indonesisa (ferret),
+    Pilipinasa (peret), Hindisa (फ़ैरेट “feret”), Niponsa (フェレット “fereto”), Turkisa
+    (feret), Hangusa (페럿 “perat”), Swahilisa (fereti)
+...

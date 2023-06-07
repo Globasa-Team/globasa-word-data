@@ -1,0 +1,46 @@
+---
+term: bonlexi
+slug: bonlexi
+ipa: "bon\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=bon\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - euphemism
+  epo:
+  - - "e\u016Dfemismo"
+  spa:
+  - - eufemismo
+search terms:
+  glb:
+  - bonlexi
+  eng:
+  - euphemism
+  epo:
+  - "e\u016Dfemismo"
+  spa:
+  - eufemismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/lexi">lexi</a>
+raw data:
+  term: bonlexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: euphemism
+    epo: "e\u016Dfemismo"
+    spa: eufemismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bon- + lexi
+...

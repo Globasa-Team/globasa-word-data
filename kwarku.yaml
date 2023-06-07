@@ -1,0 +1,53 @@
+---
+term: kwarku
+slug: kwarku
+ipa: "\u02C8kwa\u027Eku"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kwa\u027Eku&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - quark
+  epo:
+  - - kvarko
+  spa:
+  - - cuark
+search terms:
+  glb:
+  - kwarku
+  eng:
+  - quark
+  epo:
+  - kvarko
+  spa:
+  - cuark
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kwarku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: quark
+    epo: kvarko
+    spa: cuark
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (quark), Espanisa, Fransesa, Doycisa, Swahilisa, Rusisa (\u043A\u0432\u0430\u0440\u043A
+    \u201Ckvark\u201D), Indonesisa (kuark), Turkisa, Pilipinasa (kwark), Putunhwa
+    (\u5938\u514B \u201Ckwako\u201D), Hindisa (\u0915\u094D\u0935\u093E\u0930\u094D\u0915
+    \u201Ckvark\u201D), Arabisa (\u0643\u064F\u0648\u064E\u0627\u0631\u0652\u0643\u200E
+    \u201Ckuwark\u201D), Niponsa (\u30AF\u30A9\u30FC\u30AF \u201Ckuwoku\u201D), Telugusa
+    (\u0C15\u0C4D\u0C35\u0C3E\u0C30\u0C4D\u0C15\u0C4D \u201Ckvark\u201D), Hangusa
+    (\uCFFC\uD06C (kwoku), Vyetnamsa (qu\u1EAFc), Parsisa (\u06A9\u0648\u0627\u0631\u06A9\u200E
+    \u201Ckuark\u201D)"
+...

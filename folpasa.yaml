@@ -1,0 +1,48 @@
+---
+term: folpasa
+slug: folpasa
+ipa: "fol\u02C8pasa"
+ipa link: "http://ipa-reader.xyz/?text=fol\u02C8pasa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - pass by
+  epo:
+  - - "la\u016Dpaso"
+  - - "la\u016Dpasi"
+  spa:
+  - - pasar por
+search terms:
+  glb:
+  - folpasa
+  eng:
+  - pass by
+  epo:
+  - "la\u016Dpaso"
+  - "la\u016Dpasi"
+  spa:
+  - pasar por
+etymology_type: DERIVD
+etymology: <a href="../lexi/fol-">fol-</a> + <a href="../lexi/pasa">pasa</a>
+raw data:
+  term: folpasa
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: pass by
+    epo: "la\u016Dpaso; la\u016Dpasi"
+    spa: pasar por
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fol- + pasa
+...

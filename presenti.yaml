@@ -1,0 +1,68 @@
+---
+term: presenti
+slug: presenti
+ipa: "p\u027Ee\u02C8senti"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Ee\u02C8senti&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - present
+    - here
+    - "there (_as opposed to \u201Caway\"_)"
+  epo:
+  - - "\u0109eestanta"
+  - - "\u0109eestante"
+  spa:
+  - - presente
+    - "aqu\xED"
+    - "all\xED (_no ausente_)"
+search terms:
+  glb:
+  - presenti
+  eng:
+  - present
+  - here
+  - there
+  epo:
+  - "\u0109eestanta"
+  - "\u0109eestante"
+  spa:
+  - presente
+  - "aqu\xED"
+  - "all\xED"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - present
+    - presence
+  Fransesa:
+  - - "pr\xE9sent"
+    - "pr\xE9sence"
+  Espanisa:
+  - - presente
+    - presencia
+antonyms:
+- awsenti
+raw data:
+  term: presenti
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: "present, here, there (_as opposed to \u201Caway\"_)"
+    epo: "\u0109eestanta; \u0109eestante"
+    spa: "presente, aqu\xED, all\xED (_no ausente_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: awsenti
+  example: ""
+  tags: ""
+  etymology: "Englisa (present, presence), Fransesa (pr\xE9sent, pr\xE9sence), Espanisa
+    (presente, presencia)"
+...

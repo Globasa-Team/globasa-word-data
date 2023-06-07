@@ -1,0 +1,46 @@
+---
+term: ozbekiyen
+slug: ozbekiyen
+ipa: "ozbeki\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=ozbeki\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Uzbek
+  epo:
+  - - uzbeko
+  spa:
+  - - uzbeko (_persona_)
+search terms:
+  glb:
+  - ozbekiyen
+  eng:
+  - uzbek
+  epo:
+  - uzbeko
+  spa:
+  - uzbeko
+etymology_type: DERIVD
+etymology: <a href="../lexi/Ozbeki">Ozbeki</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Ozbekiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Uzbek
+    epo: uzbeko
+    spa: uzbeko (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Ozbeki + -yen
+...

@@ -1,0 +1,48 @@
+---
+term: komunismo
+slug: komunismo
+ipa: "komu\u02C8nismo"
+ipa link: "http://ipa-reader.xyz/?text=komu\u02C8nismo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - communism
+  epo:
+  - - komunismo
+  spa:
+  - - comunismo
+search terms:
+  glb:
+  - komunismo
+  eng:
+  - communism
+  epo:
+  - komunismo
+  spa:
+  - comunismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/komun">komun</a> + <a href="../lexi/-ismo">-ismo</a>
+tags:
+- politi
+raw data:
+  term: komunismo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: communism
+    epo: komunismo
+    spa: comunismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: komun + -ismo
+...

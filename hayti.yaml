@@ -1,0 +1,52 @@
+---
+term: hayti
+slug: hayti
+ipa: "\u02C8xajti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xajti&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Haiti
+  epo:
+  - - Haitio
+  spa:
+  - - "Hait\xED"
+search terms:
+  glb:
+  - hayti
+  eng:
+  - haiti
+  epo:
+  - haitio
+  spa:
+  - "hait\xED"
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - "Ha\xEFti"
+  Haytikreol:
+  - - Ayiti
+tags:
+- dexa
+raw data:
+  term: Hayti
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Haiti
+    epo: Haitio
+    spa: "Hait\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Fransesa (Ha\xEFti), Haytikreol (Ayiti)"
+...

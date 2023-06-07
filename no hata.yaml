@@ -1,0 +1,48 @@
+---
+term: no hata
+slug: no hata
+ipa: "\u02C8no \u02C8xata"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8no \u02C8xata&voice=Ewa"
+status: false
+category: phrase
+word class: m
+trans:
+  eng:
+  - - not even
+  epo:
+  - - "ne e\u0109"
+  spa:
+  - - ni siquiera
+search terms:
+  glb:
+  - no hata
+  - "no"
+  - hata
+  eng:
+  - not even
+  epo:
+  - "ne e\u0109"
+  spa:
+  - ni siquiera
+etymology_type: DERIVD
+etymology: <a href="../lexi/hata">hata</a>, <a href="../lexi/no">no</a>
+raw data:
+  term: no hata
+  category: phrase
+  word class: m
+  status: false
+  trans:
+    eng: not even
+    epo: "ne e\u0109"
+    spa: ni siquiera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hata, no
+...

@@ -1,0 +1,49 @@
+---
+term: ji
+slug: ji
+ipa: "d\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i&voice=Ewa"
+status: true
+category: root
+word class: l
+trans:
+  eng:
+  - - and
+  epo:
+  - - kaj
+  spa:
+  - - "y"
+    - e
+search terms:
+  glb:
+  - ji
+  eng:
+  - and
+  epo:
+  - kaj
+  spa:
+  - "y"
+  - e
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ji
+  category: root
+  word class: l
+  status: true
+  trans:
+    eng: and
+    epo: kaj
+    spa: y, e
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u548C \u201Ch\xE9\u201D \u53CA \u201Cj\xED\u201D), Espanisa
+    (y), Rusisa (\u0438 \u201Ci\u201D)"
+...

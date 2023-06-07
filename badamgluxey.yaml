@@ -1,0 +1,49 @@
+---
+term: badamgluxey
+slug: badamgluxey
+ipa: "badamglu\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=badamglu\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - almond milk
+  epo:
+  - - migdallakto
+    - migdala lakto
+  spa:
+  - - leche de almendras
+search terms:
+  glb:
+  - badamgluxey
+  eng:
+  - almond milk
+  epo:
+  - migdallakto
+  - migdala lakto
+  spa:
+  - leche de almendras
+etymology_type: DERIVD
+etymology: <a href="../lexi/badam">badam</a> + <a href="../lexi/glu">glu</a> + <a
+  href="../lexi/-xey">-xey</a>
+raw data:
+  term: badamgluxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: almond milk
+    epo: migdallakto, migdala lakto
+    spa: leche de almendras
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: badam + glu + -xey
+...

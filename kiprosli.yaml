@@ -1,0 +1,46 @@
+---
+term: kiprosli
+slug: kiprosli
+ipa: "ki\u02C8p\u027Eosli"
+ipa link: "http://ipa-reader.xyz/?text=ki\u02C8p\u027Eosli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Cypriot
+  epo:
+  - - kipra
+  spa:
+  - - chipriota
+search terms:
+  glb:
+  - kiprosli
+  eng:
+  - cypriot
+  epo:
+  - kipra
+  spa:
+  - chipriota
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kipros">Kipros</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Kiprosli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Cypriot
+    epo: kipra
+    spa: chipriota
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kipros + -li
+...

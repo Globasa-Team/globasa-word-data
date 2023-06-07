@@ -1,0 +1,80 @@
+---
+term: tawa
+slug: tawa
+ipa: "\u02C8tawa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tawa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pan
+    - frying pan
+    - frypan
+    - skillet
+  epo:
+  - - pato
+  spa:
+  - - "sart\xE9n"
+  deu:
+  - - Pfanne
+    - Bratpfanne
+  fra:
+  - - "po\xEAle (cuisine)"
+  rus:
+  - - "\u0441\u043A\u043E\u0432\u043E\u0440\u043E\u0434\u0430"
+  zho:
+  - - "\u5E73\u5E95\u9505"
+search terms:
+  glb:
+  - tawa
+  eng:
+  - pan
+  - frying pan
+  - frypan
+  - skillet
+  epo:
+  - pato
+  spa:
+  - "sart\xE9n"
+  deu:
+  - pfanne
+  - bratpfanne
+  fra:
+  - "po\xEAle cuisine"
+  - "po\xEAle"
+  rus:
+  - "\u0441\u043A\u043E\u0432\u043E\u0440\u043E\u0434\u0430"
+  zho:
+  - "\u5E73\u5E95\u9505"
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0924\u0935\u093E \u201Ctava\u201D"
+  Turkisa:
+  - - tava
+  Parsisa:
+  - - "\u062A\u0627\u0648\u0647 \u201Ctave\u201D"
+  Swahilisa:
+  - - tawa
+raw data:
+  term: tawa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pan, frying pan, frypan, skillet
+    epo: pato
+    spa: "sart\xE9n"
+    deu: Pfanne, Bratpfanne
+    fra: "po\xEAle (cuisine)"
+    rus: "\u0441\u043A\u043E\u0432\u043E\u0440\u043E\u0434\u0430"
+    zho: "\u5E73\u5E95\u9505"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0924\u0935\u093E \u201Ctava\u201D), Turkisa (tava), Parsisa
+    (\u062A\u0627\u0648\u0647 \u201Ctave\u201D), Swahilisa (tawa)"
+...

@@ -1,0 +1,48 @@
+---
+term: dodukuli
+slug: dodukuli
+ipa: "dodu\u02C8kuli"
+ipa link: "http://ipa-reader.xyz/?text=dodu\u02C8kuli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - moral (_of or relating to morality_)
+  epo:
+  - - "morala (_pri a\u016D rilata al moralo_)"
+  - - morale
+  spa:
+  - - moral (_relacionado con la moralidad_)
+search terms:
+  glb:
+  - dodukuli
+  eng:
+  - moral
+  epo:
+  - morala
+  - morale
+  spa:
+  - moral
+etymology_type: DERIVD
+etymology: <a href="../lexi/doduku">doduku</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: dodukuli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: moral (_of or relating to morality_)
+    epo: "morala (_pri a\u016D rilata al moralo_); morale"
+    spa: moral (_relacionado con la moralidad_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: doduku + -li
+...

@@ -1,0 +1,50 @@
+---
+term: anjengi
+slug: anjengi
+ipa: "an\u02C8d\u0361\u0292engi"
+ipa link: "http://ipa-reader.xyz/?text=an\u02C8d\u0361\u0292engi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - secure
+    - save
+  epo:
+  - - sekurigo
+  - - sekurigi
+  spa:
+  - - asegurar
+search terms:
+  glb:
+  - anjengi
+  eng:
+  - secure
+  - save
+  epo:
+  - sekurigo
+  - sekurigi
+  spa:
+  - asegurar
+etymology_type: DERIVD
+etymology: <a href="../lexi/anjen">anjen</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: anjengi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: secure, save
+    epo: sekurigo; sekurigi
+    spa: asegurar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: anjen + -gi
+...

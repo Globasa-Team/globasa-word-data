@@ -1,0 +1,69 @@
+---
+term: waziri
+slug: waziri
+ipa: "wa\u02C8zi\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=wa\u02C8zi\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - minister
+    - secretary
+  epo:
+  - - ministro
+    - "(\u015Dtata) sekretario"
+  spa:
+  - - ministro
+    - secretario
+search terms:
+  glb:
+  - waziri
+  eng:
+  - minister
+  - secretary
+  epo:
+  - ministro
+  - "\u015Dtata sekretario"
+  - sekretario
+  spa:
+  - ministro
+  - secretario
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0935\u091C\u093C\u0940\u0930 \"vazir\""
+  Arabisa:
+  - - "\u0648\u064E\u0632\u0650\u064A\u0631 \"wazir\""
+  Indonesisa:
+  - - wazir - wazirikef
+  Turkisa:
+  - - vezir
+  Parsisa:
+  - - "\u0648\u0632\u06CC\u0631 \"vazir\""
+  Swahilisa:
+  - - waziri
+tags:
+- insan
+raw data:
+  term: waziri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: minister, secretary
+    epo: "ministro, (\u015Dtata) sekretario"
+    spa: ministro, secretario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: "Hindisa (\u0935\u091C\u093C\u0940\u0930 \"vazir\"), Arabisa (\u0648\u064E\u0632\u0650\u064A\u0631
+    \"wazir\"), Indonesisa (wazir - wazirikef), Turkisa (vezir), Parsisa (\u0648\u0632\u06CC\u0631
+    \"vazir\"), Swahilisa (waziri)"
+...

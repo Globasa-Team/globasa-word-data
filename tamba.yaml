@@ -1,0 +1,61 @@
+---
+term: tamba
+slug: tamba
+ipa: "\u02C8tamba"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tamba&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - copper
+  epo:
+  - - kupro
+  spa:
+  - - cobre
+    - Cu
+search terms:
+  glb:
+  - tamba
+  eng:
+  - copper
+  epo:
+  - kupro
+  spa:
+  - cobre
+  - cu
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0924\u093E\u0902\u092C\u0947 \u201Ctambe\u201D"
+    - "\u0924\u093E\u0901\u092C\u093E \u201Ctamba\u201D"
+  Indonesisa:
+  - - tembaga
+  Telugusa:
+  - - "\u0C24\u0C3E\u0C2E\u0C4D\u0C30\u0C2E\u0C41 \u201Ctamramu\u201D"
+  Pilipinasa:
+  - - tumbaga
+tags:
+- kimikali monlari
+raw data:
+  term: tamba
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: copper
+    epo: kupro
+    spa: cobre, Cu
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Hindisa (\u0924\u093E\u0902\u092C\u0947 \u201Ctambe\u201D, \u0924\u093E\u0901\u092C\u093E
+    \u201Ctamba\u201D), Indonesisa (tembaga), Telugusa (\u0C24\u0C3E\u0C2E\u0C4D\u0C30\u0C2E\u0C41
+    \u201Ctamramu\u201D), Pilipinasa (tumbaga)"
+...

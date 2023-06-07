@@ -1,0 +1,56 @@
+---
+term: memesa
+slug: memesa
+ipa: "me\u02C8mesa"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8mesa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - meh
+    - bah
+  epo:
+  - - "\u015Dafbleko"
+    - beo
+  - - "\u015Dafbleki"
+    - bei
+  spa:
+  - - balido
+  - - balar
+search terms:
+  glb:
+  - memesa
+  eng:
+  - meh
+  - bah
+  epo:
+  - "\u015Dafbleko"
+  - beo
+  - "\u015Dafbleki"
+  - bei
+  spa:
+  - balido
+  - balar
+etymology_type: DERIVD
+etymology: <a href="../lexi/meme">meme</a> + <a href="../lexi/-sa">-sa</a>
+raw data:
+  term: memesa
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: meh, bah
+    epo: "\u015Dafbleko, beo; \u015Dafbleki, bei"
+    spa: balido; balar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: meme + -sa
+...

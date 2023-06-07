@@ -1,0 +1,59 @@
+---
+term: neneskoldo
+slug: neneskoldo
+ipa: "nenes\u02C8koldo"
+ipa link: "http://ipa-reader.xyz/?text=nenes\u02C8koldo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - uneducated
+    - unschooled
+  epo:
+  - - lenigita
+    - edukita
+    - instruita
+  - - lenigite
+    - edukite
+    - instruite
+  spa:
+  - - ineducado
+search terms:
+  glb:
+  - neneskoldo
+  eng:
+  - uneducated
+  - unschooled
+  epo:
+  - lenigita
+  - edukita
+  - instruita
+  - lenigite
+  - edukite
+  - instruite
+  spa:
+  - ineducado
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/eskol">eskol</a> + <a
+  href="../lexi/-do">-do</a>
+raw data:
+  term: neneskoldo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: uneducated, unschooled
+    epo: lenigita, edukita, instruita; lenigite, edukite, instruite
+    spa: ineducado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + eskol + -do
+...

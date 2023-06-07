@@ -1,0 +1,71 @@
+---
+term: ritmo
+slug: ritmo
+ipa: "\u02C8\u027Eitmo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eitmo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rhythm
+  epo:
+  - - ritmo
+  spa:
+  - - ritmo
+search terms:
+  glb:
+  - ritmo
+  eng:
+  - rhythm
+  epo:
+  - ritmo
+  spa:
+  - ritmo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - "rhythm \u201Cridm\u201D"
+  Espanisa:
+  - - ritmo
+  Fransesa:
+  - - "rythme \u201Critm\u201D"
+  Rusisa:
+  - - "\u0440\u0438\u0442\u043C \u201Critm\u201D"
+  Indonesisa:
+  - - ritme
+  Doycisa:
+  - - Rhythmus
+  Niponsa:
+  - - "\u30EA\u30BA\u30E0 \u201Crizumu\u201D"
+  Turkisa:
+  - - ritim
+    - ritm
+  Hangusa:
+  - - "\uB9AC\uB4EC \u201Cridum\u201D"
+  Parsisa:
+  - - "\u0631\u06CC\u062A\u0645 \u201Critm\u201D"
+raw data:
+  term: ritmo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rhythm
+    epo: ritmo
+    spa: ritmo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (rhythm \u201Cridm\u201D), Espanisa (ritmo), Fransesa (rythme
+    \u201Critm\u201D), Rusisa (\u0440\u0438\u0442\u043C \u201Critm\u201D), Indonesisa
+    (ritme), Doycisa (Rhythmus), Niponsa (\u30EA\u30BA\u30E0 \u201Crizumu\u201D),
+    Turkisa (ritim, ritm), Hangusa (\uB9AC\uB4EC \u201Cridum\u201D), Parsisa (\u0631\u06CC\u062A\u0645
+    \u201Critm\u201D)"
+...

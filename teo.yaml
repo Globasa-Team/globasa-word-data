@@ -1,0 +1,70 @@
+---
+term: teo
+slug: teo
+ipa: "\u02C8teo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8teo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - god
+    - God
+  epo:
+  - - dio
+  spa:
+  - - dios
+    - Dios
+search terms:
+  glb:
+  - teo
+  eng:
+  - god
+  epo:
+  - dio
+  spa:
+  - dios
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - theology
+    - atheist
+  Fransesa:
+  - - "th\xE9ologie"
+  Doycisa:
+  - - Theologie
+  Rusisa:
+  - - "\u0442\u0435\u043E\u043B\u043E\u0433\u0438\u044F \u201Cteologiya\u201D"
+  Espanisa:
+  - - "teolog\xEDa"
+  Indonesisa:
+  - - teologi
+  Pilipinasa:
+  - - teolohiya
+  Turkisa:
+  - - teoloji
+tags:
+- dini
+raw data:
+  term: teo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: god, God
+    epo: dio
+    spa: dios, Dios
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: "Englisa (theology, atheist), Fransesa (th\xE9ologie), Doycisa (Theologie),
+    Rusisa (\u0442\u0435\u043E\u043B\u043E\u0433\u0438\u044F \u201Cteologiya\u201D),
+    Espanisa (teolog\xEDa), Indonesisa (teologi), Pilipinasa (teolohiya), Turkisa
+    (teoloji)"
+...

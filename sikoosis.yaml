@@ -1,0 +1,48 @@
+---
+term: sikoosis
+slug: sikoosis
+ipa: "sikoo\u02C8sis"
+ipa link: "http://ipa-reader.xyz/?text=sikoo\u02C8sis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - psychosis
+  epo:
+  - - psikozo
+    - "psi\u0125ozo"
+  spa:
+  - - psicosis
+search terms:
+  glb:
+  - sikoosis
+  eng:
+  - psychosis
+  epo:
+  - psikozo
+  - "psi\u0125ozo"
+  spa:
+  - psicosis
+etymology_type: DERIVD
+etymology: <a href="../lexi/siko">siko</a> + <a href="../lexi/-osis">-osis</a>
+raw data:
+  term: sikoosis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: psychosis
+    epo: "psikozo, psi\u0125ozo"
+    spa: psicosis
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: siko + -osis
+...

@@ -1,0 +1,50 @@
+---
+term: carmedo
+slug: carmedo
+ipa: "t\u0361\u0283a\u027E\u02C8medo"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283a\u027E\u02C8medo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - charmed
+    - enchanted
+  epo:
+  - - "\u0109armita"
+  - - "\u0109armite"
+  spa:
+  - - encantado
+search terms:
+  glb:
+  - carmedo
+  eng:
+  - charmed
+  - enchanted
+  epo:
+  - "\u0109armita"
+  - "\u0109armite"
+  spa:
+  - encantado
+etymology_type: DERIVD
+etymology: <a href="../lexi/carme">carme</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: carmedo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: charmed, enchanted
+    epo: "\u0109armita; \u0109armite"
+    spa: encantado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: carme + -do
+...

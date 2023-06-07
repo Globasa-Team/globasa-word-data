@@ -1,0 +1,68 @@
+---
+term: kampi
+slug: kampi
+ipa: "\u02C8kampi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kampi&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - camping
+  - - camp
+  epo:
+  - - kampado
+    - bivako
+    - tendumado
+  - - kampi
+    - bivaki
+    - tendumi
+  spa:
+  - - _camping_
+    - acampada
+    - campamento
+  - - acampar
+search terms:
+  glb:
+  - kampi
+  eng:
+  - camping
+  - camp
+  epo:
+  - kampado
+  - bivako
+  - tendumado
+  - kampi
+  - bivaki
+  - tendumi
+  spa:
+  - camping
+  - acampada
+  - campamento
+  - acampar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kampi
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: camping; camp
+    epo: kampado, bivako, tendumado; kampi, bivaki, tendumi
+    spa: _camping_, acampada, campamento; acampar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (camp), Fransesa (camp), Espanisa (campamento), Indonesisa (kamp),
+    Pilipinasa (kampo), Niponsa (\u30AD\u30E3\u30F3\u30D7 \u201Ckyanpu\u201D), Hangusa
+    (\uCEA0\uD504 \u201Ckaempeu\u201D), Hindisa (\u0915\u0948\u0902\u092A \u201Ckaimp\u201D),
+    Swahilisa (kambi), Parsisa (\u06A9\u0645\u067E\u200E \u201Ckamp\u201D), Turkisa
+    (kamp)"
+...

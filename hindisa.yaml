@@ -1,0 +1,50 @@
+---
+term: hindisa
+slug: hindisa
+ipa: "xin\u02C8disa"
+ipa link: "http://ipa-reader.xyz/?text=xin\u02C8disa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Hindi (language)
+  epo:
+  - - la hindia (lingvo)
+  spa:
+  - - idioma Hindi
+search terms:
+  glb:
+  - hindisa
+  eng:
+  - hindi language
+  - hindi
+  epo:
+  - la hindia lingvo
+  - la hindia
+  spa:
+  - idioma hindi
+etymology_type: DERIVD
+etymology: <a href="../lexi/Hindisa">Hindisa</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Hindisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Hindi (language)
+    epo: la hindia (lingvo)
+    spa: idioma Hindi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Hindisa + -sa
+...

@@ -1,0 +1,50 @@
+---
+term: lenterna
+slug: lenterna
+ipa: "len\u02C8te\u027Ena"
+ipa link: "http://ipa-reader.xyz/?text=len\u02C8te\u027Ena&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lantern
+  epo:
+  - - lanterno
+  spa:
+  - - farol
+search terms:
+  glb:
+  - lenterna
+  eng:
+  - lantern
+  epo:
+  - lanterno
+  spa:
+  - farol
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lenterna
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lantern
+    epo: lanterno
+    spa: farol
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lantern), Fransesa (lanterne), Doycisa (Lanterne), Espansia
+    (linterna), Indonesisa (lenterna), Hindisa (\u0932\u093E\u0932\u091F\u0947\u0928
+    \u201Clalten\u201D), Niponsa (\u30E9\u30F3\u30BF\u30F3 \u201Crantan\u201D), Telugusa
+    (\u0C32\u0C3E\u0C02\u0C24\u0C30\u0C41 \u201Clantaru\u201D), Hangusa (\uB79C\uD134
+    \u201Clenton\u201D)"
+...

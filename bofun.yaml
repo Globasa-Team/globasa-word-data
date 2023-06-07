@@ -1,0 +1,54 @@
+---
+term: bofun
+slug: bofun
+ipa: boˈfun
+ipa link: http://ipa-reader.xyz/?text=boˈfun&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - storm
+  epo:
+  - - tempesto
+    - ŝtormo
+  spa:
+  - - tormenta
+search terms:
+  glb:
+  - bofun
+  eng:
+  - storm
+  epo:
+  - tempesto
+  - ŝtormo
+  spa:
+  - tormenta
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 暴风 “bàofēng”
+  Niponsa:
+  - - 暴風 “bōfū”
+  Hangusa:
+  - - 폭풍 “pogpung”
+raw data:
+  term: bofun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: storm
+    epo: tempesto, ŝtormo
+    spa: tormenta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (暴风 “bàofēng”), Niponsa (暴風 “bōfū”), Hangusa (폭풍 “pogpung”)
+...

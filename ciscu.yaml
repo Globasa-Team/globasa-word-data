@@ -1,0 +1,48 @@
+---
+term: ciscu
+slug: ciscu
+ipa: "\u02C8t\u0361\u0283ist\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u0361\u0283ist\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - get on this side of
+    - come to this side of
+  epo:
+  - - "veni al \u0109i tiu flanko"
+  spa:
+  - - hacerse a este lado
+search terms:
+  glb:
+  - ciscu
+  eng:
+  - get on this side of
+  - come to this side of
+  epo:
+  - "veni al \u0109i tiu flanko"
+  spa:
+  - hacerse a este lado
+etymology_type: DERIVD
+etymology: <a href="../lexi/cis">cis</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: ciscu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: get on this side of, come to this side of
+    epo: "veni al \u0109i tiu flanko"
+    spa: hacerse a este lado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cis + -cu
+...

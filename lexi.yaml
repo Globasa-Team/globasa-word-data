@@ -1,0 +1,61 @@
+---
+term: lexi
+slug: lexi
+ipa: "\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8le\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - word
+    - term
+  epo:
+  - - vorto
+  - - vortigi
+    - vortumi
+  spa:
+  - - palabra
+    - "t\xE9rmino"
+  - - expresar
+search terms:
+  glb:
+  - lexi
+  eng:
+  - word
+  - term
+  epo:
+  - vorto
+  - vortigi
+  - vortumi
+  spa:
+  - palabra
+  - "t\xE9rmino"
+  - expresar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- gramati
+raw data:
+  term: lexi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: word, term
+    epo: vorto; vortigi, vortumi
+    spa: "palabra, t\xE9rmino; expresar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gramati
+  etymology: "Englisa (lexicon, lexical), Fransesa (lexical), Doycisa (lexikalisch),
+    Rusisa (\u043B\u0435\u043A\u0441\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u201Cleksiceskiy\u201D),
+    Espanisa (l\xE9xico), Portugalsa (l\xE9xico), Pilipinasa (leksiko, leksikograpiya),
+    Niponsa (-\u8A5E \u201C-xi\u201D)"
+...

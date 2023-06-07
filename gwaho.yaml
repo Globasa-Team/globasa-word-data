@@ -1,0 +1,53 @@
+---
+term: gwaho
+slug: gwaho
+ipa: ˈgwaxo
+ipa link: http://ipa-reader.xyz/?text=ˈgwaxo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - parenthesis
+    - parentheses
+  epo:
+  - - parentezo
+  spa:
+  - - paréntesis
+search terms:
+  glb:
+  - gwaho
+  eng:
+  - parenthesis
+  - parentheses
+  epo:
+  - parentezo
+  spa:
+  - paréntesis
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 括号 “guāhào”
+    - 括弧 “guāhú”
+  Hangusa:
+  - - 괄호 “gwalho”
+raw data:
+  term: gwaho
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: parenthesis, parentheses
+    epo: parentezo
+    spa: paréntesis
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (括号 “guāhào”, 括弧 “guāhú”), Hangusa (괄호 “gwalho”)
+...

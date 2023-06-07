@@ -1,0 +1,50 @@
+---
+term: yongudo
+slug: yongudo
+ipa: "jon\u02C8gudo"
+ipa link: "http://ipa-reader.xyz/?text=jon\u02C8gudo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - used
+    - second-hand
+  epo:
+  - - uzita
+  - - uzite
+  spa:
+  - - usado
+search terms:
+  glb:
+  - yongudo
+  eng:
+  - used
+  - second-hand
+  epo:
+  - uzita
+  - uzite
+  spa:
+  - usado
+etymology_type: DERIVD
+etymology: <a href="../lexi/yongu">yongu</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: yongudo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: used, second-hand
+    epo: uzita; uzite
+    spa: usado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yongu + -do
+...

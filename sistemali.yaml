@@ -1,0 +1,50 @@
+---
+term: sistemali
+slug: sistemali
+ipa: "siste\u02C8mali"
+ipa link: "http://ipa-reader.xyz/?text=siste\u02C8mali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - systemic
+  - - systemically
+  epo:
+  - - sistema
+  - - sisteme
+  spa:
+  - - "sist\xE9mico"
+search terms:
+  glb:
+  - sistemali
+  eng:
+  - systemic
+  - systemically
+  epo:
+  - sistema
+  - sisteme
+  spa:
+  - "sist\xE9mico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sistema">sistema</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: sistemali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: systemic; systemically
+    epo: sistema; sisteme
+    spa: "sist\xE9mico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sistema + -li
+...

@@ -1,0 +1,56 @@
+---
+term: juioko
+slug: juioko
+ipa: "d\u0361\u0292ui\u02C8oko"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292ui\u02C8oko&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - observe
+    - look
+    - watch
+  epo:
+  - - observo
+    - spektado
+  - - observi
+    - spekti
+  spa:
+  - - observar
+search terms:
+  glb:
+  - juioko
+  eng:
+  - observe
+  - look
+  - watch
+  epo:
+  - observo
+  - spektado
+  - observi
+  - spekti
+  spa:
+  - observar
+etymology_type: DERIVD
+etymology: <a href="../lexi/jui-">jui-</a> + <a href="../lexi/oko">oko</a>
+raw data:
+  term: juioko
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: observe, look, watch
+    epo: observo, spektado; observi, spekti
+    spa: observar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jui- + oko
+...

@@ -1,0 +1,47 @@
+---
+term: maximumya
+slug: maximumya
+ipa: "ma\u0283i\u02C8mumja"
+ipa link: "http://ipa-reader.xyz/?text=ma\u0283i\u02C8mumja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (the) maximum
+  epo:
+  - - maksimumo
+  spa:
+  - - "m\xE1ximo"
+search terms:
+  glb:
+  - maximumya
+  eng:
+  - the maximum
+  - maximum
+  epo:
+  - maksimumo
+  spa:
+  - "m\xE1ximo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/maximum">maximum</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: maximumya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (the) maximum
+    epo: maksimumo
+    spa: "m\xE1ximo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: maximum + -ya
+...

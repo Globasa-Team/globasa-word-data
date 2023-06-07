@@ -1,0 +1,50 @@
+---
+term: itehamdo
+slug: itehamdo
+ipa: "ite\u02C8xamdo"
+ipa link: "http://ipa-reader.xyz/?text=ite\u02C8xamdo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - charged
+    - accused
+  epo:
+  - - akuzita
+  - - akuzite
+  spa:
+  - - acusado
+search terms:
+  glb:
+  - itehamdo
+  eng:
+  - charged
+  - accused
+  epo:
+  - akuzita
+  - akuzite
+  spa:
+  - acusado
+etymology_type: DERIVD
+etymology: <a href="../lexi/iteham">iteham</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: itehamdo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: charged, accused
+    epo: akuzita; akuzite
+    spa: acusado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: iteham + -do
+...

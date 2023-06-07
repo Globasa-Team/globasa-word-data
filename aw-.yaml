@@ -1,0 +1,50 @@
+---
+term: aw-
+slug: aw-
+ipa: "\u02C8aw-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8aw-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - away
+  epo:
+  - - for-
+  spa:
+  - - lejos
+    - fuera
+search terms:
+  glb:
+  - aw-
+  eng:
+  - away
+  epo:
+  - for-
+  spa:
+  - lejos
+  - fuera
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/awsenti">awsenti</a>.
+antonyms:
+- pre-
+raw data:
+  term: aw-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: away
+    epo: for-
+    spa: lejos, fuera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: pre-
+  example: ""
+  tags: ""
+  etymology: Am oko _awsenti_.
+...

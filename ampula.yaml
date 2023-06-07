@@ -1,0 +1,85 @@
+---
+term: ampula
+slug: ampula
+ipa: amˈpula
+ipa link: http://ipa-reader.xyz/?text=amˈpula&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ampoule
+    - ampule
+    - ampul
+  epo:
+  - - ampolo
+  spa:
+  - - ampolla
+  deu:
+  - - Ampulle
+search terms:
+  glb:
+  - ampula
+  eng:
+  - ampoule
+  - ampule
+  - ampul
+  epo:
+  - ampolo
+  spa:
+  - ampolla
+  deu:
+  - ampulle
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ampoule
+  Espanisa:
+  - - ampolla
+  Fransesa:
+  - - ampoule
+  Rusisa:
+  - - ампула “ampula”
+  Doycisa:
+  - - Ampulle
+  Indonesisa:
+  - - ampul
+  Putunhwa:
+  - - 安瓿 “anbu”
+  Hindisa:
+  - - एम्प्यूल “empyul”
+  Arabisa:
+  - - أَمْبُولَة “ambula”
+  Niponsa:
+  - - アンプル “ampuru”
+  Turkisa:
+  - - ampul
+  Hangusa:
+  - - 앰풀 “empul”
+  Vyetnamsa:
+  - - ămpun
+  Parsisa:
+  - - آمپول “ampul”
+raw data:
+  term: ampula
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ampoule, ampule, ampul
+    epo: ampolo
+    spa: ampolla
+    deu: Ampulle
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (ampoule), Espanisa (ampolla), Fransesa (ampoule), Rusisa (ампула
+    “ampula”), Doycisa (Ampulle), Indonesisa (ampul), Putunhwa (安瓿 “anbu”), Hindisa
+    (एम्प्यूल “empyul”), Arabisa (أَمْبُولَة “ambula”), Niponsa (アンプル “ampuru”), Turkisa
+    (ampul), Hangusa (앰풀 “empul”), Vyetnamsa (ămpun), Parsisa (آمپول “ampul”)
+...

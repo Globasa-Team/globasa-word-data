@@ -1,0 +1,46 @@
+---
+term: niniya
+slug: niniya
+ipa: "ni\u02C8nija"
+ipa link: "http://ipa-reader.xyz/?text=ni\u02C8nija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - childhood
+  epo:
+  - - infaneco
+  spa:
+  - - infancia
+search terms:
+  glb:
+  - niniya
+  eng:
+  - childhood
+  epo:
+  - infaneco
+  spa:
+  - infancia
+etymology_type: DERIVD
+etymology: <a href="../lexi/nini">nini</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: niniya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: childhood
+    epo: infaneco
+    spa: infancia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nini + -ya
+...

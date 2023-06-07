@@ -1,0 +1,46 @@
+---
+term: ekwadorli
+slug: ekwadorli
+ipa: "ekwa\u02C8do\u027Eli"
+ipa link: "http://ipa-reader.xyz/?text=ekwa\u02C8do\u027Eli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Ecuadorian
+  epo:
+  - - ekvadora
+  spa:
+  - - ecuatoriano
+search terms:
+  glb:
+  - ekwadorli
+  eng:
+  - ecuadorian
+  epo:
+  - ekvadora
+  spa:
+  - ecuatoriano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Ekwador">Ekwador</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Ekwadorli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Ecuadorian
+    epo: ekvadora
+    spa: ecuatoriano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Ekwador + -li
+...

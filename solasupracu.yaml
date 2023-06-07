@@ -1,0 +1,51 @@
+---
+term: solasupracu
+slug: solasupracu
+ipa: "solasu\u02C8p\u027Eat\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=solasu\u02C8p\u027Eat\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - sunrise
+    - dawn
+  epo:
+  - - "sunlevi\u011Do"
+  - - "sunlevi\u011Di"
+  spa:
+  - - salida del sol
+search terms:
+  glb:
+  - solasupracu
+  eng:
+  - sunrise
+  - dawn
+  epo:
+  - "sunlevi\u011Do"
+  - "sunlevi\u011Di"
+  spa:
+  - salida del sol
+etymology_type: DERIVD
+etymology: <a href="../lexi/sola">sola</a> + <a href="../lexi/supra">supra</a> + <a
+  href="../lexi/-cu">-cu</a>
+raw data:
+  term: solasupracu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: sunrise, dawn
+    epo: "sunlevi\u011Do; sunlevi\u011Di"
+    spa: salida del sol
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sola + supra + -cu
+...

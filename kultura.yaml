@@ -1,0 +1,50 @@
+---
+term: kultura
+slug: kultura
+ipa: "kul\u02C8tu\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=kul\u02C8tu\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - culture
+  epo:
+  - - kulturo
+  spa:
+  - - cultura
+search terms:
+  glb:
+  - kultura
+  eng:
+  - culture
+  epo:
+  - kulturo
+  spa:
+  - cultura
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kultura
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: culture
+    epo: kulturo
+    spa: cultura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (culture, cultural), Fransesa (culture), Doycisa (Kultur), Rusisa
+    (\u043A\u0443\u043B\u044C\u0442\u0443\u0440\u0430 \u201Ckultura\u201D), Espanisa
+    (cultura), Niponsa (\u30AB\u30EB\u30C1\u30E3\u30FC \u201Ckaruca\u201D), Turkisa
+    (k\xFClt\xFCr), Indonesisa (kultural), Pilipinasa (kultura), Parsisa (\u06A9\u0648\u0644\u062A\u0648\u0631\u200E
+    \u201Ckultur\u201D)"
+...

@@ -1,0 +1,50 @@
+---
+term: galaksili
+slug: galaksili
+ipa: "galak\u02C8sili"
+ipa link: "http://ipa-reader.xyz/?text=galak\u02C8sili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - galactic
+    - galactically
+  epo:
+  - - galaksia
+  - - galaksie
+  spa:
+  - - "gal\xE1ctico"
+search terms:
+  glb:
+  - galaksili
+  eng:
+  - galactic
+  - galactically
+  epo:
+  - galaksia
+  - galaksie
+  spa:
+  - "gal\xE1ctico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/galaksi">galaksi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: galaksili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: galactic, galactically
+    epo: galaksia; galaksie
+    spa: "gal\xE1ctico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: galaksi + -li
+...

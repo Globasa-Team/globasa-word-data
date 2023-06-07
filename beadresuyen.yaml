@@ -1,0 +1,49 @@
+---
+term: beadresuyen
+slug: beadresuyen
+ipa: "bead\u027Eesu\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=bead\u027Eesu\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - addressee
+  epo:
+  - - adresato
+    - adresito
+  spa:
+  - - destinatario
+search terms:
+  glb:
+  - beadresuyen
+  eng:
+  - addressee
+  epo:
+  - adresato
+  - adresito
+  spa:
+  - destinatario
+etymology_type: DERIVD
+etymology: <a href="../lexi/be-">be-</a> + <a href="../lexi/adres">adres</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: beadresuyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: addressee
+    epo: adresato, adresito
+    spa: destinatario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: be- + adres + -yen
+...

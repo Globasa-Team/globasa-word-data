@@ -1,0 +1,55 @@
+---
+term: mazbahu
+slug: mazbahu
+ipa: "maz\u02C8baxu"
+ipa link: "http://ipa-reader.xyz/?text=maz\u02C8baxu&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - altar
+  epo:
+  - - altaro
+  spa:
+  - - altar
+search terms:
+  glb:
+  - mazbahu
+  eng:
+  - altar
+  epo:
+  - altaro
+  spa:
+  - altar
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - mezbah
+  Arabisa:
+  - - "\u0645\u064E\u0630\u0652\u0628\u064E\u062D \"ma\u1E0Fbah\""
+  Parsisa:
+  - - '"mazbah"'
+  Swahilisa:
+  - - madhabahu
+raw data:
+  term: mazbahu
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: altar
+    epo: altaro
+    spa: altar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (mezbah), Arabisa (\u0645\u064E\u0630\u0652\u0628\u064E\u062D
+    \"ma\u1E0Fbah\"), Parsisa (\"mazbah\"), Swahilisa (madhabahu)"
+...

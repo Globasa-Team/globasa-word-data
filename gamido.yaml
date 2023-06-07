@@ -1,0 +1,50 @@
+---
+term: gamido
+slug: gamido
+ipa: "ga\u02C8mido"
+ipa link: "http://ipa-reader.xyz/?text=ga\u02C8mido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - married
+  epo:
+  - - "geedzi\u011Dintaj"
+    - "edi\u011Dinta"
+    - "edzini\u011Dinta"
+  spa:
+  - - casado
+search terms:
+  glb:
+  - gamido
+  eng:
+  - married
+  epo:
+  - "geedzi\u011Dintaj"
+  - "edi\u011Dinta"
+  - "edzini\u011Dinta"
+  spa:
+  - casado
+etymology_type: DERIVD
+etymology: <a href="../lexi/gami">gami</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: gamido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: married
+    epo: "geedzi\u011Dintaj, edi\u011Dinta, edzini\u011Dinta"
+    spa: casado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gami + -do
+...

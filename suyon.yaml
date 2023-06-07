@@ -1,0 +1,57 @@
+---
+term: suyon
+slug: suyon
+ipa: "su\u02C8jon"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8jon&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - swim
+  epo:
+  - - "na\u011Dado"
+  - - "na\u011Di"
+  spa:
+  - - "nataci\xF3n"
+  - - nadar
+search terms:
+  glb:
+  - suyon
+  eng:
+  - swim
+  epo:
+  - "na\u011Dado"
+  - "na\u011Di"
+  spa:
+  - "nataci\xF3n"
+  - nadar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6E38\u6CF3 \u201Cy\xF3uy\u01D2ng\u201D"
+  Niponsa:
+  - - "\u6C34\u6CF3 \u201CSuiei\u201D"
+  Hangusa:
+  - - "\uC218\uC601 \u201Csuyeong\u201D"
+raw data:
+  term: suyon
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: swim
+    epo: "na\u011Dado; na\u011Di"
+    spa: "nataci\xF3n; nadar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6E38\u6CF3 \u201Cy\xF3uy\u01D2ng\u201D), Niponsa (\u6C34\u6CF3
+    \u201CSuiei\u201D), Hangusa (\uC218\uC601 \u201Csuyeong\u201D)"
+...

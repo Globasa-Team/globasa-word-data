@@ -1,0 +1,51 @@
+---
+term: havun
+slug: havun
+ipa: "xa\u02C8vun"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8vun&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mortar (_pounding vessel_)
+  epo:
+  - - pistujo
+  spa:
+  - - mortero
+    - molcajete
+search terms:
+  glb:
+  - havun
+  eng:
+  - mortar
+  epo:
+  - pistujo
+  spa:
+  - mortero
+  - molcajete
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- tul
+raw data:
+  term: havun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mortar (_pounding vessel_)
+    epo: pistujo
+    spa: mortero, molcajete
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: tul
+  etymology: "Hindisa (\u0939\u093E\u0935\u0928 \"havan\"), Arabisa (\u0647\u064E\u0627\u0648\u064F\u0646
+    \"h\u0101wun\"), Turkisa (havan), Parsisa (\u0647\u0627\u0648\u0646 \"havan\")"
+...

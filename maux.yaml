@@ -1,0 +1,51 @@
+---
+term: maux
+slug: maux
+ipa: "ma\u02C8u\u0283"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8u\u0283&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mouse
+  epo:
+  - - muso
+  spa:
+  - - "rat\xF3n"
+    - _Mus musculus_
+search terms:
+  glb:
+  - maux
+  eng:
+  - mouse
+  epo:
+  - muso
+  spa:
+  - "rat\xF3n"
+  - mus musculus
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: maux
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mouse
+    epo: muso
+    spa: "rat\xF3n, _Mus musculus_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (mouse), Doycisa (Maus), Rusisa (\u043C\u044B\u0448\u044C \u201Cmysh\u201D),
+    Parsisa (\u0645\u0648\u0634 \u201Cmosh\u201D)"
+...

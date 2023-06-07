@@ -1,0 +1,48 @@
+---
+term: argentinayen
+slug: argentinayen
+ipa: "a\u027Egentina\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Egentina\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Argentine
+    - Argentinian
+  epo:
+  - - argentinano
+  spa:
+  - - argentino (_persona_)
+search terms:
+  glb:
+  - argentinayen
+  eng:
+  - argentine
+  - argentinian
+  epo:
+  - argentinano
+  spa:
+  - argentino
+etymology_type: DERIVD
+etymology: <a href="../lexi/Argentina">Argentina</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Argentinayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Argentine, Argentinian
+    epo: argentinano
+    spa: argentino (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Argentina + -yen
+...

@@ -1,0 +1,83 @@
+---
+term: ceryum
+slug: ceryum
+ipa: t͡ʃeˈɾjum
+ipa link: http://ipa-reader.xyz/?text=t͡ʃeˈɾjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cerium
+  epo:
+  - - cerio
+  spa:
+  - - cerio
+    - Ce
+search terms:
+  glb:
+  - ceryum
+  eng:
+  - cerium
+  epo:
+  - cerio
+  spa:
+  - cerio
+  - ce
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - cerium
+  Espanisa:
+  - - cerio
+  Arabisa:
+  - - سِيرْيُوم “siryum”
+  Fransesa:
+  - - cérium
+  Rusisa:
+  - - церий “tseriy”
+  Indonesisa:
+  - - serium
+  Doycisa:
+  - - Cer
+  Niponsa:
+  - - セリウム “seriumu”
+  Telugusa:
+  - - సీరియం “siriyam”
+  Turkisa:
+  - - seryum
+  Hangusa:
+  - - 세륨 “seryum”
+  Vyetnamsa:
+  - - xeri
+  Parsisa:
+  - - سریم “seriom”
+  Swahilisa:
+  - - ceri
+  Pilipinasa:
+  - - ceryo
+tags:
+- kimikali monlari
+raw data:
+  term: ceryum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cerium
+    epo: cerio
+    spa: cerio, Ce
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (cerium), Espanisa (cerio), Arabisa (سِيرْيُوم “siryum”), Fransesa
+    (cérium), Rusisa (церий “tseriy”), Indonesisa (serium), Doycisa (Cer), Niponsa
+    (セリウム “seriumu”), Telugusa (సీరియం “siriyam”), Turkisa (seryum), Hangusa (세륨 “seryum”),
+    Vyetnamsa (xeri), Parsisa (سریم “seriom”), Swahilisa (ceri), Pilipinasa (ceryo)
+...

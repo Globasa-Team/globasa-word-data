@@ -1,0 +1,50 @@
+---
+term: semipurpuro
+slug: semipurpuro
+ipa: "semipu\u027E\u02C8pu\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=semipu\u027E\u02C8pu\u027Eo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - purplish
+    - purply
+  epo:
+  - - purpureca
+  - - purpurece
+  spa:
+  - - "purp\xFAreo"
+search terms:
+  glb:
+  - semipurpuro
+  eng:
+  - purplish
+  - purply
+  epo:
+  - purpureca
+  - purpurece
+  spa:
+  - "purp\xFAreo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/semi">semi</a> + <a href="../lexi/purpuro">purpuro</a>
+raw data:
+  term: semipurpuro
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: purplish, purply
+    epo: purpureca; purpurece
+    spa: "purp\xFAreo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: semi + purpuro
+...

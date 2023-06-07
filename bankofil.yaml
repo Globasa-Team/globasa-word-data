@@ -1,0 +1,52 @@
+---
+term: bankofil
+slug: bankofil
+ipa: "banko\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=banko\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - frugal
+    - thrifty
+  epo:
+  - - "\u015Dparema"
+  - - "\u015Dpareme"
+  spa:
+  - - frugal
+    - ahorrativo
+search terms:
+  glb:
+  - bankofil
+  eng:
+  - frugal
+  - thrifty
+  epo:
+  - "\u015Dparema"
+  - "\u015Dpareme"
+  spa:
+  - frugal
+  - ahorrativo
+etymology_type: DERIVD
+etymology: <a href="../lexi/banko">banko</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: bankofil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: frugal, thrifty
+    epo: "\u015Dparema; \u015Dpareme"
+    spa: frugal, ahorrativo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: banko + -fil
+...

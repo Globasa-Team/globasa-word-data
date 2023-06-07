@@ -1,0 +1,50 @@
+---
+term: nenduali
+slug: nenduali
+ipa: "nendu\u02C8ali"
+ipa link: "http://ipa-reader.xyz/?text=nendu\u02C8ali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - nondual
+    - nonbinary
+  epo:
+  - - neduuma
+    - neduala
+  spa:
+  - - no binario
+search terms:
+  glb:
+  - nenduali
+  eng:
+  - nondual
+  - nonbinary
+  epo:
+  - neduuma
+  - neduala
+  spa:
+  - no binario
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/dua">dua</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: nenduali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: nondual, nonbinary
+    epo: neduuma, neduala
+    spa: no binario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + dua + -li
+...

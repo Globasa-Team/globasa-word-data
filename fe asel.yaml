@@ -1,0 +1,50 @@
+---
+term: fe asel
+slug: fe asel
+ipa: "fe a\u02C8sel"
+ipa link: "http://ipa-reader.xyz/?text=fe a\u02C8sel&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - originally
+  epo:
+  - - originale
+    - devene
+  spa:
+  - - originalmente
+search terms:
+  glb:
+  - fe asel
+  - fe
+  - asel
+  eng:
+  - originally
+  epo:
+  - originale
+  - devene
+  spa:
+  - originalmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/asel">asel</a>
+raw data:
+  term: fe asel
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: originally
+    epo: originale, devene
+    spa: originalmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, asel
+...

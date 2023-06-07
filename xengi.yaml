@@ -1,0 +1,52 @@
+---
+term: xengi
+slug: xengi
+ipa: "\u02C8\u0283engi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283engi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - give birth (to)
+  epo:
+  - - nasko
+  - - naski
+  spa:
+  - - parto
+  - - dar a luz (a)
+search terms:
+  glb:
+  - xengi
+  eng:
+  - give birth to
+  - give birth
+  epo:
+  - nasko
+  - naski
+  spa:
+  - parto
+  - dar a luz a
+  - dar a luz
+etymology_type: DERIVD
+etymology: <a href="../lexi/xen">xen</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: xengi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: give birth (to)
+    epo: nasko; naski
+    spa: parto; dar a luz (a)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xen + -gi
+...

@@ -1,0 +1,48 @@
+---
+term: bezedom
+slug: bezedom
+ipa: "beze\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=beze\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - apiary
+  epo:
+  - - abelejo
+  spa:
+  - - colmenar
+    - apiario
+search terms:
+  glb:
+  - bezedom
+  eng:
+  - apiary
+  epo:
+  - abelejo
+  spa:
+  - colmenar
+  - apiario
+etymology_type: DERIVD
+etymology: <a href="../lexi/beze">beze</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: bezedom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: apiary
+    epo: abelejo
+    spa: colmenar, apiario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: beze + -dom
+...

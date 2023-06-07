@@ -1,0 +1,42 @@
+---
+term: supracu
+slug: supracu
+ipa: "su\u02C8p\u027Eat\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8p\u027Eat\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - rise
+  spa:
+  - - levantarse
+search terms:
+  glb:
+  - supracu
+  eng:
+  - rise
+  spa:
+  - levantarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/supra">supra</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: supracu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: rise
+    epo: ""
+    spa: levantarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: supra + -cu
+...

@@ -1,0 +1,59 @@
+---
+term: espringu
+slug: espringu
+ipa: esˈpɾingu
+ipa link: http://ipa-reader.xyz/?text=esˈpɾingu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - spring (_device_)
+  epo:
+  - - risorto
+  spa:
+  - - resorte
+    - muelle
+search terms:
+  glb:
+  - espringu
+  eng:
+  - spring
+  epo:
+  - risorto
+  spa:
+  - resorte
+  - muelle
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - spring
+  Doycisa:
+  - - Sprungfeder
+  Hindisa:
+  - - स्प्रिंग "spring"
+  Niponsa:
+  - - スプリング "supuringu"
+  Swahilisa:
+  - - springi
+raw data:
+  term: espringu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: spring (_device_)
+    epo: risorto
+    spa: resorte, muelle
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (spring), Doycisa (Sprungfeder), Hindisa (स्प्रिंग "spring"),
+    Niponsa (スプリング "supuringu"), Swahilisa (springi)
+...

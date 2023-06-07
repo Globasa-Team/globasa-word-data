@@ -1,0 +1,48 @@
+---
+term: regulapul
+slug: regulapul
+ipa: "\u027Eegula\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eegula\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - regular
+  epo:
+  - - regula
+  - - regule
+  spa:
+  - - regular
+search terms:
+  glb:
+  - regulapul
+  eng:
+  - regular
+  epo:
+  - regula
+  - regule
+  spa:
+  - regular
+etymology_type: DERIVD
+etymology: <a href="../lexi/regula">regula</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: regulapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: regular
+    epo: regula; regule
+    spa: regular
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: regula + -pul
+...

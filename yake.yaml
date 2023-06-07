@@ -1,0 +1,66 @@
+---
+term: yake
+slug: yake
+ipa: "\u02C8jake"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jake&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - burn
+  - - burn
+  epo:
+  - - brulo
+  - - bruli
+    - bruligi
+  spa:
+  - - quemadura
+    - ardor
+  - - quemar
+    - incendiar
+    - quemarse
+    - arder
+search terms:
+  glb:
+  - yake
+  eng:
+  - burn
+  epo:
+  - brulo
+  - bruli
+  - bruligi
+  spa:
+  - quemadura
+  - ardor
+  - quemar
+  - incendiar
+  - quemarse
+  - arder
+etymology_type: NATLNG
+etymology:
+  Turkisa:
+  - - yak-
+  - - yakmak
+  Niponsa:
+  - - "\u706B\u50B7 \u201Cyakedo\u201D"
+raw data:
+  term: yake
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: burn; burn
+    epo: brulo; bruli, bruligi
+    spa: quemadura, ardor; quemar, incendiar, quemarse, arder
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Turkisa (yak-; yakmak), Niponsa (\u706B\u50B7 \u201Cyakedo\u201D)"
+...

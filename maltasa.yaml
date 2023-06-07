@@ -1,0 +1,50 @@
+---
+term: maltasa
+slug: maltasa
+ipa: "mal\u02C8tasa"
+ipa link: "http://ipa-reader.xyz/?text=mal\u02C8tasa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Maltese (language)
+  epo:
+  - - la malta (lingvo)
+  spa:
+  - - "malt\xE9s (_idioma_)"
+search terms:
+  glb:
+  - maltasa
+  eng:
+  - maltese language
+  - maltese
+  epo:
+  - la malta lingvo
+  - la malta
+  spa:
+  - "malt\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Malta">Malta</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Maltasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Maltese (language)
+    epo: la malta (lingvo)
+    spa: "malt\xE9s (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Malta + -sa
+...

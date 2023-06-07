@@ -1,0 +1,50 @@
+---
+term: parsi
+slug: parsi
+ipa: "\u02C8pa\u027Esi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pa\u027Esi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Persia
+  epo:
+  - - Persio
+    - Persujo (_ne Irano_)
+  spa:
+  - - Persia
+search terms:
+  glb:
+  - parsi
+  eng:
+  - persia
+  epo:
+  - persio
+  - persujo
+  spa:
+  - persia
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - "\u0641\u0627\u0631\u0633 \u201Cfars\u201D"
+raw data:
+  term: Parsi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Persia
+    epo: Persio, Persujo (_ne Irano_)
+    spa: Persia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Parsisa (\u0641\u0627\u0631\u0633 \u201Cfars\u201D)"
+...

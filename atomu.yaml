@@ -1,0 +1,70 @@
+---
+term: atomu
+slug: atomu
+ipa: aˈtomu
+ipa link: http://ipa-reader.xyz/?text=aˈtomu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - atom
+  epo:
+  - - atomo
+  spa:
+  - - átomo
+search terms:
+  glb:
+  - atomu
+  eng:
+  - atom
+  epo:
+  - atomo
+  spa:
+  - átomo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - atom
+  Fransesa:
+  - - atome
+  Doycesa:
+  - - Atom
+  Rusisa:
+  - - атом “atom”
+  Espanisa:
+  - - átomo
+  Niponsa:
+  - - アトム “atomu”
+  Swahilisa:
+  - - atomu
+  Parsisa:
+  - - اتم “atom”
+  Turkisa:
+  - - atom
+  Indonesisa:
+  - - atom
+  Pilipinasa:
+  - - atomo
+raw data:
+  term: atomu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: atom
+    epo: atomo
+    spa: átomo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (atom), Fransesa (atome), Doycesa (Atom), Rusisa (атом “atom”),
+    Espanisa (átomo), Niponsa (アトム “atomu”), Swahilisa (atomu), Parsisa (اتم “atom”),
+    Turkisa (atom), Indonesisa (atom), Pilipinasa (atomo)
+...

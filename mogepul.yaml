@@ -1,0 +1,60 @@
+---
+term: mogepul
+slug: mogepul
+ipa: "moge\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=moge\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - intelligent
+    - smart
+    - brainy
+  epo:
+  - - cerboplena
+    - inteligenta
+  - - cerboplene
+  spa:
+  - - inteligente
+    - listo
+search terms:
+  glb:
+  - mogepul
+  eng:
+  - intelligent
+  - smart
+  - brainy
+  epo:
+  - cerboplena
+  - inteligenta
+  - cerboplene
+  spa:
+  - inteligente
+  - listo
+etymology_type: DERIVD
+etymology: <a href="../lexi/moge">moge</a> + <a href="../lexi/-pul">-pul</a>
+synonyms:
+- cinonpul
+antonyms:
+- mogekal
+raw data:
+  term: mogepul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: intelligent, smart, brainy
+    epo: cerboplena, inteligenta; cerboplene
+    spa: inteligente, listo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: cinonpul
+  antonyms: mogekal
+  example: ""
+  tags: ""
+  etymology: moge + -pul
+...

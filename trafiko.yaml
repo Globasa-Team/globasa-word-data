@@ -1,0 +1,76 @@
+---
+term: trafiko
+slug: trafiko
+ipa: "t\u027Ea\u02C8fiko"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Ea\u02C8fiko&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - traffic (_of vehicles_)
+  epo:
+  - - trafiko
+  spa:
+  - - "tr\xE1nsito"
+    - "tr\xE1fico (_de veh\xEDculos_)"
+  deu:
+  - - Verkehr
+search terms:
+  glb:
+  - trafiko
+  eng:
+  - traffic
+  epo:
+  - trafiko
+  spa:
+  - "tr\xE1nsito"
+  - "tr\xE1fico"
+  deu:
+  - verkehr
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - traffic
+  Espanisa:
+  - - "tr\xE1fico"
+  Fransesa:
+  - - trafic
+  Rusisan:
+  - - "\u0442\u0440\u0430\u0444\u0438\u043A \u201Ctrafik\u201D"
+  Pilipinasa:
+  - - trapiko
+  Swahilisa:
+  - - trafiki
+  Hindisa:
+  - - "\u091F\u094D\u0930\u0948\u092B\u093F\u0915 \u201Ctrafik\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C4D\u0C30\u0C3E\u0C2B\u0C3F\u0C15\u0C4D \u201Ctrafik\u201D"
+  Turkisa:
+  - - trafik
+  Parsisa:
+  - - "\u062A\u0631\u0627\u0641\u06CC\u06A9 \u201Cter\xE2fik\u201D"
+raw data:
+  term: trafiko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: traffic (_of vehicles_)
+    epo: trafiko
+    spa: "tr\xE1nsito, tr\xE1fico (_de veh\xEDculos_)"
+    deu: Verkehr
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (traffic), Espanisa (tr\xE1fico), Fransesa (trafic), Rusisan
+    (\u0442\u0440\u0430\u0444\u0438\u043A \u201Ctrafik\u201D), Pilipinasa (trapiko),
+    Swahilisa (trafiki), Hindisa (\u091F\u094D\u0930\u0948\u092B\u093F\u0915 \u201Ctrafik\u201D),
+    Telugusa (\u0C1F\u0C4D\u0C30\u0C3E\u0C2B\u0C3F\u0C15\u0C4D \u201Ctrafik\u201D),
+    Turkisa (trafik), Parsisa (\u062A\u0631\u0627\u0641\u06CC\u06A9 \u201Cter\xE2fik\u201D)"
+...

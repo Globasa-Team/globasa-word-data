@@ -1,0 +1,55 @@
+---
+term: xayri
+slug: xayri
+ipa: "\u02C8\u0283aj\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283aj\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - barley
+  epo:
+  - - hordeo
+  spa:
+  - - cebada
+    - _Hordeum vulgare_
+search terms:
+  glb:
+  - xayri
+  eng:
+  - barley
+  epo:
+  - hordeo
+  spa:
+  - cebada
+  - hordeum vulgare
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0634\u064E\u0639\u0650\u064A\u0631 \"xair\""
+  Parsisa:
+  - - "\u0634\u0639\u06CC\u0631 \"xair\""
+  Swahilisa:
+  - - shairi
+raw data:
+  term: xayri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: barley
+    epo: hordeo
+    spa: cebada, _Hordeum vulgare_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0634\u064E\u0639\u0650\u064A\u0631 \"xair\"), Parsisa (\u0634\u0639\u06CC\u0631
+    \"xair\"), Swahilisa (shairi)"
+...

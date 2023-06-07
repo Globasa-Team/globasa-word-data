@@ -1,0 +1,49 @@
+---
+term: balaxey
+slug: balaxey
+ipa: "bala\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=bala\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (a) strength
+  epo:
+  - - "forta\u0135o"
+  spa:
+  - - fortaleza
+search terms:
+  glb:
+  - balaxey
+  eng:
+  - a strength
+  - strength
+  epo:
+  - "forta\u0135o"
+  spa:
+  - fortaleza
+etymology_type: DERIVD
+etymology: <a href="../lexi/bala">bala</a> + <a href="../lexi/-xey">-xey</a>
+antonyms:
+- daifxey
+raw data:
+  term: balaxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (a) strength
+    epo: "forta\u0135o"
+    spa: fortaleza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: daifxey
+  example: ""
+  tags: ""
+  etymology: bala + -xey
+...

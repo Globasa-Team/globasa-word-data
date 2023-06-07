@@ -1,0 +1,52 @@
+---
+term: mawris
+slug: mawris
+ipa: "maw\u02C8\u027Eis"
+ipa link: "http://ipa-reader.xyz/?text=maw\u02C8\u027Eis&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Mauritius
+  epo:
+  - - "Ma\u016Dricio"
+  spa:
+  - - "Mauricio (_pa\xEDs_)"
+search terms:
+  glb:
+  - mawris
+  eng:
+  - mauritius
+  epo:
+  - "ma\u016Dricio"
+  spa:
+  - mauricio
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - Maurice
+  Mawrissa:
+  - - Moris
+tags:
+- dexa
+raw data:
+  term: Mawris
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Mauritius
+    epo: "Ma\u016Dricio"
+    spa: "Mauricio (_pa\xEDs_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Fransesa (Mauritius), Fransesa (Maurice), Mawrissa (Moris)
+...

@@ -1,0 +1,70 @@
+---
+term: feka
+slug: feka
+ipa: ˈfeka
+ipa link: http://ipa-reader.xyz/?text=ˈfeka&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - feces
+    - shit
+  - - defecate
+    - shit
+  epo:
+  - - feko
+  - - feki
+  spa:
+  - - heces
+    - excremento
+    - mierda
+  - - defecar
+search terms:
+  glb:
+  - feka
+  eng:
+  - feces
+  - shit
+  - defecate
+  epo:
+  - feko
+  - feki
+  spa:
+  - heces
+  - excremento
+  - mierda
+  - defecar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fecal
+  Fransesa:
+  - - fécal
+  Doycisa:
+  - - fäkal
+  Rusisa:
+  - - фекальный “fekalniy”
+  Espanisa:
+  - - fecal
+raw data:
+  term: feka
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: feces, shit; defecate, shit
+    epo: feko; feki
+    spa: heces, excremento, mierda; defecar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (fecal), Fransesa (fécal), Doycisa (fäkal), Rusisa (фекальный
+    “fekalniy”), Espanisa (fecal)
+...

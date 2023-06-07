@@ -1,0 +1,46 @@
+---
+term: porli
+slug: porli
+ipa: "\u02C8po\u027Eli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8po\u027Eli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - which is in exchange for
+  epo:
+  - - "inter\u015Dan\u011Da por"
+  spa:
+  - - que se intercambia por
+search terms:
+  glb:
+  - porli
+  eng:
+  - which is in exchange for
+  epo:
+  - "inter\u015Dan\u011Da por"
+  spa:
+  - que se intercambia por
+etymology_type: DERIVD
+etymology: <a href="../lexi/por">por</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: porli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: which is in exchange for
+    epo: "inter\u015Dan\u011Da por"
+    spa: que se intercambia por
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: por + -li
+...

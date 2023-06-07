@@ -1,0 +1,50 @@
+---
+term: kulye
+slug: kulye
+ipa: "\u02C8kulje"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kulje&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - kidney
+  epo:
+  - - reno
+  spa:
+  - - "ri\xF1\xF3n"
+search terms:
+  glb:
+  - kulye
+  eng:
+  - kidney
+  epo:
+  - reno
+  spa:
+  - "ri\xF1\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: kulye
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: kidney
+    epo: reno
+    spa: "ri\xF1\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Arabisa (\u0643\u0644\u064A\u0629 \u201Ckulya\u201D), Parsisa (\u06A9\u0644\u06CC\u0647
+    \u201Ckoliye\u201D), Ivrisa (\u05DB\u05B4\u05BC\u05DC\u05B0\u05D9\u05B8\u05D4
+    \u201Ckilya\u201D)"
+...

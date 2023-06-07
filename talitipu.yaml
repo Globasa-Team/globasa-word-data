@@ -1,0 +1,60 @@
+---
+term: talitipu
+slug: talitipu
+ipa: "tali\u02C8tipu"
+ipa link: "http://ipa-reader.xyz/?text=tali\u02C8tipu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - barnacle
+    - cirriped
+    - _Cirripedia_
+  epo:
+  - - ciripedo
+  spa:
+  - - balano
+    - percebe
+    - _Cirripedia_
+search terms:
+  glb:
+  - talitipu
+  eng:
+  - barnacle
+  - cirriped
+  - cirripedia
+  epo:
+  - ciripedo
+  spa:
+  - balano
+  - percebe
+  - cirripedia
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - teritip
+  Pilipinasa:
+  - - taliptip
+tags:
+- hewan
+raw data:
+  term: talitipu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: barnacle, cirriped, _Cirripedia_
+    epo: ciripedo
+    spa: balano, percebe, _Cirripedia_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Indonesisa (teritip), Pilipinasa (taliptip)
+...

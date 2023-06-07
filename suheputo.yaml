@@ -1,0 +1,52 @@
+---
+term: suheputo
+slug: suheputo
+ipa: "suxe\u02C8puto"
+ipa link: "http://ipa-reader.xyz/?text=suxe\u02C8puto&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - raisin
+  epo:
+  - - sekvinbero
+    - rosino
+  spa:
+  - - uva pasa
+    - pasa
+search terms:
+  glb:
+  - suheputo
+  eng:
+  - raisin
+  epo:
+  - sekvinbero
+  - rosino
+  spa:
+  - uva pasa
+  - pasa
+etymology_type: DERIVD
+etymology: <a href="../lexi/suhe">suhe</a> + <a href="../lexi/puto">puto</a>
+tags:
+- yamxey
+raw data:
+  term: suheputo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: raisin
+    epo: sekvinbero, rosino
+    spa: uva pasa, pasa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: suhe + puto
+...

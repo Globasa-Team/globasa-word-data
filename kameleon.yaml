@@ -1,0 +1,55 @@
+---
+term: kameleon
+slug: kameleon
+ipa: "kamele\u02C8on"
+ipa link: "http://ipa-reader.xyz/?text=kamele\u02C8on&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chameleon
+  epo:
+  - - "\u0125ameleono"
+    - kameleono
+  spa:
+  - - "camale\xF3n"
+    - _Chamaeleonidae_
+search terms:
+  glb:
+  - kameleon
+  eng:
+  - chameleon
+  epo:
+  - "\u0125ameleono"
+  - kameleono
+  spa:
+  - "camale\xF3n"
+  - chamaeleonidae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kameleon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chameleon
+    epo: "\u0125ameleono, kameleono"
+    spa: "camale\xF3n, _Chamaeleonidae_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (chameleon), Espanisa (camale\xF3n), Fransesa (cam\xE9l\xE9on),
+    Rusisa (\u0445\u0430\u043C\u0435\u043B\u0435\u043E\u043D \"hameleon\"), Doycisa
+    (Cham\xE4leon), Indonesisa (kameleon), Niponsa (\u30AB\u30E1\u30EC\u30AA\u30F3
+    \"kamereon\"), Turkisa (bukalemun), Hangusa (\uCE74\uBA5C\uB808\uC628 \"kamelle'on\")"
+...

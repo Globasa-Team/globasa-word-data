@@ -1,0 +1,60 @@
+---
+term: xanho
+slug: xanho
+ipa: "\u02C8\u0283anxo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283anxo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coral
+  epo:
+  - - koralo
+  spa:
+  - - coral
+    - _Anthozoa_
+search terms:
+  glb:
+  - xanho
+  eng:
+  - coral
+  epo:
+  - koralo
+  spa:
+  - coral
+  - anthozoa
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u73CA\u745A \u201Cxanhu\u201D"
+  Niponsa:
+  - - "\u73CA\u745A"
+    - "\u30B5\u30F3\u30B4 \u201Csango\u201D"
+  Hangusa:
+  - - "\uC0B0\uD638 \u201Csanho\u201D"
+  Vyetnamsa:
+  - - "san h\xF4"
+tags:
+- hewan
+raw data:
+  term: xanho
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coral
+    epo: koralo
+    spa: coral, _Anthozoa_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Putunhwa (\u73CA\u745A \u201Cxanhu\u201D), Niponsa (\u73CA\u745A, \u30B5\u30F3\u30B4
+    \u201Csango\u201D), Hangusa (\uC0B0\uD638 \u201Csanho\u201D), Vyetnamsa (san h\xF4)"
+...

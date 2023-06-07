@@ -1,0 +1,48 @@
+---
+term: buterpul
+slug: buterpul
+ipa: "bute\u027E\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=bute\u027E\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - buttery
+  epo:
+  - - butera
+  - - butere
+  spa:
+  - - mantecoso
+search terms:
+  glb:
+  - buterpul
+  eng:
+  - buttery
+  epo:
+  - butera
+  - butere
+  spa:
+  - mantecoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/buter">buter</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: buterpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: buttery
+    epo: butera; butere
+    spa: mantecoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: buter + -pul
+...

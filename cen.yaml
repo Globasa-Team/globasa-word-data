@@ -1,0 +1,59 @@
+---
+term: cen
+slug: cen
+ipa: ˈt͡ʃen
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃen&voice=Ewa
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - (one) hundred
+  epo:
+  - - cent
+  spa:
+  - - cien
+search terms:
+  glb:
+  - cen
+  eng:
+  - one hundred
+  - hundred
+  epo:
+  - cent
+  spa:
+  - cien
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - century
+  Fransesa:
+  - - cent
+  Espanisa:
+  - - cien
+  Indonesisa: ~
+  Hangusa: ~
+  Niponsa: ~
+  Hindisa: ~
+  Swahilisa: ~
+raw data:
+  term: cen
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: (one) hundred
+    epo: cent
+    spa: cien
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (century), Fransesa (cent), Espanisa (cien), Indonesisa ( ),
+    Hangusa, Niponsa, Hindisa, Swahilisa
+...

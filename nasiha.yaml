@@ -1,0 +1,69 @@
+---
+term: nasiha
+slug: nasiha
+ipa: "na\u02C8sixa"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8sixa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - advice
+    - counsel
+  - - advise
+  epo:
+  - - konsilo
+    - konsilado
+  - - konsili
+  spa:
+  - - consejo
+  - - aconsejar
+search terms:
+  glb:
+  - nasiha
+  eng:
+  - advice
+  - counsel
+  - advise
+  epo:
+  - konsilo
+  - konsilado
+  - konsili
+  spa:
+  - consejo
+  - aconsejar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0646\u064E\u0635\u0650\u064A\u062D\u064E\u0629 \u201Cnasiha\u201D"
+  Indonesisa:
+  - - nasihat
+  Turkisa: ~
+  Parsisa:
+  - - "\u0646\u0635\u06CC\u062D\u062A \u201Cnasihat\u201D"
+  Hindisa:
+  - - "\u0928\u0938\u0940\u0939\u0924 \u201Cnas\u012Bhat\u201D"
+  Ozbekisa:
+  - - maslahat
+raw data:
+  term: nasiha
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: advice, counsel; advise
+    epo: konsilo, konsilado; konsili
+    spa: consejo; aconsejar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0646\u064E\u0635\u0650\u064A\u062D\u064E\u0629 \u201Cnasiha\u201D),
+    Indonesisa (nasihat), Turkisa, Parsisa (\u0646\u0635\u06CC\u062D\u062A \u201Cnasihat\u201D),
+    Hindisa (\u0928\u0938\u0940\u0939\u0924 \u201Cnas\u012Bhat\u201D), Ozbekisa (maslahat)"
+...

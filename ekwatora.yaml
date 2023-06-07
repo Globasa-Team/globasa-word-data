@@ -1,0 +1,64 @@
+---
+term: ekwatora
+slug: ekwatora
+ipa: ekwaˈtoɾa
+ipa link: http://ipa-reader.xyz/?text=ekwaˈtoɾa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - equator
+  epo:
+  - - ekvatoro
+  spa:
+  - - ecuador
+search terms:
+  glb:
+  - ekwatora
+  eng:
+  - equator
+  epo:
+  - ekvatoro
+  spa:
+  - ecuador
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Äquator
+  Englisa:
+  - - equator
+  Espanisa:
+  - - ecuador
+  Fransesa:
+  - - équateur
+  Rusisa:
+  - - экватор “ekvator”
+  Pilipinasa:
+  - - ekwador
+  Swahilisa:
+  - - ikweta
+  Turkisa:
+  - - ekvator
+raw data:
+  term: ekwatora
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: equator
+    epo: ekvatoro
+    spa: ecuador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Äquator), Englisa (equator), Espanisa (ecuador), Fransesa (équateur),
+    Rusisa (экватор “ekvator”), Pilipinasa (ekwador), Swahilisa (ikweta), Turkisa
+    (ekvator)
+...

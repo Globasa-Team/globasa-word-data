@@ -1,0 +1,48 @@
+---
+term: doxodo
+slug: doxodo
+ipa: "do\u02C8\u0283odo"
+ipa link: "http://ipa-reader.xyz/?text=do\u02C8\u0283odo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - read
+  epo:
+  - - legita
+  - - legite
+  spa:
+  - - "le\xEDdo"
+search terms:
+  glb:
+  - doxodo
+  eng:
+  - read
+  epo:
+  - legita
+  - legite
+  spa:
+  - "le\xEDdo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/doxo">doxo</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: doxodo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: read
+    epo: legita; legite
+    spa: "le\xEDdo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: doxo + -do
+...

@@ -1,0 +1,48 @@
+---
+term: bonturi
+slug: bonturi
+ipa: "bon\u02C8tu\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=bon\u02C8tu\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: il
+trans:
+  eng:
+  - - bon voyage
+  epo:
+  - - "bonan voja\u011Don"
+  spa:
+  - - buen viaje
+search terms:
+  glb:
+  - bonturi
+  eng:
+  - bon voyage
+  epo:
+  - "bonan voja\u011Don"
+  spa:
+  - buen viaje
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/turi">turi</a>
+tags:
+- intrelogalexi
+raw data:
+  term: bonturi
+  category: derived
+  word class: il
+  status: false
+  trans:
+    eng: bon voyage
+    epo: "bonan voja\u011Don"
+    spa: buen viaje
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: bon- + turi
+...

@@ -1,0 +1,55 @@
+---
+term: wixin
+slug: wixin
+ipa: "wi\u02C8\u0283in"
+ipa link: "http://ipa-reader.xyz/?text=wi\u02C8\u0283in&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - prestige
+  epo:
+  - - "presti\u011Do"
+  spa:
+  - - prestigio
+search terms:
+  glb:
+  - wixin
+  eng:
+  - prestige
+  epo:
+  - "presti\u011Do"
+  spa:
+  - prestigio
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5A01\u4FE1 \"weyxin\""
+  Niponsa:
+  - - "\u5A01\u4FE1 \"ixin\""
+  Vyetnamsa:
+  - - "uy t\xEDn"
+  Hangusa:
+  - - "\uC704\uC2E0 \"wixin\""
+raw data:
+  term: wixin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: prestige
+    epo: "presti\u011Do"
+    spa: prestigio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5A01\u4FE1 \"weyxin\"), Niponsa (\u5A01\u4FE1 \"ixin\"),
+    Vyetnamsa (uy t\xEDn), Hangusa (\uC704\uC2E0 \"wixin\")"
+...

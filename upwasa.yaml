@@ -1,0 +1,60 @@
+---
+term: upwasa
+slug: upwasa
+ipa: "u\u02C8pwasa"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8pwasa&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - fasting
+  - - fast
+  epo:
+  - - fasto
+  - - fasti
+  spa:
+  - - ayuno
+  - - ayunar
+search terms:
+  glb:
+  - upwasa
+  eng:
+  - fasting
+  - fast
+  epo:
+  - fasto
+  - fasti
+  spa:
+  - ayuno
+  - ayunar
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - puasa
+    - upawasa
+  Hindisa:
+  - - "\u0909\u092A\u0935\u093E\u0938 \"upvas\""
+  Telugusa:
+  - - "\u0C09\u0C2A\u0C35\u0C3E\u0C38\u0C2E\u0C41 \"upavasamu\""
+raw data:
+  term: upwasa
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: fasting; fast
+    epo: fasto; fasti
+    spa: ayuno; ayunar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (puasa, upawasa), Hindisa (\u0909\u092A\u0935\u093E\u0938
+    \"upvas\"), Telugusa (\u0C09\u0C2A\u0C35\u0C3E\u0C38\u0C2E\u0C41 \"upavasamu\")"
+...

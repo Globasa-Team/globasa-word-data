@@ -1,0 +1,64 @@
+---
+term: treme
+slug: treme
+ipa: "\u02C8t\u027Eeme"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u027Eeme&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - shake
+  epo:
+  - - tremo
+  - - tremi
+    - tremigi
+  spa:
+  - - sacudida
+  - - temblar
+search terms:
+  glb:
+  - treme
+  eng:
+  - shake
+  epo:
+  - tremo
+  - tremi
+  - tremigi
+  spa:
+  - sacudida
+  - temblar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tremble
+  Portuguese:
+  - - tremer
+  Espanisa:
+  - - estremecer
+  Rusisa:
+  - - "\u0442\u0440\u0435\u043F\u0435\u0442\u0430\u0442\u044C \u201Ctrepetat\u201D"
+  Turkisa:
+  - - titre- (titreme
+raw data:
+  term: treme
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: shake
+    epo: tremo; tremi, tremigi
+    spa: sacudida; temblar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tremble), Portuguese (tremer), Espanisa (estremecer), Rusisa
+    (\u0442\u0440\u0435\u043F\u0435\u0442\u0430\u0442\u044C \u201Ctrepetat\u201D),
+    Turkisa (titre- (titreme))"
+...

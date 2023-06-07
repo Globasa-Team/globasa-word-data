@@ -1,0 +1,86 @@
+---
+term: toryum
+slug: toryum
+ipa: "to\u02C8\u027Ejum"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8\u027Ejum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - thorium
+  epo:
+  - - torio
+  spa:
+  - - torio
+    - Th
+search terms:
+  glb:
+  - toryum
+  eng:
+  - thorium
+  epo:
+  - torio
+  spa:
+  - torio
+  - th
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - thorium
+  Espanisa:
+  - - torio
+  Arabisa:
+  - - "\u062B\u064F\u0648\u0631\u0652\u064A\u064F\u0648\u0645 \u201Ctoryum\u201D"
+  Fransesa:
+  - - thorium
+  Rusisa:
+  - - "\u0442\u043E\u0440\u0438\u0439 \u201Ctoriy\u201D"
+  Indonesisa:
+  - - torium
+  Doycisa:
+  - - Thorium
+  Niponsa:
+  - - "\u30C8\u30EA\u30A6\u30E0 \u201Ctoriumu\u201D"
+  Telugusa:
+  - - "\u0C25\u0C4B\u0C30\u0C3F\u0C2F\u0C02 \u201Ctoriyam\u201D"
+  Turkisa:
+  - - toryum
+  Hangusa:
+  - - "\uD1A0\uB968 \u201Ctoryum\u201D"
+  Vyetnamsa:
+  - - thori
+  Parsisa:
+  - - "\u062A\u0648\u0631\u06CC\u0648\u0645 \u201Ctoriyom\u201D"
+  Swahilisa:
+  - - thori
+  Pilipinasa:
+  - - toryo
+tags:
+- kimikali monlari
+raw data:
+  term: toryum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: thorium
+    epo: torio
+    spa: torio, Th
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (thorium), Espanisa (torio), Arabisa (\u062B\u064F\u0648\u0631\u0652\u064A\u064F\u0648\u0645
+    \u201Ctoryum\u201D), Fransesa (thorium), Rusisa (\u0442\u043E\u0440\u0438\u0439
+    \u201Ctoriy\u201D), Indonesisa (torium), Doycisa (Thorium), Niponsa (\u30C8\u30EA\u30A6\u30E0
+    \u201Ctoriumu\u201D), Telugusa (\u0C25\u0C4B\u0C30\u0C3F\u0C2F\u0C02 \u201Ctoriyam\u201D),
+    Turkisa (toryum), Hangusa (\uD1A0\uB968 \u201Ctoryum\u201D), Vyetnamsa (thori),
+    Parsisa (\u062A\u0648\u0631\u06CC\u0648\u0645 \u201Ctoriyom\u201D), Swahilisa
+    (thori), Pilipinasa (toryo)"
+...

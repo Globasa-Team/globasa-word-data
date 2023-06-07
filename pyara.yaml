@@ -1,0 +1,69 @@
+---
+term: pyara
+slug: pyara
+ipa: "\u02C8pja\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pja\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pear
+  epo:
+  - - piro
+  spa:
+  - - pera
+    - _Pyrus_
+search terms:
+  glb:
+  - pyara
+  eng:
+  - pear
+  epo:
+  - piro
+  spa:
+  - pera
+  - pyrus
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pear
+  Fransesa:
+  - - poire
+  Doycisa:
+  - - Birne
+  Espanisa:
+  - - pera
+  Indonesisa:
+  - - pir
+  Pilipinasa:
+  - - peras
+  Telugusa:
+  - - "\u0C2A\u0C3F\u0C2F\u0C30\u0C4D \u201Cpiyar\u201D"
+  Swahilisa:
+  - - peasi
+tags:
+- fruta
+- yamxey
+raw data:
+  term: pyara
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pear
+    epo: piro
+    spa: pera, _Pyrus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Englisa (pear), Fransesa (poire), Doycisa (Birne), Espanisa (pera),
+    Indonesisa (pir), Pilipinasa (peras), Telugusa (\u0C2A\u0C3F\u0C2F\u0C30\u0C4D
+    \u201Cpiyar\u201D), Swahilisa (peasi)"
+...

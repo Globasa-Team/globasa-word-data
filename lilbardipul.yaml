@@ -1,0 +1,49 @@
+---
+term: lilbardipul
+slug: lilbardipul
+ipa: "lilba\u027Edi\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=lilba\u027Edi\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - cool
+  epo:
+  - - malvarmeta
+  - - malvarmete
+  spa:
+  - - fresco
+search terms:
+  glb:
+  - lilbardipul
+  eng:
+  - cool
+  epo:
+  - malvarmeta
+  - malvarmete
+  spa:
+  - fresco
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/bardi">bardi</a> + <a
+  href="../lexi/-pul">-pul</a>
+raw data:
+  term: lilbardipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: cool
+    epo: malvarmeta; malvarmete
+    spa: fresco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + bardi + -pul
+...

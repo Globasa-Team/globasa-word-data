@@ -1,0 +1,57 @@
+---
+term: kwasi
+slug: kwasi
+ipa: "\u02C8kwasi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kwasi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - seeming
+    - seemingly
+    - apparent
+    - apparently
+  epo:
+  - - "\u015Dajna"
+  - - "\u015Dajne"
+  spa:
+  - - aparente
+  - - aparentemente
+search terms:
+  glb:
+  - kwasi
+  eng:
+  - seeming
+  - seemingly
+  - apparent
+  - apparently
+  epo:
+  - "\u015Dajna"
+  - "\u015Dajne"
+  spa:
+  - aparente
+  - aparentemente
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kwasi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: seeming, seemingly, apparent, apparently
+    epo: "\u015Dajna; \u015Dajne"
+    spa: aparente; aparentemente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (quasi-), Fransesa (quasi), Doycisa (quasi), Rusisa (\u043A\u0432\u0430\u0437\u0438-
+    \u201Ckvazi-\u201D), Espanisa (cuasi)"
+...

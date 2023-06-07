@@ -1,0 +1,59 @@
+---
+term: mafu
+slug: mafu
+ipa: "\u02C8mafu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mafu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - forgiveness
+  - - forgive
+    - excuse
+  epo:
+  - - pardono
+  - - pardoni
+  spa:
+  - - "perd\xF3n"
+  - - perdonar
+    - excusar
+  - - "perd\xF3n"
+search terms:
+  glb:
+  - mafu
+  eng:
+  - forgiveness
+  - forgive
+  - excuse
+  epo:
+  - pardono
+  - pardoni
+  spa:
+  - "perd\xF3n"
+  - perdonar
+  - excusar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mafu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: forgiveness; forgive, excuse
+    epo: pardono; pardoni
+    spa: "perd\xF3n; perdonar, excusar; perd\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0639\u0641\u0648 \u201C\u02BFafw\u201D), Hindisa (\u092E\u093E\u092B\u093C
+    \u201Cmaaf\u201D), Parsisa (\u0639\u0641\u0648 \u201Cafv\u201D), Indonesisa (maaf,
+    memaafi), Turkisa (af), Swahilisa (-afu)"
+...

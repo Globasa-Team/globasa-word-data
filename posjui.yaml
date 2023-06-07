@@ -1,0 +1,62 @@
+---
+term: posjui
+slug: posjui
+ipa: "pos\u02C8d\u0361\u0292ui"
+ipa link: "http://ipa-reader.xyz/?text=pos\u02C8d\u0361\u0292ui&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - ignore
+    - disregard
+  - - never mind
+  epo:
+  - - malatentado
+    - ignorado
+  - - malatenti
+    - ignori
+  - - ne gravas
+  spa:
+  - - no dar importancia
+    - ignorar
+search terms:
+  glb:
+  - posjui
+  eng:
+  - ignore
+  - disregard
+  - never mind
+  epo:
+  - malatentado
+  - ignorado
+  - malatenti
+  - ignori
+  - ne gravas
+  spa:
+  - no dar importancia
+  - ignorar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/jui">jui</a>
+tags:
+- intrelogalexi
+raw data:
+  term: posjui
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: ignore, disregard; never mind
+    epo: malatentado, ignorado; malatenti, ignori; ne gravas
+    spa: no dar importancia, ignorar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: pos- + jui
+...

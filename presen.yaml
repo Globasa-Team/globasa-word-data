@@ -1,0 +1,52 @@
+---
+term: presen
+slug: presen
+ipa: "p\u027Ee\u02C8sen"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Ee\u02C8sen&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - be here
+    - be present
+  epo:
+  - - "\u0109eesto"
+  - - "\u0109eesti"
+    - "esti \u0109ie ti"
+  spa:
+  - - estar presente
+search terms:
+  glb:
+  - presen
+  eng:
+  - be here
+  - be present
+  epo:
+  - "\u0109eesto"
+  - "\u0109eesti"
+  - "esti \u0109ie ti"
+  spa:
+  - estar presente
+etymology_type: DERIVD
+etymology: <a href="../lexi/pre-">pre-</a> + <a href="../lexi/sen">sen</a>
+raw data:
+  term: presen
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: be here, be present
+    epo: "\u0109eesto; \u0109eesti, esti \u0109ie ti"
+    spa: estar presente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pre- + sen
+...

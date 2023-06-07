@@ -1,0 +1,54 @@
+---
+term: tremecu
+slug: tremecu
+ipa: "t\u027Ee\u02C8met\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Ee\u02C8met\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - tremble
+    - shake
+  epo:
+  - - tremo
+    - "tremi\u011Do"
+  - - tremi
+    - "tremi\u011Di"
+  spa:
+  - - temblar
+search terms:
+  glb:
+  - tremecu
+  eng:
+  - tremble
+  - shake
+  epo:
+  - tremo
+  - "tremi\u011Do"
+  - tremi
+  - "tremi\u011Di"
+  spa:
+  - temblar
+etymology_type: DERIVD
+etymology: <a href="../lexi/treme">treme</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: tremecu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: tremble, shake
+    epo: "tremo, tremi\u011Do; tremi, tremi\u011Di"
+    spa: temblar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: treme + -cu
+...

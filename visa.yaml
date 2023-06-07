@@ -1,0 +1,78 @@
+---
+term: visa
+slug: visa
+ipa: "\u02C8visa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8visa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - visa
+  epo:
+  - - vizo
+  spa:
+  - - visa
+search terms:
+  glb:
+  - visa
+  eng:
+  - visa
+  epo:
+  - vizo
+  spa:
+  - visa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - visa
+  Espanisa: ~
+  Fransesa: ~
+  Indonesisa: ~
+  Rusisa:
+  - - "\u0432\u0438\u0437\u0430 \u201Cviza\u201D"
+  Doycisa:
+  - - Visum
+  Pilipinasa:
+  - - bisa
+  Hindisa:
+  - - "\u0935\u0940\u091C\u093E \u201Cvija\u201D"
+  Arabisa:
+  - - "\u0641\u0650\u064A\u0632\u064E\u0627 \u201Cfiza\u201D"
+  Niponsa:
+  - - "\u30D3\u30B6 \u201Cbiza\u201D"
+  Telugusa:
+  - - "\u0C35\u0C40\u0C38\u0C3E \u201Cvisa\u201D"
+  Turkisa:
+  - - vize
+  Hangusa:
+  - - "\uBE44\uC790 \u201Cbija\u201D"
+  Parsisa:
+  - - "\u0648\u06CC\u0632\u0627 \u201Cviza\u201D"
+  Swahilisa:
+  - - viza
+raw data:
+  term: visa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: visa
+    epo: vizo
+    spa: visa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (visa), Espanisa, Fransesa, Indonesisa, Rusisa (\u0432\u0438\u0437\u0430
+    \u201Cviza\u201D), Doycisa (Visum), Pilipinasa (bisa), Hindisa (\u0935\u0940\u091C\u093E
+    \u201Cvija\u201D), Arabisa (\u0641\u0650\u064A\u0632\u064E\u0627 \u201Cfiza\u201D),
+    Niponsa (\u30D3\u30B6 \u201Cbiza\u201D), Telugusa (\u0C35\u0C40\u0C38\u0C3E \u201Cvisa\u201D),
+    Turkisa (vize), Hangusa (\uBE44\uC790 \u201Cbija\u201D), Parsisa (\u0648\u06CC\u0632\u0627
+    \u201Cviza\u201D), Swahilisa (viza)"
+...

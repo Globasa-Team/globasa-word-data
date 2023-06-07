@@ -1,0 +1,50 @@
+---
+term: digitali
+slug: digitali
+ipa: "digi\u02C8tali"
+ipa link: "http://ipa-reader.xyz/?text=digi\u02C8tali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - digital
+    - digitally
+  epo:
+  - - cifera
+  - - cifere
+  spa:
+  - - digital
+search terms:
+  glb:
+  - digitali
+  eng:
+  - digital
+  - digitally
+  epo:
+  - cifera
+  - cifere
+  spa:
+  - digital
+etymology_type: DERIVD
+etymology: <a href="../lexi/digita">digita</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: digitali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: digital, digitally
+    epo: cifera; cifere
+    spa: digital
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: digita + -li
+...

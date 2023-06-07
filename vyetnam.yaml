@@ -1,0 +1,52 @@
+---
+term: vyetnam
+slug: vyetnam
+ipa: "vjet\u02C8nam"
+ipa link: "http://ipa-reader.xyz/?text=vjet\u02C8nam&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Vietnam
+  epo:
+  - - Vjetnamio
+    - Vjetnamujo
+  spa:
+  - - Vietnam
+search terms:
+  glb:
+  - vyetnam
+  eng:
+  - vietnam
+  epo:
+  - vjetnamio
+  - vjetnamujo
+  spa:
+  - vietnam
+etymology_type: NATLNG
+etymology:
+  Vyetnamsa:
+  - - "Vi\u1EC7t Nam"
+tags:
+- dexa
+raw data:
+  term: Vyetnam
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Vietnam
+    epo: Vjetnamio, Vjetnamujo
+    spa: Vietnam
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Vyetnamsa (Vi\u1EC7t Nam)"
+...

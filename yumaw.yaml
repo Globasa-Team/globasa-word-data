@@ -1,0 +1,55 @@
+---
+term: yumaw
+slug: yumaw
+ipa: "ju\u02C8maw"
+ipa link: "http://ipa-reader.xyz/?text=ju\u02C8maw&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - feather
+  epo:
+  - - plumo
+  spa:
+  - - pluma
+search terms:
+  glb:
+  - yumaw
+  eng:
+  - feather
+  epo:
+  - plumo
+  spa:
+  - pluma
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u7FBD\u6BDB \u201Cyumao\u201D"
+  Niponsa:
+  - - "\u7FBD\u6BDB \u201Cumo\u201D"
+  Hangusa:
+  - - "\uC6B0\uBAA8 \u201Cumo\u201D"
+tags:
+- jismulogi
+raw data:
+  term: yumaw
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: feather
+    epo: plumo
+    spa: pluma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa (\u7FBD\u6BDB \u201Cyumao\u201D), Niponsa (\u7FBD\u6BDB \u201Cumo\u201D),
+    Hangusa (\uC6B0\uBAA8 \u201Cumo\u201D)"
+...

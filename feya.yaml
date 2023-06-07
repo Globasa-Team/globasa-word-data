@@ -1,0 +1,60 @@
+---
+term: feya
+slug: feya
+ipa: "\u02C8feja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8feja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - be (at)
+    - be located (in)
+    - be found (in)
+    - be situated (in)
+  epo:
+  - - esti je
+    - esti in
+    - "esti \u0109e"
+  spa:
+  - - estar en
+search terms:
+  glb:
+  - feya
+  eng:
+  - be at
+  - be
+  - be located in
+  - be located
+  - be found in
+  - be found
+  - be situated in
+  - be situated
+  epo:
+  - esti je
+  - esti in
+  - "esti \u0109e"
+  spa:
+  - estar en
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: feya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: be (at), be located (in), be found (in), be situated (in)
+    epo: "esti je, esti in, esti \u0109e"
+    spa: estar en
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe + -ya
+...

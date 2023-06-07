@@ -1,0 +1,62 @@
+---
+term: ru-
+slug: ru-
+ipa: "\u02C8\u027Eu-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eu-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - retro-
+    - re- (_back_)
+    - from back
+    - backward
+    - backwards
+  epo:
+  - - retro-
+    - re-
+  spa:
+  - - retro-
+    - re-
+    - "hacia atr\xE1s"
+    - "al rev\xE9s"
+search terms:
+  glb:
+  - ru-
+  eng:
+  - retro-
+  - re-
+  - from back
+  - backward
+  - backwards
+  epo:
+  - retro-
+  - re-
+  spa:
+  - retro-
+  - re-
+  - "hacia atr\xE1s"
+  - "al rev\xE9s"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/ruke">ruke</a>.
+raw data:
+  term: ru-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: retro-, re- (_back_), from back, backward, backwards
+    epo: retro-, re-
+    spa: "retro-, re-, hacia atr\xE1s, al rev\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _ruke_.
+...

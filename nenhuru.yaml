@@ -1,0 +1,50 @@
+---
+term: nenhuru
+slug: nenhuru
+ipa: "nen\u02C8xu\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=nen\u02C8xu\u027Eu&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - not free
+    - unfree
+  epo:
+  - - mallibera
+  - - mallibere
+  spa:
+  - - no libre
+search terms:
+  glb:
+  - nenhuru
+  eng:
+  - not free
+  - unfree
+  epo:
+  - mallibera
+  - mallibere
+  spa:
+  - no libre
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/huru">huru</a>
+raw data:
+  term: nenhuru
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: not free, unfree
+    epo: mallibera; mallibere
+    spa: no libre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + huru
+...

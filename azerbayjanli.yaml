@@ -1,0 +1,48 @@
+---
+term: azerbayjanli
+slug: azerbayjanli
+ipa: "aze\u027Ebaj\u02C8d\u0361\u0292anli"
+ipa link: "http://ipa-reader.xyz/?text=aze\u027Ebaj\u02C8d\u0361\u0292anli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Azerbaijani
+  epo:
+  - - "azerbaj\u011Dana"
+  spa:
+  - - "azer\xED"
+    - azerbaiyano
+search terms:
+  glb:
+  - azerbayjanli
+  eng:
+  - azerbaijani
+  epo:
+  - "azerbaj\u011Dana"
+  spa:
+  - "azer\xED"
+  - azerbaiyano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Azerbayjan">Azerbayjan</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Azerbayjanli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Azerbaijani
+    epo: "azerbaj\u011Dana"
+    spa: "azer\xED, azerbaiyano"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Azerbayjan + -li
+...

@@ -1,0 +1,55 @@
+---
+term: janu
+slug: janu
+ipa: "\u02C8d\u0361\u0292anu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292anu&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - knee
+  - - kneel
+  epo:
+  - - genuo
+  - - genui
+  spa:
+  - - rodilla
+  - - arrodillarse
+search terms:
+  glb:
+  - janu
+  eng:
+  - knee
+  - kneel
+  epo:
+  - genuo
+  - genui
+  spa:
+  - rodilla
+  - arrodillarse
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: janu
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: knee; kneel
+    epo: genuo; genui
+    spa: rodilla; arrodillarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Fransesa (genou), Hindisa (\u091C\u093E\u0928\u0941 \u201Cj\u0101nu\u201D),
+    Parsisa (\u0632\u0627\u0646\u0648 \u201Cz\xE2nu\u201D)"
+...

@@ -1,0 +1,48 @@
+---
+term: daylama
+slug: daylama
+ipa: "daj\u02C8lama"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8lama&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - ancient
+  epo:
+  - - antikva
+  - - antikve
+  spa:
+  - - antiguo
+search terms:
+  glb:
+  - daylama
+  eng:
+  - ancient
+  epo:
+  - antikva
+  - antikve
+  spa:
+  - antiguo
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/lama">lama</a>
+raw data:
+  term: daylama
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: ancient
+    epo: antikva; antikve
+    spa: antiguo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + lama
+...

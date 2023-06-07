@@ -1,0 +1,48 @@
+---
+term: karnataka
+slug: karnataka
+ipa: "ka\u027Ena\u02C8taka"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027Ena\u02C8taka&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Karnataka (_state in India_)
+  epo:
+  - - Karnatako
+  spa:
+  - - Karnataka (_estado de India_)
+search terms:
+  glb:
+  - karnataka
+  eng:
+  - karnataka
+  epo:
+  - karnatako
+  spa:
+  - karnataka
+etymology_type: NATLNG
+etymology:
+  Karnatakasa:
+  - - "\u0C95\u0CB0\u0CCD\u0CA8\u0CBE\u0C9F\u0C95 \u201Ckarnataka\u201D"
+raw data:
+  term: Karnataka
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Karnataka (_state in India_)
+    epo: Karnatako
+    spa: Karnataka (_estado de India_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Karnatakasa (\u0C95\u0CB0\u0CCD\u0CA8\u0CBE\u0C9F\u0C95 \u201Ckarnataka\u201D)"
+...

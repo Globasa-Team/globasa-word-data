@@ -1,0 +1,48 @@
+---
+term: maxya
+slug: maxya
+ipa: "\u02C8ma\u0283ja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u0283ja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - more
+  epo:
+  - - pli (_substantive_)
+  spa:
+  - - "m\xE1s"
+search terms:
+  glb:
+  - maxya
+  eng:
+  - more
+  epo:
+  - pli
+  spa:
+  - "m\xE1s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/max">max</a> + <a href="../lexi/-ya">-ya</a>
+antonyms:
+- minya
+raw data:
+  term: maxya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: more
+    epo: pli (_substantive_)
+    spa: "m\xE1s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: minya
+  example: ""
+  tags: ""
+  etymology: max + -ya
+...

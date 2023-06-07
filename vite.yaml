@@ -1,0 +1,61 @@
+---
+term: vite
+slug: vite
+ipa: "\u02C8vite"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8vite&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - screw
+  epo:
+  - - "\u015Dra\u016Dbo"
+  spa:
+  - - tornillo
+  deu:
+  - - Schraube
+search terms:
+  glb:
+  - vite
+  eng:
+  - screw
+  epo:
+  - "\u015Dra\u016Dbo"
+  spa:
+  - tornillo
+  deu:
+  - schraube
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - vis
+  Rusisa:
+  - - "\u0432\u0438\u043D\u0442 \u201Cvint\u201D"
+  Italisa:
+  - - vite
+  Turkisa:
+  - - vida
+  Vyetnamsa:
+  - - "v\xEDt"
+raw data:
+  term: vite
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: screw
+    epo: "\u015Dra\u016Dbo"
+    spa: tornillo
+    deu: Schraube
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (vis), Rusisa (\u0432\u0438\u043D\u0442 \u201Cvint\u201D),
+    Italisa (vite), Turkisa (vida), Vyetnamsa (v\xEDt)"
+...

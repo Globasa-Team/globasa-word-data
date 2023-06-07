@@ -1,0 +1,46 @@
+---
+term: namibili
+slug: namibili
+ipa: "nami\u02C8bili"
+ipa link: "http://ipa-reader.xyz/?text=nami\u02C8bili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Namibian
+  epo:
+  - - namibia
+  spa:
+  - - namibio
+search terms:
+  glb:
+  - namibili
+  eng:
+  - namibian
+  epo:
+  - namibia
+  spa:
+  - namibio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Namibi">Namibi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Namibili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Namibian
+    epo: namibia
+    spa: namibio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Namibi + -li
+...

@@ -1,0 +1,74 @@
+---
+term: alim
+slug: alim
+ipa: aˈlim
+ipa link: http://ipa-reader.xyz/?text=aˈlim&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - instruction
+    - teaching
+  - - teach
+    - instruct
+  epo:
+  - - instruo
+  - - instrui
+  spa:
+  - - instrucción
+    - enseñanza
+  - - enseñar
+    - instruir
+search terms:
+  glb:
+  - alim
+  eng:
+  - instruction
+  - teaching
+  - teach
+  - instruct
+  epo:
+  - instruo
+  - instrui
+  spa:
+  - instrucción
+  - enseñanza
+  - enseñar
+  - instruir
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - علم “alim”
+  Parsisa:
+  - - معلم “moalem”
+  Hindisa:
+  - - तालीम “talim”
+  Swahilisa:
+  - - elimu
+    - mwalimu
+  Turkisa:
+  - - talimat
+tags:
+- eskolya
+raw data:
+  term: alim
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: instruction, teaching; teach, instruct
+    epo: instruo; instrui
+    spa: instrucción, enseñanza; enseñar, instruir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: eskolya
+  etymology: Arabisa (علم “alim”), Parsisa (معلم “moalem”), Hindisa (तालीम “talim”),
+    Swahilisa (elimu, mwalimu), Turkisa (talimat)
+...

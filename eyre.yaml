@@ -1,0 +1,52 @@
+---
+term: eyre
+slug: eyre
+ipa: "\u02C8ej\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ej\u027Ee&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Ireland
+  epo:
+  - - Irlando
+    - Ejro
+  spa:
+  - - Irlanda
+search terms:
+  glb:
+  - eyre
+  eng:
+  - ireland
+  epo:
+  - irlando
+  - ejro
+  spa:
+  - irlanda
+etymology_type: NATLNG
+etymology:
+  Eyresa:
+  - - "\xC9ire"
+tags:
+- dexa
+raw data:
+  term: Eyre
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Ireland
+    epo: Irlando, Ejro
+    spa: Irlanda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Eyresa (\xC9ire)"
+...

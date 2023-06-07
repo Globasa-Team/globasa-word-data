@@ -1,0 +1,50 @@
+---
+term: marmor
+slug: marmor
+ipa: "ma\u027E\u02C8mo\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ma\u027E\u02C8mo\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - marble (_material_)
+  epo:
+  - - marmoro
+  spa:
+  - - "m\xE1rmol"
+search terms:
+  glb:
+  - marmor
+  eng:
+  - marble
+  epo:
+  - marmoro
+  spa:
+  - "m\xE1rmol"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: marmor
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: marble (_material_)
+    epo: marmoro
+    spa: "m\xE1rmol"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (marble), Espanisa (m\xE1rmol), Fransesa (marbre), Rusisa (\u043C\u0440\u0430\u043C\u043E\u0440
+    \u201Cmramor\u201D), Doycisa (Marmor), Indonesisa (marmer), Pilipinasa (marmol),
+    Hindisa (\u0938\u0902\u0917\u092E\u0930\u092E\u0930 \u201Csangmarmar\u201D), Niponsa
+    (\u30DE\u30FC\u30D6\u30EB \u201Cmaburu\u201D), Parsisa (mermer), Swahilisa (marumaru,
+    marmar)"
+...

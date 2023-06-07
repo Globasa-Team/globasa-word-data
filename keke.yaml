@@ -1,0 +1,49 @@
+---
+term: keke
+slug: keke
+ipa: "\u02C8keke"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8keke&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cake
+  epo:
+  - - kuko
+  spa:
+  - - pastel
+search terms:
+  glb:
+  - keke
+  eng:
+  - cake
+  epo:
+  - kuko
+  spa:
+  - pastel
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: keke
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cake
+    epo: kuko
+    spa: pastel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (cake), Doycisa (Kuchen), Norgesa (kake), Hindisa (\u0915\u0947\u0915
+    \u201Ckek\u201D), Turkisa (kek), Arabisa (\u0643\u064A\u0643\u0629 \u201Ckayka\u201D)"
+...

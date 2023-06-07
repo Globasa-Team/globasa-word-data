@@ -1,0 +1,60 @@
+---
+term: alopul
+slug: alopul
+ipa: "alo\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=alo\u02C8pul&voice=Ewa"
+status: true
+category: derived
+word class: t
+trans:
+  eng:
+  - - a different kind of
+    - (in) another way
+    - (in) a different way
+  epo:
+  - - alispeca
+    - alimaniera
+  - - alispece
+    - alimaniere
+  spa:
+  - - de otra manera
+    - de otro modo
+search terms:
+  glb:
+  - alopul
+  eng:
+  - a different kind of
+  - in another way
+  - another way
+  - in a different way
+  - a different way
+  epo:
+  - alispeca
+  - alimaniera
+  - alispece
+  - alimaniere
+  spa:
+  - de otra manera
+  - de otro modo
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: alopul
+  category: derived
+  word class: t
+  status: true
+  trans:
+    eng: a different kind of, (in) another way, (in) a different way
+    epo: alispeca, alimaniera; alispece, alimaniere
+    spa: de otra manera, de otro modo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + -pul
+...

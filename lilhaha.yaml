@@ -1,0 +1,52 @@
+---
+term: lilhaha
+slug: lilhaha
+ipa: "lil\u02C8xaxa"
+ipa link: "http://ipa-reader.xyz/?text=lil\u02C8xaxa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - giggle
+  epo:
+  - - subrido
+    - "ka\u015Drido"
+  - - subridi
+    - "ka\u015Dridi"
+  spa:
+  - - "re\xEDrse nerviosamente"
+search terms:
+  glb:
+  - lilhaha
+  eng:
+  - giggle
+  epo:
+  - subrido
+  - "ka\u015Drido"
+  - subridi
+  - "ka\u015Dridi"
+  spa:
+  - "re\xEDrse nerviosamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/haha">haha</a>
+raw data:
+  term: lilhaha
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: giggle
+    epo: "subrido, ka\u015Drido; subridi, ka\u015Dridi"
+    spa: "re\xEDrse nerviosamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + haha
+...

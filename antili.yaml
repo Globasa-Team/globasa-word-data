@@ -1,0 +1,56 @@
+---
+term: antili
+slug: antili
+ipa: "an\u02C8tili"
+ipa link: "http://ipa-reader.xyz/?text=an\u02C8tili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - opposing
+  - - opposingly
+  epo:
+  - - opona
+    - onponanta
+  - - opone
+    - oponante
+  spa:
+  - - oponente
+search terms:
+  glb:
+  - antili
+  eng:
+  - opposing
+  - opposingly
+  epo:
+  - opona
+  - onponanta
+  - opone
+  - oponante
+  spa:
+  - oponente
+etymology_type: DERIVD
+etymology: <a href="../lexi/anti">anti</a> + <a href="../lexi/-li">-li</a>
+antonyms:
+- proli
+raw data:
+  term: antili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: opposing; opposingly
+    epo: opona, onponanta; opone, oponante
+    spa: oponente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: proli
+  example: ""
+  tags: ""
+  etymology: anti + -li
+...

@@ -1,0 +1,48 @@
+---
+term: belgili
+slug: belgili
+ipa: "bel\u02C8gili"
+ipa link: "http://ipa-reader.xyz/?text=bel\u02C8gili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Belgian
+  epo:
+  - - belga
+  - - belge
+  spa:
+  - - belga
+search terms:
+  glb:
+  - belgili
+  eng:
+  - belgian
+  epo:
+  - belga
+  - belge
+  spa:
+  - belga
+etymology_type: DERIVD
+etymology: <a href="../lexi/Belgi">Belgi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Belgili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Belgian
+    epo: belga; belge
+    spa: belga
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Belgi + -li
+...

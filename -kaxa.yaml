@@ -1,0 +1,48 @@
+---
+term: -kaxa
+slug: -kaxa
+ipa: "-\u02C8ka\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8ka\u0283a&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - case
+    - container
+  epo:
+  - - -ujo
+  spa:
+  - - contenedor
+search terms:
+  glb:
+  - -kaxa
+  eng:
+  - case
+  - container
+  epo:
+  - -ujo
+  spa:
+  - contenedor
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/kaxa">kaxa</a>.
+raw data:
+  term: -kaxa
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: case, container
+    epo: -ujo
+    spa: contenedor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _kaxa_.
+...

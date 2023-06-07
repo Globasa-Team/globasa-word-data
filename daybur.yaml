@@ -1,0 +1,52 @@
+---
+term: daybur
+slug: daybur
+ipa: "daj\u02C8bu\u027E"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8bu\u027E&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - awful
+    - terrible
+    - evil
+  epo:
+  - - malbonega
+  - - malbonege
+  spa:
+  - - terrible
+search terms:
+  glb:
+  - daybur
+  eng:
+  - awful
+  - terrible
+  - evil
+  epo:
+  - malbonega
+  - malbonege
+  spa:
+  - terrible
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/bur">bur</a>
+raw data:
+  term: daybur
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: awful, terrible, evil
+    epo: malbonega; malbonege
+    spa: terrible
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + bur
+...

@@ -1,0 +1,63 @@
+---
+term: zukam
+slug: zukam
+ipa: "zu\u02C8kam"
+ipa link: "http://ipa-reader.xyz/?text=zu\u02C8kam&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (common) cold
+  epo:
+  - - malvarmumo
+  spa:
+  - - resfriado
+    - catarro
+search terms:
+  glb:
+  - zukam
+  eng:
+  - common cold
+  - cold
+  epo:
+  - malvarmumo
+  spa:
+  - resfriado
+  - catarro
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u091C\u093C\u0941\u0915\u093E\u092E \u201Czukam\u201D"
+  Arabisa:
+  - - "\u0632\u064F\u0643\u064E\u0627\u0645 \u201Czukam\u201D"
+  Turkisa:
+  - - "z\xFCk\xE2m"
+  Parsisa:
+  - - "\u0632\u06A9\u0627\u0645 \u201Czukam\u201D"
+  Vyetnamsa:
+  - - "c\u1EA3m"
+tags:
+- medis
+raw data:
+  term: zukam
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (common) cold
+    epo: malvarmumo
+    spa: resfriado, catarro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Hindisa (\u091C\u093C\u0941\u0915\u093E\u092E \u201Czukam\u201D), Arabisa
+    (\u0632\u064F\u0643\u064E\u0627\u0645 \u201Czukam\u201D), Turkisa (z\xFCk\xE2m),
+    Parsisa (\u0632\u06A9\u0627\u0645 \u201Czukam\u201D), Vyetnamsa (c\u1EA3m)"
+...

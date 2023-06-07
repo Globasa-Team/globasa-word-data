@@ -1,0 +1,53 @@
+---
+term: presentiyen
+slug: presentiyen
+ipa: "p\u027Eesenti\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eesenti\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - witness (_one who witnesses_)
+  epo:
+  - - atestanto (_iu
+    - kiu vidas_)
+    - vidinto
+    - "\u0109eestanto"
+  spa:
+  - - testigo
+search terms:
+  glb:
+  - presentiyen
+  eng:
+  - witness
+  epo:
+  - atestanto iu
+  - atestanto (_iu
+  - kiu vidas
+  - vidinto
+  - "\u0109eestanto"
+  spa:
+  - testigo
+etymology_type: DERIVD
+etymology: <a href="../lexi/presenti">presenti</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: presentiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: witness (_one who witnesses_)
+    epo: "atestanto (_iu, kiu vidas_), vidinto, \u0109eestanto"
+    spa: testigo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: presenti + -yen
+...

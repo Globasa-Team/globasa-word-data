@@ -1,0 +1,46 @@
+---
+term: alomo
+slug: alomo
+ipa: "a\u02C8lomo"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8lomo&voice=Ewa"
+status: true
+category: derived
+word class: m
+trans:
+  eng:
+  - - to a different degree
+  epo:
+  - - aligrade
+  spa:
+  - - a un grado diferente
+search terms:
+  glb:
+  - alomo
+  eng:
+  - to a different degree
+  epo:
+  - aligrade
+  spa:
+  - a un grado diferente
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: alomo
+  category: derived
+  word class: m
+  status: true
+  trans:
+    eng: to a different degree
+    epo: aligrade
+    spa: a un grado diferente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + -mo
+...

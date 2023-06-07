@@ -1,0 +1,54 @@
+---
+term: no abil
+slug: no abil
+ipa: "\u02C8no a\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8no a\u02C8bil&voice=Ewa"
+status: false
+category: phrase
+word class: m
+trans:
+  eng:
+  - - can't
+    - cannot
+  epo:
+  - - ne povas
+  spa:
+  - - no poder
+  deu:
+  - - "nicht k\xF6nnen"
+search terms:
+  glb:
+  - no abil
+  - "no"
+  - abil
+  eng:
+  - can't
+  - cannot
+  epo:
+  - ne povas
+  spa:
+  - no poder
+  deu:
+  - "nicht k\xF6nnen"
+etymology_type: DERIVD
+etymology: <a href="../lexi/no">no</a>, <a href="../lexi/abil">abil</a>
+raw data:
+  term: no abil
+  category: phrase
+  word class: m
+  status: false
+  trans:
+    eng: can't, cannot
+    epo: ne povas
+    spa: no poder
+    deu: "nicht k\xF6nnen"
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: no, abil
+...

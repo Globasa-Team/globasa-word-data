@@ -1,0 +1,48 @@
+---
+term: gubarpul
+slug: gubarpul
+ipa: "guba\u027E\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=guba\u027E\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - dusty
+  epo:
+  - - polva
+  - - polve
+  spa:
+  - - polvoriento
+search terms:
+  glb:
+  - gubarpul
+  eng:
+  - dusty
+  epo:
+  - polva
+  - polve
+  spa:
+  - polvoriento
+etymology_type: DERIVD
+etymology: <a href="../lexi/gubar">gubar</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: gubarpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: dusty
+    epo: polva; polve
+    spa: polvoriento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gubar + -pul
+...

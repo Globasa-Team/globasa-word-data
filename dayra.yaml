@@ -1,0 +1,55 @@
+---
+term: dayra
+slug: dayra
+ipa: ˈdajɾa
+ipa link: http://ipa-reader.xyz/?text=ˈdajɾa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - circle
+  epo:
+  - - cirklo
+  spa:
+  - - círculo
+search terms:
+  glb:
+  - dayra
+  eng:
+  - circle
+  epo:
+  - cirklo
+  spa:
+  - círculo
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - دائرة “dayira”
+  Parsisa:
+  - - دایره “dayere”
+  Swahilisa:
+  - - duara
+  Turkisa:
+  - - daire
+raw data:
+  term: dayra
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: circle
+    epo: cirklo
+    spa: círculo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (دائرة “dayira”), Parsisa (دایره “dayere”), Swahilisa (duara),
+    Turkisa (daire)
+...

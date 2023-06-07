@@ -1,0 +1,77 @@
+---
+term: nano
+slug: nano
+ipa: "\u02C8nano"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nano&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - "1 \xD7 10^-9"
+    - one billionth of
+  epo:
+  - - miliardono
+  spa:
+  - - nano-
+    - "1 \xD7 10^-9"
+    - "mil millon\xE9sima parte de"
+    - "n"
+search terms:
+  glb:
+  - nano
+  eng:
+  - "1 \xD7 10^-9"
+  - one billionth of
+  epo:
+  - miliardono
+  spa:
+  - nano-
+  - "1 \xD7 10^-9"
+  - "mil millon\xE9sima parte de"
+  - "n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nano-
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa:
+  - - "\u043D\u0430\u043D\u043E\u043C\u0435\u0442\u0440 \u201Cnanometr\u201D"
+  Espanisa: ~
+  Arabisa: ~
+  Hindisa: ~
+  Telugusa: ~
+  Parsisa: ~
+  Turkisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Swahilisa: ~
+  Vyetnamsa:
+  - - "nan\xF4m\xE9t"
+  Niponsa:
+  - - "\u30CA\u30CE\u30E1\u30FC\u30C8\u30EB \u201Cnanom\u0113toru\u201D"
+  Hangusa: ~
+raw data:
+  term: nano
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: "1 \xD7 10^-9, one billionth of"
+    epo: miliardono
+    spa: "nano-, 1 \xD7 10^-9, mil millon\xE9sima parte de, n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (nano-), Fransesa ( ), Doycisa, Rusisa (\u043D\u0430\u043D\u043E\u043C\u0435\u0442\u0440
+    \u201Cnanometr\u201D), Espanisa, Arabisa, Hindisa, Telugusa, Parsisa, Turkisa,
+    Indonesisa, Pilipinasa, Swahilisa, Vyetnamsa (nan\xF4m\xE9t), Niponsa (\u30CA\u30CE\u30E1\u30FC\u30C8\u30EB
+    \u201Cnanom\u0113toru\u201D), Hangusa"
+...

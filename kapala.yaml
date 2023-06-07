@@ -1,0 +1,57 @@
+---
+term: kapala
+slug: kapala
+ipa: "ka\u02C8pala"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8pala&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - skull
+    - cranium
+  epo:
+  - - kranio
+    - skeletkapo
+  spa:
+  - - "cr\xE1neo"
+    - calavera
+search terms:
+  glb:
+  - kapala
+  eng:
+  - skull
+  - cranium
+  epo:
+  - kranio
+  - skeletkapo
+  spa:
+  - "cr\xE1neo"
+  - calavera
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: kapala
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: skull, cranium
+    epo: kranio, skeletkapo
+    spa: "cr\xE1neo, calavera"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Indonesisa (batok kepala), Hindisa (\u0915\u092A\u093E\u0932 \u201Ckapal\u201D),
+    Telugusa (\u0C15\u0C2A\u0C3E\u0C32\u0C2E\u0C41 \u201Ckapalamu\u201D). Am pia oko:
+    Turkisa (kafatas\u0131), Espanisa (calavera), Parsisa (\u06A9\u0644\u0647 \u201Ckalle\u201D).
+    Am kompara: _kapi_ ji _kapuco_."
+...

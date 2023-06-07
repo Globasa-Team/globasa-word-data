@@ -1,0 +1,57 @@
+---
+term: klosi
+slug: klosi
+ipa: "\u02C8klosi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8klosi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - closure
+  - - close
+    - shut
+  epo:
+  - - fermo
+  - - fermi
+  spa:
+  - - cierre
+  - - cerrar
+    - cerrarse
+search terms:
+  glb:
+  - klosi
+  eng:
+  - closure
+  - close
+  - shut
+  epo:
+  - fermo
+  - fermi
+  spa:
+  - cierre
+  - cerrar
+  - cerrarse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: klosi
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: closure; close, shut
+    epo: fermo; fermi
+    spa: cierre; cerrar, cerrarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (close, closing), Espanisa (clausura), Fransesa (clos), Doycisa
+    (Closura)
+...

@@ -1,0 +1,53 @@
+---
+term: melase
+slug: melase
+ipa: "me\u02C8lase"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8lase&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - molasses
+    - treacle
+  epo:
+  - - melaso
+  spa:
+  - - melaza
+search terms:
+  glb:
+  - melase
+  eng:
+  - molasses
+  - treacle
+  epo:
+  - melaso
+  spa:
+  - melaza
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: melase
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: molasses, treacle
+    epo: melaso
+    spa: melaza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (molasses), Espanisa (melaza), Fransesa (m\xE9lasse), Rusisa
+    (\u043C\u0435\u043B\u0430\u0441\u0441\u0430 \"melassa\"), Doycisa (Melasse), Indonesisa
+    (molase), Pilipinasa (melasa), Turkisa (melas), Parsisa (\u0645\u0644\u0627\u0633
+    \"mal\xE2s\")"
+...

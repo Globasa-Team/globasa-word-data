@@ -1,0 +1,55 @@
+---
+term: mincu
+slug: mincu
+ipa: "\u02C8mint\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mint\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - decrease
+    - reduction
+  - - decrease
+    - reduce
+  epo:
+  - - "malplii\u011Do"
+  - - "malplii\u011Di"
+  spa:
+  - - "reducci\xF3n"
+  - - reducirse
+search terms:
+  glb:
+  - mincu
+  eng:
+    0: decrease
+    1: reduction
+    3: reduce
+  epo:
+  - "malplii\u011Do"
+  - "malplii\u011Di"
+  spa:
+  - "reducci\xF3n"
+  - reducirse
+etymology_type: DERIVD
+etymology: <a href="../lexi/min">min</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: mincu
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: decrease, reduction; decrease, reduce
+    epo: "malplii\u011Do; malplii\u011Di"
+    spa: "reducci\xF3n; reducirse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: min + -cu
+...

@@ -1,0 +1,50 @@
+---
+term: balagi
+slug: balagi
+ipa: "ba\u02C8lagi"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8lagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - strengthen
+    - make strong
+  epo:
+  - - fortigo
+  - - fortigi
+  spa:
+  - - fortalecer
+search terms:
+  glb:
+  - balagi
+  eng:
+  - strengthen
+  - make strong
+  epo:
+  - fortigo
+  - fortigi
+  spa:
+  - fortalecer
+etymology_type: DERIVD
+etymology: <a href="../lexi/bala">bala</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: balagi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: strengthen, make strong
+    epo: fortigo; fortigi
+    spa: fortalecer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bala + -gi
+...

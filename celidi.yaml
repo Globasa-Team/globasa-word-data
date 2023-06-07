@@ -1,0 +1,58 @@
+---
+term: celidi
+slug: celidi
+ipa: "t\u0361\u0283e\u02C8lidi"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283e\u02C8lidi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - access
+    - reach
+    - attain
+  epo:
+  - - aliro
+    - atingo
+  - - aliri
+    - atingi
+  spa:
+  - - acceso
+  - - acceder a
+search terms:
+  glb:
+  - celidi
+  eng:
+  - access
+  - reach
+  - attain
+  epo:
+  - aliro
+  - atingo
+  - aliri
+  - atingi
+  spa:
+  - acceso
+  - acceder a
+etymology_type: DERIVD
+etymology: <a href="../lexi/cel-">cel-</a> + <a href="../lexi/idi">idi</a>
+raw data:
+  term: celidi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: access, reach, attain
+    epo: aliro, atingo; aliri, atingi
+    spa: acceso; acceder a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cel- + idi
+...

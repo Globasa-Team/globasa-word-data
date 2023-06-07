@@ -1,0 +1,50 @@
+---
+term: suri
+slug: suri
+ipa: "\u02C8su\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8su\u027Ei&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Syria
+  epo:
+  - - Sirio
+  spa:
+  - - Siria
+search terms:
+  glb:
+  - suri
+  eng:
+  - syria
+  epo:
+  - sirio
+  spa:
+  - siria
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0633\u0648\u0631\u064A\u0627\u200E S\u016Briy\u0101"
+tags:
+- dexa
+raw data:
+  term: Suri
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Syria
+    epo: Sirio
+    spa: Siria
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u0633\u0648\u0631\u064A\u0627\u200E S\u016Briy\u0101)"
+...

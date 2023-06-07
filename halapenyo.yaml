@@ -1,0 +1,51 @@
+---
+term: halapenyo
+slug: halapenyo
+ipa: "xala\u02C8penjo"
+ipa link: "http://ipa-reader.xyz/?text=xala\u02C8penjo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - "jalape\xF1o"
+  epo:
+  - - halapenjo
+  spa:
+  - - "jalape\xF1o"
+    - _Capsicum annuum_
+search terms:
+  glb:
+  - halapenyo
+  eng:
+  - "jalape\xF1o"
+  epo:
+  - halapenjo
+  spa:
+  - "jalape\xF1o"
+  - capsicum annuum
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- fruta
+- yamxey
+raw data:
+  term: halapenyo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: "jalape\xF1o "
+    epo: halapenjo
+    spa: "jalape\xF1o, _Capsicum annuum_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Espanisa (jalape\xF1o)"
+...

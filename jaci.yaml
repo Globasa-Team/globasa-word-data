@@ -1,0 +1,60 @@
+---
+term: jaci
+slug: jaci
+ipa: "\u02C8d\u0361\u0292at\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292at\u0361\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - value
+    - worth
+  - - be worth
+    - have value
+  epo:
+  - - valoro
+  - - valori
+  spa:
+  - - valor
+  - - valer
+    - tener valor
+search terms:
+  glb:
+  - jaci
+  eng:
+  - value
+  - worth
+  - be worth
+  - have value
+  epo:
+  - valoro
+  - valori
+  spa:
+  - valor
+  - valer
+  - tener valor
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jaci
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: value, worth; be worth, have value
+    epo: valoro; valori
+    spa: valor; valer, tener valor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u4EF7\u503C \u201Cji\xE0zh\xED\u201D), Hangusa (\uAC00\uCE58
+    \u201Cgachi\u201D), Niponsa (\u4FA1\u5024 \u201Ckachi\u201D), Vyetnamsa (gi\xE1
+    tr\u1ECB)"
+...

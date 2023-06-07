@@ -1,0 +1,46 @@
+---
+term: -bimar
+slug: -bimar
+ipa: "-bi\u02C8ma\u027E"
+ipa link: "http://ipa-reader.xyz/?text=-bi\u02C8ma\u027E&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - sick
+  epo:
+  - - -malsana
+  spa:
+  - - enfermo
+search terms:
+  glb:
+  - -bimar
+  eng:
+  - sick
+  epo:
+  - -malsana
+  spa:
+  - enfermo
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/bimar">bimar</a>.
+raw data:
+  term: -bimar
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: sick
+    epo: -malsana
+    spa: enfermo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _bimar_.
+...

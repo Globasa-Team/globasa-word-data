@@ -1,0 +1,46 @@
+---
+term: minya
+slug: minya
+ipa: "\u02C8minja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8minja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - less
+  epo:
+  - - malplio
+  spa:
+  - - menos
+search terms:
+  glb:
+  - minya
+  eng:
+  - less
+  epo:
+  - malplio
+  spa:
+  - menos
+etymology_type: DERIVD
+etymology: <a href="../lexi/min">min</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: minya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: less
+    epo: malplio
+    spa: menos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: min + -ya
+...

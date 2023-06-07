@@ -1,0 +1,50 @@
+---
+term: posmasku
+slug: posmasku
+ipa: "pos\u02C8masku"
+ipa link: "http://ipa-reader.xyz/?text=pos\u02C8masku&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - unmask
+  epo:
+  - - "senmaski\u011Do"
+  - - malmaski
+    - "senmaski\u011Di"
+  spa:
+  - - desenmascarar
+search terms:
+  glb:
+  - posmasku
+  eng:
+  - unmask
+  epo:
+  - "senmaski\u011Do"
+  - malmaski
+  - "senmaski\u011Di"
+  spa:
+  - desenmascarar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/masku">masku</a>
+raw data:
+  term: posmasku
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: unmask
+    epo: "senmaski\u011Do; malmaski, senmaski\u011Di"
+    spa: desenmascarar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + masku
+...

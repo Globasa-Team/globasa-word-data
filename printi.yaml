@@ -1,0 +1,78 @@
+---
+term: printi
+slug: printi
+ipa: "\u02C8p\u027Einti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8p\u027Einti&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - print
+  epo:
+  - - preso
+    - printo
+  - - presi
+    - printi
+  spa:
+  - - imprimir
+search terms:
+  glb:
+  - printi
+  eng:
+  - print
+  epo:
+  - preso
+  - printo
+  - presi
+  - printi
+  spa:
+  - imprimir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - print
+    - printing
+  Espanisa:
+  - - imprimir
+  Fransesa:
+  - - imprimer
+    - imprimante
+  Rusisa:
+  - - "\u043F\u0440\u0438\u043D\u0442\u0435\u0440 \u201Cprinter\u201D"
+  Pilipinasa:
+  - - iprint
+    - magprint
+  Hindisa:
+  - - "\u092A\u094D\u0930\u093F\u0902\u091F\u0930 \u201Cprintar\u201D"
+  Niponsa:
+  - - "\u30D7\u30EA\u30F3\u30BF\u30FC \u201Cpurinta\u201D"
+  Hangusa:
+  - - "\uD504\uB9B0\uD130 \u201Cpurinta\u201D"
+  Parsisa:
+  - - "\u067E\u0631\u06CC\u0646\u062A\u0631 \u201Cperinter\u201D"
+raw data:
+  term: printi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: print
+    epo: preso, printo; presi, printi
+    spa: imprimir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (print, printing), Espanisa (imprimir), Fransesa (imprimer,
+    imprimante), Rusisa (\u043F\u0440\u0438\u043D\u0442\u0435\u0440 \u201Cprinter\u201D),
+    Pilipinasa (iprint, magprint), Hindisa (\u092A\u094D\u0930\u093F\u0902\u091F\u0930
+    \u201Cprintar\u201D), Niponsa (\u30D7\u30EA\u30F3\u30BF\u30FC \u201Cpurinta\u201D),
+    Hangusa (\uD504\uB9B0\uD130 \u201Cpurinta\u201D), Parsisa (\u067E\u0631\u06CC\u0646\u062A\u0631
+    \u201Cperinter\u201D)"
+...

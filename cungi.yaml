@@ -1,0 +1,67 @@
+---
+term: cungi
+slug: cungi
+ipa: "\u02C8t\u0361\u0283ungi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u0361\u0283ungi&voice=Ewa"
+status: false
+category: root
+word class: t
+trans:
+  eng:
+  - - loyal
+    - faithful
+    - devoted
+  epo:
+  - - lojala
+    - fidela
+  - - lojale
+    - fidele
+  spa:
+  - - leal
+    - fiel
+search terms:
+  glb:
+  - cungi
+  eng:
+  - loyal
+  - faithful
+  - devoted
+  epo:
+  - lojala
+  - fidela
+  - lojale
+  - fidele
+  spa:
+  - leal
+  - fiel
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5FE0\u4E49 \"jungyi\""
+  Niponsa:
+  - - "\u5FE0\u7FA9 \"cugi\""
+  Vyetnamsa:
+  - - "trung ngh\u0129a"
+  Hangusa:
+  - - "\uCDA9\uC758 \"cunywi\""
+raw data:
+  term: cungi
+  category: root
+  word class: t
+  status: false
+  trans:
+    eng: loyal, faithful, devoted
+    epo: lojala, fidela; lojale, fidele
+    spa: leal, fiel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5FE0\u4E49 \"jungyi\"), Niponsa (\u5FE0\u7FA9 \"cugi\"),
+    Vyetnamsa (trung ngh\u0129a), Hangusa (\uCDA9\uC758 \"cunywi\")"
+...

@@ -1,0 +1,46 @@
+---
+term: trankwiloya
+slug: trankwiloya
+ipa: "t\u027Eankwi\u02C8loja"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Eankwi\u02C8loja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - tranquility
+  epo:
+  - - trankvileco
+  spa:
+  - - tranquilidad
+search terms:
+  glb:
+  - trankwiloya
+  eng:
+  - tranquility
+  epo:
+  - trankvileco
+  spa:
+  - tranquilidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/trankwilo">trankwilo</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: trankwiloya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: tranquility
+    epo: trankvileco
+    spa: tranquilidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: trankwilo + -ya
+...

@@ -1,0 +1,56 @@
+---
+term: kobalto
+slug: kobalto
+ipa: "ko\u02C8balto"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8balto&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cobalt
+  epo:
+  - - kobalto
+  spa:
+  - - cobalto
+    - Co
+search terms:
+  glb:
+  - kobalto
+  eng:
+  - cobalt
+  epo:
+  - kobalto
+  spa:
+  - cobalto
+  - co
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: kobalto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cobalt
+    epo: kobalto
+    spa: cobalto, Co
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (cobalt), Espanisa (cobalto), Arabisa (\u0643\u064F\u0648\u0628\u064E\u0644\u0652\u062A
+    \u201Ckubalt\u201D), Fransesa (cobalt), Rusisa (\u043A\u043E\u0431\u0430\u043B\u044C\u0442
+    \u201Ckobalt\u201D), Indonesisa (kobalt), Doycisa (Kobalt), Niponsa (\u30B3\u30D0\u30EB\u30C8
+    \u201Ckobaruto\u201D), Telugusa (\u0C15\u0C4B\u0C2C\u0C3E\u0C32\u0C4D\u0C1F\u0C4D
+    \u201Ckobalt\u201D), Turkisa (kobalt), Hangusa (\uCF54\uBC1C\uD2B8 \u201Ckobaltu\u201D),
+    Vyetnamsa (coban), Parsisa (\u06A9\u0628\u0627\u0644\u062A \u201Ckobalt\u201D),
+    Swahilisa (kobalti), Pilipinasa (kobalto)"
+...

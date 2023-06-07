@@ -1,0 +1,51 @@
+---
+term: moryen
+slug: moryen
+ipa: "mo\u02C8\u027Ejen"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8\u027Ejen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (the) dead
+    - a dead person
+  epo:
+  - - mortinto
+    - mortulo
+  spa:
+  - - muerto (_persona_)
+search terms:
+  glb:
+  - moryen
+  eng:
+  - the dead
+  - dead
+  - a dead person
+  epo:
+  - mortinto
+  - mortulo
+  spa:
+  - muerto
+etymology_type: DERIVD
+etymology: <a href="../lexi/mor-">mor-</a> + <a href="../lexi/yen">yen</a>
+raw data:
+  term: moryen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (the) dead, a dead person
+    epo: mortinto, mortulo
+    spa: muerto (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mor- + yen
+...

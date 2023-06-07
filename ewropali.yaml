@@ -1,0 +1,48 @@
+---
+term: ewropali
+slug: ewropali
+ipa: "ew\u027Eo\u02C8pali"
+ipa link: "http://ipa-reader.xyz/?text=ew\u027Eo\u02C8pali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - European
+  epo:
+  - - "e\u016Dropa"
+  - - "e\u016Drope"
+  spa:
+  - - europeo
+search terms:
+  glb:
+  - ewropali
+  eng:
+  - european
+  epo:
+  - "e\u016Dropa"
+  - "e\u016Drope"
+  spa:
+  - europeo
+etymology_type: DERIVD
+etymology: <a href="../lexi/Ewropa">Ewropa</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Ewropali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: European
+    epo: "e\u016Dropa; e\u016Drope"
+    spa: europeo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Ewropa + -li
+...

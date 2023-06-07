@@ -1,0 +1,54 @@
+---
+term: si
+slug: si
+ipa: "\u02C8si"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8si&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - "yes"
+  epo:
+  - - jes
+  spa:
+  - - "s\xED"
+search terms:
+  glb:
+  - si
+  eng:
+  - "yes"
+  epo:
+  - jes
+  spa:
+  - "s\xED"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u662F \u201Csh\xEC\u201D"
+  Espanisa:
+  - - "s\xED"
+  Fransesa:
+  - - si
+tags:
+- intrelogalexi
+raw data:
+  term: si
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: "yes"
+    epo: jes
+    spa: "s\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: "Putunhwa  (\u662F \u201Csh\xEC\u201D), Espanisa (s\xED), Fransesa (si)"
+...

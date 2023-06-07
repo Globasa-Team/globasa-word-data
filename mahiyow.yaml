@@ -1,0 +1,46 @@
+---
+term: mahiyow
+slug: mahiyow
+ipa: "maxi\u02C8jow"
+ipa link: "http://ipa-reader.xyz/?text=maxi\u02C8jow&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - fish oil
+  epo:
+  - - "fi\u015Doleo"
+  spa:
+  - - aceite de pescado
+search terms:
+  glb:
+  - mahiyow
+  eng:
+  - fish oil
+  epo:
+  - "fi\u015Doleo"
+  spa:
+  - aceite de pescado
+etymology_type: DERIVD
+etymology: <a href="../lexi/mahi">mahi</a> + <a href="../lexi/yow">yow</a>
+raw data:
+  term: mahiyow
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: fish oil
+    epo: "fi\u015Doleo"
+    spa: aceite de pescado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mahi + yow
+...

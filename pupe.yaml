@@ -1,0 +1,57 @@
+---
+term: pupe
+slug: pupe
+ipa: "\u02C8pupe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pupe&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - doll
+  epo:
+  - - pupo
+  spa:
+  - - "mu\xF1eca"
+search terms:
+  glb:
+  - pupe
+  eng:
+  - doll
+  epo:
+  - pupo
+  spa:
+  - "mu\xF1eca"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - puppet
+  Doycisa:
+  - - Puppe
+  Fransesa:
+  - - "poup\xE9e"
+  Vyetnamsa:
+  - - "b\xFAp b\xEA"
+tags:
+- yuxitul
+raw data:
+  term: pupe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: 'doll '
+    epo: pupo
+    spa: "mu\xF1eca"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yuxitul
+  etymology: "Englisa (puppet), Doycisa (Puppe), Fransesa (poup\xE9e), Vyetnamsa (b\xFAp
+    b\xEA)"
+...

@@ -1,0 +1,55 @@
+---
+term: bageli
+slug: bageli
+ipa: "ba\u02C8geli"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8geli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - (in) part
+  epo:
+  - - parta
+  - - parte
+  spa:
+  - - parcial
+  - - en parte
+    - parcialmente
+search terms:
+  glb:
+  - bageli
+  eng:
+  - in part
+  - part
+  epo:
+  - parta
+  - parte
+  spa:
+  - parcial
+  - en parte
+  - parcialmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/bage">bage</a> + <a href="../lexi/-li">-li</a>
+synonyms:
+- semi
+raw data:
+  term: bageli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: (in) part
+    epo: parta; parte
+    spa: parcial; en parte, parcialmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: semi
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bage + -li
+...

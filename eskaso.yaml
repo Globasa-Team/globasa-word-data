@@ -1,0 +1,68 @@
+---
+term: eskaso
+slug: eskaso
+ipa: esˈkaso
+ipa link: http://ipa-reader.xyz/?text=esˈkaso&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - scarce
+    - scarcely
+    - barely
+    - hardly
+  epo:
+  - - malabunda
+    - malmulta
+  - - malabunde
+    - malmulte
+    - apenaŭ
+  spa:
+  - - escaso
+  - - escasamente
+    - apenas
+search terms:
+  glb:
+  - eskaso
+  eng:
+  - scarce
+  - scarcely
+  - barely
+  - hardly
+  epo:
+  - malabunda
+  - malmulta
+  - malabunde
+  - malmulte
+  - apenaŭ
+  spa:
+  - escaso
+  - escasamente
+  - apenas
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - scarce
+  Espanisa:
+  - - escaso
+raw data:
+  term: eskaso
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: scarce, scarcely, barely, hardly
+    epo: malabunda, malmulta; malabunde, malmulte, apenaŭ
+    spa: escaso; escasamente, apenas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (scarce), Espanisa (escaso)
+...

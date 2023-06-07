@@ -1,0 +1,72 @@
+---
+term: wangu
+slug: wangu
+ipa: "\u02C8wangu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wangu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - monarch
+    - king
+    - queen
+  - - reign (over)
+  epo:
+  - - "re\u011Do"
+    - "re\u011Dino"
+    - monarko
+  - - "re\u011Di (sur)"
+  spa:
+  - - monarca
+    - rey
+    - reina
+  - - reinar
+search terms:
+  glb:
+  - wangu
+  eng:
+  - monarch
+  - king
+  - queen
+  - reign over
+  - reign
+  epo:
+  - "re\u011Do"
+  - "re\u011Dino"
+  - monarko
+  - "re\u011Di sur"
+  - "re\u011Di"
+  spa:
+  - monarca
+  - rey
+  - reina
+  - reinar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u738B \u201Cw\xE1ng\u201D"
+  Hangusa:
+  - - "\uC655 \u201Cwang\u201D"
+tags:
+- politi
+raw data:
+  term: wangu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: monarch, king, queen; reign (over)
+    epo: "re\u011Do, re\u011Dino, monarko; re\u011Di (sur)"
+    spa: monarca, rey, reina; reinar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: "Putunhwa (\u738B \u201Cw\xE1ng\u201D), Hangusa (\uC655 \u201Cwang\u201D)"
+...

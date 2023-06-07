@@ -1,0 +1,50 @@
+---
+term: sol-
+slug: sol-
+ipa: "\u02C8sol-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sol-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - only
+    - merely
+    - just
+  epo:
+  - - nur-
+  spa:
+  - - "s\xF3lo"
+search terms:
+  glb:
+  - sol-
+  eng:
+  - only
+  - merely
+  - just
+  epo:
+  - nur-
+  spa:
+  - "s\xF3lo"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/sol">sol</a>.
+raw data:
+  term: sol-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: only, merely, just
+    epo: nur-
+    spa: "s\xF3lo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _sol_.
+...

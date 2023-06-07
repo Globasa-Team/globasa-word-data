@@ -1,0 +1,69 @@
+---
+term: baluta
+slug: baluta
+ipa: baˈluta
+ipa link: http://ipa-reader.xyz/?text=baˈluta&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - oak
+  epo:
+  - - kverko
+  spa:
+  - - roble
+    - _Quercus_
+search terms:
+  glb:
+  - baluta
+  eng:
+  - oak
+  epo:
+  - kverko
+  spa:
+  - roble
+  - quercus
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - bellota
+  Fransesa:
+  - - baloute
+  Pilipinasa:
+  - - belyota
+  Hindisa:
+  - - बलूत “balut”
+  Arabisa:
+  - - بَلُّوط “ballut"
+    - بَلُّوطَة “balluta”
+  Turkisa:
+  - - pelit ağacı
+  - - palamut
+    - pelit
+  Parsisa:
+  - - بلوط “balut”
+tags:
+- planta
+raw data:
+  term: baluta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: oak
+    epo: kverko
+    spa: roble, _Quercus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta
+  etymology: Espanisa (bellota), Fransesa (baloute), Pilipinasa (belyota), Hindisa
+    (बलूत “balut”), Arabisa (بَلُّوط “ballut", بَلُّوطَة “balluta”), Turkisa (pelit
+    ağacı; palamut, pelit), Parsisa (بلوط “balut”)
+...

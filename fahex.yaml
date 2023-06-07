@@ -1,0 +1,58 @@
+---
+term: fahex
+slug: fahex
+ipa: faˈxeʃ
+ipa link: http://ipa-reader.xyz/?text=faˈxeʃ&voice=Ewa
+status: false
+category: root
+word class: t
+trans:
+  eng:
+  - - vulgar
+    - crude
+    - uncourth
+    - obscene
+  spa:
+  - - vulgar
+    - obsceno
+search terms:
+  glb:
+  - fahex
+  eng:
+  - vulgar
+  - crude
+  - uncourth
+  - obscene
+  spa:
+  - vulgar
+  - obsceno
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - फ़हश "fahax"
+  Arabisa:
+  - - فَاحِش "fahix"
+    - فَحَّاش "fahax"
+  Parsisa:
+  - - فاحش "fahex"
+raw data:
+  term: fahex
+  category: root
+  word class: t
+  status: false
+  trans:
+    eng: vulgar, crude, uncourth, obscene
+    epo: ""
+    spa: vulgar, obsceno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (फ़हश "fahax"), Arabisa (فَاحِش "fahix", فَحَّاش "fahax"), Parsisa
+    (فاحش "fahex")
+...

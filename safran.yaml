@@ -1,0 +1,77 @@
+---
+term: safran
+slug: safran
+ipa: "sa\u02C8f\u027Ean"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8f\u027Ean&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - saffron
+  epo:
+  - - safrano
+  spa:
+  - - "azafr\xE1n"
+search terms:
+  glb:
+  - safran
+  eng:
+  - saffron
+  epo:
+  - safrano
+  spa:
+  - "azafr\xE1n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - saffron
+  Fransesa:
+  - - safran
+  Doycesa:
+  - - Safran
+  Rusisa:
+  - - "\u0448\u0430\u0444\u0440\u0430\u043D \u201Cshafran\u201D"
+  Espanisa:
+  - - "azafr\xE1n"
+  Niponsa:
+  - - "\u30B5\u30D5\u30E9\u30F3 \u201Csafuran\u201D"
+  Hangusa:
+  - - "\uC0AC\uD504\uB780 \u201Csapeulan\u201D"
+  Arabisa:
+  - - "\u0632\u0639\u0641\u0631\u0627\u0646 \u201Czaeafran\u201D"
+  Swahilisa:
+  - - zafarani
+  Parsisa:
+  - - "\u0632\u0639\u0641\u0631\u0627\u0646 \u201Cza'fer\xE2n\u201D"
+  Turkisa:
+  - - safran
+  Pilipinasa:
+  - - saffron
+tags:
+- yamxey
+raw data:
+  term: safran
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: saffron
+    epo: safrano
+    spa: "azafr\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (saffron), Fransesa (safran), Doycesa (Safran), Rusisa (\u0448\u0430\u0444\u0440\u0430\u043D
+    \u201Cshafran\u201D), Espanisa (azafr\xE1n), Niponsa (\u30B5\u30D5\u30E9\u30F3
+    \u201Csafuran\u201D), Hangusa (\uC0AC\uD504\uB780 \u201Csapeulan\u201D), Arabisa
+    (\u0632\u0639\u0641\u0631\u0627\u0646 \u201Czaeafran\u201D), Swahilisa (zafarani),
+    Parsisa (\u0632\u0639\u0641\u0631\u0627\u0646 \u201Cza'fer\xE2n\u201D), Turkisa
+    (safran), Pilipinasa (saffron)"
+...

@@ -1,0 +1,79 @@
+---
+term: harabu
+slug: harabu
+ipa: "xa\u02C8\u027Eabu"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8\u027Eabu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - ruin
+    - waste
+    - wreck
+    - spoil
+  - - desolate
+    - devastate
+  epo:
+  - - ruino
+    - pereo
+    - vrako
+    - "resta\u0135o"
+  - - "ruini\u011Di"
+    - "perei\u011Di"
+    - ruinigi
+    - pereigi
+  spa:
+  - - ruina
+    - "devastaci\xF3n"
+  - - desolar
+    - devastar
+search terms:
+  glb:
+  - harabu
+  eng:
+  - ruin
+  - waste
+  - wreck
+  - spoil
+  - desolate
+  - devastate
+  epo:
+  - ruino
+  - pereo
+  - vrako
+  - "resta\u0135o"
+  - "ruini\u011Di"
+  - "perei\u011Di"
+  - ruinigi
+  - pereigi
+  spa:
+  - ruina
+  - "devastaci\xF3n"
+  - desolar
+  - devastar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: harabu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: ruin, waste, wreck, spoil; desolate, devastate
+    epo: "ruino, pereo, vrako, resta\u0135o; ruini\u011Di, perei\u011Di, ruinigi,
+      pereigi"
+    spa: "ruina, devastaci\xF3n; desolar, devastar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062E\u064E\u0631\u064E\u0627\u0628 \"harab\"), Turkisa (harap),
+    Parsisa (\u062E\u0631\u0627\u0628 \"har\xE2b\"), Swahilisa (-haribu), Hindisa
+    (\u0916\u093C\u0930\u093E\u092C \"kharab\")"
+...

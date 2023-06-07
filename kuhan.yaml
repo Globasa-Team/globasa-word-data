@@ -1,0 +1,49 @@
+---
+term: kuhan
+slug: kuhan
+ipa: "ku\u02C8xan"
+ipa link: "http://ipa-reader.xyz/?text=ku\u02C8xan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hump
+  epo:
+  - - "\u011Dibo"
+  spa:
+  - - joroba
+search terms:
+  glb:
+  - kuhan
+  eng:
+  - hump
+  epo:
+  - "\u011Dibo"
+  spa:
+  - joroba
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: kuhan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hump
+    epo: "\u011Dibo"
+    spa: joroba
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Hindisa (\u0915\u094B\u0939\u093E\u0928 \u201Ckohan\u201D), Parsisa
+    (\u06A9\u0648\u0647\u0627\u0646 \u201Ckuhan\u201D)"
+...

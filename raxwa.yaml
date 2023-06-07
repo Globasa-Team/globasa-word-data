@@ -1,0 +1,65 @@
+---
+term: raxwa
+slug: raxwa
+ipa: "\u02C8\u027Ea\u0283wa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Ea\u0283wa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - bribe
+  epo:
+  - - "suba\u0109eto"
+  - - "suba\u0109eti"
+  spa:
+  - - soborno
+  - - sobornar
+search terms:
+  glb:
+  - raxwa
+  eng:
+  - bribe
+  epo:
+  - "suba\u0109eto"
+  - "suba\u0109eti"
+  spa:
+  - soborno
+  - sobornar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0930\u093F\u0936\u094D\u0935\u0924 \u201Crixvat\u201D"
+  Arabisa:
+  - - "\u0631\u064E\u0634\u0652\u0648\u064E\u0629 \u201Craxwa\u201D"
+  Indonesisa:
+  - - rasywah
+  Turkisa:
+  - - "r\xFC\u015Fvet"
+  Parsisa:
+  - - "\u0631\u0634\u0648\u0647 \u201Crexve\u201D"
+  Swahilisa:
+  - - rushwa
+raw data:
+  term: raxwa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: bribe
+    epo: "suba\u0109eto; suba\u0109eti"
+    spa: soborno; sobornar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0930\u093F\u0936\u094D\u0935\u0924 \u201Crixvat\u201D), Arabisa
+    (\u0631\u064E\u0634\u0652\u0648\u064E\u0629 \u201Craxwa\u201D), Indonesisa (rasywah),
+    Turkisa (r\xFC\u015Fvet), Parsisa (\u0631\u0634\u0648\u0647 \u201Crexve\u201D),
+    Swahilisa (rushwa)"
+...

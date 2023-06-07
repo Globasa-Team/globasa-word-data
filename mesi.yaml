@@ -1,0 +1,48 @@
+---
+term: mesi
+slug: mesi
+ipa: "\u02C8mesi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mesi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - month
+  epo:
+  - - monato
+  spa:
+  - - mes
+search terms:
+  glb:
+  - mesi
+  eng:
+  - month
+  epo:
+  - monato
+  spa:
+  - mes
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mesi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: month
+    epo: monato
+    spa: mes
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (mes), Fransesa (mois), Rusisa (\u043C\u0435\u0441\u044F\u0446
+    \u201Cmesyats\u201D), Banglasa (\u09AE\u09BE\u09B8 \u201Cm\u0101sa\u201D), Swahilisa
+    (mwezi)"
+...

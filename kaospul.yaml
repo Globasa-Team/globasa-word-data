@@ -1,0 +1,54 @@
+---
+term: kaospul
+slug: kaospul
+ipa: "kaos\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=kaos\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - chaotic
+  - - chaotically
+  epo:
+  - - "\u0125aosa"
+    - kaosa
+  - - "\u0125aose"
+    - kaose
+  spa:
+  - - "ca\xF3tico"
+search terms:
+  glb:
+  - kaospul
+  eng:
+  - chaotic
+  - chaotically
+  epo:
+  - "\u0125aosa"
+  - kaosa
+  - "\u0125aose"
+  - kaose
+  spa:
+  - "ca\xF3tico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/kaos">kaos</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: kaospul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: chaotic; chaotically
+    epo: "\u0125aosa, kaosa; \u0125aose, kaose"
+    spa: "ca\xF3tico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kaos + -pul
+...

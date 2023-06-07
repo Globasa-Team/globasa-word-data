@@ -1,0 +1,54 @@
+---
+term: lilsoksu
+slug: lilsoksu
+ipa: "lil\u02C8soksu"
+ipa link: "http://ipa-reader.xyz/?text=lil\u02C8soksu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ankle sock
+  epo:
+  - - "\u015Dtrumpeto(j)"
+  spa:
+  - - "calcet\xEDn de tobillo"
+  deu:
+  - - Socke(n)
+search terms:
+  glb:
+  - lilsoksu
+  eng:
+  - ankle sock
+  epo:
+  - "\u015Dtrumpetoj"
+  - "\u015Dtrumpeto"
+  spa:
+  - "calcet\xEDn de tobillo"
+  deu:
+  - socken
+  - socke
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/soksu">soksu</a>
+tags:
+- labas
+raw data:
+  term: lilsoksu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ankle sock
+    epo: "\u015Dtrumpeto(j)"
+    spa: "calcet\xEDn de tobillo"
+    deu: Socke(n)
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: lil- + soksu
+...

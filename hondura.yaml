@@ -1,0 +1,50 @@
+---
+term: hondura
+slug: hondura
+ipa: "xon\u02C8du\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=xon\u02C8du\u027Ea&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Honduras
+  epo:
+  - - Honduro
+  spa:
+  - - Honduras
+search terms:
+  glb:
+  - hondura
+  eng:
+  - honduras
+  epo:
+  - honduro
+  spa:
+  - honduras
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Honduras
+tags:
+- dexa
+raw data:
+  term: Hondura
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Honduras
+    epo: Honduro
+    spa: Honduras
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Honduras)
+...

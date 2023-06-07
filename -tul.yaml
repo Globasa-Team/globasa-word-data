@@ -1,0 +1,50 @@
+---
+term: -tul
+slug: -tul
+ipa: "\u02C8-tul"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-tul&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - tool
+  epo:
+  - - -ilo
+  spa:
+  - - herramienta
+search terms:
+  glb:
+  - -tul
+  eng:
+  - tool
+  epo:
+  - -ilo
+  spa:
+  - herramienta
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/tul">tul</a>.
+synonyms:
+- -meter
+- -fon
+- -tora
+raw data:
+  term: -tul
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: tool
+    epo: -ilo
+    spa: herramienta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: -meter, -fon, -tora
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _tul_.
+...

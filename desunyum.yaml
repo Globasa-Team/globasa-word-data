@@ -1,0 +1,48 @@
+---
+term: desunyum
+slug: desunyum
+ipa: "desu\u02C8njum"
+ipa link: "http://ipa-reader.xyz/?text=desu\u02C8njum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - eleventh
+  epo:
+  - - dekunua
+  - - dekunue
+  spa:
+  - - "d\xE9cimo primero"
+search terms:
+  glb:
+  - desunyum
+  eng:
+  - eleventh
+  epo:
+  - dekunua
+  - dekunue
+  spa:
+  - "d\xE9cimo primero"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/un">un</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: desunyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: eleventh
+    epo: dekunua; dekunue
+    spa: "d\xE9cimo primero"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + un + -yum
+...

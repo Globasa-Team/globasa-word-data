@@ -1,0 +1,70 @@
+---
+term: nudel
+slug: nudel
+ipa: "nu\u02C8del"
+ipa link: "http://ipa-reader.xyz/?text=nu\u02C8del&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - noodles
+  epo:
+  - - nudelo
+  spa:
+  - - fideo
+search terms:
+  glb:
+  - nudel
+  eng:
+  - noodles
+  epo:
+  - nudelo
+  spa:
+  - fideo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - noodle
+  Fransesa:
+  - - nouille
+  Doycisa:
+  - - Nudel
+  Hindisa:
+  - - "\u0928\u0942\u0921\u0932 \u201Cnudal\u201D"
+  Arabisa:
+  - - "\u0646\u064F\u0648\u062F\u064E\u0644\u0652\u0632 \u201Cnudalz\u201D"
+  Niponsa:
+  - - "\u30CC\u30FC\u30C9\u30EB \u201Cnudoru\u201D"
+  Telugusa:
+  - - "\u0C28\u0C42\u0C21\u0C41\u0C32\u0C4D\u0C38\u0C4D \u201Cnuduls\u201D"
+  Hangusa:
+  - - "\uB204\uB4E4 \u201Cnudul\u201D"
+  Parsisa:
+  - - "\u0646\u0648\u062F\u0644 \u201Cnudel\u201D"
+tags:
+- yamxey
+raw data:
+  term: nudel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: noodles
+    epo: nudelo
+    spa: fideo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (noodle), Fransesa (nouille), Doycisa (Nudel), Hindisa (\u0928\u0942\u0921\u0932
+    \u201Cnudal\u201D), Arabisa (\u0646\u064F\u0648\u062F\u064E\u0644\u0652\u0632
+    \u201Cnudalz\u201D), Niponsa (\u30CC\u30FC\u30C9\u30EB \u201Cnudoru\u201D), Telugusa
+    (\u0C28\u0C42\u0C21\u0C41\u0C32\u0C4D\u0C38\u0C4D \u201Cnuduls\u201D), Hangusa
+    (\uB204\uB4E4 \u201Cnudul\u201D), Parsisa (\u0646\u0648\u062F\u0644 \u201Cnudel\u201D)"
+...

@@ -1,0 +1,65 @@
+---
+term: esloti
+slug: esloti
+ipa: esˈloti
+ipa link: http://ipa-reader.xyz/?text=esˈloti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sloth
+    - _Folivora_
+  epo:
+  - - folivoro
+    - bradipo
+    - unaŭo
+    - pigrulo
+  spa:
+  - - perezoso (_animal_)
+    - _Folivora_
+search terms:
+  glb:
+  - esloti
+  eng:
+  - sloth
+  - folivora
+  epo:
+  - folivoro
+  - bradipo
+  - unaŭo
+  - pigrulo
+  spa:
+  - perezoso
+  - folivora
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sloth
+  Pilipinasa: ~
+  Hindisa:
+  - - स्‍लॉथ “s‍lot”
+  Swahilisa:
+  - - slothi
+tags:
+- hewan
+raw data:
+  term: esloti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sloth, _Folivora_
+    epo: folivoro, bradipo, unaŭo, pigrulo
+    spa: perezoso (_animal_), _Folivora_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (sloth), Pilipinasa, Hindisa (स्‍लॉथ “s‍lot”), Swahilisa (slothi)
+...

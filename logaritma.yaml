@@ -1,0 +1,52 @@
+---
+term: logaritma
+slug: logaritma
+ipa: "loga\u02C8\u027Eitma"
+ipa link: "http://ipa-reader.xyz/?text=loga\u02C8\u027Eitma&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - logarithm
+  epo:
+  - - logaritmo
+  spa:
+  - - logaritmo
+search terms:
+  glb:
+  - logaritma
+  eng:
+  - logarithm
+  epo:
+  - logaritmo
+  spa:
+  - logaritmo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: logaritma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: logarithm
+    epo: logaritmo
+    spa: logaritmo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (logarithm), Espanisa (logaritmo), Fransesa (logaritme), Rusisa
+    (\u043B\u043E\u0433\u0430\u0440\u0438\u0444\u043C \"logarifm\"), Doycisa (Logaritmus),
+    Portugalsa (logaritmo), Italisa (logaritmo), Indonesisa (logaritma), Pilipinasa
+    (logaritmo), Arabisa (\u0644\u064F\u0648\u063A\u064E\u0627\u0631\u0650\u062B\u0652\u0645
+    \"lu\u1E21ari\u1E6Fm\"), Turkisa (logaritma), Vyetnamsa (l\xF4-ga-r\xEDt), Hangusa
+    (\uB85C\uADF8 \"rogu\"), Parsisa (\u0644\u06AF\u0627\u0631\u06CC\u062A\u0645 \"log\xE2ritm\"),
+    Swahilisa (logi)"
+...

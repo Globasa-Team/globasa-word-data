@@ -1,0 +1,50 @@
+---
+term: fin-
+slug: fin-
+ipa: "\u02C8fin-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8fin-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - come to the end
+    - arrive at the end
+  epo:
+  - - fin-
+  spa:
+  - - llegar al fin
+search terms:
+  glb:
+  - fin-
+  eng:
+  - come to the end
+  - arrive at the end
+  epo:
+  - fin-
+  spa:
+  - llegar al fin
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/fini">fini</a>.
+antonyms:
+- xor-
+raw data:
+  term: fin-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: come to the end, arrive at the end
+    epo: fin-
+    spa: llegar al fin
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: xor-
+  example: ""
+  tags: ""
+  etymology: Am oko _fini_.
+...

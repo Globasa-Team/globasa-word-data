@@ -1,0 +1,52 @@
+---
+term: rundi
+slug: rundi
+ipa: "\u02C8\u027Eundi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eundi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Burundi
+  epo:
+  - - Burundo
+    - Burundio
+  spa:
+  - - Burundi
+search terms:
+  glb:
+  - rundi
+  eng:
+  - burundi
+  epo:
+  - burundo
+  - burundio
+  spa:
+  - burundi
+etymology_type: NATLNG
+etymology:
+  Rundisa:
+  - - Uburundi
+tags:
+- dexa
+raw data:
+  term: Rundi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Burundi
+    epo: Burundo, Burundio
+    spa: Burundi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Rundisa (Uburundi)
+...

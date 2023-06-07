@@ -1,0 +1,48 @@
+---
+term: dostesim
+slug: dostesim
+ipa: "doste\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=doste\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - "friendly (_\u201Cfriend-like\u201D_)"
+  epo:
+  - - amikeca
+  - - amikece
+  spa:
+  - - amigable
+search terms:
+  glb:
+  - dostesim
+  eng:
+  - friendly
+  epo:
+  - amikeca
+  - amikece
+  spa:
+  - amigable
+etymology_type: DERIVD
+etymology: <a href="../lexi/doste">doste</a> + <a href="../lexi/-sim">-sim</a>
+raw data:
+  term: dostesim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: "friendly (_\u201Cfriend-like\u201D_)"
+    epo: amikeca; amikece
+    spa: amigable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: doste + -sim
+...

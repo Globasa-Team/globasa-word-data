@@ -1,0 +1,52 @@
+---
+term: jaymu
+slug: jaymu
+ipa: "\u02C8d\u0361\u0292ajmu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ajmu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - debt
+  - - owe
+  epo:
+  - - "\u015Duldo"
+  - - "\u015Duldi"
+  spa:
+  - - deuda
+  - - deber
+search terms:
+  glb:
+  - jaymu
+  eng:
+  - debt
+  - owe
+  epo:
+  - "\u015Duldo"
+  - "\u015Duldi"
+  spa:
+  - deuda
+  - deber
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jaymu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: debt; owe
+    epo: "\u015Duldo; \u015Duldi"
+    spa: deuda; deber
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u503A\u52A1 \u201Cjaywu\u201D), Niponsa (\u50B5\u52D9 \u201Csaymu\u201D)"
+...

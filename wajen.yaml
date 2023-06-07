@@ -1,0 +1,55 @@
+---
+term: wajen
+slug: wajen
+ipa: "wa\u02C8d\u0361\u0292en"
+ipa link: "http://ipa-reader.xyz/?text=wa\u02C8d\u0361\u0292en&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - weight
+  epo:
+  - - pezo
+  spa:
+  - - peso
+search terms:
+  glb:
+  - wajen
+  eng:
+  - weight
+  epo:
+  - pezo
+  spa:
+  - peso
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0648\u0632\u0646 \u201Cwazn\u201D"
+  Parsisa:
+  - - "\u0648\u0632\u0646 \u201Cvazn\u201D"
+  Hindisa:
+  - - "\u0935\u091C\u0928 \u201Cvajan\u201D"
+  Swahilisa:
+  - - uzani
+raw data:
+  term: wajen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: weight
+    epo: pezo
+    spa: peso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0648\u0632\u0646 \u201Cwazn\u201D), Parsisa (\u0648\u0632\u0646
+    \u201Cvazn\u201D), Hindisa (\u0935\u091C\u0928 \u201Cvajan\u201D), Swahilisa (uzani)"
+...

@@ -1,0 +1,56 @@
+---
+term: awnormali
+slug: awnormali
+ipa: "awno\u027E\u02C8mali"
+ipa link: "http://ipa-reader.xyz/?text=awno\u027E\u02C8mali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - abnormal
+    - abnormally
+  epo:
+  - - nenorma
+    - abnorme
+  - - nenorme
+    - abnorme
+  spa:
+  - - anormal
+  - - anormalmente
+search terms:
+  glb:
+  - awnormali
+  eng:
+  - abnormal
+  - abnormally
+  epo:
+  - nenorma
+  - abnorme
+  - nenorme
+  spa:
+  - anormal
+  - anormalmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw-">aw-</a> + <a href="../lexi/norma">norma</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: awnormali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: abnormal, abnormally
+    epo: nenorma, abnorme; nenorme, abnorme
+    spa: anormal; anormalmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aw- + norma + -li
+...

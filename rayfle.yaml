@@ -1,0 +1,62 @@
+---
+term: rayfle
+slug: rayfle
+ipa: "\u02C8\u027Eajfle"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eajfle&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rifle
+  epo:
+  - - fusilo
+  spa:
+  - - rifle
+    - fusil
+search terms:
+  glb:
+  - rayfle
+  eng:
+  - rifle
+  epo:
+  - fusilo
+  spa:
+  - rifle
+  - fusil
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rifle
+  Espanisa:
+  - - rifle
+  Pilipinasa:
+  - - riple
+  Putunhwa:
+  - - "\u6765\u590D\u67AA \u201Clayfucyang\u201D"
+  Niponsa:
+  - - "\u30E9\u30A4\u30D5\u30EB \u201Crayfuru\u201D"
+  Hangusa:
+  - - "\uB77C\uC774\uD50C \u201Craypul\u201D"
+raw data:
+  term: rayfle
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rifle
+    epo: fusilo
+    spa: rifle, fusil
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (rifle), Espanisa (rifle), Pilipinasa (riple), Putunhwa (\u6765\u590D\u67AA
+    \u201Clayfucyang\u201D), Niponsa (\u30E9\u30A4\u30D5\u30EB \u201Crayfuru\u201D),
+    Hangusa (\uB77C\uC774\uD50C \u201Craypul\u201D)"
+...

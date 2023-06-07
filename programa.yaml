@@ -1,0 +1,80 @@
+---
+term: programa
+slug: programa
+ipa: "p\u027Eo\u02C8g\u027Eama"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eo\u02C8g\u027Eama&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - program
+  epo:
+  - - programo
+  - - programi
+  spa:
+  - - programa
+  - - programar
+search terms:
+  glb:
+  - programa
+  eng:
+  - program
+  epo:
+  - programo
+  - programi
+  spa:
+  - programa
+  - programar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - program
+  Doycisa:
+  - - Programm
+  Fransesa:
+  - - programme
+  Espanisa:
+  - - programa
+  Rusisa:
+  - - "\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430 \u201Cprogramma\u201D"
+  Turkisa:
+  - - program
+  Indonesisa:
+  - - program
+    - programa
+  Pilipinasa:
+  - - programa
+  Hindisa:
+  - - "\u092A\u094D\u0930\u094B\u0917\u094D\u0930\u093E\u092E \u201Cprogram\u201D"
+  Niponsa:
+  - - "\u30D7\u30ED\u30B0\u30E9\u30E0 \u201Cpuroguramu\u201D"
+  Hangusa:
+  - - "\uD504\uB85C\uADF8\uB7A8 \u201Cpurogurem\u201D"
+  Swahilisa:
+  - - programu
+raw data:
+  term: programa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: program
+    epo: programo; programi
+    spa: programa; programar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (program), Doycisa (Programm), Fransesa (programme), Espanisa
+    (programa), Rusisa (\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430 \u201Cprogramma\u201D),
+    Turkisa (program), Indonesisa (program, programa), Pilipinasa (programa), Hindisa
+    (\u092A\u094D\u0930\u094B\u0917\u094D\u0930\u093E\u092E \u201Cprogram\u201D),
+    Niponsa (\u30D7\u30ED\u30B0\u30E9\u30E0 \u201Cpuroguramu\u201D), Hangusa (\uD504\uB85C\uADF8\uB7A8
+    \u201Cpurogurem\u201D), Swahilisa (programu)"
+...

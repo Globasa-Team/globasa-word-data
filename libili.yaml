@@ -1,0 +1,46 @@
+---
+term: libili
+slug: libili
+ipa: "li\u02C8bili"
+ipa link: "http://ipa-reader.xyz/?text=li\u02C8bili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Libyan
+  epo:
+  - - libia
+  spa:
+  - - libio
+search terms:
+  glb:
+  - libili
+  eng:
+  - libyan
+  epo:
+  - libia
+  spa:
+  - libio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Libi">Libi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Libili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Libyan
+    epo: libia
+    spa: libio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Libi + -li
+...

@@ -1,0 +1,59 @@
+---
+term: label
+slug: label
+ipa: "la\u02C8bel"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8bel&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - label
+    - tag
+  epo:
+  - - etikedo
+    - marko
+  - - etikedi
+    - marki
+  spa:
+  - - etiqueta
+  - - etiquetar
+search terms:
+  glb:
+  - label
+  eng:
+  - label
+  - tag
+  epo:
+  - etikedo
+  - marko
+  - etikedi
+  - marki
+  spa:
+  - etiqueta
+  - etiquetar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: label
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: label, tag
+    epo: etikedo, marko; etikedi, marki
+    spa: etiqueta; etiquetar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (label), Fransesa (label), Indonesisa (label), Hindisa (\u0932\u0947\u092C\u0932
+    \u201Cleybal\u201D), Telugusa (\u0C32\u0C47\u0C2C\u0C41\u0C32\u0C4D \u201Cleybul\u201D),
+    Niponsa (\u30E9\u30D9\u30EB \u201Craberu\u201D), Hangusa (\uB808\uC774\uBE14 \u201Cleybul\u201D),
+    Swahilisa (lebo)"
+...

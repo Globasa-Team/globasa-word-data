@@ -1,0 +1,52 @@
+---
+term: max kom
+slug: max kom
+ipa: "\u02C8ma\u0283 kom"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u0283 kom&voice=Ewa"
+status: false
+category: phrase
+word class: l jm
+trans:
+  eng:
+  - - more than
+    - greater than
+  epo:
+  - - pli ol
+  spa:
+  - - "m\xE1s... que"
+    - "m\xE1s... de"
+search terms:
+  glb:
+  - max kom
+  - max
+  - kom
+  eng:
+  - more than
+  - greater than
+  epo:
+  - pli ol
+  spa:
+  - "m\xE1s... que"
+  - "m\xE1s... de"
+etymology_type: DERIVD
+etymology: <a href="../lexi/max">max</a>, <a href="../lexi/kom">kom</a>
+raw data:
+  term: max kom
+  category: phrase
+  word class: l jm
+  status: false
+  trans:
+    eng: more than, greater than
+    epo: pli ol
+    spa: "m\xE1s... que, m\xE1s... de"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: max, kom
+...

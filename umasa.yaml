@@ -1,0 +1,54 @@
+---
+term: umasa
+slug: umasa
+ipa: "u\u02C8masa"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8masa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - neigh
+  epo:
+  - - "\u0109evalbleko"
+    - heno
+  - - "\u0109evalbleki"
+    - heni
+  spa:
+  - - relincho
+  - - relinchar
+search terms:
+  glb:
+  - umasa
+  eng:
+  - neigh
+  epo:
+  - "\u0109evalbleko"
+  - heno
+  - "\u0109evalbleki"
+  - heni
+  spa:
+  - relincho
+  - relinchar
+etymology_type: DERIVD
+etymology: <a href="../lexi/uma">uma</a> + <a href="../lexi/-sa">-sa</a>
+raw data:
+  term: umasa
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: neigh
+    epo: "\u0109evalbleko, heno; \u0109evalbleki, heni"
+    spa: relincho; relinchar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: uma + -sa
+...

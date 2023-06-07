@@ -1,0 +1,73 @@
+---
+term: ceri
+slug: ceri
+ipa: ˈt͡ʃeɾi
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃeɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cherry
+  epo:
+  - - ĉerizo
+  spa:
+  - - cereza
+    - _Prunus_
+search terms:
+  glb:
+  - ceri
+  eng:
+  - cherry
+  epo:
+  - ĉerizo
+  spa:
+  - cereza
+  - prunus
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - cherry
+  Fransesa:
+  - - cerise
+  Rusisa:
+  - - черешня “cerexnya”
+  Espanisa:
+  - - cereza
+  Hindisa:
+  - - चेरी “ceri”
+  Indonesisa:
+  - - ceri
+  Pilipinasa:
+  - - seresa
+  Niponsa:
+  - - チェリー “ceri'
+  Hangusa:
+  - - 체리 “ceri”
+  Swahilisa:
+  - - cheri
+tags:
+- fruta
+- yamxey
+raw data:
+  term: ceri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cherry
+    epo: ĉerizo
+    spa: cereza, _Prunus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: Englisa (cherry), Fransesa (cerise), Rusisa (черешня “cerexnya”), Espanisa
+    (cereza), Hindisa (चेरी “ceri”), Indonesisa (ceri), Pilipinasa (seresa), Niponsa
+    (チェリー “ceri'), Hangusa (체리 “ceri”), Swahilisa (cheri)
+...

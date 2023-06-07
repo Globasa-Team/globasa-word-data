@@ -1,0 +1,50 @@
+---
+term: lixiku
+slug: lixiku
+ipa: "li\u02C8\u0283iku"
+ipa link: "http://ipa-reader.xyz/?text=li\u02C8\u0283iku&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - interest (_finance_)
+  epo:
+  - - interezo
+    - rentumo
+  spa:
+  - - "inter\xE9s (_finanzas_)"
+search terms:
+  glb:
+  - lixiku
+  eng:
+  - interest
+  epo:
+  - interezo
+  - rentumo
+  spa:
+  - "inter\xE9s"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lixiku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: interest (_finance_)
+    epo: interezo, rentumo
+    spa: "inter\xE9s (_finanzas_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5229\u606F \"lixi\"), Niponsa (\u5229\u5B50 \"rixi\", \u5229\u606F
+    \"risoku\"), Vyetnamsa (l\u1EE3i t\u1EE9c), Hangusa (\uC774\uC2DD \"ixik\"), Utarahangusa
+    (\uB9AC\uC2DD \"rixik\")"
+...

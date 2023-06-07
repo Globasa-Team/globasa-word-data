@@ -1,0 +1,54 @@
+---
+term: mitin
+slug: mitin
+ipa: "mi\u02C8tin"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8tin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - meeting (_for discussion_)
+  epo:
+  - - kunsido
+    - kunveno
+  spa:
+  - - "reuni\xF3n"
+    - "sesi\xF3n"
+    - mitin
+search terms:
+  glb:
+  - mitin
+  eng:
+  - meeting
+  epo:
+  - kunsido
+  - kunveno
+  spa:
+  - "reuni\xF3n"
+  - "sesi\xF3n"
+  - mitin
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mitin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: meeting (_for discussion_)
+    epo: kunsido, kunveno
+    spa: "reuni\xF3n, sesi\xF3n, mitin"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Meeting), Englisa (meeting), Espanisa (mitin), Fransesa (meeting),
+    Turkisa (miting), Pilipinasa (miting), Niponsa (\u30DF\u30FC\u30C6\u30A3\u30F3\u30B0
+    \u201Cmitingu\u201D)"
+...

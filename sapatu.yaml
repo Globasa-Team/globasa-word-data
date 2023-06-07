@@ -1,0 +1,57 @@
+---
+term: sapatu
+slug: sapatu
+ipa: "sa\u02C8patu"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8patu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - shoe
+  epo:
+  - - "\u015Duo"
+  spa:
+  - - zapato
+search terms:
+  glb:
+  - sapatu
+  eng:
+  - shoe
+  epo:
+  - "\u015Duo"
+  spa:
+  - zapato
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - zapato
+  Indonesisa:
+  - - sepatu
+  Pilipinasa:
+  - - sapatos
+  Swahilisa:
+  - - sapatu
+tags:
+- labas
+raw data:
+  term: sapatu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: shoe
+    epo: "\u015Duo"
+    spa: zapato
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: Espanisa (zapato), Indonesisa (sepatu), Pilipinasa (sapatos), Swahilisa
+    (sapatu)
+...

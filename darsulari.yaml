@@ -1,0 +1,50 @@
+---
+term: darsulari
+slug: darsulari
+ipa: "da\u027Esu\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=da\u027Esu\u02C8la\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - course
+    - class
+  epo:
+  - - kurso
+    - klaso
+  spa:
+  - - curso
+search terms:
+  glb:
+  - darsulari
+  eng:
+  - course
+  - class
+  epo:
+  - kurso
+  - klaso
+  spa:
+  - curso
+etymology_type: DERIVD
+etymology: <a href="../lexi/darsu">darsu</a> + <a href="../lexi/-lari">-lari</a>
+raw data:
+  term: darsulari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: course, class
+    epo: kurso, klaso
+    spa: curso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: darsu + -lari
+...

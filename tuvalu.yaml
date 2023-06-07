@@ -1,0 +1,52 @@
+---
+term: tuvalu
+slug: tuvalu
+ipa: "tu\u02C8valu"
+ipa link: "http://ipa-reader.xyz/?text=tu\u02C8valu&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Tuvalu
+  epo:
+  - - Tuvalo
+  spa:
+  - - Tuvalu
+search terms:
+  glb:
+  - tuvalu
+  eng:
+  - tuvalu
+  epo:
+  - tuvalo
+  spa:
+  - tuvalu
+etymology_type: NATLNG
+etymology:
+  Tuvalusa:
+  - - Tuvalu
+  Englisa:
+  - - Tuvalu
+tags:
+- dexa
+raw data:
+  term: Tuvalu
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Tuvalu
+    epo: Tuvalo
+    spa: Tuvalu
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Tuvalusa (Tuvalu), Englisa (Tuvalu)
+...

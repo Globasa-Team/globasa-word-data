@@ -1,0 +1,50 @@
+---
+term: -din
+slug: -din
+ipa: "\u02C8-din"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-din&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - day
+  epo:
+  - - -tago
+  spa:
+  - - "d\xEDa"
+  deu:
+  - - Tag
+search terms:
+  glb:
+  - -din
+  eng:
+  - day
+  epo:
+  - -tago
+  spa:
+  - "d\xEDa"
+  deu:
+  - tag
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/din">din</a>.
+raw data:
+  term: -din
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: day
+    epo: -tago
+    spa: "d\xEDa"
+    deu: Tag
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _din_.
+...

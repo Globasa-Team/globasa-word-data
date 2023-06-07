@@ -1,0 +1,47 @@
+---
+term: senegalli
+slug: senegalli
+ipa: "sene\u02C8galli"
+ipa link: "http://ipa-reader.xyz/?text=sene\u02C8galli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Senegalese
+  epo:
+  - - la senegala (lingvo)
+  spa:
+  - - "senegal\xE9s"
+search terms:
+  glb:
+  - senegalli
+  eng:
+  - senegalese
+  epo:
+  - la senegala lingvo
+  - la senegala
+  spa:
+  - "senegal\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Senegal">Senegal</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Senegalli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Senegalese
+    epo: la senegala (lingvo)
+    spa: "senegal\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Senegal + -li
+...

@@ -1,0 +1,53 @@
+---
+term: masku
+slug: masku
+ipa: "\u02C8masku"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8masku&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - mask
+  epo:
+  - - masko
+  - - maski
+  spa:
+  - - "m\xE1scara"
+search terms:
+  glb:
+  - masku
+  eng:
+  - mask
+  epo:
+  - masko
+  - maski
+  spa:
+  - "m\xE1scara"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: masku
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: 'mask '
+    epo: masko; maski
+    spa: "m\xE1scara"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mask), Fransesa (masque), Doycisa (Maske), Rusisa (\u043C\u0430\u0441\u043A\u0430
+    \u201Cmaska\u201D), Espanisa (m\xE1scara), Indonesisa (masker), Pilipinasa (maskara),
+    Niponsa (\u30DE\u30B9\u30AF \u201Cmasuku\u201D), Hangusa (\uB9C8\uC2A4\uD06C \u201Cmaseukeu\u201D),
+    Hindisa (\u092E\u093E\u0938\u094D\u0915 \u201Cm\u0101sk\u201D), Telugusa (\u0C2E\u0C3E\u0C38\u0C4D\u0C15\u0C41
+    \u201Cm\u0101sku\u201D, \u0C2E\u0C3E\u0C38\u0C4D\u0C15\u0C4D \u201Cm\u0101sk\u201D),
+    Parsisa (\u0645\u0627\u0633\u06A9 \u201Cm\xE2sk\u201D), Turkisa (maske)"
+...

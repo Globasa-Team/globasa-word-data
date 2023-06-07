@@ -1,0 +1,76 @@
+---
+term: rum
+slug: rum
+ipa: "\u02C8\u027Eum"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rum
+  epo:
+  - - rumo
+  spa:
+  - - ron
+search terms:
+  glb:
+  - rum
+  eng:
+  - rum
+  epo:
+  - rumo
+  spa:
+  - ron
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rum
+  Doycisa: ~
+  Indonesisa: ~
+  Vyetnamsa: ~
+  Espanisa:
+  - - ron
+  Pilipinasa: ~
+  Fransesa:
+  - - rhum
+  Putunhwa:
+  - - "\u5170\u59C6\u9152 \u201Clanmujyu\u201D"
+  Hindisa:
+  - - "\u0930\u092E \u201Cram\u201D"
+  Arabisa:
+  - - "\u0631\u064E\u0645 \u201Cram\u201D"
+  Niponsa:
+  - - "\u30E9\u30E0\u9152 \u201Cramuxu\u201D"
+  Turkisa:
+  - - rom
+  Hangusa:
+  - - "\uB7FC \u201Cram\u201D"
+  Parsisa:
+  - - "\u0631\u0645 \u201Crom\u201D"
+  Swahilisa:
+  - - ramu
+raw data:
+  term: rum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rum
+    epo: rumo
+    spa: ron
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (rum), Doycisa, Indonesisa, Vyetnamsa, Espanisa (ron), Pilipinasa,
+    Fransesa (rhum), Putunhwa (\u5170\u59C6\u9152 \u201Clanmujyu\u201D), Hindisa (\u0930\u092E
+    \u201Cram\u201D), Arabisa (\u0631\u064E\u0645 \u201Cram\u201D), Niponsa (\u30E9\u30E0\u9152
+    \u201Cramuxu\u201D), Turkisa (rom), Hangusa (\uB7FC \u201Cram\u201D), Parsisa
+    (\u0631\u0645 \u201Crom\u201D), Swahilisa (ramu)"
+...

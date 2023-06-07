@@ -1,0 +1,64 @@
+---
+term: xarti
+slug: xarti
+ipa: "\u02C8\u0283a\u027Eti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283a\u027Eti&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - condition
+    - stipulation
+    - term
+  epo:
+  - - "kondi\u0109o"
+  spa:
+  - - "condici\xF3n"
+    - "estipulaci\xF3n"
+search terms:
+  glb:
+  - xarti
+  eng:
+  - condition
+  - stipulation
+  - term
+  epo:
+  - "kondi\u0109o"
+  spa:
+  - "condici\xF3n"
+  - "estipulaci\xF3n"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0634\u0631\u0637 \u201Cshart\u201D"
+  Hindisa:
+  - - "\u0936\u0930\u094D\u0924 \u201Cshart\u201D"
+  Swahilisa:
+  - - sharti
+  Turkisa:
+  - - "\u015Fart"
+  Parsisa:
+  - - "\u0634\u0631\u0637 \u201Cshart\u201D"
+raw data:
+  term: xarti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: condition, stipulation, term
+    epo: "kondi\u0109o"
+    spa: "condici\xF3n, estipulaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0634\u0631\u0637 \u201Cshart\u201D), Hindisa (\u0936\u0930\u094D\u0924
+    \u201Cshart\u201D), Swahilisa (sharti), Turkisa (\u015Fart), Parsisa (\u0634\u0631\u0637
+    \u201Cshart\u201D)"
+...

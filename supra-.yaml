@@ -1,0 +1,52 @@
+---
+term: supra-
+slug: supra-
+ipa: "su\u02C8p\u027Ea-"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8p\u027Ea-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - super-
+    - hyper-
+    - over-
+  epo:
+  - - supra-
+  spa:
+  - - super-
+search terms:
+  glb:
+  - supra-
+  eng:
+  - super-
+  - hyper-
+  - over-
+  epo:
+  - supra-
+  spa:
+  - super-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/supra">supra</a>.
+antonyms:
+- infra-
+raw data:
+  term: supra-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: super-, hyper-, over-
+    epo: supra-
+    spa: super-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: infra-
+  example: ""
+  tags: ""
+  etymology: Am oko _supra_.
+...

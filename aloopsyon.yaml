@@ -1,0 +1,48 @@
+---
+term: aloopsyon
+slug: aloopsyon
+ipa: "aloop\u02C8sjon"
+ipa link: "http://ipa-reader.xyz/?text=aloop\u02C8sjon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - alternative
+  epo:
+  - - alternativo
+  spa:
+  - - alternativa
+    - "otra opci\xF3n"
+search terms:
+  glb:
+  - aloopsyon
+  eng:
+  - alternative
+  epo:
+  - alternativo
+  spa:
+  - alternativa
+  - "otra opci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo-">alo-</a> + <a href="../lexi/opsyon">opsyon</a>
+raw data:
+  term: aloopsyon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: alternative
+    epo: alternativo
+    spa: "alternativa, otra opci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo- + opsyon
+...

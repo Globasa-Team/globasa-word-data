@@ -1,0 +1,48 @@
+---
+term: linkulexi
+slug: linkulexi
+ipa: "linku\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=linku\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - conjunction
+  epo:
+  - - konjunkcio
+  spa:
+  - - "conjunci\xF3n"
+search terms:
+  glb:
+  - linkulexi
+  eng:
+  - conjunction
+  epo:
+  - konjunkcio
+  spa:
+  - "conjunci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/linku">linku</a> + <a href="../lexi/-lexi">-lexi</a>
+tags:
+- gramati
+raw data:
+  term: linkulexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: conjunction
+    epo: 'konjunkcio '
+    spa: "conjunci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gramati
+  etymology: linku + -lexi
+...

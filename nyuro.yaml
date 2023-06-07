@@ -1,0 +1,69 @@
+---
+term: nyuro
+slug: nyuro
+ipa: "\u02C8nju\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nju\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nerve
+  epo:
+  - - nervo
+  spa:
+  - - nervio
+search terms:
+  glb:
+  - nyuro
+  eng:
+  - nerve
+  epo:
+  - nervo
+  spa:
+  - nervio
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - neuro-
+  Espanisa:
+  - - neuro-
+  Fransesa:
+  - - neuro-
+  Doycisa:
+  - - neuro-
+  Indonesisa:
+  - - neuro-
+  Pilipinasa:
+  - - neuro-
+  Rusisa:
+  - - "\u043D\u0435\u0432\u0440\u043E- \u201Cnevro-\u201D"
+  Hindisa:
+  - - "\u0928\u094D\u092F\u0941\u0930\u094B- \u201Cnyuro-\u201D"
+  Turkisa:
+  - - "n\xF6ro-"
+  Swahilisa:
+  - - nyuro-
+raw data:
+  term: nyuro
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nerve
+    epo: nervo
+    spa: nervio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (neuro-), Espanisa (neuro-), Fransesa (neuro-), Doycisa (neuro-),
+    Indonesisa (neuro-), Pilipinasa (neuro-), Rusisa (\u043D\u0435\u0432\u0440\u043E-
+    \u201Cnevro-\u201D), Hindisa (\u0928\u094D\u092F\u0941\u0930\u094B- \u201Cnyuro-\u201D),
+    Turkisa (n\xF6ro-), Swahilisa (nyuro-)"
+...

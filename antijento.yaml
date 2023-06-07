@@ -1,0 +1,48 @@
+---
+term: antijento
+slug: antijento
+ipa: "anti\u02C8d\u0361\u0292ento"
+ipa link: "http://ipa-reader.xyz/?text=anti\u02C8d\u0361\u0292ento&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - fight against
+  epo:
+  - - "kontra\u016Dbatalo"
+  - - "kontra\u016Dbatali"
+  spa:
+  - - combatir
+search terms:
+  glb:
+  - antijento
+  eng:
+  - fight against
+  epo:
+  - "kontra\u016Dbatalo"
+  - "kontra\u016Dbatali"
+  spa:
+  - combatir
+etymology_type: DERIVD
+etymology: <a href="../lexi/anti-">anti-</a> + <a href="../lexi/jento">jento</a>
+raw data:
+  term: antijento
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: fight against
+    epo: "kontra\u016Dbatalo; kontra\u016Dbatali"
+    spa: combatir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: fight, fight against
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: anti- + jento
+...

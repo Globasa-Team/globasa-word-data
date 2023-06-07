@@ -1,0 +1,50 @@
+---
+term: ivrisa
+slug: ivrisa
+ipa: "i\u02C8v\u027Eisa"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8v\u027Eisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Hebrew (language)
+  epo:
+  - - la hebrea (lingvo)
+  spa:
+  - - hebreo (_idioma_)
+search terms:
+  glb:
+  - ivrisa
+  eng:
+  - hebrew language
+  - hebrew
+  epo:
+  - la hebrea lingvo
+  - la hebrea
+  spa:
+  - hebreo
+etymology_type: DERIVD
+etymology: <a href="../lexi/Ivri">Ivri</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Ivrisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Hebrew (language)
+    epo: la hebrea (lingvo)
+    spa: hebreo (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Ivri + -sa
+...

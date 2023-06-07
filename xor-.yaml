@@ -1,0 +1,58 @@
+---
+term: xor-
+slug: xor-
+ipa: "\u02C8\u0283o\u027E-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283o\u027E-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - begin
+    - start
+    - come to
+    - arrive at
+  epo:
+  - - ek-
+  spa:
+  - - principio
+    - comienzo
+    - llegar a
+search terms:
+  glb:
+  - xor-
+  eng:
+  - begin
+  - start
+  - come to
+  - arrive at
+  epo:
+  - ek-
+  spa:
+  - principio
+  - comienzo
+  - llegar a
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/xoru">xoru</a>.
+antonyms:
+- fin-
+raw data:
+  term: xor-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: begin, start, come to, arrive at
+    epo: ek-
+    spa: principio, comienzo, llegar a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: fin-
+  example: ""
+  tags: ""
+  etymology: Am oko _xoru_.
+...

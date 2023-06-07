@@ -1,0 +1,85 @@
+---
+term: bum
+slug: bum
+ipa: ˈbum
+ipa link: http://ipa-reader.xyz/?text=ˈbum&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - explosion
+    - blast
+  - - explode
+    - detonate
+  epo:
+  - - eksplodo
+    - detonacio
+  - - eksplodi
+    - detonacii
+  spa:
+  - - explosión
+  - - explotar
+    - detonar
+search terms:
+  glb:
+  - bum
+  eng:
+  - explosion
+  - blast
+  - explode
+  - detonate
+  epo:
+  - eksplodo
+  - detonacio
+  - eksplodi
+  - detonacii
+  spa:
+  - explosión
+  - explotar
+  - detonar
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Arabisa: ~
+  Englisa:
+  - - boom
+  Doycisa:
+  - - Bumm
+  Fransesa:
+  - - boum
+  Espanisa:
+  - - bum
+  Hindisa:
+  - - बूम “bum”
+  Putunhwa:
+  - - 砰 “peng”
+  Hangusa:
+  - - 펑 “pong”
+  Vyetnamsa:
+  - - bùm
+  Pilipinasa:
+  - - boom
+  Turkisa:
+  - - bom
+raw data:
+  term: bum
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: explosion, blast; explode, detonate
+    epo: eksplodo, detonacio; eksplodi, detonacii
+    spa: explosión; explotar, detonar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwasilexi - Arabisa ( ), Englisa (boom), Doycisa (Bumm), Fransesa (boum),
+    Espanisa (bum), Hindisa (बूम “bum”), Putunhwa (砰 “peng”), Hangusa (펑 “pong”),
+    Vyetnamsa (bùm),  Pilipinasa (bom), Turkisa (bom), Pilipinasa (boom)
+...

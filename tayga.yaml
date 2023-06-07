@@ -1,0 +1,80 @@
+---
+term: tayga
+slug: tayga
+ipa: "\u02C8tajga"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tajga&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - taiga
+  epo:
+  - - tajgo
+  spa:
+  - - taiga
+search terms:
+  glb:
+  - tayga
+  eng:
+  - taiga
+  epo:
+  - tajgo
+  spa:
+  - taiga
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - "\u0442\u0430\u0439\u0433\u0430 \u201Ctayga\u201D"
+  Englisa:
+  - - taiga
+  Espanisa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Vyetnamsa: ~
+  Swahilisa: ~
+  Fransesa:
+  - - "ta\xEFga"
+  Putunhwa:
+  - - "\u6CF0\u52A0\u6797 \u201Ctayjyalin\u201D"
+  Hindisa:
+  - - "\u0924\u093E\u0907\u0917\u093E \u201Ctayga\u201D"
+  Arabisa:
+  - - "\u062A\u0627\u064A\u063A\u0627 \u201Ctayga\u201D"
+  Niponsa:
+  - - "\u30BF\u30A4\u30AC \u201Ctayga\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C48\u0C17\u0C3E \u201Ctayga\u201D"
+  Turkisa:
+  - - tayga
+  Hangusa:
+  - - "\uD0C0\uC774\uAC00 \u201Ctaiga\u201D"
+  Parsisa:
+  - - "\u062A\u0627\u06CC\u06AF\u0627 \u201Ctayga\u201D"
+raw data:
+  term: tayga
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: taiga
+    epo: tajgo
+    spa: taiga
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Rusisa (\u0442\u0430\u0439\u0433\u0430 \u201Ctayga\u201D), Englisa (taiga),
+    Espanisa, Doycisa, Indonesisa, Pilipinasa, Vyetnamsa, Swahilisa, Fransesa (ta\xEFga),
+    Putunhwa (\u6CF0\u52A0\u6797 \u201Ctayjyalin\u201D), Hindisa (\u0924\u093E\u0907\u0917\u093E
+    \u201Ctayga\u201D), Arabisa (\u062A\u0627\u064A\u063A\u0627 \u201Ctayga\u201D),
+    Niponsa (\u30BF\u30A4\u30AC \u201Ctayga\u201D), Telugusa (\u0C1F\u0C48\u0C17\u0C3E
+    \u201Ctayga\u201D), Turkisa (tayga), Hangusa (\uD0C0\uC774\uAC00 \u201Ctaiga\u201D),
+    Parsisa (\u062A\u0627\u06CC\u06AF\u0627 \u201Ctayga\u201D)"
+...

@@ -1,0 +1,50 @@
+---
+term: mahara
+slug: mahara
+ipa: "ma\u02C8xa\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8xa\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - skill
+  epo:
+  - - "lerta\u0135o"
+  spa:
+  - - habilidad
+    - destreza
+search terms:
+  glb:
+  - mahara
+  eng:
+  - skill
+  epo:
+  - "lerta\u0135o"
+  spa:
+  - habilidad
+  - destreza
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mahara
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: skill
+    epo: "lerta\u0135o"
+    spa: habilidad, destreza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0647\u0627\u0631\u0629 \u201Cmahara\u201D), Parsisa
+    (\u0645\u0647\u0627\u0631\u062A \u201Cmaharat\u201D), Turkisa (maharet), Hindisa
+    (\u092E\u0939\u093E\u0930\u0924 \u201Cmaharat\u201D)"
+...

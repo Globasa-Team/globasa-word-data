@@ -1,0 +1,48 @@
+---
+term: moyete
+slug: moyete
+ipa: "mo\u02C8jete"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8jete&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - they all
+    - all of them
+  epo:
+  - - "\u0109iuj"
+  spa:
+  - - todos ellos
+search terms:
+  glb:
+  - moyete
+  eng:
+  - they all
+  - all of them
+  epo:
+  - "\u0109iuj"
+  spa:
+  - todos ellos
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/ete">ete</a>
+raw data:
+  term: moyete
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: they all, all of them
+    epo: "\u0109iuj"
+    spa: todos ellos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + ete
+...

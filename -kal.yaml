@@ -1,0 +1,56 @@
+---
+term: -kal
+slug: -kal
+ipa: "\u02C8-kal"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-kal&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - without sufficient
+    - -less
+  epo:
+  - - sen-
+    - malplena
+    - malplene
+  spa:
+  - - "vac\xEDo"
+    - sin ...
+search terms:
+  glb:
+  - -kal
+  eng:
+  - without sufficient
+  - -less
+  epo:
+  - sen-
+  - malplena
+  - malplene
+  spa:
+  - "vac\xEDo"
+  - sin ...
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/kal">kal</a>.
+antonyms:
+- -pul
+raw data:
+  term: -kal
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: without sufficient, -less
+    epo: sen-, malplena, malplene
+    spa: "vac\xEDo, sin ..."
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: -pul
+  example: ""
+  tags: ""
+  etymology: Am oko _kal_.
+...

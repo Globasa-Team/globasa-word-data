@@ -1,0 +1,74 @@
+---
+term: especifi
+slug: especifi
+ipa: espeˈt͡ʃifi
+ipa link: http://ipa-reader.xyz/?text=espeˈt͡ʃifi&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - specific
+    - specifically
+    - particular
+    - particularly
+  epo:
+  - - specifa
+    - siaspeca
+  - - specife
+    - siaspece
+  spa:
+  - - específico
+search terms:
+  glb:
+  - especifi
+  eng:
+  - specific
+  - specifically
+  - particular
+  - particularly
+  epo:
+  - specifa
+  - siaspeca
+  - specife
+  - siaspece
+  spa:
+  - específico
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - specific
+  Fransesa:
+  - - spécifique
+  Doycisa:
+  - - spezifisch
+  Rusisa:
+  - - специфический “spetsificeskiy”
+  Espanisa:
+  - - específico
+  Turkisa:
+  - - spesifik
+  Indonesisa:
+  - - spesifik
+raw data:
+  term: especifi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: specific, specifically, particular, particularly
+    epo: specifa, siaspeca; specife, siaspece
+    spa: específico
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (specific), Fransesa (spécifique), Doycisa (spezifisch), Rusisa
+    (специфический “spetsificeskiy”), Espanisa (específico), Turkisa (spesifik), Indonesisa
+    (spesifik)
+...

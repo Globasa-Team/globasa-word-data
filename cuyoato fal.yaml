@@ -1,0 +1,50 @@
+---
+term: cuyoato fal
+slug: cuyoato fal
+ipa: "t\u0361\u0283ujo\u02C8ato fal"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ujo\u02C8ato fal&voice=Ewa"
+status: false
+category: derived
+word class: jm
+trans:
+  eng:
+  - - starring
+  epo:
+  - - "\u0109efrolita de"
+    - "\u0109efrolante"
+  spa:
+  - - protagonizado por
+search terms:
+  glb:
+  - cuyoato fal
+  - cuyoato
+  - fal
+  eng:
+  - starring
+  epo:
+  - "\u0109efrolita de"
+  - "\u0109efrolante"
+  spa:
+  - protagonizado por
+etymology_type: DERIVD
+etymology: <a href="../lexi/cuyo">cuyo</a> + <a href="../lexi/ato">ato</a>, <a href="../lexi/fal">fal</a>
+raw data:
+  term: cuyoato fal
+  category: derived
+  word class: jm
+  status: false
+  trans:
+    eng: starring
+    epo: "\u0109efrolita de, \u0109efrolante"
+    spa: protagonizado por
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cuyo + ato, fal
+...

@@ -1,0 +1,69 @@
+---
+term: tiketo
+slug: tiketo
+ipa: "ti\u02C8keto"
+ipa link: "http://ipa-reader.xyz/?text=ti\u02C8keto&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ticket
+  epo:
+  - - bileto
+  spa:
+  - - boleto
+    - "t\xEDket"
+search terms:
+  glb:
+  - tiketo
+  eng:
+  - ticket
+  epo:
+  - bileto
+  spa:
+  - boleto
+  - "t\xEDket"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ticket
+  Fransesa:
+  - - ticket
+  Doycisa:
+  - - Ticket
+  Hindisa:
+  - - "\u091F\u093F\u0915\u091F \u201Ctikat\u201D"
+  Indonesisa:
+  - - tiket
+  Pilipinasa:
+  - - tiket
+  Swahilisa:
+  - - tiketi
+  Niponsa:
+  - - "\u30C1\u30B1\u30C3\u30C8 \u201Cciketto\u201D"
+  Afganili Parsisa:
+  - - "\u062A\u06A9\u062A \u201Cteket\u201D"
+raw data:
+  term: tiketo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ticket
+    epo: bileto
+    spa: "boleto, t\xEDket"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (ticket), Fransesa (ticket), Doycisa (Ticket), Hindisa (\u091F\u093F\u0915\u091F
+    \u201Ctikat\u201D), Indonesisa (tiket), Pilipinasa (tiket), Swahilisa (tiketi),
+    Niponsa (\u30C1\u30B1\u30C3\u30C8 \u201Cciketto\u201D), Afganili Parsisa (\u062A\u06A9\u062A
+    \u201Cteket\u201D)"
+...

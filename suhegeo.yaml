@@ -1,0 +1,46 @@
+---
+term: suhegeo
+slug: suhegeo
+ipa: "suxe\u02C8geo"
+ipa link: "http://ipa-reader.xyz/?text=suxe\u02C8geo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - desert
+  epo:
+  - - dezerto
+  spa:
+  - - desierto
+search terms:
+  glb:
+  - suhegeo
+  eng:
+  - desert
+  epo:
+  - dezerto
+  spa:
+  - desierto
+etymology_type: DERIVD
+etymology: <a href="../lexi/suhe">suhe</a> + <a href="../lexi/geo">geo</a>
+raw data:
+  term: suhegeo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: desert
+    epo: dezerto
+    spa: desierto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: suhe + geo
+...

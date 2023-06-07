@@ -1,0 +1,50 @@
+---
+term: gine
+slug: gine
+ipa: "\u02C8gine"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8gine&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Guinea
+  epo:
+  - - Gvineo
+  spa:
+  - - Guinea
+search terms:
+  glb:
+  - gine
+  eng:
+  - guinea
+  epo:
+  - gvineo
+  spa:
+  - guinea
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - "Guin\xE9e"
+tags:
+- dexa
+raw data:
+  term: Gine
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Guinea
+    epo: Gvineo
+    spa: Guinea
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Fransesa (Guin\xE9e)"
+...

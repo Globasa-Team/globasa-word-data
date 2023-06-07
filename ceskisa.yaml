@@ -1,0 +1,50 @@
+---
+term: ceskisa
+slug: ceskisa
+ipa: "t\u0361\u0283es\u02C8kisa"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283es\u02C8kisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Czech (language)
+  epo:
+  - - "la \u0109e\u0125a (lingvo)"
+  spa:
+  - - checo (_idioma_)
+search terms:
+  glb:
+  - ceskisa
+  eng:
+  - czech language
+  - czech
+  epo:
+  - "la \u0109e\u0125a lingvo"
+  - "la \u0109e\u0125a"
+  spa:
+  - checo
+etymology_type: DERIVD
+etymology: <a href="../lexi/Ceski">Ceski</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Ceskisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Czech (language)
+    epo: "la \u0109e\u0125a (lingvo)"
+    spa: checo (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Ceski + -sa
+...

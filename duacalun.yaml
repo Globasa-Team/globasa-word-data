@@ -1,0 +1,50 @@
+---
+term: duacalun
+slug: duacalun
+ipa: "duat\u0361\u0283a\u02C8lun"
+ipa link: "http://ipa-reader.xyz/?text=duat\u0361\u0283a\u02C8lun&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - bicycle
+  epo:
+  - - duciklo
+    - bicliklo
+    - ciklo
+  spa:
+  - - bicicleta
+search terms:
+  glb:
+  - duacalun
+  eng:
+  - bicycle
+  epo:
+  - duciklo
+  - bicliklo
+  - ciklo
+  spa:
+  - bicicleta
+etymology_type: DERIVD
+etymology: <a href="../lexi/dua">dua</a> + <a href="../lexi/calun">calun</a>
+raw data:
+  term: duacalun
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: bicycle
+    epo: duciklo, bicliklo, ciklo
+    spa: bicicleta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dua + calun
+...

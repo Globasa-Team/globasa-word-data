@@ -1,0 +1,56 @@
+---
+term: lici
+slug: lici
+ipa: "\u02C8lit\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lit\u0361\u0283i&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lychee
+    - litchi (fruit)
+  epo:
+  - - "li\u0109io"
+  spa:
+  - - lichi
+    - _Litchi chinensis_
+search terms:
+  glb:
+  - lici
+  eng:
+  - lychee
+  - litchi fruit
+  - litchi
+  epo:
+  - "li\u0109io"
+  spa:
+  - lichi
+  - litchi chinensis
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lici
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lychee, litchi (fruit)
+    epo: "li\u0109io"
+    spa: lichi, _Litchi chinensis_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lychee), Espanisa (lichi), Fransesa (letchi, litchi), Rusisa
+    (\u043B\u0438\u0447\u0438 \u201Clici\u201D), Doycisa (Litschi), Indonesisa (leci),
+    Pilipinasa (litsiyas), Putunhwa (\u8354\u679D \u201Cliji\u201D), Hindisa (\u0932\u0940\u091A\u0940
+    \u201Clici\u201D), Arabisa (\u0644\u064A\u062A\u0634\u064A \u201Clitxi\u201D),
+    Niponsa (\u8318\u679D \u201Creixi\u201D), Tamilsa (\u0BB5\u0BBF\u0BB3\u0B9A\u0BCD\u0B9A\u0BBF
+    \u201Cvilaci\u201D), Turkisa (li\xE7i), Hangusa (\uB9AC\uCE58 \u201Crici\u201D)"
+...

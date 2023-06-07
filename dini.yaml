@@ -1,0 +1,59 @@
+---
+term: dini
+slug: dini
+ipa: ˈdini
+ipa link: http://ipa-reader.xyz/?text=ˈdini&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - religion
+  epo:
+  - - religio
+  spa:
+  - - religión
+search terms:
+  glb:
+  - dini
+  eng:
+  - religion
+  epo:
+  - religio
+  spa:
+  - religión
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - دين “din”
+  Parsisa:
+  - - دین “din”
+  Turkisa:
+  - - din
+  Swahilisa:
+  - - dini
+  Indonesisa:
+  - - din
+  Hindisa:
+  - - दीन “din”
+raw data:
+  term: dini
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: religion
+    epo: religio
+    spa: religión
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (دين “din”), Parsisa (دین “din”), Turkisa (din), Swahilisa (dini),
+    Indonesisa (din), Hindisa (दीन “din”)
+...

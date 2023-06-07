@@ -1,0 +1,46 @@
+---
+term: donmenyen
+slug: donmenyen
+ipa: "donme\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=donme\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ally
+  epo:
+  - - aliancano
+  spa:
+  - - aliado
+search terms:
+  glb:
+  - donmenyen
+  eng:
+  - ally
+  epo:
+  - aliancano
+  spa:
+  - aliado
+etymology_type: DERIVD
+etymology: <a href="../lexi/donmen">donmen</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: donmenyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ally
+    epo: aliancano
+    spa: aliado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: donmen + -yen
+...

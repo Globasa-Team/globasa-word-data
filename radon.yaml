@@ -1,0 +1,85 @@
+---
+term: radon
+slug: radon
+ipa: "\u027Ea\u02C8don"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8don&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - radon
+  epo:
+  - - radono
+  spa:
+  - - "rad\xF3n"
+    - Rn
+search terms:
+  glb:
+  - radon
+  eng:
+  - radon
+  epo:
+  - radono
+  spa:
+  - "rad\xF3n"
+  - rn
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - radon
+  Espanisa:
+  - - "rad\xF3n"
+  Arabisa:
+  - - "\u0631\u064E\u0627\u062F\u064F\u0648\u0646 \u201Cradun\u201D"
+  Fransesa:
+  - - radon
+  Rusisa:
+  - - "\u0440\u0430\u0434\u043E\u043D \u201Cradon\u201D"
+  Indonesisa:
+  - - radon
+  Doycisa:
+  - - Radon
+  Niponsa:
+  - - "\u30E9\u30C9\u30F3 \u201Cradon\u201D"
+  Telugusa:
+  - - "\u0C30\u0C47\u0C21\u0C3E\u0C28\u0C4D \u201Credan\u201D"
+  Turkisa:
+  - - radon
+  Hangusa:
+  - - "\uB77C\uB3C8 \u201Cradon\u201D"
+  Vyetnamsa:
+  - - radon
+  Parsisa:
+  - - "\u0631\u0627\u062F\u0648\u0646 \u201Cradon\u201D"
+  Swahilisa:
+  - - radoni
+  Pilipinasa:
+  - - radon
+tags:
+- kimikali monlari
+raw data:
+  term: radon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: radon
+    epo: radono
+    spa: "rad\xF3n, Rn"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (radon), Espanisa (rad\xF3n), Arabisa (\u0631\u064E\u0627\u062F\u064F\u0648\u0646
+    \u201Cradun\u201D), Fransesa (radon), Rusisa (\u0440\u0430\u0434\u043E\u043D \u201Cradon\u201D),
+    Indonesisa (radon), Doycisa (Radon), Niponsa (\u30E9\u30C9\u30F3 \u201Cradon\u201D),
+    Telugusa (\u0C30\u0C47\u0C21\u0C3E\u0C28\u0C4D \u201Credan\u201D), Turkisa (radon),
+    Hangusa (\uB77C\uB3C8 \u201Cradon\u201D), Vyetnamsa (radon), Parsisa (\u0631\u0627\u062F\u0648\u0646
+    \u201Cradon\u201D), Swahilisa (radoni), Pilipinasa (radon)"
+...

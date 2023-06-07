@@ -1,0 +1,50 @@
+---
+term: cel kapi
+slug: cel kapi
+ipa: "t\u0361\u0283el \u02C8kapi"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283el \u02C8kapi&voice=Ewa"
+status: false
+category: derived
+word class: p jm
+trans:
+  eng:
+  - - to the top
+  epo:
+  - - al la supro
+    - "\u011Dis la supro"
+  spa:
+  - - a la cima de
+search terms:
+  glb:
+  - cel kapi
+  - cel
+  - kapi
+  eng:
+  - to the top
+  epo:
+  - al la supro
+  - "\u011Dis la supro"
+  spa:
+  - a la cima de
+etymology_type: DERIVD
+etymology: <a href="../lexi/cel kapi">cel kapi</a>
+raw data:
+  term: cel kapi
+  category: derived
+  word class: p jm
+  status: false
+  trans:
+    eng: to the top
+    epo: "al la supro, \u011Dis la supro"
+    spa: a la cima de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: to the top, top
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cel kapi
+...

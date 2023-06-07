@@ -1,0 +1,56 @@
+---
+term: amikucu
+slug: amikucu
+ipa: "ami\u02C8kut\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=ami\u02C8kut\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - deepen
+    - become deep
+    - become deeper
+  epo:
+  - - "profundi\u011Do"
+  - - "profundi\u011Di"
+  spa:
+  - - profundizarse
+    - ahondarse
+    - "hacerse m\xE1s profundo"
+search terms:
+  glb:
+  - amikucu
+  eng:
+  - deepen
+  - become deep
+  - become deeper
+  epo:
+  - "profundi\u011Do"
+  - "profundi\u011Di"
+  spa:
+  - profundizarse
+  - ahondarse
+  - "hacerse m\xE1s profundo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/amiku">amiku</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: amikucu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: deepen, become deep, become deeper
+    epo: "profundi\u011Do; profundi\u011Di"
+    spa: "profundizarse, ahondarse, hacerse m\xE1s profundo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: amiku + -cu
+...

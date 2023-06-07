@@ -1,0 +1,46 @@
+---
+term: daybriti
+slug: daybriti
+ipa: "daj\u02C8b\u027Eiti"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8b\u027Eiti&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Great Britain
+  epo:
+  - - Granda Britio
+  spa:
+  - - "Gran Breta\xF1a"
+search terms:
+  glb:
+  - daybriti
+  eng:
+  - great britain
+  epo:
+  - granda britio
+  spa:
+  - "gran breta\xF1a"
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/Briti">Briti</a>
+raw data:
+  term: Daybriti
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Great Britain
+    epo: Granda Britio
+    spa: "Gran Breta\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + Briti
+...

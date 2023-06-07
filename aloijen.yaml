@@ -1,0 +1,67 @@
+---
+term: aloijen
+slug: aloijen
+ipa: "aloi\u02C8d\u0361\u0292en"
+ipa link: "http://ipa-reader.xyz/?text=aloi\u02C8d\u0361\u0292en&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - disagreement
+  - - disagree
+  epo:
+  - - malsamopinio
+    - malkonsento
+  - - malsamopinii
+    - malkonsenti
+  spa:
+  - - desacuerdo
+    - discrepancia
+    - disentimiento
+  - - diferir
+    - disentir
+    - discrepar
+    - no estar de acuerdo
+search terms:
+  glb:
+  - aloijen
+  eng:
+  - disagreement
+  - disagree
+  epo:
+  - malsamopinio
+  - malkonsento
+  - malsamopinii
+  - malkonsenti
+  spa:
+  - desacuerdo
+  - discrepancia
+  - disentimiento
+  - diferir
+  - disentir
+  - discrepar
+  - no estar de acuerdo
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/ijen">ijen</a>
+raw data:
+  term: aloijen
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: disagreement; disagree
+    epo: malsamopinio, malkonsento; malsamopinii, malkonsenti
+    spa: desacuerdo, discrepancia, disentimiento; diferir, disentir, discrepar, no
+      estar de acuerdo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + ijen
+...

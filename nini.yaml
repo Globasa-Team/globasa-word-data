@@ -1,0 +1,58 @@
+---
+term: nini
+slug: nini
+ipa: "\u02C8nini"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nini&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - child
+    - kid
+    - boy
+    - girl
+  epo:
+  - - infano
+  spa:
+  - - "ni\xF1o"
+search terms:
+  glb:
+  - nini
+  eng:
+  - child
+  - kid
+  - boy
+  - girl
+  epo:
+  - infano
+  spa:
+  - "ni\xF1o"
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - "ni\xF1o"
+    - "ni\xF1a"
+  Portugalsa:
+  - - menina
+    - menino
+raw data:
+  term: nini
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: child, kid, boy, girl
+    epo: infano
+    spa: "ni\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (ni\xF1o, ni\xF1a), Portugalsa (menina, menino)"
+...

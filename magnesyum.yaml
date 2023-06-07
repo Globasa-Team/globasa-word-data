@@ -1,0 +1,54 @@
+---
+term: magnesyum
+slug: magnesyum
+ipa: "magne\u02C8sjum"
+ipa link: "http://ipa-reader.xyz/?text=magne\u02C8sjum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - magnesium
+  epo:
+  - - magnezio
+  spa:
+  - - magnesio
+search terms:
+  glb:
+  - magnesyum
+  eng:
+  - magnesium
+  epo:
+  - magnezio
+  spa:
+  - magnesio
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: magnesyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: magnesium
+    epo: magnezio
+    spa: magnesio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (magnesium), Espanisa (magnesio), Arabisa (\u0645\u064E\u063A\u0652\u0646\u0650\u0633\u0652\u064A\u064F\u0648\u0645
+    \u201Cmagnisyum\u201D), Fransesa (magn\xE9sium), Rusisa (\u043C\u0430\u0433\u043D\u0438\u0439
+    \u201Cmagniy\u201D), Indonesisa (magnesium), Doycisa (Magnesium), Niponsa (\u30DE\u30B0\u30CD\u30B7\u30A6\u30E0
+    \u201Cmagunexiumu\u201D), Telugusa (\u0C2E\u0C3E\u0C17\u0C4D\u0C28\u0C40\u0C37\u0C3F\u0C2F\u0C02
+    \u201Cmagnixiyam\u201D), Turkisa (magnezyum), Hangusa (\uB9C8\uADF8\uB124\uC298
+    \u201Cmagunesyum\u201D), Vyetnamsa (magi\xEA), Parsisa (\u0645\u0646\u06CC\u0632\u06CC\u0645
+    \u201Cmnyzym\u201D), Swahilisa (magnesi), Pilipinasa (magnesyo, magnesyum)"
+...

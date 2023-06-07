@@ -1,0 +1,58 @@
+---
+term: cakare
+slug: cakare
+ipa: t͡ʃaˈkaɾe
+ipa link: http://ipa-reader.xyz/?text=t͡ʃaˈkaɾe&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vertigo
+    - dizziness
+  epo:
+  - - kapturno
+    - vertiĝo
+  spa:
+  - - vértigo
+    - mareo
+search terms:
+  glb:
+  - cakare
+  eng:
+  - vertigo
+  - dizziness
+  epo:
+  - kapturno
+  - vertiĝo
+  spa:
+  - vértigo
+  - mareo
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - चक्कर "cakkar"
+  Telugusa:
+  - - చక్కర్ "cakkar"
+tags:
+- medis
+raw data:
+  term: cakare
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vertigo, dizziness
+    epo: kapturno, vertiĝo
+    spa: vértigo, mareo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: Hindisa (चक्कर "cakkar"), Telugusa (చక్కర్ "cakkar")
+...

@@ -1,0 +1,84 @@
+---
+term: proyeksi
+slug: proyeksi
+ipa: "p\u027Eo\u02C8jeksi"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eo\u02C8jeksi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - projection
+  - - project
+  epo:
+  - - projekcio
+  - - projekcii
+  spa:
+  - - "proyecci\xF3n"
+  - - proyectar
+search terms:
+  glb:
+  - proyeksi
+  eng:
+  - projection
+  - project
+  epo:
+  - projekcio
+  - projekcii
+  spa:
+  - "proyecci\xF3n"
+  - proyectar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - projection
+  Espanisa:
+  - - "proyecci\xF3n"
+  Fransesa:
+  - - projection
+  Rusisa:
+  - - "\u043F\u0440\u043E\u0435\u043A\u0446\u0438\u044F \"proyektsiya\""
+  Doycisa:
+  - - Projektion
+  Portugalsa:
+  - - "proje\xE7\xE3o"
+  Italisa:
+  - - proiezione
+    - "proiett\xE0re"
+  Indonesisa:
+  - - proyeksi
+  Pilipinasa:
+  - - proyeksiyon
+  Turkisa:
+  - - projeksiyon
+  Niponsa:
+  - - "\u30D7\u30ED\u30B8\u30A7\u30AF\u30BF\u30FC \"purojekuta\""
+  Telugusa:
+  - - "\u0C2A\u0C4D\u0C30\u0C4A\u0C1C\u0C46\u0C15\u0C4D\u0C1F\u0C30\u0C4D \"projektar\""
+  Hangusa:
+  - - "\uD504\uB85C\uC81D\uD130 \"peurojekto\""
+raw data:
+  term: proyeksi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: projection; project
+    epo: projekcio; projekcii
+    spa: "proyecci\xF3n; proyectar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (projection), Espanisa (proyecci\xF3n), Fransesa (projection),
+    Rusisa (\u043F\u0440\u043E\u0435\u043A\u0446\u0438\u044F \"proyektsiya\"), Doycisa
+    (Projektion), Portugalsa (proje\xE7\xE3o), Italisa (proiezione, proiett\xE0re),
+    Indonesisa (proyeksi), Pilipinasa (proyeksiyon), Turkisa (projeksiyon), Niponsa
+    (\u30D7\u30ED\u30B8\u30A7\u30AF\u30BF\u30FC \"purojekuta\"), Telugusa (\u0C2A\u0C4D\u0C30\u0C4A\u0C1C\u0C46\u0C15\u0C4D\u0C1F\u0C30\u0C4D
+    \"projektar\"), Hangusa (\uD504\uB85C\uC81D\uD130 \"peurojekto\")"
+...

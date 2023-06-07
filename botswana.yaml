@@ -1,0 +1,50 @@
+---
+term: botswana
+slug: botswana
+ipa: "bot\u02C8swana"
+ipa link: "http://ipa-reader.xyz/?text=bot\u02C8swana&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Botswana
+  epo:
+  - - Bocvano
+  spa:
+  - - Botsuana
+search terms:
+  glb:
+  - botswana
+  eng:
+  - botswana
+  epo:
+  - bocvano
+  spa:
+  - botsuana
+etymology_type: NATLNG
+etymology:
+  Botswanasa:
+  - - Botswana
+tags:
+- dexa
+raw data:
+  term: Botswana
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Botswana
+    epo: Bocvano
+    spa: Botsuana
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Botswanasa (Botswana)
+...

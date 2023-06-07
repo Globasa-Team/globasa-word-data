@@ -1,0 +1,47 @@
+---
+term: kekwanti
+slug: kekwanti
+ipa: "ke\u02C8kwanti"
+ipa link: "http://ipa-reader.xyz/?text=ke\u02C8kwanti&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - how much
+  epo:
+  - - kiom (da)
+  spa:
+  - - "\xBFcu\xE1nto?"
+search terms:
+  glb:
+  - kekwanti
+  eng:
+  - how much
+  epo:
+  - kiom da
+  - kiom
+  spa:
+  - "\xBFcu\xE1nto?"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ke">ke</a> + <a href="../lexi/kwanti">kwanti</a>
+raw data:
+  term: 'kekwanti '
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: how much
+    epo: kiom (da)
+    spa: "\xBFcu\xE1nto?"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ke + kwanti
+...

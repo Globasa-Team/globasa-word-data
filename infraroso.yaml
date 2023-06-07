@@ -1,0 +1,48 @@
+---
+term: infraroso
+slug: infraroso
+ipa: "inf\u027Ea\u02C8\u027Eoso"
+ipa link: "http://ipa-reader.xyz/?text=inf\u027Ea\u02C8\u027Eoso&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - infrared
+  epo:
+  - - "infraru\u011Da"
+  - - "infraru\u011De"
+  spa:
+  - - infrarrojo
+search terms:
+  glb:
+  - infraroso
+  eng:
+  - infrared
+  epo:
+  - "infraru\u011Da"
+  - "infraru\u011De"
+  spa:
+  - infrarrojo
+etymology_type: DERIVD
+etymology: <a href="../lexi/infra-">infra-</a> + <a href="../lexi/roso">roso</a>
+raw data:
+  term: infraroso
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: infrared
+    epo: "infraru\u011Da; infraru\u011De"
+    spa: infrarrojo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: infra- + roso
+...

@@ -1,0 +1,47 @@
+---
+term: seksomalfilya
+slug: seksomalfilya
+ipa: "seksomal\u02C8filja"
+ipa link: "http://ipa-reader.xyz/?text=seksomal\u02C8filja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - lust (_sin_)
+  epo:
+  - - volupto (_peko_)
+  spa:
+  - - lujuria
+search terms:
+  glb:
+  - seksomalfilya
+  eng:
+  - lust
+  epo:
+  - volupto
+  spa:
+  - lujuria
+etymology_type: DERIVD
+etymology: <a href="../lexi/sekso">sekso</a> + <a href="../lexi/mal-">mal-</a> + <a
+  href="../lexi/-fil">-fil</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: seksomalfilya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: lust (_sin_)
+    epo: volupto (_peko_)
+    spa: lujuria
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sekso + mal- + -fil + -ya
+...

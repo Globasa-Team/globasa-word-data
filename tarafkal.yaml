@@ -1,0 +1,50 @@
+---
+term: tarafkal
+slug: tarafkal
+ipa: "ta\u027Eaf\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=ta\u027Eaf\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - impartial
+    - impartially
+  epo:
+  - - senpartia
+  - - senpartie
+  spa:
+  - - imparcial
+search terms:
+  glb:
+  - tarafkal
+  eng:
+  - impartial
+  - impartially
+  epo:
+  - senpartia
+  - senpartie
+  spa:
+  - imparcial
+etymology_type: DERIVD
+etymology: <a href="../lexi/taraf">taraf</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: tarafkal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: impartial, impartially
+    epo: senpartia; senpartie
+    spa: imparcial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: taraf + -kal
+...

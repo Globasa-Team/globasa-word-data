@@ -1,0 +1,51 @@
+---
+term: lao
+slug: lao
+ipa: "\u02C8lao"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lao&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - old
+  epo:
+  - - maljuna
+  spa:
+  - - "viejo (_ant\xF3nimo: joven_)"
+search terms:
+  glb:
+  - lao
+  eng:
+  - old
+  epo:
+  - maljuna
+  spa:
+  - viejo
+etymology_type: NATLNG
+etymology: BLAH
+synonyms:
+- lama
+antonyms:
+- juni
+raw data:
+  term: lao
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: 'old '
+    epo: maljuna
+    spa: "viejo (_ant\xF3nimo: joven_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: lama
+  antonyms: juni
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u8001 \u201Cl\u01CEo\u201D), Vyetnamsa (l\xE3o), Niponsa
+    (\u8001 \u201Cro\u201D)"
+...

@@ -1,0 +1,50 @@
+---
+term: incu
+slug: incu
+ipa: "\u02C8int\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8int\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - enter
+    - get in
+  epo:
+  - - "eni\u011Do"
+  - - "eni\u011Di"
+  spa:
+  - - entrar
+search terms:
+  glb:
+  - incu
+  eng:
+  - enter
+  - get in
+  epo:
+  - "eni\u011Do"
+  - "eni\u011Di"
+  spa:
+  - entrar
+etymology_type: DERIVD
+etymology: <a href="../lexi/in">in</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: incu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: enter, get in
+    epo: "eni\u011Do; eni\u011Di"
+    spa: entrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in + -cu
+...

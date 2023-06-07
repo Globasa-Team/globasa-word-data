@@ -1,0 +1,50 @@
+---
+term: uganda
+slug: uganda
+ipa: "u\u02C8ganda"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8ganda&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Uganda
+  epo:
+  - - Ugando
+  spa:
+  - - Uganda
+search terms:
+  glb:
+  - uganda
+  eng:
+  - uganda
+  epo:
+  - ugando
+  spa:
+  - uganda
+etymology_type: NATLNG
+etymology:
+  Swahilisa:
+  - - Uganda
+tags:
+- dexa
+raw data:
+  term: Uganda
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Uganda
+    epo: Ugando
+    spa: Uganda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Swahilisa (Uganda)
+...

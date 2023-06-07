@@ -1,0 +1,50 @@
+---
+term: nilmo
+slug: nilmo
+ipa: "\u02C8nilmo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nilmo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - in no way
+    - to no degree
+  epo:
+  - - neniel
+    - neniom
+  spa:
+  - - "a ning\xFAn grado"
+search terms:
+  glb:
+  - nilmo
+  eng:
+  - in no way
+  - to no degree
+  epo:
+  - neniel
+  - neniom
+  spa:
+  - "a ning\xFAn grado"
+etymology_type: DERIVD
+etymology: <a href="../lexi/nil">nil</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: nilmo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: in no way, to no degree
+    epo: neniel, neniom
+    spa: "a ning\xFAn grado"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nil + -mo
+...

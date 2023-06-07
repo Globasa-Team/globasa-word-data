@@ -1,0 +1,56 @@
+---
+term: ingi
+slug: ingi
+ipa: "\u02C8ingi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ingi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - enter
+    - put in
+    - insert
+  epo:
+  - - enigo
+  - - enigi
+  spa:
+  - - meter
+    - insertar
+    - introducir
+search terms:
+  glb:
+  - ingi
+  eng:
+  - enter
+  - put in
+  - insert
+  epo:
+  - enigo
+  - enigi
+  spa:
+  - meter
+  - insertar
+  - introducir
+etymology_type: DERIVD
+etymology: <a href="../lexi/in">in</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: ingi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: enter, put in, insert
+    epo: enigo; enigi
+    spa: meter, insertar, introducir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in + -gi
+...

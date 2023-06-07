@@ -1,0 +1,52 @@
+---
+term: wajenje
+slug: wajenje
+ipa: "wa\u02C8d\u0361\u0292end\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=wa\u02C8d\u0361\u0292end\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - weight
+  - - weigh (_measure weight of_)
+  epo:
+  - - pezo
+  - - pesi
+  spa:
+  - - peso
+  - - pesar (_medir el peso de_)
+search terms:
+  glb:
+  - wajenje
+  eng:
+  - weight
+  - weigh
+  epo:
+  - pezo
+  - pesi
+  spa:
+  - peso
+  - pesar
+etymology_type: DERIVD
+etymology: <a href="../lexi/wajen">wajen</a> + <a href="../lexi/-je">-je</a>
+raw data:
+  term: wajenje
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: weight; weigh (_measure weight of_)
+    epo: pezo; pesi
+    spa: peso; pesar (_medir el peso de_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wajen + -je
+...

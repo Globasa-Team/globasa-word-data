@@ -1,0 +1,66 @@
+---
+term: estrutur
+slug: estrutur
+ipa: estɾuˈtuɾ
+ipa link: http://ipa-reader.xyz/?text=estɾuˈtuɾ&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - structure
+  epo:
+  - - strukturo
+  - - strukturi
+  spa:
+  - - estructura
+  - - estructurar
+search terms:
+  glb:
+  - estrutur
+  eng:
+  - structure
+  epo:
+  - strukturo
+  - strukturi
+  spa:
+  - estructura
+  - estructurar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - structure
+  Fransesa:
+  - - structure
+  Doycisa:
+  - - Stuktur
+  Rusisa:
+  - - структура “struktura”
+  Espanisa:
+  - - estructura
+  Indonesisa:
+  - - struktur
+  Pilipinasa:
+  - - estruktura
+raw data:
+  term: estrutur
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: structure
+    epo: strukturo; strukturi
+    spa: estructura; estructurar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (structure), Fransesa (structure), Doycisa (Stuktur), Rusisa
+    (структура “struktura”), Espanisa (estructura), Indonesisa (struktur), Pilipinasa
+    (estruktura)
+...

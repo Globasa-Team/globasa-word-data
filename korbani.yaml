@@ -1,0 +1,48 @@
+---
+term: korbani
+slug: korbani
+ipa: "ko\u027E\u02C8bani"
+ipa link: "http://ipa-reader.xyz/?text=ko\u027E\u02C8bani&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - victim
+  epo:
+  - - viktimo
+  spa:
+  - - victima
+search terms:
+  glb:
+  - korbani
+  eng:
+  - victim
+  epo:
+  - viktimo
+  spa:
+  - victima
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: korbani
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: victim
+    epo: viktimo
+    spa: victima
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u064F\u0631\u0652\u0628\u064E\u0627\u0646 \u201Cqurban\u201D),
+    Indonesisa (korban), Parsisa (\u0642\u0631\u0628\u0627\u0646\u06CC \u201Cqorbani\u201D),
+    Turkisa (kurban), Hindisa (\u0915\u0941\u0930\u092C\u093E\u0928\u0940 \u201Ckurbani\u201D)"
+...

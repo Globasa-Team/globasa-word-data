@@ -1,0 +1,54 @@
+---
+term: jiwane
+slug: jiwane
+ipa: "d\u0361\u0292i\u02C8wane"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i\u02C8wane&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - alive
+    - living
+    - live
+  epo:
+  - - viva
+    - vivanta
+  - - vivante
+  spa:
+  - - viviente
+search terms:
+  glb:
+  - jiwane
+  eng:
+  - alive
+  - living
+  - live
+  epo:
+  - viva
+  - vivanta
+  - vivante
+  spa:
+  - viviente
+etymology_type: DERIVD
+etymology: <a href="../lexi/jiwa">jiwa</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: jiwane
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: alive, living, live
+    epo: viva, vivanta; vivante
+    spa: viviente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jiwa + -ne
+...

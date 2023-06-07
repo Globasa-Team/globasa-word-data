@@ -1,0 +1,73 @@
+---
+term: restoran
+slug: restoran
+ipa: "\u027Eesto\u02C8\u027Ean"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eesto\u02C8\u027Ean&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - restaurant
+  epo:
+  - - restoracio
+  spa:
+  - - restaurante
+search terms:
+  glb:
+  - restoran
+  eng:
+  - restaurant
+  epo:
+  - restoracio
+  spa:
+  - restaurante
+etymology_type: NATLNG
+etymology:
+  Doycisa: ~
+  Englisa: ~
+  Espanisa: ~
+  Fransesa: ~
+  Rusisa: ~
+  Hindisa:
+  - - "\u0930\u0947\u0938\u094D\u091F\u094B\u0930\u0947\u0902\u091F \"restorent\""
+  Telugusa:
+  - - "\u0C30\u0C46\u0C38\u0C4D\u0C1F\u0C3E\u0C30\u0C46\u0C02\u0C1F\u0C4D \"restarent\""
+  Parsisa:
+  - - "\u0631\u0633\u062A\u0648\u0631\u0627\u0646 \"resturan\""
+  Turkisa:
+  - - restoran
+  Indonesisa:
+  - - restoran
+  Pilipinasa:
+  - - restawran
+  Niponsa:
+  - - "\u30EC\u30B9\u30C8\u30E9\u30F3 \"resutoran\""
+  Hangusa:
+  - - "\uB808\uC2A4\uD1A0\uB791 \"resutoran\""
+tags:
+- dom
+raw data:
+  term: restoran
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: restaurant
+    epo: restoracio
+    spa: restaurante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dom
+  etymology: "Doycisa, Englisa, Espanisa, Fransesa, Rusisa, Hindisa (\u0930\u0947\u0938\u094D\u091F\u094B\u0930\u0947\u0902\u091F
+    \"restorent\"), Telugusa (\u0C30\u0C46\u0C38\u0C4D\u0C1F\u0C3E\u0C30\u0C46\u0C02\u0C1F\u0C4D
+    \"restarent\"), Parsisa (\u0631\u0633\u062A\u0648\u0631\u0627\u0646 \"resturan\"),
+    Turkisa (restoran), Indonesisa (restoran), Pilipinasa (restawran), Niponsa (\u30EC\u30B9\u30C8\u30E9\u30F3
+    \"resutoran\"), Hangusa (\uB808\uC2A4\uD1A0\uB791 \"resutoran\")"
+...

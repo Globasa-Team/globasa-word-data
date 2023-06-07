@@ -1,0 +1,57 @@
+---
+term: maldoyday
+slug: maldoyday
+ipa: "maldoj\u02C8daj"
+ipa link: "http://ipa-reader.xyz/?text=maldoj\u02C8daj&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - abuse (_drugs
+    - etc._)
+  epo:
+  - - misuzado
+  - - misuzi (_drogojn
+    - ktp._)
+  spa:
+  - - abuso (_drogas
+    - etc._)
+search terms:
+  glb:
+  - maldoyday
+  eng:
+  - abuse drugs
+  - abuse (_drugs
+  - etc.
+  epo:
+  - misuzado
+  - misuzi drogojn
+  - misuzi (_drogojn
+  - ktp.
+  spa:
+  - abuso drogas
+  - abuso (_drogas
+  - etc.
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal">mal</a> + <a href="../lexi/doyday">doyday</a>
+raw data:
+  term: maldoyday
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: abuse (_drugs, etc._)
+    epo: misuzado; misuzi (_drogojn, ktp._)
+    spa: abuso (_drogas, etc._)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal + doyday
+...

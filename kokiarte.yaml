@@ -1,0 +1,46 @@
+---
+term: kokiarte
+slug: kokiarte
+ipa: "koki\u02C8a\u027Ete"
+ipa link: "http://ipa-reader.xyz/?text=koki\u02C8a\u027Ete&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - cuisine
+  epo:
+  - - kuirarto
+  spa:
+  - - arte culinario
+search terms:
+  glb:
+  - kokiarte
+  eng:
+  - cuisine
+  epo:
+  - kuirarto
+  spa:
+  - arte culinario
+etymology_type: DERIVD
+etymology: <a href="../lexi/koki">koki</a> + <a href="../lexi/arte">arte</a>
+raw data:
+  term: kokiarte
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: cuisine
+    epo: kuirarto
+    spa: arte culinario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: koki + arte
+...

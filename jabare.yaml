@@ -1,0 +1,50 @@
+---
+term: jabare
+slug: jabare
+ipa: "d\u0361\u0292a\u02C8ba\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8ba\u027Ee&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - jaw
+  epo:
+  - - makzelo
+  spa:
+  - - quijada
+search terms:
+  glb:
+  - jabare
+  eng:
+  - jaw
+  epo:
+  - makzelo
+  spa:
+  - quijada
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: jabare
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: jaw
+    epo: makzelo
+    spa: quijada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Hindisa (\u091C\u092C\u0921\u093C\u093E \u201Cjabara\u201D), Nepalsa
+    (\u091C\u092C\u0921\u093C\u0947 \u201Cjaba\u1E5B\u0113\u201D), Panjabisa (\u0A1C\u0A2C\u0A3E\u0A5C\u0A47
+    \u201Cjab\u0101\u1E5B\u0113\u201D)"
+...

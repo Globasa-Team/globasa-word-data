@@ -1,0 +1,77 @@
+---
+term: fisyo
+slug: fisyo
+ipa: ˈfisjo
+ipa link: http://ipa-reader.xyz/?text=ˈfisjo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - physiology
+    - bodily functioning
+  epo:
+  - - fiziologiaĵo
+    - fiziologio
+    - vivula funkciado
+  spa:
+  - - fisiología
+search terms:
+  glb:
+  - fisyo
+  eng:
+  - physiology
+  - bodily functioning
+  epo:
+  - fiziologiaĵo
+  - fiziologio
+  - vivula funkciado
+  spa:
+  - fisiología
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - physiology
+  Espanisa:
+  - - fisiología
+  Fransesa:
+  - - physiologie
+  Rusisa:
+  - - физиология "fiziologiya"
+  Doycisa:
+  - - Physiologie
+  Indonesisa:
+  - - fisiologi
+  Pilipinasa:
+  - - pisyolohiya
+  Arabisa:
+  - - فِيزْيُولُوجِيَا "fizyulujiya"
+  Turkisa:
+  - - fizyoloji
+  Parsisa:
+  - - فیزیولوژی "fiziyoloji"
+  Swahilisa:
+  - - fiziolojia
+raw data:
+  term: fisyo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: physiology, bodily functioning
+    epo: fiziologiaĵo, fiziologio, vivula funkciado
+    spa: fisiología
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (physiology), Espanisa (fisiología), Fransesa (physiologie),
+    Rusisa (физиология "fiziologiya"), Doycisa (Physiologie), Indonesisa (fisiologi),
+    Pilipinasa (pisyolohiya), Arabisa (فِيزْيُولُوجِيَا "fizyulujiya"), Turkisa (fizyoloji),
+    Parsisa (فیزیولوژی "fiziyoloji"), Swahilisa (fiziolojia)
+...

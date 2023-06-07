@@ -1,0 +1,71 @@
+---
+term: geometri
+slug: geometri
+ipa: geoˈmetɾi
+ipa link: http://ipa-reader.xyz/?text=geoˈmetɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - geometry
+  epo:
+  - - geometrio
+  spa:
+  - - geometría
+search terms:
+  glb:
+  - geometri
+  eng:
+  - geometry
+  epo:
+  - geometrio
+  spa:
+  - geometría
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - geometry
+  Hindisa:
+  - - ज्यामिति “jyamiti”
+  Espanisa:
+  - - geometría
+  Fransesa:
+  - - géométrie
+  Rusisa:
+  - - геометрия “geometriya”
+  Indonesisa:
+  - - geometri
+  Doycisa:
+  - - Geometrie
+  Telugusa:
+  - - జ్యామితి “jyamiti”
+  Turkisa:
+  - - geometri
+  Swahilisa:
+  - - jiometri
+  Pilipinasa:
+  - - heometriya
+raw data:
+  term: geometri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: geometry
+    epo: geometrio
+    spa: geometría
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (geometry), Hindisa (ज्यामिति “jyamiti”), Espanisa (geometría),
+    Fransesa (géométrie), Rusisa (геометрия “geometriya”), Indonesisa (geometri),
+    Doycisa (Geometrie), Telugusa (జ్యామితి “jyamiti”), Turkisa (geometri), Swahilisa
+    (jiometri), Pilipinasa (heometriya)
+...

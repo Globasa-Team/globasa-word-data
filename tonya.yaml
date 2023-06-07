@@ -1,0 +1,56 @@
+---
+term: tonya
+slug: tonya
+ipa: "\u02C8tonja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tonja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - company
+  - - be with
+    - keep company
+  epo:
+  - - kuneco
+  - - esti kuna
+  spa:
+  - - "compa\xF1\xEDa"
+  - - "acompa\xF1ar"
+    - "hacer compa\xF1\xEDa a"
+search terms:
+  glb:
+  - tonya
+  eng:
+  - company
+  - be with
+  - keep company
+  epo:
+  - kuneco
+  - esti kuna
+  spa:
+  - "compa\xF1\xEDa"
+  - "acompa\xF1ar"
+  - "hacer compa\xF1\xEDa a"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton">ton</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: tonya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: company; be with, keep company
+    epo: kuneco; esti kuna
+    spa: "compa\xF1\xEDa; acompa\xF1ar, hacer compa\xF1\xEDa a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton + -ya
+...

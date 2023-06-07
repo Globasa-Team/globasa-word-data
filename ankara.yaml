@@ -1,0 +1,81 @@
+---
+term: ankara
+slug: ankara
+ipa: anˈkaɾa
+ipa link: http://ipa-reader.xyz/?text=anˈkaɾa&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - anchor
+  epo:
+  - - ankro
+  spa:
+  - - ancla
+  - - anclar
+    - anclarse
+search terms:
+  glb:
+  - ankara
+  eng:
+  - anchor
+  epo:
+  - ankro
+  spa:
+  - ancla
+  - anclar
+  - anclarse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - anchor
+  Espanisa:
+  - - ancla
+    - áncora
+  Fransesa:
+  - - ancre
+  Rusisa:
+  - - якорь “yakor”
+  Doycisa:
+  - - Anker
+  Indonesisa:
+  - - jangkar
+  Pilipinasa:
+  - - angkla
+    - angkora
+  Hindisa:
+  - - लंगर “langar”
+    - नंगर “nangar”
+  Arabisa:
+  - - أَنْجَر “anjar”
+    - الْأَنْجَر “alanjar”
+  Telugusa:
+  - - లంగరు “langaru”
+  Vyetnamsa:
+  - - لنگر “langar”
+  Swahilisa:
+  - - nanga
+raw data:
+  term: ankara
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: anchor
+    epo: ankro
+    spa: ancla; anclar, anclarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (anchor), Espanisa (ancla, áncora), Fransesa (ancre), Rusisa
+    (якорь “yakor”), Doycisa (Anker), Indonesisa (jangkar), Pilipinasa (angkla, angkora),
+    Hindisa (लंगर “langar”, नंगर “nangar”), Arabisa (أَنْجَر “anjar”, الْأَنْجَر “alanjar”),
+    Telugusa (లంగరు “langaru”), Vyetnamsa (لنگر “langar”), Swahilisa (nanga)
+...

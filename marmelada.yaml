@@ -1,0 +1,67 @@
+---
+term: marmelada
+slug: marmelada
+ipa: "ma\u027Eme\u02C8lada"
+ipa link: "http://ipa-reader.xyz/?text=ma\u027Eme\u02C8lada&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - jelly
+    - jam
+    - marmelade
+    - confiture
+  epo:
+  - - marmelado
+    - "konfita\u0135o"
+    - "frukta\u0135o"
+  spa:
+  - - mermelada
+    - jalea
+    - confitura
+search terms:
+  glb:
+  - marmelada
+  eng:
+  - jelly
+  - jam
+  - marmelade
+  - confiture
+  epo:
+  - marmelado
+  - "konfita\u0135o"
+  - "frukta\u0135o"
+  spa:
+  - mermelada
+  - jalea
+  - confitura
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: marmelada
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: jelly, jam, marmelade, confiture
+    epo: "marmelado, konfita\u0135o, frukta\u0135o"
+    spa: mermelada, jalea, confitura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (marmalade), Fransesa, Doycisa, Indonesisa, Vyetnamsa, Espanisa
+    (mermelada), Rusisa (\u043C\u0430\u0440\u043C\u0435\u043B\u0430\u0434 \u201Cmarmelad\u201D),
+    Pilipinasa (marmelada), Arabisa (\u0645\u064E\u0631\u0652\u0645\u064E\u0644\u064E\u0627\u062F
+    \u201Cmarmalad\u201D), Niponsa (\u30DE\u30FC\u30DE\u30EC\u30FC\u30C9 \u201Cmamaredo\u201D),
+    Turkisa (marmelat), Hangusa (\uB808\uC774\uB4DC \u201Cmamaleidu\u201D), Parsisa
+    (\u0645\u0627\u0631\u0645\u0627\u0644\u0627\u062F\u200E \u201Cmarmalad\u201D), "
+...

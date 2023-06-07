@@ -1,0 +1,48 @@
+---
+term: atoya
+slug: atoya
+ipa: "a\u02C8toja"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8toja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - acting
+  epo:
+  - - aktorado
+  spa:
+  - - "actuaci\xF3n"
+search terms:
+  glb:
+  - atoya
+  eng:
+  - acting
+  epo:
+  - aktorado
+  spa:
+  - "actuaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ato">ato</a> + <a href="../lexi/-ya">-ya</a>
+tags:
+- profesi
+raw data:
+  term: atoya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: acting
+    epo: aktorado
+    spa: "actuaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: profesi
+  etymology: ato + -ya
+...

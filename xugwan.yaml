@@ -1,0 +1,53 @@
+---
+term: xugwan
+slug: xugwan
+ipa: "\u0283u\u02C8gwan"
+ipa link: "http://ipa-reader.xyz/?text=\u0283u\u02C8gwan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - habit
+  epo:
+  - - kutimo
+  spa:
+  - - "h\xE1bito"
+search terms:
+  glb:
+  - xugwan
+  eng:
+  - habit
+  epo:
+  - kutimo
+  spa:
+  - "h\xE1bito"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4E60\u60EF \u201Cx\xEDgu\xE0n\u201D"
+  Niponsa:
+  - - "\u7FD2\u6163 \u201Csh\u016Bkan\u201D"
+  Hangusa:
+  - - "\uC2B5\uAD00 \u201Cseubgwan\u201D"
+raw data:
+  term: xugwan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: habit
+    epo: kutimo
+    spa: "h\xE1bito"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u4E60\u60EF \u201Cx\xEDgu\xE0n\u201D), Niponsa (\u7FD2\u6163
+    \u201Csh\u016Bkan\u201D), Hangusa (\uC2B5\uAD00 \u201Cseubgwan\u201D)"
+...

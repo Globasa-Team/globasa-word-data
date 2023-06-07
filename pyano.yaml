@@ -1,0 +1,67 @@
+---
+term: pyano
+slug: pyano
+ipa: "\u02C8pjano"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pjano&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - piano
+  epo:
+  - - piano
+  spa:
+  - - piano
+search terms:
+  glb:
+  - pyano
+  eng:
+  - piano
+  epo:
+  - piano
+  spa:
+  - piano
+etymology_type: NATLNG
+etymology:
+  Italisa:
+  - - piano
+  Englisa:
+  - - piano
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Arabisa: ~
+  Hindisa: ~
+  Telugusa: ~
+  Parsisa: ~
+  Turkisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Swahilisa: ~
+  Vyetnamsa: ~
+  Niponsa: ~
+  Hangusa: ~
+raw data:
+  term: pyano
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: piano
+    epo: piano
+    spa: piano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Italisa (piano), Englisa (piano), Fransesa ( ), Doycisa, Rusisa, Espanisa,
+    Arabisa, Hindisa, Telugusa, Parsisa, Turkisa, Indonesisa, Pilipinasa, Swahilisa,
+    Vyetnamsa, Niponsa, Hangusa
+...

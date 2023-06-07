@@ -1,0 +1,52 @@
+---
+term: trinidad ji tobago
+slug: trinidad ji tobago
+ipa: "t\u027Eini\u02C8dad d\u0361\u0292i to\u02C8bago"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Eini\u02C8dad d\u0361\u0292i to\u02C8bago&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - Trinidad and Tobago
+  epo:
+  - - Trinidado kaj Tobago
+  spa:
+  - - Trinidad y Tobago
+search terms:
+  glb:
+  - trinidad ji tobago
+  - trinidad
+  - ji
+  - tobago
+  eng:
+  - trinidad and tobago
+  epo:
+  - trinidado kaj tobago
+  spa:
+  - trinidad y tobago
+etymology_type: DERIVD
+etymology: <a href="../lexi/Trinidad">Trinidad</a>, <a href="../lexi/ji">ji</a>, <a
+  href="../lexi/Tobago">Tobago</a>
+tags:
+- dexa
+raw data:
+  term: Trinidad ji Tobago
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: Trinidad and Tobago
+    epo: Trinidado kaj Tobago
+    spa: Trinidad y Tobago
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Trinidad, ji, Tobago
+...

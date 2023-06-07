@@ -1,0 +1,46 @@
+---
+term: lima
+slug: lima
+ipa: "\u02C8lima"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lima&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - five
+  epo:
+  - - kvin
+  spa:
+  - - cinco
+search terms:
+  glb:
+  - lima
+  eng:
+  - five
+  epo:
+  - kvin
+  spa:
+  - cinco
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lima
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: five
+    epo: kvin
+    spa: cinco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Indonesisa (lima), Pilipinasa (lima), Sundanese (lima)
+...

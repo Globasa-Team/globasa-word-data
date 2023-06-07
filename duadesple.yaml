@@ -1,0 +1,50 @@
+---
+term: duadesple
+slug: duadesple
+ipa: "dua\u02C8desple"
+ipa link: "http://ipa-reader.xyz/?text=dua\u02C8desple&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - vigintuple
+    - twentyfold
+  epo:
+  - - duobla
+  - - duoble
+  spa:
+  - - "vig\xEDntuple"
+search terms:
+  glb:
+  - duadesple
+  eng:
+  - vigintuple
+  - twentyfold
+  epo:
+  - duobla
+  - duoble
+  spa:
+  - "vig\xEDntuple"
+etymology_type: DERIVD
+etymology: <a href="../lexi/dua">dua</a> + <a href="../lexi/des">des</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: duadesple
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: vigintuple, twentyfold
+    epo: duobla; duoble
+    spa: "vig\xEDntuple"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dua + des + -ple
+...

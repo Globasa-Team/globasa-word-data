@@ -1,0 +1,48 @@
+---
+term: beokomusi
+slug: beokomusi
+ipa: "beoko\u02C8musi"
+ipa link: "http://ipa-reader.xyz/?text=beoko\u02C8musi&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - must-see
+  epo:
+  - - videnda
+  - - vidende
+  spa:
+  - - que hay que ver
+search terms:
+  glb:
+  - beokomusi
+  eng:
+  - must-see
+  epo:
+  - videnda
+  - vidende
+  spa:
+  - que hay que ver
+etymology_type: DERIVD
+etymology: <a href="../lexi/be-">be-</a> + <a href="../lexi/oko">oko</a> + <a href="../lexi/-musi">-musi</a>
+raw data:
+  term: beokomusi
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: must-see
+    epo: videnda; vidende
+    spa: que hay que ver
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: be- + oko + -musi
+...

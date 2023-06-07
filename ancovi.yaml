@@ -1,0 +1,69 @@
+---
+term: ancovi
+slug: ancovi
+ipa: anˈt͡ʃovi
+ipa link: http://ipa-reader.xyz/?text=anˈt͡ʃovi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - anchovy
+    - _Engraulidae_
+  epo:
+  - - engraŭlo
+    - anĉovo
+  spa:
+  - - anchoa
+    - boquerón
+    - _Engraulidae_
+search terms:
+  glb:
+  - ancovi
+  eng:
+  - anchovy
+  - engraulidae
+  epo:
+  - engraŭlo
+  - anĉovo
+  spa:
+  - anchoa
+  - boquerón
+  - engraulidae
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - anchovy
+  Fransesa:
+  - - anchois
+  Rusisa:
+  - - анчоус “ancows”
+  Arabisa:
+  - - أَنْشُوفة “anxufa”
+  Niponsa:
+  - - アンチョビ “ancobi”
+  Parsisa:
+  - - آنچوی “ancovi”
+tags:
+- hewan
+raw data:
+  term: ancovi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: anchovy, _Engraulidae_
+    epo: engraŭlo, anĉovo
+    spa: anchoa, boquerón, _Engraulidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (anchovy), Fransesa (anchois), Rusisa (анчоус “ancows”), Arabisa
+    (أَنْشُوفة “anxufa”), Niponsa (アンチョビ “ancobi”), Parsisa (آنچوی “ancovi”)
+...

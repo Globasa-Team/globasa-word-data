@@ -1,0 +1,50 @@
+---
+term: tuvalusa
+slug: tuvalusa
+ipa: "tuva\u02C8lusa"
+ipa link: "http://ipa-reader.xyz/?text=tuva\u02C8lusa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Tuvaluan (language)
+  epo:
+  - - la tuvala (lingvo)
+  spa:
+  - - tuvaluano (_idioma_)
+search terms:
+  glb:
+  - tuvalusa
+  eng:
+  - tuvaluan language
+  - tuvaluan
+  epo:
+  - la tuvala lingvo
+  - la tuvala
+  spa:
+  - tuvaluano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Tuvalu">Tuvalu</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Tuvalusa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Tuvaluan (language)
+    epo: la tuvala (lingvo)
+    spa: tuvaluano (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Tuvalu + -sa
+...

@@ -1,0 +1,68 @@
+---
+term: siko
+slug: siko
+ipa: "\u02C8siko"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8siko&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mind
+  epo:
+  - - menso
+  spa:
+  - - mente
+search terms:
+  glb:
+  - siko
+  eng:
+  - mind
+  epo:
+  - menso
+  spa:
+  - mente
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - psycho-
+    - psychology
+  Fransesa:
+  - - psychologie
+  Doycisa:
+  - - Psychologie
+  Rusisa:
+  - - "\u043F\u0441\u0438\u0445\u043E\u043B\u043E\u0433\u0438\u044F \u201Cpsihologiya\u201D"
+  Espanisa:
+  - - "psicolog\xEDa"
+  Turkisa:
+  - - psikoloji
+  Indonesisa:
+  - - psikologi
+  Pilipinasa:
+  - - sikolohiya
+  Swahilisa:
+  - - saikolojia
+raw data:
+  term: siko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mind
+    epo: menso
+    spa: mente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (psycho-, psychology), Fransesa (psychologie), Doycisa (Psychologie),
+    Rusisa (\u043F\u0441\u0438\u0445\u043E\u043B\u043E\u0433\u0438\u044F \u201Cpsihologiya\u201D),
+    Espanisa (psicolog\xEDa), Turkisa (psikoloji), Indonesisa (psikologi), Pilipinasa
+    (sikolohiya), Swahilisa (saikolojia)"
+...

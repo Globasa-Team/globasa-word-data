@@ -1,0 +1,54 @@
+---
+term: atopupe
+slug: atopupe
+ipa: "ato\u02C8pupe"
+ipa link: "http://ipa-reader.xyz/?text=ato\u02C8pupe&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - puppet
+    - marionette
+  epo:
+  - - marioneto
+    - gantpupo
+  spa:
+  - - "t\xEDtere"
+    - marioneta
+    - fantoche
+search terms:
+  glb:
+  - atopupe
+  eng:
+  - puppet
+  - marionette
+  epo:
+  - marioneto
+  - gantpupo
+  spa:
+  - "t\xEDtere"
+  - marioneta
+  - fantoche
+etymology_type: DERIVD
+etymology: <a href="../lexi/ato">ato</a> + <a href="../lexi/pupe">pupe</a>
+raw data:
+  term: atopupe
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: puppet, marionette
+    epo: marioneto, gantpupo
+    spa: "t\xEDtere, marioneta, fantoche"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ato + pupe
+...

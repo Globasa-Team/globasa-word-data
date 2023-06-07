@@ -1,0 +1,75 @@
+---
+term: cay
+slug: cay
+ipa: ˈt͡ʃaj
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃaj&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tea
+  epo:
+  - - teo
+  spa:
+  - - té
+search terms:
+  glb:
+  - cay
+  eng:
+  - tea
+  epo:
+  - teo
+  spa:
+  - té
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 茶 “chá”
+  Hindisa:
+  - - चाय “chaay”
+  Arabisa:
+  - - شَاي “šāy”
+  Rusisa:
+  - - чай “čay”
+  Portugalsa:
+  - - chá
+  Niponsa:
+  - - 茶 “cha”
+  Turkisa:
+  - - çay
+  Hangusa:
+  - - 차 “cha”
+  Vyetnamsa:
+  - - trà
+    - chè
+  Parsisa:
+  - - چای “cay”
+  Swahilisa:
+  - - chai
+  Pilipinasa:
+  - - tsa
+tags:
+- gluxey
+raw data:
+  term: cay
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tea
+    epo: teo
+    spa: té
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gluxey
+  etymology: Putunhwa (茶 “chá”), Hindisa (चाय “chaay”), Arabisa (شَاي “šāy”)  Rusisa
+    (чай “čay”), Portugalsa (chá), Niponsa (茶 “cha”), Turkisa (çay), Hangusa (차 “cha”),
+    Vyetnamsa (trà, chè), Parsisa (چای “cay”), Swahilisa (chai), Pilipinasa (tsa)
+...

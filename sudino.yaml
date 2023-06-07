@@ -1,0 +1,56 @@
+---
+term: sudino
+slug: sudino
+ipa: "su\u02C8dino"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8dino&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - needle
+  epo:
+  - - nadlo
+  spa:
+  - - aguja
+search terms:
+  glb:
+  - sudino
+  eng:
+  - needle
+  epo:
+  - nadlo
+  spa:
+  - aguja
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u0941\u0908 \u201Csui\u201D"
+  Telugusa:
+  - - "\u0C38\u0C42\u0C26\u0C3F \u201Csudi\u201D"
+  Parsisa:
+  - - "\u0633\u0648\u0632\u0646 \u201Csuzan\u201D"
+  Swahilisa:
+  - - sindano
+raw data:
+  term: sudino
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: needle
+    epo: nadlo
+    spa: aguja
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0938\u0941\u0908 \u201Csui\u201D), Telugusa (\u0C38\u0C42\u0C26\u0C3F
+    \u201Csudi\u201D), Parsisa (\u0633\u0648\u0632\u0646 \u201Csuzan\u201D), Swahilisa
+    (sindano)"
+...

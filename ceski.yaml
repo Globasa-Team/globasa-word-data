@@ -1,0 +1,63 @@
+---
+term: ceski
+slug: ceski
+ipa: "\u02C8t\u0361\u0283eski"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u0361\u0283eski&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Czech Republic
+    - Czechia
+  epo:
+  - - "\u0108e\u0125io"
+    - "\u0108e\u0125ujo"
+  spa:
+  - - "Rep\xFAblica Checa"
+    - Chequia
+  deu:
+  - - Tschechien
+    - Tschechische Republik
+search terms:
+  glb:
+  - ceski
+  eng:
+  - czech republic
+  - czechia
+  epo:
+  - "\u0108e\u0125io"
+  - "\u0108e\u0125ujo"
+  spa:
+  - "rep\xFAblica checa"
+  - chequia
+  deu:
+  - tschechien
+  - tschechische republik
+etymology_type: NATLNG
+etymology:
+  Ceskisa:
+  - - "\u010Cesk\xE1 republika"
+    - "\u010Cesko"
+tags:
+- dexa
+raw data:
+  term: Ceski
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Czech Republic, Czechia
+    epo: "\u0108e\u0125io, \u0108e\u0125ujo"
+    spa: "Rep\xFAblica Checa, Chequia"
+    deu: Tschechien, Tschechische Republik
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Ceskisa (\u010Cesk\xE1 republika, \u010Cesko)"
+...

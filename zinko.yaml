@@ -1,0 +1,78 @@
+---
+term: zinko
+slug: zinko
+ipa: "\u02C8zinko"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8zinko&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - zinc
+  epo:
+  - - zinko
+  spa:
+  - - cinc
+    - zinc
+    - Zn
+search terms:
+  glb:
+  - zinko
+  eng:
+  - zinc
+  epo:
+  - zinko
+  spa:
+  - cinc
+  - zinc
+  - zn
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - zinc
+  Espanisa:
+  - - zinc
+    - cinc
+  Arabisa:
+  - - "\u0632\u0650\u0646\u0652\u0643 \u201Czink\u201D"
+  Fransesa:
+  - - zinc
+  Rusisa:
+  - - "\u0446\u0438\u043D\u043A \u201Ctsink\u201D"
+  Indonesisa:
+  - - seng
+  Doycisa:
+  - - Zink
+  Telugusa:
+  - - "\u0C1C\u0C3F\u0C02\u0C15\u0C41 \u201Cjinku\u201D"
+  Turkisa:
+  - - "\xE7inko"
+  Swahilisa:
+  - - zinki
+  Pilipinasa:
+  - - sink
+tags:
+- kimikali monlari
+raw data:
+  term: zinko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: zinc
+    epo: zinko
+    spa: cinc, zinc, Zn
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (zinc), Espanisa (zinc, cinc), Arabisa (\u0632\u0650\u0646\u0652\u0643
+    \u201Czink\u201D), Fransesa (zinc), Rusisa (\u0446\u0438\u043D\u043A \u201Ctsink\u201D),
+    Indonesisa (seng), Doycisa (Zink), Telugusa (\u0C1C\u0C3F\u0C02\u0C15\u0C41 \u201Cjinku\u201D),
+    Turkisa (\xE7inko),  Swahilisa (zinki), Pilipinasa (sink)"
+...

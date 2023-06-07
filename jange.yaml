@@ -1,0 +1,48 @@
+---
+term: jange
+slug: jange
+ipa: "\u02C8d\u0361\u0292ange"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ange&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - war
+  epo:
+  - - milito
+  spa:
+  - - guerra
+search terms:
+  glb:
+  - jange
+  eng:
+  - war
+  epo:
+  - milito
+  spa:
+  - guerra
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jange
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: war
+    epo: milito
+    spa: guerra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6218\u4E89 \u201Czh\xE0nzh\u0113ng\u201D \u4ED7 \u201Czh\xE0ng\u201D),
+    Hangusa (\uC804\uC7C1 \u201Cjeonjaeng\u201D \uD22C\uC7C1 \u201Ctujaeng\u201D),
+    Hindisa (\u091C\u0902\u0917 \u201Cjang\u201D), Parsisa (\u062C\u0646\u06AF \u201Cjang\u201D)"
+...

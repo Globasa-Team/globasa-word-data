@@ -1,0 +1,74 @@
+---
+term: total
+slug: total
+ipa: "to\u02C8tal"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8tal&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - entire
+    - entirely
+    - whole
+    - all
+    - quite (a)
+    - absolute
+    - absolutely
+  epo:
+  - - tuta
+  - - tute
+  spa:
+  - - entero
+    - total
+    - absoluto
+search terms:
+  glb:
+  - total
+  eng:
+  - entire
+  - entirely
+  - whole
+  - all
+  - quite a
+  - quite
+  - absolute
+  - absolutely
+  epo:
+  - tuta
+  - tute
+  spa:
+  - entero
+  - total
+  - absoluto
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - total
+  Fransesa:
+  - - total
+  Espanisa:
+  - - total
+  Rusisa:
+  - - "\u0442\u043E\u0442\u0430\u043B\u044C\u043D\u044B\u0439 \u201Ctotalniy\u201D"
+raw data:
+  term: total
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: entire, entirely, whole, all, quite (a), absolute, absolutely
+    epo: tuta; tute
+    spa: entero, total, absoluto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (total), Fransesa (total), Espanisa (total), Rusisa (\u0442\u043E\u0442\u0430\u043B\u044C\u043D\u044B\u0439
+    \u201Ctotalniy\u201D)"
+...

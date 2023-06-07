@@ -1,0 +1,49 @@
+---
+term: awcudunenible
+slug: awcudunenible
+ipa: "awt\u0361\u0283udune\u02C8nible"
+ipa link: "http://ipa-reader.xyz/?text=awt\u0361\u0283udune\u02C8nible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unalienable
+  epo:
+  - - neforprenebla
+  - - neforpreneble
+  spa:
+  - - inalienable
+search terms:
+  glb:
+  - awcudunenible
+  eng:
+  - unalienable
+  epo:
+  - neforprenebla
+  - neforpreneble
+  spa:
+  - inalienable
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw-">aw-</a> + <a href="../lexi/cudu">cudu</a> + <a href="../lexi/nen-">nen-</a>
+  + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: awcudunenible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unalienable
+    epo: neforprenebla; neforpreneble
+    spa: inalienable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aw- + cudu + nen- + -ible
+...

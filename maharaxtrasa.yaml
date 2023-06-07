@@ -1,0 +1,53 @@
+---
+term: maharaxtrasa
+slug: maharaxtrasa
+ipa: "maxa\u027Ea\u0283\u02C8t\u027Easa"
+ipa link: "http://ipa-reader.xyz/?text=maxa\u027Ea\u0283\u02C8t\u027Easa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Marathi (language)
+  epo:
+  - - la marata (lingvo)
+    - la maratha (lingvo)
+  spa:
+  - - marati (_idioma_)
+search terms:
+  glb:
+  - maharaxtrasa
+  eng:
+  - marathi language
+  - marathi
+  epo:
+  - la marata lingvo
+  - la marata
+  - la maratha lingvo
+  - la maratha
+  spa:
+  - marati
+etymology_type: DERIVD
+etymology: <a href="../lexi/Maharaxtra">Maharaxtra</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Maharaxtrasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Marathi (language)
+    epo: la marata (lingvo), la maratha (lingvo)
+    spa: marati (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Maharaxtra + -sa
+...

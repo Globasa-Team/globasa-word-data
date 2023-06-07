@@ -1,0 +1,50 @@
+---
+term: islandi
+slug: islandi
+ipa: "is\u02C8landi"
+ipa link: "http://ipa-reader.xyz/?text=is\u02C8landi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Iceland
+  epo:
+  - - Islando
+  spa:
+  - - Islandia
+search terms:
+  glb:
+  - islandi
+  eng:
+  - iceland
+  epo:
+  - islando
+  spa:
+  - islandia
+etymology_type: NATLNG
+etymology:
+  Islandisa:
+  - - "\xCDsland"
+tags:
+- dexa
+raw data:
+  term: Islandi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Iceland
+    epo: Islando
+    spa: Islandia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Islandisa (\xCDsland)"
+...

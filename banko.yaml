@@ -1,0 +1,83 @@
+---
+term: banko
+slug: banko
+ipa: ˈbanko
+ipa link: http://ipa-reader.xyz/?text=ˈbanko&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - bank
+  epo:
+  - - banko
+  spa:
+  - - banco
+  - - ahorrar
+search terms:
+  glb:
+  - banko
+  eng:
+  - bank
+  epo:
+  - banko
+  spa:
+  - banco
+  - ahorrar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bank
+  Fransesa:
+  - - banque
+  Doycisa:
+  - - Bank
+  Rusisa:
+  - - банк “bank”
+  Espanisa:
+  - - banca
+    - banco
+  Arabisa:
+  - - بَنْك “bank”
+  Hindisa:
+  - - बैंक “beṅk”
+  Telugusa:
+  - - బ్యాంకు “byāṅku”
+  Parsisa:
+  - - بانک “bânk”
+  Turkisa:
+  - - banka
+  Indonesisa:
+  - - bank
+  Pilipinasa:
+  - - bangko
+  Swahilisa:
+  - - benki
+  Niponsa:
+  - - バンク “banku”
+tags:
+- dom
+- kostruixey
+raw data:
+  term: banko
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: bank
+    epo: banko
+    spa: banco; ahorrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dom, kostruixey
+  etymology: Englisa (bank), Fransesa (banque), Doycisa (Bank), Rusisa (банк “bank”),
+    Espanisa (banca, banco), Arabisa (بَنْك “bank”), Hindisa (बैंक “beṅk”), Telugusa
+    (బ్యాంకు “byāṅku”), Parsisa (بانک “bânk”), Turkisa (banka), Indonesisa (bank),
+    Pilipinasa (bangko), Swahilisa (benki), Niponsa (バンク “banku”)
+...

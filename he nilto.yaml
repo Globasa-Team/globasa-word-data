@@ -1,0 +1,50 @@
+---
+term: he nilto
+slug: he nilto
+ipa: "\u02C8xe \u02C8nilto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8nilto&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - not any
+    - not a single one
+  epo:
+  - - nenio ajn
+  spa:
+  - - ni siquiera una cosa
+search terms:
+  glb:
+  - he nilto
+  - he
+  - nilto
+  eng:
+  - not any
+  - not a single one
+  epo:
+  - nenio ajn
+  spa:
+  - ni siquiera una cosa
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/nil">nil</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: he nilto
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: not any, not a single one
+    epo: nenio ajn
+    spa: ni siquiera una cosa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, nil + to
+...

@@ -1,0 +1,50 @@
+---
+term: moyte
+slug: moyte
+ipa: "\u02C8mojte"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mojte&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - everybody
+    - everyone
+  epo:
+  - - "\u0109iu"
+  spa:
+  - - todos
+    - todo mundo
+search terms:
+  glb:
+  - moyte
+  eng:
+  - everybody
+  - everyone
+  epo:
+  - "\u0109iu"
+  spa:
+  - todos
+  - todo mundo
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/te">te</a>
+raw data:
+  term: moyte
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: everybody, everyone
+    epo: "\u0109iu"
+    spa: todos, todo mundo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + te
+...

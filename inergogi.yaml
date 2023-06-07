@@ -1,0 +1,50 @@
+---
+term: inergogi
+slug: inergogi
+ipa: "ine\u027E\u02C8gogi"
+ipa link: "http://ipa-reader.xyz/?text=ine\u027E\u02C8gogi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - hire
+  epo:
+  - - dungo
+  - - dungi
+  spa:
+  - - "contrataci\xF3n"
+  - - contratar
+search terms:
+  glb:
+  - inergogi
+  eng:
+  - hire
+  epo:
+  - dungo
+  - dungi
+  spa:
+  - "contrataci\xF3n"
+  - contratar
+etymology_type: DERIVD
+etymology: <a href="../lexi/in-">in-</a> + <a href="../lexi/ergo">ergo</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: inergogi
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: hire
+    epo: dungo; dungi
+    spa: "contrataci\xF3n; contratar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in- + ergo + -gi
+...

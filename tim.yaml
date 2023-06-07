@@ -1,0 +1,67 @@
+---
+term: tim
+slug: tim
+ipa: "\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tim&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - team
+  epo:
+  - - teamo
+  spa:
+  - - equipo
+search terms:
+  glb:
+  - tim
+  eng:
+  - team
+  epo:
+  - teamo
+  spa:
+  - equipo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - team
+  Doycisa:
+  - - Team
+  Hindisa:
+  - - "\u091F\u0940\u092E \u201Ctim\u201D"
+  Indonesisa:
+  - - tim
+  Turkisa:
+  - - "tak\u0131m"
+  Niponsa:
+  - - "\u30C1\u30FC\u30E0 \u201Ccimu\u201D"
+  Hangusa:
+  - - "\uD300 \u201Ctim\u201D"
+  Parsisa:
+  - - "\u062A\u06CC\u0645 \u201Ctim\u201D"
+  Swahilisa:
+  - - timu
+raw data:
+  term: tim
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: team
+    epo: teamo
+    spa: equipo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (team), Doycisa (Team), Hindisa (\u091F\u0940\u092E \u201Ctim\u201D),
+    Indonesisa (tim), Turkisa (tak\u0131m), Niponsa (\u30C1\u30FC\u30E0 \u201Ccimu\u201D),
+    Hangusa (\uD300 \u201Ctim\u201D), Parsisa (\u062A\u06CC\u0645 \u201Ctim\u201D),
+    Swahilisa (timu)"
+...

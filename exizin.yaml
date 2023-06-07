@@ -1,0 +1,52 @@
+---
+term: exizin
+slug: exizin
+ipa: "e\u0283i\u02C8zin"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283i\u02C8zin&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - release
+    - let out
+  epo:
+  - - ellaso
+  - - ellasi
+  spa:
+  - - dejar salir
+    - liberar
+search terms:
+  glb:
+  - exizin
+  eng:
+  - release
+  - let out
+  epo:
+  - ellaso
+  - ellasi
+  spa:
+  - dejar salir
+  - liberar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/izin">izin</a>
+raw data:
+  term: exizin
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: release, let out
+    epo: ellaso; ellasi
+    spa: dejar salir, liberar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex- + izin
+...

@@ -1,0 +1,55 @@
+---
+term: kuri
+slug: kuri
+ipa: "\u02C8ku\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ku\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - curry
+  epo:
+  - - kareo
+    - "karea\u0135o"
+  spa:
+  - - curri
+search terms:
+  glb:
+  - kuri
+  eng:
+  - curry
+  epo:
+  - kareo
+  - "karea\u0135o"
+  spa:
+  - curri
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: kuri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: curry
+    epo: "kareo, karea\u0135o"
+    spa: curri
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (curry), Doycisa, Espanisa (curri), Fransesa (cari), Rusisa
+    (\u043A\u0430\u0440\u0440\u0438 \u201Ckari\u201D), Indonesisa (kari), Pilipinasa,
+    Putunhwa (\u5496\u55B1 \u201Cgali\u201D), Arabisa (\u0643\u0627\u0631\u064A \u201Ckari\u201D),
+    Niponsa (\u30AB\u30EC\u30FC \u201Ckare\u201D), Telugusa (\u0C15\u0C42\u0C30 \u201Ckura\u201D),
+    Turkisa (k\xF6ri), Hangusa (\uCEE4\uB9AC \u201Ckori\u201D), Vyetnamsa (c\xE0-ri),
+    Parsisa (\u06A9\u0627\u0631\u06CC \u201Ckari\u201D)"
+...

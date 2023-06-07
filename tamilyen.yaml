@@ -1,0 +1,47 @@
+---
+term: tamilyen
+slug: tamilyen
+ipa: "tami\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=tami\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Tamil (person)
+  epo:
+  - - tamilo
+  spa:
+  - - tamil (_persona_)
+search terms:
+  glb:
+  - tamilyen
+  eng:
+  - tamil person
+  - tamil
+  epo:
+  - tamilo
+  spa:
+  - tamil
+etymology_type: DERIVD
+etymology: <a href="../lexi/Tamil">Tamil</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Tamilyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Tamil (person)
+    epo: tamilo
+    spa: tamil (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Tamil + -yen
+...

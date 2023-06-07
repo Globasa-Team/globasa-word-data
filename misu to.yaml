@@ -1,0 +1,48 @@
+---
+term: misu to
+slug: misu to
+ipa: "\u02C8misu \u02C8to"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8misu \u02C8to&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - mine (_that thing belonging to me_)
+  epo:
+  - - la mia
+  spa:
+  - - "m\xEDo (_cosa que me pertenece_)"
+search terms:
+  glb:
+  - misu to
+  - misu
+  - to
+  eng:
+  - mine
+  epo:
+  - la mia
+  spa:
+  - "m\xEDo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/mi">mi</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/to">to</a>
+raw data:
+  term: misu to
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: mine (_that thing belonging to me_)
+    epo: la mia
+    spa: "m\xEDo (_cosa que me pertenece_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mi + -su, to
+...

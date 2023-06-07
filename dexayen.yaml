@@ -1,0 +1,48 @@
+---
+term: dexayen
+slug: dexayen
+ipa: "de\u0283a\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=de\u0283a\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - citizen
+  epo:
+  - - "\u015Dtatano"
+    - civitano
+  spa:
+  - - ciudadano
+search terms:
+  glb:
+  - dexayen
+  eng:
+  - citizen
+  epo:
+  - "\u015Dtatano"
+  - civitano
+  spa:
+  - ciudadano
+etymology_type: DERIVD
+etymology: <a href="../lexi/dexa">dexa</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: dexayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: citizen
+    epo: "\u015Dtatano, civitano"
+    spa: ciudadano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dexa + -yen
+...

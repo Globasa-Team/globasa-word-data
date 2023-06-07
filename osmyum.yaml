@@ -1,0 +1,88 @@
+---
+term: osmyum
+slug: osmyum
+ipa: "os\u02C8mjum"
+ipa link: "http://ipa-reader.xyz/?text=os\u02C8mjum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - osmium
+  epo:
+  - - osmio
+  spa:
+  - - osmio
+    - Os
+search terms:
+  glb:
+  - osmyum
+  eng:
+  - osmium
+  epo:
+  - osmio
+  spa:
+  - osmio
+  - os
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - osmium
+  Espanisa:
+  - - osmio
+  Arabisa:
+  - - "\u0623\u064F\u0632\u0652\u0645\u0650\u064A\u064F\u0648\u0645 \u201Cuzmiyum\u201D"
+  Fransesa:
+  - - osmium
+  Rusisa:
+  - - "\u043E\u0441\u043C\u0438\u0439 \u201Cosmiy\u201D"
+  Indonesisa:
+  - - osmium
+  Doycisa:
+  - - Osmium
+  Niponsa:
+  - - "\u30AA\u30B9\u30DF\u30A6\u30E0 \u201Cosumiumu\u201D"
+  Telugusa:
+  - - "\u0C06\u0C38\u0C4D\u0C2E\u0C3F\u0C2F\u0C02 \u201Casmiyam\u201D"
+  Turkisa:
+  - - osmiyum
+  Hangusa:
+  - - "\uC624\uC2A4\uBBB4 \u201Cosumyum\u201D"
+  Vyetnamsa:
+  - - osmi
+    - osimi
+  Parsisa:
+  - - "\u0627\u0633\u0645\u06CC\u0645 \u201Cosmiyom\u201D"
+  Swahilisa:
+  - - osmi
+  Pilipinasa:
+  - - osmiyo
+    - osmium
+tags:
+- kimikali monlari
+raw data:
+  term: osmyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: osmium
+    epo: osmio
+    spa: osmio, Os
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (osmium), Espanisa (osmio), Arabisa (\u0623\u064F\u0632\u0652\u0645\u0650\u064A\u064F\u0648\u0645
+    \u201Cuzmiyum\u201D), Fransesa (osmium), Rusisa (\u043E\u0441\u043C\u0438\u0439
+    \u201Cosmiy\u201D), Indonesisa (osmium), Doycisa (Osmium), Niponsa (\u30AA\u30B9\u30DF\u30A6\u30E0
+    \u201Cosumiumu\u201D), Telugusa (\u0C06\u0C38\u0C4D\u0C2E\u0C3F\u0C2F\u0C02 \u201Casmiyam\u201D),
+    Turkisa (osmiyum), Hangusa (\uC624\uC2A4\uBBB4 \u201Cosumyum\u201D), Vyetnamsa
+    (osmi, osimi), Parsisa (\u0627\u0633\u0645\u06CC\u0645 \u201Cosmiyom\u201D), Swahilisa
+    (osmi), Pilipinasa (osmiyo, osmium)"
+...

@@ -1,0 +1,65 @@
+---
+term: nafasu
+slug: nafasu
+ipa: "na\u02C8fasu"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8fasu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - breath
+  - - breathe
+  epo:
+  - - spiro
+  - - spiri
+  spa:
+  - - "respiraci\xF3n"
+    - aliento
+  - - respirar
+search terms:
+  glb:
+  - nafasu
+  eng:
+  - breath
+  - breathe
+  epo:
+  - spiro
+  - spiri
+  spa:
+  - "respiraci\xF3n"
+  - aliento
+  - respirar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0646\u0641\u0633 \u201Cnfs\u201D"
+    - "\u064A\u062A\u0646\u0641\u0633 \u201Cyatanaffasu\u201D"
+  Turkisa:
+  - - nefes
+  Indonesisa:
+  - - nafas
+  Parsisa:
+  - - "\u0646\u0641\u0633 \u201Cnafas\u201D"
+raw data:
+  term: nafasu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: breath; breathe
+    epo: spiro; spiri
+    spa: "respiraci\xF3n, aliento; respirar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0646\u0641\u0633 \u201Cnfs\u201D, \u064A\u062A\u0646\u0641\u0633
+    \u201Cyatanaffasu\u201D), Turkisa (nefes), Indonesisa (nafas), Parsisa (\u0646\u0641\u0633
+    \u201Cnafas\u201D)"
+...

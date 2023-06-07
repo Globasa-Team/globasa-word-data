@@ -1,0 +1,46 @@
+---
+term: aynaya
+slug: aynaya
+ipa: "aj\u02C8naja"
+ipa link: "http://ipa-reader.xyz/?text=aj\u02C8naja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - reflection (_of light_)
+  epo:
+  - - reflekto
+  spa:
+  - - "reflexi\xF3n"
+search terms:
+  glb:
+  - aynaya
+  eng:
+  - reflection
+  epo:
+  - reflekto
+  spa:
+  - "reflexi\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ayna">ayna</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: aynaya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: reflection (_of light_)
+    epo: reflekto
+    spa: "reflexi\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ayna + -ya
+...

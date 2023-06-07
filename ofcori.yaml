@@ -1,0 +1,48 @@
+---
+term: ofcori
+slug: ofcori
+ipa: "of\u02C8t\u0361\u0283o\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=of\u02C8t\u0361\u0283o\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - rob
+  epo:
+  - - prirabado
+  - - prirabo
+  spa:
+  - - asaltar
+search terms:
+  glb:
+  - ofcori
+  eng:
+  - rob
+  epo:
+  - prirabado
+  - prirabo
+  spa:
+  - asaltar
+etymology_type: DERIVD
+etymology: <a href="../lexi/of">of</a> + <a href="../lexi/cori">cori</a>
+raw data:
+  term: ofcori
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: rob
+    epo: prirabado; prirabo
+    spa: asaltar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: of + cori
+...

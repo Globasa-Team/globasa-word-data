@@ -1,0 +1,72 @@
+---
+term: xyuci
+slug: xyuci
+ipa: "\u02C8\u0283jut\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283jut\u0361\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - shame
+    - embarrassment
+    - humiliation
+  - - shame
+    - embarrass
+    - humiliate
+  epo:
+  - - honto
+  - - hontigi
+  spa:
+  - - "verg\xFCenza"
+    - "humillaci\xF3n"
+  - - avergonzar
+    - humillar
+search terms:
+  glb:
+  - xyuci
+  eng:
+    0: shame
+    1: embarrassment
+    2: humiliation
+    4: embarrass
+    5: humiliate
+  epo:
+  - honto
+  - hontigi
+  spa:
+  - "verg\xFCenza"
+  - "humillaci\xF3n"
+  - avergonzar
+  - humillar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u7F9E\u803B \u201Cxyuci\u201D"
+  Niponsa:
+  - - "\u7F9E\u6065 \u201Cxuci\u201D"
+  Hangusa:
+  - - "\uC218\uCE58 \u201Csuci\u201D"
+  Vyetnamsa:
+  - - "s\u01B0\u0323 si\u0309 nhu\u0323c"
+raw data:
+  term: xyuci
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: shame, embarrassment, humiliation; shame, embarrass, humiliate
+    epo: honto; hontigi
+    spa: "verg\xFCenza, humillaci\xF3n; avergonzar, humillar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7F9E\u803B \u201Cxyuci\u201D), Niponsa (\u7F9E\u6065 \u201Cxuci\u201D),
+    Hangusa (\uC218\uCE58 \u201Csuci\u201D), Vyetnamsa (s\u01B0\u0323 si\u0309 nhu\u0323c)"
+...

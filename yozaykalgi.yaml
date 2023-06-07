@@ -1,0 +1,61 @@
+---
+term: yozaykalgi
+slug: yozaykalgi
+ipa: "jozaj\u02C8kalgi"
+ipa link: "http://ipa-reader.xyz/?text=jozaj\u02C8kalgi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - acquittal
+    - absolution
+  - - acquit
+    - absolve
+  epo:
+  - - senkulpigo
+  - - senkulpigi
+  spa:
+  - - "absoluci\xF3n"
+    - "exculpaci\xF3n"
+  - - absolver
+    - exculpar
+search terms:
+  glb:
+  - yozaykalgi
+  eng:
+  - acquittal
+  - absolution
+  - acquit
+  - absolve
+  epo:
+  - senkulpigo
+  - senkulpigi
+  spa:
+  - "absoluci\xF3n"
+  - "exculpaci\xF3n"
+  - absolver
+  - exculpar
+etymology_type: DERIVD
+etymology: <a href="../lexi/yozay">yozay</a> + <a href="../lexi/-kal">-kal</a> + <a
+  href="../lexi/-gi">-gi</a>
+raw data:
+  term: yozaykalgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: acquittal, absolution; acquit, absolve
+    epo: senkulpigo; senkulpigi
+    spa: "absoluci\xF3n, exculpaci\xF3n; absolver, exculpar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yozay + -kal + -gi
+...

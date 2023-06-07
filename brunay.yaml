@@ -1,0 +1,50 @@
+---
+term: brunay
+slug: brunay
+ipa: "b\u027Eu\u02C8naj"
+ipa link: "http://ipa-reader.xyz/?text=b\u027Eu\u02C8naj&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Brunei
+  epo:
+  - - Brunejo
+  spa:
+  - - "Brun\xE9i"
+search terms:
+  glb:
+  - brunay
+  eng:
+  - brunei
+  epo:
+  - brunejo
+  spa:
+  - "brun\xE9i"
+etymology_type: NATLNG
+etymology:
+  Malaysisa:
+  - - Brunei
+tags:
+- dexa
+raw data:
+  term: Brunay
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Brunei
+    epo: Brunejo
+    spa: "Brun\xE9i"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Malaysisa (Brunei)
+...

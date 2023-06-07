@@ -1,0 +1,59 @@
+---
+term: marihi
+slug: marihi
+ipa: "ma\u02C8\u027Eixi"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8\u027Eixi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Mars (_planet_)
+  epo:
+  - - Marso
+  spa:
+  - - Marte (_planeta_)
+search terms:
+  glb:
+  - marihi
+  eng:
+  - mars
+  epo:
+  - marso
+  spa:
+  - marte
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0627\u0644\u0645\u0631\u064A\u062E \u201Calmiriykh\u201D"
+  Parsisa:
+  - - "\u0645\u0631\u06CC\u062E \u201Cmerikh\u201D"
+  Swahilisa:
+  - - Mirihi
+    - Meriki
+  Turkisa:
+  - - Merih
+tags:
+- planeta
+raw data:
+  term: Marihi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Mars (_planet_)
+    epo: Marso
+    spa: Marte (_planeta_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planeta
+  etymology: "Arabisa (\u0627\u0644\u0645\u0631\u064A\u062E \u201Calmiriykh\u201D),
+    Parsisa (\u0645\u0631\u06CC\u062E \u201Cmerikh\u201D), Swahilisa (Mirihi, Meriki),
+    Turkisa (Merih)"
+...

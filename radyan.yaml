@@ -1,0 +1,100 @@
+---
+term: radyan
+slug: radyan
+ipa: "\u027Ea\u02C8djan"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8djan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - radian
+  epo:
+  - - radiano
+  spa:
+  - - "radi\xE1n"
+    - rad
+  deu:
+  - - Radiant
+  fra:
+  - - radian
+  rus:
+  - - "\u0440\u0430\u0434\u0438\u0430\u043D"
+  zho:
+  - - "\u5F27\u5EA6"
+search terms:
+  glb:
+  - radyan
+  eng:
+  - radian
+  epo:
+  - radiano
+  spa:
+  - "radi\xE1n"
+  - rad
+  deu:
+  - radiant
+  fra:
+  - radian
+  rus:
+  - "\u0440\u0430\u0434\u0438\u0430\u043D"
+  zho:
+  - "\u5F27\u5EA6"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - radian
+  Espanisa:
+  - - "radi\xE1n"
+  Fransesa:
+  - - radian
+  Rusisa:
+  - - "\u0440\u0430\u0434\u0438\u0430\u043D \u201Cradian\u201D"
+  Doycisa:
+  - - Radiant
+  Indonesisa:
+  - - radian
+  Pilipinasa:
+  - - radyan
+  Hindisa:
+  - - "\u0930\u0947\u0921\u093F\u092F\u0928 \u201Crediyan\u201D"
+  Arabisa:
+  - - "\u0631\u0627\u062F\u064A\u0627\u0646 \u201Cradian\u201D"
+  Niponsa:
+  - - "\u30E9\u30B8\u30A2\u30F3 \u201Crajian\u201D"
+  Telugusa:
+  - - "\u0C30\u0C47\u0C21\u0C3F\u0C2F\u0C28\u0C4D \u201Crediyan\u201D"
+  Turkisa:
+  - - radyan
+  Hangusa:
+  - - "\uB77C\uB514\uC548 \u201Cradian\u201D"
+  Vyetnamsa:
+  - - radian
+  Parsisa:
+  - - "\u0631\u0627\u062F\u06CC\u0627\u0646 \u201Cradiyan\u201D"
+raw data:
+  term: radyan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: radian
+    epo: radiano
+    spa: "radi\xE1n, rad"
+    deu: Radiant
+    fra: radian
+    rus: "\u0440\u0430\u0434\u0438\u0430\u043D"
+    zho: "\u5F27\u5EA6"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (radian), Espanisa (radi\xE1n), Fransesa (radian), Rusisa (\u0440\u0430\u0434\u0438\u0430\u043D
+    \u201Cradian\u201D), Doycisa (Radiant), Indonesisa (radian), Pilipinasa (radyan),
+    Hindisa (\u0930\u0947\u0921\u093F\u092F\u0928 \u201Crediyan\u201D), Arabisa (\u0631\u0627\u062F\u064A\u0627\u0646
+    \u201Cradian\u201D), Niponsa (\u30E9\u30B8\u30A2\u30F3 \u201Crajian\u201D), Telugusa
+    (\u0C30\u0C47\u0C21\u0C3F\u0C2F\u0C28\u0C4D \u201Crediyan\u201D), Turkisa (radyan),
+    Hangusa (\uB77C\uB514\uC548 \u201Cradian\u201D), Vyetnamsa (radian), Parsisa (\u0631\u0627\u062F\u06CC\u0627\u0646
+    \u201Cradiyan\u201D)"
+...

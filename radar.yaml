@@ -1,0 +1,86 @@
+---
+term: radar
+slug: radar
+ipa: "\u027Ea\u02C8da\u027E"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8da\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - radar
+  epo:
+  - - radaro
+  spa:
+  - - radar
+search terms:
+  glb:
+  - radar
+  eng:
+  - radar
+  epo:
+  - radaro
+  spa:
+  - radar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - radar
+  Espanisa:
+  - - radar
+  Fransesa:
+  - - radar
+  Rusisa:
+  - - "\u0440\u0430\u0434\u0430\u0440 \"radar\""
+  Doycisa:
+  - - Radar
+  Indonesisa:
+  - - radar
+  Pilipinasa:
+  - - radar
+  Putunhwa:
+  - - "\u96F7\u8FBE \"leyda\""
+  Hindisa:
+  - - "\u0930\u0921\u093E\u0930 \"radar\""
+  Arabisa:
+  - - "\u0631\u064E\u0627\u062F\u064E\u0627\u0631 \"radar\""
+  Niponsa:
+  - - "\u30EC\u30FC\u30C0\u30FC \"reda\""
+  Telugusa:
+  - - "\u0C30\u0C3E\u0C21\u0C3E\u0C30\u0C4D \"radar\""
+  Turkisa:
+  - - radar
+  Vyetnamsa:
+  - - "ra-\u0111a"
+  Hangusa:
+  - - "\uB808\uC774\uB2E4 \"reyda\""
+  Parsisa:
+  - - "\u0631\u0627\u062F\u0627\u0631 \"radar\""
+  Swahilisa:
+  - - rada
+raw data:
+  term: radar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: radar
+    epo: radaro
+    spa: radar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (radar), Espanisa (radar), Fransesa (radar), Rusisa (\u0440\u0430\u0434\u0430\u0440
+    \"radar\"), Doycisa (Radar), Indonesisa (radar), Pilipinasa (radar), Putunhwa
+    (\u96F7\u8FBE \"leyda\"), Hindisa (\u0930\u0921\u093E\u0930 \"radar\"), Arabisa
+    (\u0631\u064E\u0627\u062F\u064E\u0627\u0631 \"radar\"), Niponsa (\u30EC\u30FC\u30C0\u30FC
+    \"reda\"), Telugusa (\u0C30\u0C3E\u0C21\u0C3E\u0C30\u0C4D \"radar\"), Turkisa
+    (radar), Vyetnamsa (ra-\u0111a), Hangusa (\uB808\uC774\uB2E4 \"reyda\"), Parsisa
+    (\u0631\u0627\u062F\u0627\u0631 \"radar\"), Swahilisa (rada)"
+...

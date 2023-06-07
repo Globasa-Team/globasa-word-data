@@ -1,0 +1,58 @@
+---
+term: xugwanpul
+slug: xugwanpul
+ipa: "\u0283ugwan\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=\u0283ugwan\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - habitual
+    - habitually
+    - usual
+    - usually
+    - typically
+  epo:
+  - - kutima
+  - - kutime
+  spa:
+  - - habitual
+    - acostumbrado
+search terms:
+  glb:
+  - xugwanpul
+  eng:
+  - habitual
+  - habitually
+  - usual
+  - usually
+  - typically
+  epo:
+  - kutima
+  - kutime
+  spa:
+  - habitual
+  - acostumbrado
+etymology_type: DERIVD
+etymology: <a href="../lexi/xugwan">xugwan</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: xugwanpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: habitual, habitually, usual, usually, typically
+    epo: kutima; kutime
+    spa: habitual, acostumbrado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xugwan + -pul
+...

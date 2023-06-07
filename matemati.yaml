@@ -1,0 +1,53 @@
+---
+term: matemati
+slug: matemati
+ipa: "mate\u02C8mati"
+ipa link: "http://ipa-reader.xyz/?text=mate\u02C8mati&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mathematics
+    - math
+    - maths
+  epo:
+  - - matematiko
+  spa:
+  - - "matem\xE1ticas"
+search terms:
+  glb:
+  - matemati
+  eng:
+  - mathematics
+  - math
+  - maths
+  epo:
+  - matematiko
+  spa:
+  - "matem\xE1ticas"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: matemati
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mathematics, math, maths
+    epo: matematiko
+    spa: "matem\xE1ticas"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Mathematik), Englisa (mathematics), Espanisa (matem\xE1tica),
+    Fransesa (math\xE9matiques), Rusisa (\u043C\u0430\u0442\u0435\u043C\u0430\u0442\u0438\u043A\u0430
+    \u201Cmatematika\u201D), Indonesisa (matematik), Pilipinasa (matematika), Turkisa
+    (matematik)"
+...

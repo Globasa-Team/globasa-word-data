@@ -1,0 +1,48 @@
+---
+term: doxoible
+slug: doxoible
+ipa: "do\u0283o\u02C8ible"
+ipa link: "http://ipa-reader.xyz/?text=do\u0283o\u02C8ible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - legible
+  epo:
+  - - legebla
+  - - legeble
+  spa:
+  - - legible
+search terms:
+  glb:
+  - doxoible
+  eng:
+  - legible
+  epo:
+  - legebla
+  - legeble
+  spa:
+  - legible
+etymology_type: DERIVD
+etymology: <a href="../lexi/doxo">doxo</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: doxoible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: legible
+    epo: legebla; legeble
+    spa: legible
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: doxo + -ible
+...

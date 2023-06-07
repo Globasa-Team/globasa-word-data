@@ -1,0 +1,63 @@
+---
+term: fabula
+slug: fabula
+ipa: faˈbula
+ipa link: http://ipa-reader.xyz/?text=faˈbula&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fable
+  epo:
+  - - fablo
+  spa:
+  - - fábula
+search terms:
+  glb:
+  - fabula
+  eng:
+  - fable
+  epo:
+  - fablo
+  spa:
+  - fábula
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Fabel
+  Englisa:
+  - - fable
+  Espanisa:
+  - - fábula
+  Fransesa:
+  - - fable
+  Indonesisa:
+  - - fabel
+  Pilipinasa:
+  - - pabula
+  Turkisa:
+  - - fabl
+  Parsisa:
+  - - فابل “fâbl”
+raw data:
+  term: fabula
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fable
+    epo: fablo
+    spa: fábula
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Fabel), Englisa (fable), Espanisa (fábula), Fransesa (fable),
+    Indonesisa (fabel), Pilipinasa (pabula), Turkisa (fabl), Parsisa (فابل “fâbl”)
+...

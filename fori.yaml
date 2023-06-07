@@ -1,0 +1,58 @@
+---
+term: fori
+slug: fori
+ipa: ˈfoɾi
+ipa link: http://ipa-reader.xyz/?text=ˈfoɾi&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - immediate
+    - immediately
+  epo:
+  - - tuja
+  - - tuj
+    - tuje
+  spa:
+  - - inmediato
+  - - inmediatamente
+search terms:
+  glb:
+  - fori
+  eng:
+  - immediate
+  - immediately
+  epo:
+  - tuja
+  - tuj
+  - tuje
+  spa:
+  - inmediato
+  - inmediatamente
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فوري “fawriin”
+  Parsisa:
+  - - فوری “fori”
+raw data:
+  term: fori
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: immediate, immediately
+    epo: tuja; tuj, tuje
+    spa: inmediato; inmediatamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (فوري “fawriin”), Parsisa (فوری “fori”)
+...

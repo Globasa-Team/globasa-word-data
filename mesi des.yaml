@@ -1,0 +1,48 @@
+---
+term: mesi des
+slug: mesi des
+ipa: "\u02C8mesi \u02C8des"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mesi \u02C8des&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - October
+  epo:
+  - - Oktobro
+  spa:
+  - - octubre
+search terms:
+  glb:
+  - mesi des
+  - mesi
+  - des
+  eng:
+  - october
+  epo:
+  - oktobro
+  spa:
+  - octubre
+etymology_type: DERIVD
+etymology: <a href="../lexi/mesi">mesi</a>, <a href="../lexi/des">des</a>
+raw data:
+  term: mesi des
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: October
+    epo: Oktobro
+    spa: octubre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mesi, des
+...

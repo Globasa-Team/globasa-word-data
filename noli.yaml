@@ -1,0 +1,54 @@
+---
+term: noli
+slug: noli
+ipa: "\u02C8noli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8noli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - negative
+  - - negatively
+  epo:
+  - - nea
+    - negativa
+  - - nee
+    - negative
+  spa:
+  - - negativo
+search terms:
+  glb:
+  - noli
+  eng:
+  - negative
+  - negatively
+  epo:
+  - nea
+  - negativa
+  - nee
+  - negative
+  spa:
+  - negativo
+etymology_type: DERIVD
+etymology: <a href="../lexi/no">no</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: noli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: negative; negatively
+    epo: nea, negativa; nee, negative
+    spa: negativo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: no + -li
+...

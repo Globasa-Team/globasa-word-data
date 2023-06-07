@@ -1,0 +1,70 @@
+---
+term: asif
+slug: asif
+ipa: aˈsif
+ipa link: http://ipa-reader.xyz/?text=aˈsif&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a; il
+trans:
+  eng:
+  - - regret
+  - - regret
+    - be sorry (about)
+  - - sorry
+  epo:
+  - - bedaŭro
+  - - bedaŭri
+  - - mi bedaŭras
+  spa:
+  - - lamento
+  - - lamentar
+  - - lo siento
+    - disculpe
+search terms:
+  glb:
+  - asif
+  eng:
+    0: regret
+    2: be sorry about
+    3: be sorry
+    4: sorry
+  epo:
+  - bedaŭro
+  - bedaŭri
+  - mi bedaŭras
+  spa:
+  - lamento
+  - lamentar
+  - lo siento
+  - disculpe
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - آسف “asif”
+  Parsisa:
+  - - تاسف “ta’asef”
+  Turkisa:
+  - - esef
+tags:
+- intrelogalexi
+raw data:
+  term: asif
+  category: root
+  word class: n/f.oro.a; il
+  status: true
+  trans:
+    eng: regret; regret, be sorry (about); sorry
+    epo: bedaŭro; bedaŭri; mi bedaŭras
+    spa: lamento; lamentar; lo siento, disculpe
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: Arabisa (آسف “asif”), Parsisa (تاسف “ta’asef”), Turkisa (esef)
+...

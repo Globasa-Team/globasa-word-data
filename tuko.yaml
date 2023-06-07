@@ -1,0 +1,61 @@
+---
+term: tuko
+slug: tuko
+ipa: "\u02C8tuko"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tuko&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - spit
+  epo:
+  - - "kra\u0109a\u0135o"
+    - "sputa\u0135o"
+  - - "kra\u0109i"
+    - sputi
+  spa:
+  - - escupitajo
+  - - escupir
+search terms:
+  glb:
+  - tuko
+  eng:
+  - spit
+  epo:
+  - "kra\u0109a\u0135o"
+  - "sputa\u0135o"
+  - "kra\u0109i"
+  - sputi
+  spa:
+  - escupitajo
+  - escupir
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5410\u53E3 \u201Ct\u01D4k\u01D2u\u201D"
+  Hindisa:
+  - - "\u0925\u0942\u0915\u0928\u093E \u201Cth\u016Bkn\u0101\u201D"
+  Turkisa:
+  - - "t\xFCk\xFCrmek"
+raw data:
+  term: tuko
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: spit
+    epo: "kra\u0109a\u0135o, sputa\u0135o; kra\u0109i, sputi"
+    spa: escupitajo; escupir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5410\u53E3 \u201Ct\u01D4k\u01D2u\u201D), Hindisa (\u0925\u0942\u0915\u0928\u093E
+    \u201Cth\u016Bkn\u0101\u201D), Turkisa (t\xFCk\xFCrmek)"
+...

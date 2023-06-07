@@ -1,0 +1,58 @@
+---
+term: lyama
+slug: lyama
+ipa: "\u02C8ljama"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ljama&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - llama
+    - _Lama glama_
+  epo:
+  - - ljamo
+    - lamo
+  spa:
+  - - llama
+    - _Lama glama_
+search terms:
+  glb:
+  - lyama
+  eng:
+  - llama
+  - lama glama
+  epo:
+  - ljamo
+  - lamo
+  spa:
+  - llama
+  - lama glama
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: lyama
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: llama, _Lama glama_
+    epo: ljamo, lamo
+    spa: llama, _Lama glama_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Espanisa (llama), Englisa, Indonesisa, Pilipinasa (liyama), Niponsa
+    (\u30EA\u30E3\u30DE \u201Cryama\u201D), Fransesa (lama), Doycisa, Turkisa, Swahilisa,
+    Putunhwa (\u9A86\u9A6C \u201Clwoma\u201D), Hindisa (\u0932\u093E\u092E\u093E \u201Clama\u201D),
+    Arabisa (\u0644\u064E\u0627\u0645\u064E\u0627 \u201Clama\u201D), Telugusa (\u0C32\u0C3E\u0C2E\u0C3E
+    \u201Clama\u201D), Hangusa (\uB77C\uB9C8 \u201Crama\u201D)"
+...

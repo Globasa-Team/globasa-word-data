@@ -1,0 +1,46 @@
+---
+term: imajeya
+slug: imajeya
+ipa: "ima\u02C8d\u0361\u0292eja"
+ipa link: "http://ipa-reader.xyz/?text=ima\u02C8d\u0361\u0292eja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - imagination
+  epo:
+  - - imago
+  spa:
+  - - "imaginaci\xF3n"
+search terms:
+  glb:
+  - imajeya
+  eng:
+  - imagination
+  epo:
+  - imago
+  spa:
+  - "imaginaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/imaje">imaje</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: imajeya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: imagination
+    epo: imago
+    spa: "imaginaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: imaje + -ya
+...

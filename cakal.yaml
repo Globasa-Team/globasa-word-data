@@ -1,0 +1,75 @@
+---
+term: cakal
+slug: cakal
+ipa: t͡ʃaˈkal
+ipa link: http://ipa-reader.xyz/?text=t͡ʃaˈkal&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - jackal
+  epo:
+  - - ŝakalo
+  spa:
+  - - chacal
+    - _Canina_
+search terms:
+  glb:
+  - cakal
+  eng:
+  - jackal
+  epo:
+  - ŝakalo
+  spa:
+  - chacal
+  - canina
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - jackal
+  Espanisa:
+  - - chacal
+  Fransesa: ~
+  Rusisa:
+  - - шакал “xakal”
+  Doycisa:
+  - - Schakal
+  Indonesisa:
+  - - jakal
+  Pilipinasa:
+  - - tsakal
+  Niponsa:
+  - - ジャッカル “jakaru”
+  Hangusa:
+  - - 자칼 “jakal”
+    - 재칼 “jekal”
+  Turkisa:
+  - - çakal
+  Parsisa:
+  - - شغال “xagal
+    - xogal”
+tags:
+- hewan
+raw data:
+  term: cakal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: jackal
+    epo: ŝakalo
+    spa: chacal, _Canina_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (jackal), Espanisa (chacal), Fransesa, Rusisa (шакал “xakal”),
+    Doycisa (Schakal), Indonesisa (jakal), Pilipinasa (tsakal), Niponsa (ジャッカル “jakaru”),
+    Hangusa (자칼 “jakal”, 재칼 “jekal”), Turkisa (çakal), Parsisa (شغال “xagal, xogal”)
+...

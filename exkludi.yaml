@@ -1,0 +1,79 @@
+---
+term: exkludi
+slug: exkludi
+ipa: eʃˈkludi
+ipa link: http://ipa-reader.xyz/?text=eʃˈkludi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - exclusion
+    - omission
+  - - exclude
+    - omit
+  epo:
+  - - ekskluzivo
+    - eksigo
+  - - ekskluzivi
+    - eksigi
+  spa:
+  - - exclusión
+    - omisión
+  - - excluir
+    - omitir
+search terms:
+  glb:
+  - exkludi
+  eng:
+  - exclusion
+  - omission
+  - exclude
+  - omit
+  epo:
+  - ekskluzivo
+  - eksigo
+  - ekskluzivi
+  - eksigi
+  spa:
+  - exclusión
+  - omisión
+  - excluir
+  - omitir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - exclude
+  Fransesa:
+  - - exclure
+  Doycisa:
+  - - Exklusion
+  Rusisa:
+  - - исключить “isklyucit”
+  Espanisa:
+  - - excluir
+  Portugalsa:
+  - - excluir
+  Italisa:
+  - - escludere
+raw data:
+  term: exkludi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: exclusion, omission; exclude, omit
+    epo: ekskluzivo, eksigo; ekskluzivi, eksigi
+    spa: exclusión, omisión; excluir, omitir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (exclude), Fransesa (exclure), Doycisa (Exklusion), Rusisa (исключить
+    “isklyucit”), Espanisa (excluir), Portugalsa (excluir), Italisa (escludere)
+...

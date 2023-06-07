@@ -1,0 +1,54 @@
+---
+term: fe inya de
+slug: fe inya de
+ipa: "fe \u02C8inja de"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8inja de&voice=Ewa"
+status: false
+category: phrase
+word class: jm p
+trans:
+  eng:
+  - - within
+    - inside of
+  epo:
+  - - interne de
+    - ene de
+  spa:
+  - - por dentro de
+search terms:
+  glb:
+  - fe inya de
+  - fe
+  - inya
+  - de
+  eng:
+  - within
+  - inside of
+  epo:
+  - interne de
+  - ene de
+  spa:
+  - por dentro de
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/in">in</a> + <a href="../lexi/-ya">-ya</a>,
+  <a href="../lexi/de">de</a>
+raw data:
+  term: fe inya de
+  category: phrase
+  word class: jm p
+  status: false
+  trans:
+    eng: within, inside of
+    epo: interne de, ene de
+    spa: por dentro de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, in + -ya, de
+...

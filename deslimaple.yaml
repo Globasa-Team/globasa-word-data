@@ -1,0 +1,50 @@
+---
+term: deslimaple
+slug: deslimaple
+ipa: "desli\u02C8maple"
+ipa link: "http://ipa-reader.xyz/?text=desli\u02C8maple&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - quindecuple
+    - fifteenfold
+  epo:
+  - - dekkvinobla
+  - - dekkvinoble
+  spa:
+  - - "quind\xE9cuple"
+search terms:
+  glb:
+  - deslimaple
+  eng:
+  - quindecuple
+  - fifteenfold
+  epo:
+  - dekkvinobla
+  - dekkvinoble
+  spa:
+  - "quind\xE9cuple"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/lima">lima</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: deslimaple
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: quindecuple, fifteenfold
+    epo: dekkvinobla; dekkvinoble
+    spa: "quind\xE9cuple"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + lima + -ple
+...

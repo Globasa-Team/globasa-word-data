@@ -1,0 +1,73 @@
+---
+term: sitafel
+slug: sitafel
+ipa: "sita\u02C8fel"
+ipa link: "http://ipa-reader.xyz/?text=sita\u02C8fel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - soursop
+    - custard apple
+    - guanabana
+    - annona
+  epo:
+  - - graviolo
+    - sukerpomo
+    - anono
+  spa:
+  - - "guan\xE1bana"
+    - _Annona muricata_
+search terms:
+  glb:
+  - sitafel
+  eng:
+  - soursop
+  - custard apple
+  - guanabana
+  - annona
+  epo:
+  - graviolo
+  - sukerpomo
+  - anono
+  spa:
+  - "guan\xE1bana"
+  - annona muricata
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u0940\u0924\u093E\u092B\u0932 \u201Csitafal\u201D"
+  Arabisa:
+  - - "\u0642\u0634\u0637\u0629 \u0635\u062F\u0641\u064A\u0629"
+  Telugusa:
+  - - "\u0C1A\u0C15\u0C4D\u0C15\u0C46\u0C30 \u0C38\u0C40\u0C24\u0C3E\u0C2B\u0C32\u0C02
+      \u201Ccakera sitafalam\u201D"
+  Swahilisa:
+  - - stafeli
+tags:
+- fruta
+- yamxey
+raw data:
+  term: sitafel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: soursop, custard apple, guanabana, annona
+    epo: graviolo, sukerpomo, anono
+    spa: "guan\xE1bana, _Annona muricata_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Hindisa (\u0938\u0940\u0924\u093E\u092B\u0932 \u201Csitafal\u201D),
+    Arabisa (\u0642\u0634\u0637\u0629 \u0635\u062F\u0641\u064A\u0629), Telugusa (\u0C1A\u0C15\u0C4D\u0C15\u0C46\u0C30
+    \u0C38\u0C40\u0C24\u0C3E\u0C2B\u0C32\u0C02 \u201Ccakera sitafalam\u201D), Swahilisa
+    (stafeli)"
+...

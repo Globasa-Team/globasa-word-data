@@ -1,0 +1,60 @@
+---
+term: ihtilas
+slug: ihtilas
+ipa: "ixti\u02C8las"
+ipa link: "http://ipa-reader.xyz/?text=ixti\u02C8las&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - embezzlement
+  - - embezzle
+  epo:
+  - - malversacio
+  - - malversacii
+  spa:
+  - - desfalco
+    - "malversaci\xF3n"
+  - - desfalcar
+    - malversar
+search terms:
+  glb:
+  - ihtilas
+  eng:
+  - embezzlement
+  - embezzle
+  epo:
+  - malversacio
+  - malversacii
+  spa:
+  - desfalco
+  - "malversaci\xF3n"
+  - desfalcar
+  - malversar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- politi
+raw data:
+  term: ihtilas
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: embezzlement; embezzle
+    epo: malversacio; malversacii
+    spa: "desfalco, malversaci\xF3n; desfalcar, malversar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: "Arabisa (\u0627\u0650\u062E\u0652\u062A\u0650\u0644\u064E\u0627\u0633
+    \u201Cihtilas\u201D), Turkisa (ihtilas), Parsisa (\u0627\u062E\u062A\u0644\u0627\u0633
+    \u201Cehtelas\u201D)"
+...

@@ -1,0 +1,80 @@
+---
+term: prostesi
+slug: prostesi
+ipa: "p\u027Eos\u02C8tesi"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eos\u02C8tesi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - prosthesis
+    - prosthetic device
+    - prosthetic limb
+  epo:
+  - - protezo
+  spa:
+  - - "pr\xF3tesis"
+    - "miembro prost\xE9tico"
+search terms:
+  glb:
+  - prostesi
+  eng:
+  - prosthesis
+  - prosthetic device
+  - prosthetic limb
+  epo:
+  - protezo
+  spa:
+  - "pr\xF3tesis"
+  - "miembro prost\xE9tico"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - prosthesis
+  Espanisa:
+  - - "pr\xF3tesis"
+  Fransesa:
+  - - "proth\xE8se"
+  Rusisa:
+  - - "\u043F\u0440\u043E\u0442\u0435\u0437 \"protez\""
+  Doycisa:
+  - - Prothese
+    - Prosthese
+  Portugalsa:
+  - - "pr\xF3tese"
+  Italisa:
+  - - protesi
+  Indonesisa:
+  - - prostesis
+  Pilipinasa:
+  - - prostesis
+  Turkisa:
+  - - protez
+  Parsisa:
+  - - "\u067E\u0631\u0648\u062A\u0632 \"porotez\""
+tags:
+- medis
+raw data:
+  term: prostesi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: prosthesis, prosthetic device, prosthetic limb
+    epo: protezo
+    spa: "pr\xF3tesis, miembro prost\xE9tico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (prosthesis), Espanisa (pr\xF3tesis), Fransesa (proth\xE8se),
+    Rusisa (\u043F\u0440\u043E\u0442\u0435\u0437 \"protez\"), Doycisa (Prothese, Prosthese),
+    Portugalsa (pr\xF3tese), Italisa (protesi), Indonesisa (prostesis), Pilipinasa
+    (prostesis), Turkisa (protez), Parsisa (\u067E\u0631\u0648\u062A\u0632 \"porotez\")"
+...

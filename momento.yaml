@@ -1,0 +1,49 @@
+---
+term: momento
+slug: momento
+ipa: "mo\u02C8mento"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8mento&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - moment
+    - while
+  epo:
+  - - momento
+  spa:
+  - - momento
+search terms:
+  glb:
+  - momento
+  eng:
+  - moment
+  - while
+  epo:
+  - momento
+  spa:
+  - momento
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: momento
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: moment, while
+    epo: momento
+    spa: momento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (moment), Doycisa (Moment), Fransesa (moment), Espanisa (momento),
+    Rusisa (\u043C\u043E\u043C\u0435\u043D\u0442 \u201Cmoment\u201D), Turkisa (moment)"
+...

@@ -1,0 +1,58 @@
+---
+term: jwan
+slug: jwan
+ipa: "\u02C8d\u0361\u0292wan"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292wan&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - turn
+  epo:
+  - - "\u015Dan\u011Do de direkto"
+  - - "\u015Dan\u011Di la direkton (de)"
+  spa:
+  - - volver
+    - doblar
+    - dar vuelta
+    - girar
+    - voltear
+search terms:
+  glb:
+  - jwan
+  eng:
+  - turn
+  epo:
+  - "\u015Dan\u011Do de direkto"
+  - "\u015Dan\u011Di la direkton de"
+  - "\u015Dan\u011Di la direkton"
+  spa:
+  - volver
+  - doblar
+  - dar vuelta
+  - girar
+  - voltear
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jwan
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: turn
+    epo: "\u015Dan\u011Do de direkto; \u015Dan\u011Di la direkton (de)"
+    spa: volver, doblar, dar vuelta, girar, voltear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u8F6C \u201Czhu\u01CEn\u201D), Hangusa (\uD68C\uC804 \u201Choejeon\u201D,
+    \uACF5\uC804 \u201Cgongjeon\u201D)"
+...

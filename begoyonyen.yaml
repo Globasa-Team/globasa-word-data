@@ -1,0 +1,47 @@
+---
+term: begoyonyen
+slug: begoyonyen
+ipa: "begojo\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=begojo\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - employee
+  epo:
+  - - dungito
+  spa:
+  - - empleado (_persona_)
+search terms:
+  glb:
+  - begoyonyen
+  eng:
+  - employee
+  epo:
+  - dungito
+  spa:
+  - empleado
+etymology_type: DERIVD
+etymology: <a href="../lexi/be-">be-</a> + <a href="../lexi/goyon">goyon</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: begoyonyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: employee
+    epo: dungito
+    spa: empleado (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: be- + goyon + -yen
+...

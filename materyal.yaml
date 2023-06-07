@@ -1,0 +1,48 @@
+---
+term: materyal
+slug: materyal
+ipa: "mate\u02C8\u027Ejal"
+ipa link: "http://ipa-reader.xyz/?text=mate\u02C8\u027Ejal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - material
+  epo:
+  - - materialo
+  spa:
+  - - material
+search terms:
+  glb:
+  - materyal
+  eng:
+  - material
+  epo:
+  - materialo
+  spa:
+  - material
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: materyal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: material
+    epo: materialo
+    spa: material
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (material), Fransesa (mat\xE9riau), Doycisa (Material), Rusisa
+    (\u043C\u0430\u0442\u0435\u0440\u0438\u0430\u043B \u201Cmaterial\u201D), Espanisa
+    (material), Indonesisa (materi), Pilipinasa (materyal)"
+...

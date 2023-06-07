@@ -1,0 +1,72 @@
+---
+term: cita
+slug: cita
+ipa: ˈt͡ʃita
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃita&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cheetah
+  epo:
+  - - gepardo
+  spa:
+  - - guepardo
+    - chita
+    - _Acinonyx jubatus_
+search terms:
+  glb:
+  - cita
+  eng:
+  - cheetah
+  epo:
+  - gepardo
+  spa:
+  - guepardo
+  - chita
+  - acinonyx jubatus
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - cheetah
+  Espanisa:
+  - - chita
+  Indonesisa:
+  - - citah
+  Pilipinasa:
+  - - cheetah
+  Hindisa:
+  - - चीता “cita”
+  Niponsa:
+  - - チーター “cita”
+  Turkisa:
+  - - çita
+  Hangusa:
+  - - 치타 “cita”
+  Parsisa:
+  - - چیتا “cita”
+tags:
+- hewan
+raw data:
+  term: cita
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cheetah
+    epo: gepardo
+    spa: guepardo, chita, _Acinonyx jubatus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (cheetah), Espanisa (chita), Indonesisa (citah), Pilipinasa (cheetah),
+    Hindisa (चीता “cita”), Niponsa (チーター “cita”), Turkisa (çita), Hangusa (치타 “cita”),
+    Parsisa (چیتا “cita”)
+...

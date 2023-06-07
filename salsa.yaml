@@ -1,0 +1,48 @@
+---
+term: salsa
+slug: salsa
+ipa: "\u02C8salsa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8salsa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - salsa (_dance_)
+  epo:
+  - - salso
+  spa:
+  - - salsa (_baile_)
+search terms:
+  glb:
+  - salsa
+  eng:
+  - salsa
+  epo:
+  - salso
+  spa:
+  - salsa
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - salsa
+raw data:
+  term: salsa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: salsa (_dance_)
+    epo: salso
+    spa: salsa (_baile_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (salsa)
+...

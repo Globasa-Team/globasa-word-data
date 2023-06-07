@@ -1,0 +1,69 @@
+---
+term: anwi
+slug: anwi
+ipa: ˈanwi
+ipa link: http://ipa-reader.xyz/?text=ˈanwi&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - consolation
+    - solace
+  - - comfort
+    - console
+  epo:
+  - - konsolo
+  - - konsoli
+  spa:
+  - - consuelo
+    - solaz
+  - - consolar
+    - confortar
+search terms:
+  glb:
+  - anwi
+  eng:
+  - consolation
+  - solace
+  - comfort
+  - console
+  epo:
+  - konsolo
+  - konsoli
+  spa:
+  - consuelo
+  - solaz
+  - consolar
+  - confortar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 安慰 “anwey”
+  Vyetnamsa:
+  - - an ủi
+  Niponsa:
+  - - 安慰 “ani”
+  Hangusa:
+  - - 안위 “anwi”
+raw data:
+  term: anwi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: consolation, solace; comfort, console
+    epo: konsolo; konsoli
+    spa: consuelo, solaz; consolar, confortar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (安慰 “anwey”), Vyetnamsa (an ủi), Niponsa (安慰 “ani”), Hangusa
+    (안위 “anwi”)
+...

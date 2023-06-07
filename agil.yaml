@@ -1,0 +1,71 @@
+---
+term: agil
+slug: agil
+ipa: aˈgil
+ipa link: http://ipa-reader.xyz/?text=aˈgil&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - agile
+  epo:
+  - - facilmova
+  - - facilmove
+  spa:
+  - - ágil
+  deu:
+  - - beweglich
+    - geschickt
+    - geschmeidig
+    - flink
+    - agil
+search terms:
+  glb:
+  - agil
+  eng:
+  - agile
+  epo:
+  - facilmova
+  - facilmove
+  spa:
+  - ágil
+  deu:
+  - beweglich
+  - geschickt
+  - geschmeidig
+  - flink
+  - agil
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - agile
+  Fransesa:
+  - - agile
+  Doycisa:
+  - - agil
+  Espanisa:
+  - - agil
+  Makedonisa:
+  - - агилен “agilen”
+raw data:
+  term: agil
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: agile
+    epo: facilmova; facilmove
+    spa: ágil
+    deu: beweglich, geschickt, geschmeidig, flink, agil
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (agile), Fransesa (agile), Doycisa (agil), Espanisa (agil), Makedonisa
+    (агилен “agilen”)
+...

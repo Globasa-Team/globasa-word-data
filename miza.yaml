@@ -1,0 +1,53 @@
+---
+term: miza
+slug: miza
+ipa: "\u02C8miza"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8miza&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mass (_religion_)
+  epo:
+  - - meso
+  spa:
+  - - misa
+search terms:
+  glb:
+  - miza
+  eng:
+  - mass
+  epo:
+  - meso
+  spa:
+  - misa
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- dini
+raw data:
+  term: miza
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mass (_religion_)
+    epo: meso
+    spa: misa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: "Doycisa (Messe), Englisa (mass), Espanisa (misa), Fransesa (messe),
+    Rusisa (\u043C\u0435\u0441\u0441\u0430 \u201Cmesa\u201D), Putunhwa (\u5F25\u6492
+    \u201Cmisa\u201D), Niponsa (\u30DF\u30B5 \u201Cmisa\u201D), Vyetnamsa (l\xEA\u0309
+    mi sa), Hangusa (\uBBF8\uC0AC \u201Cmisa\u201D), Indonesisa (misa), Pilipinasa
+    (misa), Hindisa (\u092E\u093E\u0938 \u201Cmas\u201D), Telugusa (\u0C2E\u0C3E\u0C38\u0C4D
+    \u201Cmas\u201D), Swahilisa (misa), Elinisa (\u03BC\u03AC\u03B6\u03B1 \u201Cmaza\u201D)"
+...

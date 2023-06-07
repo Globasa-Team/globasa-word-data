@@ -1,0 +1,52 @@
+---
+term: calyo
+slug: calyo
+ipa: ˈt͡ʃaljo
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃaljo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vehicle
+  epo:
+  - - veturilo
+  spa:
+  - - vehículo
+search terms:
+  glb:
+  - calyo
+  eng:
+  - vehicle
+  epo:
+  - veturilo
+  spa:
+  - vehículo
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 车辆 “chēliàng”
+  Hangusa:
+  - - 차량 “chalyang”
+  Niponsa:
+  - - 車両 “sharyo”
+raw data:
+  term: calyo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vehicle
+    epo: veturilo
+    spa: vehículo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (车辆 “chēliàng”), Hangusa (차량 “chalyang”), Niponsa (車両 “sharyo”)
+...

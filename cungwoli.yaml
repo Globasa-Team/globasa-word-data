@@ -1,0 +1,46 @@
+---
+term: cungwoli
+slug: cungwoli
+ipa: "t\u0361\u0283un\u02C8gwoli"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283un\u02C8gwoli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Chinese
+  epo:
+  - - "\u0109ina"
+  spa:
+  - - chino
+search terms:
+  glb:
+  - cungwoli
+  eng:
+  - chinese
+  epo:
+  - "\u0109ina"
+  spa:
+  - chino
+etymology_type: DERIVD
+etymology: <a href="../lexi/Cungwo">Cungwo</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Cungwoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Chinese
+    epo: "\u0109ina"
+    spa: chino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Cungwo + -li
+...

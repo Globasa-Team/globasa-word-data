@@ -1,0 +1,53 @@
+---
+term: tutum
+slug: tutum
+ipa: "tu\u02C8tum"
+ipa link: "http://ipa-reader.xyz/?text=tu\u02C8tum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - heart
+  epo:
+  - - koro
+  spa:
+  - - "coraz\xF3n"
+search terms:
+  glb:
+  - tutum
+  eng:
+  - heart
+  epo:
+  - koro
+  spa:
+  - "coraz\xF3n"
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Englisa: ~
+  Espanisa: ~
+  Croatian: ~
+  ji maxya Vyetnamsa:
+  - - tim
+tags:
+- jismulogi
+raw data:
+  term: tutum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: heart
+    epo: koro
+    spa: "coraz\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: kwasilexi - Englisa, Espanisa, Croatian, ji maxya Vyetnamsa (tim)
+...

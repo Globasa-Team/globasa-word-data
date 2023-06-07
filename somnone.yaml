@@ -1,0 +1,48 @@
+---
+term: somnone
+slug: somnone
+ipa: "som\u02C8none"
+ipa link: "http://ipa-reader.xyz/?text=som\u02C8none&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - sleeping
+  epo:
+  - - dormanta
+  - - dormante
+  spa:
+  - - durmiente
+search terms:
+  glb:
+  - somnone
+  eng:
+  - sleeping
+  epo:
+  - dormanta
+  - dormante
+  spa:
+  - durmiente
+etymology_type: DERIVD
+etymology: <a href="../lexi/somno">somno</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: somnone
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: sleeping
+    epo: dormanta; dormante
+    spa: durmiente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: somno + -ne
+...

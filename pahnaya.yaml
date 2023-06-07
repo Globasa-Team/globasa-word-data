@@ -1,0 +1,50 @@
+---
+term: pahnaya
+slug: pahnaya
+ipa: "pax\u02C8naja"
+ipa link: "http://ipa-reader.xyz/?text=pax\u02C8naja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - wideness
+  epo:
+  - - "lar\u011Deco"
+    - "lar\u011Do"
+  spa:
+  - - ancho
+    - anchura
+search terms:
+  glb:
+  - pahnaya
+  eng:
+  - wideness
+  epo:
+  - "lar\u011Deco"
+  - "lar\u011Do"
+  spa:
+  - ancho
+  - anchura
+etymology_type: DERIVD
+etymology: <a href="../lexi/pahna">pahna</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: pahnaya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: wideness
+    epo: "lar\u011Deco, lar\u011Do"
+    spa: ancho, anchura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pahna + -ya
+...

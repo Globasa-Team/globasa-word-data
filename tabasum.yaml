@@ -1,0 +1,61 @@
+---
+term: tabasum
+slug: tabasum
+ipa: "taba\u02C8sum"
+ipa link: "http://ipa-reader.xyz/?text=taba\u02C8sum&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - smile
+  epo:
+  - - rideto
+  - - rideti (al)
+  spa:
+  - - sonrisa
+  - - "sonre\xEDr"
+search terms:
+  glb:
+  - tabasum
+  eng:
+  - smile
+  epo:
+  - rideto
+  - rideti al
+  - rideti
+  spa:
+  - sonrisa
+  - "sonre\xEDr"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u064E\u0628\u064E\u0633\u064F\u0651\u0645 \u201Ctabassum\u201D"
+  Turkisa:
+  - - "tebess\xFCm"
+  Parsisa:
+  - - "\u062A\u0628\u0633\u0645 \u201Ctabassom\u201D"
+  Swahilisa:
+  - - tabasamu
+raw data:
+  term: tabasum
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: smile
+    epo: rideto; rideti (al)
+    spa: "sonrisa; sonre\xEDr"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u064E\u0628\u064E\u0633\u064F\u0651\u0645 \u201Ctabassum\u201D),
+    Turkisa (tebess\xFCm), Parsisa (\u062A\u0628\u0633\u0645 \u201Ctabassom\u201D),
+    Swahilisa (tabasamu)"
+...

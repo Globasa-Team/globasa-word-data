@@ -1,0 +1,51 @@
+---
+term: mosem
+slug: mosem
+ipa: "mo\u02C8sem"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8sem&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - season
+  epo:
+  - - sezono
+  spa:
+  - - "estaci\xF3n"
+    - temporada
+search terms:
+  glb:
+  - mosem
+  eng:
+  - season
+  epo:
+  - sezono
+  spa:
+  - "estaci\xF3n"
+  - temporada
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mosem
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: season
+    epo: sezono
+    spa: "estaci\xF3n, temporada"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0648\u0633\u0645 \u201Cmawsim\u201D), Indonesisa (musim),
+    Swahilisa (msimu), Parsisa (\u0645\u0648\u0633\u0645 \u201Cmowsem\u201D, \u0645\u0648\u0633\u0645\u06CC
+    \u201Cmusemi\u201D - mosemli), Turkisa (mevsim), Hindisa (\u092E\u094C\u0938\u092E
+    \u201Cmausam\u201D)"
+...

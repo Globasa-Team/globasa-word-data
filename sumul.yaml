@@ -1,0 +1,54 @@
+---
+term: sumul
+slug: sumul
+ipa: "su\u02C8mul"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8mul&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - well
+    - shaft
+  epo:
+  - - puto
+    - "\u015Dakto"
+  spa:
+  - - pozo
+search terms:
+  glb:
+  - sumul
+  eng:
+  - well
+  - shaft
+  epo:
+  - puto
+  - "\u015Dakto"
+  spa:
+  - pozo
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - sumur
+  Hangusa:
+  - - "\uC6B0\uBB3C \"umul\""
+raw data:
+  term: sumul
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: well, shaft
+    epo: "puto, \u015Dakto"
+    spa: pozo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (sumur), Hangusa (\uC6B0\uBB3C \"umul\")"
+...

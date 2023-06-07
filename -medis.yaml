@@ -1,0 +1,50 @@
+---
+term: -medis
+slug: -medis
+ipa: "-me\u02C8dis"
+ipa link: "http://ipa-reader.xyz/?text=-me\u02C8dis&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - medical practice
+  epo:
+  - - medicino
+  spa:
+  - - "pr\xE1ctica m\xE9dica"
+  deu:
+  - - Arztpraxis
+search terms:
+  glb:
+  - -medis
+  eng:
+  - medical practice
+  epo:
+  - medicino
+  spa:
+  - "pr\xE1ctica m\xE9dica"
+  deu:
+  - arztpraxis
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/medis">medis</a>.
+raw data:
+  term: -medis
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: medical practice
+    epo: medicino
+    spa: "pr\xE1ctica m\xE9dica"
+    deu: Arztpraxis
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _medis_.
+...

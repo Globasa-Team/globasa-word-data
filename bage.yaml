@@ -1,0 +1,96 @@
+---
+term: bage
+slug: bage
+ipa: ˈbage
+ipa link: http://ipa-reader.xyz/?text=ˈbage&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - (_artificially divided_) part
+    - portion
+    - piece
+    - section
+  - - cut (up)
+    - portion
+    - allocate
+  epo:
+  - - fragmento
+    - ero
+    - (artefarite dividita) parto
+    - porcio
+    - dividaĵo
+  - - partigi
+    - porciumi
+    - dividi
+  spa:
+  - - parte (_dividida artificialmente_)
+    - porción
+    - pedazo
+  - - partir
+    - dividir
+    - repartir
+search terms:
+  glb:
+  - bage
+  eng:
+    0: part
+    1: portion
+    2: piece
+    3: section
+    4: cut up
+    5: cut
+    7: allocate
+  epo:
+  - fragmento
+  - ero
+  - artefarite dividita parto
+  - parto
+  - porcio
+  - dividaĵo
+  - partigi
+  - porciumi
+  - dividi
+  spa:
+  - parte
+  - porción
+  - pedazo
+  - partir
+  - dividir
+  - repartir
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - भाग “bag”
+  Pilipinasa:
+  - - bahagi
+  Indonesisa:
+  - - bagian
+  Telugusa:
+  - - భాగం “bhāgaṁ”
+synonyms:
+- vibaja
+raw data:
+  term: bage
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: (_artificially divided_) part, portion, piece, section; cut (up), portion,
+      allocate
+    epo: fragmento, ero, (artefarite dividita) parto, porcio, dividaĵo; partigi, porciumi,
+      dividi
+    spa: parte (_dividida artificialmente_), porción, pedazo; partir, dividir, repartir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: vibaja
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (भाग “bag”), Pilipinasa (bahagi), Indonesisa (bagian), Telugusa
+    (భాగం “bhāgaṁ”)
+...

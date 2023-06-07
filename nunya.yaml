@@ -1,0 +1,56 @@
+---
+term: nunya
+slug: nunya
+ipa: "\u02C8nunja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nunja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (the) present
+    - (the) now
+    - nowness
+  epo:
+  - - estanteco
+    - nuneco
+  spa:
+  - - ahora
+    - presente
+search terms:
+  glb:
+  - nunya
+  eng:
+  - the present
+  - present
+  - the now
+  - now
+  - nowness
+  epo:
+  - estanteco
+  - nuneco
+  spa:
+  - ahora
+  - presente
+etymology_type: DERIVD
+etymology: <a href="../lexi/nun">nun</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: nunya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (the) present, (the) now, nowness
+    epo: estanteco, nuneco
+    spa: ahora, presente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nun + -ya
+...

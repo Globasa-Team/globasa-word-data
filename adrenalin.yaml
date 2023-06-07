@@ -1,0 +1,80 @@
+---
+term: adrenalin
+slug: adrenalin
+ipa: adɾenaˈlin
+ipa link: http://ipa-reader.xyz/?text=adɾenaˈlin&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - adrenaline
+    - epinephrine
+  epo:
+  - - adrenalino
+    - epinefrino
+  spa:
+  - - adrenalina
+    - epinefrina
+search terms:
+  glb:
+  - adrenalin
+  eng:
+  - adrenaline
+  - epinephrine
+  epo:
+  - adrenalino
+  - epinefrino
+  spa:
+  - adrenalina
+  - epinefrina
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - أَدْرِينَالِين‎ “ʾadrīnālīn”
+  Fransesa:
+  - - adrénaline
+  Doycisa:
+  - - Adrenalin
+  Hindisa:
+  - - एड्रेनालाईन “eḍrenālāīn”
+  Niponsa:
+  - - アドレナリン “adorenarin”
+  Hangusa:
+  - - 아드레날린 “adeurenallin”
+  Rusisa:
+  - - адреналин “adrenalin”
+  Espanisa:
+  - - adrenalina
+  Swahilisa:
+  - - adrenalini
+  Pilipinasa:
+  - - adrenalina
+  Turkisa:
+  - - adrenalin
+  Vyetnamsa:
+  - - adrenaline
+raw data:
+  term: adrenalin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: adrenaline, epinephrine
+    epo: adrenalino, epinefrino
+    spa: adrenalina, epinefrina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (أَدْرِينَالِين‎ “ʾadrīnālīn”), Fransesa (adrénaline), Doycisa
+    (Adrenalin), Hindisa (एड्रेनालाईन “eḍrenālāīn”), Niponsa (アドレナリン “adorenarin”),
+    Hangusa (아드레날린 “adeurenallin”), Rusisa (адреналин “adrenalin”), Espanisa (adrenalina),
+    Swahilisa (adrenalini), Pilipinasa (adrenalina), Turkisa (adrenalin), Vyetnamsa
+    (adrenaline)
+...

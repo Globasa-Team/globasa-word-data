@@ -1,0 +1,48 @@
+---
+term: hatarido
+slug: hatarido
+ipa: "xata\u02C8\u027Eido"
+ipa link: "http://ipa-reader.xyz/?text=xata\u02C8\u027Eido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - endangered
+  epo:
+  - - "endan\u011Derigita"
+  - - "endan\u011Derigite"
+  spa:
+  - - en peligro
+search terms:
+  glb:
+  - hatarido
+  eng:
+  - endangered
+  epo:
+  - "endan\u011Derigita"
+  - "endan\u011Derigite"
+  spa:
+  - en peligro
+etymology_type: DERIVD
+etymology: <a href="../lexi/hatari">hatari</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: hatarido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: endangered
+    epo: "endan\u011Derigita; endan\u011Derigite"
+    spa: en peligro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hatari + -do
+...

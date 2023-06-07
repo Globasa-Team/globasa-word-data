@@ -1,0 +1,54 @@
+---
+term: kompeten
+slug: kompeten
+ipa: "kompe\u02C8ten"
+ipa link: "http://ipa-reader.xyz/?text=kompe\u02C8ten&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - competent
+    - competently
+  epo:
+  - - kompetenta
+  - - kompetente
+  spa:
+  - - competente
+  - - competentemente
+search terms:
+  glb:
+  - kompeten
+  eng:
+  - competent
+  - competently
+  epo:
+  - kompetenta
+  - kompetente
+  spa:
+  - competente
+  - competentemente
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kompeten
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: competent, competently
+    epo: kompetenta; kompetente
+    spa: competente; competentemente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (competent), Fransesa (comp\xE9tent), Doycisa (kompetent), Rusisa
+    (\u043A\u043E\u043C\u043F\u0435\u0442\u0435\u043D\u0442\u043D\u044B\u0439 \u201Ckompetentniy\u201D),
+    Espanisa (competente), Indonesisa (kompeten)"
+...

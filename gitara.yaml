@@ -1,0 +1,83 @@
+---
+term: gitara
+slug: gitara
+ipa: giˈtaɾa
+ipa link: http://ipa-reader.xyz/?text=giˈtaɾa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - guitar
+  epo:
+  - - gitaro
+  spa:
+  - - guitarra
+search terms:
+  glb:
+  - gitara
+  eng:
+  - guitar
+  epo:
+  - gitaro
+  spa:
+  - guitarra
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - قِيثَارَة “qīṯāra"
+    - جِيتَار “gitār”
+  Hindisa:
+  - - गिटार “giṭār”
+  Persisa:
+  - - گیتار “gitâr”
+  Swahilisa:
+  - - gitaa
+  Telugusa:
+  - - గిటారు “giṭāru”
+  Turkisa:
+  - - gitar
+  Indonesisa:
+  - - gitar
+  Pilipinasa:
+  - - gitara
+  Doycisa:
+  - - Gitarre
+  Englisa:
+  - - guitar
+  Espanisa:
+  - - guitarra
+  Fransesa:
+  - - guitarre
+  Rusisa:
+  - - гитара “gitara”
+  Hangusa:
+  - - 기타 “gita”
+  Niponsa:
+  - - ギター “gitā”
+  Putunhwa:
+  - - 吉他 “jítā”
+raw data:
+  term: gitara
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: guitar
+    epo: gitaro
+    spa: guitarra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (قِيثَارَة “qīṯāra", جِيتَار “gitār”), Hindisa (गिटार “giṭār”),
+    Persisa (گیتار “gitâr”), Swahilisa (gitaa), Telugusa (గిటారు “giṭāru”), Turkisa
+    (gitar), Indonesisa (gitar), Pilipinasa (gitara), Doycisa (Gitarre), Englisa (guitar),
+    Espanisa (guitarra), Fransesa (guitarre), Rusisa (гитара “gitara”), Hangusa (기타
+    “gita”), Niponsa (ギター “gitā”), Putunhwa (吉他 “jítā”)
+...

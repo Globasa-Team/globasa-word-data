@@ -1,0 +1,82 @@
+---
+term: yarda
+slug: yarda
+ipa: "\u02C8ja\u027Eda"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ja\u027Eda&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - yard (unit)
+  epo:
+  - - jardo
+  spa:
+  - - yarda (_unidad de longitud_)
+    - yd
+search terms:
+  glb:
+  - yarda
+  eng:
+  - yard unit
+  - yard
+  epo:
+  - jardo
+  spa:
+  - yarda
+  - yd
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - yard
+  Espanisa:
+  - - yarda
+  Fransesa:
+  - - yarde
+  Rusisa:
+  - - "\u044F\u0440\u0434 \"yard\""
+  Doycisa:
+  - - Yard
+  Indonesisa:
+  - - yard
+  Pilipinasa:
+  - - yarda
+  Arabisa:
+  - - "\u064A\u064E\u0627\u0631\u0652\u062F\u064E\u0629 \"yarda\""
+    - "\u064A\u064E\u0627\u0631\u0652\u062F \"yard\""
+  Niponsa:
+  - - "\u30E4\u30FC\u30C9 \"yado\""
+  Turkisa:
+  - - yarda
+  Vyetnamsa:
+  - - yard
+  Hangusa:
+  - - "\uC57C\uB4DC \"yadu\""
+  Parsisa:
+  - - "\u06CC\u0627\u0631\u062F \"y\xE2rd\""
+  Swahilisa:
+  - - yadi
+raw data:
+  term: yarda
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: yard (unit)
+    epo: jardo
+    spa: yarda (_unidad de longitud_), yd
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (yard), Espanisa (yarda), Fransesa (yarde), Rusisa (\u044F\u0440\u0434
+    \"yard\"), Doycisa (Yard), Indonesisa (yard), Pilipinasa (yarda), Arabisa (\u064A\u064E\u0627\u0631\u0652\u062F\u064E\u0629
+    \"yarda\", \u064A\u064E\u0627\u0631\u0652\u062F \"yard\"), Niponsa (\u30E4\u30FC\u30C9
+    \"yado\"), Turkisa (yarda), Vyetnamsa (yard), Hangusa (\uC57C\uB4DC \"yadu\"),
+    Parsisa (\u06CC\u0627\u0631\u062F \"y\xE2rd\"), Swahilisa (yadi)"
+...

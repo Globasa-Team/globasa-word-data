@@ -1,0 +1,48 @@
+---
+term: alokrasi
+slug: alokrasi
+ipa: "alo\u02C8k\u027Easi"
+ipa link: "http://ipa-reader.xyz/?text=alo\u02C8k\u027Easi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - revolution (_regime change_)
+  epo:
+  - - "revolucio (_rega \u015Dan\u011Do_)"
+  spa:
+  - - "revoluci\xF3n (_cambio de r\xE9gimen_)"
+search terms:
+  glb:
+  - alokrasi
+  eng:
+  - revolution
+  epo:
+  - revolucio
+  spa:
+  - "revoluci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/-krasi">-krasi</a>
+tags:
+- politi
+raw data:
+  term: alokrasi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: revolution (_regime change_)
+    epo: "revolucio (_rega \u015Dan\u011Do_)"
+    spa: "revoluci\xF3n (_cambio de r\xE9gimen_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: alo + -krasi
+...

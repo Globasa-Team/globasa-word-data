@@ -1,0 +1,67 @@
+---
+term: daif
+slug: daif
+ipa: daˈif
+ipa link: http://ipa-reader.xyz/?text=daˈif&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - weak
+    - weakly
+  epo:
+  - - febla
+    - malforta
+  - - feble
+    - malforte
+  spa:
+  - - débil
+search terms:
+  glb:
+  - daif
+  eng:
+  - weak
+  - weakly
+  epo:
+  - febla
+  - malforta
+  - feble
+  - malforte
+  spa:
+  - débil
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - ضعيف “daif”
+  Swahilisa:
+  - - dhaifu
+  Indonesisa:
+  - - daif
+  Turkisa:
+  - - zayıf
+  Parsisa:
+  - - ضعیف “zaif”
+antonyms:
+- bala
+raw data:
+  term: daif
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: weak, weakly
+    epo: febla, malforta; feble, malforte
+    spa: débil
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: bala
+  example: ""
+  tags: ""
+  etymology: Arabisa (ضعيف “daif”), Swahilisa (dhaifu), Indonesisa (daif), Turkisa
+    (zayıf), Parsisa (ضعیف “zaif”)
+...

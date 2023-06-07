@@ -1,0 +1,97 @@
+---
+term: abil
+slug: abil
+ipa: aˈbil
+ipa link: http://ipa-reader.xyz/?text=aˈbil&voice=Ewa
+status: true
+category: root
+word class: t; f.sah
+trans:
+  eng:
+  - - able
+    - capable
+    - capably
+  - - be able
+    - can
+  epo:
+  - - pova
+    - kapabla
+  - - povi
+    - kapabli
+  spa:
+  - - capaz
+  - - poder
+  deu:
+  - - können
+    - vermögen
+  fra:
+  - - pouvoir
+  rus:
+  - - мочь
+  zho:
+  - - 識得
+search terms:
+  glb:
+  - abil
+  eng:
+  - able
+  - capable
+  - capably
+  - be able
+  - can
+  epo:
+  - pova
+  - kapabla
+  - povi
+  - kapabli
+  spa:
+  - capaz
+  - poder
+  deu:
+  - können
+  - vermögen
+  fra:
+  - pouvoir
+  rus:
+  - мочь
+  zho:
+  - 識得
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - able
+  Espanisa:
+  - - hábil
+    - habilidad
+  Fransesa:
+  - - -able
+    - habileté
+  Turkisa:
+  - - -abil
+  Italisa:
+  - - abile
+  Pilipinasa:
+  - - abilidad
+  Rumanisa:
+  - - abil
+raw data:
+  term: abil
+  category: root
+  word class: t; f.sah
+  status: true
+  trans:
+    eng: able, capable, capably ; be able, can
+    epo: pova, kapabla; povi, kapabli
+    spa: capaz; poder
+    deu: können, vermögen
+    fra: pouvoir
+    rus: мочь
+    zho: 識得
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: Kam yu abil na suyon?
+  tags: ""
+  etymology: Englisa (able), Espanisa (hábil, habilidad), Fransesa (-able, habileté),
+    Turkisa (-abil), Italisa (abile), Pilipinasa (abilidad), Rumanisa (abil)
+...

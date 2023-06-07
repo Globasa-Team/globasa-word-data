@@ -1,0 +1,93 @@
+---
+term: titanyum
+slug: titanyum
+ipa: "tita\u02C8njum"
+ipa link: "http://ipa-reader.xyz/?text=tita\u02C8njum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - titanium
+  epo:
+  - - titano
+  spa:
+  - - titanio
+    - Ti
+search terms:
+  glb:
+  - titanyum
+  eng:
+  - titanium
+  epo:
+  - titano
+  spa:
+  - titanio
+  - ti
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - titanium
+  Espanisa:
+  - - titanio
+  Arabisa:
+  - - "\u062A\u0650\u064A\u062A\u064E\u0627\u0646\u0652\u064A\u064F\u0648\u0645 \u201Ctitanyum\u201D"
+  Fransesa:
+  - - titane
+  Rusisa:
+  - - "\u0442\u0438\u0442\u0430\u043D \u201Ctitan\u201D"
+  Indonesisa:
+  - - titanium
+  Doycisa:
+  - - Titan
+  Niponsa:
+  - - "\u30C1\u30BF\u30F3 \u201Ccitan\u201D"
+    - "\u30C1\u30BF\u30CB\u30A6\u30E0 \u201Ccitaniumu\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C48\u0C1F\u0C3E\u0C28\u0C3F\u0C2F\u0C02 \u201Ctaytaniyam\u201D"
+  Turkisa:
+  - - titan
+    - titanyum
+  Hangusa:
+  - - "\uD2F0\uD0C4 \u201Ctitan\u201D"
+    - "\uD2F0\uD0C0\uB284 \u201Ctitanyum\u201D"
+    - "\uD0C0\uC774\uD0C0\uB284 \u201Ctaytanyum\u201D"
+  Vyetnamsa:
+  - - titan
+  Parsisa:
+  - - "\u062A\u06CC\u062A\u0627\u0646\u06CC\u0648\u0645 \u201Ctitanyom\u201D"
+  Swahilisa:
+  - - titiani
+  Pilipinasa:
+  - - titanyo
+    - titanyum
+tags:
+- kimikali monlari
+raw data:
+  term: titanyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: titanium
+    epo: titano
+    spa: titanio, Ti
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (titanium), Espanisa (titanio), Arabisa (\u062A\u0650\u064A\u062A\u064E\u0627\u0646\u0652\u064A\u064F\u0648\u0645
+    \u201Ctitanyum\u201D), Fransesa (titane), Rusisa (\u0442\u0438\u0442\u0430\u043D
+    \u201Ctitan\u201D), Indonesisa (titanium), Doycisa (Titan), Niponsa (\u30C1\u30BF\u30F3
+    \u201Ccitan\u201D, \u30C1\u30BF\u30CB\u30A6\u30E0 \u201Ccitaniumu\u201D), Telugusa
+    (\u0C1F\u0C48\u0C1F\u0C3E\u0C28\u0C3F\u0C2F\u0C02 \u201Ctaytaniyam\u201D), Turkisa
+    (titan, titanyum), Hangusa (\uD2F0\uD0C4 \u201Ctitan\u201D, \uD2F0\uD0C0\uB284
+    \u201Ctitanyum\u201D, \uD0C0\uC774\uD0C0\uB284 \u201Ctaytanyum\u201D), Vyetnamsa
+    (titan), Parsisa (\u062A\u06CC\u062A\u0627\u0646\u06CC\u0648\u0645 \u201Ctitanyom\u201D),
+    Swahilisa (titiani), Pilipinasa (titanyo, titanyum)"
+...

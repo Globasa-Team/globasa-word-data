@@ -1,0 +1,56 @@
+---
+term: ultrajiwa
+slug: ultrajiwa
+ipa: "ult\u027Ea\u02C8d\u0361\u0292iwa"
+ipa link: "http://ipa-reader.xyz/?text=ult\u027Ea\u02C8d\u0361\u0292iwa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - survival
+  - - survive
+  epo:
+  - - pretervivo
+    - travivo
+  - - pretervivi
+    - travivi
+  spa:
+  - - supervivencia
+  - - sobrevivir
+search terms:
+  glb:
+  - ultrajiwa
+  eng:
+  - survival
+  - survive
+  epo:
+  - pretervivo
+  - travivo
+  - pretervivi
+  - travivi
+  spa:
+  - supervivencia
+  - sobrevivir
+etymology_type: DERIVD
+etymology: <a href="../lexi/ultra-">ultra-</a> + <a href="../lexi/jiwa">jiwa</a>
+raw data:
+  term: ultrajiwa
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: survival; survive
+    epo: pretervivo, travivo; pretervivi, travivi
+    spa: supervivencia; sobrevivir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ultra- + jiwa
+...

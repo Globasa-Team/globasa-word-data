@@ -1,0 +1,59 @@
+---
+term: xobi
+slug: xobi
+ipa: "\u02C8\u0283obi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283obi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - consumption
+  - - consume
+  epo:
+  - - konsumo
+  - - konsumi
+  spa:
+  - - consumo
+  - - consumir
+search terms:
+  glb:
+  - xobi
+  eng:
+  - consumption
+  - consume
+  epo:
+  - konsumo
+  - konsumi
+  spa:
+  - consumo
+  - consumir
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6D88\u8D39 \u201Cxyawfey\u201D"
+  Hangusa:
+  - - "\uC18C\uBE44 \u201Csobi\u201D"
+  Niponsa:
+  - - "\u6D88\u8CBB \u201Cxohi\u201D"
+raw data:
+  term: xobi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: consumption; consume
+    epo: konsumo; konsumi
+    spa: consumo; consumir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6D88\u8D39 \u201Cxyawfey\u201D), Hangusa (\uC18C\uBE44 \u201Csobi\u201D),
+    Niponsa (\u6D88\u8CBB \u201Cxohi\u201D)"
+...

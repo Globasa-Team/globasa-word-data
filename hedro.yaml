@@ -1,0 +1,51 @@
+---
+term: hedro
+slug: hedro
+ipa: "\u02C8xed\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xed\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - geometric face
+    - -hedron
+  epo:
+  - - edro
+  spa:
+  - - "cara geom\xE9trica"
+    - -edro
+search terms:
+  glb:
+  - hedro
+  eng:
+  - geometric face
+  - -hedron
+  epo:
+  - edro
+  spa:
+  - "cara geom\xE9trica"
+  - -edro
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hedro
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: geometric face, -hedron
+    epo: edro
+    spa: "cara geom\xE9trica, -edro"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: geometric face, face, -hedron
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (-edro), Fransesa (-\xE9dre), Rusisa (-\u044D\u0434\u0440 \u201Cedr\u201D),
+    Englisa (-hedron), Doycisa, Indonesisa, Swahilisa (-hedroni)"
+...

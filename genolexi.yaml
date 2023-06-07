@@ -1,0 +1,46 @@
+---
+term: genolexi
+slug: genolexi
+ipa: "geno\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=geno\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - root word
+  epo:
+  - - radikvorto
+  spa:
+  - - "palabra ra\xEDz"
+search terms:
+  glb:
+  - genolexi
+  eng:
+  - root word
+  epo:
+  - radikvorto
+  spa:
+  - "palabra ra\xEDz"
+etymology_type: DERIVD
+etymology: <a href="../lexi/geno">geno</a> + <a href="../lexi/-lexi">-lexi</a>
+raw data:
+  term: genolexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: root word
+    epo: radikvorto
+    spa: "palabra ra\xEDz"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: geno + -lexi
+...

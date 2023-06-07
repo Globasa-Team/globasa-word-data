@@ -1,0 +1,53 @@
+---
+term: nyan
+slug: nyan
+ipa: "\u02C8njan"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8njan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - year
+  epo:
+  - - jaro
+  spa:
+  - - "a\xF1o"
+search terms:
+  glb:
+  - nyan
+  eng:
+  - year
+  epo:
+  - jaro
+  spa:
+  - "a\xF1o"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5E74 \u201Cni\xE1n\u201D"
+  Niponsa:
+  - - "\u5E74 \u201Cnen-\u201D"
+  Hangusa:
+  - - "\uB144 \u201Cnyeon\u201D"
+raw data:
+  term: nyan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: year
+    epo: jaro
+    spa: "a\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u5E74 \u201Cni\xE1n\u201D), Niponsa (\u5E74 \u201Cnen-\u201D),
+    Hangusa (\uB144 \u201Cnyeon\u201D)"
+...

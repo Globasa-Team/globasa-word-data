@@ -1,0 +1,51 @@
+---
+term: kabel
+slug: kabel
+ipa: "ka\u02C8bel"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8bel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cable
+  epo:
+  - - kablo
+  spa:
+  - - cable
+search terms:
+  glb:
+  - kabel
+  eng:
+  - cable
+  epo:
+  - kablo
+  spa:
+  - cable
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: 'kabel '
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cable
+    epo: kablo
+    spa: cable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Kabel), Englisa (cable), Espanisa (cable), Fransesa (c\xE2ble),
+    Rusisa (\u043A\u0430\u0431\u0435\u043B\u044C \u201Ckabel\u201D), Indonesisa (kabel),
+    Pilipinasa (kable), Hindisa (\u0915\u0947\u092C\u0932 \u201Ckebal\u201D), Telugusa
+    (\u0C15\u0C47\u0C2C\u0C41\u0C32\u0C4D \u201Ckebul\u201D), Turkisa (kablo), Arabisa
+    (\u0643\u0627\u0628\u0644 \u201Ckabil\u201D), Parsisa (\u06A9\u0627\u0628\u0644
+    \u201Ckabl\u201D), Swahilisa (kebo), Vyetnamsa (c\xE1p)"
+...

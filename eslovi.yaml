@@ -1,0 +1,108 @@
+---
+term: eslovi
+slug: eslovi
+ipa: esˈlovi
+ipa link: http://ipa-reader.xyz/?text=esˈlovi&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - Slavic
+  epo:
+  - - slava
+  - - slave
+  spa:
+  - - eslavo
+  deu:
+  - - slawisch
+  zho:
+  - - 斯拉夫
+search terms:
+  glb:
+  - eslovi
+  eng:
+  - slavic
+  epo:
+  - slava
+  - slave
+  spa:
+  - eslavo
+  deu:
+  - slawisch
+  zho:
+  - 斯拉夫
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - славянский “slavyanskiy”
+  Ukrainasa:
+  - - слов'янський “slovyanskiy”
+  Polskasa:
+  - - słowiański
+  Ceskisa:
+  - - slovanský
+  Serbihervatskasa:
+  - - slòvēnskī
+    - slòvjēnskī
+    - slàvēnskī
+  Englisa:
+  - - Slavic
+  Espanisa:
+  - - eslavo
+  Fransesa:
+  - - slave
+  Doycisa:
+  - - slawisch
+  Indonesisa:
+  - - slavik
+  Pilipinasa:
+  - - Eslabo
+  Putunhwa:
+  - - 斯拉夫 “silafu”
+  Hindisa:
+  - - स्लाव “slav"
+    - स्लावी “slavi”
+  Arabisa:
+  - - سْلَافِيّ “slafiy”
+  Niponsa:
+  - - スラヴ “suravu"
+    - スラブ surabu”
+  Tamilsa:
+  - - சிலாவிய “cilaviya”
+  Turkisa:
+  - - Slav
+  Vyetnamsa:
+  - - Xla-vơ
+  Hangusa:
+  - - 슬라브 “sullabu”
+  Parsisa:
+  - - اسلاو “eslâv”
+  Swahilisa:
+  - - kislavoni
+raw data:
+  term: eslovi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: Slavic
+    epo: slava; slave
+    spa: eslavo
+    deu: slawisch
+    fra: ""
+    rus: ""
+    zho: 斯拉夫
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Rusisa (славянский “slavyanskiy”), Ukrainasa (слов'янський “slovyanskiy”),
+    Polskasa (słowiański), Ceskisa (slovanský), Serbihervatskasa (slòvēnskī, slòvjēnskī,
+    slàvēnskī), Englisa (Slavic), Espanisa (eslavo), Fransesa (slave), Doycisa (slawisch),
+    Indonesisa (slavik), Pilipinasa (Eslabo), Putunhwa (斯拉夫 “silafu”), Hindisa (स्लाव
+    “slav", स्लावी “slavi”), Arabisa (سْلَافِيّ “slafiy”), Niponsa (スラヴ “suravu",
+    スラブ surabu”), Tamilsa (சிலாவிய “cilaviya”), Turkisa (Slav), Vyetnamsa (Xla-vơ),
+    Hangusa (슬라브 “sullabu”), Parsisa (اسلاو “eslâv”), Swahilisa (kislavoni)
+...

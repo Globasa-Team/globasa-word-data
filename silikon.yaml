@@ -1,0 +1,86 @@
+---
+term: silikon
+slug: silikon
+ipa: "sili\u02C8kon"
+ipa link: "http://ipa-reader.xyz/?text=sili\u02C8kon&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - silicon
+  epo:
+  - - silicio
+  spa:
+  - - silicio
+    - Si
+search terms:
+  glb:
+  - silikon
+  eng:
+  - silicon
+  epo:
+  - silicio
+  spa:
+  - silicio
+  - si
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - silicon
+  Espanisa:
+  - - silicio
+  Arabisa:
+  - - "\u0633\u0650\u0644\u0650\u064A\u0643\u064F\u0648\u0646 \u201Csilikon\u201D"
+  Fransesa:
+  - - silicium
+  Rusisa:
+  - - "\u0441\u0438\u043B\u0438\u0446\u0438\u0439 \u201Csilitsiy\u201D"
+  Indonesisa:
+  - - silikon
+  Doycisa:
+  - - Silizium
+  Niponsa:
+  - - "\u30B7\u30EA\u30B3\u30F3 \u201Cxirikon\u201D"
+  Telugusa:
+  - - "\u0C38\u0C3F\u0C32\u0C3F\u0C15\u0C3E\u0C28\u0C4D \u201Csilikan\u201D"
+  Turkisa:
+  - - silisyum
+  Hangusa:
+  - - "\uC2E4\uB9AC\uCF58 \u201Cxilikon\u201D"
+  Vyetnamsa:
+  - - silic
+  Parsisa:
+  - - "\u0633\u06CC\u0644\u06CC\u0633\u06CC\u0645 \u201Csilisyom\u201D"
+  Swahilisa:
+  - - silikoni
+  Pilipinasa:
+  - - silikon
+tags:
+- kimikali monlari
+raw data:
+  term: silikon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: silicon
+    epo: silicio
+    spa: silicio, Si
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (silicon), Espanisa (silicio), Arabisa (\u0633\u0650\u0644\u0650\u064A\u0643\u064F\u0648\u0646
+    \u201Csilikon\u201D), Fransesa (silicium), Rusisa (\u0441\u0438\u043B\u0438\u0446\u0438\u0439
+    \u201Csilitsiy\u201D), Indonesisa (silikon), Doycisa (Silizium), Niponsa (\u30B7\u30EA\u30B3\u30F3
+    \u201Cxirikon\u201D), Telugusa (\u0C38\u0C3F\u0C32\u0C3F\u0C15\u0C3E\u0C28\u0C4D
+    \u201Csilikan\u201D), Turkisa (silisyum), Hangusa (\uC2E4\uB9AC\uCF58 \u201Cxilikon\u201D),
+    Vyetnamsa (silic), Parsisa (\u0633\u06CC\u0644\u06CC\u0633\u06CC\u0645 \u201Csilisyom\u201D),
+    Swahilisa (silikoni), Pilipinasa (silikon)"
+...

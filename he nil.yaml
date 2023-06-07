@@ -1,0 +1,50 @@
+---
+term: he nil
+slug: he nil
+ipa: "\u02C8xe \u02C8nil"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8nil&voice=Ewa"
+status: false
+category: phrase
+word class: d
+trans:
+  eng:
+  - - no (_... at all_)
+  epo:
+  - - neniu ajn
+    - neni_ ajn
+  spa:
+  - - "ning\xFAn... en absoluto"
+search terms:
+  glb:
+  - he nil
+  - he
+  - nil
+  eng:
+  - "no"
+  epo:
+  - neniu ajn
+  - neni ajn
+  spa:
+  - "ning\xFAn... en absoluto"
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/nil ">nil </a>
+raw data:
+  term: he nil
+  category: phrase
+  word class: d
+  status: false
+  trans:
+    eng: no (_... at all_)
+    epo: neniu ajn, neni_ ajn
+    spa: "ning\xFAn... en absoluto"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'he, nil '
+...

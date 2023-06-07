@@ -1,0 +1,58 @@
+---
+term: awtiyen
+slug: awtiyen
+ipa: "awti\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=awti\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - autistic person
+  epo:
+  - - "a\u016Dtismulo"
+  spa:
+  - - autista (_persona_)
+  deu:
+  - - Autsist
+  fra:
+  - - autiste
+  rus:
+  - - "\u0430\u0443\u0442\u0438\u0441\u0442"
+search terms:
+  glb:
+  - awtiyen
+  eng:
+  - autistic person
+  epo:
+  - "a\u016Dtismulo"
+  spa:
+  - autista
+  deu:
+  - autsist
+  fra:
+  - autiste
+  rus:
+  - "\u0430\u0443\u0442\u0438\u0441\u0442"
+etymology_type: DERIVD
+etymology: <a href="../lexi/awti">awti</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: awtiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: autistic person
+    epo: "a\u016Dtismulo"
+    spa: autista (_persona_)
+    deu: Autsist
+    fra: autiste
+    rus: "\u0430\u0443\u0442\u0438\u0441\u0442"
+    zho: ""
+  search terms eng: autistic, autistic person
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: awti + -yen
+...

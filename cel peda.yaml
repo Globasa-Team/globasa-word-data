@@ -1,0 +1,56 @@
+---
+term: cel peda
+slug: cel peda
+ipa: "t\u0361\u0283el \u02C8peda"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283el \u02C8peda&voice=Ewa"
+status: false
+category: derived
+word class: p jm
+trans:
+  eng:
+  - - to the bottom
+  epo:
+  - - al la malsupro
+    - "\u011Dis la malsupro"
+    - al la fundo
+    - "\u011Dis la fundo"
+  spa:
+  - - a pies de
+    - al fondo de
+search terms:
+  glb:
+  - cel peda
+  - cel
+  - peda
+  eng:
+  - to the bottom
+  epo:
+  - al la malsupro
+  - "\u011Dis la malsupro"
+  - al la fundo
+  - "\u011Dis la fundo"
+  spa:
+  - a pies de
+  - al fondo de
+etymology_type: DERIVD
+etymology: <a href="../lexi/cel peda">cel peda</a>
+raw data:
+  term: cel peda
+  category: derived
+  word class: p jm
+  status: false
+  trans:
+    eng: to the bottom
+    epo: "al la malsupro, \u011Dis la malsupro, al la fundo, \u011Dis la fundo"
+    spa: a pies de, al fondo de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: to the bottom, bottom
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cel peda
+...

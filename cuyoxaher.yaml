@@ -1,0 +1,47 @@
+---
+term: cuyoxaher
+slug: cuyoxaher
+ipa: "t\u0361\u0283ujo\u0283a\u02C8xe\u027E"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ujo\u0283a\u02C8xe\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - capital (_city_)
+  epo:
+  - - "\u0109efurbo"
+  spa:
+  - - (ciudad) capital
+search terms:
+  glb:
+  - cuyoxaher
+  eng:
+  - capital
+  epo:
+  - "\u0109efurbo"
+  spa:
+  - ciudad capital
+  - capital
+etymology_type: DERIVD
+etymology: <a href="../lexi/cuyo">cuyo</a> + <a href="../lexi/xaher">xaher</a>
+raw data:
+  term: cuyoxaher
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: capital (_city_)
+    epo: "\u0109efurbo"
+    spa: (ciudad) capital
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cuyo + xaher
+...

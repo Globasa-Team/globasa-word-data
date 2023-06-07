@@ -1,0 +1,46 @@
+---
+term: tamilli
+slug: tamilli
+ipa: "ta\u02C8milli"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8milli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Tamil
+  epo:
+  - - tamila
+  spa:
+  - - tamil
+search terms:
+  glb:
+  - tamilli
+  eng:
+  - tamil
+  epo:
+  - tamila
+  spa:
+  - tamil
+etymology_type: DERIVD
+etymology: <a href="../lexi/Tamil">Tamil</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Tamilli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Tamil
+    epo: tamila
+    spa: tamil
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Tamil + -li
+...

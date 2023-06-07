@@ -1,0 +1,46 @@
+---
+term: sabunkaxa
+slug: sabunkaxa
+ipa: "sabun\u02C8ka\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=sabun\u02C8ka\u0283a&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - soap-dish
+  epo:
+  - - sapejo
+  spa:
+  - - jabonera
+search terms:
+  glb:
+  - sabunkaxa
+  eng:
+  - soap-dish
+  epo:
+  - sapejo
+  spa:
+  - jabonera
+etymology_type: DERIVD
+etymology: <a href="../lexi/sabun">sabun</a> + <a href="../lexi/-kaxa">-kaxa</a>
+raw data:
+  term: sabunkaxa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: soap-dish
+    epo: sapejo
+    spa: jabonera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sabun + -kaxa
+...

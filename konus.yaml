@@ -1,0 +1,48 @@
+---
+term: konus
+slug: konus
+ipa: "ko\u02C8nus"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8nus&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cone
+  epo:
+  - - konuso
+  spa:
+  - - cono
+search terms:
+  glb:
+  - konus
+  eng:
+  - cone
+  epo:
+  - konuso
+  spa:
+  - cono
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: konus
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cone
+    epo: konuso
+    spa: cono
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Konus), Rusisa (\u043A\u043E\u043D\u0443\u0441 \u201Ckonus\u201D),
+    Englisa (cone), Espanisa (cono), Fransesa (c\xF4ne), Pilipinasa (kono), Turkisa
+    (koni), Elinisa (\u03BA\u03CE\u03BD\u03BF\u03C2 \u201Ckonos\u201D)"
+...

@@ -1,0 +1,55 @@
+---
+term: motsu
+slug: motsu
+ipa: "\u02C8motsu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8motsu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - friction
+  - - rub
+  epo:
+  - - froto
+  - - froti
+  spa:
+  - - "fricci\xF3n"
+  - - frotar
+    - friccionar
+search terms:
+  glb:
+  - motsu
+  eng:
+  - friction
+  - rub
+  epo:
+  - froto
+  - froti
+  spa:
+  - "fricci\xF3n"
+  - frotar
+  - friccionar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: motsu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: friction; rub
+    epo: froto; froti
+    spa: "fricci\xF3n; frotar, friccionar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6469\u64E6 \u201Cm\xF3ts\u0101\u201D), Niponsa (\u6469\u64E6
+    \u201Cmasatsu\u201D)"
+...

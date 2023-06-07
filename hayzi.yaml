@@ -1,0 +1,62 @@
+---
+term: hayzi
+slug: hayzi
+ipa: "\u02C8xajzi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xajzi&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - menstruation
+    - period
+  - - menstruate
+  epo:
+  - - menstruo
+    - "monata\u0135o"
+  - - menstrui
+  spa:
+  - - "menstruaci\xF3n"
+    - periodo
+  - - menstruar
+search terms:
+  glb:
+  - hayzi
+  eng:
+  - menstruation
+  - period
+  - menstruate
+  epo:
+  - menstruo
+  - "monata\u0135o"
+  - menstrui
+  spa:
+  - "menstruaci\xF3n"
+  - periodo
+  - menstruar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: hayzi
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: menstruation, period; menstruate
+    epo: "menstruo, monata\u0135o; menstrui"
+    spa: "menstruaci\xF3n, periodo; menstruar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Hindisa (\u0939\u0948\u091C \"hej\"), Arabisa (\u062D\u064E\u064A\u0652\u0636
+    \"hay\u1E0D\"), Turkisa (hay\u0131z), Parsisa (\u062D\u06CC\u0636 \"heyz\"), Swahilisa
+    (hedhi)"
+...

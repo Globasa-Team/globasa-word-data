@@ -1,0 +1,53 @@
+---
+term: yoxin
+slug: yoxin
+ipa: "jo\u02C8\u0283in"
+ipa link: "http://ipa-reader.xyz/?text=jo\u02C8\u0283in&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - conscience
+  epo:
+  - - konscio
+  spa:
+  - - conciencia
+search terms:
+  glb:
+  - yoxin
+  eng:
+  - conscience
+  epo:
+  - konscio
+  spa:
+  - conciencia
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u826F\u5FC3 \u201Cli\xE1ngx\u012Bn\u201D"
+  Hangusa:
+  - - "\uC591\uC2EC \u201Cyangsim\u201D"
+  Niponsa:
+  - - "\u826F\u5FC3 \u201Cry\u014Dshin\u201D"
+raw data:
+  term: yoxin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: conscience
+    epo: konscio
+    spa: conciencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u826F\u5FC3 \u201Cli\xE1ngx\u012Bn\u201D), Hangusa (\uC591\uC2EC
+    \u201Cyangsim\u201D), Niponsa (\u826F\u5FC3 \u201Cry\u014Dshin\u201D)"
+...

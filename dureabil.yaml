@@ -1,0 +1,50 @@
+---
+term: dureabil
+slug: dureabil
+ipa: "du\u027Eea\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=du\u027Eea\u02C8bil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - durable
+  epo:
+  - - "da\u016Dripova"
+    - "da\u016Drikapabla"
+  - - "da\u016Dripove"
+  spa:
+  - - duradero
+search terms:
+  glb:
+  - dureabil
+  eng:
+  - durable
+  epo:
+  - "da\u016Dripova"
+  - "da\u016Drikapabla"
+  - "da\u016Dripove"
+  spa:
+  - duradero
+etymology_type: DERIVD
+etymology: <a href="../lexi/dure">dure</a> + <a href="../lexi/-abil">-abil</a>
+raw data:
+  term: dureabil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: durable
+    epo: "da\u016Dripova, da\u016Drikapabla; da\u016Dripove"
+    spa: duradero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dure + -abil
+...

@@ -1,0 +1,50 @@
+---
+term: temki
+slug: temki
+ipa: "\u02C8temki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8temki&voice=Ewa"
+status: true
+category: derived
+word class: l
+trans:
+  eng:
+  - - that
+    - about which
+  epo:
+  - - pri tio
+    - ke
+  spa:
+  - - sobre que
+search terms:
+  glb:
+  - temki
+  eng:
+  - that
+  - about which
+  epo:
+  - pri tio
+  - ke
+  spa:
+  - sobre que
+etymology_type: DERIVD
+etymology: <a href="../lexi/tem-">tem-</a> + <a href="../lexi/ki">ki</a>
+raw data:
+  term: temki
+  category: derived
+  word class: l
+  status: true
+  trans:
+    eng: that, about which
+    epo: pri tio, ke
+    spa: sobre que
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tem- + ki
+...

@@ -1,0 +1,66 @@
+---
+term: jeruhi
+slug: jeruhi
+ipa: "d\u0361\u0292e\u02C8\u027Euxi"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292e\u02C8\u027Euxi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - surgery
+    - operation
+  - - operate (on)
+  epo:
+  - - "\u0125irurgio"
+    - kirurgio
+    - operacio
+  - - operacii
+  spa:
+  - - "cirug\xEDa"
+    - "operaci\xF3n"
+  - - operar
+search terms:
+  glb:
+  - jeruhi
+  eng:
+  - surgery
+  - operation
+  - operate on
+  - operate
+  epo:
+  - "\u0125irurgio"
+  - kirurgio
+  - operacio
+  - operacii
+  spa:
+  - "cirug\xEDa"
+  - "operaci\xF3n"
+  - operar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: jeruhi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: surgery, operation; operate (on)
+    epo: "\u0125irurgio, kirurgio, operacio; operacii"
+    spa: "cirug\xEDa, operaci\xF3n; operar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Arabisa (\u062C\u0631\u0627\u062D\u0629 \u201Cjiraha\u201D), Parsisa
+    (\u062C\u0631\u0627\u062D\u06CC \u201Cjarahi\u201D), Turkisa (cerrahi), Doycisa
+    (Chirurgie), Espanisa (cirug\xEDa), Fransesa (chirurgie), Rusisa (\u0445\u0438\u0440\u0443\u0440\u0433\u0438\u044F
+    \u201Ckhirurgiya\u201D)"
+...

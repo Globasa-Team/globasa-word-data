@@ -1,0 +1,50 @@
+---
+term: nenkompleto
+slug: nenkompleto
+ipa: "nenkom\u02C8pleto"
+ipa link: "http://ipa-reader.xyz/?text=nenkom\u02C8pleto&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - incomplete
+  - - incompletely
+  epo:
+  - - nekompleta
+  - - nekomplete
+  spa:
+  - - incompleto
+search terms:
+  glb:
+  - nenkompleto
+  eng:
+  - incomplete
+  - incompletely
+  epo:
+  - nekompleta
+  - nekomplete
+  spa:
+  - incompleto
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/kompleto">kompleto</a>
+raw data:
+  term: nenkompleto
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: incomplete; incompletely
+    epo: nekompleta; nekomplete
+    spa: incompleto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + kompleto
+...

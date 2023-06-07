@@ -1,0 +1,47 @@
+---
+term: irisplanta
+slug: irisplanta
+ipa: "i\u027Eis\u02C8planta"
+ipa link: "http://ipa-reader.xyz/?text=i\u027Eis\u02C8planta&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - iris (plant)
+  epo:
+  - - irido
+  spa:
+  - - iris (_planta_)
+search terms:
+  glb:
+  - irisplanta
+  eng:
+  - iris plant
+  - iris
+  epo:
+  - irido
+  spa:
+  - iris
+etymology_type: DERIVD
+etymology: <a href="../lexi/Iris">Iris</a> + <a href="../lexi/planta">planta</a>
+raw data:
+  term: irisplanta
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: iris (plant)
+    epo: irido
+    spa: iris (_planta_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Iris + planta
+...

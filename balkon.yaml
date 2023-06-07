@@ -1,0 +1,82 @@
+---
+term: balkon
+slug: balkon
+ipa: balˈkon
+ipa link: http://ipa-reader.xyz/?text=balˈkon&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - balcony
+  epo:
+  - - balkono
+  spa:
+  - - balcón
+    - terraza
+search terms:
+  glb:
+  - balkon
+  eng:
+  - balcony
+  epo:
+  - balkono
+  spa:
+  - balcón
+  - terraza
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Balkon
+  Englisa:
+  - - balcony
+  Espanisa:
+  - - balcón
+  Fransesa:
+  - - balcon
+  Rusisa:
+  - - балкон “balkon”
+  Arabisa:
+  - - بلكون “balkun”
+  Parsisa:
+  - - بالکن “balken”
+  Indonesisa:
+  - - balkon
+  Pilipinasa:
+  - - balkon
+  Turkisa:
+  - - balkon
+  Hindisa:
+  - - बालकनी “balkani”
+  Telugusa:
+  - - బాల్కనీ “balkani”
+  Niponsa:
+  - - バルコニー “barukoni”
+  Hangusa:
+  - - 발코니 “balkoni”
+  Vyetnamsa:
+  - - ban công
+raw data:
+  term: balkon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: balcony
+    epo: balkono
+    spa: balcón, terraza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Balkon), Englisa (balcony), Espanisa (balcón), Fransesa (balcon),
+    Rusisa (балкон “balkon”), Arabisa (بلكون “balkun”), Parsisa ( بالکن “balken”),
+    Indonesisa (balkon), Pilipinasa (balkon), Turkisa (balkon), Hindisa (बालकनी “balkani”),
+    Telugusa (బాల్కనీ “balkani”), Niponsa ( バルコニー “barukoni”), Hangusa (발코니 “balkoni”),
+    Vyetnamsa (ban công)
+...

@@ -1,0 +1,48 @@
+---
+term: excu
+slug: excu
+ipa: "\u02C8e\u0283t\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8e\u0283t\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - get out
+  epo:
+  - - "eli\u011Do"
+  - - "eli\u011Di"
+  spa:
+  - - salir
+search terms:
+  glb:
+  - excu
+  eng:
+  - get out
+  epo:
+  - "eli\u011Do"
+  - "eli\u011Di"
+  spa:
+  - salir
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex">ex</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: excu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: get out
+    epo: "eli\u011Do; eli\u011Di"
+    spa: salir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex + -cu
+...

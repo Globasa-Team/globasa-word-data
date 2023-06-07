@@ -1,0 +1,50 @@
+---
+term: kazakisa
+slug: kazakisa
+ipa: "kaza\u02C8kisa"
+ipa link: "http://ipa-reader.xyz/?text=kaza\u02C8kisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Kazakh (language)
+  epo:
+  - - "la kaza\u0125a (lingvo)"
+  spa:
+  - - kazajo (_idioma_)
+search terms:
+  glb:
+  - kazakisa
+  eng:
+  - kazakh language
+  - kazakh
+  epo:
+  - "la kaza\u0125a lingvo"
+  - "la kaza\u0125a"
+  spa:
+  - kazajo
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kazaki">Kazaki</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Kazakisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Kazakh (language)
+    epo: "la kaza\u0125a (lingvo)"
+    spa: kazajo (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Kazaki + -sa
+...

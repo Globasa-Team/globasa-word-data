@@ -1,0 +1,80 @@
+---
+term: blusa
+slug: blusa
+ipa: ˈblusa
+ipa link: http://ipa-reader.xyz/?text=ˈblusa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - blouse
+  epo:
+  - - bluzo
+  spa:
+  - - blusa
+search terms:
+  glb:
+  - blusa
+  eng:
+  - blouse
+  epo:
+  - bluzo
+  spa:
+  - blusa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - blouse
+  Fransesa:
+  - - blouse
+  Doycisa:
+  - - Bluse
+  Rusisa:
+  - - блуза “bluza”
+  Espanisa:
+  - - blusa
+  Arabisa:
+  - - بلوزة “baluza”
+  Hindisa:
+  - - ब्लाउज “blauj”
+  Indonesisa:
+  - - blus
+  Niponsa:
+  - - ブラウス “burausu"
+    - ブルーズ “buruzu”
+  Hangusa:
+  - - 블라우스 “bullausu”
+  Turkisa:
+  - - bluz
+  Parsisa:
+  - - بلوز “bluz”
+  Pilipinasa:
+  - - blusa
+  Gujaratisa:
+  - - બ્લાઉઝ “blawja”
+tags:
+- labas
+raw data:
+  term: blusa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: blouse
+    epo: bluzo
+    spa: blusa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: Englisa (blouse), Fransesa (blouse), Doycisa (Bluse), Rusisa (блуза “bluza”),
+    Espanisa (blusa), Arabisa (بلوزة “baluza”), Hindisa (ब्लाउज “blauj”), Indonesisa
+    (blus), Niponsa (ブラウス “burausu", ブルーズ “buruzu”), Hangusa (블라우스 “bullausu”), Turkisa
+    (bluz), Parsisa (بلوز “bluz”), Pilipinasa (blusa), Gujaratisa (બ્લાઉઝ “blawja”)
+...

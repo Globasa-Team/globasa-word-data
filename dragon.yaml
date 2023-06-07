@@ -1,0 +1,70 @@
+---
+term: dragon
+slug: dragon
+ipa: dɾaˈgon
+ipa link: http://ipa-reader.xyz/?text=dɾaˈgon&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dragon
+  epo:
+  - - drako
+  spa:
+  - - dragón
+search terms:
+  glb:
+  - dragon
+  eng:
+  - dragon
+  epo:
+  - drako
+  spa:
+  - dragón
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - dragon
+  Fransesa:
+  - - dragon
+  Doycisa:
+  - - Drache
+  Rusisa:
+  - - драко́н “drakón”
+  Espanisa:
+  - - dragón
+  Pilipinasa:
+  - - dragon
+  Niponsa:
+  - - ドラゴン “doragon”
+  Hindisa:
+  - - ड्रैगन “draigan”
+  Telugusa:
+  - - డ్రాగన్ “ḍrāgan”
+  Swahilisa:
+  - - dragoni
+tags:
+- hewan
+raw data:
+  term: dragon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dragon
+    epo: drako
+    spa: dragón
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (dragon), Fransesa (dragon), Doycisa (Drache), Rusisa (драко́н
+    “drakón”), Espanisa (dragón), Pilipinasa (dragon), Niponsa (ドラゴン “doragon”), Hindisa
+    (ड्रैगन “draigan”), Telugusa (డ్రాగన్ “ḍrāgan”), Swahilisa (dragoni)
+...

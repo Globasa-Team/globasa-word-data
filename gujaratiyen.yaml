@@ -1,0 +1,47 @@
+---
+term: gujaratiyen
+slug: gujaratiyen
+ipa: "gud\u0361\u0292a\u027Eati\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=gud\u0361\u0292a\u027Eati\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Gujarati (person)
+  epo:
+  - - "gu\u011Darato"
+  spa:
+  - - "guyarat\xED (_persona_)"
+search terms:
+  glb:
+  - gujaratiyen
+  eng:
+  - gujarati person
+  - gujarati
+  epo:
+  - "gu\u011Darato"
+  spa:
+  - "guyarat\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Gujarati">Gujarati</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Gujaratiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Gujarati (person)
+    epo: "gu\u011Darato"
+    spa: "guyarat\xED (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Gujarati + -yen
+...

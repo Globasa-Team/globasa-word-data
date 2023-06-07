@@ -1,0 +1,48 @@
+---
+term: jiwapul
+slug: jiwapul
+ipa: "d\u0361\u0292iwa\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292iwa\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - live
+  epo:
+  - - viva
+  - - vive
+  spa:
+  - - vivo
+search terms:
+  glb:
+  - jiwapul
+  eng:
+  - live
+  epo:
+  - viva
+  - vive
+  spa:
+  - vivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/jiwa">jiwa</a> + <a href="../lexi/-ful">-ful</a>
+raw data:
+  term: jiwapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: live
+    epo: viva; vive
+    spa: vivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jiwa + -ful
+...

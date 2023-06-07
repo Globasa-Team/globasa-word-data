@@ -1,0 +1,70 @@
+---
+term: gamel
+slug: gamel
+ipa: gaˈmel
+ipa link: http://ipa-reader.xyz/?text=gaˈmel&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - camel
+  epo:
+  - - kamelo
+    - dromedaro
+  spa:
+  - - camello
+    - _Camellus_
+search terms:
+  glb:
+  - gamel
+  eng:
+  - camel
+  epo:
+  - kamelo
+  - dromedaro
+  spa:
+  - camello
+  - camellus
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - camel
+  Espanisa:
+  - - camello
+  Fransesa:
+  - - chameau
+  Doycisa:
+  - - Kamel
+  Pilipinasa:
+  - - kamelyo
+  Arabisa:
+  - - جَمَل “jamal”
+  Swahilisa:
+  - - ngamia
+  Ivrisa:
+  - - גמל‎ “gamal”
+tags:
+- hewan
+raw data:
+  term: gamel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: camel
+    epo: kamelo, dromedaro
+    spa: camello, _Camellus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (camel), Espanisa (camello), Fransesa (chameau), Doycisa (Kamel),
+    Pilipinasa (kamelyo), Arabisa (جَمَل “jamal”), Swahilisa (ngamia), Ivrisa (גמל‎
+    “gamal”)
+...

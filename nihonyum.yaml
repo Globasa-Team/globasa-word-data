@@ -1,0 +1,91 @@
+---
+term: nihonyum
+slug: nihonyum
+ipa: "nixo\u02C8njum"
+ipa link: "http://ipa-reader.xyz/?text=nixo\u02C8njum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nihonium
+  epo:
+  - - nihonio
+  spa:
+  - - nihonio
+    - Nh
+search terms:
+  glb:
+  - nihonyum
+  eng:
+  - nihonium
+  epo:
+  - nihonio
+  spa:
+  - nihonio
+  - nh
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nihonium
+  Putunhwa:
+  - - "\u9268 \u201Cni'"
+  Hindisa:
+  - - "\u0928\u093F\u0939\u094B\u0928\u093F\u092F\u092E \u201Cnihoniyam\u201D"
+  Espanisa:
+  - - nihonio
+  Arabisa:
+  - - "\u0646\u064A\u0647\u0648\u0646\u064A\u0648\u0645 \u201Cnihunyum\u201D"
+  Fransesa:
+  - - nihonium
+  Rusisa:
+  - - "\u043D\u0438\u0445\u043E\u043D\u0438\u0439 \u201Cnihoniy\u201D"
+  Indonesisa:
+  - - nihonium
+  Doycisa:
+  - - Nihonium
+  Niponsa:
+  - - "\u30CB\u30DB\u30CB\u30A6\u30E0 \u201Cnihoniumu\u201D"
+  Telugusa:
+  - - "\u0C28\u0C3F\u0C39\u0C4B\u0C28\u0C3F\u0C2F\u0C02 \u201Cnihoniyam\u201D"
+  Turkisa:
+  - - nihoniyum
+  Hangusa:
+  - - "\uB2C8\uD638\uB284 \u201Cnihonyum\u201D"
+  Vyetnamsa:
+  - - nihoni
+  Parsisa:
+  - - "\u0646\u06CC\u0647\u0648\u0646\u06CC\u0645 \u201Cnihoniyom\u201D"
+  Swahilisa:
+  - - nihoni
+  Pilipinasa:
+  - - nihonyo
+tags:
+- kimikali monlari
+raw data:
+  term: nihonyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nihonium
+    epo: nihonio
+    spa: nihonio, Nh
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (nihonium), Putunhwa (\u9268 \u201Cni'), Hindisa (\u0928\u093F\u0939\u094B\u0928\u093F\u092F\u092E
+    \u201Cnihoniyam\u201D), Espanisa (nihonio), Arabisa (\u0646\u064A\u0647\u0648\u0646\u064A\u0648\u0645
+    \u201Cnihunyum\u201D), Fransesa (nihonium), Rusisa (\u043D\u0438\u0445\u043E\u043D\u0438\u0439
+    \u201Cnihoniy\u201D), Indonesisa (nihonium), Doycisa (Nihonium), Niponsa (\u30CB\u30DB\u30CB\u30A6\u30E0
+    \u201Cnihoniumu\u201D), Telugusa (\u0C28\u0C3F\u0C39\u0C4B\u0C28\u0C3F\u0C2F\u0C02
+    \u201Cnihoniyam\u201D), Turkisa (nihoniyum), Hangusa (\uB2C8\uD638\uB284 \u201Cnihonyum\u201D),
+    Vyetnamsa (nihoni), Parsisa (\u0646\u06CC\u0647\u0648\u0646\u06CC\u0645 \u201Cnihoniyom\u201D),
+    Swahilisa (nihoni), Pilipinasa (nihonyo)"
+...

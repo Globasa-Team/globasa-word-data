@@ -1,0 +1,88 @@
+---
+term: tungesten
+slug: tungesten
+ipa: "tunges\u02C8ten"
+ipa link: "http://ipa-reader.xyz/?text=tunges\u02C8ten&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tungsten
+  epo:
+  - - volframo
+    - tungsteno
+  spa:
+  - - wolframio
+    - volframio
+    - tungsteno
+    - W
+search terms:
+  glb:
+  - tungesten
+  eng:
+  - tungsten
+  epo:
+  - volframo
+  - tungsteno
+  spa:
+  - wolframio
+  - volframio
+  - tungsteno
+  - w
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tungsten
+  Hindisa:
+  - - "\u091F\u0902\u0917\u0938\u094D\u091F\u0928 \u201Ctangastan\u201D"
+  Espanisa:
+  - - tungsteno
+  Arabisa:
+  - - "\u062A\u064F\u0646\u0652\u062C\u064E\u0633\u0652\u062A\u0650\u064A\u0646 \u201Ctongasten\u201D"
+    - "\u062A\u064F\u0646\u0652\u062C\u064E\u0633\u0652\u062A\u0650\u064A\u0646 \u201Ctunjastin\u201D"
+  Fransesa:
+  - - "tungst\xE8ne"
+  Niponsa:
+  - - "\u30BF\u30F3\u30B0\u30B9\u30C6\u30F3 \u201Ctangusuten\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C02\u0C17\u0C4D\u200C\u0C38\u0C4D\u0C1F\u0C28\u0C4D \u201Ctangstan\u201D"
+  Turkisa:
+  - - tungsten
+  Hangusa:
+  - - "\uD145\uC2A4\uD150 \u201Ctangsuten\u201D"
+  Parsisa:
+  - - "\u062A\u0646\u06AF\u0633\u062A\u0646 \u201Ctongesten\u201D"
+  Swahilisa:
+  - - wolframi
+  Pilipinasa:
+  - - tungsten
+tags:
+- kimikali monlari
+raw data:
+  term: tungesten
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tungsten
+    epo: volframo, tungsteno
+    spa: wolframio, volframio, tungsteno, W
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (tungsten), Hindisa (\u091F\u0902\u0917\u0938\u094D\u091F\u0928
+    \u201Ctangastan\u201D), Espanisa (tungsteno), Arabisa (\u062A\u064F\u0646\u0652\u062C\u064E\u0633\u0652\u062A\u0650\u064A\u0646
+    \u201Ctongasten\u201D, \u062A\u064F\u0646\u0652\u062C\u064E\u0633\u0652\u062A\u0650\u064A\u0646
+    \u201Ctunjastin\u201D), Fransesa (tungst\xE8ne), Niponsa (\u30BF\u30F3\u30B0\u30B9\u30C6\u30F3
+    \u201Ctangusuten\u201D), Telugusa (\u0C1F\u0C02\u0C17\u0C4D\u200C\u0C38\u0C4D\u0C1F\u0C28\u0C4D
+    \u201Ctangstan\u201D), Turkisa (tungsten), Hangusa (\uD145\uC2A4\uD150 \u201Ctangsuten\u201D),
+    Parsisa (\u062A\u0646\u06AF\u0633\u062A\u0646 \u201Ctongesten\u201D), Swahilisa
+    (wolframi), Pilipinasa (tungsten)"
+...

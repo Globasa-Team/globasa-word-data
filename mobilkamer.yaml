@@ -1,0 +1,48 @@
+---
+term: mobilkamer
+slug: mobilkamer
+ipa: "mobilka\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=mobilka\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - garage
+  epo:
+  - - "a\u016Dtejo"
+    - "gara\u011Do"
+  spa:
+  - - garaje
+search terms:
+  glb:
+  - mobilkamer
+  eng:
+  - garage
+  epo:
+  - "a\u016Dtejo"
+  - "gara\u011Do"
+  spa:
+  - garaje
+etymology_type: DERIVD
+etymology: <a href="../lexi/mobil">mobil</a> + <a href="../lexi/-kamer">-kamer</a>
+raw data:
+  term: mobilkamer
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: garage
+    epo: "a\u016Dtejo, gara\u011Do"
+    spa: garaje
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mobil + -kamer
+...

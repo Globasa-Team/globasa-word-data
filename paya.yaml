@@ -1,0 +1,63 @@
+---
+term: paya
+slug: paya
+ipa: "\u02C8paja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8paja&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - payment
+  - - pay
+  epo:
+  - - pago
+  - - pagi
+  spa:
+  - - pago
+  - - pagar
+search terms:
+  glb:
+  - paya
+  eng:
+  - payment
+  - pay
+  epo:
+  - pago
+  - pagi
+  spa:
+  - pago
+  - pagar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pay
+  Fransesa:
+  - - paye
+  Espanisa:
+  - - paga
+  Indonesisa:
+  - - bayar
+  Pilipinasa:
+  - - bayad
+raw data:
+  term: paya
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: payment; pay
+    epo: pago; pagi
+    spa: pago; pagar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (pay), Fransesa (paye), Espanisa (paga), Indonesisa (bayar),
+    Pilipinasa (bayad)
+...

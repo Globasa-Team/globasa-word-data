@@ -1,0 +1,48 @@
+---
+term: lilyao
+slug: lilyao
+ipa: "li\u02C8ljao"
+ipa link: "http://ipa-reader.xyz/?text=li\u02C8ljao&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - nibble
+  epo:
+  - - mordeto
+  - - mordeti
+  spa:
+  - - mordisquear
+search terms:
+  glb:
+  - lilyao
+  eng:
+  - nibble
+  epo:
+  - mordeto
+  - mordeti
+  spa:
+  - mordisquear
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/yao">yao</a>
+raw data:
+  term: lilyao
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: nibble
+    epo: mordeto; mordeti
+    spa: mordisquear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + yao
+...

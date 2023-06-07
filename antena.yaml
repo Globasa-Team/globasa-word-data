@@ -1,0 +1,85 @@
+---
+term: antena
+slug: antena
+ipa: anˈtena
+ipa link: http://ipa-reader.xyz/?text=anˈtena&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - antenna (_device_)
+    - aerial
+  epo:
+  - - anteno (aparato)
+  spa:
+  - - antena (dispositivo)
+search terms:
+  glb:
+  - antena
+  eng:
+  - antenna
+  - aerial
+  epo:
+  - anteno aparato
+  - anteno
+  spa:
+  - antena dispositivo
+  - antena
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - antenna
+  Espanisa:
+  - - antena
+  Fransesa:
+  - - antenne
+  Rusisa:
+  - - антенна “antenna”
+  Doycisa:
+  - - Antenne
+  Indonesisa:
+  - - antena
+  Pilipinasa:
+  - - antena
+  Hindisa:
+  - - एन्टेना “entena"
+    - ऐंटिना “entina”
+  Niponsa:
+  - - アンテナ “antena”
+  Keralasa:
+  - - ആന്റിന “antina”
+  Turkisa:
+  - - anten
+  Vyetnamsa:
+  - - ăngten
+  Hangusa:
+  - - 안테나 “antena”
+  Parsisa:
+  - - آنتن “anten”
+  Swahilisa:
+  - - antena
+raw data:
+  term: antena
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: antenna (_device_), aerial
+    epo: anteno (aparato)
+    spa: antena (dispositivo)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (antenna), Espanisa (antena), Fransesa (antenne), Rusisa (антенна
+    “antenna”), Doycisa (Antenne), Indonesisa (antena), Pilipinasa (antena), Hindisa
+    (एन्टेना “entena", ऐंटिना “entina”), Niponsa (アンテナ “antena”), Keralasa (ആന്റിന
+    “antina”), Turkisa (anten), Vyetnamsa (ăngten), Hangusa (안테나 “antena”), Parsisa
+    (آنتن “anten”), Swahilisa (antena)
+...

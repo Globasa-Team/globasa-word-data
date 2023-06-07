@@ -1,0 +1,54 @@
+---
+term: kawri
+slug: kawri
+ipa: "\u02C8kaw\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kaw\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cowrie
+    - cowry (Cypraeidae)
+  epo:
+  - - cipreedo
+  spa:
+  - - cauri
+    - _Cypraeidae_
+search terms:
+  glb:
+  - kawri
+  eng:
+  - cowrie
+  - cowry cypraeidae
+  - cowry
+  epo:
+  - cipreedo
+  spa:
+  - cauri
+  - cypraeidae
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kawri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cowrie, cowry (Cypraeidae)
+    epo: cipreedo
+    spa: cauri, _Cypraeidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cowrie, cowry, kauri), Espanisa (cauri), Fransesa (cauri \u201Ckori\u201D),
+    Rusisa (\u043A\u0430\u0443\u0440\u0438 \u201Ckauri\u201D), Doycisa (Kauri), Malaysisa
+    (kowri), Hindisa (\u0915\u094C\u0921\u093C\u0940 \u201Ckauri\u201D), Karnatakasa
+    (\u0C95\u0CB5\u0CA1\u0CC6 \u201Ckavade\u201D), Swahilisa (kauri)"
+...

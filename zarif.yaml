@@ -1,0 +1,67 @@
+---
+term: zarif
+slug: zarif
+ipa: "za\u02C8\u027Eif"
+ipa link: "http://ipa-reader.xyz/?text=za\u02C8\u027Eif&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - elegant
+    - chic
+    - stylish
+    - fancy
+  epo:
+  - - eleganta
+    - "\u015Dika"
+    - "la\u016Dmoda"
+  spa:
+  - - elegante
+    - _chic_
+    - de moda
+search terms:
+  glb:
+  - zarif
+  eng:
+  - elegant
+  - chic
+  - stylish
+  - fancy
+  epo:
+  - eleganta
+  - "\u015Dika"
+  - "la\u016Dmoda"
+  spa:
+  - elegante
+  - chic
+  - de moda
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0638\u064E\u0631\u0650\u064A\u0641 \u201Czarif\u201D"
+  Turkisa:
+  - - zarif
+  Parsisa:
+  - - "\u0638\u0631\u06CC\u0641 \u201Czarif\u201D"
+raw data:
+  term: zarif
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: elegant, chic, stylish, fancy
+    epo: "eleganta, \u015Dika, la\u016Dmoda"
+    spa: elegante, _chic_, de moda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0638\u064E\u0631\u0650\u064A\u0641 \u201Czarif\u201D), Turkisa
+    (zarif), Parsisa (\u0638\u0631\u06CC\u0641 \u201Czarif\u201D)"
+...

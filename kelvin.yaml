@@ -1,0 +1,71 @@
+---
+term: kelvin
+slug: kelvin
+ipa: "kel\u02C8vin"
+ipa link: "http://ipa-reader.xyz/?text=kel\u02C8vin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - kelvin
+  epo:
+  - - kelvino
+  spa:
+  - - kelvin
+    - K
+  deu:
+  - - Kelvin
+  fra:
+  - - kelvin
+  rus:
+  - - "\u043A\u0435\u043B\u044C\u0432\u0438\u043D"
+  zho:
+  - - "\u5F00\u5C14\u6587"
+search terms:
+  glb:
+  - kelvin
+  eng:
+  - kelvin
+  epo:
+  - kelvino
+  spa:
+  - kelvin
+  - k
+  deu:
+  - kelvin
+  fra:
+  - kelvin
+  rus:
+  - "\u043A\u0435\u043B\u044C\u0432\u0438\u043D"
+  zho:
+  - "\u5F00\u5C14\u6587"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kelvin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: kelvin
+    epo: kelvino
+    spa: kelvin, K
+    deu: Kelvin
+    fra: kelvin
+    rus: "\u043A\u0435\u043B\u044C\u0432\u0438\u043D"
+    zho: "\u5F00\u5C14\u6587"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (kelvin), Espanisa (kelvin), Fransesa (kelvin), Rusisa (\u043A\u0435\u043B\u044C\u0432\u0438\u043D
+    \u201Ckelvin\u201D), Doycisa (Kelvin), Indonesisa (kelvin), Pilipinasa (kelbin),
+    Putunhwa (\u5F00\u5C14\u6587 \u201Ckayerwen\u201D), Hindisa (\u0915\u0948\u0932\u094D\u0935\u093F\u0928
+    \u201Ckelvin\u201D), Arabisa (\u0643\u0650\u0644\u0652\u0641\u0650\u0646 \u201Ckilfin\u201D),
+    Niponsa (\u30B1\u30EB\u30D3\u30F3 \u201Ckerubin\u201D), Telugusa (\u0C15\u0C46\u0C32\u0C4D\u0C35\u0C3F\u0C28\u0C4D
+    \u201Ckelvin\u201D), Turkisa (kelvin), Hangusa (\uCF08\uBE48 \u201Ckelbin\u201D),
+    Vyetnamsa (kenvin), Parsisa (\u06A9\u0644\u0648\u06CC\u0646 \u201Ckelvin\u201D),
+    Swahilisa (kelvini)"
+...

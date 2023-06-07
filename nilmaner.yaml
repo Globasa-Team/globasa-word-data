@@ -1,0 +1,48 @@
+---
+term: nilmaner
+slug: nilmaner
+ipa: "nilma\u02C8ne\u027E"
+ipa link: "http://ipa-reader.xyz/?text=nilma\u02C8ne\u027E&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - by no manner
+    - in no manner
+  epo:
+  - - neniel
+  spa:
+  - - de ninguna manera
+search terms:
+  glb:
+  - nilmaner
+  eng:
+  - by no manner
+  - in no manner
+  epo:
+  - neniel
+  spa:
+  - de ninguna manera
+etymology_type: DERIVD
+etymology: <a href="../lexi/nil">nil</a> + <a href="../lexi/maner">maner</a>
+raw data:
+  term: nilmaner
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: by no manner, in no manner
+    epo: neniel
+    spa: de ninguna manera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nil + maner
+...

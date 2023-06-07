@@ -1,0 +1,48 @@
+---
+term: dur
+slug: dur
+ipa: duɾ
+ipa link: http://ipa-reader.xyz/?text=duɾ&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - during
+    - for
+  epo:
+  - - dum
+  spa:
+  - - durante
+search terms:
+  glb:
+  - dur
+  eng:
+  - during
+  - for
+  epo:
+  - dum
+  spa:
+  - durante
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/dure">dure</a>.
+raw data:
+  term: dur
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: during, for
+    epo: dum
+    spa: durante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _dure_.
+...

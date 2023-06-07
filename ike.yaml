@@ -1,0 +1,46 @@
+---
+term: ike
+slug: ike
+ipa: "\u02C8ike"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ike&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter k
+  epo:
+  - - litero k
+  spa:
+  - - letra k
+search terms:
+  glb:
+  - ike
+  eng:
+  - letter k
+  epo:
+  - litero k
+  spa:
+  - letra k
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ike
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter k
+    epo: litero k
+    spa: letra k
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

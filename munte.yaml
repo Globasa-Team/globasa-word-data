@@ -1,0 +1,48 @@
+---
+term: munte
+slug: munte
+ipa: "\u02C8munte"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8munte&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mouth
+  epo:
+  - - "bu\u015Do"
+  spa:
+  - - boca
+search terms:
+  glb:
+  - munte
+  eng:
+  - mouth
+  epo:
+  - "bu\u015Do"
+  spa:
+  - boca
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: munte
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mouth
+    epo: "bu\u015Do"
+    spa: boca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (mouth), Doycisa (Mund), Hindisa (\u092E\u0941\u0902\u0939 \u201Cmunh\u201D)"
+...

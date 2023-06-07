@@ -1,0 +1,52 @@
+---
+term: lokagi
+slug: lokagi
+ipa: "lo\u02C8kagi"
+ipa link: "http://ipa-reader.xyz/?text=lo\u02C8kagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - situate
+  epo:
+  - - lokigo
+  - - loki
+    - lokigi
+    - situigi
+  spa:
+  - - situar
+search terms:
+  glb:
+  - lokagi
+  eng:
+  - situate
+  epo:
+  - lokigo
+  - loki
+  - lokigi
+  - situigi
+  spa:
+  - situar
+etymology_type: DERIVD
+etymology: <a href="../lexi/loka">loka</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: lokagi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: situate
+    epo: lokigo; loki, lokigi, situigi
+    spa: situar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: loka + -gi
+...

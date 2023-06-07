@@ -1,0 +1,51 @@
+---
+term: kof
+slug: kof
+ipa: "\u02C8kof"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kof&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - cough
+  epo:
+  - - tuso
+  - - tusi
+  spa:
+  - - tos
+  - - toser
+search terms:
+  glb:
+  - kof
+  eng:
+  - cough
+  epo:
+  - tuso
+  - tusi
+  spa:
+  - tos
+  - toser
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kof
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: cough
+    epo: tuso; tusi
+    spa: tos; toser
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cough), Magyarsa (k\xF6h\xF6g), Estisas (k\xF6ha), Swomisa
+    (k\xF6hi\xE4), Swahilisa (-kohoa)"
+...

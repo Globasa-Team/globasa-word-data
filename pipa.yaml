@@ -1,0 +1,73 @@
+---
+term: pipa
+slug: pipa
+ipa: "\u02C8pipa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pipa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (smoking) pipe
+    - tobacco pipe
+  epo:
+  - - pipo
+  spa:
+  - - pipa (para fumar)
+search terms:
+  glb:
+  - pipa
+  eng:
+  - smoking pipe
+  - pipe
+  - tobacco pipe
+  epo:
+  - pipo
+  spa:
+  - pipa para fumar
+  - pipa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pipe
+  Espanisa:
+  - - pipa
+  Fransesa:
+  - - pipe
+  Doycisa:
+  - - Pfeife
+  Indonesisa:
+  - - pipa
+  Hindisa:
+  - - "\u092A\u093E\u0907\u092A \"payp\""
+  Arabisa:
+  - - "\u0628\u0650\u064A\u0628\u064E\u0629 \"biba\""
+  Niponsa:
+  - - "\u30D1\u30A4\u30D7 \"paypu\""
+  Turkisa:
+  - - pipo
+  Parsisa:
+  - - "\u067E\u06CC\u067E \"pip\""
+raw data:
+  term: pipa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (smoking) pipe, tobacco pipe
+    epo: pipo
+    spa: pipa (para fumar)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (pipe), Espanisa (pipa), Fransesa (pipe), Doycisa (Pfeife),
+    Indonesisa (pipa), Hindisa (\u092A\u093E\u0907\u092A \"payp\"), Arabisa (\u0628\u0650\u064A\u0628\u064E\u0629
+    \"biba\"), Niponsa (\u30D1\u30A4\u30D7 \"paypu\"), Turkisa (pipo), Parsisa (\u067E\u06CC\u067E
+    \"pip\")"
+...

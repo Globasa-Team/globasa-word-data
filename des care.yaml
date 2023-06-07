@@ -1,0 +1,48 @@
+---
+term: des care
+slug: des care
+ipa: "\u02C8des \u02C8t\u0361\u0283a\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8des \u02C8t\u0361\u0283a\u027Ee&voice=Ewa"
+status: false
+category: phrase
+word class: num
+trans:
+  eng:
+  - - fourteen
+  epo:
+  - - dek kvar
+  spa:
+  - - catorce
+search terms:
+  glb:
+  - des care
+  - des
+  - care
+  eng:
+  - fourteen
+  epo:
+  - dek kvar
+  spa:
+  - catorce
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a>, <a href="../lexi/care">care</a>
+raw data:
+  term: des care
+  category: phrase
+  word class: num
+  status: false
+  trans:
+    eng: fourteen
+    epo: dek kvar
+    spa: catorce
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des, care
+...

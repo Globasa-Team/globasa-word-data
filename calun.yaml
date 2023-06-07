@@ -1,0 +1,50 @@
+---
+term: calun
+slug: calun
+ipa: t͡ʃaˈlun
+ipa link: http://ipa-reader.xyz/?text=t͡ʃaˈlun&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wheel
+  epo:
+  - - rado
+  spa:
+  - - rueda
+search terms:
+  glb:
+  - calun
+  eng:
+  - wheel
+  epo:
+  - rado
+  spa:
+  - rueda
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 车轮 “chēlún”
+  Niponsa:
+  - - 車輪 “sharin”
+raw data:
+  term: calun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wheel
+    epo: rado
+    spa: rueda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (车轮 “chēlún”), Niponsa (車輪 “sharin”)
+...

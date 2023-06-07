@@ -1,0 +1,52 @@
+---
+term: dessisagon
+slug: dessisagon
+ipa: "dessisa\u02C8gon"
+ipa link: "http://ipa-reader.xyz/?text=dessisa\u02C8gon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hexadecagon
+    - hexakaidecagon
+    - 16-gon
+  epo:
+  - - deksesangulo
+    - dekseslatero
+  spa:
+  - - "hexadec\xE1gono"
+search terms:
+  glb:
+  - dessisagon
+  eng:
+  - hexadecagon
+  - hexakaidecagon
+  - 16-gon
+  epo:
+  - deksesangulo
+  - dekseslatero
+  spa:
+  - "hexadec\xE1gono"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/sisa">sisa</a> + <a href="../lexi/gon">gon</a>
+raw data:
+  term: dessisagon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hexadecagon, hexakaidecagon, 16-gon
+    epo: deksesangulo, dekseslatero
+    spa: "hexadec\xE1gono"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + sisa + gon
+...

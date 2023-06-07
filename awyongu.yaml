@@ -1,0 +1,54 @@
+---
+term: awyongu
+slug: awyongu
+ipa: "aw\u02C8jongu"
+ipa link: "http://ipa-reader.xyz/?text=aw\u02C8jongu&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - expenditure
+  - - spend
+    - expend
+  epo:
+  - - elspezo
+  - - elspezi
+  spa:
+  - - gasto
+  - - gastar
+search terms:
+  glb:
+  - awyongu
+  eng:
+  - expenditure
+  - spend
+  - expend
+  epo:
+  - elspezo
+  - elspezi
+  spa:
+  - gasto
+  - gastar
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw-">aw-</a> + <a href="../lexi/yongu">yongu</a>
+raw data:
+  term: awyongu
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: expenditure; spend, expend
+    epo: elspezo; elspezi
+    spa: gasto; gastar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aw- + yongu
+...

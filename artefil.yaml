@@ -1,0 +1,52 @@
+---
+term: artefil
+slug: artefil
+ipa: "a\u027Ete\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Ete\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - artistic (_tendency towards art_)
+    - artistically
+  epo:
+  - - artisma
+    - artinklina artema
+  - - arteme
+  spa:
+  - - "art\xEDstico (_tendiente al arte_)"
+search terms:
+  glb:
+  - artefil
+  eng:
+  - artistic
+  - artistically
+  epo:
+  - artisma
+  - artinklina artema
+  - arteme
+  spa:
+  - "art\xEDstico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/arte">arte</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: artefil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: artistic (_tendency towards art_), artistically
+    epo: artisma, artinklina artema; arteme
+    spa: "art\xEDstico (_tendiente al arte_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: arte + -fil
+...

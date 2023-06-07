@@ -1,0 +1,55 @@
+---
+term: nenabilya
+slug: nenabilya
+ipa: "nena\u02C8bilja"
+ipa link: "http://ipa-reader.xyz/?text=nena\u02C8bilja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - inability
+    - disability
+    - incapacity
+    - failure
+  epo:
+  - - nekapableco
+  spa:
+  - - incapacidad
+    - inhabilidad
+search terms:
+  glb:
+  - nenabilya
+  eng:
+  - inability
+  - disability
+  - incapacity
+  - failure
+  epo:
+  - nekapableco
+  spa:
+  - incapacidad
+  - inhabilidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/abil">abil</a> + <a
+  href="../lexi/-ya">-ya</a>
+raw data:
+  term: nenabilya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: inability, disability, incapacity, failure
+    epo: nekapableco
+    spa: incapacidad, inhabilidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: inability, failure, fail, fail to, be unable to, be unable, unable
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + abil + -ya
+...

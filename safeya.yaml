@@ -1,0 +1,46 @@
+---
+term: safeya
+slug: safeya
+ipa: "sa\u02C8feja"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8feja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - cleanliness
+  epo:
+  - - pureco
+  spa:
+  - - limpieza
+search terms:
+  glb:
+  - safeya
+  eng:
+  - cleanliness
+  epo:
+  - pureco
+  spa:
+  - limpieza
+etymology_type: DERIVD
+etymology: <a href="../lexi/safe">safe</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: safeya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: cleanliness
+    epo: pureco
+    spa: limpieza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: safe + -ya
+...

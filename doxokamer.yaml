@@ -1,0 +1,48 @@
+---
+term: doxokamer
+slug: doxokamer
+ipa: "do\u0283oka\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=do\u0283oka\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - reading room
+  epo:
+  - - legejo
+  spa:
+  - - sala de lectura
+search terms:
+  glb:
+  - doxokamer
+  eng:
+  - reading room
+  epo:
+  - legejo
+  spa:
+  - sala de lectura
+etymology_type: DERIVD
+etymology: <a href="../lexi/doxo">doxo</a> + <a href="../lexi/-kamer">-kamer</a>
+tags:
+- kamer
+raw data:
+  term: doxokamer
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: reading room
+    epo: legejo
+    spa: sala de lectura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kamer
+  etymology: doxo + -kamer
+...

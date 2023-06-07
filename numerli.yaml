@@ -1,0 +1,48 @@
+---
+term: numerli
+slug: numerli
+ipa: "nu\u02C8me\u027Eli"
+ipa link: "http://ipa-reader.xyz/?text=nu\u02C8me\u027Eli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - numerical
+  epo:
+  - - nombra
+  - - nombre
+  spa:
+  - - "num\xE9rico"
+search terms:
+  glb:
+  - numerli
+  eng:
+  - numerical
+  epo:
+  - nombra
+  - nombre
+  spa:
+  - "num\xE9rico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/numer">numer</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: 'numerli '
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: numerical
+    epo: nombra; nombre
+    spa: "num\xE9rico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: numer + -li
+...

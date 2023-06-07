@@ -1,0 +1,63 @@
+---
+term: garebi
+slug: garebi
+ipa: gaˈɾebi
+ipa link: http://ipa-reader.xyz/?text=gaˈɾebi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - west
+  epo:
+  - - okcidento
+  spa:
+  - - oeste
+    - occidente
+    - poniente
+search terms:
+  glb:
+  - garebi
+  eng:
+  - west
+  epo:
+  - okcidento
+  spa:
+  - oeste
+  - occidente
+  - poniente
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - غرب “gharb”
+  Parsisa:
+  - - غرب “garb”
+  Swahilisa:
+  - - magharibi
+  Turkisa:
+  - - garp
+  Hindisa:
+  - - मगरब “magrab”
+antonyms:
+- dongu
+raw data:
+  term: garebi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: west
+    epo: okcidento
+    spa: oeste, occidente, poniente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: dongu
+  example: ""
+  tags: ""
+  etymology: Arabisa (غرب “gharb”), Parsisa (غرب “garb”), Swahilisa (magharibi), Turkisa
+    (garp), Hindisa (मगरब “magrab”)
+...

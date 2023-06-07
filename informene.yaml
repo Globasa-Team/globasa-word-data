@@ -1,0 +1,50 @@
+---
+term: informene
+slug: informene
+ipa: "info\u027E\u02C8mene"
+ipa link: "http://ipa-reader.xyz/?text=info\u027E\u02C8mene&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - informative
+  epo:
+  - - informanta
+    - informa
+  - - informante
+  spa:
+  - - informativo
+search terms:
+  glb:
+  - informene
+  eng:
+  - informative
+  epo:
+  - informanta
+  - informa
+  - informante
+  spa:
+  - informativo
+etymology_type: DERIVD
+etymology: <a href="../lexi/infome">infome</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: informene
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: 'informative '
+    epo: informanta, informa; informante
+    spa: informativo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: infome + -ne
+...

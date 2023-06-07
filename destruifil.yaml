@@ -1,0 +1,52 @@
+---
+term: destruifil
+slug: destruifil
+ipa: "dest\u027Eui\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=dest\u027Eui\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - destructive
+    - destructively
+  epo:
+  - - detruema
+  - - detrueme
+  spa:
+  - - destructivo
+  - - destructivamente
+search terms:
+  glb:
+  - destruifil
+  eng:
+  - destructive
+  - destructively
+  epo:
+  - detruema
+  - detrueme
+  spa:
+  - destructivo
+  - destructivamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/destrui">destrui</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: destruifil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: destructive, destructively
+    epo: detruema; detrueme
+    spa: destructivo; destructivamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: destrui + -fil
+...

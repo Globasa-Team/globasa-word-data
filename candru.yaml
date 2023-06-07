@@ -1,0 +1,54 @@
+---
+term: candru
+slug: candru
+ipa: ˈt͡ʃandɾu
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃandɾu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - moon
+  epo:
+  - - luno
+  spa:
+  - - luna (_satélite natural_)
+search terms:
+  glb:
+  - candru
+  eng:
+  - moon
+  epo:
+  - luno
+  spa:
+  - luna
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - चांद “chand”
+  Telugusa:
+  - - చంద్రుడు “chandruḍu”
+  Indonesisa:
+  - - candra
+tags:
+- kosmo
+raw data:
+  term: candru
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: moon
+    epo: luno
+    spa: luna (_satélite natural_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kosmo
+  etymology: Hindisa (चांद “chand”), Telugusa (చంద్రుడు “chandruḍu”), Indonesisa (candra)
+...

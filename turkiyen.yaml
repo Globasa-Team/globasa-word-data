@@ -1,0 +1,46 @@
+---
+term: turkiyen
+slug: turkiyen
+ipa: "tu\u027Eki\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=tu\u027Eki\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Turk
+  epo:
+  - - turko
+  spa:
+  - - turco (_persona_)
+search terms:
+  glb:
+  - turkiyen
+  eng:
+  - turk
+  epo:
+  - turko
+  spa:
+  - turco
+etymology_type: DERIVD
+etymology: <a href="../lexi/Turki">Turki</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Turkiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Turk
+    epo: turko
+    spa: turco (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Turki + -yen
+...

@@ -1,0 +1,56 @@
+---
+term: kam
+slug: kam
+ipa: kam
+ipa link: http://ipa-reader.xyz/?text=kam&voice=Ewa
+status: true
+category: root
+word class: l
+trans:
+  eng:
+  - - yes/no question particle
+    - or
+    - or whether
+  epo:
+  - - "\u0109u"
+    - "\u0109u (\u0109u ... _\u0109u_ ...)"
+  spa:
+  - - "si (_cuando indica duda o elecci\xF3n_)"
+    - "part\xEDcula de pregunta de s\xED o no"
+search terms:
+  glb:
+  - kam
+  eng:
+  - yes/no question particle
+  - or
+  - or whether
+  epo:
+  - "\u0109u"
+  - "\u0109u \u0109u ... \u0109u ..."
+  spa:
+  - si
+  - "part\xEDcula de pregunta de s\xED o no"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kam
+  category: root
+  word class: l
+  status: true
+  trans:
+    eng: yes/no question particle, or, or whether
+    epo: "\u0109u, \u0109u (\u0109u ... _\u0109u_ ...)"
+    spa: "si (_cuando indica duda o elecci\xF3n_), part\xEDcula de pregunta de s\xED
+      o no"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Niponsa (\u304B \u201Cka\u201D), Hindisa (\u0915\u094D\u092F\u093E \u201Ckya\u201D),
+    Swahilisa (kama)"
+...

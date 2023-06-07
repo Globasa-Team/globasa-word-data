@@ -1,0 +1,54 @@
+---
+term: infraya
+slug: infraya
+ipa: "in\u02C8f\u027Eaja"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8f\u027Eaja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - belowness
+    - inferiority
+  - - be below
+  epo:
+  - - malsupro
+  - - esti malsupra
+  spa:
+  - - inferioridad
+  - - estar abajo
+search terms:
+  glb:
+  - infraya
+  eng:
+  - belowness
+  - inferiority
+  - be below
+  epo:
+  - malsupro
+  - esti malsupra
+  spa:
+  - inferioridad
+  - estar abajo
+etymology_type: DERIVD
+etymology: <a href="../lexi/infra">infra</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: infraya
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: belowness, inferiority; be below
+    epo: malsupro; esti malsupra
+    spa: inferioridad; estar abajo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: infra + -ya
+...

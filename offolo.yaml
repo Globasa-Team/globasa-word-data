@@ -1,0 +1,56 @@
+---
+term: offolo
+slug: offolo
+ipa: "of\u02C8folo"
+ipa link: "http://ipa-reader.xyz/?text=of\u02C8folo&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - depend (on)
+    - be contingent (on)
+  epo:
+  - - dependo
+  - - dependi (de)
+    - bazi (sur)
+  spa:
+  - - depender de
+search terms:
+  glb:
+  - offolo
+  eng:
+  - depend on
+  - depend
+  - be contingent on
+  - be contingent
+  epo:
+  - dependo
+  - dependi de
+  - dependi
+  - bazi sur
+  - bazi
+  spa:
+  - depender de
+etymology_type: DERIVD
+etymology: <a href="../lexi/of-">of-</a> + <a href="../lexi/folo">folo</a>
+raw data:
+  term: offolo
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: depend (on), be contingent (on)
+    epo: dependo; dependi (de), bazi (sur)
+    spa: depender de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: of- + folo
+...

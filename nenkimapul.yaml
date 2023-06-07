@@ -1,0 +1,57 @@
+---
+term: nenkimapul
+slug: nenkimapul
+ipa: "nenkima\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=nenkima\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - cheap
+    - inexpensive
+  - - cheaply
+    - inexpensively
+  epo:
+  - - malmultekosta
+  - - malmultekoste
+  spa:
+  - - barato
+  - - baratamente
+search terms:
+  glb:
+  - nenkimapul
+  eng:
+  - cheap
+  - inexpensive
+  - cheaply
+  - inexpensively
+  epo:
+  - malmultekosta
+  - malmultekoste
+  spa:
+  - barato
+  - baratamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/kima">kima</a> + <a
+  href="../lexi/-pul">-pul</a>
+raw data:
+  term: nenkimapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: cheap, inexpensive; cheaply, inexpensively
+    epo: malmultekosta; malmultekoste
+    spa: barato; baratamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + kima + -pul
+...

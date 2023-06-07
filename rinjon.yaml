@@ -1,0 +1,111 @@
+---
+term: rinjon
+slug: rinjon
+ipa: "\u027Ein\u02C8d\u0361\u0292on"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ein\u02C8d\u0361\u0292on&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - bell
+  - - ring
+  epo:
+  - - sonorilo
+  - - sonori
+  spa:
+  - - campana
+    - timbre
+  - - sonar
+    - doblar
+    - timbrar
+search terms:
+  glb:
+  - rinjon
+  eng:
+  - bell
+  - ring
+  epo:
+  - sonorilo
+  - sonori
+  spa:
+  - campana
+  - timbre
+  - sonar
+  - doblar
+  - timbrar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u9234 \"ling\""
+    - "\u53EE\u549A \"dingdong\""
+  Niponsa:
+  - - "\u9234 \"rin\""
+    - "\u30B8\u30EA\u30EA\u30EA\u30EA\u30F3 \"jiririririn\""
+    - "\u30D4\u30F3\u30DD\u30F3 \"pimpon\""
+  Doycisa:
+  - - klingeling
+    - klingeln
+  Englisa:
+  - - ring ring
+    - ding dong
+  Espanisa:
+  - - rin rin
+  Fransesa:
+  - - dring dring
+  Indonesisa:
+  - - kring kring
+  Pilipinasa:
+  - - kring kring
+  Vyetnamsa:
+  - - reng
+    - "b\xEDnh bong"
+  Hindisa:
+  - - "\u0930\u093F\u0902\u0917\u091F\u094B\u0928 \"rington\""
+  Telugusa:
+  - - "\u0C30\u0C3F\u0C02\u0C17\u0C4D\u200C\u0C1F\u0C4B\u0C28\u0C4D \"ring\u200Cton\""
+  Arabisa:
+  - - "\u062A\u0640\u0640\u0631\u0646 \u062A\u0640\u0640\u0631\u0646 \"terren terren\""
+  Hangusa:
+  - - "\uB530\uB974\uB989 \uB530\uB974\uB989 \"tarurung tarurung\""
+    - "\uC885 \"jong\""
+    - "\uCD08\uC778\uC885 \"coinjong\""
+  Rusisa:
+  - - "\u0434\u0437\u044B\u043D\u044C-\u0434\u0437\u044B\u043D\u044C \"dzin-dzin\""
+    - "\u0434\u0438\u043D\u044C-\u0434\u043E\u043D \"dindon\""
+  Turkisa:
+  - - "z\u0131r z\u0131r"
+  Parsisa:
+  - - "\u0632\u0646\u06AF \"zang\""
+  Swahilisa:
+  - - kengele
+raw data:
+  term: rinjon
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: bell; ring
+    epo: sonorilo; sonori
+    spa: campana, timbre; sonar, doblar, timbrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u9234 \"ling\", \u53EE\u549A \"dingdong\"), Niponsa (\u9234
+    \"rin\", \u30B8\u30EA\u30EA\u30EA\u30EA\u30F3 \"jiririririn\", \u30D4\u30F3\u30DD\u30F3
+    \"pimpon\"), Doycisa (klingeling, klingeln), Englisa (ring ring, ding dong), Espanisa
+    (rin rin), Fransesa (dring dring), Indonesisa (kring kring), Pilipinasa (kring
+    kring), Vyetnamsa (reng, b\xEDnh bong), Hindisa (\u0930\u093F\u0902\u0917\u091F\u094B\u0928
+    \"rington\"), Telugusa (\u0C30\u0C3F\u0C02\u0C17\u0C4D\u200C\u0C1F\u0C4B\u0C28\u0C4D
+    \"ring\u200Cton\"), Arabisa (\u062A\u0640\u0640\u0631\u0646 \u062A\u0640\u0640\u0631\u0646
+    \"terren terren\"), Hangusa (\uB530\uB974\uB989 \uB530\uB974\uB989 \"tarurung
+    tarurung\", \uC885 \"jong\", \uCD08\uC778\uC885 \"coinjong\"), Rusisa (\u0434\u0437\u044B\u043D\u044C-\u0434\u0437\u044B\u043D\u044C
+    \"dzin-dzin\", \u0434\u0438\u043D\u044C-\u0434\u043E\u043D \"dindon\"), Turkisa
+    (z\u0131r z\u0131r), Parsisa (\u0632\u0646\u06AF \"zang\"), Swahilisa (kengele)"
+...

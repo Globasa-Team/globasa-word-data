@@ -1,0 +1,46 @@
+---
+term: harepulya
+slug: harepulya
+ipa: "xa\u027Ee\u02C8pulja"
+ipa link: "http://ipa-reader.xyz/?text=xa\u027Ee\u02C8pulja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - wealth
+  epo:
+  - - "ri\u0109eco"
+  spa:
+  - - riqueza
+search terms:
+  glb:
+  - harepulya
+  eng:
+  - wealth
+  epo:
+  - "ri\u0109eco"
+  spa:
+  - riqueza
+etymology_type: DERIVD
+etymology: <a href="../lexi/harepul">harepul</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: harepulya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: wealth
+    epo: "ri\u0109eco"
+    spa: riqueza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: harepul + -ya
+...

@@ -1,0 +1,64 @@
+---
+term: lutufpul
+slug: lutufpul
+ipa: "lutuf\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=lutuf\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - kind
+    - nice
+  - - kindly
+    - nicely
+  epo:
+  - - bonvola
+    - afabla
+    - kompleza
+  - - bonvole
+  spa:
+  - - "cort\xE9s"
+    - amable
+  - - "cort\xE9smente"
+    - amablemente
+search terms:
+  glb:
+  - lutufpul
+  eng:
+  - kind
+  - nice
+  - kindly
+  - nicely
+  epo:
+  - bonvola
+  - afabla
+  - kompleza
+  - bonvole
+  spa:
+  - "cort\xE9s"
+  - amable
+  - "cort\xE9smente"
+  - amablemente
+etymology_type: DERIVD
+etymology: <a href="../lexi/lutuf">lutuf</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: lutufpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: kind, nice; kindly, nicely
+    epo: bonvola, afabla, kompleza; bonvole
+    spa: "cort\xE9s, amable; cort\xE9smente, amablemente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lutuf + -pul
+...

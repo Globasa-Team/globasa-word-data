@@ -1,0 +1,99 @@
+---
+term: bisteki
+slug: bisteki
+ipa: bisˈteki
+ipa link: http://ipa-reader.xyz/?text=bisˈteki&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - steak
+    - beefsteak
+  epo:
+  - - bifsteko
+  spa:
+  - - bistec
+    - bisté
+search terms:
+  glb:
+  - bisteki
+  eng:
+  - steak
+  - beefsteak
+  epo:
+  - bifsteko
+  spa:
+  - bistec
+  - bisté
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - beefsteak
+  Espanisa:
+  - - bistec
+    - bisté
+  Fransesa:
+  - - bifteck
+  Rusisa:
+  - - бифштекс "bifxteks"
+  Doycisa:
+  - - Beefsteak
+  "": ~
+  Portugalsa:
+  - - bife
+  Italisa:
+  - - bistecca
+  Indonesisa:
+  - - bistik
+  Pilipinasa:
+  - - isteyk
+    - istik
+  Hindisa:
+  - - स्टेक "sṭek"
+  Arabisa:
+  - - سْتَيْك "stayk"
+    - سْتِيك "steyk"
+    - سْتِيك "stīk"
+  Niponsa:
+  - - ステーキ "sutēki"
+  Telugusa:
+  - - స్టేక్ "stek"
+  Turkisa:
+  - - bifstek
+  Vyetnamsa:
+  - - bít tết
+  Hangusa:
+  - - 스테이크 "suteyku"
+  Parsisa:
+  - - بیفتک "biftek"
+    - استیک "esteyk"
+  Swahilisa:
+  - - steki
+tags:
+- yamxey
+raw data:
+  term: bisteki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: steak, beefsteak
+    epo: bifsteko
+    spa: bistec, bisté
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Englisa (beefsteak), Espanisa (bistec, bisté), Fransesa (bifteck), Rusisa
+    (бифштекс "bifxteks"), Doycisa (Beefsteak) , Portugalsa (bife), Italisa (bistecca),
+    Indonesisa (bistik), Pilipinasa (isteyk, istik), Hindisa (स्टेक "sṭek"), Arabisa
+    (سْتَيْك "stayk", سْتِيك "steyk", سْتِيك "stīk"), Niponsa (ステーキ "sutēki"), Telugusa
+    (స్టేక్ "stek"), Turkisa (bifstek), Vyetnamsa (bít tết), Hangusa (스테이크 "suteyku"),
+    Parsisa (بیفتک "biftek", استیک "esteyk"), Swahilisa (steki)
+...

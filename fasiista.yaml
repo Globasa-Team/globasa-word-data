@@ -1,0 +1,46 @@
+---
+term: fasiista
+slug: fasiista
+ipa: "fasi\u02C8ista"
+ipa link: "http://ipa-reader.xyz/?text=fasi\u02C8ista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - fascist
+  epo:
+  - - "fa\u015Disto"
+  spa:
+  - - fascista
+search terms:
+  glb:
+  - fasiista
+  eng:
+  - fascist
+  epo:
+  - "fa\u015Disto"
+  spa:
+  - fascista
+etymology_type: DERIVD
+etymology: <a href="../lexi/fasi">fasi</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: fasiista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: fascist
+    epo: "fa\u015Disto"
+    spa: fascista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fasi + -ista
+...

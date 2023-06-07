@@ -1,0 +1,48 @@
+---
+term: befobi
+slug: befobi
+ipa: "be\u02C8fobi"
+ipa link: "http://ipa-reader.xyz/?text=be\u02C8fobi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - fear
+  epo:
+  - - timo
+  - - timi
+  spa:
+  - - temer
+search terms:
+  glb:
+  - befobi
+  eng:
+  - fear
+  epo:
+  - timo
+  - timi
+  spa:
+  - temer
+etymology_type: DERIVD
+etymology: <a href="../lexi/be-">be-</a> + <a href="../lexi/fobi">fobi</a>
+raw data:
+  term: befobi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: fear
+    epo: timo; timi
+    spa: temer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: be- + fobi
+...

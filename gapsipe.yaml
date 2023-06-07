@@ -1,0 +1,56 @@
+---
+term: gapsipe
+slug: gapsipe
+ipa: gapˈsipe
+ipa link: http://ipa-reader.xyz/?text=gapˈsipe&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - gossip
+  epo:
+  - - klaĉo
+  - - klaĉi
+  spa:
+  - - chismorreo
+    - chisme
+  - - chismear
+search terms:
+  glb:
+  - gapsipe
+  eng:
+  - gossip
+  epo:
+  - klaĉo
+  - klaĉi
+  spa:
+  - chismorreo
+  - chisme
+  - chismear
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gossip
+  Hindisa:
+  - - गपशप "gapxap"
+raw data:
+  term: gapsipe
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: gossip
+    epo: klaĉo; klaĉi
+    spa: chismorreo, chisme; chismear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (gossip), Hindisa (गपशप "gapxap")
+...

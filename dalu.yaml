@@ -1,0 +1,58 @@
+---
+term: dalu
+slug: dalu
+ipa: ˈdalu
+ipa link: http://ipa-reader.xyz/?text=ˈdalu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - shield
+  epo:
+  - - ŝildo
+    - ŝildado
+  - - ŝildi
+  spa:
+  - - escudo
+  - - escudar
+    - escudarse
+search terms:
+  glb:
+  - dalu
+  eng:
+  - shield
+  epo:
+  - ŝildo
+  - ŝildado
+  - ŝildi
+  spa:
+  - escudo
+  - escudar
+  - escudarse
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - ढाल “ḍhāl”
+  Telugusa:
+  - - డాలు “ḍālu”
+raw data:
+  term: dalu
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: shield
+    epo: ŝildo, ŝildado; ŝildi
+    spa: escudo; escudar, escudarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (ढाल “ḍhāl”), Telugusa (డాలు “ḍālu”)
+...

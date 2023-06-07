@@ -1,0 +1,56 @@
+---
+term: imarati
+slug: imarati
+ipa: "ima\u02C8\u027Eati"
+ipa link: "http://ipa-reader.xyz/?text=ima\u02C8\u027Eati&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - United Arab Emirates
+    - Emirates
+  epo:
+  - - "Unui\u011Dintaj Arabaj Emirlandoj"
+  spa:
+  - - "Emiratos \xC1rabes Unidos"
+search terms:
+  glb:
+  - imarati
+  eng:
+  - united arab emirates
+  - emirates
+  epo:
+  - "unui\u011Dintaj arabaj emirlandoj"
+  spa:
+  - "emiratos \xC1rabes unidos"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A \u0627\u0644\u0639\u0631\u0628\u064A\u0629
+      \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u201Cal-\u02BEIm\u0101r\u0101t al-\u02BFArab\u012Byah
+      al-Mutta\u1E25idah\u201D"
+tags:
+- dexa
+raw data:
+  term: Imarati
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: United Arab Emirates, Emirates
+    epo: "Unui\u011Dintaj Arabaj Emirlandoj"
+    spa: "Emiratos \xC1rabes Unidos"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062A \u0627\u0644\u0639\u0631\u0628\u064A\u0629
+    \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u201Cal-\u02BEIm\u0101r\u0101t al-\u02BFArab\u012Byah
+    al-Mutta\u1E25idah\u201D)"
+...

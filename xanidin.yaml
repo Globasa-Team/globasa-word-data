@@ -1,0 +1,46 @@
+---
+term: xanidin
+slug: xanidin
+ipa: "\u0283ani\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=\u0283ani\u02C8din&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Saturday
+  epo:
+  - - sabato
+  spa:
+  - - "s\xE1bado"
+search terms:
+  glb:
+  - xanidin
+  eng:
+  - saturday
+  epo:
+  - sabato
+  spa:
+  - "s\xE1bado"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Xani">Xani</a> + <a href="../lexi/-din">-din</a>
+raw data:
+  term: xanidin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Saturday
+    epo: sabato
+    spa: "s\xE1bado"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Xani + -din
+...

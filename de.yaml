@@ -1,0 +1,60 @@
+---
+term: de
+slug: de
+ipa: de
+ipa link: http://ipa-reader.xyz/?text=de&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - of
+    - belonging (to)
+    - (_equivalent to_) -'s (_genitive case_)
+  epo:
+  - - de
+    - apartenante (al)
+  spa:
+  - - de (_perteneciente a_)
+search terms:
+  glb:
+  - de
+  eng:
+  - of
+  - belonging to
+  - belonging
+  - -'s
+  epo:
+  - de
+  - apartenante al
+  - apartenante
+  spa:
+  - de
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - de
+  Espanisa:
+  - - de
+  Putunhwa:
+  - - 的 “de”
+raw data:
+  term: de
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: of, belonging (to), (_equivalent to_) -'s (_genitive case_)
+    epo: de, apartenante (al)
+    spa: de (_perteneciente a_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Fransesa (de), Espanisa (de), Putunhwa (的 “de”)
+...

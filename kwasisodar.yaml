@@ -1,0 +1,52 @@
+---
+term: kwasisodar
+slug: kwasisodar
+ipa: "kwasiso\u02C8da\u027E"
+ipa link: "http://ipa-reader.xyz/?text=kwasiso\u02C8da\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - step-brother
+    - step-sister
+    - stepbrother
+    - stepsister
+  epo:
+  - - vicfrato
+  spa:
+  - - hermanastro
+search terms:
+  glb:
+  - kwasisodar
+  eng:
+  - step-brother
+  - step-sister
+  - stepbrother
+  - stepsister
+  epo:
+  - vicfrato
+  spa:
+  - hermanastro
+etymology_type: DERIVD
+etymology: <a href="../lexi/kwasi">kwasi</a> + <a href="../lexi/sodar">sodar</a>
+raw data:
+  term: kwasisodar
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: step-brother, step-sister, stepbrother, stepsister
+    epo: vicfrato
+    spa: hermanastro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwasi + sodar
+...

@@ -1,0 +1,50 @@
+---
+term: nijer
+slug: nijer
+ipa: "ni\u02C8d\u0361\u0292e\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ni\u02C8d\u0361\u0292e\u027E&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Niger
+  epo:
+  - - "Ni\u011Dero"
+  spa:
+  - - "N\xEDger"
+search terms:
+  glb:
+  - nijer
+  eng:
+  - niger
+  epo:
+  - "ni\u011Dero"
+  spa:
+  - "n\xEDger"
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - Niger
+tags:
+- dexa
+raw data:
+  term: Nijer
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Niger
+    epo: "Ni\u011Dero"
+    spa: "N\xEDger"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Fransesa (Niger)
+...

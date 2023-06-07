@@ -1,0 +1,53 @@
+---
+term: maso
+slug: maso
+ipa: "\u02C8maso"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8maso&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - meat
+    - flesh
+  epo:
+  - - viando
+    - karno
+  spa:
+  - - carne
+search terms:
+  glb:
+  - maso
+  eng:
+  - meat
+  - flesh
+  epo:
+  - viando
+  - karno
+  spa:
+  - carne
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: maso
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: meat, flesh
+    epo: viando, karno
+    spa: carne
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Hindisa (\u092E\u093E\u0902\u0938 \u201Cmaans\u201D), Rusisa (\u043C\u044F\u0441\u043E
+    \u201Cmyaso\u201D), Ceskisa (maso)"
+...

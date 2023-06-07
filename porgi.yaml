@@ -1,0 +1,52 @@
+---
+term: porgi
+slug: porgi
+ipa: "\u02C8po\u027Egi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8po\u027Egi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - exchange
+    - trade
+  epo:
+  - - "inter\u015Dan\u011Do"
+  - - "inter\u015Dan\u011Di"
+  spa:
+  - - intercambio
+  - - intercambiar
+search terms:
+  glb:
+  - porgi
+  eng:
+  - exchange
+  - trade
+  epo:
+  - "inter\u015Dan\u011Do"
+  - "inter\u015Dan\u011Di"
+  spa:
+  - intercambio
+  - intercambiar
+etymology_type: DERIVD
+etymology: <a href="../lexi/por">por</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: porgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: exchange, trade
+    epo: "inter\u015Dan\u011Do; inter\u015Dan\u011Di"
+    spa: intercambio; intercambiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: por + -gi
+...

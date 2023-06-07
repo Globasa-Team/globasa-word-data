@@ -1,0 +1,50 @@
+---
+term: urdun
+slug: urdun
+ipa: "u\u027E\u02C8dun"
+ipa link: "http://ipa-reader.xyz/?text=u\u027E\u02C8dun&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Jordan
+  epo:
+  - - Jordanio
+  spa:
+  - - Jordania
+search terms:
+  glb:
+  - urdun
+  eng:
+  - jordan
+  epo:
+  - jordanio
+  spa:
+  - jordania
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0627\u0644\u0623\u0631\u062F\u0646 \u201Cal-\u02BEUrdunn\u201D"
+tags:
+- dexa
+raw data:
+  term: Urdun
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Jordan
+    epo: Jordanio
+    spa: Jordania
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u0627\u0644\u0623\u0631\u062F\u0646 \u201Cal-\u02BEUrdunn\u201D)"
+...

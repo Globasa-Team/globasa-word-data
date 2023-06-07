@@ -1,0 +1,66 @@
+---
+term: atmosfer
+slug: atmosfer
+ipa: atmosˈfeɾ
+ipa link: http://ipa-reader.xyz/?text=atmosˈfeɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - atmosphere
+  epo:
+  - - atmosfero
+  spa:
+  - - atmósfera
+search terms:
+  glb:
+  - atmosfer
+  eng:
+  - atmosphere
+  epo:
+  - atmosfero
+  spa:
+  - atmósfera
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Atmosphäre
+  Englisa:
+  - - athmosphere
+  Espanisa:
+  - - atmósfera
+  Fransesa:
+  - - atmosphère
+  Rusisa:
+  - - атмосфера “atmosfera”
+  Indonesisa:
+  - - atmosfir
+  Pilipinasa:
+  - - atmospera
+  Turkisa:
+  - - atmosfer
+  Parsisa:
+  - - اتمسفر “atmosfer”
+raw data:
+  term: atmosfer
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: atmosphere
+    epo: atmosfero
+    spa: atmósfera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Atmosphäre), Englisa (athmosphere), Espanisa (atmósfera), Fransesa
+    (atmosphère), Rusisa (атмосфера “atmosfera”), Indonesisa (atmosfir), Pilipinasa
+    (atmospera), Turkisa (atmosfer), Parsisa (اتمسفر “atmosfer”)
+...

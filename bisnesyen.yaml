@@ -1,0 +1,48 @@
+---
+term: bisnesyen
+slug: bisnesyen
+ipa: "bisne\u02C8sjen"
+ipa link: "http://ipa-reader.xyz/?text=bisne\u02C8sjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - businessman
+    - businesswoman
+  epo:
+  - - komercisto
+  spa:
+  - - persona de negocios
+search terms:
+  glb:
+  - bisnesyen
+  eng:
+  - businessman
+  - businesswoman
+  epo:
+  - komercisto
+  spa:
+  - persona de negocios
+etymology_type: DERIVD
+etymology: <a href="../lexi/bisnes">bisnes</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: bisnesyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: businessman, businesswoman
+    epo: komercisto
+    spa: persona de negocios
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bisnes + -yen
+...

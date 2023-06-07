@@ -1,0 +1,46 @@
+---
+term: ofya
+slug: ofya
+ipa: "\u02C8ofja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ofja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - be from
+  epo:
+  - - esti de
+  spa:
+  - - ser de
+search terms:
+  glb:
+  - ofya
+  eng:
+  - be from
+  epo:
+  - esti de
+  spa:
+  - ser de
+etymology_type: DERIVD
+etymology: <a href="../lexi/of">of</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: ofya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: 'be from '
+    epo: esti de
+    spa: ser de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: of + -ya
+...

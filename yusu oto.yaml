@@ -1,0 +1,48 @@
+---
+term: yusu oto
+slug: yusu oto
+ipa: "\u02C8jusu \u02C8oto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jusu \u02C8oto&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - yours (_those things belonging to you_)
+  epo:
+  - - la viaj
+  spa:
+  - - tus (_cosas que te pertenecen_)
+search terms:
+  glb:
+  - yusu oto
+  - yusu
+  - oto
+  eng:
+  - yours
+  epo:
+  - la viaj
+  spa:
+  - tus
+etymology_type: DERIVD
+etymology: <a href="../lexi/yu">yu</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/oto">oto</a>
+raw data:
+  term: yusu oto
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: yours (_those things belonging to you_)
+    epo: la viaj
+    spa: tus (_cosas que te pertenecen_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yu + -su, oto
+...

@@ -1,0 +1,52 @@
+---
+term: elini
+slug: elini
+ipa: "e\u02C8lini"
+ipa link: "http://ipa-reader.xyz/?text=e\u02C8lini&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Greece
+  epo:
+  - - Grekio
+    - Grekujo
+  spa:
+  - - Grecia
+search terms:
+  glb:
+  - elini
+  eng:
+  - greece
+  epo:
+  - grekio
+  - grekujo
+  spa:
+  - grecia
+etymology_type: NATLNG
+etymology:
+  Elinisa:
+  - - "\u03B5\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03CC\u03C2 \u201Cellinik\xF3s\u201D"
+tags:
+- dexa
+raw data:
+  term: Elini
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Greece
+    epo: Grekio, Grekujo
+    spa: Grecia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Elinisa (\u03B5\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03CC\u03C2 \u201Cellinik\xF3s\u201D)"
+...

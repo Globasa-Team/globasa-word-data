@@ -1,0 +1,50 @@
+---
+term: dograsa
+slug: dograsa
+ipa: "do\u02C8g\u027Easa"
+ipa link: "http://ipa-reader.xyz/?text=do\u02C8g\u027Easa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Dogri (language)
+  epo:
+  - - la dogra (lingvo)
+  spa:
+  - - dogri (_idioma_)
+search terms:
+  glb:
+  - dograsa
+  eng:
+  - dogri language
+  - dogri
+  epo:
+  - la dogra lingvo
+  - la dogra
+  spa:
+  - dogri
+etymology_type: DERIVD
+etymology: <a href="../lexi/Dogra">Dogra</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Dograsa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Dogri (language)
+    epo: la dogra (lingvo)
+    spa: dogri (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Dogra + -sa
+...

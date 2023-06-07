@@ -1,0 +1,53 @@
+---
+term: hanman
+slug: hanman
+ipa: "xan\u02C8man"
+ipa link: "http://ipa-reader.xyz/?text=xan\u02C8man&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - slow
+    - slowly
+  epo:
+  - - malrapida
+    - malrapide
+  spa:
+  - - lento
+search terms:
+  glb:
+  - hanman
+  eng:
+  - slow
+  - slowly
+  epo:
+  - malrapida
+  - malrapide
+  spa:
+  - lento
+etymology_type: NATLNG
+etymology: BLAH
+antonyms:
+- velosi
+raw data:
+  term: hanman
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: slow, slowly
+    epo: malrapida, malrapide
+    spa: lento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: velosi
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7F13\u6162 \u201Chu\u01CEnm\xE0n\u201D), Niponsa (\u7DE9\u6162
+    \u201Ckanman\u201D)"
+...

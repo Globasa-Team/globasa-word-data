@@ -1,0 +1,80 @@
+---
+term: yoga
+slug: yoga
+ipa: "\u02C8joga"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8joga&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - yoga
+  epo:
+  - - jogo
+  spa:
+  - - yoga
+search terms:
+  glb:
+  - yoga
+  eng:
+  - yoga
+  epo:
+  - jogo
+  spa:
+  - yoga
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - yoga
+  Espanisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Vyetnamsa: ~
+  Swahilisa: ~
+  Rusisa:
+  - - "\u0439\u043E\u0433\u0430 \u201Cyoga\u201D"
+  Putunhwa:
+  - - "\u745C\u4F3D \u201Cyujya\u201D"
+  Hindisa:
+  - - "\u092F\u094B\u0917 \u201Cyog\u201D"
+  Arabisa:
+  - - "\u064A\u064F\u0648\u063A\u064E\u0627"
+    - "\u064A\u064F\u0648\u062C\u064E\u0627 \u201Cyuga\u201D"
+    - "\u064A\u064F\u0648\u062C\u064E\u0627 \u201Cyuja\u201D"
+  Niponsa:
+  - - "\u30E8\u30FC\u30AC \u201Cyoga\u201D"
+  Telugusa:
+  - - "\u0C2F\u0C4B\u0C17\u0C3E \u201Cyoga\u201D"
+  Hangusa:
+  - - "\uC694\uAC00 \u201Cyoga\u201D"
+  Parsisa:
+  - - "\u06CC\u0648\u06AF\u0627 \u201Cyoga\u201D"
+raw data:
+  term: yoga
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: yoga
+    epo: jogo
+    spa: yoga
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (yoga), Espanisa, Fransesa, Doycisa, Indonesisa, Pilipinasa,
+    Turkisa, Vyetnamsa, Swahilisa, Rusisa (\u0439\u043E\u0433\u0430 \u201Cyoga\u201D),
+    Putunhwa (\u745C\u4F3D \u201Cyujya\u201D), Hindisa (\u092F\u094B\u0917 \u201Cyog\u201D),
+    Arabisa (\u064A\u064F\u0648\u063A\u064E\u0627 ,\u064A\u064F\u0648\u062C\u064E\u0627
+    \u201Cyuga\u201D, \u064A\u064F\u0648\u062C\u064E\u0627 \u201Cyuja\u201D), Niponsa
+    (\u30E8\u30FC\u30AC \u201Cyoga\u201D), Telugusa (\u0C2F\u0C4B\u0C17\u0C3E \u201Cyoga\u201D),
+    Hangusa (\uC694\uAC00 \u201Cyoga\u201D), Parsisa (\u06CC\u0648\u06AF\u0627 \u201Cyoga\u201D)"
+...

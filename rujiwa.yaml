@@ -1,0 +1,66 @@
+---
+term: rujiwa
+slug: rujiwa
+ipa: "\u027Eu\u02C8d\u0361\u0292iwa"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8d\u0361\u0292iwa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - resurrection
+    - resuscitation
+    - revival
+  - - revive
+    - resurrect
+    - resuscitate
+  epo:
+  - - "revivi\u011Do"
+    - resurekto
+  - - "revivi\u011Di"
+    - resurekti
+  spa:
+  - - "resurrecci\xF3n"
+  - - resucitar
+    - revivir
+search terms:
+  glb:
+  - rujiwa
+  eng:
+  - resurrection
+  - resuscitation
+  - revival
+  - revive
+  - resurrect
+  - resuscitate
+  epo:
+  - "revivi\u011Do"
+  - resurekto
+  - "revivi\u011Di"
+  - resurekti
+  spa:
+  - "resurrecci\xF3n"
+  - resucitar
+  - revivir
+etymology_type: DERIVD
+etymology: <a href="../lexi/ru-">ru-</a> + <a href="../lexi/jiwa">jiwa</a>
+raw data:
+  term: rujiwa
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: resurrection, resuscitation, revival; revive, resurrect, resuscitate
+    epo: "revivi\u011Do, resurekto; revivi\u011Di, resurekti"
+    spa: "resurrecci\xF3n; resucitar, revivir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ru- + jiwa
+...

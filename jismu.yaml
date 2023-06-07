@@ -1,0 +1,47 @@
+---
+term: jismu
+slug: jismu
+ipa: "\u02C8d\u0361\u0292ismu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ismu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - body
+  epo:
+  - - korpo
+  spa:
+  - - cuerpo
+search terms:
+  glb:
+  - jismu
+  eng:
+  - body
+  epo:
+  - korpo
+  spa:
+  - cuerpo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jismu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: body
+    epo: korpo
+    spa: cuerpo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u0633\u0645 \u201Cjism\u201D), Parsisa (\u062C\u0633\u0645
+    \u201Cjesm\u201D), Hindisa (\u091C\u093F\u0938\u094D\u092E \u201Cjism\u201D)"
+...

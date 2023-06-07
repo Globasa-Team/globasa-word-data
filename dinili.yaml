@@ -1,0 +1,48 @@
+---
+term: dinili
+slug: dinili
+ipa: "di\u02C8nili"
+ipa link: "http://ipa-reader.xyz/?text=di\u02C8nili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - religious (_of or relating to religion_)
+  epo:
+  - - religia
+  - - religie
+  spa:
+  - - "religioso (_relativo a la religi\xF3n_)"
+search terms:
+  glb:
+  - dinili
+  eng:
+  - religious
+  epo:
+  - religia
+  - religie
+  spa:
+  - religioso
+etymology_type: DERIVD
+etymology: <a href="../lexi/dini">dini</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: dinili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: religious (_of or relating to religion_)
+    epo: religia; religie
+    spa: "religioso (_relativo a la religi\xF3n_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dini + -li
+...

@@ -1,0 +1,60 @@
+---
+term: totalya
+slug: totalya
+ipa: "to\u02C8talja"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8talja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (the) entire thing
+    - (the) whole thing
+    - total
+    - totality
+    - sum
+  epo:
+  - - tuteco
+    - tuto
+  spa:
+  - - todo
+    - totalidad
+search terms:
+  glb:
+  - totalya
+  eng:
+  - the entire thing
+  - entire thing
+  - the whole thing
+  - whole thing
+  - total
+  - totality
+  - sum
+  epo:
+  - tuteco
+  - tuto
+  spa:
+  - todo
+  - totalidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/total">total</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: totalya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (the) entire thing, (the) whole thing, total, totality, sum
+    epo: tuteco, tuto
+    spa: todo, totalidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: total + -ya
+...

@@ -1,0 +1,52 @@
+---
+term: ogardom
+slug: ogardom
+ipa: "oga\u027E\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=oga\u027E\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - habitat
+    - dwelling
+    - housing
+  epo:
+  - - "lo\u011Dejo"
+  spa:
+  - - "h\xE1bitat"
+    - morada
+search terms:
+  glb:
+  - ogardom
+  eng:
+  - habitat
+  - dwelling
+  - housing
+  epo:
+  - "lo\u011Dejo"
+  spa:
+  - "h\xE1bitat"
+  - morada
+etymology_type: DERIVD
+etymology: <a href="../lexi/ogar">ogar</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: ogardom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: habitat, dwelling, housing
+    epo: "lo\u011Dejo"
+    spa: "h\xE1bitat, morada"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ogar + -dom
+...

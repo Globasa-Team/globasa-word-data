@@ -1,0 +1,49 @@
+---
+term: bimaryendom
+slug: bimaryendom
+ipa: "bima\u027Ejen\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=bima\u027Ejen\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hospital
+  epo:
+  - - malsanulejo
+  spa:
+  - - hospital
+search terms:
+  glb:
+  - bimaryendom
+  eng:
+  - hospital
+  epo:
+  - malsanulejo
+  spa:
+  - hospital
+etymology_type: DERIVD
+etymology: <a href="../lexi/bimar">bimar</a> + <a href="../lexi/-yen">-yen</a> + <a
+  href="../lexi/-dom">-dom</a>
+synonyms:
+- hospital
+raw data:
+  term: bimaryendom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hospital
+    epo: malsanulejo
+    spa: hospital
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: hospital
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bimar + -yen + -dom
+...

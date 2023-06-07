@@ -1,0 +1,56 @@
+---
+term: alodexali
+slug: alodexali
+ipa: "alode\u02C8\u0283ali"
+ipa link: "http://ipa-reader.xyz/?text=alode\u02C8\u0283ali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - foreign
+  epo:
+  - - alilanda
+    - eksterlanda
+    - fremda
+  - - alilande
+    - eksterlande
+    - fremde
+  spa:
+  - - extranjero
+search terms:
+  glb:
+  - alodexali
+  eng:
+  - foreign
+  epo:
+  - alilanda
+  - eksterlanda
+  - fremda
+  - alilande
+  - eksterlande
+  - fremde
+  spa:
+  - extranjero
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/dexa">dexa</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: alodexali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: foreign
+    epo: alilanda, eksterlanda, fremda; alilande, eksterlande, fremde
+    spa: extranjero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + dexa + -li
+...

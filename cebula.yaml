@@ -1,0 +1,56 @@
+---
+term: cebula
+slug: cebula
+ipa: t͡ʃeˈbula
+ipa link: http://ipa-reader.xyz/?text=t͡ʃeˈbula&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - onion
+  epo:
+  - - cepo
+  spa:
+  - - cebolla
+    - _Allium cepa_
+search terms:
+  glb:
+  - cebula
+  eng:
+  - onion
+  epo:
+  - cepo
+  spa:
+  - cebolla
+  - allium cepa
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Zwiebel
+  Espanisa:
+  - - cebolla
+  Polskasa:
+  - - cebula
+tags:
+- yamxey
+raw data:
+  term: cebula
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: onion
+    epo: cepo
+    spa: cebolla, _Allium cepa_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Doycisa (Zwiebel), Espanisa (cebolla), Polskasa (cebula)
+...

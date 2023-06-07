@@ -1,0 +1,79 @@
+---
+term: elfu
+slug: elfu
+ipa: ˈelfu
+ipa link: http://ipa-reader.xyz/?text=ˈelfu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - elf
+  epo:
+  - - elfo
+  spa:
+  - - duende
+    - elfo
+search terms:
+  glb:
+  - elfu
+  eng:
+  - elf
+  epo:
+  - elfo
+  spa:
+  - duende
+  - elfo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - elf
+  Indonesisa: ~
+  Turkisa: ~
+  Vyetnamsa: ~
+  Espanisa:
+  - - elfo
+  Fransesa:
+  - - elfe
+  Rusisa:
+  - - эльф “elf”
+  Doycisa:
+  - - Elfe
+    - Elf
+    - Elb
+    - Elbe
+    - Alb
+  Hindisa:
+  - - एल्फ
+    - एल्फ़ “elf”
+  Arabisa:
+  - - آلْف “alf”
+  Niponsa:
+  - - エルフ “erufu”
+  Hangusa:
+  - - 엘프 “elpu”
+  Parsisa:
+  - - الف “elf”
+raw data:
+  term: elfu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: elf
+    epo: elfo
+    spa: duende, elfo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (elf), Indonesisa, Turkisa, Vyetnamsa, Espanisa (elfo), Fransesa
+    (elfe), Rusisa (эльф “elf”), Doycisa (Elfe, Elf, Elb, Elbe, Alb), Hindisa (एल्फ,
+    एल्फ़ “elf”), Arabisa (آلْف “alf”), Niponsa (エルフ “erufu”), Hangusa (엘프 “elpu”),
+    Parsisa (الف “elf”)
+...

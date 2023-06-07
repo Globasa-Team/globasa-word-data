@@ -1,0 +1,46 @@
+---
+term: islamiya
+slug: islamiya
+ipa: "isla\u02C8mija"
+ipa link: "http://ipa-reader.xyz/?text=isla\u02C8mija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Islam
+  epo:
+  - - islamo
+  spa:
+  - - Islam
+search terms:
+  glb:
+  - islamiya
+  eng:
+  - islam
+  epo:
+  - islamo
+  spa:
+  - islam
+etymology_type: DERIVD
+etymology: <a href="../lexi/Islami">Islami</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: Islamiya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Islam
+    epo: islamo
+    spa: Islam
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Islami + -ya
+...

@@ -1,0 +1,57 @@
+---
+term: lilaku
+slug: lilaku
+ipa: "li\u02C8laku"
+ipa link: "http://ipa-reader.xyz/?text=li\u02C8laku&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lilac
+    - _Syringa_
+  epo:
+  - - lilako
+    - siringo
+  spa:
+  - - lila
+    - _Syringa_
+search terms:
+  glb:
+  - lilaku
+  eng:
+  - lilac
+  - syringa
+  epo:
+  - lilako
+  - siringo
+  spa:
+  - lila
+  - syringa
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lilaku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lilac, _Syringa_
+    epo: lilako, siringo
+    spa: lila, _Syringa_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lilac), Espanisa (lila), Fransesa (lilas), Doycisa (Lila),
+    Indonesisa (lila), Pilipinasa (lila), Hindisa (\u0928\u0940\u0932\u0915 \"nilak\"),
+    Arabisa (\u0644\u064E\u064A\u0652\u0644\u064E\u0643 \"laylak, lilak\"), Niponsa
+    (\u30E9\u30A4\u30E9\u30C3\u30AF \"rairaku\", \u30EA\u30E9 \"rira\"), Telugusa
+    (\u0C28\u0C40\u0C32\u0C2E\u0C41 \"nilamu\"), Turkisa (leylak), Hangusa (\uB77C\uC77C\uB77D
+    \"rayllak\")"
+...

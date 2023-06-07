@@ -1,0 +1,50 @@
+---
+term: sobayam
+slug: sobayam
+ipa: "soba\u02C8jam"
+ipa link: "http://ipa-reader.xyz/?text=soba\u02C8jam&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - breakfast
+    - have breakfast
+  epo:
+  - - "matenman\u011Do"
+  - - "matenman\u011Di"
+  spa:
+  - - desayuno
+search terms:
+  glb:
+  - sobayam
+  eng:
+  - breakfast
+  - have breakfast
+  epo:
+  - "matenman\u011Do"
+  - "matenman\u011Di"
+  spa:
+  - desayuno
+etymology_type: DERIVD
+etymology: <a href="../lexi/soba">soba</a> + <a href="../lexi/yam">yam</a>
+raw data:
+  term: sobayam
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: breakfast, have breakfast
+    epo: "matenman\u011Do; matenman\u011Di"
+    spa: desayuno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: soba + yam
+...

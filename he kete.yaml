@@ -1,0 +1,50 @@
+---
+term: he kete
+slug: he kete
+ipa: "\u02C8xe \u02C8kete"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8kete&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - whoever
+    - who ever
+  epo:
+  - - kiu ajn
+  spa:
+  - - quienquiera
+search terms:
+  glb:
+  - he kete
+  - he
+  - kete
+  eng:
+  - whoever
+  - who ever
+  epo:
+  - kiu ajn
+  spa:
+  - quienquiera
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/ke">ke</a> + <a href="../lexi/te">te</a>
+raw data:
+  term: he kete
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: whoever, who ever
+    epo: kiu ajn
+    spa: quienquiera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, ke + te
+...

@@ -1,0 +1,52 @@
+---
+term: un oflima
+slug: un oflima
+ipa: "\u02C8un o\u02C8flima"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8un o\u02C8flima&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - one fifth
+    - a fifth
+  epo:
+  - - kvinono
+  spa:
+  - - un quinto
+    - una quinta parte
+search terms:
+  glb:
+  - un oflima
+  - un
+  - oflima
+  eng:
+  - one fifth
+  - a fifth
+  epo:
+  - kvinono
+  spa:
+  - un quinto
+  - una quinta parte
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a>, <a href="../lexi/of-">of-</a> + <a href="../lexi/lima">lima</a>
+raw data:
+  term: un oflima
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: one fifth, a fifth
+    epo: kvinono
+    spa: un quinto, una quinta parte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un, of- + lima
+...

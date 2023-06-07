@@ -1,0 +1,52 @@
+---
+term: asman
+slug: asman
+ipa: asˈman
+ipa link: http://ipa-reader.xyz/?text=asˈman&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sky
+  epo:
+  - - ĉielo
+  spa:
+  - - cielo
+search terms:
+  glb:
+  - asman
+  eng:
+  - sky
+  epo:
+  - ĉielo
+  spa:
+  - cielo
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - आसमान “asman”
+  Parsisa:
+  - - آسمان “asman”
+tags:
+- natura
+raw data:
+  term: asman
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sky
+    epo: ĉielo
+    spa: cielo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: natura
+  etymology: Hindisa (आसमान “asman”), Parsisa (آسمان “asman”)
+...

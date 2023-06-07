@@ -1,0 +1,54 @@
+---
+term: kotivwar
+slug: kotivwar
+ipa: "koti\u02C8vwa\u027E"
+ipa link: "http://ipa-reader.xyz/?text=koti\u02C8vwa\u027E&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - "C\xF4te d'Ivoire"
+    - Ivory Coast
+  epo:
+  - - Ebur-Bordo
+    - Kotdivuaro
+  spa:
+  - - Costa de Marfil
+search terms:
+  glb:
+  - kotivwar
+  eng:
+  - "c\xF4te d'ivoire"
+  - ivory coast
+  epo:
+  - ebur-bordo
+  - kotdivuaro
+  spa:
+  - costa de marfil
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - "C\xF4te d'Ivoire"
+tags:
+- dexa
+raw data:
+  term: Kotivwar
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: "C\xF4te d'Ivoire, Ivory Coast"
+    epo: Ebur-Bordo, Kotdivuaro
+    spa: Costa de Marfil
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Fransesa (C\xF4te d'Ivoire)"
+...

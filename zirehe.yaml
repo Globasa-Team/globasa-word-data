@@ -1,0 +1,55 @@
+---
+term: zirehe
+slug: zirehe
+ipa: "zi\u02C8\u027Eexe"
+ipa link: "http://ipa-reader.xyz/?text=zi\u02C8\u027Eexe&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - armor
+  epo:
+  - - kiraso
+  spa:
+  - - armadura
+search terms:
+  glb:
+  - zirehe
+  eng:
+  - armor
+  epo:
+  - kiraso
+  spa:
+  - armadura
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - zirah
+  Turkisa:
+  - - "z\u0131rh"
+  Parsisa:
+  - - "\u0632\u0631\u0647 \u201Czereh\u201D"
+tags:
+- labas
+raw data:
+  term: zirehe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: armor
+    epo: kiraso
+    spa: armadura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Indonesisa (zirah), Turkisa (z\u0131rh), Parsisa (\u0632\u0631\u0647
+    \u201Czereh\u201D)"
+...

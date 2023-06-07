@@ -1,0 +1,63 @@
+---
+term: soho
+slug: soho
+ipa: "\u02C8soxo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8soxo&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - reciprocal
+    - reciprocally
+    - each other
+  epo:
+  - - reciproka
+  - - reciproke
+  spa:
+  - - "rec\xEDproco"
+  - - "rec\xEDprocamente"
+    - uno al otro
+search terms:
+  glb:
+  - soho
+  eng:
+  - reciprocal
+  - reciprocally
+  - each other
+  epo:
+  - reciproka
+  - reciproke
+  spa:
+  - "rec\xEDproco"
+  - "rec\xEDprocamente"
+  - uno al otro
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u76F8\u4E92 \u201Cxi\u0101ngh\xF9\u201D"
+  Hangusa:
+  - - "\uC0C1\uD638 \u201Csangho\u201D"
+  Niponsa:
+  - - "\u76F8\u4E92 \u201Cs\u014Dgo\u201D"
+raw data:
+  term: soho
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: reciprocal, reciprocally, each other
+    epo: reciproka; reciproke
+    spa: "rec\xEDproco; rec\xEDprocamente, uno al otro"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u76F8\u4E92 \u201Cxi\u0101ngh\xF9\u201D), Hangusa (\uC0C1\uD638
+    \u201Csangho\u201D), Niponsa (\u76F8\u4E92 \u201Cs\u014Dgo\u201D)"
+...

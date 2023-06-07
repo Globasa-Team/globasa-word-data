@@ -1,0 +1,55 @@
+---
+term: jadin
+slug: jadin
+ipa: "d\u0361\u0292a\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8din&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - assumption
+  - - assume
+    - suppose
+  epo:
+  - - supozo
+  - - supozi
+  spa:
+  - - "suposici\xF3n"
+  - - suponer
+search terms:
+  glb:
+  - jadin
+  eng:
+  - assumption
+  - assume
+  - suppose
+  epo:
+  - supozo
+  - supozi
+  spa:
+  - "suposici\xF3n"
+  - suponer
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jadin
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: assumption; assume, suppose
+    epo: supozo; supozi
+    spa: "suposici\xF3n; suponer"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5047\u5B9A \u201Cji\u01CEd\xECng\u201D), Vyetnamsa (gi\u1EA3
+    \u0111\u1ECBnh)"
+...

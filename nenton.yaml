@@ -1,0 +1,50 @@
+---
+term: nenton
+slug: nenton
+ipa: "nen\u02C8ton"
+ipa link: "http://ipa-reader.xyz/?text=nen\u02C8ton&voice=Ewa"
+status: false
+category: derived
+word class: p
+trans:
+  eng:
+  - - without (_apart/separate from_)
+  epo:
+  - - sen
+    - aparte de
+  spa:
+  - - sin
+    - separado de
+search terms:
+  glb:
+  - nenton
+  eng:
+  - without
+  epo:
+  - sen
+  - aparte de
+  spa:
+  - sin
+  - separado de
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/ton">ton</a>
+raw data:
+  term: nenton
+  category: derived
+  word class: p
+  status: false
+  trans:
+    eng: without (_apart/separate from_)
+    epo: sen, aparte de
+    spa: sin, separado de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + ton
+...

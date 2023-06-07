@@ -1,0 +1,46 @@
+---
+term: nayjeriyen
+slug: nayjeriyen
+ipa: "najd\u0361\u0292e\u027Ei\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=najd\u0361\u0292e\u027Ei\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Nigerian
+  epo:
+  - - "ni\u011Deria"
+  spa:
+  - - nigeriano (_persona_)
+search terms:
+  glb:
+  - nayjeriyen
+  eng:
+  - nigerian
+  epo:
+  - "ni\u011Deria"
+  spa:
+  - nigeriano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Nayjeri">Nayjeri</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Nayjeriyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Nigerian
+    epo: "ni\u011Deria"
+    spa: nigeriano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Nayjeri + -yen
+...

@@ -1,0 +1,66 @@
+---
+term: magenta
+slug: magenta
+ipa: "ma\u02C8genta"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8genta&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - magenta
+  epo:
+  - - fuksia
+    - fuksina
+    - "ma\u011Denta"
+    - magenta
+  - - fuksie
+    - fuksine
+    - "ma\u011Dente"
+    - magente
+  spa:
+  - - magenta
+search terms:
+  glb:
+  - magenta
+  eng:
+  - magenta
+  epo:
+  - fuksia
+  - fuksina
+  - "ma\u011Denta"
+  - magenta
+  - fuksie
+  - fuksine
+  - "ma\u011Dente"
+  - magente
+  spa:
+  - magenta
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kolor
+raw data:
+  term: magenta
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: magenta
+    epo: "fuksia, fuksina, ma\u011Denta, magenta; fuksie, fuksine, ma\u011Dente, magente"
+    spa: magenta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: "Englisa (magenta), Fransesa (magenta), Doycisa (Magenta), Espanisa (magenta),
+    Hindisa (\u092E\u0948\u091C\u0947\u0902\u091F\u093E \u201Cmejenta\u201D), Telugusa
+    (\u0C2E\u0C3E\u0C1C\u0C46\u0C02\u0C1F\u0C3E \u201Cmejenta\u201D), Turkisa (majenta),
+    Indonesisa (magenta), Niponsa (\u30DE\u30B8\u30A7\u30F3\u30BF \u201Cmejenta\u201D),
+    Hangusa (\uB9C8\uC820\uD0C0\uC0C9 \u201Cmajentasek\u201D)"
+...

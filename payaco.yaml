@@ -1,0 +1,60 @@
+---
+term: payaco
+slug: payaco
+ipa: "pa\u02C8jat\u0361\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=pa\u02C8jat\u0361\u0283o&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - clown
+  epo:
+  - - "kla\u016Dno"
+    - pajaco
+  spa:
+  - - payaso
+search terms:
+  glb:
+  - payaco
+  eng:
+  - clown
+  epo:
+  - "kla\u016Dno"
+  - pajaco
+  spa:
+  - payaso
+etymology_type: NATLNG
+etymology:
+  Italisa:
+  - - pagliaccio
+  Espanisa:
+  - - payaso
+  Pilipinasa: ~
+  Rusisa:
+  - - "\u043F\u0430\u044F\u0446 \u201Cpayats\u201D"
+  Turkisa:
+  - - "palya\xE7o"
+tags:
+- insan
+raw data:
+  term: payaco
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: clown
+    epo: "kla\u016Dno, pajaco"
+    spa: payaso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: "Italisa (pagliaccio), Espanisa (payaso), Pilipinasa, Rusisa (\u043F\u0430\u044F\u0446
+    \u201Cpayats\u201D), Turkisa (palya\xE7o)"
+...

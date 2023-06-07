@@ -1,0 +1,61 @@
+---
+term: yumuku
+slug: yumuku
+ipa: "ju\u02C8muku"
+ipa link: "http://ipa-reader.xyz/?text=ju\u02C8muku&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - nomadism
+  - - live as a nomad
+  epo:
+  - - nomadismo
+  - - nomadi
+  spa:
+  - - nomadismo
+  - - "vivir como n\xF3mada"
+search terms:
+  glb:
+  - yumuku
+  eng:
+  - nomadism
+  - live as a nomad
+  epo:
+  - nomadismo
+  - nomadi
+  spa:
+  - nomadismo
+  - "vivir como n\xF3mada"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6E38\u7267 \u201Cyowmu\u201D"
+  Niponsa:
+  - - "\u904A\u7267 \u201Cyuboku\u201D"
+  Hangusa:
+  - - "\uC720\uBAA9 \u201Cyumok\u201D"
+  Vyetnamsa:
+  - - "du m\u1EE5c"
+raw data:
+  term: yumuku
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: nomadism; live as a nomad
+    epo: nomadismo; nomadi
+    spa: "nomadismo; vivir como n\xF3mada"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: nomad, nomadism
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6E38\u7267 \u201Cyowmu\u201D), Niponsa (\u904A\u7267 \u201Cyuboku\u201D),
+    Hangusa (\uC720\uBAA9 \u201Cyumok\u201D), Vyetnamsa (du m\u1EE5c)"
+...

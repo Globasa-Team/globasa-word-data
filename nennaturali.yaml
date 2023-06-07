@@ -1,0 +1,51 @@
+---
+term: nennaturali
+slug: nennaturali
+ipa: "nennatu\u02C8\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=nennatu\u02C8\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unnatural
+  - - unnaturally
+  epo:
+  - - nenatura
+  - - nenature
+  spa:
+  - - antinatural
+search terms:
+  glb:
+  - nennaturali
+  eng:
+  - unnatural
+  - unnaturally
+  epo:
+  - nenatura
+  - nenature
+  spa:
+  - antinatural
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/natura">natura</a> +
+  <a href="../lexi/-li">-li</a>
+raw data:
+  term: nennaturali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unnatural; unnaturally
+    epo: nenatura; nenature
+    spa: antinatural
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + natura + -li
+...

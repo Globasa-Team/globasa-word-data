@@ -1,0 +1,90 @@
+---
+term: radyum
+slug: radyum
+ipa: "\u027Ea\u02C8djum"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8djum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - radium
+  epo:
+  - - radiumo
+  spa:
+  - - radio (_elemento_)
+    - Ra
+search terms:
+  glb:
+  - radyum
+  eng:
+  - radium
+  epo:
+  - radiumo
+  spa:
+  - radio
+  - ra
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - radium
+  Hindisa:
+  - - "\u0930\u0947\u0921\u093F\u092F\u092E \u201Crediyam\u201D"
+  Espanisa:
+  - - radio
+  Arabisa:
+  - - "\u0631\u064E\u0627\u062F\u0650\u064A\u064F\u0648\u0645 \u201Cradiyum\u201D"
+  Fransesa:
+  - - radium
+  Rusisa:
+  - - "\u0440\u0430\u0434\u0438\u0439 \u201Cradiy\u201D"
+  Indonesisa:
+  - - radium
+  Doycisa:
+  - - Radium
+  Niponsa:
+  - - "\u30E9\u30B8\u30A6\u30E0 \u201Crajiumu\u201D"
+    - "\u30E9\u30C7\u30A3\u30A6\u30E0 \u201Cradiumu\u201D"
+  Telugusa:
+  - - "\u0C30\u0C47\u0C21\u0C3F\u0C2F\u0C02 \u201Crediyam\u201D"
+  Turkisa:
+  - - radyum
+  Hangusa:
+  - - "\uB77C\uB4D0 \u201Cradyum\u201D"
+  Vyetnamsa:
+  - - radi
+  Parsisa:
+  - - "\u0631\u0627\u062F\u06CC\u0648\u0645 \u201Cradiyom\u201D"
+  Swahilisa:
+  - - radi
+  Pilipinasa:
+  - - radyo
+tags:
+- kimikali monlari
+raw data:
+  term: radyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: radium
+    epo: radiumo
+    spa: radio (_elemento_), Ra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (radium), Hindisa (\u0930\u0947\u0921\u093F\u092F\u092E \u201Crediyam\u201D),
+    Espanisa (radio), Arabisa (\u0631\u064E\u0627\u062F\u0650\u064A\u064F\u0648\u0645
+    \u201Cradiyum\u201D), Fransesa (radium), Rusisa (\u0440\u0430\u0434\u0438\u0439
+    \u201Cradiy\u201D), Indonesisa (radium), Doycisa (Radium), Niponsa (\u30E9\u30B8\u30A6\u30E0
+    \u201Crajiumu\u201D, \u30E9\u30C7\u30A3\u30A6\u30E0 \u201Cradiumu\u201D), Telugusa
+    (\u0C30\u0C47\u0C21\u0C3F\u0C2F\u0C02 \u201Crediyam\u201D), Turkisa (radyum),
+    Hangusa (\uB77C\uB4D0 \u201Cradyum\u201D), Vyetnamsa (radi), Parsisa (\u0631\u0627\u062F\u06CC\u0648\u0645
+    \u201Cradiyom\u201D), Swahilisa (radi), Pilipinasa (radyo)"
+...

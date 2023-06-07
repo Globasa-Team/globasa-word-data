@@ -1,0 +1,53 @@
+---
+term: eyresa
+slug: eyresa
+ipa: "ej\u02C8\u027Eesa"
+ipa link: "http://ipa-reader.xyz/?text=ej\u02C8\u027Eesa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Irish (language)
+  epo:
+  - - la irlanda (lingvo)
+    - la ejra (lingvo)
+  spa:
+  - - "irland\xE9s (_idioma_)"
+search terms:
+  glb:
+  - eyresa
+  eng:
+  - irish language
+  - irish
+  epo:
+  - la irlanda lingvo
+  - la irlanda
+  - la ejra lingvo
+  - la ejra
+  spa:
+  - "irland\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Eyre">Eyre</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Eyresa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Irish (language)
+    epo: la irlanda (lingvo), la ejra (lingvo)
+    spa: "irland\xE9s (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Eyre + -sa
+...

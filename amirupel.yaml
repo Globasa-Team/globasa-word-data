@@ -1,0 +1,42 @@
+---
+term: amirupel
+slug: amirupel
+ipa: "ami\u027Eu\u02C8pel"
+ipa link: "http://ipa-reader.xyz/?text=ami\u027Eu\u02C8pel&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - control
+  spa:
+  - - control
+search terms:
+  glb:
+  - amirupel
+  eng:
+  - control
+  spa:
+  - control
+etymology_type: DERIVD
+etymology: <a href="../lexi/amiru">amiru</a> + <a href="../lexi/-pel">-pel</a>
+raw data:
+  term: amirupel
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: control
+    epo: ""
+    spa: control
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: amiru + -pel
+...

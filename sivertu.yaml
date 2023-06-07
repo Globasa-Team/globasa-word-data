@@ -1,0 +1,100 @@
+---
+term: sivertu
+slug: sivertu
+ipa: "si\u02C8ve\u027Etu"
+ipa link: "http://ipa-reader.xyz/?text=si\u02C8ve\u027Etu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sievert
+  epo:
+  - - siverto
+  spa:
+  - - _sievert_
+    - Sv
+  deu:
+  - - Sievert
+  fra:
+  - - sievert
+  rus:
+  - - "\u0437\u0438\u0432\u0435\u0440\u0442"
+  zho:
+  - - "\u5E0C\u6C83\u7279"
+search terms:
+  glb:
+  - sivertu
+  eng:
+  - sievert
+  epo:
+  - siverto
+  spa:
+  - sievert
+  - sv
+  deu:
+  - sievert
+  fra:
+  - sievert
+  rus:
+  - "\u0437\u0438\u0432\u0435\u0440\u0442"
+  zho:
+  - "\u5E0C\u6C83\u7279"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sievert
+  Espanisa:
+  - - sievert
+  Fransesa:
+  - - sievert
+  Rusisa:
+  - - "\u0437\u0438\u0432\u0435\u0440\u0442 \u201Czivert\u201D"
+  Doycisa:
+  - - Sievert
+  Indonesisa:
+  - - sievert
+  Pilipinasa:
+  - - sievert
+  Putunhwa:
+  - - "\u5E0C\u6C83\u7279 \u201Cxiwote\u201D"
+  Hindisa:
+  - - "\u0938\u0940\u0935\u0930\u094D\u091F \u201Csivart\u201D"
+  Arabisa:
+  - - "\u0632\u064A\u0641\u0631\u062A \u201Czifirt\u201D"
+  Niponsa:
+  - - "\u30B7\u30FC\u30D9\u30EB\u30C8 \u201Cxibaruto\u201D"
+  Turkisa:
+  - - sievert
+  Hangusa:
+  - - "\uC2DC\uBC84\uD2B8 \u201Cxibotu\u201D"
+  Vyetnamsa:
+  - - sievert
+  Parsisa:
+  - - "\u0633\u06CC\u0648\u0631\u062A \u201Csivert\u201D"
+raw data:
+  term: sivertu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sievert
+    epo: siverto
+    spa: _sievert_, Sv
+    deu: Sievert
+    fra: sievert
+    rus: "\u0437\u0438\u0432\u0435\u0440\u0442"
+    zho: "\u5E0C\u6C83\u7279"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (sievert), Espanisa (sievert), Fransesa (sievert), Rusisa (\u0437\u0438\u0432\u0435\u0440\u0442
+    \u201Czivert\u201D), Doycisa (Sievert), Indonesisa (sievert), Pilipinasa (sievert),
+    Putunhwa (\u5E0C\u6C83\u7279 \u201Cxiwote\u201D), Hindisa (\u0938\u0940\u0935\u0930\u094D\u091F
+    \u201Csivart\u201D), Arabisa (\u0632\u064A\u0641\u0631\u062A \u201Czifirt\u201D),
+    Niponsa (\u30B7\u30FC\u30D9\u30EB\u30C8 \u201Cxibaruto\u201D), Turkisa (sievert),
+    Hangusa (\uC2DC\uBC84\uD2B8 \u201Cxibotu\u201D), Vyetnamsa (sievert), Parsisa
+    (\u0633\u06CC\u0648\u0631\u062A \u201Csivert\u201D)"
+...

@@ -1,0 +1,54 @@
+---
+term: (fe) nunli din
+slug: (fe) nunli din
+ipa: "\u02C8(fe) \u02C8nunli \u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8(fe) \u02C8nunli \u02C8din&voice=Ewa"
+status: false
+category: phrase
+word class: jm.p
+trans:
+  eng:
+  - - nowadays
+  epo:
+  - - nune
+    - nuntage
+  spa:
+  - - "hoy (en) d\xEDa"
+search terms:
+  glb:
+  - (fe) nunli din
+  - fe nunli din
+  - nunli din
+  - nunli
+  - din
+  eng:
+  - nowadays
+  epo:
+  - nune
+  - nuntage
+  spa:
+  - "hoy en d\xEDa"
+  - "hoy d\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/nun">nun</a> + <a href="../lexi/-li">-li</a>,
+  <a href="../lexi/din">din</a>
+raw data:
+  term: (fe) nunli din
+  category: phrase
+  word class: jm.p
+  status: false
+  trans:
+    eng: nowadays
+    epo: nune, nuntage
+    spa: "hoy (en) d\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, nun + -li, din
+...

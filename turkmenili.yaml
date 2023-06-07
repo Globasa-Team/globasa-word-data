@@ -1,0 +1,50 @@
+---
+term: turkmenili
+slug: turkmenili
+ipa: "tu\u027Ekme\u02C8nili"
+ipa link: "http://ipa-reader.xyz/?text=tu\u027Ekme\u02C8nili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Turkmen
+  epo:
+  - - tukmena
+  - - turkmene
+  spa:
+  - - turcomano
+    - turkmeno
+search terms:
+  glb:
+  - turkmenili
+  eng:
+  - turkmen
+  epo:
+  - tukmena
+  - turkmene
+  spa:
+  - turcomano
+  - turkmeno
+etymology_type: DERIVD
+etymology: <a href="../lexi/Turkmeni">Turkmeni</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Turkmenili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Turkmen
+    epo: tukmena; turkmene
+    spa: turcomano, turkmeno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Turkmeni + -li
+...

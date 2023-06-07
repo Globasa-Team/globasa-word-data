@@ -1,0 +1,49 @@
+---
+term: doxonenabil
+slug: doxonenabil
+ipa: "do\u0283onena\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=do\u0283onena\u02C8bil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - illiterate
+  epo:
+  - - nelegoscia
+  - - nelegoscie
+  spa:
+  - - analfabeto
+search terms:
+  glb:
+  - doxonenabil
+  eng:
+  - illiterate
+  epo:
+  - nelegoscia
+  - nelegoscie
+  spa:
+  - analfabeto
+etymology_type: DERIVD
+etymology: <a href="../lexi/doxo">doxo</a> + <a href="../lexi/nen-">nen-</a> + <a
+  href="../lexi/-abil">-abil</a>
+raw data:
+  term: doxonenabil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: illiterate
+    epo: nelegoscia; nelegoscie
+    spa: analfabeto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: doxo + nen- + -abil
+...

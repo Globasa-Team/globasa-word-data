@@ -1,0 +1,69 @@
+---
+term: swikara
+slug: swikara
+ipa: "swi\u02C8ka\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=swi\u02C8ka\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - acceptance
+    - acknowledgement
+    - recognition
+  - - accept
+    - acknowledge
+    - recognize
+  epo:
+  - - akcepto
+  - - akcepti
+  spa:
+  - - "aceptaci\xF3n"
+    - reconocimiento
+  - - aceptar
+    - reconocer
+search terms:
+  glb:
+  - swikara
+  eng:
+  - acceptance
+  - acknowledgement
+  - recognition
+  - accept
+  - acknowledge
+  - recognize
+  epo:
+  - akcepto
+  - akcepti
+  spa:
+  - "aceptaci\xF3n"
+  - reconocimiento
+  - aceptar
+  - reconocer
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u094D\u0935\u0940\u0915\u093E\u0930 \u201Csveekaar\u201D"
+  Karnatakasa:
+  - - "\u0CB8\u0CCD\u0CB5\u0CC0\u0C95\u0CBE\u0CB0 \u201Csv\u012Bk\u0101ra\u201D"
+raw data:
+  term: swikara
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: acceptance, acknowledgement, recognition; accept, acknowledge, recognize
+    epo: akcepto; akcepti
+    spa: "aceptaci\xF3n, reconocimiento; aceptar, reconocer"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0938\u094D\u0935\u0940\u0915\u093E\u0930 \u201Csveekaar\u201D),
+    Karnatakasa (\u0CB8\u0CCD\u0CB5\u0CC0\u0C95\u0CBE\u0CB0 \u201Csv\u012Bk\u0101ra\u201D)"
+...

@@ -1,0 +1,52 @@
+---
+term: fobipul
+slug: fobipul
+ipa: "fobi\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=fobi\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - afraid
+    - fearful
+  epo:
+  - - tima
+  - - time
+  spa:
+  - - temeroso
+    - miedoso
+search terms:
+  glb:
+  - fobipul
+  eng:
+  - afraid
+  - fearful
+  epo:
+  - tima
+  - time
+  spa:
+  - temeroso
+  - miedoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/fobi">fobi</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: fobipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: afraid, fearful
+    epo: tima; time
+    spa: temeroso, miedoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fobi + -pul
+...

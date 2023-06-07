@@ -1,0 +1,52 @@
+---
+term: intreaksyon
+slug: intreaksyon
+ipa: "int\u027Eeak\u02C8sjon"
+ipa link: "http://ipa-reader.xyz/?text=int\u027Eeak\u02C8sjon&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - interaction
+  - - interact
+  epo:
+  - - interago
+  - - interagi
+  spa:
+  - - "interacci\xF3n"
+  - - interactuar
+search terms:
+  glb:
+  - intreaksyon
+  eng:
+  - interaction
+  - interact
+  epo:
+  - interago
+  - interagi
+  spa:
+  - "interacci\xF3n"
+  - interactuar
+etymology_type: DERIVD
+etymology: <a href="../lexi/intre-">intre-</a> + <a href="../lexi/aksyon">aksyon</a>
+raw data:
+  term: intreaksyon
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: interaction; interact
+    epo: interago; interagi
+    spa: "interacci\xF3n; interactuar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: intre- + aksyon
+...

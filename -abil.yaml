@@ -1,0 +1,68 @@
+---
+term: -abil
+slug: -abil
+ipa: "-a\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=-a\u02C8bil&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - which can (be)
+    - -able
+    - -ible
+  epo:
+  - - -pova/e
+    - -kapabla/e
+  spa:
+  - - que (se) puede
+    - -able
+    - -ible
+  deu:
+  - - "f\xE4hig"
+    - in der Lage
+    - "-f\xE4hig"
+    - -tauglich
+search terms:
+  glb:
+  - -abil
+  eng:
+  - which can be
+  - which can
+  - -able
+  - -ible
+  epo:
+  - -pova/e
+  - -kapabla/e
+  spa:
+  - que se puede
+  - que puede
+  - -able
+  - -ible
+  deu:
+  - "f\xE4hig"
+  - in der lage
+  - "-f\xE4hig"
+  - -tauglich
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/abil">abil</a>.
+raw data:
+  term: -abil
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: which can (be), -able, -ible
+    epo: -pova/e, -kapabla/e
+    spa: que (se) puede, -able,-ible
+    deu: "f\xE4hig, in der Lage, -f\xE4hig, -tauglich"
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _abil_.
+...

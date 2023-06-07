@@ -1,0 +1,46 @@
+---
+term: doyciyen
+slug: doyciyen
+ipa: "dojt\u0361\u0283i\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=dojt\u0361\u0283i\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - German
+  epo:
+  - - germano
+  spa:
+  - - "alem\xE1n (_persona_)"
+search terms:
+  glb:
+  - doyciyen
+  eng:
+  - german
+  epo:
+  - germano
+  spa:
+  - "alem\xE1n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Doyci">Doyci</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Doyciyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'German '
+    epo: germano
+    spa: "alem\xE1n (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doyci + -yen
+...

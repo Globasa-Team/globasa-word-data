@@ -1,0 +1,54 @@
+---
+term: funjin
+slug: funjin
+ipa: funˈd͡ʒin
+ipa link: http://ipa-reader.xyz/?text=funˈd͡ʒin&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rubella
+  epo:
+  - - rubeolo
+  spa:
+  - - rubéola
+search terms:
+  glb:
+  - funjin
+  eng:
+  - rubella
+  epo:
+  - rubeolo
+  spa:
+  - rubéola
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 风疹 "fengjen"
+  Niponsa:
+  - - 風疹 "fuxin"
+  Hangusa:
+  - - 풍진 "pungjin"
+tags:
+- medis
+raw data:
+  term: funjin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rubella
+    epo: rubeolo
+    spa: rubéola
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: Putunhwa (风疹 "fengjen"), Niponsa (風疹 "fuxin"), Hangusa (풍진 "pungjin")
+...

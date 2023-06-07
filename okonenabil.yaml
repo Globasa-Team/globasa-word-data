@@ -1,0 +1,56 @@
+---
+term: okonenabil
+slug: okonenabil
+ipa: "okonena\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=okonena\u02C8bil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - blind
+  - - blindly
+  epo:
+  - - blinda
+    - senvida
+  - - blinde
+    - senvinde
+  spa:
+  - - ciego
+  - - ciegamente
+search terms:
+  glb:
+  - okonenabil
+  eng:
+  - blind
+  - blindly
+  epo:
+  - blinda
+  - senvida
+  - blinde
+  - senvinde
+  spa:
+  - ciego
+  - ciegamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/oko">oko</a> + <a href="../lexi/nen-">nen-</a> + <a href="../lexi/-abil">-abil</a>
+raw data:
+  term: okonenabil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: blind; blindly
+    epo: blinda, senvida; blinde, senvinde
+    spa: ciego; ciegamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: oko + nen- + -abil
+...

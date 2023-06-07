@@ -1,0 +1,54 @@
+---
+term: tongibe
+slug: tongibe
+ipa: "ton\u02C8gibe"
+ipa link: "http://ipa-reader.xyz/?text=ton\u02C8gibe&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - contribution
+  - - contribute
+  epo:
+  - - kontribuo
+  - - kontribui
+    - kundoni
+  spa:
+  - - "contribuci\xF3n"
+  - - contribuir
+search terms:
+  glb:
+  - tongibe
+  eng:
+  - contribution
+  - contribute
+  epo:
+  - kontribuo
+  - kontribui
+  - kundoni
+  spa:
+  - "contribuci\xF3n"
+  - contribuir
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton-">ton-</a> + <a href="../lexi/gibe">gibe</a>
+raw data:
+  term: tongibe
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: contribution; contribute
+    epo: kontribuo; kontribui, kundoni
+    spa: "contribuci\xF3n; contribuir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton- + gibe
+...

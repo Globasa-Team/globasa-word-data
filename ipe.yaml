@@ -1,0 +1,46 @@
+---
+term: ipe
+slug: ipe
+ipa: "\u02C8ipe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ipe&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter p
+  epo:
+  - - litero p
+  spa:
+  - - letra p
+search terms:
+  glb:
+  - ipe
+  eng:
+  - letter p
+  epo:
+  - litero p
+  spa:
+  - letra p
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ipe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter p
+    epo: litero p
+    spa: letra p
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

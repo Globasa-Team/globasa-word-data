@@ -1,0 +1,66 @@
+---
+term: abece
+slug: abece
+ipa: "a\u02C8bet\u0361\u0283e"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8bet\u0361\u0283e&voice=Ewa"
+status: true
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - alphabet
+    - ABCs
+  - - alphabetize
+  epo:
+  - - aboco
+    - alfabeto
+  - - alfabetigi
+  spa:
+  - - alfabeto
+    - abecedario
+  - - alfabetizar
+  deu:
+  - - Alphabet
+    - Abc
+search terms:
+  glb:
+  - abece
+  eng:
+  - alphabet
+  - abcs
+  - alphabetize
+  epo:
+  - aboco
+  - alfabeto
+  - alfabetigi
+  spa:
+  - alfabeto
+  - abecedario
+  - alfabetizar
+  deu:
+  - alphabet
+  - abc
+etymology_type: DERIVD
+etymology: <a href="../lexi/a">a</a> + <a href="../lexi/ibe">ibe</a> + <a href="../lexi/ice">ice</a>
+tags:
+- eskolya
+raw data:
+  term: abece
+  category: derived
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: alphabet, ABCs; alphabetize
+    epo: aboco, alfabeto; alfabetigi
+    spa: alfabeto, abecedario; alfabetizar
+    deu: Alphabet, Abc
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: eskolya
+  etymology: a + ibe + ice
+...

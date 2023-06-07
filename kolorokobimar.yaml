@@ -1,0 +1,49 @@
+---
+term: kolorokobimar
+slug: kolorokobimar
+ipa: "kolo\u027Eokobi\u02C8ma\u027E"
+ipa link: "http://ipa-reader.xyz/?text=kolo\u027Eokobi\u02C8ma\u027E&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - color-blind
+  epo:
+  - - kolorblinda
+  - - kolorblinde
+  spa:
+  - - "dalt\xF3nico"
+search terms:
+  glb:
+  - kolorokobimar
+  eng:
+  - color-blind
+  epo:
+  - kolorblinda
+  - kolorblinde
+  spa:
+  - "dalt\xF3nico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/kolor">kolor</a> + <a href="../lexi/oko">oko</a> + <a
+  href="../lexi/-bimar">-bimar</a>
+raw data:
+  term: kolorokobimar
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: color-blind
+    epo: kolorblinda; kolorblinde
+    spa: "dalt\xF3nico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kolor + oko + -bimar
+...

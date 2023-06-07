@@ -1,0 +1,55 @@
+---
+term: bexin
+slug: bexin
+ipa: beˈʃin
+ipa link: http://ipa-reader.xyz/?text=beˈʃin&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - jury
+  epo:
+  - - ĵurio
+  spa:
+  - - jurado
+search terms:
+  glb:
+  - bexin
+  eng:
+  - jury
+  epo:
+  - ĵurio
+  spa:
+  - jurado
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 陪审 "peyxen"
+  Niponsa:
+  - - 陪審 "bayxin"
+  Vyetnamsa:
+  - - bồi thẩm
+  Hangusa:
+  - - 배심 "bexim"
+raw data:
+  term: bexin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: jury
+    epo: ĵurio
+    spa: jurado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (陪审 "peyxen"), Niponsa (陪審 "bayxin"), Vyetnamsa (bồi thẩm),
+    Hangusa (배심 "bexim")
+...

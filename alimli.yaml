@@ -1,0 +1,52 @@
+---
+term: alimli
+slug: alimli
+ipa: "a\u02C8limli"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8limli&voice=Ewa"
+status: true
+category: derived
+word class: t
+trans:
+  eng:
+  - - instructional
+  epo:
+  - - instrua
+  - - instrue
+  spa:
+  - - instructivo
+    - "de instrucci\xF3n"
+    - "de ense\xF1anza"
+search terms:
+  glb:
+  - alimli
+  eng:
+  - instructional
+  epo:
+  - instrua
+  - instrue
+  spa:
+  - instructivo
+  - "de instrucci\xF3n"
+  - "de ense\xF1anza"
+etymology_type: DERIVD
+etymology: <a href="../lexi/alim">alim</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: alimli
+  category: derived
+  word class: t
+  status: true
+  trans:
+    eng: instructional
+    epo: instrua; instrue
+    spa: "instructivo, de instrucci\xF3n, de ense\xF1anza"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alim + -li
+...

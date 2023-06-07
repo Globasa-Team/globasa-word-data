@@ -1,0 +1,52 @@
+---
+term: dayhoxya
+slug: dayhoxya
+ipa: "daj\u02C8xo\u0283ja"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8xo\u0283ja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ecstacy
+    - bliss
+  epo:
+  - - "feli\u0109ego"
+    - ekstazo
+    - beateco
+  spa:
+  - - "\xE9xtasis"
+search terms:
+  glb:
+  - dayhoxya
+  eng:
+  - ecstacy
+  - bliss
+  epo:
+  - "feli\u0109ego"
+  - ekstazo
+  - beateco
+  spa:
+  - "\xE9xtasis"
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/hox">hox</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: dayhoxya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ecstacy, bliss
+    epo: "feli\u0109ego, ekstazo, beateco"
+    spa: "\xE9xtasis"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + hox + -ya
+...

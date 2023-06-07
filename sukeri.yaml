@@ -1,0 +1,87 @@
+---
+term: sukeri
+slug: sukeri
+ipa: "su\u02C8ke\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8ke\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sugar
+  epo:
+  - - sukero
+  spa:
+  - - "az\xFAcar"
+search terms:
+  glb:
+  - sukeri
+  eng:
+  - sugar
+  epo:
+  - sukero
+  spa:
+  - "az\xFAcar"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0633\u0643\u0631 \u201Csukar\u201D"
+  Englisa:
+  - - sugar
+  Espanisa:
+  - - azucar
+  Fransesa:
+  - - sucre
+  Rusisa:
+  - - "\u0441\u0430\u0445\u0430\u0440 \u201Csahar\u201D"
+  Doycisa:
+  - - Zucker
+  Swahilisa:
+  - - sukari
+  Turkisa:
+  - - "\u015Feker"
+  Parsisa:
+  - - "\u0634\u06A9\u0631 \u201Cshekar\u201D"
+  Hindisa:
+  - - "\u0936\u0930\u094D\u0915\u0930\u093E \u201C\u015Barkar\u0101\u201D"
+    - "\u0936\u0915\u094D\u0915\u0930 \u201C\u015Bakkar\u201D"
+  Telugusa:
+  - - "\u0C1A\u0C46\u0C15\u0C4D\u0C15\u0C30 \u201Ccekkara\u201D"
+    - "\u0C1A\u0C15\u0C4D\u0C15\u0C46\u0C30 \u201Ccakkera\u201D"
+    - "\u0C36\u0C30\u0C4D\u0C15\u0C30 \u201C\u015Barkara\u201D"
+  Indonesisa:
+  - - sakar
+  Pilipinasa:
+  - - asukal
+  Italisa:
+  - - zucchero
+    - zuccheri
+tags:
+- yamxey
+raw data:
+  term: sukeri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sugar
+    epo: sukero
+    spa: "az\xFAcar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Arabisa (\u0633\u0643\u0631 \u201Csukar\u201D), Englisa (sugar), Espanisa
+    (azucar), Fransesa (sucre), Rusisa (\u0441\u0430\u0445\u0430\u0440 \u201Csahar\u201D),
+    Doycisa (Zucker), Swahilisa (sukari), Turkisa (\u015Feker), Parsisa (\u0634\u06A9\u0631
+    \u201Cshekar\u201D), Hindisa (\u0936\u0930\u094D\u0915\u0930\u093E \u201C\u015Barkar\u0101\u201D,
+    \u0936\u0915\u094D\u0915\u0930 \u201C\u015Bakkar\u201D), Telugusa (\u0C1A\u0C46\u0C15\u0C4D\u0C15\u0C30
+    \u201Ccekkara\u201D, \u0C1A\u0C15\u0C4D\u0C15\u0C46\u0C30 \u201Ccakkera\u201D,
+    \u0C36\u0C30\u0C4D\u0C15\u0C30 \u201C\u015Barkara\u201D), Indonesisa (sakar),
+    Pilipinasa (asukal), Italisa (zucchero, zuccheri)"
+...

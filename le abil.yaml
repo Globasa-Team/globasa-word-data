@@ -1,0 +1,52 @@
+---
+term: le abil
+slug: le abil
+ipa: "le a\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=le a\u02C8bil&voice=Ewa"
+status: false
+category: derived
+word class: f.sah
+trans:
+  eng:
+  - - could
+    - was able
+    - were able
+  epo:
+  - - povis
+  spa:
+  - - pudo
+search terms:
+  glb:
+  - le abil
+  - le
+  - abil
+  eng:
+  - could
+  - was able
+  - were able
+  epo:
+  - povis
+  spa:
+  - pudo
+etymology_type: DERIVD
+etymology: <a href="../lexi/le">le</a>, <a href="../lexi/abil">abil</a>
+raw data:
+  term: le abil
+  category: derived
+  word class: f.sah
+  status: false
+  trans:
+    eng: could, was able, were able
+    epo: povis
+    spa: pudo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: le, abil
+...

@@ -1,0 +1,47 @@
+---
+term: lubanonyen
+slug: lubanonyen
+ipa: "lubano\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=lubano\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Lebanese (person)
+  epo:
+  - - libanano
+  spa:
+  - - "liban\xE9s (_persona_)"
+search terms:
+  glb:
+  - lubanonyen
+  eng:
+  - lebanese person
+  - lebanese
+  epo:
+  - libanano
+  spa:
+  - "liban\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Lubnan">Lubnan</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Lubanonyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Lebanese (person)
+    epo: libanano
+    spa: "liban\xE9s (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Lubnan + -yen
+...

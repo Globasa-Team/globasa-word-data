@@ -1,0 +1,46 @@
+---
+term: visitayen
+slug: visitayen
+ipa: "visita\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=visita\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - visitor
+  epo:
+  - - vizitanto
+  spa:
+  - - visitante
+search terms:
+  glb:
+  - visitayen
+  eng:
+  - visitor
+  epo:
+  - vizitanto
+  spa:
+  - visitante
+etymology_type: DERIVD
+etymology: <a href="../lexi/visita">visita</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: visitayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: visitor
+    epo: vizitanto
+    spa: visitante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: visita + -yen
+...

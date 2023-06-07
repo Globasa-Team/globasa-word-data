@@ -1,0 +1,56 @@
+---
+term: mule
+slug: mule
+ipa: "\u02C8mule"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mule&voice=Ewa"
+status: false
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - grind
+    - mill
+  epo:
+  - - muelilo
+  - - mueli
+  spa:
+  - - moledor
+    - molino
+    - trituradora
+search terms:
+  glb:
+  - mule
+  eng:
+  - grind
+  - mill
+  epo:
+  - muelilo
+  - mueli
+  spa:
+  - moledor
+  - molino
+  - trituradora
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mule
+  category: root
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: grind, mill
+    epo: muelilo; mueli
+    spa: moledor, molino, trituradora
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (molino, moler), Fransesa (moulin, moudre), Rusisa (\u043C\u043E\u043B\u043E\u0442\u044C
+    \"molot\"), Doycisa (M\xFChle, mahlen), Pilipinasa (mulihan), Putunhwa (\u78E8
+    \"mwo\"), Englisa (mill), Niponsa (\u30DF\u30EB \"miru\")"
+...

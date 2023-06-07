@@ -1,0 +1,56 @@
+---
+term: fida
+slug: fida
+ipa: ˈfida
+ipa link: http://ipa-reader.xyz/?text=ˈfida&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - silver
+  epo:
+  - - arĝento
+  spa:
+  - - plata
+    - Ag
+search terms:
+  glb:
+  - fida
+  eng:
+  - silver
+  epo:
+  - arĝento
+  spa:
+  - plata
+  - ag
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فضة “fiḍḍa”
+  Indonesisa:
+  - - fidah
+  Swahilisa:
+  - - fedha
+tags:
+- kimikali monlari
+raw data:
+  term: fida
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: silver
+    epo: arĝento
+    spa: plata, Ag
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Arabisa (فضة “fiḍḍa”), Indonesisa (fidah), Swahilisa (fedha)
+...

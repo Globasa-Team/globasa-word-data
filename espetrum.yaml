@@ -1,0 +1,84 @@
+---
+term: espetrum
+slug: espetrum
+ipa: espeˈtɾum
+ipa link: http://ipa-reader.xyz/?text=espeˈtɾum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - spectrum
+    - range
+    - gamut
+  epo:
+  - - spektro
+    - amplekso
+    - gamo
+  spa:
+  - - espectro
+    - gama
+    - rango
+search terms:
+  glb:
+  - espetrum
+  eng:
+  - spectrum
+  - range
+  - gamut
+  epo:
+  - spektro
+  - amplekso
+  - gamo
+  spa:
+  - espectro
+  - gama
+  - rango
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - spectrum
+  Espanisa:
+  - - espectro
+  Fransesa:
+  - - spectre
+  Rusisa:
+  - - спектр “spektr”
+  Doycisa:
+  - - Spektrum
+  Portugalsa:
+  - - espetro
+  Italisa:
+  - - spettro
+  Indonesisa:
+  - - spektrum
+  Turkisa: ~
+  Pilipinasa:
+  - - ispektrum
+  Niponsa:
+  - - スペクトル “supekutoru”
+  Hangusa:
+  - - 스펙트럼 “supekturam”
+raw data:
+  term: espetrum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: spectrum, range, gamut
+    epo: spektro, amplekso, gamo
+    spa: espectro, gama, rango
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (spectrum), Espanisa (espectro), Fransesa (spectre), Rusisa (спектр
+    “spektr”), Doycisa (Spektrum), Portugalsa (espetro), Italisa (spettro), Indonesisa
+    (spektrum), Turkisa, Pilipinasa (ispektrum), Niponsa (スペクトル “supekutoru”), Hangusa
+    (스펙트럼 “supekturam”)
+...

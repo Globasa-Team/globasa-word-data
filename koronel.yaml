@@ -1,0 +1,52 @@
+---
+term: koronel
+slug: koronel
+ipa: "ko\u027Eo\u02C8nel"
+ipa link: "http://ipa-reader.xyz/?text=ko\u027Eo\u02C8nel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - colonel
+  epo:
+  - - kolonelo
+  spa:
+  - - coronel
+search terms:
+  glb:
+  - koronel
+  eng:
+  - colonel
+  epo:
+  - kolonelo
+  spa:
+  - coronel
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- insan
+raw data:
+  term: koronel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: colonel
+    epo: kolonelo
+    spa: coronel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: "Englisa (colonel), Espanisa (coronel), Fransesa (colonel), Indonesisa
+    (kolonel), Pilipinasa (koronel), Hindisa (\u0915\u0930\u094D\u0928\u0932 \"karnal\"),
+    Arabisa (\u0643\u064F\u0648\u0644\u064F\u0648\u0646\u0650\u064A\u0644 \"kulunil\"),
+    Telugusa (\u0C15\u0C30\u0C4D\u0C28\u0C32\u0C4D \"karnal\"), Parsisa (\u06A9\u0644\u0646\u0644
+    \"kolonel\"), Swahilisa (kanali)"
+...

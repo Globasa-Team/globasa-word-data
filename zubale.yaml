@@ -1,0 +1,55 @@
+---
+term: zubale
+slug: zubale
+ipa: "zu\u02C8bale"
+ipa link: "http://ipa-reader.xyz/?text=zu\u02C8bale&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - trash
+    - rubbish
+  epo:
+  - - "ruba\u0135o"
+    - rubo
+  spa:
+  - - basura
+search terms:
+  glb:
+  - zubale
+  eng:
+  - trash
+  - rubbish
+  epo:
+  - "ruba\u0135o"
+  - rubo
+  spa:
+  - basura
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0632\u0628\u0627\u0644\u0629 \u201Czibala\u201D"
+  Parsisa:
+  - - "\u0632\u0628\u0627\u0644\u0647 \u201Czob\xE2le\u201D"
+raw data:
+  term: zubale
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: trash, rubbish
+    epo: "ruba\u0135o, rubo"
+    spa: basura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0632\u0628\u0627\u0644\u0629 \u201Czibala\u201D), Parsisa
+    (\u0632\u0628\u0627\u0644\u0647 \u201Czob\xE2le\u201D)"
+...

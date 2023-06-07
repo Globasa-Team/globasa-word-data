@@ -1,0 +1,50 @@
+---
+term: hamilecu
+slug: hamilecu
+ipa: "xami\u02C8let\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=xami\u02C8let\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - get pregnant
+    - become pregnant
+  epo:
+  - - "gravedi\u011Do"
+  - - "gravedi\u011Di"
+  spa:
+  - - embarazarse
+search terms:
+  glb:
+  - hamilecu
+  eng:
+  - get pregnant
+  - become pregnant
+  epo:
+  - "gravedi\u011Do"
+  - "gravedi\u011Di"
+  spa:
+  - embarazarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/hamile">hamile</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: hamilecu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: get pregnant, become pregnant
+    epo: "gravedi\u011Do; gravedi\u011Di"
+    spa: embarazarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hamile + -cu
+...

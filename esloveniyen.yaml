@@ -1,0 +1,49 @@
+---
+term: esloveniyen
+slug: esloveniyen
+ipa: "esloveni\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=esloveni\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Slovene
+    - Slovenian (person)
+  epo:
+  - - sloveno
+  spa:
+  - - esloveno (_persona_)
+search terms:
+  glb:
+  - esloveniyen
+  eng:
+  - slovene
+  - slovenian person
+  - slovenian
+  epo:
+  - sloveno
+  spa:
+  - esloveno
+etymology_type: DERIVD
+etymology: <a href="../lexi/Esloveni">Esloveni</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Esloveniyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Slovene, Slovenian (person)
+    epo: sloveno
+    spa: esloveno (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Esloveni + -yen
+...

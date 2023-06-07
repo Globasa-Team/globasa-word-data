@@ -1,0 +1,51 @@
+---
+term: ruwoju
+slug: ruwoju
+ipa: "\u027Eu\u02C8wod\u0361\u0292u"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8wod\u0361\u0292u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - support (_from behind or metaphorically_)
+    - back (up)
+  epo:
+  - - apogo
+  - - apogi
+  spa:
+  - - apoyar
+search terms:
+  glb:
+  - ruwoju
+  eng:
+  - support
+  - back up
+  - back
+  epo:
+  - apogo
+  - apogi
+  spa:
+  - apoyar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ru-">ru-</a> + <a href="../lexi/woju">woju</a>
+raw data:
+  term: ruwoju
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: support (_from behind or metaphorically_), back (up)
+    epo: apogo; apogi
+    spa: apoyar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ru- + woju
+...

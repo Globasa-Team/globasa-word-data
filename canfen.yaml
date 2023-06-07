@@ -1,0 +1,50 @@
+---
+term: canfen
+slug: canfen
+ipa: t͡ʃanˈfen
+ipa link: http://ipa-reader.xyz/?text=t͡ʃanˈfen&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ingredient
+  epo:
+  - - ingredienco
+  spa:
+  - - ingrediente
+search terms:
+  glb:
+  - canfen
+  eng:
+  - ingredient
+  epo:
+  - ingredienco
+  spa:
+  - ingrediente
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 成分 “chéngfèn”
+  Vyetnamsa:
+  - - thành phần
+raw data:
+  term: canfen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ingredient
+    epo: ingredienco
+    spa: ingrediente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (成分 “chéngfèn”), Vyetnamsa (thành phần)
+...

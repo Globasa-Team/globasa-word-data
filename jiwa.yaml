@@ -1,0 +1,54 @@
+---
+term: jiwa
+slug: jiwa
+ipa: "\u02C8d\u0361\u0292iwa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292iwa&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - life
+  - - live
+  epo:
+  - - vivo
+  - - vivi
+  spa:
+  - - vida
+  - - vivir
+search terms:
+  glb:
+  - jiwa
+  eng:
+  - life
+  - live
+  epo:
+  - vivo
+  - vivi
+  spa:
+  - vida
+  - vivir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jiwa
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: life; live
+    epo: vivo; vivi
+    spa: vida; vivir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Rusisa (\u0436\u0438\u0432- \u201Czhiv-\u201D), Hindisa (\u091C\u0940\u0935\u0928
+    \u201Cjivan\u201D), Indonesisa (jiwa), Telugusa (\u0C1C\u0C40\u0C35\u0C2E\u0C41
+    \u201Cj\u012Bvamu\u201D), Pilipinasa (diw\xE0)"
+...

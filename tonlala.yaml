@@ -1,0 +1,50 @@
+---
+term: tonlala
+slug: tonlala
+ipa: "ton\u02C8lala"
+ipa link: "http://ipa-reader.xyz/?text=ton\u02C8lala&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - sing along
+  epo:
+  - - kunkantado
+  - - kunkanti
+  spa:
+  - - "acompa\xF1ar cantando"
+    - cantar con
+search terms:
+  glb:
+  - tonlala
+  eng:
+  - sing along
+  epo:
+  - kunkantado
+  - kunkanti
+  spa:
+  - "acompa\xF1ar cantando"
+  - cantar con
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton-">ton-</a> + <a href="../lexi/lala">lala</a>
+raw data:
+  term: tonlala
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: sing along
+    epo: kunkantado; kunkanti
+    spa: "acompa\xF1ar cantando, cantar con"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton- + lala
+...

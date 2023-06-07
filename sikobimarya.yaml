@@ -1,0 +1,47 @@
+---
+term: sikobimarya
+slug: sikobimarya
+ipa: "sikobi\u02C8ma\u027Eja"
+ipa link: "http://ipa-reader.xyz/?text=sikobi\u02C8ma\u027Eja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - mental illness
+  epo:
+  - - mensmalsano
+  spa:
+  - - enfermedad mental
+search terms:
+  glb:
+  - sikobimarya
+  eng:
+  - mental illness
+  epo:
+  - mensmalsano
+  spa:
+  - enfermedad mental
+etymology_type: DERIVD
+etymology: <a href="../lexi/siko">siko</a> + <a href="../lexi/-bimar">-bimar</a> +
+  <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: sikobimarya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: mental illness
+    epo: mensmalsano
+    spa: enfermedad mental
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: siko + -bimar + -ya
+...

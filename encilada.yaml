@@ -1,0 +1,50 @@
+---
+term: encilada
+slug: encilada
+ipa: ent͡ʃiˈlada
+ipa link: http://ipa-reader.xyz/?text=ent͡ʃiˈlada&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - enchilada
+  epo:
+  - - enĉilado
+  spa:
+  - - enchilada
+search terms:
+  glb:
+  - encilada
+  eng:
+  - enchilada
+  epo:
+  - enĉilado
+  spa:
+  - enchilada
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - enchilada
+tags:
+- yamxey
+raw data:
+  term: encilada
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: enchilada
+    epo: enĉilado
+    spa: enchilada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Espanisa (enchilada)
+...

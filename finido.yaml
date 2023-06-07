@@ -1,0 +1,56 @@
+---
+term: finido
+slug: finido
+ipa: "fi\u02C8nido"
+ipa link: "http://ipa-reader.xyz/?text=fi\u02C8nido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - finished
+    - over
+  epo:
+  - - finita
+  - - finite
+  spa:
+  - - terminado
+    - acabado
+    - "conclu\xEDdo"
+    - finalizado
+search terms:
+  glb:
+  - finido
+  eng:
+  - finished
+  - over
+  epo:
+  - finita
+  - finite
+  spa:
+  - terminado
+  - acabado
+  - "conclu\xEDdo"
+  - finalizado
+etymology_type: DERIVD
+etymology: <a href="../lexi/fini">fini</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: finido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: finished, over
+    epo: finita; finite
+    spa: "terminado, acabado, conclu\xEDdo, finalizado"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fini + -do
+...

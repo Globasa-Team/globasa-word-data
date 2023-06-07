@@ -1,0 +1,46 @@
+---
+term: mumulari
+slug: mumulari
+ipa: "mumu\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=mumu\u02C8la\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - herd of cattle
+  epo:
+  - - bovaro
+  spa:
+  - - "reba\xF1o bovino"
+search terms:
+  glb:
+  - mumulari
+  eng:
+  - herd of cattle
+  epo:
+  - bovaro
+  spa:
+  - "reba\xF1o bovino"
+etymology_type: DERIVD
+etymology: <a href="../lexi/mumu">mumu</a> + <a href="../lexi/-lari">-lari</a>
+raw data:
+  term: mumulari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: herd of cattle
+    epo: bovaro
+    spa: "reba\xF1o bovino"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mumu + -lari
+...

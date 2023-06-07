@@ -1,0 +1,46 @@
+---
+term: iwe
+slug: iwe
+ipa: "\u02C8iwe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8iwe&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter w
+  epo:
+  - - litero w
+  spa:
+  - - letra w
+search terms:
+  glb:
+  - iwe
+  eng:
+  - letter w
+  epo:
+  - litero w
+  spa:
+  - letra w
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: iwe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter w
+    epo: litero w
+    spa: letra w
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

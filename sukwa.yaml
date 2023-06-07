@@ -1,0 +1,61 @@
+---
+term: sukwa
+slug: sukwa
+ipa: "\u02C8sukwa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sukwa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - watermelon
+  epo:
+  - - akvomelono
+    - citrolo
+  spa:
+  - - "sand\xEDa"
+    - _Citrullus lanatus_
+search terms:
+  glb:
+  - sukwa
+  eng:
+  - watermelon
+  epo:
+  - akvomelono
+  - citrolo
+  spa:
+  - "sand\xEDa"
+  - citrullus lanatus
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u897F\u74DC \u201Cx\u012Bgu\u0101\u201D"
+  Niponsa:
+  - - "\u30B9\u30A4\u30AB \u201Csuika\u201D"
+  Hangusa:
+  - - "\uC218\uBC15 \u201Csubak\u201D"
+    - "\uC11C\uACFC \u201Cseogwa\u201D"
+tags:
+- fruta
+- yamxey
+raw data:
+  term: sukwa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: watermelon
+    epo: akvomelono, citrolo
+    spa: "sand\xEDa, _Citrullus lanatus_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Putunhwa (\u897F\u74DC \u201Cx\u012Bgu\u0101\u201D), Niponsa (\u30B9\u30A4\u30AB
+    \u201Csuika\u201D), Hangusa (\uC218\uBC15 \u201Csubak\u201D, \uC11C\uACFC \u201Cseogwa\u201D)"
+...

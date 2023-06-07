@@ -1,0 +1,56 @@
+---
+term: margarin
+slug: margarin
+ipa: "ma\u027Ega\u02C8\u027Ein"
+ipa link: "http://ipa-reader.xyz/?text=ma\u027Ega\u02C8\u027Ein&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - margarine
+  epo:
+  - - margarino
+  spa:
+  - - margarina
+search terms:
+  glb:
+  - margarin
+  eng:
+  - margarine
+  epo:
+  - margarino
+  spa:
+  - margarina
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: margarin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: margarine
+    epo: margarino
+    spa: margarina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (margarine), Fransesa, Doycisa, Espanisa (margarina), Pilipinasa,
+    Rusisa (\u043C\u0430\u0440\u0433\u0430\u0440\u0438\u0301\u043D \u201Cmargar\xEDn\u201D),
+    Indonesisa (margarin), Turkisa, Putunhwa (\u9EA6\u6DC7\u6DCB \u201Cmaycilin\u201D,
+    \u746A\u742A\u7433 \u201Cmacilin\u201D, \u99AC\u829D\u84EE \u201Cmajilyan\u201D,
+    \u746A\u96C5\u7433 \u201Cmayalin\u201D), Hindisa (\u092E\u093E\u0930\u094D\u091C\u0930\u0940\u0928
+    \u201Cmarjarin\u201D), Niponsa (\u30DE\u30FC\u30AC\u30EA\u30F3 \u201Cmagarin\u201D),
+    Telugusa (\u0C2E\u0C3E\u0C30\u0C4D\u0C17\u0C30\u0C48\u0C28\u0C4D \u201Cmargaren\u201D),
+    Hangusa (\uB9C8\uAC00\uB9B0 \u201Cmagarin\u201D), Parsisa (\u0645\u0627\u0631\u06AF\u0627\u0631\u06CC\u0646
+    \u201Cmargarin\u201D), Swahilisa (marjarini)"
+...

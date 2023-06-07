@@ -1,0 +1,65 @@
+---
+term: biber
+slug: biber
+ipa: biˈbeɾ
+ipa link: http://ipa-reader.xyz/?text=biˈbeɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - beaver
+    - _Castor_
+  epo:
+  - - kastoro
+  spa:
+  - - castor
+    - _Castor_
+search terms:
+  glb:
+  - biber
+  eng:
+  - beaver
+  - castor
+  epo:
+  - kastoro
+  spa:
+  - castor
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - beaver
+  Rusisa:
+  - - бобр “bobr”
+    - бобёр “bobyor”
+  Doycisa:
+  - - Biber
+  Niponsa:
+  - - ビーバー “biba”
+  Hangusa:
+  - - 비버 “biba”
+  Swahilisa:
+  - - biva
+tags:
+- hewan
+raw data:
+  term: biber
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: beaver, _Castor_
+    epo: kastoro
+    spa: castor, _Castor_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (beaver), Rusisa (бобр “bobr”, бобёр “bobyor”), Doycisa (Biber),
+    Niponsa (ビーバー “biba”), Hangusa (비버 “biba”), Swahilisa (biva)
+...

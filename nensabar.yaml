@@ -1,0 +1,52 @@
+---
+term: nensabar
+slug: nensabar
+ipa: "nensa\u02C8ba\u027E"
+ipa link: "http://ipa-reader.xyz/?text=nensa\u02C8ba\u027E&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - impatient
+  - - impatiently
+  epo:
+  - - senpacienca
+  - - senpacience
+  spa:
+  - - impaciente
+  - - impacientemente
+search terms:
+  glb:
+  - nensabar
+  eng:
+  - impatient
+  - impatiently
+  epo:
+  - senpacienca
+  - senpacience
+  spa:
+  - impaciente
+  - impacientemente
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/sabar">sabar</a>
+raw data:
+  term: nensabar
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: impatient; impatiently
+    epo: senpacienca; senpacience
+    spa: impaciente; impacientemente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + sabar
+...

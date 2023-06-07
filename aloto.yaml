@@ -1,0 +1,52 @@
+---
+term: aloto
+slug: aloto
+ipa: "a\u02C8loto"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8loto&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - something else
+    - another thing
+    - a different thing
+  epo:
+  - - io alia
+  spa:
+  - - "algo m\xE1s"
+    - otra cosa
+search terms:
+  glb:
+  - aloto
+  eng:
+  - something else
+  - another thing
+  - a different thing
+  epo:
+  - io alia
+  spa:
+  - "algo m\xE1s"
+  - otra cosa
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: aloto
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: something else, another thing, a different thing
+    epo: io alia
+    spa: "algo m\xE1s, otra cosa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: else, something else, another thing, a different thing
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + to
+...

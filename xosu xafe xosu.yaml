@@ -1,0 +1,51 @@
+---
+term: xosu xafe xosu
+slug: xosu xafe xosu
+ipa: "\u02C8\u0283osu \u02C8\u0283afe \u02C8\u0283osu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283osu \u02C8\u0283afe \u02C8\u0283osu&voice=Ewa"
+status: false
+category: phrase
+word class: jm
+trans:
+  eng:
+  - - little by little
+  epo:
+  - - iom post iom
+    - "la\u016Dgrade"
+  spa:
+  - - poco a poco
+search terms:
+  glb:
+  - xosu xafe xosu
+  - xosu
+  - xafe
+  eng:
+  - little by little
+  epo:
+  - iom post iom
+  - "la\u016Dgrade"
+  spa:
+  - poco a poco
+etymology_type: DERIVD
+etymology: <a href="../lexi/xosu">xosu</a>, <a href="../lexi/xa-">xa-</a> + <a href="../lexi/fe">fe</a>,
+  <a href="../lexi/xosu">xosu</a>
+raw data:
+  term: xosu xafe xosu
+  category: phrase
+  word class: jm
+  status: false
+  trans:
+    eng: little by little
+    epo: "iom post iom, la\u016Dgrade"
+    spa: poco a poco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xosu, xa- + fe, xosu
+...

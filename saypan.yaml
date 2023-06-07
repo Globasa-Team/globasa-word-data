@@ -1,0 +1,74 @@
+---
+term: saypan
+slug: saypan
+ipa: "saj\u02C8pan"
+ipa link: "http://ipa-reader.xyz/?text=saj\u02C8pan&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - trial
+    - (court) case
+    - hearing
+  - - stand trial (be tried)
+    - try (put on trial)
+  epo:
+  - - proceso
+    - "ju\u011Dado"
+    - "ju\u011Dfarado"
+    - "ju\u011Dokunsido"
+  spa:
+  - - juicio
+    - caso
+    - audiencia
+search terms:
+  glb:
+  - saypan
+  eng:
+  - trial
+  - court case
+  - case
+  - hearing
+  - stand trial be tried
+  - stand trial
+  - try put on trial
+  - try
+  epo:
+  - proceso
+  - "ju\u011Dado"
+  - "ju\u011Dfarado"
+  - "ju\u011Dokunsido"
+  spa:
+  - juicio
+  - caso
+  - audiencia
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u88C1\u5224 \u201Cc\xE1ip\xE0n\u201D"
+  Hangusa:
+  - - "\uC7AC\uD310 \u201Cjaepan\u201D"
+  Niponsa:
+  - - "\u88C1\u5224 \u201Csaiban\u201D"
+raw data:
+  term: saypan
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: trial, (court) case, hearing; stand trial (be tried), try (put on trial)
+    epo: "proceso, ju\u011Dado, ju\u011Dfarado, ju\u011Dokunsido "
+    spa: juicio, caso, audiencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u88C1\u5224 \u201Cc\xE1ip\xE0n\u201D), Hangusa (\uC7AC\uD310
+    \u201Cjaepan\u201D), Niponsa (\u88C1\u5224 \u201Csaiban\u201D)"
+...

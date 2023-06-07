@@ -1,0 +1,50 @@
+---
+term: doxolaye
+slug: doxolaye
+ipa: "do\u0283o\u02C8laje"
+ipa link: "http://ipa-reader.xyz/?text=do\u0283o\u02C8laje&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - worth reading
+    - readworthy
+  epo:
+  - - leginda
+  - - leginde
+  spa:
+  - - que vale la pena leerse
+search terms:
+  glb:
+  - doxolaye
+  eng:
+  - worth reading
+  - readworthy
+  epo:
+  - leginda
+  - leginde
+  spa:
+  - que vale la pena leerse
+etymology_type: DERIVD
+etymology: <a href="../lexi/doxo">doxo</a> + <a href="../lexi/-laye">-laye</a>
+raw data:
+  term: doxolaye
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: worth reading, readworthy
+    epo: leginda; leginde
+    spa: que vale la pena leerse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: doxo + -laye
+...

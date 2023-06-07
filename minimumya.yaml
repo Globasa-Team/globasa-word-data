@@ -1,0 +1,47 @@
+---
+term: minimumya
+slug: minimumya
+ipa: "mini\u02C8mumja"
+ipa link: "http://ipa-reader.xyz/?text=mini\u02C8mumja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (the) minimum
+  epo:
+  - - minimumo
+  spa:
+  - - "m\xEDnimo"
+search terms:
+  glb:
+  - minimumya
+  eng:
+  - the minimum
+  - minimum
+  epo:
+  - minimumo
+  spa:
+  - "m\xEDnimo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/minimum">minimum</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: minimumya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (the) minimum
+    epo: minimumo
+    spa: "m\xEDnimo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: minimum + -ya
+...

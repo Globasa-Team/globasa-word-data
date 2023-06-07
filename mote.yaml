@@ -1,0 +1,49 @@
+---
+term: mote
+slug: mote
+ipa: "\u02C8mote"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mote&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - thick
+  epo:
+  - - dika
+  - - dike
+  spa:
+  - - grueso
+search terms:
+  glb:
+  - mote
+  eng:
+  - thick
+  epo:
+  - dika
+  - dike
+  spa:
+  - grueso
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mote
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: thick
+    epo: dika; dike
+    spa: grueso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u092E\u094B\u091F\u093E \u201Cmota\u201D, \u092E\u094B\u091F\u0940
+    \u201Cmoti\u201D)"
+...

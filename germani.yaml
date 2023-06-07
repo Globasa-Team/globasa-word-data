@@ -1,0 +1,83 @@
+---
+term: germani
+slug: germani
+ipa: "ge\u027E\u02C8mani"
+ipa link: "http://ipa-reader.xyz/?text=ge\u027E\u02C8mani&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Germanic
+  epo:
+  - - "\u011Dermana"
+  - - "\u011Dermane"
+  spa:
+  - - "germ\xE1nico"
+search terms:
+  glb:
+  - germani
+  eng:
+  - germanic
+  epo:
+  - "\u011Dermana"
+  - "\u011Dermane"
+  spa:
+  - "germ\xE1nico"
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - germanisch
+  Englisa:
+  - - germanic
+  Espanisa:
+  - - "germ\xE1nico"
+  Fransesa:
+  - - germanique
+  Rusisa:
+  - - "\u0433\u0435\u0440\u043C\u0430\u043D\u0441\u043A\u0438\u0439 \u201Cgermaniskiy\u201D"
+  Arabisa:
+  - - "\u0627\u0644\u062C\u0650\u0631\u0652\u0645\u064E\u0627\u0646\u0650\u064A\u064E\u0651\u0629
+      \u201Cal-jirmaniya\u201D"
+  Indonesisa:
+  - - germanik
+    - jermanik
+  Niponsa:
+  - - "\u30B2\u30EB\u30DE\u30F3 \u201Cgeruman\u201D"
+  Parsisa:
+  - - "\u0698\u0631\u0645\u0646\u06CC \u201C\u017Eermani\u201D"
+  Hangusa:
+  - - "\uAC8C\uB974\uB9CC \u201Cgeruman\u201D"
+  Telugusa: ~
+  Swahilisa:
+  - - kigermanik
+    - kijerumaniki
+  Turkisa:
+  - - germen
+    - cermen
+raw data:
+  term: Germani
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: Germanic
+    epo: "\u011Dermana; \u011Dermane"
+    spa: "germ\xE1nico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (germanisch), Englisa (germanic), Espanisa (germ\xE1nico), Fransesa
+    (germanique), Rusisa (\u0433\u0435\u0440\u043C\u0430\u043D\u0441\u043A\u0438\u0439
+    \u201Cgermaniskiy\u201D), Arabisa (\u0627\u0644\u062C\u0650\u0631\u0652\u0645\u064E\u0627\u0646\u0650\u064A\u064E\u0651\u0629
+    \u201Cal-jirmaniya\u201D), Indonesisa (germanik, jermanik), Niponsa (\u30B2\u30EB\u30DE\u30F3
+    \u201Cgeruman\u201D), Parsisa (\u0698\u0631\u0645\u0646\u06CC \u201C\u017Eermani\u201D),
+    Hangusa (\uAC8C\uB974\uB9CC \u201Cgeruman\u201D), Telugusa, Swahilisa (kigermanik,
+    kijerumaniki), Turkisa (germen, cermen)"
+...

@@ -1,0 +1,67 @@
+---
+term: volkano
+slug: volkano
+ipa: "vol\u02C8kano"
+ipa link: "http://ipa-reader.xyz/?text=vol\u02C8kano&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - volcano
+  epo:
+  - - vulkano
+  spa:
+  - - "volc\xE1n"
+search terms:
+  glb:
+  - volkano
+  eng:
+  - volcano
+  epo:
+  - vulkano
+  spa:
+  - "volc\xE1n"
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Vulkan
+  Englisa:
+  - - volcano
+  Espanisa:
+  - - volcan
+  Fransesa:
+  - - volcan
+  Rusisa:
+  - - "\u0432\u0443\u043B\u043A\u0430\u043D \u201Cvulkan\u201D"
+  Turkisa:
+  - - volkan
+  Pilipinasa:
+  - - bulkan
+  Swahilisa:
+  - - volkano
+  Arabisa:
+  - - "\u0628\u0631\u0643\u0627\u0646 \u201Cburkan\u201D"
+raw data:
+  term: volkano
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: volcano
+    epo: vulkano
+    spa: "volc\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Vulkan), Englisa (volcano), Espanisa (volcan), Fransesa (volcan),
+    Rusisa (\u0432\u0443\u043B\u043A\u0430\u043D \u201Cvulkan\u201D), Turkisa (volkan),
+    Pilipinasa (bulkan), Swahilisa (volkano), Arabisa (\u0628\u0631\u0643\u0627\u0646
+    \u201Cburkan\u201D)"
+...

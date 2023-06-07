@@ -1,0 +1,56 @@
+---
+term: buhar
+slug: buhar
+ipa: buˈxaɾ
+ipa link: http://ipa-reader.xyz/?text=buˈxaɾ&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - steam
+  epo:
+  - - vaporo
+  - - vaporkuiri
+  spa:
+  - - vapor
+  - - echar vapor
+search terms:
+  glb:
+  - buhar
+  eng:
+  - steam
+  epo:
+  - vaporo
+  - vaporkuiri
+  spa:
+  - vapor
+  - echar vapor
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - بُخَار “buhar”
+  Turkisa:
+  - - buhar
+  Parsisa:
+  - - بخار “bohar”
+raw data:
+  term: buhar
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: steam
+    epo: vaporo; vaporkuiri
+    spa: vapor; echar vapor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (بُخَار “buhar”), Turkisa (buhar), Parsisa (بخار “bohar”)
+...

@@ -1,0 +1,48 @@
+---
+term: pluteoista
+slug: pluteoista
+ipa: "pluteo\u02C8ista"
+ipa link: "http://ipa-reader.xyz/?text=pluteo\u02C8ista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - polytheist
+  epo:
+  - - politeisto
+    - multdiisto
+  spa:
+  - - "polite\xEDsta"
+search terms:
+  glb:
+  - pluteoista
+  eng:
+  - polytheist
+  epo:
+  - politeisto
+  - multdiisto
+  spa:
+  - "polite\xEDsta"
+etymology_type: DERIVD
+etymology: <a href="../lexi/plu-">plu-</a> + <a href="../lexi/teo">teo</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: pluteoista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: polytheist
+    epo: politeisto, multdiisto
+    spa: "polite\xEDsta"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: plu- + teo + -ista
+...

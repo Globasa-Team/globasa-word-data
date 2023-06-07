@@ -1,0 +1,54 @@
+---
+term: -kef
+slug: -kef
+ipa: "\u02C8-kef"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-kef&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - chief
+    - head
+    - boss
+    - lead
+  epo:
+  - - -estro
+  spa:
+  - - jefe
+    - dirigente
+search terms:
+  glb:
+  - -kef
+  eng:
+  - chief
+  - head
+  - boss
+  - lead
+  epo:
+  - -estro
+  spa:
+  - jefe
+  - dirigente
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/kef">kef</a>.
+raw data:
+  term: -kef
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: chief, head, boss, lead
+    epo: -estro
+    spa: jefe, dirigente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _kef_.
+...

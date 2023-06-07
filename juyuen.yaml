@@ -1,0 +1,59 @@
+---
+term: juyuen
+slug: juyuen
+ipa: "d\u0361\u0292uju\u02C8en"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292uju\u02C8en&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - rescue
+    - salvation
+  - - rescue
+    - save
+  epo:
+  - - savo
+  - - savi
+  spa:
+  - - rescate
+    - "salvaci\xF3n"
+  - - rescatar
+    - salvar
+search terms:
+  glb:
+  - juyuen
+  eng:
+    0: rescue
+    1: salvation
+    3: save
+  epo:
+  - savo
+  - savi
+  spa:
+  - rescate
+  - "salvaci\xF3n"
+  - rescatar
+  - salvar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: juyuen
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: rescue, salvation; rescue, save
+    epo: savo; savi
+    spa: "rescate, salvaci\xF3n; rescatar, salvar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6551\u63F4 \u201Cjyuyuen\u201D), Niponsa (\u6551\u63F4 \u201Ckyuen\u201D)"
+...

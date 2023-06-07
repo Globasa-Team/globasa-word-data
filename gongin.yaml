@@ -1,0 +1,65 @@
+---
+term: gongin
+slug: gongin
+ipa: gonˈgin
+ipa link: http://ipa-reader.xyz/?text=gonˈgin&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - supply
+    - provision
+  - - provide
+    - supply
+  epo:
+  - - provizo
+  - - provizi
+  spa:
+  - - suministro
+    - provisión
+  - - suministrar
+    - proveer
+    - proporcionar
+search terms:
+  glb:
+  - gongin
+  eng:
+  - supply
+  - provision
+  - provide
+  epo:
+  - provizo
+  - provizi
+  spa:
+  - suministro
+  - provisión
+  - suministrar
+  - proveer
+  - proporcionar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 供应 “gōngyìng”
+  Hangusa:
+  - - 공급 “gong-geub”
+raw data:
+  term: gongin
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: supply, provision; provide, supply
+    epo: provizo; provizi
+    spa: suministro, provisión; suministrar, proveer, proporcionar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (供应 “gōngyìng”), Hangusa (공급 “gong-geub”)
+...

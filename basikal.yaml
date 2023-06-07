@@ -1,0 +1,56 @@
+---
+term: basikal
+slug: basikal
+ipa: "basi\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=basi\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - baseless
+    - baselessly
+    - without base
+  epo:
+  - - senbaza
+    - senfundamenta
+  - - senbaze
+    - senfundamente
+  spa:
+  - - sin base
+search terms:
+  glb:
+  - basikal
+  eng:
+  - baseless
+  - baselessly
+  - without base
+  epo:
+  - senbaza
+  - senfundamenta
+  - senbaze
+  - senfundamente
+  spa:
+  - sin base
+etymology_type: DERIVD
+etymology: <a href="../lexi/basi">basi</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: basikal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: baseless, baselessly, without base
+    epo: senbaza, senfundamenta; senbaze, senfundamente
+    spa: sin base
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: basi + -kal
+...

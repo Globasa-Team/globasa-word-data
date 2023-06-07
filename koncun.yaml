@@ -1,0 +1,54 @@
+---
+term: koncun
+slug: koncun
+ipa: "kon\u02C8t\u0361\u0283un"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8t\u0361\u0283un&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - insect
+    - bug
+  epo:
+  - - insekto
+  spa:
+  - - insecto
+    - _Insecta_
+search terms:
+  glb:
+  - koncun
+  eng:
+  - insect
+  - bug
+  epo:
+  - insekto
+  spa:
+  - insecto
+  - insecta
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: koncun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: insect, bug
+    epo: insekto
+    spa: insecto, _Insecta_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Putunhwa (\u6606\u866B \u201Ck\u016Bnch\xF3ng\u201D), Hangusa (\uACE4\uCDA9
+    \u201Cgonchung\u201D), Niponsa (\u6606\u866B \u201Ckonch\u016B\u201D), Vyetnamsa
+    (c\xF4n tr\xF9ng)"
+...

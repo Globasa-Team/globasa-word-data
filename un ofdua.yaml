@@ -1,0 +1,53 @@
+---
+term: un ofdua
+slug: un ofdua
+ipa: "\u02C8un of\u02C8dua"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8un of\u02C8dua&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - (one) half
+    - (a) half
+  epo:
+  - - duono
+  spa:
+  - - un medio
+    - una mitad
+search terms:
+  glb:
+  - un ofdua
+  - un
+  - ofdua
+  eng:
+  - one half
+  - half
+  - a half
+  epo:
+  - duono
+  spa:
+  - un medio
+  - una mitad
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a>, <a href="../lexi/of-">of-</a> + <a href="../lexi/dua">dua</a>
+raw data:
+  term: un ofdua
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: (one) half, (a) half
+    epo: duono
+    spa: un medio, una mitad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un, of- + dua
+...

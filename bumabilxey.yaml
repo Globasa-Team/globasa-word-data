@@ -1,0 +1,47 @@
+---
+term: bumabilxey
+slug: bumabilxey
+ipa: "bumabil\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=bumabil\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - explosive
+  epo:
+  - - "eksploda\u0135o"
+  spa:
+  - - explosivo
+search terms:
+  glb:
+  - bumabilxey
+  eng:
+  - explosive
+  epo:
+  - "eksploda\u0135o"
+  spa:
+  - explosivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/bum">bum</a> + <a href="../lexi/-abil">-abil</a> + <a
+  href="../lexi/-xey">-xey</a>
+raw data:
+  term: bumabilxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: explosive
+    epo: "eksploda\u0135o"
+    spa: explosivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bum + -abil + -xey
+...

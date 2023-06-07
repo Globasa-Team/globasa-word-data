@@ -1,0 +1,52 @@
+---
+term: turkmeni
+slug: turkmeni
+ipa: "tu\u027Ek\u02C8meni"
+ipa link: "http://ipa-reader.xyz/?text=tu\u027Ek\u02C8meni&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Turkmenistan
+  epo:
+  - - Turkmenio
+    - Turkmenujo
+  spa:
+  - - "Turkmenist\xE1n"
+search terms:
+  glb:
+  - turkmeni
+  eng:
+  - turkmenistan
+  epo:
+  - turkmenio
+  - turkmenujo
+  spa:
+  - "turkmenist\xE1n"
+etymology_type: NATLNG
+etymology:
+  Turkmenisa:
+  - - "T\xFCrkmenistan"
+tags:
+- dexa
+raw data:
+  term: Turkmeni
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Turkmenistan
+    epo: Turkmenio, Turkmenujo
+    spa: "Turkmenist\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Turkmenisa (T\xFCrkmenistan)"
+...

@@ -1,0 +1,60 @@
+---
+term: levura
+slug: levura
+ipa: "le\u02C8vu\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=le\u02C8vu\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - (brewer's) yeast
+    - leaven
+    - leavening
+  - - leaven
+  epo:
+  - - (bakista) gisto
+    - fermentilo
+  - - fermenti
+  spa:
+  - - levadura
+  - - leudar
+search terms:
+  glb:
+  - levura
+  eng:
+  - brewer's yeast
+  - yeast
+  - leaven
+  - leavening
+  epo:
+  - bakista gisto
+  - gisto
+  - fermentilo
+  - fermenti
+  spa:
+  - levadura
+  - leudar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: levura
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: (brewer's) yeast, leaven, leavening; leaven
+    epo: (bakista) gisto, fermentilo; fermenti
+    spa: levadura; leudar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (levadura), Fransesa (levure), Pilipinasa (lebadura), Parsisa
+    (\u0644\u0648\u0648\u0631 \u201Clevur\u201D)"
+...

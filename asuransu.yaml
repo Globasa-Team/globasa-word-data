@@ -1,0 +1,55 @@
+---
+term: asuransu
+slug: asuransu
+ipa: asuˈɾansu
+ipa link: http://ipa-reader.xyz/?text=asuˈɾansu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - insurance
+  epo:
+  - - asekuro
+  spa:
+  - - seguro (_contrato_)
+search terms:
+  glb:
+  - asuransu
+  eng:
+  - insurance
+  epo:
+  - asekuro
+  spa:
+  - seguro
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - insurance
+  Fransesa:
+  - - assurance
+  Indonesisa:
+  - - asuransi
+  Niponsa:
+  - - インシュアランス “inxwaransu”
+raw data:
+  term: asuransu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: insurance
+    epo: asekuro
+    spa: seguro (_contrato_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (insurance), Fransesa (assurance), Indonesisa (asuransi), Niponsa
+    (インシュアランス “inxwaransu”)
+...

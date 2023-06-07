@@ -1,0 +1,52 @@
+---
+term: cengu
+slug: cengu
+ipa: ˈt͡ʃengu
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃengu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - layer
+  epo:
+  - - tavolo
+  spa:
+  - - capa
+    - estrato
+search terms:
+  glb:
+  - cengu
+  eng:
+  - layer
+  epo:
+  - tavolo
+  spa:
+  - capa
+  - estrato
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 层 “céng”
+  Hangusa:
+  - - 층 “cheung”
+raw data:
+  term: cengu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: layer
+    epo: tavolo
+    spa: capa, estrato
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (层 “céng”), Hangusa (층 “cheung”)
+...

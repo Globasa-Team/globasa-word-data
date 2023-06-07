@@ -1,0 +1,58 @@
+---
+term: kimapul
+slug: kimapul
+ipa: "kima\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=kima\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - costly
+    - pricey
+    - expensive
+  epo:
+  - - kosta
+    - multekosta
+  - - koste
+    - multekoste
+  spa:
+  - - caro
+    - costoso
+search terms:
+  glb:
+  - kimapul
+  eng:
+  - costly
+  - pricey
+  - expensive
+  epo:
+  - kosta
+  - multekosta
+  - koste
+  - multekoste
+  spa:
+  - caro
+  - costoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/kima">kima</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: kimapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: costly, pricey, expensive
+    epo: kosta, multekosta; koste, multekoste
+    spa: caro, costoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kima + -pul
+...

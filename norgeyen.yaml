@@ -1,0 +1,47 @@
+---
+term: norgeyen
+slug: norgeyen
+ipa: "no\u027Ege\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=no\u027Ege\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Norwegian (person)
+  epo:
+  - - norvego
+  spa:
+  - - noruego (_persona_)
+search terms:
+  glb:
+  - norgeyen
+  eng:
+  - norwegian person
+  - norwegian
+  epo:
+  - norvego
+  spa:
+  - noruego
+etymology_type: DERIVD
+etymology: <a href="../lexi/Norge">Norge</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Norgeyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Norwegian (person)
+    epo: norvego
+    spa: noruego (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Norge + -yen
+...

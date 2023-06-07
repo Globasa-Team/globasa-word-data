@@ -1,0 +1,76 @@
+---
+term: jaribi
+slug: jaribi
+ipa: "d\u0361\u0292a\u02C8\u027Eibi"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8\u027Eibi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - experiment
+    - trial
+  - - experiment
+    - try (on)
+    - try (out)
+  epo:
+  - - eksperimento
+    - testo
+    - scienceca provo
+  - - eksperimenti
+    - testi
+    - metode provi
+  spa:
+  - - experimento
+    - prueba
+    - ensayo
+  - - experimentar
+    - probar
+    - poner a prueba
+search terms:
+  glb:
+  - jaribi
+  eng:
+    0: experiment
+    1: trial
+    3: try on
+    4: try
+    5: try out
+  epo:
+  - eksperimento
+  - testo
+  - scienceca provo
+  - eksperimenti
+  - testi
+  - metode provi
+  spa:
+  - experimento
+  - prueba
+  - ensayo
+  - experimentar
+  - probar
+  - poner a prueba
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jaribi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: experiment, trial; experiment, try (on), try (out)
+    epo: eksperimento, testo, scienceca provo; eksperimenti, testi, metode provi
+    spa: experimento, prueba, ensayo; experimentar, probar, poner a prueba
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u0631\u0628 \u201Cjaraba\u201D), Parsisa (\u062A\u062C\u0631\u0628\u0647
+    \u201Ctajriba\u201D), Swahilisa (jaribio, -jaribu), Turkisa (tecr\xFCbe), Hindisa
+    (\u0924\u091C\u0941\u0930\u094D\u092C\u093E \u201Ctajurba\u201D)"
+...

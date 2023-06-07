@@ -1,0 +1,50 @@
+---
+term: danisa
+slug: danisa
+ipa: "da\u02C8nisa"
+ipa link: "http://ipa-reader.xyz/?text=da\u02C8nisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Danish (language)
+  epo:
+  - - la dana (lingvo)
+  spa:
+  - - "dan\xE9s (_idioma_)"
+search terms:
+  glb:
+  - danisa
+  eng:
+  - danish language
+  - danish
+  epo:
+  - la dana lingvo
+  - la dana
+  spa:
+  - "dan\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Dani">Dani</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Danisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Danish (language)
+    epo: la dana (lingvo)
+    spa: "dan\xE9s (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Dani + -sa
+...

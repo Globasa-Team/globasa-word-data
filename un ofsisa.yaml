@@ -1,0 +1,52 @@
+---
+term: un ofsisa
+slug: un ofsisa
+ipa: "\u02C8un of\u02C8sisa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8un of\u02C8sisa&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - one sixth
+    - a sixth
+  epo:
+  - - sesono
+  spa:
+  - - un sexto
+    - una sexta parte
+search terms:
+  glb:
+  - un ofsisa
+  - un
+  - ofsisa
+  eng:
+  - one sixth
+  - a sixth
+  epo:
+  - sesono
+  spa:
+  - un sexto
+  - una sexta parte
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a>, <a href="../lexi/of-">of-</a> + <a href="../lexi/sisa">sisa</a>
+raw data:
+  term: un ofsisa
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: one sixth, a sixth
+    epo: sesono
+    spa: un sexto, una sexta parte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un, of- + sisa
+...

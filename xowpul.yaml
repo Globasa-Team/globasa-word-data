@@ -1,0 +1,50 @@
+---
+term: xowpul
+slug: xowpul
+ipa: "\u0283ow\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=\u0283ow\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - spectacular
+    - spectacularly
+  epo:
+  - - spektakla
+  - - spektakle
+  spa:
+  - - espectacular
+search terms:
+  glb:
+  - xowpul
+  eng:
+  - spectacular
+  - spectacularly
+  epo:
+  - spektakla
+  - spektakle
+  spa:
+  - espectacular
+etymology_type: DERIVD
+etymology: <a href="../lexi/xow">xow</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: xowpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: spectacular, spectacularly
+    epo: spektakla; spektakle
+    spa: espectacular
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xow + -pul
+...

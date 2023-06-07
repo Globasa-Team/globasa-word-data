@@ -1,0 +1,56 @@
+---
+term: dinidom
+slug: dinidom
+ipa: "dini\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=dini\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - church
+    - temple
+  epo:
+  - - kirko
+    - "pre\u011Dejo"
+    - templo
+    - sanktejo
+  spa:
+  - - iglesia
+    - templo
+search terms:
+  glb:
+  - dinidom
+  eng:
+  - church
+  - temple
+  epo:
+  - kirko
+  - "pre\u011Dejo"
+  - templo
+  - sanktejo
+  spa:
+  - iglesia
+  - templo
+etymology_type: DERIVD
+etymology: <a href="../lexi/dini">dini</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: dinidom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: church, temple
+    epo: "kirko, pre\u011Dejo, templo, sanktejo"
+    spa: iglesia, templo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dini + -dom
+...

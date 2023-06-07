@@ -1,0 +1,50 @@
+---
+term: fe midiya
+slug: fe midiya
+ipa: "fe mi\u02C8dija"
+ipa link: "http://ipa-reader.xyz/?text=fe mi\u02C8dija&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - in the middle
+  epo:
+  - - en la mezo
+    - meze
+  spa:
+  - - en el medio
+search terms:
+  glb:
+  - fe midiya
+  - fe
+  - midiya
+  eng:
+  - in the middle
+  epo:
+  - en la mezo
+  - meze
+  spa:
+  - en el medio
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/midi">midi</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fe midiya
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: in the middle
+    epo: en la mezo, meze
+    spa: en el medio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, midi + -ya
+...

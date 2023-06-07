@@ -1,0 +1,46 @@
+---
+term: kokogluxey
+slug: kokogluxey
+ipa: "kokoglu\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=kokoglu\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - coconut milk
+  epo:
+  - - kokoslakto
+  spa:
+  - - leche de coco
+search terms:
+  glb:
+  - kokogluxey
+  eng:
+  - coconut milk
+  epo:
+  - kokoslakto
+  spa:
+  - leche de coco
+etymology_type: DERIVD
+etymology: <a href="../lexi/koko">koko</a> + <a href="../lexi/glu">glu</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: kokogluxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: coconut milk
+    epo: kokoslakto
+    spa: leche de coco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: koko + glu + -xey
+...

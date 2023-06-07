@@ -1,0 +1,50 @@
+---
+term: singasa
+slug: singasa
+ipa: "sin\u02C8gasa"
+ipa link: "http://ipa-reader.xyz/?text=sin\u02C8gasa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - roar
+  epo:
+  - - leonbleko
+  - - leonbleki
+  spa:
+  - - rugido
+  - - rugir
+search terms:
+  glb:
+  - singasa
+  eng:
+  - roar
+  epo:
+  - leonbleko
+  - leonbleki
+  spa:
+  - rugido
+  - rugir
+etymology_type: DERIVD
+etymology: <a href="../lexi/singa">singa</a> + <a href="../lexi/-sa">-sa</a>
+raw data:
+  term: singasa
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: roar
+    epo: leonbleko; leonbleki
+    spa: rugido; rugir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: singa + -sa
+...

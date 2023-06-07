@@ -1,0 +1,46 @@
+---
+term: fasiismo
+slug: fasiismo
+ipa: "fasi\u02C8ismo"
+ipa link: "http://ipa-reader.xyz/?text=fasi\u02C8ismo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - fascism
+  epo:
+  - - "fa\u015Dimo"
+  spa:
+  - - fascismo
+search terms:
+  glb:
+  - fasiismo
+  eng:
+  - fascism
+  epo:
+  - "fa\u015Dimo"
+  spa:
+  - fascismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/fasi">fasi</a> + <a href="../lexi/-ismo">-ismo</a>
+raw data:
+  term: fasiismo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: fascism
+    epo: "fa\u015Dimo"
+    spa: fascismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fasi + -ismo
+...

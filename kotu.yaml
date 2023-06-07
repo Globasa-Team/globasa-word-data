@@ -1,0 +1,56 @@
+---
+term: kotu
+slug: kotu
+ipa: "\u02C8kotu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kotu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coat
+    - overcoat
+  epo:
+  - - jako
+    - palto
+    - surtuto
+  spa:
+  - - abrigo
+    - "gab\xE1n"
+search terms:
+  glb:
+  - kotu
+  eng:
+  - coat
+  - overcoat
+  epo:
+  - jako
+  - palto
+  - surtuto
+  spa:
+  - abrigo
+  - "gab\xE1n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kotu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coat, overcoat
+    epo: jako, palto, surtuto
+    spa: "abrigo, gab\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (coat), Hindisa (\u0915\u094B\u091F \"kot\"), Niponsa (\u30B3\u30FC\u30C8
+    \"koto\"), Telugusa (\u0C15\u0C4B\u0C1F\u0C41 \"kotu\"), Hangusa (\uCF54\uD2B8
+    \"kotu\"), Parsisa (\u06A9\u062A \"kot\"), Swahilisa (koti)"
+...

@@ -1,0 +1,46 @@
+---
+term: nasyonkef
+slug: nasyonkef
+ipa: "nasjon\u02C8kef"
+ipa link: "http://ipa-reader.xyz/?text=nasjon\u02C8kef&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - head of state
+  epo:
+  - - naciestro
+  spa:
+  - - jefe de estado
+search terms:
+  glb:
+  - nasyonkef
+  eng:
+  - head of state
+  epo:
+  - naciestro
+  spa:
+  - jefe de estado
+etymology_type: DERIVD
+etymology: <a href="../lexi/nasyon">nasyon</a> + <a href="../lexi/-kef">-kef</a>
+raw data:
+  term: nasyonkef
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: head of state
+    epo: naciestro
+    spa: jefe de estado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nasyon + -kef
+...

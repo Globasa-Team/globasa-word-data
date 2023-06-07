@@ -1,0 +1,59 @@
+---
+term: tehdidu
+slug: tehdidu
+ipa: "tex\u02C8didu"
+ipa link: "http://ipa-reader.xyz/?text=tex\u02C8didu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - threat
+  - - threaten
+  epo:
+  - - minaco
+  - - minaci
+  spa:
+  - - amenaza
+  - - amenazar
+search terms:
+  glb:
+  - tehdidu
+  eng:
+  - threat
+  - threaten
+  epo:
+  - minaco
+  - minaci
+  spa:
+  - amenaza
+  - amenazar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u0647\u062F\u064A\u062F \u201Ctahdid\u201D"
+  Parsisa:
+  - - "\u062A\u0647\u062F\u06CC\u062F \u201Ctahdid\u201D"
+  Turkisa:
+  - - tehdit
+raw data:
+  term: tehdidu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: threat; threaten
+    epo: minaco; minaci
+    spa: amenaza; amenazar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u0647\u062F\u064A\u062F \u201Ctahdid\u201D), Parsisa
+    (\u062A\u0647\u062F\u06CC\u062F \u201Ctahdid\u201D), Turkisa (tehdit)"
+...

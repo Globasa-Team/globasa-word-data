@@ -1,0 +1,48 @@
+---
+term: manipur
+slug: manipur
+ipa: "mani\u02C8pu\u027E"
+ipa link: "http://ipa-reader.xyz/?text=mani\u02C8pu\u027E&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Manipur (_state in India_)
+  epo:
+  - - Manipuro
+  spa:
+  - - Manipur (_estado de India_)
+search terms:
+  glb:
+  - manipur
+  eng:
+  - manipur
+  epo:
+  - manipuro
+  spa:
+  - manipur
+etymology_type: NATLNG
+etymology:
+  Manipursa:
+  - - "\uABC3\uABC5\uABE4\uABC4\uABE8\uABD4 \u201Cmanipur\u201D"
+raw data:
+  term: Manipur
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Manipur (_state in India_)
+    epo: Manipuro
+    spa: Manipur (_estado de India_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Manipursa (\uABC3\uABC5\uABE4\uABC4\uABE8\uABD4 \u201Cmanipur\u201D)"
+...

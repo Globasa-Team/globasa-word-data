@@ -1,0 +1,52 @@
+---
+term: kaossim
+slug: kaossim
+ipa: "kaos\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=kaos\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - chaotic
+  epo:
+  - - "\u0125aoseca"
+    - kaoseca
+  - - "\u0125aosece"
+    - kaosece
+  spa:
+  - - "ca\xF3tico"
+search terms:
+  glb:
+  - kaossim
+  eng:
+  - chaotic
+  epo:
+  - "\u0125aoseca"
+  - kaoseca
+  - "\u0125aosece"
+  - kaosece
+  spa:
+  - "ca\xF3tico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/kaos">kaos</a> + <a href="../lexi/-sim">-sim</a>
+raw data:
+  term: kaossim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: chaotic
+    epo: "\u0125aoseca, kaoseca; \u0125aosece, kaosece"
+    spa: "ca\xF3tico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kaos + -sim
+...

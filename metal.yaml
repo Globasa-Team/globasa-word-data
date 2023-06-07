@@ -1,0 +1,48 @@
+---
+term: metal
+slug: metal
+ipa: "me\u02C8tal"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8tal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - metal
+  epo:
+  - - metalo
+  spa:
+  - - metal
+search terms:
+  glb:
+  - metal
+  eng:
+  - metal
+  epo:
+  - metalo
+  spa:
+  - metal
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: metal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: metal
+    epo: metalo
+    spa: metal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (metal), Fransesa (m\xE9tal), Doycisa (Metall), Rusisa (\u043C\u0435\u0442\u0430\u043B\u043B
+    \u201Cmetall\u201D), Espanisa (metal), Indonesisa (metal), Pilipinasa (metal),
+    Swahilisa (metali), Turkisa (metal)"
+...

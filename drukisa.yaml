@@ -1,0 +1,54 @@
+---
+term: drukisa
+slug: drukisa
+ipa: "d\u027Eu\u02C8kisa"
+ipa link: "http://ipa-reader.xyz/?text=d\u027Eu\u02C8kisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Dzongkha
+    - Bhutanese (language)
+  epo:
+  - - la dzonka (lingvo)
+  spa:
+  - - "butan\xE9s (_idioma_)"
+    - dzongkha
+search terms:
+  glb:
+  - drukisa
+  eng:
+  - dzongkha
+  - bhutanese language
+  - bhutanese
+  epo:
+  - la dzonka lingvo
+  - la dzonka
+  spa:
+  - "butan\xE9s"
+  - dzongkha
+etymology_type: DERIVD
+etymology: <a href="../lexi/Druki">Druki</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Drukisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Dzongkha, Bhutanese (language)
+    epo: la dzonka (lingvo)
+    spa: "butan\xE9s (_idioma_), dzongkha"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Druki + -sa
+...

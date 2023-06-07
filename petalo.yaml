@@ -1,0 +1,69 @@
+---
+term: petalo
+slug: petalo
+ipa: "pe\u02C8talo"
+ipa link: "http://ipa-reader.xyz/?text=pe\u02C8talo&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - petal
+  epo:
+  - - petalo
+  spa:
+  - - "p\xE9talo"
+search terms:
+  glb:
+  - petalo
+  eng:
+  - petal
+  epo:
+  - petalo
+  spa:
+  - "p\xE9talo"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - petal
+  Espanisa:
+  - - "p\xE9talo"
+  Fransesa:
+  - - "p\xE9tale"
+  Pilipinasa:
+  - - petal
+  Turkisa:
+  - - petal
+  Swahilisa:
+  - - petali
+  Arabisa:
+  - - "\u0628\u064E\u062A\u064E\u0644\u064E\u0629 \"batala\""
+  Hindisa:
+  - - "\u092A\u0941\u0937\u094D\u092A \u0926\u0932 \"puxpa-dal\""
+  Telugusa:
+  - - "\u0C2A\u0C41\u0C37\u0C4D\u0C2A\u0C26\u0C33\u0C2E\u0C41 \"pu\u1E63pada\u1E37amu\""
+tags:
+- planta
+raw data:
+  term: petalo
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: petal
+    epo: petalo
+    spa: "p\xE9talo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta
+  etymology: "Englisa (petal), Espanisa (p\xE9talo), Fransesa (p\xE9tale), Pilipinasa
+    (petal), Turkisa (petal), Swahilisa (petali), Arabisa (\u0628\u064E\u062A\u064E\u0644\u064E\u0629
+    \"batala\"), Hindisa (\u092A\u0941\u0937\u094D\u092A \u0926\u0932 \"puxpa-dal\"),
+    Telugusa (\u0C2A\u0C41\u0C37\u0C4D\u0C2A\u0C26\u0C33\u0C2E\u0C41 \"pu\u1E63pada\u1E37amu\")"
+...

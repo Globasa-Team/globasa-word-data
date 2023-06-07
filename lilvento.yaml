@@ -1,0 +1,48 @@
+---
+term: lilvento
+slug: lilvento
+ipa: "lil\u02C8vento"
+ipa link: "http://ipa-reader.xyz/?text=lil\u02C8vento&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - breeze
+  epo:
+  - - venteto
+  - - venteti
+  spa:
+  - - brisa
+search terms:
+  glb:
+  - lilvento
+  eng:
+  - breeze
+  epo:
+  - venteto
+  - venteti
+  spa:
+  - brisa
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/vento">vento</a>
+raw data:
+  term: lilvento
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: breeze
+    epo: venteto; venteti
+    spa: brisa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + vento
+...

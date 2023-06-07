@@ -1,0 +1,48 @@
+---
+term: des tiga
+slug: des tiga
+ipa: "\u02C8des \u02C8tiga"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8des \u02C8tiga&voice=Ewa"
+status: false
+category: phrase
+word class: num
+trans:
+  eng:
+  - - thirteen
+  epo:
+  - - dek tri
+  spa:
+  - - trece
+search terms:
+  glb:
+  - des tiga
+  - des
+  - tiga
+  eng:
+  - thirteen
+  epo:
+  - dek tri
+  spa:
+  - trece
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a>, <a href="../lexi/tiga">tiga</a>
+raw data:
+  term: des tiga
+  category: phrase
+  word class: num
+  status: false
+  trans:
+    eng: thirteen
+    epo: dek tri
+    spa: trece
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des, tiga
+...

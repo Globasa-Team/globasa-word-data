@@ -1,0 +1,49 @@
+---
+term: menxar
+slug: menxar
+ipa: "men\u02C8\u0283a\u027E"
+ipa link: "http://ipa-reader.xyz/?text=men\u02C8\u0283a\u027E&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - saw (_tool_)
+  epo:
+  - - segilo
+  - - segi
+  spa:
+  - - sierra (_herramienta_)
+search terms:
+  glb:
+  - menxar
+  eng:
+  - saw
+  epo:
+  - segilo
+  - segi
+  spa:
+  - sierra
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: menxar
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: saw (_tool_)
+    epo: segilo; segi
+    spa: sierra (_herramienta_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0650\u0646\u0652\u0634\u064E\u0627\u0631 \u201Cminxar\u201D),
+    Parsisa (\u0645\u0646\u0634\u0627\u0631 \u201Cmenxar\u201D), Azerbayjansa (mi\u015Far)"
+...

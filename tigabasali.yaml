@@ -1,0 +1,51 @@
+---
+term: tigabasali
+slug: tigabasali
+ipa: "tigaba\u02C8sali"
+ipa link: "http://ipa-reader.xyz/?text=tigaba\u02C8sali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - trilingual
+    - trilingually
+  epo:
+  - - trilingva
+  - - trilingve
+  spa:
+  - - "triling\xFCe"
+search terms:
+  glb:
+  - tigabasali
+  eng:
+  - trilingual
+  - trilingually
+  epo:
+  - trilingva
+  - trilingve
+  spa:
+  - "triling\xFCe"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tiga">tiga</a> + <a href="../lexi/basa">basa</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: tigabasali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: trilingual, trilingually
+    epo: trilingva; trilingve
+    spa: "triling\xFCe"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tiga + basa + -li
+...

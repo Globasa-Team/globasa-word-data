@@ -1,0 +1,53 @@
+---
+term: watumon
+slug: watumon
+ipa: "watu\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=watu\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - period (of time)
+    - time period
+    - while
+    - term
+  epo:
+  - - periodo
+  spa:
+  - - periodo de tiempo
+search terms:
+  glb:
+  - watumon
+  eng:
+  - period of time
+  - period
+  - time period
+  - while
+  - term
+  epo:
+  - periodo
+  spa:
+  - periodo de tiempo
+etymology_type: DERIVD
+etymology: <a href="../lexi/watu">watu</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: watumon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: period (of time), time period, while, term
+    epo: periodo
+    spa: periodo de tiempo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: watu + -mon
+...

@@ -1,0 +1,52 @@
+---
+term: namegi
+slug: namegi
+ipa: "na\u02C8megi"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8megi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - naming
+  - - name (_give name_)
+  epo:
+  - - nomado
+  - - nomi
+  spa:
+  - - nombramiento
+  - - nombrar
+search terms:
+  glb:
+  - namegi
+  eng:
+  - naming
+  - name
+  epo:
+  - nomado
+  - nomi
+  spa:
+  - nombramiento
+  - nombrar
+etymology_type: DERIVD
+etymology: <a href="../lexi/name">name</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: namegi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: naming; name (_give name_)
+    epo: nomado; nomi
+    spa: nombramiento; nombrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: name + -gi
+...

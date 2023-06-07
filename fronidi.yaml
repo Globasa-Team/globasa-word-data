@@ -1,0 +1,59 @@
+---
+term: fronidi
+slug: fronidi
+ipa: "f\u027Eo\u02C8nidi"
+ipa link: "http://ipa-reader.xyz/?text=f\u027Eo\u02C8nidi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - advance
+    - advancement
+  - - advance
+    - proceed
+  epo:
+  - - "anta\u016Deniro"
+  - - "anta\u016Deniri"
+    - "anta\u016Denirigi"
+  spa:
+  - - avance
+  - - avanzar
+    - proceder
+search terms:
+  glb:
+  - fronidi
+  eng:
+    0: advance
+    1: advancement
+    3: proceed
+  epo:
+  - "anta\u016Deniro"
+  - "anta\u016Deniri"
+  - "anta\u016Denirigi"
+  spa:
+  - avance
+  - avanzar
+  - proceder
+etymology_type: DERIVD
+etymology: <a href="../lexi/fron-">fron-</a> + <a href="../lexi/idi">idi</a>
+raw data:
+  term: fronidi
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: advance, advancement; advance, proceed
+    epo: "anta\u016Deniro; anta\u016Deniri, anta\u016Denirigi"
+    spa: avance; avanzar, proceder
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fron- + idi
+...

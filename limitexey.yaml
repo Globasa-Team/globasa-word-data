@@ -1,0 +1,48 @@
+---
+term: limitexey
+slug: limitexey
+ipa: "limite\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=limite\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - limitation
+  epo:
+  - - "lima\u0135o"
+    - limigo
+  spa:
+  - - "limitaci\xF3n"
+search terms:
+  glb:
+  - limitexey
+  eng:
+  - limitation
+  epo:
+  - "lima\u0135o"
+  - limigo
+  spa:
+  - "limitaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/limite">limite</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: limitexey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: limitation
+    epo: "lima\u0135o, limigo"
+    spa: "limitaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: limite + -xey
+...

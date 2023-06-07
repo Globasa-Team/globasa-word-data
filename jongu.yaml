@@ -1,0 +1,47 @@
+---
+term: jongu
+slug: jongu
+ipa: "\u02C8d\u0361\u0292ongu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ongu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - species
+  epo:
+  - - specio
+  spa:
+  - - especie
+search terms:
+  glb:
+  - jongu
+  eng:
+  - species
+  epo:
+  - specio
+  spa:
+  - especie
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jongu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: species
+    epo: specio
+    spa: especie
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u79CD \u201Czh\u01D2ng\u201D), Hangusa (\uC885 \u201Cjong\u201D),
+    Vyetnamsa (gi\xF4\u0341ng)"
+...

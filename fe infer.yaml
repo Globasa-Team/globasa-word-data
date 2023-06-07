@@ -1,0 +1,54 @@
+---
+term: fe infer
+slug: fe infer
+ipa: "fe in\u02C8fe\u027E"
+ipa link: "http://ipa-reader.xyz/?text=fe in\u02C8fe\u027E&voice=Ewa"
+status: false
+category: phrase
+word class: m
+trans:
+  eng:
+  - - (down) below
+    - (down) under
+  epo:
+  - - malsupre
+  spa:
+  - - por abajo de
+search terms:
+  glb:
+  - fe infer
+  - fe
+  - infer
+  eng:
+  - down below
+  - below
+  - down under
+  - under
+  epo:
+  - malsupre
+  spa:
+  - por abajo de
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/infer">infer</a>
+antonyms:
+- fe super
+raw data:
+  term: fe infer
+  category: phrase
+  word class: m
+  status: false
+  trans:
+    eng: (down) below, (down) under
+    epo: malsupre
+    spa: por abajo de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: fe super
+  example: ""
+  tags: ""
+  etymology: fe, infer
+...

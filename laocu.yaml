@@ -1,0 +1,52 @@
+---
+term: laocu
+slug: laocu
+ipa: "la\u02C8ot\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8ot\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - age
+    - become old
+    - grow old
+  epo:
+  - - "maljuni\u011Do"
+  - - "maljuni\u011Di"
+  spa:
+  - - envejecer
+search terms:
+  glb:
+  - laocu
+  eng:
+  - age
+  - become old
+  - grow old
+  epo:
+  - "maljuni\u011Do"
+  - "maljuni\u011Di"
+  spa:
+  - envejecer
+etymology_type: DERIVD
+etymology: <a href="../lexi/lao">lao</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: laocu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: age, become old, grow old
+    epo: "maljuni\u011Do; maljuni\u011Di"
+    spa: envejecer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lao + -cu
+...

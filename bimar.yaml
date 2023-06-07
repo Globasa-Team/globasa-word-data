@@ -1,0 +1,56 @@
+---
+term: bimar
+slug: bimar
+ipa: biˈmaɾ
+ipa link: http://ipa-reader.xyz/?text=biˈmaɾ&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - sick
+    - ill
+  epo:
+  - - malsana
+  - - malsane
+  spa:
+  - - enfermo
+search terms:
+  glb:
+  - bimar
+  eng:
+  - sick
+  - ill
+  epo:
+  - malsana
+  - malsane
+  spa:
+  - enfermo
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - बीमार “bimar”
+  Parsisa:
+  - - بیمار “bimar”
+tags:
+- medis
+raw data:
+  term: bimar
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: sick, ill
+    epo: malsana; malsane
+    spa: enfermo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: Hindisa (बीमार “bimar”), Parsisa (بیمار “bimar”)
+...

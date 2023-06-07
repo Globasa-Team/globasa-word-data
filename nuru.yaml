@@ -1,0 +1,56 @@
+---
+term: nuru
+slug: nuru
+ipa: "\u02C8nu\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nu\u027Eu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - daytime
+  epo:
+  - - tago (malnokto)
+  spa:
+  - - "d\xEDa (_opuesto: noche_)"
+search terms:
+  glb:
+  - nuru
+  eng:
+  - daytime
+  epo:
+  - tago malnokto
+  - tago
+  spa:
+  - "d\xEDa"
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - "\u0646\u0648\u0631 \u201Cnur\u201D"
+  Swahilisa:
+  - - nuru
+  Turkisa:
+  - - nur
+tags:
+- din
+raw data:
+  term: nuru
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: daytime
+    epo: tago (malnokto)
+    spa: "d\xEDa (_opuesto: noche_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: din
+  etymology: "Parsisa (\u0646\u0648\u0631 \u201Cnur\u201D), Swahilisa (nuru), Turkisa
+    (nur)"
+...

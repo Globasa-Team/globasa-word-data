@@ -1,0 +1,52 @@
+---
+term: swomisa
+slug: swomisa
+ipa: "swo\u02C8misa"
+ipa link: "http://ipa-reader.xyz/?text=swo\u02C8misa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Finnish (language)
+  epo:
+  - - la finna (lingvo)
+  spa:
+  - - "fin\xE9s"
+    - "finland\xE9s (_idioma_)"
+search terms:
+  glb:
+  - swomisa
+  eng:
+  - finnish language
+  - finnish
+  epo:
+  - la finna lingvo
+  - la finna
+  spa:
+  - "fin\xE9s"
+  - "finland\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Swomi">Swomi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Swomisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Finnish (language)
+    epo: la finna (lingvo)
+    spa: "fin\xE9s, finland\xE9s (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Swomi + -sa
+...

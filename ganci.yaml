@@ -1,0 +1,60 @@
+---
+term: ganci
+slug: ganci
+ipa: ˈgant͡ʃi
+ipa link: http://ipa-reader.xyz/?text=ˈgant͡ʃi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - perception
+    - sense
+  - - perceive
+  epo:
+  - - percepto
+  - - percepti
+  spa:
+  - - percepción
+    - sentido
+  - - percibir
+search terms:
+  glb:
+  - ganci
+  eng:
+  - perception
+  - sense
+  - perceive
+  epo:
+  - percepto
+  - percepti
+  spa:
+  - percepción
+  - sentido
+  - percibir
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 感知 “ganji”
+  Niponsa:
+  - - 感知 “kanci”
+raw data:
+  term: ganci
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: perception, sense; perceive
+    epo: percepto; percepti
+    spa: percepción, sentido; percibir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (感知 “ganji”), Niponsa (感知 “kanci”)
+...

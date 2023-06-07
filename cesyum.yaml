@@ -1,0 +1,96 @@
+---
+term: cesyum
+slug: cesyum
+ipa: t͡ʃeˈsjum
+ipa link: http://ipa-reader.xyz/?text=t͡ʃeˈsjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - caesium
+  epo:
+  - - cezio
+  spa:
+  - - cesio
+    - Cs
+  deu:
+  - - Cäsium
+    - Zäsium
+    - Caesium
+search terms:
+  glb:
+  - cesyum
+  eng:
+  - caesium
+  epo:
+  - cezio
+  spa:
+  - cesio
+  - cs
+  deu:
+  - cäsium
+  - zäsium
+  - caesium
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - caesium
+  Putunhwa:
+  - - 銫 “se”
+  Espanisa:
+  - - cesio
+  Arabisa:
+  - - سِيزْيُوم “sizyum”
+  Fransesa:
+  - - césium
+  Rusisa:
+  - - цезий “tseziy”
+  Indonesisa:
+  - - sesium
+  Doycisa:
+  - - Cäsium
+    - Zäsium
+  Niponsa:
+  - - セシウム “sexiumu”
+  Telugusa:
+  - - సీసియం “sisiyam”
+  Turkisa:
+  - - sezyum
+  Hangusa:
+  - - 세슘 “sexyum”
+  Vyetnamsa:
+  - - xêsi
+  Parsisa:
+  - - سزیم “seziyom”
+  Swahilisa:
+  - - caesi
+  Pilipinasa:
+  - - sesyo
+    - sesyum
+tags:
+- kimikali monlari
+raw data:
+  term: cesyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: caesium
+    epo: cezio
+    spa: cesio, Cs
+    deu: Cäsium, Zäsium, Caesium
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (caesium), Putunhwa (銫 “se”), Espanisa (cesio), Arabisa (سِيزْيُوم
+    “sizyum”), Fransesa (césium), Rusisa (цезий “tseziy”), Indonesisa (sesium), Doycisa
+    (Cäsium, Zäsium), Niponsa (セシウム “sexiumu”), Telugusa (సీసియం “sisiyam”), Turkisa
+    (sezyum), Hangusa (세슘 “sexyum”), Vyetnamsa (xêsi), Parsisa (سزیم “seziyom”), Swahilisa
+    (caesi), Pilipinasa (sesyo, sesyum)
+...

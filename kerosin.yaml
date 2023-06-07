@@ -1,0 +1,53 @@
+---
+term: kerosin
+slug: kerosin
+ipa: "ke\u027Eo\u02C8sin"
+ipa link: "http://ipa-reader.xyz/?text=ke\u027Eo\u02C8sin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - kerosene
+  epo:
+  - - keroseno
+  spa:
+  - - queroseno
+search terms:
+  glb:
+  - kerosin
+  eng:
+  - kerosene
+  epo:
+  - keroseno
+  spa:
+  - queroseno
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kerosin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: kerosene
+    epo: keroseno
+    spa: queroseno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (kerosene), Espanisa (queroseno), Fransesa (k\xE9ros\xE8ne),
+    Rusisa (\u043A\u0435\u0440\u043E\u0441\u0438\u043D \u201Ckerosin\u201D), Doycisa
+    (Kerosin), Indonesisa, Pilipinasa (kerosina), Hindisa (\u0915\u0947\u0930\u094B\u0938\u0940\u0928
+    \u201Ckerosin\u201D), Arabisa (\u0643\u0650\u064A\u0631\u064F\u0648\u0633\u0650\u064A\u0646
+    \u201Ckirusin\u201D), Niponsa (\u30B1\u30ED\u30B7\u30F3 \u201Ckeroxin\u201D),
+    Telugusa (\u0C15\u0C3F\u0C30\u0C4B\u0C38\u0C3F\u0C28\u0C4D \u201Ckerosin\u201D),
+    Turkisa (kerosen), Hangusa (\uCF00\uB85C\uC2E0 \u201Ckeroxin\u201D), Vyetnamsa
+    (k\xEAr\xF4sin), Parsisa (\u06A9\u0631\u0648\u0633\u0646 \u201Ckerosen\u201D)"
+...

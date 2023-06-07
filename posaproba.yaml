@@ -1,0 +1,53 @@
+---
+term: posaproba
+slug: posaproba
+ipa: "posa\u02C8p\u027Eoba"
+ipa link: "http://ipa-reader.xyz/?text=posa\u02C8p\u027Eoba&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - disapproval
+  - - disapprove (of)
+  epo:
+  - - malaprobo
+  - - malaprobi
+  spa:
+  - - "desaprobaci\xF3n"
+  - - desaprobar
+search terms:
+  glb:
+  - posaproba
+  eng:
+  - disapproval
+  - disapprove of
+  - disapprove
+  epo:
+  - malaprobo
+  - malaprobi
+  spa:
+  - "desaprobaci\xF3n"
+  - desaprobar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/aproba">aproba</a>
+raw data:
+  term: posaproba
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: disapproval; disapprove (of)
+    epo: malaprobo; malaprobi
+    spa: "desaprobaci\xF3n; desaprobar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + aproba
+...

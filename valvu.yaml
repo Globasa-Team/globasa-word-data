@@ -1,0 +1,67 @@
+---
+term: valvu
+slug: valvu
+ipa: "\u02C8valvu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8valvu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - valve
+  epo:
+  - - valvo
+  spa:
+  - - "v\xE1lvula"
+search terms:
+  glb:
+  - valvu
+  eng:
+  - valve
+  epo:
+  - valvo
+  spa:
+  - "v\xE1lvula"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - valve
+  Espanisa:
+  - - "v\xE1lvula"
+  Pilipinasa:
+  - - balbula
+  Hindisa:
+  - - "\u0935\u093E\u0932\u094D\u0935 \u201Cvalv\u201D"
+  Niponsa:
+  - - "\u30D0\u30EB\u30D6 \u201Cbarubu\u201D"
+  Turkisa:
+  - - valf
+  Vyetnamsa:
+  - - van
+  Parsisa:
+  - - "\u0648\u064E\u0644\u0652\u0648 \u201Cvalv\u201D"
+  Swahilisa:
+  - - valvu
+raw data:
+  term: valvu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: valve
+    epo: valvo
+    spa: "v\xE1lvula"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (valve), Espanisa (v\xE1lvula), Pilipinasa (balbula), Hindisa
+    (\u0935\u093E\u0932\u094D\u0935 \u201Cvalv\u201D), Niponsa (\u30D0\u30EB\u30D6
+    \u201Cbarubu\u201D), Turkisa (valf), Vyetnamsa (van), Parsisa (\u0648\u064E\u0644\u0652\u0648
+    \u201Cvalv\u201D), Swahilisa (valvu)"
+...

@@ -1,0 +1,74 @@
+---
+term: tabutu
+slug: tabutu
+ipa: "ta\u02C8butu"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8butu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coffin
+    - casket
+  epo:
+  - - "\u0109erko"
+  spa:
+  - - "ata\xFAd"
+    - "f\xE9retro"
+    - "caj\xF3n"
+search terms:
+  glb:
+  - tabutu
+  eng:
+  - coffin
+  - casket
+  epo:
+  - "\u0109erko"
+  spa:
+  - "ata\xFAd"
+  - "f\xE9retro"
+  - "caj\xF3n"
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0924\u093E\u092C\u0942\u0924 \"tabut\""
+  Arabisa:
+  - - "\u062A\u064E\u0627\u0628\u064F\u0648\u062A \"tabut\""
+  Turkisa:
+  - - tabut
+  Parsisa:
+  - - "\u062A\u0627\u0628\u0648\u062A \"t\xE2but\""
+  Espanisa:
+  - - "ata\xFAd"
+  Portugalsa:
+  - - ataude
+  Italisa:
+  - - tabutto
+  Serbihervatskasa:
+  - - "\u0442\u0430\u0431\u0443\u0442"
+    - tabut
+  Pilipinasa:
+  - - ataul
+raw data:
+  term: tabutu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coffin, casket
+    epo: "\u0109erko"
+    spa: "ata\xFAd, f\xE9retro, caj\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0924\u093E\u092C\u0942\u0924 \"tabut\"), Arabisa (\u062A\u064E\u0627\u0628\u064F\u0648\u062A
+    \"tabut\"), Turkisa (tabut), Parsisa (\u062A\u0627\u0628\u0648\u062A \"t\xE2but\"),
+    Espanisa (ata\xFAd), Portugalsa (ataude), Italisa (tabutto), Serbihervatskasa
+    (\u0442\u0430\u0431\u0443\u0442, tabut), Pilipinasa (ataul)"
+...

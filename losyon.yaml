@@ -1,0 +1,54 @@
+---
+term: losyon
+slug: losyon
+ipa: "lo\u02C8sjon"
+ipa link: "http://ipa-reader.xyz/?text=lo\u02C8sjon&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lotion
+  epo:
+  - - "(malgrande viskoza) ha\u016Dto\u015Dmira\u0135o"
+    - locio
+  spa:
+  - - "loci\xF3n"
+search terms:
+  glb:
+  - losyon
+  eng:
+  - lotion
+  epo:
+  - "malgrande viskoza ha\u016Dto\u015Dmira\u0135o"
+  - "ha\u016Dto\u015Dmira\u0135o"
+  - locio
+  spa:
+  - "loci\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: losyon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lotion
+    epo: "(malgrande viskoza) ha\u016Dto\u015Dmira\u0135o, locio"
+    spa: "loci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lotion), Espanisa (loci\xF3n), Fransesa (lotion), Rusisa (\u043B\u043E\u0441\u044C\u043E\u043D
+    \u201Closyon\u201D), Doycisa (Lotion), Indonesisa (losion), Pilipinasa (losyon),
+    Hindisa (\u0932\u094B\u0936\u0928 \u201Cloxan\u201D), Niponsa (\u30ED\u30FC\u30B7\u30E7\u30F3
+    \u201Croxon\u201D), Telugusa (\u0C32\u0C4B\u0C37\u0C28\u0C4D \u201Closen\u201D),
+    Turkisa (losyon), Hangusa (\uB85C\uC158 \u201Crosyon\u201D), Parsisa (\u0644\u0648\u0633\u06CC\u0648\u0646
+    \u201Closyon\u201D), Swahilisa (losheni)"
+...

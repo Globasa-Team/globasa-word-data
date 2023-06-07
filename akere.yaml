@@ -1,0 +1,81 @@
+---
+term: akere
+slug: akere
+ipa: aˈkeɾe
+ipa link: http://ipa-reader.xyz/?text=aˈkeɾe&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - acre
+  epo:
+  - - akreo
+    - akro
+  spa:
+  - - acre (_unidad de superficie_)
+    - ac
+search terms:
+  glb:
+  - akere
+  eng:
+  - acre
+  epo:
+  - akreo
+  - akro
+  spa:
+  - acre
+  - ac
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - acre
+  Espanisa:
+  - - acre
+  Fransesa:
+  - - acre
+  Rusisa:
+  - - акр "akr"
+  Doycisa:
+  - - Acker
+  Indonesisa:
+  - - ekar
+  Pilipinasa:
+  - - akre
+  Hindisa:
+  - - एकड़ "ekar"
+  Arabisa:
+  - - آكِر "akir"
+  Niponsa:
+  - - エーカー "eka"
+  Telugusa:
+  - - ఎకరం "ekaram"
+  Turkisa:
+  - - akre
+  Hangusa:
+  - - 에이커 "eyko"
+  Swahilisa:
+  - - ekari
+raw data:
+  term: akere
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: acre
+    epo: akreo, akro
+    spa: acre (_unidad de superficie_), ac
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (acre), Espanisa (acre), Fransesa (acre), Rusisa (акр "akr"),
+    Doycisa (Acker), Indonesisa (ekar), Pilipinasa (akre), Hindisa (एकड़ "ekar"),
+    Arabisa (آكِر "akir"), Niponsa (エーカー "eka"), Telugusa (ఎకరం "ekaram"), Turkisa
+    (akre), Hangusa (에이커 "eyko"), Swahilisa (ekari)
+...

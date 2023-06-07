@@ -1,0 +1,52 @@
+---
+term: normakal
+slug: normakal
+ipa: "no\u027Ema\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=no\u027Ema\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - abnormal
+  - - abnormally
+  epo:
+  - - nenorma
+  - - nenorme
+  spa:
+  - - anormal
+  - - anormalmente
+search terms:
+  glb:
+  - normakal
+  eng:
+  - abnormal
+  - abnormally
+  epo:
+  - nenorma
+  - nenorme
+  spa:
+  - anormal
+  - anormalmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/norma">norma</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: normakal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: abnormal; abnormally
+    epo: nenorma; nenorme
+    spa: anormal; anormalmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: norma + -kal
+...

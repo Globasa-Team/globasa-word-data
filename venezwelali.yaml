@@ -1,0 +1,46 @@
+---
+term: venezwelali
+slug: venezwelali
+ipa: "venezwe\u02C8lali"
+ipa link: "http://ipa-reader.xyz/?text=venezwe\u02C8lali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Venezuelan
+  epo:
+  - - venezuela
+  spa:
+  - - venezolano
+search terms:
+  glb:
+  - venezwelali
+  eng:
+  - venezuelan
+  epo:
+  - venezuela
+  spa:
+  - venezolano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Venezwela">Venezwela</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Venezwelali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Venezuelan
+    epo: venezuela
+    spa: venezolano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Venezwela + -li
+...

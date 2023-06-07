@@ -1,0 +1,48 @@
+---
+term: juiore
+slug: juiore
+ipa: "d\u0361\u0292ui\u02C8o\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292ui\u02C8o\u027Ee&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - listen (_attentively_)
+  epo:
+  - - "a\u016Dskulto"
+  - - "a\u016Dskulti"
+  spa:
+  - - escuchar
+search terms:
+  glb:
+  - juiore
+  eng:
+  - listen
+  epo:
+  - "a\u016Dskulto"
+  - "a\u016Dskulti"
+  spa:
+  - escuchar
+etymology_type: DERIVD
+etymology: <a href="../lexi/jui-">jui-</a> + <a href="../lexi/ore">ore</a>
+raw data:
+  term: juiore
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: listen (_attentively_)
+    epo: "a\u016Dskulto; a\u016Dskulti"
+    spa: escuchar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jui- + ore
+...

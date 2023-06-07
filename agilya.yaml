@@ -1,0 +1,46 @@
+---
+term: agilya
+slug: agilya
+ipa: "a\u02C8gilja"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8gilja&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - agility
+  epo:
+  - - facilmoveco
+  spa:
+  - - agilidad
+search terms:
+  glb:
+  - agilya
+  eng:
+  - agility
+  epo:
+  - facilmoveco
+  spa:
+  - agilidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/agil">agil</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: agilya
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: agility
+    epo: facilmoveco
+    spa: agilidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: agil + -ya
+...

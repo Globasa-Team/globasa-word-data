@@ -1,0 +1,51 @@
+---
+term: lungo
+slug: lungo
+ipa: "\u02C8lungo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lungo&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - long
+  epo:
+  - - longa
+  - - longe
+  spa:
+  - - largo
+search terms:
+  glb:
+  - lungo
+  eng:
+  - long
+  epo:
+  - longa
+  - longe
+  spa:
+  - largo
+etymology_type: NATLNG
+etymology: BLAH
+antonyms:
+- kurto
+raw data:
+  term: lungo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: long
+    epo: longa; longe
+    spa: largo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: kurto
+  example: ""
+  tags: ""
+  etymology: Englisa (long), Doycisa (lang), Fransesa (long), Italisa (lungo), Rumanisa
+    (lung), Portugalsa (longo)
+...

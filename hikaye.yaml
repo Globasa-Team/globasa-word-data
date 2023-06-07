@@ -1,0 +1,66 @@
+---
+term: hikaye
+slug: hikaye
+ipa: "xi\u02C8kaje"
+ipa link: "http://ipa-reader.xyz/?text=xi\u02C8kaje&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - story
+    - narrative
+  - - narrate
+    - relate
+    - recount
+  epo:
+  - - rakonto
+  - - rakonti
+  spa:
+  - - relato
+    - cuento
+    - "narraci\xF3n"
+  - - contar
+    - narrar
+search terms:
+  glb:
+  - hikaye
+  eng:
+  - story
+  - narrative
+  - narrate
+  - relate
+  - recount
+  epo:
+  - rakonto
+  - rakonti
+  spa:
+  - relato
+  - cuento
+  - "narraci\xF3n"
+  - contar
+  - narrar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hikaye
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: story, narrative; narrate, relate, recount
+    epo: rakonto; rakonti
+    spa: "relato, cuento, narraci\xF3n; contar, narrar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u0643\u0627\u064A\u0629 \u201Chikaya\u201D), Parsisa
+    (\u062D\u06A9\u0627\u06CC\u062A \u201Chikaya\u201D), Turkisa (hik\xE2ye), Swahilisa
+    (hekaya), Indonesisa (hikayat)"
+...

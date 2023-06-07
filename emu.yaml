@@ -1,0 +1,78 @@
+---
+term: emu
+slug: emu
+ipa: ˈemu
+ipa link: http://ipa-reader.xyz/?text=ˈemu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - emu
+    - _Dromaius_
+  epo:
+  - - emuo
+  spa:
+  - - emú
+    - _Dromaius_
+search terms:
+  glb:
+  - emu
+  eng:
+  - emu
+  - dromaius
+  epo:
+  - emuo
+  spa:
+  - emú
+  - dromaius
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - emu
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Swahilisa: ~
+  Vyetnamsa: ~
+  Espanisa:
+  - - emú
+  Fransesa:
+  - - émeu
+  Rusisa:
+  - - эму “emu”
+  Putunhwa:
+  - - 鸸鹋 “ermyaw”
+  Hindisa:
+  - - एमू “emu”
+  Niponsa:
+  - - エミュー “emyu”
+  Telugusa:
+  - - ఈము “imu”
+  Hangusa:
+  - - 에뮤 “emyu”
+tags:
+- hewan
+raw data:
+  term: emu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: emu, _Dromaius_
+    epo: emuo
+    spa: emú, _Dromaius_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (emu), Doycisa, Indonesisa, Pilipinasa, Turkisa, Swahilisa, Vyetnamsa,
+    Espanisa (emú), Fransesa (émeu), Rusisa (эму “emu”), Putunhwa (鸸鹋 “ermyaw”), Hindisa
+    (एमू “emu”), Niponsa (エミュー “emyu”), Telugusa (ఈము “imu”), Hangusa (에뮤 “emyu”)
+...

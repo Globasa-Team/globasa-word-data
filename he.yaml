@@ -1,0 +1,54 @@
+---
+term: he
+slug: he
+ipa: "\u02C8xe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe&voice=Ewa"
+status: true
+category: root
+word class: par
+trans:
+  eng:
+  - - _emphatic correlative particle_
+    - any
+    - ever
+    - at all [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+  epo:
+  - - _emfaza korelativa partikulo_
+    - ajn
+  spa:
+  - - "(_part\xEDcula enf\xE1tica_)"
+search terms:
+  glb:
+  - he
+  eng:
+  - emphatic correlative particle
+  - any
+  - ever
+  - at all
+  epo:
+  - emfaza korelativa partikulo
+  - ajn
+  spa: []
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: he
+  category: root
+  word class: par
+  status: true
+  trans:
+    eng: _emphatic correlative particle_, any, ever, at all [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+    epo: _emfaza korelativa partikulo_, ajn
+    spa: "(_part\xEDcula enf\xE1tica_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u4EFB\u4F55  \u201Cr\xE8nh\xE9\u201D), Turkisa (her, herhangi),
+    Hindisa (\u0939\u0930  \u201Char\u201D), Parsisa (\u0647\u0631 \u201Char\u201D)"
+...

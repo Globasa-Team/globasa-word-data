@@ -1,0 +1,74 @@
+---
+term: admiral
+slug: admiral
+ipa: admiˈɾal
+ipa link: http://ipa-reader.xyz/?text=admiˈɾal&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - admiral
+  epo:
+  - - admiralo
+  spa:
+  - - almirante
+search terms:
+  glb:
+  - admiral
+  eng:
+  - admiral
+  epo:
+  - admiralo
+  spa:
+  - almirante
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - admiral
+  Espanisa:
+  - - almirante
+  Fransesa:
+  - - amiral
+  Rusisa:
+  - - адмирал "admiral"
+  Doycisa:
+  - - Admiral
+  Pilipinasa:
+  - - almirante
+  Hindisa:
+  - - ऐडमिरल "edmiral"
+  Arabisa:
+  - - أَمِيرُ البَحْر "amiru l-bahr"
+    - أَدْمِيرَال "admiral"
+  Telugusa:
+  - - అడ్మిరల్ "admiral"
+  Turkisa:
+  - - oramiral
+  Swahilisa:
+  - - admirali
+tags:
+- insan
+raw data:
+  term: admiral
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: admiral
+    epo: admiralo
+    spa: almirante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: Englisa (admiral), Espanisa (almirante), Fransesa (amiral), Rusisa (адмирал
+    "admiral"), Doycisa (Admiral), Pilipinasa (almirante), Hindisa (ऐडमिरल "edmiral"),
+    Arabisa (أَمِيرُ البَحْر "amiru l-bahr", أَدْمِيرَال "admiral"), Telugusa (అడ్మిరల్
+    "admiral"), Turkisa (oramiral), Swahilisa (admirali)
+...

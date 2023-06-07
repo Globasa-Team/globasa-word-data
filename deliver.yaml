@@ -1,0 +1,70 @@
+---
+term: deliver
+slug: deliver
+ipa: "deli\u02C8ve\u027E"
+ipa link: "http://ipa-reader.xyz/?text=deli\u02C8ve\u027E&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - delivery
+  - - deliver
+  epo:
+  - - livero
+  - - liveri
+  spa:
+  - - entrega
+    - _delivery_
+  - - entregar
+search terms:
+  glb:
+  - deliver
+  eng:
+  - delivery
+  - deliver
+  epo:
+  - livero
+  - liveri
+  spa:
+  - entrega
+  - delivery
+  - entregar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - deliver
+  Espanisa:
+  - - delivery
+  Pilipinasa:
+  - - mag-deliber
+  Niponsa:
+  - - "\u30C7\u30EA\u30D0\u30EA\u30FC \"deribari\""
+  Hangusa:
+  - - dillibori
+  Fransesa:
+  - - livrer
+  Doycisa:
+  - - liefern
+raw data:
+  term: deliver
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: delivery; deliver
+    epo: livero; liveri
+    spa: entrega, _delivery_; entregar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (deliver), Espanisa (delivery), Pilipinasa (mag-deliber), Niponsa
+    (\u30C7\u30EA\u30D0\u30EA\u30FC \"deribari\"), Hangusa (dillibori), Fransesa (livrer)
+    Doycisa (liefern)"
+...

@@ -1,0 +1,48 @@
+---
+term: hinsu
+slug: hinsu
+ipa: "\u02C8xinsu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xinsu&voice=Ewa"
+status: false
+category: derived
+word class: su s
+trans:
+  eng:
+  - - this one's
+  epo:
+  - - "\u0109i ties"
+    - "ties \u0109i"
+  spa:
+  - - de este
+search terms:
+  glb:
+  - hinsu
+  eng:
+  - this one's
+  epo:
+  - "\u0109i ties"
+  - "ties \u0109i"
+  spa:
+  - de este
+etymology_type: DERIVD
+etymology: <a href="../lexi/hin">hin</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: hinsu
+  category: derived
+  word class: su s
+  status: false
+  trans:
+    eng: this one's
+    epo: "\u0109i ties, ties \u0109i"
+    spa: de este
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hin + -su
+...

@@ -1,0 +1,50 @@
+---
+term: laye
+slug: laye
+ipa: "\u02C8laje"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8laje&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - worthy
+  epo:
+  - - inda
+  - - inde
+  spa:
+  - - digno
+search terms:
+  glb:
+  - laye
+  eng:
+  - worthy
+  epo:
+  - inda
+  - inde
+  spa:
+  - digno
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: laye
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: worthy
+    epo: inda; inde
+    spa: digno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0644\u064E\u0627\u0626\u0650\u0642 \u201Clayk\u201D), Indonesisa
+    (layak), Turkisa (lay\u0131k), Hindisa (\u0932\u093E\u092F\u0915 \u201Clayak\u201D,
+    \u0932\u093E\u0907\u0915\u093C \u201Clayk\u201C - layeya)"
+...

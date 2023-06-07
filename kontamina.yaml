@@ -1,0 +1,65 @@
+---
+term: kontamina
+slug: kontamina
+ipa: "konta\u02C8mina"
+ipa link: "http://ipa-reader.xyz/?text=konta\u02C8mina&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - contamination
+    - pollution
+  - - contaminate
+    - pollute
+  epo:
+  - - poluo
+    - malpurigo
+  - - polui
+    - malpurigi
+  spa:
+  - - "contaminaci\xF3n"
+    - "poluci\xF3n"
+  - - contaminar
+search terms:
+  glb:
+  - kontamina
+  eng:
+  - contamination
+  - pollution
+  - contaminate
+  - pollute
+  epo:
+  - poluo
+  - malpurigo
+  - polui
+  - malpurigi
+  spa:
+  - "contaminaci\xF3n"
+  - "poluci\xF3n"
+  - contaminar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kontamina
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: contamination, pollution; contaminate, pollute
+    epo: poluo, malpurigo; polui, malpurigi
+    spa: "contaminaci\xF3n, poluci\xF3n; contaminar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (contamination, contaminate), Fransesa (contamination), Espanisa
+    (contaminaci\xF3n, contaminar), Doycisa (Kontamination), Indonesisa (kontaminasi),
+    Pilipinasa (kontaminasyon), Niponsa (\u30B3\u30F3\u30BF\u30DF\u30CD\u30FC\u30B7\u30E7\u30F3
+    \u201Ckontaminexon\u201D)"
+...

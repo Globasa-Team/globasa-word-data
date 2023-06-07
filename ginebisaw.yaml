@@ -1,0 +1,50 @@
+---
+term: ginebisaw
+slug: ginebisaw
+ipa: "ginebi\u02C8saw"
+ipa link: "http://ipa-reader.xyz/?text=ginebi\u02C8saw&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Guinea-Bissau
+  epo:
+  - - "Gvineo-Bisa\u016Do"
+  spa:
+  - - "Guinea-Bis\xE1u"
+search terms:
+  glb:
+  - ginebisaw
+  eng:
+  - guinea-bissau
+  epo:
+  - "gvineo-bisa\u016Do"
+  spa:
+  - "guinea-bis\xE1u"
+etymology_type: NATLNG
+etymology:
+  Portugalsa:
+  - - "Guin\xE9-Bissau"
+tags:
+- dexa
+raw data:
+  term: Ginebisaw
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Guinea-Bissau
+    epo: "Gvineo-Bisa\u016Do"
+    spa: "Guinea-Bis\xE1u"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Portugalsa (Guin\xE9-Bissau)"
+...

@@ -1,0 +1,49 @@
+---
+term: lablabu
+slug: lablabu
+ipa: "la\u02C8blabu"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8blabu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ivy
+    - _Hedera_
+  epo:
+  - - hedero
+  spa:
+  - - hiedra
+search terms:
+  glb:
+  - lablabu
+  eng:
+  - ivy
+  - hedera
+  epo:
+  - hedero
+  spa:
+  - hiedra
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lablabu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ivy, _Hedera_
+    epo: hedero
+    spa: hiedra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0932\u092C\u0932\u092C \"lablab\"), Arabisa (\u0644\u064E\u0628\u0652\u0644\u064E\u0627\u0628
+    \"lablab\"), Swahilisa (lablabu)"
+...

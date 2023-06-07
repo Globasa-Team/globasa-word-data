@@ -1,0 +1,48 @@
+---
+term: dogra
+slug: dogra
+ipa: "\u02C8dog\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dog\u027Ea&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Dogra (_ethnolinguistic group in India and Pakistan_)
+  epo:
+  - - dogra
+  spa:
+  - - "dogra (_grupo etnoling\xFC\xEDstico en India y Pakist\xE1n_)"
+search terms:
+  glb:
+  - dogra
+  eng:
+  - dogra
+  epo:
+  - dogra
+  spa:
+  - dogra
+etymology_type: NATLNG
+etymology:
+  Dograsa:
+  - - "\u0921\u094B\u0917\u0930\u093E \u201Cdogra\u201D"
+raw data:
+  term: Dogra
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: Dogra (_ethnolinguistic group in India and Pakistan_)
+    epo: dogra
+    spa: "dogra (_grupo etnoling\xFC\xEDstico en India y Pakist\xE1n_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Dograsa (\u0921\u094B\u0917\u0930\u093E \u201Cdogra\u201D)"
+...

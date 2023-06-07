@@ -1,0 +1,61 @@
+---
+term: minusli
+slug: minusli
+ipa: "mi\u02C8nusli"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8nusli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - negative (_-1
+    - "-2"
+    - etc._)
+  epo:
+  - - negativa (_-1
+    - "-2"
+    - ktp._)
+  spa:
+  - - negativo (_-1
+    - "-2"
+    - etc._)
+search terms:
+  glb:
+  - minusli
+  eng:
+  - negative -1
+  - negative (_-1
+  - "-2"
+  - etc.
+  epo:
+  - negativa -1
+  - negativa (_-1
+  - "-2"
+  - ktp.
+  spa:
+  - negativo -1
+  - negativo (_-1
+  - "-2"
+  - etc.
+etymology_type: DERIVD
+etymology: <a href="../lexi/minus">minus</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: minusli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: negative (_-1, -2, etc._)
+    epo: negativa (_-1, -2, ktp._)
+    spa: negativo (_-1, -2, etc._)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: minus + -li
+...

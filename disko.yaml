@@ -1,0 +1,76 @@
+---
+term: disko
+slug: disko
+ipa: ˈdisko
+ipa link: http://ipa-reader.xyz/?text=ˈdisko&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - disc
+    - disk
+  epo:
+  - - disko
+  spa:
+  - - disco
+search terms:
+  glb:
+  - disko
+  eng:
+  - disc
+  - disk
+  epo:
+  - disko
+  spa:
+  - disco
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - disc
+    - disk
+  Espanisa:
+  - - disco
+  Fransesa:
+  - - disque
+  Rusisa:
+  - - диск “disk”
+  Pilipinasa:
+  - - disko
+  Hindisa:
+  - - डिस्क “disk”
+  Niponsa:
+  - - ディスク “disuku”
+  Telugusa:
+  - - డిస్క్ “disk”
+  Turkisa:
+  - - disk
+  Hangusa:
+  - - 디스크 “disuku”
+  Parsisa:
+  - - دیسک “disk”
+  Swahilisa:
+  - - diski
+raw data:
+  term: disko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: disc, disk
+    epo: disko
+    spa: disco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (disc, disk), Espanisa (disco), Fransesa (disque), Rusisa (диск
+    “disk”), Pilipinasa (disko), Hindisa (डिस्क “disk”), Niponsa (ディスク “disuku”),
+    Telugusa (డిస్క్ “disk”), Turkisa (disk), Hangusa (디스크 “disuku”), Parsisa (دیسک
+    “disk”), Swahilisa (diski)
+...

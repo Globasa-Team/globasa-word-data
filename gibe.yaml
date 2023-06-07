@@ -1,0 +1,69 @@
+---
+term: gibe
+slug: gibe
+ipa: ˈgibe
+ipa link: http://ipa-reader.xyz/?text=ˈgibe&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - giving
+  - - give
+    - grant
+    - award
+  epo:
+  - - dono
+  - - doni
+  spa:
+  - - donación
+    - otorgamiento
+  - - dar
+    - donar
+    - otorgar
+search terms:
+  glb:
+  - gibe
+  eng:
+  - giving
+  - give
+  - grant
+  - award
+  epo:
+  - dono
+  - doni
+  spa:
+  - donación
+  - otorgamiento
+  - dar
+  - donar
+  - otorgar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 给 “gěi”
+  Englisa:
+  - - give
+  Doycisa:
+  - - gibt
+    - gebe
+raw data:
+  term: gibe
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: giving; give, grant, award
+    epo: dono; doni
+    spa: donación, otorgamiento; dar, donar, otorgar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (给 “gěi”), Englisa (give), Doycisa (gibt, gebe)
+...

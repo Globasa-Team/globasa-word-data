@@ -1,0 +1,50 @@
+---
+term: bahama
+slug: bahama
+ipa: "ba\u02C8xama"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8xama&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - the Bahamas
+  epo:
+  - - Bahamoj
+  spa:
+  - - Bahamas
+search terms:
+  glb:
+  - bahama
+  eng:
+  - the bahamas
+  epo:
+  - bahamoj
+  spa:
+  - bahamas
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - the Bahamas
+tags:
+- dexa
+raw data:
+  term: Bahama
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: the Bahamas
+    epo: Bahamoj
+    spa: Bahamas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (the Bahamas)
+...

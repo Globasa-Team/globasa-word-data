@@ -1,0 +1,54 @@
+---
+term: talento
+slug: talento
+ipa: "ta\u02C8lento"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8lento&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - talent
+    - aptitute
+  epo:
+  - - talento
+  spa:
+  - - talento
+search terms:
+  glb:
+  - talento
+  eng:
+  - talent
+  - aptitute
+  epo:
+  - talento
+  spa:
+  - talento
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - talent
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+raw data:
+  term: talento
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: talent, aptitute
+    epo: talento
+    spa: talento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (talent), Fransesa, Doycisa, Rusisa, Espanisa
+...

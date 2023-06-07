@@ -1,0 +1,53 @@
+---
+term: kipros
+slug: kipros
+ipa: "ki\u02C8p\u027Eos"
+ipa link: "http://ipa-reader.xyz/?text=ki\u02C8p\u027Eos&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Cyprus
+  epo:
+  - - Kipro
+  spa:
+  - - Chipre
+search terms:
+  glb:
+  - kipros
+  eng:
+  - cyprus
+  epo:
+  - kipro
+  spa:
+  - chipre
+etymology_type: NATLNG
+etymology:
+  Elinisa:
+  - - "\u039A\u03CD\u03C0\u03C1\u03BF\u03C2 \u201CKipros\u201D"
+  Turkisa:
+  - - "K\u0131br\u0131s"
+tags:
+- dexa
+raw data:
+  term: Kipros
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Cyprus
+    epo: Kipro
+    spa: Chipre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Elinisa (\u039A\u03CD\u03C0\u03C1\u03BF\u03C2 \u201CKipros\u201D), Turkisa
+    (K\u0131br\u0131s)"
+...

@@ -1,0 +1,69 @@
+---
+term: tonata
+slug: tonata
+ipa: "to\u02C8nata"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8nata&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.b
+trans:
+  eng:
+  - - assembly
+    - gathering
+    - meeting
+  - - assemble
+    - gather
+    - meet (with)
+  epo:
+  - - kunveno
+    - asembleo
+    - kunsido
+  - - kunveni
+  spa:
+  - - "reuni\xF3n"
+    - junta
+  - - reunirse
+    - juntarse con
+search terms:
+  glb:
+  - tonata
+  eng:
+  - assembly
+  - gathering
+  - meeting
+  - assemble
+  - gather
+  - meet with
+  - meet
+  epo:
+  - kunveno
+  - asembleo
+  - kunsido
+  - kunveni
+  spa:
+  - "reuni\xF3n"
+  - junta
+  - reunirse
+  - juntarse con
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton-">ton-</a> + <a href="../lexi/ata">ata</a>
+raw data:
+  term: tonata
+  category: derived
+  word class: n/f.oro.b
+  status: false
+  trans:
+    eng: assembly, gathering, meeting; assemble, gather, meet (with)
+    epo: kunveno, asembleo, kunsido; kunveni
+    spa: "reuni\xF3n, junta; reunirse, juntarse con"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton- + ata
+...

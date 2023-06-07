@@ -1,0 +1,52 @@
+---
+term: kiribati
+slug: kiribati
+ipa: "ki\u027Ei\u02C8bati"
+ipa link: "http://ipa-reader.xyz/?text=ki\u027Ei\u02C8bati&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Kiribati
+  epo:
+  - - Kiribato
+  spa:
+  - - Kiribati
+search terms:
+  glb:
+  - kiribati
+  eng:
+  - kiribati
+  epo:
+  - kiribato
+  spa:
+  - kiribati
+etymology_type: NATLNG
+etymology:
+  Kiribatisa:
+  - - Kiribati
+  Englisa:
+  - - Kiribati
+tags:
+- dexa
+raw data:
+  term: Kiribati
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Kiribati
+    epo: Kiribato
+    spa: Kiribati
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Kiribatisa (Kiribati), Englisa (Kiribati)
+...

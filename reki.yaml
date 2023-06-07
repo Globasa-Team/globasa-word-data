@@ -1,0 +1,66 @@
+---
+term: reki
+slug: reki
+ipa: "\u02C8\u027Eeki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eeki&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - rake
+    - harrow
+  epo:
+  - - rastilo
+    - erpilo
+  - - rasti
+    - erpi
+  spa:
+  - - grada
+    - rastra
+search terms:
+  glb:
+  - reki
+  eng:
+  - rake
+  - harrow
+  epo:
+  - rastilo
+  - erpilo
+  - rasti
+  - erpi
+  spa:
+  - grada
+  - rastra
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rake
+    - raking
+  Doycisa:
+  - - Rechen
+  Niponsa:
+  - - "\u30EC\u30FC\u30AD \"r\u0113ki\""
+  Swahilisa:
+  - - reki
+raw data:
+  term: reki
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: rake, harrow
+    epo: rastilo, erpilo; rasti, erpi
+    spa: grada, rastra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (rake, raking), Doycisa (Rechen), Niponsa (\u30EC\u30FC\u30AD
+    \"r\u0113ki\"), Swahilisa (reki)"
+...

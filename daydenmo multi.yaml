@@ -1,0 +1,53 @@
+---
+term: daydenmo multi
+slug: daydenmo multi
+ipa: "daj\u02C8denmo \u02C8multi"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8denmo \u02C8multi&voice=Ewa"
+status: false
+category: derived
+word class: t jm
+trans:
+  eng:
+  - - so many
+    - so much
+  epo:
+  - - tiom multe
+  spa:
+  - - tanto
+    - tantos
+search terms:
+  glb:
+  - daydenmo multi
+  - daydenmo
+  - multi
+  eng:
+  - so many
+  - so much
+  epo:
+  - tiom multe
+  spa:
+  - tanto
+  - tantos
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/den">den</a> + <a href="../lexi/-mo">-mo</a>,
+  <a href="../lexi/multi">multi</a>
+raw data:
+  term: daydenmo multi
+  category: derived
+  word class: t jm
+  status: false
+  trans:
+    eng: so many, so much
+    epo: tiom multe
+    spa: tanto, tantos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + den + -mo, multi
+...

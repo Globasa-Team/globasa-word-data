@@ -1,0 +1,86 @@
+---
+term: vanadyum
+slug: vanadyum
+ipa: "vana\u02C8djum"
+ipa link: "http://ipa-reader.xyz/?text=vana\u02C8djum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vanadium
+  epo:
+  - - vanado
+  spa:
+  - - vanadio
+    - V
+search terms:
+  glb:
+  - vanadyum
+  eng:
+  - vanadium
+  epo:
+  - vanado
+  spa:
+  - vanadio
+  - v
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - vanadium
+  Espanisa:
+  - - vanadio
+  Arabisa:
+  - - "\u0641\u064E\u0646\u064E\u0627\u062F\u0652\u064A\u064F\u0648\u0645 \u201Cfanadyum\u201D"
+  Fransesa:
+  - - vanadium
+  Rusisa:
+  - - "\u0432\u0430\u043D\u0430\u0434\u0438\u0439 \u201Cvanadiy\u201D"
+  Indonesisa:
+  - - vanadium
+  Doycisa:
+  - - Vanadium
+  Niponsa:
+  - - "\u30D0\u30CA\u30B8\u30A6\u30E0 \u201Cbanajiumu\u201D"
+  Telugusa:
+  - - "\u0C35\u0C46\u0C28\u0C47\u0C21\u0C3F\u0C2F\u0C02 \u201Cvenediyam\u201D"
+  Turkisa:
+  - - vanadyum
+  Hangusa:
+  - - "\uBC14\uB098\uB4D0 \u201Cbanadyum\u201D"
+  Vyetnamsa:
+  - - "vana\u0111i"
+  Parsisa:
+  - - "\u0648\u0627\u0646\u0627\u062F\u06CC\u0645 \u201Cvanadyom\u201D"
+  Swahilisa:
+  - - vanadi
+  Pilipinasa:
+  - - banadyo
+tags:
+- kimikali monlari
+raw data:
+  term: vanadyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vanadium
+    epo: vanado
+    spa: vanadio, V
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (vanadium), Espanisa (vanadio), Arabisa (\u0641\u064E\u0646\u064E\u0627\u062F\u0652\u064A\u064F\u0648\u0645
+    \u201Cfanadyum\u201D), Fransesa (vanadium), Rusisa (\u0432\u0430\u043D\u0430\u0434\u0438\u0439
+    \u201Cvanadiy\u201D), Indonesisa (vanadium), Doycisa (Vanadium), Niponsa (\u30D0\u30CA\u30B8\u30A6\u30E0
+    \u201Cbanajiumu\u201D), Telugusa (\u0C35\u0C46\u0C28\u0C47\u0C21\u0C3F\u0C2F\u0C02
+    \u201Cvenediyam\u201D), Turkisa (vanadyum), Hangusa (\uBC14\uB098\uB4D0 \u201Cbanadyum\u201D),
+    Vyetnamsa (vana\u0111i), Parsisa (\u0648\u0627\u0646\u0627\u062F\u06CC\u0645 \u201Cvanadyom\u201D),
+    Swahilisa (vanadi), Pilipinasa (banadyo)"
+...

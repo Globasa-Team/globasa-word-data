@@ -1,0 +1,51 @@
+---
+term: hilal
+slug: hilal
+ipa: "xi\u02C8lal"
+ipa link: "http://ipa-reader.xyz/?text=xi\u02C8lal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - crescent (moon/shape)
+  epo:
+  - - lunarko
+  spa:
+  - - creciente (forma de la luna)
+search terms:
+  glb:
+  - hilal
+  eng:
+  - crescent moon/shape
+  - crescent
+  epo:
+  - lunarko
+  spa:
+  - creciente forma de la luna
+  - creciente
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hilal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: crescent (moon/shape)
+    epo: lunarko
+    spa: creciente (forma de la luna)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: crescent, crescent moon
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (bulan sabit, hilal), Hindisa (\u0939\u093F\u0932\u093E\u0932
+    \"hilal\"), Urdu (\u06C1\u0644\u0627\u0644 \"hilal\"), Arabisa (\u0647\u0650\u0644\u064E\u0627\u0644
+    \"hilal\"), Turkisa (hilal), Parsisa (\u0647\u0644\u0627\u0644 \"hel\xE2l\"),
+    Swahilisa (hilali)"
+...

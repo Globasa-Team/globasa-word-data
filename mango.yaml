@@ -1,0 +1,55 @@
+---
+term: mango
+slug: mango
+ipa: "\u02C8mango"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mango&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mango
+  epo:
+  - - mango
+  spa:
+  - - mango
+    - _Mangifera indica_
+search terms:
+  glb:
+  - mango
+  eng:
+  - mango
+  epo:
+  - mango
+  spa:
+  - mango
+  - mangifera indica
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- fruta
+- yamxey
+raw data:
+  term: mango
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mango
+    epo: mango
+    spa: mango, _Mangifera indica_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Englisa (mango), Espanisa (mango), Fransesa (mangue), Rusisa (\u043C\u0430\u043D\u0433\u043E
+    \u201Cmango\u201D), Doycisa (Mango), Arabisa (\u0645\u0646\u062C\u0629 \u201Cmanga\u201D),
+    Turkisa (mango), Niponsa (\u30DE\u30F3\u30B4\u30FC \u201Cmango\u201D), Hangusa
+    (\uB9DD\uACE0 \u201Cmango\u201D), Indonesisa (mangga), Pilipinasa (mangga), Tamilsa
+    (\u0BAE\u0BBE\u0B99\u0BCD\u0B95\u0BBE\u0BAF\u0BCD \u201Cmankay\u201D)"
+...

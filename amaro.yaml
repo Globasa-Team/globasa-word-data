@@ -1,0 +1,56 @@
+---
+term: amaro
+slug: amaro
+ipa: aˈmaɾo
+ipa link: http://ipa-reader.xyz/?text=aˈmaɾo&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - bitter (_taste_)
+  epo:
+  - - amara
+  - - amare
+  spa:
+  - - amargo
+search terms:
+  glb:
+  - amaro
+  eng:
+  - bitter
+  epo:
+  - amara
+  - amare
+  spa:
+  - amargo
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - amargo
+  Fransesa:
+  - - amer
+  Italisa:
+  - - amaro
+  Arabisa:
+  - - مَرَّ “marra”
+raw data:
+  term: amaro
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: bitter (_taste_)
+    epo: amara; amare
+    spa: amargo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (amargo), Fransesa (amer), Italisa (amaro), Arabisa (مَرَّ “marra”)
+...

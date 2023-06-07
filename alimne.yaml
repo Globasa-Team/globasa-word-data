@@ -1,0 +1,48 @@
+---
+term: alimne
+slug: alimne
+ipa: "a\u02C8limne"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8limne&voice=Ewa"
+status: true
+category: derived
+word class: t
+trans:
+  eng:
+  - - instructive
+  epo:
+  - - instruanta
+  - - instruante
+  spa:
+  - - "ense\xF1ante"
+search terms:
+  glb:
+  - alimne
+  eng:
+  - instructive
+  epo:
+  - instruanta
+  - instruante
+  spa:
+  - "ense\xF1ante"
+etymology_type: DERIVD
+etymology: <a href="../lexi/alim">alim</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: alimne
+  category: derived
+  word class: t
+  status: true
+  trans:
+    eng: instructive
+    epo: instruanta; instruante
+    spa: "ense\xF1ante"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alim + -ne
+...

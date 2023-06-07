@@ -1,0 +1,82 @@
+---
+term: amen
+slug: amen
+ipa: aˈmen
+ipa link: http://ipa-reader.xyz/?text=aˈmen&voice=Ewa
+status: true
+category: root
+word class: il
+trans:
+  eng:
+  - - amen
+  epo:
+  - - amen
+  spa:
+  - - amén
+search terms:
+  glb:
+  - amen
+  eng:
+  - amen
+  epo:
+  - amen
+  spa:
+  - amén
+etymology_type: NATLNG
+etymology:
+  Ivrisa:
+  - - אָמֵן‎ “ʾāmēn”
+  Englisa:
+  - - amen
+  Fransesa:
+  - - amen
+  Doycisa:
+  - - amen
+  Rusisa:
+  - - аминь “amin”
+  Espanisa:
+  - - amén
+  Hindisa:
+  - - आमेन “āmen”
+    - आमीन “āmīn”
+  Putunhwa:
+  - - 阿门 “āmén”
+  Niponsa:
+  - - アーメン “āmen”
+  Hangusa:
+  - - 아멘 “amen”
+  Arabisa:
+  - - آمْيْن‎ “ʾāmyn”
+  Parsisa:
+  - - آمین “âmin”
+  Indonesisa:
+  - - amin
+  Turkisa:
+  - - amin
+  Pilipinasa:
+  - - amen
+tags:
+- dini
+raw data:
+  term: amen
+  category: root
+  word class: il
+  status: true
+  trans:
+    eng: amen
+    epo: amen
+    spa: amén
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: Ivrisa (אָמֵן‎ “ʾāmēn”), Englisa (amen), Fransesa (amen), Doycisa (amen),
+    Rusisa (аминь “amin”), Espanisa (amén), Hindisa (आमेन “āmen”, आमीन “āmīn”), Putunhwa
+    (阿门 “āmén”), Niponsa (アーメン “āmen”), Hangusa (아멘 “amen”), Arabisa (آمْيْن‎ “ʾāmyn”),
+    Parsisa (آمین “âmin”), Indonesisa (amin), Turkisa (amin), Pilipinasa (amen)
+...

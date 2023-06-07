@@ -1,0 +1,54 @@
+---
+term: ilusi
+slug: ilusi
+ipa: "i\u02C8lusi"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8lusi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - illusion
+  - - illude
+  epo:
+  - - iluzio
+  - - iluzii
+  spa:
+  - - "ilusi\xF3n"
+  - - "enga\xF1ar"
+search terms:
+  glb:
+  - ilusi
+  eng:
+  - illusion
+  - illude
+  epo:
+  - iluzio
+  - iluzii
+  spa:
+  - "ilusi\xF3n"
+  - "enga\xF1ar"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ilusi
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: illusion; illude
+    epo: iluzio; iluzii
+    spa: "ilusi\xF3n; enga\xF1ar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (illusion), Espanisa (ilusi\xF3n), Fransesa (illusion), Rusisa
+    (\u0438\u043B\u043B\u044E\u0437\u0438\u044F \"iluziya\"), Doycisa (Illusion),
+    Portugalsa (ilus\xE3o), Italisa (illusione), Indonesisa (ilusi), Turkisa (il\xFCzyon)"
+...

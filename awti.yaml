@@ -1,0 +1,80 @@
+---
+term: awti
+slug: awti
+ipa: ˈawti
+ipa link: http://ipa-reader.xyz/?text=ˈawti&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - autistic
+  epo:
+  - - aŭtisma
+  - - aŭtisme
+  spa:
+  - - autista
+  deu:
+  - - autistisch
+  fra:
+  - - autiste
+search terms:
+  glb:
+  - awti
+  eng:
+  - autistic
+  epo:
+  - aŭtisma
+  - aŭtisme
+  spa:
+  - autista
+  deu:
+  - autistisch
+  fra:
+  - autiste
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - autism
+    - autistic
+  Espanisa:
+  - - autismo
+    - autistico
+  Fransesa:
+  - - autisme
+  Rusisa:
+  - - аутизм “autizm”
+  Doycisa:
+  - - Autismus
+  Indonesisa:
+  - - autisme
+  Pilipinasa:
+  - - autismo
+  Hindisa:
+  - - ऑटिज़्म “otizm”
+  Telugusa:
+  - - ఆటిజం “atijam”
+  Turkisa:
+  - - otizm
+raw data:
+  term: awti
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: autistic
+    epo: aŭtisma; aŭtisme
+    spa: autista
+    deu: autistisch
+    fra: autiste
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (autism, autistic), Espanisa (autismo, autistico), Fransesa (autisme),
+    Rusisa (аутизм “autizm”), Doycisa (Autismus), Indonesisa (autisme), Pilipinasa
+    (autismo), Hindisa (ऑटिज़्म “otizm”), Telugusa (ఆటిజం “atijam”), Turkisa (otizm)
+...

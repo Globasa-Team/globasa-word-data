@@ -1,0 +1,57 @@
+---
+term: mare
+slug: mare
+ipa: "\u02C8ma\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u027Ee&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (female) pastor
+    - priestess
+  - - Mother
+  epo:
+  - - pastrino
+  spa:
+  - - pastora
+    - sacerdotisa
+    - madre
+search terms:
+  glb:
+  - mare
+  eng:
+  - female pastor
+  - pastor
+  - priestess
+  - mother
+  epo:
+  - pastrino
+  spa:
+  - pastora
+  - sacerdotisa
+  - madre
+etymology_type: DERIVD
+etymology: BLAH
+tags:
+- dini
+raw data:
+  term: mare
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (female) pastor, priestess; Mother
+    epo: pastrino
+    spa: pastora, sacerdotisa, madre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: Am oko _pare_, _matre_.
+...

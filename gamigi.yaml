@@ -1,0 +1,57 @@
+---
+term: gamigi
+slug: gamigi
+ipa: "ga\u02C8migi"
+ipa link: "http://ipa-reader.xyz/?text=ga\u02C8migi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - (cause to) marry
+  epo:
+  - - geedzigo
+    - edzigo
+    - edzinigo
+  - - geedzigi
+    - edzigi
+    - edzinigi
+  spa:
+  - - casar
+search terms:
+  glb:
+  - gamigi
+  eng:
+  - cause to marry
+  - marry
+  epo:
+  - geedzigo
+  - edzigo
+  - edzinigo
+  - geedzigi
+  - edzigi
+  - edzinigi
+  spa:
+  - casar
+etymology_type: DERIVD
+etymology: <a href="../lexi/gami">gami</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: gamigi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: (cause to) marry
+    epo: geedzigo, edzigo, edzinigo; geedzigi, edzigi, edzinigi
+    spa: casar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gami + -gi
+...

@@ -1,0 +1,54 @@
+---
+term: kalamar
+slug: kalamar
+ipa: "kala\u02C8ma\u027E"
+ipa link: "http://ipa-reader.xyz/?text=kala\u02C8ma\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - squid
+    - _Decapodiformes_
+  epo:
+  - - kalamaro
+  spa:
+  - - calamar
+    - _Decapodiformes_
+search terms:
+  glb:
+  - kalamar
+  eng:
+  - squid
+  - decapodiformes
+  epo:
+  - kalamaro
+  spa:
+  - calamar
+  - decapodiformes
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kalamar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: squid, _Decapodiformes_
+    epo: kalamaro
+    spa: calamar, _Decapodiformes_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (calamari), Espanisa (calamar), Fransesa (calmar), Rusisa (\u043A\u0430\u043B\u044C\u043C\u0430\u0440
+    \u201Ckalmar\u201D), Doycisa (Kalmar), Turkisa, Pilipinasa (kalamares), Niponsa
+    (\u30AB\u30E9\u30DE\u30EA \u201Ckaramari\u201D)"
+...

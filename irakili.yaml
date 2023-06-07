@@ -1,0 +1,46 @@
+---
+term: irakili
+slug: irakili
+ipa: "i\u027Ea\u02C8kili"
+ipa link: "http://ipa-reader.xyz/?text=i\u027Ea\u02C8kili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Iraqi
+  epo:
+  - - iraka
+  spa:
+  - - "iraqu\xED"
+search terms:
+  glb:
+  - irakili
+  eng:
+  - iraqi
+  epo:
+  - iraka
+  spa:
+  - "iraqu\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Iraki">Iraki</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Irakili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Iraqi
+    epo: iraka
+    spa: "iraqu\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Iraki + -li
+...

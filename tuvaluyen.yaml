@@ -1,0 +1,47 @@
+---
+term: tuvaluyen
+slug: tuvaluyen
+ipa: "tuvalu\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=tuvalu\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Tuvaluan (person)
+  epo:
+  - - tuvalano
+  spa:
+  - - tuvaluano (_persona_)
+search terms:
+  glb:
+  - tuvaluyen
+  eng:
+  - tuvaluan person
+  - tuvaluan
+  epo:
+  - tuvalano
+  spa:
+  - tuvaluano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Tuvalu">Tuvalu</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Tuvaluyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Tuvaluan (person)
+    epo: tuvalano
+    spa: tuvaluano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Tuvalu + -yen
+...

@@ -1,0 +1,58 @@
+---
+term: engyan
+slug: engyan
+ipa: enˈgjan
+ipa link: http://ipa-reader.xyz/?text=enˈgjan&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - nutrition
+    - nourishment
+  - - nourish
+  epo:
+  - - nutro
+  - - nutri
+  spa:
+  - - nutrición
+  - - nutrir
+search terms:
+  glb:
+  - engyan
+  eng:
+  - nutrition
+  - nourishment
+  - nourish
+  epo:
+  - nutro
+  - nutri
+  spa:
+  - nutrición
+  - nutrir
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 营养 “yíngyǎng”
+  Hangusa:
+  - - 영양 “yeong-yang”
+raw data:
+  term: engyan
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: nutrition, nourishment; nourish
+    epo: nutro; nutri
+    spa: nutrición; nutrir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (营养 “yíngyǎng”), Hangusa (영양 “yeong-yang”)
+...

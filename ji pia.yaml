@@ -1,0 +1,54 @@
+---
+term: ji pia
+slug: ji pia
+ipa: "d\u0361\u0292i \u02C8pia"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i \u02C8pia&voice=Ewa"
+status: false
+category: phrase
+word class: l jm
+trans:
+  eng:
+  - - and also
+    - as well as
+  epo:
+  - - "kaj anka\u016D"
+    - plie
+  spa:
+  - - "y tambi\xE9n"
+    - "as\xED como"
+search terms:
+  glb:
+  - ji pia
+  - ji
+  - pia
+  eng:
+  - and also
+  - as well as
+  epo:
+  - "kaj anka\u016D"
+  - plie
+  spa:
+  - "y tambi\xE9n"
+  - "as\xED como"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ji">ji</a>, <a href="../lexi/pia">pia</a>
+raw data:
+  term: ji pia
+  category: phrase
+  word class: l jm
+  status: false
+  trans:
+    eng: and also, as well as
+    epo: "kaj anka\u016D, plie"
+    spa: "y tambi\xE9n, as\xED como"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ji, pia
+...

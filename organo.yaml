@@ -1,0 +1,77 @@
+---
+term: organo
+slug: organo
+ipa: "o\u027E\u02C8gano"
+ipa link: "http://ipa-reader.xyz/?text=o\u027E\u02C8gano&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - organ (_part of body or organization_)
+  epo:
+  - - organo
+  spa:
+  - - "\xF3rgano (_del cuerpo_)"
+    - "organismo (_parte de organizaci\xF3n_)"
+search terms:
+  glb:
+  - organo
+  eng:
+  - organ
+  epo:
+  - organo
+  spa:
+  - "\xF3rgano"
+  - organismo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - organ
+  Hindisa:
+  - - "\u0911\u0930\u094D\u0917\u0928 \u201Corgan\u201D"
+  Espanisa:
+  - - organo
+  Fransesa:
+  - - organe
+  Rusisa:
+  - - "\u043E\u0440\u0433\u0430\u043D \u201Corgan\u201D"
+  Portugalsa:
+  - - "\xF3rg\xE3o"
+  Indonesisa:
+  - - organ
+  Doycisa:
+  - - Organ
+  Turkisa:
+  - - organ
+  Swahilisa:
+  - - ogani
+  Italisa:
+  - - organo
+  Pilipinasa:
+  - - organo
+tags:
+- jismulogi
+raw data:
+  term: organo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: organ (_part of body or organization_)
+    epo: organo
+    spa: "\xF3rgano (_del cuerpo_), organismo (_parte de organizaci\xF3n_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (organ), Hindisa (\u0911\u0930\u094D\u0917\u0928 \u201Corgan\u201D),
+    Espanisa (organo), Fransesa (organe), Rusisa (\u043E\u0440\u0433\u0430\u043D \u201Corgan\u201D),
+    Portugalsa (\xF3rg\xE3o), Indonesisa (organ), Doycisa (Organ), Turkisa (organ),
+    Swahilisa (ogani), Italisa (organo), Pilipinasa (organo)"
+...

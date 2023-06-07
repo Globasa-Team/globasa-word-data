@@ -1,0 +1,52 @@
+---
+term: kapi
+slug: kapi
+ipa: "\u02C8kapi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kapi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - head
+    - top
+  epo:
+  - - kapo
+  spa:
+  - - cabeza
+    - cima
+search terms:
+  glb:
+  - kapi
+  eng:
+  - head
+  - top
+  epo:
+  - kapo
+  spa:
+  - cabeza
+  - cima
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: kapi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: head, top
+    epo: kapo
+    spa: cabeza, cima
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Espanisa (cabeza), Rumanisa (cap), Turkisa (kafa), Indonesisa (kepala)
+...

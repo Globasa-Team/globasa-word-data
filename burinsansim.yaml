@@ -1,0 +1,59 @@
+---
+term: burinsansim
+slug: burinsansim
+ipa: "bu\u027Einsan\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027Einsan\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - inhuman
+    - inhumane
+    - inhumanely
+  epo:
+  - - malhumaneca
+    - nehumaneca
+  - - malhumanece
+    - nehumanece
+  spa:
+  - - inhumano
+  - - inhumanamente
+search terms:
+  glb:
+  - burinsansim
+  eng:
+  - inhuman
+  - inhumane
+  - inhumanely
+  epo:
+  - malhumaneca
+  - nehumaneca
+  - malhumanece
+  - nehumanece
+  spa:
+  - inhumano
+  - inhumanamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/insan">insan</a> + <a
+  href="../lexi/-sim">-sim</a>
+raw data:
+  term: burinsansim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: inhuman, inhumane, inhumanely
+    epo: malhumaneca, nehumaneca; malhumanece, nehumanece
+    spa: inhumano; inhumanamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + insan + -sim
+...

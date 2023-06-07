@@ -1,0 +1,49 @@
+---
+term: kapa
+slug: kapa
+ipa: "\u02C8kapa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kapa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cape
+  epo:
+  - - mantelo
+  spa:
+  - - capa
+search terms:
+  glb:
+  - kapa
+  eng:
+  - cape
+  epo:
+  - mantelo
+  spa:
+  - capa
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- labas
+raw data:
+  term: kapa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cape
+    epo: mantelo
+    spa: capa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Englisa (cape), Espanisa (capa), Fransesa (cape), Doycisa (Cape), Niponsa
+    (\u30B1\u30FC\u30D7 \u201Ckepu\u201D)"
+...

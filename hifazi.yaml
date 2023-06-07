@@ -1,0 +1,65 @@
+---
+term: hifazi
+slug: hifazi
+ipa: "xi\u02C8fazi"
+ipa link: "http://ipa-reader.xyz/?text=xi\u02C8fazi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - hold
+    - keep
+    - save
+    - store
+    - retain
+    - maintain
+  epo:
+  - - konservo
+  - - konservi
+  spa:
+  - - guardar
+    - mantener
+    - conservar
+    - retener
+search terms:
+  glb:
+  - hifazi
+  eng:
+  - hold
+  - keep
+  - save
+  - store
+  - retain
+  - maintain
+  epo:
+  - konservo
+  - konservi
+  spa:
+  - guardar
+  - mantener
+  - conservar
+  - retener
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hifazi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: hold, keep, save, store, retain, maintain
+    epo: konservo; konservi
+    spa: guardar, mantener, conservar, retener
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u0641\u0638 \u201Chifz\u201D), Parsisa (\u062D\u0641\u0638
+    \u201Chefz\u201D), Swahilisa (hifadhi), Turkisa (muhafaza)"
+...

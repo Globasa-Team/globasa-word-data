@@ -1,0 +1,52 @@
+---
+term: serbi
+slug: serbi
+ipa: "\u02C8se\u027Ebi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8se\u027Ebi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Serbia
+  epo:
+  - - Serbio
+    - Serbujo
+  spa:
+  - - Serbia
+search terms:
+  glb:
+  - serbi
+  eng:
+  - serbia
+  epo:
+  - serbio
+  - serbujo
+  spa:
+  - serbia
+etymology_type: NATLNG
+etymology:
+  Serbisa:
+  - - "\u0421\u0440\u0431\u0438\u0458\u0430 \u201CSrbija\u201D"
+tags:
+- dexa
+raw data:
+  term: Serbi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Serbia
+    epo: Serbio, Serbujo
+    spa: Serbia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Serbisa (\u0421\u0440\u0431\u0438\u0458\u0430 \u201CSrbija\u201D)"
+...

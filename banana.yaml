@@ -1,0 +1,69 @@
+---
+term: banana
+slug: banana
+ipa: baˈnana
+ipa link: http://ipa-reader.xyz/?text=baˈnana&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - banana
+  epo:
+  - - banano
+  spa:
+  - - plátano
+    - banana
+    - _Musa_
+search terms:
+  glb:
+  - banana
+  eng:
+  - banana
+  epo:
+  - banano
+  spa:
+  - plátano
+  - banana
+  - musa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - banana
+  Fransesa:
+  - - banane
+  Doycisa:
+  - - Banane
+  Rusisa:
+  - - банан “banan”
+  Espanisa:
+  - - banana
+    - banano
+  Niponsa:
+  - - バナナ “banana”
+  Hangusa:
+  - - 바나나 “banana”
+tags:
+- yamxey
+- fruta
+raw data:
+  term: banana
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: banana
+    epo: banano
+    spa: plátano, banana, _Musa_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey, fruta
+  etymology: Englisa (banana), Fransesa (banane), Doycisa (Banane), Rusisa (банан
+    “banan”), Espanisa (banana, banano), Niponsa (バナナ “banana”), Hangusa (바나나 “banana”)
+...

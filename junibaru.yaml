@@ -1,0 +1,47 @@
+---
+term: junibaru
+slug: junibaru
+ipa: "d\u0361\u0292uni\u02C8ba\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292uni\u02C8ba\u027Eu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (bear) cub
+  epo:
+  - - ursido
+  spa:
+  - - cachorro de oso
+search terms:
+  glb:
+  - junibaru
+  eng:
+  - bear cub
+  - cub
+  epo:
+  - ursido
+  spa:
+  - cachorro de oso
+etymology_type: DERIVD
+etymology: <a href="../lexi/juni-">juni-</a> + <a href="../lexi/baru">baru</a>
+raw data:
+  term: junibaru
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (bear) cub
+    epo: ursido
+    spa: cachorro de oso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: juni- + baru
+...

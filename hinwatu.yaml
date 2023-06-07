@@ -1,0 +1,48 @@
+---
+term: hinwatu
+slug: hinwatu
+ipa: "xi\u02C8nwatu"
+ipa link: "http://ipa-reader.xyz/?text=xi\u02C8nwatu&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - "now (_as opposed to \u201Cthen\"_)"
+  epo:
+  - - "\u0109i tiam"
+    - "tiam \u0109i"
+  spa:
+  - - ahora
+search terms:
+  glb:
+  - hinwatu
+  eng:
+  - now
+  epo:
+  - "\u0109i tiam"
+  - "tiam \u0109i"
+  spa:
+  - ahora
+etymology_type: DERIVD
+etymology: <a href="../lexi/hin">hin</a> + <a href="../lexi/watu">watu</a>
+raw data:
+  term: hinwatu
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: "now (_as opposed to \u201Cthen\"_)"
+    epo: "\u0109i tiam, tiam \u0109i"
+    spa: ahora
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hin + watu
+...

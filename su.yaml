@@ -1,0 +1,55 @@
+---
+term: su
+slug: su
+ipa: su
+ipa link: http://ipa-reader.xyz/?text=su&voice=Ewa
+status: true
+category: root
+word class: par
+trans:
+  eng:
+  - - _marks the genitive case_
+  epo:
+  - - -a (por pronomoj)
+    - -ies (por korelativoj) (esprimas posedon)
+  spa:
+  - - _marca el caso genitivo_
+search terms:
+  glb:
+  - su
+  eng:
+  - marks the genitive case
+  epo:
+  - -a por pronomoj
+  - -a
+  - -ies por korelativoj esprimas posedon
+  - -ies
+  spa:
+  - marca el caso genitivo
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - su
+  Englisa:
+  - - "-\u2018s"
+    - whose
+raw data:
+  term: su
+  category: root
+  word class: par
+  status: true
+  trans:
+    eng: _marks the genitive case_
+    epo: -a (por pronomoj), -ies (por korelativoj) (esprimas posedon)
+    spa: _marca el caso genitivo_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (su), Englisa (-\u2018s, whose)"
+...

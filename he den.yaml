@@ -1,0 +1,48 @@
+---
+term: he den
+slug: he den
+ipa: "\u02C8xe \u02C8den"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8den&voice=Ewa"
+status: false
+category: phrase
+word class: d
+trans:
+  eng:
+  - - that specific
+  epo:
+  - - specife tiu
+  spa:
+  - - "ese espec\xEDfico"
+search terms:
+  glb:
+  - he den
+  - he
+  - den
+  eng:
+  - that specific
+  epo:
+  - specife tiu
+  spa:
+  - "ese espec\xEDfico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/den ">den </a>
+raw data:
+  term: he den
+  category: phrase
+  word class: d
+  status: false
+  trans:
+    eng: 'that specific '
+    epo: specife tiu
+    spa: "ese espec\xEDfico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'he, den '
+...

@@ -1,0 +1,73 @@
+---
+term: akonto
+slug: akonto
+ipa: aˈkonto
+ipa link: http://ipa-reader.xyz/?text=aˈkonto&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - account
+  epo:
+  - - konto
+  spa:
+  - - cuenta
+  deu:
+  - - Konto
+search terms:
+  glb:
+  - akonto
+  eng:
+  - account
+  epo:
+  - konto
+  spa:
+  - cuenta
+  deu:
+  - konto
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - account
+  Espanisa:
+  - - cuenta
+  Fransesa:
+  - - compte
+  Rusisa:
+  - - аккаунт “akkaunt”
+  Doycisa:
+  - - Konto
+  Indonesisa:
+  - - akun
+  Pilipinasa:
+  - - akawnt
+    - kuwenta
+  Niponsa:
+  - - アカウント “akaunto”
+  Hangusa:
+  - - 어카운트 “okauntu”
+  Swahilisa:
+  - - akaunti
+raw data:
+  term: akonto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: account
+    epo: konto
+    spa: cuenta
+    deu: Konto
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (account), Espanisa (cuenta), Fransesa (compte), Rusisa (аккаунт
+    “akkaunt”), Doycisa (Konto), Indonesisa (akun), Pilipinasa (akawnt, kuwenta),
+    Niponsa (アカウント “akaunto”), Hangusa (어카운트 “okauntu”), Swahilisa (akaunti)
+...

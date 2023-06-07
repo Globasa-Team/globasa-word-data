@@ -1,0 +1,48 @@
+---
+term: julagi
+slug: julagi
+ipa: "d\u0361\u0292u\u02C8lagi"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292u\u02C8lagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - separate
+  epo:
+  - - apartigo
+  - - apartigi
+  spa:
+  - - separar
+search terms:
+  glb:
+  - julagi
+  eng:
+  - separate
+  epo:
+  - apartigo
+  - apartigi
+  spa:
+  - separar
+etymology_type: DERIVD
+etymology: <a href="../lexi/jula">jula</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: julagi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: separate
+    epo: apartigo; apartigi
+    spa: separar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jula + -gi
+...

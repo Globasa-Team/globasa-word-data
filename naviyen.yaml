@@ -1,0 +1,52 @@
+---
+term: naviyen
+slug: naviyen
+ipa: "navi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=navi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - navigator
+    - sailor
+  epo:
+  - - "\u015Dipano"
+    - "\u015Dipiranto"
+  spa:
+  - - navegador
+    - navegante
+search terms:
+  glb:
+  - naviyen
+  eng:
+  - navigator
+  - sailor
+  epo:
+  - "\u015Dipano"
+  - "\u015Dipiranto"
+  spa:
+  - navegador
+  - navegante
+etymology_type: DERIVD
+etymology: <a href="../lexi/navi">navi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: naviyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: navigator, sailor
+    epo: "\u015Dipano, \u015Dipiranto"
+    spa: navegador, navegante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: navi + -yen
+...

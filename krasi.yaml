@@ -1,0 +1,66 @@
+---
+term: krasi
+slug: krasi
+ipa: "\u02C8k\u027Easi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8k\u027Easi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - government
+    - rule
+  - - govern
+    - rule
+  epo:
+  - - rego
+    - registaro
+  - - regi
+    - estri
+  spa:
+  - - gobierno
+  - - gobernar
+search terms:
+  glb:
+  - krasi
+  eng:
+  - government
+  - rule
+  - govern
+  epo:
+  - rego
+  - registaro
+  - regi
+  - estri
+  spa:
+  - gobierno
+  - gobernar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- politi
+raw data:
+  term: krasi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: government, rule; govern, rule
+    epo: rego, registaro; regi, estri
+    spa: gobierno; gobernar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: "Englisa (democracy), Fransesa (d\xE9mocratie), Doycisa (Demokratie),
+    Rusisa (\u0434\u0435\u043C\u043E\u043A\u0440\u0430\u0442\u0438\u044F \u201Cdemokratiya\u201D),
+    Espanisa (democracia), Arabisa (\u062F\u0650\u064A\u0645\u064F\u0642\u0652\u0631\u064E\u0627\u0637\u0650\u064A\u064E\u0651\u0629
+    \u201Cdimuqratiya\u201D), Parsisa (\u062F\u0645\u0648\u06A9\u0631\u0627\u0633\u06CC
+    \u201Cdemokr\xE2si\u201D), Turkisa (demokrasi), Swahilisa (demokrasia), Indonesisa
+    (demokrasi), Pilipinasa (demokrasya)"
+...

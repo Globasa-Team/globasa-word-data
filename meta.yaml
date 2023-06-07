@@ -1,0 +1,56 @@
+---
+term: meta
+slug: meta
+ipa: "\u02C8meta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8meta&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - meta
+    - meta-
+  epo:
+  - - meta-
+  spa:
+  - - meta
+    - meta-
+search terms:
+  glb:
+  - meta
+  eng:
+  - meta
+  - meta-
+  epo:
+  - meta-
+  spa:
+  - meta
+  - meta-
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: meta
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: meta, meta-
+    epo: meta-
+    spa: meta, meta-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (metaphysics), Espanisa (metaf\xEDsica), Fransesa (m\xE9taphysique),
+    Rusisa (\u043C\u0435\u0442\u0430\u0444\u0438\u0437\u0438\u043A\u0430 \u201Cmetafizika\u201D),
+    Portugalsa (metaf\xEDsica), Indonesisa (metafisika), Doycisa (Metaphysik), Turkisa
+    (metafizik), Niponsa (\u30E1\u30BF\u8A00\u8A9E \u201Cmetagengo\u201D - metabasa),
+    Hangusa (\uBA54\uD0C0\uC5B8\uC5B4 \u201Cmetaono\u201D - metabasa), Parsisa (\u0645\u062A\u0627\u0641\u06CC\u0632\u06CC\u06A9
+    \u201Cmetafizik\u201D), Swahilisa (metafizikia), Italisa (metafisica), Pilipinasa
+    (metapisika)"
+...

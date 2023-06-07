@@ -1,0 +1,48 @@
+---
+term: mekaniyen
+slug: mekaniyen
+ipa: "mekani\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=mekani\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - mechanic
+  epo:
+  - - "me\u0125anikisto"
+    - mekanikisto
+  spa:
+  - - "mec\xE1nico (_persona_)"
+search terms:
+  glb:
+  - mekaniyen
+  eng:
+  - mechanic
+  epo:
+  - "me\u0125anikisto"
+  - mekanikisto
+  spa:
+  - "mec\xE1nico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/mekani">mekani</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: mekaniyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: mechanic
+    epo: "me\u0125anikisto, mekanikisto"
+    spa: "mec\xE1nico (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mekani + -yen
+...

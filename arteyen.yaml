@@ -1,0 +1,48 @@
+---
+term: arteyen
+slug: arteyen
+ipa: "a\u027Ete\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Ete\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - artist
+  epo:
+  - - artisto
+  spa:
+  - - artista
+search terms:
+  glb:
+  - arteyen
+  eng:
+  - artist
+  epo:
+  - artisto
+  spa:
+  - artista
+etymology_type: DERIVD
+etymology: <a href="../lexi/arte">arte</a> + <a href="../lexi/-yen">-yen</a>
+tags:
+- arte
+raw data:
+  term: arteyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: artist
+    epo: artisto
+    spa: artista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: arte
+  etymology: arte + -yen
+...

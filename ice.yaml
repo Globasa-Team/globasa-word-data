@@ -1,0 +1,46 @@
+---
+term: ice
+slug: ice
+ipa: "\u02C8it\u0361\u0283e"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8it\u0361\u0283e&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter c
+  epo:
+  - - litero c
+  spa:
+  - - letra c
+search terms:
+  glb:
+  - ice
+  eng:
+  - letter c
+  epo:
+  - litero c
+  spa:
+  - letra c
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ice
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter c
+    epo: litero c
+    spa: letra c
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

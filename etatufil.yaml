@@ -1,0 +1,48 @@
+---
+term: etatufil
+slug: etatufil
+ipa: "etatu\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=etatu\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - obedient
+  epo:
+  - - obeema
+  - - obeeme
+  spa:
+  - - obediente
+search terms:
+  glb:
+  - etatufil
+  eng:
+  - obedient
+  epo:
+  - obeema
+  - obeeme
+  spa:
+  - obediente
+etymology_type: DERIVD
+etymology: <a href="../lexi/etatu">etatu</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: etatufil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: obedient
+    epo: obeema; obeeme
+    spa: obediente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: etatu + -fil
+...

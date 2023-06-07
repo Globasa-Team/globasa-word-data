@@ -1,0 +1,77 @@
+---
+term: albatros
+slug: albatros
+ipa: albaˈtɾos
+ipa link: http://ipa-reader.xyz/?text=albaˈtɾos&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - albatross
+  epo:
+  - - albatroso
+    - diomedeo
+  spa:
+  - - albatros
+    - alcatraz
+    - _Diomedeidae_
+search terms:
+  glb:
+  - albatros
+  eng:
+  - albatross
+  epo:
+  - albatroso
+  - diomedeo
+  spa:
+  - albatros
+  - alcatraz
+  - diomedeidae
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - albatross
+  Espanisa:
+  - - albatros
+  Fransesa:
+  - - albatros
+  Rusisa:
+  - - альбатрос “albatros”
+  Doycisa:
+  - - Albatros
+  Indonesisa: ~
+  Pilipinasa: ~
+  Niponsa:
+  - - アルバトロス “arubatorosu”
+  Telugusa:
+  - - ఆల్బట్రాస్ “albatras”
+  Parsisa:
+  - - آلباتروس “albatros”
+  Swahilisa:
+  - - albatrosi
+tags:
+- hewan
+raw data:
+  term: albatros
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: albatross
+    epo: albatroso, diomedeo
+    spa: albatros, alcatraz, _Diomedeidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (albatross), Espanisa (albatros), Fransesa (albatros), Rusisa
+    (альбатрос “albatros”), Doycisa (Albatros), Indonesisa, Pilipinasa, Niponsa (アルバトロス
+    “arubatorosu”), Telugusa (ఆల్బట్రాస్ “albatras”), Parsisa (آلباتروس “albatros”),
+    Swahilisa (albatrosi)
+...

@@ -1,0 +1,73 @@
+---
+term: cuyo
+slug: cuyo
+ipa: ˈt͡ʃujo
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃujo&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - main
+    - mainly
+    - primary
+    - primarily
+    - principal
+    - chief
+    - chiefly
+  epo:
+  - - ĉefa
+    - precipa
+  - - ĉefe
+    - precipe
+  spa:
+  - - principal
+search terms:
+  glb:
+  - cuyo
+  eng:
+  - main
+  - mainly
+  - primary
+  - primarily
+  - principal
+  - chief
+  - chiefly
+  epo:
+  - ĉefa
+  - precipa
+  - ĉefe
+  - precipe
+  spa:
+  - principal
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 主要 “zhǔyào”
+  Vyetnamsa:
+  - - chủ yếu
+  Niponsa:
+  - - 主要 “shuyō”
+  Hangusa:
+  - - 주요 “juyo”
+raw data:
+  term: cuyo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: main, mainly, primary, primarily, principal, chief, chiefly
+    epo: ĉefa, precipa; ĉefe, precipe
+    spa: principal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (主要 “zhǔyào”), Vyetnamsa (chủ yếu), Niponsa (主要 “shuyō”), Hangusa
+    (주요 “juyo”)
+...

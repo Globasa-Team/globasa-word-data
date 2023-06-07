@@ -1,0 +1,88 @@
+---
+term: arseniko
+slug: arseniko
+ipa: aɾseˈniko
+ipa link: http://ipa-reader.xyz/?text=aɾseˈniko&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - arsenic
+  epo:
+  - - arseno
+  spa:
+  - - arsénico
+    - As
+search terms:
+  glb:
+  - arseniko
+  eng:
+  - arsenic
+  epo:
+  - arseno
+  spa:
+  - arsénico
+  - as
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - arsenic
+  Espanisa:
+  - - arsénico
+  Fransesa:
+  - - arsenic
+  Rusisa:
+  - - арсеникум “arsenikum”
+  Doycisa:
+  - - Arsen
+  Indonesisa:
+  - - arsen
+    - arsenik
+    - arsenikum
+  Hindisa:
+  - - आर्सेनिक “arsenik”
+  Arabisa:
+  - - زِرْنِيخ “zirnik”
+  Telugusa:
+  - - ఆర్సెనిక్ “arsenik”
+  Turkisa:
+  - - arsenik
+  Vyetnamsa:
+  - - asen
+  Parsisa:
+  - - آرسنیک “ârsenik”
+    - زرنیخ “zarnix”
+    - زرنیک “zarnik”
+    - زرنی “zarni”
+  Swahilisa:
+  - - asenia
+  Pilipinasa:
+  - - arseniko
+    - arsenik
+tags:
+- kimikali monlari
+raw data:
+  term: arseniko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: arsenic
+    epo: arseno
+    spa: arsénico, As
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (arsenic), Espanisa (arsénico), Fransesa (arsenic), Rusisa (арсеникум
+    “arsenikum”), Doycisa (Arsen), Indonesisa (arsen, arsenik, arsenikum), Hindisa
+    (आर्सेनिक “arsenik”), Arabisa (زِرْنِيخ “zirnik”), Telugusa (ఆర్సెనిక్ “arsenik”),
+    Turkisa (arsenik), Vyetnamsa (asen), Parsisa (آرسنیک “ârsenik”, زرنیخ “zarnix”,
+    زرنیک “zarnik”, زرنی “zarni”), Swahilisa (asenia), Pilipinasa (arseniko, arsenik)
+...

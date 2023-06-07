@@ -1,0 +1,85 @@
+---
+term: eskandyum
+slug: eskandyum
+ipa: eskanˈdjum
+ipa link: http://ipa-reader.xyz/?text=eskanˈdjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - scandium
+  epo:
+  - - skandio
+  spa:
+  - - escandio
+    - Sc
+search terms:
+  glb:
+  - eskandyum
+  eng:
+  - scandium
+  epo:
+  - skandio
+  spa:
+  - escandio
+  - sc
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - scandium
+  Espanisa:
+  - - escandio
+  Arabisa:
+  - - سَكَانْدِيُوم “sakandiyum”
+  Fransesa:
+  - - scandium
+  Rusisa:
+  - - скандий “skandiy”
+  Indonesisa:
+  - - skandium
+  Doycisa:
+  - - Skandium
+  Niponsa:
+  - - スカンジウム “sukanjiumu”
+  Telugusa:
+  - - స్కాండియం “skandiyam”
+  Turkisa:
+  - - skandiyum
+  Hangusa:
+  - - 스칸듐 “sukandyum”
+  Vyetnamsa:
+  - - scandi
+  Parsisa:
+  - - اسکاندیم “eskandyom”
+  Swahilisa:
+  - - skandi
+  Pilipinasa:
+  - - eskandiyo
+    - iskandyum
+tags:
+- kimikali monlari
+raw data:
+  term: eskandyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: scandium
+    epo: skandio
+    spa: escandio, Sc
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (scandium), Espanisa (escandio), Arabisa (سَكَانْدِيُوم “sakandiyum”),
+    Fransesa (scandium), Rusisa (скандий “skandiy”), Indonesisa (skandium), Doycisa
+    (Skandium), Niponsa (スカンジウム “sukanjiumu”), Telugusa (స్కాండియం “skandiyam”), Turkisa
+    (skandiyum), Hangusa (스칸듐 “sukandyum”), Vyetnamsa (scandi), Parsisa (اسکاندیم
+    “eskandyom”), Swahilisa (skandi), Pilipinasa (eskandiyo, iskandyum)
+...

@@ -1,0 +1,46 @@
+---
+term: katatul
+slug: katatul
+ipa: "kata\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=kata\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - knife
+  epo:
+  - - "tran\u0109ilo"
+  spa:
+  - - cuchillo
+search terms:
+  glb:
+  - katatul
+  eng:
+  - knife
+  epo:
+  - "tran\u0109ilo"
+  spa:
+  - cuchillo
+etymology_type: DERIVD
+etymology: <a href="../lexi/kata">kata</a> + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: katatul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: knife
+    epo: "tran\u0109ilo"
+    spa: cuchillo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kata + -tul
+...

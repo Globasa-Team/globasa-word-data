@@ -1,0 +1,62 @@
+---
+term: fol
+slug: fol
+ipa: fol
+ipa link: http://ipa-reader.xyz/?text=fol&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - according to
+    - along
+    - alongside (of)
+    - by
+    - for (_according to_)
+    - the more/less
+  epo:
+  - - laŭ
+  spa:
+  - - según
+    - al lado de
+    - de acuerdo a
+search terms:
+  glb:
+  - fol
+  eng:
+  - according to
+  - along
+  - alongside of
+  - alongside
+  - by
+  - for
+  - the more/less
+  epo:
+  - laŭ
+  spa:
+  - según
+  - al lado de
+  - de acuerdo a
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/folo">folo</a>.
+raw data:
+  term: fol
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: according to, along, alongside (of), by, for (_according to_), the more/less
+    epo: laŭ
+    spa: según, al lado de, de acuerdo a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: according, according to, along, alongside, alongside of, for,
+    the, the more, the less
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _folo_.
+...

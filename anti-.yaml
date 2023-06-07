@@ -1,0 +1,48 @@
+---
+term: anti-
+slug: anti-
+ipa: "an\u02C8ti-"
+ipa link: "http://ipa-reader.xyz/?text=an\u02C8ti-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - anti-
+  epo:
+  - - "kontra\u016D-"
+  spa:
+  - - anti-
+search terms:
+  glb:
+  - anti-
+  eng:
+  - anti-
+  epo:
+  - "kontra\u016D-"
+  spa:
+  - anti-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/anti">anti</a>.
+antonyms:
+- pro-
+raw data:
+  term: anti-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: anti-
+    epo: "kontra\u016D-"
+    spa: anti-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: pro-
+  example: ""
+  tags: ""
+  etymology: Am oko _anti_.
+...

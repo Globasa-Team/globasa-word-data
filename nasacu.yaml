@@ -1,0 +1,58 @@
+---
+term: nasacu
+slug: nasacu
+ipa: "na\u02C8sat\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8sat\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.lin
+trans:
+  eng:
+  - - smell
+    - odor
+  - - (have a particular) smell
+  epo:
+  - - odoro
+    - aromo
+  - - odori
+    - aromi
+  spa:
+  - - olor
+  - - oler
+search terms:
+  glb:
+  - nasacu
+  eng:
+  - smell
+  - odor
+  - have a particular smell
+  epo:
+  - odoro
+  - aromo
+  - odori
+  - aromi
+  spa:
+  - olor
+  - oler
+etymology_type: DERIVD
+etymology: <a href="../lexi/nasa">nasa</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: nasacu
+  category: derived
+  word class: n/f.lin
+  status: false
+  trans:
+    eng: smell, odor; (have a particular) smell
+    epo: odoro, aromo; odori, aromi
+    spa: olor; oler
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nasa + -cu
+...

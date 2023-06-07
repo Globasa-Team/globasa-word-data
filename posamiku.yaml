@@ -1,0 +1,54 @@
+---
+term: posamiku
+slug: posamiku
+ipa: "posa\u02C8miku"
+ipa link: "http://ipa-reader.xyz/?text=posa\u02C8miku&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - shallow
+  epo:
+  - - malprofunda
+  - - malprofunde
+  spa:
+  - - poco profundo
+    - somero
+    - superficial
+search terms:
+  glb:
+  - posamiku
+  eng:
+  - shallow
+  epo:
+  - malprofunda
+  - malprofunde
+  spa:
+  - poco profundo
+  - somero
+  - superficial
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/amiku">amiku</a>
+antonyms:
+- amiku
+raw data:
+  term: posamiku
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: shallow
+    epo: malprofunda; malprofunde
+    spa: poco profundo, somero, superficial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: amiku
+  example: ""
+  tags: ""
+  etymology: pos- + amiku
+...

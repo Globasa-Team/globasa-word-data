@@ -1,0 +1,48 @@
+---
+term: ninisim
+slug: ninisim
+ipa: "nini\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=nini\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - childish
+  epo:
+  - - infaneca
+  - - infanece
+  spa:
+  - - infantil
+search terms:
+  glb:
+  - ninisim
+  eng:
+  - childish
+  epo:
+  - infaneca
+  - infanece
+  spa:
+  - infantil
+etymology_type: DERIVD
+etymology: <a href="../lexi/nini">nini</a> + <a href="../lexi/-sim">-sim</a>
+raw data:
+  term: ninisim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: childish
+    epo: infaneca; infanece
+    spa: infantil
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nini + -sim
+...

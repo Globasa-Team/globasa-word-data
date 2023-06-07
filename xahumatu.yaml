@@ -1,0 +1,46 @@
+---
+term: xahumatu
+slug: xahumatu
+ipa: "\u0283axu\u02C8matu"
+ipa link: "http://ipa-reader.xyz/?text=\u0283axu\u02C8matu&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - chess
+  epo:
+  - - "\u015Dako"
+  spa:
+  - - ajedrez
+search terms:
+  glb:
+  - xahumatu
+  eng:
+  - chess
+  epo:
+  - "\u015Dako"
+  spa:
+  - ajedrez
+etymology_type: DERIVD
+etymology: <a href="../lexi/xahu">xahu</a> + <a href="../lexi/matu">matu</a>
+raw data:
+  term: xahumatu
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: chess
+    epo: "\u015Dako"
+    spa: ajedrez
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xahu + matu
+...

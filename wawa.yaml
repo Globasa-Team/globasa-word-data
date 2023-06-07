@@ -1,0 +1,64 @@
+---
+term: wawa
+slug: wawa
+ipa: "\u02C8wawa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wawa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - cry
+    - weep
+  epo:
+  - - ploro
+  - - plori
+  spa:
+  - - llanto
+  - - llorar
+search terms:
+  glb:
+  - wawa
+  eng:
+  - cry
+  - weep
+  epo:
+  - ploro
+  - plori
+  spa:
+  - llanto
+  - llorar
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Arabisa: ~
+  Banglasa: ~
+  Rusisa: ~
+  Putunhwa: ~
+  Englisa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Espanisa: ~
+  Pilipinasa: ~
+  Vyetnamsa: ~
+  ji maxya: ~
+raw data:
+  term: wawa
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: cry, weep
+    epo: ploro; plori
+    spa: llanto; llorar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwasilexi - Arabisa ( ), Banglasa, Rusisa, Putunhwa, Englisa, Doycisa,
+    Indonesisa, Espanisa, Pilipinasa, Vyetnamsa, ji maxya
+...

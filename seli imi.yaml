@@ -1,0 +1,48 @@
+---
+term: seli imi
+slug: seli imi
+ipa: "\u02C8seli \u02C8imi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8seli \u02C8imi&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - we ourselves
+  epo:
+  - - ni mem
+  spa:
+  - - nosotros mismos
+search terms:
+  glb:
+  - seli imi
+  - seli
+  - imi
+  eng:
+  - we ourselves
+  epo:
+  - ni mem
+  spa:
+  - nosotros mismos
+etymology_type: DERIVD
+etymology: <a href="../lexi/se">se</a> + <a href="../lexi/-li">-li</a>, <a href="../lexi/imi">imi</a>
+raw data:
+  term: 'seli imi '
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: we ourselves
+    epo: ni mem
+    spa: nosotros mismos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se + -li, imi
+...

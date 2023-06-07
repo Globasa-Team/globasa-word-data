@@ -1,0 +1,70 @@
+---
+term: leli
+slug: leli
+ipa: "\u02C8leli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8leli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - past
+    - previous
+    - previously
+    - former
+    - formerly
+    - beforehand
+    - ex-
+  epo:
+  - - "anta\u016Da"
+    - pasitna
+    - estinta
+    - eksa
+    - eks-
+  spa:
+  - - pasado
+    - anterior
+    - ex-
+search terms:
+  glb:
+  - leli
+  eng:
+  - past
+  - previous
+  - previously
+  - former
+  - formerly
+  - beforehand
+  - ex-
+  epo:
+  - "anta\u016Da"
+  - pasitna
+  - estinta
+  - eksa
+  - eks-
+  spa:
+  - pasado
+  - anterior
+  - ex-
+etymology_type: DERIVD
+etymology: <a href="../lexi/le">le</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: leli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: past, previous, previously, former, formerly, beforehand, ex-
+    epo: "anta\u016Da, pasitna, estinta, eksa, eks-"
+    spa: pasado, anterior, ex-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: le + -li
+...

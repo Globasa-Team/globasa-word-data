@@ -1,0 +1,72 @@
+---
+term: tunge
+slug: tunge
+ipa: "\u02C8tunge"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tunge&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - barrel
+    - cask
+    - drum
+  epo:
+  - - barelo
+  spa:
+  - - barril
+    - tonel
+    - cuba
+    - "bid\xF3n"
+search terms:
+  glb:
+  - tunge
+  eng:
+  - barrel
+  - cask
+  - drum
+  epo:
+  - barelo
+  spa:
+  - barril
+  - tonel
+  - cuba
+  - "bid\xF3n"
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - tonneau
+  Doycisa:
+  - - Tonne
+  Espanisa:
+  - - tonel
+  Indonesisa:
+  - - tong
+  Putunhwa:
+  - - "\u6876 \u201Ct\u01D2ng\u201D"
+  Hangusa:
+  - - "\uD1B5 \u201Ctong\u201D"
+  Vyetnamsa:
+  - - "th\xF9ng"
+raw data:
+  term: tunge
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: barrel, cask, drum
+    epo: barelo
+    spa: "barril, tonel, cuba, bid\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (tonneau), Doycisa (Tonne), Espanisa (tonel), Indonesisa (tong),
+    Putunhwa (\u6876 \u201Ct\u01D2ng\u201D), Hangusa (\uD1B5 \u201Ctong\u201D), Vyetnamsa
+    (th\xF9ng)"
+...

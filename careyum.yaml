@@ -1,0 +1,48 @@
+---
+term: careyum
+slug: careyum
+ipa: "t\u0361\u0283a\u027Ee\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283a\u027Ee\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - fourth
+  epo:
+  - - kvara
+  - - kvare
+  spa:
+  - - cuarto
+search terms:
+  glb:
+  - careyum
+  eng:
+  - fourth
+  epo:
+  - kvara
+  - kvare
+  spa:
+  - cuarto
+etymology_type: DERIVD
+etymology: <a href="../lexi/care">care</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: careyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: fourth
+    epo: kvara; kvare
+    spa: cuarto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: care + -yum
+...

@@ -1,0 +1,50 @@
+---
+term: samato
+slug: samato
+ipa: "sa\u02C8mato"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8mato&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - (the) same thing
+  epo:
+  - - samo
+    - la sama (afero)
+  spa:
+  - - lo mismo
+search terms:
+  glb:
+  - samato
+  eng:
+  - the same thing
+  - same thing
+  epo:
+  - samo
+  - la sama afero
+  - la sama
+  spa:
+  - lo mismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/sama">sama</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: samato
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: (the) same thing
+    epo: samo, la sama (afero)
+    spa: lo mismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sama + to
+...

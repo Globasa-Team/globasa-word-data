@@ -1,0 +1,50 @@
+---
+term: xafefikso
+slug: xafefikso
+ipa: "\u0283afe\u02C8fikso"
+ipa link: "http://ipa-reader.xyz/?text=\u0283afe\u02C8fikso&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - suffix
+  epo:
+  - - postafikso
+    - sufikso
+    - "fina\u0135o"
+  spa:
+  - - sufijo
+search terms:
+  glb:
+  - xafefikso
+  eng:
+  - suffix
+  epo:
+  - postafikso
+  - sufikso
+  - "fina\u0135o"
+  spa:
+  - sufijo
+etymology_type: DERIVD
+etymology: <a href="../lexi/xafe-">xafe-</a> + <a href="../lexi/fikso">fikso</a>
+raw data:
+  term: xafefikso
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: suffix
+    epo: "postafikso, sufikso, fina\u0135o"
+    spa: sufijo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xafe- + fikso
+...

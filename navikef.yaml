@@ -1,0 +1,46 @@
+---
+term: navikef
+slug: navikef
+ipa: "navi\u02C8kef"
+ipa link: "http://ipa-reader.xyz/?text=navi\u02C8kef&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - captain
+  epo:
+  - - "\u015Dipestro"
+  spa:
+  - - "capit\xE1n"
+search terms:
+  glb:
+  - navikef
+  eng:
+  - captain
+  epo:
+  - "\u015Dipestro"
+  spa:
+  - "capit\xE1n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/navi">navi</a> + <a href="../lexi/-kef">-kef</a>
+raw data:
+  term: navikef
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: captain
+    epo: "\u015Dipestro"
+    spa: "capit\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: navi + -kef
+...

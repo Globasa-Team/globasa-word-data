@@ -1,0 +1,51 @@
+---
+term: conce
+slug: conce
+ipa: ˈt͡ʃont͡ʃe
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃont͡ʃe&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - beak
+  epo:
+  - - beko
+  spa:
+  - - pico (de ave)
+search terms:
+  glb:
+  - conce
+  eng:
+  - beak
+  epo:
+  - beko
+  spa:
+  - pico de ave
+  - pico
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - चोंच “chonch”
+tags:
+- jismulogi
+raw data:
+  term: conce
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: beak
+    epo: beko
+    spa: pico (de ave)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Hindisa (चोंच “chonch”)
+...

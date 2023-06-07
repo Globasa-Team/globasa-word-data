@@ -1,0 +1,62 @@
+---
+term: estroberi
+slug: estroberi
+ipa: estɾoˈbeɾi
+ipa link: http://ipa-reader.xyz/?text=estɾoˈbeɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - strawberry
+  epo:
+  - - frago
+  spa:
+  - - fresa
+    - _Fragaria × ananassa_
+search terms:
+  glb:
+  - estroberi
+  eng:
+  - strawberry
+  epo:
+  - frago
+  spa:
+  - fresa
+  - fragaria × ananassa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - strawberry
+  Hindisa:
+  - - स्ट्रॉबेरी “sṭrŏberī”
+  Niponsa:
+  - - ストロベリー “sutoroberī”
+  Indonesisa:
+  - - stroberi
+  Swahilisa:
+  - - strouberi
+tags:
+- fruta
+- yamxey
+raw data:
+  term: estroberi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: strawberry
+    epo: frago
+    spa: fresa, _Fragaria × ananassa_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: Englisa (strawberry), Hindisa (स्ट्रॉबेरी “sṭrŏberī”), Niponsa (ストロベリー
+    “sutoroberī”), Indonesisa (stroberi), Swahilisa (strouberi)
+...

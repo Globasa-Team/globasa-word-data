@@ -1,0 +1,73 @@
+---
+term: sahay
+slug: sahay
+ipa: "sa\u02C8xaj"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8xaj&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - help
+    - aid
+    - assistance
+    - support
+  - - help
+    - aid
+    - assist
+    - support
+  epo:
+  - - helpo
+  - - helpi
+  spa:
+  - - ayuda
+    - asistencia
+  - - ayudar
+    - asistir
+search terms:
+  glb:
+  - sahay
+  eng:
+    0: help
+    1: aid
+    2: assistance
+    3: support
+    6: assist
+  epo:
+  - helpo
+  - helpi
+  spa:
+  - ayuda
+  - asistencia
+  - ayudar
+  - asistir
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u0939\u093E\u092F\u0924\u093E \u201Csahaayata\u201D"
+  Telugusa:
+  - - "\u0C38\u0C39\u0C3E\u0C2F\u0C02 \u201Csah\u0101ya\u1E41\u201D"
+  Karnatakasa:
+  - - "\u0CB8\u0CB9\u0CBE\u0CAF \u201Csah\u0101ya\u201D"
+raw data:
+  term: sahay
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: help, aid, assistance, support; help, aid, assist, support
+    epo: helpo; helpi
+    spa: ayuda, asistencia; ayudar, asistir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0938\u0939\u093E\u092F\u0924\u093E \u201Csahaayata\u201D),
+    Telugusa (\u0C38\u0C39\u0C3E\u0C2F\u0C02 \u201Csah\u0101ya\u1E41\u201D), Karnatakasa
+    (\u0CB8\u0CB9\u0CBE\u0CAF \u201Csah\u0101ya\u201D)"
+...

@@ -1,0 +1,46 @@
+---
+term: ku
+slug: ku
+ipa: ku
+ipa link: http://ipa-reader.xyz/?text=ku&voice=Ewa
+status: true
+category: root
+word class: l
+trans:
+  eng:
+  - - _interrogative clauses in declarative sentences_
+  epo:
+  - - _demandaj subfrazoj in deklaraj frazoj_
+  spa:
+  - - "(_cl\xE1usulas interrogativas en oraciones declarativas_)"
+search terms:
+  glb:
+  - ku
+  eng:
+  - interrogative clauses in declarative sentences
+  epo:
+  - demandaj subfrazoj in deklaraj frazoj
+  spa: []
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ku
+  category: root
+  word class: l
+  status: true
+  trans:
+    eng: _interrogative clauses in declarative sentences_
+    epo: _demandaj subfrazoj in deklaraj frazoj_
+    spa: "(_cl\xE1usulas interrogativas en oraciones declarativas_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (que, qui), Espanisa (que), Rusisa (\u043A\u043E\u0442\u043E\u0440\u044B\u0439
+    \u201Ckotory\u201D)"
+...

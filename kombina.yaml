@@ -1,0 +1,57 @@
+---
+term: kombina
+slug: kombina
+ipa: "kom\u02C8bina"
+ipa link: "http://ipa-reader.xyz/?text=kom\u02C8bina&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - combine
+  epo:
+  - - kombino
+  - - kombini
+  spa:
+  - - "combinaci\xF3n"
+  - - combinar
+    - combinarse
+search terms:
+  glb:
+  - kombina
+  eng:
+  - combine
+  epo:
+  - kombino
+  - kombini
+  spa:
+  - "combinaci\xF3n"
+  - combinar
+  - combinarse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kombina
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: combine
+    epo: kombino; kombini
+    spa: "combinaci\xF3n; combinar, combinarse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (combination), Fransesa (combinaison), Doycesa (Kombination),
+    Rusisa (\u043A\u043E\u043C\u0431\u0438\u043D\u0430\u0446\u0438\u044F \u201Ckombinatsiya\u201D),
+    Espanisa (combinaci\xF3n), Niponsa (\u30B3\u30F3\u30D3\u30CD\u30FC\u30B7\u30E7\u30F3
+    \u201Ckonbin\u0113shon\u201D), Hangusa (\uCF64\uBE44\uB124\uC774\uC158 \u201Ckombineisyeon\u201D),
+    Telugusa (\u0C15\u0C3E\u0C02\u0C2C\u0C3F\u0C28\u0C47\u0C37\u0C28\u0C4D \u201Ck\u0101mbin\u0113\u1E63an\u201D),
+    Turkisa (kombinasyon), Indonesisa (kombinasi), Pilipinasa (kombinasyon)"
+...

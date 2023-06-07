@@ -1,0 +1,46 @@
+---
+term: golmon
+slug: golmon
+ipa: "gol\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=gol\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - point (_scoring unit_)
+  epo:
+  - - poento
+  spa:
+  - - punto (_unidad de puntaje_)
+search terms:
+  glb:
+  - golmon
+  eng:
+  - point
+  epo:
+  - poento
+  spa:
+  - punto
+etymology_type: DERIVD
+etymology: <a href="../lexi/gol">gol</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: golmon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: point (_scoring unit_)
+    epo: poento
+    spa: punto (_unidad de puntaje_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gol + -mon
+...

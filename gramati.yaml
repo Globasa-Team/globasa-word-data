@@ -1,0 +1,62 @@
+---
+term: gramati
+slug: gramati
+ipa: gɾaˈmati
+ipa link: http://ipa-reader.xyz/?text=gɾaˈmati&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - grammar
+  epo:
+  - - gramatiko
+  spa:
+  - - gramática
+search terms:
+  glb:
+  - gramati
+  eng:
+  - grammar
+  epo:
+  - gramatiko
+  spa:
+  - gramática
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - grammatical
+  Fransesa:
+  - - grammatical
+  Doycisa:
+  - - Grammatik
+  Rusisa:
+  - - грамматика “grammatika”
+  Espanisa:
+  - - gramática
+  Turkisa:
+  - - gramer
+  Indonesisa: ~
+  Pilipinasa: ~
+raw data:
+  term: gramati
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: grammar
+    epo: gramatiko
+    spa: gramática
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (grammatical), Fransesa (grammatical), Doycisa (Grammatik), Rusisa
+    (грамматика “grammatika”), Espanisa (gramática), Turkisa (gramer), Indonesisa,
+    Pilipinasa
+...

@@ -1,0 +1,46 @@
+---
+term: noro
+slug: noro
+ipa: "\u02C8no\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8no\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - neither
+  epo:
+  - - nek (_**nek**...nek..._)
+  spa:
+  - - ni (_**ni**...ni_)
+search terms:
+  glb:
+  - noro
+  eng:
+  - neither
+  epo:
+  - nek
+  spa:
+  - ni
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/nor">nor</a>.
+raw data:
+  term: noro
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: neither
+    epo: nek (_**nek**...nek..._)
+    spa: ni (_**ni**...ni_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _nor_.
+...

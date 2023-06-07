@@ -1,0 +1,48 @@
+---
+term: dua mega
+slug: dua mega
+ipa: "\u02C8dua \u02C8mega"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dua \u02C8mega&voice=Ewa"
+status: false
+category: phrase
+word class: num
+trans:
+  eng:
+  - - two million
+  epo:
+  - - du miliono
+  spa:
+  - - dos millones
+search terms:
+  glb:
+  - dua mega
+  - dua
+  - mega
+  eng:
+  - two million
+  epo:
+  - du miliono
+  spa:
+  - dos millones
+etymology_type: DERIVD
+etymology: <a href="../lexi/dua">dua</a> + <a href="../lexi/mega">mega</a>
+raw data:
+  term: dua mega
+  category: phrase
+  word class: num
+  status: false
+  trans:
+    eng: two million
+    epo: du miliono
+    spa: dos millones
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dua + mega
+...

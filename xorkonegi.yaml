@@ -1,0 +1,49 @@
+---
+term: xorkonegi
+slug: xorkonegi
+ipa: "\u0283o\u027Eko\u02C8negi"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u027Eko\u02C8negi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - introduce (_make known_)
+  epo:
+  - - enkondukado
+  - - enkonduki
+  spa:
+  - - presentar
+search terms:
+  glb:
+  - xorkonegi
+  eng:
+  - introduce
+  epo:
+  - enkondukado
+  - enkonduki
+  spa:
+  - presentar
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor-">xor-</a> + <a href="../lexi/kone">kone</a> + <a
+  href="../lexi/-gi">-gi</a>
+raw data:
+  term: xorkonegi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: introduce (_make known_)
+    epo: enkondukado; enkonduki
+    spa: presentar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xor- + kone + -gi
+...

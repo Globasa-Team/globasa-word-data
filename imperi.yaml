@@ -1,0 +1,52 @@
+---
+term: imperi
+slug: imperi
+ipa: "im\u02C8pe\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=im\u02C8pe\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - empire
+  epo:
+  - - imperio
+  spa:
+  - - imperio
+search terms:
+  glb:
+  - imperi
+  eng:
+  - empire
+  epo:
+  - imperio
+  spa:
+  - imperio
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: imperi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: empire
+    epo: imperio
+    spa: imperio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (emperor, imperial), Espanisa (emperador, imperial), Fransesa
+    (empire, imp\xE9rial), Rusisa (\u0438\u043C\u043F\u0435\u0440\u0430\u0442\u043E\u0440
+    \u201Cimperator\", \u0438\u043C\u043F\u0435\u0440\u0441\u043A\u0438\u0439 \u201Cimperskiy\u201D),
+    Doycisa (Imperator, Imperium), Pilipinasa (emperador, imperyo), Arabisa (\u0625\u0650\u0645\u0652\u0628\u0652\u0631\u064E\u0627\u0637\u064F\u0648\u0631
+    \u201Cimbratur\", \u0625\u0650\u0645\u0652\u0628\u0650\u0631\u064E\u0627\u0637\u064F\u0648\u0631\u0650\u064A\u0651
+    \u201Cimbiraturiy\u201D), Turkisa (imparator), Parsisa (\u0627\u0645\u067E\u0631\u0627\u0637\u0648\u0631
+    \u201Cemperator\", \u0627\u0645\u067E\u0631\u0627\u062A\u0648\u0631\u06CC \u201Cemperaturi\u201D)"
+...

@@ -1,0 +1,78 @@
+---
+term: deklara
+slug: deklara
+ipa: deˈklaɾa
+ipa link: http://ipa-reader.xyz/?text=deˈklaɾa&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - declaration
+    - statement
+  - - declare
+    - state
+    - claim
+  epo:
+  - - deklaro
+    - aserto
+  - - deklari
+    - aserti
+  spa:
+  - - declaración
+  - - declarar
+search terms:
+  glb:
+  - deklara
+  eng:
+  - declaration
+  - statement
+  - declare
+  - state
+  - claim
+  epo:
+  - deklaro
+  - aserto
+  - deklari
+  - aserti
+  spa:
+  - declaración
+  - declarar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - declaration
+  Fransesa:
+  - - déclaration
+  Doycisa:
+  - - Deklaration
+  Rusisa:
+  - - декларация “deklaratsiya”
+  Espanisa:
+  - - declaración
+  Turkisa:
+  - - deklarasyon
+  Pilipinasa:
+  - - deklarasyon
+raw data:
+  term: deklara
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: declaration, statement; declare, state, claim
+    epo: deklaro, aserto; deklari, aserti
+    spa: declaración; declarar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (declaration), Fransesa (déclaration), Doycisa (Deklaration),
+    Rusisa (декларация “deklaratsiya”), Espanisa (declaración), Turkisa (deklarasyon),
+    Pilipinasa (deklarasyon)
+...

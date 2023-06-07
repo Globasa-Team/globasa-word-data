@@ -1,0 +1,68 @@
+---
+term: xinen
+slug: xinen
+ipa: "\u0283i\u02C8nen"
+ipa link: "http://ipa-reader.xyz/?text=\u0283i\u02C8nen&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - faith
+    - (religious) belief
+    - conviction
+  epo:
+  - - (religia) fido
+    - konvinko
+  spa:
+  - - fe
+    - creencia (religiosa)
+    - "convicci\xF3n"
+search terms:
+  glb:
+  - xinen
+  eng:
+  - faith
+  - religious belief
+  - belief
+  - conviction
+  epo:
+  - religia fido
+  - fido
+  - konvinko
+  spa:
+  - fe
+  - creencia religiosa
+  - creencia
+  - "convicci\xF3n"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4FE1\u5FF5 \u201Cxinyen\u201D"
+  Niponsa:
+  - - "\u4FE1\u5FF5 \u201Cxinnen\u201D"
+  Hangusa:
+  - - "\uC2E0\uB150 \u201Cxinnyon\u201D"
+tags:
+- dini
+raw data:
+  term: xinen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: faith, (religious) belief, conviction
+    epo: (religia) fido, konvinko
+    spa: "fe, creencia (religiosa), convicci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: "Putunhwa (\u4FE1\u5FF5 \u201Cxinyen\u201D), Niponsa (\u4FE1\u5FF5 \u201Cxinnen\u201D),
+    Hangusa (\uC2E0\uB150 \u201Cxinnyon\u201D)"
+...

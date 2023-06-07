@@ -1,0 +1,50 @@
+---
+term: seanalisi
+slug: seanalisi
+ipa: "seana\u02C8lisi"
+ipa link: "http://ipa-reader.xyz/?text=seana\u02C8lisi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - self-analysis
+  - - self analyze
+  epo:
+  - - memanalizo
+  - - memanlizi
+  spa:
+  - - "autoan\xE1lisis"
+search terms:
+  glb:
+  - seanalisi
+  eng:
+  - self-analysis
+  - self analyze
+  epo:
+  - memanalizo
+  - memanlizi
+  spa:
+  - "autoan\xE1lisis"
+etymology_type: DERIVD
+etymology: <a href="../lexi/se-">se-</a> + <a href="../lexi/analisi">analisi</a>
+raw data:
+  term: seanalisi
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: self-analysis; self analyze
+    epo: memanalizo; memanlizi
+    spa: "autoan\xE1lisis"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se- + analisi
+...

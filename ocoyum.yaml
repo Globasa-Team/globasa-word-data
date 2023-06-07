@@ -1,0 +1,48 @@
+---
+term: ocoyum
+slug: ocoyum
+ipa: "ot\u0361\u0283o\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=ot\u0361\u0283o\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - eighth
+  epo:
+  - - oka
+  - - oke
+  spa:
+  - - octavo
+search terms:
+  glb:
+  - ocoyum
+  eng:
+  - eighth
+  epo:
+  - oka
+  - oke
+  spa:
+  - octavo
+etymology_type: DERIVD
+etymology: <a href="../lexi/oco">oco</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: ocoyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: 'eighth '
+    epo: oka; oke
+    spa: octavo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: oco + -yum
+...

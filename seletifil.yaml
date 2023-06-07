@@ -1,0 +1,52 @@
+---
+term: seletifil
+slug: seletifil
+ipa: "seleti\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=seleti\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - selective
+  epo:
+  - - elektema
+    - selektema
+  - - elekteme
+    - selekteme
+  spa:
+  - - selectivo
+search terms:
+  glb:
+  - seletifil
+  eng:
+  - selective
+  epo:
+  - elektema
+  - selektema
+  - elekteme
+  - selekteme
+  spa:
+  - selectivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/seleti">seleti</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: seletifil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: selective
+    epo: elektema, selektema; elekteme, selekteme
+    spa: selectivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: seleti + -fil
+...

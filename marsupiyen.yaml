@@ -1,0 +1,50 @@
+---
+term: marsupiyen
+slug: marsupiyen
+ipa: "ma\u027Esupi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=ma\u027Esupi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - marsupial
+  epo:
+  - - marsupiulo
+  spa:
+  - - marsupial
+    - _Marsupialia_
+search terms:
+  glb:
+  - marsupiyen
+  eng:
+  - marsupial
+  epo:
+  - marsupiulo
+  spa:
+  - marsupial
+  - marsupialia
+etymology_type: DERIVD
+etymology: <a href="../lexi/marsupi">marsupi</a> + <a href="../lexi/-yen">-yen</a>
+tags:
+- hewan
+raw data:
+  term: marsupiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: marsupial
+    epo: marsupiulo
+    spa: marsupial, _Marsupialia_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: marsupi + -yen
+...

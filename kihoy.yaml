@@ -1,0 +1,56 @@
+---
+term: kihoy
+slug: kihoy
+ipa: "ki\u02C8xoj"
+ipa link: "http://ipa-reader.xyz/?text=ki\u02C8xoj&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - opportunity
+    - chance
+    - occasion
+  epo:
+  - - okazo
+  spa:
+  - - oportunidad
+    - "ocasi\xF3n"
+    - chance
+search terms:
+  glb:
+  - kihoy
+  eng:
+  - opportunity
+  - chance
+  - occasion
+  epo:
+  - okazo
+  spa:
+  - oportunidad
+  - "ocasi\xF3n"
+  - chance
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kihoy
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: opportunity, chance, occasion
+    epo: okazo
+    spa: "oportunidad, ocasi\xF3n, chance"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u673A\u4F1A \u201Cj\u012Bhu\xEC\u201D), Niponsa (\u6A5F\u4F1A
+    \u201Ckikai\u201D), Hangusa (\uAE30\uD68C \u201Cgihoe\u201D), Vyetnamsa (c\u01A1
+    h\u1ED9i)"
+...

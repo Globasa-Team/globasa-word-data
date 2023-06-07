@@ -1,0 +1,46 @@
+---
+term: majin
+slug: majin
+ipa: "ma\u02C8d\u0361\u0292in"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8d\u0361\u0292in&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - measles
+  epo:
+  - - morbilo
+  spa:
+  - - "sarampi\xF3n"
+search terms:
+  glb:
+  - majin
+  eng:
+  - measles
+  epo:
+  - morbilo
+  spa:
+  - "sarampi\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: majin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: measles
+    epo: morbilo
+    spa: "sarampi\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u9EBB\u75B9 \"majen\"), Niponsa (\u9EBB\u75B9 \"maxin\")"
+...

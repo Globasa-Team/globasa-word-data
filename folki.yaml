@@ -1,0 +1,50 @@
+---
+term: folki
+slug: folki
+ipa: "\u02C8folki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8folki&voice=Ewa"
+status: false
+category: derived
+word class: l
+trans:
+  eng:
+  - - the more
+    - the less
+  epo:
+  - - ju
+  spa:
+  - - "entre m\xE1s"
+    - entre menos
+search terms:
+  glb:
+  - folki
+  eng:
+  - the more
+  - the less
+  epo:
+  - ju
+  spa:
+  - "entre m\xE1s"
+  - entre menos
+etymology_type: DERIVD
+etymology: <a href="../lexi/fol">fol</a> + <a href="../lexi/ki">ki</a>
+raw data:
+  term: folki
+  category: derived
+  word class: l
+  status: false
+  trans:
+    eng: the more, the less
+    epo: ju
+    spa: "entre m\xE1s, entre menos"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: the, the more, the less, more, less
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fol + ki
+...

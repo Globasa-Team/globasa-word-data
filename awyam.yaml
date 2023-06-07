@@ -1,0 +1,52 @@
+---
+term: awyam
+slug: awyam
+ipa: "aw\u02C8jam"
+ipa link: "http://ipa-reader.xyz/?text=aw\u02C8jam&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - eat up
+    - eat away
+  epo:
+  - - "forman\u011Dado"
+  - - "forman\u011Di"
+  spa:
+  - - devorar
+    - tragar
+search terms:
+  glb:
+  - awyam
+  eng:
+  - eat up
+  - eat away
+  epo:
+  - "forman\u011Dado"
+  - "forman\u011Di"
+  spa:
+  - devorar
+  - tragar
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw-">aw-</a> + <a href="../lexi/yam">yam</a>
+raw data:
+  term: awyam
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: eat up, eat away
+    epo: "forman\u011Dado; forman\u011Di"
+    spa: devorar, tragar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: eat up, eat away, eat
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aw- + yam
+...

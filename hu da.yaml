@@ -1,0 +1,53 @@
+---
+term: hu da
+slug: hu da
+ipa: "xu \u02C8da"
+ipa link: "http://ipa-reader.xyz/?text=xu \u02C8da&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - _subordinate clause:_ who
+    - whom
+    - which
+    - that
+  epo:
+  - - _subpropozicio:_ kiu
+  spa:
+  - - "_cl\xE1usula subordinada:_ quien"
+    - que
+search terms:
+  glb:
+  - hu da
+  - hu
+  - da
+  eng:
+  - whom
+  - which
+  - that
+  epo: []
+  spa:
+  - que
+etymology_type: DERIVD
+etymology: <a href="../lexi/ki">ki</a>, <a href="../lexi/da">da</a>
+raw data:
+  term: hu da
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: '_subordinate clause:_ who, whom, which, that '
+    epo: _subpropozicio:_ kiu
+    spa: "_cl\xE1usula subordinada:_ quien, que"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ki, da
+...

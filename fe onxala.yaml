@@ -1,0 +1,48 @@
+---
+term: fe onxala
+slug: fe onxala
+ipa: "fe on\u02C8\u0283ala"
+ipa link: "http://ipa-reader.xyz/?text=fe on\u02C8\u0283ala&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - hopefully
+  epo:
+  - - espereble
+  spa:
+  - - "ojal\xE1"
+search terms:
+  glb:
+  - fe onxala
+  - fe
+  - onxala
+  eng:
+  - hopefully
+  epo:
+  - espereble
+  spa:
+  - "ojal\xE1"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/onxala">onxala</a>
+raw data:
+  term: fe onxala
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: hopefully
+    epo: espereble
+    spa: "ojal\xE1"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, onxala
+...

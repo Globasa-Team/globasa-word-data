@@ -1,0 +1,81 @@
+---
+term: espam
+slug: espam
+ipa: "es\u02C8pam"
+ipa link: "http://ipa-reader.xyz/?text=es\u02C8pam&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - spam
+  spa:
+  - - _spam_
+    - correo basura
+search terms:
+  glb:
+  - espam
+  eng:
+  - spam
+  spa:
+  - spam
+  - correo basura
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - spam
+  Espanisa:
+  - - spam
+  Fransesa:
+  - - spam
+  - - spammer
+  Rusisa:
+  - - "\u0441\u043F\u0430\u043C \"spam\""
+  - - "\u0441\u043F\u0430\u043C\u0438\u0442\u044C \"spamit\""
+  Doycisa:
+  - - Spam
+  - - spammen
+  Indonesisa:
+  - - spam
+  Pilipinasa:
+  - - spam
+    - pag-spam
+  Hindisa:
+  - - "\u0938\u094D\u092A\u0948\u092E \"spem\""
+  Niponsa:
+  - - "\u30B9\u30D1\u30E0 \"supamu\""
+  Turkisa:
+  - - spam
+  Vyetnamsa:
+  - - spam
+  Hangusa:
+  - - "\uC2A4\uD338 \"supem\""
+  Parsisa:
+  - - "\u0627\u0633\u067E\u0645 \"espam\""
+  Swahilisa:
+  - - spam
+raw data:
+  term: espam
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: spam
+    epo: ""
+    spa: _spam_, correo basura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (spam), Espanisa (spam), Fransesa (spam; spammer), Rusisa (\u0441\u043F\u0430\u043C
+    \"spam\"; \u0441\u043F\u0430\u043C\u0438\u0442\u044C \"spamit\"), Doycisa (Spam;
+    spammen), Indonesisa (spam), Pilipinasa (spam, pag-spam), Hindisa (\u0938\u094D\u092A\u0948\u092E
+    \"spem\"), Niponsa (\u30B9\u30D1\u30E0 \"supamu\"), Turkisa (spam), Vyetnamsa
+    (spam), Hangusa (\uC2A4\uD338 \"supem\"), Parsisa (\u0627\u0633\u067E\u0645 \"espam\"),
+    Swahilisa (spam)"
+...

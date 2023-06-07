@@ -1,0 +1,57 @@
+---
+term: babur
+slug: babur
+ipa: baˈbuɾ
+ipa link: http://ipa-reader.xyz/?text=baˈbuɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tiger
+    - _Panthera tigris_
+  epo:
+  - - tigro
+  spa:
+  - - tigre
+    - _Panthera tigris_
+search terms:
+  glb:
+  - babur
+  eng:
+  - tiger
+  - panthera tigris
+  epo:
+  - tigro
+  spa:
+  - tigre
+  - panthera tigris
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - ببر “babr”
+    - بُبُور‎ “bubur”
+  Parsisa:
+  - - ببر “babr”
+tags:
+- hewan
+raw data:
+  term: babur
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tiger, _Panthera tigris_
+    epo: tigro
+    spa: tigre, _Panthera tigris_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Arabisa (ببر “babr”, بُبُور‎ “bubur”), Parsisa (ببر “babr”)
+...

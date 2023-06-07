@@ -1,0 +1,49 @@
+---
+term: hawanaviya
+slug: hawanaviya
+ipa: "xawana\u02C8vija"
+ipa link: "http://ipa-reader.xyz/?text=xawana\u02C8vija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - aeronautics
+  epo:
+  - - "aerona\u016Dtiko"
+    - aernavigado
+  spa:
+  - - "aeron\xE1utica"
+search terms:
+  glb:
+  - hawanaviya
+  eng:
+  - aeronautics
+  epo:
+  - "aerona\u016Dtiko"
+  - aernavigado
+  spa:
+  - "aeron\xE1utica"
+etymology_type: DERIVD
+etymology: <a href="../lexi/hawa-">hawa-</a> + <a href="../lexi/navi">navi</a> + <a
+  href="../lexi/-ya">-ya</a>
+raw data:
+  term: hawanaviya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: aeronautics
+    epo: "aerona\u016Dtiko, aernavigado"
+    spa: "aeron\xE1utica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hawa- + navi + -ya
+...

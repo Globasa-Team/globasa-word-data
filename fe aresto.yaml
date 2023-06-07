@@ -1,0 +1,50 @@
+---
+term: fe aresto
+slug: fe aresto
+ipa: "fe a\u02C8\u027Eesto"
+ipa link: "http://ipa-reader.xyz/?text=fe a\u02C8\u027Eesto&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - under arrest
+    - in custody
+  epo:
+  - - arestite
+  spa:
+  - - bajo arresto
+search terms:
+  glb:
+  - fe aresto
+  - fe
+  - aresto
+  eng:
+  - under arrest
+  - in custody
+  epo:
+  - arestite
+  spa:
+  - bajo arresto
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/aresto">aresto</a>
+raw data:
+  term: fe aresto
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: under arrest, in custody
+    epo: arestite
+    spa: bajo arresto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, aresto
+...

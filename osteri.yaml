@@ -1,0 +1,52 @@
+---
+term: osteri
+slug: osteri
+ipa: "os\u02C8te\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=os\u02C8te\u027Ei&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Austria
+  epo:
+  - - "A\u016Dstrio"
+    - "A\u016Dstrujo"
+  spa:
+  - - Austria
+search terms:
+  glb:
+  - osteri
+  eng:
+  - austria
+  epo:
+  - "a\u016Dstrio"
+  - "a\u016Dstrujo"
+  spa:
+  - austria
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - "\xD6sterreich"
+tags:
+- dexa
+raw data:
+  term: Osteri
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Austria
+    epo: "A\u016Dstrio, A\u016Dstrujo"
+    spa: Austria
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Doycisa (\xD6sterreich)"
+...

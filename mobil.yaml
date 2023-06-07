@@ -1,0 +1,61 @@
+---
+term: mobil
+slug: mobil
+ipa: "mo\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8bil&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - car
+    - auto
+    - automobile
+  epo:
+  - - "a\u016Dto"
+    - "a\u016Dtomobilo"
+  spa:
+  - - carro
+    - coche
+    - "autom\xF3vil"
+search terms:
+  glb:
+  - mobil
+  eng:
+  - car
+  - auto
+  - automobile
+  epo:
+  - "a\u016Dto"
+  - "a\u016Dtomobilo"
+  spa:
+  - carro
+  - coche
+  - "autom\xF3vil"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mobil
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: car, auto, automobile
+    epo: "a\u016Dto, a\u016Dtomobilo"
+    spa: "carro, coche, autom\xF3vil"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (automobile), Fransesa (automobile), Doycisa (Automobil), Rusisa
+    (\u0430\u0432\u0442\u043E\u043C\u043E\u0431\u0438\u043B\u044C \u201Cavtomobil\u201D),
+    Espanisa (autom\xF3vil), Indonesisa (mobil), Pilipinasa (awtomobil), Arabisa (\u0623\u064F\u0648\u062A\u064F\u0648\u0645\u064F\u0648\u0628\u0650\u064A\u0644
+    \u201Cotomobil\u201D), Hindisa (\u0911\u091F\u094B\u092E\u094B\u092C\u093E\u0907\u0932
+    \u201Cotomobayl\u201D), Turkisa (otomobil), Parsisa (\u0627\u062A\u0648\u0645\u0648\u0628\u06CC\u0644
+    \u201Cotomobil\u201D)"
+...

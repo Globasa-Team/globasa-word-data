@@ -1,0 +1,46 @@
+---
+term: netodom
+slug: netodom
+ipa: "neto\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=neto\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - website
+  epo:
+  - - retejo
+  spa:
+  - - sitio web
+search terms:
+  glb:
+  - netodom
+  eng:
+  - website
+  epo:
+  - retejo
+  spa:
+  - sitio web
+etymology_type: DERIVD
+etymology: <a href="../lexi/neto">neto</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: netodom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: website
+    epo: retejo
+    spa: sitio web
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: neto + -dom
+...

@@ -1,0 +1,55 @@
+---
+term: taydu
+slug: taydu
+ipa: "\u02C8tajdu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tajdu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - attitude
+  epo:
+  - - sinteno
+  spa:
+  - - actitud
+search terms:
+  glb:
+  - taydu
+  eng:
+  - attitude
+  epo:
+  - sinteno
+  spa:
+  - actitud
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6001\u5EA6 \u201Ct\xE0id\xF9\u201D"
+  Hangusa:
+  - - "\uD0DC\uB3C4 \u201Ctaedo\u201D"
+  Vyetnamsa:
+  - - "Th\xE1i \u0111\u1ED9"
+  Niponsa:
+  - - "\u614B\u5EA6 \u201Ctaido\u201D"
+raw data:
+  term: taydu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: attitude
+    epo: sinteno
+    spa: actitud
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u6001\u5EA6 \u201Ct\xE0id\xF9\u201D), Hangusa (\uD0DC\uB3C4
+    \u201Ctaedo\u201D), Vyetnamsa (Th\xE1i \u0111\u1ED9), Niponsa (\u614B\u5EA6 \u201Ctaido\u201D)"
+...

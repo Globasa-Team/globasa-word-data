@@ -1,0 +1,53 @@
+---
+term: huru
+slug: huru
+ipa: "\u02C8xu\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xu\u027Eu&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - free (_with liberty_)
+  epo:
+  - - libera
+  - - libere
+  spa:
+  - - libre
+search terms:
+  glb:
+  - huru
+  eng:
+  - free
+  epo:
+  - libera
+  - libere
+  spa:
+  - libre
+etymology_type: NATLNG
+etymology: BLAH
+antonyms:
+- poshuru
+- nenhuru
+raw data:
+  term: huru
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: free (_with liberty_)
+    epo: libera; libere
+    spa: libre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: poshuru, nenhuru
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u064F\u0631\u0651 \u201C\u1E25urr\u201D), Swahilisa
+    (huru), Parsisa (\u062D\u0631\u06CC\u062A \u201Chorriyat\u201D), Turkisa (h\xFCr,
+    h\xFCrriyet), Espanisa (horro)"
+...

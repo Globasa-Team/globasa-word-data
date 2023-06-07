@@ -1,0 +1,66 @@
+---
+term: carme
+slug: carme
+ipa: ˈt͡ʃaɾme
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃaɾme&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - charm
+    - enchantment
+  - - charm
+    - enchant
+  epo:
+  - - ĉarmo
+  - - ĉarmi
+  spa:
+  - - encanto
+  - - encantar
+search terms:
+  glb:
+  - carme
+  eng:
+    0: charm
+    1: enchantment
+    3: enchant
+  epo:
+  - ĉarmo
+  - ĉarmi
+  spa:
+  - encanto
+  - encantar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - charm
+  Fransesa:
+  - - charme
+  Doycisa:
+  - - Charme
+  Rusisa:
+  - - шарм “xarm”
+  Niponsa:
+  - - チャーム “chamu”
+raw data:
+  term: carme
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: charm, enchantment; charm, enchant
+    epo: ĉarmo; ĉarmi
+    spa: encanto; encantar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (charm), Fransesa (charme), Doycisa (Charme), Rusisa (шарм “xarm”),
+    Niponsa (チャーム “chamu”)
+...

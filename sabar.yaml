@@ -1,0 +1,57 @@
+---
+term: sabar
+slug: sabar
+ipa: "sa\u02C8ba\u027E"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8ba\u027E&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - patient
+  epo:
+  - - pacienca
+  - - pacience
+  spa:
+  - - paciente
+search terms:
+  glb:
+  - sabar
+  eng:
+  - patient
+  epo:
+  - pacienca
+  - pacience
+  spa:
+  - paciente
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0635\u0628\u0648\u0631 \u201Csabur\u201D"
+  Parsisa:
+  - - "\u0635\u0628\u0648\u0631 \u201Csabur\u201D"
+  Turkisa:
+  - - "sab\u0131r"
+  Indonesisa:
+  - - sabar
+raw data:
+  term: sabar
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: patient
+    epo: pacienca; pacience
+    spa: paciente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0635\u0628\u0648\u0631 \u201Csabur\u201D), Parsisa (\u0635\u0628\u0648\u0631
+    \u201Csabur\u201D), Turkisa (sab\u0131r), Indonesisa (sabar)"
+...

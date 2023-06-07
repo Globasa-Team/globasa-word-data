@@ -1,0 +1,88 @@
+---
+term: brandi
+slug: brandi
+ipa: ˈbɾandi
+ipa link: http://ipa-reader.xyz/?text=ˈbɾandi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - brandy
+  epo:
+  - - brando
+    - konjako
+  spa:
+  - - brandi
+    - coñac
+search terms:
+  glb:
+  - brandi
+  eng:
+  - brandy
+  epo:
+  - brando
+  - konjako
+  spa:
+  - brandi
+  - coñac
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - brandy
+  Fransesa:
+  - - brandy
+  Doycisa:
+  - - Brandy
+  Rusisa:
+  - - бренди “brendi”
+  Espanisa:
+  - - brandi
+  Indonesisa:
+  - - brendi
+  Pilipinasa:
+  - - brandi
+  Putunhwa:
+  - - 白兰地 “báilándì”
+  Niponsa:
+  - - ブランデー “burandē”
+  Hangusa:
+  - - 브랜디 “beuraendi”
+  Vyetnamsa:
+  - - branđi
+  Hindisa:
+  - - ब्रांडी “braandee”
+  Telugusa:
+  - - బ్రాందీ “brāndī”
+  Arabisa:
+  - - براندي “brandī”
+  Swahilisa:
+  - - brandi
+  Parsisa:
+  - - برندی “branda”
+  Turkisa:
+  - - brendi
+raw data:
+  term: brandi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: brandy
+    epo: brando, konjako
+    spa: brandi, coñac
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (brandy), Fransesa (brandy), Doycisa (Brandy), Rusisa (бренди
+    “brendi”), Espanisa (brandi), Indonesisa (brendi), Pilipinasa (brandi), Putunhwa
+    (白兰地 “báilándì”), Niponsa (ブランデー “burandē”), Hangusa (브랜디 “beuraendi”), Vyetnamsa
+    (branđi), Hindisa (ब्रांडी “braandee”), Telugusa (బ్రాందీ “brāndī”), Arabisa (براندي
+    “brandī”), Swahilisa (brandi), Parsisa (برندی “branda”), Turkisa (brendi)
+...

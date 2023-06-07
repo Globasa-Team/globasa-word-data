@@ -1,0 +1,55 @@
+---
+term: kacupa
+slug: kacupa
+ipa: "ka\u02C8t\u0361\u0283upa"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8t\u0361\u0283upa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - turtle
+    - _Testudines_
+  epo:
+  - - testudo
+  spa:
+  - - tortuga
+    - testudo
+    - _Testudines_
+search terms:
+  glb:
+  - kacupa
+  eng:
+  - turtle
+  - testudines
+  epo:
+  - testudo
+  spa:
+  - tortuga
+  - testudo
+  - testudines
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kacupa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: turtle, _Testudines_
+    epo: testudo
+    spa: tortuga, testudo, _Testudines_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Hindisa (\u0915\u091B\u0941\u0906 \u201Ckacua\u201D), Telugusa (\u0C15\u0C1A\u0C4D\u0C1B\u0C2A\u0C2E\u0C41
+    \u201Ckacapamu\u201D)"
+...

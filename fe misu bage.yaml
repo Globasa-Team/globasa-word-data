@@ -1,0 +1,50 @@
+---
+term: fe misu bage
+slug: fe misu bage
+ipa: "fe \u02C8misu \u02C8bage"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8misu \u02C8bage&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - for my part
+  epo:
+  - - miaparte
+  spa:
+  - - por mi parte
+search terms:
+  glb:
+  - fe misu bage
+  - fe
+  - misu
+  - bage
+  eng:
+  - for my part
+  epo:
+  - miaparte
+  spa:
+  - por mi parte
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/mi">mi</a> + <a href="../lexi/-su">-su</a>,
+  <a href="../lexi/bage">bage</a>
+raw data:
+  term: fe misu bage
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: for my part
+    epo: miaparte
+    spa: por mi parte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, mi + -su, bage
+...

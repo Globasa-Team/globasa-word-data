@@ -1,0 +1,55 @@
+---
+term: sicunki
+slug: sicunki
+ipa: "si\u02C8t\u0361\u0283unki"
+ipa link: "http://ipa-reader.xyz/?text=si\u02C8t\u0361\u0283unki&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - puberty
+  epo:
+  - - puberteco
+    - puberto
+  spa:
+  - - pubertad
+search terms:
+  glb:
+  - sicunki
+  eng:
+  - puberty
+  epo:
+  - puberteco
+  - puberto
+  spa:
+  - pubertad
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u601D\u6625\u671F \u201Csicunci\u201D"
+  Niponsa:
+  - - "\u601D\u6625\u671F \u201Cxixunki\u201D"
+  Hangusa:
+  - - "\uC0AC\uCD98\uAE30 \u201Csacungi\u201D"
+raw data:
+  term: sicunki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: puberty
+    epo: puberteco, puberto
+    spa: pubertad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u601D\u6625\u671F \u201Csicunci\u201D), Niponsa (\u601D\u6625\u671F
+    \u201Cxixunki\u201D), Hangusa (\uC0AC\uCD98\uAE30 \u201Csacungi\u201D)"
+...

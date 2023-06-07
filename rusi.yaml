@@ -1,0 +1,56 @@
+---
+term: rusi
+slug: rusi
+ipa: "\u02C8\u027Eusi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eusi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Russia
+  epo:
+  - - Rusio
+    - Ruslando
+    - Rusujo
+  spa:
+  - - Rusia
+search terms:
+  glb:
+  - rusi
+  eng:
+  - russia
+  epo:
+  - rusio
+  - ruslando
+  - rusujo
+  spa:
+  - rusia
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - "\u0420\u043E\u0441\u0441\u0438\u044F \u201CRossiya\u201D"
+    - "\u0440\u0443\u0441\u0441\u043A\u0438\u0439 \u201Crusskiy\u201D"
+tags:
+- dexa
+raw data:
+  term: Rusi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Russia
+    epo: Rusio, Ruslando, Rusujo
+    spa: Rusia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Rusisa (\u0420\u043E\u0441\u0441\u0438\u044F \u201CRossiya\u201D, \u0440\u0443\u0441\u0441\u043A\u0438\u0439
+    \u201Crusskiy\u201D)"
+...

@@ -1,0 +1,58 @@
+---
+term: lefe to
+slug: lefe to
+ipa: "\u02C8lefe \u02C8to"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lefe \u02C8to&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - previously
+    - formerly
+    - earlier
+    - before then
+    - before that
+  epo:
+  - - "anta\u016D tio"
+    - "anta\u016De"
+  spa:
+  - - antes de ello
+search terms:
+  glb:
+  - lefe to
+  - lefe
+  - to
+  eng:
+  - previously
+  - formerly
+  - earlier
+  - before then
+  - before that
+  epo:
+  - "anta\u016D tio"
+  - "anta\u016De"
+  spa:
+  - antes de ello
+etymology_type: DERIVD
+etymology: <a href="../lexi/le">le</a> + <a href="../lexi/-fe">-fe</a>, <a href="../lexi/to">to</a>
+raw data:
+  term: lefe to
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: previously, formerly, earlier, before then, before that
+    epo: "anta\u016D tio, anta\u016De"
+    spa: antes de ello
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: le + -fe, to
+...

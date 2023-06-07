@@ -1,0 +1,52 @@
+---
+term: pawbu
+slug: pawbu
+ipa: "\u02C8pawbu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pawbu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - run
+  epo:
+  - - kurado
+  - - kuri
+  spa:
+  - - carrera
+  - - correr
+search terms:
+  glb:
+  - pawbu
+  eng:
+  - run
+  epo:
+  - kurado
+  - kuri
+  spa:
+  - carrera
+  - correr
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u8DD1\u6B65 \u201Cp\u01CEob\xF9\u201D"
+raw data:
+  term: pawbu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: run
+    epo: kurado; kuri
+    spa: carrera; correr
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u8DD1\u6B65 \u201Cp\u01CEob\xF9\u201D)"
+...

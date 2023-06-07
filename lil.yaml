@@ -1,0 +1,52 @@
+---
+term: lil
+slug: lil
+ipa: "\u02C8lil"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lil&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - little
+    - small
+    - minor
+  epo:
+  - - eta
+    - malgranda
+  spa:
+  - - "peque\xF1o"
+search terms:
+  glb:
+  - lil
+  eng:
+  - little
+  - small
+  - minor
+  epo:
+  - eta
+  - malgranda
+  spa:
+  - "peque\xF1o"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lil
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: little, small, minor
+    epo: eta, malgranda
+    spa: "peque\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (little), Danisa (lille), Hawayisa (li\u02BBili\u02BBi)"
+...

@@ -1,0 +1,55 @@
+---
+term: lutra
+slug: lutra
+ipa: "\u02C8lut\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lut\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - otter
+    - _Lutrinae_
+  epo:
+  - - lutro
+  spa:
+  - - nutria
+    - _Lutrinae_
+search terms:
+  glb:
+  - lutra
+  eng:
+  - otter
+  - lutrinae
+  epo:
+  - lutro
+  spa:
+  - nutria
+  - lutrinae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: lutra
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: otter, _Lutrinae_
+    epo: lutro
+    spa: nutria, _Lutrinae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Espanisa (lutria), Fransesa (loutre), Hindisa (\u0909\u0926\u094D\u0930
+    \u201Cudra\u201D), Telugusa (\u0C09\u0C26\u0C4D\u0C30\u0C2E\u0C41 \u201Cudramu\u201D),
+    Turkisa (lutr), Rusisa (\u0432\u044B\u0434\u0440\u0430 \u201Cvudra\u201D), Englisa
+    (otter), Doycisa (Otter), Swahilisa (ota)"
+...

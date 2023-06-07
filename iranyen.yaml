@@ -1,0 +1,46 @@
+---
+term: iranyen
+slug: iranyen
+ipa: "i\u027Ea\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=i\u027Ea\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Iranian
+  epo:
+  - - iranano
+  spa:
+  - - "iran\xED (_persona_)"
+search terms:
+  glb:
+  - iranyen
+  eng:
+  - iranian
+  epo:
+  - iranano
+  spa:
+  - "iran\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Iran">Iran</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Iranyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Iranian
+    epo: iranano
+    spa: "iran\xED (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Iran + -yen
+...

@@ -1,0 +1,69 @@
+---
+term: wakufa
+slug: wakufa
+ipa: "wa\u02C8kufa"
+ipa link: "http://ipa-reader.xyz/?text=wa\u02C8kufa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - pause
+    - break
+  - - pause
+    - take a break
+  epo:
+  - - "pa\u016Dzo"
+  - - "pa\u016Dzi"
+    - "pa\u016Dzigi"
+  spa:
+  - - pausa
+  - - pausar
+    - pausarse
+search terms:
+  glb:
+  - wakufa
+  eng:
+    0: pause
+    1: break
+    3: take a break
+  epo:
+  - "pa\u016Dzo"
+  - "pa\u016Dzi"
+  - "pa\u016Dzigi"
+  spa:
+  - pausa
+  - pausar
+  - pausarse
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0648\u0642\u0641\u0629 \u201Cwaqfa\u201D"
+    - "\u062A\u0648\u0642\u0641 \u201Ctawaquf\u201D"
+  Parsisa:
+  - - "\u0648\u0642\u0641\u0629 \u201Cvaqfe\""
+    - "\u062A\u0648\u0642\u0641 \u201Ctavaqof\u201D"
+  Turkisa:
+  - - tevakkuf
+raw data:
+  term: wakufa
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: pause, break; pause, take a break
+    epo: "pa\u016Dzo; pa\u016Dzi, pa\u016Dzigi"
+    spa: pausa; pausar, pausarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0648\u0642\u0641\u0629 \u201Cwaqfa\u201D, \u062A\u0648\u0642\u0641
+    \u201Ctawaquf\u201D), Parsisa (\u0648\u0642\u0641\u0629 \u201Cvaqfe\", \u062A\u0648\u0642\u0641
+    \u201Ctavaqof\u201D), Turkisa (tevakkuf)"
+...

@@ -1,0 +1,93 @@
+---
+term: paketi
+slug: paketi
+ipa: "pa\u02C8keti"
+ipa link: "http://ipa-reader.xyz/?text=pa\u02C8keti&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - package
+    - packet
+  - - pack
+  epo:
+  - - pako
+    - paketo
+    - "paka\u0135o"
+  - - paki
+  spa:
+  - - paquete
+  - - empacar
+search terms:
+  glb:
+  - paketi
+  eng:
+  - package
+  - packet
+  - pack
+  epo:
+  - pako
+  - paketo
+  - "paka\u0135o"
+  - paki
+  spa:
+  - paquete
+  - empacar
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Paket
+  Englisa:
+  - - packet
+    - package
+  Espanisa:
+  - - paquete
+  Fransesa:
+  - - paquet
+  Rusisa:
+  - - "\u043F\u0430\u043A\u0435\u0442 \u201Cpaket\u201D"
+  Hangusa:
+  - - "\uD328\uD0B7 \u201Cpaekit\u201D"
+  Hindisa:
+  - - "\u092A\u0948\u0915\u0947\u091F \u201Cpaike\u1E6D\u201D"
+  Niponsa:
+  - - "\u30D1\u30C3\u30B1\u30FC\u30B8 \u201Cpakk\u0113ji\u201D"
+  Parsisa:
+  - - "\u067E\u0627\u06A9\u062A \u201Cp\xE2kat\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C4D\u0C2F\u0C3E\u0C15\u0C47\u0C1C\u0C40 \u201Cpy\u0101k\u0113j\u012B\u201D"
+  Swahilisa:
+  - - pakiti
+  Turkisa:
+  - - paket
+  Indonesisa:
+  - - paket
+  Pilipinasa:
+  - - pakete
+raw data:
+  term: paketi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: package, packet; pack
+    epo: "pako, paketo, paka\u0135o; paki"
+    spa: paquete; empacar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Paket), Englisa (packet, package), Espanisa (paquete), Fransesa
+    (paquet), Rusisa (\u043F\u0430\u043A\u0435\u0442 \u201Cpaket\u201D), Hangusa (\uD328\uD0B7
+    \u201Cpaekit\u201D), Hindisa (\u092A\u0948\u0915\u0947\u091F \u201Cpaike\u1E6D\u201D),
+    Niponsa (\u30D1\u30C3\u30B1\u30FC\u30B8 \u201Cpakk\u0113ji\u201D), Parsisa (\u067E\u0627\u06A9\u062A
+    \u201Cp\xE2kat\u201D), Telugusa (\u0C2A\u0C4D\u0C2F\u0C3E\u0C15\u0C47\u0C1C\u0C40
+    \u201Cpy\u0101k\u0113j\u012B\u201D), Swahilisa (pakiti), Turkisa (paket), Indonesisa
+    (paket), Pilipinasa (pakete)"
+...

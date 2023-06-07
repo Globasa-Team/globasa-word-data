@@ -1,0 +1,54 @@
+---
+term: banpul
+slug: banpul
+ipa: "ban\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=ban\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - some kind (of)
+    - a certain kind (of)
+    - in some way
+    - in a certain way
+  epo:
+  - - ia
+  spa:
+  - - de alguna manera
+search terms:
+  glb:
+  - banpul
+  eng:
+  - some kind of
+  - some kind
+  - a certain kind of
+  - a certain kind
+  - in some way
+  - in a certain way
+  epo:
+  - ia
+  spa:
+  - de alguna manera
+etymology_type: DERIVD
+etymology: <a href="../lexi/ban">ban</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: banpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: some kind (of), a certain kind (of), in some way, in a certain way
+    epo: ia
+    spa: de alguna manera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ban + -pul
+...

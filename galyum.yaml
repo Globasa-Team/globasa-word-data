@@ -1,0 +1,83 @@
+---
+term: galyum
+slug: galyum
+ipa: gaˈljum
+ipa link: http://ipa-reader.xyz/?text=gaˈljum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gallium
+  epo:
+  - - galiumo
+  spa:
+  - - galio
+    - Ga
+search terms:
+  glb:
+  - galyum
+  eng:
+  - gallium
+  epo:
+  - galiumo
+  spa:
+  - galio
+  - ga
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gallium
+  Espanisa:
+  - - galio
+  Arabisa:
+  - - جَالْيُوم “galyum”
+  Fransesa:
+  - - gallium
+  Rusisa:
+  - - галлий “galliy”
+  Indonesisa:
+  - - galium
+  Doycisa:
+  - - Gallium
+  Niponsa:
+  - - ガリウム “gariumu”
+  Telugusa:
+  - - గాలియం “galiyam”
+  Turkisa:
+  - - galyum
+  Hangusa:
+  - - 갈륨 “gallyum”
+  Vyetnamsa:
+  - - gali
+  Parsisa:
+  - - گالیم “galyom”
+  Swahilisa:
+  - - gali
+  Pilipinasa:
+  - - galyo
+tags:
+- kimikali monlari
+raw data:
+  term: galyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gallium
+    epo: galiumo
+    spa: galio, Ga
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (gallium), Espanisa (galio), Arabisa (جَالْيُوم “galyum”), Fransesa
+    (gallium), Rusisa (галлий “galliy”), Indonesisa (galium), Doycisa (Gallium), Niponsa
+    (ガリウム “gariumu”), Telugusa (గాలియం “galiyam”), Turkisa (galyum), Hangusa (갈륨 “gallyum”),
+    Vyetnamsa (gali), Parsisa (گالیم “galyom”), Swahilisa (gali), Pilipinasa (galyo)
+...

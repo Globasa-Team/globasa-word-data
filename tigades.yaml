@@ -1,0 +1,46 @@
+---
+term: tigades
+slug: tigades
+ipa: "tiga\u02C8des"
+ipa link: "http://ipa-reader.xyz/?text=tiga\u02C8des&voice=Ewa"
+status: false
+category: derived
+word class: num
+trans:
+  eng:
+  - - thirty
+  epo:
+  - - tridek
+  spa:
+  - - treinta
+search terms:
+  glb:
+  - tigades
+  eng:
+  - thirty
+  epo:
+  - tridek
+  spa:
+  - treinta
+etymology_type: DERIVD
+etymology: <a href="../lexi/tiga">tiga</a> + <a href="../lexi/-des">-des</a>
+raw data:
+  term: tigades
+  category: derived
+  word class: num
+  status: false
+  trans:
+    eng: thirty
+    epo: tridek
+    spa: treinta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tiga + -des
+...

@@ -1,0 +1,52 @@
+---
+term: karay
+slug: karay
+ipa: "ka\u02C8\u027Eaj"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8\u027Eaj&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - spicy
+    - hot
+  epo:
+  - - pikanta
+  - - pikante
+  spa:
+  - - picante
+search terms:
+  glb:
+  - karay
+  eng:
+  - spicy
+  - hot
+  epo:
+  - pikanta
+  - pikante
+  spa:
+  - picante
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: karay
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: spicy, hot
+    epo: pikanta; pikante
+    spa: picante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Niponsa (\u8F9B\u3044 \u201Ckarai\u201D), Telugusa (\u0C15\u0C3E\u0C30\u0C2E\u0C48\u0C28
+    \u201Ckaramaina\u201D, \u0C15\u0C3E\u0C30\u0C02\u0C17\u0C3E \u201Ckaranga\u201D),
+    Vyetnamsa (cay)"
+...

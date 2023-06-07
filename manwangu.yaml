@@ -1,0 +1,46 @@
+---
+term: manwangu
+slug: manwangu
+ipa: "ma\u02C8nwangu"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8nwangu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - king
+  epo:
+  - - "re\u011Do"
+  spa:
+  - - rey
+search terms:
+  glb:
+  - manwangu
+  eng:
+  - king
+  epo:
+  - "re\u011Do"
+  spa:
+  - rey
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/wangu">wangu</a>
+raw data:
+  term: manwangu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: king
+    epo: "re\u011Do"
+    spa: rey
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + wangu
+...

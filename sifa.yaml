@@ -1,0 +1,68 @@
+---
+term: sifa
+slug: sifa
+ipa: "\u02C8sifa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sifa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - characteristic
+    - feature
+    - quality
+    - attribute [_**compare with**:_ [kwalita](/eng/lexi/kwalita)]
+  epo:
+  - - eco
+  spa:
+  - - "caracter\xEDstica"
+    - cualidad
+search terms:
+  glb:
+  - sifa
+  eng:
+  - characteristic
+  - feature
+  - quality
+  - attribute
+  epo:
+  - eco
+  spa:
+  - "caracter\xEDstica"
+  - cualidad
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0635\u0641\u0629 \u201Csifat\u201D"
+  Swahilisa:
+  - - sifa
+  Indonesisa:
+  - - sifat
+  Turkisa:
+  - - "s\u0131fat"
+  Parsisa:
+  - - "\u0635\u0641\u062A \u201Csefat\u201D"
+  Hindisa:
+  - - "\u0938\u093F\u092B\u093C\u0924 \u201Csifat\u201D"
+raw data:
+  term: sifa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: characteristic, feature, quality, attribute [_**compare with**:_ [kwalita](/eng/lexi/kwalita)]
+    epo: eco
+    spa: "caracter\xEDstica, cualidad"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0635\u0641\u0629 \u201Csifat\u201D), Swahilisa (sifa), Indonesisa
+    (sifat), Turkisa (s\u0131fat), Parsisa (\u0635\u0641\u062A \u201Csefat\u201D),
+    Hindisa (\u0938\u093F\u092B\u093C\u0924 \u201Csifat\u201D)"
+...

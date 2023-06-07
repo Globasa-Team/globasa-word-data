@@ -1,0 +1,56 @@
+---
+term: ergoxey
+slug: ergoxey
+ipa: "e\u027Ego\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=e\u027Ego\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - job
+    - employment
+    - occupation
+  epo:
+  - - laboro
+    - "dungi\u011Do"
+    - posteno
+  spa:
+  - - empleo
+    - "ocupaci\xF3n"
+search terms:
+  glb:
+  - ergoxey
+  eng:
+  - job
+  - employment
+  - occupation
+  epo:
+  - laboro
+  - "dungi\u011Do"
+  - posteno
+  spa:
+  - empleo
+  - "ocupaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ergo">ergo</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: ergoxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: job, employment, occupation
+    epo: "laboro, dungi\u011Do, posteno"
+    spa: "empleo, ocupaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ergo + -xey
+...

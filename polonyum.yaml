@@ -1,0 +1,90 @@
+---
+term: polonyum
+slug: polonyum
+ipa: "polo\u02C8njum"
+ipa link: "http://ipa-reader.xyz/?text=polo\u02C8njum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - polonium
+  epo:
+  - - polonio
+  spa:
+  - - polonio
+    - Po
+search terms:
+  glb:
+  - polonyum
+  eng:
+  - polonium
+  epo:
+  - polonio
+  spa:
+  - polonio
+  - po
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - polonium
+  Putunhwa:
+  - - "\u91D9 \u201Cpo\u201D"
+  Espanisa:
+  - - polonio
+  Arabisa:
+  - - "\u0628\u064F\u0648\u0644\u064F\u0648\u0646\u0652\u064A\u064F\u0648\u0645 \u201Cbulunyum\u201D"
+  Fransesa:
+  - - polonium
+  Rusisa:
+  - - "\u043F\u043E\u043B\u043E\u043D\u0438\u0439 \u201Cpoloniy\u201D"
+  Indonesisa:
+  - - polonium
+  Doycisa:
+  - - Polonium
+  Niponsa:
+  - - "\u30DD\u30ED\u30CB\u30A6\u30E0 \u201Cporoniumu\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C4A\u0C32\u0C4B\u0C28\u0C3F\u0C2F\u0C02 \u201Cpoloniyam\u201D"
+  Turkisa:
+  - - polonyum
+  Hangusa:
+  - - "\uD3F4\uB85C\uB284 \u201Cpolonyum\u201D"
+  Vyetnamsa:
+  - - poloni
+  Parsisa:
+  - - "\u067E\u0644\u0648\u0646\u06CC\u0648\u0645 \u201Cpolonyom\u201D"
+  Swahilisa:
+  - - poloni
+  Pilipinasa:
+  - - polonyo
+    - polonium
+tags:
+- kimikali monlari
+raw data:
+  term: polonyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: polonium
+    epo: polonio
+    spa: polonio, Po
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (polonium), Putunhwa (\u91D9 \u201Cpo\u201D), Espanisa (polonio),
+    Arabisa (\u0628\u064F\u0648\u0644\u064F\u0648\u0646\u0652\u064A\u064F\u0648\u0645
+    \u201Cbulunyum\u201D), Fransesa (polonium), Rusisa (\u043F\u043E\u043B\u043E\u043D\u0438\u0439
+    \u201Cpoloniy\u201D), Indonesisa (polonium), Doycisa (Polonium), Niponsa (\u30DD\u30ED\u30CB\u30A6\u30E0
+    \u201Cporoniumu\u201D), Telugusa (\u0C2A\u0C4A\u0C32\u0C4B\u0C28\u0C3F\u0C2F\u0C02
+    \u201Cpoloniyam\u201D), Turkisa (polonyum), Hangusa (\uD3F4\uB85C\uB284 \u201Cpolonyum\u201D),
+    Vyetnamsa (poloni), Parsisa (\u067E\u0644\u0648\u0646\u06CC\u0648\u0645 \u201Cpolonyom\u201D),
+    Swahilisa (poloni), Pilipinasa (polonyo, polonium)"
+...

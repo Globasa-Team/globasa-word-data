@@ -1,0 +1,61 @@
+---
+term: brila
+slug: brila
+ipa: ˈbɾila
+ipa link: http://ipa-reader.xyz/?text=ˈbɾila&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - shine
+  epo:
+  - - brilo
+  - - brili
+  spa:
+  - - brillo
+  - - brillar
+search terms:
+  glb:
+  - brila
+  eng:
+  - shine
+  epo:
+  - brilo
+  - brili
+  spa:
+  - brillo
+  - brillar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - brilliant
+  Fransesa:
+  - - brillance
+    - briller
+  Doycisa:
+  - - Brillanz
+  Espanisa:
+  - - brillantez
+    - brillar
+raw data:
+  term: brila
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: shine
+    epo: brilo; brili
+    spa: brillo; brillar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (brilliant), Fransesa (brillance, briller), Doycisa (Brillanz),
+    Espanisa (brillantez, brillar)
+...

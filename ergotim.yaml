@@ -1,0 +1,52 @@
+---
+term: ergotim
+slug: ergotim
+ipa: "e\u027Ego\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=e\u027Ego\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - staff
+    - personnel
+    - crew
+  epo:
+  - - laborantaro
+    - dungitaro
+  spa:
+  - - personal
+search terms:
+  glb:
+  - ergotim
+  eng:
+  - staff
+  - personnel
+  - crew
+  epo:
+  - laborantaro
+  - dungitaro
+  spa:
+  - personal
+etymology_type: DERIVD
+etymology: <a href="../lexi/ergo">ergo</a> + <a href="../lexi/-tim">-tim</a>
+raw data:
+  term: ergotim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: staff, personnel, crew
+    epo: laborantaro, dungitaro
+    spa: personal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ergo + -tim
+...

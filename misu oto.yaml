@@ -1,0 +1,48 @@
+---
+term: misu oto
+slug: misu oto
+ipa: "\u02C8misu \u02C8oto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8misu \u02C8oto&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - mine (_those things belonging to me_)
+  epo:
+  - - la miaj
+  spa:
+  - - "m\xEDos (_cosas que me pertenecen_)"
+search terms:
+  glb:
+  - misu oto
+  - misu
+  - oto
+  eng:
+  - mine
+  epo:
+  - la miaj
+  spa:
+  - "m\xEDos"
+etymology_type: DERIVD
+etymology: <a href="../lexi/mi">mi</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/oto">oto</a>
+raw data:
+  term: misu oto
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: mine (_those things belonging to me_)
+    epo: la miaj
+    spa: "m\xEDos (_cosas que me pertenecen_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mi + -su, oto
+...

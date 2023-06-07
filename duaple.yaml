@@ -1,0 +1,50 @@
+---
+term: duaple
+slug: duaple
+ipa: "du\u02C8aple"
+ipa link: "http://ipa-reader.xyz/?text=du\u02C8aple&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - double
+    - twofold
+  epo:
+  - - duobla
+  - - duoble
+  spa:
+  - - doble
+search terms:
+  glb:
+  - duaple
+  eng:
+  - double
+  - twofold
+  epo:
+  - duobla
+  - duoble
+  spa:
+  - doble
+etymology_type: DERIVD
+etymology: <a href="../lexi/dua">dua</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: duaple
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: double, twofold
+    epo: duobla; duoble
+    spa: doble
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dua + -ple
+...

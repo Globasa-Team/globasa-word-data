@@ -1,0 +1,72 @@
+---
+term: fubay
+slug: fubay
+ipa: fuˈbaj
+ipa link: http://ipa-reader.xyz/?text=fuˈbaj&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - corruption
+  - - corrupt
+    - become corrupt
+  epo:
+  - - difekti
+    - korupto
+  - - difektiĝi
+    - difekti
+    - koruptiĝi
+    - korupti
+  spa:
+  - - corrupción
+  - - corromper
+    - volverse corrupto
+search terms:
+  glb:
+  - fubay
+  eng:
+  - corruption
+  - corrupt
+  - become corrupt
+  epo:
+    0: difekti
+    1: korupto
+    2: difektiĝi
+    4: koruptiĝi
+    5: korupti
+  spa:
+  - corrupción
+  - corromper
+  - volverse corrupto
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 腐败 "fubay"
+  Niponsa:
+  - - 腐敗 "fuhay"
+  Hangusa:
+  - - 부패 "bupe"
+  Vyetnamsa:
+  - - hủ bại
+raw data:
+  term: fubay
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: corruption; corrupt, become corrupt
+    epo: difekti, korupto; difektiĝi, difekti, koruptiĝi, korupti
+    spa: corrupción; corromper, volverse corrupto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (腐败 "fubay"), Niponsa (腐敗 "fuhay"), Hangusa (부패 "bupe"), Vyetnamsa
+    (hủ bại)
+...

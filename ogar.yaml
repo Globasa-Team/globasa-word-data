@@ -1,0 +1,78 @@
+---
+term: ogar
+slug: ogar
+ipa: "o\u02C8ga\u027E"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8ga\u027E&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - home
+    - dwelling
+  - - live in
+    - inhabit
+  - - reside (in)
+    - dwell (in)
+    - live (in)
+  epo:
+  - - hejmo
+    - "lo\u011Dejo"
+  - - "lo\u011Di"
+    - "enlo\u011Di"
+  spa:
+  - - hogar
+    - residencia
+  - - vivir
+    - residir
+    - habitar
+search terms:
+  glb:
+  - ogar
+  eng:
+    0: home
+    1: dwelling
+    2: live in
+    3: inhabit
+    4: reside in
+    5: reside
+    6: dwell in
+    7: dwell
+    9: live
+  epo:
+  - hejmo
+  - "lo\u011Dejo"
+  - "lo\u011Di"
+  - "enlo\u011Di"
+  spa:
+  - hogar
+  - residencia
+  - vivir
+  - residir
+  - habitar
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - hogar
+  Hindisa:
+  - - "\u0918\u0930 \u201Cghar\u201D"
+raw data:
+  term: ogar
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: home, dwelling; live in, inhabit; reside (in), dwell (in), live (in)
+    epo: "hejmo, lo\u011Dejo; lo\u011Di, enlo\u011Di"
+    spa: hogar, residencia; vivir, residir, habitar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (hogar), Hindisa (\u0918\u0930 \u201Cghar\u201D)"
+...

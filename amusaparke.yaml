@@ -1,0 +1,52 @@
+---
+term: amusaparke
+slug: amusaparke
+ipa: "amusa\u02C8pa\u027Eke"
+ipa link: "http://ipa-reader.xyz/?text=amusa\u02C8pa\u027Eke&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - amusement park
+  epo:
+  - - amuzparko
+    - distroparko
+    - amuzejo
+  spa:
+  - - parque de atracciones
+search terms:
+  glb:
+  - amusaparke
+  eng:
+  - amusement park
+  epo:
+  - amuzparko
+  - distroparko
+  - amuzejo
+  spa:
+  - parque de atracciones
+etymology_type: DERIVD
+etymology: <a href="../lexi/amusa">amusa</a> + <a href="../lexi/parke">parke</a>
+tags:
+- amusa
+raw data:
+  term: amusaparke
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: amusement park
+    epo: amuzparko, distroparko, amuzejo
+    spa: parque de atracciones
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: amusa
+  etymology: amusa + parke
+...

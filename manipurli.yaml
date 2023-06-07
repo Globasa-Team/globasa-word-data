@@ -1,0 +1,46 @@
+---
+term: manipurli
+slug: manipurli
+ipa: "mani\u02C8pu\u027Eli"
+ipa link: "http://ipa-reader.xyz/?text=mani\u02C8pu\u027Eli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Manipuri
+  epo:
+  - - manipura
+  spa:
+  - - manipuri
+search terms:
+  glb:
+  - manipurli
+  eng:
+  - manipuri
+  epo:
+  - manipura
+  spa:
+  - manipuri
+etymology_type: DERIVD
+etymology: <a href="../lexi/Manipur">Manipur</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Manipurli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Manipuri
+    epo: manipura
+    spa: manipuri
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Manipur + -li
+...

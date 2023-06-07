@@ -1,0 +1,55 @@
+---
+term: of-
+slug: of-
+ipa: "\u02C8of-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8of-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - _forms fractions_
+    - from
+    - "off"
+  epo:
+  - - de-
+    - -on-
+  spa:
+  - - (_forma fracciones_)
+    - de
+    - desde
+search terms:
+  glb:
+  - of-
+  eng:
+  - forms fractions
+  - from
+  - "off"
+  epo:
+  - de-
+  - -on-
+  spa:
+  - de
+  - desde
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/of">of</a>.
+raw data:
+  term: of-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: _forms fractions_, from, off
+    epo: de-, -on-
+    spa: (_forma fracciones_), de, desde
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _of_.
+...

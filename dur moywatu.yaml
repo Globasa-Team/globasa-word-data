@@ -1,0 +1,50 @@
+---
+term: dur moywatu
+slug: dur moywatu
+ipa: "du\u027E moj\u02C8watu"
+ipa link: "http://ipa-reader.xyz/?text=du\u027E moj\u02C8watu&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - forever
+  epo:
+  - - "por \u0109iam"
+    - eterne
+  spa:
+  - - para siempre
+search terms:
+  glb:
+  - dur moywatu
+  - dur
+  - moywatu
+  eng:
+  - forever
+  epo:
+  - "por \u0109iam"
+  - eterne
+  spa:
+  - para siempre
+etymology_type: DERIVD
+etymology: <a href="../lexi/dur">dur</a>, <a href="../lexi/moy-">moy-</a> + <a href="../lexi/watu">watu</a>
+raw data:
+  term: dur moywatu
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: forever
+    epo: "por \u0109iam, eterne"
+    spa: para siempre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dur, moy- + watu
+...

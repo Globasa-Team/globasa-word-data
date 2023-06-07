@@ -1,0 +1,54 @@
+---
+term: lori
+slug: lori
+ipa: "\u02C8lo\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lo\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - truck
+    - lorry
+    - camion
+  epo:
+  - - kamiono
+    - "\u015Darga\u016Dto"
+  spa:
+  - - "cami\xF3n"
+search terms:
+  glb:
+  - lori
+  eng:
+  - truck
+  - lorry
+  - camion
+  epo:
+  - kamiono
+  - "\u015Darga\u016Dto"
+  spa:
+  - "cami\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lori
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: truck, lorry, camion
+    epo: "kamiono, \u015Darga\u016Dto"
+    spa: "cami\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lorry), Malaysisa (lori), Hindisa (\u0932\u093E\u0930\u0940
+    \u201Clari\u201D), Arabisa (\u0644\u064F\u0648\u0631\u0650\u064A \u201Cluri\u201D),
+    Telugusa (\u0C32\u0C3E\u0C30\u0C40 \u201Clari\u201D), Swahilisa (lori)"
+...

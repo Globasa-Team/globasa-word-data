@@ -1,0 +1,84 @@
+---
+term: fosforo
+slug: fosforo
+ipa: fosˈfoɾo
+ipa link: http://ipa-reader.xyz/?text=fosˈfoɾo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - phosphorus
+  epo:
+  - - fosforo
+  spa:
+  - - fósforo (_elemento_)
+    - P
+search terms:
+  glb:
+  - fosforo
+  eng:
+  - phosphorus
+  epo:
+  - fosforo
+  spa:
+  - fósforo
+  - p
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - phosphorus
+  Hindisa:
+  - - भास्वर “basvar”
+  Espanisa:
+  - - fósforo
+  Arabisa:
+  - - فُسْفُور “fusfur”
+  Fransesa:
+  - - phosphore
+  Rusisa:
+  - - фосфор “fosfor”
+  Indonesisa:
+  - - fosfor
+  Doycisa:
+  - - Phosphor
+  Telugusa:
+  - - భాస్వరము “basvaramu”
+    - ఫాస్ఫరస్ “fasfaras”
+  Turkisa:
+  - - fosfor
+  Vyetnamsa:
+  - - photpho
+    - phốtpho
+  Parsisa:
+  - - فسفر “fosfor”
+  Swahilisa:
+  - - fosforasi
+  Pilipinasa:
+  - - posporo
+tags:
+- kimikali monlari
+raw data:
+  term: fosforo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: phosphorus
+    epo: fosforo
+    spa: fósforo (_elemento_), P
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (phosphorus), Hindisa (भास्वर “basvar”), Espanisa (fósforo),
+    Arabisa (فُسْفُور “fusfur”), Fransesa (phosphore), Rusisa (фосфор “fosfor”), Indonesisa
+    (fosfor), Doycisa (Phosphor), Telugusa (భాస్వరము “basvaramu”, ఫాస్ఫరస్ “fasfaras”),
+    Turkisa (fosfor), Vyetnamsa (photpho, phốtpho), Parsisa (فسفر “fosfor”), Swahilisa
+    (fosforasi), Pilipinasa (posporo)
+...

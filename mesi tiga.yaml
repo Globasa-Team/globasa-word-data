@@ -1,0 +1,48 @@
+---
+term: mesi tiga
+slug: mesi tiga
+ipa: "\u02C8mesi \u02C8tiga"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mesi \u02C8tiga&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - March
+  epo:
+  - - Marto
+  spa:
+  - - marzo
+search terms:
+  glb:
+  - mesi tiga
+  - mesi
+  - tiga
+  eng:
+  - march
+  epo:
+  - marto
+  spa:
+  - marzo
+etymology_type: DERIVD
+etymology: <a href="../lexi/mesi">mesi</a>, <a href="../lexi/tiga">tiga</a>
+raw data:
+  term: mesi tiga
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: March
+    epo: Marto
+    spa: marzo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mesi, tiga
+...

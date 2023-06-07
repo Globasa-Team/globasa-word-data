@@ -1,0 +1,46 @@
+---
+term: moywatu
+slug: moywatu
+ipa: "moj\u02C8watu"
+ipa link: "http://ipa-reader.xyz/?text=moj\u02C8watu&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - always
+  epo:
+  - - "\u0109iam"
+  spa:
+  - - siempre
+search terms:
+  glb:
+  - moywatu
+  eng:
+  - always
+  epo:
+  - "\u0109iam"
+  spa:
+  - siempre
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a>, <a href="../lexi/watu">watu</a>
+raw data:
+  term: moywatu
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: always
+    epo: "\u0109iam"
+    spa: siempre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy, watu
+...

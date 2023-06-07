@@ -1,0 +1,48 @@
+---
+term: flurakabiji
+slug: flurakabiji
+ipa: "flu\u027Eaka\u02C8bid\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=flu\u027Eaka\u02C8bid\u0361\u0292i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - cauliflower
+  epo:
+  - - florbrasiko
+  spa:
+  - - coliflor
+search terms:
+  glb:
+  - flurakabiji
+  eng:
+  - cauliflower
+  epo:
+  - florbrasiko
+  spa:
+  - coliflor
+etymology_type: DERIVD
+etymology: <a href="../lexi/flura">flura</a> + <a href="../lexi/kabiji">kabiji</a>
+tags:
+- yamxey
+raw data:
+  term: flurakabiji
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: cauliflower
+    epo: florbrasiko
+    spa: coliflor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: flura + kabiji
+...

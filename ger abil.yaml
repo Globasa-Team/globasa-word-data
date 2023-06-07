@@ -1,0 +1,50 @@
+---
+term: ger abil
+slug: ger abil
+ipa: "ge\u027E a\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=ge\u027E a\u02C8bil&voice=Ewa"
+status: false
+category: phrase
+word class: f.sah
+trans:
+  eng:
+  - - could
+    - would be able
+  epo:
+  - - povus
+  spa:
+  - - "podr\xEDa"
+search terms:
+  glb:
+  - ger abil
+  - ger
+  - abil
+  eng:
+  - could
+  - would be able
+  epo:
+  - povus
+  spa:
+  - "podr\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ger">ger</a>, <a href="../lexi/abil">abil</a>
+raw data:
+  term: ger abil
+  category: phrase
+  word class: f.sah
+  status: false
+  trans:
+    eng: could, would be able
+    epo: povus
+    spa: "podr\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ger, abil
+...

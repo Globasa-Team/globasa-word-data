@@ -1,0 +1,49 @@
+---
+term: honcay
+slug: honcay
+ipa: "xon\u02C8t\u0361\u0283aj"
+ipa link: "http://ipa-reader.xyz/?text=xon\u02C8t\u0361\u0283aj&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - iris
+  epo:
+  - - iriso (_anatomio_)
+  spa:
+  - - "iris (_anatom\xEDa_)"
+search terms:
+  glb:
+  - honcay
+  eng:
+  - iris
+  epo:
+  - iriso
+  spa:
+  - iris
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: honcay
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: iris
+    epo: iriso (_anatomio_)
+    spa: "iris (_anatom\xEDa_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa (\u8679\u5F69 \"hongcay\"), Niponsa (\u8679\u5F69 \"k\u014Dsai\"),
+    Hangusa (\uD64D\uCC44 \"hongce\")"
+...

@@ -1,0 +1,60 @@
+---
+term: briti
+slug: briti
+ipa: "\u02C8b\u027Eiti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8b\u027Eiti&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - United Kingdom
+    - UK
+    - Britain
+  epo:
+  - - Britio
+    - Britujo
+  spa:
+  - - Reino Unido
+    - "Breta\xF1a"
+search terms:
+  glb:
+  - briti
+  eng:
+  - united kingdom
+  - uk
+  - britain
+  epo:
+  - britio
+  - britujo
+  spa:
+  - reino unido
+  - "breta\xF1a"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Britain
+    - Brit
+    - British
+tags:
+- dexa
+raw data:
+  term: Briti
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: United Kingdom, UK, Britain
+    epo: Britio, Britujo
+    spa: "Reino Unido, Breta\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Britain, Brit, British)
+...

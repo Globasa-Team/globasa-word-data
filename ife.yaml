@@ -1,0 +1,46 @@
+---
+term: ife
+slug: ife
+ipa: "\u02C8ife"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ife&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter f
+  epo:
+  - - litero f
+  spa:
+  - - letra f
+search terms:
+  glb:
+  - ife
+  eng:
+  - letter f
+  epo:
+  - litero f
+  spa:
+  - letra f
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ife
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter f
+    epo: litero f
+    spa: letra f
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

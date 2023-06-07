@@ -1,0 +1,50 @@
+---
+term: islandisa
+slug: islandisa
+ipa: "islan\u02C8disa"
+ipa link: "http://ipa-reader.xyz/?text=islan\u02C8disa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Icelandic (language)
+  epo:
+  - - la islanda (lingvo)
+  spa:
+  - - "island\xE9s (_idioma_)"
+search terms:
+  glb:
+  - islandisa
+  eng:
+  - icelandic language
+  - icelandic
+  epo:
+  - la islanda lingvo
+  - la islanda
+  spa:
+  - "island\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Islandi">Islandi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Islandisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Icelandic (language)
+    epo: la islanda (lingvo)
+    spa: "island\xE9s (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Islandi + -sa
+...

@@ -1,0 +1,48 @@
+---
+term: solli
+slug: solli
+ipa: "\u02C8solli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8solli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - pure
+  epo:
+  - - nura
+  - - nure
+  spa:
+  - - puro
+search terms:
+  glb:
+  - solli
+  eng:
+  - pure
+  epo:
+  - nura
+  - nure
+  spa:
+  - puro
+etymology_type: DERIVD
+etymology: <a href="../lexi/sol">sol</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: solli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: pure
+    epo: nura; nure
+    spa: puro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sol + -li
+...

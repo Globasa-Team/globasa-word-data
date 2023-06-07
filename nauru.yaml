@@ -1,0 +1,52 @@
+---
+term: nauru
+slug: nauru
+ipa: "na\u02C8u\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8u\u027Eu&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Nauru
+  epo:
+  - - Nauro
+  spa:
+  - - Nauru
+search terms:
+  glb:
+  - nauru
+  eng:
+  - nauru
+  epo:
+  - nauro
+  spa:
+  - nauru
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Nauru
+  Naurusa:
+  - - Naoero
+tags:
+- dexa
+raw data:
+  term: Nauru
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Nauru
+    epo: Nauro
+    spa: Nauru
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Nauru), Naurusa (Naoero)
+...

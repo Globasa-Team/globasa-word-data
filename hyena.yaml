@@ -1,0 +1,52 @@
+---
+term: hyena
+slug: hyena
+ipa: "\u02C8xjena"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xjena&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hyena
+  epo:
+  - - hieno
+  spa:
+  - - hiena
+    - _Hyaenidae_
+search terms:
+  glb:
+  - hyena
+  eng:
+  - hyena
+  epo:
+  - hieno
+  spa:
+  - hiena
+  - hyaenidae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: hyena
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hyena
+    epo: hieno
+    spa: hiena, _Hyaenidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (hyena), Fransesa (hy\xE8ne), Doycisa (Hy\xE4ne), Rusisa (\u0433\u0438\u0435\u043D\u0430
+    \u201Cgijena\u201D), Espanisa (hiena), Pilipinasa (hayina), Niponsa (\u30CF\u30A4\u30A8\u30CA
+    \u201Chaiena\u201D), Hangusa (\uD558\uC774\uC5D0\uB098 \u201Chaiena\u201D)"
+...

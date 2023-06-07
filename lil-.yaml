@@ -1,0 +1,56 @@
+---
+term: lil-
+slug: lil-
+ipa: "\u02C8lil-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lil-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - small
+    - little
+    - few
+    - soft
+  epo:
+  - - -et-
+    - malgranda
+  spa:
+  - - "peque\xF1o"
+search terms:
+  glb:
+  - lil-
+  eng:
+  - small
+  - little
+  - few
+  - soft
+  epo:
+  - -et-
+  - malgranda
+  spa:
+  - "peque\xF1o"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/lil">lil</a>.
+antonyms:
+- day-
+raw data:
+  term: lil-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: small, little, few, soft
+    epo: -et-, malgranda
+    spa: "peque\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: day-
+  example: ""
+  tags: ""
+  etymology: Am oko _lil_.
+...

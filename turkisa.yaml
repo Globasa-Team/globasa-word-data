@@ -1,0 +1,50 @@
+---
+term: turkisa
+slug: turkisa
+ipa: "tu\u027E\u02C8kisa"
+ipa link: "http://ipa-reader.xyz/?text=tu\u027E\u02C8kisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Turkish (language)
+  epo:
+  - - la turka (lingvo)
+  spa:
+  - - turco (_idioma_)
+search terms:
+  glb:
+  - turkisa
+  eng:
+  - turkish language
+  - turkish
+  epo:
+  - la turka lingvo
+  - la turka
+  spa:
+  - turco
+etymology_type: DERIVD
+etymology: <a href="../lexi/Turki">Turki</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Turkisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Turkish (language)
+    epo: la turka (lingvo)
+    spa: turco (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Turki + -sa
+...

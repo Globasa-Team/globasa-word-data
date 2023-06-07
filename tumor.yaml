@@ -1,0 +1,62 @@
+---
+term: tumor
+slug: tumor
+ipa: "tu\u02C8mo\u027E"
+ipa link: "http://ipa-reader.xyz/?text=tu\u02C8mo\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tumor
+  epo:
+  - - tumoro
+  spa:
+  - - tumor
+search terms:
+  glb:
+  - tumor
+  eng:
+  - tumor
+  epo:
+  - tumoro
+  spa:
+  - tumor
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tumor
+  Espanisa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Fransesa:
+  - - tumeur
+  Hindisa:
+  - - "\u091F\u094D\u092F\u0942\u092E\u0930 \u201Ctyumar\u201D"
+  Turkisa:
+  - - "t\xFCm\xF6r"
+  Parsisa:
+  - - "\u062A\u0648\u0645\u0648\u0631 \u201Ctumor\u201D"
+raw data:
+  term: tumor
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tumor
+    epo: tumoro
+    spa: tumor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tumor), Espanisa, Doycisa, Indonesisa, Pilipinasa, Fransesa
+    (tumeur), Hindisa (\u091F\u094D\u092F\u0942\u092E\u0930 \u201Ctyumar\u201D), Turkisa
+    (t\xFCm\xF6r), Parsisa (\u062A\u0648\u0645\u0648\u0631 \u201Ctumor\u201D)"
+...

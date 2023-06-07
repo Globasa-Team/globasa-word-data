@@ -1,0 +1,64 @@
+---
+term: tie
+slug: tie
+ipa: "\u02C8tie"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tie&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - aunt
+    - uncle
+  epo:
+  - - onklo
+    - onklino
+    - geonkloj
+  spa:
+  - - "t\xEDo"
+search terms:
+  glb:
+  - tie
+  eng:
+  - aunt
+  - uncle
+  epo:
+  - onklo
+  - onklino
+  - geonkloj
+  spa:
+  - "t\xEDo"
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - "t\xEDo"
+    - "t\xEDa"
+  Rusisa:
+  - - "\u0434\u044F\u0434\u044F \u201Cdyadya\u201D"
+    - "\u0442\u0435\u0442\u044F \u201Ctetya\u201D"
+  Pilipinasa:
+  - - tiyo
+    - tiya
+tags:
+- famil
+raw data:
+  term: tie
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: aunt, uncle
+    epo: onklo, onklino, geonkloj
+    spa: "t\xEDo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: famil
+  etymology: "Espanisa (t\xEDo, t\xEDa), Rusisa (\u0434\u044F\u0434\u044F \u201Cdyadya\u201D,
+    \u0442\u0435\u0442\u044F \u201Ctetya\u201D), Pilipinasa (tiyo, tiya)"
+...

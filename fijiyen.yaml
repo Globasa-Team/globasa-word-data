@@ -1,0 +1,47 @@
+---
+term: fijiyen
+slug: fijiyen
+ipa: "fid\u0361\u0292i\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=fid\u0361\u0292i\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Fijian (person)
+  epo:
+  - - "fi\u011Diano"
+  spa:
+  - - fiyiano (_persona_)
+search terms:
+  glb:
+  - fijiyen
+  eng:
+  - fijian person
+  - fijian
+  epo:
+  - "fi\u011Diano"
+  spa:
+  - fiyiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Fiji">Fiji</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Fijiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Fijian (person)
+    epo: "fi\u011Diano"
+    spa: fiyiano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Fiji + -yen
+...

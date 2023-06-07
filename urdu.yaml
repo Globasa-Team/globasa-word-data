@@ -1,0 +1,65 @@
+---
+term: urdu
+slug: urdu
+ipa: "\u02C8u\u027Edu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8u\u027Edu&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Urdu (_language_)
+  epo:
+  - - urduo
+    - la urdua (lingvo)
+  spa:
+  - - urdu
+  fra:
+  - - ourdou
+  rus:
+  - - "\u0443\u0440\u0434\u0443"
+  zho:
+  - - "\u70CF\u723E\u90FD\u8A9E"
+search terms:
+  glb:
+  - urdu
+  eng:
+  - urdu
+  epo:
+  - urduo
+  - la urdua lingvo
+  - la urdua
+  spa:
+  - urdu
+  fra:
+  - ourdou
+  rus:
+  - "\u0443\u0440\u0434\u0443"
+  zho:
+  - "\u70CF\u723E\u90FD\u8A9E"
+etymology_type: NATLNG
+etymology:
+  Urdu:
+  - - "\u0627\u064F\u0631\u062F\u064F\u0648 \u201Curdu\u201D"
+tags:
+- basa
+raw data:
+  term: Urdu
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Urdu (_language_)
+    epo: urduo, la urdua (lingvo)
+    spa: urdu
+    deu: ""
+    fra: ourdou
+    rus: "\u0443\u0440\u0434\u0443"
+    zho: "\u70CF\u723E\u90FD\u8A9E"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: "Urdu (\u0627\u064F\u0631\u062F\u064F\u0648 \u201Curdu\u201D)"
+...

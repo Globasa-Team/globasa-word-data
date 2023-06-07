@@ -1,0 +1,104 @@
+---
+term: om
+slug: om
+ipa: "\u02C8om"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8om&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ohm (unit)
+  epo:
+  - - omo
+  spa:
+  - - _ohm_
+    - ohmio
+    - "\u03A9"
+  deu:
+  - - Ohm
+  fra:
+  - - ohm
+  rus:
+  - - "\u043E\u043C"
+  zho:
+  - - "\u6B27\u59C6"
+search terms:
+  glb:
+  - om
+  eng:
+  - ohm unit
+  - ohm
+  epo:
+  - omo
+  spa:
+  - ohm
+  - ohmio
+  - "\u03A9"
+  deu:
+  - ohm
+  fra:
+  - ohm
+  rus:
+  - "\u043E\u043C"
+  zho:
+  - "\u6B27\u59C6"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ohm
+  Espanisa:
+  - - ohmio
+  Fransesa:
+  - - ohm
+  Rusisa:
+  - - "\u043E\u043C \u201Com\u201D"
+  Doycisa:
+  - - Ohm
+  Indonesisa:
+  - - ohm
+  Pilipinasa:
+  - - omyo
+    - om
+  Putunhwa:
+  - - "\u6B27\u59C6 \u201Cowmu\u201D"
+  Hindisa:
+  - - "\u0913\u092E \u201Com\u201D"
+  Arabisa:
+  - - "\u0623\u064F\u0648\u0645 \u201Com\u201D"
+  Niponsa:
+  - - "\u30AA\u30FC\u30E0 \u201Comu\u201D"
+  Turkisa:
+  - - om
+  Hangusa:
+  - - "\uC634 \u201Com\u201D"
+  Vyetnamsa:
+  - - "\xF4m"
+    - ohm
+  Parsisa:
+  - - "\u0627\u0647\u0645 \u201Cahm\u201D"
+raw data:
+  term: om
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ohm (unit)
+    epo: omo
+    spa: "_ohm_, ohmio, \u03A9"
+    deu: Ohm
+    fra: ohm
+    rus: "\u043E\u043C"
+    zho: "\u6B27\u59C6"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (ohm), Espanisa (ohmio), Fransesa (ohm), Rusisa (\u043E\u043C
+    \u201Com\u201D), Doycisa (Ohm), Indonesisa (ohm), Pilipinasa (omyo, om), Putunhwa
+    (\u6B27\u59C6 \u201Cowmu\u201D), Hindisa (\u0913\u092E \u201Com\u201D), Arabisa
+    (\u0623\u064F\u0648\u0645 \u201Com\u201D), Niponsa (\u30AA\u30FC\u30E0 \u201Comu\u201D),
+    Turkisa (om), Hangusa (\uC634 \u201Com\u201D), Vyetnamsa (\xF4m, ohm), Parsisa
+    (\u0627\u0647\u0645 \u201Cahm\u201D)"
+...

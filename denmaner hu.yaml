@@ -1,0 +1,55 @@
+---
+term: denmaner hu
+slug: denmaner hu
+ipa: "denma\u02C8ne\u027E xu"
+ipa link: "http://ipa-reader.xyz/?text=denma\u02C8ne\u027E xu&voice=Ewa"
+status: false
+category: phrase
+word class: l
+trans:
+  eng:
+  - - like
+    - in the way that
+  epo:
+  - - (tiel
+    - ) kiel
+  spa:
+  - - como
+    - de la manera en que
+search terms:
+  glb:
+  - denmaner hu
+  - denmaner
+  - hu
+  eng:
+  - like
+  - in the way that
+  epo:
+  - tiel
+  - (tiel
+  - kiel
+  spa:
+  - como
+  - de la manera en que
+etymology_type: DERIVD
+etymology: <a href="../lexi/den">den</a> + <a href="../lexi/maner">maner</a>, <a href="../lexi/hu">hu</a>
+raw data:
+  term: denmaner hu
+  category: phrase
+  word class: l
+  status: false
+  trans:
+    eng: like, in the way that
+    epo: (tiel,) kiel
+    spa: como, de la manera en que
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: den + maner, hu
+...

@@ -1,0 +1,49 @@
+---
+term: jungwi
+slug: jungwi
+ipa: "\u02C8d\u0361\u0292ungwi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ungwi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lieutenant
+  epo:
+  - - "le\u016Dtenanto"
+  spa:
+  - - teniente
+search terms:
+  glb:
+  - jungwi
+  eng:
+  - lieutenant
+  epo:
+  - "le\u016Dtenanto"
+  spa:
+  - teniente
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- insan
+raw data:
+  term: jungwi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lieutenant
+    epo: "le\u016Dtenanto"
+    spa: teniente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: "Putunhwa (\u4E2D\u5C09 \"jungwey\"), Niponsa (\u4E2D\u5C09 \"cuwi\"),
+    Vyetnamsa (trung u\xFD), Hangusa (\uC911\uC704 \"jungwi\")"
+...

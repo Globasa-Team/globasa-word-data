@@ -1,0 +1,46 @@
+---
+term: mangami
+slug: mangami
+ipa: "man\u02C8gami"
+ipa link: "http://ipa-reader.xyz/?text=man\u02C8gami&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - husband
+  epo:
+  - - edzo
+  spa:
+  - - esposo
+search terms:
+  glb:
+  - mangami
+  eng:
+  - husband
+  epo:
+  - edzo
+  spa:
+  - esposo
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/gami">gami</a>
+raw data:
+  term: mangami
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: husband
+    epo: edzo
+    spa: esposo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + gami
+...

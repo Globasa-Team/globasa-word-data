@@ -1,0 +1,49 @@
+---
+term: suprarealsim
+slug: suprarealsim
+ipa: "sup\u027Ea\u027Eeal\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=sup\u027Ea\u027Eeal\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - hyperrealistic
+  epo:
+  - - hiperrealisma
+  - - hiperrealisme
+  spa:
+  - - hiperrealista
+search terms:
+  glb:
+  - suprarealsim
+  eng:
+  - hyperrealistic
+  epo:
+  - hiperrealisma
+  - hiperrealisme
+  spa:
+  - hiperrealista
+etymology_type: DERIVD
+etymology: <a href="../lexi/supra-">supra-</a> + <a href="../lexi/real">real</a> +
+  <a href="../lexi/-sim">-sim</a>
+raw data:
+  term: suprarealsim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: hyperrealistic
+    epo: hiperrealisma; hiperrealisme
+    spa: hiperrealista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: supra- + real + -sim
+...

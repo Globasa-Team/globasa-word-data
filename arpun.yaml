@@ -1,0 +1,68 @@
+---
+term: arpun
+slug: arpun
+ipa: aɾˈpun
+ipa link: http://ipa-reader.xyz/?text=aɾˈpun&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - harpoon
+  epo:
+  - - harpuno
+  spa:
+  - - arpón
+search terms:
+  glb:
+  - arpun
+  eng:
+  - harpoon
+  epo:
+  - harpuno
+  spa:
+  - arpón
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - harpoon
+  Espanisa:
+  - - arpón
+  Fransesa:
+  - - harpon
+  Rusisa:
+  - - гарпун “garpun”
+  Doycisa:
+  - - Harpune
+  Indonesisa:
+  - - harpun
+  Hindisa:
+  - - हापून “hapun”
+  Arabisa:
+  - - حربون “harbun”
+  Niponsa:
+  - - ハープーン “hapun”
+  Telugusa:
+  - - హార్పూన్ “harpun”
+raw data:
+  term: arpun
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: harpoon
+    epo: harpuno
+    spa: arpón
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (harpoon), Espanisa (arpón), Fransesa (harpon), Rusisa (гарпун
+    “garpun”), Doycisa (Harpune), Indonesisa (harpun), Hindisa (हापून “hapun”), Arabisa
+    (حربون “harbun”), Niponsa (ハープーン “hapun”), Telugusa (హార్పూన్ “harpun”)
+...

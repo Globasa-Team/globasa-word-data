@@ -1,0 +1,72 @@
+---
+term: doku
+slug: doku
+ipa: ˈdoku
+ipa link: http://ipa-reader.xyz/?text=ˈdoku&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - document
+    - file
+  epo:
+  - - dokumento
+    - dosiero
+  spa:
+  - - documento
+search terms:
+  glb:
+  - doku
+  eng:
+  - document
+  - file
+  epo:
+  - dokumento
+  - dosiero
+  spa:
+  - documento
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - document
+  Fransesa:
+  - - document
+  Doycisa:
+  - - Dokument
+  Rusisa:
+  - - документ “dokument”
+  Espanisa:
+  - - documento
+  Turkisa:
+  - - doküman
+  Pilipinasa:
+  - - dokumento
+  Indonesisa:
+  - - dokument
+  Niponsa:
+  - - ドキュメント “dokyumento”
+  Hangusa:
+  - - 도큐먼트 “dokyumontu”
+raw data:
+  term: doku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: document, file
+    epo: dokumento, dosiero
+    spa: documento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (document), Fransesa (document), Doycisa (Dokument), Rusisa (документ
+    “dokument”), Espanisa (documento), Turkisa (doküman), Pilipinasa (dokumento),
+    Indonesisa (dokument), Niponsa (ドキュメント “dokyumento”), Hangusa (도큐먼트 “dokyumontu”)
+...

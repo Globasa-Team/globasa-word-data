@@ -1,0 +1,48 @@
+---
+term: ren
+slug: ren
+ipa: "\u02C8\u027Een"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Een&voice=Ewa"
+status: true
+category: root
+word class: pn
+trans:
+  eng:
+  - - one
+  epo:
+  - - oni
+  spa:
+  - - uno (_pronombre_)
+search terms:
+  glb:
+  - ren
+  eng:
+  - one
+  epo:
+  - oni
+  spa:
+  - uno
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4EBA \u201Cr\xE9n\u201D"
+raw data:
+  term: ren
+  category: root
+  word class: pn
+  status: true
+  trans:
+    eng: one
+    epo: oni
+    spa: uno (_pronombre_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u4EBA \u201Cr\xE9n\u201D)"
+...

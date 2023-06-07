@@ -1,0 +1,51 @@
+---
+term: atomuli
+slug: atomuli
+ipa: "ato\u02C8muli"
+ipa link: "http://ipa-reader.xyz/?text=ato\u02C8muli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - atomic
+  epo:
+  - - atoma
+    - nuklea (energio)
+  - - atome
+  spa:
+  - - "at\xF3mico"
+search terms:
+  glb:
+  - atomuli
+  eng:
+  - atomic
+  epo:
+  - atoma
+  - nuklea energio
+  - nuklea
+  - atome
+  spa:
+  - "at\xF3mico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/atomu">atomu</a> + <a href="../lexi/li">li</a>
+raw data:
+  term: atomuli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: atomic
+    epo: atoma, nuklea (energio); atome
+    spa: "at\xF3mico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: atomu + li
+...

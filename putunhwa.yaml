@@ -1,0 +1,52 @@
+---
+term: putunhwa
+slug: putunhwa
+ipa: "pu\u02C8tunxwa"
+ipa link: "http://ipa-reader.xyz/?text=pu\u02C8tunxwa&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Mandarin (language)
+  epo:
+  - - "\u0109ina normlingvo"
+    - la mandarena (lingvo)
+  spa:
+  - - "chino mandar\xEDn"
+search terms:
+  glb:
+  - putunhwa
+  eng:
+  - mandarin language
+  - mandarin
+  epo:
+  - "\u0109ina normlingvo"
+  - la mandarena lingvo
+  - la mandarena
+  spa:
+  - "chino mandar\xEDn"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u666E\u901A\u8BDD \u201Cp\u01D4t\u014Dnghu\xE0\u201D"
+raw data:
+  term: Putunhwa
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Mandarin (language)
+    epo: "\u0109ina normlingvo, la mandarena (lingvo)"
+    spa: "chino mandar\xEDn"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u666E\u901A\u8BDD \u201Cp\u01D4t\u014Dnghu\xE0\u201D)"
+...

@@ -1,0 +1,46 @@
+---
+term: lexilari
+slug: lexilari
+ipa: "le\u0283i\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=le\u0283i\u02C8la\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - vocabulary
+  epo:
+  - - vortaro
+  spa:
+  - - vocabulario
+search terms:
+  glb:
+  - lexilari
+  eng:
+  - vocabulary
+  epo:
+  - vortaro
+  spa:
+  - vocabulario
+etymology_type: DERIVD
+etymology: <a href="../lexi/lexi">lexi</a> + <a href="../lexi/-lari">-lari</a>
+raw data:
+  term: lexilari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: vocabulary
+    epo: vortaro
+    spa: vocabulario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lexi + -lari
+...

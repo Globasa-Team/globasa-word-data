@@ -1,0 +1,55 @@
+---
+term: des
+slug: des
+ipa: ˈdes
+ipa link: http://ipa-reader.xyz/?text=ˈdes&voice=Ewa
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - ten
+  epo:
+  - - dek
+  spa:
+  - - diez
+search terms:
+  glb:
+  - des
+  eng:
+  - ten
+  epo:
+  - dek
+  spa:
+  - diez
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - दस “das”
+  Espanisa:
+  - - diez
+  Rusisa:
+  - - десять “desyat”
+  Pilipinasa:
+  - - diyes
+raw data:
+  term: des
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: ten
+    epo: dek
+    spa: diez
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (दस “das”), Espanisa (diez), Rusisa (десять “desyat”), Pilipinasa
+    (diyes)
+...

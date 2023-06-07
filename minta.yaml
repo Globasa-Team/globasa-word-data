@@ -1,0 +1,52 @@
+---
+term: minta
+slug: minta
+ipa: "\u02C8minta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8minta&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mint
+  epo:
+  - - mento
+  spa:
+  - - menta
+    - _Mentha_
+search terms:
+  glb:
+  - minta
+  eng:
+  - mint
+  epo:
+  - mento
+  spa:
+  - menta
+  - mentha
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: minta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mint
+    epo: mento
+    spa: menta, _Mentha_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (mint), Fransesa (menthe), Doycisa (Minze), Rusisa (\u043C\u044F\u0442\u0430
+    \u201Cmyata\u201D), Espanisa (menta), Indonesisa (mint), Niponsa (\u30DF\u30F3\u30C8
+    \u201Cminto\u201D)"
+...

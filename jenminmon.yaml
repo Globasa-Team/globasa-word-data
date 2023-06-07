@@ -1,0 +1,48 @@
+---
+term: jenminmon
+slug: jenminmon
+ipa: "d\u0361\u0292enmin\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292enmin\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - evidence
+  epo:
+  - - "pruva\u0135o"
+    - "atesta\u0135o"
+  spa:
+  - - evidencia
+search terms:
+  glb:
+  - jenminmon
+  eng:
+  - evidence
+  epo:
+  - "pruva\u0135o"
+  - "atesta\u0135o"
+  spa:
+  - evidencia
+etymology_type: DERIVD
+etymology: <a href="../lexi/jenmin">jenmin</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: jenminmon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: evidence
+    epo: "pruva\u0135o, atesta\u0135o"
+    spa: evidencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jenmin + -mon
+...

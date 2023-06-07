@@ -1,0 +1,53 @@
+---
+term: daybawlupul
+slug: daybawlupul
+ipa: "dajbawlu\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=dajbawlu\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - brutal
+    - brutally
+  epo:
+  - - brutala
+  - - brutale
+  spa:
+  - - brutal
+  - - brutalmente
+search terms:
+  glb:
+  - daybawlupul
+  eng:
+  - brutal
+  - brutally
+  epo:
+  - brutala
+  - brutale
+  spa:
+  - brutal
+  - brutalmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/bawlu">bawlu</a> + <a
+  href="../lexi/-pul">-pul</a>
+raw data:
+  term: daybawlupul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: brutal, brutally
+    epo: brutala; brutale
+    spa: brutal; brutalmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + bawlu + -pul
+...

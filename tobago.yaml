@@ -1,0 +1,48 @@
+---
+term: tobago
+slug: tobago
+ipa: "to\u02C8bago"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8bago&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Tobago
+  epo:
+  - - Tobago
+  spa:
+  - - Tobago
+search terms:
+  glb:
+  - tobago
+  eng:
+  - tobago
+  epo:
+  - tobago
+  spa:
+  - tobago
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Tobago
+raw data:
+  term: Tobago
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Tobago
+    epo: Tobago
+    spa: Tobago
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (Tobago)
+...

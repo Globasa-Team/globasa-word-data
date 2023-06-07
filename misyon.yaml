@@ -1,0 +1,49 @@
+---
+term: misyon
+slug: misyon
+ipa: "mi\u02C8sjon"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8sjon&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mission
+  epo:
+  - - misio
+  spa:
+  - - "misi\xF3n"
+search terms:
+  glb:
+  - misyon
+  eng:
+  - mission
+  epo:
+  - misio
+  spa:
+  - "misi\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: misyon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mission
+    epo: misio
+    spa: "misi\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mission), Fransesa, Doycisa, Rusisa (\u043C\u0438\u0441\u0441\u0438\u044F
+    \u201Cmissiya\u201D), Espanisa (misi\xF3n), Niponsa (\u30DF\u30C3\u30B7\u30E7\u30F3
+    \u201Cmixxon\u201D), Hindisa (\u092E\u093F\u0936\u0928 \u201Cmishan\u201D), Turkisa
+    (misyon), Pilipinasa, Indonesisa (misi)"
+...

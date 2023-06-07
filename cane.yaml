@@ -1,0 +1,54 @@
+---
+term: cane
+slug: cane
+ipa: ˈt͡ʃane
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃane&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - comb
+  epo:
+  - - kombilo
+  - - kombi
+  spa:
+  - - peine
+  - - peinar
+search terms:
+  glb:
+  - cane
+  eng:
+  - comb
+  epo:
+  - kombilo
+  - kombi
+  spa:
+  - peine
+  - peinar
+etymology_type: NATLNG
+etymology:
+  Swahilisa:
+  - - -chana
+  Parsisa:
+  - - شانه “xane”
+raw data:
+  term: cane
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: comb
+    epo: kombilo; kombi
+    spa: peine; peinar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Swahilisa (-chana), Parsisa (شانه “xane”)
+...

@@ -1,0 +1,65 @@
+---
+term: dyabol
+slug: dyabol
+ipa: djaˈbol
+ipa link: http://ipa-reader.xyz/?text=djaˈbol&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - devil
+  epo:
+  - - diabolo
+  spa:
+  - - diablo
+search terms:
+  glb:
+  - dyabol
+  eng:
+  - devil
+  epo:
+  - diabolo
+  spa:
+  - diablo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - diabolic
+  Doycisa:
+  - - Teufel
+    - Deibel
+  Fransesa:
+  - - Diable
+  Espanisa:
+  - - Diablo
+  Rusisa:
+  - - дьявол “dyavol”
+  Pilipinasa:
+  - - diyabolo
+  Karnatakasa:
+  - - ದೆವ್ವ “deva”
+tags:
+- dini
+raw data:
+  term: dyabol
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: devil
+    epo: diabolo
+    spa: diablo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: Englisa (diabolic), Doycisa (Teufel, Deibel), Fransesa (Diable), Espanisa
+    (Diablo), Rusisa (дьявол “dyavol”), Pilipinasa (diyabolo), Karnatakasa (ದೆವ್ವ
+    “deva”)
+...

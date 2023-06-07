@@ -1,0 +1,50 @@
+---
+term: jixifil
+slug: jixifil
+ipa: "d\u0361\u0292i\u0283i\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i\u0283i\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - curious
+    - curiously
+  epo:
+  - - sciema
+  - - scieme
+  spa:
+  - - curioso
+search terms:
+  glb:
+  - jixifil
+  eng:
+  - curious
+  - curiously
+  epo:
+  - sciema
+  - scieme
+  spa:
+  - curioso
+etymology_type: DERIVD
+etymology: <a href="../lexi/jixi">jixi</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: jixifil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: curious, curiously
+    epo: sciema; scieme
+    spa: curioso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jixi + -fil
+...

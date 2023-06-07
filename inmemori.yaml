@@ -1,0 +1,58 @@
+---
+term: inmemori
+slug: inmemori
+ipa: "inme\u02C8mo\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=inme\u02C8mo\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - memorization
+  - - memorize
+  epo:
+  - - enmemorigo
+    - parkerigado
+  - - enmemorigi
+    - parkerigi
+    - parkeri
+  spa:
+  - - "memorizaci\xF3n"
+  - - memorizar
+search terms:
+  glb:
+  - inmemori
+  eng:
+  - memorization
+  - memorize
+  epo:
+  - enmemorigo
+  - parkerigado
+  - enmemorigi
+  - parkerigi
+  - parkeri
+  spa:
+  - "memorizaci\xF3n"
+  - memorizar
+etymology_type: DERIVD
+etymology: <a href="../lexi/in-">in-</a> + <a href="../lexi/memori">memori</a>
+raw data:
+  term: inmemori
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: memorization; memorize
+    epo: enmemorigo, parkerigado; enmemorigi, parkerigi, parkeri
+    spa: "memorizaci\xF3n; memorizar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in- + memori
+...

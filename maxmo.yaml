@@ -1,0 +1,46 @@
+---
+term: maxmo
+slug: maxmo
+ipa: "\u02C8ma\u0283mo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u0283mo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - more (_to a greater degree_)
+  epo:
+  - - pli (_al pli alta grado_)
+  spa:
+  - - "m\xE1s (_a un mayor grado_)"
+search terms:
+  glb:
+  - maxmo
+  eng:
+  - more
+  epo:
+  - pli
+  spa:
+  - "m\xE1s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/max">max</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: maxmo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: more (_to a greater degree_)
+    epo: pli (_al pli alta grado_)
+    spa: "m\xE1s (_a un mayor grado_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: max + -mo
+...

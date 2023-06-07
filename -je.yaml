@@ -1,0 +1,58 @@
+---
+term: -je
+slug: -je
+ipa: "\u02C8-d\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-d\u0361\u0292e&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - degree
+    - level
+    - measurement
+  epo:
+  - - grado
+    - nivelo
+    - mezuro
+  spa:
+  - - grado
+    - nivel
+    - medida
+search terms:
+  glb:
+  - -je
+  eng:
+  - degree
+  - level
+  - measurement
+  epo:
+  - grado
+  - nivelo
+  - mezuro
+  spa:
+  - grado
+  - nivel
+  - medida
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/daraje">daraje</a>.
+raw data:
+  term: -je
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: degree, level, measurement
+    epo: grado, nivelo, mezuro
+    spa: grado, nivel, medida
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _daraje_.
+...

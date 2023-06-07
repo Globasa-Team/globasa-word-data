@@ -1,0 +1,52 @@
+---
+term: seli yu
+slug: seli yu
+ipa: "\u02C8seli \u02C8ju"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8seli \u02C8ju&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - you yourself
+  epo:
+  - - vi mem
+  spa:
+  - - "t\xFA mismo"
+    - vos mismo
+    - usted mismo
+search terms:
+  glb:
+  - seli yu
+  - seli
+  - yu
+  eng:
+  - you yourself
+  epo:
+  - vi mem
+  spa:
+  - "t\xFA mismo"
+  - vos mismo
+  - usted mismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/se">se</a> + <a href="../lexi/-li">-li</a>, <a href="../lexi/yu">yu</a>
+raw data:
+  term: seli yu
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: you yourself
+    epo: vi mem
+    spa: "t\xFA mismo, vos mismo, usted mismo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se + -li, yu
+...

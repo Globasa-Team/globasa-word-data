@@ -1,0 +1,56 @@
+---
+term: sayfa
+slug: sayfa
+ipa: "\u02C8sajfa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sajfa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - page
+  epo:
+  - - "pa\u011Do"
+  spa:
+  - - "p\xE1gina"
+search terms:
+  glb:
+  - sayfa
+  eng:
+  - page
+  epo:
+  - "pa\u011Do"
+  spa:
+  - "p\xE1gina"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0635\u0641\u062D\u0629 \u201Csafha\u201D"
+  Turkisa:
+  - - sayfa
+  Parsisa:
+  - - "\u0635\u0641\u062D\u0647 \u201Csafhe\u201D"
+  Hindisa:
+  - - "\u0938\u092B\u0939\u093E \u201Csafha\u201D"
+raw data:
+  term: sayfa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: page
+    epo: "pa\u011Do"
+    spa: "p\xE1gina"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0635\u0641\u062D\u0629 \u201Csafha\u201D), Turkisa (sayfa),
+    Parsisa (\u0635\u0641\u062D\u0647 \u201Csafhe\u201D), Hindisa (\u0938\u092B\u0939\u093E
+    \u201Csafha\u201D)"
+...

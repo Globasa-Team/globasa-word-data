@@ -1,0 +1,46 @@
+---
+term: femtie
+slug: femtie
+ipa: "fem\u02C8tie"
+ipa link: "http://ipa-reader.xyz/?text=fem\u02C8tie&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - aunt
+  epo:
+  - - onklino
+  spa:
+  - - "t\xEDa"
+search terms:
+  glb:
+  - femtie
+  eng:
+  - aunt
+  epo:
+  - onklino
+  spa:
+  - "t\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/tie">tie</a>
+raw data:
+  term: femtie
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: aunt
+    epo: onklino
+    spa: "t\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem- + tie
+...

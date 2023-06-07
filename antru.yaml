@@ -1,0 +1,63 @@
+---
+term: antru
+slug: antru
+ipa: ˈantɾu
+ipa link: http://ipa-reader.xyz/?text=ˈantɾu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - intestine
+    - bowel
+    - guts
+  epo:
+  - - intesto
+    - intestaro
+    - internaĵo(j)
+  spa:
+  - - intestino
+    - entrañas
+search terms:
+  glb:
+  - antru
+  eng:
+  - intestine
+  - bowel
+  - guts
+  epo:
+  - intesto
+  - intestaro
+  - internaĵoj
+  - internaĵo
+  spa:
+  - intestino
+  - entrañas
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - आंत्र “antr”
+  Telugusa:
+  - - ఆంత్రము “āntramu”
+tags:
+- jismulogi
+raw data:
+  term: antru
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: intestine, bowel, guts
+    epo: intesto, intestaro, internaĵo(j)
+    spa: intestino, entrañas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: intestine, bowel, gut, guts
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Hindisa (आंत्र “antr”), Telugusa (ఆంత్రము “āntramu”)
+...

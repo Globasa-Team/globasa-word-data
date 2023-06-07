@@ -1,0 +1,52 @@
+---
+term: krisispul
+slug: krisispul
+ipa: "k\u027Eisis\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Eisis\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - critical
+  - - critically
+  epo:
+  - - kriza
+  - - krize
+  spa:
+  - - "cr\xEDtico"
+  - - "cr\xEDticamente"
+search terms:
+  glb:
+  - krisispul
+  eng:
+  - critical
+  - critically
+  epo:
+  - kriza
+  - krize
+  spa:
+  - "cr\xEDtico"
+  - "cr\xEDticamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/krisis">krisis</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: krisispul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: critical; critically
+    epo: kriza; krize
+    spa: "cr\xEDtico; cr\xEDticamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: krisis + -pul
+...

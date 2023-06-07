@@ -1,0 +1,57 @@
+---
+term: bonata
+slug: bonata
+ipa: "bo\u02C8nata"
+ipa link: "http://ipa-reader.xyz/?text=bo\u02C8nata&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - welcome
+  - - be welcome
+  epo:
+  - - bonveno
+  - - esti bonvena
+  - - bonvenon
+  spa:
+  - - bienvenida
+  - - ser bienvenido
+  - - bienvenido(s)
+search terms:
+  glb:
+  - bonata
+  eng:
+  - welcome
+  - be welcome
+  epo:
+  - bonveno
+  - esti bonvena
+  - bonvenon
+  spa:
+  - bienvenida
+  - ser bienvenido
+  - bienvenidos
+  - bienvenido
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/ata">ata</a>
+raw data:
+  term: bonata
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: welcome; be welcome
+    epo: bonveno; esti bonvena; bonvenon
+    spa: bienvenida; ser bienvenido; bienvenido(s)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bon- + ata
+...

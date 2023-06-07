@@ -1,0 +1,54 @@
+---
+term: eskasoya
+slug: eskasoya
+ipa: "eska\u02C8soja"
+ipa link: "http://ipa-reader.xyz/?text=eska\u02C8soja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - shortage
+    - scarcity
+    - lack
+  epo:
+  - - malabundeco
+    - malmulteco
+  spa:
+  - - escasez
+    - falta
+search terms:
+  glb:
+  - eskasoya
+  eng:
+  - shortage
+  - scarcity
+  - lack
+  epo:
+  - malabundeco
+  - malmulteco
+  spa:
+  - escasez
+  - falta
+etymology_type: DERIVD
+etymology: <a href="../lexi/eskaso">eskaso</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: eskasoya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: shortage, scarcity, lack
+    epo: malabundeco, malmulteco
+    spa: escasez, falta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: eskaso + -ya
+...

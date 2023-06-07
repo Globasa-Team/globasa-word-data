@@ -1,0 +1,46 @@
+---
+term: aloete
+slug: aloete
+ipa: "alo\u02C8ete"
+ipa link: "http://ipa-reader.xyz/?text=alo\u02C8ete&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - some other ones
+  epo:
+  - - aliulo
+  spa:
+  - - otros
+search terms:
+  glb:
+  - aloete
+  eng:
+  - some other ones
+  epo:
+  - aliulo
+  spa:
+  - otros
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/ete">ete</a>
+raw data:
+  term: aloete
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: some other ones
+    epo: aliulo
+    spa: otros
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + ete
+...

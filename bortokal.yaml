@@ -1,0 +1,54 @@
+---
+term: bortokal
+slug: bortokal
+ipa: boɾtoˈkal
+ipa link: http://ipa-reader.xyz/?text=boɾtoˈkal&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - orange (_fruit_)
+  epo:
+  - - oranĝo
+  spa:
+  - - naranja
+    - _Citrus × sinensis_
+search terms:
+  glb:
+  - bortokal
+  eng:
+  - orange
+  epo:
+  - oranĝo
+  spa:
+  - naranja
+  - citrus × sinensis
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - البرتقالي “burtuqali”
+  Turkisa:
+  - - portakal
+  Parsisa:
+  - - پرتقال‎ “portoqâl”
+raw data:
+  term: bortokal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: orange (_fruit_)
+    epo: oranĝo
+    spa: naranja, _Citrus × sinensis_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (البرتقالي “burtuqali”), Turkisa (portakal), Parsisa (پرتقال‎ “portoqâl”)
+...

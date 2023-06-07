@@ -1,0 +1,55 @@
+---
+term: gamibete
+slug: gamibete
+ipa: "gami\u02C8bete"
+ipa link: "http://ipa-reader.xyz/?text=gami\u02C8bete&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - daughter-in-law
+    - son-in-law
+  epo:
+  - - bofilo
+    - bofilino
+    - bogefiloj
+  spa:
+  - - nuero
+search terms:
+  glb:
+  - gamibete
+  eng:
+  - daughter-in-law
+  - son-in-law
+  epo:
+  - bofilo
+  - bofilino
+  - bogefiloj
+  spa:
+  - nuero
+etymology_type: DERIVD
+etymology: <a href="../lexi/gami-">gami-</a> + <a href="../lexi/bete">bete</a>
+tags:
+- insan
+- famil
+raw data:
+  term: gamibete
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: daughter-in-law, son-in-law
+    epo: bofilo, bofilino, bogefiloj
+    spa: nuero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan, famil
+  etymology: gami- + bete
+...

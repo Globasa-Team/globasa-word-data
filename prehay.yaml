@@ -1,0 +1,58 @@
+---
+term: prehay
+slug: prehay
+ipa: "p\u027Ee\u02C8xaj"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Ee\u02C8xaj&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - here is
+    - here you go
+    - there you go
+    - here you are
+    - there you are
+  epo:
+  - - estas
+    - jen
+    - jen por vi
+  spa:
+  - - "he aqu\xED"
+search terms:
+  glb:
+  - prehay
+  eng:
+  - here is
+  - here you go
+  - there you go
+  - here you are
+  - there you are
+  epo:
+  - estas
+  - jen
+  - jen por vi
+  spa:
+  - "he aqu\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/pre-">pre-</a> + <a href="../lexi/hay">hay</a>
+raw data:
+  term: prehay
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: here is, here you go, there you go, here you are, there you are
+    epo: estas, jen, jen por vi
+    spa: "he aqu\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pre- + hay
+...

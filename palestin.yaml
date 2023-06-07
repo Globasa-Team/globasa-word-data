@@ -1,0 +1,60 @@
+---
+term: palestin
+slug: palestin
+ipa: "pales\u02C8tin"
+ipa link: "http://ipa-reader.xyz/?text=pales\u02C8tin&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - State of Palestine
+    - Palestine
+  epo:
+  - - "\u015Ctato Palestino"
+    - Palestino
+  spa:
+  - - Palestina
+    - Estado de Palestina
+search terms:
+  glb:
+  - palestin
+  eng:
+  - state of palestine
+  - palestine
+  epo:
+  - "\u015Ctato palestino"
+  - palestino
+  spa:
+  - palestina
+  - estado de palestina
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0641\u0650\u0644\u064E\u0633\u0652\u0637\u0650\u064A\u0646 \u201Cfilastin\u201D"
+  Multi basa:
+  - - Palestina
+  "": ~
+tags:
+- dexa
+raw data:
+  term: Palestin
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: State of Palestine, Palestine
+    epo: "\u015Ctato Palestino, Palestino"
+    spa: Palestina, Estado de Palestina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u0641\u0650\u0644\u064E\u0633\u0652\u0637\u0650\u064A\u0646
+    \u201Cfilastin\u201D), Multi basa (Palestina), ( )"
+...

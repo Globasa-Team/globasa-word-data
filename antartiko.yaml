@@ -1,0 +1,71 @@
+---
+term: antartiko
+slug: antartiko
+ipa: "anta\u027E\u02C8tiko"
+ipa link: "http://ipa-reader.xyz/?text=anta\u027E\u02C8tiko&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Antarctic (_region or ocean_)
+  epo:
+  - - Antarkta Oceano
+    - Antarkta Regiono
+  spa:
+  - - "Ant\xE1rtida (_regi\xF3n u oc\xE9ano_)"
+search terms:
+  glb:
+  - antartiko
+  eng:
+  - antarctic
+  epo:
+  - antarkta oceano
+  - antarkta regiono
+  spa:
+  - "ant\xE1rtida"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Antarctic
+  Fransesa:
+  - - antarctique
+  Doycisa:
+  - - Antarktis
+  Rusisa:
+  - - "\u0430\u043D\u0442\u0430\u0440\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439
+      \u201Cantarkti\u010Deskij\u201D"
+  Espanisa:
+  - - "ant\xE1rtico"
+  Indonesisa:
+  - - Antarktik
+  Pilipinasa:
+  - - Antartiko
+  Turkisa:
+  - - Antarktik
+tags:
+- geografi
+- daygeo
+raw data:
+  term: Antartiko
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Antarctic (_region or ocean_)
+    epo: Antarkta Oceano, Antarkta Regiono
+    spa: "Ant\xE1rtida (_regi\xF3n u oc\xE9ano_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi, daygeo
+  etymology: "Englisa (Antarctic), Fransesa (antarctique), Doycisa (Antarktis), Rusisa
+    (\u0430\u043D\u0442\u0430\u0440\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0439
+    \u201Cantarkti\u010Deskij\u201D), Espanisa (ant\xE1rtico), Indonesisa (Antarktik),
+    Pilipinasa (Antartiko), Turkisa (Antarktik)"
+...

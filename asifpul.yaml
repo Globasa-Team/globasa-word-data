@@ -1,0 +1,50 @@
+---
+term: asifpul
+slug: asifpul
+ipa: "asif\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=asif\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - regretful
+  - - regretfully
+  epo:
+  - - "beda\u016Dra"
+  - - "beda\u016Dre"
+  spa:
+  - - arrepentido
+search terms:
+  glb:
+  - asifpul
+  eng:
+  - regretful
+  - regretfully
+  epo:
+  - "beda\u016Dra"
+  - "beda\u016Dre"
+  spa:
+  - arrepentido
+etymology_type: DERIVD
+etymology: <a href="../lexi/asif">asif</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: asifpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: regretful; regretfully
+    epo: "beda\u016Dra; beda\u016Dre"
+    spa: arrepentido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: asif + -pul
+...

@@ -1,0 +1,56 @@
+---
+term: mingu
+slug: mingu
+ipa: "\u02C8mingu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mingu&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - clear
+    - clearly
+    - evident
+    - evidently
+  epo:
+  - - klara
+  - - klare
+  spa:
+  - - claro
+    - evidente
+search terms:
+  glb:
+  - mingu
+  eng:
+  - clear
+  - clearly
+  - evident
+  - evidently
+  epo:
+  - klara
+  - klare
+  spa:
+  - claro
+  - evidente
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mingu
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: clear, clearly, evident, evidently
+    epo: klara; klare
+    spa: claro, evidente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u660E \u201Cm\xEDng\u201D), Hangusa (\uBA85\uD655 \u201Cmyeonghwag\u201D)"
+...

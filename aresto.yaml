@@ -1,0 +1,73 @@
+---
+term: aresto
+slug: aresto
+ipa: aˈɾesto
+ipa link: http://ipa-reader.xyz/?text=aˈɾesto&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - arrest
+  - - arrest
+    - apprehend
+    - take into custody
+  epo:
+  - - aresto
+  - - aresti
+  spa:
+  - - detención
+    - arresto
+  - - detener
+    - arrestar
+    - tomar en custodia
+search terms:
+  glb:
+  - aresto
+  eng:
+    0: arrest
+    2: apprehend
+    3: take into custody
+  epo:
+  - aresto
+  - aresti
+  spa:
+  - detención
+  - arresto
+  - detener
+  - arrestar
+  - tomar en custodia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - arrest
+  Fransesa:
+  - - arrestation
+  Espanisa:
+  - - arresto
+  Rusisa:
+  - - арест “arest”
+    - арестовать “arestovat”
+  Pilipinasa:
+  - - aresto
+raw data:
+  term: aresto
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: arrest; arrest, apprehend, take into custody
+    epo: aresto; aresti
+    spa: detención, arresto; detener, arrestar, tomar en custodia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (arrest), Fransesa (arrestation), Espanisa (arresto), Rusisa
+    (арест “arest”, арестовать “arestovat”), Pilipinasa (aresto)
+...

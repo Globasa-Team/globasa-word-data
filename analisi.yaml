@@ -1,0 +1,70 @@
+---
+term: analisi
+slug: analisi
+ipa: anaˈlisi
+ipa link: http://ipa-reader.xyz/?text=anaˈlisi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - analysis
+  - - analyze
+  epo:
+  - - analizo
+  - - analizi
+  spa:
+  - - análisis
+  - - analizar
+search terms:
+  glb:
+  - analisi
+  eng:
+  - analysis
+  - analyze
+  epo:
+  - analizo
+  - analizi
+  spa:
+  - análisis
+  - analizar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - analysis
+  Fransesa:
+  - - analyse
+  Doycisa:
+  - - Analyse
+  Rusisa:
+  - - анализ “analiz”
+  Espanisa:
+  - - análisis
+  Indonesisa:
+  - - analisis
+  Turkisa:
+  - - analiz
+  Pilipinasa:
+  - - analisahin
+raw data:
+  term: analisi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: analysis; analyze
+    epo: analizo; analizi
+    spa: análisis; analizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (analysis), Fransesa (analyse), Doycisa (Analyse), Rusisa (анализ
+    “analiz”), Espanisa (análisis), Indonesisa (analisis), Turkisa (analiz), Pilipinasa
+    (analisahin)
+...

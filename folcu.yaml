@@ -1,0 +1,52 @@
+---
+term: folcu
+slug: folcu
+ipa: "\u02C8folt\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8folt\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - get alongside (of)
+  epo:
+  - - "apudi\u011Do"
+  - - "apudi\u011Di"
+    - "meti\u011Di apud"
+  spa:
+  - - ponerse junto (a)
+search terms:
+  glb:
+  - folcu
+  eng:
+  - get alongside of
+  - get alongside
+  epo:
+  - "apudi\u011Do"
+  - "apudi\u011Di"
+  - "meti\u011Di apud"
+  spa:
+  - ponerse junto a
+  - ponerse junto
+etymology_type: DERIVD
+etymology: <a href="../lexi/fol">fol</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: folcu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: get alongside (of)
+    epo: "apudi\u011Do; apudi\u011Di, meti\u011Di apud"
+    spa: ponerse junto (a)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fol + -cu
+...

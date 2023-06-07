@@ -1,0 +1,50 @@
+---
+term: semihwese
+slug: semihwese
+ipa: "semi\u02C8xwese"
+ipa link: "http://ipa-reader.xyz/?text=semi\u02C8xwese&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - grayish
+    - greyish
+  epo:
+  - - grizeca
+  - - grizece
+  spa:
+  - - "gris\xE1ceo"
+search terms:
+  glb:
+  - semihwese
+  eng:
+  - grayish
+  - greyish
+  epo:
+  - grizeca
+  - grizece
+  spa:
+  - "gris\xE1ceo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/semi">semi</a> + <a href="../lexi/hwese">hwese</a>
+raw data:
+  term: semihwese
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: grayish, greyish
+    epo: grizeca; grizece
+    spa: "gris\xE1ceo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: semi + hwese
+...

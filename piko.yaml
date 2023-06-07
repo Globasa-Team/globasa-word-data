@@ -1,0 +1,73 @@
+---
+term: piko
+slug: piko
+ipa: "\u02C8piko"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8piko&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - "1 \xD7 10^-12"
+    - one trillionth of
+  epo:
+  - - bilionono
+  spa:
+  - - pico-
+    - "1 \xD7 10^-12"
+    - "billon\xE9sima parte de"
+    - p
+search terms:
+  glb:
+  - piko
+  eng:
+  - "1 \xD7 10^-12"
+  - one trillionth of
+  epo:
+  - bilionono
+  spa:
+  - pico-
+  - "1 \xD7 10^-12"
+  - "billon\xE9sima parte de"
+  - p
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pico-
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Arabisa: ~
+  Hindisa: ~
+  Telugusa: ~
+  Parsisa: ~
+  Turkisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Swahilisa: ~
+  Vyetnamsa: ~
+  Niponsa: ~
+  Hangusa: ~
+raw data:
+  term: piko
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: "1 \xD7 10^-12, one trillionth of"
+    epo: bilionono
+    spa: "pico-, 1 \xD7 10^-12, billon\xE9sima parte de, p"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (pico-), Fransesa ( ), Doycisa, Rusisa, Espanisa, Arabisa, Hindisa,
+    Telugusa, Parsisa, Turkisa, Indonesisa, Pilipinasa, Swahilisa, Vyetnamsa, Niponsa,
+    Hangusa
+...

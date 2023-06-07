@@ -1,0 +1,78 @@
+---
+term: lanetu
+slug: lanetu
+ipa: "la\u02C8netu"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8netu&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - condemnation
+    - damnation
+  - - condemn
+    - sentence
+    - damn
+    - doom
+  epo:
+  - - kondamno
+    - damno
+  - - kondamni
+    - damni
+  spa:
+  - - condena
+    - sentencia
+  - - condenar
+    - sentenciar
+search terms:
+  glb:
+  - lanetu
+  eng:
+  - condemnation
+  - damnation
+  - condemn
+  - sentence
+  - damn
+  - doom
+  epo:
+  - kondamno
+  - damno
+  - kondamni
+  - damni
+  spa:
+  - condena
+  - sentencia
+  - condenar
+  - sentenciar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0644\u064E\u0639\u064E\u0646\u064E \"la'ana\""
+  Turkisa:
+  - - lanetleme
+  Parsisa:
+  - - "\u0644\u0639\u0646\u062A \"la'nat\""
+  Swahilisa:
+  - - laana
+    - -laani
+raw data:
+  term: lanetu
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: condemnation, damnation; condemn, sentence, damn, doom
+    epo: kondamno, damno; kondamni, damni
+    spa: condena, sentencia; condenar, sentenciar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0644\u064E\u0639\u064E\u0646\u064E \"la'ana\"), Turkisa (lanetleme),
+    Parsisa (\u0644\u0639\u0646\u062A \"la'nat\"), Swahilisa (laana, -laani)"
+...

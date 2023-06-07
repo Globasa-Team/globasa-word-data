@@ -1,0 +1,57 @@
+---
+term: nakun
+slug: nakun
+ipa: "na\u02C8kun"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8kun&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nail (_anatomy_)
+    - fingernail
+    - toenail
+  epo:
+  - - ungo
+  spa:
+  - - "u\xF1a"
+search terms:
+  glb:
+  - nakun
+  eng:
+  - nail
+  - fingernail
+  - toenail
+  epo:
+  - ungo
+  spa:
+  - "u\xF1a"
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0925\u0942\u0915\u0928\u093E \u201Cn\u0101khun\u201D"
+  Parsisa:
+  - - "\u0646\u0627\u062E\u0646 \u201Cn\xE2xon\u201D"
+tags:
+- jismulogi
+raw data:
+  term: nakun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nail (_anatomy_), fingernail, toenail
+    epo: ungo
+    spa: "u\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Hindisa (\u0925\u0942\u0915\u0928\u093E \u201Cn\u0101khun\u201D), Parsisa
+    (\u0646\u0627\u062E\u0646 \u201Cn\xE2xon\u201D)"
+...

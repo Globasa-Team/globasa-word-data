@@ -1,0 +1,57 @@
+---
+term: nabxox
+slug: nabxox
+ipa: "nab\u02C8\u0283o\u0283"
+ipa link: "http://ipa-reader.xyz/?text=nab\u02C8\u0283o\u0283&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gill
+    - branchia
+  epo:
+  - - branko
+  spa:
+  - - branquia
+    - agalla
+search terms:
+  glb:
+  - nabxox
+  eng:
+  - gill
+  - branchia
+  epo:
+  - branko
+  spa:
+  - branquia
+  - agalla
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0646\u064E\u062E\u0652\u0634\u064F\u0648\u0634 \"nahxux\""
+  Parsisa:
+  - - "\u0622\u0628\u0634\u0634 \"\xE2b-\u0161o\u0161\""
+tags:
+- jismulogi
+raw data:
+  term: nabxox
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: gill, branchia
+    epo: branko
+    spa: branquia, agalla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Arabisa (\u0646\u064E\u062E\u0652\u0634\u064F\u0648\u0634 \"nahxux\"),
+    Parsisa (\u0622\u0628\u0634\u0634 \"\xE2b-\u0161o\u0161\")"
+...

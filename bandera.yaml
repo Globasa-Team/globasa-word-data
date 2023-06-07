@@ -1,0 +1,59 @@
+---
+term: bandera
+slug: bandera
+ipa: banˈdeɾa
+ipa link: http://ipa-reader.xyz/?text=banˈdeɾa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - flag
+    - banner
+  epo:
+  - - flago
+  spa:
+  - - bandera
+search terms:
+  glb:
+  - bandera
+  eng:
+  - flag
+  - banner
+  epo:
+  - flago
+  spa:
+  - bandera
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - banner
+  Espanisa:
+  - - bandera
+  Indonesisa:
+  - - bendera
+  Swahilisa:
+  - - bendera
+tags:
+- xey
+raw data:
+  term: bandera
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: flag, banner
+    epo: flago
+    spa: bandera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: xey
+  etymology: Englisa (banner), Espanisa (bandera), Indonesisa (bendera), Swahilisa
+    (bendera)
+...

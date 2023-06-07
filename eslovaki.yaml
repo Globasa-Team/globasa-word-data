@@ -1,0 +1,53 @@
+---
+term: eslovaki
+slug: eslovaki
+ipa: "eslo\u02C8vaki"
+ipa link: "http://ipa-reader.xyz/?text=eslo\u02C8vaki&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Slovakia
+  epo:
+  - - Slovakio
+    - Slovakujo
+  spa:
+  - - Eslovaquia
+search terms:
+  glb:
+  - eslovaki
+  eng:
+  - slovakia
+  epo:
+  - slovakio
+  - slovakujo
+  spa:
+  - eslovaquia
+etymology_type: NATLNG
+etymology:
+  Eslovakisa:
+  - - Slovensko
+    - "Slov\xE1k"
+tags:
+- dexa
+raw data:
+  term: Eslovaki
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Slovakia
+    epo: Slovakio, Slovakujo
+    spa: Eslovaquia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Eslovakisa (Slovensko, Slov\xE1k)"
+...

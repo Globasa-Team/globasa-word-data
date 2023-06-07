@@ -1,0 +1,50 @@
+---
+term: bezeyen
+slug: bezeyen
+ipa: "beze\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=beze\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - beekeeper
+  epo:
+  - - abelisto
+  spa:
+  - - apicultor
+    - colmenero
+    - abejero
+search terms:
+  glb:
+  - bezeyen
+  eng:
+  - beekeeper
+  epo:
+  - abelisto
+  spa:
+  - apicultor
+  - colmenero
+  - abejero
+etymology_type: DERIVD
+etymology: <a href="../lexi/beze">beze</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: bezeyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: beekeeper
+    epo: abelisto
+    spa: apicultor, colmenero, abejero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: beze + -yen
+...

@@ -1,0 +1,76 @@
+---
+term: rakun
+slug: rakun
+ipa: "\u027Ea\u02C8kun"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8kun&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - raccoon
+    - _Procyon_
+  epo:
+  - - lavurso
+    - prociono
+  spa:
+  - - mapache
+    - _Procyon_
+search terms:
+  glb:
+  - rakun
+  eng:
+  - raccoon
+  - procyon
+  epo:
+  - lavurso
+  - prociono
+  spa:
+  - mapache
+  - procyon
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - raccoon
+  Indonesisa:
+  - - rakun
+  Niponsa:
+  - - "\u30E9\u30AF\u30FC\u30F3 \u201Crakun\u201D"
+  Hindisa:
+  - - "\u0930\u0915\u0942\u0928 \u201Crakun\u201D"
+  Telugusa:
+  - - "\u0C30\u0C15\u0C4D\u0C15\u0C42\u0C28\u0C4D \u201Crakkun\u201D"
+  Arabisa:
+  - - "\u0631\u0627\u0643\u0648\u0646 \u201Crakun\u201D"
+  Swahilisa:
+  - - rakuni
+  Parsisa:
+  - - "\u0631\u0627\u06A9\u0648\u0646 \u201Crakon\u201D"
+  Turkisa:
+  - - rakun
+tags:
+- hewan
+raw data:
+  term: rakun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: raccoon, _Procyon_
+    epo: lavurso, prociono
+    spa: mapache, _Procyon_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (raccoon), Indonesisa (rakun), Niponsa (\u30E9\u30AF\u30FC\u30F3
+    \u201Crakun\u201D), Hindisa (\u0930\u0915\u0942\u0928 \u201Crakun\u201D), Telugusa
+    (\u0C30\u0C15\u0C4D\u0C15\u0C42\u0C28\u0C4D \u201Crakkun\u201D), Arabisa (\u0631\u0627\u0643\u0648\u0646
+    \u201Crakun\u201D), Swahilisa (rakuni), Parsisa (\u0631\u0627\u06A9\u0648\u0646
+    \u201Crakon\u201D), Turkisa (rakun)"
+...

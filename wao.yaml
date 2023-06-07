@@ -1,0 +1,82 @@
+---
+term: wao
+slug: wao
+ipa: "\u02C8wao"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wao&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a; il
+trans:
+  eng:
+  - - amazement
+    - awe
+    - wonder
+  - - amaze
+    - wow
+  - - wow
+  epo:
+  - - miro
+  - - mirigi
+    - "miri\u011Di"
+  - - "\u016Da\u016D"
+    - "va\u016D"
+  spa:
+  - - asombro
+    - sobrecogimiento
+  - - asombrar
+  - - guau
+search terms:
+  glb:
+  - wao
+  eng:
+  - amazement
+  - awe
+  - wonder
+  - amaze
+  - wow
+  epo:
+  - miro
+  - mirigi
+  - "miri\u011Di"
+  - "\u016Da\u016D"
+  - "va\u016D"
+  spa:
+  - asombro
+  - sobrecogimiento
+  - asombrar
+  - guau
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - wow
+  Doycisa:
+  - - wow
+  Espanisa:
+  - - guau
+  Putunhwa:
+  - - "\u54C7 \u201Cwa\u201D"
+  Niponsa:
+  - - "\u30EF\u30A6 \u201Cwau\u201D"
+  Hindisa:
+  - - "\u0935\u093E\u0939  \u201Cvaah\u201D"
+raw data:
+  term: wao
+  category: root
+  word class: n/f.oro.a; il
+  status: true
+  trans:
+    eng: amazement, awe, wonder; amaze, wow; wow
+    epo: "miro; mirigi, miri\u011Di; \u016Da\u016D, va\u016D"
+    spa: asombro, sobrecogimiento; asombrar; guau
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (wow), Doycisa (wow), Espanisa (guau), Putunhwa (\u54C7 \u201Cwa\u201D),
+    Niponsa (\u30EF\u30A6 \u201Cwau\u201D), Hindisa (\u0935\u093E\u0939  \u201Cvaah\u201D)"
+...

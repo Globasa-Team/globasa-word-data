@@ -1,0 +1,52 @@
+---
+term: nayjeri
+slug: nayjeri
+ipa: "naj\u02C8d\u0361\u0292e\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=naj\u02C8d\u0361\u0292e\u027Ei&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Nigeria
+  epo:
+  - - "Ni\u011Derio"
+  spa:
+  - - Nigeria
+search terms:
+  glb:
+  - nayjeri
+  eng:
+  - nigeria
+  epo:
+  - "ni\u011Derio"
+  spa:
+  - nigeria
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Nigeria
+  Hausa:
+  - - Najeriya
+tags:
+- dexa
+raw data:
+  term: Nayjeri
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Nigeria
+    epo: "Ni\u011Derio"
+    spa: Nigeria
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Nigeria), Hausa (Najeriya)
+...

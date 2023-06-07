@@ -1,0 +1,48 @@
+---
+term: tayputora
+slug: tayputora
+ipa: "tajpu\u02C8to\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=tajpu\u02C8to\u027Ea&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - typewriter
+  epo:
+  - - tajpilo
+    - "skribma\u015Dino"
+  spa:
+  - - "m\xE1quina de escribir"
+search terms:
+  glb:
+  - tayputora
+  eng:
+  - typewriter
+  epo:
+  - tajpilo
+  - "skribma\u015Dino"
+  spa:
+  - "m\xE1quina de escribir"
+etymology_type: DERIVD
+etymology: <a href="../lexi/taypu">taypu</a> + <a href="../lexi/-tora">-tora</a>
+raw data:
+  term: tayputora
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: typewriter
+    epo: "tajpilo, skribma\u015Dino"
+    spa: "m\xE1quina de escribir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: taypu + -tora
+...

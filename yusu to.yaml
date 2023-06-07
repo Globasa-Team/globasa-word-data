@@ -1,0 +1,48 @@
+---
+term: yusu to
+slug: yusu to
+ipa: "\u02C8jusu \u02C8to"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jusu \u02C8to&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - yours (_that thing belonging to you_)
+  epo:
+  - - la via
+  spa:
+  - - tu (_cosa que te pertenece_)
+search terms:
+  glb:
+  - yusu to
+  - yusu
+  - to
+  eng:
+  - yours
+  epo:
+  - la via
+  spa:
+  - tu
+etymology_type: DERIVD
+etymology: <a href="../lexi/yu">yu</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/to">to</a>
+raw data:
+  term: yusu to
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: yours (_that thing belonging to you_)
+    epo: la via
+    spa: tu (_cosa que te pertenece_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yu + -su, to
+...

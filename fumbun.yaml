@@ -1,0 +1,52 @@
+---
+term: fumbun
+slug: fumbun
+ipa: fumˈbun
+ipa link: http://ipa-reader.xyz/?text=fumˈbun&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rumor
+  epo:
+  - - onidiro
+  spa:
+  - - rumor
+search terms:
+  glb:
+  - fumbun
+  eng:
+  - rumor
+  epo:
+  - onidiro
+  spa:
+  - rumor
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 風聞 “fongwan”
+  Niponsa:
+  - - 風聞 “fubun”
+  Hangusa:
+  - - 풍문 “pungmun”
+raw data:
+  term: fumbun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rumor
+    epo: onidiro
+    spa: rumor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (風聞 “fongwan”), Niponsa (風聞 “fubun”), Hangusa (풍문 “pungmun”)
+...

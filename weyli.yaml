@@ -1,0 +1,48 @@
+---
+term: weyli
+slug: weyli
+ipa: "\u02C8wejli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wejli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - surrounding
+  epo:
+  - - "\u0109irka\u016Da"
+  - - "\u0109irka\u016De"
+  spa:
+  - - circundante
+search terms:
+  glb:
+  - weyli
+  eng:
+  - surrounding
+  epo:
+  - "\u0109irka\u016Da"
+  - "\u0109irka\u016De"
+  spa:
+  - circundante
+etymology_type: DERIVD
+etymology: <a href="../lexi/wey">wey</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: weyli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: surrounding
+    epo: "\u0109irka\u016Da; \u0109irka\u016De"
+    spa: circundante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wey + -li
+...

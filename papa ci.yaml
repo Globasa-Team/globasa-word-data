@@ -1,0 +1,48 @@
+---
+term: papa ci
+slug: papa ci
+ipa: "\u02C8papa t\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8papa t\u0361\u0283i&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - daddy
+  epo:
+  - - "pa\u0109jo"
+  spa:
+  - - papi
+search terms:
+  glb:
+  - papa ci
+  - papa
+  - ci
+  eng:
+  - daddy
+  epo:
+  - "pa\u0109jo"
+  spa:
+  - papi
+etymology_type: DERIVD
+etymology: <a href="../lexi/papa">papa</a> + <a href="../lexi/-i">-i</a>
+raw data:
+  term: papa ci
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: daddy
+    epo: "pa\u0109jo"
+    spa: papi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: papa + -i
+...

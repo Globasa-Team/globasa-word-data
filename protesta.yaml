@@ -1,0 +1,66 @@
+---
+term: protesta
+slug: protesta
+ipa: "p\u027Eo\u02C8testa"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eo\u02C8testa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - protest
+  epo:
+  - - protesto
+  - - protesti
+  spa:
+  - - protesta
+  - - protestar
+search terms:
+  glb:
+  - protesta
+  eng:
+  - protest
+  epo:
+  - protesto
+  - protesti
+  spa:
+  - protesta
+  - protestar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - protest
+  Fransesa:
+  - - protestation
+  Doycisa:
+  - - Protest
+  Rusisa:
+  - - "\u043F\u0440\u043E\u0442\u0435\u0441\u0442 \u201Cprotest\u201D"
+  Espanisa:
+  - - protesta
+  Indonesisa:
+  - - protes
+  Turkisa:
+  - - protesto
+raw data:
+  term: protesta
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: protest
+    epo: protesto; protesti
+    spa: protesta; protestar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (protest), Fransesa (protestation), Doycisa (Protest), Rusisa
+    (\u043F\u0440\u043E\u0442\u0435\u0441\u0442 \u201Cprotest\u201D), Espanisa (protesta),
+    Indonesisa (protes), Turkisa (protesto)"
+...

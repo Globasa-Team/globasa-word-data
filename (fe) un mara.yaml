@@ -1,0 +1,52 @@
+---
+term: (fe) un mara
+slug: (fe) un mara
+ipa: "\u02C8(fe) \u02C8un \u02C8ma\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8(fe) \u02C8un \u02C8ma\u027Ea&voice=Ewa"
+status: false
+category: phrase
+word class: jm.p
+trans:
+  eng:
+  - - once
+    - one time
+  epo:
+  - - unufoje
+  spa:
+  - - una vez
+search terms:
+  glb:
+  - (fe) un mara
+  - fe un mara
+  - un mara
+  - un
+  - mara
+  eng:
+  - once
+  - one time
+  epo:
+  - unufoje
+  spa:
+  - una vez
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/un">un</a>, <a href="../lexi/mara">mara</a>
+raw data:
+  term: (fe) un mara
+  category: phrase
+  word class: jm.p
+  status: false
+  trans:
+    eng: once, one time
+    epo: unufoje
+    spa: una vez
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, un, mara
+...

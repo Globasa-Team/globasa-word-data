@@ -1,0 +1,57 @@
+---
+term: mamo
+slug: mamo
+ipa: "\u02C8mamo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mamo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - breast
+  epo:
+  - - mamo
+  spa:
+  - - mama
+    - seno
+search terms:
+  glb:
+  - mamo
+  eng:
+  - breast
+  epo:
+  - mamo
+  spa:
+  - mama
+  - seno
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: mamo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: breast
+    epo: mamo
+    spa: mama, seno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Fransesa (mammographie), Espanisa (mamograf\xEDa), Englisa (mammography),
+    Doycisa (Mammografie), Rusisa (\u043C\u0430\u043C\u043C\u043E\u0433\u0440\u0430\u0444\u0438\u044F
+    \u201Cmammografiya\u201D), Indonesisa (mamografi), Pilipinasa (mamograpiya), Turkisa
+    (mamografi), Hindisa (\u092E\u0948\u092E\u094B\u0917\u094D\u0930\u093E\u092B\u0940
+    \u201Cmemografi\u201D), Telugusa (\u0C2E\u0C2E\u0C4B\u0C17\u0C4D\u0C30\u0C2B\u0C40
+    \u201Cmamografi\u201D), Niponsa (\u30DE\u30F3\u30E2\u30B0\u30E9\u30D5\u30A3\u30FC
+    \u201Cmanmoguraf\u012B\u201D), Parsisa (\u0645\u0627\u0645\u0648\u06AF\u0631\u0627\u0641\u06CC
+    \u201Cm\xE2mogr\xE2fi\u201D)"
+...

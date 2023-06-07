@@ -1,0 +1,51 @@
+---
+term: polisiyen
+slug: polisiyen
+ipa: "polisi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=polisi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (police) officer
+    - policeman
+  epo:
+  - - policano
+    - policisto
+  spa:
+  - - "polic\xEDa"
+search terms:
+  glb:
+  - polisiyen
+  eng:
+  - police officer
+  - officer
+  - policeman
+  epo:
+  - policano
+  - policisto
+  spa:
+  - "polic\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/polisi">polisi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: polisiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (police) officer, policeman
+    epo: policano, policisto
+    spa: "polic\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: polisi + -yen
+...

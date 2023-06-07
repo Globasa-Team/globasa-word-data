@@ -1,0 +1,47 @@
+---
+term: malfahuriya
+slug: malfahuriya
+ipa: "malfaxu\u02C8\u027Eija"
+ipa link: "http://ipa-reader.xyz/?text=malfaxu\u02C8\u027Eija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - arrogance
+  epo:
+  - - arogeco
+  spa:
+  - - arrogancia
+search terms:
+  glb:
+  - malfahuriya
+  eng:
+  - arrogance
+  epo:
+  - arogeco
+  spa:
+  - arrogancia
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal-">mal-</a> + <a href="../lexi/fahuri">fahuri</a> +
+  <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: malfahuriya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: arrogance
+    epo: arogeco
+    spa: arrogancia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal- + fahuri + -ya
+...

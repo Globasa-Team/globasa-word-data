@@ -1,0 +1,60 @@
+---
+term: jaleli
+slug: jaleli
+ipa: "d\u0361\u0292a\u02C8leli"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8leli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - last
+    - (the) former
+    - (the) most recent
+    - most recently
+  epo:
+  - - "\u0135usa"
+    - "tujanta\u016Da"
+  - - "tujanta\u016De"
+  spa:
+  - - "\xFAltimo"
+    - "m\xE1s reciente"
+search terms:
+  glb:
+  - jaleli
+  eng:
+  - last
+  - the former
+  - former
+  - the most recent
+  - most recent
+  - most recently
+  epo:
+  - "\u0135usa"
+  - "tujanta\u016Da"
+  - "tujanta\u016De"
+  spa:
+  - "\xFAltimo"
+  - "m\xE1s reciente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ja-">ja-</a> + <a href="../lexi/le">le</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: jaleli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: last, (the) former, (the) most recent, most recently
+    epo: "\u0135usa, tujanta\u016Da; tujanta\u016De"
+    spa: "\xFAltimo, m\xE1s reciente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ja- + le + -li
+...

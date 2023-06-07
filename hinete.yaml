@@ -1,0 +1,48 @@
+---
+term: hinete
+slug: hinete
+ipa: "xi\u02C8nete"
+ipa link: "http://ipa-reader.xyz/?text=xi\u02C8nete&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - these ones
+  epo:
+  - - "\u0109i tiuj"
+    - "tiuj \u0109i"
+  spa:
+  - - estos (_seres vivientes_)
+search terms:
+  glb:
+  - hinete
+  eng:
+  - these ones
+  epo:
+  - "\u0109i tiuj"
+  - "tiuj \u0109i"
+  spa:
+  - estos
+etymology_type: DERIVD
+etymology: <a href="../lexi/hin">hin</a> + <a href="../lexi/ete">ete</a>
+raw data:
+  term: hinete
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: 'these ones '
+    epo: "\u0109i tiuj, tiuj \u0109i"
+    spa: estos (_seres vivientes_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hin + ete
+...

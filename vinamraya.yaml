@@ -1,0 +1,46 @@
+---
+term: vinamraya
+slug: vinamraya
+ipa: "vinam\u02C8\u027Eaja"
+ipa link: "http://ipa-reader.xyz/?text=vinam\u02C8\u027Eaja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - humility
+  epo:
+  - - humileco
+  spa:
+  - - humildad
+search terms:
+  glb:
+  - vinamraya
+  eng:
+  - humility
+  epo:
+  - humileco
+  spa:
+  - humildad
+etymology_type: DERIVD
+etymology: <a href="../lexi/vinamra">vinamra</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: vinamraya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: humility
+    epo: humileco
+    spa: humildad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: vinamra + -ya
+...

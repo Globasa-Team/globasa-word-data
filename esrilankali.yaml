@@ -1,0 +1,46 @@
+---
+term: esrilankali
+slug: esrilankali
+ipa: "es\u027Eilan\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=es\u027Eilan\u02C8kali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Sri Lankan
+  epo:
+  - - srilanka
+  spa:
+  - - "esrilanqu\xE9s"
+search terms:
+  glb:
+  - esrilankali
+  eng:
+  - sri lankan
+  epo:
+  - srilanka
+  spa:
+  - "esrilanqu\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Esrilanka">Esrilanka</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Esrilankali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Sri Lankan
+    epo: srilanka
+    spa: "esrilanqu\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Esrilanka + -li
+...

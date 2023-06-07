@@ -1,0 +1,52 @@
+---
+term: fe muka
+slug: fe muka
+ipa: "fe \u02C8muka"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8muka&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - across
+    - face to face
+  epo:
+  - - fronte
+  spa:
+  - - enfrente
+    - cara a cara
+search terms:
+  glb:
+  - fe muka
+  - fe
+  - muka
+  eng:
+  - across
+  - face to face
+  epo:
+  - fronte
+  spa:
+  - enfrente
+  - cara a cara
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/muka">muka</a>
+raw data:
+  term: fe muka
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: across, face to face
+    epo: fronte
+    spa: enfrente, cara a cara
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, muka
+...

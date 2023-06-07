@@ -1,0 +1,48 @@
+---
+term: minmo kom
+slug: minmo kom
+ipa: "\u02C8minmo kom"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8minmo kom&voice=Ewa"
+status: false
+category: phrase
+word class: l jm
+trans:
+  eng:
+  - - less than
+  epo:
+  - - malpli ol
+  spa:
+  - - menos... que...
+search terms:
+  glb:
+  - minmo kom
+  - minmo
+  - kom
+  eng:
+  - less than
+  epo:
+  - malpli ol
+  spa:
+  - menos... que...
+etymology_type: DERIVD
+etymology: <a href="../lexi/min">min</a> + <a href="../lexi/-mo">-mo</a>, <a href="../lexi/kom">kom</a>
+raw data:
+  term: minmo kom
+  category: phrase
+  word class: l jm
+  status: false
+  trans:
+    eng: less than
+    epo: malpli ol
+    spa: menos... que...
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: min + -mo, kom
+...

@@ -1,0 +1,90 @@
+---
+term: deci
+slug: deci
+ipa: ˈdet͡ʃi
+ipa link: http://ipa-reader.xyz/?text=ˈdet͡ʃi&voice=Ewa
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - 1 × 10^-1
+    - one tenth of
+  epo:
+  - - dekono
+  spa:
+  - - deci-
+    - 1 × 10^-1
+    - décima parte de
+    - d
+search terms:
+  glb:
+  - deci
+  eng:
+  - 1 × 10^-1
+  - one tenth of
+  epo:
+  - dekono
+  spa:
+  - deci-
+  - 1 × 10^-1
+  - décima parte de
+  - d
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - deci-
+  Fransesa:
+  - - décimètre
+  Doycisa:
+  - - Dezimeter
+  Rusisa:
+  - - дециметр “decimetr”
+  Espanisa:
+  - - decimetro
+  Arabisa: ~
+  Hindisa:
+  - - डेसिमीटर “desimitar”
+  Telugusa:
+  - - డెసీమీటరు “desimitaru”
+  Parsisa:
+  - - دسی “desi-”
+  Turkisa:
+  - - desimetre
+  Indonesisa:
+  - - desimeter
+  Pilipinasa:
+  - - desimetro
+  Swahilisa:
+  - - desimita
+  Vyetnamsa:
+  - - đêximét
+    - đềximét
+  Niponsa:
+  - - デシメートル “deximetoru”
+  Hangusa:
+  - - 데시미터 “desimito”
+raw data:
+  term: deci
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: 1 × 10^-1, one tenth of
+    epo: dekono
+    spa: deci-, 1 × 10^-1, décima parte de, d
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (deci-), Fransesa (décimètre), Doycisa (Dezimeter), Rusisa (дециметр
+    “decimetr”), Espanisa (decimetro), Arabisa, Hindisa (डेसिमीटर “desimitar”), Telugusa
+    (డెసీమీటరు “desimitaru”), Parsisa (دسی “desi-”), Turkisa (desimetre), Indonesisa
+    (desimeter), Pilipinasa (desimetro), Swahilisa (desimita), Vyetnamsa (đêximét,
+    đềximét), Niponsa (デシメートル “deximetoru”), Hangusa (데시미터 “desimito”)
+...

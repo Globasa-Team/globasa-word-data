@@ -1,0 +1,56 @@
+---
+term: masele
+slug: masele
+ipa: "ma\u02C8sele"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8sele&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - issue
+    - matter
+    - affair
+  epo:
+  - - problemtemo
+    - "koncerna\u0135o"
+    - afero
+  spa:
+  - - asunto
+search terms:
+  glb:
+  - masele
+  eng:
+  - issue
+  - matter
+  - affair
+  epo:
+  - problemtemo
+  - "koncerna\u0135o"
+  - afero
+  spa:
+  - asunto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: masele
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: issue, matter, affair
+    epo: "problemtemo, koncerna\u0135o, afero"
+    spa: asunto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0633\u0623\u0644\u0629 \u201Cmas'ala\u201D), Parsisa
+    (\u0645\u0633\u0626\u0644\u0647 \u201Cmasale\u201D), Turkisa (mesele), Indonesisa
+    (masalah), Hindisa (\u092E\u0938\u0932\u093E \u201Cmas-la\u201D)"
+...

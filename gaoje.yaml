@@ -1,0 +1,48 @@
+---
+term: gaoje
+slug: gaoje
+ipa: "ga\u02C8od\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=ga\u02C8od\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - height
+  epo:
+  - - alto
+    - elteco
+  spa:
+  - - altura
+search terms:
+  glb:
+  - gaoje
+  eng:
+  - height
+  epo:
+  - alto
+  - elteco
+  spa:
+  - altura
+etymology_type: DERIVD
+etymology: <a href="../lexi/gao">gao</a> + <a href="../lexi/-je">-je</a>
+raw data:
+  term: gaoje
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: height
+    epo: alto, elteco
+    spa: altura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gao + -je
+...

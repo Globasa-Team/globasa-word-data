@@ -1,0 +1,63 @@
+---
+term: danyam
+slug: danyam
+ipa: daˈnjam
+ipa link: http://ipa-reader.xyz/?text=daˈnjam&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - grain
+    - cereal
+    - corn
+  epo:
+  - - greno
+    - cerealo
+  spa:
+  - - grano
+    - cereal
+search terms:
+  glb:
+  - danyam
+  eng:
+  - grain
+  - cereal
+  - corn
+  epo:
+  - greno
+  - cerealo
+  spa:
+  - grano
+  - cereal
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - धान्य "danya"
+  Telugusa:
+  - - ధాన్యము "danyamu"
+  Tamilsa:
+  - - தனியா "taniya"
+  Keralasa:
+  - - ധാന്യം "danyam"
+raw data:
+  term: danyam
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: grain, cereal, corn
+    epo: greno, cerealo
+    spa: grano, cereal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (धान्य "danya"), Telugusa (ధాన్యము "danyamu"), Tamilsa (தனியா
+    "taniya"), Keralasa (ധാന്യം "danyam")
+...

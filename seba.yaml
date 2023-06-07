@@ -1,0 +1,64 @@
+---
+term: seba
+slug: seba
+ipa: "\u02C8seba"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8seba&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - reason (_cause or purpose_)
+  epo:
+  - - kialo
+    - "ka\u016Dzo"
+    - motivo
+  spa:
+  - - "raz\xF3n (_causa o prop\xF3sito_)"
+search terms:
+  glb:
+  - seba
+  eng:
+  - reason
+  epo:
+  - kialo
+  - "ka\u016Dzo"
+  - motivo
+  spa:
+  - "raz\xF3n"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0633\u0628\u0628 \u201Csabab\u201D"
+  Parsisa:
+  - - "\u0633\u0628\u0628 \u201Csabab\u201D"
+  Turkisa:
+  - - sebep
+  Indonesisa:
+  - - sebab
+  Swahilisa:
+  - - sababu
+  Hindisa:
+  - - "\u0938\u092C\u092C \u201Csabab\u201D"
+raw data:
+  term: seba
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: reason (_cause or purpose_)
+    epo: "kialo, ka\u016Dzo, motivo"
+    spa: "raz\xF3n (_causa o prop\xF3sito_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0633\u0628\u0628 \u201Csabab\u201D), Parsisa (\u0633\u0628\u0628
+    \u201Csabab\u201D), Turkisa (sebep), Indonesisa (sebab), Swahilisa (sababu), Hindisa
+    (\u0938\u092C\u092C \u201Csabab\u201D)"
+...

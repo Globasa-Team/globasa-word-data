@@ -1,0 +1,79 @@
+---
+term: holocen
+slug: holocen
+ipa: "xolo\u02C8t\u0361\u0283en"
+ipa link: "http://ipa-reader.xyz/?text=xolo\u02C8t\u0361\u0283en&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Holocene
+  epo:
+  - - Holoceno
+  spa:
+  - - Holoceno
+search terms:
+  glb:
+  - holocen
+  eng:
+  - holocene
+  epo:
+  - holoceno
+  spa:
+  - holoceno
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Holocene
+  Fransesa:
+  - - "Holoc\xE8ne"
+  Doycisa:
+  - - "Holoz\xE4n"
+  Rusisa:
+  - - Golotsen
+  Espanisa:
+  - - Holoceno
+  Indonesisa:
+  - - Holosen
+  Pilipinasa:
+  - - Holocene
+  Hangusa:
+  - - Hollo Se
+  Vyetnamsa:
+  - - Holocen
+  Hindisa:
+  - - Holoseen
+  Telugusa:
+  - - "H\u014Dl\u014Dsin"
+  Arabisa:
+  - - Alhulusin
+  Swahilisa:
+  - - Holocene
+  Parsisa:
+  - - Hewlewsen
+  Turkisa:
+  - - Holosen
+raw data:
+  term: Holocen
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Holocene
+    epo: Holoceno
+    spa: Holoceno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (Holocene), Fransesa (Holoc\xE8ne), Doycisa (Holoz\xE4n), Rusisa
+    (Golotsen), Espanisa (Holoceno), Indonesisa (Holosen), Pilipinasa (Holocene),
+    Hangusa (Hollo Se), Vyetnamsa (Holocen), Hindisa (Holoseen), Telugusa (H\u014Dl\u014Dsin),
+    Arabisa (Alhulusin), Swahilisa (Holocene), Parsisa (Hewlewsen), Turkisa (Holosen)"
+...

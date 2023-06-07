@@ -1,0 +1,48 @@
+---
+term: yohone
+slug: yohone
+ipa: "jo\u02C8xone"
+ipa link: "http://ipa-reader.xyz/?text=jo\u02C8xone&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - tempting
+  epo:
+  - - tentanta
+  - - tentante
+  spa:
+  - - tentador
+search terms:
+  glb:
+  - yohone
+  eng:
+  - tempting
+  epo:
+  - tentanta
+  - tentante
+  spa:
+  - tentador
+etymology_type: DERIVD
+etymology: <a href="../lexi/yoho">yoho</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: yohone
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: tempting
+    epo: tentanta; tentante
+    spa: tentador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yoho + -ne
+...

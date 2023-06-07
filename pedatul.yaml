@@ -1,0 +1,46 @@
+---
+term: pedatul
+slug: pedatul
+ipa: "peda\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=peda\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pedal
+  epo:
+  - - pedalo
+  spa:
+  - - pedal
+search terms:
+  glb:
+  - pedatul
+  eng:
+  - pedal
+  epo:
+  - pedalo
+  spa:
+  - pedal
+etymology_type: DERIVD
+etymology: <a href="../lexi/peda">peda</a> + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: pedatul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pedal
+    epo: pedalo
+    spa: pedal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: peda + -tul
+...

@@ -1,0 +1,81 @@
+---
+term: adate
+slug: adate
+ipa: aˈdate
+ipa link: http://ipa-reader.xyz/?text=aˈdate&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - adaptation
+  - - adapt
+  epo:
+  - - adapto
+  - - adapti
+  spa:
+  - - adaptación
+  - - adaptar
+    - adaptarse
+  deu:
+  - - Anpassung
+    - Adaptierung
+  - - anpassen
+    - adaptieren
+search terms:
+  glb:
+  - adate
+  eng:
+  - adaptation
+  - adapt
+  epo:
+  - adapto
+  - adapti
+  spa:
+  - adaptación
+  - adaptar
+  - adaptarse
+  deu:
+  - anpassung
+  - adaptierung
+  - anpassen
+  - adaptieren
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - adaptieren
+  Englisa:
+  - - adaptation
+    - adapt
+  Espanisa:
+  - - adaptar
+  Fransesa:
+  - - adapter
+  Rusisa:
+  - - адаптировать “adaptirovat”
+  Indonesisa:
+  - - adaptasi
+  Turkisa:
+  - - adapte
+raw data:
+  term: adate
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: adaptation; adapt
+    epo: adapto; adapti
+    spa: adaptación; adaptar, adaptarse
+    deu: Anpassung, Adaptierung; anpassen, adaptieren
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: Te musi na adate cel sesu neo ergoli hwanjin.
+  tags: ""
+  etymology: Doycisa (adaptieren), Englisa (adaptation, adapt), Espanisa (adaptar),
+    Fransesa (adapter), Rusisa (адаптировать “adaptirovat”), Indonesisa (adaptasi),
+    Turkisa (adapte)
+...

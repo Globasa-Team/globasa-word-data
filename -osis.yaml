@@ -1,0 +1,48 @@
+---
+term: -osis
+slug: -osis
+ipa: "-o\u02C8sis"
+ipa link: "http://ipa-reader.xyz/?text=-o\u02C8sis&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - pathology
+  epo:
+  - - patologio
+    - -ozo
+  spa:
+  - - "patolog\xEDa"
+search terms:
+  glb:
+  - -osis
+  eng:
+  - pathology
+  epo:
+  - patologio
+  - -ozo
+  spa:
+  - "patolog\xEDa"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/osis">osis</a>.
+raw data:
+  term: -osis
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: pathology
+    epo: patologio, -ozo
+    spa: "patolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _osis_.
+...

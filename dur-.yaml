@@ -1,0 +1,46 @@
+---
+term: dur-
+slug: dur-
+ipa: "\u02C8du\u027E-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8du\u027E-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - during
+  epo:
+  - - dum-
+  spa:
+  - - durante
+search terms:
+  glb:
+  - dur-
+  eng:
+  - during
+  epo:
+  - dum-
+  spa:
+  - durante
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/dure">dure</a>.
+raw data:
+  term: dur-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: during
+    epo: dum-
+    spa: durante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _dure_.
+...

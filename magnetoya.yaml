@@ -1,0 +1,46 @@
+---
+term: magnetoya
+slug: magnetoya
+ipa: "magne\u02C8toja"
+ipa link: "http://ipa-reader.xyz/?text=magne\u02C8toja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - attraction
+  epo:
+  - - altiro
+  spa:
+  - - "atracci\xF3n"
+search terms:
+  glb:
+  - magnetoya
+  eng:
+  - attraction
+  epo:
+  - altiro
+  spa:
+  - "atracci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/magneto">magneto</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: magnetoya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: attraction
+    epo: altiro
+    spa: "atracci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: magneto + -ya
+...

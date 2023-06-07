@@ -1,0 +1,49 @@
+---
+term: nenadilxey
+slug: nenadilxey
+ipa: "nenadil\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=nenadil\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - injustice
+    - injustices
+  epo:
+  - - "maljusta\u0135o"
+  spa:
+  - - injusticia
+search terms:
+  glb:
+  - nenadilxey
+  eng:
+  - injustice
+  - injustices
+  epo:
+  - "maljusta\u0135o"
+  spa:
+  - injusticia
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/adil">adil</a> + <a
+  href="../lexi/-xey">-xey</a>
+raw data:
+  term: nenadilxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: injustice, injustices
+    epo: "maljusta\u0135o"
+    spa: injusticia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + adil + -xey
+...

@@ -1,0 +1,87 @@
+---
+term: bloki
+slug: bloki
+ipa: ˈbloki
+ipa link: http://ipa-reader.xyz/?text=ˈbloki&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - blocking
+    - obstruction
+    - prevention
+  - - block
+    - obstruct
+    - prevent
+    - avoid
+  epo:
+  - - blokado
+    - baro
+    - evito
+  - - bloki
+    - bari
+    - eviti
+  spa:
+  - - obstrucción
+    - prevención
+  - - obstruir
+    - prevenir
+    - evitar
+search terms:
+  glb:
+  - bloki
+  eng:
+  - blocking
+  - obstruction
+  - prevention
+  - block
+  - obstruct
+  - prevent
+  - avoid
+  epo:
+  - blokado
+  - baro
+  - evito
+  - bloki
+  - bari
+  - eviti
+  spa:
+  - obstrucción
+  - prevención
+  - obstruir
+  - prevenir
+  - evitar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - block
+  Espanisa:
+  - - bloquear
+  Fransesa:
+  - - bloquer
+  Rusisa:
+  - - блокировать “ blokirovat”
+  Indonesisa:
+  - - memblokir
+raw data:
+  term: bloki
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: blocking, obstruction, prevention; block, obstruct, prevent, avoid
+    epo: blokado, baro, evito; bloki, bari, eviti
+    spa: obstrucción, prevención; obstruir, prevenir, evitar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (block), Espanisa (bloquear), Fransesa (bloquer), Rusisa (блокировать
+    “ blokirovat”), Indonesisa (memblokir)
+...

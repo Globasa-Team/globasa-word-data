@@ -1,0 +1,83 @@
+---
+term: ajabu
+slug: ajabu
+ipa: aˈd͡ʒabu
+ipa link: http://ipa-reader.xyz/?text=aˈd͡ʒabu&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - strange
+    - strangely
+    - weird
+    - weirdly
+    - odd
+    - oddly
+    - peculiar
+    - pecularly
+  epo:
+  - - stranga
+    - bizara
+    - kurioza
+  - - strange
+    - bizare
+    - kurioze
+  spa:
+  - - extraño
+    - raro
+search terms:
+  glb:
+  - ajabu
+  eng:
+  - strange
+  - strangely
+  - weird
+  - weirdly
+  - odd
+  - oddly
+  - peculiar
+  - pecularly
+  epo:
+  - stranga
+  - bizara
+  - kurioza
+  - strange
+  - bizare
+  - kurioze
+  spa:
+  - extraño
+  - raro
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - अजीब “ajib”
+  Parsisa:
+  - - عجیب “ajib”
+  Turkisa:
+  - - acayip
+  Swahilisa:
+  - - ajabu
+  Arabisa:
+  - - عجيب “ajib”
+raw data:
+  term: ajabu
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: strange, strangely, weird, weirdly, odd, oddly, peculiar, pecularly
+    epo: stranga, bizara, kurioza; strange, bizare, kurioze
+    spa: extraño, raro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (अजीब “ajib”), Parsisa (عجیب “ajib”), Turkisa (acayip), Swahilisa
+    (ajabu), Arabisa (عجيب “ajib”)
+...

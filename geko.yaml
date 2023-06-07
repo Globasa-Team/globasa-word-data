@@ -1,0 +1,61 @@
+---
+term: geko
+slug: geko
+ipa: ˈgeko
+ipa link: http://ipa-reader.xyz/?text=ˈgeko&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gecko
+  epo:
+  - - geko
+  spa:
+  - - geco
+    - _Gekkota_
+search terms:
+  glb:
+  - geko
+  eng:
+  - gecko
+  epo:
+  - geko
+  spa:
+  - geco
+  - gekkota
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gecko
+  Fransesa: ~
+  Doycisa: ~
+  Espanisa:
+  - - geco
+  Pilipinasa:
+  - - geko
+  Vyetnamsa:
+  - - cắc kè “kake”
+tags:
+- hewan
+raw data:
+  term: geko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gecko
+    epo: geko
+    spa: geco, _Gekkota_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (gecko), Fransesa, Doycisa, Espanisa (geco), Pilipinasa (geko),
+    Vyetnamsa (cắc kè “kake”)
+...

@@ -1,0 +1,46 @@
+---
+term: juniswini
+slug: juniswini
+ipa: "d\u0361\u0292uni\u02C8swini"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292uni\u02C8swini&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - piglet
+  epo:
+  - - porkido
+  spa:
+  - - "lech\xF3n"
+search terms:
+  glb:
+  - juniswini
+  eng:
+  - piglet
+  epo:
+  - porkido
+  spa:
+  - "lech\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/juni-">juni-</a> + <a href="../lexi/swini">swini</a>
+raw data:
+  term: juniswini
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: piglet
+    epo: porkido
+    spa: "lech\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: juni- + swini
+...

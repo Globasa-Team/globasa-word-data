@@ -1,0 +1,50 @@
+---
+term: alimxey
+slug: alimxey
+ipa: "alim\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=alim\u02C8\u0283ej&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - teaching
+    - teachings
+  epo:
+  - - "instrua\u0135o"
+  spa:
+  - - "ense\xF1anza"
+search terms:
+  glb:
+  - alimxey
+  eng:
+  - teaching
+  - teachings
+  epo:
+  - "instrua\u0135o"
+  spa:
+  - "ense\xF1anza"
+etymology_type: DERIVD
+etymology: <a href="../lexi/alim">alim</a> + <a href="../lexi/-xey">-xey</a>
+tags:
+- eskolya
+raw data:
+  term: alimxey
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: teaching, teachings
+    epo: "instrua\u0135o"
+    spa: "ense\xF1anza"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: eskolya
+  etymology: alim + -xey
+...

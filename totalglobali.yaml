@@ -1,0 +1,53 @@
+---
+term: totalglobali
+slug: totalglobali
+ipa: "totalglo\u02C8bali"
+ipa link: "http://ipa-reader.xyz/?text=totalglo\u02C8bali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - universal
+    - worldwide
+  epo:
+  - - tutmonda
+  - - tutmonde
+  spa:
+  - - universal
+    - mundial
+search terms:
+  glb:
+  - totalglobali
+  eng:
+  - universal
+  - worldwide
+  epo:
+  - tutmonda
+  - tutmonde
+  spa:
+  - universal
+  - mundial
+etymology_type: DERIVD
+etymology: <a href="../lexi/total">total</a> + <a href="../lexi/globa">globa</a> +
+  <a href="../lexi/-li">-li</a>
+raw data:
+  term: totalglobali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: universal, worldwide
+    epo: tutmonda; tutmonde
+    spa: universal, mundial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: total + globa + -li
+...

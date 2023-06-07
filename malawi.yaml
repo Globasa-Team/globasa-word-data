@@ -1,0 +1,52 @@
+---
+term: malawi
+slug: malawi
+ipa: "ma\u02C8lawi"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8lawi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Malawi
+  epo:
+  - - Malavio
+  spa:
+  - - Malaui
+search terms:
+  glb:
+  - malawi
+  eng:
+  - malawi
+  epo:
+  - malavio
+  spa:
+  - malaui
+etymology_type: NATLNG
+etymology:
+  Chichewa:
+  - - "Mala\u0175i"
+  Englisa:
+  - - Malawi
+tags:
+- dexa
+raw data:
+  term: Malawi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Malawi
+    epo: Malavio
+    spa: Malaui
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Chichewa (Mala\u0175i), Englisa (Malawi)"
+...

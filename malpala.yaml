@@ -1,0 +1,48 @@
+---
+term: malpala
+slug: malpala
+ipa: "mal\u02C8pala"
+ipa link: "http://ipa-reader.xyz/?text=mal\u02C8pala&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - misspeak
+  epo:
+  - - misparolo
+  - - misparoli
+  spa:
+  - - expresarse mal
+search terms:
+  glb:
+  - malpala
+  eng:
+  - misspeak
+  epo:
+  - misparolo
+  - misparoli
+  spa:
+  - expresarse mal
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal-">mal-</a> + <a href="../lexi/pala">pala</a>
+raw data:
+  term: malpala
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: misspeak
+    epo: misparolo; misparoli
+    spa: expresarse mal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal- + pala
+...

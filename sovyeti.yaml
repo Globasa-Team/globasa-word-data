@@ -1,0 +1,52 @@
+---
+term: sovyeti
+slug: sovyeti
+ipa: "so\u02C8vjeti"
+ipa link: "http://ipa-reader.xyz/?text=so\u02C8vjeti&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Soviet
+  epo:
+  - - soveta
+  - - sovete
+  spa:
+  - - "sovi\xE9tico"
+search terms:
+  glb:
+  - sovyeti
+  eng:
+  - soviet
+  epo:
+  - soveta
+  - sovete
+  spa:
+  - "sovi\xE9tico"
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - "\u0441\u043E\u0432\u0435\u0442\u0441\u043A\u0438\u0439 \u201Csovyetskiy\u201D"
+    - "\u0441\u043E\u0432\u0435\u0442 \u201Csovyet\u201D"
+raw data:
+  term: Sovyeti
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: Soviet
+    epo: soveta; sovete
+    spa: "sovi\xE9tico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Rusisa (\u0441\u043E\u0432\u0435\u0442\u0441\u043A\u0438\u0439 \u201Csovyetskiy\u201D,
+    \u0441\u043E\u0432\u0435\u0442 \u201Csovyet\u201D)"
+...

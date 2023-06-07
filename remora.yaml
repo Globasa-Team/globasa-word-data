@@ -1,0 +1,71 @@
+---
+term: remora
+slug: remora
+ipa: "\u027Ee\u02C8mo\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8mo\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - remora
+    - suckerfish
+  epo:
+  - - remoro
+    - "e\u0125eneedo"
+    - "su\u0109fi\u015Do"
+  spa:
+  - - "r\xE9mora"
+    - _Echeneidae_
+search terms:
+  glb:
+  - remora
+  eng:
+  - remora
+  - suckerfish
+  epo:
+  - remoro
+  - "e\u0125eneedo"
+  - "su\u0109fi\u015Do"
+  spa:
+  - "r\xE9mora"
+  - echeneidae
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - remora
+  Indonesisa:
+  - - remora
+  Pilipinasa:
+  - - remora
+  Turkisa:
+  - - remora
+  Espanisa:
+  - - "r\xE9mora"
+  Fransesa: ~
+  "":
+  - - "\u0930\u0947\u092E\u094B\u0930\u093E \u201Cremora\u201D"
+tags:
+- hewan
+raw data:
+  term: remora
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: remora, suckerfish
+    epo: "remoro, e\u0125eneedo, su\u0109fi\u015Do"
+    spa: "r\xE9mora, _Echeneidae_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (remora), Indonesisa (remora), Pilipinasa (remora), Turkisa
+    (remora), Espanisa (r\xE9mora), Fransesa, (\u0930\u0947\u092E\u094B\u0930\u093E
+    \u201Cremora\u201D)"
+...

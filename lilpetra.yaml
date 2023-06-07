@@ -1,0 +1,48 @@
+---
+term: lilpetra
+slug: lilpetra
+ipa: "lil\u02C8pet\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=lil\u02C8pet\u027Ea&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pebbles
+  epo:
+  - - "\u015Dtoneto"
+    - roketo
+  spa:
+  - - guijarro
+search terms:
+  glb:
+  - lilpetra
+  eng:
+  - pebbles
+  epo:
+  - "\u015Dtoneto"
+  - roketo
+  spa:
+  - guijarro
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/petra">petra</a>
+raw data:
+  term: lilpetra
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pebbles
+    epo: "\u015Dtoneto, roketo"
+    spa: guijarro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + petra
+...

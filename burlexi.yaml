@@ -1,0 +1,60 @@
+---
+term: burlexi
+slug: burlexi
+ipa: "bu\u027E\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027E\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - swearword
+  - - swear
+    - curse
+  epo:
+  - - "sakra\u0135o"
+    - blasfemo
+  - - sakri
+    - blasfemi
+  spa:
+  - - palabrota
+  - - decir palabrotas
+    - maldecir
+search terms:
+  glb:
+  - burlexi
+  eng:
+  - swearword
+  - swear
+  - curse
+  epo:
+  - "sakra\u0135o"
+  - blasfemo
+  - sakri
+  - blasfemi
+  spa:
+  - palabrota
+  - decir palabrotas
+  - maldecir
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/lexi">lexi</a>
+raw data:
+  term: burlexi
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: swearword; swear, curse
+    epo: "sakra\u0135o, blasfemo; sakri, blasfemi"
+    spa: palabrota; decir palabrotas, maldecir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + lexi
+...

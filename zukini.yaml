@@ -1,0 +1,71 @@
+---
+term: zukini
+slug: zukini
+ipa: "zu\u02C8kini"
+ipa link: "http://ipa-reader.xyz/?text=zu\u02C8kini&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - zucchini
+    - courgette
+  epo:
+  - - legomkukurbo
+  spa:
+  - - "calabac\xEDn"
+    - calabacita
+    - _Cucurbita pepo_
+search terms:
+  glb:
+  - zukini
+  eng:
+  - zucchini
+  - courgette
+  epo:
+  - legomkukurbo
+  spa:
+  - "calabac\xEDn"
+  - calabacita
+  - cucurbita pepo
+etymology_type: NATLNG
+etymology:
+  Italisa:
+  - - zucchini
+  Englisa:
+  - - zucchini
+  Doycisa:
+  - - Zucchini
+  Rusisa:
+  - - "\u0446\u0443\u043A\u043A\u0438\u043D\u0438 \u201Ctsukkini\u201D"
+  Indonesisa:
+  - - zukini
+  Niponsa:
+  - - "\u30BA\u30C3\u30AD\u30FC\u30CB \u201Czukk\u012Bni\u201D"
+  Hangusa:
+  - - "\uC8FC\uD0A4\uB2C8 \u201Cjukini\u201D"
+tags:
+- fruta
+- yamxey
+raw data:
+  term: zukini
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: zucchini, courgette
+    epo: legomkukurbo
+    spa: "calabac\xEDn, calabacita, _Cucurbita pepo_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Italisa (zucchini), Englisa (zucchini), Doycisa (Zucchini), Rusisa (\u0446\u0443\u043A\u043A\u0438\u043D\u0438
+    \u201Ctsukkini\u201D), Indonesisa (zukini), Niponsa (\u30BA\u30C3\u30AD\u30FC\u30CB
+    \u201Czukk\u012Bni\u201D), Hangusa (\uC8FC\uD0A4\uB2C8 \u201Cjukini\u201D)"
+...

@@ -1,0 +1,46 @@
+---
+term: turiyen
+slug: turiyen
+ipa: "tu\u027Ei\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=tu\u027Ei\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - tourist
+  epo:
+  - - turisto
+  spa:
+  - - turista
+search terms:
+  glb:
+  - turiyen
+  eng:
+  - tourist
+  epo:
+  - turisto
+  spa:
+  - turista
+etymology_type: DERIVD
+etymology: <a href="../lexi/turi">turi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: turiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: tourist
+    epo: turisto
+    spa: turista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: turi + -yen
+...

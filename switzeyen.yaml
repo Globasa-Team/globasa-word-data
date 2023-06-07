@@ -1,0 +1,46 @@
+---
+term: switzeyen
+slug: switzeyen
+ipa: "switze\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=switze\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Swiss
+  epo:
+  - - sviso
+  spa:
+  - - suizo (_persona_)
+search terms:
+  glb:
+  - switzeyen
+  eng:
+  - swiss
+  epo:
+  - sviso
+  spa:
+  - suizo
+etymology_type: DERIVD
+etymology: <a href="../lexi/Switze">Switze</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Switzeyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Swiss
+    epo: sviso
+    spa: suizo (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Switze + -yen
+...

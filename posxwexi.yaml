@@ -1,0 +1,52 @@
+---
+term: posxwexi
+slug: posxwexi
+ipa: "pos\u02C8\u0283we\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=pos\u02C8\u0283we\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - unlearn
+  epo:
+  - - mallernado
+  - - mallerni
+  spa:
+  - - desaprender
+    - borrar de la memoria
+    - olvidar
+search terms:
+  glb:
+  - posxwexi
+  eng:
+  - unlearn
+  epo:
+  - mallernado
+  - mallerni
+  spa:
+  - desaprender
+  - borrar de la memoria
+  - olvidar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/xwexi">xwexi</a>
+raw data:
+  term: posxwexi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: unlearn
+    epo: mallernado; mallerni
+    spa: desaprender, borrar de la memoria, olvidar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + xwexi
+...

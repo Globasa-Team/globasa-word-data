@@ -1,0 +1,72 @@
+---
+term: enzima
+slug: enzima
+ipa: enˈzima
+ipa link: http://ipa-reader.xyz/?text=enˈzima&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - enzyme
+  epo:
+  - - enzimo
+  spa:
+  - - enzima
+search terms:
+  glb:
+  - enzima
+  eng:
+  - enzyme
+  epo:
+  - enzimo
+  spa:
+  - enzima
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - enzyme
+  Fransesa: ~
+  Espanisa:
+  - - enzima
+  Rusisa:
+  - - энзим “enzim”
+  Doycisa:
+  - - Enzym
+  Vyetnamsa: ~
+  Indonesisa:
+  - - enzim
+  Turkisa: ~
+  Pilipinasa:
+  - - ensaym
+  Hindisa:
+  - - एंजाइम “enjaym”
+  Arabisa:
+  - - انزيم
+  Telugusa:
+  - - ఎంజైము “enjaymu”
+  Parsisa آنزیم:
+  - - anzim
+raw data:
+  term: enzima
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: enzyme
+    epo: enzimo
+    spa: enzima
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (enzyme), Fransesa, Espanisa (enzima), Rusisa (энзим “enzim”),
+    Doycisa (Enzym), Vyetnamsa, Indonesisa (enzim), Turkisa, Pilipinasa (ensaym),
+    Hindisa (एंजाइम “enjaym”), Arabisa (انزيم), Telugusa (ఎంజైము “enjaymu”), Parsisa
+    آنزیم (anzim)
+...

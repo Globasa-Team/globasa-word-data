@@ -1,0 +1,50 @@
+---
+term: denmo
+slug: denmo
+ipa: "\u02C8denmo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8denmo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - as
+    - to that degree
+    - that
+  epo:
+  - - tiom
+  spa:
+  - - a ese grado
+search terms:
+  glb:
+  - denmo
+  eng:
+  - as
+  - to that degree
+  - that
+  epo:
+  - tiom
+  spa:
+  - a ese grado
+etymology_type: DERIVD
+etymology: <a href="../lexi/den">den</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: denmo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: as, to that degree, that
+    epo: tiom
+    spa: a ese grado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: den + -mo
+...

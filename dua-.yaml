@@ -1,0 +1,46 @@
+---
+term: dua-
+slug: dua-
+ipa: "du\u02C8a-"
+ipa link: "http://ipa-reader.xyz/?text=du\u02C8a-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - bi-
+  epo:
+  - - du-
+  spa:
+  - - bi-
+search terms:
+  glb:
+  - dua-
+  eng:
+  - bi-
+  epo:
+  - du-
+  spa:
+  - bi-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/dua">dua</a>.
+raw data:
+  term: dua-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: bi-
+    epo: du-
+    spa: bi-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _dua_.
+...

@@ -1,0 +1,54 @@
+---
+term: suya
+slug: suya
+ipa: "\u02C8suja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8suja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - possession
+  - - possess
+    - own
+  epo:
+  - - posedo
+  - - posedi
+  spa:
+  - - "posesi\xF3n"
+  - - poseer
+search terms:
+  glb:
+  - suya
+  eng:
+  - possession
+  - possess
+  - own
+  epo:
+  - posedo
+  - posedi
+  spa:
+  - "posesi\xF3n"
+  - poseer
+etymology_type: DERIVD
+etymology: <a href="../lexi/su">su</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: suya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: possession; possess, own
+    epo: posedo; posedi
+    spa: "posesi\xF3n; poseer"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: su + -ya
+...

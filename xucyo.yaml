@@ -1,0 +1,70 @@
+---
+term: xucyo
+slug: xucyo
+ipa: "\u02C8\u0283ut\u0361\u0283jo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283ut\u0361\u0283jo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - demand
+    - requirement
+  - - demand
+    - require
+  epo:
+  - - postulo
+    - "bezona\u0135o"
+    - "necesa\u0135o"
+  - - postuli
+  spa:
+  - - exigencia
+    - requisito
+  - - exigir
+    - requerir
+search terms:
+  glb:
+  - xucyo
+  eng:
+    0: demand
+    1: requirement
+    3: require
+  epo:
+  - postulo
+  - "bezona\u0135o"
+  - "necesa\u0135o"
+  - postuli
+  spa:
+  - exigencia
+  - requisito
+  - exigir
+  - requerir
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u9700\u6C42 \u201Cx\u016Bqi\xFA\u201D"
+  Hangusa:
+  - - "\uC218\uC694 \u201Csuyo\u201D"
+  Niponsa:
+  - - "\u9700\u8981 \u201Cjuy\u014D\u201D"
+raw data:
+  term: xucyo
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: demand, requirement; demand, require
+    epo: "postulo, bezona\u0135o, necesa\u0135o; postuli"
+    spa: exigencia, requisito; exigir, requerir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u9700\u6C42 \u201Cx\u016Bqi\xFA\u201D), Hangusa (\uC218\uC694
+    \u201Csuyo\u201D), Niponsa (\u9700\u8981 \u201Cjuy\u014D\u201D)"
+...

@@ -1,0 +1,48 @@
+---
+term: cennyan
+slug: cennyan
+ipa: "t\u0361\u0283en\u02C8njan"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283en\u02C8njan&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - century
+  epo:
+  - - jarcento
+    - cenjaro
+  spa:
+  - - siglo
+search terms:
+  glb:
+  - cennyan
+  eng:
+  - century
+  epo:
+  - jarcento
+  - cenjaro
+  spa:
+  - siglo
+etymology_type: DERIVD
+etymology: <a href="../lexi/cen">cen</a> + <a href="../lexi/nyan">nyan</a>
+raw data:
+  term: cennyan
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: century
+    epo: jarcento, cenjaro
+    spa: siglo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cen + nyan
+...

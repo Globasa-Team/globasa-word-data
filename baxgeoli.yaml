@@ -1,0 +1,48 @@
+---
+term: baxgeoli
+slug: baxgeoli
+ipa: "ba\u0283ge\u02C8oli"
+ipa link: "http://ipa-reader.xyz/?text=ba\u0283ge\u02C8oli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - subterranean
+  epo:
+  - - subtera
+  - - subtere
+  spa:
+  - - "subterr\xE1neo"
+search terms:
+  glb:
+  - baxgeoli
+  eng:
+  - subterranean
+  epo:
+  - subtera
+  - subtere
+  spa:
+  - "subterr\xE1neo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bax-">bax-</a> + <a href="../lexi/geo">geo</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: baxgeoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: subterranean
+    epo: subtera; subtere
+    spa: "subterr\xE1neo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bax- + geo + -li
+...

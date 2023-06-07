@@ -1,0 +1,48 @@
+---
+term: jyen
+slug: jyen
+ipa: "\u02C8d\u0361\u0292jen"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292jen&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - fry
+  epo:
+  - - frito
+  - - friti
+  spa:
+  - - "fre\xEDr"
+search terms:
+  glb:
+  - jyen
+  eng:
+  - fry
+  epo:
+  - frito
+  - friti
+  spa:
+  - "fre\xEDr"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jyen
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: 'fry '
+    epo: frito; friti
+    spa: "fre\xEDr"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u714E \u201Cji\u0101n\u201D), Vyetnamsa (chi\xEAn)"
+...

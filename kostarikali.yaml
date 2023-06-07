@@ -1,0 +1,48 @@
+---
+term: kostarikali
+slug: kostarikali
+ipa: "kosta\u027Ei\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=kosta\u027Ei\u02C8kali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Costa Rican
+  epo:
+  - - kostarika
+  - - kostarike
+  spa:
+  - - costarricense
+search terms:
+  glb:
+  - kostarikali
+  eng:
+  - costa rican
+  epo:
+  - kostarika
+  - kostarike
+  spa:
+  - costarricense
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kostarika">Kostarika</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Kostarikali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Costa Rican
+    epo: kostarika; kostarike
+    spa: costarricense
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kostarika + -li
+...

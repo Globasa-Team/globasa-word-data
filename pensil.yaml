@@ -1,0 +1,63 @@
+---
+term: pensil
+slug: pensil
+ipa: "pen\u02C8sil"
+ipa link: "http://ipa-reader.xyz/?text=pen\u02C8sil&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pencil
+  epo:
+  - - krajono
+  spa:
+  - - "l\xE1piz"
+search terms:
+  glb:
+  - pensil
+  eng:
+  - pencil
+  epo:
+  - krajono
+  spa:
+  - "l\xE1piz"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pencil
+  Hindisa:
+  - - "\u092A\u0947\u0902\u0938\u093F\u0932 / \u092A\u0947\u0928\u094D\u0938\u093F\u0932
+      \u201Cpensil\u201D"
+  Indonesisa:
+  - - pensil
+  Telugusa:
+  - - "\u0C2A\u0C46\u0C28\u0C4D\u0C38\u0C3F\u0C32\u0C41 \u201Cpensilu\u201D"
+  Swahilisa:
+  - - penseli
+  Pilipinasa:
+  - - pensil
+tags:
+- tul
+raw data:
+  term: pensil
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pencil
+    epo: krajono
+    spa: "l\xE1piz"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: tul
+  etymology: "Englisa (pencil), Hindisa (\u092A\u0947\u0902\u0938\u093F\u0932 / \u092A\u0947\u0928\u094D\u0938\u093F\u0932
+    \u201Cpensil\u201D), Indonesisa (pensil), Telugusa (\u0C2A\u0C46\u0C28\u0C4D\u0C38\u0C3F\u0C32\u0C41
+    \u201Cpensilu\u201D), Swahilisa (penseli), Pilipinasa (pensil)"
+...

@@ -1,0 +1,69 @@
+---
+term: vole
+slug: vole
+ipa: "\u02C8vole"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8vole&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - will
+  - - want
+  epo:
+  - - volo
+  - - voli
+  spa:
+  - - voluntad
+    - deseo
+  - - querer
+    - desear
+search terms:
+  glb:
+  - vole
+  eng:
+  - will
+  - want
+  epo:
+  - volo
+  - voli
+  spa:
+  - voluntad
+  - deseo
+  - querer
+  - desear
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - will
+  Doycisa:
+  - - wollen
+  Italisa:
+  - - vuole
+  Espanisa:
+  - - voluntad
+  Fransesa:
+  - - volonte
+  Rusisa:
+  - - "\u0432\u043E\u043B\u044F \u201Cvolya\u201D - volition"
+raw data:
+  term: vole
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: will; want
+    epo: volo; voli
+    spa: voluntad, deseo; querer, desear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (will), Doycisa (wollen), Italisa (vuole), Espanisa (voluntad),
+    Fransesa (volonte), Rusisa (\u0432\u043E\u043B\u044F \u201Cvolya\u201D - volition)"
+...

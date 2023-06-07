@@ -1,0 +1,46 @@
+---
+term: femgwafu
+slug: femgwafu
+ipa: "fem\u02C8gwafu"
+ipa link: "http://ipa-reader.xyz/?text=fem\u02C8gwafu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - widow
+  epo:
+  - - vidvino
+  spa:
+  - - viuda
+search terms:
+  glb:
+  - femgwafu
+  eng:
+  - widow
+  epo:
+  - vidvino
+  spa:
+  - viuda
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/gwafu">gwafu</a>
+raw data:
+  term: femgwafu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: widow
+    epo: vidvino
+    spa: viuda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem- + gwafu
+...

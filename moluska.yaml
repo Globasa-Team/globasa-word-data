@@ -1,0 +1,61 @@
+---
+term: moluska
+slug: moluska
+ipa: "mo\u02C8luska"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8luska&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mollusc
+    - _Mollusca_
+  epo:
+  - - molusko
+  spa:
+  - - molusco
+    - _Mollusca_
+  deu:
+  - - Weichtier
+    - Molluske
+search terms:
+  glb:
+  - moluska
+  eng:
+  - mollusc
+  - mollusca
+  epo:
+  - molusko
+  spa:
+  - molusco
+  - mollusca
+  deu:
+  - weichtier
+  - molluske
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: moluska
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mollusc, _Mollusca_
+    epo: molusko
+    spa: molusco, _Mollusca_
+    deu: Weichtier, Molluske
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (mollusc), Espanisa (molusco), Fransesa (mollusque), Doycisa
+    (Molluske), Indonesisa (moluska), Pilipinasa (molusk), Hindisa (\u092E\u094B\u0932\u0938\u094D\u0915
+    \u201Cmolask\u201D), Telugusa (\u0C2E\u0C4A\u0C32\u0C38\u0C4D\u0C15\u0C3E \u201Cmolaska\u201D,
+    \u0C2E\u0C32\u0C38\u0C4D\u0C15\u0C3E \u201Cmalaska\u201D), Swahilisa (moluska)"
+...

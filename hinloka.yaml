@@ -1,0 +1,48 @@
+---
+term: hinloka
+slug: hinloka
+ipa: "xin\u02C8loka"
+ipa link: "http://ipa-reader.xyz/?text=xin\u02C8loka&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - here
+  epo:
+  - - "\u0109i tie"
+    - "tie \u0109i"
+  spa:
+  - - "aqu\xED"
+search terms:
+  glb:
+  - hinloka
+  eng:
+  - here
+  epo:
+  - "\u0109i tie"
+  - "tie \u0109i"
+  spa:
+  - "aqu\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/hin">hin</a> + <a href="../lexi/loka">loka</a>
+raw data:
+  term: hinloka
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: here
+    epo: "\u0109i tie, tie \u0109i"
+    spa: "aqu\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hin + loka
+...

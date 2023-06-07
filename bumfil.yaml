@@ -1,0 +1,52 @@
+---
+term: bumfil
+slug: bumfil
+ipa: "bum\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=bum\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - explosive
+    - explosively
+  epo:
+  - - eksplodema
+  - - eksplodeme
+  spa:
+  - - explosivo
+    - que tiende a explotar
+search terms:
+  glb:
+  - bumfil
+  eng:
+  - explosive
+  - explosively
+  epo:
+  - eksplodema
+  - eksplodeme
+  spa:
+  - explosivo
+  - que tiende a explotar
+etymology_type: DERIVD
+etymology: <a href="../lexi/bum">bum</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: bumfil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: explosive, explosively
+    epo: eksplodema; eksplodeme
+    spa: explosivo, que tiende a explotar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bum + -fil
+...

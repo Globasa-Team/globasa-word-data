@@ -1,0 +1,65 @@
+---
+term: waksu
+slug: waksu
+ipa: "\u02C8waksu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8waksu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wax
+  epo:
+  - - vakso
+    - ciro
+  spa:
+  - - cera
+search terms:
+  glb:
+  - waksu
+  eng:
+  - wax
+  epo:
+  - vakso
+  - ciro
+  spa:
+  - cera
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - wax
+  Rusisa:
+  - - "\u0432\u0430\u043A\u0441\u0430 \u201Cvaksa\u201D - sapatupolixo"
+  Doycisa:
+  - - Wachs
+  Pilipinasa:
+  - - waks
+  Niponsa:
+  - - "\u30EF\u30C3\u30AF\u30B9 \u201Cwakusu\u201D"
+  Hangusa:
+  - - "\uC641\uC2A4 \u201Cwaksu\u201D"
+  Parsisa:
+  - - "\u0648\u0627\u06A9\u0633 \u201Cvaks\u201D"
+raw data:
+  term: waksu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: 'wax '
+    epo: vakso, ciro
+    spa: cera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (wax), Rusisa (\u0432\u0430\u043A\u0441\u0430 \u201Cvaksa\u201D
+    - sapatupolixo), Doycisa (Wachs), Pilipinasa (waks), Niponsa (\u30EF\u30C3\u30AF\u30B9
+    \u201Cwakusu\u201D), Hangusa (\uC641\uC2A4 \u201Cwaksu\u201D), Parsisa (\u0648\u0627\u06A9\u0633
+    \u201Cvaks\u201D)"
+...

@@ -1,0 +1,46 @@
+---
+term: bursoti
+slug: bursoti
+ipa: "bu\u027E\u02C8soti"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027E\u02C8soti&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - noise
+  epo:
+  - - bruo
+  spa:
+  - - ruido
+search terms:
+  glb:
+  - bursoti
+  eng:
+  - noise
+  epo:
+  - bruo
+  spa:
+  - ruido
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/soti">soti</a>
+raw data:
+  term: bursoti
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: noise
+    epo: bruo
+    spa: ruido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + soti
+...

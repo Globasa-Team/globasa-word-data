@@ -1,0 +1,50 @@
+---
+term: mujezapul
+slug: mujezapul
+ipa: "mud\u0361\u0292eza\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=mud\u0361\u0292eza\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - miraculous
+  - - miraculously
+  epo:
+  - - mirakla
+  - - mirakle
+  spa:
+  - - milagroso
+search terms:
+  glb:
+  - mujezapul
+  eng:
+  - miraculous
+  - miraculously
+  epo:
+  - mirakla
+  - mirakle
+  spa:
+  - milagroso
+etymology_type: DERIVD
+etymology: <a href="../lexi/mujeza">mujeza</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: mujezapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: miraculous; miraculously
+    epo: mirakla; mirakle
+    spa: milagroso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mujeza + -pul
+...

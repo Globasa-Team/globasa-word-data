@@ -1,0 +1,70 @@
+---
+term: ekrin
+slug: ekrin
+ipa: eˈkɾin
+ipa link: http://ipa-reader.xyz/?text=eˈkɾin&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - screen (_TV
+    - phone_)
+  epo:
+  - - ekrano
+  spa:
+  - - pantalla (_televisor
+    - teléfono_)
+search terms:
+  glb:
+  - ekrin
+  eng:
+  - screen tv
+  - screen (_tv
+  - phone
+  epo:
+  - ekrano
+  spa:
+  - pantalla televisor
+  - pantalla (_televisor
+  - teléfono
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - screen
+  Fransesa:
+  - - écran
+  Rusisa:
+  - - экран “ekran”
+  Pilipinasa:
+  - - iskrin
+  Turkisa:
+  - - ekran
+  Hindisa:
+  - - स्क्रीन “skrin”
+  Telugusa:
+  - - స్క్రీన్ “skrin”
+  Swahilisa:
+  - - skrini
+raw data:
+  term: ekrin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: screen (_TV, phone_)
+    epo: ekrano
+    spa: pantalla (_televisor, teléfono_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (screen), Fransesa (écran), Rusisa (экран “ekran”), Pilipinasa
+    (iskrin), Turkisa (ekran), Hindisa (स्क्रीन “skrin”), Telugusa (స్క్రీన్ “skrin”),
+    Swahilisa (skrini)
+...

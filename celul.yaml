@@ -1,0 +1,68 @@
+---
+term: celul
+slug: celul
+ipa: t͡ʃeˈlul
+ipa link: http://ipa-reader.xyz/?text=t͡ʃeˈlul&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cell (_biology_)
+  epo:
+  - - ĉelo (_biologio_)
+  spa:
+  - - célula (_biología_)
+search terms:
+  glb:
+  - celul
+  eng:
+  - cell
+  epo:
+  - ĉelo
+  spa:
+  - célula
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - cell
+  Espanisa:
+  - - célula
+  Fransesa:
+  - - cellule
+  Doycisa:
+  - - Zelle
+  Portugalsa:
+  - - célula
+  Italisa:
+  - - cellula
+  Indonesisa:
+  - - sel
+  Pilipinasa:
+  - - selula
+  Parsisa:
+  - - سلول "sellul"
+  Swahilisa:
+  - - seli
+raw data:
+  term: celul
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cell (_biology_)
+    epo: ĉelo (_biologio_)
+    spa: célula (_biología_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (cell), Espanisa (célula), Fransesa (cellule), Doycisa (Zelle),
+    Portugalsa (célula), Italisa (cellula), Indonesisa (sel), Pilipinasa (selula),
+    Parsisa (سلول "sellul"), Swahilisa (seli)
+...

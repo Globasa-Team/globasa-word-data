@@ -1,0 +1,74 @@
+---
+term: fisika
+slug: fisika
+ipa: fiˈsika
+ipa link: http://ipa-reader.xyz/?text=fiˈsika&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - physics
+  epo:
+  - - fiziko
+  spa:
+  - - física
+search terms:
+  glb:
+  - fisika
+  eng:
+  - physics
+  epo:
+  - fiziko
+  spa:
+  - física
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - physica
+  Espanisa:
+  - - física
+  Fransesa:
+  - - physique
+  Rusisa:
+  - - физика “fizika”
+  Doycisa:
+  - - Physik
+  Indonesisa:
+  - - fisika
+  Pilipinasa:
+  - - pisika
+  Hindisa:
+  - - फ़िज़िक्स “fiziks”
+  Arabisa:
+  - - فِيزِيَاء “fiziya”
+    - فِيزِيقَا “fizika”
+  Turkisa:
+  - - fizik
+  Parsisa:
+  - - فیزیک “fizik”
+  Swahilisa:
+  - - fizikia
+raw data:
+  term: fisika
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: physics
+    epo: fiziko
+    spa: física
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (physica), Espanisa (física), Fransesa (physique), Rusisa (физика
+    “fizika”), Doycisa (Physik), Indonesisa (fisika), Pilipinasa (pisika), Hindisa
+    (फ़िज़िक्स “fiziks”), Arabisa (فِيزِيَاء “fiziya”, فِيزِيقَا “fizika”), Turkisa
+    (fizik), Parsisa (فیزیک “fizik”), Swahilisa (fizikia)
+...

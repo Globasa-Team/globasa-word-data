@@ -1,0 +1,63 @@
+---
+term: lawfen
+slug: lawfen
+ipa: "law\u02C8fen"
+ipa link: "http://ipa-reader.xyz/?text=law\u02C8fen&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - bother
+    - annoy
+    - vex
+    - bug
+  epo:
+  - - "\u011Deno"
+    - "\u0109agreno"
+  - - "\u011Deni"
+    - "\u0109agreni"
+  spa:
+  - - molestia
+  - - molestar
+    - irritar
+search terms:
+  glb:
+  - lawfen
+  eng:
+  - bother
+  - annoy
+  - vex
+  - bug
+  epo:
+  - "\u011Deno"
+  - "\u0109agreno"
+  - "\u011Deni"
+  - "\u0109agreni"
+  spa:
+  - molestia
+  - molestar
+  - irritar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lawfen
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: bother, annoy, vex, bug
+    epo: "\u011Deno, \u0109agreno; \u011Deni, \u0109agreni"
+    spa: molestia; molestar, irritar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u52B3\u795E \u201Cl\xE1osh\xE9n\u201D), Vyetnamsa (l\xE0m
+    phi\u1EC1n)"
+...

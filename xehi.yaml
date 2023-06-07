@@ -1,0 +1,57 @@
+---
+term: xehi
+slug: xehi
+ipa: "\u02C8\u0283exi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283exi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - brag
+    - boast
+  epo:
+  - - fanfarono
+  - - fanfaroni
+  spa:
+  - - alardear
+    - presumir
+search terms:
+  glb:
+  - xehi
+  eng:
+  - brag
+  - boast
+  epo:
+  - fanfarono
+  - fanfaroni
+  spa:
+  - alardear
+  - presumir
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0936\u0947\u0959\u0940 \u201Cxehi\u201D"
+  Parsisa:
+  - - "\u0634\u06CC\u062E\u06CC \u201Cxeyhi\u201D"
+raw data:
+  term: xehi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: brag, boast
+    epo: fanfarono; fanfaroni
+    spa: alardear, presumir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0936\u0947\u0959\u0940 \u201Cxehi\u201D), Parsisa (\u0634\u06CC\u062E\u06CC
+    \u201Cxeyhi\u201D)"
+...

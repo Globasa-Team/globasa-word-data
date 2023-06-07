@@ -1,0 +1,76 @@
+---
+term: emoji
+slug: emoji
+ipa: eˈmod͡ʒi
+ipa link: http://ipa-reader.xyz/?text=eˈmod͡ʒi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - emoji
+  epo:
+  - - emoĝio
+    - emoĵio
+  spa:
+  - - _emoji_
+search terms:
+  glb:
+  - emoji
+  eng:
+  - emoji
+  epo:
+  - emoĝio
+  - emoĵio
+  spa:
+  - emoji
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - emoji
+  Espanisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Vyetnamsa: ~
+  Swahilisa: ~
+  Putunhwa:
+  - - 绘文字 “hweywendzi”
+  Hindisa:
+  - - इमोजी “imoji”
+  Arabisa:
+  - - إِيمُوجِي “imuji”
+  Niponsa:
+  - - 絵文字
+    - えもじ “emoji”
+  Hangusa:
+  - - 에모지 “emoji”
+  Telugusa:
+  - - ఎమోజీ “emoji”
+  Parsisa:
+  - - ایموجی “emoji”
+raw data:
+  term: emoji
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: emoji
+    epo: emoĝio, emoĵio
+    spa: _emoji_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (emoji), Espanisa, Fransesa, Doycisa, Indonesisa, Pilipinasa,
+    Turkisa, Vyetnamsa, Swahilisa, Putunhwa (绘文字 “hweywendzi”), Hindisa (इमोजी “imoji”),
+    Arabisa (إِيمُوجِي “imuji”), Niponsa (絵文字, えもじ “emoji”), Hangusa (에모지 “emoji”),
+    Telugusa (ఎమోజీ “emoji”), Parsisa (ایموجی “emoji”)
+...

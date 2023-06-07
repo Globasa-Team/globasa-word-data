@@ -1,0 +1,50 @@
+---
+term: kariible
+slug: kariible
+ipa: "ka\u027Ei\u02C8ible"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027Ei\u02C8ible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - for sale
+    - buyable
+  epo:
+  - - "a\u0109etebla"
+  - - "a\u0109eteble"
+  spa:
+  - - en venta
+search terms:
+  glb:
+  - kariible
+  eng:
+  - for sale
+  - buyable
+  epo:
+  - "a\u0109etebla"
+  - "a\u0109eteble"
+  spa:
+  - en venta
+etymology_type: DERIVD
+etymology: <a href="../lexi/kari">kari</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: kariible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: for sale, buyable
+    epo: "a\u0109etebla; a\u0109eteble"
+    spa: en venta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kari + -ible
+...

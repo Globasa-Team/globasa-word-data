@@ -1,0 +1,48 @@
+---
+term: mesi dua
+slug: mesi dua
+ipa: "\u02C8mesi \u02C8dua"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mesi \u02C8dua&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - February
+  epo:
+  - - Februaro
+  spa:
+  - - febrero
+search terms:
+  glb:
+  - mesi dua
+  - mesi
+  - dua
+  eng:
+  - february
+  epo:
+  - februaro
+  spa:
+  - febrero
+etymology_type: DERIVD
+etymology: <a href="../lexi/mesi">mesi</a>, <a href="../lexi/dua">dua</a>
+raw data:
+  term: mesi dua
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: February
+    epo: Februaro
+    spa: febrero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mesi, dua
+...

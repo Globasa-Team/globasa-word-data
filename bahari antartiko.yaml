@@ -1,0 +1,54 @@
+---
+term: bahari antartiko
+slug: bahari antartiko
+ipa: "ba\u02C8xa\u027Ei anta\u027E\u02C8tiko"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8xa\u027Ei anta\u027E\u02C8tiko&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Antarctic Ocean
+  epo:
+  - - Suda Oceano
+    - Antarkta Oceano. Sudpolusa Oceano
+  spa:
+  - - "oc\xE9ano Ant\xE1rtico"
+    - "oc\xE9ano Austral"
+    - "oc\xE9ano Meridional"
+search terms:
+  glb:
+  - bahari antartiko
+  - bahari
+  - antartiko
+  eng:
+  - antarctic ocean
+  epo:
+  - suda oceano
+  - antarkta oceano. sudpolusa oceano
+  spa:
+  - "oc\xE9ano ant\xE1rtico"
+  - "oc\xE9ano austral"
+  - "oc\xE9ano meridional"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bahari">bahari</a>, <a href="../lexi/Antartiko">Antartiko</a>
+raw data:
+  term: Bahari Antartiko
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Antarctic Ocean
+    epo: Suda Oceano, Antarkta Oceano. Sudpolusa Oceano
+    spa: "oc\xE9ano Ant\xE1rtico, oc\xE9ano Austral, oc\xE9ano Meridional"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bahari, Antartiko
+...

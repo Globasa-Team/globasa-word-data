@@ -1,0 +1,71 @@
+---
+term: kandela
+slug: kandela
+ipa: "kan\u02C8dela"
+ipa link: "http://ipa-reader.xyz/?text=kan\u02C8dela&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - candela
+  epo:
+  - - kandelo (mezurunuo)
+  spa:
+  - - candela
+    - cd
+  deu:
+  - - Candela
+  fra:
+  - - candela
+  rus:
+  - - "\u043A\u0430\u043D\u0434\u0435\u043B\u0430"
+  zho:
+  - - "\u574E\u5FB7\u62C9"
+search terms:
+  glb:
+  - kandela
+  eng:
+  - candela
+  epo:
+  - kandelo mezurunuo
+  - kandelo
+  spa:
+  - candela
+  - cd
+  deu:
+  - candela
+  fra:
+  - candela
+  rus:
+  - "\u043A\u0430\u043D\u0434\u0435\u043B\u0430"
+  zho:
+  - "\u574E\u5FB7\u62C9"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kandela
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: candela
+    epo: kandelo (mezurunuo)
+    spa: candela, cd
+    deu: Candela
+    fra: candela
+    rus: "\u043A\u0430\u043D\u0434\u0435\u043B\u0430"
+    zho: "\u574E\u5FB7\u62C9"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (candela), Espanisa (candela), Fransesa (candela), Rusisa (\u043A\u0430\u043D\u0434\u0435\u043B\u0430
+    \u201Ckand\u025Bela\u201D), Doycisa (Candela), Indonesisa (kandela), Pilipinasa
+    (kandela), Putunhwa (\u574E\u5FB7\u62C9 \u201Ckandela\u201D), Hindisa (\u0915\u0948\u0923\u094D\u0921\u0947\u0932\u093E
+    \u201Ckendela\u201D), Arabisa (\u0642\u0646\u062F\u064A\u0644\u0629 \u201Ckandila\u201D),
+    Niponsa (\u30AB\u30F3\u30C7\u30E9 \u201Ckandera\u201D), Turkisa (kandela), Hangusa
+    (\uCE78\uB378\uB77C \u201Ckandella\u201D), Vyetnamsa (candela), Parsisa (\u06A9\u0627\u0646\u062F\u0644\u0627
+    \u201Ckandela\u201D), Swahilisa (kandela)"
+...

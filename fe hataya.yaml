@@ -1,0 +1,64 @@
+---
+term: fe hataya
+slug: fe hataya
+ipa: "fe xa\u02C8taja"
+ipa link: "http://ipa-reader.xyz/?text=fe xa\u02C8taja&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - even so
+    - however
+    - nevertheless
+    - nonetheless
+    - in spite of that
+    - yet
+  epo:
+  - - tamen
+    - "malgra\u016De"
+  spa:
+  - - "aun as\xED"
+    - sin embargo
+    - no obstante
+search terms:
+  glb:
+  - fe hataya
+  - fe
+  - hataya
+  eng:
+  - even so
+  - however
+  - nevertheless
+  - nonetheless
+  - in spite of that
+  - yet
+  epo:
+  - tamen
+  - "malgra\u016De"
+  spa:
+  - "aun as\xED"
+  - sin embargo
+  - no obstante
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/hata">hata</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fe hataya
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: even so, however, nevertheless, nonetheless, in spite of that, yet
+    epo: "tamen, malgra\u016De"
+    spa: "aun as\xED, sin embargo, no obstante"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, hata + -ya
+...

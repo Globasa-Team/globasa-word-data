@@ -1,0 +1,61 @@
+---
+term: moja
+slug: moja
+ipa: "\u02C8mod\u0361\u0292a"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mod\u0361\u0292a&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - wave
+  - - curl
+  epo:
+  - - svingo
+    - ondumo
+  - - "svingi\u011Di"
+    - ondumi
+    - svingi
+  spa:
+  - - onda
+  - - ondear
+    - encrespar
+search terms:
+  glb:
+  - moja
+  eng:
+  - wave
+  - curl
+  epo:
+  - svingo
+  - ondumo
+  - "svingi\u011Di"
+  - ondumi
+  - svingi
+  spa:
+  - onda
+  - ondear
+  - encrespar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: moja
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: wave; curl
+    epo: "svingo, ondumo; svingi\u011Di, ondumi, svingi"
+    spa: onda; ondear, encrespar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0648\u062C\u0629 \u201Cmawja\u201D), Parsisa (\u0645\u0648\u062C
+    \u201Cmawj\u201D, \u201Cmoj\u201D)"
+...

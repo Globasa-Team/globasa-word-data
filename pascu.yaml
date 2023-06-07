@@ -1,0 +1,54 @@
+---
+term: pascu
+slug: pascu
+ipa: "\u02C8past\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8past\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - get through
+    - go through
+  epo:
+  - - "trai\u011Do"
+    - trairo
+  - - "trai\u011Di"
+    - trairi
+  spa:
+  - - atravesar
+search terms:
+  glb:
+  - pascu
+  eng:
+  - get through
+  - go through
+  epo:
+  - "trai\u011Do"
+  - trairo
+  - "trai\u011Di"
+  - trairi
+  spa:
+  - atravesar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pas">pas</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: pascu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: get through, go through
+    epo: "trai\u011Do, trairo; trai\u011Di, trairi"
+    spa: atravesar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pas + -cu
+...

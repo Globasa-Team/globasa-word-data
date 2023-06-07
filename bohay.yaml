@@ -1,0 +1,58 @@
+---
+term: bohay
+slug: bohay
+ipa: boˈxaj
+ipa link: http://ipa-reader.xyz/?text=boˈxaj&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - persecution
+  - - persecute
+  epo:
+  - - persekuto
+  - - persekuti
+  spa:
+  - - persecución
+  - - perseguir
+search terms:
+  glb:
+  - bohay
+  eng:
+  - persecution
+  - persecute
+  epo:
+  - persekuto
+  - persekuti
+  spa:
+  - persecución
+  - perseguir
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 迫害 “pòhài”
+  Vyetnamsa:
+  - - bức hại
+  Hangusa:
+  - - 박해 “baghae”
+raw data:
+  term: bohay
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: persecution; persecute
+    epo: persekuto; persekuti
+    spa: persecución; perseguir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (迫害 “pòhài”), Vyetnamsa (bức hại), Hangusa (박해 “baghae”)
+...

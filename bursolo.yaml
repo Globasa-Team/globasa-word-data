@@ -1,0 +1,52 @@
+---
+term: bursolo
+slug: bursolo
+ipa: "bu\u027E\u02C8solo"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027E\u02C8solo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - lonely
+    - lonesome
+  epo:
+  - - soleca
+  - - solece
+  spa:
+  - - aislado
+    - solitario
+search terms:
+  glb:
+  - bursolo
+  eng:
+  - lonely
+  - lonesome
+  epo:
+  - soleca
+  - solece
+  spa:
+  - aislado
+  - solitario
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/solo">solo</a>
+raw data:
+  term: bursolo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: lonely, lonesome
+    epo: soleca; solece
+    spa: aislado, solitario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + solo
+...

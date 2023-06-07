@@ -1,0 +1,48 @@
+---
+term: satiya
+slug: satiya
+ipa: "sa\u02C8tija"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8tija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - truth
+  epo:
+  - - vero
+    - vereco
+  spa:
+  - - verdad
+search terms:
+  glb:
+  - satiya
+  eng:
+  - truth
+  epo:
+  - vero
+  - vereco
+  spa:
+  - verdad
+etymology_type: DERIVD
+etymology: <a href="../lexi/sati">sati</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: satiya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: truth
+    epo: vero, vereco
+    spa: verdad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sati + -ya
+...

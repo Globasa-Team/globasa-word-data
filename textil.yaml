@@ -1,0 +1,72 @@
+---
+term: textil
+slug: textil
+ipa: "te\u0283\u02C8til"
+ipa link: "http://ipa-reader.xyz/?text=te\u0283\u02C8til&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fabric
+    - textile
+    - cloth
+  epo:
+  - - "\u015Dtofo"
+  spa:
+  - - tela
+    - tejido
+    - textil
+search terms:
+  glb:
+  - textil
+  eng:
+  - fabric
+  - textile
+  - cloth
+  epo:
+  - "\u015Dtofo"
+  spa:
+  - tela
+  - tejido
+  - textil
+etymology_type: NATLNG
+etymology:
+  Portugalsa:
+  - - "t\xEAxtil"
+  Englisa:
+  - - textile
+  Doycisa:
+  - - Textil
+  Fransesa:
+  - - textile
+  Espanisa:
+  - - textil
+  Rusisa:
+  - - "\u0442\u0435\u043A\u0441\u0442\u0438\u043B\u044C \u201Ctekstil\u201D"
+  Indonesisa:
+  - - tekstil
+  Turkisa:
+  - - tekstil
+raw data:
+  term: textil
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fabric, textile, cloth
+    epo: "\u015Dtofo"
+    spa: tela, tejido, textil
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Portugalsa (t\xEAxtil), Englisa (textile), Doycisa (Textil), Fransesa
+    (textile), Espanisa (textil), Rusisa (\u0442\u0435\u043A\u0441\u0442\u0438\u043B\u044C
+    \u201Ctekstil\u201D), Indonesisa (tekstil), Turkisa (tekstil)"
+...

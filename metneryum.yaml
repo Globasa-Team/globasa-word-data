@@ -1,0 +1,58 @@
+---
+term: metneryum
+slug: metneryum
+ipa: "metne\u02C8\u027Ejum"
+ipa link: "http://ipa-reader.xyz/?text=metne\u02C8\u027Ejum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - meitnerium
+  epo:
+  - - mejtnerio
+  spa:
+  - - meitnerio
+    - Mt
+search terms:
+  glb:
+  - metneryum
+  eng:
+  - meitnerium
+  epo:
+  - mejtnerio
+  spa:
+  - meitnerio
+  - mt
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: metneryum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: meitnerium
+    epo: mejtnerio
+    spa: meitnerio, Mt
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (meitnerium), Putunhwa (\u4951 \u201Cmay\u201D), Hindisa (\u092E\u0947\u0907\u091F\u094D\u0928\u0947\u0930\u093F\u092F\u092E
+    \u201Cmeitneriyam\u201D), Espanisa (meitnerio), Arabisa (\u0645\u0650\u064A\u062A\u0652\u0646\u0650\u0631\u0652\u064A\u064F\u0648\u0645
+    \u201Cmeytniryum\u201D), Fransesa (meitn\xE9rium), Rusisa (\u043C\u0435\u0439\u0442\u043D\u0435\u0440\u0438\u0439
+    \u201Cmeytneriy\u201D), Indonesisa (meitnerium), Doycisa (Meitnerium), Niponsa
+    (\u30DE\u30A4\u30C8\u30CD\u30EA\u30A6\u30E0 \u201Cmaitoneriumu\u201D), Telugusa
+    (\u0C2E\u0C40\u0C1F\u0C4D\u0C28\u0C40\u0C30\u0C3F\u0C2F\u0C02 \u201Cmitniriyam\u201D),
+    Turkisa (meitneryium), Hangusa (\uB9C8\uC774\uD2B8\uB108\uB968 \u201Cmaitunaryum\u201D),
+    Vyetnamsa (meitneri), Parsisa (\u0645\u0627\u06CC\u062A\u0646\u0631\u06CC\u0645
+    \u201Cmaytneriyom\u201D), Swahilisa (meitneri), Pilipinasa (meitneryo)"
+...

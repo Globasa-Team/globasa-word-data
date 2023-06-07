@@ -1,0 +1,47 @@
+---
+term: ikawyen
+slug: ikawyen
+ipa: "ikaw\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=ikaw\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (a) dependent (person)
+  epo:
+  - - sendependulo
+  spa:
+  - - dependiente
+search terms:
+  glb:
+  - ikawyen
+  eng:
+  - a dependent person
+  - dependent
+  epo:
+  - sendependulo
+  spa:
+  - dependiente
+etymology_type: DERIVD
+etymology: <a href="../lexi/ikaw">ikaw</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: ikawyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (a) dependent (person)
+    epo: sendependulo
+    spa: dependiente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ikaw + -yen
+...

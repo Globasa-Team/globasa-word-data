@@ -1,0 +1,62 @@
+---
+term: aloya
+slug: aloya
+ipa: "a\u02C8loja"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8loja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - difference
+  - - differ
+    - vary
+  epo:
+  - - diferenco
+    - malsameco
+  - - diferenci
+    - malsami
+  spa:
+  - - diferencia
+    - "distinci\xF3n"
+  - - diferir
+    - diferenciarse
+search terms:
+  glb:
+  - aloya
+  eng:
+  - difference
+  - differ
+  - vary
+  epo:
+  - diferenco
+  - malsameco
+  - diferenci
+  - malsami
+  spa:
+  - diferencia
+  - "distinci\xF3n"
+  - diferir
+  - diferenciarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: aloya
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: difference; differ, vary
+    epo: diferenco, malsameco; diferenci, malsami
+    spa: "diferencia, distinci\xF3n; diferir, diferenciarse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + -ya
+...

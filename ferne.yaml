@@ -1,0 +1,55 @@
+---
+term: ferne
+slug: ferne
+ipa: ˈfeɾne
+ipa link: http://ipa-reader.xyz/?text=ˈfeɾne&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fern
+  epo:
+  - - filiko
+  spa:
+  - - helecho
+search terms:
+  glb:
+  - ferne
+  eng:
+  - fern
+  epo:
+  - filiko
+  spa:
+  - helecho
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fern
+  Doycisa:
+  - - Farn
+  Hindisa:
+  - - फर्न “farn”
+  Telugusa:
+  - - ఫెర్న్ “fern”
+raw data:
+  term: ferne
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fern
+    epo: filiko
+    spa: helecho
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (fern), Doycisa (Farn), Hindisa (फर्न “farn”), Telugusa (ఫెర్న్
+    “fern”)
+...

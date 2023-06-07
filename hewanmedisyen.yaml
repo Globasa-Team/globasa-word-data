@@ -1,0 +1,49 @@
+---
+term: hewanmedisyen
+slug: hewanmedisyen
+ipa: "xewanmedi\u02C8sjen"
+ipa link: "http://ipa-reader.xyz/?text=xewanmedi\u02C8sjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - veterinarian
+  epo:
+  - - bestokuracisto
+    - veterinaro
+  spa:
+  - - veterinario
+search terms:
+  glb:
+  - hewanmedisyen
+  eng:
+  - veterinarian
+  epo:
+  - bestokuracisto
+  - veterinaro
+  spa:
+  - veterinario
+etymology_type: DERIVD
+etymology: <a href="../lexi/hewan">hewan</a> + <a href="../lexi/-medis">-medis</a>
+  + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: hewanmedisyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'veterinarian '
+    epo: bestokuracisto, veterinaro
+    spa: veterinario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hewan + -medis + -yen
+...

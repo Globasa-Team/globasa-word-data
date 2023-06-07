@@ -1,0 +1,50 @@
+---
+term: he banwatu
+slug: he banwatu
+ipa: "\u02C8xe ba\u02C8nwatu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe ba\u02C8nwatu&voice=Ewa"
+status: false
+category: phrase
+word class: m
+trans:
+  eng:
+  - - ever
+    - whenever
+  epo:
+  - - iam ajn
+  spa:
+  - - en cualquier momento
+search terms:
+  glb:
+  - he banwatu
+  - he
+  - banwatu
+  eng:
+  - ever
+  - whenever
+  epo:
+  - iam ajn
+  spa:
+  - en cualquier momento
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/ban">ban</a> + <a href="../lexi/watu">watu</a>
+raw data:
+  term: he banwatu
+  category: phrase
+  word class: m
+  status: false
+  trans:
+    eng: ever, whenever
+    epo: iam ajn
+    spa: en cualquier momento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, ban + watu
+...

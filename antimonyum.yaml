@@ -1,0 +1,85 @@
+---
+term: antimonyum
+slug: antimonyum
+ipa: antimoˈnjum
+ipa link: http://ipa-reader.xyz/?text=antimoˈnjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - antimony
+  epo:
+  - - antimono
+  spa:
+  - - antimonio
+    - Sb
+search terms:
+  glb:
+  - antimonyum
+  eng:
+  - antimony
+  epo:
+  - antimono
+  spa:
+  - antimonio
+  - sb
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - antimony
+  Espanisa:
+  - - antimonio
+  Fransesa:
+  - - antimoine
+  Doycisa:
+  - - Antimon
+  Indonesisa:
+  - - antimon
+  Pilipinasa:
+  - - intimonyo
+    - antimony
+  Arabisa:
+  - - أَنْتِيمُون “antimun”
+  Niponsa:
+  - - アンチモン “ancimon”
+    - アンチモニー “ancimoni”
+  Telugusa:
+  - - ఆంటిమొని “antimoni”
+  Turkisa:
+  - - antimon
+  Hangusa:
+  - - 안티몬 “antimon”
+    - 안티모니 “antimoni”
+  Vyetnamsa:
+  - - antimon
+  Parsisa:
+  - - انتیموان “antimuân”
+  Swahilisa:
+  - - antimon
+tags:
+- kimikali monlari
+raw data:
+  term: antimonyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: antimony
+    epo: antimono
+    spa: antimonio, Sb
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (antimony), Espanisa (antimonio), Fransesa (antimoine), Doycisa
+    (Antimon), Indonesisa (antimon), Pilipinasa (intimonyo, antimony), Arabisa (أَنْتِيمُون
+    “antimun”), Niponsa (アンチモン “ancimon”, アンチモニー “ancimoni”), Telugusa (ఆంటిమొని “antimoni”),
+    Turkisa (antimon), Hangusa (안티몬 “antimon”, 안티모니 “antimoni”), Vyetnamsa (antimon),
+    Parsisa (انتیموان “antimuân”), Swahilisa (antimon)
+...

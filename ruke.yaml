@@ -1,0 +1,58 @@
+---
+term: ruke
+slug: ruke
+ipa: "\u02C8\u027Euke"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Euke&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - back
+    - rear
+  epo:
+  - - "malanta\u016Do"
+    - dorso
+  spa:
+  - - espalda
+    - "parte de atr\xE1s"
+  - - "estar detr\xE1s"
+search terms:
+  glb:
+  - ruke
+  eng:
+  - back
+  - rear
+  epo:
+  - "malanta\u016Do"
+  - dorso
+  spa:
+  - espalda
+  - "parte de atr\xE1s"
+  - "estar detr\xE1s"
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Rucksack
+  Rusisa:
+  - - "\u0440\u044E\u043A\u0437\u0430\u043A \u201Cryukzak\u201D"
+raw data:
+  term: ruke
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: back, rear
+    epo: "malanta\u016Do, dorso"
+    spa: "espalda, parte de atr\xE1s; estar detr\xE1s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Rucksack), Rusisa (\u0440\u044E\u043A\u0437\u0430\u043A \u201Cryukzak\u201D)"
+...

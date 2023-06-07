@@ -1,0 +1,67 @@
+---
+term: globa
+slug: globa
+ipa: ˈgloba
+ipa link: http://ipa-reader.xyz/?text=ˈgloba&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - world
+  epo:
+  - - mondo
+  spa:
+  - - mundo
+search terms:
+  glb:
+  - globa
+  eng:
+  - world
+  epo:
+  - mondo
+  spa:
+  - mundo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - global
+  Fransesa:
+  - - global
+  Doycisa:
+  - - global
+  Rusisa:
+  - - глобальный “globalniy”
+  Espanisa:
+  - - global
+  Turkisa:
+  - - global
+  Indonesisa:
+  - - global
+  Pilipinasa:
+  - - global
+    - globo
+  Niponsa:
+  - - グローバル “gurōbaru”
+raw data:
+  term: globa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: world
+    epo: mondo
+    spa: mundo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (global), Fransesa (global), Doycisa (global), Rusisa (глобальный
+    “globalniy”), Espanisa (global), Turkisa (global), Indonesisa (global), Pilipinasa
+    (global, globo), Niponsa (グローバル “gurōbaru”)
+...

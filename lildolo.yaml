@@ -1,0 +1,48 @@
+---
+term: lildolo
+slug: lildolo
+ipa: "lil\u02C8dolo"
+ipa link: "http://ipa-reader.xyz/?text=lil\u02C8dolo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - alley
+  epo:
+  - - strateto
+    - aleo
+  spa:
+  - - "callej\xF3n"
+search terms:
+  glb:
+  - lildolo
+  eng:
+  - alley
+  epo:
+  - strateto
+  - aleo
+  spa:
+  - "callej\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/dolo">dolo</a>
+raw data:
+  term: lildolo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: alley
+    epo: strateto, aleo
+    spa: "callej\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + dolo
+...

@@ -1,0 +1,71 @@
+---
+term: elasti
+slug: elasti
+ipa: eˈlasti
+ipa link: http://ipa-reader.xyz/?text=eˈlasti&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - elastic
+  epo:
+  - - elasta
+  - - elaste
+  spa:
+  - - elástico
+search terms:
+  glb:
+  - elasti
+  eng:
+  - elastic
+  epo:
+  - elasta
+  - elaste
+  spa:
+  - elástico
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - elastic
+  Fransesa:
+  - - élastique
+  Doycisa:
+  - - elastisch
+  Rusisa:
+  - - эластичный “elasticniy”
+  Espanisa:
+  - - elástico
+  Niponas:
+  - - エラスティック “erasutikku”
+  Turkisa:
+  - - elastik
+  Parsisa:
+  - - الاستیک “elâstik”
+  Indonesisa:
+  - - elastis
+  Pilipinasa:
+  - - elastik
+raw data:
+  term: elasti
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: elastic
+    epo: elasta; elaste
+    spa: elástico
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (elastic), Fransesa (élastique), Doycisa (elastisch), Rusisa
+    (эластичный “elasticniy”), Espanisa (elástico), Niponas (エラスティック “erasutikku”),
+    Turkisa (elastik), Parsisa (الاستیک “elâstik”), Indonesisa (elastis), Pilipinasa
+    (elastik)
+...

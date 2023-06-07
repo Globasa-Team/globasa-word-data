@@ -1,0 +1,72 @@
+---
+term: oko
+slug: oko
+ipa: "\u02C8oko"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8oko&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - eye
+  - - see
+    - look
+    - watch
+    - view
+  epo:
+  - - okulo
+  - - vidi
+  spa:
+  - - ojo
+  - - ver
+    - mirar
+search terms:
+  glb:
+  - oko
+  eng:
+  - eye
+  - see
+  - look
+  - watch
+  - view
+  epo:
+  - okulo
+  - vidi
+  spa:
+  - ojo
+  - ver
+  - mirar
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - "\u043E\u043A\u0443\u043B\u0438\u0441\u0442 \u201Cokulist\u201D"
+  Espanisa:
+  - - oculista
+    - ojo
+  Fransesa:
+  - - oculiste
+  Englisa:
+  - - oculist
+tags:
+- jismulogi
+raw data:
+  term: oko
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: eye; see, look, watch, view
+    epo: okulo; vidi
+    spa: ojo; ver, mirar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Rusisa (\u043E\u043A\u0443\u043B\u0438\u0441\u0442 \u201Cokulist\u201D),
+    Espanisa (oculista, ojo), Fransesa (oculiste), Englisa (oculist)"
+...

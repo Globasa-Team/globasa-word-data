@@ -1,0 +1,89 @@
+---
+term: boryum
+slug: boryum
+ipa: boˈɾjum
+ipa link: http://ipa-reader.xyz/?text=boˈɾjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bohrium
+  epo:
+  - - borio
+  spa:
+  - - bohrio
+    - Bh
+search terms:
+  glb:
+  - boryum
+  eng:
+  - bohrium
+  epo:
+  - borio
+  spa:
+  - bohrio
+  - bh
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bohrium
+  Putunhwa:
+  - - "\U00028A0F “bo”"
+  Hindisa:
+  - - बोरियम “boriyam”
+  Espanisa:
+  - - bohrio
+  Arabisa:
+  - - بُورْيُوم “buryum”
+  Fransesa:
+  - - bohrium
+  Rusisa:
+  - - бoрий “boriy”
+  Indonesisa:
+  - - bohrium
+  Doycisa:
+  - - Bohrium
+  Niponsa:
+  - - ボーリウム “boriumu”
+  Telugusa:
+  - - హాసియం “boriyam”
+  Turkisa:
+  - - bohriyum
+  Hangusa:
+  - - 보륨 “boryum”
+  Vyetnamsa:
+  - - bohri
+  Parsisa:
+  - - بوریم “boriyom”
+  Swahilisa:
+  - - bohri
+  Pilipinasa:
+  - - boryo
+    - bohrium
+tags:
+- kimikali monlari
+raw data:
+  term: boryum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bohrium
+    epo: borio
+    spa: bohrio, Bh
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (bohrium), Putunhwa (\U00028A0F “bo”), Hindisa (बोरियम “boriyam”),
+    Espanisa (bohrio), Arabisa (بُورْيُوم “buryum”), Fransesa (bohrium), Rusisa (бoрий
+    “boriy”), Indonesisa (bohrium), Doycisa (Bohrium), Niponsa (ボーリウム “boriumu”),
+    Telugusa (హాసియం “boriyam”), Turkisa (bohriyum), Hangusa (보륨 “boryum”), Vyetnamsa
+    (bohri), Parsisa (بوریم “boriyom”), Swahilisa (bohri), Pilipinasa (boryo, bohrium)"
+...

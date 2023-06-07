@@ -1,0 +1,50 @@
+---
+term: tras-
+slug: tras-
+ipa: "\u02C8t\u027Eas-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u027Eas-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - trans-
+    - across
+  epo:
+  - - trans-
+  spa:
+  - - trans-
+    - tras-
+search terms:
+  glb:
+  - tras-
+  eng:
+  - trans-
+  - across
+  epo:
+  - trans-
+  spa:
+  - trans-
+  - tras-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/tras">tras</a>.
+raw data:
+  term: tras-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: trans-, across
+    epo: trans-
+    spa: trans-, tras-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _tras_.
+...

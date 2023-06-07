@@ -1,0 +1,48 @@
+---
+term: -itis
+slug: -itis
+ipa: "-i\u02C8tis"
+ipa link: "http://ipa-reader.xyz/?text=-i\u02C8tis&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - inflammation
+  epo:
+  - - -inflamo
+    - -ito
+  spa:
+  - - "inflamaci\xF3n"
+search terms:
+  glb:
+  - -itis
+  eng:
+  - inflammation
+  epo:
+  - -inflamo
+  - -ito
+  spa:
+  - "inflamaci\xF3n"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/itis">itis</a>.
+raw data:
+  term: -itis
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: inflammation
+    epo: -inflamo, -ito
+    spa: "inflamaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _itis_.
+...

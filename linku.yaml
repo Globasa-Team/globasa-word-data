@@ -1,0 +1,65 @@
+---
+term: linku
+slug: linku
+ipa: "\u02C8linku"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8linku&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - connection
+    - link
+  - - connect
+    - link
+  epo:
+  - - ligo
+  - - ligi
+  spa:
+  - - "conexi\xF3n"
+    - enlace
+  - - conectar
+    - enlazar
+search terms:
+  glb:
+  - linku
+  eng:
+  - connection
+  - link
+  - connect
+  epo:
+  - ligo
+  - ligi
+  spa:
+  - "conexi\xF3n"
+  - enlace
+  - conectar
+  - enlazar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: linku
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: connection, link; connect, link
+    epo: ligo; ligi
+    spa: "conexi\xF3n, enlace; conectar, enlazar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Link), Englisa (link), Rusisa (\u043B\u0438\u043D\u043A \u201Clink\u201D),
+    Frensesa (lien), Hindisa (\u0932\u093F\u0902\u0915 \u201Clink\u201D), Parsisa
+    (\u0644\u06CC\u0646\u06A9\u200E \u201Clink\u201D), Telugusa (\u0C32\u0C3F\u0C02\u0C15\u0C4D
+    \u201Clink\u201D), Niponsa (\u30EA\u30F3\u30AF \u201Crinku\u201D), Vyetnamsa (li\xEAn
+    k\u1EBFt), Parsisa (\u0644\u06CC\u0646\u06A9\u200E \u201Clink\u201D), Gwondunsa
+    (\u8FDE\u7ED3 \u201Clingit\u201D), Ivrisa (\u05DC\u05B4\u05D9\u05E0\u05B0\u05E7\u200E
+    \u201Clink\u201D)"
+...

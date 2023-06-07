@@ -1,0 +1,62 @@
+---
+term: awtiya
+slug: awtiya
+ipa: "aw\u02C8tija"
+ipa link: "http://ipa-reader.xyz/?text=aw\u02C8tija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - autism
+  epo:
+  - - "a\u016Dtismo"
+  spa:
+  - - autismo
+  deu:
+  - - Autismus
+  fra:
+  - - autisme
+  rus:
+  - - "\u0430\u0443\u0442\u0438\u0437\u043C"
+  zho:
+  - - "\u81EA\u95ED\u75C7"
+search terms:
+  glb:
+  - awtiya
+  eng:
+  - autism
+  epo:
+  - "a\u016Dtismo"
+  spa:
+  - autismo
+  deu:
+  - autismus
+  fra:
+  - autisme
+  rus:
+  - "\u0430\u0443\u0442\u0438\u0437\u043C"
+  zho:
+  - "\u81EA\u95ED\u75C7"
+etymology_type: DERIVD
+etymology: <a href="../lexi/awti">awti</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: awtiya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: autism
+    epo: "a\u016Dtismo"
+    spa: autismo
+    deu: Autismus
+    fra: autisme
+    rus: "\u0430\u0443\u0442\u0438\u0437\u043C"
+    zho: "\u81EA\u95ED\u75C7"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: awti + -ya
+...

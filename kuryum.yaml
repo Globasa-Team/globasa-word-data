@@ -1,0 +1,57 @@
+---
+term: kuryum
+slug: kuryum
+ipa: "ku\u02C8\u027Ejum"
+ipa link: "http://ipa-reader.xyz/?text=ku\u02C8\u027Ejum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - curium
+  epo:
+  - - kuriumo
+  spa:
+  - - curio
+    - Cm
+search terms:
+  glb:
+  - kuryum
+  eng:
+  - curium
+  epo:
+  - kuriumo
+  spa:
+  - curio
+  - cm
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: kuryum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: curium
+    epo: kuriumo
+    spa: curio, Cm
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (curium), Hindisa (\u0915\u094D\u092F\u0942\u0930\u093F\u092F\u092E
+    \u201Ckyuriyam\u201D), Espanisa (curio), Arabisa (\u0643\u064F\u0648\u0631\u0652\u064A\u064F\u0648\u0645
+    \u201Ckuryum\u201D), Fransesa (curium), Rusisa (\u043A\u044E\u0440\u0438\u0439
+    \u201Ckyuriy\u201D), Indonesisa (kurium), Doycisa (Curium), Niponsa (\u30AD\u30E5\u30EA\u30A6\u30E0
+    \u201Ckyuriumu\u201D), Telugusa (\u0C15\u0C4D\u0C2F\u0C42\u0C30\u0C3F\u0C2F\u0C02
+    \u201Ckyuriyam\u201D), Turkisa (k\xFCriyum), Hangusa (\uD034\uB968 \u201Ckwiryum\u201D),
+    Vyetnamsa (curi), Parsisa (\u06A9\u0648\u0631\u06CC\u0645 \u201Ckuriyom\u201D),
+    Swahilisa (kuri, curi), Pilipinasa (kuryo)"
+...

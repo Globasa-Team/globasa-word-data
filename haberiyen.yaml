@@ -1,0 +1,46 @@
+---
+term: haberiyen
+slug: haberiyen
+ipa: "xabe\u027Ei\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=xabe\u027Ei\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - journalist
+  epo:
+  - - "\u0135urnalisto"
+  spa:
+  - - reportero
+search terms:
+  glb:
+  - haberiyen
+  eng:
+  - journalist
+  epo:
+  - "\u0135urnalisto"
+  spa:
+  - reportero
+etymology_type: DERIVD
+etymology: <a href="../lexi/haberi">haberi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: haberiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: journalist
+    epo: "\u0135urnalisto"
+    spa: reportero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: haberi + -yen
+...

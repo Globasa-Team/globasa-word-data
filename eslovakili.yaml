@@ -1,0 +1,48 @@
+---
+term: eslovakili
+slug: eslovakili
+ipa: "eslova\u02C8kili"
+ipa link: "http://ipa-reader.xyz/?text=eslova\u02C8kili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Slovak
+    - Slovakian
+  epo:
+  - - slovaka
+  spa:
+  - - eslovaco
+search terms:
+  glb:
+  - eslovakili
+  eng:
+  - slovak
+  - slovakian
+  epo:
+  - slovaka
+  spa:
+  - eslovaco
+etymology_type: DERIVD
+etymology: <a href="../lexi/Eslovaki">Eslovaki</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Eslovakili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Slovak, Slovakian
+    epo: slovaka
+    spa: eslovaco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Eslovaki + -li
+...

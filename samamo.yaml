@@ -1,0 +1,50 @@
+---
+term: samamo
+slug: samamo
+ipa: "sa\u02C8mamo"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8mamo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - in the same way
+    - to the same degree
+  epo:
+  - - same
+  spa:
+  - - de la misma manera
+    - al mismo grado
+search terms:
+  glb:
+  - samamo
+  eng:
+  - in the same way
+  - to the same degree
+  epo:
+  - same
+  spa:
+  - de la misma manera
+  - al mismo grado
+etymology_type: DERIVD
+etymology: <a href="../lexi/sama">sama</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: samamo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: in the same way, to the same degree
+    epo: same
+    spa: de la misma manera, al mismo grado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sama + -mo
+...

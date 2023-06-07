@@ -1,0 +1,50 @@
+---
+term: vyetnamsa
+slug: vyetnamsa
+ipa: "vjet\u02C8namsa"
+ipa link: "http://ipa-reader.xyz/?text=vjet\u02C8namsa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Vietnamese (language)
+  epo:
+  - - la vjetnama (lingvo)
+  spa:
+  - - vietnamita (_idioma_)
+search terms:
+  glb:
+  - vyetnamsa
+  eng:
+  - vietnamese language
+  - vietnamese
+  epo:
+  - la vjetnama lingvo
+  - la vjetnama
+  spa:
+  - vietnamita
+etymology_type: DERIVD
+etymology: <a href="../lexi/Vyetnam">Vyetnam</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Vyetnamsa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Vietnamese (language)
+    epo: la vjetnama (lingvo)
+    spa: vietnamita (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Vyetnam + -sa
+...

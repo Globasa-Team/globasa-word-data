@@ -1,0 +1,53 @@
+---
+term: somu
+slug: somu
+ipa: "\u02C8somu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8somu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - garlic
+  epo:
+  - - ajlo
+  spa:
+  - - ajo
+search terms:
+  glb:
+  - somu
+  eng:
+  - garlic
+  epo:
+  - ajlo
+  spa:
+  - ajo
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062B\u0648\u0645 \u201C\u1E6F\u016Bm\u201D"
+    - "\u201Ctawm\u201D"
+    - "\u201Ctom\u201D"
+  Swahilisa:
+  - - saumu
+raw data:
+  term: somu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: garlic
+    epo: ajlo
+    spa: ajo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062B\u0648\u0645 \u201C\u1E6F\u016Bm\u201D, \u201Ctawm\u201D,
+    \u201Ctom\u201D), Swahilisa (saumu)"
+...

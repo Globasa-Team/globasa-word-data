@@ -1,0 +1,47 @@
+---
+term: mismari
+slug: mismari
+ipa: "mis\u02C8ma\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=mis\u02C8ma\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nail (_construction_)
+  epo:
+  - - najlo
+  spa:
+  - - "clavo (_construcci\xF3n_)"
+search terms:
+  glb:
+  - mismari
+  eng:
+  - nail
+  epo:
+  - najlo
+  spa:
+  - clavo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mismari
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nail (_construction_)
+    epo: najlo
+    spa: "clavo (_construcci\xF3n_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0633\u0645\u0627\u0631 \u201Cmism\u0101r\u201D), Swahilisa
+    (msumari), Parsisa (\u0645\u06CC\u062E \u201Cmix\u201D), Turkisa (m\u0131h)"
+...

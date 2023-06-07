@@ -1,0 +1,51 @@
+---
+term: solainfracu
+slug: solainfracu
+ipa: "solain\u02C8f\u027Eat\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=solain\u02C8f\u027Eat\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - sunset
+    - dusk
+  epo:
+  - - sunsubiro
+  - - sunsubiri
+  spa:
+  - - puesta de sol
+search terms:
+  glb:
+  - solainfracu
+  eng:
+  - sunset
+  - dusk
+  epo:
+  - sunsubiro
+  - sunsubiri
+  spa:
+  - puesta de sol
+etymology_type: DERIVD
+etymology: <a href="../lexi/sola">sola</a> + <a href="../lexi/infra">infra</a> + <a
+  href="../lexi/-cu">-cu</a>
+raw data:
+  term: solainfracu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: sunset, dusk
+    epo: sunsubiro; sunsubiri
+    spa: puesta de sol
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sola + infra + -cu
+...

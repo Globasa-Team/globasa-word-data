@@ -1,0 +1,53 @@
+---
+term: exiki
+slug: exiki
+ipa: "e\u02C8\u0283iki"
+ipa link: "http://ipa-reader.xyz/?text=e\u02C8\u0283iki&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - threshold
+    - sill
+  epo:
+  - - sojlo
+  spa:
+  - - umbral
+search terms:
+  glb:
+  - exiki
+  eng:
+  - threshold
+  - sill
+  epo:
+  - sojlo
+  spa:
+  - umbral
+etymology_type: NATLNG
+etymology:
+  Niponsa:
+  - - "\u6577\u5C45 \"xiki\""
+    - "\u95BE \"iki\""
+  Turkisa:
+  - - "e\u015Fik"
+raw data:
+  term: exiki
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: threshold, sill
+    epo: sojlo
+    spa: umbral
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Niponsa (\u6577\u5C45 \"xiki\", \u95BE \"iki\"), Turkisa (e\u015Fik)"
+...

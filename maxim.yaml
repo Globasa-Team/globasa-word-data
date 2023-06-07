@@ -1,0 +1,49 @@
+---
+term: maxim
+slug: maxim
+ipa: "ma\u02C8\u0283im"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8\u0283im&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - (the) most
+  epo:
+  - - plej
+  spa:
+  - - "el m\xE1s..."
+search terms:
+  glb:
+  - maxim
+  eng:
+  - the most
+  - most
+  epo:
+  - plej
+  spa:
+  - "el m\xE1s..."
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: maxim
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: (the) most
+    epo: plej
+    spa: "el m\xE1s..."
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa, Espanisa (mas, maximo), Englisa, Doycisa (maximal), Rusisa
+    (\u043C\u0430\u043A\u0441\u0438\u043C\u0443\u043C \u201Cmaksimum\u201D), Turkisa
+    (maksimum)"
+...

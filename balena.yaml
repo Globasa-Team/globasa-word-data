@@ -1,0 +1,65 @@
+---
+term: balena
+slug: balena
+ipa: baˈlena
+ipa link: http://ipa-reader.xyz/?text=baˈlena&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - whale
+    - _Cetacea_
+  epo:
+  - - baleno
+    - cetaco
+  spa:
+  - - ballena
+    - _Cetacea_
+search terms:
+  glb:
+  - balena
+  eng:
+  - whale
+  - cetacea
+  epo:
+  - baleno
+  - cetaco
+  spa:
+  - ballena
+  - cetacea
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - baleen
+  Fransesa:
+  - - baleine
+  Espanisa:
+  - - ballena
+  Pilipinasa:
+  - - balyena
+  Turkisa:
+  - - balina
+tags:
+- hewan
+raw data:
+  term: balena
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: whale, _Cetacea_
+    epo: baleno, cetaco
+    spa: ballena, _Cetacea_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (baleen), Fransesa (baleine), Espanisa (ballena), Pilipinasa
+    (balyena), Turkisa (balina)
+...

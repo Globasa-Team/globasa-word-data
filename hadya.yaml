@@ -1,0 +1,65 @@
+---
+term: hadya
+slug: hadya
+ipa: ˈxadja
+ipa link: http://ipa-reader.xyz/?text=ˈxadja&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - gift
+    - present
+  - - give as present
+  epo:
+  - - donaco
+  - - donaci
+  spa:
+  - - regalo
+  - - regalar
+search terms:
+  glb:
+  - hadya
+  eng:
+  - gift
+  - present
+  - give as present
+  epo:
+  - donaco
+  - donaci
+  spa:
+  - regalo
+  - regalar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - هدية “hadia”
+  Parsisa:
+  - - هدیه “hadiye”
+  Turkisa:
+  - - hediye
+  Indonesisa:
+  - - hadiah
+  Urdu:
+  - - ہدیہ “hadiyā”
+raw data:
+  term: hadya
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: gift, present; give as present
+    epo: donaco; donaci
+    spa: regalo; regalar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (هدية “hadia”), Parsisa (هدیه “hadiye”) Turkisa (hediye), Indonesisa
+    (hadiah), Urdu (ہدیہ “hadiyā”)
+...

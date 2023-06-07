@@ -1,0 +1,50 @@
+---
+term: fransesa
+slug: fransesa
+ipa: "f\u027Ean\u02C8sesa"
+ipa link: "http://ipa-reader.xyz/?text=f\u027Ean\u02C8sesa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - French (language)
+  epo:
+  - - la franca (lingvo)
+  spa:
+  - - "franc\xE9s (_idioma_)"
+search terms:
+  glb:
+  - fransesa
+  eng:
+  - french language
+  - french
+  epo:
+  - la franca lingvo
+  - la franca
+  spa:
+  - "franc\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Franse">Franse</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Fransesa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: French (language)
+    epo: la franca (lingvo)
+    spa: "franc\xE9s (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Franse + -sa
+...

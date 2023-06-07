@@ -1,0 +1,54 @@
+---
+term: yozaypul
+slug: yozaypul
+ipa: "jozaj\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=jozaj\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - guilty
+  - - be guilty
+    - be one's fault
+  epo:
+  - - kulpa
+  - - kulpe
+  spa:
+  - - culpable
+  - - culpablemente
+search terms:
+  glb:
+  - yozaypul
+  eng:
+  - guilty
+  - be guilty
+  - be one's fault
+  epo:
+  - kulpa
+  - kulpe
+  spa:
+  - culpable
+  - culpablemente
+etymology_type: DERIVD
+etymology: <a href="../lexi/yozay">yozay</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: yozaypul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: guilty; be guilty, be one's fault
+    epo: kulpa; kulpe
+    spa: culpable; culpablemente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yozay + -pul
+...

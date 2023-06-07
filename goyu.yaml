@@ -1,0 +1,73 @@
+---
+term: goyu
+slug: goyu
+ipa: ˈgoju
+ipa link: http://ipa-reader.xyz/?text=ˈgoju&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - pit
+    - hole
+  - - dig
+    - excavate
+  epo:
+  - - foso
+    - fosaĵo
+    - truo
+  - - fosi
+    - (el)kavigi
+  spa:
+  - - hoyo
+    - foso
+  - - cavar
+search terms:
+  glb:
+  - goyu
+  eng:
+  - pit
+  - hole
+  - dig
+  - excavate
+  epo:
+  - foso
+  - fosaĵo
+  - truo
+  - fosi
+  - elkavigi
+  - kavigi
+  spa:
+  - hoyo
+  - foso
+  - cavar
+etymology_type: NATLNG
+etymology:
+  Telugu:
+  - - గొయ్యి “goyyi”
+  Turkisa:
+  - - oyuk
+  Espanisa:
+  - - hoyo
+  Filipino:
+  - - hoyo
+raw data:
+  term: goyu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: pit, hole; dig, excavate
+    epo: foso, fosaĵo, truo; fosi, (el)kavigi
+    spa: hoyo, foso; cavar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Telugu (గొయ్యి “goyyi”), Turkisa (oyuk), Espanisa (hoyo), Filipino (hoyo)
+...

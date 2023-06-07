@@ -1,0 +1,52 @@
+---
+term: hinkwanti
+slug: hinkwanti
+ipa: "xin\u02C8kwanti"
+ipa link: "http://ipa-reader.xyz/?text=xin\u02C8kwanti&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - this amount of
+    - this quantity of
+    - this much of
+  epo:
+  - - "\u0109i tiom"
+    - "tiom \u0109i"
+  spa:
+  - - esta cantidad
+search terms:
+  glb:
+  - hinkwanti
+  eng:
+  - this amount of
+  - this quantity of
+  - this much of
+  epo:
+  - "\u0109i tiom"
+  - "tiom \u0109i"
+  spa:
+  - esta cantidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/hin">hin</a> + <a href="../lexi/kwanti">kwanti</a>
+raw data:
+  term: 'hinkwanti '
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: this amount of, this quantity of, this much of
+    epo: "\u0109i tiom, tiom \u0109i"
+    spa: esta cantidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hin + kwanti
+...

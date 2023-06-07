@@ -1,0 +1,59 @@
+---
+term: vento
+slug: vento
+ipa: "\u02C8vento"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8vento&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wind
+  epo:
+  - - vento
+  spa:
+  - - viento
+search terms:
+  glb:
+  - vento
+  eng:
+  - wind
+  epo:
+  - vento
+  spa:
+  - viento
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - wind
+  Fransesa:
+  - - vent
+  Doycisa:
+  - - Wind
+  Rusisa:
+  - - "\u0432\u0435\u0442\u0435\u0440 \u201Cveter\u201D"
+  Espanisa:
+  - - viento
+  Hindisa:
+  - - "\u0935\u093E\u0924 \u201Cvat\u201D"
+raw data:
+  term: vento
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wind
+    epo: vento
+    spa: viento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (wind), Fransesa (vent), Doycisa (Wind), Rusisa (\u0432\u0435\u0442\u0435\u0440
+    \u201Cveter\u201D), Espanisa (viento), Hindisa (\u0935\u093E\u0924 \u201Cvat\u201D)"
+...

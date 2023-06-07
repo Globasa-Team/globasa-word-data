@@ -1,0 +1,88 @@
+---
+term: vitamin
+slug: vitamin
+ipa: "vita\u02C8min"
+ipa link: "http://ipa-reader.xyz/?text=vita\u02C8min&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vitamin
+  epo:
+  - - vitamino
+  spa:
+  - - vitamina
+search terms:
+  glb:
+  - vitamin
+  eng:
+  - vitamin
+  epo:
+  - vitamino
+  spa:
+  - vitamina
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - vitamin
+  Espanisa:
+  - - vitamina
+  Fransesa:
+  - - vitamine
+  Rusisa:
+  - - "\u0432\u0438\u0442\u0430\u043C\u0438\u043D \u201Cvitamin\u201D"
+  Doycisa:
+  - - Vitamin
+  Indonesisa:
+  - - vitamin
+  Pilipinasa:
+  - - bitamina
+  Putunhwa:
+  - - "\u7EF4\u4ED6\u547D \u201Cweytaming\u201D"
+  Hindisa:
+  - - "\u0935\u093F\u091F\u093E\u092E\u093F\u0928 \u201Cvitamin\u201D"
+  Arabisa:
+  - - "\u0641\u0650\u064A\u062A\u064E\u0627\u0645\u0650\u064A\u0646 \u201Cfitamin\u201D"
+  Niponsa:
+  - - "\u30D3\u30BF\u30DF\u30F3 \u201Cbitamin\u201D"
+  Telugusa:
+  - - "\u0C35\u0C3F\u0C1F\u0C2E\u0C3F\u0C28\u0C4D \u201Cvitamin\u201D"
+  Turkisa:
+  - - vitamin
+  Hangusa:
+  - - "\uBE44\uD0C0\uBBFC \u201Cbitamin\u201D"
+  Vyetnamsa:
+  - - vi ta min
+  Parsisa:
+  - - "\u0648\u06CC\u062A\u0627\u0645\u06CC\u0646 \u201Cvit\xE2min\u201D"
+  Swahilisa:
+  - - vitamini
+raw data:
+  term: vitamin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vitamin
+    epo: vitamino
+    spa: vitamina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (vitamin), Espanisa (vitamina), Fransesa (vitamine), Rusisa
+    (\u0432\u0438\u0442\u0430\u043C\u0438\u043D \u201Cvitamin\u201D), Doycisa (Vitamin),
+    Indonesisa (vitamin), Pilipinasa (bitamina), Putunhwa (\u7EF4\u4ED6\u547D \u201Cweytaming\u201D),
+    Hindisa (\u0935\u093F\u091F\u093E\u092E\u093F\u0928 \u201Cvitamin\u201D), Arabisa
+    (\u0641\u0650\u064A\u062A\u064E\u0627\u0645\u0650\u064A\u0646 \u201Cfitamin\u201D),
+    Niponsa (\u30D3\u30BF\u30DF\u30F3 \u201Cbitamin\u201D), Telugusa (\u0C35\u0C3F\u0C1F\u0C2E\u0C3F\u0C28\u0C4D
+    \u201Cvitamin\u201D), Turkisa (vitamin), Hangusa (\uBE44\uD0C0\uBBFC \u201Cbitamin\u201D),
+    Vyetnamsa (vi ta min), Parsisa (\u0648\u06CC\u062A\u0627\u0645\u06CC\u0646 \u201Cvit\xE2min\u201D),
+    Swahilisa (vitamini)"
+...

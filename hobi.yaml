@@ -1,0 +1,51 @@
+---
+term: hobi
+slug: hobi
+ipa: "\u02C8xobi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xobi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hobby
+  epo:
+  - - "\u015Datokupo"
+    - hobio
+  spa:
+  - - pasatiempo
+    - _hobby_
+search terms:
+  glb:
+  - hobi
+  eng:
+  - hobby
+  epo:
+  - "\u015Datokupo"
+  - hobio
+  spa:
+  - pasatiempo
+  - hobby
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hobi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hobby
+    epo: "\u015Datokupo, hobio"
+    spa: pasatiempo, _hobby_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (hobby), Espanisa, Fransesa, Doycisa, Rusisa (\u0445\u043E\u0431\u0431\u0438
+    \u201Cxobbi\u201D), Indonesisa (hobbi), Turkisa (hobi), Swahilisa"
+...

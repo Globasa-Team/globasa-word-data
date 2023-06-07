@@ -1,0 +1,78 @@
+---
+term: newtral
+slug: newtral
+ipa: "new\u02C8t\u027Eal"
+ipa link: "http://ipa-reader.xyz/?text=new\u02C8t\u027Eal&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - neutral
+    - neutrally
+  epo:
+  - - "ne\u016Dtra"
+    - "ne\u016Dtrala"
+  - - "ne\u016Dtre"
+    - "ne\u016Dtrale"
+  spa:
+  - - neutral
+  - - neutralmente
+search terms:
+  glb:
+  - newtral
+  eng:
+  - neutral
+  - neutrally
+  epo:
+  - "ne\u016Dtra"
+  - "ne\u016Dtrala"
+  - "ne\u016Dtre"
+  - "ne\u016Dtrale"
+  spa:
+  - neutral
+  - neutralmente
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - neutral
+  Fransesa:
+  - - neutre
+  Doycisa:
+  - - neutral
+  Rusisa:
+  - - "\u043D\u0435\u0439\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u201Cneytralniy\u201D"
+  Espanisa:
+  - - neutral
+  Niponsa:
+  - - "\u30CB\u30E5\u30FC\u30C8\u30E9\u30EB \u201Cny\u016Btoraru\u201D"
+  Turkisa:
+  - - "n\xF6tr"
+  Parsisa: ~
+  Indonesisa:
+  - - netral
+  Pilipinasa:
+  - - neutral
+raw data:
+  term: newtral
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: neutral, neutrally
+    epo: "ne\u016Dtra, ne\u016Dtrala; ne\u016Dtre, ne\u016Dtrale"
+    spa: neutral; neutralmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (neutral), Fransesa (neutre), Doycisa (neutral), Rusisa (\u043D\u0435\u0439\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439
+    \u201Cneytralniy\u201D), Espanisa (neutral), Niponsa (\u30CB\u30E5\u30FC\u30C8\u30E9\u30EB
+    \u201Cny\u016Btoraru\u201D), Turkisa (n\xF6tr), Parsisa, Indonesisa (netral),
+    Pilipinasa (neutral)"
+...

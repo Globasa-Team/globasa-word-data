@@ -1,0 +1,49 @@
+---
+term: mesa
+slug: mesa
+ipa: "\u02C8mesa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mesa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - table
+  epo:
+  - - tablo
+  spa:
+  - - mesa
+search terms:
+  glb:
+  - mesa
+  eng:
+  - table
+  epo:
+  - tablo
+  spa:
+  - mesa
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mesa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: table
+    epo: tablo
+    spa: mesa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (mesa), Pilipinasa (mesa), Indonesisa (meja), Hindisa (\u092E\u0947\u091C\u093C
+    \u201Cmez\u201D), Telugusa (\u0C2E\u0C47\u0C1C\u0C3E \u201Cm\u0113j\u0101\u201D),
+    Parsisa (\u0645\u06CC\u0632\u200E \u201Cmiz\u201D), Swahilisa (meza), Turkisa
+    (masa)"
+...

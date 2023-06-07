@@ -1,0 +1,48 @@
+---
+term: fahuriya
+slug: fahuriya
+ipa: "faxu\u02C8\u027Eija"
+ipa link: "http://ipa-reader.xyz/?text=faxu\u02C8\u027Eija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pride
+  epo:
+  - - fiero
+    - fiereco
+  spa:
+  - - orgullo
+search terms:
+  glb:
+  - fahuriya
+  eng:
+  - pride
+  epo:
+  - fiero
+  - fiereco
+  spa:
+  - orgullo
+etymology_type: DERIVD
+etymology: <a href="../lexi/fahuri">fahuri</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fahuriya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pride
+    epo: fiero, fiereco
+    spa: orgullo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fahuri + -ya
+...

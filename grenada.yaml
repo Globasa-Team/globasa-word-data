@@ -1,0 +1,50 @@
+---
+term: grenada
+slug: grenada
+ipa: "g\u027Ee\u02C8nada"
+ipa link: "http://ipa-reader.xyz/?text=g\u027Ee\u02C8nada&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Grenada
+  epo:
+  - - Grenado
+  spa:
+  - - "Granada (_pa\xEDs_)"
+search terms:
+  glb:
+  - grenada
+  eng:
+  - grenada
+  epo:
+  - grenado
+  spa:
+  - granada
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Grenada
+tags:
+- dexa
+raw data:
+  term: Grenada
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Grenada
+    epo: Grenado
+    spa: "Granada (_pa\xEDs_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Grenada)
+...

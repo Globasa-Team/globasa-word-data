@@ -1,0 +1,64 @@
+---
+term: or
+slug: or
+ipa: "o\u027E"
+ipa link: "http://ipa-reader.xyz/?text=o\u027E&voice=Ewa"
+status: true
+category: root
+word class: l
+trans:
+  eng:
+  - - or
+  epo:
+  - - "a\u016D"
+  spa:
+  - - o
+    - u
+search terms:
+  glb:
+  - or
+  eng:
+  - or
+  epo:
+  - "a\u016D"
+  spa:
+  - o
+  - u
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - or
+  Doycisa:
+  - - oder
+  Espanisa:
+  - - o
+  Pilipinasa:
+  - - o
+  Italisa:
+  - - o
+    - od
+  Rumanisa:
+  - - ori
+  Ivrisa:
+  - - "\u05D0\u05D5\u05B9 \u201C'o\u201D"
+raw data:
+  term: or
+  category: root
+  word class: l
+  status: true
+  trans:
+    eng: or
+    epo: "a\u016D"
+    spa: o, u
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (or), Doycisa (oder), Espanisa (o), Pilipinasa (o), Italisa
+    (o, od), Rumanisa (ori), Ivrisa (\u05D0\u05D5\u05B9 \u201C'o\u201D)"
+...

@@ -1,0 +1,53 @@
+---
+term: kyosko
+slug: kyosko
+ipa: "\u02C8kjosko"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kjosko&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - kiosk
+  epo:
+  - - kiosko
+  spa:
+  - - quiosco
+search terms:
+  glb:
+  - kyosko
+  eng:
+  - kiosk
+  epo:
+  - kiosko
+  spa:
+  - quiosco
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kyosko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: kiosk
+    epo: kiosko
+    spa: quiosco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (kiosk), Espanisa (quiosco), Fransesa (kiosque), Rusisa (\u043A\u0438\u043E\u0441\u043A
+    \u201Ckyosk\u201D), Doycisa (Kiosk), Indonesisa (kios), Pilipinasa (kiosko), Hindisa
+    (\u0915\u0940\u0913\u0938\u094D\u0915 \u201Ckiosk\u201D), Arabisa (\u0643\u064F\u0634\u0652\u0643
+    \u201Ckuxk\u201D), Niponsa (\u30AD\u30AA\u30B9\u30AF \u201Ckyosuku\u201D), Telugusa
+    (\u0C15\u0C3F\u0C2F\u0C4B\u0C38\u0C4D\u0C15\u0C4D \u201Ckiyosk\u201D), Turkisa
+    (kiosk), Hangusa (\uD0A4\uC624\uC2A4\uD06C \u201Ckyosuku\u201D), Vyetnamsa (ki-\u1ED1t),
+    Parsisa (\u06A9\u06CC\u0648\u0633\u06A9 \u201Ckiyusk\u201D, \u06A9\u0648\u0634\u06A9
+    \u201Ckoxk\u201D), Swahilisa (kioski)"
+...

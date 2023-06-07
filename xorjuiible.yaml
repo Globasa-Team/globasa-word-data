@@ -1,0 +1,52 @@
+---
+term: xorjuiible
+slug: xorjuiible
+ipa: "\u0283o\u027Ed\u0361\u0292ui\u02C8ible"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u027Ed\u0361\u0292ui\u02C8ible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - noticeable
+  epo:
+  - - rimarkebla
+  - - rimarkeble
+  spa:
+  - - perceptible
+    - notorio
+    - vistoso
+search terms:
+  glb:
+  - xorjuiible
+  eng:
+  - noticeable
+  epo:
+  - rimarkebla
+  - rimarkeble
+  spa:
+  - perceptible
+  - notorio
+  - vistoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor-">xor-</a> + <a href="../lexi/jui">jui</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: xorjuiible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: 'noticeable '
+    epo: rimarkebla; rimarkeble
+    spa: perceptible, notorio, vistoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xor- + jui + -ible
+...

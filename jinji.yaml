@@ -1,0 +1,55 @@
+---
+term: jinji
+slug: jinji
+ipa: "\u02C8d\u0361\u0292ind\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ind\u0361\u0292i&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - straight
+    - direct
+    - directly
+  epo:
+  - - rekta
+  - - rekte
+  spa:
+  - - derecho
+    - directo
+search terms:
+  glb:
+  - jinji
+  eng:
+  - straight
+  - direct
+  - directly
+  epo:
+  - rekta
+  - rekte
+  spa:
+  - derecho
+  - directo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jinji
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: straight, direct, directly
+    epo: rekta; rekte
+    spa: derecho, directo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u8FF3\u76F4 \u201Cj\xECng zh\xED\u201D), Hangusa (\uC9C1\uC9C4
+    \u201Cjigjin\u201D)"
+...

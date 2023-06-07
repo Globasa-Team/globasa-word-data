@@ -1,0 +1,54 @@
+---
+term: termopul
+slug: termopul
+ipa: "te\u027Emo\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=te\u027Emo\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - warm
+    - warmly
+    - hot
+  epo:
+  - - varma
+  - - varme
+  spa:
+  - - caliente
+    - "c\xE1lido"
+search terms:
+  glb:
+  - termopul
+  eng:
+  - warm
+  - warmly
+  - hot
+  epo:
+  - varma
+  - varme
+  spa:
+  - caliente
+  - "c\xE1lido"
+etymology_type: DERIVD
+etymology: <a href="../lexi/termo">termo</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: termopul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: warm, warmly, hot
+    epo: varma; varme
+    spa: "caliente, c\xE1lido"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: termo + -pul
+...

@@ -1,0 +1,52 @@
+---
+term: latvi
+slug: latvi
+ipa: "\u02C8latvi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8latvi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Latvia
+  epo:
+  - - Latvio
+    - Latvujo
+  spa:
+  - - Letonia
+search terms:
+  glb:
+  - latvi
+  eng:
+  - latvia
+  epo:
+  - latvio
+  - latvujo
+  spa:
+  - letonia
+etymology_type: NATLNG
+etymology:
+  Latvisa:
+  - - Latvija
+tags:
+- dexa
+raw data:
+  term: Latvi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Latvia
+    epo: Latvio, Latvujo
+    spa: Letonia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Latvisa (Latvija)
+...

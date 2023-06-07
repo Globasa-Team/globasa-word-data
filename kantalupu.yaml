@@ -1,0 +1,59 @@
+---
+term: kantalupu
+slug: kantalupu
+ipa: "kanta\u02C8lupu"
+ipa link: "http://ipa-reader.xyz/?text=kanta\u02C8lupu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cantaloupe
+  epo:
+  - - kantalupo
+  spa:
+  - - "mel\xF3n"
+    - _Cucumis melo_
+    - cantalupo
+    - "mel\xF3n calame\xF1o"
+search terms:
+  glb:
+  - kantalupu
+  eng:
+  - cantaloupe
+  epo:
+  - kantalupo
+  spa:
+  - "mel\xF3n"
+  - cucumis melo
+  - cantalupo
+  - "mel\xF3n calame\xF1o"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- fruta
+- yamxey
+raw data:
+  term: kantalupu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cantaloupe
+    epo: kantalupo
+    spa: "mel\xF3n, _Cucumis melo_, cantalupo, mel\xF3n calame\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Englisa (cantaloupe), Fransesa (cantaloup), Doycisa (Kantalupe), Rusisa
+    (\u043A\u0430\u043D\u0442\u0430\u043B\u0443\u043F\u0430 \u201Ckantalupa\u201D),
+    Espanisa (cantalupo), Pilipinasa (kantalupo), Niponsa ( \u30AD\u30E3\u30F3\u30BF\u30ED\u30FC\u30D7
+    \u201Ckyantar\u014Dpu\u201D), Hangusa (\uC794\uB2EC\uC624\uC74D\uC5B4 \u201Cjandaroeubeo\u201D),
+    Swahilisa (kantalupu), Turkisa (kantalup)"
+...

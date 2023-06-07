@@ -1,0 +1,59 @@
+---
+term: lilpanda
+slug: lilpanda
+ipa: "lil\u02C8panda"
+ipa link: "http://ipa-reader.xyz/?text=lil\u02C8panda&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - lesser panda
+    - red panda
+    - panda
+    - _Ailuridae_
+  epo:
+  - - malgranda pando
+    - "ru\u011Da pando"
+  spa:
+  - - panda menor
+    - panda rojo
+search terms:
+  glb:
+  - lilpanda
+  eng:
+  - lesser panda
+  - red panda
+  - panda
+  - ailuridae
+  epo:
+  - malgranda pando
+  - "ru\u011Da pando"
+  spa:
+  - panda menor
+  - panda rojo
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/panda">panda</a>
+synonyms:
+- rosopanda
+- panda
+raw data:
+  term: lilpanda
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: lesser panda, red panda, panda, _Ailuridae_
+    epo: "malgranda pando, ru\u011Da pando"
+    spa: panda menor, panda rojo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: rosopanda, panda
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + panda
+...

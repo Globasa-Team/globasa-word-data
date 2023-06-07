@@ -1,0 +1,48 @@
+---
+term: ganali
+slug: ganali
+ipa: "ga\u02C8nali"
+ipa link: "http://ipa-reader.xyz/?text=ga\u02C8nali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Ghanaian
+    - Ghanan
+  epo:
+  - - ganaa
+  spa:
+  - - "ghan\xE9s"
+search terms:
+  glb:
+  - ganali
+  eng:
+  - ghanaian
+  - ghanan
+  epo:
+  - ganaa
+  spa:
+  - "ghan\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Gana">Gana</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Ganali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Ghanaian, Ghanan
+    epo: ganaa
+    spa: "ghan\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Gana + -li
+...

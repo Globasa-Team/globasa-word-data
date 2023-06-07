@@ -1,0 +1,55 @@
+---
+term: ex-
+slug: ex-
+ipa: "\u02C8e\u0283-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8e\u0283-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - ex-
+    - extra-
+    - out
+  epo:
+  - - el-
+    - ekster-
+  spa:
+  - - ex- (de
+    - fuera de)
+search terms:
+  glb:
+  - ex-
+  eng:
+  - ex-
+  - extra-
+  - out
+  epo:
+  - el-
+  - ekster-
+  spa:
+  - ex- de
+  - ex- (de
+  - fuera de
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/ex">ex</a>.
+raw data:
+  term: ex-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: ex-, extra-, out
+    epo: el-, ekster-
+    spa: ex- (de, fuera de)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _ex_.
+...

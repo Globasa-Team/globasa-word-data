@@ -1,0 +1,52 @@
+---
+term: leferesmi
+slug: leferesmi
+ipa: "lefe\u02C8\u027Eesmi"
+ipa link: "http://ipa-reader.xyz/?text=lefe\u02C8\u027Eesmi&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - pre-official
+    - tentative
+  epo:
+  - - "anta\u016Doficiala"
+  - - "anta\u016Doficiale"
+  spa:
+  - - preoficial
+    - tentativo
+search terms:
+  glb:
+  - leferesmi
+  eng:
+  - pre-official
+  - tentative
+  epo:
+  - "anta\u016Doficiala"
+  - "anta\u016Doficiale"
+  spa:
+  - preoficial
+  - tentativo
+etymology_type: DERIVD
+etymology: <a href="../lexi/lefe-">lefe-</a> + <a href="../lexi/resmi">resmi</a>
+raw data:
+  term: leferesmi
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: pre-official, tentative
+    epo: "anta\u016Doficiala; anta\u016Doficiale"
+    spa: preoficial, tentativo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lefe- + resmi
+...

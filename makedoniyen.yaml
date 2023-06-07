@@ -1,0 +1,47 @@
+---
+term: makedoniyen
+slug: makedoniyen
+ipa: "makedoni\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=makedoni\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Macedonian (person)
+  epo:
+  - - makedono
+  spa:
+  - - macedonio (_persona_)
+search terms:
+  glb:
+  - makedoniyen
+  eng:
+  - macedonian person
+  - macedonian
+  epo:
+  - makedono
+  spa:
+  - macedonio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Makedoni">Makedoni</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Makedoniyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Macedonian (person)
+    epo: makedono
+    spa: macedonio (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Makedoni + -yen
+...

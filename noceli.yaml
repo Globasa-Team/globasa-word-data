@@ -1,0 +1,52 @@
+---
+term: noceli
+slug: noceli
+ipa: "no\u02C8t\u0361\u0283eli"
+ipa link: "http://ipa-reader.xyz/?text=no\u02C8t\u0361\u0283eli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - nocturnal
+    - nocturnally
+    - nighttime
+  epo:
+  - - nokta
+  - - nokte
+  spa:
+  - - nocturno
+search terms:
+  glb:
+  - noceli
+  eng:
+  - nocturnal
+  - nocturnally
+  - nighttime
+  epo:
+  - nokta
+  - nokte
+  spa:
+  - nocturno
+etymology_type: DERIVD
+etymology: <a href="../lexi/noce">noce</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: noceli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: nocturnal, nocturnally, nighttime
+    epo: nokta; nokte
+    spa: nocturno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: noce + -li
+...

@@ -1,0 +1,48 @@
+---
+term: matreli
+slug: matreli
+ipa: "ma\u02C8t\u027Eeli"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8t\u027Eeli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - maternal
+  epo:
+  - - patrina
+  - - patrine
+  spa:
+  - - materno
+search terms:
+  glb:
+  - matreli
+  eng:
+  - maternal
+  epo:
+  - patrina
+  - patrine
+  spa:
+  - materno
+etymology_type: DERIVD
+etymology: <a href="../lexi/matre">matre</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: matreli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: maternal
+    epo: patrina; patrine
+    spa: materno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: matre + -li
+...

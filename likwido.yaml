@@ -1,0 +1,61 @@
+---
+term: likwido
+slug: likwido
+ipa: "li\u02C8kwido"
+ipa link: "http://ipa-reader.xyz/?text=li\u02C8kwido&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - liquid
+    - fluid
+  - - liquify
+  epo:
+  - - likvo
+  - - "ligvi\u011Di"
+    - likvigi
+  spa:
+  - - "l\xEDquido"
+  - - licuar
+    - licuarse
+search terms:
+  glb:
+  - likwido
+  eng:
+  - liquid
+  - fluid
+  - liquify
+  epo:
+  - likvo
+  - "ligvi\u011Di"
+  - likvigi
+  spa:
+  - "l\xEDquido"
+  - licuar
+  - licuarse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: 'likwido '
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: liquid, fluid; liquify
+    epo: "likvo; ligvi\u011Di, likvigi"
+    spa: "l\xEDquido; licuar, licuarse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (liquid), Fransesa (liquide), Doycisa (Liquidit\xE4t), Rusisa
+    (\u043B\u0438\u043A\u0432\u0438\u0434\u043D\u044B\u0439 \u201Clikvidniy\u201D),
+    Espanisa (l\xEDquido, licuar), Turkisa (likit), Indonesisa (likuiditas), Pilipinasa
+    (likido), Niponsa (\u30EA\u30AD\u30C3\u30C9 \u201Crikiddo\u201D)"
+...

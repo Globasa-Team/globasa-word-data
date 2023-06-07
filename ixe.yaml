@@ -1,0 +1,46 @@
+---
+term: ixe
+slug: ixe
+ipa: "\u02C8i\u0283e"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8i\u0283e&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter x
+  epo:
+  - - litero x
+  spa:
+  - - letra x
+search terms:
+  glb:
+  - ixe
+  eng:
+  - letter x
+  epo:
+  - litero x
+  spa:
+  - letra x
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ixe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter x
+    epo: litero x
+    spa: letra x
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

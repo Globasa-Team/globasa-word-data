@@ -1,0 +1,53 @@
+---
+term: nenwajenpul
+slug: nenwajenpul
+ipa: "nenwad\u0361\u0292en\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=nenwad\u0361\u0292en\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - light
+  - - lightly
+  epo:
+  - - malpeza
+  - - malpeze
+  spa:
+  - - ligero
+  - - ligeramente
+search terms:
+  glb:
+  - nenwajenpul
+  eng:
+  - light
+  - lightly
+  epo:
+  - malpeza
+  - malpeze
+  spa:
+  - ligero
+  - ligeramente
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/wajen">wajen</a> + <a
+  href="../lexi/-pul">-pul</a>
+raw data:
+  term: nenwajenpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: light; lightly
+    epo: malpeza; malpeze
+    spa: ligero; ligeramente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + wajen + -pul
+...

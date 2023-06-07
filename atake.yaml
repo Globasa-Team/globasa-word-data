@@ -1,0 +1,67 @@
+---
+term: atake
+slug: atake
+ipa: aˈtake
+ipa link: http://ipa-reader.xyz/?text=aˈtake&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - attack
+    - charge
+  epo:
+  - - atako
+  - - ataki
+  spa:
+  - - ataque
+  - - atacar
+search terms:
+  glb:
+  - atake
+  eng:
+  - attack
+  - charge
+  epo:
+  - atako
+  - ataki
+  spa:
+  - ataque
+  - atacar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - attack
+  Fransesa:
+  - - attaque
+  Doycisa:
+  - - Attacke
+  Rusisa:
+  - - атака “ataka”
+  Espanisa:
+  - - ataque
+  Pilipinasa:
+  - - atake
+  Turkisa:
+  - - atak
+raw data:
+  term: atake
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: attack, charge
+    epo: atako; ataki
+    spa: ataque; atacar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (attack), Fransesa (attaque), Doycisa (Attacke), Rusisa (атака
+    “ataka”), Espanisa (ataque), Pilipinasa (atake), Turkisa (atak)
+...

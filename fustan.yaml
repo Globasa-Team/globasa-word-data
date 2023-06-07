@@ -1,0 +1,59 @@
+---
+term: fustan
+slug: fustan
+ipa: fusˈtan
+ipa link: http://ipa-reader.xyz/?text=fusˈtan&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dress (_garment_)
+  epo:
+  - - robo
+  spa:
+  - - vestido
+search terms:
+  glb:
+  - fustan
+  eng:
+  - dress
+  epo:
+  - robo
+  spa:
+  - vestido
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فستان “fusatan”
+  Turkisa:
+  - - fistan
+  Parsisa:
+  - - فستان "festan"
+  Elinisa:
+  - - φουστάνι "fustani"
+  Makedonisa:
+  - - фустан “fustan”
+tags:
+- labas
+raw data:
+  term: fustan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dress (_garment_)
+    epo: robo
+    spa: vestido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: Arabisa (فستان “fusatan”), Turkisa (fistan), Parsisa (فستان "festan"),
+    Elinisa (φουστάνι "fustani"), Makedonisa (фустан “fustan”)
+...

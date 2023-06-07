@@ -1,0 +1,46 @@
+---
+term: bortokaljusu
+slug: bortokaljusu
+ipa: "bo\u027Etokal\u02C8d\u0361\u0292usu"
+ipa link: "http://ipa-reader.xyz/?text=bo\u027Etokal\u02C8d\u0361\u0292usu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - orange juice
+  epo:
+  - - "oran\u011Dosuko"
+  spa:
+  - - jugo de naranja
+search terms:
+  glb:
+  - bortokaljusu
+  eng:
+  - orange juice
+  epo:
+  - "oran\u011Dosuko"
+  spa:
+  - jugo de naranja
+etymology_type: DERIVD
+etymology: <a href="../lexi/bortakal">bortakal</a> + <a href="../lexi/jusu">jusu</a>
+raw data:
+  term: bortokaljusu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: orange juice
+    epo: "oran\u011Dosuko"
+    spa: jugo de naranja
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bortakal + jusu
+...

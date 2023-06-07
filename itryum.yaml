@@ -1,0 +1,56 @@
+---
+term: itryum
+slug: itryum
+ipa: "it\u02C8\u027Ejum"
+ipa link: "http://ipa-reader.xyz/?text=it\u02C8\u027Ejum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - yttrium
+  epo:
+  - - itrio
+  spa:
+  - - itrio
+    - "Y"
+search terms:
+  glb:
+  - itryum
+  eng:
+  - yttrium
+  epo:
+  - itrio
+  spa:
+  - itrio
+  - "y"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: itryum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: yttrium
+    epo: itrio
+    spa: itrio, Y
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (yttrium), Espanisa (itrio), Arabisa (\u064A\u0650\u062A\u0652\u0631\u0650\u064A\u064F\u0648\u0645
+    \u201Cyitriyum\u201D), Fransesa (yttrium), Rusisa (\u0438\u0442\u0442\u0440\u0438\u0439
+    \u201Citriy\u201D), Indonesisa (itrium), Doycisa (Yttrium), Niponsa (\u30A4\u30C3\u30C8\u30EA\u30A6\u30E0
+    \u201Citoriumu\u201D), Telugusa (\u0C2F\u0C3F\u0C1F\u0C4D\u0C30\u0C3F\u0C2F\u0C02
+    \u201Cyitriyam\u201D), Turkisa (itriyum), Hangusa (\uC774\uD2B8\uB968 \u201Cituryum\u201D),
+    Vyetnamsa (yttri), Parsisa (\u0627\u06CC\u062A\u0631\u06CC\u0645 \u201Ceytryom\u201D),
+    Swahilisa (ytri, yttri), Pilipinasa (yttrium)"
+...

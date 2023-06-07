@@ -1,0 +1,46 @@
+---
+term: muntekumax
+slug: muntekumax
+ipa: "munteku\u02C8ma\u0283"
+ipa link: "http://ipa-reader.xyz/?text=munteku\u02C8ma\u0283&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - napkin
+  epo:
+  - - "bu\u015Dtuko"
+  spa:
+  - - servilleta
+search terms:
+  glb:
+  - muntekumax
+  eng:
+  - napkin
+  epo:
+  - "bu\u015Dtuko"
+  spa:
+  - servilleta
+etymology_type: DERIVD
+etymology: <a href="../lexi/munte">munte</a> + <a href="../lexi/-kumax">-kumax</a>
+raw data:
+  term: muntekumax
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: napkin
+    epo: "bu\u015Dtuko"
+    spa: servilleta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: munte + -kumax
+...

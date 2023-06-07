@@ -1,0 +1,83 @@
+---
+term: talisman
+slug: talisman
+ipa: "talis\u02C8man"
+ipa link: "http://ipa-reader.xyz/?text=talis\u02C8man&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - amulet
+    - talisman
+  epo:
+  - - talismano
+    - amuleto
+  spa:
+  - - amuleto
+    - "talism\xE1n"
+search terms:
+  glb:
+  - talisman
+  eng:
+  - amulet
+  - talisman
+  epo:
+  - talismano
+  - amuleto
+  spa:
+  - amuleto
+  - "talism\xE1n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - talisman
+  Fransesa: ~
+  Doycisa: ~
+  Espanisa:
+  - - "talism\xE1n"
+  Rusisa:
+  - - "\u0442\u0430\u043B\u0438\u0441\u043C\u0430\u043D \u201Ctalisman\u201D"
+  Indonesisa:
+  - - isim
+  Hindisa:
+  - - "\u0924\u093F\u0932\u093F\u0938\u094D\u092E \u201Ctilisma\u201D"
+    - "\u0924\u093F\u0932\u0938\u094D\u092E \u201Ctilasma\u201D"
+  Arabisa:
+  - - "\u0637\u0650\u0644\u064E\u0633\u0652\u0645 \u201Ctilasm\u201D"
+  Niponsa:
+  - - "\u30BF\u30EA\u30B9\u30DE\u30F3 \u201Ctarisuman\u201D"
+  Turkisa:
+  - - "t\u0131ls\u0131m"
+  Hangusa:
+  - - "\uD0E4\uB9AC\uC988\uBA3C \u201Ctelijumon\u201D"
+  Parsisa:
+  - - "\u0637\u0644\u0633\u0645 \u201Ctelesm\u201D"
+  Swahilisa:
+  - - talisimu
+raw data:
+  term: talisman
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: amulet, talisman
+    epo: talismano, amuleto
+    spa: "amuleto, talism\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (talisman), Fransesa, Doycisa, Espanisa (talism\xE1n), Rusisa
+    (\u0442\u0430\u043B\u0438\u0441\u043C\u0430\u043D \u201Ctalisman\u201D), Indonesisa
+    (isim), Hindisa (\u0924\u093F\u0932\u093F\u0938\u094D\u092E \u201Ctilisma\u201D,
+    \u0924\u093F\u0932\u0938\u094D\u092E \u201Ctilasma\u201D), Arabisa (\u0637\u0650\u0644\u064E\u0633\u0652\u0645
+    \u201Ctilasm\u201D), Niponsa (\u30BF\u30EA\u30B9\u30DE\u30F3 \u201Ctarisuman\u201D),
+    Turkisa (t\u0131ls\u0131m), Hangusa (\uD0E4\uB9AC\uC988\uBA3C \u201Ctelijumon\u201D),
+    Parsisa (\u0637\u0644\u0633\u0645 \u201Ctelesm\u201D), Swahilisa (talisimu)"
+...

@@ -1,0 +1,48 @@
+---
+term: kristal
+slug: kristal
+ipa: "k\u027Eis\u02C8tal"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Eis\u02C8tal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - crystal
+  epo:
+  - - kristalo
+  spa:
+  - - cristal
+search terms:
+  glb:
+  - kristal
+  eng:
+  - crystal
+  epo:
+  - kristalo
+  spa:
+  - cristal
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kristal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: crystal
+    epo: kristalo
+    spa: cristal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (crystal), Espanisa (cristal), Fransesa, Rusisa (\u0445\u0440\u0443\u0441\u0442\u0430\u043B\u044C
+    \u201Chrustal\u201D), Doycisa (Kristall), Indonesisa (kristal), Pilipinasa, Turkisa,
+    Niponsa (\u30AF\u30EA\u30B9\u30BF\u30EB \u201Ckurisutaru\u201D)"
+...

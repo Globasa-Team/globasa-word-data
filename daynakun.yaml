@@ -1,0 +1,48 @@
+---
+term: daynakun
+slug: daynakun
+ipa: "dajna\u02C8kun"
+ipa link: "http://ipa-reader.xyz/?text=dajna\u02C8kun&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - claw
+  epo:
+  - - ungego
+  - - ungograti
+  spa:
+  - - garra
+search terms:
+  glb:
+  - daynakun
+  eng:
+  - claw
+  epo:
+  - ungego
+  - ungograti
+  spa:
+  - garra
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/nakun">nakun</a>
+raw data:
+  term: daynakun
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: claw
+    epo: ungego; ungograti
+    spa: garra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + nakun
+...

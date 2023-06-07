@@ -1,0 +1,51 @@
+---
+term: xafemorculi
+slug: xafemorculi
+ipa: "\u0283afemo\u027E\u02C8t\u0361\u0283uli"
+ipa link: "http://ipa-reader.xyz/?text=\u0283afemo\u027E\u02C8t\u0361\u0283uli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - postmortem
+    - posthumous
+  epo:
+  - - postmora
+  - - postmorte
+  spa:
+  - - "despu\xE9s de la muerte"
+search terms:
+  glb:
+  - xafemorculi
+  eng:
+  - postmortem
+  - posthumous
+  epo:
+  - postmora
+  - postmorte
+  spa:
+  - "despu\xE9s de la muerte"
+etymology_type: DERIVD
+etymology: <a href="../lexi/xafe-">xafe-</a> + <a href="../lexi/morcu">morcu</a> +
+  <a href="../lexi/-li">-li</a>
+raw data:
+  term: xafemorculi
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: postmortem, posthumous
+    epo: postmora; postmorte
+    spa: "despu\xE9s de la muerte"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xafe- + morcu + -li
+...

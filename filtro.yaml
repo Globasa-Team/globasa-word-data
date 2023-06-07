@@ -1,0 +1,77 @@
+---
+term: filtro
+slug: filtro
+ipa: ˈfiltɾo
+ipa link: http://ipa-reader.xyz/?text=ˈfiltɾo&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - filter
+  epo:
+  - - filtro
+  - - filtri
+  spa:
+  - - filtro
+  - - filtrar
+search terms:
+  glb:
+  - filtro
+  eng:
+  - filter
+  epo:
+  - filtro
+  - filtri
+  spa:
+  - filtro
+  - filtrar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - filter
+  Espanisa:
+  - - filtro
+  Fransesa:
+  - - filtre
+  Rusisa:
+  - - фильтр "filtr"
+  Doycisa:
+  - - Filter
+  Indonesisa:
+  - - filter
+  Pilipinasa:
+  - - pilter
+  Hindisa:
+  - - फ़िल्टर "filtar"
+  Niponsa:
+  - - フィルター "firuta"
+  Turkisa:
+  - - filtre
+  Hangusa:
+  - - 필터 "pilto"
+  Parsisa:
+  - - فیلتر "filter"
+raw data:
+  term: filtro
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: filter
+    epo: filtro; filtri
+    spa: filtro; filtrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (filter), Espanisa (filtro), Fransesa (filtre), Rusisa (фильтр
+    "filtr"), Doycisa (Filter), Indonesisa (filter), Pilipinasa (pilter), Hindisa
+    (फ़िल्टर "filtar"), Niponsa (フィルター "firuta"), Turkisa (filtre), Hangusa (필터 "pilto"),
+    Parsisa (فیلتر "filter")
+...

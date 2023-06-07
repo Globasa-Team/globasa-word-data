@@ -1,0 +1,54 @@
+---
+term: futru
+slug: futru
+ipa: ˈfutɾu
+ipa link: http://ipa-reader.xyz/?text=ˈfutɾu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mushroom
+  epo:
+  - - fungo
+  spa:
+  - - hongo
+    - champiñón
+    - _Fungi_
+search terms:
+  glb:
+  - futru
+  eng:
+  - mushroom
+  epo:
+  - fungo
+  spa:
+  - hongo
+  - champiñón
+  - fungi
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فطر “fuṭr”
+tags:
+- bio
+raw data:
+  term: futru
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mushroom
+    epo: fungo
+    spa: hongo, champiñón, _Fungi_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: bio
+  etymology: Arabisa (فطر “fuṭr”)
+...

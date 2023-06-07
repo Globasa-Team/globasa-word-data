@@ -1,0 +1,87 @@
+---
+term: amerikyum
+slug: amerikyum
+ipa: ameɾiˈkjum
+ipa link: http://ipa-reader.xyz/?text=ameɾiˈkjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - americium
+  epo:
+  - - americio
+  spa:
+  - - americio
+    - Am
+search terms:
+  glb:
+  - amerikyum
+  eng:
+  - americium
+  epo:
+  - americio
+  spa:
+  - americio
+  - am
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - americium
+  Espanisa:
+  - - americio
+  Fransesa:
+  - - américium
+  Rusisa:
+  - - америций “ameristi”
+  Doycisa:
+  - - Americium
+  Indonesisa:
+  - - amerisium
+  Pilipinasa:
+  - - amerisyo
+  Hindisa:
+  - - अमेरिशियम “amerixiyam”
+  Arabisa:
+  - - أَمْرِيكِيُوم  “amrikiyum”
+  アメリシウム:
+  - - amerixiumu
+  Telugusa:
+  - - అమెరీషియం “amerixiyam”
+  Turkisa:
+  - - amerikyum
+  Hangusa:
+  - - 아메리슘 “amerixum”
+  Vyetnamsa:
+  - - americi
+  Parsisa:
+  - - آمریکیوم “âmerikiyom”
+  Swahilisa:
+  - - ameriki
+tags:
+- kimikali monlari
+raw data:
+  term: amerikyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: americium
+    epo: americio
+    spa: americio, Am
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (americium), Espanisa (americio), Fransesa (américium), Rusisa
+    (америций “ameristi”), Doycisa (Americium), Indonesisa (amerisium), Pilipinasa
+    (amerisyo), Hindisa (अमेरिशियम “amerixiyam”), Arabisa (أَمْرِيكِيُوم  “amrikiyum”),
+    アメリシウム (amerixiumu), Telugusa (అమెరీషియం “amerixiyam”), Turkisa (amerikyum), Hangusa
+    (아메리슘 “amerixum”), Vyetnamsa (americi), Parsisa (آمریکیوم “âmerikiyom”), Swahilisa
+    (ameriki), Pilipinasa (amerisyo)
+...

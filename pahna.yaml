@@ -1,0 +1,54 @@
+---
+term: pahna
+slug: pahna
+ipa: "\u02C8paxna"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8paxna&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - wide
+  epo:
+  - - "lar\u011Da"
+  - - "lar\u011De"
+  spa:
+  - - ancho
+    - amplio
+search terms:
+  glb:
+  - pahna
+  eng:
+  - wide
+  epo:
+  - "lar\u011Da"
+  - "lar\u011De"
+  spa:
+  - ancho
+  - amplio
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - "\u067E\u0647\u0646\u200E \u201Cpahn\u201D"
+  Swahilisa:
+  - - pana
+raw data:
+  term: pahna
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: wide
+    epo: "lar\u011Da; lar\u011De"
+    spa: ancho, amplio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Parsisa (\u067E\u0647\u0646\u200E \u201Cpahn\u201D), Swahilisa (pana)"
+...

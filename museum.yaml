@@ -1,0 +1,51 @@
+---
+term: museum
+slug: museum
+ipa: "muse\u02C8um"
+ipa link: "http://ipa-reader.xyz/?text=muse\u02C8um&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - museum
+  epo:
+  - - muzeo
+  spa:
+  - - museo
+search terms:
+  glb:
+  - museum
+  eng:
+  - museum
+  epo:
+  - muzeo
+  spa:
+  - museo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- dom
+raw data:
+  term: museum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: museum
+    epo: muzeo
+    spa: museo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dom
+  etymology: "Englisa (museum), Fransesa (mus\xE9e), Doycisa (Museum), Rusisa (\u043C\u0443\u0437\u0435\u0301\u0439
+    \u201Cmuzey\u201D), Espanis (museo), Indonesisa (museum), Pilipinasa (museo),
+    Hindisa (\u092E\u094D\u092F\u0942\u091C\u093C\u093F\u092F\u092E \u201Cmyuziyam\u201D),
+    Parsisa (\u0645\u0648\u0632\u0647\u200E \u201Cmuze\u201D), Turkisa (m\xFCze)"
+...

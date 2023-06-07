@@ -1,0 +1,48 @@
+---
+term: bocanli
+slug: bocanli
+ipa: "bo\u02C8t\u0361\u0283anli"
+ipa link: "http://ipa-reader.xyz/?text=bo\u02C8t\u0361\u0283anli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - compensatory
+  epo:
+  - - kompensa
+  - - kompense
+  spa:
+  - - compensatorio
+search terms:
+  glb:
+  - bocanli
+  eng:
+  - compensatory
+  epo:
+  - kompensa
+  - kompense
+  spa:
+  - compensatorio
+etymology_type: DERIVD
+etymology: <a href="../lexi/bocan">bocan</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: bocanli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: compensatory
+    epo: kompensa; kompense
+    spa: compensatorio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bocan + -li
+...

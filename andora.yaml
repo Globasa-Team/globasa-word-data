@@ -1,0 +1,50 @@
+---
+term: andora
+slug: andora
+ipa: "an\u02C8do\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=an\u02C8do\u027Ea&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Andorra
+  epo:
+  - - Andoro
+  spa:
+  - - Andorra
+search terms:
+  glb:
+  - andora
+  eng:
+  - andorra
+  epo:
+  - andoro
+  spa:
+  - andorra
+etymology_type: NATLNG
+etymology:
+  Catalan:
+  - - Andorra
+tags:
+- dexa
+raw data:
+  term: Andora
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Andorra
+    epo: Andoro
+    spa: Andorra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Catalan (Andorra)
+...

@@ -1,0 +1,48 @@
+---
+term: ekwatorali
+slug: ekwatorali
+ipa: "ekwato\u02C8\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=ekwato\u02C8\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - equatorial
+  epo:
+  - - ekvatora
+  - - ekvatore
+  spa:
+  - - ecuatorial
+search terms:
+  glb:
+  - ekwatorali
+  eng:
+  - equatorial
+  epo:
+  - ekvatora
+  - ekvatore
+  spa:
+  - ecuatorial
+etymology_type: DERIVD
+etymology: <a href="../lexi/ekwatora">ekwatora</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: ekwatorali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: equatorial
+    epo: ekvatora; ekvatore
+    spa: ecuatorial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ekwatora + -li
+...

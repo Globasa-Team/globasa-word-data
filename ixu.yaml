@@ -1,0 +1,60 @@
+---
+term: ixu
+slug: ixu
+ipa: "\u02C8i\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8i\u0283u&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - adult
+    - man
+    - woman
+  epo:
+  - - viro
+    - virino
+    - plenkreskulo
+  spa:
+  - - hombre
+    - mujer
+    - adulto (humano)
+search terms:
+  glb:
+  - ixu
+  eng:
+  - adult
+  - man
+  - woman
+  epo:
+  - viro
+  - virino
+  - plenkreskulo
+  spa:
+  - hombre
+  - mujer
+  - adulto humano
+  - adulto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ixu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: adult, man, woman
+    epo: viro, virino, plenkreskulo
+    spa: hombre, mujer, adulto (humano)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Ivrisa (\u05D0\u05D9\u05E9 \u201Cish\u201D, \u05D0\u05D9\u05E9\u05D4
+    \u201Cisha\u201D)"
+...

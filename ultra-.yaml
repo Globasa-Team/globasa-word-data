@@ -1,0 +1,52 @@
+---
+term: ultra-
+slug: ultra-
+ipa: "ul\u02C8t\u027Ea-"
+ipa link: "http://ipa-reader.xyz/?text=ul\u02C8t\u027Ea-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - super-
+    - ultra-
+    - beyond
+  epo:
+  - - preter-
+  spa:
+  - - ultra-
+    - super-
+search terms:
+  glb:
+  - ultra-
+  eng:
+  - super-
+  - ultra-
+  - beyond
+  epo:
+  - preter-
+  spa:
+  - ultra-
+  - super-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/ultra">ultra</a>.
+raw data:
+  term: ultra-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: super-, ultra-, beyond
+    epo: preter-
+    spa: ultra-, super-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _ultra_.
+...

@@ -1,0 +1,61 @@
+---
+term: lamaje
+slug: lamaje
+ipa: "la\u02C8mad\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8mad\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - age
+  - - date
+    - measure the age (of)
+  epo:
+  - - malnoveco
+  - - dati
+    - mezuri malnovecon (de)
+  spa:
+  - - edad
+  - - datar
+    - medir la edad (de)
+search terms:
+  glb:
+  - lamaje
+  eng:
+  - age
+  - date
+  - measure the age of
+  - measure the age
+  epo:
+  - malnoveco
+  - dati
+  - mezuri malnovecon de
+  - mezuri malnovecon
+  spa:
+  - edad
+  - datar
+  - medir la edad de
+  - medir la edad
+etymology_type: DERIVD
+etymology: <a href="../lexi/lama">lama</a> + <a href="../lexi/-je">-je</a>
+raw data:
+  term: lamaje
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: age; date, measure the age (of)
+    epo: malnoveco; dati, mezuri malnovecon (de)
+    spa: edad; datar, medir la edad (de)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lama + -je
+...

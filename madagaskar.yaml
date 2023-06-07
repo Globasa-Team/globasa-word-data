@@ -1,0 +1,52 @@
+---
+term: madagaskar
+slug: madagaskar
+ipa: "madagas\u02C8ka\u027E"
+ipa link: "http://ipa-reader.xyz/?text=madagas\u02C8ka\u027E&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Madagascar
+  epo:
+  - - Madagaskaro
+    - Malagasio
+  spa:
+  - - Madagascar
+search terms:
+  glb:
+  - madagaskar
+  eng:
+  - madagascar
+  epo:
+  - madagaskaro
+  - malagasio
+  spa:
+  - madagascar
+etymology_type: NATLNG
+etymology:
+  Madagaskarsa:
+  - - Madagasikara
+tags:
+- dexa
+raw data:
+  term: Madagaskar
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Madagascar
+    epo: Madagaskaro, Malagasio
+    spa: Madagascar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Madagaskarsa (Madagasikara)
+...

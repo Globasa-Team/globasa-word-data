@@ -1,0 +1,48 @@
+---
+term: humorxey
+slug: humorxey
+ipa: "xumo\u027E\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=xumo\u027E\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - joke
+  epo:
+  - - "\u015Derco"
+    - "humura\u0135o"
+  spa:
+  - - chiste
+search terms:
+  glb:
+  - humorxey
+  eng:
+  - joke
+  epo:
+  - "\u015Derco"
+  - "humura\u0135o"
+  spa:
+  - chiste
+etymology_type: DERIVD
+etymology: <a href="../lexi/humor">humor</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: humorxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: joke
+    epo: "\u015Derco, humura\u0135o"
+    spa: chiste
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: humor + -xey
+...

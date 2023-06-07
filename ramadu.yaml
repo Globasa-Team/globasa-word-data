@@ -1,0 +1,50 @@
+---
+term: ramadu
+slug: ramadu
+ipa: "\u027Ea\u02C8madu"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8madu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ash
+    - ashes
+  epo:
+  - - cindro
+  spa:
+  - - ceniza
+search terms:
+  glb:
+  - ramadu
+  eng:
+  - ash
+  - ashes
+  epo:
+  - cindro
+  spa:
+  - ceniza
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0631\u0645\u0627\u062F \u201Cramad\u201D"
+raw data:
+  term: ramadu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ash, ashes
+    epo: cindro
+    spa: ceniza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0631\u0645\u0627\u062F \u201Cramad\u201D)"
+...

@@ -1,0 +1,62 @@
+---
+term: kowapul
+slug: kowapul
+ipa: "kowa\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=kowa\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - powerful
+    - powerfully
+    - mighty
+    - mightily
+  epo:
+  - - potenca
+    - forta
+    - pova
+  - - potence
+    - forte
+    - pove
+  spa:
+  - - poderoso
+search terms:
+  glb:
+  - kowapul
+  eng:
+  - powerful
+  - powerfully
+  - mighty
+  - mightily
+  epo:
+  - potenca
+  - forta
+  - pova
+  - potence
+  - forte
+  - pove
+  spa:
+  - poderoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/kowa">kowa</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: kowapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: powerful, powerfully, mighty, mightily
+    epo: potenca, forta, pova; potence, forte, pove
+    spa: poderoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kowa + -pul
+...

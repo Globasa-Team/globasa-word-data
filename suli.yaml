@@ -1,0 +1,50 @@
+---
+term: suli
+slug: suli
+ipa: "\u02C8suli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8suli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - own
+    - one's own
+  epo:
+  - - propra
+  spa:
+  - - suyo
+    - de uno
+search terms:
+  glb:
+  - suli
+  eng:
+  - own
+  - one's own
+  epo:
+  - propra
+  spa:
+  - suyo
+  - de uno
+etymology_type: DERIVD
+etymology: <a href="../lexi/su">su</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: suli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: own, one's own
+    epo: propra
+    spa: suyo, de uno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: su + -li
+...

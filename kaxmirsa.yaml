@@ -1,0 +1,52 @@
+---
+term: kaxmirsa
+slug: kaxmirsa
+ipa: "ka\u0283\u02C8mi\u027Esa"
+ipa link: "http://ipa-reader.xyz/?text=ka\u0283\u02C8mi\u027Esa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Kashmiri (language)
+    - Koshur
+  epo:
+  - - "la ka\u015Dmira (lingvo)"
+  spa:
+  - - cachemir (_idioma_)
+search terms:
+  glb:
+  - kaxmirsa
+  eng:
+  - kashmiri language
+  - kashmiri
+  - koshur
+  epo:
+  - "la ka\u015Dmira lingvo"
+  - "la ka\u015Dmira"
+  spa:
+  - cachemir
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kaxmir">Kaxmir</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Kaxmirsa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Kashmiri (language), Koshur
+    epo: "la ka\u015Dmira (lingvo)"
+    spa: cachemir (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Kaxmir + -sa
+...

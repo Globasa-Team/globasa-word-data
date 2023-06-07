@@ -1,0 +1,69 @@
+---
+term: texto
+slug: texto
+ipa: "\u02C8te\u0283to"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8te\u0283to&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - text
+  epo:
+  - - teksto
+  spa:
+  - - texto
+search terms:
+  glb:
+  - texto
+  eng:
+  - text
+  epo:
+  - teksto
+  spa:
+  - texto
+etymology_type: NATLNG
+etymology:
+  Portugalsa:
+  - - texto
+  Englisa:
+  - - text
+  Fransesa:
+  - - texte
+  Doycisa:
+  - - Text
+  Rusisa:
+  - - "\u0442\u0435\u043A\u0441\u0442 \u201Ctekst\u201D"
+  Espanisa:
+  - - texto
+  Indonesisa:
+  - - teks
+  Pilipinasa:
+  - - teksto
+  Niponsa:
+  - - "\u30C6\u30AD\u30B9\u30C8 \u201Ctekisuto\u201D"
+  Hangusa:
+  - - "\uD14D\uC2A4\uD2B8 \u201Cteksutu\u201D"
+raw data:
+  term: texto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: text
+    epo: teksto
+    spa: texto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Portugalsa (texto), Englisa (text), Fransesa (texte), Doycisa (Text),
+    Rusisa (\u0442\u0435\u043A\u0441\u0442 \u201Ctekst\u201D), Espanisa (texto), Indonesisa
+    (teks), Pilipinasa (teksto), Niponsa (\u30C6\u30AD\u30B9\u30C8 \u201Ctekisuto\u201D),
+    Hangusa (\uD14D\uC2A4\uD2B8 \u201Cteksutu\u201D)"
+...

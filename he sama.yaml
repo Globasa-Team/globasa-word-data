@@ -1,0 +1,48 @@
+---
+term: he sama
+slug: he sama
+ipa: "\u02C8xe \u02C8sama"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8sama&voice=Ewa"
+status: false
+category: phrase
+word class: d
+trans:
+  eng:
+  - - the same exact
+  epo:
+  - - ekzakte sama
+  spa:
+  - - el mismo exacto
+search terms:
+  glb:
+  - he sama
+  - he
+  - sama
+  eng:
+  - the same exact
+  epo:
+  - ekzakte sama
+  spa:
+  - el mismo exacto
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/sama ">sama </a>
+raw data:
+  term: he sama
+  category: phrase
+  word class: d
+  status: false
+  trans:
+    eng: 'the same exact '
+    epo: ekzakte sama
+    spa: el mismo exacto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'he, sama '
+...

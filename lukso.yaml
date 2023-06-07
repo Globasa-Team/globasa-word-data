@@ -1,0 +1,49 @@
+---
+term: lukso
+slug: lukso
+ipa: "\u02C8lukso"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lukso&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - luxury
+  epo:
+  - - lukso
+  spa:
+  - - lujo
+search terms:
+  glb:
+  - lukso
+  eng:
+  - luxury
+  epo:
+  - lukso
+  spa:
+  - lujo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lukso
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: luxury
+    epo: lukso
+    spa: lujo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Luxus), English (luxury), Espanisa (lujo), Fransesa (luxe),
+    Rusisa (\u043B\u044E\u043A\u0441 \u201Clyuks\u201D), Pilipinasa (luho), Turkisa
+    (l\xFCks), Hindisa (\u0921\u0940\u0932\u0915\u094D\u0938 \u201Cdilaks\u201D),
+    Telugusa (\u0C21\u0C40\u0C32\u0C15\u0C4D\u0C38\u0C4D \u201Cdilaks\u201D)"
+...

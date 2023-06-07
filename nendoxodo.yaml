@@ -1,0 +1,49 @@
+---
+term: nendoxodo
+slug: nendoxodo
+ipa: "nendo\u02C8\u0283odo"
+ipa link: "http://ipa-reader.xyz/?text=nendo\u02C8\u0283odo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unread
+  epo:
+  - - nelegita
+  - - nelegite
+  spa:
+  - - "no le\xEDdo"
+search terms:
+  glb:
+  - nendoxodo
+  eng:
+  - unread
+  epo:
+  - nelegita
+  - nelegite
+  spa:
+  - "no le\xEDdo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/doxo">doxo</a> + <a
+  href="../lexi/-do">-do</a>
+raw data:
+  term: nendoxodo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unread
+    epo: nelegita; nelegite
+    spa: "no le\xEDdo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + doxo + -do
+...

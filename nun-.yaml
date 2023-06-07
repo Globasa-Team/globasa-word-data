@@ -1,0 +1,50 @@
+---
+term: nun-
+slug: nun-
+ipa: "\u02C8nun-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nun-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - present
+    - current
+  epo:
+  - - nun-
+  spa:
+  - - presente
+    - actual
+search terms:
+  glb:
+  - nun-
+  eng:
+  - present
+  - current
+  epo:
+  - nun-
+  spa:
+  - presente
+  - actual
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/nun">nun</a>.
+raw data:
+  term: nun-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: present, current
+    epo: nun-
+    spa: presente, actual
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _nun_.
+...

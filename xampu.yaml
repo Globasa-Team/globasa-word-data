@@ -1,0 +1,98 @@
+---
+term: xampu
+slug: xampu
+ipa: "\u02C8\u0283ampu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283ampu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - shampoo
+  epo:
+  - - "\u015Dampuo"
+  - - "\u015Dampui"
+  spa:
+  - - "champ\xFA"
+search terms:
+  glb:
+  - xampu
+  eng:
+  - shampoo
+  epo:
+  - "\u015Dampuo"
+  - "\u015Dampui"
+  spa:
+  - "champ\xFA"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - shampoo
+  Espanisa:
+  - - "champ\xFA"
+  Fransesa:
+  - - shampoo
+    - sampoo
+  Rusisa:
+  - - "\u0448\u0430\u043C\u043F\u0443\u043D\u044C \"xampun\""
+  Doycisa:
+  - - Shampoo
+    - Schampu
+    - Schampon
+  Portugalsa:
+  - - "champ\xF4"
+    - shampoo
+    - xampu
+  Italisa:
+  - - sciampo
+  Indonesisa:
+  - - sampo
+  Pilipinasa:
+  - - siyampu
+  Putunhwa:
+  - - "\u9999\u6CE2 \"xyangbwo\""
+  Hindisa:
+  - - "\u0936\u0948\u0902\u092A\u0942 \"xempu\""
+  Arabisa:
+  - - "\u0634\u064E\u0627\u0645\u0652\u0628\u064F\u0648 \"xambu\""
+  Niponsa:
+  - - "\u30B7\u30E3\u30F3\u30D7\u30FC \"xampu\""
+  Telugusa:
+  - - "\u0C37\u0C3E\u0C02\u0C2A\u0C42 \"xampu\""
+  Turkisa:
+  - - "\u015Fampuan"
+  Vyetnamsa:
+  - - "x\xE0 b\xF4ng"
+  Hangusa:
+  - - "\uC0F4\uD478 \"xampu\""
+  Parsisa:
+  - - "\u0634\u0627\u0645\u067E\u0648 \"xampu\""
+  Swahilisa:
+  - - shampuu
+raw data:
+  term: xampu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: shampoo
+    epo: "\u015Dampuo; \u015Dampui"
+    spa: "champ\xFA"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (shampoo), Espanisa (champ\xFA), Fransesa (shampoo, sampoo),
+    Rusisa (\u0448\u0430\u043C\u043F\u0443\u043D\u044C \"xampun\"), Doycisa (Shampoo,
+    Schampu, Schampon), Portugalsa (champ\xF4, shampoo, xampu), Italisa (sciampo),
+    Indonesisa (sampo), Pilipinasa (siyampu), Putunhwa (\u9999\u6CE2 \"xyangbwo\"),
+    Hindisa (\u0936\u0948\u0902\u092A\u0942 \"xempu\"), Arabisa (\u0634\u064E\u0627\u0645\u0652\u0628\u064F\u0648
+    \"xambu\"), Niponsa (\u30B7\u30E3\u30F3\u30D7\u30FC \"xampu\"), Telugusa (\u0C37\u0C3E\u0C02\u0C2A\u0C42
+    \"xampu\"), Turkisa (\u015Fampuan), Vyetnamsa (x\xE0 b\xF4ng), Hangusa (\uC0F4\uD478
+    \"xampu\"), Parsisa (\u0634\u0627\u0645\u067E\u0648 \"xampu\"), Swahilisa (shampuu)"
+...

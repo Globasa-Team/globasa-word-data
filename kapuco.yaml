@@ -1,0 +1,50 @@
+---
+term: kapuco
+slug: kapuco
+ipa: "ka\u02C8put\u0361\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8put\u0361\u0283o&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hood
+  epo:
+  - - "kapu\u0109o"
+  spa:
+  - - capucha
+search terms:
+  glb:
+  - kapuco
+  eng:
+  - hood
+  epo:
+  - "kapu\u0109o"
+  spa:
+  - capucha
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- labas
+raw data:
+  term: kapuco
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hood
+    epo: "kapu\u0109o"
+    spa: capucha
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Espanisa (capucha), Fransesa (capuche, capuchon), Rusisa (\u043A\u0430\u043F\u044E\u0448\u043E\u043D
+    \u201Ckapuxon\u201D), Doycisa (Kapuze), Pilipinasa (kaputsa), Turkisa (kap\xFC\u015Fon),
+    Parsisa (\u06A9\u0627\u067E\u0634\u0646 \u201Ckapxen\u201D), Swahilisa (kapuchini)"
+...

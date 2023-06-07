@@ -1,0 +1,53 @@
+---
+term: kwake
+slug: kwake
+ipa: "\u02C8kwake"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kwake&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - duck
+  epo:
+  - - anaso
+  spa:
+  - - pato
+    - _Anatidae_
+search terms:
+  glb:
+  - kwake
+  eng:
+  - duck
+  epo:
+  - anaso
+  spa:
+  - pato
+  - anatidae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kwake
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: duck
+    epo: anaso
+    spa: pato, _Anatidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "kwasilexi - Arabisa (\u0648\u0642 \u0648\u0642 \"waq-waq\"), Englisa
+    (quack), Fransesa (coin), Doycisa (quaken, quak), Indonesisa (kwek), Putunhwa
+    (\u5471 \u201Cgwa\u201D), Hangusa (\uAF65 \"kkwaek\"), Espanisa (cuac), Pilipinasa
+    (kwak), Turkisa (vak), Vyetnamsa (c\u1EA1c c\u1EA1c)"
+...

@@ -1,0 +1,71 @@
+---
+term: regula
+slug: regula
+ipa: "\u027Ee\u02C8gula"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8gula&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rule
+    - regulation
+    - policy
+  epo:
+  - - regulo
+  spa:
+  - - regla
+    - reglamento
+    - "pol\xEDtica"
+search terms:
+  glb:
+  - regula
+  eng:
+  - rule
+  - regulation
+  - policy
+  epo:
+  - regulo
+  spa:
+  - regla
+  - reglamento
+  - "pol\xEDtica"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rule
+    - regulation
+  Fransesa:
+  - - "r\xE8gle"
+  Doycisa:
+  - - Regel
+  Espanisa:
+  - - regla
+  Rusisa:
+  - - "\u0440\u0435\u0433\u0443\u043B\u044F\u0446\u0438\u044F \u201Cregulyatsiya\u201D"
+  Indonesisa:
+  - - regulasi
+  Pilipinasa:
+  - - reglamento
+raw data:
+  term: regula
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rule, regulation, policy
+    epo: regulo
+    spa: "regla, reglamento, pol\xEDtica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (rule, regulation), Fransesa (r\xE8gle), Doycisa (Regel), Espanisa
+    (regla), Rusisa (\u0440\u0435\u0433\u0443\u043B\u044F\u0446\u0438\u044F \u201Cregulyatsiya\u201D),
+    Indonesisa (regulasi), Pilipinasa (reglamento)"
+...

@@ -1,0 +1,57 @@
+---
+term: gude
+slug: gude
+ipa: ˈgude
+ipa link: http://ipa-reader.xyz/?text=ˈgude&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - tickle
+  epo:
+  - - tiklo
+  - - tikli
+  spa:
+  - - cosquillas
+  - - hacer cosquillas
+search terms:
+  glb:
+  - gude
+  eng:
+  - tickle
+  epo:
+  - tiklo
+  - tikli
+  spa:
+  - cosquillas
+  - hacer cosquillas
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - गुदगुदी “gudagudee”
+  Bulgarisa:
+  - - гъдел “gudel”
+  Exkiperisa:
+  - - gudulis
+raw data:
+  term: gude
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: tickle
+    epo: tiklo; tikli
+    spa: cosquillas; hacer cosquillas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (गुदगुदी “gudagudee”), Bulgarisa (гъдел “gudel”), Exkiperisa
+    (gudulis)
+...

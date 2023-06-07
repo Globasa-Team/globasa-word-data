@@ -1,0 +1,57 @@
+---
+term: hazam
+slug: hazam
+ipa: "xa\u02C8zam"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8zam&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - digestion
+  - - digest
+  epo:
+  - - digesto
+  - - digesti
+  spa:
+  - - "digesti\xF3n"
+  - - digerir
+search terms:
+  glb:
+  - hazam
+  eng:
+  - digestion
+  - digest
+  epo:
+  - digesto
+  - digesti
+  spa:
+  - "digesti\xF3n"
+  - digerir
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: hazam
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: digestion; digest
+    epo: digesto; digesti
+    spa: "digesti\xF3n; digerir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Hindisa (\u0939\u091C\u093C\u092E \u201Chazam\u201D, \u0939\u093E\u091C\u093C\u092E\u093E
+    \u201Chazma\u201D), Arabisa (\u0647\u064E\u0636\u0652\u0645 \u201Chadm\u201D,
+    \u0647\u064E\u0636\u064E\u0645\u064E \u201Chadama\u201D), Parsisa (\u0647\u0636\u0645
+    \u201Chazm\u201D)"
+...

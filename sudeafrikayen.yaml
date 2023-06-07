@@ -1,0 +1,47 @@
+---
+term: sudeafrikayen
+slug: sudeafrikayen
+ipa: "sudeaf\u027Eika\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=sudeaf\u027Eika\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - South African
+  epo:
+  - - sud-afrikano
+  spa:
+  - - sudafricano (_persona_)
+search terms:
+  glb:
+  - sudeafrikayen
+  eng:
+  - south african
+  epo:
+  - sud-afrikano
+  spa:
+  - sudafricano
+etymology_type: DERIVD
+etymology: <a href="../lexi/sude">sude</a> + <a href="../lexi/Afrika">Afrika</a> +
+  <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Sudeafrikayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: South African
+    epo: sud-afrikano
+    spa: sudafricano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sude + Afrika + -yen
+...

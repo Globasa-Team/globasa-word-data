@@ -1,0 +1,46 @@
+---
+term: muhimya
+slug: muhimya
+ipa: "mu\u02C8ximja"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8ximja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - importance
+  epo:
+  - - graveco
+  spa:
+  - - importancia
+search terms:
+  glb:
+  - muhimya
+  eng:
+  - importance
+  epo:
+  - graveco
+  spa:
+  - importancia
+etymology_type: DERIVD
+etymology: <a href="../lexi/muhim">muhim</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: muhimya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: importance
+    epo: graveco
+    spa: importancia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: muhim + -ya
+...

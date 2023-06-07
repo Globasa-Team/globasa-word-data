@@ -1,0 +1,48 @@
+---
+term: he ke
+slug: he ke
+ipa: "\u02C8xe \u02C8ke"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8ke&voice=Ewa"
+status: false
+category: phrase
+word class: d
+trans:
+  eng:
+  - - whichever
+  epo:
+  - - kiu ajn
+  spa:
+  - - cualquiera
+search terms:
+  glb:
+  - he ke
+  - he
+  - ke
+  eng:
+  - whichever
+  epo:
+  - kiu ajn
+  spa:
+  - cualquiera
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/ke">ke</a>
+raw data:
+  term: he ke
+  category: phrase
+  word class: d
+  status: false
+  trans:
+    eng: whichever
+    epo: kiu ajn
+    spa: cualquiera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, ke
+...

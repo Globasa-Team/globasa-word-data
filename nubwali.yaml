@@ -1,0 +1,52 @@
+---
+term: nubwali
+slug: nubwali
+ipa: "nu\u02C8bwali"
+ipa link: "http://ipa-reader.xyz/?text=nu\u02C8bwali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - prophetic
+  - - prophetically
+  epo:
+  - - profeta
+  - - profete
+  spa:
+  - - "prof\xE9tico"
+  - - "prof\xE9ticamente"
+search terms:
+  glb:
+  - nubwali
+  eng:
+  - prophetic
+  - prophetically
+  epo:
+  - profeta
+  - profete
+  spa:
+  - "prof\xE9tico"
+  - "prof\xE9ticamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/nubwa">nubwa</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: nubwali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: prophetic; prophetically
+    epo: profeta; profete
+    spa: "prof\xE9tico; prof\xE9ticamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nubwa + -li
+...

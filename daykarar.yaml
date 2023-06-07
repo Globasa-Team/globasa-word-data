@@ -1,0 +1,52 @@
+---
+term: daykarar
+slug: daykarar
+ipa: "dajka\u02C8\u027Ea\u027E"
+ipa link: "http://ipa-reader.xyz/?text=dajka\u02C8\u027Ea\u027E&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - determine
+    - be determined to
+  epo:
+  - - decidemo
+  - - decidemi
+  spa:
+  - - "determinaci\xF3n (_decisi\xF3n_)"
+  - - determinar
+search terms:
+  glb:
+  - daykarar
+  eng:
+  - determine
+  - be determined to
+  epo:
+  - decidemo
+  - decidemi
+  spa:
+  - "determinaci\xF3n"
+  - determinar
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/karar">karar</a>
+raw data:
+  term: daykarar
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: determine, be determined to
+    epo: decidemo; decidemi
+    spa: "determinaci\xF3n (_decisi\xF3n_); determinar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + karar
+...

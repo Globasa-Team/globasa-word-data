@@ -1,0 +1,61 @@
+---
+term: baligu
+slug: baligu
+ipa: baˈligu
+ipa link: http://ipa-reader.xyz/?text=baˈligu&voice=Ewa
+status: false
+category: root
+word class: t
+trans:
+  eng:
+  - - adult
+    - grown-up
+  epo:
+  - - plenkreska
+  - - plenkreske
+  spa:
+  - - adulto (_cualquier especie_)
+search terms:
+  glb:
+  - baligu
+  eng:
+  - adult
+  - grown-up
+  epo:
+  - plenkreska
+  - plenkreske
+  spa:
+  - adulto
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - بَالِغ "baliḡ"
+  Parsisa:
+  - - بالغ "bâleğ"
+  Indonesisa:
+  - - balig
+  Turkisa:
+  - - baliğ
+  Hindisa:
+  - - बालिग़ "baliġ"
+raw data:
+  term: baligu
+  category: root
+  word class: t
+  status: false
+  trans:
+    eng: adult, grown-up
+    epo: plenkreska; plenkreske
+    spa: adulto (_cualquier especie_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (بَالِغ "baliḡ"), Parsisa (بالغ "bâleğ"), Indonesisa (balig),
+    Turkisa (baliğ), Hindisa (बालिग़ "baliġ")
+...

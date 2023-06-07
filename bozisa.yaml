@@ -1,0 +1,54 @@
+---
+term: bozisa
+slug: bozisa
+ipa: "bo\u02C8zisa"
+ipa link: "http://ipa-reader.xyz/?text=bo\u02C8zisa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - bleat
+  epo:
+  - - kaprobleko
+    - mekado
+  - - kaprobleki
+    - meki
+  spa:
+  - - balido
+  - - balar
+search terms:
+  glb:
+  - bozisa
+  eng:
+  - bleat
+  epo:
+  - kaprobleko
+  - mekado
+  - kaprobleki
+  - meki
+  spa:
+  - balido
+  - balar
+etymology_type: DERIVD
+etymology: <a href="../lexi/bozi">bozi</a> + <a href="../lexi/-sa">-sa</a>
+raw data:
+  term: bozisa
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: bleat
+    epo: kaprobleko, mekado; kaprobleki, meki
+    spa: balido; balar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bozi + -sa
+...

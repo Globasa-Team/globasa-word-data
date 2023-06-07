@@ -1,0 +1,79 @@
+---
+term: formu
+slug: formu
+ipa: ˈfoɾmu
+ipa link: http://ipa-reader.xyz/?text=ˈfoɾmu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - form (_document_)
+  epo:
+  - - formularo
+  spa:
+  - - formato
+    - forma
+search terms:
+  glb:
+  - formu
+  eng:
+  - form
+  epo:
+  - formularo
+  spa:
+  - formato
+  - forma
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - form
+  Espanisa:
+  - - formulario
+  Fransesa:
+  - - formulaire
+  Rusisa:
+  - - формуляр "formulyar"
+  Doycisa:
+  - - Formular
+  Portugalsa:
+  - - formulário
+  Italisa:
+  - - formulario
+  Indonesisa:
+  - - formulir
+  Pilipinasa:
+  - - form
+  Hindisa:
+  - - फारम "faram"
+  Telugusa:
+  - - ఫారమ్ "faram"
+  Turkisa:
+  - - form
+  Parsisa:
+  - - فرم "form"
+  Swahilisa:
+  - - fomu
+raw data:
+  term: formu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: form (_document_)
+    epo: formularo
+    spa: formato, forma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (form), Espanisa (formulario), Fransesa (formulaire), Rusisa
+    (формуляр "formulyar"), Doycisa (Formular), Portugalsa (formulário), Italisa (formulario),
+    Indonesisa (formulir), Pilipinasa (form), Hindisa (फारम "faram"), Telugusa (ఫారమ్
+    "faram"), Turkisa (form), Parsisa (فرم "form"), Swahilisa (fomu)
+...

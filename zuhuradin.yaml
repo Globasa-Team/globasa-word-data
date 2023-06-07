@@ -1,0 +1,46 @@
+---
+term: zuhuradin
+slug: zuhuradin
+ipa: "zuxu\u027Ea\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=zuxu\u027Ea\u02C8din&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Friday
+  epo:
+  - - vendredo
+  spa:
+  - - viernes
+search terms:
+  glb:
+  - zuhuradin
+  eng:
+  - friday
+  epo:
+  - vendredo
+  spa:
+  - viernes
+etymology_type: DERIVD
+etymology: <a href="../lexi/Zuhura">Zuhura</a> + <a href="../lexi/-din">-din</a>
+raw data:
+  term: zuhuradin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Friday
+    epo: vendredo
+    spa: viernes
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Zuhura + -din
+...

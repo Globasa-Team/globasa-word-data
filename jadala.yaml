@@ -1,0 +1,69 @@
+---
+term: jadala
+slug: jadala
+ipa: "d\u0361\u0292a\u02C8dala"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8dala&voice=Ewa"
+status: false
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - braid
+    - plait
+    - weave
+    - knit
+  epo:
+  - - plekti
+    - teksi
+    - triki
+  spa:
+  - - trenza
+  - - trenzar
+search terms:
+  glb:
+  - jadala
+  eng:
+  - braid
+  - plait
+  - weave
+  - knit
+  epo:
+  - plekti
+  - teksi
+  - triki
+  spa:
+  - trenza
+  - trenzar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062C\u064E\u062F\u0650\u064A\u0644\u064E\u0629 \"jadila\""
+  Telugusa:
+  - - "\u0C1C\u0C21 \"jada\""
+    - "\u0C1C\u0C21\u0C15\u0C1F\u0C4D\u0C1F\u0C41 \"jadakatu\""
+  Hangusa:
+  - - "\uC9DC\uB2E4 \"jada\""
+  Indonesisa:
+  - - jalinan
+raw data:
+  term: jadala
+  category: root
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: braid, plait, weave, knit
+    epo: plekti, teksi, triki
+    spa: trenza; trenzar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u064E\u062F\u0650\u064A\u0644\u064E\u0629 \"jadila\"),
+    Telugusa (\u0C1C\u0C21 \"jada\", \u0C1C\u0C21\u0C15\u0C1F\u0C4D\u0C1F\u0C41 \"jadakatu\"),
+    Hangusa (\uC9DC\uB2E4 \"jada\"), Indonesisa (jalinan)"
+...

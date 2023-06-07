@@ -1,0 +1,49 @@
+---
+term: limayum
+slug: limayum
+ipa: "lima\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=lima\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - (the) fifth
+  epo:
+  - - kvina
+  - - kvine
+  spa:
+  - - quinto
+search terms:
+  glb:
+  - limayum
+  eng:
+  - the fifth
+  - fifth
+  epo:
+  - kvina
+  - kvine
+  spa:
+  - quinto
+etymology_type: DERIVD
+etymology: <a href="../lexi/lima">lima</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: limayum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: (the) fifth
+    epo: kvina; kvine
+    spa: quinto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lima + -yum
+...

@@ -1,0 +1,48 @@
+---
+term: lilya
+slug: lilya
+ipa: "\u02C8lilja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lilja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - smallness
+  epo:
+  - - malgrandeco
+    - eteco
+  spa:
+  - - "peque\xF1ez"
+search terms:
+  glb:
+  - lilya
+  eng:
+  - smallness
+  epo:
+  - malgrandeco
+  - eteco
+  spa:
+  - "peque\xF1ez"
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil">lil</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: 'lilya '
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: smallness
+    epo: malgrandeco, eteco
+    spa: "peque\xF1ez"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil + -ya
+...

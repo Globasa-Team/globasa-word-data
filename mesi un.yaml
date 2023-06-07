@@ -1,0 +1,48 @@
+---
+term: mesi un
+slug: mesi un
+ipa: "\u02C8mesi \u02C8un"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mesi \u02C8un&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - January
+  epo:
+  - - Januaro
+  spa:
+  - - enero
+search terms:
+  glb:
+  - mesi un
+  - mesi
+  - un
+  eng:
+  - january
+  epo:
+  - januaro
+  spa:
+  - enero
+etymology_type: DERIVD
+etymology: <a href="../lexi/mesi">mesi</a>, <a href="../lexi/un">un</a>
+raw data:
+  term: mesi un
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: January
+    epo: Januaro
+    spa: enero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mesi, un
+...

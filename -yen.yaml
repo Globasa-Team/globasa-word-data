@@ -1,0 +1,68 @@
+---
+term: -yen
+slug: -yen
+ipa: "\u02C8-jen"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-jen&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - being (_any animate being_)
+    - (personified) object
+  epo:
+  - - -ulo (_iu ajn vivulo_)
+    - -anto
+    - -isto
+    - (personigita) objekto
+  spa:
+  - - ser (_cualquier ser viviente_)
+    - objeto (_personificado_)
+search terms:
+  glb:
+  - -yen
+  eng:
+  - being
+  - personified object
+  - object
+  epo:
+  - -ulo
+  - -anto
+  - -isto
+  - personigita objekto
+  - objekto
+  spa:
+  - ser
+  - objeto
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5458 \u201Cyu\xE1n\u201D"
+  Englisa:
+  - - -ian
+  Fransesa:
+  - - -ien
+    - -ienne
+  Swahilisa:
+  - - yeye - te
+raw data:
+  term: -yen
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: being (_any animate being_), (personified) object
+    epo: -ulo (_iu ajn vivulo_), -anto, -isto, (personigita) objekto
+    spa: ser (_cualquier ser viviente_), objeto (_personificado_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5458 \u201Cyu\xE1n\u201D), Englisa (-ian), Fransesa (-ien,
+    -ienne), Swahilisa (yeye - te)"
+...

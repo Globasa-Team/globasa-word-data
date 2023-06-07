@@ -1,0 +1,56 @@
+---
+term: dyex
+slug: dyex
+ipa: ˈdjeʃ
+ipa link: http://ipa-reader.xyz/?text=ˈdjeʃ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - plate
+    - dish
+  epo:
+  - - plado
+    - telero
+  spa:
+  - - plato
+search terms:
+  glb:
+  - dyex
+  eng:
+  - plate
+  - dish
+  epo:
+  - plado
+  - telero
+  spa:
+  - plato
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - dish
+  Putunhwa:
+  - - 碟 “dié”
+  Vyetnamsa:
+  - - dĩa
+raw data:
+  term: dyex
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: plate, dish
+    epo: plado, telero
+    spa: plato
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (dish), Putunhwa (碟 “dié”), Vyetnamsa (dĩa)
+...

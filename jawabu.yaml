@@ -1,0 +1,63 @@
+---
+term: jawabu
+slug: jawabu
+ipa: "d\u0361\u0292a\u02C8wabu"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8wabu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - answer
+    - reply
+    - response
+  - - answer
+    - reply
+    - respond
+  epo:
+  - - respondo
+  - - respondi
+  spa:
+  - - respuesta
+  - - contestar
+    - responder
+search terms:
+  glb:
+  - jawabu
+  eng:
+    0: answer
+    1: reply
+    2: response
+    5: respond
+  epo:
+  - respondo
+  - respondi
+  spa:
+  - respuesta
+  - contestar
+  - responder
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jawabu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: answer, reply, response; answer, reply, respond
+    epo: respondo; respondi
+    spa: respuesta; contestar, responder
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u0648\u0627\u0628 \u201Cjawab\u201D), Hindisa (\u091C\u0935\u093E\u092C
+    \u201Cjavaab\u201D), Telugusa (\u0C1C\u0C35\u0C3E\u0C2C\u0C41 \u201Cjav\u0101bu\u201D),
+    Swahilisa (jibu, jawabu), Parsisa (\u062C\u0648\u0627\u0628\u200E \u201Cjav\xE2b\u201D),
+    Indonesisa (jawab), Turkisa (cevap)"
+...

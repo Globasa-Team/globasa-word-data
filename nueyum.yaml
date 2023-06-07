@@ -1,0 +1,48 @@
+---
+term: nueyum
+slug: nueyum
+ipa: "nue\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=nue\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - ninth
+  epo:
+  - - "na\u016Da"
+  - - "na\u016De"
+  spa:
+  - - noveno
+search terms:
+  glb:
+  - nueyum
+  eng:
+  - ninth
+  epo:
+  - "na\u016Da"
+  - "na\u016De"
+  spa:
+  - noveno
+etymology_type: DERIVD
+etymology: <a href="../lexi/nue">nue</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: nueyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: ninth
+    epo: "na\u016Da; na\u016De"
+    spa: noveno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nue + -yum
+...

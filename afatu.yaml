@@ -1,0 +1,65 @@
+---
+term: afatu
+slug: afatu
+ipa: aˈfatu
+ipa link: http://ipa-reader.xyz/?text=aˈfatu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - disaster
+    - catastrophe
+    - calamity
+  epo:
+  - - katastrofo
+  spa:
+  - - desastre
+    - catástrofe
+    - calamidad
+search terms:
+  glb:
+  - afatu
+  eng:
+  - disaster
+  - catastrophe
+  - calamity
+  epo:
+  - katastrofo
+  spa:
+  - desastre
+  - catástrofe
+  - calamidad
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - आफ़त “afat”
+  Arabisa:
+  - - آفَة “afa”
+  Turkisa:
+  - - afet
+  Parsisa:
+  - - آفت “afat”
+  Swahilisa:
+  - - afa
+raw data:
+  term: afatu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: disaster, catastrophe, calamity
+    epo: katastrofo
+    spa: desastre, catástrofe, calamidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (आफ़त “afat”), Arabisa (آفَة “afa”), Turkisa (afet), Parsisa
+    (آفت “afat”), Swahilisa (afa)
+...

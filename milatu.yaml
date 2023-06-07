@@ -1,0 +1,51 @@
+---
+term: milatu
+slug: milatu
+ipa: "mi\u02C8latu"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8latu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mortar
+    - plaster
+  epo:
+  - - mortero
+  spa:
+  - - mortero
+    - argamasa
+search terms:
+  glb:
+  - milatu
+  eng:
+  - mortar
+  - plaster
+  epo:
+  - mortero
+  spa:
+  - mortero
+  - argamasa
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: milatu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mortar, plaster
+    epo: mortero
+    spa: mortero, argamasa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0644\u0627\u0637 \u201Cmil\u0101\u1E6D\u201D), Parsisa
+    (\u0645\u0644\u0627\u062A \u201Cmal\xE2t\u201D)"
+...

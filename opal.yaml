@@ -1,0 +1,83 @@
+---
+term: opal
+slug: opal
+ipa: "o\u02C8pal"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8pal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - opal
+  epo:
+  - - opalo
+  spa:
+  - - "\xF3palo"
+search terms:
+  glb:
+  - opal
+  eng:
+  - opal
+  epo:
+  - opalo
+  spa:
+  - "\xF3palo"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - opal
+  Espanisa:
+  - - "\xF3palo"
+  Fransesa:
+  - - opale
+  Rusisa:
+  - - "\u043E\u043F\u0430\u043B \"opal\""
+  Doycisa:
+  - - Opal
+  Indonesisa:
+  - - opal
+  Pilipinasa:
+  - - opalo
+  Putunhwa:
+  - - "\u6B27\u6CCA \"owbwo\""
+  Hindisa:
+  - - "\u0913\u092A\u0932 \"opal\""
+  Arabisa:
+  - - "\u0623\u064F\u0648\u0628\u064E\u0627\u0644 \"ubal\""
+  Niponsa:
+  - - "\u30AA\u30D1\u30FC\u30EB \"op\u0101ru\""
+  Turkisa:
+  - - opal
+  Vyetnamsa:
+  - - opan
+  Hangusa:
+  - - "\uC624\uD314 \"opal\""
+  Parsisa:
+  - - "\u0627\u0648\u067E\u0627\u0644 \"awpal\""
+tags:
+- petra
+raw data:
+  term: opal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: opal
+    epo: opalo
+    spa: "\xF3palo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: "Englisa (opal), Espanisa (\xF3palo), Fransesa (opale), Rusisa (\u043E\u043F\u0430\u043B
+    \"opal\"), Doycisa (Opal), Indonesisa (opal), Pilipinasa (opalo), Putunhwa (\u6B27\u6CCA
+    \"owbwo\"), Hindisa (\u0913\u092A\u0932 \"opal\"), Arabisa (\u0623\u064F\u0648\u0628\u064E\u0627\u0644
+    \"ubal\"), Niponsa (\u30AA\u30D1\u30FC\u30EB \"op\u0101ru\"), Turkisa (opal),
+    Vyetnamsa (opan), Hangusa (\uC624\uD314 \"opal\"), Parsisa (\u0627\u0648\u067E\u0627\u0644
+    \"awpal\")"
+...

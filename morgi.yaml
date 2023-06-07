@@ -1,0 +1,54 @@
+---
+term: morgi
+slug: morgi
+ipa: "\u02C8mo\u027Egi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mo\u027Egi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - kill
+    - murder
+  epo:
+  - - mortigo
+  - - mortigi
+  spa:
+  - - asesinato
+  - - matar
+    - asesinar
+search terms:
+  glb:
+  - morgi
+  eng:
+  - kill
+  - murder
+  epo:
+  - mortigo
+  - mortigi
+  spa:
+  - asesinato
+  - matar
+  - asesinar
+etymology_type: DERIVD
+etymology: <a href="../lexi/mor">mor</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: morgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: kill, murder
+    epo: mortigo; mortigi
+    spa: asesinato; matar, asesinar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mor + -gi
+...

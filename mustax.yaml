@@ -1,0 +1,52 @@
+---
+term: mustax
+slug: mustax
+ipa: "mus\u02C8ta\u0283"
+ipa link: "http://ipa-reader.xyz/?text=mus\u02C8ta\u0283&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - moustache
+  epo:
+  - - lipharoj
+    - liphararo
+  spa:
+  - - bigote
+search terms:
+  glb:
+  - mustax
+  eng:
+  - moustache
+  epo:
+  - lipharoj
+  - liphararo
+  spa:
+  - bigote
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: mustax
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: moustache
+    epo: lipharoj, liphararo
+    spa: bigote
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (mustache), Fransesa (mustache), Espanisa (mostacho), Makedonisa
+    (\u043C\u0443\u0441\u0442\u0430\u045C \u201Cmustaky\u201D), Elinisa (\u03BC\u03BF\u03C5\u03C3\u03C4\u03AC\u03BA\u03B9
+    \u201Cmustaki\u201D)"
+...

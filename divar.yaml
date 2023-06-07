@@ -1,0 +1,54 @@
+---
+term: divar
+slug: divar
+ipa: diˈvaɾ
+ipa link: http://ipa-reader.xyz/?text=diˈvaɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wall
+  epo:
+  - - muro
+  spa:
+  - - pared
+    - muro
+search terms:
+  glb:
+  - divar
+  eng:
+  - wall
+  epo:
+  - muro
+  spa:
+  - pared
+  - muro
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - दीवार “divaar”
+  Parsisa:
+  - - دیوار “divar”
+  Turkisa:
+  - - duvar
+raw data:
+  term: divar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wall
+    epo: muro
+    spa: pared, muro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (दीवार “divaar”), Parsisa (دیوار “divar”), Turkisa (duvar)
+...

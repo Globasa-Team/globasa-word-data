@@ -1,0 +1,54 @@
+---
+term: kowa
+slug: kowa
+ipa: "\u02C8kowa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kowa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - power
+    - force
+  epo:
+  - - potenco
+    - forto
+    - povo
+  spa:
+  - - fuerza
+search terms:
+  glb:
+  - kowa
+  eng:
+  - power
+  - force
+  epo:
+  - potenco
+  - forto
+  - povo
+  spa:
+  - fuerza
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kowa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: power, force
+    epo: potenco, forto, povo
+    spa: fuerza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u0648\u0629 \u201Ckua\u201D), Indonesisa (kuat - bala),
+    Turkisa (kuvvet), Parsisa (\u0642\u0648\u062A \u201Ckovat\u201D), Hindisa (\u0915\u093C\u0941\u0935\u094D\u0935\u0924
+    \u201Ckuvvat\u201D)"
+...

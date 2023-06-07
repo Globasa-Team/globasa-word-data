@@ -1,0 +1,54 @@
+---
+term: dambo
+slug: dambo
+ipa: ˈdambo
+ipa link: http://ipa-reader.xyz/?text=ˈdambo&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - thin
+    - thinly
+  epo:
+  - - maldika
+  - - maldike
+  spa:
+  - - delgado
+search terms:
+  glb:
+  - dambo
+  eng:
+  - thin
+  - thinly
+  epo:
+  - maldika
+  - maldike
+  spa:
+  - delgado
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 单薄 “dānbó”
+antonyms:
+- mote
+raw data:
+  term: dambo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: thin, thinly
+    epo: maldika; maldike
+    spa: delgado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: mote
+  example: ""
+  tags: ""
+  etymology: Putunhwa (单薄 “dānbó”)
+...

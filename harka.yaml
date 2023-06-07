@@ -1,0 +1,63 @@
+---
+term: harka
+slug: harka
+ipa: "\u02C8xa\u027Eka"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xa\u027Eka&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - move
+    - motion
+    - movement
+  - - move
+  epo:
+  - - movo
+    - movado
+  - - "movi\u011Di"
+    - movi
+  spa:
+  - - movimiento
+  - - mover
+    - moverse
+search terms:
+  glb:
+  - harka
+  eng:
+  - move
+  - motion
+  - movement
+  epo:
+  - movo
+  - movado
+  - "movi\u011Di"
+  - movi
+  spa:
+  - movimiento
+  - mover
+  - moverse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: harka
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: move, motion, movement; move
+    epo: "movo, movado; movi\u011Di, movi"
+    spa: movimiento; mover, moverse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u0631\u0643\u0629 \u201Charak\u201D), Turkisa (hareket),
+    Parsisa (\u062D\u0631\u06A9\u062A \u201Charakat\u201D), Hindisa (\u0939\u0930\u0915\u0924
+    \u201Charkat\u201D)"
+...

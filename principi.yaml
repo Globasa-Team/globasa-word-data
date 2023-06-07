@@ -1,0 +1,67 @@
+---
+term: principi
+slug: principi
+ipa: "p\u027Ein\u02C8t\u0361\u0283ipi"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Ein\u02C8t\u0361\u0283ipi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - principle
+  epo:
+  - - principo
+  spa:
+  - - principio (_precepto_)
+search terms:
+  glb:
+  - principi
+  eng:
+  - principle
+  epo:
+  - principo
+  spa:
+  - principio
+etymology_type: NATLNG
+etymology:
+  Catalan:
+  - - principi
+  Englisa:
+  - - principle
+  Fransesa:
+  - - principe
+  Doycisa:
+  - - Prinzip
+  Italisa:
+  - - principio
+    - principi
+  Rusisa:
+  - - "\u043F\u0440\u0438\u043D\u0446\u0438\u043F \u201Cprincip\u201D"
+  Espanisa:
+  - - principio
+  Turkisa:
+  - - prensip
+  Indonesisa:
+  - - prinsip
+raw data:
+  term: principi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: principle
+    epo: principo
+    spa: principio (_precepto_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Catalan (principi), Englisa (principle), Fransesa (principe), Doycisa
+    (Prinzip), Italisa (principio, principi), Rusisa (\u043F\u0440\u0438\u043D\u0446\u0438\u043F
+    \u201Cprincip\u201D), Espanisa (principio), Turkisa (prensip), Indonesisa (prinsip)"
+...

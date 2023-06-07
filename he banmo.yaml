@@ -1,0 +1,48 @@
+---
+term: he banmo
+slug: he banmo
+ipa: "\u02C8xe \u02C8banmo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8banmo&voice=Ewa"
+status: false
+category: phrase
+word class: m
+trans:
+  eng:
+  - - to any degree
+  epo:
+  - - iom ajn
+  spa:
+  - - a cualquier grado
+search terms:
+  glb:
+  - he banmo
+  - he
+  - banmo
+  eng:
+  - to any degree
+  epo:
+  - iom ajn
+  spa:
+  - a cualquier grado
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/ban">ban</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: he banmo
+  category: phrase
+  word class: m
+  status: false
+  trans:
+    eng: to any degree
+    epo: iom ajn
+    spa: a cualquier grado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, ban + -mo
+...

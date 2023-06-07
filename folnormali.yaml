@@ -1,0 +1,53 @@
+---
+term: folnormali
+slug: folnormali
+ipa: "folno\u027E\u02C8mali"
+ipa link: "http://ipa-reader.xyz/?text=folno\u027E\u02C8mali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - normal
+    - normally
+  epo:
+  - - "la\u016Dnorma"
+    - "la\u016Dnorme"
+  spa:
+  - - normal
+  - - normalmente
+search terms:
+  glb:
+  - folnormali
+  eng:
+  - normal
+  - normally
+  epo:
+  - "la\u016Dnorma"
+  - "la\u016Dnorme"
+  spa:
+  - normal
+  - normalmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/fol">fol</a> + <a href="../lexi/norma">norma</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: folnormali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: normal, normally
+    epo: "la\u016Dnorma, la\u016Dnorme"
+    spa: normal; normalmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fol + norma + -li
+...

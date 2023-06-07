@@ -1,0 +1,46 @@
+---
+term: kanca
+slug: kanca
+ipa: "\u02C8kant\u0361\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kant\u0361\u0283a&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - glass (_material_)
+  epo:
+  - - vitro
+  spa:
+  - - vidrio (_material_)
+search terms:
+  glb:
+  - kanca
+  eng:
+  - glass
+  epo:
+  - vitro
+  spa:
+  - vidrio
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kanca
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: glass (_material_)
+    epo: vitro
+    spa: vidrio (_material_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (kaca), Hindisa (\u0915\u093E\u0902\u091A \u201Ck\u0101\xF1c\u201D)"
+...

@@ -1,0 +1,54 @@
+---
+term: ete
+slug: ete
+ipa: ˈete
+ipa link: http://ipa-reader.xyz/?text=ˈete&voice=Ewa
+status: true
+category: root
+word class: pn
+trans:
+  eng:
+  - - they
+    - them (_animate
+    - personified objects_)
+  epo:
+  - - ili (_vivaj
+    - personigitaj objektoj_)
+  spa:
+  - - ellos (_seres vivientes y objetos personificados_)
+search terms:
+  glb:
+  - ete
+  eng:
+  - they
+  - them animate
+  - them (_animate
+  - personified objects
+  epo:
+  - ili vivaj
+  - ili (_vivaj
+  - personigitaj objektoj
+  spa:
+  - ellos
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/te">te</a>.
+raw data:
+  term: ete
+  category: root
+  word class: pn
+  status: true
+  trans:
+    eng: they, them (_animate, personified objects_)
+    epo: ili (_vivaj, personigitaj objektoj_)
+    spa: ellos (_seres vivientes y objetos personificados_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _te_.
+...

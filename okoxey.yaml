@@ -1,0 +1,46 @@
+---
+term: okoxey
+slug: okoxey
+ipa: "oko\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=oko\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - view
+  epo:
+  - - "vida\u0135o"
+  spa:
+  - - vista
+search terms:
+  glb:
+  - okoxey
+  eng:
+  - view
+  epo:
+  - "vida\u0135o"
+  spa:
+  - vista
+etymology_type: DERIVD
+etymology: <a href="../lexi/oko">oko</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: okoxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: view
+    epo: "vida\u0135o"
+    spa: vista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: oko + -xey
+...

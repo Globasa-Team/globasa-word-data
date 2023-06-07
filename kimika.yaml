@@ -1,0 +1,50 @@
+---
+term: kimika
+slug: kimika
+ipa: "ki\u02C8mika"
+ipa link: "http://ipa-reader.xyz/?text=ki\u02C8mika&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chemistry
+  epo:
+  - - kemio
+  spa:
+  - - "qu\xEDmica"
+search terms:
+  glb:
+  - kimika
+  eng:
+  - chemistry
+  epo:
+  - kemio
+  spa:
+  - "qu\xEDmica"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kimika
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chemistry
+    epo: kemio
+    spa: "qu\xEDmica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (chemical), Espanisa (qu\xEDmica), Fransesa (chimie), Rusisa
+    (\u0445\u0438\u043C\u0438\u044F \u201Chimiya\u201D), Doycisa (Chemie), Indonesisa
+    (kimia), Pilipinasa (kimika), Arabisa (\u0643\u0650\u064A\u0645\u0650\u064A\u064E\u0627\u0621
+    \u201Ckimiya\u201D), Turkisa (kimya), Parsisa (\u0634\u06CC\u0645\u06CC \u201Cximi\u201D),
+    Swahilisa (kemia)"
+...

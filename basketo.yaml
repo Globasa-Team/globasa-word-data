@@ -1,0 +1,70 @@
+---
+term: basketo
+slug: basketo
+ipa: basˈketo
+ipa link: http://ipa-reader.xyz/?text=basˈketo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - basket
+  epo:
+  - - korbo
+  spa:
+  - - canasta
+search terms:
+  glb:
+  - basketo
+  eng:
+  - basket
+  epo:
+  - korbo
+  spa:
+  - canasta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - basketball
+  Fransesa: ~
+  Doycisa:
+  - - Basketball
+  Rusisa:
+  - - баскетбол “basketbol”
+  Espanisa:
+  - - básquetbol
+  Niponsa:
+  - - バスケットボール “basuketoboru”
+  Hindisa:
+  - - बास्केटबॉल “basketbol”
+  Indonesisa:
+  - - bola basket
+  Turkisa:
+  - - basketbol
+  Pilipinasa:
+  - - basketbol
+  Parsisa:
+  - - بسکتبال “basketbâl”
+raw data:
+  term: basketo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: basket
+    epo: korbo
+    spa: canasta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (basketball), Fransesa, Doycisa (Basketball), Rusisa (баскетбол
+    “basketbol”), Espanisa (básquetbol), Niponsa (バスケットボール “basuketoboru”), Hindisa
+    (बास्केटबॉल “basketbol”), Indonesisa (bola basket), Turkisa (basketbol), Pilipinasa
+    (basketbol), Parsisa (بسکتبال “basketbâl”)
+...

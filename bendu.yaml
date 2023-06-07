@@ -1,0 +1,88 @@
+---
+term: bendu
+slug: bendu
+ipa: ˈbendu
+ipa link: http://ipa-reader.xyz/?text=ˈbendu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tape
+    - band
+    - strip
+    - strap
+    - ribbon
+  epo:
+  - - bendo
+    - rubando
+  spa:
+  - - cinta
+    - banda
+    - listón
+search terms:
+  glb:
+  - bendu
+  eng:
+  - tape
+  - band
+  - strip
+  - strap
+  - ribbon
+  epo:
+  - bendo
+  - rubando
+  spa:
+  - cinta
+  - banda
+  - listón
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - band
+  Fransesa:
+  - - bande
+  Doycisa:
+  - - Band
+  Portugalsa:
+  - - banda
+  Pilipinasa:
+  - - banda
+  Hindisa:
+  - - बाँधना "bandna"
+  Niponsa:
+  - - バンド "bando"
+  Turkisa:
+  - - bant
+  Vyetnamsa:
+  - - băng
+    - băng từ
+  Hangusa:
+  - - 밴드 "bendu"
+  Parsisa:
+  - - بند "band"
+  Swahilisa:
+  - - bendi
+raw data:
+  term: bendu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tape, band, strip, strap, ribbon
+    epo: bendo, rubando
+    spa: cinta, banda, listón
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (band), Fransesa (bande), Doycisa (Band), Portugalsa (banda),
+    Pilipinasa (banda), Hindisa (बाँधना "bandna"), Niponsa (バンド "bando"), Turkisa
+    (bant), Vyetnamsa (băng, băng từ), Hangusa (밴드 "bendu"), Parsisa (بند "band"),
+    Swahilisa (bendi)
+...

@@ -1,0 +1,56 @@
+---
+term: doyday
+slug: doyday
+ipa: dojˈdaj
+ipa link: http://ipa-reader.xyz/?text=dojˈdaj&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - treatment
+  - - treat
+  epo:
+  - - trakto
+  - - trakti
+  spa:
+  - - trato
+  - - tratar
+search terms:
+  glb:
+  - doyday
+  eng:
+  - treatment
+  - treat
+  epo:
+  - trakto
+  - trakti
+  spa:
+  - trato
+  - tratar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 对待 “duìdài”
+  Vyetnamsa:
+  - - đối đải
+raw data:
+  term: doyday
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: treatment; treat
+    epo: trakto; trakti
+    spa: trato; tratar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (对待 “duìdài”), Vyetnamsa (đối đải)
+...

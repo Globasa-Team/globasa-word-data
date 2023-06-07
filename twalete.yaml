@@ -1,0 +1,64 @@
+---
+term: twalete
+slug: twalete
+ipa: "twa\u02C8lete"
+ipa link: "http://ipa-reader.xyz/?text=twa\u02C8lete&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - toilet
+  epo:
+  - - necesejo
+  spa:
+  - - inodoro
+    - retrete
+search terms:
+  glb:
+  - twalete
+  eng:
+  - toilet
+  epo:
+  - necesejo
+  spa:
+  - inodoro
+  - retrete
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - toilet
+  Fransesa:
+  - - toilettes
+  Doycisa:
+  - - Toilette
+  Indonesisa:
+  - - toilet
+  Niponsa:
+  - - "\u30C8\u30A4\u30EC\u30C3\u30C8 \u201Ctoyreto\u201D"
+  Turkisa:
+  - - tuvalet
+  Parsisa:
+  - - "\u062A\u0648\u0627\u0644\u062A \u201Ctualet\u201D"
+raw data:
+  term: twalete
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: toilet
+    epo: necesejo
+    spa: inodoro, retrete
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (toilet), Fransesa (toilettes), Doycisa (Toilette), Indonesisa
+    (toilet), Niponsa (\u30C8\u30A4\u30EC\u30C3\u30C8 \u201Ctoyreto\u201D), Turkisa
+    (tuvalet), Parsisa (\u062A\u0648\u0627\u0644\u062A \u201Ctualet\u201D)"
+...

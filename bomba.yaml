@@ -1,0 +1,74 @@
+---
+term: bomba
+slug: bomba
+ipa: ˈbomba
+ipa link: http://ipa-reader.xyz/?text=ˈbomba&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - bomb
+  epo:
+  - - bombo
+  - - bombi
+  spa:
+  - - bomba (_explosivo_)
+search terms:
+  glb:
+  - bomba
+  eng:
+  - bomb
+  epo:
+  - bombo
+  - bombi
+  spa:
+  - bomba
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bomb
+  Fransesa:
+  - - bombe
+  Doycisa:
+  - - Bombe
+  Rusisa:
+  - - бомба “bomba”
+  Espanisa:
+  - - bomba
+  Indonesisa:
+  - - bom
+  Pilipinasa:
+  - - bomba
+  Hindisa:
+  - - बम “bam”
+  Niponsa:
+  - - ボム “bomu”
+  Hangusa:
+  - - 봄 “bom”
+  Turkisa:
+  - - bomba
+  Parsisa:
+  - - بمب “bomb”
+raw data:
+  term: bomba
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: bomb
+    epo: bombo; bombi
+    spa: bomba (_explosivo_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (bomb), Fransesa (bombe), Doycisa (Bombe), Rusisa (бомба “bomba”),
+    Espanisa (bomba), Indonesisa (bom), Pilipinasa (bomba), Hindisa (बम “bam”), Niponsa
+    (ボム “bomu”), Hangusa (봄 “bom”), Turkisa (bomba), Parsisa (بمب “bomb”)
+...

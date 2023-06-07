@@ -1,0 +1,67 @@
+---
+term: wakil
+slug: wakil
+ipa: "wa\u02C8kil"
+ipa link: "http://ipa-reader.xyz/?text=wa\u02C8kil&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - representation
+  - - represent
+  epo:
+  - - reprezento
+  - - reprezenti
+  spa:
+  - - "representaci\xF3n"
+  - - representar
+search terms:
+  glb:
+  - wakil
+  eng:
+  - representation
+  - represent
+  epo:
+  - reprezento
+  - reprezenti
+  spa:
+  - "representaci\xF3n"
+  - representar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0648\u0643\u064A\u0644 \u201Cwakil\u201D - wakilyen"
+  Indonesisa:
+  - - wakil - wakilyen
+  Swahilisa:
+  - - -wakilishi
+  Turkisa:
+  - - vekil
+  Parsisa:
+  - - "\u0648\u06A9\u06CC\u0644 \u201Cvakil\u201D - deputy"
+  Hindisa:
+  - - "\u0935\u0915\u0940\u0932 \u201Cvakil\" - legayen"
+raw data:
+  term: wakil
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: representation; represent
+    epo: reprezento; reprezenti
+    spa: "representaci\xF3n; representar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0648\u0643\u064A\u0644 \u201Cwakil\u201D - wakilyen), Indonesisa
+    (wakil - wakilyen), Swahilisa (-wakilishi), Turkisa (vekil), Parsisa (\u0648\u06A9\u06CC\u0644
+    \u201Cvakil\u201D - deputy), Hindisa (\u0935\u0915\u0940\u0932 \u201Cvakil\" -
+    legayen)"
+...

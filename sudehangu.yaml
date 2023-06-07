@@ -1,0 +1,50 @@
+---
+term: sudehangu
+slug: sudehangu
+ipa: "sude\u02C8xangu"
+ipa link: "http://ipa-reader.xyz/?text=sude\u02C8xangu&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - South Korea
+  epo:
+  - - Sud-Koreio
+    - Sud-Koreujo
+  spa:
+  - - Corea del Sur
+search terms:
+  glb:
+  - sudehangu
+  eng:
+  - south korea
+  epo:
+  - sud-koreio
+  - sud-koreujo
+  spa:
+  - corea del sur
+etymology_type: DERIVD
+etymology: <a href="../lexi/sude">sude</a> + <a href="../lexi/Hangu">Hangu</a>
+tags:
+- dexa
+raw data:
+  term: Sudehangu
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: South Korea
+    epo: Sud-Koreio, Sud-Koreujo
+    spa: Corea del Sur
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: sude + Hangu
+...

@@ -1,0 +1,47 @@
+---
+term: heroina
+slug: heroina
+ipa: "xe\u027Eo\u02C8ina"
+ipa link: "http://ipa-reader.xyz/?text=xe\u027Eo\u02C8ina&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - heroin
+  epo:
+  - - heroeno
+  spa:
+  - - "hero\xEDna (droga)"
+search terms:
+  glb:
+  - heroina
+  eng:
+  - heroin
+  epo:
+  - heroeno
+  spa:
+  - "hero\xEDna droga"
+  - "hero\xEDna"
+etymology_type: DERIVD
+etymology: <a href="../lexi/hero">hero</a> + <a href="../lexi/-ina">-ina</a>
+raw data:
+  term: heroina
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: heroin
+    epo: heroeno
+    spa: "hero\xEDna (droga)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hero + -ina
+...

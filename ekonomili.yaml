@@ -1,0 +1,46 @@
+---
+term: ekonomili
+slug: ekonomili
+ipa: "ekono\u02C8mili"
+ipa link: "http://ipa-reader.xyz/?text=ekono\u02C8mili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - economic
+  epo:
+  - - ekonomia
+  spa:
+  - - "econ\xF3mico"
+search terms:
+  glb:
+  - ekonomili
+  eng:
+  - economic
+  epo:
+  - ekonomia
+  spa:
+  - "econ\xF3mico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ekonomi">ekonomi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: ekonomili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: economic
+    epo: ekonomia
+    spa: "econ\xF3mico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ekonomi + -li
+...

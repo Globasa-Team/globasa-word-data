@@ -1,0 +1,48 @@
+---
+term: sikomedis
+slug: sikomedis
+ipa: "sikome\u02C8dis"
+ipa link: "http://ipa-reader.xyz/?text=sikome\u02C8dis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - psychiatry
+  epo:
+  - - "psi\u0125iatrio"
+    - psikiatrio
+  spa:
+  - - "psiquiatr\xEDa"
+search terms:
+  glb:
+  - sikomedis
+  eng:
+  - psychiatry
+  epo:
+  - "psi\u0125iatrio"
+  - psikiatrio
+  spa:
+  - "psiquiatr\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/siko">siko</a> + <a href="../lexi/-medis">-medis</a>
+raw data:
+  term: sikomedis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: psychiatry
+    epo: "psi\u0125iatrio, psikiatrio"
+    spa: "psiquiatr\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: siko + -medis
+...

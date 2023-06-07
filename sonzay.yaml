@@ -1,0 +1,59 @@
+---
+term: sonzay
+slug: sonzay
+ipa: "son\u02C8zaj"
+ipa link: "http://ipa-reader.xyz/?text=son\u02C8zaj&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - existence
+  - - exist
+  epo:
+  - - ekzisto
+  - - ekzisti
+  spa:
+  - - existencia
+  - - existir
+search terms:
+  glb:
+  - sonzay
+  eng:
+  - existence
+  - exist
+  epo:
+  - ekzisto
+  - ekzisti
+  spa:
+  - existencia
+  - existir
+etymology_type: NATLNG
+etymology:
+  Niponsa:
+  - - "\u5B58\u5728 \u201Csonzai\u201D"
+  Putunhwa:
+  - - "\u5B58\u5728 \u201Cc\xFAnz\xE0i\u201D"
+  Vyetnamsa:
+  - - "t\xF4\u0340n ta\u0323i"
+raw data:
+  term: sonzay
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: existence; exist
+    epo: ekzisto; ekzisti
+    spa: existencia; existir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Niponsa (\u5B58\u5728 \u201Csonzai\u201D), Putunhwa  (\u5B58\u5728 \u201Cc\xFAnz\xE0i\u201D),
+    Vyetnamsa (t\xF4\u0340n ta\u0323i)"
+...

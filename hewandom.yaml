@@ -1,0 +1,50 @@
+---
+term: hewandom
+slug: hewandom
+ipa: "xewan\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=xewan\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - zoo
+  epo:
+  - - "besto\u011Dardeno"
+    - "zoologia \u011Dardeno"
+    - zoo
+  spa:
+  - - "zool\xF3gico"
+search terms:
+  glb:
+  - hewandom
+  eng:
+  - zoo
+  epo:
+  - "besto\u011Dardeno"
+  - "zoologia \u011Dardeno"
+  - zoo
+  spa:
+  - "zool\xF3gico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/hewan">hewan</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: hewandom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: zoo
+    epo: "besto\u011Dardeno, zoologia \u011Dardeno, zoo"
+    spa: "zool\xF3gico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hewan + -dom
+...

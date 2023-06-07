@@ -1,0 +1,46 @@
+---
+term: turiya
+slug: turiya
+ipa: "tu\u02C8\u027Eija"
+ipa link: "http://ipa-reader.xyz/?text=tu\u02C8\u027Eija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - tourism
+  epo:
+  - - turismo
+  spa:
+  - - turismo
+search terms:
+  glb:
+  - turiya
+  eng:
+  - tourism
+  epo:
+  - turismo
+  spa:
+  - turismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/turi">turi</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: turiya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: tourism
+    epo: turismo
+    spa: turismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: turi + -ya
+...

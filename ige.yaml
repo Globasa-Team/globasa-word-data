@@ -1,0 +1,46 @@
+---
+term: ige
+slug: ige
+ipa: "\u02C8ige"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ige&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter g
+  epo:
+  - - litero g
+  spa:
+  - - letra g
+search terms:
+  glb:
+  - ige
+  eng:
+  - letter g
+  epo:
+  - litero g
+  spa:
+  - letra g
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ige
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter g
+    epo: litero g
+    spa: letra g
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

@@ -1,0 +1,68 @@
+---
+term: astama
+slug: astama
+ipa: asˈtama
+ipa link: http://ipa-reader.xyz/?text=asˈtama&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - asthma
+  epo:
+  - - astmo
+  spa:
+  - - asma
+search terms:
+  glb:
+  - astama
+  eng:
+  - asthma
+  epo:
+  - astmo
+  spa:
+  - asma
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Asthma
+  Englisa:
+  - - asthma
+  Espanisa:
+  - - asma
+  Fransesa:
+  - - asthme
+  Rusisa:
+  - - астма “astma”
+  Indonesisa:
+  - - asma
+  Turkisa:
+  - - astım
+  Telugusa:
+  - - ఆస్థమా “astama”
+  Parsisa:
+  - - آسم “âsm”
+tags:
+- medis
+raw data:
+  term: astama
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: asthma
+    epo: astmo
+    spa: asma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: Doycisa (Asthma), Englisa (asthma), Espanisa (asma), Fransesa (asthme),
+    Rusisa (астма “astma”), Indonesisa (asma), Turkisa (astım), Telugusa (ఆస్థమా “astama”),
+    Parsisa (آسم “âsm”)
+...

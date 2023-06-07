@@ -1,0 +1,46 @@
+---
+term: sexinloy
+slug: sexinloy
+ipa: "se\u0283in\u02C8loj"
+ipa link: "http://ipa-reader.xyz/?text=se\u0283in\u02C8loj&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - self-confidence
+  epo:
+  - - memfido
+  spa:
+  - - autoconfianza
+search terms:
+  glb:
+  - sexinloy
+  eng:
+  - self-confidence
+  epo:
+  - memfido
+  spa:
+  - autoconfianza
+etymology_type: DERIVD
+etymology: <a href="../lexi/se-">se-</a> + <a href="../lexi/xinloy">xinloy</a>
+raw data:
+  term: sexinloy
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: self-confidence
+    epo: memfido
+    spa: autoconfianza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se- + xinloy
+...

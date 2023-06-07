@@ -1,0 +1,50 @@
+---
+term: totalmo
+slug: totalmo
+ipa: "to\u02C8talmo"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8talmo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - totally
+    - quite
+  epo:
+  - - tute
+  spa:
+  - - totalmente
+    - bastante
+search terms:
+  glb:
+  - totalmo
+  eng:
+  - totally
+  - quite
+  epo:
+  - tute
+  spa:
+  - totalmente
+  - bastante
+etymology_type: DERIVD
+etymology: <a href="../lexi/total">total</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: totalmo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: totally, quite
+    epo: tute
+    spa: totalmente, bastante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: total + -mo
+...

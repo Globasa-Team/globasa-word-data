@@ -1,0 +1,53 @@
+---
+term: ji max to
+slug: ji max to
+ipa: "d\u0361\u0292i \u02C8ma\u0283 \u02C8to"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i \u02C8ma\u0283 \u02C8to&voice=Ewa"
+status: false
+category: phrase
+word class: l jm
+trans:
+  eng:
+  - - et cetera
+    - etc.
+  epo:
+  - - kaj tiel plu
+    - ktp.
+  spa:
+  - - "etc\xE9tera"
+search terms:
+  glb:
+  - ji max to
+  - ji
+  - max
+  - to
+  eng:
+  - et cetera
+  - etc.
+  epo:
+  - kaj tiel plu
+  - ktp.
+  spa:
+  - "etc\xE9tera"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ji">ji</a>, <a href="../lexi/max">max</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: ji max to
+  category: phrase
+  word class: l jm
+  status: false
+  trans:
+    eng: et cetera, etc.
+    epo: kaj tiel plu, ktp.
+    spa: "etc\xE9tera"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ji, max + to
+...

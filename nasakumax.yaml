@@ -1,0 +1,46 @@
+---
+term: nasakumax
+slug: nasakumax
+ipa: "nasaku\u02C8ma\u0283"
+ipa link: "http://ipa-reader.xyz/?text=nasaku\u02C8ma\u0283&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - handkerchief
+  epo:
+  - - naztuko
+  spa:
+  - - "pa\xF1uelo"
+search terms:
+  glb:
+  - nasakumax
+  eng:
+  - handkerchief
+  epo:
+  - naztuko
+  spa:
+  - "pa\xF1uelo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/nasa">nasa</a> + <a href="../lexi/-kumax">-kumax</a>
+raw data:
+  term: nasakumax
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: handkerchief
+    epo: naztuko
+    spa: "pa\xF1uelo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nasa + -kumax
+...

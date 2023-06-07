@@ -1,0 +1,61 @@
+---
+term: yesen
+slug: yesen
+ipa: "je\u02C8sen"
+ipa link: "http://ipa-reader.xyz/?text=je\u02C8sen&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - wild
+    - wildly
+    - untamed
+  epo:
+  - - "sova\u011Da"
+  - - "sova\u011De"
+  spa:
+  - - salvaje
+    - "ind\xF3mito"
+search terms:
+  glb:
+  - yesen
+  eng:
+  - wild
+  - wildly
+  - untamed
+  epo:
+  - "sova\u011Da"
+  - "sova\u011De"
+  spa:
+  - salvaje
+  - "ind\xF3mito"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u91CE\u751F \u201Cy\u011Bsh\u0113ng\u201D"
+  Niponsa:
+  - - "\u91CE\u751F \u201Cyasei\u201D"
+  Hangusa:
+  - - "\uC57C\uC0DD \u201Cyasaeng\u201D"
+raw data:
+  term: yesen
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: wild, wildly, untamed
+    epo: "sova\u011Da; sova\u011De"
+    spa: "salvaje, ind\xF3mito"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u91CE\u751F \u201Cy\u011Bsh\u0113ng\u201D), Niponsa (\u91CE\u751F
+    \u201Cyasei\u201D), Hangusa (\uC57C\uC0DD \u201Cyasaeng\u201D)"
+...

@@ -1,0 +1,68 @@
+---
+term: -cu
+slug: -cu
+ipa: "\u02C8-t\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-t\u0361\u0283u&voice=Ewa"
+status: true
+category: affix
+word class: n/f.nenoj xfik
+trans:
+  eng:
+  - - _intransitive verb marker_
+    - become
+    - get
+    - turn (into)
+  epo:
+  - - "-i\u011Do"
+    - "-i\u011Di"
+    - _markilo de netransativa verbo_
+  spa:
+  - - _marcador de verbo intransitivo_
+    - llegar a ser
+  deu:
+  - - _markiert intransitive Verben_
+    - (jmd./etw.) werden
+search terms:
+  glb:
+  - -cu
+  eng:
+  - intransitive verb marker
+  - become
+  - get
+  - turn into
+  - turn
+  epo:
+  - "-i\u011Do"
+  - "-i\u011Di"
+  - markilo de netransativa verbo
+  spa:
+  - marcador de verbo intransitivo
+  - llegar a ser
+  deu:
+  - markiert intransitive verben
+  - jmd./etw. werden
+  - werden
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/cudu">cudu</a>.
+antonyms:
+- -gi
+raw data:
+  term: -cu
+  category: affix
+  word class: n/f.nenoj xfik
+  status: true
+  trans:
+    eng: _intransitive verb marker_, become, get, turn (into)
+    epo: "-i\u011Do, -i\u011Di, _markilo de netransativa verbo_"
+    spa: _marcador de verbo intransitivo_, llegar a ser
+    deu: _markiert intransitive Verben_, (jmd./etw.) werden
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: -gi
+  example: ""
+  tags: ""
+  etymology: Am oko _cudu_.
+...

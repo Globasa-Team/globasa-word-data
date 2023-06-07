@@ -1,0 +1,67 @@
+---
+term: gras
+slug: gras
+ipa: ˈgɾas
+ipa link: http://ipa-reader.xyz/?text=ˈgɾas&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - grass
+  epo:
+  - - herbo
+    - greso
+  spa:
+  - - césped
+    - pasto
+    - grama
+    - zacate
+    - _Poaceae_
+search terms:
+  glb:
+  - gras
+  eng:
+  - grass
+  epo:
+  - herbo
+  - greso
+  spa:
+  - césped
+  - pasto
+  - grama
+  - zacate
+  - poaceae
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - grass
+  Doycisa:
+  - - Gras
+  Hindisa:
+  - - घास “ghas”
+  Gurjaratisa:
+  - - ઘાસ “ghas”
+  Nederisa:
+  - - gras
+raw data:
+  term: gras
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: grass
+    epo: herbo, greso
+    spa: césped, pasto, grama, zacate, _Poaceae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (grass), Doycisa (Gras), Hindisa (घास “ghas”), Gurjaratisa (ઘાસ
+    “ghas”), Nederisa (gras)
+...

@@ -1,0 +1,50 @@
+---
+term: jalo
+slug: jalo
+ipa: "\u02C8d\u0361\u0292alo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292alo&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - yellow
+  epo:
+  - - flava
+  - - flave
+  spa:
+  - - amarillo
+search terms:
+  glb:
+  - jalo
+  eng:
+  - yellow
+  epo:
+  - flava
+  - flave
+  spa:
+  - amarillo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kolor
+raw data:
+  term: jalo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: yellow
+    epo: flava; flave
+    spa: amarillo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: Swahilisa (njano), Italisa (giallo), Englisa (yellow)
+...

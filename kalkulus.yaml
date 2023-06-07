@@ -1,0 +1,50 @@
+---
+term: kalkulus
+slug: kalkulus
+ipa: "kalku\u02C8lus"
+ipa link: "http://ipa-reader.xyz/?text=kalku\u02C8lus&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - calculus
+  epo:
+  - - infinitezima / senfinecona kalkulo
+  spa:
+  - - "c\xE1lculo"
+  - - calcular
+search terms:
+  glb:
+  - kalkulus
+  eng:
+  - calculus
+  epo:
+  - infinitezima / senfinecona kalkulo
+  spa:
+  - "c\xE1lculo"
+  - calcular
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kalkulus
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: calculus
+    epo: infinitezima / senfinecona kalkulo
+    spa: "c\xE1lculo; calcular"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (calculus), Pilipinasa, Espanisa (c\xE1lculo), Fransesa (calcul),
+    Doycisa (Kalk\xFCl), Indonesisa (kalkulus), Turkisa (kalk\xFCl\xFCs), Swahilisa
+    (kalkulasi)"
+...

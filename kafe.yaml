@@ -1,0 +1,60 @@
+---
+term: kafe
+slug: kafe
+ipa: "\u02C8kafe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kafe&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coffee
+  epo:
+  - - kafo
+  spa:
+  - - "caf\xE9"
+  deu:
+  - - Kaffee
+search terms:
+  glb:
+  - kafe
+  eng:
+  - coffee
+  epo:
+  - kafo
+  spa:
+  - "caf\xE9"
+  deu:
+  - kaffee
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- gluxey
+raw data:
+  term: kafe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coffee
+    epo: kafo
+    spa: "caf\xE9"
+    deu: Kaffee
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gluxey
+  etymology: "Englisa (coffee, caffeine), Espanisa (caf\xE9), Fransesa (caf\xE9),
+    Rusisa (\u043A\u043E\u0444\u0435 \"kofe\"), Doycisa (Kaffee), Portugalsa (caf\xE9),
+    Italisa (caff\xE8), Indonesisa (kopi, kafein), Pilipinasa (kape), Putunhwa (\u5496\u5561
+    \"kafey\"), Hindisa (\u0915\u0949\u092B\u093C\u0940 \"kofi\"), Arabisa (\u0642\u064E\u0647\u0652\u0648\u064E\u0629\u200E
+    \"qahwa\"), Niponsa (\u30B3\u30FC\u30D2\u30FC \"kohi\", \u30AB\u30D5\u30A7\u30A4\u30F3
+    \"kafein\"), Telugusa (\u0C15\u0C3E\u0C2B\u0C40 \"kaphi\"), Tamilsa (\u0B95\u0BBE\u0BAA\u0BCD\u0BAA\u0BBF
+    \"kapi\"), Turkisa (kahve), Vyetnamsa (c\xE0 ph\xEA), Hangusa (\uCEE4\uD53C \"keopi\",
+    \uCE74\uD398\uC778 \"kapein\"), Parsisa (\u0642\u0647\u0648\u0647 \"qahve\"),
+    Swahilisa (kahawa, kafeini)"
+...

@@ -1,0 +1,68 @@
+---
+term: peridotu
+slug: peridotu
+ipa: "pe\u027Ei\u02C8dotu"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027Ei\u02C8dotu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - peridot
+  epo:
+  - - peridoto
+  spa:
+  - - peridoto
+search terms:
+  glb:
+  - peridotu
+  eng:
+  - peridot
+  epo:
+  - peridoto
+  spa:
+  - peridoto
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - peridot
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Vyetnamsa: ~
+  Espanisa:
+  - - peridoto
+  Fransesa:
+  - - "p\xE9ridot"
+  Rusisa:
+  - - "\u043F\u0435\u0440\u0438\u0434\u043E\u0442 \u201Cperidot\u201D"
+  Niponsa:
+  - - "\u30DA\u30EA\u30C9\u30C3\u30C8 \u201Cperidoto\u201D"
+  Turkisa:
+  - - peridot
+    - perido
+tags:
+- petra
+raw data:
+  term: peridotu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: peridot
+    epo: peridoto
+    spa: peridoto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: "Englisa (peridot), Doycisa, Indonesisa, Pilipinasa, Vyetnamsa, Espanisa
+    (peridoto), Fransesa (p\xE9ridot), Rusisa (\u043F\u0435\u0440\u0438\u0434\u043E\u0442
+    \u201Cperidot\u201D), Niponsa (\u30DA\u30EA\u30C9\u30C3\u30C8 \u201Cperidoto\u201D),
+    Turkisa (peridot, perido)"
+...

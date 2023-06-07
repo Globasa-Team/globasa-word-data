@@ -1,0 +1,49 @@
+---
+term: hare
+slug: hare
+ipa: "\u02C8xa\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xa\u027Ee&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - have
+  epo:
+  - - havo
+  - - havi
+  spa:
+  - - tener
+search terms:
+  glb:
+  - hare
+  eng:
+  - have
+  epo:
+  - havo
+  - havi
+  spa:
+  - tener
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hare
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: have
+    epo: havo; havi
+    spa: tener
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (have), Doycisa (haben), Danisa (har), Norgesa (har), Swerisa
+    (har), Rumanisa (are)
+...

@@ -1,0 +1,54 @@
+---
+term: mugunge
+slug: mugunge
+ipa: "mu\u02C8gunge"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8gunge&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hibiscus
+  epo:
+  - - hibisko
+  spa:
+  - - hibisco
+    - (flor de) Jamaica
+    - _Hibiscus_
+search terms:
+  glb:
+  - mugunge
+  eng:
+  - hibiscus
+  epo:
+  - hibisko
+  spa:
+  - hibisco
+  - flor de jamaica
+  - jamaica
+  - hibiscus
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- planta
+raw data:
+  term: mugunge
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: hibiscus
+    epo: hibisko
+    spa: hibisco, (flor de) Jamaica, _Hibiscus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta
+  etymology: "Putunhwa (\u6728\u69FF \"mujin\"), Niponsa (\u6728\u69FF \"mukuge\"),
+    Hangusa (\uBB34\uAD81\uD654 \"mugunghwa\")"
+...

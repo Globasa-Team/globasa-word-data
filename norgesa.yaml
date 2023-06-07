@@ -1,0 +1,50 @@
+---
+term: norgesa
+slug: norgesa
+ipa: "no\u027E\u02C8gesa"
+ipa link: "http://ipa-reader.xyz/?text=no\u027E\u02C8gesa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Norwegian (language)
+  epo:
+  - - la norvega (lingvo)
+  spa:
+  - - noruego (_idioma_)
+search terms:
+  glb:
+  - norgesa
+  eng:
+  - norwegian language
+  - norwegian
+  epo:
+  - la norvega lingvo
+  - la norvega
+  spa:
+  - noruego
+etymology_type: DERIVD
+etymology: <a href="../lexi/Norge">Norge</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Norgesa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Norwegian (language)
+    epo: la norvega (lingvo)
+    spa: noruego (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Norge + -sa
+...

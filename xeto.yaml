@@ -1,0 +1,59 @@
+---
+term: xeto
+slug: xeto
+ipa: "\u02C8\u0283eto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283eto&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - tongue
+  - - taste
+  epo:
+  - - lango
+  - - gustumi
+  spa:
+  - - lengua
+  - - probar (el sabor de)
+search terms:
+  glb:
+  - xeto
+  eng:
+  - tongue
+  - taste
+  epo:
+  - lango
+  - gustumi
+  spa:
+  - lengua
+  - probar el sabor de
+  - probar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u820C\u5934 \u201Csh\xE9tou\u201D"
+  Niponsa:
+  - - "\u820C \u201Cshita\u201D"
+tags:
+- jismulogi
+raw data:
+  term: xeto
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: tongue; taste
+    epo: lango; gustumi
+    spa: lengua; probar (el sabor de)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa (\u820C\u5934 \u201Csh\xE9tou\u201D), Niponsa (\u820C \u201Cshita\u201D)"
+...

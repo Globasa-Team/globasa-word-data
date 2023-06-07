@@ -1,0 +1,75 @@
+---
+term: aksyon
+slug: aksyon
+ipa: akˈsjon
+ipa link: http://ipa-reader.xyz/?text=akˈsjon&voice=Ewa
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - action
+    - activity
+  - - act
+    - take action
+    - behave
+  epo:
+  - - ago
+  - - agi
+  spa:
+  - - acción
+    - actividad
+  - - actuar
+search terms:
+  glb:
+  - aksyon
+  eng:
+  - action
+  - activity
+  - act
+  - take action
+  - behave
+  epo:
+  - ago
+  - agi
+  spa:
+  - acción
+  - actividad
+  - actuar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - action
+  Pilipinasa:
+  - - aksyon
+  Indonesisa:
+  - - reaksi
+  Doycisa:
+  - - Aktion
+  Rusisa:
+  - - реакция “reaksia”
+  Espanisa:
+  - - acción
+  Turkisa:
+  - - reaksiyon
+raw data:
+  term: aksyon
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: action, activity; act, take action, behave
+    epo: ago; agi
+    spa: acción, actividad; actuar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (action), Pilipinasa (aksyon), Indonesisa (reaksi), Doycisa (Aktion),
+    Rusisa (реакция “reaksia”), Espanisa (acción), Turkisa (reaksiyon)
+...

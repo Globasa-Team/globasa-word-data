@@ -1,0 +1,61 @@
+---
+term: masul
+slug: masul
+ipa: "ma\u02C8sul"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8sul&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - responsible
+    - in charge
+    - accountable
+  epo:
+  - - priresponda
+    - responda
+    - komandanta
+  - - priresponde
+    - komandante
+  spa:
+  - - responsable
+    - encargado
+search terms:
+  glb:
+  - masul
+  eng:
+  - responsible
+  - in charge
+  - accountable
+  epo:
+  - priresponda
+  - responda
+  - komandanta
+  - priresponde
+  - komandante
+  spa:
+  - responsable
+  - encargado
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: masul
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: responsible, in charge, accountable
+    epo: priresponda, responda, komandanta; priresponde, komandante
+    spa: responsable, encargado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: responsible, charge, in charge, accountable
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0633\u0624\u0648\u0644 \u201Cmasul\u201D), Parsisa
+    (\u0645\u0633\u0626\u0648\u0644 \u201Cmasul\u201D), Turkisa (mesul)"
+...

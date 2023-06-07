@@ -1,0 +1,54 @@
+---
+term: infra-
+slug: infra-
+ipa: "in\u02C8f\u027Ea-"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8f\u027Ea-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - infra-
+    - hypo-
+    - under-
+  epo:
+  - - sub-
+    - malsupra
+  spa:
+  - - infra-
+    - hipo-
+search terms:
+  glb:
+  - infra-
+  eng:
+  - infra-
+  - hypo-
+  - under-
+  epo:
+  - sub-
+  - malsupra
+  spa:
+  - infra-
+  - hipo-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/infra">infra</a>.
+raw data:
+  term: infra-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: infra-, hypo-, under-
+    epo: sub-, malsupra
+    spa: infra-, hipo-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _infra_.
+...

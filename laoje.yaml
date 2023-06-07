@@ -1,0 +1,46 @@
+---
+term: laoje
+slug: laoje
+ipa: "la\u02C8od\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8od\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - age
+  epo:
+  - - "a\u011Do"
+  spa:
+  - - edad
+search terms:
+  glb:
+  - laoje
+  eng:
+  - age
+  epo:
+  - "a\u011Do"
+  spa:
+  - edad
+etymology_type: DERIVD
+etymology: <a href="../lexi/lao">lao</a> + <a href="../lexi/-je">-je</a>
+raw data:
+  term: laoje
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: age
+    epo: "a\u011Do"
+    spa: edad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lao + -je
+...

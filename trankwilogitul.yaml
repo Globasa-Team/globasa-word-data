@@ -1,0 +1,47 @@
+---
+term: trankwilogitul
+slug: trankwilogitul
+ipa: "t\u027Eankwilogi\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Eankwilogi\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - tranquilizer
+  epo:
+  - - trankviligilo
+  spa:
+  - - tranquilizante
+search terms:
+  glb:
+  - trankwilogitul
+  eng:
+  - tranquilizer
+  epo:
+  - trankviligilo
+  spa:
+  - tranquilizante
+etymology_type: DERIVD
+etymology: <a href="../lexi/trankwilo">trankwilo</a> + <a href="../lexi/-gi">-gi</a>
+  + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: trankwilogitul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: tranquilizer
+    epo: trankviligilo
+    spa: tranquilizante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: trankwilo + -gi + -tul
+...

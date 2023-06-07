@@ -1,0 +1,46 @@
+---
+term: perfetoya
+slug: perfetoya
+ipa: "pe\u027Efe\u02C8toja"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027Efe\u02C8toja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - perfection
+  epo:
+  - - perfekteco
+  spa:
+  - - "perfecci\xF3n"
+search terms:
+  glb:
+  - perfetoya
+  eng:
+  - perfection
+  epo:
+  - perfekteco
+  spa:
+  - "perfecci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/perfeto">perfeto</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: perfetoya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: perfection
+    epo: perfekteco
+    spa: "perfecci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: perfeto + -ya
+...

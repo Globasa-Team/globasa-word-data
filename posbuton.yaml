@@ -1,0 +1,50 @@
+---
+term: posbuton
+slug: posbuton
+ipa: "posbu\u02C8ton"
+ipa link: "http://ipa-reader.xyz/?text=posbu\u02C8ton&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - unbutton
+  epo:
+  - - malbutonado
+  - - malbutoni
+    - disbutoni
+  spa:
+  - - desabotonar
+search terms:
+  glb:
+  - posbuton
+  eng:
+  - unbutton
+  epo:
+  - malbutonado
+  - malbutoni
+  - disbutoni
+  spa:
+  - desabotonar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/buton">buton</a>
+raw data:
+  term: posbuton
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: unbutton
+    epo: malbutonado; malbutoni, disbutoni
+    spa: desabotonar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + buton
+...

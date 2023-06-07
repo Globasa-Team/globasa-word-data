@@ -1,0 +1,83 @@
+---
+term: nongyo
+slug: nongyo
+ipa: "\u02C8nongjo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nongjo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - agriculture
+    - cultivation
+  - - farm
+    - grow
+  epo:
+  - - agrikulturo
+    - terekspluatado
+    - terkulturado
+    - kultivado
+  - - agrikulturi
+    - terekspluati
+    - kulturi
+    - kultivi
+    - farmi
+  spa:
+  - - agricultura
+    - cultivo
+  - - cultivar
+search terms:
+  glb:
+  - nongyo
+  eng:
+  - agriculture
+  - cultivation
+  - farm
+  - grow
+  epo:
+  - agrikulturo
+  - terekspluatado
+  - terkulturado
+  - kultivado
+  - agrikulturi
+  - terekspluati
+  - kulturi
+  - kultivi
+  - farmi
+  spa:
+  - agricultura
+  - cultivo
+  - cultivar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u519C\u4E1A \u201Cn\xF3ngy\xE8\u201D"
+  Hangusa:
+  - - "\uB18D\uC5C5 \u201Cnong-eob\u201D"
+  Niponsa:
+  - - "\u8FB2\u696D \u201Cn\u014Dgy\u014D\u201D"
+  Vyetnamsa:
+  - - "n\xF4ng nghi\u1EC7p"
+raw data:
+  term: nongyo
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: agriculture, cultivation; farm, grow
+    epo: agrikulturo, terekspluatado, terkulturado, kultivado; agrikulturi, terekspluati,
+      kulturi, kultivi, farmi
+    spa: agricultura, cultivo; cultivar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u519C\u4E1A \u201Cn\xF3ngy\xE8\u201D), Hangusa (\uB18D\uC5C5
+    \u201Cnong-eob\u201D), Niponsa (\u8FB2\u696D \u201Cn\u014Dgy\u014D\u201D), Vyetnamsa
+    (n\xF4ng nghi\u1EC7p)"
+...

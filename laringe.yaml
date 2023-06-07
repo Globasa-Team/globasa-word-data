@@ -1,0 +1,51 @@
+---
+term: laringe
+slug: laringe
+ipa: "la\u02C8\u027Einge"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8\u027Einge&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - larynx
+  epo:
+  - - laringo
+  spa:
+  - - laringe
+search terms:
+  glb:
+  - laringe
+  eng:
+  - larynx
+  epo:
+  - laringo
+  spa:
+  - laringe
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: laringe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: larynx
+    epo: laringo
+    spa: laringe
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (larynx, laryngitis), Espanisa (laringe), Fransesa (larynx,
+    laryngite), Rusisa (\u043B\u0430\u0440\u0438\u043D\u0433\u0438\u0442 \"larengit\"),
+    Doycisa (Laryngitis), Indonesisa (laring), Pilipinasa (laringhitis), Turkisa (larenjit),
+    Parsisa (\u0644\u0627\u0631\u0646\u0698\u06CC\u062A \"larenjit\")"
+...

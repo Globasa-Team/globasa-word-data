@@ -1,0 +1,48 @@
+---
+term: turkili
+slug: turkili
+ipa: "tu\u027E\u02C8kili"
+ipa link: "http://ipa-reader.xyz/?text=tu\u027E\u02C8kili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Turkish
+  epo:
+  - - turka
+  - - turke
+  spa:
+  - - turco
+search terms:
+  glb:
+  - turkili
+  eng:
+  - turkish
+  epo:
+  - turka
+  - turke
+  spa:
+  - turco
+etymology_type: DERIVD
+etymology: <a href="../lexi/Turki">Turki</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Turkili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Turkish
+    epo: turka; turke
+    spa: turco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Turki + -li
+...

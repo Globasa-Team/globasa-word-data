@@ -1,0 +1,50 @@
+---
+term: desduagon
+slug: desduagon
+ipa: "desdua\u02C8gon"
+ipa link: "http://ipa-reader.xyz/?text=desdua\u02C8gon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - dodecagon
+    - 12-gon
+  epo:
+  - - dekduangulo
+    - dekdulatero
+  spa:
+  - - "dodec\xE1gono"
+search terms:
+  glb:
+  - desduagon
+  eng:
+  - dodecagon
+  - 12-gon
+  epo:
+  - dekduangulo
+  - dekdulatero
+  spa:
+  - "dodec\xE1gono"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/dua">dua</a> + <a href="../lexi/gon">gon</a>
+raw data:
+  term: desduagon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: dodecagon, 12-gon
+    epo: dekduangulo, dekdulatero
+    spa: "dodec\xE1gono"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + dua + gon
+...

@@ -1,0 +1,54 @@
+---
+term: burpala
+slug: burpala
+ipa: "bu\u027E\u02C8pala"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027E\u02C8pala&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - babble
+  epo:
+  - - "parola\u0109o"
+  - - "parola\u0109i"
+  spa:
+  - - balbucear
+    - balbucir
+    - farfullar
+    - barbotear
+search terms:
+  glb:
+  - burpala
+  eng:
+  - babble
+  epo:
+  - "parola\u0109o"
+  - "parola\u0109i"
+  spa:
+  - balbucear
+  - balbucir
+  - farfullar
+  - barbotear
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/pala">pala</a>
+raw data:
+  term: burpala
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: babble
+    epo: "parola\u0109o; parola\u0109i"
+    spa: balbucear, balbucir, farfullar, barbotear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + pala
+...

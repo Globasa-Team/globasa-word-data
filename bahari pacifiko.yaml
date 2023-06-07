@@ -1,0 +1,57 @@
+---
+term: bahari pacifiko
+slug: bahari pacifiko
+ipa: "ba\u02C8xa\u027Ei pat\u0361\u0283i\u02C8fiko"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8xa\u027Ei pat\u0361\u0283i\u02C8fiko&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Pacific Ocean
+    - (the) Pacific
+  epo:
+  - - Pacifiko
+    - (la) Pacifika Oceano
+  spa:
+  - - "oc\xE9ano Pac\xEDfico"
+    - "(el) Pac\xEDfico"
+search terms:
+  glb:
+  - bahari pacifiko
+  - bahari
+  - pacifiko
+  eng:
+  - pacific ocean
+  - the pacific
+  - pacific
+  epo:
+  - pacifiko
+  - la pacifika oceano
+  - pacifika oceano
+  spa:
+  - "oc\xE9ano pac\xEDfico"
+  - "el pac\xEDfico"
+  - "pac\xEDfico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bahari">bahari</a>, <a href="../lexi/Pacifiko">Pacifiko</a>
+raw data:
+  term: Bahari Pacifiko
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Pacific Ocean, (the) Pacific
+    epo: Pacifiko, (la) Pacifika Oceano
+    spa: "oc\xE9ano Pac\xEDfico, (el) Pac\xEDfico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bahari, Pacifiko
+...

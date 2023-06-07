@@ -1,0 +1,47 @@
+---
+term: konsonan
+slug: konsonan
+ipa: "konso\u02C8nan"
+ipa link: "http://ipa-reader.xyz/?text=konso\u02C8nan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - consonant
+  epo:
+  - - konsonanto
+  spa:
+  - - consonante
+search terms:
+  glb:
+  - konsonan
+  eng:
+  - consonant
+  epo:
+  - konsonanto
+  spa:
+  - consonante
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: konsonan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: consonant
+    epo: konsonanto
+    spa: consonante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (consonant), Fransesa (consonne), Doycisa (Konsonant), Espanisa
+    (consonante), Indonesisa (konsonan), Pilipinasa (katinig), Swahilisa (konsonanti)
+...

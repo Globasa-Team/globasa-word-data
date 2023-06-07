@@ -1,0 +1,68 @@
+---
+term: presentiya
+slug: presentiya
+ipa: "p\u027Eesen\u02C8tija"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eesen\u02C8tija&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - presence
+    - attendance
+  - - witness
+    - attend
+    - be present at
+  epo:
+  - - "\u0109eesto"
+  - - vidi
+    - "\u0109eesti"
+    - "esti \u0109e"
+  spa:
+  - - presencia
+    - asistencia
+  - - presenciar
+    - asistir
+    - estar presente en
+search terms:
+  glb:
+  - presentiya
+  eng:
+  - presence
+  - attendance
+  - witness
+  - attend
+  - be present at
+  epo:
+  - "\u0109eesto"
+  - vidi
+  - "\u0109eesti"
+  - "esti \u0109e"
+  spa:
+  - presencia
+  - asistencia
+  - presenciar
+  - asistir
+  - estar presente en
+etymology_type: DERIVD
+etymology: <a href="../lexi/presenti">presenti</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: presentiya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: 'presence, attendance; witness, attend, be present at '
+    epo: "\u0109eesto; vidi, \u0109eesti, esti \u0109e"
+    spa: presencia, asistencia; presenciar, asistir, estar presente en
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: presenti + -ya
+...

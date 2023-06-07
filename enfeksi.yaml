@@ -1,0 +1,74 @@
+---
+term: enfeksi
+slug: enfeksi
+ipa: enˈfeksi
+ipa link: http://ipa-reader.xyz/?text=enˈfeksi&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - infection
+  - - infect
+  epo:
+  - - infekto
+  - - infekti
+  spa:
+  - - infección
+  - - infectar
+    - contagiar
+search terms:
+  glb:
+  - enfeksi
+  eng:
+  - infection
+  - infect
+  epo:
+  - infekto
+  - infekti
+  spa:
+  - infección
+  - infectar
+  - contagiar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - infection
+  Fransesa:
+  - - infeciton
+  Doycisa:
+  - - Infektion
+  Espanisa:
+  - - infección
+  Rusisa:
+  - - инфекция “infektsiya”
+  Indonesisa:
+  - - infeksi
+  Pilipinasa:
+  - - impeksiyon
+  Turkisa:
+  - - enfeksiyon
+tags:
+- medis
+raw data:
+  term: enfeksi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: infection; infect
+    epo: infekto; infekti
+    spa: infección; infectar, contagiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: Englisa (infection), Fransesa (infeciton), Doycisa (Infektion), Espanisa
+    (infección), Rusisa (инфекция “infektsiya”), Indonesisa (infeksi), Pilipinasa
+    (impeksiyon), Turkisa (enfeksiyon)
+...

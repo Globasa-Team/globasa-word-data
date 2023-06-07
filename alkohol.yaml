@@ -1,0 +1,83 @@
+---
+term: alkohol
+slug: alkohol
+ipa: alkoˈxol
+ipa link: http://ipa-reader.xyz/?text=alkoˈxol&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - alcohol
+  - - alcoholize
+  epo:
+  - - alkoholo
+  - - alkoholi
+  spa:
+  - - alcohol
+  - - alcoholizar
+    - alcoholizarse
+search terms:
+  glb:
+  - alkohol
+  eng:
+  - alcohol
+  - alcoholize
+  epo:
+  - alkoholo
+  - alkoholi
+  spa:
+  - alcohol
+  - alcoholizar
+  - alcoholizarse
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - كحول “kahul”
+  Doycisa:
+  - - Alkohol
+  Englisa:
+  - - alcohol
+  Espanisa:
+  - - alcohol
+  Fransesa:
+  - - alcool
+  Rusisa:
+  - - алкоголь “alkogol”
+  Niponsa:
+  - - アルコール “arukōru”
+  Hangusa:
+  - - 알코올 “alkool”
+  Hindisa:
+  - - ऐल्कोहॉल “elkohol”
+  Parsisa:
+  - - الکل “alkol”
+  Turkisa:
+  - - alkol
+  Indonesisa:
+  - - alkohol
+  Pilipinasa:
+  - - alkohol
+raw data:
+  term: alkohol
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: alcohol; alcoholize
+    epo: alkoholo; alkoholi
+    spa: alcohol; alcoholizar, alcoholizarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (كحول “kahul”), Doycisa (Alkohol), Englisa (alcohol), Espanisa
+    (alcohol), Fransesa (alcool), Rusisa (алкоголь “alkogol”), Niponsa (アルコール “arukōru”),
+    Hangusa (알코올 “alkool”), Hindisa (ऐल्कोहॉल “elkohol”), Parsisa (الکل “alkol”),
+    Turkisa (alkol), Indonesisa (alkohol), Pilipinasa (alkohol)
+...

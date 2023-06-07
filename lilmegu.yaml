@@ -1,0 +1,48 @@
+---
+term: lilmegu
+slug: lilmegu
+ipa: "lil\u02C8megu"
+ipa link: "http://ipa-reader.xyz/?text=lil\u02C8megu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - cloudlet
+    - cloudling
+  epo:
+  - - nubeto
+  spa:
+  - - nubecilla
+search terms:
+  glb:
+  - lilmegu
+  eng:
+  - cloudlet
+  - cloudling
+  epo:
+  - nubeto
+  spa:
+  - nubecilla
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/megu">megu</a>
+raw data:
+  term: lilmegu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: cloudlet, cloudling
+    epo: nubeto
+    spa: nubecilla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + megu
+...

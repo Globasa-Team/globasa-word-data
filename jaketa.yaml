@@ -1,0 +1,54 @@
+---
+term: jaketa
+slug: jaketa
+ipa: "d\u0361\u0292a\u02C8keta"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8keta&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - jacket
+  epo:
+  - - jako
+  spa:
+  - - chaqueta
+search terms:
+  glb:
+  - jaketa
+  eng:
+  - jacket
+  epo:
+  - jako
+  spa:
+  - chaqueta
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- labas
+raw data:
+  term: jaketa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: jacket
+    epo: jako
+    spa: chaqueta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Englisa (jacket), Espanisa (chaqueta), Rusisa (\u0436\u0430\u043A\u0435\u0442
+    \u201Cjaket\u201D), Doycisa (Jacke), Indonesisa (jaket), Pilipinasa (dyaket, diyaket,
+    jaket, jacket), Putunhwa (\u5939\u514B \u201Cjyake\u201D), Hindisa (\u091C\u0948\u0915\u0947\u091F
+    \u201Cjeket\u201D), Arabisa (\u062C\u064E\u0627\u0643\u0650\u064A\u062A \u201Cjakit\u201D),
+    Niponsa (\u30B8\u30E3\u30B1\u30C3\u30C8 \u201Cjaketo\u201D), Telugusa (\u0C1C\u0C3E\u0C15\u0C46\u0C1F\u0C4D
+    \u201Cjaket\u201D), Turkisa (ceket), Hangusa (\uC7AC\uD0B7 \u201Cjekit\u201D),
+    Parsisa (\u0698\u0627\u06A9\u062A \u201Cjakat\u201D), Swahilisa (jaketi)"
+...

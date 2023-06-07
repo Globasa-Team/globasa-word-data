@@ -1,0 +1,79 @@
+---
+term: hulasa
+slug: hulasa
+ipa: "xu\u02C8lasa"
+ipa link: "http://ipa-reader.xyz/?text=xu\u02C8lasa&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - summary
+    - synopsis
+    - "r\xE9sum\xE9"
+    - abstract
+    - "pr\xE9cis"
+  - - summarize
+    - sum up
+    - recapitulate
+  epo:
+  - - resumo
+    - sinopsiso
+  - - resumi
+  spa:
+  - - resumen
+    - sinopsis
+  - - resumir
+search terms:
+  glb:
+  - hulasa
+  eng:
+  - summary
+  - synopsis
+  - "r\xE9sum\xE9"
+  - abstract
+  - "pr\xE9cis"
+  - summarize
+  - sum up
+  - recapitulate
+  epo:
+  - resumo
+  - sinopsiso
+  - resumi
+  spa:
+  - resumen
+  - sinopsis
+  - resumir
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0916\u093C\u0941\u0932\u093E\u0938\u093E \"hulasa\""
+  Arabisa:
+  - - "\u062E\u064F\u0644\u064E\u0627\u0635\u064E\u0629 \"hulasa\""
+  Turkisa:
+  - - "h\xFClasa"
+  Parsisa:
+  - - "\u062E\u0644\u0627\u0635\u0647 \"xol\xE2se\""
+raw data:
+  term: hulasa
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: "summary, synopsis, r\xE9sum\xE9, abstract, pr\xE9cis; summarize, sum up,
+      recapitulate"
+    epo: resumo, sinopsiso; resumi
+    spa: resumen, sinopsis; resumir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0916\u093C\u0941\u0932\u093E\u0938\u093E \"hulasa\"), Arabisa
+    (\u062E\u064F\u0644\u064E\u0627\u0635\u064E\u0629 \"hulasa\"), Turkisa (h\xFClasa),
+    Parsisa (\u062E\u0644\u0627\u0635\u0647 \"xol\xE2se\")"
+...

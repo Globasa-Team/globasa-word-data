@@ -1,0 +1,48 @@
+---
+term: mama ci
+slug: mama ci
+ipa: "\u02C8mama t\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mama t\u0361\u0283i&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - mommy
+  epo:
+  - - panjo
+  spa:
+  - - mami
+search terms:
+  glb:
+  - mama ci
+  - mama
+  - ci
+  eng:
+  - mommy
+  epo:
+  - panjo
+  spa:
+  - mami
+etymology_type: DERIVD
+etymology: <a href="../lexi/mama">mama</a> + <a href="../lexi/ci">ci</a>
+raw data:
+  term: mama ci
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: mommy
+    epo: panjo
+    spa: mami
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mama + ci
+...

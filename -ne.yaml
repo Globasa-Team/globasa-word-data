@@ -1,0 +1,65 @@
+---
+term: -ne
+slug: -ne
+ipa: "\u02C8-ne"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-ne&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - _in an active state or process of_
+  epo:
+  - - _en aktiva stato de_
+    - -anta
+    - -ante
+  spa:
+  - - _en estado o proceso activo de_
+search terms:
+  glb:
+  - -ne
+  eng:
+  - in an active state or process of
+  epo:
+  - en aktiva stato de
+  - -anta
+  - -ante
+  spa:
+  - en estado o proceso activo de
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - -ing
+  Fransesa:
+  - - -ant
+  Espanisa:
+  - - -ando
+  Doycisa:
+  - - -en
+    - -ende
+  Rusisa:
+  - - "-\u043D\u044B\u0439 \u201C-ny\u201D"
+  Turkisa:
+  - - -en
+    - -an
+raw data:
+  term: -ne
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: _in an active state or process of_
+    epo: _en aktiva stato de_, -anta, -ante
+    spa: _en estado o proceso activo de_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (-ing), Fransesa (-ant), Espanisa (-ando), Doycisa (-en, -ende),
+    Rusisa (-\u043D\u044B\u0439 \u201C-ny\u201D), Turkisa (-en, -an)"
+...

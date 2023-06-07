@@ -1,0 +1,57 @@
+---
+term: hurugi
+slug: hurugi
+ipa: "xu\u02C8\u027Eugi"
+ipa link: "http://ipa-reader.xyz/?text=xu\u02C8\u027Eugi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - liberation
+    - release
+  - - liberate
+    - free
+    - release
+  epo:
+  - - liberigo
+  - - liberigi
+  spa:
+  - - "liberaci\xF3n"
+  - - liberar
+search terms:
+  glb:
+  - hurugi
+  eng:
+  - liberation
+  - release
+  - liberate
+  - free
+  epo:
+  - liberigo
+  - liberigi
+  spa:
+  - "liberaci\xF3n"
+  - liberar
+etymology_type: DERIVD
+etymology: <a href="../lexi/huru">huru</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: hurugi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: liberation, release; liberate, free, release
+    epo: liberigo; liberigi
+    spa: "liberaci\xF3n; liberar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: huru + -gi
+...

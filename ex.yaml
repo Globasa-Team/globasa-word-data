@@ -1,0 +1,65 @@
+---
+term: ex
+slug: ex
+ipa: eʃ
+ipa link: http://ipa-reader.xyz/?text=eʃ&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - out
+    - outside (of)
+  epo:
+  - - ekster
+  spa:
+  - - fuera de
+search terms:
+  glb:
+  - ex
+  eng:
+  - out
+  - outside of
+  - outside
+  epo:
+  - ekster
+  spa:
+  - fuera de
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - exterior
+    - exit
+    - exclude
+  Fransesa:
+  - - extérieur
+  Espanisa:
+  - - exterior
+  Doycisa:
+  - - extern
+  Indonesisa:
+  - - ekstern
+    - eksterior
+  Rusisa:
+  - - экстерьер “eksteryer”
+raw data:
+  term: ex
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: out, outside (of)
+    epo: ekster
+    spa: fuera de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (exterior, exit, exclude), Fransesa (extérieur), Espanisa (exterior),
+    Doycisa (extern), Indonesisa (ekstern, eksterior), Rusisa (экстерьер “eksteryer”)
+...

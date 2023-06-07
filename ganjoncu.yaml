@@ -1,0 +1,52 @@
+---
+term: ganjoncu
+slug: ganjoncu
+ipa: "gan\u02C8d\u0361\u0292ont\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=gan\u02C8d\u0361\u0292ont\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.lin
+trans:
+  eng:
+  - - feel (_emotionally feel a particular way_)
+  epo:
+  - - "emocii\u011Do"
+    - "senti\u011Do"
+  - - "emocii\u011Di"
+    - "senti\u011Di"
+  spa:
+  - - sentirse (_de cierta manera emocionalmente_)
+search terms:
+  glb:
+  - ganjoncu
+  eng:
+  - feel
+  epo:
+  - "emocii\u011Do"
+  - "senti\u011Do"
+  - "emocii\u011Di"
+  - "senti\u011Di"
+  spa:
+  - sentirse
+etymology_type: DERIVD
+etymology: <a href="../lexi/ganjon">ganjon</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: ganjoncu
+  category: derived
+  word class: n/f.lin
+  status: false
+  trans:
+    eng: feel (_emotionally feel a particular way_)
+    epo: "emocii\u011Do, senti\u011Do; emocii\u011Di, senti\u011Di"
+    spa: sentirse (_de cierta manera emocionalmente_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ganjon + -cu
+...

@@ -1,0 +1,48 @@
+---
+term: tigadesyum
+slug: tigadesyum
+ipa: "tigade\u02C8sjum"
+ipa link: "http://ipa-reader.xyz/?text=tigade\u02C8sjum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - thirtieth
+  epo:
+  - - trideka
+  - - trideke
+  spa:
+  - - "trig\xE9simo"
+search terms:
+  glb:
+  - tigadesyum
+  eng:
+  - thirtieth
+  epo:
+  - trideka
+  - trideke
+  spa:
+  - "trig\xE9simo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tiga">tiga</a> + <a href="../lexi/des">des</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: tigadesyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: thirtieth
+    epo: trideka; trideke
+    spa: "trig\xE9simo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tiga + des + -yum
+...

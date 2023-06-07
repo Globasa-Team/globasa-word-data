@@ -1,0 +1,48 @@
+---
+term: solokrabe
+slug: solokrabe
+ipa: "solo\u02C8k\u027Eabe"
+ipa link: "http://ipa-reader.xyz/?text=solo\u02C8k\u027Eabe&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hermit crab
+  epo:
+  - - ermitokrabo
+    - paguro
+  spa:
+  - - "cangrejo ermita\xF1o"
+search terms:
+  glb:
+  - solokrabe
+  eng:
+  - hermit crab
+  epo:
+  - ermitokrabo
+  - paguro
+  spa:
+  - "cangrejo ermita\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/solo">solo</a> + <a href="../lexi/krabe">krabe</a>
+raw data:
+  term: solokrabe
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hermit crab
+    epo: ermitokrabo, paguro
+    spa: "cangrejo ermita\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: solo + krabe
+...

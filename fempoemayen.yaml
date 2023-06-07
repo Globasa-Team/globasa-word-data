@@ -1,0 +1,49 @@
+---
+term: fempoemayen
+slug: fempoemayen
+ipa: "fempoema\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=fempoema\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - poetess
+  epo:
+  - - poetino
+    - poeziistino
+  spa:
+  - - poetisa
+search terms:
+  glb:
+  - fempoemayen
+  eng:
+  - poetess
+  epo:
+  - poetino
+  - poeziistino
+  spa:
+  - poetisa
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/poema">poema</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: fempoemayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: poetess
+    epo: poetino, poeziistino
+    spa: poetisa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem- + poema + -yen
+...

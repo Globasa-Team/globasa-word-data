@@ -1,0 +1,48 @@
+---
+term: imisu te
+slug: imisu te
+ipa: "i\u02C8misu \u02C8te"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8misu \u02C8te&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - ours (_that being belonging to us_)
+  epo:
+  - - la nia
+  spa:
+  - - el nuestro (_ser viviente_)
+search terms:
+  glb:
+  - imisu te
+  - imisu
+  - te
+  eng:
+  - ours
+  epo:
+  - la nia
+  spa:
+  - el nuestro
+etymology_type: DERIVD
+etymology: <a href="../lexi/imi">imi</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/te">te</a>
+raw data:
+  term: imisu te
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: ours (_that being belonging to us_)
+    epo: la nia
+    spa: el nuestro (_ser viviente_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: imi + -su, te
+...

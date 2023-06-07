@@ -1,0 +1,64 @@
+---
+term: jixigi
+slug: jixigi
+ipa: "d\u0361\u0292i\u02C8\u0283igi"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i\u02C8\u0283igi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - notification
+    - notice
+  - - let know
+    - notify
+  epo:
+  - - sciigo
+    - avizo
+  - - sciigi
+    - avizi
+  spa:
+  - - "notificaci\xF3n"
+    - noticia
+  - - notificar
+    - hacer saber
+search terms:
+  glb:
+  - jixigi
+  eng:
+  - notification
+  - notice
+  - let know
+  - notify
+  epo:
+  - sciigo
+  - avizo
+  - sciigi
+  - avizi
+  spa:
+  - "notificaci\xF3n"
+  - noticia
+  - notificar
+  - hacer saber
+etymology_type: DERIVD
+etymology: <a href="../lexi/jixi">jixi</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: jixigi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: notification, notice; let know, notify
+    epo: sciigo, avizo; sciigi, avizi
+    spa: "notificaci\xF3n, noticia; notificar, hacer saber"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jixi + -gi
+...

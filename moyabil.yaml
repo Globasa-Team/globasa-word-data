@@ -1,0 +1,52 @@
+---
+term: moyabil
+slug: moyabil
+ipa: "moja\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=moja\u02C8bil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - almighty
+    - omnipotent
+  epo:
+  - - "\u0109iopova"
+  - - "\u0109iopove"
+  spa:
+  - - todopoderoso
+    - omnipotente
+search terms:
+  glb:
+  - moyabil
+  eng:
+  - almighty
+  - omnipotent
+  epo:
+  - "\u0109iopova"
+  - "\u0109iopove"
+  spa:
+  - todopoderoso
+  - omnipotente
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/abil">abil</a>
+raw data:
+  term: moyabil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: almighty, omnipotent
+    epo: "\u0109iopova; \u0109iopove"
+    spa: todopoderoso, omnipotente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + abil
+...

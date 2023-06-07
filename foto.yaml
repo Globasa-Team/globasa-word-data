@@ -1,0 +1,82 @@
+---
+term: foto
+slug: foto
+ipa: ˈfoto
+ipa link: http://ipa-reader.xyz/?text=ˈfoto&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - photo
+    - photograph
+    - picture
+  - - photograph
+    - take pictures
+  epo:
+  - - fotografaĵo
+    - foto
+  - - fotografi
+    - foti
+  spa:
+  - - foto
+    - fotografía
+  - - fotografiar
+    - tomar foto
+search terms:
+  glb:
+  - foto
+  eng:
+    0: photo
+    1: photograph
+    2: picture
+    4: take pictures
+  epo:
+  - fotografaĵo
+  - foto
+  - fotografi
+  - foti
+  spa:
+  - foto
+  - fotografía
+  - fotografiar
+  - tomar foto
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - photo
+  Fransesa:
+  - - photo
+  Doycisa:
+  - - Foto
+  Rusisa:
+  - - фото “foto”
+  Espanisa:
+  - - foto
+  Turkisa:
+  - - fotoğraf
+  Indonesisa:
+  - - foto
+  Hindisa:
+  - - फ़ोटो “foto”
+raw data:
+  term: foto
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: photo, photograph, picture; photograph, take pictures
+    epo: fotografaĵo, foto; fotografi, foti
+    spa: foto, fotografía; fotografiar, tomar foto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (photo), Fransesa (photo), Doycisa (Foto), Rusisa (фото “foto”),
+    Espanisa (foto), Turkisa (fotoğraf), Indonesisa (foto), Hindisa (फ़ोटो “foto”)
+...

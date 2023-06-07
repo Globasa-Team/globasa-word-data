@@ -1,0 +1,52 @@
+---
+term: taywan
+slug: taywan
+ipa: "taj\u02C8wan"
+ipa link: "http://ipa-reader.xyz/?text=taj\u02C8wan&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Taiwan
+  epo:
+  - - Tajvano
+    - Tajujo
+  spa:
+  - - "Taiw\xE1n"
+search terms:
+  glb:
+  - taywan
+  eng:
+  - taiwan
+  epo:
+  - tajvano
+  - tajujo
+  spa:
+  - "taiw\xE1n"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u81FA\u7063 \u201CT\xE1iw\u0101n\u201D"
+tags:
+- dexa
+raw data:
+  term: Taywan
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Taiwan
+    epo: Tajvano, Tajujo
+    spa: "Taiw\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Putunhwa (\u81FA\u7063 \u201CT\xE1iw\u0101n\u201D)"
+...

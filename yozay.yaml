@@ -1,0 +1,60 @@
+---
+term: yozay
+slug: yozay
+ipa: "jo\u02C8zaj"
+ipa link: "http://ipa-reader.xyz/?text=jo\u02C8zaj&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - guilt
+    - fault
+    - blame
+  - - blame
+  epo:
+  - - kulpo
+  - - kulpigi
+  spa:
+  - - culpa
+  - - culpar
+search terms:
+  glb:
+  - yozay
+  eng:
+  - guilt
+  - fault
+  - blame
+  epo:
+  - kulpo
+  - kulpigi
+  spa:
+  - culpa
+  - culpar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6709\u7F6A \u201Cy\u01D2uzu\xEC\u201D"
+  Niponsa:
+  - - "\u6709\u7F6A \u201Cy\u016Bzai\u201D"
+raw data:
+  term: yozay
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: guilt, fault, blame; blame
+    epo: kulpo; kulpigi
+    spa: culpa; culpar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6709\u7F6A \u201Cy\u01D2uzu\xEC\u201D), Niponsa (\u6709\u7F6A
+    \u201Cy\u016Bzai\u201D)"
+...

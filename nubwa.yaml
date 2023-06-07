@@ -1,0 +1,61 @@
+---
+term: nubwa
+slug: nubwa
+ipa: "\u02C8nubwa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nubwa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - prophecy
+  - - prophesy
+  epo:
+  - - "profeta\u0135o"
+  - - profeti
+  spa:
+  - - "profec\xEDa"
+  - - profetizar
+search terms:
+  glb:
+  - nubwa
+  eng:
+  - prophecy
+  - prophesy
+  epo:
+  - "profeta\u0135o"
+  - profeti
+  spa:
+  - "profec\xEDa"
+  - profetizar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0646\u0628\u0648\u0621\u0629 \u201Cnubu'a\u201D"
+  Indonesisa:
+  - - nubuat
+  Parsisa:
+  - - "\u0646\u0628\u0648\u062A \u201Cnobovat\u201D"
+  Swahilisa:
+  - - nabii
+raw data:
+  term: nubwa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: prophecy; prophesy
+    epo: "profeta\u0135o; profeti"
+    spa: "profec\xEDa; profetizar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0646\u0628\u0648\u0621\u0629 \u201Cnubu'a\u201D), Indonesisa
+    (nubuat), Parsisa (\u0646\u0628\u0648\u062A \u201Cnobovat\u201D), Swahilisa (nabii)"
+...

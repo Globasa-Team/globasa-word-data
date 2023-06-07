@@ -1,0 +1,52 @@
+---
+term: hyara
+slug: hyara
+ipa: "\u02C8xja\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xja\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cucumber
+  epo:
+  - - kukumo
+  spa:
+  - - pepino
+    - _Cucumis sativus_
+search terms:
+  glb:
+  - hyara
+  eng:
+  - cucumber
+  epo:
+  - kukumo
+  spa:
+  - pepino
+  - cucumis sativus
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: hyara
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cucumber
+    epo: kukumo
+    spa: pepino, _Cucumis sativus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Arabisa (\u062E\u064A\u0627\u0631 \u201Ckhiar\u201D), Parsisa (\u062E\u06CC\u0627\u0631
+    \u201Ckhiyar\u201D), Hindisa (\u0916\u0940\u0930\u093E \u201Ckheera\u201D), Turkisa
+    (h\u0131yar)"
+...

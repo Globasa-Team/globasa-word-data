@@ -1,0 +1,59 @@
+---
+term: safe
+slug: safe
+ipa: "\u02C8safe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8safe&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - clean
+    - cleanly
+  epo:
+  - - pura
+  - - pure
+  spa:
+  - - limpio
+search terms:
+  glb:
+  - safe
+  eng:
+  - clean
+  - cleanly
+  epo:
+  - pura
+  - pure
+  spa:
+  - limpio
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u093E\u092B\u093C \u201Csaf\u201D"
+  Panjabisa:
+  - - "\u0938\u092B\u093E \u201Csaph\u0101\u201D"
+  Swahilisa:
+  - - safi
+  Turkisa:
+  - - saf
+raw data:
+  term: safe
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: clean, cleanly
+    epo: pura; pure
+    spa: limpio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0938\u093E\u092B\u093C \u201Csaf\u201D), Panjabisa (\u0938\u092B\u093E
+    \u201Csaph\u0101\u201D) Swahilisa (safi), Turkisa (saf)"
+...

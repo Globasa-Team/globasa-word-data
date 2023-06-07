@@ -1,0 +1,55 @@
+---
+term: kulunge
+slug: kulunge
+ipa: "ku\u02C8lunge"
+ipa link: "http://ipa-reader.xyz/?text=ku\u02C8lunge&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pickaxe
+    - pick
+    - mattock
+  epo:
+  - - "pio\u0109o"
+  spa:
+  - - piqueta
+    - zapapico
+    - pico
+search terms:
+  glb:
+  - kulunge
+  eng:
+  - pickaxe
+  - pick
+  - mattock
+  epo:
+  - "pio\u0109o"
+  spa:
+  - piqueta
+  - zapapico
+  - pico
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kulunge
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pickaxe, pick, mattock
+    epo: "pio\u0109o"
+    spa: piqueta, zapapico, pico
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Parsisa (\u06A9\u0644\u0646\u06AF \"kolong\"), Turkisa (k\xFCl\xFCnk),
+    Hayasa (\u0584\u056C\u0578\u0582\u0576\u0563 \"klung\")"
+...

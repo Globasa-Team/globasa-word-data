@@ -1,0 +1,51 @@
+---
+term: cernagora
+slug: cernagora
+ipa: "t\u0361\u0283e\u027Ena\u02C8go\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283e\u027Ena\u02C8go\u027Ea&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Montenegro
+  epo:
+  - - Montenegro
+  spa:
+  - - Montenegro
+search terms:
+  glb:
+  - cernagora
+  eng:
+  - montenegro
+  epo:
+  - montenegro
+  spa:
+  - montenegro
+etymology_type: NATLNG
+etymology:
+  Cernagorasa:
+  - - "\u0426\u0440\u043D\u0430 \u0413\u043E\u0440\u0430 \u201CCrna Gora\u201D"
+tags:
+- dexa
+raw data:
+  term: Cernagora
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Montenegro
+    epo: Montenegro
+    spa: Montenegro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Cernagorasa (\u0426\u0440\u043D\u0430 \u0413\u043E\u0440\u0430 \u201CCrna
+    Gora\u201D)"
+...

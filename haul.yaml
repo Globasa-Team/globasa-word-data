@@ -1,0 +1,54 @@
+---
+term: haul
+slug: haul
+ipa: "xa\u02C8ul"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8ul&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wolf
+    - _Canis lupus_
+  epo:
+  - - lupo
+  spa:
+  - - lobo
+    - _Canis lupus_
+search terms:
+  glb:
+  - haul
+  eng:
+  - wolf
+  - canis lupus
+  epo:
+  - lupo
+  spa:
+  - lobo
+  - canis lupus
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: haul
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wolf, _Canis lupus_
+    epo: lupo
+    spa: lobo, _Canis lupus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "kwasilexi - Englisa (howl), Fransesa (hurler), Doycisa (heulen), Espanisa
+    (aullar), Putunhwa (\u568E \u201Ch\xE1o\u201D), Arabisa (\u0639\u0648\u0627\u0621
+    \u201Ceawa'\u201D)"
+...

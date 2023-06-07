@@ -1,0 +1,59 @@
+---
+term: kef
+slug: kef
+ipa: "\u02C8kef"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kef&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - boss
+    - chief
+    - head
+  epo:
+  - - estro
+    - "\u0109efo"
+    - "\u0109efulo"
+  spa:
+  - - jefe
+    - dirigente
+search terms:
+  glb:
+  - kef
+  eng:
+  - boss
+  - chief
+  - head
+  epo:
+  - estro
+  - "\u0109efo"
+  - "\u0109efulo"
+  spa:
+  - jefe
+  - dirigente
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kef
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: boss, chief, head
+    epo: "estro, \u0109efo, \u0109efulo"
+    spa: jefe, dirigente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (chef), Doycisa (Kopf; Chef), Turkisa (kafa - kapi; \u015Fef),
+    Elinisa (\u03BA\u03B5\u03C6\u03AC\u03BB\u03B9 \u201Ckefali\u201D; \u03C3\u03B5\u03C6
+    \u201Csef\u201D), Indonesisa (kepala), Espanisa (jefe/jefa), Englisa (chief),
+    Rusisa (\u0448\u0435\u0444 \u201Cshef\u201D)"
+...

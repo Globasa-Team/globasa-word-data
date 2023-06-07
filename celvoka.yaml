@@ -1,0 +1,52 @@
+---
+term: celvoka
+slug: celvoka
+ipa: "t\u0361\u0283el\u02C8voka"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283el\u02C8voka&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - invoke
+    - call forth
+  epo:
+  - - alvoko
+  - - alvoki
+  spa:
+  - - llamar
+    - invocar
+search terms:
+  glb:
+  - celvoka
+  eng:
+  - invoke
+  - call forth
+  epo:
+  - alvoko
+  - alvoki
+  spa:
+  - llamar
+  - invocar
+etymology_type: DERIVD
+etymology: <a href="../lexi/cel-">cel-</a> + <a href="../lexi/voka">voka</a>
+raw data:
+  term: celvoka
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: invoke, call forth
+    epo: alvoko; alvoki
+    spa: llamar, invocar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cel- + voka
+...

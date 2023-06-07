@@ -1,0 +1,63 @@
+---
+term: lumin
+slug: lumin
+ipa: "lu\u02C8min"
+ipa link: "http://ipa-reader.xyz/?text=lu\u02C8min&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - light
+  - - illuminate
+    - emit light
+  epo:
+  - - lumo
+  - - ilumini
+    - lumigi
+    - lumi
+  spa:
+  - - luz
+  - - alumbrar
+    - iluminar
+search terms:
+  glb:
+  - lumin
+  eng:
+  - light
+  - illuminate
+  - emit light
+  epo:
+  - lumo
+  - ilumini
+  - lumigi
+  - lumi
+  spa:
+  - luz
+  - alumbrar
+  - iluminar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lumin
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: light; illuminate, emit light
+    epo: lumo; ilumini, lumigi, lumi
+    spa: luz; alumbrar, iluminar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (illuminate), Fransesa (illuminer), Doycisa (Illumination),
+    Rusisa (\u0438\u043B\u043B\u044E\u043C\u0438\u043D\u0430\u0446\u0438\u044F \u201Cillyuminatsiya\u201D),
+    Espanisa (iluminar), Niponsa (\u30A4\u30EB\u30DF\u30CD\u30FC\u30B7\u30E7\u30F3
+    \u201Ciruminexon\u201D)"
+...

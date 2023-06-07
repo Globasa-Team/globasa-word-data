@@ -1,0 +1,46 @@
+---
+term: iye
+slug: iye
+ipa: "\u02C8ije"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ije&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter y
+  epo:
+  - - litero y
+  spa:
+  - - letra y
+search terms:
+  glb:
+  - iye
+  eng:
+  - letter y
+  epo:
+  - litero y
+  spa:
+  - letra y
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: iye
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter y
+    epo: litero y
+    spa: letra y
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

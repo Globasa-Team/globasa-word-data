@@ -1,0 +1,68 @@
+---
+term: nenabil
+slug: nenabil
+ipa: "nena\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=nena\u02C8bil&voice=Ewa"
+status: false
+category: derived
+word class: t; f.sah
+trans:
+  eng:
+  - - incapable
+    - unable
+    - disabled
+  - - fail (to)
+    - be unable (to)
+  epo:
+  - - nekapabla
+  - - ne kapabli
+  spa:
+  - - incapaz
+  - - ser incapaz de
+  deu:
+  - - "unf\xE4hig"
+    - untauglich
+search terms:
+  glb:
+  - nenabil
+  eng:
+  - incapable
+  - unable
+  - disabled
+  - fail to
+  - fail
+  - be unable to
+  - be unable
+  epo:
+  - nekapabla
+  - ne kapabli
+  spa:
+  - incapaz
+  - ser incapaz de
+  deu:
+  - "unf\xE4hig"
+  - untauglich
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/abil ">abil </a>
+antonyms:
+- abil
+raw data:
+  term: nenabil
+  category: derived
+  word class: t; f.sah
+  status: false
+  trans:
+    eng: incapable, unable, disabled;  fail (to), be unable (to)
+    epo: nekapabla; ne kapabli
+    spa: incapaz; ser incapaz de
+    deu: "unf\xE4hig, untauglich"
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: abil
+  example: ""
+  tags: ""
+  etymology: 'nen- + abil '
+...

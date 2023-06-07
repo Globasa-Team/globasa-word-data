@@ -1,0 +1,56 @@
+---
+term: unyen
+slug: unyen
+ipa: "u\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - single
+    - solo
+  epo:
+  - - unu ulo
+    - unuo
+    - solulo
+  spa:
+  - - solo
+    - individuo
+    - una persona
+search terms:
+  glb:
+  - unyen
+  eng:
+  - single
+  - solo
+  epo:
+  - unu ulo
+  - unuo
+  - solulo
+  spa:
+  - solo
+  - individuo
+  - una persona
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: unyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: single, solo
+    epo: unu ulo, unuo, solulo
+    spa: solo, individuo, una persona
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un + -yen
+...

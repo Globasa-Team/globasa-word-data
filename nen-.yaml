@@ -1,0 +1,65 @@
+---
+term: nen-
+slug: nen-
+ipa: "\u02C8nen-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nen-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - im-
+    - in-
+    - un-
+    - non-
+  epo:
+  - - ne-
+  spa:
+  - - in-
+    - no-
+search terms:
+  glb:
+  - nen-
+  eng:
+  - im-
+  - in-
+  - un-
+  - non-
+  epo:
+  - ne-
+  spa:
+  - in-
+  - no-
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - nicht-
+  Englisa:
+  - - non-
+  Espanisa:
+  - - "no"
+  Fransesa:
+  - - non-
+  Rusisa:
+  - - "\u043D\u0435- \u201Cne-\u201D"
+raw data:
+  term: nen-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: im-, in-, un-, non-
+    epo: ne-
+    spa: in-, no-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (nicht-), Englisa (non-), Espanisa (no), Fransesa (non-), Rusisa
+    (\u043D\u0435- \u201Cne-\u201D)"
+...

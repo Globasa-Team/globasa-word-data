@@ -1,0 +1,48 @@
+---
+term: lokayen
+slug: lokayen
+ipa: "loka\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=loka\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - local
+  epo:
+  - - lokano
+    - lokulo
+  spa:
+  - - local (_persona_)
+search terms:
+  glb:
+  - lokayen
+  eng:
+  - local
+  epo:
+  - lokano
+  - lokulo
+  spa:
+  - local
+etymology_type: DERIVD
+etymology: <a href="../lexi/loka">loka</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: lokayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: local
+    epo: lokano, lokulo
+    spa: local (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: loka + -yen
+...

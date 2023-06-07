@@ -1,0 +1,48 @@
+---
+term: panikokrisis
+slug: panikokrisis
+ipa: "panikok\u027Ei\u02C8sis"
+ipa link: "http://ipa-reader.xyz/?text=panikok\u027Ei\u02C8sis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - panic attack
+  epo:
+  - - ekpaniko
+    - panikatako
+  spa:
+  - - "ataque de p\xE1nico"
+search terms:
+  glb:
+  - panikokrisis
+  eng:
+  - panic attack
+  epo:
+  - ekpaniko
+  - panikatako
+  spa:
+  - "ataque de p\xE1nico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/paniko">paniko</a> + <a href="../lexi/krisis">krisis</a>
+raw data:
+  term: panikokrisis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: panic attack
+    epo: ekpaniko, panikatako
+    spa: "ataque de p\xE1nico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: paniko + krisis
+...

@@ -1,0 +1,50 @@
+---
+term: medisente
+slug: medisente
+ipa: "medi\u02C8sente"
+ipa link: "http://ipa-reader.xyz/?text=medi\u02C8sente&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - medication
+    - medicine
+  epo:
+  - - medikamento
+    - kuracilo
+  spa:
+  - - medicamento
+search terms:
+  glb:
+  - medisente
+  eng:
+  - medication
+  - medicine
+  epo:
+  - medikamento
+  - kuracilo
+  spa:
+  - medicamento
+etymology_type: DERIVD
+etymology: <a href="../lexi/medis">medis</a> + <a href="../lexi/-ente">-ente</a>
+raw data:
+  term: medisente
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: medication, medicine
+    epo: medikamento, kuracilo
+    spa: medicamento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: medis + -ente
+...

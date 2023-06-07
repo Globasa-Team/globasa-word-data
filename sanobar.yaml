@@ -1,0 +1,61 @@
+---
+term: sanobar
+slug: sanobar
+ipa: "sano\u02C8ba\u027E"
+ipa link: "http://ipa-reader.xyz/?text=sano\u02C8ba\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pine (tree)
+    - _Pinaceae_
+  epo:
+  - - pino
+  spa:
+  - - pino
+search terms:
+  glb:
+  - sanobar
+  eng:
+  - pine tree
+  - pine
+  - pinaceae
+  epo:
+  - pino
+  spa:
+  - pino
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u0928\u094B\u092C\u0930 \"sanobar\""
+  Arabisa:
+  - - "\u0635\u064E\u0646\u064E\u0648\u0652\u0628\u064E\u0631 \"sanawbar\""
+  Parsisa:
+  - - "\u0635\u0646\u0648\u0628\u0631 \"sanowbar\""
+  Swahilisa:
+  - - msonobari
+  Malaysisa:
+  - - sanubar
+raw data:
+  term: sanobar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pine (tree), _Pinaceae_
+    epo: pino
+    spa: pino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0938\u0928\u094B\u092C\u0930 \"sanobar\"), Arabisa (\u0635\u064E\u0646\u064E\u0648\u0652\u0628\u064E\u0631
+    \"sanawbar\"), Parsisa (\u0635\u0646\u0648\u0628\u0631 \"sanowbar\"), Swahilisa
+    (msonobari), Malaysisa (sanubar)"
+...

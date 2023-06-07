@@ -1,0 +1,66 @@
+---
+term: dudan
+slug: dudan
+ipa: duˈdan
+ipa link: http://ipa-reader.xyz/?text=duˈdan&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - smoke
+    - fume
+  - - smoke
+  epo:
+  - - fumo
+  - - fumi
+  spa:
+  - - humo
+  - - humear
+    - fumar
+search terms:
+  glb:
+  - dudan
+  eng:
+  - smoke
+  - fume
+  epo:
+  - fumo
+  - fumi
+  spa:
+  - humo
+  - humear
+  - fumar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - دخان “dukhan”
+  Hindisa:
+  - - धुआं “dhuaan”
+  Telugusa:
+  - - ధూమము “dhuumamu”
+  Turkisa:
+  - - duman
+  Parsisa:
+  - - دود “dud”
+raw data:
+  term: dudan
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: smoke, fume; smoke
+    epo: fumo; fumi
+    spa: humo; humear, fumar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (دخان “dukhan”), Hindisa (धुआं “dhuaan”), Telugusa (ధూమము “dhuumamu”),
+    Turkisa (duman), Parsisa (دود “dud”)
+...

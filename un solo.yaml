@@ -1,0 +1,48 @@
+---
+term: un solo
+slug: un solo
+ipa: "\u02C8un \u02C8solo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8un \u02C8solo&voice=Ewa"
+status: false
+category: phrase
+word class: t jm
+trans:
+  eng:
+  - - a single
+  epo:
+  - - "unuopa\u0135o"
+  spa:
+  - - un solo
+search terms:
+  glb:
+  - un solo
+  - un
+  - solo
+  eng:
+  - a single
+  epo:
+  - "unuopa\u0135o"
+  spa:
+  - un solo
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a>, <a href="../lexi/solo">solo</a>
+raw data:
+  term: un solo
+  category: phrase
+  word class: t jm
+  status: false
+  trans:
+    eng: a single
+    epo: "unuopa\u0135o"
+    spa: un solo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: single, a single
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un, solo
+...

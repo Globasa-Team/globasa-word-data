@@ -1,0 +1,54 @@
+---
+term: koki
+slug: koki
+ipa: "\u02C8koki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8koki&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - cooking
+  - - cook
+  epo:
+  - - kuiro
+  - - kuiri
+  spa:
+  - - cocina (_actividad_)
+  - - cocinar
+search terms:
+  glb:
+  - koki
+  eng:
+  - cooking
+  - cook
+  epo:
+  - kuiro
+  - kuiri
+  spa:
+  - cocina
+  - cocinar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: koki
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: cooking; cook
+    epo: kuiro; kuiri
+    spa: cocina (_actividad_); cocinar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (koki - _kokiyen_), Doycisa (kochen), Espanisa (cocinar),
+    Rusisa (\u043A\u043E\u043A \u201Ckok\u201D, \u043A\u0443\u0445\u043D\u044F \u201Ckukhnya\u201D),
+    Englisa (cook), Pilipinasa (kusi)"
+...

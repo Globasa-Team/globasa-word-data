@@ -1,0 +1,52 @@
+---
+term: wakufacu
+slug: wakufacu
+ipa: "waku\u02C8fat\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=waku\u02C8fat\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - pause
+  epo:
+  - - "pa\u016Dzi\u011Do"
+    - "pa\u016Dzo"
+  - - "pa\u016Dzi\u011Di"
+    - "pa\u016Dzi"
+  spa:
+  - - pausar
+search terms:
+  glb:
+  - wakufacu
+  eng:
+  - pause
+  epo:
+  - "pa\u016Dzi\u011Do"
+  - "pa\u016Dzo"
+  - "pa\u016Dzi\u011Di"
+  - "pa\u016Dzi"
+  spa:
+  - pausar
+etymology_type: DERIVD
+etymology: <a href="../lexi/wakufa">wakufa</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: wakufacu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: pause
+    epo: "pa\u016Dzi\u011Do, pa\u016Dzo; pa\u016Dzi\u011Di, pa\u016Dzi"
+    spa: pausar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wakufa + -cu
+...

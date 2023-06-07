@@ -1,0 +1,57 @@
+---
+term: gubangu
+slug: gubangu
+ipa: guˈbangu
+ipa link: http://ipa-reader.xyz/?text=guˈbangu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - beetle
+    - _Coleoptera_
+  epo:
+  - - skarabo
+    - koleoptero
+  spa:
+  - - escarabajo
+    - _Coleoptera_
+search terms:
+  glb:
+  - gubangu
+  eng:
+  - beetle
+  - coleoptera
+  epo:
+  - skarabo
+  - koleoptero
+  spa:
+  - escarabajo
+  - coleoptera
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - kumbang
+  Pilipinasa:
+  - - uwang
+    - salagubang
+raw data:
+  term: gubangu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: beetle, _Coleoptera_
+    epo: skarabo, koleoptero
+    spa: escarabajo, _Coleoptera_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Indonesisa (kumbang), Pilipinasa (uwang, salagubang)
+...

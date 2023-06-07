@@ -1,0 +1,87 @@
+---
+term: germanyum
+slug: germanyum
+ipa: geɾmaˈnjum
+ipa link: http://ipa-reader.xyz/?text=geɾmaˈnjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - germanium
+  epo:
+  - - germaniumo
+    - germanio
+  spa:
+  - - germanio
+    - Ge
+search terms:
+  glb:
+  - germanyum
+  eng:
+  - germanium
+  epo:
+  - germaniumo
+  - germanio
+  spa:
+  - germanio
+  - ge
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - germanium
+  Espanisa:
+  - - germanio
+  Arabisa:
+  - - جَرْمَانْيُوم “jarmanyum”
+  Fransesa:
+  - - germanium
+  Rusisa:
+  - - германий “germaniy”
+  Indonesisa:
+  - - germanium
+  Doycisa:
+  - - Germanium
+  Niponsa:
+  - - ゲルマニウム “gerumaniumu”
+  Telugusa:
+  - - జెర్మేనియం “jermeniyam”
+  Turkisa:
+  - - germanyum
+  Hangusa:
+  - - 게르마늄 “gerumanyum”
+    - 저마늄 “jamanyum”
+  Vyetnamsa:
+  - - gecmani
+  Parsisa:
+  - - ژرمانیم “jermanyom”
+  Swahilisa:
+  - - gerimani
+  Pilipinasa:
+  - - hermanyo
+tags:
+- kimikali monlari
+raw data:
+  term: germanyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: germanium
+    epo: germaniumo, germanio
+    spa: germanio, Ge
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (germanium), Espanisa (germanio), Arabisa (جَرْمَانْيُوم “jarmanyum”),
+    Fransesa (germanium), Rusisa (германий “germaniy”), Indonesisa (germanium), Doycisa
+    (Germanium), Niponsa (ゲルマニウム “gerumaniumu”), Telugusa (జెర్మేనియం “jermeniyam”),
+    Turkisa (germanyum), Hangusa (게르마늄 “gerumanyum”, 저마늄 “jamanyum”), Vyetnamsa (gecmani),
+    Parsisa (ژرمانیم “jermanyom”), Swahilisa (gerimani), Pilipinasa (hermanyo)
+...

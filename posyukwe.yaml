@@ -1,0 +1,54 @@
+---
+term: posyukwe
+slug: posyukwe
+ipa: "po\u02C8sjukwe"
+ipa link: "http://ipa-reader.xyz/?text=po\u02C8sjukwe&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unpleasant
+    - displeasing
+  epo:
+  - - "malpla\u0109a"
+    - malagrabla
+  - - "malpla\u0109e"
+    - malagrable
+  spa:
+  - - desagradable
+search terms:
+  glb:
+  - posyukwe
+  eng:
+  - unpleasant
+  - displeasing
+  epo:
+  - "malpla\u0109a"
+  - malagrabla
+  - "malpla\u0109e"
+  - malagrable
+  spa:
+  - desagradable
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/yukwe">yukwe</a>
+raw data:
+  term: posyukwe
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unpleasant, displeasing
+    epo: "malpla\u0109a, malagrabla; malpla\u0109e, malagrable"
+    spa: desagradable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + yukwe
+...

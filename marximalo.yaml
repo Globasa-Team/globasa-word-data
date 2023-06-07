@@ -1,0 +1,56 @@
+---
+term: marximalo
+slug: marximalo
+ipa: "ma\u027E\u0283i\u02C8malo"
+ipa link: "http://ipa-reader.xyz/?text=ma\u027E\u0283i\u02C8malo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - marshmallow
+  epo:
+  - - "mar\u015Dmalo"
+  spa:
+  - - malvavisco
+    - esponjita
+search terms:
+  glb:
+  - marximalo
+  eng:
+  - marshmallow
+  epo:
+  - "mar\u015Dmalo"
+  spa:
+  - malvavisco
+  - esponjita
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: marximalo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: marshmallow
+    epo: "mar\u015Dmalo"
+    spa: malvavisco, esponjita
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (marshmallow), Fransesa, Doycisa, Indonesisa, Turkisa, Vyetnamsa,
+    Rusisa (\u043C\u0430\u0440\u0448\u043C\u044D\u043B\u043B\u043E\u0443 \u201Cmarxmelow\u201D),
+    Pilipinasa (marsmalow), Hindisa (\u092E\u093E\u0930\u094D\u0936 \u092E\u0948\u0932\u094B
+    \u201Cmarxmelo\u201D), Niponsa (\u30DE\u30B7\u30E5\u30DE\u30ED \u201Cmaxumaro\u201D),
+    Telugusa (\u0C2E\u0C3E\u0C30\u0C4D\u0C37\u0C4D\u0C2E\u0C32\u0C4D\u0C32\u0C4C \u201Cmarxmalaw\u201D),
+    Hangusa (\uB9C8\uC2DC\uBA5C\uB85C \u201Cmaximelo\u201D), Parsisa (\u0645\u0627\u0631\u0634\u0645\u0627\u0644\u0648
+    \u201Cmarxmalo\u201D), Swahilisa (marshmallow, mashimelo)"
+...

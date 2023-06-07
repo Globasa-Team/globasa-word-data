@@ -1,0 +1,54 @@
+---
+term: tamixey
+slug: tamixey
+ipa: "tami\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=tami\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - sweet
+    - sweetmeat
+    - confectionary
+  epo:
+  - - "dol\u0109a\u0135o"
+  spa:
+  - - dulce
+    - confite
+search terms:
+  glb:
+  - tamixey
+  eng:
+  - sweet
+  - sweetmeat
+  - confectionary
+  epo:
+  - "dol\u0109a\u0135o"
+  spa:
+  - dulce
+  - confite
+etymology_type: DERIVD
+etymology: <a href="../lexi/tami">tami</a> + <a href="../lexi/-xey">-xey</a>
+tags:
+- yamxey
+raw data:
+  term: tamixey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: sweet, sweetmeat, confectionary
+    epo: "dol\u0109a\u0135o"
+    spa: dulce, confite
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: tami + -xey
+...

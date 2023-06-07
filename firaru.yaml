@@ -1,0 +1,58 @@
+---
+term: firaru
+slug: firaru
+ipa: fiˈɾaɾu
+ipa link: http://ipa-reader.xyz/?text=fiˈɾaɾu&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - escape
+  epo:
+  - - eksapo
+  - - eskapi
+  spa:
+  - - escape
+  - - escapar
+search terms:
+  glb:
+  - firaru
+  eng:
+  - escape
+  epo:
+  - eksapo
+  - eskapi
+  spa:
+  - escape
+  - escapar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فِرَار “firar”
+  - - يَفِرُّ‎‎ “yafirru”
+  Parsisa:
+  - - فرار “farar”
+  Turkisa:
+  - - firar
+raw data:
+  term: firaru
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: escape
+    epo: eksapo; eskapi
+    spa: escape; escapar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (فِرَار “firar”;  يَفِرُّ‎‎ “yafirru”), Parsisa (فرار “farar”),
+    Turkisa (firar)
+...

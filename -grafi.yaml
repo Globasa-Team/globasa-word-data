@@ -1,0 +1,58 @@
+---
+term: -grafi
+slug: -grafi
+ipa: "-\u02C8g\u027Eafi"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8g\u027Eafi&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - recording
+  epo:
+  - - registrado
+    - "registra\u0135o"
+    - rikordo
+  spa:
+  - - "grabaci\xF3n"
+    - registro
+  deu:
+  - - Aufzeichnung
+    - Darstellung
+search terms:
+  glb:
+  - -grafi
+  eng:
+  - recording
+  epo:
+  - registrado
+  - "registra\u0135o"
+  - rikordo
+  spa:
+  - "grabaci\xF3n"
+  - registro
+  deu:
+  - aufzeichnung
+  - darstellung
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/grafi">grafi</a>.
+raw data:
+  term: -grafi
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: 'recording '
+    epo: "registrado, registra\u0135o, rikordo"
+    spa: "grabaci\xF3n, registro"
+    deu: Aufzeichnung, Darstellung
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _grafi_.
+...

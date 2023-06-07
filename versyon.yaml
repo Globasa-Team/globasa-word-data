@@ -1,0 +1,68 @@
+---
+term: versyon
+slug: versyon
+ipa: "ve\u027E\u02C8sjon"
+ipa link: "http://ipa-reader.xyz/?text=ve\u027E\u02C8sjon&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - version
+    - variant
+  epo:
+  - - versio
+  spa:
+  - - "versi\xF3n"
+    - variante
+search terms:
+  glb:
+  - versyon
+  eng:
+  - version
+  - variant
+  epo:
+  - versio
+  spa:
+  - "versi\xF3n"
+  - variante
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Version
+  Englisa:
+  - - version
+  Espanisa:
+  - - "versi\xF3n"
+  Fransesa:
+  - - version
+  Rusisa:
+  - - "\u0432\u0435\u0440\u0441\u0438\u044F \u201Cversiya\u201D"
+  Indonesisa:
+  - - versi
+  Pilipinasa:
+  - - bersyon
+  Turkisa:
+  - - versiyon
+raw data:
+  term: versyon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: version, variant
+    epo: versio
+    spa: "versi\xF3n, variante"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Version), Englisa (version), Espanisa (versi\xF3n), Fransesa
+    (version), Rusisa (\u0432\u0435\u0440\u0441\u0438\u044F \u201Cversiya\u201D),
+    Indonesisa (versi), Pilipinasa (bersyon), Turkisa (versiyon) "
+...

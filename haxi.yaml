@@ -1,0 +1,55 @@
+---
+term: haxi
+slug: haxi
+ipa: "\u02C8xa\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xa\u0283i&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chopstick
+    - chopsticks
+  epo:
+  - - "man\u011Dobastoneto(j)"
+    - "ha\u015Dio(j)"
+  spa:
+  - - palillo (_utensilio para comer_)
+search terms:
+  glb:
+  - haxi
+  eng:
+  - chopstick
+  - chopsticks
+  epo:
+  - "man\u011Dobastonetoj"
+  - "man\u011Dobastoneto"
+  - "ha\u015Dioj"
+  - "ha\u015Dio"
+  spa:
+  - palillo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- tul
+raw data:
+  term: haxi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chopstick, chopsticks
+    epo: "man\u011Dobastoneto(j), ha\u015Dio(j)"
+    spa: palillo (_utensilio para comer_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: tul
+  etymology: "Niponsa (\u7BB8 \u201Chaxi\u201D), Portugalsa (hashi), Putunhwa (\u7B77\u5B50
+    \u201Ckuayzi\u201D), Bengalisa (\u09B9\u09BE\u09B6\u09BF \u201Chaxi\u201D)"
+...

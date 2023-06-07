@@ -1,0 +1,60 @@
+---
+term: -ple
+slug: -ple
+ipa: "\u02C8-ple"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-ple&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - -uble
+    - -iple
+    - -uple
+  epo:
+  - - -obla
+  - - -oble
+  spa:
+  - - "m\xFAltiplo"
+search terms:
+  glb:
+  - -ple
+  eng:
+  - -uble
+  - -iple
+  - -uple
+  epo:
+  - -obla
+  - -oble
+  spa:
+  - "m\xFAltiplo"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - double
+    - triple
+  Fransesa:
+  - - double
+  Espanisa:
+  - - doble
+    - triple
+raw data:
+  term: -ple
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: -uble, -iple, -uple
+    epo: -obla; -oble
+    spa: "m\xFAltiplo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (double, triple), Fransesa (double), Espanisa (doble, triple)
+...

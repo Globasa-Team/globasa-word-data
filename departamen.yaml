@@ -1,0 +1,63 @@
+---
+term: departamen
+slug: departamen
+ipa: depaɾtaˈmen
+ipa link: http://ipa-reader.xyz/?text=depaɾtaˈmen&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - department
+  epo:
+  - - departemento
+  spa:
+  - - departamento
+search terms:
+  glb:
+  - departamen
+  eng:
+  - department
+  epo:
+  - departemento
+  spa:
+  - departamento
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - department
+  Fransesa:
+  - - département
+  Rusisa:
+  - - департамент “departament”
+  Espanisa:
+  - - departamento
+  Indonesisa:
+  - - departemen
+  Pilipinasa:
+  - - departamento
+  Turkisa:
+  - - departman
+  'Am kompara: _apartamen_.': ~
+raw data:
+  term: departamen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: department
+    epo: departemento
+    spa: departamento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'Englisa (department), Fransesa (département), Rusisa (департамент “departament”),
+    Espanisa (departamento), Indonesisa (departemen), Pilipinasa (departamento), Turkisa
+    (departman). Am kompara: _apartamen_.'
+...

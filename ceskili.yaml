@@ -1,0 +1,52 @@
+---
+term: ceskili
+slug: ceskili
+ipa: "t\u0361\u0283es\u02C8kili"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283es\u02C8kili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Czech
+  epo:
+  - - "\u0109e\u0125a"
+  - - "\u0109e\u0125e"
+  spa:
+  - - checo
+  deu:
+  - - tschechisch
+search terms:
+  glb:
+  - ceskili
+  eng:
+  - czech
+  epo:
+  - "\u0109e\u0125a"
+  - "\u0109e\u0125e"
+  spa:
+  - checo
+  deu:
+  - tschechisch
+etymology_type: DERIVD
+etymology: <a href="../lexi/Ceski">Ceski</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Ceskili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Czech
+    epo: "\u0109e\u0125a; \u0109e\u0125e"
+    spa: checo
+    deu: tschechisch
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Ceski + -li
+...

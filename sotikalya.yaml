@@ -1,0 +1,49 @@
+---
+term: sotikalya
+slug: sotikalya
+ipa: "soti\u02C8kalja"
+ipa link: "http://ipa-reader.xyz/?text=soti\u02C8kalja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - silence
+    - quietness
+  epo:
+  - - silento
+  spa:
+  - - silencio
+search terms:
+  glb:
+  - sotikalya
+  eng:
+  - silence
+  - quietness
+  epo:
+  - silento
+  spa:
+  - silencio
+etymology_type: DERIVD
+etymology: <a href="../lexi/soti">soti</a> + <a href="../lexi/-kal">-kal</a> + <a
+  href="../lexi/-ya">-ya</a>
+raw data:
+  term: sotikalya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: silence, quietness
+    epo: silento
+    spa: silencio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: soti + -kal + -ya
+...

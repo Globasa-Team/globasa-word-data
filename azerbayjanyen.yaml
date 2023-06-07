@@ -1,0 +1,54 @@
+---
+term: azerbayjanyen
+slug: azerbayjanyen
+ipa: "aze\u027Ebajd\u0361\u0292a\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=aze\u027Ebajd\u0361\u0292a\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Azerbaijani (person)
+    - Azeri (person)
+  epo:
+  - - azerbaigiano
+    - azero
+  spa:
+  - - "azer\xED"
+    - azerbaiyano (_persona_)
+search terms:
+  glb:
+  - azerbayjanyen
+  eng:
+  - azerbaijani person
+  - azerbaijani
+  - azeri person
+  - azeri
+  epo:
+  - azerbaigiano
+  - azero
+  spa:
+  - "azer\xED"
+  - azerbaiyano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Azerbayjan">Azerbayjan</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Azerbayjanyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Azerbaijani (person), Azeri (person)
+    epo: azerbaigiano, azero
+    spa: "azer\xED, azerbaiyano (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Azerbayjan + -yen
+...

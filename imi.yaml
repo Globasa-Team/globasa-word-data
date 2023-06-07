@@ -1,0 +1,48 @@
+---
+term: imi
+slug: imi
+ipa: "\u02C8imi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8imi&voice=Ewa"
+status: true
+category: root
+word class: pn
+trans:
+  eng:
+  - - we
+    - us
+  epo:
+  - - ni
+  spa:
+  - - nosotros
+search terms:
+  glb:
+  - imi
+  eng:
+  - we
+  - us
+  epo:
+  - ni
+  spa:
+  - nosotros
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: imi
+  category: root
+  word class: pn
+  status: true
+  trans:
+    eng: we, us
+    epo: ni
+    spa: nosotros
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _mi_.
+...

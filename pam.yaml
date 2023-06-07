@@ -1,0 +1,76 @@
+---
+term: pam
+slug: pam
+ipa: "\u02C8pam"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pam&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - shot
+    - gunshot
+  - - shoot
+    - fire
+  epo:
+  - - pafo
+  - - pafi
+  spa:
+  - - tiro
+    - disparo
+  - - disparar
+search terms:
+  glb:
+  - pam
+  eng:
+  - shot
+  - gunshot
+  - shoot
+  - fire
+  epo:
+  - pafo
+  - pafi
+  spa:
+  - tiro
+  - disparo
+  - disparar
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Putunhwa:
+  - - "\u4E52 \u201Cpa\u201D"
+  Englisa:
+  - - bam
+    - bang
+  Fransesa:
+  - - pan
+  Hangusa:
+  - - "\uBE75 \u201Cpang\u201D"
+  Portugalsa:
+  - - "p\xE1"
+    - bam
+  Turkisa:
+  - - bam
+  Vyetnamsa:
+  - - "p\u1EB1ng"
+raw data:
+  term: pam
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: shot, gunshot; shoot, fire
+    epo: pafo; pafi
+    spa: tiro, disparo; disparar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "kwasilexi - Putunhwa (\u4E52 \u201Cpa\u201D), Englisa (bam, bang), Fransesa
+    (pan), Hangusa (\uBE75 \u201Cpang\u201D), Portugalsa (p\xE1, bam), Turkisa (bam),
+    Vyetnamsa (p\u1EB1ng)"
+...

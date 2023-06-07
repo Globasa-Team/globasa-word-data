@@ -1,0 +1,52 @@
+---
+term: liberi
+slug: liberi
+ipa: "li\u02C8be\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=li\u02C8be\u027Ei&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Liberia
+  epo:
+  - - Liberio
+    - Liberia
+  spa:
+  - - Liberia
+search terms:
+  glb:
+  - liberi
+  eng:
+  - liberia
+  epo:
+  - liberio
+  - liberia
+  spa:
+  - liberia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Liberia
+tags:
+- dexa
+raw data:
+  term: Liberi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Liberia
+    epo: Liberio, Liberia
+    spa: Liberia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Liberia)
+...

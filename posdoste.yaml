@@ -1,0 +1,46 @@
+---
+term: posdoste
+slug: posdoste
+ipa: "pos\u02C8doste"
+ipa link: "http://ipa-reader.xyz/?text=pos\u02C8doste&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - enemy
+  epo:
+  - - malamiko
+  spa:
+  - - enemigo
+search terms:
+  glb:
+  - posdoste
+  eng:
+  - enemy
+  epo:
+  - malamiko
+  spa:
+  - enemigo
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/doste">doste</a>
+raw data:
+  term: posdoste
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'enemy '
+    epo: malamiko
+    spa: enemigo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + doste
+...

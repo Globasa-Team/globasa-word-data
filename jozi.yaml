@@ -1,0 +1,48 @@
+---
+term: jozi
+slug: jozi
+ipa: "\u02C8d\u0361\u0292ozi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ozi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nut (_food_)
+  epo:
+  - - nukso
+  spa:
+  - - nuez
+search terms:
+  glb:
+  - jozi
+  eng:
+  - nut
+  epo:
+  - nukso
+  spa:
+  - nuez
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: jozi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nut (_food_)
+    epo: nukso
+    spa: nuez
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Arabisa (\u062C\u0648\u0632 \u201Cjawz\u201D), Swahilisa (jozi)"
+...

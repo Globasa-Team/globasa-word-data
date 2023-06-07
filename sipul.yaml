@@ -1,0 +1,60 @@
+---
+term: sipul
+slug: sipul
+ipa: "si\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=si\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - indeed
+    - of course
+    - definitely
+    - positively
+  epo:
+  - - jesa
+  - - jese
+  spa:
+  - - de veras
+    - por supuesto
+    - definitivamente
+    - con seguridad
+search terms:
+  glb:
+  - sipul
+  eng:
+  - indeed
+  - of course
+  - definitely
+  - positively
+  epo:
+  - jesa
+  - jese
+  spa:
+  - de veras
+  - por supuesto
+  - definitivamente
+  - con seguridad
+etymology_type: DERIVD
+etymology: <a href="../lexi/si">si</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: sipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: indeed, of course, definitely, positively
+    epo: jesa; jese
+    spa: de veras, por supuesto, definitivamente, con seguridad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: si + -pul
+...

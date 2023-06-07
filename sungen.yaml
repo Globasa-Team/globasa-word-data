@@ -1,0 +1,53 @@
+---
+term: sungen
+slug: sungen
+ipa: "sun\u02C8gen"
+ipa link: "http://ipa-reader.xyz/?text=sun\u02C8gen&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dignity
+  epo:
+  - - digneco
+    - digno
+  spa:
+  - - dignidad
+search terms:
+  glb:
+  - sungen
+  eng:
+  - dignity
+  epo:
+  - digneco
+  - digno
+  spa:
+  - dignidad
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5C0A\u4E25 \u201Cz\u016Bny\xE1n\u201D"
+  Niponsa:
+  - - "\u5C0A\u53B3 \u201Csongen\u201D"
+raw data:
+  term: sungen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dignity
+    epo: digneco, digno
+    spa: dignidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u5C0A\u4E25 \u201Cz\u016Bny\xE1n\u201D), Niponsa (\u5C0A\u53B3
+    \u201Csongen\u201D)"
+...

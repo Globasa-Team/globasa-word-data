@@ -1,0 +1,55 @@
+---
+term: kata
+slug: kata
+ipa: "\u02C8kata"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kata&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - cut
+  epo:
+  - - "tran\u0109o"
+  - - "tran\u0109i"
+    - haki
+  spa:
+  - - corte
+  - - cortar
+search terms:
+  glb:
+  - kata
+  eng:
+  - cut
+  epo:
+  - "tran\u0109o"
+  - "tran\u0109i"
+  - haki
+  spa:
+  - corte
+  - cortar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kata
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: cut
+    epo: "tran\u0109o; tran\u0109i, haki"
+    spa: corte; cortar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u064E\u0637\u064E\u0639\u064E \u201Cqata\u02BFa\u201D),
+    Hindisa (\u0915\u093E\u091F\u0928\u093E \u201Ckatna\u201D), Englisa (cut), Espanisa
+    (cortar), Vyetnamsa (c\u1EAFt), Hangusa (\uB04A\uB2E4 \u201Ckunta\u201D), Swahilisa
+    (-kata)"
+...

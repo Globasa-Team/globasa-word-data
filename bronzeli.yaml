@@ -1,0 +1,49 @@
+---
+term: bronzeli
+slug: bronzeli
+ipa: "b\u027Eon\u02C8zeli"
+ipa link: "http://ipa-reader.xyz/?text=b\u027Eon\u02C8zeli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - (made of) bronze
+  epo:
+  - - bronza
+  - - bronze
+  spa:
+  - - de bronce
+search terms:
+  glb:
+  - bronzeli
+  eng:
+  - made of bronze
+  - bronze
+  epo:
+  - bronza
+  - bronze
+  spa:
+  - de bronce
+etymology_type: DERIVD
+etymology: <a href="../lexi/bronze">bronze</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: bronzeli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: (made of) bronze
+    epo: bronza; bronze
+    spa: de bronce
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: bronze, of bronze, made of bronze
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bronze + -li
+...

@@ -1,0 +1,57 @@
+---
+term: esfer
+slug: esfer
+ipa: esˈfeɾ
+ipa link: http://ipa-reader.xyz/?text=esˈfeɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sphere
+  epo:
+  - - sfero
+  spa:
+  - - esfera
+search terms:
+  glb:
+  - esfer
+  eng:
+  - sphere
+  epo:
+  - sfero
+  spa:
+  - esfera
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sphere
+  Espanisa:
+  - - esfera
+  Fransesa:
+  - - sphère
+  Rusisa:
+  - - сфера “sfera”
+  Pilipinasa:
+  - - spero
+raw data:
+  term: esfer
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sphere
+    epo: sfero
+    spa: esfera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (sphere), Espanisa (esfera), Fransesa (sphère). Rusisa (сфера
+    “sfera”), Pilipinasa (spero)
+...

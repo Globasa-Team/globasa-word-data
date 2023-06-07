@@ -1,0 +1,85 @@
+---
+term: seleti
+slug: seleti
+ipa: "se\u02C8leti"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8leti&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - choice
+    - selection
+    - election
+  - - choose
+    - select
+    - elect
+    - pick
+  epo:
+  - - elekto
+    - selekto
+  - - elekti
+    - selekti
+  spa:
+  - - "elecci\xF3n"
+    - "selecci\xF3n"
+  - - elegir
+    - seleccionar
+search terms:
+  glb:
+  - seleti
+  eng:
+  - choice
+  - selection
+  - election
+  - choose
+  - select
+  - elect
+  - pick
+  epo:
+  - elekto
+  - selekto
+  - elekti
+  - selekti
+  spa:
+  - "elecci\xF3n"
+  - "selecci\xF3n"
+  - elegir
+  - seleccionar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - selection
+  Fransesa:
+  - - "s\xE9lection"
+  Doycisa:
+  - - Selektion
+  Rusisa:
+  - - "\u0441\u0435\u043B\u0435\u043A\u0442\u0438\u0432\u043D\u044B\u0439 \u201Cselektivnyy\u201D"
+  Espanisa:
+  - - "selecci\xF3n"
+    - selectivo
+  Indonesisa:
+  - - seleksi
+raw data:
+  term: seleti
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: choice, selection, election; choose, select, elect, pick
+    epo: elekto, selekto; elekti, selekti
+    spa: "elecci\xF3n, selecci\xF3n; elegir, seleccionar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (selection), Fransesa (s\xE9lection), Doycisa (Selektion), Rusisa
+    (\u0441\u0435\u043B\u0435\u043A\u0442\u0438\u0432\u043D\u044B\u0439 \u201Cselektivnyy\u201D),
+    Espanisa (selecci\xF3n, selectivo), Indonesisa (seleksi)"
+...

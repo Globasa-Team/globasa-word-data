@@ -1,0 +1,48 @@
+---
+term: ansyapul
+slug: ansyapul
+ipa: "ansja\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=ansja\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - anxious
+  epo:
+  - - anksia
+  spa:
+  - - ansioso
+    - preocupado
+search terms:
+  glb:
+  - ansyapul
+  eng:
+  - anxious
+  epo:
+  - anksia
+  spa:
+  - ansioso
+  - preocupado
+etymology_type: DERIVD
+etymology: <a href="../lexi/ansya">ansya</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: ansyapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: anxious
+    epo: anksia
+    spa: ansioso, preocupado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ansya + -pul
+...

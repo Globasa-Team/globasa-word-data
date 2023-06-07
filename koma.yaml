@@ -1,0 +1,52 @@
+---
+term: koma
+slug: koma
+ipa: "\u02C8koma"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8koma&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coma
+  epo:
+  - - komato
+  spa:
+  - - "coma (_estado patol\xF3gico_)"
+search terms:
+  glb:
+  - koma
+  eng:
+  - coma
+  epo:
+  - komato
+  spa:
+  - coma
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: koma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coma
+    epo: komato
+    spa: "coma (_estado patol\xF3gico_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Doycisa (Koma), Englisa (coma), Espanisa (coma), Fransesa (coma), Rusisa
+    (\u043A\u043E\u043C\u0430 \u201Ckoma\u201D), Indonesisa (koma), Pilipinasa (coma,
+    koma), Turkisa (koma), Hindisa (\u0915\u094B\u092E\u093E \u201Ckoma\u201D) Telugusa
+    (\u0C15\u0C4B\u0C2E\u0C3E \u201Ck\u014Dm\u0101\u201D), Parsisa (\u06A9\u0645\u0627
+    \u201Ckoma\u201D)"
+...

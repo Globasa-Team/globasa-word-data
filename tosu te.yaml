@@ -1,0 +1,48 @@
+---
+term: tosu te
+slug: tosu te
+ipa: "\u02C8tosu \u02C8te"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tosu \u02C8te&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - its (_that person or being belonging to it_)
+  epo:
+  - - "la \u011Dia (_tiu de \u011Di_)"
+  spa:
+  - - "el de \xE9l (_ser viviente de una cosa_)"
+search terms:
+  glb:
+  - tosu te
+  - tosu
+  - te
+  eng:
+  - its
+  epo:
+  - "la \u011Dia"
+  spa:
+  - "el de \xE9l"
+etymology_type: DERIVD
+etymology: <a href="../lexi/to">to</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/te">te</a>
+raw data:
+  term: tosu te
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: its (_that person or being belonging to it_)
+    epo: "la \u011Dia (_tiu de \u011Di_)"
+    spa: "el de \xE9l (_ser viviente de una cosa_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: to + -su, te
+...

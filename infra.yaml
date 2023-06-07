@@ -1,0 +1,54 @@
+---
+term: infra
+slug: infra
+ipa: "\u02C8inf\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8inf\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - below
+  epo:
+  - - sub (je malpli alta vertikala koordinato) (malo de [supra]) (vidu [bax] se vi
+      volas paroli pri io rekte sub alia afero)
+  spa:
+  - - abajo de
+    - "a un nivel m\xE1s bajo"
+search terms:
+  glb:
+  - infra
+  eng:
+  - below
+  epo:
+  - sub je malpli alta vertikala koordinato malo de  se vi volas paroli pri io rekte
+    sub alia afero
+  - sub
+  spa:
+  - abajo de
+  - "a un nivel m\xE1s bajo"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: infra
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: below
+    epo: sub (je malpli alta vertikala koordinato) (malo de [supra]) (vidu [bax] se
+      vi volas paroli pri io rekte sub alia afero)
+    spa: "abajo de, a un nivel m\xE1s bajo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (infra-), Fransesa (infra-), Espanisa (infra-), Doycisa (Infrarot),
+    Rusisa (\u0438\u043D\u0444\u0440\u0430\u043A\u0440\u0430\u0441\u043D\u043E\u0435
+    \u201Cinfrakrasnoe\u201D)"
+...

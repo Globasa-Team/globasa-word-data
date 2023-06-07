@@ -1,0 +1,63 @@
+---
+term: (fe) ner leya
+slug: (fe) ner leya
+ipa: "\u02C8(fe) \u02C8ne\u027E \u02C8leja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8(fe) \u02C8ne\u027E \u02C8leja&voice=Ewa"
+status: false
+category: phrase
+word class: jm.p
+trans:
+  eng:
+  - - in the near past
+    - recently
+  epo:
+  - - lastatempe
+    - "anta\u016D nelonge"
+    - "fre\u015Ddate"
+  spa:
+  - - en el pasado reciente
+    - recientemente
+    - "reci\xE9n"
+search terms:
+  glb:
+  - (fe) ner leya
+  - fe ner leya
+  - ner leya
+  - ner
+  - leya
+  eng:
+  - in the near past
+  - recently
+  epo:
+  - lastatempe
+  - "anta\u016D nelonge"
+  - "fre\u015Ddate"
+  spa:
+  - en el pasado reciente
+  - recientemente
+  - "reci\xE9n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/ner">ner</a>, <a href="../lexi/le">le</a>
+  + <a href="../lexi/-ya">-ya</a>
+synonyms:
+- nerleli
+raw data:
+  term: (fe) ner leya
+  category: phrase
+  word class: jm.p
+  status: false
+  trans:
+    eng: in the near past, recently
+    epo: "lastatempe, anta\u016D nelonge, fre\u015Ddate"
+    spa: "en el pasado reciente, recientemente, reci\xE9n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: nerleli
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, ner, le + -ya
+...

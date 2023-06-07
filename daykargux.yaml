@@ -1,0 +1,50 @@
+---
+term: daykargux
+slug: daykargux
+ipa: "dajka\u027E\u02C8gu\u0283"
+ipa link: "http://ipa-reader.xyz/?text=dajka\u027E\u02C8gu\u0283&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hare
+  epo:
+  - - leporo
+  spa:
+  - - liebre
+    - _Lepus_
+search terms:
+  glb:
+  - daykargux
+  eng:
+  - hare
+  epo:
+  - leporo
+  spa:
+  - liebre
+  - lepus
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/kargux">kargux</a>
+tags:
+- hewan
+raw data:
+  term: daykargux
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hare
+    epo: leporo
+    spa: liebre, _Lepus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: day- + kargux
+...

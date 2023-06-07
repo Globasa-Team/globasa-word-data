@@ -1,0 +1,54 @@
+---
+term: coloeskri
+slug: coloeskri
+ipa: "t\u0361\u0283olo\u02C8esk\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283olo\u02C8esk\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - scribble
+  epo:
+  - - "skriba\u0109o"
+    - malbonskribo
+  - - "skriba\u0109i"
+    - malbonskribi
+  spa:
+  - - garabato
+  - - garabatear
+search terms:
+  glb:
+  - coloeskri
+  eng:
+  - scribble
+  epo:
+  - "skriba\u0109o"
+  - malbonskribo
+  - "skriba\u0109i"
+  - malbonskribi
+  spa:
+  - garabato
+  - garabatear
+etymology_type: DERIVD
+etymology: <a href="../lexi/colo-">colo-</a> + <a href="../lexi/eskri">eskri</a>
+raw data:
+  term: coloeskri
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: scribble
+    epo: "skriba\u0109o, malbonskribo; skriba\u0109i, malbonskribi"
+    spa: garabato; garabatear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: colo- + eskri
+...

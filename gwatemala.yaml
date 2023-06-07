@@ -1,0 +1,50 @@
+---
+term: gwatemala
+slug: gwatemala
+ipa: "gwate\u02C8mala"
+ipa link: "http://ipa-reader.xyz/?text=gwate\u02C8mala&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Guatemala
+  epo:
+  - - Gvatemalo
+  spa:
+  - - Guatemala
+search terms:
+  glb:
+  - gwatemala
+  eng:
+  - guatemala
+  epo:
+  - gvatemalo
+  spa:
+  - guatemala
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Guatemala
+tags:
+- dexa
+raw data:
+  term: Gwatemala
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Guatemala
+    epo: Gvatemalo
+    spa: Guatemala
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Guatemala)
+...

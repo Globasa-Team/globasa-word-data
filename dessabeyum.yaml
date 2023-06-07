@@ -1,0 +1,48 @@
+---
+term: dessabeyum
+slug: dessabeyum
+ipa: "dessabe\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=dessabe\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - seventeenth
+  epo:
+  - - deksepa
+  - - deksepe
+  spa:
+  - - "d\xE9cimo s\xE9ptimo"
+search terms:
+  glb:
+  - dessabeyum
+  eng:
+  - seventeenth
+  epo:
+  - deksepa
+  - deksepe
+  spa:
+  - "d\xE9cimo s\xE9ptimo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/sabe">sabe</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: dessabeyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: seventeenth
+    epo: deksepa; deksepe
+    spa: "d\xE9cimo s\xE9ptimo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + sabe + -yum
+...

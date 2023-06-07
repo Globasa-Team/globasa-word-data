@@ -1,0 +1,69 @@
+---
+term: cyan
+slug: cyan
+ipa: ˈt͡ʃjan
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃjan&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - cyan
+  epo:
+  - - bluverda
+  - - bluverde
+  spa:
+  - - cian
+search terms:
+  glb:
+  - cyan
+  eng:
+  - cyan
+  epo:
+  - bluverda
+  - bluverde
+  spa:
+  - cian
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - cyan
+  Fransesa:
+  - - cyan
+  Doycisa:
+  - - Zyan
+  Rusisa: ~
+  Espanisa:
+  - - cian
+  Hindisa:
+  - - क्यान “kyan”
+  Niponsa:
+  - - シアン “xian”
+  Hangusa:
+  - - 시안 “xian”
+  Parsisa:
+  - - سیان‎ “siyân”
+tags:
+- kolor
+raw data:
+  term: cyan
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: cyan
+    epo: bluverda; bluverde
+    spa: cian
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: Englisa (cyan), Fransesa (cyan), Doycisa (Zyan), Rusisa, Espanisa (cian),
+    Hindisa (क्यान “kyan”), Niponsa (シアン “xian”), Hangusa (시안 “xian”), Parsisa (سیان‎
+    “siyân”)
+...

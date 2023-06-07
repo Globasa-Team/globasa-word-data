@@ -1,0 +1,49 @@
+---
+term: kontrata
+slug: kontrata
+ipa: "kon\u02C8t\u027Eata"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8t\u027Eata&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - contract (_legally binding_)
+  epo:
+  - - kontrakto (_jure deviga_)
+  spa:
+  - - "contrato (_jur\xEDdicamente vinculante_)"
+search terms:
+  glb:
+  - kontrata
+  eng:
+  - contract
+  epo:
+  - kontrakto
+  spa:
+  - contrato
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kontrata
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: contract (_legally binding_)
+    epo: kontrakto (_jure deviga_)
+    spa: "contrato (_jur\xEDdicamente vinculante_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Kontrakt), Englisa (contract), Espanisa (contrato, contrata),
+    Fransesa (contrat), Rusisa (\u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u201Ckontrakt\u201D),
+    Turkisa (kontrat), Indonesisa (kontrak), Pilipinasa (kontrata), Niponsa (\u30B3\u30F3\u30C8\u30E9\u30AF\u30C8
+    \u201Ckontorakuto\u201D)"
+...

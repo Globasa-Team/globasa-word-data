@@ -1,0 +1,54 @@
+---
+term: ofcen
+slug: ofcen
+ipa: "of\u02C8t\u0361\u0283en"
+ipa link: "http://ipa-reader.xyz/?text=of\u02C8t\u0361\u0283en&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - percent
+    - percentage
+  epo:
+  - - procento
+    - elcento
+    - centono
+  spa:
+  - - porcentaje
+  - - por ciento
+search terms:
+  glb:
+  - ofcen
+  eng:
+  - percent
+  - percentage
+  epo:
+  - procento
+  - elcento
+  - centono
+  spa:
+  - porcentaje
+  - por ciento
+etymology_type: DERIVD
+etymology: <a href="../lexi/of-">of-</a> + <a href="../lexi/cen">cen</a>
+raw data:
+  term: ofcen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: percent, percentage
+    epo: procento, elcento, centono
+    spa: porcentaje; por ciento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: of- + cen
+...

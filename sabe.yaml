@@ -1,0 +1,58 @@
+---
+term: sabe
+slug: sabe
+ipa: "\u02C8sabe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sabe&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - seven
+  epo:
+  - - sep
+  spa:
+  - - siete
+search terms:
+  glb:
+  - sabe
+  eng:
+  - seven
+  epo:
+  - sep
+  spa:
+  - siete
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0633\u0628\u0639\u0629 \u201Csab\u02BFa\u201D"
+  Swahilisa:
+  - - saba
+  Englisa:
+  - - seven
+  Hindisa:
+  - - "\u0938\u092A\u094D\u0924 \u201Csapt\u201D"
+  Doycisa:
+  - - sieben
+raw data:
+  term: sabe
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: seven
+    epo: sep
+    spa: siete
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0633\u0628\u0639\u0629 \u201Csab\u02BFa\u201D), Swahilisa
+    (saba), Englisa (seven), Hindisa (\u0938\u092A\u094D\u0924 \u201Csapt\u201D),
+    Doycisa (sieben)"
+...

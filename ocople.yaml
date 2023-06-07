@@ -1,0 +1,50 @@
+---
+term: ocople
+slug: ocople
+ipa: "o\u02C8t\u0361\u0283ople"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8t\u0361\u0283ople&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - octuple
+    - eightfold
+  epo:
+  - - okopla
+  - - okople
+  spa:
+  - - "\xF3ctuple"
+search terms:
+  glb:
+  - ocople
+  eng:
+  - octuple
+  - eightfold
+  epo:
+  - okopla
+  - okople
+  spa:
+  - "\xF3ctuple"
+etymology_type: DERIVD
+etymology: <a href="../lexi/oco">oco</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: ocople
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: octuple, eightfold
+    epo: okopla; okople
+    spa: "\xF3ctuple"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: oco + -ple
+...

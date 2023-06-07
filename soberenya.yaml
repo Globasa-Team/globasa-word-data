@@ -1,0 +1,46 @@
+---
+term: soberenya
+slug: soberenya
+ipa: "sobe\u02C8\u027Eenja"
+ipa link: "http://ipa-reader.xyz/?text=sobe\u02C8\u027Eenja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - sovereignty
+  epo:
+  - - suvereneco
+  spa:
+  - - "soberan\xEDa"
+search terms:
+  glb:
+  - soberenya
+  eng:
+  - sovereignty
+  epo:
+  - suvereneco
+  spa:
+  - "soberan\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/soberen">soberen</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: soberenya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: sovereignty
+    epo: suvereneco
+    spa: "soberan\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: soberen + -ya
+...

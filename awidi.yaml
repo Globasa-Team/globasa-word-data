@@ -1,0 +1,54 @@
+---
+term: awidi
+slug: awidi
+ipa: "a\u02C8widi"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8widi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - leave
+    - go away
+    - depart
+  epo:
+  - - foriro
+  - - foriri
+  spa:
+  - - irse
+search terms:
+  glb:
+  - awidi
+  eng:
+  - leave
+  - go away
+  - depart
+  epo:
+  - foriro
+  - foriri
+  spa:
+  - irse
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw-">aw-</a> + <a href="../lexi/idi">idi</a>
+antonyms:
+- preata
+raw data:
+  term: awidi
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: leave, go away, depart
+    epo: foriro; foriri
+    spa: irse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: leave, go away, go
+  synonyms: ""
+  antonyms: preata
+  example: ""
+  tags: ""
+  etymology: aw- + idi
+...

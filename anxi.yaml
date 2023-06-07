@@ -1,0 +1,88 @@
+---
+term: anxi
+slug: anxi
+ipa: ˈanʃi
+ipa link: http://ipa-reader.xyz/?text=ˈanʃi&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - implication
+    - hint
+  - - imply
+    - allude (to)
+    - hint (at)
+    - insinuate
+  epo:
+  - - insinuo
+    - aludo
+    - implico
+  - - insinui
+    - aludi
+    - implici
+    - subkomprenigi
+    - duondiri
+  spa:
+  - - implicación
+    - insinuación
+    - pista
+  - - implicar
+    - insinuar
+search terms:
+  glb:
+  - anxi
+  eng:
+    0: implication
+    1: hint
+    2: imply
+    3: allude to
+    4: allude
+    5: hint at
+    7: insinuate
+  epo:
+  - insinuo
+  - aludo
+  - implico
+  - insinui
+  - aludi
+  - implici
+  - subkomprenigi
+  - duondiri
+  spa:
+  - implicación
+  - insinuación
+  - pista
+  - implicar
+  - insinuar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 暗示 “anxi”
+  Niponsa:
+  - - 暗示 “anji”
+  Hangusa:
+  - - 암시 “amxi”
+  Vyetnamsa:
+  - - ám thị
+raw data:
+  term: anxi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: implication, hint; imply, allude (to), hint (at), insinuate
+    epo: insinuo, aludo, implico; insinui, aludi, implici, subkomprenigi, duondiri
+    spa: implicación, insinuación, pista; implicar, insinuar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (暗示 “anxi”), Niponsa (暗示 “anji”), Hangusa (암시 “amxi”), Vyetnamsa
+    (ám thị)
+...

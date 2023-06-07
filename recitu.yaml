@@ -1,0 +1,74 @@
+---
+term: recitu
+slug: recitu
+ipa: "\u027Ee\u02C8t\u0361\u0283itu"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8t\u0361\u0283itu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - receipt
+  epo:
+  - - kvitanco
+  spa:
+  - - recibo
+    - comprobante de pago
+    - acuse de recibo
+search terms:
+  glb:
+  - recitu
+  eng:
+  - receipt
+  epo:
+  - kvitanco
+  spa:
+  - recibo
+  - comprobante de pago
+  - acuse de recibo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - receipt
+  Espanisa:
+  - - recibo
+  Portugalsa: ~
+  Fransesa:
+  - - "re\xE7u"
+    - "r\xE9c\xE9piss\xE9"
+  Italisa:
+  - - resibo
+  Indonesisa:
+  - - resi
+  Hindisa:
+  - - "\u0930\u0938\u0940\u0926 \u201Crasid\u201D"
+  Telugusa:
+  - - "\u0C30\u0C38\u0C40\u0C26\u0C41 \u201Crasidu\u201D"
+  Parsisa:
+  - - "\u0631\u0633\u06CC\u062F \u201Cresid\u201D"
+  Swahilisa:
+  - - resiti
+raw data:
+  term: recitu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: receipt
+    epo: kvitanco
+    spa: recibo, comprobante de pago, acuse de recibo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (receipt), Espanisa (recibo), Portugalsa, Fransesa (re\xE7u,
+    r\xE9c\xE9piss\xE9), Italisa (ricevuta), Indonesisa (resi), Italisa (resibo),
+    Hindisa (\u0930\u0938\u0940\u0926 \u201Crasid\u201D), Telugusa (\u0C30\u0C38\u0C40\u0C26\u0C41
+    \u201Crasidu\u201D), Parsisa (\u0631\u0633\u06CC\u062F \u201Cresid\u201D), Swahilisa
+    (resiti)"
+...

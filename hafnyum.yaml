@@ -1,0 +1,86 @@
+---
+term: hafnyum
+slug: hafnyum
+ipa: xafˈnjum
+ipa link: http://ipa-reader.xyz/?text=xafˈnjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hafnium
+  epo:
+  - - hafnio
+  spa:
+  - - hafnio
+    - Hf
+search terms:
+  glb:
+  - hafnyum
+  eng:
+  - hafnium
+  epo:
+  - hafnio
+  spa:
+  - hafnio
+  - hf
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - hafnium
+  Putunhwa:
+  - - 鉿 “ha”
+  Espanisa:
+  - - hafnio
+  Arabisa:
+  - - هَفْنِيُوم “hafniyum”
+  Fransesa:
+  - - hafnium
+  Rusisa:
+  - - гафний “gafniy”
+  Indonesisa:
+  - - hafnium
+  Doycisa:
+  - - Hafnium
+  Niponsa:
+  - - ハフニウム “hafuniumu”
+  Telugusa:
+  - - హాఫ్నియం “hafniyam”
+  Turkisa:
+  - - hafniyum
+  Hangusa:
+  - - 하프늄 “hapunyum”
+  Vyetnamsa:
+  - - hafni
+  Parsisa:
+  - - هافنیم “hafnyom”
+  Swahilisa:
+  - - hafni
+  Pilipinasa:
+  - - hapnyo
+tags:
+- kimikali monlari
+raw data:
+  term: hafnyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hafnium
+    epo: hafnio
+    spa: hafnio, Hf
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (hafnium), Putunhwa (鉿 “ha”), Espanisa (hafnio), Arabisa (هَفْنِيُوم
+    “hafniyum”), Fransesa (hafnium), Rusisa (гафний “gafniy”), Indonesisa (hafnium),
+    Doycisa (Hafnium), Niponsa (ハフニウム “hafuniumu”), Telugusa (హాఫ్నియం “hafniyam”),
+    Turkisa (hafniyum), Hangusa (하프늄 “hapunyum”), Vyetnamsa (hafni), Parsisa (هافنیم
+    “hafnyom”), Swahilisa (hafni), Pilipinasa (hapnyo)
+...

@@ -1,0 +1,52 @@
+---
+term: (fe) dua mara
+slug: (fe) dua mara
+ipa: "\u02C8(fe) \u02C8dua \u02C8ma\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8(fe) \u02C8dua \u02C8ma\u027Ea&voice=Ewa"
+status: false
+category: phrase
+word class: jm.p
+trans:
+  eng:
+  - - twice
+    - two times
+  epo:
+  - - dufoje
+  spa:
+  - - dos veces
+search terms:
+  glb:
+  - (fe) dua mara
+  - fe dua mara
+  - dua mara
+  - dua
+  - mara
+  eng:
+  - twice
+  - two times
+  epo:
+  - dufoje
+  spa:
+  - dos veces
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/dua">dua</a>, <a href="../lexi/mara">mara</a>
+raw data:
+  term: (fe) dua mara
+  category: phrase
+  word class: jm.p
+  status: false
+  trans:
+    eng: twice, two times
+    epo: dufoje
+    spa: dos veces
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, dua, mara
+...

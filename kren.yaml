@@ -1,0 +1,50 @@
+---
+term: kren
+slug: kren
+ipa: "\u02C8k\u027Een"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8k\u027Een&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - crane
+  epo:
+  - - gruo
+  spa:
+  - - "gr\xFAa"
+search terms:
+  glb:
+  - kren
+  eng:
+  - crane
+  epo:
+  - gruo
+  spa:
+  - "gr\xFAa"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kren
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: crane
+    epo: gruo
+    spa: "gr\xFAa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (crane), Rusisa (\u043A\u0440\u0430\u043D \u201Ckran\u201D),
+    Doycisa (Kran), Indonesisa (kran), Pilipinasa (kreyn), Hindisa (\u0915\u094D\u0930\u0947\u0928
+    \u201Ckren\u201D), Niponsa (\u30AF\u30EC\u30FC\u30F3 \u201Ckurein\u201D), Telugusa
+    (\u0C15\u0C4D\u0C30\u0C47\u0C28\u0C4D \u201Ckren\u201D), Hangusa (\uD06C\uB808\uC778
+    \u201Ckurein\u201D)"
+...

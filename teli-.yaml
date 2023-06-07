@@ -1,0 +1,50 @@
+---
+term: teli-
+slug: teli-
+ipa: "te\u02C8li-"
+ipa link: "http://ipa-reader.xyz/?text=te\u02C8li-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - far (_used only with _[le-](/eng/lexi/le-)_ and _[xa-](/eng/lexi/xa-)_ _)
+  epo:
+  - - malproksima
+    - malproksime
+  spa:
+  - - distante (_usado solo con **le-** y **xa-**_)
+search terms:
+  glb:
+  - teli-
+  eng:
+  - far
+  epo:
+  - malproksima
+  - malproksime
+  spa:
+  - distante
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/teli">teli</a>.
+antonyms:
+- ner-
+raw data:
+  term: teli-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: far (_used only with _[le-](/eng/lexi/le-)_ and _[xa-](/eng/lexi/xa-)_ _)
+    epo: malproksima, malproksime
+    spa: distante (_usado solo con **le-** y **xa-**_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ner-
+  example: ""
+  tags: ""
+  etymology: Am oko _teli_.
+...

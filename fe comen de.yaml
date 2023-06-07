@@ -1,0 +1,51 @@
+---
+term: fe comen de
+slug: fe comen de
+ipa: "fe t\u0361\u0283o\u02C8men de"
+ipa link: "http://ipa-reader.xyz/?text=fe t\u0361\u0283o\u02C8men de&voice=Ewa"
+status: false
+category: phrase
+word class: p
+trans:
+  eng:
+  - - beside
+    - next to
+  epo:
+  - - apud
+  spa:
+  - - al lado de
+search terms:
+  glb:
+  - fe comen de
+  - fe
+  - comen
+  - de
+  eng:
+  - beside
+  - next to
+  epo:
+  - apud
+  spa:
+  - al lado de
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/comen">comen</a>, <a href="../lexi/de">de</a>
+raw data:
+  term: fe comen de
+  category: phrase
+  word class: p
+  status: false
+  trans:
+    eng: beside, next to
+    epo: apud
+    spa: al lado de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, comen, de
+...

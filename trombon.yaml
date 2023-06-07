@@ -1,0 +1,84 @@
+---
+term: trombon
+slug: trombon
+ipa: "t\u027Eom\u02C8bon"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Eom\u02C8bon&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - trombone
+  epo:
+  - - trombono
+  spa:
+  - - "tromb\xF3n"
+search terms:
+  glb:
+  - trombon
+  eng:
+  - trombone
+  epo:
+  - trombono
+  spa:
+  - "tromb\xF3n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - trombone
+  Espanisa:
+  - - "tromb\xF3n"
+  Fransesa:
+  - - trombone
+  Rusisa:
+  - - "\u0442\u0440\u043E\u043C\u0431\u043E\u043D \u201Ctrombon\u201D"
+  Indonesisa:
+  - - trombon
+  Pilipinasa:
+  - - trombon
+  Hindisa:
+  - - "\u091F\u094D\u0930\u0949\u092E\u094D\u092C\u094B\u0928 \u201Ctrombon\u201D"
+  Arabisa:
+  - - "\u062A\u0652\u0631\u064F\u0648\u0645\u0652\u0628\u064F\u0648\u0646 \u201Ctrumbun\u201D"
+  Niponsa:
+  - - "\u30C8\u30ED\u30F3\u30DC\u30FC\u30F3 \u201Ctorombon\u201D"
+  Tamilsa:
+  - - "\u0BA4\u0BC1\u0BB0\u0BAE\u0BCD\u0BAA\u0BCB\u0BA9\u0BCD \u201Cturampon\u201D"
+  Turkisa:
+  - - trombon
+  Hangusa:
+  - - "\uD2B8\uB86C\uBCF8 \u201Cturombon\u201D"
+  Vyetnamsa:
+  - - trombone
+  Parsisa:
+  - - "\u062A\u0631\u0648\u0645\u0628\u0648\u0646 \u201Cterombon\u201D"
+  Swahilisa:
+  - - tromboni
+raw data:
+  term: trombon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: trombone
+    epo: trombono
+    spa: "tromb\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (trombone), Espanisa (tromb\xF3n), Fransesa (trombone), Rusisa
+    (\u0442\u0440\u043E\u043C\u0431\u043E\u043D \u201Ctrombon\u201D), Indonesisa (trombon),
+    Pilipinasa (trombon), Hindisa (\u091F\u094D\u0930\u0949\u092E\u094D\u092C\u094B\u0928
+    \u201Ctrombon\u201D), Arabisa (\u062A\u0652\u0631\u064F\u0648\u0645\u0652\u0628\u064F\u0648\u0646
+    \u201Ctrumbun\u201D), Niponsa (\u30C8\u30ED\u30F3\u30DC\u30FC\u30F3 \u201Ctorombon\u201D),
+    Tamilsa (\u0BA4\u0BC1\u0BB0\u0BAE\u0BCD\u0BAA\u0BCB\u0BA9\u0BCD \u201Cturampon\u201D),
+    Turkisa (trombon), Hangusa (\uD2B8\uB86C\uBCF8 \u201Cturombon\u201D), Vyetnamsa
+    (trombone), Parsisa (\u062A\u0631\u0648\u0645\u0628\u0648\u0646 \u201Cterombon\u201D),
+    Swahilisa (tromboni)"
+...

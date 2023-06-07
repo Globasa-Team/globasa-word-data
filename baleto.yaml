@@ -1,0 +1,88 @@
+---
+term: baleto
+slug: baleto
+ipa: baˈleto
+ipa link: http://ipa-reader.xyz/?text=baˈleto&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ballet
+  epo:
+  - - baleto
+    - baledo
+  spa:
+  - - _ballet_
+search terms:
+  glb:
+  - baleto
+  eng:
+  - ballet
+  epo:
+  - baleto
+  - baledo
+  spa:
+  - ballet
+etymology_type: NATLNG
+etymology:
+  Italisa:
+  - - balletto
+  Doycisa:
+  - - Ballett
+  Englisa:
+  - - ballet
+  Espanisa:
+  - - ballet
+    - baile
+  Rusisa:
+  - - балет “balet”
+  Putunhwa:
+  - - 芭蕾舞 “bālěiwǔ”
+  Niponsa:
+  - - バレエ “barē”
+  Hangusa:
+  - - 발레 “balle”
+  Vyetnamsa:
+  - - ba lê
+  Arabisa:
+  - - بَالِيه “bālēh”
+  Parsisa:
+  - - باله “bâle”
+  Swahilisa:
+  - - baleti
+    - bale
+    - balei
+  Turkisa:
+  - - bale
+  Indonesisa:
+  - - balet
+  Pilipinasa:
+  - - baley
+    - ballet
+  Hindisa: ~
+  Telugusa: ~
+raw data:
+  term: baleto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ballet
+    epo: baleto, baledo
+    spa: _ballet_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Italisa (balletto), Doycisa (Ballett), Englisa (ballet), Espanisa (ballet,
+    baile), Rusisa (балет “balet”), Putunhwa (芭蕾舞 “bālěiwǔ”), Niponsa (バレエ “barē”),
+    Hangusa (발레 “balle”), Vyetnamsa (ba lê), Arabisa (بَالِيه “bālēh”), Parsisa (باله
+    “bâle”), Swahilisa (baleti, bale, balei), Turkisa (bale), Indonesisa (balet),
+    Pilipinasa (baley, ballet), Hindisa, Telugusa
+...

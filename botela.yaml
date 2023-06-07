@@ -1,0 +1,66 @@
+---
+term: botela
+slug: botela
+ipa: boˈtela
+ipa link: http://ipa-reader.xyz/?text=boˈtela&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bottle
+  epo:
+  - - botelo
+  spa:
+  - - botella
+search terms:
+  glb:
+  - botela
+  eng:
+  - bottle
+  epo:
+  - botelo
+  spa:
+  - botella
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bottle
+  Fransesa:
+  - - bouteille
+  Rusisa:
+  - - бутылка “butilka”
+  Espanisa:
+  - - botella
+  Indonesisa:
+  - - botol
+  Pilipinasa:
+  - - bote
+    - botelya
+  Hindisa:
+  - - बोतल “botal”
+  Parsisa:
+  - - بطری “botri”
+    - بوتل “bôtal”
+raw data:
+  term: botela
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bottle
+    epo: botelo
+    spa: botella
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (bottle), Fransesa (bouteille), Rusisa (бутылка “butilka”), Espanisa
+    (botella), Indonesisa (botol), Pilipinasa (bote, botelya), Hindisa (बोतल “botal”),
+    Parsisa (بطری “botri”, بوتل “bôtal”)
+...

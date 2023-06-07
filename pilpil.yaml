@@ -1,0 +1,80 @@
+---
+term: pilpil
+slug: pilpil
+ipa: "pil\u02C8pil"
+ipa link: "http://ipa-reader.xyz/?text=pil\u02C8pil&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (black) pepper
+  epo:
+  - - pipro
+  spa:
+  - - pimienta
+    - _Piper nigrum_
+search terms:
+  glb:
+  - pilpil
+  eng:
+  - black pepper
+  - pepper
+  epo:
+  - pipro
+  spa:
+  - pimienta
+  - piper nigrum
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0641\u0644\u0641\u0644 \u201Cfilfil\u201D"
+  Parsisa:
+  - - "\u0641\u0644\u0641\u0644\u200E \u201Cfelfel\u201D"
+  Swahilisa:
+  - - pilipili
+  Turkisa:
+  - - biber
+  Ivrisa:
+  - - "\u05E4\u05B4\u05BC\u05DC\u05B0\u05E4\u05B5\u05BC\u05DC \u201Cpilpel\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C3F\u0C2A\u0C4D\u0C2A\u0C32\u0C3F \u201Cpippali\u201D"
+  Banglasa:
+  - - "\u09AA\u09BF\u09AA\u09C1\u09B2 \u201Cpipul\u201D"
+  Putunhwa:
+  - - "\u835C\u62D4 \u201Cbiba\u201D"
+  Hangusa:
+  - - "\uD544\uBC1C \u201Cpilbal\u201D"
+  Italisa:
+  - - pepe
+  Englisa:
+  - - pepper
+  Doycisa:
+  - - Pfeffer
+tags:
+- yamxey
+raw data:
+  term: pilpil
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (black) pepper
+    epo: pipro
+    spa: pimienta, _Piper nigrum_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Arabisa (\u0641\u0644\u0641\u0644 \u201Cfilfil\u201D), Parsisa (\u0641\u0644\u0641\u0644\u200E
+    \u201Cfelfel\u201D), Swahilisa (pilipili), Turkisa (biber), Ivrisa (\u05E4\u05B4\u05BC\u05DC\u05B0\u05E4\u05B5\u05BC\u05DC
+    \u201Cpilpel\u201D), Telugusa (\u0C2A\u0C3F\u0C2A\u0C4D\u0C2A\u0C32\u0C3F \u201Cpippali\u201D),
+    Banglasa (\u09AA\u09BF\u09AA\u09C1\u09B2 \u201Cpipul\u201D), Putunhwa (\u835C\u62D4
+    \u201Cbiba\u201D), Hangusa (\uD544\uBC1C \u201Cpilbal\u201D), Italisa (pepe),
+    Englisa (pepper), Doycisa (Pfeffer)"
+...

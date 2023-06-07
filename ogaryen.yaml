@@ -1,0 +1,52 @@
+---
+term: ogaryen
+slug: ogaryen
+ipa: "oga\u02C8\u027Ejen"
+ipa link: "http://ipa-reader.xyz/?text=oga\u02C8\u027Ejen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - resident
+    - inhabitant
+    - dweller
+  epo:
+  - - "lo\u011Danto"
+  spa:
+  - - residente
+    - habitante
+search terms:
+  glb:
+  - ogaryen
+  eng:
+  - resident
+  - inhabitant
+  - dweller
+  epo:
+  - "lo\u011Danto"
+  spa:
+  - residente
+  - habitante
+etymology_type: DERIVD
+etymology: <a href="../lexi/ogar">ogar</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: ogaryen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: resident, inhabitant, dweller
+    epo: "lo\u011Danto"
+    spa: residente, habitante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ogar + -yen
+...

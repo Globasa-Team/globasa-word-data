@@ -1,0 +1,57 @@
+---
+term: poema
+slug: poema
+ipa: "po\u02C8ema"
+ipa link: "http://ipa-reader.xyz/?text=po\u02C8ema&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - poem
+  epo:
+  - - poemo
+    - "poezia\u0135o"
+  spa:
+  - - poema
+search terms:
+  glb:
+  - poema
+  eng:
+  - poem
+  epo:
+  - poemo
+  - "poezia\u0135o"
+  spa:
+  - poema
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - poem
+  Fransesa:
+  - - "po\xE8me"
+  Rusisa:
+  - - "\u043F\u043E\u044D\u043C\u0430 \u201Cpoema\u201D"
+  Espanisa:
+  - - poema
+raw data:
+  term: poema
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: poem
+    epo: "poemo, poezia\u0135o"
+    spa: poema
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (poem), Fransesa (po\xE8me), Rusisa (\u043F\u043E\u044D\u043C\u0430
+    \u201Cpoema\u201D), Espanisa (poema)"
+...

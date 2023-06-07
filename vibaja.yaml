@@ -1,0 +1,57 @@
+---
+term: vibaja
+slug: vibaja
+ipa: "vi\u02C8bad\u0361\u0292a"
+ipa link: "http://ipa-reader.xyz/?text=vi\u02C8bad\u0361\u0292a&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - division
+  - - divide
+  epo:
+  - - divido
+  - - dividi
+  spa:
+  - - "divisi\xF3n"
+  - - dividir
+search terms:
+  glb:
+  - vibaja
+  eng:
+  - division
+  - divide
+  epo:
+  - divido
+  - dividi
+  spa:
+  - "divisi\xF3n"
+  - dividir
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0935\u093F\u092D\u093E\u091C\u0928 \u201Cvibhaajan\u201D"
+  Telugusa:
+  - - "\u0C35\u0C3F\u0C2D\u0C1C\u0C28 \u201Cvibhajana\u201D"
+raw data:
+  term: vibaja
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: division; divide
+    epo: divido; dividi
+    spa: "divisi\xF3n; dividir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0935\u093F\u092D\u093E\u091C\u0928 \u201Cvibhaajan\u201D),
+    Telugusa (\u0C35\u0C3F\u0C2D\u0C1C\u0C28 \u201Cvibhajana\u201D)"
+...

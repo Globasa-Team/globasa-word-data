@@ -1,0 +1,50 @@
+---
+term: xorsomno
+slug: xorsomno
+ipa: "\u0283o\u027E\u02C8somno"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u027E\u02C8somno&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - fall asleep
+  epo:
+  - - ekdormado
+  - - ekdormi
+    - "endormi\u011Di"
+  spa:
+  - - dormirse
+search terms:
+  glb:
+  - xorsomno
+  eng:
+  - fall asleep
+  epo:
+  - ekdormado
+  - ekdormi
+  - "endormi\u011Di"
+  spa:
+  - dormirse
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor-">xor-</a> + <a href="../lexi/somno">somno</a>
+raw data:
+  term: xorsomno
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: fall asleep
+    epo: "ekdormado; ekdormi, endormi\u011Di"
+    spa: dormirse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xor- + somno
+...

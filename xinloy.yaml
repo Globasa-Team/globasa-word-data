@@ -1,0 +1,61 @@
+---
+term: xinloy
+slug: xinloy
+ipa: "\u0283in\u02C8loj"
+ipa link: "http://ipa-reader.xyz/?text=\u0283in\u02C8loj&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - trust
+    - faith
+    - confidence
+  epo:
+  - - fido
+  - - fidi
+  spa:
+  - - confianza
+  - - confiar
+search terms:
+  glb:
+  - xinloy
+  eng:
+  - trust
+  - faith
+  - confidence
+  epo:
+  - fido
+  - fidi
+  spa:
+  - confianza
+  - confiar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4FE1\u8D56 \u201Cx\xECnl\xE0i\u201D"
+  Niponsa:
+  - - "\u4FE1\u983C \u201Cshinrai\u201D"
+  Hangusa:
+  - - "\uC2E0\uB8B0 \u201Cshinloe\u201D"
+raw data:
+  term: xinloy
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: trust, faith, confidence
+    epo: fido; fidi
+    spa: confianza; confiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u4FE1\u8D56 \u201Cx\xECnl\xE0i\u201D), Niponsa (\u4FE1\u983C
+    \u201Cshinrai\u201D), Hangusa (\uC2E0\uB8B0 \u201Cshinloe\u201D)"
+...

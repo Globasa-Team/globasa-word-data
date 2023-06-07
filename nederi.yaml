@@ -1,0 +1,50 @@
+---
+term: nederi
+slug: nederi
+ipa: "ne\u02C8de\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=ne\u02C8de\u027Ei&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Netherlands
+  epo:
+  - - Nederlando
+  spa:
+  - - "Pa\xEDses Bajos"
+search terms:
+  glb:
+  - nederi
+  eng:
+  - netherlands
+  epo:
+  - nederlando
+  spa:
+  - "pa\xEDses bajos"
+etymology_type: NATLNG
+etymology:
+  Nederisa:
+  - - Nederland
+tags:
+- dexa
+raw data:
+  term: Nederi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Netherlands
+    epo: Nederlando
+    spa: "Pa\xEDses Bajos"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Nederisa (Nederland)
+...

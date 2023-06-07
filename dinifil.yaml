@@ -1,0 +1,50 @@
+---
+term: dinifil
+slug: dinifil
+ipa: "dini\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=dini\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - religious
+    - religiously inclined
+  epo:
+  - - religiema
+  - - religieme
+  spa:
+  - - "religioso (_inclinado a la religi\xF3n_)"
+search terms:
+  glb:
+  - dinifil
+  eng:
+  - religious
+  - religiously inclined
+  epo:
+  - religiema
+  - religieme
+  spa:
+  - religioso
+etymology_type: DERIVD
+etymology: <a href="../lexi/dini">dini</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: dinifil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: 'religious, religiously inclined '
+    epo: religiema; religieme
+    spa: "religioso (_inclinado a la religi\xF3n_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dini + -fil
+...

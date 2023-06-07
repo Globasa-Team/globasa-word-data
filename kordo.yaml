@@ -1,0 +1,55 @@
+---
+term: kordo
+slug: kordo
+ipa: "\u02C8ko\u027Edo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ko\u027Edo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cord
+    - rope
+  epo:
+  - - kordo
+    - "\u015Dnuro"
+  spa:
+  - - cuerda
+    - soga
+    - "cord\xF3n"
+search terms:
+  glb:
+  - kordo
+  eng:
+  - cord
+  - rope
+  epo:
+  - kordo
+  - "\u015Dnuro"
+  spa:
+  - cuerda
+  - soga
+  - "cord\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kordo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cord, rope
+    epo: "kordo, \u015Dnuro"
+    spa: "cuerda, soga, cord\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa, Fransesa, Rusisa (\u043A\u043E\u0440\u0434 \u201Ckord\u201D),
+    Turkisa (kordon), Pilipinasa (kurdon)"
+...

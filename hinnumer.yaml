@@ -1,0 +1,50 @@
+---
+term: hinnumer
+slug: hinnumer
+ipa: "xinnu\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=xinnu\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - this number of
+    - this many of
+  epo:
+  - - "\u0109inombre da"
+    - "\u0109i tiu nombro da"
+  spa:
+  - - "este n\xFAmero"
+search terms:
+  glb:
+  - hinnumer
+  eng:
+  - this number of
+  - this many of
+  epo:
+  - "\u0109inombre da"
+  - "\u0109i tiu nombro da"
+  spa:
+  - "este n\xFAmero"
+etymology_type: DERIVD
+etymology: <a href="../lexi/hin">hin</a> + <a href="../lexi/number">number</a>
+raw data:
+  term: 'hinnumer '
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: this number of, this many of
+    epo: "\u0109inombre da, \u0109i tiu nombro da"
+    spa: "este n\xFAmero"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hin + number
+...

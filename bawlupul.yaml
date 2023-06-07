@@ -1,0 +1,54 @@
+---
+term: bawlupul
+slug: bawlupul
+ipa: "bawlu\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=bawlu\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - violent
+    - violently
+  epo:
+  - - perforta
+    - violenta
+  - - perforte
+    - violente
+  spa:
+  - - violento
+search terms:
+  glb:
+  - bawlupul
+  eng:
+  - violent
+  - violently
+  epo:
+  - perforta
+  - violenta
+  - perforte
+  - violente
+  spa:
+  - violento
+etymology_type: DERIVD
+etymology: <a href="../lexi/bawlu">bawlu</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: bawlupul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: violent, violently
+    epo: perforta, violenta; perforte, violente
+    spa: violento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bawlu + -pul
+...

@@ -1,0 +1,56 @@
+---
+term: kanue
+slug: kanue
+ipa: "ka\u02C8nue"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8nue&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - canoe
+  epo:
+  - - kanuo
+    - kanoto
+  spa:
+  - - canoa
+  deu:
+  - - Kanu
+search terms:
+  glb:
+  - kanue
+  eng:
+  - canoe
+  epo:
+  - kanuo
+  - kanoto
+  spa:
+  - canoa
+  deu:
+  - kanu
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kanue
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: canoe
+    epo: kanuo, kanoto
+    spa: canoa
+    deu: Kanu
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (canoe), Espanisa (canoa), Fransesa (cano\xEB), Rusisa (\u043A\u0430\u043D\u043E\u044D),
+    Doycisa (Kanu), Indonesisa (kano), Pilipinasa (kano, kanoe), Arabisa (\u0642\u0627\u0631\u0628
+    \u0627\u0644\u0643\u0627\u0646\u0648 \u201Ckarib alkanu\u201D), Niponsa (\u30AB\u30CC\u30FC
+    \u201Ckanu\u201D), Turkisa (kano), Hangusa (\uCE74\uB204 \u201Ckanu\u201D), Parsisa
+    (\u06A9\u0627\u0646\u0648 \u201Ckanu\u201D)"
+...

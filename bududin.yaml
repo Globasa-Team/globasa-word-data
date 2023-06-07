@@ -1,0 +1,48 @@
+---
+term: bududin
+slug: bududin
+ipa: "budu\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=budu\u02C8din&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Wednesday
+  epo:
+  - - merkredo
+  spa:
+  - - "mi\xE9rcoles"
+search terms:
+  glb:
+  - bududin
+  eng:
+  - wednesday
+  epo:
+  - merkredo
+  spa:
+  - "mi\xE9rcoles"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Budu">Budu</a> + <a href="../lexi/-din">-din</a>
+tags:
+- din
+raw data:
+  term: bududin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Wednesday
+    epo: merkredo
+    spa: "mi\xE9rcoles"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: din
+  etymology: Budu + -din
+...

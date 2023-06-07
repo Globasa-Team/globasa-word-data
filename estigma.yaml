@@ -1,0 +1,58 @@
+---
+term: estigma
+slug: estigma
+ipa: esˈtigma
+ipa link: http://ipa-reader.xyz/?text=esˈtigma&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - stigma
+  epo:
+  - - stigmato
+  spa:
+  - - estigma
+search terms:
+  glb:
+  - estigma
+  eng:
+  - stigma
+  epo:
+  - stigmato
+  spa:
+  - estigma
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - stigama
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Espanisa:
+  - - estigma
+  Fransesa:
+  - - stigmate
+  Niponsa:
+  - - スティグマ “sutiguma”
+raw data:
+  term: estigma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: stigma
+    epo: stigmato
+    spa: estigma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (stigama), Doycisa, Indonesisa, Pilipinasa, Espanisa (estigma),
+    Fransesa (stigmate), Niponsa (スティグマ “sutiguma”)
+...

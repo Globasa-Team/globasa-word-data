@@ -1,0 +1,49 @@
+---
+term: sikologiyen
+slug: sikologiyen
+ipa: "sikologi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=sikologi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - psychologist
+  epo:
+  - - "psi\u0125ologo"
+    - psikologo
+  spa:
+  - - "psic\xF3logo"
+search terms:
+  glb:
+  - sikologiyen
+  eng:
+  - psychologist
+  epo:
+  - "psi\u0125ologo"
+  - psikologo
+  spa:
+  - "psic\xF3logo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/siko">siko</a> + <a href="../lexi/-logi">-logi</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: sikologiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: psychologist
+    epo: "psi\u0125ologo, psikologo"
+    spa: "psic\xF3logo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: siko + -logi + -yen
+...

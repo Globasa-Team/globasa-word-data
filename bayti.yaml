@@ -1,0 +1,78 @@
+---
+term: bayti
+slug: bayti
+ipa: ˈbajti
+ipa link: http://ipa-reader.xyz/?text=ˈbajti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - byte
+  epo:
+  - - bajto
+  spa:
+  - - _byte_
+    - octeto
+search terms:
+  glb:
+  - bayti
+  eng:
+  - byte
+  epo:
+  - bajto
+  spa:
+  - byte
+  - octeto
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - byte
+  Espanisa: ~
+  Doycisa: ~
+  Pilipinasa: ~
+  Vyetnamsa: ~
+  Rusisa:
+  - - байт “bayt”
+  Portugalsa:
+  - - baite
+  Indonesisa:
+  - - bita
+  Hindisa:
+  - - बाइट “bait”
+  Arabisa:
+  - - بَايْت “bayt”
+  Niponsa:
+  - - バイト “baito”
+  Telugusa:
+  - - బైట్ “bait”
+  Turkisa:
+  - - bayt
+  Hangusa:
+  - - 바이트 “baitu”
+  Parsisa:
+  - - بایت “bayt”
+  baiti: ~
+raw data:
+  term: bayti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: byte
+    epo: bajto
+    spa: _byte_, octeto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (byte), Espanisa, Doycisa, Pilipinasa, Vyetnamsa, Rusisa (байт
+    “bayt”), Portugalsa (baite), Indonesisa (bita), Hindisa (बाइट “bait”), Arabisa
+    (بَايْت “bayt”), Niponsa (バイト “baito”), Telugusa (బైట్ “bait”), Turkisa (bayt),
+    Hangusa (바이트 “baitu”), Parsisa (بایت “bayt”), baiti
+...

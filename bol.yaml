@@ -1,0 +1,72 @@
+---
+term: bol
+slug: bol
+ipa: ˈbol
+ipa link: http://ipa-reader.xyz/?text=ˈbol&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ball
+  epo:
+  - - pilko
+    - globo
+  spa:
+  - - pelota
+search terms:
+  glb:
+  - bol
+  eng:
+  - ball
+  epo:
+  - pilko
+  - globo
+  spa:
+  - pelota
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ball
+  Fransesa:
+  - - balle
+    - boule
+  Doycisa:
+  - - Ball
+  Rusisa:
+  - - бол “bol”
+  Espanisa:
+  - - bola
+  Indonesisa:
+  - - bola
+  Pilipinasa:
+  - - bola
+  Niponsa:
+  - - ボール “bōru”
+  Hangusa:
+  - - 볼 “bol”
+tags:
+- xey
+- yuxitul
+raw data:
+  term: bol
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ball
+    epo: pilko, globo
+    spa: pelota
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: xey, yuxitul
+  etymology: Englisa (ball), Fransesa (balle, boule), Doycisa (Ball), Rusisa (бол
+    “bol”), Espanisa (bola), Indonesisa (bola), Pilipinasa (bola), Niponsa (ボール “bōru”),
+    Hangusa (볼 “bol”)
+...

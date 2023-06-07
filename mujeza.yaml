@@ -1,0 +1,48 @@
+---
+term: mujeza
+slug: mujeza
+ipa: "mu\u02C8d\u0361\u0292eza"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8d\u0361\u0292eza&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - miracle
+  epo:
+  - - miraklo
+  spa:
+  - - milagro
+search terms:
+  glb:
+  - mujeza
+  eng:
+  - miracle
+  epo:
+  - miraklo
+  spa:
+  - milagro
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mujeza
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: miracle
+    epo: miraklo
+    spa: milagro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0639\u062C\u0632\u0629 \u201Cmuejaza\u201D), Parsisa
+    (\u0645\u0639\u062C\u0632\u0647 \u201Cmojeze\u201D), Turkisa (mucize), Swahilisa
+    (muujiza)"
+...

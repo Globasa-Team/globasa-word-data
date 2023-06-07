@@ -1,0 +1,46 @@
+---
+term: belizeyen
+slug: belizeyen
+ipa: "belize\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=belize\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Belizean (_person_)
+  epo:
+  - - belizano
+  spa:
+  - - "belice\xF1o (_persona_)"
+search terms:
+  glb:
+  - belizeyen
+  eng:
+  - belizean
+  epo:
+  - belizano
+  spa:
+  - "belice\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Belize">Belize</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Belizeyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Belizean (_person_)
+    epo: belizano
+    spa: "belice\xF1o (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Belize + -yen
+...

@@ -1,0 +1,52 @@
+---
+term: cukili
+slug: cukili
+ipa: "t\u0361\u0283u\u02C8kili"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283u\u02C8kili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - cyclical
+  - - cyclically
+  epo:
+  - - cikla
+  - - cikle
+  spa:
+  - - "c\xEDclico"
+  - - "c\xEDclicamente"
+search terms:
+  glb:
+  - cukili
+  eng:
+  - cyclical
+  - cyclically
+  epo:
+  - cikla
+  - cikle
+  spa:
+  - "c\xEDclico"
+  - "c\xEDclicamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/cuki">cuki</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: cukili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: cyclical; cyclically
+    epo: cikla; cikle
+    spa: "c\xEDclico; c\xEDclicamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cuki + -li
+...

@@ -1,0 +1,51 @@
+---
+term: pole
+slug: pole
+ipa: "\u02C8pole"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pole&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bridge
+  epo:
+  - - ponto
+  spa:
+  - - puente
+search terms:
+  glb:
+  - pole
+  eng:
+  - bridge
+  epo:
+  - ponto
+  spa:
+  - puente
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u092A\u0941\u0932 \u201Cpul\u201D"
+  Parsisa:
+  - - "\u067E\u0644 \u201Cpol\u201D"
+raw data:
+  term: pole
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bridge
+    epo: ponto
+    spa: puente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u092A\u0941\u0932 \u201Cpul\u201D), Parsisa (\u067E\u0644
+    \u201Cpol\u201D)"
+...

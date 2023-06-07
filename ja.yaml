@@ -1,0 +1,52 @@
+---
+term: ja
+slug: ja
+ipa: "\u02C8d\u0361\u0292a"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292a&voice=Ewa"
+status: true
+category: root
+word class: par
+trans:
+  eng:
+  - - immediately adjacent
+  epo:
+  - - "partikulo pri tuja proksimeco tempa a\u016D loka ([jale]: tujanta\u016De"
+    - "\u0135us"
+    - '[jaxa]: tujposte)'
+  spa:
+  - - inmediatamente adyacente
+search terms:
+  glb:
+  - ja
+  eng:
+  - immediately adjacent
+  epo:
+  - "partikulo pri tuja proksimeco tempa a\u016D loka [jale]: tujanta\u016De"
+  - "partikulo pri tuja proksimeco tempa a\u016D loka ([jale]: tujanta\u016De"
+  - "\u0135us"
+  - '[jaxa]: tujposte'
+  spa:
+  - inmediatamente adyacente
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ja
+  category: root
+  word class: par
+  status: true
+  trans:
+    eng: immediately adjacent
+    epo: "partikulo pri tuja proksimeco tempa a\u016D loka ([jale]: tujanta\u016De,
+      \u0135us, [jaxa]: tujposte)"
+    spa: inmediatamente adyacente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _jara_.
+...

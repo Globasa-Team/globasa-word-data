@@ -1,0 +1,58 @@
+---
+term: iteham
+slug: iteham
+ipa: "ite\u02C8xam"
+ipa link: "http://ipa-reader.xyz/?text=ite\u02C8xam&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - accusation
+    - charge
+  - - accuse
+    - charge
+  epo:
+  - - akuzo
+  - - akuzi
+  spa:
+  - - "acusaci\xF3n"
+    - cargo
+  - - acusar
+search terms:
+  glb:
+  - iteham
+  eng:
+  - accusation
+  - charge
+  - accuse
+  epo:
+  - akuzo
+  - akuzi
+  spa:
+  - "acusaci\xF3n"
+  - cargo
+  - acusar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: iteham
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: accusation, charge; accuse, charge
+    epo: akuzo; akuzi
+    spa: "acusaci\xF3n, cargo; acusar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0627\u062A\u0647\u0645 \u201Caitaham\u201D), Parsisa (\u0627\u062A\u0647\u0627\u0645
+    \u201Ceteham\u201D), Turkisa (itham)"
+...

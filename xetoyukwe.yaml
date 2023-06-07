@@ -1,0 +1,56 @@
+---
+term: xetoyukwe
+slug: xetoyukwe
+ipa: "\u0283eto\u02C8jukwe"
+ipa link: "http://ipa-reader.xyz/?text=\u0283eto\u02C8jukwe&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - delicious
+    - deliciously
+    - tasty
+  epo:
+  - - "gustpla\u0109a"
+    - bongusta
+  - - "gustpla\u0109e"
+    - bonguste
+  spa:
+  - - delicioso
+search terms:
+  glb:
+  - xetoyukwe
+  eng:
+  - delicious
+  - deliciously
+  - tasty
+  epo:
+  - "gustpla\u0109a"
+  - bongusta
+  - "gustpla\u0109e"
+  - bonguste
+  spa:
+  - delicioso
+etymology_type: DERIVD
+etymology: <a href="../lexi/xeto">xeto</a> + <a href="../lexi/yukwe">yukwe</a>
+raw data:
+  term: xetoyukwe
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: delicious, deliciously, tasty
+    epo: "gustpla\u0109a, bongusta; gustpla\u0109e, bonguste"
+    spa: delicioso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xeto + yukwe
+...

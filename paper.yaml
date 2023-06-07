@@ -1,0 +1,57 @@
+---
+term: paper
+slug: paper
+ipa: "pa\u02C8pe\u027E"
+ipa link: "http://ipa-reader.xyz/?text=pa\u02C8pe\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - paper
+  epo:
+  - - papero
+  spa:
+  - - papel
+search terms:
+  glb:
+  - paper
+  eng:
+  - paper
+  epo:
+  - papero
+  spa:
+  - papel
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - paper
+  Fransesa:
+  - - papier
+  Doycisa:
+  - - Papier
+  Espanisa:
+  - - papel
+  Pilipinasa:
+  - - papel
+raw data:
+  term: paper
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: paper
+    epo: papero
+    spa: papel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (paper), Fransesa (papier), Doycisa (Papier), Espanisa (papel),
+    Pilipinasa (papel)
+...

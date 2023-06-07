@@ -1,0 +1,47 @@
+---
+term: kataryen
+slug: kataryen
+ipa: "kata\u02C8\u027Ejen"
+ipa link: "http://ipa-reader.xyz/?text=kata\u02C8\u027Ejen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Qatari (person)
+  epo:
+  - - katarano
+  spa:
+  - - "catar\xED (_persona_)"
+search terms:
+  glb:
+  - kataryen
+  eng:
+  - qatari person
+  - qatari
+  epo:
+  - katarano
+  spa:
+  - "catar\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Katar">Katar</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Kataryen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Qatari (person)
+    epo: katarano
+    spa: "catar\xED (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Katar + -yen
+...

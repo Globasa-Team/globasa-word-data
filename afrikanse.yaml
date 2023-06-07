@@ -1,0 +1,72 @@
+---
+term: afrikanse
+slug: afrikanse
+ipa: "af\u027Ei\u02C8kanse"
+ipa link: "http://ipa-reader.xyz/?text=af\u027Ei\u02C8kanse&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Afrikaans (_relating to the Afrikaner people
+    - their way of life
+    - or their language_)
+  epo:
+  - - afrikansa (_pri afrikansoj/afrikaneroj
+    - ilia vivmaniero
+    - "a\u016D ilia lingvo_)"
+  spa:
+  - - "afrik\xE1ner (_relacionado con las personas afrik\xE1neres"
+    - su forma de vida
+    - o su idioma_)
+  deu:
+  - - afrikaans (_die Volksgruppe der Afrikaander
+    - ihre Kultur oder Sprache betreffend_)
+search terms:
+  glb:
+  - afrikanse
+  eng:
+  - afrikaans relating to the afrikaner people
+  - afrikaans (_relating to the afrikaner people
+  - their way of life
+  - or their language
+  epo:
+  - afrikansa pri afrikansoj/afrikaneroj
+  - afrikansa (_pri afrikansoj/afrikaneroj
+  - ilia vivmaniero
+  - "a\u016D ilia lingvo"
+  spa:
+  - "afrik\xE1ner relacionado con las personas afrik\xE1neres"
+  - "afrik\xE1ner (_relacionado con las personas afrik\xE1neres"
+  - su forma de vida
+  - o su idioma
+  deu:
+  - afrikaans die volksgruppe der afrikaander
+  - afrikaans (_die volksgruppe der afrikaander
+  - ihre kultur oder sprache betreffend
+etymology_type: NATLNG
+etymology:
+  Afrikansesa:
+  - - Afrikaans
+raw data:
+  term: Afrikanse
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: Afrikaans (_relating to the Afrikaner people, their way of life, or their
+      language_)
+    epo: "afrikansa (_pri afrikansoj/afrikaneroj, ilia vivmaniero, a\u016D ilia lingvo_)"
+    spa: "afrik\xE1ner (_relacionado con las personas afrik\xE1neres, su forma de
+      vida, o su idioma_)"
+    deu: afrikaans (_die Volksgruppe der Afrikaander, ihre Kultur oder Sprache betreffend_)
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Afrikansesa (Afrikaans)
+...

@@ -1,0 +1,46 @@
+---
+term: xafesoba
+slug: xafesoba
+ipa: "\u0283afe\u02C8soba"
+ipa link: "http://ipa-reader.xyz/?text=\u0283afe\u02C8soba&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - afternoon
+  epo:
+  - - posttagmezo
+  spa:
+  - - tarde
+search terms:
+  glb:
+  - xafesoba
+  eng:
+  - afternoon
+  epo:
+  - posttagmezo
+  spa:
+  - tarde
+etymology_type: DERIVD
+etymology: <a href="../lexi/xafe">xafe</a> + <a href="../lexi/soba">soba</a>
+raw data:
+  term: xafesoba
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: afternoon
+    epo: posttagmezo
+    spa: tarde
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xafe + soba
+...

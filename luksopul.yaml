@@ -1,0 +1,52 @@
+---
+term: luksopul
+slug: luksopul
+ipa: "lukso\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=lukso\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - luxurious
+  - - luxuriously
+  epo:
+  - - luksa
+  - - lukse
+  spa:
+  - - lujoso
+  - - lujosamente
+search terms:
+  glb:
+  - luksopul
+  eng:
+  - luxurious
+  - luxuriously
+  epo:
+  - luksa
+  - lukse
+  spa:
+  - lujoso
+  - lujosamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/lukso">lukso</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: luksopul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: luxurious; luxuriously
+    epo: luksa; lukse
+    spa: lujoso; lujosamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lukso + -pul
+...

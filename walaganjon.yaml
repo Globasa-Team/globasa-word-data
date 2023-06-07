@@ -1,0 +1,47 @@
+---
+term: walaganjon
+slug: walaganjon
+ipa: "walagan\u02C8d\u0361\u0292on"
+ipa link: "http://ipa-reader.xyz/?text=walagan\u02C8d\u0361\u0292on&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - miss (_feel lack of_)
+  epo:
+  - - senti mankon (de)
+  spa:
+  - - "extra\xF1ar"
+search terms:
+  glb:
+  - walaganjon
+  eng:
+  - miss
+  epo:
+  - senti mankon de
+  - senti mankon
+  spa:
+  - "extra\xF1ar"
+etymology_type: DERIVD
+etymology: <a href="../lexi/wala">wala</a> + <a href="../lexi/ganjon">ganjon</a>
+raw data:
+  term: walaganjon
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: miss (_feel lack of_)
+    epo: senti mankon (de)
+    spa: "extra\xF1ar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wala + ganjon
+...

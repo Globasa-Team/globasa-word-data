@@ -1,0 +1,46 @@
+---
+term: cuyodolo
+slug: cuyodolo
+ipa: "t\u0361\u0283ujo\u02C8dolo"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ujo\u02C8dolo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - main street
+  epo:
+  - - "\u0109efstrato"
+  spa:
+  - - calle principal
+search terms:
+  glb:
+  - cuyodolo
+  eng:
+  - main street
+  epo:
+  - "\u0109efstrato"
+  spa:
+  - calle principal
+etymology_type: DERIVD
+etymology: <a href="../lexi/cuyo">cuyo</a>, <a href="../lexi/dolo">dolo</a>
+raw data:
+  term: cuyodolo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: main street
+    epo: "\u0109efstrato"
+    spa: calle principal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cuyo, dolo
+...

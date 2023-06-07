@@ -1,0 +1,55 @@
+---
+term: anco
+slug: anco
+ipa: ˈant͡ʃo
+ipa link: http://ipa-reader.xyz/?text=ˈant͡ʃo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - reef
+  epo:
+  - - rifo
+  spa:
+  - - arrecife
+search terms:
+  glb:
+  - anco
+  eng:
+  - reef
+  epo:
+  - rifo
+  spa:
+  - arrecife
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 暗礁 "anjyaw"
+  Niponsa:
+  - - 暗礁 "anxo"
+  Vyetnamsa:
+  - - ám tiêu
+  Hangusa:
+  - - 암초 "amco"
+raw data:
+  term: anco
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: reef
+    epo: rifo
+    spa: arrecife
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (暗礁 "anjyaw"), Niponsa (暗礁 "anxo"), Vyetnamsa (ám tiêu), Hangusa
+    (암초 "amco")
+...

@@ -1,0 +1,62 @@
+---
+term: umumi
+slug: umumi
+ipa: "u\u02C8mumi"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8mumi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - general
+    - generally
+    - in general
+  epo:
+  - - "\u011Denerala"
+  - - "\u011Denerale"
+  spa:
+  - - general
+search terms:
+  glb:
+  - umumi
+  eng:
+  - general
+  - generally
+  - in general
+  epo:
+  - "\u011Denerala"
+  - "\u011Denerale"
+  spa:
+  - general
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0639\u0645\u0648\u0645\u0627 \u201Ceumumaan\u201D"
+  Parsisa:
+  - - "\u0639\u0645\u0648\u0645\u06CC \u201Cumumi\u201D"
+  Indonesisa:
+  - - umum
+  Turkisa:
+  - - "umum\xEE"
+raw data:
+  term: umumi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: general, generally, in general
+    epo: "\u011Denerala; \u011Denerale"
+    spa: general
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0639\u0645\u0648\u0645\u0627 \u201Ceumumaan\u201D), Parsisa
+    (\u0639\u0645\u0648\u0645\u06CC \u201Cumumi\u201D), Indonesisa (umum), Turkisa
+    (umum\xEE)"
+...

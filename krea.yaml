@@ -1,0 +1,55 @@
+---
+term: krea
+slug: krea
+ipa: "\u02C8k\u027Eea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8k\u027Eea&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - creation
+  - - create
+    - make
+  epo:
+  - - kreo
+  - - krei
+  spa:
+  - - "creaci\xF3n"
+  - - crear
+search terms:
+  glb:
+  - krea
+  eng:
+  - creation
+  - create
+  - make
+  epo:
+  - kreo
+  - krei
+  spa:
+  - "creaci\xF3n"
+  - crear
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: krea
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: creation; create, make
+    epo: kreo; krei
+    spa: "creaci\xF3n; crear"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (creation), Fransesa (cr\xE9ation), Doycisa (Kreation, kreativ),
+    Espanisa (crea), Indonesisa (kreatif, kreasi), Turkisa (kreasyon)"
+...

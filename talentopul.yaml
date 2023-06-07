@@ -1,0 +1,48 @@
+---
+term: talentopul
+slug: talentopul
+ipa: "talento\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=talento\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - talented
+  epo:
+  - - taltenta
+  - - talente
+  spa:
+  - - talentoso
+search terms:
+  glb:
+  - talentopul
+  eng:
+  - talented
+  epo:
+  - taltenta
+  - talente
+  spa:
+  - talentoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/talento">talento</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: talentopul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: talented
+    epo: taltenta; talente
+    spa: talentoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: talento + -pul
+...

@@ -1,0 +1,46 @@
+---
+term: polisidom
+slug: polisidom
+ipa: "polisi\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=polisi\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - police station
+  epo:
+  - - policejo
+  spa:
+  - - "estaci\xF3n de polic\xEDa"
+search terms:
+  glb:
+  - polisidom
+  eng:
+  - police station
+  epo:
+  - policejo
+  spa:
+  - "estaci\xF3n de polic\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/polisi">polisi</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: polisidom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: police station
+    epo: policejo
+    spa: "estaci\xF3n de polic\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: polisi + -dom
+...

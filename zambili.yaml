@@ -1,0 +1,46 @@
+---
+term: zambili
+slug: zambili
+ipa: "zam\u02C8bili"
+ipa link: "http://ipa-reader.xyz/?text=zam\u02C8bili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Zambian
+  epo:
+  - - zambia
+  spa:
+  - - zambiano
+search terms:
+  glb:
+  - zambili
+  eng:
+  - zambian
+  epo:
+  - zambia
+  spa:
+  - zambiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Zambi">Zambi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Zambili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Zambian
+    epo: zambia
+    spa: zambiano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Zambi + -li
+...

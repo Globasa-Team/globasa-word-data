@@ -1,0 +1,87 @@
+---
+term: islami
+slug: islami
+ipa: "is\u02C8lami"
+ipa link: "http://ipa-reader.xyz/?text=is\u02C8lami&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Islamic
+    - Muslim
+  epo:
+  - - islama
+  - - islame
+  spa:
+  - - "musulm\xE1n"
+    - "isl\xE1mico"
+search terms:
+  glb:
+  - islami
+  eng:
+  - islamic
+  - muslim
+  epo:
+  - islama
+  - islame
+  spa:
+  - "musulm\xE1n"
+  - "isl\xE1mico"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0625\u0650\u0633\u0652\u0644\u064E\u0627\u0645\u0650\u064A\u0651\u200E \u201Cislamiy\u201D"
+  Indonesisa:
+  - - Islam
+  Turkisa:
+  - - "\u0130slami"
+  Parsisa:
+  - - "\u0627\u0633\u0644\u0627\u0645\u06CC\u200E \u201Ceslami\u201D"
+  Englisa:
+  - - islamic
+  Espanisa:
+  - - islamico
+  Fransesa:
+  - - islamique
+  Rusisa:
+  - - "\u0438\u0441\u043B\u0430\u043C\u0441\u043A\u0438\u0439 \u201Cislamskij\u201D"
+  Doycisa:
+  - - islamisch
+  Hindi:
+  - - "\u0907\u0938\u094D\u0932\u093E\u092E\u0940 \u201Cislami\u201D"
+  Niponsa:
+  - - "\u30A4\u30B9\u30E9\u30E0 \u201Cisuramu\u201D"
+  Telugusa:
+  - - "\u0C07\u0C38\u0C4D\u0C32\u0C3E\u0C02 \u201Cislam\u201D"
+  Hangusa:
+  - - "\uC774\uC2AC\uB78C \u201Cisulam\u201D"
+  Swahilisa:
+  - - Kiislamu
+raw data:
+  term: Islami
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: Islamic, Muslim
+    epo: islama; islame
+    spa: "musulm\xE1n, isl\xE1mico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0625\u0650\u0633\u0652\u0644\u064E\u0627\u0645\u0650\u064A\u0651\u200E
+    \u201Cislamiy\u201D), Indonesisa (Islam), Turkisa (\u0130slami), Parsisa (\u0627\u0633\u0644\u0627\u0645\u06CC\u200E
+    \u201Ceslami\u201D), Englisa (islamic), Espanisa (islamico), Fransesa (islamique),
+    Rusisa (\u0438\u0441\u043B\u0430\u043C\u0441\u043A\u0438\u0439 \u201Cislamskij\u201D),
+    Doycisa (islamisch), Hindi (\u0907\u0938\u094D\u0932\u093E\u092E\u0940 \u201Cislami\u201D),
+    Niponsa (\u30A4\u30B9\u30E9\u30E0 \u201Cisuramu\u201D), Telugusa (\u0C07\u0C38\u0C4D\u0C32\u0C3E\u0C02
+    \u201Cislam\u201D), Hangusa (\uC774\uC2AC\uB78C \u201Cisulam\u201D), Swahilisa
+    (Kiislamu)"
+...

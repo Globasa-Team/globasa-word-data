@@ -1,0 +1,60 @@
+---
+term: fubaydo
+slug: fubaydo
+ipa: "fu\u02C8bajdo"
+ipa link: "http://ipa-reader.xyz/?text=fu\u02C8bajdo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - corrupt
+    - corrupted
+  epo:
+  - - difektita
+    - korupta
+  - - difektite
+    - korupte
+  spa:
+  - - corrupto
+    - corrompido
+  - - corruptamente
+    - corrompidamente
+search terms:
+  glb:
+  - fubaydo
+  eng:
+  - corrupt
+  - corrupted
+  epo:
+  - difektita
+  - korupta
+  - difektite
+  - korupte
+  spa:
+  - corrupto
+  - corrompido
+  - corruptamente
+  - corrompidamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/fubay">fubay</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: fubaydo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: corrupt, corrupted
+    epo: difektita, korupta; difektite, korupte
+    spa: corrupto, corrompido; corruptamente, corrompidamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fubay + -do
+...

@@ -1,0 +1,48 @@
+---
+term: weygi
+slug: weygi
+ipa: "\u02C8wejgi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wejgi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - put around
+  epo:
+  - - "\u0109irka\u016Digado"
+  - - "\u0109irka\u016Digi"
+  spa:
+  - - poner alrededor
+search terms:
+  glb:
+  - weygi
+  eng:
+  - put around
+  epo:
+  - "\u0109irka\u016Digado"
+  - "\u0109irka\u016Digi"
+  spa:
+  - poner alrededor
+etymology_type: DERIVD
+etymology: <a href="../lexi/wey">wey</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: weygi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: put around
+    epo: "\u0109irka\u016Digado; \u0109irka\u016Digi"
+    spa: poner alrededor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wey + -gi
+...

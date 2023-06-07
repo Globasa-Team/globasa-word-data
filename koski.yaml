@@ -1,0 +1,48 @@
+---
+term: koski
+slug: koski
+ipa: "\u02C8koski"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8koski&voice=Ewa"
+status: false
+category: derived
+word class: l
+trans:
+  eng:
+  - - because
+    - since
+  epo:
+  - - "\u0109ar"
+  spa:
+  - - porque
+search terms:
+  glb:
+  - koski
+  eng:
+  - because
+  - since
+  epo:
+  - "\u0109ar"
+  spa:
+  - porque
+etymology_type: DERIVD
+etymology: <a href="../lexi/kos">kos</a> + <a href="../lexi/ki">ki</a>
+raw data:
+  term: koski
+  category: derived
+  word class: l
+  status: false
+  trans:
+    eng: because, since
+    epo: "\u0109ar"
+    spa: porque
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kos + ki
+...

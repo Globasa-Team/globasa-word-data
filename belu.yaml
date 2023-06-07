@@ -1,0 +1,107 @@
+---
+term: belu
+slug: belu
+ipa: ˈbelu
+ipa link: http://ipa-reader.xyz/?text=ˈbelu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bel (unit)
+  epo:
+  - - belo (mezurunuo)
+    - dek decibeloj
+  spa:
+  - - bel
+    - belio
+    - B
+  deu:
+  - - Bel
+  fra:
+  - - bel
+  rus:
+  - - бел
+  zho:
+  - - 貝
+search terms:
+  glb:
+  - belu
+  eng:
+  - bel unit
+  - bel
+  epo:
+  - belo mezurunuo
+  - belo
+  - dek decibeloj
+  spa:
+  - bel
+  - belio
+  - b
+  deu:
+  - bel
+  fra:
+  - bel
+  rus:
+  - бел
+  zho:
+  - 貝
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bel
+  Espanisa:
+  - - belio
+  Fransesa:
+  - - bel
+  Rusisa:
+  - - бел “bel”
+  Doycisa:
+  - - Bel
+  Indonesisa:
+  - - bel
+  Pilipinasa:
+  - - bel
+  Putunhwa:
+  - - 貝 “bey”
+  Hindisa:
+  - - बेल “bel”
+  Arabisa:
+  - - بل “bal”
+  Niponsa:
+  - - ベル “beru”
+  Telugusa:
+  - - బెల్ “bel”
+  Turkisa:
+  - - bel
+  Hangusa:
+  - - 벨 “bel”
+  Vyetnamsa:
+  - - bel
+  Parsisa:
+  - - بل “bel”
+  Swahilisa:
+  - - beli
+raw data:
+  term: belu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bel (unit)
+    epo: belo (mezurunuo), dek decibeloj
+    spa: bel, belio, B
+    deu: Bel
+    fra: bel
+    rus: бел
+    zho: 貝
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (bel), Espanisa (belio), Fransesa (bel), Rusisa (бел “bel”),
+    Doycisa (Bel), Indonesisa (bel), Pilipinasa (bel), Putunhwa (貝 “bey”), Hindisa
+    (बेल “bel”), Arabisa (بل “bal”), Niponsa (ベル “beru”), Telugusa (బెల్ “bel”), Turkisa
+    (bel), Hangusa (벨 “bel”), Vyetnamsa (bel), Parsisa (بل “bel”), Swahilisa (beli)
+...

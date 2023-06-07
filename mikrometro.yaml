@@ -1,0 +1,52 @@
+---
+term: mikrometro
+slug: mikrometro
+ipa: "mik\u027Eo\u02C8met\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=mik\u027Eo\u02C8met\u027Eo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - micrometer
+    - micrometre
+  epo:
+  - - mikrometro
+  spa:
+  - - "micr\xF3metro"
+    - micra
+    - "\xB5m"
+search terms:
+  glb:
+  - mikrometro
+  eng:
+  - micrometer
+  - micrometre
+  epo:
+  - mikrometro
+  spa:
+  - "micr\xF3metro"
+  - micra
+  - "\xB5m"
+etymology_type: DERIVD
+etymology: <a href="../lexi/mikro">mikro</a> + <a href="../lexi/metro">metro</a>
+raw data:
+  term: mikrometro
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: micrometer, micrometre
+    epo: mikrometro
+    spa: "micr\xF3metro, micra, \xB5m"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mikro + metro
+...

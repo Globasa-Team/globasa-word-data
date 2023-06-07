@@ -1,0 +1,48 @@
+---
+term: industri
+slug: industri
+ipa: "in\u02C8dust\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8dust\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - industry
+  epo:
+  - - industrio
+  spa:
+  - - industria
+search terms:
+  glb:
+  - industri
+  eng:
+  - industry
+  epo:
+  - industrio
+  spa:
+  - industria
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: industri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: industry
+    epo: industrio
+    spa: industria
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Industrie), Englisa (industry), Espanisa (industria), Fransesa
+    (industrie), Rusisa (\u0438\u043D\u0434\u0443\u0441\u0442\u0440\u0438\u044F \u201Cindustrya\u201D),
+    Indonesisa (industri), Pilipinasa (industriya), Turkisa (end\xFCstri)"
+...

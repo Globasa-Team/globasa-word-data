@@ -1,0 +1,48 @@
+---
+term: des oco
+slug: des oco
+ipa: "\u02C8des \u02C8ot\u0361\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8des \u02C8ot\u0361\u0283o&voice=Ewa"
+status: false
+category: phrase
+word class: num
+trans:
+  eng:
+  - - eighteen
+  epo:
+  - - dek ok
+  spa:
+  - - dieciocho
+search terms:
+  glb:
+  - des oco
+  - des
+  - oco
+  eng:
+  - eighteen
+  epo:
+  - dek ok
+  spa:
+  - dieciocho
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a>, <a href="../lexi/oco">oco</a>
+raw data:
+  term: des oco
+  category: phrase
+  word class: num
+  status: false
+  trans:
+    eng: eighteen
+    epo: dek ok
+    spa: dieciocho
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des, oco
+...

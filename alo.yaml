@@ -1,0 +1,79 @@
+---
+term: alo
+slug: alo
+ipa: ˈalo
+ipa link: http://ipa-reader.xyz/?text=ˈalo&voice=Ewa
+status: true
+category: root
+word class: t; d
+trans:
+  eng:
+  - - other
+    - another
+    - different [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+  epo:
+  - - alia
+    - malsama
+    - diferenca
+    - ali-
+  spa:
+  - - otro
+    - diferente
+search terms:
+  glb:
+  - alo
+  eng:
+  - other
+  - another
+  - different
+  epo:
+  - alia
+  - malsama
+  - diferenca
+  - ali-
+  spa:
+  - otro
+  - diferente
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - allo-
+    - alternative
+  Fransesa:
+  - - allo-
+    - alternatif
+  Doycisa:
+  - - alternativ
+  Rusisa:
+  - - альтернативный “alternativniy”
+  Espanisa:
+  - - alo-
+    - alternativo
+  Turkisa:
+  - - alternatif
+  Indonesisa:
+  - - altêrnatif
+  Pilipinasa:
+  - - alternatibo
+raw data:
+  term: alo
+  category: root
+  word class: t; d
+  status: true
+  trans:
+    eng: other, another, different [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+    epo: alia, malsama, diferenca, ali-
+    spa: otro, diferente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (allo-, alternative), Fransesa (allo-, alternatif), Doycisa (alternativ),
+    Rusisa (альтернативный “alternativniy”), Espanisa (alo-, alternativo), Turkisa
+    (alternatif), Indonesisa (altêrnatif), Pilipinasa (alternatibo)
+...

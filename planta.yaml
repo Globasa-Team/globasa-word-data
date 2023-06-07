@@ -1,0 +1,58 @@
+---
+term: planta
+slug: planta
+ipa: "\u02C8planta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8planta&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - plant
+  epo:
+  - - planto
+  spa:
+  - - planta
+    - _Plantae_
+search terms:
+  glb:
+  - planta
+  eng:
+  - plant
+  epo:
+  - planto
+  spa:
+  - planta
+  - plantae
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - plant
+  Espanisa:
+  - - planta
+  Fransesa:
+  - - plante
+  Doycisa:
+  - - Pflanze
+tags:
+- bio
+raw data:
+  term: planta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: plant
+    epo: planto
+    spa: planta, _Plantae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: bio
+  etymology: Englisa (plant), Espanisa (planta), Fransesa (plante), Doycisa (Pflanze)
+...

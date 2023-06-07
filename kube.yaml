@@ -1,0 +1,55 @@
+---
+term: kube
+slug: kube
+ipa: "\u02C8kube"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kube&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vault
+    - dome
+    - cupola
+  epo:
+  - - volbo
+    - kupolo
+  spa:
+  - - "b\xF3veda"
+    - "c\xFApula"
+search terms:
+  glb:
+  - kube
+  eng:
+  - vault
+  - dome
+  - cupola
+  epo:
+  - volbo
+  - kupolo
+  spa:
+  - "b\xF3veda"
+  - "c\xFApula"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kube
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vault, dome, cupola
+    epo: volbo, kupolo
+    spa: "b\xF3veda, c\xFApula"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (kubah), Arabisa (\u0642\u064F\u0628\u064E\u0651\u0629 \"qubba\"),
+    Turkisa (kubbe), Parsisa (\u0642\u0628\u0647 \"qobbe\"), Swahilisa (kuba)"
+...

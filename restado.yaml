@@ -1,0 +1,60 @@
+---
+term: restado
+slug: restado
+ipa: "\u027Ees\u02C8tado"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ees\u02C8tado&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - left (behind)
+    - remaining
+    - (the) rest of
+  epo:
+  - - restigita
+    - cetera
+  - - restigite
+    - cetere
+  spa:
+  - - "dejado atr\xE1s"
+    - restante
+search terms:
+  glb:
+  - restado
+  eng:
+  - left behind
+  - left
+  - remaining
+  - the rest of
+  - rest of
+  epo:
+  - restigita
+  - cetera
+  - restigite
+  - cetere
+  spa:
+  - "dejado atr\xE1s"
+  - restante
+etymology_type: DERIVD
+etymology: <a href="../lexi/resta">resta</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: restado
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: left (behind), remaining, (the) rest of
+    epo: restigita, cetera; restigite, cetere
+    spa: "dejado atr\xE1s, restante"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: left, left behind, rest, the rest of, rest of
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: resta + -do
+...

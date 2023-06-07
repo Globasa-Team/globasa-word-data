@@ -1,0 +1,50 @@
+---
+term: mogeitis
+slug: mogeitis
+ipa: "mogei\u02C8tis"
+ipa link: "http://ipa-reader.xyz/?text=mogei\u02C8tis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - encephalitis
+  epo:
+  - - encefalito
+    - cerbimflamo
+  spa:
+  - - encefalitis
+search terms:
+  glb:
+  - mogeitis
+  eng:
+  - encephalitis
+  epo:
+  - encefalito
+  - cerbimflamo
+  spa:
+  - encefalitis
+etymology_type: DERIVD
+etymology: <a href="../lexi/moge">moge</a> + <a href="../lexi/-itis">-itis</a>
+tags:
+- medis
+raw data:
+  term: mogeitis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: encephalitis
+    epo: encefalito, cerbimflamo
+    spa: encefalitis
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: moge + -itis
+...

@@ -1,0 +1,48 @@
+---
+term: sikologi
+slug: sikologi
+ipa: "siko\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=siko\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - psychology
+  epo:
+  - - "psi\u0125ologio"
+    - psikologio
+  spa:
+  - - "psicolog\xEDa"
+search terms:
+  glb:
+  - sikologi
+  eng:
+  - psychology
+  epo:
+  - "psi\u0125ologio"
+  - psikologio
+  spa:
+  - "psicolog\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/siko">siko</a> + <a href="../lexi/-logi">-logi</a>
+raw data:
+  term: sikologi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: psychology
+    epo: "psi\u0125ologio, psikologio"
+    spa: "psicolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: siko + -logi
+...

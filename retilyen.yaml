@@ -1,0 +1,54 @@
+---
+term: retilyen
+slug: retilyen
+ipa: "\u027Eeti\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eeti\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - reptile
+  epo:
+  - - rampulo
+    - "rampa\u0135o"
+    - reptilio
+  spa:
+  - - reptil
+    - _Sauropsida_
+search terms:
+  glb:
+  - retilyen
+  eng:
+  - reptile
+  epo:
+  - rampulo
+  - "rampa\u0135o"
+  - reptilio
+  spa:
+  - reptil
+  - sauropsida
+etymology_type: DERIVD
+etymology: <a href="../lexi/retil">retil</a> + <a href="../lexi/-yen">-yen</a>
+tags:
+- hewan
+raw data:
+  term: retilyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: reptile
+    epo: "rampulo, rampa\u0135o, reptilio"
+    spa: reptil, _Sauropsida_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: retil + -yen
+...

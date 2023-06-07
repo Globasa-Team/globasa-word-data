@@ -1,0 +1,52 @@
+---
+term: tamipatato
+slug: tamipatato
+ipa: "tamipa\u02C8tato"
+ipa link: "http://ipa-reader.xyz/?text=tamipa\u02C8tato&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - sweet potato
+  epo:
+  - - batato
+    - "dol\u0109a terpomo"
+  spa:
+  - - batata
+    - camote
+search terms:
+  glb:
+  - tamipatato
+  eng:
+  - sweet potato
+  epo:
+  - batato
+  - "dol\u0109a terpomo"
+  spa:
+  - batata
+  - camote
+etymology_type: DERIVD
+etymology: <a href="../lexi/tami">tami</a> + <a href="../lexi/patato">patato</a>
+tags:
+- yamxey
+raw data:
+  term: tamipatato
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: sweet potato
+    epo: "batato, dol\u0109a terpomo"
+    spa: batata, camote
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: tami + patato
+...

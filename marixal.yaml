@@ -1,0 +1,54 @@
+---
+term: marixal
+slug: marixal
+ipa: "ma\u027Ei\u02C8\u0283al"
+ipa link: "http://ipa-reader.xyz/?text=ma\u027Ei\u02C8\u0283al&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - marshall
+  epo:
+  - - "mar\u015Dalo"
+  spa:
+  - - mariscal
+search terms:
+  glb:
+  - marixal
+  eng:
+  - marshall
+  epo:
+  - "mar\u015Dalo"
+  spa:
+  - mariscal
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- insan
+raw data:
+  term: marixal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: marshall
+    epo: "mar\u015Dalo"
+    spa: mariscal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: "Englisa (marshal), Espanisa (mariscal), Fransesa (mar\xE9chal), Rusisa
+    (\u043C\u0430\u0440\u0448\u0430\u043B \"marxal\"), Doycisa (Marschall), Portugalsa
+    (marechal), Italisa (maresciallo), Indonesisa (mars\xEAkal), Pilipinasa (mariskal),
+    Hindisa (\u092E\u093E\u0930\u094D\u0936\u0932 \"marxal\"),, Arabisa (\u0645\u0634\u064A\u0631
+    \"muxir\", \u0645\u0627\u0631\u0634\u0627\u0644 \"marxal\"), Turkisa (mare\u015Fal),
+    Parsisa (\u0641\u06CC\u0644\u062F \u0645\u0627\u0631\u0634\u0627\u0644 \"fild
+    marxal\")"
+...

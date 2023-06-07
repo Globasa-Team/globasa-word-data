@@ -1,0 +1,48 @@
+---
+term: duadesyum
+slug: duadesyum
+ipa: "duade\u02C8sjum"
+ipa link: "http://ipa-reader.xyz/?text=duade\u02C8sjum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - twentieth
+  epo:
+  - - dudeka
+  - - dudeke
+  spa:
+  - - "vig\xE9simo"
+search terms:
+  glb:
+  - duadesyum
+  eng:
+  - twentieth
+  epo:
+  - dudeka
+  - dudeke
+  spa:
+  - "vig\xE9simo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/dua">dua</a> + <a href="../lexi/des">des</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: duadesyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: twentieth
+    epo: dudeka; dudeke
+    spa: "vig\xE9simo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dua + des + -yum
+...

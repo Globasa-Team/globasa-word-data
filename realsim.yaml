@@ -1,0 +1,52 @@
+---
+term: realsim
+slug: realsim
+ipa: "\u027Eeal\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eeal\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - realistic
+  - - realistically
+  epo:
+  - - realeca
+  - - realece
+  spa:
+  - - "real\xEDstico"
+  - - "real\xEDsticamente"
+search terms:
+  glb:
+  - realsim
+  eng:
+  - realistic
+  - realistically
+  epo:
+  - realeca
+  - realece
+  spa:
+  - "real\xEDstico"
+  - "real\xEDsticamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/real">real</a> + <a href="../lexi/-sim">-sim</a>
+raw data:
+  term: realsim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: realistic; realistically
+    epo: realeca; realece
+    spa: "real\xEDstico; real\xEDsticamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: real + -sim
+...

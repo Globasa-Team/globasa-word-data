@@ -1,0 +1,51 @@
+---
+term: trasya
+slug: trasya
+ipa: "\u02C8t\u027Easja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u027Easja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - be across
+    - be on the other side (of)
+  epo:
+  - - esti trans
+  spa:
+  - - estar enfrente
+    - al otro lado de
+search terms:
+  glb:
+  - trasya
+  eng:
+  - be across
+  - be on the other side of
+  - be on the other side
+  epo:
+  - esti trans
+  spa:
+  - estar enfrente
+  - al otro lado de
+etymology_type: DERIVD
+etymology: <a href="../lexi/tras">tras</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: trasya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: be across, be on the other side (of)
+    epo: esti trans
+    spa: estar enfrente, al otro lado de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tras + -ya
+...

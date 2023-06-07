@@ -1,0 +1,48 @@
+---
+term: unyum
+slug: unyum
+ipa: "u\u02C8njum"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8njum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - first
+  epo:
+  - - unua
+  - - unue
+  spa:
+  - - primero
+search terms:
+  glb:
+  - unyum
+  eng:
+  - first
+  epo:
+  - unua
+  - unue
+  spa:
+  - primero
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: unyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: first
+    epo: unua; unue
+    spa: primero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un + -yum
+...

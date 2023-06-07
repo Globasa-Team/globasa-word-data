@@ -1,0 +1,62 @@
+---
+term: tenda
+slug: tenda
+ipa: "\u02C8tenda"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tenda&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tent
+  epo:
+  - - tendo
+  spa:
+  - - "tienda de campa\xF1a"
+search terms:
+  glb:
+  - tenda
+  eng:
+  - tent
+  epo:
+  - tendo
+  spa:
+  - "tienda de campa\xF1a"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tent
+  Espanisa:
+  - - tienda
+  Fransesa:
+  - - tente
+  Indonesisa:
+  - - tenda
+  Niponsa:
+  - - "\u30C6\u30F3\u30C8 \u201Ctento\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C46\u0C02\u0C1F\u0C41 \u201Ctentu\u201D"
+  Hangusa:
+  - - "\uD150\uD2B8 \u201Ctentu\u201D"
+raw data:
+  term: tenda
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tent
+    epo: tendo
+    spa: "tienda de campa\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tent), Espanisa (tienda), Fransesa (tente), Indonesisa (tenda),
+    Niponsa (\u30C6\u30F3\u30C8 \u201Ctento\u201D), Telugusa (\u0C1F\u0C46\u0C02\u0C1F\u0C41
+    \u201Ctentu\u201D), Hangusa (\uD150\uD2B8 \u201Ctentu\u201D)"
+...

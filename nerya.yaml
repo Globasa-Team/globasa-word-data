@@ -1,0 +1,54 @@
+---
+term: nerya
+slug: nerya
+ipa: "\u02C8ne\u027Eja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ne\u027Eja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - closeness
+    - nearness
+    - vicinity
+  epo:
+  - - proksimeco
+    - proksimo
+  spa:
+  - - proximidad
+    - "cercan\xEDa"
+search terms:
+  glb:
+  - nerya
+  eng:
+  - closeness
+  - nearness
+  - vicinity
+  epo:
+  - proksimeco
+  - proksimo
+  spa:
+  - proximidad
+  - "cercan\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ner">ner</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: nerya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: closeness, nearness, vicinity
+    epo: proksimeco, proksimo
+    spa: "proximidad, cercan\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ner + -ya
+...

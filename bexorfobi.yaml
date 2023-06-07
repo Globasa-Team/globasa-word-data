@@ -1,0 +1,53 @@
+---
+term: bexorfobi
+slug: bexorfobi
+ipa: "be\u0283o\u027E\u02C8fobi"
+ipa link: "http://ipa-reader.xyz/?text=be\u0283o\u027E\u02C8fobi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - get scared (of)
+  epo:
+  - - ektimo
+    - "timi\u011Do"
+  - - ektimi
+    - "timi\u011Di"
+  spa:
+  - - asustarse
+search terms:
+  glb:
+  - bexorfobi
+  eng:
+  - get scared of
+  - get scared
+  epo:
+  - ektimo
+  - "timi\u011Do"
+  - ektimi
+  - "timi\u011Di"
+  spa:
+  - asustarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/be-">be-</a> + <a href="../lexi/xor-">xor-</a> + <a href="../lexi/fobi">fobi</a>
+raw data:
+  term: bexorfobi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: get scared (of)
+    epo: "ektimo, timi\u011Do; ektimi, timi\u011Di"
+    spa: asustarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: be- + xor- + fobi
+...

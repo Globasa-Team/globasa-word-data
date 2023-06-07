@@ -1,0 +1,71 @@
+---
+term: bardi
+slug: bardi
+ipa: ˈbaɾdi
+ipa link: http://ipa-reader.xyz/?text=ˈbaɾdi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - cold
+  - - chill
+    - make cold
+    - cool (down)
+    - get cold
+    - become cold
+  epo:
+  - - malvarmo
+  - - malvarmiĝi
+    - malvarmigi
+  spa:
+  - - frío
+  - - enfriar
+    - enfriarse
+search terms:
+  glb:
+  - bardi
+  eng:
+  - cold
+  - chill
+  - make cold
+  - cool down
+  - cool
+  - get cold
+  - become cold
+  epo:
+  - malvarmo
+  - malvarmiĝi
+  - malvarmigi
+  spa:
+  - frío
+  - enfriar
+  - enfriarse
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - البرد “bard”
+  Swahilisa:
+  - - baridi
+antonyms:
+- termo
+raw data:
+  term: bardi
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: 'cold; chill, make cold, cool (down), get cold, become cold '
+    epo: malvarmo; malvarmiĝi, malvarmigi
+    spa: frío; enfriar, enfriarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: termo
+  example: ""
+  tags: ""
+  etymology: Arabisa (البرد “bard”), Swahilisa (baridi)
+...

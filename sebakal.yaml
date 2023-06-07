@@ -1,0 +1,60 @@
+---
+term: sebakal
+slug: sebakal
+ipa: "seba\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=seba\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - without reason
+    - arbitrary
+  epo:
+  - - senkiala
+    - "senka\u016Dza"
+    - senmotiva
+  - - senkiale
+    - "senka\u016Dze"
+    - senmotive
+  spa:
+  - - "sin raz\xF3n"
+    - arbitrario
+search terms:
+  glb:
+  - sebakal
+  eng:
+  - without reason
+  - arbitrary
+  epo:
+  - senkiala
+  - "senka\u016Dza"
+  - senmotiva
+  - senkiale
+  - "senka\u016Dze"
+  - senmotive
+  spa:
+  - "sin raz\xF3n"
+  - arbitrario
+etymology_type: DERIVD
+etymology: <a href="../lexi/seba">seba</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: sebakal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: without reason, arbitrary
+    epo: "senkiala, senka\u016Dza, senmotiva; senkiale, senka\u016Dze, senmotive"
+    spa: "sin raz\xF3n, arbitrario"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: seba + -kal
+...

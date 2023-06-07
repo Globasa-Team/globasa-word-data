@@ -1,0 +1,85 @@
+---
+term: aligator
+slug: aligator
+ipa: aligaˈtoɾ
+ipa link: http://ipa-reader.xyz/?text=aligaˈtoɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - alligator
+  epo:
+  - - aligatoro
+  spa:
+  - - aligátor
+    - caimán
+    - yacaré
+    - _Alligator_
+search terms:
+  glb:
+  - aligator
+  eng:
+  - alligator
+  epo:
+  - aligatoro
+  spa:
+  - aligátor
+  - caimán
+  - yacaré
+  - alligator
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - alligator
+  Espanisa:
+  - - aligátor
+  Fransesa:
+  - - alligator
+  Rusisa:
+  - - аллигатор “aligator”
+  Doycisa:
+  - - Alligator
+  Indonesisa:
+  - - alligator
+  Pilipinasa:
+  - - aligeytor
+  Arabisa:
+  - - قَاطُور “katur”
+  Niponsa:
+  - - アリゲーター “arigeta”
+  Tamilsa:
+  - - அலிகேட்டர் “aliketar”
+  Turkisa:
+  - - alligator
+  Hangusa:
+  - - 앨리게이터 “eligeito”
+  Swahilisa:
+  - - aligatori
+    - aligeita
+tags:
+- hewan
+raw data:
+  term: aligator
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: alligator
+    epo: aligatoro
+    spa: aligátor, caimán, yacaré, _Alligator_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (alligator), Espanisa (aligátor), Fransesa (alligator), Rusisa
+    (аллигатор “aligator”), Doycisa (Alligator), Indonesisa (alligator), Pilipinasa
+    (aligeytor), Arabisa (قَاطُور “katur”), Niponsa (アリゲーター “arigeta”), Tamilsa (அலிகேட்டர்
+    “aliketar”), Turkisa (alligator), Hangusa (앨리게이터 “eligeito”), Swahilisa (aligatori,
+    aligeita)
+...

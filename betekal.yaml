@@ -1,0 +1,48 @@
+---
+term: betekal
+slug: betekal
+ipa: "bete\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=bete\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - childless
+  epo:
+  - - seninfana
+  - - seninfane
+  spa:
+  - - sin hijos
+search terms:
+  glb:
+  - betekal
+  eng:
+  - childless
+  epo:
+  - seninfana
+  - seninfane
+  spa:
+  - sin hijos
+etymology_type: DERIVD
+etymology: <a href="../lexi/bete">bete</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: betekal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: childless
+    epo: seninfana; seninfane
+    spa: sin hijos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bete + -kal
+...

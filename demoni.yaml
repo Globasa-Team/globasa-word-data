@@ -1,0 +1,74 @@
+---
+term: demoni
+slug: demoni
+ipa: deˈmoni
+ipa link: http://ipa-reader.xyz/?text=deˈmoni&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - demon
+  epo:
+  - - demono
+  spa:
+  - - demonio
+search terms:
+  glb:
+  - demoni
+  eng:
+  - demon
+  epo:
+  - demono
+  spa:
+  - demonio
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - demon
+    - demonic
+  Espanisa:
+  - - demonio
+  Fransesa:
+  - - démon
+    - démoniaque
+  Rusisa:
+  - - демон “demon”
+    - демонический “demoniceski”
+  Doycisa:
+  - - Dämon
+    - dämonisch
+  Indonesisa:
+  - - demon
+  Turkisa: ~
+  Pilipinasa:
+  - - demonyo
+  Niponsa:
+  - - デーモン “demon”
+  Hangusa:
+  - - 데몬 “demon”
+tags:
+- dini
+raw data:
+  term: demoni
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: demon
+    epo: demono
+    spa: demonio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: Englisa (demon, demonic), Espanisa (demonio), Fransesa (démon, démoniaque),
+    Rusisa (демон “demon”, демонический “demoniceski”), Doycisa (Dämon, dämonisch),
+    Indonesisa (demon), Turkisa, Pilipinasa (demonyo), Niponsa (デーモン “demon”), Hangusa
+    (데몬 “demon”)
+...

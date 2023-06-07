@@ -1,0 +1,48 @@
+---
+term: cel infer
+slug: cel infer
+ipa: "t\u0361\u0283el in\u02C8fe\u027E"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283el in\u02C8fe\u027E&voice=Ewa"
+status: false
+category: derived
+word class: p
+trans:
+  eng:
+  - - down
+  epo:
+  - - malsupren
+  spa:
+  - - para abajo
+search terms:
+  glb:
+  - cel infer
+  - cel
+  - infer
+  eng:
+  - down
+  epo:
+  - malsupren
+  spa:
+  - para abajo
+etymology_type: DERIVD
+etymology: <a href="../lexi/cel">cel</a>, <a href="../lexi/infer">infer</a>
+raw data:
+  term: cel infer
+  category: derived
+  word class: p
+  status: false
+  trans:
+    eng: down
+    epo: malsupren
+    spa: para abajo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cel, infer
+...

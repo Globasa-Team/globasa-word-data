@@ -1,0 +1,46 @@
+---
+term: injeneriyen
+slug: injeneriyen
+ipa: "ind\u0361\u0292ene\u027Ei\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=ind\u0361\u0292ene\u027Ei\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - engineer
+  epo:
+  - - "in\u011Deniero"
+  spa:
+  - - ingeniero
+search terms:
+  glb:
+  - injeneriyen
+  eng:
+  - engineer
+  epo:
+  - "in\u011Deniero"
+  spa:
+  - ingeniero
+etymology_type: DERIVD
+etymology: <a href="../lexi/injeneri">injeneri</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: injeneriyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'engineer '
+    epo: "in\u011Deniero"
+    spa: ingeniero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: injeneri + -yen
+...

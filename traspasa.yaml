@@ -1,0 +1,49 @@
+---
+term: traspasa
+slug: traspasa
+ipa: "t\u027Eas\u02C8pasa"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Eas\u02C8pasa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - pass through
+  epo:
+  - - transpaso
+  - - transpasi
+  spa:
+  - - "pasar a trav\xE9s (de)"
+search terms:
+  glb:
+  - traspasa
+  eng:
+  - pass through
+  epo:
+  - transpaso
+  - transpasi
+  spa:
+  - "pasar a trav\xE9s de"
+  - "pasar a trav\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tras-">tras-</a> + <a href="../lexi/pasa">pasa</a>
+raw data:
+  term: traspasa
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: pass through
+    epo: transpaso; transpasi
+    spa: "pasar a trav\xE9s (de)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tras- + pasa
+...

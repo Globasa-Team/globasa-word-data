@@ -1,0 +1,47 @@
+---
+term: arestoamiru
+slug: arestoamiru
+ipa: "a\u027Eestoa\u02C8mi\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Eestoa\u02C8mi\u027Eu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (arrest) warrant
+  epo:
+  - - arestordono
+  spa:
+  - - orden de arresto
+search terms:
+  glb:
+  - arestoamiru
+  eng:
+  - arrest warrant
+  - warrant
+  epo:
+  - arestordono
+  spa:
+  - orden de arresto
+etymology_type: DERIVD
+etymology: <a href="../lexi/aresto">aresto</a> + <a href="../lexi/amiru">amiru</a>
+raw data:
+  term: arestoamiru
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (arrest) warrant
+    epo: arestordono
+    spa: orden de arresto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aresto + amiru
+...

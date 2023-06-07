@@ -1,0 +1,50 @@
+---
+term: sahaybasa
+slug: sahaybasa
+ipa: "saxaj\u02C8basa"
+ipa link: "http://ipa-reader.xyz/?text=saxaj\u02C8basa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - auxiliary language
+    - auxlang
+  epo:
+  - - helplingvo
+  spa:
+  - - idioma auxiliar
+search terms:
+  glb:
+  - sahaybasa
+  eng:
+  - auxiliary language
+  - auxlang
+  epo:
+  - helplingvo
+  spa:
+  - idioma auxiliar
+etymology_type: DERIVD
+etymology: <a href="../lexi/sahay">sahay</a> + <a href="../lexi/basa">basa</a>
+synonyms:
+- planibasa
+raw data:
+  term: sahaybasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: auxiliary language, auxlang
+    epo: helplingvo
+    spa: idioma auxiliar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: planibasa
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sahay + basa
+...

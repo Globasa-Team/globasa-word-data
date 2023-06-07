@@ -1,0 +1,52 @@
+---
+term: kumi
+slug: kumi
+ipa: "\u02C8kumi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kumi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - spider
+    - _Araneae_
+  epo:
+  - - araneo
+  spa:
+  - - "ara\xF1a"
+    - _Araneae_
+search terms:
+  glb:
+  - kumi
+  eng:
+  - spider
+  - araneae
+  epo:
+  - araneo
+  spa:
+  - "ara\xF1a"
+  - araneae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kumi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: spider, _Araneae_
+    epo: araneo
+    spa: "ara\xF1a, _Araneae_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Niponsa (\u30AF\u30E2 \u201Ckumo\u201D), Hangusa (\uAC70\uBBF8 \u201Cgeomi\u201D)"
+...

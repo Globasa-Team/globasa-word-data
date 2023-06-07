@@ -1,0 +1,50 @@
+---
+term: hewanmedis
+slug: hewanmedis
+ipa: "xewanme\u02C8dis"
+ipa link: "http://ipa-reader.xyz/?text=xewanme\u02C8dis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - veterinary medicine
+  epo:
+  - - bestomedicino
+    - bestokuraco
+    - veterinara medicino
+  spa:
+  - - medicina veterinaria
+search terms:
+  glb:
+  - hewanmedis
+  eng:
+  - veterinary medicine
+  epo:
+  - bestomedicino
+  - bestokuraco
+  - veterinara medicino
+  spa:
+  - medicina veterinaria
+etymology_type: DERIVD
+etymology: <a href="../lexi/hewan">hewan</a> + <a href="../lexi/-medis">-medis</a>
+raw data:
+  term: hewanmedis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: veterinary medicine
+    epo: bestomedicino, bestokuraco, veterinara medicino
+    spa: medicina veterinaria
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hewan + -medis
+...

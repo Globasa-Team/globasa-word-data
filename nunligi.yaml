@@ -1,0 +1,48 @@
+---
+term: nunligi
+slug: nunligi
+ipa: "nun\u02C8ligi"
+ipa link: "http://ipa-reader.xyz/?text=nun\u02C8ligi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - update
+  epo:
+  - - "\u011Disdatigo"
+  - - "\u011Disdatigi"
+  spa:
+  - - actualizar
+search terms:
+  glb:
+  - nunligi
+  eng:
+  - update
+  epo:
+  - "\u011Disdatigo"
+  - "\u011Disdatigi"
+  spa:
+  - actualizar
+etymology_type: DERIVD
+etymology: <a href="../lexi/nunli">nunli</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: nunligi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: update
+    epo: "\u011Disdatigo; \u011Disdatigi"
+    spa: actualizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nunli + -gi
+...

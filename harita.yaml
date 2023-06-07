@@ -1,0 +1,47 @@
+---
+term: harita
+slug: harita
+ipa: "xa\u02C8\u027Eita"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8\u027Eita&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - map
+  epo:
+  - - mapo
+  spa:
+  - - mapa
+search terms:
+  glb:
+  - harita
+  eng:
+  - map
+  epo:
+  - mapo
+  spa:
+  - mapa
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: harita
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: map
+    epo: mapo
+    spa: mapa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062E\u0631\u064A\u0637\u0629 \u201Ckharita\u201D), Parsisa
+    (\u062E\u0631\u06CC\u0637\u0647 \u201Ckharite\u201D), Turkisa (harita)"
+...

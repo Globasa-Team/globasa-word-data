@@ -1,0 +1,65 @@
+---
+term: tafasir
+slug: tafasir
+ipa: "tafa\u02C8si\u027E"
+ipa link: "http://ipa-reader.xyz/?text=tafa\u02C8si\u027E&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - interpretation
+  - - interpret
+  epo:
+  - - interpretado
+  - - interpreti
+  spa:
+  - - "interpretaci\xF3n"
+  - - interpretar
+search terms:
+  glb:
+  - tafasir
+  eng:
+  - interpretation
+  - interpret
+  epo:
+  - interpretado
+  - interpreti
+  spa:
+  - "interpretaci\xF3n"
+  - interpretar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u0641\u0633\u0631 \u201Ctafasir\u201D"
+  Parsisa:
+  - - "\u062A\u0641\u0633\u06CC\u0631 \u201Ctafsir\u201D"
+  Swahilisa:
+  - - -tafsiri
+    - -fasiri
+  Indonesisa:
+  - - tafsiran
+  Hindisa:
+  - - "\u0924\u092B\u0938\u0940\u0930 \u201Ctafsir\u201D"
+raw data:
+  term: tafasir
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: interpretation; interpret
+    epo: interpretado; interpreti
+    spa: "interpretaci\xF3n; interpretar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u0641\u0633\u0631 \u201Ctafasir\u201D), Parsisa (\u062A\u0641\u0633\u06CC\u0631
+    \u201Ctafsir\u201D), Swahilisa (-tafsiri, -fasiri), Indonesisa (tafsiran), Hindisa
+    (\u0924\u092B\u0938\u0940\u0930 \u201Ctafsir\u201D)"
+...

@@ -1,0 +1,52 @@
+---
+term: ojetoli
+slug: ojetoli
+ipa: "od\u0361\u0292e\u02C8toli"
+ipa link: "http://ipa-reader.xyz/?text=od\u0361\u0292e\u02C8toli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - transitive
+  epo:
+  - - transitiva
+    - objekta
+  - - transitive
+    - objekte
+  spa:
+  - - transitivo
+search terms:
+  glb:
+  - ojetoli
+  eng:
+  - transitive
+  epo:
+  - transitiva
+  - objekta
+  - transitive
+  - objekte
+  spa:
+  - transitivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/ojeto">ojeto</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: ojetoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: transitive
+    epo: transitiva, objekta; transitive, objekte
+    spa: transitivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ojeto + -li
+...

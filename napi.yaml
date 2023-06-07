@@ -1,0 +1,61 @@
+---
+term: napi
+slug: napi
+ipa: "\u02C8napi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8napi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - diaper
+    - nappy
+  epo:
+  - - vindotuko
+    - "vinda\u0135o"
+    - "kalsonvinda\u0135o"
+    - vindo
+  spa:
+  - - "pa\xF1al"
+search terms:
+  glb:
+  - napi
+  eng:
+  - diaper
+  - nappy
+  epo:
+  - vindotuko
+  - "vinda\u0135o"
+  - "kalsonvinda\u0135o"
+  - vindo
+  spa:
+  - "pa\xF1al"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nappy
+  Putunhwa:
+  - - "\u5C3F\u5E03 \u201Cnyawbu\u201D"
+  Swahilisa:
+  - - nepi
+raw data:
+  term: napi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: diaper, nappy
+    epo: "vindotuko, vinda\u0135o, kalsonvinda\u0135o, vindo"
+    spa: "pa\xF1al"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (nappy), Putunhwa (\u5C3F\u5E03 \u201Cnyawbu\u201D), Swahilisa
+    (nepi)"
+...

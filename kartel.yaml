@@ -1,0 +1,51 @@
+---
+term: kartel
+slug: kartel
+ipa: "ka\u027E\u02C8tel"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027E\u02C8tel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cartel
+  epo:
+  - - kartelo
+  spa:
+  - - cartel
+search terms:
+  glb:
+  - kartel
+  eng:
+  - cartel
+  epo:
+  - kartelo
+  spa:
+  - cartel
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kartel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cartel
+    epo: kartelo
+    spa: cartel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cartel), Espanisa (cartel), Fransesa (cartel), Rusisa (\u043A\u0430\u0440\u0442\u0435\u043B\u044C
+    \u201Ckartel\u201D), Doycisa (Kartell), Indonesisa (kartel), Pilipinasa (kartel),
+    Putunhwa (\u5361\u7279\u723E \u201Ckateer\u201D), Arabisa (\u0643\u0627\u0631\u062A\u0644
+    \u201Ckartil\u201D), Niponsa (\u30AB\u30EB\u30C6\u30EB \u201Ckaruteru\u201D),
+    Turkisa (kartel), Vyetnamsa (cartel), Hangusa (\uCE74\uB974\uD154 \u201Ckarutel\u201D),
+    Parsisa (\u06A9\u0627\u0631\u062A\u0644 \u201Ckartel\u201D)"
+...

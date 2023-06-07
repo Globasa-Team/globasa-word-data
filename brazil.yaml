@@ -1,0 +1,50 @@
+---
+term: brazil
+slug: brazil
+ipa: "b\u027Ea\u02C8zil"
+ipa link: "http://ipa-reader.xyz/?text=b\u027Ea\u02C8zil&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Brazil
+  epo:
+  - - Brazilo
+  spa:
+  - - Brasil
+search terms:
+  glb:
+  - brazil
+  eng:
+  - brazil
+  epo:
+  - brazilo
+  spa:
+  - brasil
+etymology_type: NATLNG
+etymology:
+  Portugalsa:
+  - - Brasil
+tags:
+- dexa
+raw data:
+  term: Brazil
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Brazil
+    epo: Brazilo
+    spa: Brasil
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Portugalsa (Brasil)
+...

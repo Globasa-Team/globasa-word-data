@@ -1,0 +1,70 @@
+---
+term: zenjebir
+slug: zenjebir
+ipa: "zend\u0361\u0292e\u02C8bi\u027E"
+ipa link: "http://ipa-reader.xyz/?text=zend\u0361\u0292e\u02C8bi\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ginger
+  epo:
+  - - zingibro
+  spa:
+  - - jengibre
+    - _Zingiber officinale_
+search terms:
+  glb:
+  - zenjebir
+  eng:
+  - ginger
+  epo:
+  - zingibro
+  spa:
+  - jengibre
+  - zingiber officinale
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0632\u064E\u0646\u0652\u062C\u064E\u0628\u0650\u064A\u0644\u200E \u201Czanjabil\u201D"
+    - "\u0632\u064E\u0646\u0652\u062C\u064E\u0628\u0650\u064A\u0631\u200E \u201Czanjabir\u201D"
+  Turkisa:
+  - - "zencefil \u201Czenjefil\u201D"
+  Parsisa:
+  - - "\u0632\u0646\u062C\u0628\u06CC\u0644 \u201Czanjebil\u201D"
+  Espanisa:
+  - - jengibre
+  Fransesa:
+  - - gingembre
+  Italisa:
+  - - zenzero
+  Tamilsa:
+  - - "\u0B87\u0B9E\u0BCD\u0B9A\u0BBF \u201Cinji\u201D"
+tags:
+- yamxey
+- hoxinlyo
+raw data:
+  term: zenjebir
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ginger
+    epo: zingibro
+    spa: jengibre, _Zingiber officinale_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey, hoxinlyo
+  etymology: "Arabisa (\u0632\u064E\u0646\u0652\u062C\u064E\u0628\u0650\u064A\u0644\u200E
+    \u201Czanjabil\u201D, \u0632\u064E\u0646\u0652\u062C\u064E\u0628\u0650\u064A\u0631\u200E
+    \u201Czanjabir\u201D), Turkisa (zencefil \u201Czenjefil\u201D), Parsisa (\u0632\u0646\u062C\u0628\u06CC\u0644
+    \u201Czanjebil\u201D), Espanisa (jengibre), Fransesa (gingembre), Italisa (zenzero),
+    Tamilsa (\u0B87\u0B9E\u0BCD\u0B9A\u0BBF \u201Cinji\u201D)"
+...

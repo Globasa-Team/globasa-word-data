@@ -1,0 +1,52 @@
+---
+term: karar
+slug: karar
+ipa: "ka\u02C8\u027Ea\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8\u027Ea\u027E&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - decision
+  - - decide
+  epo:
+  - - decido
+  - - decidi
+  spa:
+  - - "decisi\xF3n"
+  - - decidir
+search terms:
+  glb:
+  - karar
+  eng:
+  - decision
+  - decide
+  epo:
+  - decido
+  - decidi
+  spa:
+  - "decisi\xF3n"
+  - decidir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: karar
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: decision; decide
+    epo: decido; decidi
+    spa: "decisi\xF3n; decidir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u0631\u0627\u0631 \u201Ckarar\u201D), Turkisa (karar)"
+...

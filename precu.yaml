@@ -1,0 +1,52 @@
+---
+term: precu
+slug: precu
+ipa: "\u02C8p\u027Eet\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8p\u027Eet\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - appear
+  epo:
+  - - apero
+  - - aperi
+  spa:
+  - - "aparici\xF3n"
+  - - aparecer
+search terms:
+  glb:
+  - precu
+  eng:
+  - appear
+  epo:
+  - apero
+  - aperi
+  spa:
+  - "aparici\xF3n"
+  - aparecer
+etymology_type: DERIVD
+etymology: <a href="../lexi/pre">pre</a> + <a href="../lexi/-cu">-cu</a>
+antonyms:
+- awcu
+raw data:
+  term: precu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: appear
+    epo: apero; aperi
+    spa: "aparici\xF3n; aparecer"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: awcu
+  example: ""
+  tags: ""
+  etymology: pre + -cu
+...

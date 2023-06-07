@@ -1,0 +1,51 @@
+---
+term: magma
+slug: magma
+ipa: "\u02C8magma"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8magma&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - magma
+  epo:
+  - - magmo
+  spa:
+  - - magma
+search terms:
+  glb:
+  - magma
+  eng:
+  - magma
+  epo:
+  - magmo
+  spa:
+  - magma
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: magma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: magma
+    epo: magmo
+    spa: magma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (magma), Espanisa (magma), Fransesa (magma), Rusisa (\u043C\u0430\u0433\u043C\u0430
+    \"magma\"), Doycisa (Magma), Indonesisa (magma), Pilipinasa (magma), Hindisa (\u092E\u0948\u0917\u094D\u092E\u093E
+    \"megma\"), Arabisa (\u0645\u064E\u0627\u063A\u0652\u0645\u064E\u0627 \"magma\"),
+    Niponsa (\u30DE\u30B0\u30DE \"maguma\"), Turkisa (magma), Vyetnamsa (m\u1EAFc
+    ma), Hangusa (\uB9C8\uADF8\uB9C8 \"maguma\"), Parsisa (\u0645\u0627\u06AF\u0645\u0627
+    \"m\u0101gm\u0101\"), Swahilisa (magma)"
+...

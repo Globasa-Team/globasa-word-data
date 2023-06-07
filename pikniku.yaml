@@ -1,0 +1,79 @@
+---
+term: pikniku
+slug: pikniku
+ipa: "pik\u02C8niku"
+ipa link: "http://ipa-reader.xyz/?text=pik\u02C8niku&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - picnic
+  - - have a picnic
+  epo:
+  - - pikniko
+  - - pikniki
+  spa:
+  - - "p\xEDcnic"
+    - "d\xEDa de campo"
+  - - "ir de p\xEDcnic"
+search terms:
+  glb:
+  - pikniku
+  eng:
+  - picnic
+  - have a picnic
+  epo:
+  - pikniko
+  - pikniki
+  spa:
+  - "p\xEDcnic"
+  - "d\xEDa de campo"
+  - "ir de p\xEDcnic"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - picnic
+  Espanisa:
+  - - "p\xEDcnic"
+  Fransesa:
+  - - pique-nique
+  Rusisa:
+  - - "\u043F\u0438\u043A\u043D\u0438\u043A \u201Cpiknik\u201D"
+  Doycisa:
+  - - Picknick
+  Indonesisa:
+  - - piknik
+  Turkisa: ~
+  Hindisa:
+  - - "\u092A\u093F\u0915\u0928\u093F\u0915 \u201Cpiknik\u201D"
+  Niponsa:
+  - - "\u30D4\u30AF\u30CB\u30C3\u30AF \u201Cpikuniku\u201D"
+  Hangusa:
+  - - "\uD53C\uD06C\uB2C9 \u201Cpikunik\u201D"
+  Parsisa:
+  - - "\u067E\u06CC\u06A9\u200C\u0646\u06CC\u06A9"
+raw data:
+  term: pikniku
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: picnic; have a picnic
+    epo: pikniko; pikniki
+    spa: "p\xEDcnic, d\xEDa de campo; ir de p\xEDcnic"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (picnic), Espanisa (p\xEDcnic), Fransesa (pique-nique), Rusisa
+    (\u043F\u0438\u043A\u043D\u0438\u043A \u201Cpiknik\u201D), Doycisa (Picknick),
+    Indonesisa (piknik), Turkisa, Hindisa (\u092A\u093F\u0915\u0928\u093F\u0915 \u201Cpiknik\u201D),
+    Niponsa (\u30D4\u30AF\u30CB\u30C3\u30AF \u201Cpikuniku\u201D), Hangusa (\uD53C\uD06C\uB2C9
+    \u201Cpikunik\u201D), Parsisa (\u067E\u06CC\u06A9\u200C\u0646\u06CC\u06A9)"
+...

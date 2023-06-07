@@ -1,0 +1,50 @@
+---
+term: fe misal
+slug: fe misal
+ipa: "fe mi\u02C8sal"
+ipa link: "http://ipa-reader.xyz/?text=fe mi\u02C8sal&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - for example
+    - for instance
+  epo:
+  - - ekzemple
+  spa:
+  - - por ejemplo
+search terms:
+  glb:
+  - fe misal
+  - fe
+  - misal
+  eng:
+  - for example
+  - for instance
+  epo:
+  - ekzemple
+  spa:
+  - por ejemplo
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/misal">misal</a>
+raw data:
+  term: fe misal
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: for example, for instance
+    epo: ekzemple
+    spa: por ejemplo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, misal
+...

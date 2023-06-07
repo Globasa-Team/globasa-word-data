@@ -1,0 +1,50 @@
+---
+term: nikaragwa
+slug: nikaragwa
+ipa: "nika\u02C8\u027Eagwa"
+ipa link: "http://ipa-reader.xyz/?text=nika\u02C8\u027Eagwa&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Nicaragua
+  epo:
+  - - Nikaragvo
+  spa:
+  - - Nicaragua
+search terms:
+  glb:
+  - nikaragwa
+  eng:
+  - nicaragua
+  epo:
+  - nikaragvo
+  spa:
+  - nicaragua
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Nicaragua
+tags:
+- dexa
+raw data:
+  term: Nikaragwa
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Nicaragua
+    epo: Nikaragvo
+    spa: Nicaragua
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Nicaragua)
+...

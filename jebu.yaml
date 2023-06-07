@@ -1,0 +1,50 @@
+---
+term: jebu
+slug: jebu
+ipa: "\u02C8d\u0361\u0292ebu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ebu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pocket
+  epo:
+  - - "po\u015Do"
+  spa:
+  - - bolsillo
+search terms:
+  glb:
+  - jebu
+  eng:
+  - pocket
+  epo:
+  - "po\u015Do"
+  spa:
+  - bolsillo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- labas
+raw data:
+  term: jebu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pocket
+    epo: "po\u015Do"
+    spa: bolsillo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Hindisa (\u091C\u0947\u092C \u201Cjeb\u201D), Arabisa (\u062C\u064E\u064A\u0652\u0628
+    \u201Cjayb\u201D), Telugusa (\u0C1C\u0C47\u0C2C\u0C41 \u201Cjebu\u201D), Turkisa
+    (cep), Parsisa (\u062C\u06CC\u0628 \u201Cjib/jeb\u201D)"
+...

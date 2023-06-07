@@ -1,0 +1,54 @@
+---
+term: hijera
+slug: hijera
+ipa: "xi\u02C8d\u0361\u0292e\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=xi\u02C8d\u0361\u0292e\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - migration
+  - - migrate
+  epo:
+  - - migro
+  - - migri
+  spa:
+  - - "migraci\xF3n"
+  - - migrar
+search terms:
+  glb:
+  - hijera
+  eng:
+  - migration
+  - migrate
+  epo:
+  - migro
+  - migri
+  spa:
+  - "migraci\xF3n"
+  - migrar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hijera
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: migration; migrate
+    epo: migro; migri
+    spa: "migraci\xF3n; migrar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa ( \u0647\u0650\u062C\u0652\u0631\u064E\u0629 \u201Chijra\u201D),
+    Parsisa (\u0645\u0647\u0627\u062C\u0631\u062A \u201Cmohajerat\u201D), Turkisa
+    (hicret \u201Chijret\u201D, muhacir \u201Cmuhajir\u201D)"
+...

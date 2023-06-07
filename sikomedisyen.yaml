@@ -1,0 +1,51 @@
+---
+term: sikomedisyen
+slug: sikomedisyen
+ipa: "sikomedi\u02C8sjen"
+ipa link: "http://ipa-reader.xyz/?text=sikomedi\u02C8sjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - psychiatrist
+  epo:
+  - - "psi\u0125iatriisto"
+    - psikiatriisto
+    - "psi\u0125kuracisto"
+  spa:
+  - - psiquiatra
+search terms:
+  glb:
+  - sikomedisyen
+  eng:
+  - psychiatrist
+  epo:
+  - "psi\u0125iatriisto"
+  - psikiatriisto
+  - "psi\u0125kuracisto"
+  spa:
+  - psiquiatra
+etymology_type: DERIVD
+etymology: <a href="../lexi/siko">siko</a> + <a href="../lexi/-medis">-medis</a> +
+  <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: sikomedisyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: psychiatrist
+    epo: "psi\u0125iatriisto, psikiatriisto, psi\u0125kuracisto"
+    spa: psiquiatra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: siko + -medis + -yen
+...

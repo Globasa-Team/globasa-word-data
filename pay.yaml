@@ -1,0 +1,72 @@
+---
+term: pay
+slug: pay
+ipa: "\u02C8paj"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8paj&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pie
+  epo:
+  - - torto
+  spa:
+  - - pay
+    - pastel
+    - tarta
+    - torta
+search terms:
+  glb:
+  - pay
+  eng:
+  - pie
+  epo:
+  - torto
+  spa:
+  - pay
+  - pastel
+  - tarta
+  - torta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pay
+  Espanisa:
+  - - pay
+  Indonesisa:
+  - - pai
+  Putunhwa:
+  - - "\u6392 \u201Cpay\u201D"
+  Hindisa:
+  - - "\u6392 \u201Cpay\u201D"
+  Niponsa:
+  - - "\u30D1\u30A4 \u201Cpay\u201D"
+  Hangusa:
+  - - "\uD30C\uC774 \u201Cpay\u201D"
+  Parsisa:
+  - - "\u067E\u0627\u06CC \u201Cpay\u201D"
+tags:
+- yamxey
+raw data:
+  term: pay
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pie
+    epo: torto
+    spa: pay, pastel, tarta, torta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (pay), Espanisa (pay), Indonesisa (pai), Putunhwa (\u6392 \u201Cpay\u201D),
+    Hindisa (\u6392 \u201Cpay\u201D), Niponsa (\u30D1\u30A4 \u201Cpay\u201D), Hangusa
+    (\uD30C\uC774 \u201Cpay\u201D), Parsisa (\u067E\u0627\u06CC \u201Cpay\u201D)"
+...

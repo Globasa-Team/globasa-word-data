@@ -1,0 +1,74 @@
+---
+term: piston
+slug: piston
+ipa: "pis\u02C8ton"
+ipa link: "http://ipa-reader.xyz/?text=pis\u02C8ton&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - piston
+  epo:
+  - - "pi\u015Dto"
+  spa:
+  - - "pist\xF3n"
+search terms:
+  glb:
+  - piston
+  eng:
+  - piston
+  epo:
+  - "pi\u015Dto"
+  spa:
+  - "pist\xF3n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - piston
+  Espanisa:
+  - - "pist\xF3n"
+  Fransesa:
+  - - piston
+  Indonesisa:
+  - - piston
+  Pilipinasa:
+  - - piston
+  Hindisa:
+  - - "\u092A\u093F\u0938\u094D\u091F\u0928 \"pistan\""
+  Niponsa:
+  - - "\u30D4\u30B9\u30C8\u30F3 \"pisuton\""
+  Telugusa:
+  - - "\u0C2A\u0C3F\u0C38\u0C4D\u0C1F\u0C28\u0C4D \"pistan\""
+  Turkisa:
+  - - piston
+  Vyetnamsa:
+  - - "p\xEDt t\xF4ng"
+  Hangusa:
+  - - "\uD53C\uC2A4\uD1A4 \"pisuton\""
+  Parsisa:
+  - - "\u067E\u06CC\u0633\u062A\u0648\u0646 \"piston\""
+raw data:
+  term: piston
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: piston
+    epo: "pi\u015Dto"
+    spa: "pist\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (piston), Espanisa (pist\xF3n), Fransesa (piston), Indonesisa
+    (piston), Pilipinasa (piston), Hindisa (\u092A\u093F\u0938\u094D\u091F\u0928 \"pistan\"),
+    Niponsa (\u30D4\u30B9\u30C8\u30F3 \"pisuton\"), Telugusa (\u0C2A\u0C3F\u0C38\u0C4D\u0C1F\u0C28\u0C4D
+    \"pistan\"), Turkisa (piston), Vyetnamsa (p\xEDt t\xF4ng), Hangusa (\uD53C\uC2A4\uD1A4
+    \"pisuton\"), Parsisa (\u067E\u06CC\u0633\u062A\u0648\u0646 \"piston\")"
+...

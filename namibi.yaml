@@ -1,0 +1,50 @@
+---
+term: namibi
+slug: namibi
+ipa: "na\u02C8mibi"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8mibi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Namibia
+  epo:
+  - - Namibio
+  spa:
+  - - Namibia
+search terms:
+  glb:
+  - namibi
+  eng:
+  - namibia
+  epo:
+  - namibio
+  spa:
+  - namibia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Namibia
+tags:
+- dexa
+raw data:
+  term: Namibi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Namibia
+    epo: Namibio
+    spa: Namibia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Namibia)
+...

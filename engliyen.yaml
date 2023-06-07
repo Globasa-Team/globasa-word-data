@@ -1,0 +1,48 @@
+---
+term: engliyen
+slug: engliyen
+ipa: "engli\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=engli\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Englishman
+    - Englishwoman
+  epo:
+  - - anglo
+  spa:
+  - - "ingl\xE9s (_persona_)"
+search terms:
+  glb:
+  - engliyen
+  eng:
+  - englishman
+  - englishwoman
+  epo:
+  - anglo
+  spa:
+  - "ingl\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Engli">Engli</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Engliyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Englishman, Englishwoman
+    epo: anglo
+    spa: "ingl\xE9s (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Engli + -yen
+...

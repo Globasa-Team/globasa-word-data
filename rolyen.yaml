@@ -1,0 +1,46 @@
+---
+term: rolyen
+slug: rolyen
+ipa: "\u027Eo\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eo\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - participant
+  epo:
+  - - partoprenanto
+  spa:
+  - - participante
+search terms:
+  glb:
+  - rolyen
+  eng:
+  - participant
+  epo:
+  - partoprenanto
+  spa:
+  - participante
+etymology_type: DERIVD
+etymology: <a href="../lexi/rol">rol</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: rolyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: participant
+    epo: partoprenanto
+    spa: participante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: rol + -yen
+...

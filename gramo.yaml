@@ -1,0 +1,84 @@
+---
+term: gramo
+slug: gramo
+ipa: ˈgɾamo
+ipa link: http://ipa-reader.xyz/?text=ˈgɾamo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gram
+  epo:
+  - - gramo
+  spa:
+  - - gramo
+    - g
+search terms:
+  glb:
+  - gramo
+  eng:
+  - gram
+  epo:
+  - gramo
+  spa:
+  - gramo
+  - g
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gram
+  Fransesa:
+  - - gramme
+  Doycisa:
+  - - Gramm
+  Rusisa:
+  - - грамм “gramm”
+  Espanisa:
+  - - gramo
+  Arabisa:
+  - - غْرَام “gram”
+  Hindisa:
+  - - ग्राम “grām”
+  Niponsa:
+  - - グラム “guramu”
+  Hangusa:
+  - - 그램 “gurem”
+  Parsisa:
+  - - گرم “geram”
+  Turkisa:
+  - - gram
+  Indonesisa:
+  - - gram
+  Telugusa:
+  - - గ్రాము “grāmu”
+  Vyetnamsa:
+  - - gam
+  Swahilisa:
+  - - gramu
+  Pilipinasa:
+  - - gramo
+raw data:
+  term: gramo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gram
+    epo: gramo
+    spa: gramo, g
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (gram), Fransesa (gramme), Doycisa (Gramm), Rusisa (грамм “gramm”),
+    Espanisa (gramo), Arabisa (غْرَام “gram”), Hindisa (ग्राम “grām”), Niponsa (グラム
+    “guramu”), Hangusa (그램 “gurem”), Parsisa (گرم “geram”), Turkisa (gram), Indonesisa
+    (gram), Telugusa (గ్రాము “grāmu”), Vyetnamsa (gam), Swahilisa (gramu), Pilipinasa
+    (gramo)
+...

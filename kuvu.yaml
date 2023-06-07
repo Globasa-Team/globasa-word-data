@@ -1,0 +1,54 @@
+---
+term: kuvu
+slug: kuvu
+ipa: "\u02C8kuvu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kuvu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mold
+    - mould
+    - mildew
+  epo:
+  - - "\u015Dimo"
+    - melduo
+  spa:
+  - - moho
+    - mildiu
+search terms:
+  glb:
+  - kuvu
+  eng:
+  - mold
+  - mould
+  - mildew
+  epo:
+  - "\u015Dimo"
+  - melduo
+  spa:
+  - moho
+  - mildiu
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kuvu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mold, mould, mildew
+    epo: "\u015Dimo, melduo"
+    spa: moho, mildiu
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Turkisa (k\xFCf), Swahilisa (kuvu)"
+...

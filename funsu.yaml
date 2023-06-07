@@ -1,0 +1,55 @@
+---
+term: funsu
+slug: funsu
+ipa: ˈfunsu
+ipa link: http://ipa-reader.xyz/?text=ˈfunsu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fountain
+  epo:
+  - - fontano
+  spa:
+  - - fuente
+search terms:
+  glb:
+  - funsu
+  eng:
+  - fountain
+  epo:
+  - fontano
+  spa:
+  - fuente
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 喷水池 “pēnshuǐchí”
+  Niponsa:
+  - - 噴水 “funsui”
+  Hangusa:
+  - - 분수 “bunsu”
+  Vyetnamsa:
+  - - đài phun nước
+raw data:
+  term: funsu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fountain
+    epo: fontano
+    spa: fuente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (喷水池 “pēnshuǐchí”), Niponsa (噴水 “funsui”), Hangusa (분수 “bunsu”),
+    Vyetnamsa (đài phun nước)
+...

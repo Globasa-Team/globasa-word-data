@@ -1,0 +1,57 @@
+---
+term: jenmin
+slug: jenmin
+ipa: "d\u0361\u0292en\u02C8min"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292en\u02C8min&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - proof
+  - - prove
+  epo:
+  - - pruvo
+  - - pruvi
+  spa:
+  - - prueba
+    - comprobante
+  - - probar
+    - comprobar
+search terms:
+  glb:
+  - jenmin
+  eng:
+  - proof
+  - prove
+  epo:
+  - pruvo
+  - pruvi
+  spa:
+  - prueba
+  - comprobante
+  - probar
+  - comprobar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jenmin
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: proof; prove
+    epo: pruvo; pruvi
+    spa: prueba, comprobante; probar, comprobar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u8BC1\u660E \u201Czh\xE8ngm\xEDng\u201D), Hangusa (\uC99D\uBA85
+    \u201Cjeungmyeong\u201D)"
+...

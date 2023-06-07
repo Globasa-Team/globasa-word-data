@@ -1,0 +1,48 @@
+---
+term: bimarfil
+slug: bimarfil
+ipa: "bima\u027E\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=bima\u027E\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - sickly
+  epo:
+  - - malsanema
+  - - malsaneme
+  spa:
+  - - enfermizo
+search terms:
+  glb:
+  - bimarfil
+  eng:
+  - sickly
+  epo:
+  - malsanema
+  - malsaneme
+  spa:
+  - enfermizo
+etymology_type: DERIVD
+etymology: <a href="../lexi/bimar">bimar</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: bimarfil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: sickly
+    epo: malsanema; malsaneme
+    spa: enfermizo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bimar + -fil
+...

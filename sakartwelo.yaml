@@ -1,0 +1,53 @@
+---
+term: sakartwelo
+slug: sakartwelo
+ipa: "saka\u027E\u02C8twelo"
+ipa link: "http://ipa-reader.xyz/?text=saka\u027E\u02C8twelo&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Georgia (_country_)
+  epo:
+  - - Kartvelio
+    - Kartvelujo
+  spa:
+  - - Georgia
+search terms:
+  glb:
+  - sakartwelo
+  eng:
+  - georgia
+  epo:
+  - kartvelio
+  - kartvelujo
+  spa:
+  - georgia
+etymology_type: NATLNG
+etymology:
+  Sakartwelosa:
+  - - "\u10E1\u10D0\u10E5\u10D0\u10E0\u10D7\u10D5\u10D4\u10DA\u10DD \u201Csakartwelo\u201D"
+tags:
+- dexa
+raw data:
+  term: Sakartwelo
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Georgia (_country_)
+    epo: Kartvelio, Kartvelujo
+    spa: Georgia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Sakartwelosa (\u10E1\u10D0\u10E5\u10D0\u10E0\u10D7\u10D5\u10D4\u10DA\u10DD
+    \u201Csakartwelo\u201D)"
+...

@@ -1,0 +1,51 @@
+---
+term: lubi
+slug: lubi
+ipa: "\u02C8lubi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lubi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - love
+  epo:
+  - - amo
+  - - ami
+  spa:
+  - - amor
+  - - amar
+search terms:
+  glb:
+  - lubi
+  eng:
+  - love
+  epo:
+  - amo
+  - ami
+  spa:
+  - amor
+  - amar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lubi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: love
+    epo: amo; ami
+    spa: amor; amar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Rusisa (\u043B\u044E\u0431\u0438\u0442\u044C \u201Clyubit\u201D), Englisa
+    (love), Doycisa (liebe), Hindisa (\u0932\u0941\u092D\u094D\u092F\u0924\u093F \u201Clubyati\u201D)"
+...

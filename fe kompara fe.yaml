@@ -1,0 +1,52 @@
+---
+term: fe kompara fe
+slug: fe kompara fe
+ipa: "fe kom\u02C8pa\u027Ea fe"
+ipa link: "http://ipa-reader.xyz/?text=fe kom\u02C8pa\u027Ea fe&voice=Ewa"
+status: false
+category: phrase
+word class: p
+trans:
+  eng:
+  - - in comparison with
+    - compared to
+    - versus
+  epo:
+  - - kompare kun
+  spa:
+  - - comparado con
+search terms:
+  glb:
+  - fe kompara fe
+  - fe
+  - kompara
+  eng:
+  - in comparison with
+  - compared to
+  - versus
+  epo:
+  - kompare kun
+  spa:
+  - comparado con
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/kompara">kompara</a>
+raw data:
+  term: fe kompara fe
+  category: phrase
+  word class: p
+  status: false
+  trans:
+    eng: in comparison with, compared to, versus
+    epo: kompare kun
+    spa: comparado con
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: versus, comparison, compare, in comparison with, compared to
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, kompara
+...

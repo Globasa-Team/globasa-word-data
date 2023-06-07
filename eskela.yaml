@@ -1,0 +1,65 @@
+---
+term: eskela
+slug: eskela
+ipa: esˈkela
+ipa link: http://ipa-reader.xyz/?text=esˈkela&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - scale
+  epo:
+  - - skalo
+  spa:
+  - - escala (_proporción_)
+search terms:
+  glb:
+  - eskela
+  eng:
+  - scale
+  epo:
+  - skalo
+  spa:
+  - escala
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - scale
+  Espanisa:
+  - - escala
+  Fransesa:
+  - - échelle
+  Rusisa:
+  - - шкала “xkala”
+  Doycisa:
+  - - Skala
+  Indonesisa: ~
+  Pilipinasa:
+  - - eskala
+  Niponsa:
+  - - スケール “sukeru”
+  Telugusa:
+  - - స్కేలు “skelu”
+raw data:
+  term: eskela
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: scale
+    epo: skalo
+    spa: escala (_proporción_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (scale), Espanisa (escala), Fransesa (échelle), Rusisa (шкала
+    “xkala”), Doycisa (Skala), Indonesisa, Pilipinasa (eskala), Niponsa (スケール “sukeru”),
+    Telugusa (స్కేలు “skelu”)
+...

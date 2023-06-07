@@ -1,0 +1,52 @@
+---
+term: magyar
+slug: magyar
+ipa: "ma\u02C8gja\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8gja\u027E&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Hungary
+  epo:
+  - - Hungario
+    - Hungarujo
+  spa:
+  - - "Hungr\xEDa"
+search terms:
+  glb:
+  - magyar
+  eng:
+  - hungary
+  epo:
+  - hungario
+  - hungarujo
+  spa:
+  - "hungr\xEDa"
+etymology_type: NATLNG
+etymology:
+  Magyarsa:
+  - - Magyar-
+tags:
+- dexa
+raw data:
+  term: Magyar
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Hungary
+    epo: Hungario, Hungarujo
+    spa: "Hungr\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Magyarsa (Magyar-)
+...

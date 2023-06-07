@@ -1,0 +1,90 @@
+---
+term: rubidyum
+slug: rubidyum
+ipa: "\u027Eubi\u02C8djum"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eubi\u02C8djum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rubidium
+  epo:
+  - - rubidio
+  spa:
+  - - rubidio
+    - Rb
+search terms:
+  glb:
+  - rubidyum
+  eng:
+  - rubidium
+  epo:
+  - rubidio
+  spa:
+  - rubidio
+  - rb
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rubidium
+  Putunhwa:
+  - - "\u92A3 \u201Cru\u201D"
+  Espanisa:
+  - - rubidio
+  Arabisa:
+  - - "\u0631\u064F\u0648\u0628\u0650\u064A\u062F\u0652\u064A\u064F\u0648\u0645 \u201Crubidyum\u201D"
+  Fransesa:
+  - - rubidium
+  Rusisa:
+  - - "\u0440\u0443\u0431\u0438\u0434\u0438\u0439 \u201Crubidiy\u201D"
+  Indonesisa:
+  - - rubidium
+  Doycisa:
+  - - Rubidium
+  Niponsa:
+  - - "\u30EB\u30D3\u30B8\u30A6\u30E0 \u201Crubijiumu\u201D"
+  Telugusa:
+  - - "\u0C30\u0C41\u0C2C\u0C40\u0C21\u0C3F\u0C2F\u0C02 \u201Crubidiyam\u201D"
+  Turkisa:
+  - - rubidyum
+  Hangusa:
+  - - "\uB8E8\uBE44\uB4D0 \u201Crubidyum\u201D"
+  Vyetnamsa:
+  - - "rubi\u0111i"
+  Parsisa:
+  - - "\u0631\u0648\u0628\u06CC\u062F\u06CC\u0645 \u201Crubidyom\u201D"
+  Swahilisa:
+  - - rubidi
+  Pilipinasa:
+  - - rubidyo
+    - rubidyum
+tags:
+- kimikali monlari
+raw data:
+  term: rubidyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rubidium
+    epo: rubidio
+    spa: rubidio, Rb
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (rubidium), Putunhwa (\u92A3 \u201Cru\u201D), Espanisa (rubidio),
+    Arabisa (\u0631\u064F\u0648\u0628\u0650\u064A\u062F\u0652\u064A\u064F\u0648\u0645
+    \u201Crubidyum\u201D), Fransesa (rubidium), Rusisa (\u0440\u0443\u0431\u0438\u0434\u0438\u0439
+    \u201Crubidiy\u201D), Indonesisa (rubidium), Doycisa (Rubidium), Niponsa (\u30EB\u30D3\u30B8\u30A6\u30E0
+    \u201Crubijiumu\u201D), Telugusa (\u0C30\u0C41\u0C2C\u0C40\u0C21\u0C3F\u0C2F\u0C02
+    \u201Crubidiyam\u201D), Turkisa (rubidyum), Hangusa (\uB8E8\uBE44\uB4D0 \u201Crubidyum\u201D),
+    Vyetnamsa (rubi\u0111i), Parsisa (\u0631\u0648\u0628\u06CC\u062F\u06CC\u0645 \u201Crubidyom\u201D),
+    Swahilisa (rubidi), Pilipinasa (rubidyo, rubidyum)"
+...

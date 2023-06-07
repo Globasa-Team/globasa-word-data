@@ -1,0 +1,52 @@
+---
+term: teknoli
+slug: teknoli
+ipa: "tek\u02C8noli"
+ipa link: "http://ipa-reader.xyz/?text=tek\u02C8noli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - technological
+  epo:
+  - - "te\u0125nologia"
+    - teknologia
+  - - "te\u0125nologie"
+    - teknologie
+  spa:
+  - - "tecnol\xF3gico"
+search terms:
+  glb:
+  - teknoli
+  eng:
+  - technological
+  epo:
+  - "te\u0125nologia"
+  - teknologia
+  - "te\u0125nologie"
+  - teknologie
+  spa:
+  - "tecnol\xF3gico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tekno">tekno</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: teknoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: technological
+    epo: "te\u0125nologia, teknologia; te\u0125nologie, teknologie"
+    spa: "tecnol\xF3gico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tekno + -li
+...

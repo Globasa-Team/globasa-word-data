@@ -1,0 +1,52 @@
+---
+term: sehagi
+slug: sehagi
+ipa: "se\u02C8xagi"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8xagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - heal
+    - cure
+  epo:
+  - - sanigo
+  - - sanigi
+  spa:
+  - - sanar
+    - curar
+search terms:
+  glb:
+  - sehagi
+  eng:
+  - heal
+  - cure
+  epo:
+  - sanigo
+  - sanigi
+  spa:
+  - sanar
+  - curar
+etymology_type: DERIVD
+etymology: <a href="../lexi/seha">seha</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: sehagi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: heal, cure
+    epo: sanigo; sanigi
+    spa: sanar, curar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: seha + -gi
+...

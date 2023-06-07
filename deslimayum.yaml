@@ -1,0 +1,48 @@
+---
+term: deslimayum
+slug: deslimayum
+ipa: "deslima\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=deslima\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - fifteenth
+  epo:
+  - - dekkvina
+  - - dekkvine
+  spa:
+  - - "d\xE9cimo quinto"
+search terms:
+  glb:
+  - deslimayum
+  eng:
+  - fifteenth
+  epo:
+  - dekkvina
+  - dekkvine
+  spa:
+  - "d\xE9cimo quinto"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/lima">lima</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: deslimayum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: fifteenth
+    epo: dekkvina; dekkvine
+    spa: "d\xE9cimo quinto"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + lima + -yum
+...

@@ -1,0 +1,52 @@
+---
+term: pifucu
+slug: pifucu
+ipa: "pi\u02C8fut\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=pi\u02C8fut\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.lin
+trans:
+  eng:
+  - - feel (_have a particular feeling through touch_)
+  epo:
+  - - "palpi\u011Do"
+    - "tu\u015Di\u011Do"
+  - - "pali\u011Di"
+    - "tu\u015Di\u011Di"
+  spa:
+  - - sentir (_por el tacto_)
+search terms:
+  glb:
+  - pifucu
+  eng:
+  - feel
+  epo:
+  - "palpi\u011Do"
+  - "tu\u015Di\u011Do"
+  - "pali\u011Di"
+  - "tu\u015Di\u011Di"
+  spa:
+  - sentir
+etymology_type: DERIVD
+etymology: <a href="../lexi/pifu">pifu</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: pifucu
+  category: derived
+  word class: n/f.lin
+  status: false
+  trans:
+    eng: feel (_have a particular feeling through touch_)
+    epo: "palpi\u011Do, tu\u015Di\u011Do; pali\u011Di, tu\u015Di\u011Di"
+    spa: sentir (_por el tacto_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pifu + -cu
+...

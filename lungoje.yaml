@@ -1,0 +1,49 @@
+---
+term: lungoje
+slug: lungoje
+ipa: "lun\u02C8god\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=lun\u02C8god\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - length
+  epo:
+  - - longeco (mezuro)
+  spa:
+  - - longitud
+    - largo
+search terms:
+  glb:
+  - lungoje
+  eng:
+  - length
+  epo:
+  - longeco mezuro
+  - longeco
+  spa:
+  - longitud
+  - largo
+etymology_type: DERIVD
+etymology: <a href="../lexi/lungo">lungo</a> + <a href="../lexi/-je">-je</a>
+raw data:
+  term: lungoje
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: length
+    epo: longeco (mezuro)
+    spa: longitud, largo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lungo + -je
+...

@@ -1,0 +1,70 @@
+---
+term: pentu
+slug: pentu
+ipa: "\u02C8pentu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pentu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - painting
+  - - paint
+  epo:
+  - - pentro
+    - "pentra\u0135o"
+  - - pentri
+  spa:
+  - - pintura
+  - - pintar
+search terms:
+  glb:
+  - pentu
+  eng:
+  - painting
+  - paint
+  epo:
+  - pentro
+  - "pentra\u0135o"
+  - pentri
+  spa:
+  - pintura
+  - pintar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - paint
+  Fransesa:
+  - - peinture
+  Espanisa:
+  - - pintura
+  Pilipinasa:
+  - - pintura
+  Niponsa:
+  - - "\u30DA\u30A4\u30F3\u30C8 \u201Cpeinto\u201D"
+  Hangusa:
+  - - "\uD398\uC778\uD2B8 \u201Cpeinteu\u201D"
+  Hindisa:
+  - - "\u092A\u0947\u0902\u091F \u201Cpe\u1E47\u1E6D\u201D"
+raw data:
+  term: pentu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: painting; paint
+    epo: "pentro, pentra\u0135o; pentri"
+    spa: pintura; pintar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (paint), Fransesa (peinture), Espanisa (pintura), Pilipinasa
+    (pintura), Niponsa (\u30DA\u30A4\u30F3\u30C8 \u201Cpeinto\u201D), Hangusa (\uD398\uC778\uD2B8
+    \u201Cpeinteu\u201D), Hindisa (\u092A\u0947\u0902\u091F \u201Cpe\u1E47\u1E6D\u201D)"
+...

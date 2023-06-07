@@ -1,0 +1,60 @@
+---
+term: injeksi
+slug: injeksi
+ipa: "in\u02C8d\u0361\u0292eksi"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8d\u0361\u0292eksi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - injection
+    - shot
+    - jab
+  - - inject
+  epo:
+  - - injekto
+    - "en\u015Dprucigo"
+  - - injekti
+    - "en\u015Dprucigi"
+  spa:
+  - - "inyecci\xF3n"
+  - - inyectar
+search terms:
+  glb:
+  - injeksi
+  eng:
+  - injection
+  - shot
+  - jab
+  - inject
+  epo:
+  - injekto
+  - "en\u015Dprucigo"
+  - injekti
+  - "en\u015Dprucigi"
+  spa:
+  - "inyecci\xF3n"
+  - inyectar
+etymology_type: DERIVD
+etymology: <a href="../lexi/in-">in-</a> + <a href="../lexi/jeksi">jeksi</a>
+raw data:
+  term: injeksi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: injection, shot, jab; inject
+    epo: "injekto, en\u015Dprucigo; injekti, en\u015Dprucigi"
+    spa: "inyecci\xF3n; inyectar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in- + jeksi
+...

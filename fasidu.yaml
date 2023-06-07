@@ -1,0 +1,52 @@
+---
+term: fasidu
+slug: fasidu
+ipa: faˈsidu
+ipa link: http://ipa-reader.xyz/?text=faˈsidu&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - rotten
+  epo:
+  - - putra
+  - - putre
+  spa:
+  - - podrido
+search terms:
+  glb:
+  - fasidu
+  eng:
+  - rotten
+  epo:
+  - putra
+  - putre
+  spa:
+  - podrido
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فاسد “fāsid”
+  Parsisa:
+  - - فاسد “fāsed”
+raw data:
+  term: fasidu
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: rotten
+    epo: putra; putre
+    spa: podrido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (فاسد “fāsid”), Parsisa (فاسد “fāsed”)
+...

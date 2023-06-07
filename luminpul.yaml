@@ -1,0 +1,52 @@
+---
+term: luminpul
+slug: luminpul
+ipa: "lumin\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=lumin\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - bright
+    - light
+  epo:
+  - - luma
+  - - lume
+  spa:
+  - - luminoso
+    - brillante
+search terms:
+  glb:
+  - luminpul
+  eng:
+  - bright
+  - light
+  epo:
+  - luma
+  - lume
+  spa:
+  - luminoso
+  - brillante
+etymology_type: DERIVD
+etymology: <a href="../lexi/lumin">lumin</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: luminpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: bright, light
+    epo: luma; lume
+    spa: luminoso, brillante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lumin + -pul
+...

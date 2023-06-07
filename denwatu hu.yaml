@@ -1,0 +1,52 @@
+---
+term: denwatu hu
+slug: denwatu hu
+ipa: "de\u02C8nwatu xu"
+ipa link: "http://ipa-reader.xyz/?text=de\u02C8nwatu xu&voice=Ewa"
+status: false
+category: phrase
+word class: l
+trans:
+  eng:
+  - - _subordinate clause:_ when
+    - whenever
+  epo:
+  - - (tiam
+    - ) kiam
+  spa:
+  - - cuando
+search terms:
+  glb:
+  - denwatu hu
+  - denwatu
+  - hu
+  eng:
+  - whenever
+  epo:
+  - tiam
+  - (tiam
+  - kiam
+  spa:
+  - cuando
+etymology_type: DERIVD
+etymology: <a href="../lexi/den-">den-</a> + <a href="../lexi/watu">watu</a>, <a href="../lexi/hu">hu</a>
+raw data:
+  term: denwatu hu
+  category: phrase
+  word class: l
+  status: false
+  trans:
+    eng: _subordinate clause:_ when, whenever
+    epo: (tiam,) kiam
+    spa: cuando
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: den- + watu, hu
+...

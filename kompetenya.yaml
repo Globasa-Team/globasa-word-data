@@ -1,0 +1,50 @@
+---
+term: kompetenya
+slug: kompetenya
+ipa: "kompe\u02C8tenja"
+ipa link: "http://ipa-reader.xyz/?text=kompe\u02C8tenja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - competence
+  epo:
+  - - kompetenteco
+    - kompetento
+  spa:
+  - - capacidad
+    - competencia
+search terms:
+  glb:
+  - kompetenya
+  eng:
+  - competence
+  epo:
+  - kompetenteco
+  - kompetento
+  spa:
+  - capacidad
+  - competencia
+etymology_type: DERIVD
+etymology: <a href="../lexi/kompeten">kompeten</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: kompetenya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: competence
+    epo: kompetenteco, kompetento
+    spa: capacidad, competencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kompeten + -ya
+...

@@ -1,0 +1,56 @@
+---
+term: narcisosim
+slug: narcisosim
+ipa: "na\u027Et\u0361\u0283iso\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=na\u027Et\u0361\u0283iso\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - vain
+    - conceited
+  epo:
+  - - malmodesta
+    - narcisismeca
+  - - malmodeste
+    - narcisismece
+  spa:
+  - - vanidoso
+    - "engre\xEDdo"
+search terms:
+  glb:
+  - narcisosim
+  eng:
+  - vain
+  - conceited
+  epo:
+  - malmodesta
+  - narcisismeca
+  - malmodeste
+  - narcisismece
+  spa:
+  - vanidoso
+  - "engre\xEDdo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Narciso">Narciso</a> + <a href="../lexi/-sim">-sim</a>
+raw data:
+  term: narcisosim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: vain, conceited
+    epo: malmodesta, narcisismeca; malmodeste, narcisismece
+    spa: "vanidoso, engre\xEDdo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Narciso + -sim
+...

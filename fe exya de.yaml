@@ -1,0 +1,52 @@
+---
+term: fe exya de
+slug: fe exya de
+ipa: "fe \u02C8e\u0283ja de"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8e\u0283ja de&voice=Ewa"
+status: false
+category: phrase
+word class: jm p
+trans:
+  eng:
+  - - outside of
+  epo:
+  - - ekstere de
+    - ekster
+  spa:
+  - - por fuera de
+search terms:
+  glb:
+  - fe exya de
+  - fe
+  - exya
+  - de
+  eng:
+  - outside of
+  epo:
+  - ekstere de
+  - ekster
+  spa:
+  - por fuera de
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/ex">ex</a> + <a href="../lexi/-ya">-ya</a>,
+  <a href="../lexi/de">de</a>
+raw data:
+  term: fe exya de
+  category: phrase
+  word class: jm p
+  status: false
+  trans:
+    eng: outside of
+    epo: ekstere de, ekster
+    spa: por fuera de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, ex + -ya, de
+...

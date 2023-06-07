@@ -1,0 +1,52 @@
+---
+term: un oftiga
+slug: un oftiga
+ipa: "\u02C8un of\u02C8tiga"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8un of\u02C8tiga&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - one third
+    - a third
+  epo:
+  - - triono
+  spa:
+  - - un tercio
+    - una tercera parte
+search terms:
+  glb:
+  - un oftiga
+  - un
+  - oftiga
+  eng:
+  - one third
+  - a third
+  epo:
+  - triono
+  spa:
+  - un tercio
+  - una tercera parte
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a>, <a href="../lexi/of-">of-</a> + <a href="../lexi/tiga">tiga</a>
+raw data:
+  term: un oftiga
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: one third, a third
+    epo: triono
+    spa: un tercio, una tercera parte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un, of- + tiga
+...

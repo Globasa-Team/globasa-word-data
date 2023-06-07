@@ -1,0 +1,60 @@
+---
+term: nenresmi
+slug: nenresmi
+ipa: "nen\u02C8\u027Eesmi"
+ipa link: "http://ipa-reader.xyz/?text=nen\u02C8\u027Eesmi&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unofficial
+    - casual
+  - - unofficially
+    - casually
+  epo:
+  - - neoficiala
+  - - neoficiale
+  spa:
+  - - no oficial
+    - casual
+  - - no oficialmente
+    - casualmente
+search terms:
+  glb:
+  - nenresmi
+  eng:
+  - unofficial
+  - casual
+  - unofficially
+  - casually
+  epo:
+  - neoficiala
+  - neoficiale
+  spa:
+  - no oficial
+  - casual
+  - no oficialmente
+  - casualmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/resmi">resmi</a>
+raw data:
+  term: nenresmi
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unofficial, casual; unofficially, casually
+    epo: neoficiala; neoficiale
+    spa: no oficial, casual; no oficialmente, casualmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + resmi
+...

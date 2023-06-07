@@ -1,0 +1,72 @@
+---
+term: xux
+slug: xux
+ipa: "\u02C8\u0283u\u0283"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283u\u0283&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - hush
+  epo:
+  - - "silenti\u011Do"
+    - silentigo
+  - - silenti
+    - silentigi
+  spa:
+  - - silencio
+  - - callar
+search terms:
+  glb:
+  - xux
+  eng:
+  - hush
+  epo:
+  - "silenti\u011Do"
+  - silentigo
+  - silenti
+  - silentigi
+  spa:
+  - silencio
+  - callar
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Arabisa: ~
+  Putunhwa:
+  - - "\u5653 \u201Cx\u016B\u201D"
+  Englisa:
+  - - shush
+    - shh
+    - hush
+  Niponsa:
+  - - "\u3057\u30FC\u3063 \u201Cshi\u201D"
+  Rusisa:
+  - - "\u0448-\u0448 \u201Cx-x\u201D"
+  Turkisa:
+  - - "\u015Fi\u015F\u015F"
+  ji maxya: ~
+tags:
+- intrelogalexi
+raw data:
+  term: xux
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: hush
+    epo: "silenti\u011Do, silentigo; silenti, silentigi"
+    spa: silencio; callar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: "kwasilexi - Arabisa ( ), Putunhwa (\u5653 \u201Cx\u016B\u201D), Englisa
+    (shush, shh, hush), Niponsa (\u3057\u30FC\u3063 \u201Cshi\u201D), Rusisa (\u0448-\u0448
+    \u201Cx-x\u201D), Turkisa (\u015Fi\u015F\u015F), ji maxya"
+...

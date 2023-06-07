@@ -1,0 +1,72 @@
+---
+term: aorta
+slug: aorta
+ipa: aˈoɾta
+ipa link: http://ipa-reader.xyz/?text=aˈoɾta&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - aorta
+  epo:
+  - - aorto
+  spa:
+  - - aorta
+search terms:
+  glb:
+  - aorta
+  eng:
+  - aorta
+  epo:
+  - aorto
+  spa:
+  - aorta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - aorta
+  Espanisa:
+  - - aorta
+  Fransesa:
+  - - aorte
+  Rusisa:
+  - - аорта “aorta”
+  Doycisa:
+  - - Aorta
+  Indonesisa:
+  - - aorta
+  Pilipinasa:
+  - - aorta
+  Arabisa:
+  - - أَوُرْطَى “awurta”
+  Turkisa:
+  - - aort
+  Parsisa:
+  - - آئورت “aort”
+  Swahilisa:
+  - - aorta
+tags:
+- jismulogi
+raw data:
+  term: aorta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: aorta
+    epo: aorto
+    spa: aorta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Englisa (aorta), Espanisa (aorta), Fransesa (aorte), Rusisa (аорта “aorta”),
+    Doycisa (Aorta), Indonesisa (aorta), Pilipinasa (aorta), Arabisa (أَوُرْطَى “awurta”),
+    Turkisa (aort), Parsisa (آئورت “aort”), Swahilisa (aorta)
+...

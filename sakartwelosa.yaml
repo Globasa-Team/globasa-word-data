@@ -1,0 +1,50 @@
+---
+term: sakartwelosa
+slug: sakartwelosa
+ipa: "saka\u027Etwe\u02C8losa"
+ipa link: "http://ipa-reader.xyz/?text=saka\u027Etwe\u02C8losa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Georgian (language)
+  epo:
+  - - la kartvela (lingvo)
+  spa:
+  - - georgiano (_idioma_)
+search terms:
+  glb:
+  - sakartwelosa
+  eng:
+  - georgian language
+  - georgian
+  epo:
+  - la kartvela lingvo
+  - la kartvela
+  spa:
+  - georgiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Sakartwelo">Sakartwelo</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Sakartwelosa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Georgian (language)
+    epo: la kartvela (lingvo)
+    spa: georgiano (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Sakartwelo + -sa
+...

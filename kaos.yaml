@@ -1,0 +1,50 @@
+---
+term: kaos
+slug: kaos
+ipa: "ka\u02C8os"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8os&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chaos
+  epo:
+  - - "\u0125aoso"
+    - kaoso
+  spa:
+  - - caos
+search terms:
+  glb:
+  - kaos
+  eng:
+  - chaos
+  epo:
+  - "\u0125aoso"
+  - kaoso
+  spa:
+  - caos
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kaos
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chaos
+    epo: "\u0125aoso, kaoso"
+    spa: caos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (chaos), Doycisa (Chaos), Fransesa (chaos), Espanisa (caos),
+    Rusisa (\u0445\u0430\u043E\u0441 \u201Chaos\u201D), Turkisa (kaos), Indonesisa
+    (khaos), Niponsa (\u30AB\u30AA\u30B9 \u201Ckaosu\u201D)"
+...

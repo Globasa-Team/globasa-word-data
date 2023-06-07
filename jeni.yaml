@@ -1,0 +1,63 @@
+---
+term: jeni
+slug: jeni
+ipa: "\u02C8d\u0361\u0292eni"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292eni&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - suggestion
+    - proposal
+    - proposition
+  - - propose
+    - suggest
+  epo:
+  - - propono
+  - - proponi
+  spa:
+  - - sugerencia
+    - propuesta
+  - - proponer
+    - sugerir
+search terms:
+  glb:
+  - jeni
+  eng:
+  - suggestion
+  - proposal
+  - proposition
+  - propose
+  - suggest
+  epo:
+  - propono
+  - proponi
+  spa:
+  - sugerencia
+  - propuesta
+  - proponer
+  - sugerir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jeni
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: suggestion, proposal, proposition; propose, suggest
+    epo: propono; proponi
+    spa: sugerencia, propuesta; proponer, sugerir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5EFA\u8BAE \u201Cji\xE0ny\xEC\u201D), Hangusa (\uC81C\uC548
+    \u201Cjean\u201D)"
+...

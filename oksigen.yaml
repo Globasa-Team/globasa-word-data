@@ -1,0 +1,80 @@
+---
+term: oksigen
+slug: oksigen
+ipa: "oksi\u02C8gen"
+ipa link: "http://ipa-reader.xyz/?text=oksi\u02C8gen&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - oxigen
+  epo:
+  - - oksigeno
+  spa:
+  - - "ox\xEDgeno"
+    - O
+search terms:
+  glb:
+  - oksigen
+  eng:
+  - oxigen
+  epo:
+  - oksigeno
+  spa:
+  - "ox\xEDgeno"
+  - o
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - oxygen
+  Hindisa:
+  - - "\u0911\u0915\u094D\u0938\u0940\u091C\u0928 \u201Coksijan\u201D"
+  Espanisa:
+  - - "ox\xEDgeno"
+  Arabisa:
+  - - "\u0623\u064F\u0643\u0652\u0633\u0650\u062C\u0650\u064A\u0646 \u201Coksijen\u201D"
+  Fransesa:
+  - - "oxyg\xE8ne"
+  Indonesisa:
+  - - oksigen
+  Doycisa:
+  - - Oxygen
+    - Oxygenium
+  Turkisa:
+  - - oksijen
+  Vyetnamsa:
+  - - "\xF4xy"
+  Parsisa:
+  - - "\u0627\u06A9\u0633\u06CC\u0698\u0646 \u201Coksijen\u201D"
+  Swahilisa:
+  - - oksijeni
+  Pilipinasa:
+  - - oksiheno
+    - oksihena
+tags:
+- kimikali monlari
+raw data:
+  term: oksigen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: oxigen
+    epo: oksigeno
+    spa: "ox\xEDgeno, O"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (oxygen), Hindisa (\u0911\u0915\u094D\u0938\u0940\u091C\u0928
+    \u201Coksijan\u201D), Espanisa (ox\xEDgeno), Arabisa (\u0623\u064F\u0643\u0652\u0633\u0650\u062C\u0650\u064A\u0646
+    \u201Coksijen\u201D), Fransesa (oxyg\xE8ne), Indonesisa (oksigen), Doycisa (Oxygen,
+    Oxygenium), Turkisa (oksijen), Vyetnamsa (\xF4xy), Parsisa (\u0627\u06A9\u0633\u06CC\u0698\u0646
+    \u201Coksijen\u201D), Swahilisa (oksijeni), Pilipinasa (oksiheno, oksihena)"
+...

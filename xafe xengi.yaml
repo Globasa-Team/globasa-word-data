@@ -1,0 +1,48 @@
+---
+term: xafe xengi
+slug: xafe xengi
+ipa: "\u02C8\u0283afe \u02C8\u0283engi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283afe \u02C8\u0283engi&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - postpartum
+  epo:
+  - - post nasko
+  spa:
+  - - posparto
+search terms:
+  glb:
+  - xafe xengi
+  - xafe
+  - xengi
+  eng:
+  - postpartum
+  epo:
+  - post nasko
+  spa:
+  - posparto
+etymology_type: DERIVD
+etymology: <a href="../lexi/xafe">xafe</a>, <a href="../lexi/xengi">xengi</a>
+raw data:
+  term: xafe xengi
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: postpartum
+    epo: post nasko
+    spa: posparto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xafe, xengi
+...

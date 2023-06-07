@@ -1,0 +1,48 @@
+---
+term: suipul
+slug: suipul
+ipa: "sui\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=sui\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - hydrated
+  epo:
+  - - hidratigita
+  - - hidratigite
+  spa:
+  - - hidratado
+search terms:
+  glb:
+  - suipul
+  eng:
+  - hydrated
+  epo:
+  - hidratigita
+  - hidratigite
+  spa:
+  - hidratado
+etymology_type: DERIVD
+etymology: <a href="../lexi/sui">sui</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: suipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: hydrated
+    epo: hidratigita; hidratigite
+    spa: hidratado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sui + -pul
+...

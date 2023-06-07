@@ -1,0 +1,58 @@
+---
+term: funci
+slug: funci
+ipa: ˈfunt͡ʃi
+ipa link: http://ipa-reader.xyz/?text=ˈfunt͡ʃi&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - satire
+  - - satirize
+  epo:
+  - - satiro
+  - - satiri
+  spa:
+  - - sátira
+  - - satirizar
+search terms:
+  glb:
+  - funci
+  eng:
+  - satire
+  - satirize
+  epo:
+  - satiro
+  - satiri
+  spa:
+  - sátira
+  - satirizar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 讽刺 "fengtsi"
+  Niponsa:
+  - - 風刺 "fuxi"
+  Hangusa:
+  - - 풍자 "pungja"
+raw data:
+  term: funci
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: satire; satirize
+    epo: satiro; satiri
+    spa: sátira; satirizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (讽刺 "fengtsi"), Niponsa (風刺 "fuxi"), Hangusa (풍자 "pungja")
+...

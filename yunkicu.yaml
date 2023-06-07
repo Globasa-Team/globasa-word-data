@@ -1,0 +1,50 @@
+---
+term: yunkicu
+slug: yunkicu
+ipa: "jun\u02C8kit\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=jun\u02C8kit\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - dare
+    - have the courage
+  epo:
+  - - "kura\u011Di\u011Dado"
+  - - "kura\u011Di\u011Di"
+  spa:
+  - - tener valor
+search terms:
+  glb:
+  - yunkicu
+  eng:
+  - dare
+  - have the courage
+  epo:
+  - "kura\u011Di\u011Dado"
+  - "kura\u011Di\u011Di"
+  spa:
+  - tener valor
+etymology_type: DERIVD
+etymology: <a href="../lexi/yunki">yunki</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: yunkicu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: dare, have the courage
+    epo: "kura\u011Di\u011Dado; kura\u011Di\u011Di"
+    spa: tener valor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yunki + -cu
+...

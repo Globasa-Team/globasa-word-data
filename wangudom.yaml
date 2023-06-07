@@ -1,0 +1,46 @@
+---
+term: wangudom
+slug: wangudom
+ipa: "wangu\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=wangu\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - kingdom
+  epo:
+  - - "re\u011Dlando"
+  spa:
+  - - reino
+search terms:
+  glb:
+  - wangudom
+  eng:
+  - kingdom
+  epo:
+  - "re\u011Dlando"
+  spa:
+  - reino
+etymology_type: DERIVD
+etymology: <a href="../lexi/wangu">wangu</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: wangudom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: kingdom
+    epo: "re\u011Dlando"
+    spa: reino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wangu + -dom
+...

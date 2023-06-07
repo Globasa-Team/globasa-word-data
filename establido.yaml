@@ -1,0 +1,58 @@
+---
+term: establido
+slug: establido
+ipa: "esta\u02C8blido"
+ipa link: "http://ipa-reader.xyz/?text=esta\u02C8blido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - established
+    - set
+  epo:
+  - - establita
+    - determinita
+    - decidita
+  - - establite
+    - determinite
+    - decidite
+  spa:
+  - - establecido
+search terms:
+  glb:
+  - establido
+  eng:
+  - established
+  - set
+  epo:
+  - establita
+  - determinita
+  - decidita
+  - establite
+  - determinite
+  - decidite
+  spa:
+  - establecido
+etymology_type: DERIVD
+etymology: <a href="../lexi/establi">establi</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: establido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: established, set
+    epo: establita, determinita, decidita; establite, determinite, decidite
+    spa: establecido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: establi + -do
+...

@@ -1,0 +1,54 @@
+---
+term: trasgi
+slug: trasgi
+ipa: "\u02C8t\u027Easgi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u027Easgi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - put across
+    - take across
+  epo:
+  - - transigo
+    - transmeto
+  - - transigi
+    - transmeti
+  spa:
+  - - hacer cruzar
+search terms:
+  glb:
+  - trasgi
+  eng:
+  - put across
+  - take across
+  epo:
+  - transigo
+  - transmeto
+  - transigi
+  - transmeti
+  spa:
+  - hacer cruzar
+etymology_type: DERIVD
+etymology: <a href="../lexi/tras">tras</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: trasgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: put across, take across
+    epo: transigo, transmeto; transigi, transmeti
+    spa: hacer cruzar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tras + -gi
+...

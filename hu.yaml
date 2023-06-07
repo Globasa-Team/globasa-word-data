@@ -1,0 +1,55 @@
+---
+term: hu
+slug: hu
+ipa: xu
+ipa link: http://ipa-reader.xyz/?text=xu&voice=Ewa
+status: true
+category: root
+word class: l
+trans:
+  eng:
+  - - _modifying clause marker:_ who
+    - which
+    - that
+  epo:
+  - - _markilo de modifa frazo:_ kiu
+    - kio
+    - ke
+  spa:
+  - - "_marcador de cl\xE1usula de modificaci\xF3n:_ que"
+    - quien
+    - cual
+search terms:
+  glb:
+  - hu
+  eng:
+  - which
+  - that
+  epo:
+  - kio
+  - ke
+  spa:
+  - quien
+  - cual
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hu
+  category: root
+  word class: l
+  status: true
+  trans:
+    eng: _modifying clause marker:_ who, which, that
+    epo: _markilo de modifa frazo:_ kiu, kio, ke
+    spa: "_marcador de cl\xE1usula de modificaci\xF3n:_ que, quien, cual"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (who; /hw-/)
+...

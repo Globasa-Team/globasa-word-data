@@ -1,0 +1,52 @@
+---
+term: hegemoni
+slug: hegemoni
+ipa: "xege\u02C8moni"
+ipa link: "http://ipa-reader.xyz/?text=xege\u02C8moni&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hegemony
+  epo:
+  - - hegemonio
+  spa:
+  - - "hegemon\xEDa"
+search terms:
+  glb:
+  - hegemoni
+  eng:
+  - hegemony
+  epo:
+  - hegemonio
+  spa:
+  - "hegemon\xEDa"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- politi
+raw data:
+  term: hegemoni
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: hegemony
+    epo: hegemonio
+    spa: "hegemon\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: "Englisa (hegemony), Espanisa (hegemon\xEDa), Fransesa (h\xE9g\xE9monie),
+    Rusisa (\u0433\u0435\u0433\u0435\u043C\u043E\u043D\u0438\u044F \"gegemoniya\"),
+    Doycisa (Hegemonie), Indonesisa (hegemoni), Pilipinasa (ehemoniya), Niponsa (\u30D8\u30B2\u30E2\u30CB\u30FC
+    \"hegemoni\"), Turkisa (hegemonya), Hangusa (\uD5E4\uAC8C\uBAA8\uB2C8 \"hegemoni\"),
+    Parsisa (\u0647\u0698\u0645\u0648\u0646\u06CC \"hejemoni\")"
+...

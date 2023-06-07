@@ -1,0 +1,52 @@
+---
+term: desunple
+slug: desunple
+ipa: "de\u02C8sunple"
+ipa link: "http://ipa-reader.xyz/?text=de\u02C8sunple&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - undecuple
+    - hendecuple
+    - elevenfold
+  epo:
+  - - dekunobla
+  - - dekunoble
+  spa:
+  - - "und\xE9cuple"
+search terms:
+  glb:
+  - desunple
+  eng:
+  - undecuple
+  - hendecuple
+  - elevenfold
+  epo:
+  - dekunobla
+  - dekunoble
+  spa:
+  - "und\xE9cuple"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/un">un</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: desunple
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: undecuple, hendecuple, elevenfold
+    epo: dekunobla; dekunoble
+    spa: "und\xE9cuple"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + un + -ple
+...

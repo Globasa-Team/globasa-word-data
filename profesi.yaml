@@ -1,0 +1,59 @@
+---
+term: profesi
+slug: profesi
+ipa: "p\u027Eo\u02C8fesi"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eo\u02C8fesi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - profession
+    - career
+  epo:
+  - - profesio
+  spa:
+  - - "profesi\xF3n"
+    - carrera
+search terms:
+  glb:
+  - profesi
+  eng:
+  - profession
+  - career
+  epo:
+  - profesio
+  spa:
+  - "profesi\xF3n"
+  - carrera
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - profession
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+raw data:
+  term: profesi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: profession, career
+    epo: profesio
+    spa: "profesi\xF3n, carrera"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (profession), Fransesa, Doycisa, Rusisa, Espanisa, Indonesisa,
+    Pilipinasa
+...

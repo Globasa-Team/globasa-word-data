@@ -1,0 +1,52 @@
+---
+term: esloveni
+slug: esloveni
+ipa: "eslo\u02C8veni"
+ipa link: "http://ipa-reader.xyz/?text=eslo\u02C8veni&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Slovenia
+  epo:
+  - - Slovenio
+    - Slovenujo
+  spa:
+  - - Eslovenia
+search terms:
+  glb:
+  - esloveni
+  eng:
+  - slovenia
+  epo:
+  - slovenio
+  - slovenujo
+  spa:
+  - eslovenia
+etymology_type: NATLNG
+etymology:
+  Eslovenisa:
+  - - Slovenija
+tags:
+- dexa
+raw data:
+  term: Esloveni
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Slovenia
+    epo: Slovenio, Slovenujo
+    spa: Eslovenia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Eslovenisa (Slovenija)
+...

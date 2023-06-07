@@ -1,0 +1,67 @@
+---
+term: filamen
+slug: filamen
+ipa: filaˈmen
+ipa link: http://ipa-reader.xyz/?text=filaˈmen&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - filament
+    - fiber
+  epo:
+  - - filamento
+    - fibro
+  spa:
+  - - filamento
+    - fibra
+search terms:
+  glb:
+  - filamen
+  eng:
+  - filament
+  - fiber
+  epo:
+  - filamento
+  - fibro
+  spa:
+  - filamento
+  - fibra
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - filament
+  Espanisa:
+  - - filamento
+  Fransesa:
+  - - filament
+  Indonesisa:
+  - - filamen
+  Turkisa:
+  - - filaman
+  Niponsa:
+  - - フィラメント “firamento”
+  Hangusa:
+  - - 필라멘트 “pilamentu”
+raw data:
+  term: filamen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: filament, fiber
+    epo: filamento, fibro
+    spa: filamento, fibra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (filament), Espanisa (filamento), Fransesa (filament), Indonesisa
+    (filamen), Turkisa (filaman), Niponsa (フィラメント “firamento”), Hangusa (필라멘트 “pilamentu”)
+...

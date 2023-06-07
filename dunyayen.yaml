@@ -1,0 +1,54 @@
+---
+term: dunyayen
+slug: dunyayen
+ipa: "dunja\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=dunja\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Earthling
+    - world citizen
+    - terrestrial being
+  epo:
+  - - Terano
+    - "Tera esta\u0135o"
+  spa:
+  - - "terr\xEDcola"
+    - ciudadano del mundo
+search terms:
+  glb:
+  - dunyayen
+  eng:
+  - earthling
+  - world citizen
+  - terrestrial being
+  epo:
+  - terano
+  - "tera esta\u0135o"
+  spa:
+  - "terr\xEDcola"
+  - ciudadano del mundo
+etymology_type: DERIVD
+etymology: <a href="../lexi/Dunya">Dunya</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Dunyayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Earthling, world citizen, terrestrial being
+    epo: "Terano, Tera esta\u0135o"
+    spa: "terr\xEDcola, ciudadano del mundo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Dunya + -yen
+...

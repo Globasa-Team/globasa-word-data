@@ -1,0 +1,72 @@
+---
+term: presyon
+slug: presyon
+ipa: "p\u027Ee\u02C8sjon"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Ee\u02C8sjon&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - pressure
+  - - put pressure (on)
+    - press
+  epo:
+  - - premo
+  - - premi
+  spa:
+  - - "presi\xF3n"
+  - - presionar
+search terms:
+  glb:
+  - presyon
+  eng:
+  - pressure
+  - put pressure on
+  - put pressure
+  - press
+  epo:
+  - premo
+  - premi
+  spa:
+  - "presi\xF3n"
+  - presionar
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Pression
+  Englisa:
+  - - pressure
+    - press
+  Fransesa:
+  - - pression
+  Espanisa:
+  - - "presi\xF3n"
+  Pilipinasa:
+  - - presyon
+  Turkisa:
+  - - pres
+  Parsisa:
+  - - "\u067E\u0631\u0633 \"pres\""
+raw data:
+  term: presyon
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: pressure; put pressure (on), press
+    epo: premo; premi
+    spa: "presi\xF3n; presionar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Pression), Englisa (pressure, press), Fransesa (pression),
+    Espanisa (presi\xF3n), Pilipinasa (presyon), Turkisa (pres), Parsisa (\u067E\u0631\u0633
+    \"pres\")"
+...

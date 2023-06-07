@@ -1,0 +1,57 @@
+---
+term: cinju
+slug: cinju
+ipa: ˈt͡ʃind͡ʒu
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃind͡ʒu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pearl
+  epo:
+  - - perlo
+  spa:
+  - - perla
+search terms:
+  glb:
+  - cinju
+  eng:
+  - pearl
+  epo:
+  - perlo
+  spa:
+  - perla
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - жемчуг “jemcuk”
+  Putunhwa:
+  - - 珍珠 “jenju”
+  Turkisa:
+  - - inci
+  Hangusa:
+  - - 진주 “cinju”
+  Vyetnamsa:
+  - - trân châu
+raw data:
+  term: cinju
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pearl
+    epo: perlo
+    spa: perla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Rusisa (жемчуг “jemcuk”), Putunhwa (珍珠 “jenju”), Turkisa (inci), Hangusa
+    (진주 “cinju”), Vyetnamsa (trân châu)
+...

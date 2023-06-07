@@ -1,0 +1,53 @@
+---
+term: namake
+slug: namake
+ipa: "na\u02C8make"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8make&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - salt
+  epo:
+  - - salo
+  spa:
+  - - sal
+search terms:
+  glb:
+  - namake
+  eng:
+  - salt
+  epo:
+  - salo
+  spa:
+  - sal
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0928\u092E\u0915 \u201Cnamak\u201D"
+  Parsisa:
+  - - "\u0646\u0645\u06A9 \u201Cnamak\u201D"
+tags:
+- yamxey
+raw data:
+  term: namake
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: salt
+    epo: salo
+    spa: sal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Hindisa (\u0928\u092E\u0915 \u201Cnamak\u201D), Parsisa (\u0646\u0645\u06A9
+    \u201Cnamak\u201D)"
+...

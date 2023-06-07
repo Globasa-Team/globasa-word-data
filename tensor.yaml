@@ -1,0 +1,76 @@
+---
+term: tensor
+slug: tensor
+ipa: "ten\u02C8so\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ten\u02C8so\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tensor (_mathematics_)
+  epo:
+  - - tensoro
+  spa:
+  - - tensor
+search terms:
+  glb:
+  - tensor
+  eng:
+  - tensor
+  epo:
+  - tensoro
+  spa:
+  - tensor
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tensor
+  Espanisa:
+  - - tensor
+  Fransesa:
+  - - tenseur
+  Rusisa:
+  - - "\u0442\u0435\u043D\u0437\u043E\u0440 \"tenzor\""
+  Doycisa:
+  - - Tensor
+  Indonesisa:
+  - - tensor
+  Pilipinasa:
+  - - tensor
+  Hindisa:
+  - - "\u091F\u0947\u0902\u0938\u0930 \"tensar\""
+  Niponsa:
+  - - "\u30C6\u30F3\u30BD\u30EB \"tensoru\""
+  Turkisa:
+  - - "tens\xF6r"
+  Vyetnamsa:
+  - - "tenx\u01A1"
+  Hangusa:
+  - - "\uD150\uC11C \"tenso\""
+  Parsisa:
+  - - "\u062A\u0627\u0646\u0633\u0648\u0631 \"tensor\""
+raw data:
+  term: tensor
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tensor (_mathematics_)
+    epo: tensoro
+    spa: tensor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tensor), Espanisa (tensor), Fransesa (tenseur), Rusisa (\u0442\u0435\u043D\u0437\u043E\u0440
+    \"tenzor\"), Doycisa (Tensor), Indonesisa (tensor), Pilipinasa (tensor), Hindisa
+    (\u091F\u0947\u0902\u0938\u0930 \"tensar\"), Niponsa (\u30C6\u30F3\u30BD\u30EB
+    \"tensoru\"), Turkisa (tens\xF6r), Vyetnamsa (tenx\u01A1), Hangusa (\uD150\uC11C
+    \"tenso\"), Parsisa (\u062A\u0627\u0646\u0633\u0648\u0631 \"tensor\")"
+...

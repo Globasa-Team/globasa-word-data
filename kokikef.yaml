@@ -1,0 +1,46 @@
+---
+term: kokikef
+slug: kokikef
+ipa: "koki\u02C8kef"
+ipa link: "http://ipa-reader.xyz/?text=koki\u02C8kef&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - chef
+  epo:
+  - - "\u0109efkuiristo"
+  spa:
+  - - chef
+search terms:
+  glb:
+  - kokikef
+  eng:
+  - chef
+  epo:
+  - "\u0109efkuiristo"
+  spa:
+  - chef
+etymology_type: DERIVD
+etymology: <a href="../lexi/koki">koki</a> + <a href="../lexi/-kef">-kef</a>
+raw data:
+  term: kokikef
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: chef
+    epo: "\u0109efkuiristo"
+    spa: chef
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: koki + -kef
+...

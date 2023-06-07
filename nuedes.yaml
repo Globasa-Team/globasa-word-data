@@ -1,0 +1,46 @@
+---
+term: nuedes
+slug: nuedes
+ipa: "nue\u02C8des"
+ipa link: "http://ipa-reader.xyz/?text=nue\u02C8des&voice=Ewa"
+status: false
+category: derived
+word class: num
+trans:
+  eng:
+  - - ninety
+  epo:
+  - - "na\u016Ddek"
+  spa:
+  - - noventa
+search terms:
+  glb:
+  - nuedes
+  eng:
+  - ninety
+  epo:
+  - "na\u016Ddek"
+  spa:
+  - noventa
+etymology_type: DERIVD
+etymology: <a href="../lexi/nue">nue</a> + <a href="../lexi/des">des</a>
+raw data:
+  term: nuedes
+  category: derived
+  word class: num
+  status: false
+  trans:
+    eng: ninety
+    epo: "na\u016Ddek"
+    spa: noventa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nue + des
+...

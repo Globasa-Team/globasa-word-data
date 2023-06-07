@@ -1,0 +1,48 @@
+---
+term: medisli
+slug: medisli
+ipa: "me\u02C8disli"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8disli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - medical
+  epo:
+  - - medicina
+    - kuraca
+  spa:
+  - - "m\xE9dico"
+search terms:
+  glb:
+  - medisli
+  eng:
+  - medical
+  epo:
+  - medicina
+  - kuraca
+  spa:
+  - "m\xE9dico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/medi">medi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: medisli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: medical
+    epo: medicina, kuraca
+    spa: "m\xE9dico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: medi + -li
+...

@@ -1,0 +1,52 @@
+---
+term: doste
+slug: doste
+ipa: ˈdoste
+ipa link: http://ipa-reader.xyz/?text=ˈdoste&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - friend
+  epo:
+  - - amiko
+  spa:
+  - - amigo
+search terms:
+  glb:
+  - doste
+  eng:
+  - friend
+  epo:
+  - amiko
+  spa:
+  - amigo
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - दोस्त “dost”
+  Turkisa:
+  - - dost
+  Parsisa:
+  - - دوست “dust”
+raw data:
+  term: doste
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: friend
+    epo: amiko
+    spa: amigo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (दोस्त “dost”), Turkisa (dost), Parsisa (دوست “dust”)
+...

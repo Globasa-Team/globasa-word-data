@@ -1,0 +1,52 @@
+---
+term: rukone
+slug: rukone
+ipa: "\u027Eu\u02C8kone"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8kone&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - recognition
+  - - recognize (_identify_)
+  epo:
+  - - rekono
+  - - rekoni
+  spa:
+  - - reconocimiento
+  - - reconocer
+search terms:
+  glb:
+  - rukone
+  eng:
+  - recognition
+  - recognize
+  epo:
+  - rekono
+  - rekoni
+  spa:
+  - reconocimiento
+  - reconocer
+etymology_type: DERIVD
+etymology: <a href="../lexi/ru-">ru-</a> + <a href="../lexi/kone">kone</a>
+raw data:
+  term: rukone
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: 'recognition; recognize (_identify_) '
+    epo: rekono; rekoni
+    spa: reconocimiento; reconocer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ru- + kone
+...

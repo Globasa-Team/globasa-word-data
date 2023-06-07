@@ -1,0 +1,61 @@
+---
+term: gwafu
+slug: gwafu
+ipa: ˈgwafu
+ipa link: http://ipa-reader.xyz/?text=ˈgwafu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - widow
+    - widower
+  epo:
+  - - vidvo
+    - vidvino
+  spa:
+  - - viudo
+search terms:
+  glb:
+  - gwafu
+  eng:
+  - widow
+  - widower
+  epo:
+  - vidvo
+  - vidvino
+  spa:
+  - viudo
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 寡妇 “guǎfù”
+  Hangusa:
+  - - 과부 “gwabu”
+  Niponsa:
+  - - 寡婦 “kafu”
+  Vyetnamsa:
+  - - góa phụ
+tags:
+- insan
+raw data:
+  term: gwafu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: widow, widower
+    epo: vidvo, vidvino
+    spa: viudo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: Putunhwa (寡妇 “guǎfù”), Hangusa (과부 “gwabu”), Niponsa (寡婦 “kafu”), Vyetnamsa
+    (góa phụ)
+...

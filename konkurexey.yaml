@@ -1,0 +1,52 @@
+---
+term: konkurexey
+slug: konkurexey
+ipa: "konku\u027Ee\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=konku\u027Ee\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - contest
+    - competition
+  epo:
+  - - "konkura\u0135o"
+    - "konkursa\u0135o"
+    - "konkurenca\u0135o"
+  spa:
+  - - concurso
+search terms:
+  glb:
+  - konkurexey
+  eng:
+  - contest
+  - competition
+  epo:
+  - "konkura\u0135o"
+  - "konkursa\u0135o"
+  - "konkurenca\u0135o"
+  spa:
+  - concurso
+etymology_type: DERIVD
+etymology: <a href="../lexi/konkure">konkure</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: konkurexey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: contest, competition
+    epo: "konkura\u0135o, konkursa\u0135o, konkurenca\u0135o"
+    spa: concurso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: konkure + -xey
+...

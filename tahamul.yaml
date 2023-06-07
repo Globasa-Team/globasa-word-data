@@ -1,0 +1,78 @@
+---
+term: tahamul
+slug: tahamul
+ipa: "taxa\u02C8mul"
+ipa link: "http://ipa-reader.xyz/?text=taxa\u02C8mul&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - tolerance
+  - - tolerate
+    - bear
+    - stand
+    - withstand
+    - cope (with)
+    - resist
+  epo:
+  - - tolero
+  - - toleri
+    - elteni
+  spa:
+  - - tolerancia
+  - - tolerar
+    - aguantar
+    - soportar
+    - resistir
+search terms:
+  glb:
+  - tahamul
+  eng:
+  - tolerance
+  - tolerate
+  - bear
+  - stand
+  - withstand
+  - cope with
+  - cope
+  - resist
+  epo:
+  - tolero
+  - toleri
+  - elteni
+  spa:
+  - tolerancia
+  - tolerar
+  - aguantar
+  - soportar
+  - resistir
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u062D\u0645\u0644 \u201Ctahmil\u201D"
+  Parsisa:
+  - - "\u062A\u062D\u0645\u0644 \u201Ctahammol\u201D"
+  Turkisa:
+  - - "tahamm\xFCl"
+raw data:
+  term: tahamul
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: tolerance; tolerate, bear, stand, withstand, cope (with), resist
+    epo: tolero; toleri, elteni
+    spa: tolerancia; tolerar, aguantar, soportar, resistir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u062D\u0645\u0644 \u201Ctahmil\u201D), Parsisa (\u062A\u062D\u0645\u0644
+    \u201Ctahammol\u201D), Turkisa (tahamm\xFCl)"
+...

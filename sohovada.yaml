@@ -1,0 +1,54 @@
+---
+term: sohovada
+slug: sohovada
+ipa: "soxo\u02C8vada"
+ipa link: "http://ipa-reader.xyz/?text=soxo\u02C8vada&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - agreement
+    - commitment
+    - deal
+  - - agree (to)
+    - commit (to)
+  spa:
+  - - compromiso
+  - - comprometerse
+search terms:
+  glb:
+  - sohovada
+  eng:
+  - agreement
+  - commitment
+  - deal
+  - agree to
+  - agree
+  - commit to
+  - commit
+  spa:
+  - compromiso
+  - comprometerse
+etymology_type: DERIVD
+etymology: <a href="../lexi/soho">soho</a> + <a href="../lexi/vada">vada</a>
+raw data:
+  term: sohovada
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: agreement, commitment, deal; agree (to), commit (to)
+    epo: ""
+    spa: compromiso; comprometerse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: soho + vada
+...

@@ -1,0 +1,89 @@
+---
+term: tenesin
+slug: tenesin
+ipa: "tene\u02C8sin"
+ipa link: "http://ipa-reader.xyz/?text=tene\u02C8sin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tennessine
+  epo:
+  - - teneso
+  spa:
+  - - teneso
+    - Ts
+search terms:
+  glb:
+  - tenesin
+  eng:
+  - tennessine
+  epo:
+  - teneso
+  spa:
+  - teneso
+  - ts
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - "tennessine \u201Ctenesin\u201D"
+  Hindisa:
+  - - "\u091F\u0947\u0928\u093F\u0938\u0940\u0928 \u201Ctenisin\u201D"
+  Espanisa:
+  - - teneso
+  Arabisa:
+  - - "\u062A\u0650\u064A\u0646\u0650\u064A\u0633\u0650\u064A\u0646 \u201Ctinisin\u201D"
+  Fransesa:
+  - - tennesse
+  Rusisa:
+  - - "\u0442\u0435\u043D\u043D\u0435\u0441\u0441\u0438\u043D \u201Ctennessin\u201D"
+  Indonesisa:
+  - - tenesso
+  Doycisa:
+  - - Tenness
+  Niponsa:
+  - - "\u30C6\u30CD\u30B7\u30F3 \u201Ctenexin\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C46\u0C28\u0C4D\u0C28\u0C46\u0C38\u0C48\u0C28\u0C4D \u201Ctenesen\u201D"
+  Turkisa:
+  - - tennesin
+  Hangusa:
+  - - "\uD14C\uB124\uC2E0 \u201Ctenexin\u201D"
+  Vyetnamsa:
+  - - tennesine
+  Parsisa:
+  - - "\u062A\u0646\u0633\u06CC\u0646 \u201Ctenesin\u201D"
+  Swahilisa:
+  - - tenesi
+  Pilipinasa:
+  - - tenesin
+tags:
+- kimikali monlari
+raw data:
+  term: tenesin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tennessine
+    epo: teneso
+    spa: teneso, Ts
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (tennessine \u201Ctenesin\u201D), Hindisa (\u091F\u0947\u0928\u093F\u0938\u0940\u0928
+    \u201Ctenisin\u201D), Espanisa (teneso), Arabisa (\u062A\u0650\u064A\u0646\u0650\u064A\u0633\u0650\u064A\u0646
+    \u201Ctinisin\u201D), Fransesa (tennesse), Rusisa (\u0442\u0435\u043D\u043D\u0435\u0441\u0441\u0438\u043D
+    \u201Ctennessin\u201D), Indonesisa (tenesso), Doycisa (Tenness), Niponsa (\u30C6\u30CD\u30B7\u30F3
+    \u201Ctenexin\u201D), Telugusa (\u0C1F\u0C46\u0C28\u0C4D\u0C28\u0C46\u0C38\u0C48\u0C28\u0C4D
+    \u201Ctenesen\u201D), Turkisa (tennesin), Hangusa (\uD14C\uB124\uC2E0 \u201Ctenexin\u201D),
+    Vyetnamsa (tennesine), Parsisa (\u062A\u0646\u0633\u06CC\u0646 \u201Ctenesin\u201D),
+    Swahilisa (tenesi), Pilipinasa (tenesin)"
+...

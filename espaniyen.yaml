@@ -1,0 +1,46 @@
+---
+term: espaniyen
+slug: espaniyen
+ipa: "espani\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=espani\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Spaniard
+  epo:
+  - - hispano
+  spa:
+  - - "espa\xF1ol (_persona_)"
+search terms:
+  glb:
+  - espaniyen
+  eng:
+  - spaniard
+  epo:
+  - hispano
+  spa:
+  - "espa\xF1ol"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Espani">Espani</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Espaniyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Spaniard
+    epo: hispano
+    spa: "espa\xF1ol (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espani + -yen
+...

@@ -1,0 +1,53 @@
+---
+term: sokitan
+slug: sokitan
+ipa: "soki\u02C8tan"
+ipa link: "http://ipa-reader.xyz/?text=soki\u02C8tan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coal
+  epo:
+  - - karbo
+  spa:
+  - - "carb\xF3n (_mineral_)"
+search terms:
+  glb:
+  - sokitan
+  eng:
+  - coal
+  epo:
+  - karbo
+  spa:
+  - "carb\xF3n"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u77F3\u70AD \u201Cxitan\u201D"
+  Niponsa:
+  - - "\u77F3\u70AD \u201Csekitan\u201D"
+  Hangusa:
+  - - "\uC11D\uD0C4 \u201Csoktan\u201D"
+raw data:
+  term: sokitan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coal
+    epo: karbo
+    spa: "carb\xF3n (_mineral_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u77F3\u70AD \u201Cxitan\u201D), Niponsa (\u77F3\u70AD \u201Csekitan\u201D),
+    Hangusa (\uC11D\uD0C4 \u201Csoktan\u201D)"
+...

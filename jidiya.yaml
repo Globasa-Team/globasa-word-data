@@ -1,0 +1,48 @@
+---
+term: jidiya
+slug: jidiya
+ipa: "d\u0361\u0292i\u02C8dija"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i\u02C8dija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - seriousness
+    - earnestness
+  epo:
+  - - seriozeco
+  spa:
+  - - seriedad
+search terms:
+  glb:
+  - jidiya
+  eng:
+  - seriousness
+  - earnestness
+  epo:
+  - seriozeco
+  spa:
+  - seriedad
+etymology_type: DERIVD
+etymology: <a href="../lexi/jidi">jidi</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: jidiya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: seriousness, earnestness
+    epo: seriozeco
+    spa: seriedad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jidi + -ya
+...

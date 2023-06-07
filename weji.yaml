@@ -1,0 +1,62 @@
+---
+term: weji
+slug: weji
+ipa: "\u02C8wed\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wed\u0361\u0292i&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wedge
+  epo:
+  - - kojno
+  spa:
+  - - "cu\xF1a"
+search terms:
+  glb:
+  - weji
+  eng:
+  - wedge
+  epo:
+  - kojno
+  spa:
+  - "cu\xF1a"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - wedge
+  Doycisa:
+  - - Weck
+  Indonesisa:
+  - - baji
+  Putunhwa:
+  - - '"xyedzi"'
+  Hindisa:
+  - - "\u0935\u0948\u091C \"vej\""
+  Arabisa:
+  - - "\u0648\u064E\u062A\u0650\u062F \"watid\""
+  Hangusa:
+  - - "\uC410\uAE30 \"swegi\""
+raw data:
+  term: weji
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wedge
+    epo: kojno
+    spa: "cu\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (wedge), Doycisa (Weck), Indonesisa (baji), Putunhwa (\"xyedzi\"),
+    Hindisa (\u0935\u0948\u091C \"vej\"), Arabisa (\u0648\u064E\u062A\u0650\u062F
+    \"watid\"), Hangusa (\uC410\uAE30 \"swegi\")"
+...

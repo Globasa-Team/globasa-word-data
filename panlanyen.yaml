@@ -1,0 +1,46 @@
+---
+term: panlanyen
+slug: panlanyen
+ipa: "panla\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=panla\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - rebel (_person_)
+  epo:
+  - - ribelanto
+  spa:
+  - - rebelde (_persona_)
+search terms:
+  glb:
+  - panlanyen
+  eng:
+  - rebel
+  epo:
+  - ribelanto
+  spa:
+  - rebelde
+etymology_type: DERIVD
+etymology: <a href="../lexi/panlan">panlan</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: panlanyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: rebel (_person_)
+    epo: ribelanto
+    spa: rebelde (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: panlan + -yen
+...

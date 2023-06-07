@@ -1,0 +1,46 @@
+---
+term: nenyon
+slug: nenyon
+ipa: "ne\u02C8njon"
+ipa link: "http://ipa-reader.xyz/?text=ne\u02C8njon&voice=Ewa"
+status: false
+category: derived
+word class: p
+trans:
+  eng:
+  - - without (_not using_)
+  epo:
+  - - ne per
+  spa:
+  - - sin usar
+search terms:
+  glb:
+  - nenyon
+  eng:
+  - without
+  epo:
+  - ne per
+  spa:
+  - sin usar
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/yon">yon</a>
+raw data:
+  term: nenyon
+  category: derived
+  word class: p
+  status: false
+  trans:
+    eng: without (_not using_)
+    epo: ne per
+    spa: sin usar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + yon
+...

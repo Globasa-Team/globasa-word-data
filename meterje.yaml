@@ -1,0 +1,46 @@
+---
+term: meterje
+slug: meterje
+ipa: "me\u02C8te\u027Ed\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8te\u027Ed\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - dimension
+  epo:
+  - - dimensio
+  spa:
+  - - "dimensi\xF3n"
+search terms:
+  glb:
+  - meterje
+  eng:
+  - dimension
+  epo:
+  - dimensio
+  spa:
+  - "dimensi\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/meter">meter</a> + <a href="../lexi/-je">-je</a>
+raw data:
+  term: meterje
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: dimension
+    epo: dimensio
+    spa: "dimensi\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: meter + -je
+...

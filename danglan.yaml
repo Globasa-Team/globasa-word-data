@@ -1,0 +1,52 @@
+---
+term: danglan
+slug: danglan
+ipa: danˈglan
+ipa link: http://ipa-reader.xyz/?text=danˈglan&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (praying) mantis
+  epo:
+  - - manto
+  spa:
+  - - mantis (religiosa)
+search terms:
+  glb:
+  - danglan
+  eng:
+  - praying mantis
+  - mantis
+  epo:
+  - manto
+  spa:
+  - mantis religiosa
+  - mantis
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 螳螂 “tanglang”
+  Hangusa:
+  - - 당랑 “dangnang”
+raw data:
+  term: danglan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (praying) mantis
+    epo: manto
+    spa: mantis (religiosa)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (螳螂 “tanglang”), Hangusa (당랑 “dangnang”)
+...

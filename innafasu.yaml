@@ -1,0 +1,60 @@
+---
+term: innafasu
+slug: innafasu
+ipa: "inna\u02C8fasu"
+ipa link: "http://ipa-reader.xyz/?text=inna\u02C8fasu&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - inhalation
+  - - inhale
+  epo:
+  - - enspiro
+    - inhalo
+  - - enspiri
+    - inhali
+  spa:
+  - - "inhalaci\xF3n"
+    - "aspiraci\xF3n"
+  - - inhalar
+    - aspirar
+search terms:
+  glb:
+  - innafasu
+  eng:
+  - inhalation
+  - inhale
+  epo:
+  - enspiro
+  - inhalo
+  - enspiri
+  - inhali
+  spa:
+  - "inhalaci\xF3n"
+  - "aspiraci\xF3n"
+  - inhalar
+  - aspirar
+etymology_type: DERIVD
+etymology: <a href="../lexi/in-">in-</a> + <a href="../lexi/nafasu">nafasu</a>
+raw data:
+  term: innafasu
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: inhalation; inhale
+    epo: enspiro, inhalo; enspiri, inhali
+    spa: "inhalaci\xF3n, aspiraci\xF3n; inhalar, aspirar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in- + nafasu
+...

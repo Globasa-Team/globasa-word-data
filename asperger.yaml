@@ -1,0 +1,50 @@
+---
+term: asperger
+slug: asperger
+ipa: "aspe\u027E\u02C8ge\u027E"
+ipa link: "http://ipa-reader.xyz/?text=aspe\u027E\u02C8ge\u027E&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Asperger (name)
+  epo:
+  - - Asperger (nomo)
+  spa:
+  - - Asperger (_nombre_)
+search terms:
+  glb:
+  - asperger
+  eng:
+  - asperger name
+  - asperger
+  epo:
+  - asperger nomo
+  - asperger
+  spa:
+  - asperger
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Asperger
+raw data:
+  term: Asperger
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Asperger (name)
+    epo: Asperger (nomo)
+    spa: Asperger (_nombre_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Asperger)
+...

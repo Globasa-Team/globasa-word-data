@@ -1,0 +1,56 @@
+---
+term: nilkwanti
+slug: nilkwanti
+ipa: "nil\u02C8kwanti"
+ipa link: "http://ipa-reader.xyz/?text=nil\u02C8kwanti&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - no amount (of)
+    - no quantitiy (of)
+    - none of (the)
+    - "no"
+  epo:
+  - - neniom
+  spa:
+  - - ninguna cantidad de
+search terms:
+  glb:
+  - nilkwanti
+  eng:
+  - no amount of
+  - no amount
+  - no quantitiy of
+  - no quantitiy
+  - none of the
+  - none of
+  - "no"
+  epo:
+  - neniom
+  spa:
+  - ninguna cantidad de
+etymology_type: DERIVD
+etymology: <a href="../lexi/nil">nil</a> + <a href="../lexi/kwanti">kwanti</a>
+raw data:
+  term: nilkwanti
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: no amount (of), no quantitiy (of), none of (the), no
+    epo: neniom
+    spa: ninguna cantidad de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: no amount, no amount of, no quantity, no quantity of, none of
+    the, none of, none
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nil + kwanti
+...

@@ -1,0 +1,50 @@
+---
+term: anjenkaxa
+slug: anjenkaxa
+ipa: "and\u0361\u0292en\u02C8ka\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=and\u0361\u0292en\u02C8ka\u0283a&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - safe
+    - safebox
+  epo:
+  - - "sekur\u015Dranko"
+    - "mon\u015Dranko"
+  spa:
+  - - caja fuerte
+search terms:
+  glb:
+  - anjenkaxa
+  eng:
+  - safe
+  - safebox
+  epo:
+  - "sekur\u015Dranko"
+  - "mon\u015Dranko"
+  spa:
+  - caja fuerte
+etymology_type: DERIVD
+etymology: <a href="../lexi/anjen">anjen</a> + <a href="../lexi/-kaxa">-kaxa</a>
+raw data:
+  term: anjenkaxa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: safe, safebox
+    epo: "sekur\u015Dranko, mon\u015Dranko"
+    spa: caja fuerte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: anjen + -kaxa
+...

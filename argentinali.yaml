@@ -1,0 +1,50 @@
+---
+term: argentinali
+slug: argentinali
+ipa: "a\u027Egenti\u02C8nali"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Egenti\u02C8nali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Argentine
+    - Argentinian
+  epo:
+  - - argentina
+  - - argentine
+  spa:
+  - - argentino
+search terms:
+  glb:
+  - argentinali
+  eng:
+  - argentine
+  - argentinian
+  epo:
+  - argentina
+  - argentine
+  spa:
+  - argentino
+etymology_type: DERIVD
+etymology: <a href="../lexi/Argentina">Argentina</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Argentinali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Argentine, Argentinian
+    epo: argentina; argentine
+    spa: argentino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Argentina + -li
+...

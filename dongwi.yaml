@@ -1,0 +1,68 @@
+---
+term: dongwi
+slug: dongwi
+ipa: ˈdongwi
+ipa link: http://ipa-reader.xyz/?text=ˈdongwi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - agreement
+    - accord
+    - deal
+    - consent
+  - - agree (_to a suggestion
+    - etc._)
+    - consent
+  epo:
+  - - akordo
+  - - akordi
+  spa:
+  - - acuerdo
+  - - estar de acuerdo
+search terms:
+  glb:
+  - dongwi
+  eng:
+  - agreement
+  - accord
+  - deal
+  - consent
+  - agree to a suggestion
+  - agree (_to a suggestion
+  - etc.
+  epo:
+  - akordo
+  - akordi
+  spa:
+  - acuerdo
+  - estar de acuerdo
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 同意 “tóngyì”
+  Hangusa:
+  - - 동의 “dong-ui”
+  Vyetnamsa:
+  - - đồng ý
+raw data:
+  term: dongwi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: agreement, accord, deal, consent; agree (_to a suggestion, etc._), consent
+    epo: akordo; akordi
+    spa: acuerdo; estar de acuerdo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa  (同意 “tóngyì”), Hangusa (동의 “dong-ui”), Vyetnamsa (đồng ý)
+...

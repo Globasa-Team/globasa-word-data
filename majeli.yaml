@@ -1,0 +1,54 @@
+---
+term: majeli
+slug: majeli
+ipa: "ma\u02C8d\u0361\u0292eli"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8d\u0361\u0292eli&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Marshall Islands
+  epo:
+  - - "Mar\u015Dala Insularo"
+    - "Mar\u015Dalaj Insulo"
+    - "Mar\u015Daloj"
+  spa:
+  - - Islas Marshall
+search terms:
+  glb:
+  - majeli
+  eng:
+  - marshall islands
+  epo:
+  - "mar\u015Dala insularo"
+  - "mar\u015Dalaj insulo"
+  - "mar\u015Daloj"
+  spa:
+  - islas marshall
+etymology_type: NATLNG
+etymology:
+  Majelisa:
+  - - "M\u0327aje\u013C"
+tags:
+- dexa
+raw data:
+  term: Majeli
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Marshall Islands
+    epo: "Mar\u015Dala Insularo, Mar\u015Dalaj Insulo, Mar\u015Daloj"
+    spa: Islas Marshall
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Majelisa (M\u0327aje\u013C)"
+...

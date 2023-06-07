@@ -1,0 +1,48 @@
+---
+term: suksespul
+slug: suksespul
+ipa: "sukses\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=sukses\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - successful
+  epo:
+  - - sukcesa
+  - - sukcese
+  spa:
+  - - exitoso
+search terms:
+  glb:
+  - suksespul
+  eng:
+  - successful
+  epo:
+  - sukcesa
+  - sukcese
+  spa:
+  - exitoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/sukses">sukses</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: suksespul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: successful
+    epo: sukcesa; sukcese
+    spa: exitoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sukses + -pul
+...

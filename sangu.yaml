@@ -1,0 +1,54 @@
+---
+term: sangu
+slug: sangu
+ipa: "\u02C8sangu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sangu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - hide
+  epo:
+  - - "ka\u015Do"
+  - - "ka\u015Di\u011Di"
+    - "ka\u015Di"
+  spa:
+  - - esconder
+    - esconderse
+search terms:
+  glb:
+  - sangu
+  eng:
+  - hide
+  epo:
+  - "ka\u015Do"
+  - "ka\u015Di\u011Di"
+  - "ka\u015Di"
+  spa:
+  - esconder
+  - esconderse
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u85CF \u201Ctsang\u201D"
+raw data:
+  term: sangu
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: hide
+    epo: "ka\u015Do; ka\u015Di\u011Di, ka\u015Di"
+    spa: esconder, esconderse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u85CF \u201Ctsang\u201D)"
+...

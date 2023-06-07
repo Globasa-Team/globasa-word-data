@@ -1,0 +1,63 @@
+---
+term: jingen
+slug: jingen
+ipa: "d\u0361\u0292in\u02C8gen"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292in\u02C8gen&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - proverb
+    - adage
+    - byword
+    - aphorism
+    - saying
+  epo:
+  - - proverbo
+  spa:
+  - - proverbio
+    - adagio
+    - lema
+    - aforismo
+    - dicho
+search terms:
+  glb:
+  - jingen
+  eng:
+  - proverb
+  - adage
+  - byword
+  - aphorism
+  - saying
+  epo:
+  - proverbo
+  spa:
+  - proverbio
+  - adagio
+  - lema
+  - aforismo
+  - dicho
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jingen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: proverb, adage, byword, aphorism, saying
+    epo: proverbo
+    spa: proverbio, adagio, lema, aforismo, dicho
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7BB4\u8A00 \"jenyen\", \u540D\u8A00 \"mingyen\"), Niponsa
+    (\u7BB4\u8A00 \"xingen\"), Vyetnamsa (ch\xE2m ng\xF4m)"
+...

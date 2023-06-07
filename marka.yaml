@@ -1,0 +1,50 @@
+---
+term: marka
+slug: marka
+ipa: "\u02C8ma\u027Eka"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u027Eka&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - mark
+  epo:
+  - - marko
+  - - marki
+  spa:
+  - - marca
+  - - marcar
+search terms:
+  glb:
+  - marka
+  eng:
+  - mark
+  epo:
+  - marko
+  - marki
+  spa:
+  - marca
+  - marcar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: marka
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: mark
+    epo: marko; marki
+    spa: marca; marcar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (mark), Fransesa (marque), Doycisa, Rusisa, Espanisa (marca)
+...

@@ -1,0 +1,54 @@
+---
+term: dambi
+slug: dambi
+ipa: ˈdambi
+ipa link: http://ipa-reader.xyz/?text=ˈdambi&voice=Ewa
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - sin
+  epo:
+  - - peko
+  - - peki
+  spa:
+  - - pecado
+  - - pecar
+search terms:
+  glb:
+  - dambi
+  eng:
+  - sin
+  epo:
+  - peko
+  - peki
+  spa:
+  - pecado
+  - pecar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - ذَنْب “danb”
+  Swahilisa:
+  - - dhambi
+raw data:
+  term: dambi
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: sin
+    epo: peko; peki
+    spa: pecado; pecar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (ذَنْب “danb”), Swahilisa (dhambi)
+...

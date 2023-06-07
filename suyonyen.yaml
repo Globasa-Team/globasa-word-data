@@ -1,0 +1,48 @@
+---
+term: suyonyen
+slug: suyonyen
+ipa: "sujo\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=sujo\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - swimmer
+  epo:
+  - - "na\u011Danto"
+    - "na\u011Disto"
+  spa:
+  - - nadador
+search terms:
+  glb:
+  - suyonyen
+  eng:
+  - swimmer
+  epo:
+  - "na\u011Danto"
+  - "na\u011Disto"
+  spa:
+  - nadador
+etymology_type: DERIVD
+etymology: <a href="../lexi/suyon">suyon</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: suyonyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: swimmer
+    epo: "na\u011Danto, na\u011Disto"
+    spa: nadador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: suyon + -yen
+...

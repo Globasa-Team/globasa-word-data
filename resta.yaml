@@ -1,0 +1,86 @@
+---
+term: resta
+slug: resta
+ipa: "\u02C8\u027Eesta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eesta&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - remainder
+    - (the) rest
+  - - stay
+    - remain
+    - leave (behind)
+    - keep
+  epo:
+  - - resto
+    - "resta\u0135o"
+    - cetero
+  - - resti
+    - restigi
+  spa:
+  - - resto
+  - - quedarse
+    - permanecer
+    - restar
+    - dejar
+search terms:
+  glb:
+  - resta
+  eng:
+  - remainder
+  - the rest
+  - rest
+  - stay
+  - remain
+  - leave behind
+  - leave
+  - keep
+  epo:
+  - resto
+  - "resta\u0135o"
+  - cetero
+  - resti
+  - restigi
+  spa:
+  - resto
+  - quedarse
+  - permanecer
+  - restar
+  - dejar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rest
+  Fransesa:
+  - - reste
+  Doycisa:
+  - - Rest
+  Rusisa:
+  - - "\u043E\u0441\u0442\u0430\u0442\u043E\u043A \u201Costatok\u201D"
+  Espanisa:
+  - - resto
+    - restar
+raw data:
+  term: resta
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: remainder, (the) rest; stay, remain, leave (behind), keep
+    epo: "resto, resta\u0135o, cetero; resti, restigi"
+    spa: resto; quedarse, permanecer, restar, dejar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (rest), Fransesa (reste), Doycisa (Rest), Rusisa (\u043E\u0441\u0442\u0430\u0442\u043E\u043A
+    \u201Costatok\u201D), Espanisa (resto, restar)"
+...

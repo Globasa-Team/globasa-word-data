@@ -1,0 +1,48 @@
+---
+term: -peldo
+slug: -peldo
+ipa: "-\u02C8peldo"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8peldo&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - driven
+  epo:
+  - - -ema
+  - - -eme
+  spa:
+  - - impulsado
+search terms:
+  glb:
+  - -peldo
+  eng:
+  - driven
+  epo:
+  - -ema
+  - -eme
+  spa:
+  - impulsado
+etymology_type: DERIVD
+etymology: <a href="../lexi/-pel">-pel</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: -peldo
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: driven
+    epo: -ema; -eme
+    spa: impulsado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: -pel + -do
+...

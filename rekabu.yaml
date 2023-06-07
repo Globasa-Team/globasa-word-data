@@ -1,0 +1,72 @@
+---
+term: rekabu
+slug: rekabu
+ipa: "\u027Ee\u02C8kabu"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8kabu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - stirrup
+  - - ride
+    - mount
+  epo:
+  - - piedingo
+  - - rajdi
+  spa:
+  - - estribo
+  - - montar
+search terms:
+  glb:
+  - rekabu
+  eng:
+  - stirrup
+  - ride
+  - mount
+  epo:
+  - piedingo
+  - rajdi
+  spa:
+  - estribo
+  - montar
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - rakap
+  Hindisa:
+  - - "\u0930\u0915\u093E\u092C \"rak\u0101b\""
+  Arabisa:
+  - - "\u0631\u0650\u0643\u064E\u0627\u0628 \"rik\u0101b\""
+    - "\u0631\u064E\u0643\u0650\u0628\u064E \"rakiba\""
+  Telugusa:
+  - - "\u0C30\u0C3F\u0C15\u0C3E\u0C2C\u0C41 \"rikabu\""
+  Parsisa:
+  - - "\u0631\u06A9\u0627\u0628 \"rek\xE2b\""
+  Swahilisa:
+  - - rikabu
+  - - -rakibu
+    - -rekebu
+raw data:
+  term: rekabu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: stirrup; ride, mount
+    epo: piedingo; rajdi
+    spa: estribo; montar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (rakap), Hindisa (\u0930\u0915\u093E\u092C \"rak\u0101b\"),
+    Arabisa (\u0631\u0650\u0643\u064E\u0627\u0628 \"rik\u0101b\", \u0631\u064E\u0643\u0650\u0628\u064E
+    \"rakiba\"), Telugusa (\u0C30\u0C3F\u0C15\u0C3E\u0C2C\u0C41 \"rikabu\"), Parsisa
+    (\u0631\u06A9\u0627\u0628 \"rek\xE2b\"), Swahilisa (rikabu; -rakibu, -rekebu)"
+...

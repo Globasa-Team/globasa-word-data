@@ -1,0 +1,50 @@
+---
+term: myawsa
+slug: myawsa
+ipa: "\u02C8mjawsa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mjawsa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - meow
+  epo:
+  - - "mia\u016Do"
+  - - "mia\u016Di"
+  spa:
+  - - maullido
+  - - maullar
+search terms:
+  glb:
+  - myawsa
+  eng:
+  - meow
+  epo:
+  - "mia\u016Do"
+  - "mia\u016Di"
+  spa:
+  - maullido
+  - maullar
+etymology_type: DERIVD
+etymology: <a href="../lexi/myaw">myaw</a> + <a href="../lexi/-sa">-sa</a>
+raw data:
+  term: myawsa
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: meow
+    epo: "mia\u016Do; mia\u016Di"
+    spa: maullido; maullar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: myaw + -sa
+...

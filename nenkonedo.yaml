@@ -1,0 +1,49 @@
+---
+term: nenkonedo
+slug: nenkonedo
+ipa: "nenko\u02C8nedo"
+ipa link: "http://ipa-reader.xyz/?text=nenko\u02C8nedo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unknown
+  epo:
+  - - nekonata
+  - - nekonate
+  spa:
+  - - desconocido
+search terms:
+  glb:
+  - nenkonedo
+  eng:
+  - unknown
+  epo:
+  - nekonata
+  - nekonate
+  spa:
+  - desconocido
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/kone">kone</a> + <a
+  href="../lexi/-do">-do</a>
+raw data:
+  term: nenkonedo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unknown
+    epo: nekonata; nekonate
+    spa: desconocido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + kone + -do
+...

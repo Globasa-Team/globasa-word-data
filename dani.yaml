@@ -1,0 +1,54 @@
+---
+term: dani
+slug: dani
+ipa: "\u02C8dani"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dani&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Denmark
+  epo:
+  - - Danio
+    - Danlando
+    - Danujo
+  spa:
+  - - Dinamarca
+search terms:
+  glb:
+  - dani
+  eng:
+  - denmark
+  epo:
+  - danio
+  - danlando
+  - danujo
+  spa:
+  - dinamarca
+etymology_type: NATLNG
+etymology:
+  Danisa:
+  - - Danmark
+tags:
+- dexa
+raw data:
+  term: Dani
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Denmark
+    epo: Danio, Danlando, Danujo
+    spa: Dinamarca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Danisa (Danmark)
+...

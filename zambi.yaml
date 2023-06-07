@@ -1,0 +1,50 @@
+---
+term: zambi
+slug: zambi
+ipa: "\u02C8zambi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8zambi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Zambia
+  epo:
+  - - Zambio
+  spa:
+  - - Zambia
+search terms:
+  glb:
+  - zambi
+  eng:
+  - zambia
+  epo:
+  - zambio
+  spa:
+  - zambia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Zambia
+tags:
+- dexa
+raw data:
+  term: Zambi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Zambia
+    epo: Zambio
+    spa: Zambia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Zambia)
+...

@@ -1,0 +1,48 @@
+---
+term: maxmin
+slug: maxmin
+ipa: "ma\u0283\u02C8min"
+ipa link: "http://ipa-reader.xyz/?text=ma\u0283\u02C8min&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - more or less
+  epo:
+  - - "pli a\u016D malpli"
+  spa:
+  - - "m\xE1s o menos"
+search terms:
+  glb:
+  - maxmin
+  eng:
+  - more or less
+  epo:
+  - "pli a\u016D malpli"
+  spa:
+  - "m\xE1s o menos"
+etymology_type: DERIVD
+etymology: <a href="../lexi/max">max</a> + <a href="../lexi/min">min</a>
+synonyms:
+- max or min
+raw data:
+  term: maxmin
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: more or less
+    epo: "pli a\u016D malpli"
+    spa: "m\xE1s o menos"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: max or min
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: max + min
+...

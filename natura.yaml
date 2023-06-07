@@ -1,0 +1,61 @@
+---
+term: natura
+slug: natura
+ipa: "na\u02C8tu\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8tu\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nature
+  epo:
+  - - naturo
+  spa:
+  - - naturaleza
+search terms:
+  glb:
+  - natura
+  eng:
+  - nature
+  epo:
+  - naturo
+  spa:
+  - naturaleza
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nature
+    - natural
+  Fransesa:
+  - - nature
+    - naturel
+  Doycisa:
+  - - Natur
+  Rusisa: ~
+  Espanisa:
+  - - natura
+  Turkisa:
+  - - "nat\xFCrel"
+  "Pilipinasa \u201Cnatural\u201D)": ~
+raw data:
+  term: natura
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nature
+    epo: naturo
+    spa: naturaleza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (nature, natural), Fransesa (nature, naturel), Doycisa (Natur),
+    Rusisa, Espanisa (natura), Turkisa (nat\xFCrel), Pilipinasa \u201Cnatural\u201D)"
+...

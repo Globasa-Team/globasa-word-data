@@ -1,0 +1,50 @@
+---
+term: kararpul
+slug: kararpul
+ipa: "ka\u027Ea\u027E\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027Ea\u027E\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - determined (_with determination_)
+  epo:
+  - - decidema
+  - - decideme
+  spa:
+  - - decidido
+    - "determinado (_con determinaci\xF3n_)"
+search terms:
+  glb:
+  - kararpul
+  eng:
+  - determined
+  epo:
+  - decidema
+  - decideme
+  spa:
+  - decidido
+  - determinado
+etymology_type: DERIVD
+etymology: <a href="../lexi/karar">karar</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: kararpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: determined (_with determination_)
+    epo: decidema; decideme
+    spa: "decidido, determinado (_con determinaci\xF3n_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: karar + -pul
+...

@@ -1,0 +1,50 @@
+---
+term: gile
+slug: gile
+ipa: ˈgile
+ipa link: http://ipa-reader.xyz/?text=ˈgile&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - wet
+  epo:
+  - - malseka
+  - - malseka
+  spa:
+  - - mojado
+search terms:
+  glb:
+  - gile
+  eng:
+  - wet
+  epo:
+  - malseka
+  spa:
+  - mojado
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - गीला “gila”
+    - गीली “gili”
+raw data:
+  term: gile
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: wet
+    epo: malseka; malseka
+    spa: mojado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (गीला “gila”, गीली “gili”)
+...

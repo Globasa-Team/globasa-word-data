@@ -1,0 +1,64 @@
+---
+term: flota
+slug: flota
+ipa: ˈflota
+ipa link: http://ipa-reader.xyz/?text=ˈflota&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - flotation
+  - - float
+  epo:
+  - - flosado
+  - - flosi
+  spa:
+  - - flotación
+  - - flotar
+search terms:
+  glb:
+  - flota
+  eng:
+  - flotation
+  - float
+  epo:
+  - flosado
+  - flosi
+  spa:
+  - flotación
+  - flotar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - float
+    - flotation
+  Espanisa:
+  - - flota
+  Fransesa:
+  - - flottation
+  Rusisa:
+  - - флотация “flotatsiya”
+  Indonesisa:
+  - - flotasi
+raw data:
+  term: flota
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: flotation; float
+    epo: flosado; flosi
+    spa: flotación; flotar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (float, flotation), Espanisa (flota), Fransesa (flottation),
+    Rusisa (флотация “flotatsiya”), Indonesisa (flotasi)
+...

@@ -1,0 +1,80 @@
+---
+term: bunman
+slug: bunman
+ipa: bunˈman
+ipa link: http://ipa-reader.xyz/?text=bunˈman&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - grudge
+    - resentment
+    - indignation
+    - rancor
+  - - resent
+    - hold a grudge (against)
+  epo:
+  - - rankoro
+    - indigno
+    - malpardonemo
+  - - indigni (pri)
+  spa:
+  - - resentimiento
+    - rencor
+    - indignación
+  - - resentir
+search terms:
+  glb:
+  - bunman
+  eng:
+  - grudge
+  - resentment
+  - indignation
+  - rancor
+  - resent
+  - hold a grudge against
+  - hold a grudge
+  epo:
+  - rankoro
+  - indigno
+  - malpardonemo
+  - indigni pri
+  - indigni
+  spa:
+  - resentimiento
+  - rencor
+  - indignación
+  - resentir
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 不满 "buman"
+    - 憤懣 "fenmen"
+  Niponsa:
+  - - 憤懣 "funman"
+  Vyetnamsa:
+  - - bất mãn
+  Hangusa:
+  - - 분만 "bunman"
+raw data:
+  term: bunman
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: grudge, resentment, indignation, rancor; resent, hold a grudge (against)
+    epo: rankoro, indigno, malpardonemo; indigni (pri)
+    spa: resentimiento, rencor, indignación; resentir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (不满 "buman", 憤懣 "fenmen"), Niponsa (憤懣 "funman") Vyetnamsa (bất
+    mãn), Hangusa (분만 "bunman")
+...

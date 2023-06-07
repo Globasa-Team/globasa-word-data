@@ -1,0 +1,48 @@
+---
+term: alowatu
+slug: alowatu
+ipa: "alo\u02C8watu"
+ipa link: "http://ipa-reader.xyz/?text=alo\u02C8watu&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - at a different time
+    - at another time
+  epo:
+  - - alitempe
+  spa:
+  - - en otro momento
+search terms:
+  glb:
+  - alowatu
+  eng:
+  - at a different time
+  - at another time
+  epo:
+  - alitempe
+  spa:
+  - en otro momento
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/watu">watu</a>
+raw data:
+  term: alowatu
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: at a different time, at another time
+    epo: alitempe
+    spa: en otro momento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + watu
+...

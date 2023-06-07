@@ -1,0 +1,48 @@
+---
+term: baxplasi
+slug: baxplasi
+ipa: "ba\u0283\u02C8plasi"
+ipa link: "http://ipa-reader.xyz/?text=ba\u0283\u02C8plasi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - subject
+  epo:
+  - - submeto
+  - - submeti
+  spa:
+  - - someter
+search terms:
+  glb:
+  - baxplasi
+  eng:
+  - subject
+  epo:
+  - submeto
+  - submeti
+  spa:
+  - someter
+etymology_type: DERIVD
+etymology: <a href="../lexi/bax-">bax-</a> + <a href="../lexi/plasi">plasi</a>
+raw data:
+  term: baxplasi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: subject
+    epo: submeto; submeti
+    spa: someter
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bax- + plasi
+...

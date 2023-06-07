@@ -1,0 +1,67 @@
+---
+term: furaha
+slug: furaha
+ipa: fuˈɾaxa
+ipa link: http://ipa-reader.xyz/?text=fuˈɾaxa&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - enjoyment
+    - pleasure
+  - - enjoy
+    - take pleasure (in)
+  epo:
+  - - ĝuado
+    - plezuro
+  - - ĝui
+    - plezuri
+  spa:
+  - - disfrute
+    - placer
+  - - disfrutar
+search terms:
+  glb:
+  - furaha
+  eng:
+  - enjoyment
+  - pleasure
+  - enjoy
+  - take pleasure in
+  - take pleasure
+  epo:
+  - ĝuado
+  - plezuro
+  - ĝui
+  - plezuri
+  spa:
+  - disfrute
+  - placer
+  - disfrutar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فَرَح “farah”
+  Swahilisa:
+  - - furaha
+raw data:
+  term: furaha
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: enjoyment, pleasure; enjoy, take pleasure (in)
+    epo: ĝuado, plezuro; ĝui, plezuri
+    spa: disfrute, placer; disfrutar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (فَرَح “farah”), Swahilisa (furaha)
+...

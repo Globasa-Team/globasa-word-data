@@ -1,0 +1,77 @@
+---
+term: cundotu
+slug: cundotu
+ipa: t͡ʃunˈdotu
+ipa link: http://ipa-reader.xyz/?text=t͡ʃunˈdotu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - collision
+  - - collide
+    - impact
+    - crash
+  epo:
+  - - kolizio
+    - kunfrapo
+  - - kolizii
+    - koliziigi
+  spa:
+  - - colisión
+    - choque
+    - impacto
+  - - colisionar
+    - chocar
+    - impactar
+search terms:
+  glb:
+  - cundotu
+  eng:
+  - collision
+  - collide
+  - impact
+  - crash
+  epo:
+  - kolizio
+  - kunfrapo
+  - kolizii
+  - koliziigi
+  spa:
+  - colisión
+  - choque
+  - impacto
+  - colisionar
+  - chocar
+  - impactar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 冲突 "cungtu"
+  Niponsa:
+  - - 衝突 "xototsu"
+  Vyetnamsa:
+  - - xung đột
+  Hangusa:
+  - - 충돌 "cungdol"
+raw data:
+  term: cundotu
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: collision; collide, impact, crash
+    epo: kolizio, kunfrapo; kolizii, koliziigi
+    spa: colisión, choque, impacto; colisionar, chocar, impactar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (冲突 "cungtu"), Niponsa (衝突 "xototsu"), Vyetnamsa (xung đột),
+    Hangusa (충돌 "cungdol")
+...

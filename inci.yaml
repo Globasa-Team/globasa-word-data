@@ -1,0 +1,51 @@
+---
+term: inci
+slug: inci
+ipa: "\u02C8int\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8int\u0361\u0283i&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - inch
+  epo:
+  - - colo
+  spa:
+  - - pulgada
+    - in
+search terms:
+  glb:
+  - inci
+  eng:
+  - inch
+  epo:
+  - colo
+  spa:
+  - pulgada
+  - in
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: inci
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: inch
+    epo: colo
+    spa: pulgada, in
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (inch), Indonesisa (inci), Hindisa (\u0907\u0902\u091A \u201Cinc\u201D),
+    Niponsa (\u30A4\u30F3\u30C1 \u201Cinci\u201D), Turkisa (in\xE7), Hangusa (\uC778\uCE58
+    \u201Cinci\u201D), Vyetnamsa (inh), Parsisa (\u0627\u06CC\u0646\u0686 \u201Cinc\u201D),
+    Swahilisa (inchi)"
+...

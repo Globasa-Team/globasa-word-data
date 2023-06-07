@@ -1,0 +1,60 @@
+---
+term: taji
+slug: taji
+ipa: "\u02C8tad\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tad\u0361\u0292i&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - crown
+  epo:
+  - - krono
+  spa:
+  - - corona
+search terms:
+  glb:
+  - taji
+  eng:
+  - crown
+  epo:
+  - krono
+  spa:
+  - corona
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0924\u093E\u091C \u201Ct\u0101j\u201D"
+  Arabisa:
+  - - "\u062A\u064E\u0627\u062C \u201Ctaj\u201D"
+  Turkisa:
+  - - "ta\xE7"
+  Parsisa:
+  - - "\u062A\u0627\u062C \u201Ct\xE2j\u201D"
+  Swahilisa:
+  - - taji
+tags:
+- labas
+raw data:
+  term: taji
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: crown
+    epo: krono
+    spa: corona
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Hindisa (\u0924\u093E\u091C \u201Ct\u0101j\u201D), Arabisa (\u062A\u064E\u0627\u062C
+    \u201Ctaj\u201D), Turkisa (ta\xE7), Parsisa (\u062A\u0627\u062C \u201Ct\xE2j\u201D),
+    Swahilisa (taji)"
+...

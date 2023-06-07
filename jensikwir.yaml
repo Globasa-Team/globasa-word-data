@@ -1,0 +1,46 @@
+---
+term: jensikwir
+slug: jensikwir
+ipa: "d\u0361\u0292ensi\u02C8kwi\u027E"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292ensi\u02C8kwi\u027E&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - genderqueer
+  epo:
+  - - genrokvira
+  spa:
+  - - _genderqueer_
+search terms:
+  glb:
+  - jensikwir
+  eng:
+  - genderqueer
+  epo:
+  - genrokvira
+  spa:
+  - genderqueer
+etymology_type: DERIVD
+etymology: <a href="../lexi/jensi">jensi</a> + <a href="../lexi/kwir">kwir</a>
+raw data:
+  term: jensikwir
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: genderqueer
+    epo: genrokvira
+    spa: _genderqueer_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jensi + kwir
+...

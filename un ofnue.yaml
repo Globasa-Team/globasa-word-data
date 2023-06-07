@@ -1,0 +1,52 @@
+---
+term: un ofnue
+slug: un ofnue
+ipa: "\u02C8un of\u02C8nue"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8un of\u02C8nue&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - one ninth
+    - a ninth
+  epo:
+  - - "na\u016Dono"
+  spa:
+  - - un noveno
+    - una novena parte
+search terms:
+  glb:
+  - un ofnue
+  - un
+  - ofnue
+  eng:
+  - one ninth
+  - a ninth
+  epo:
+  - "na\u016Dono"
+  spa:
+  - un noveno
+  - una novena parte
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a>, <a href="../lexi/of-">of-</a> + <a href="../lexi/nue">nue</a>
+raw data:
+  term: un ofnue
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: one ninth, a ninth
+    epo: "na\u016Dono"
+    spa: un noveno, una novena parte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un, of- + nue
+...

@@ -1,0 +1,53 @@
+---
+term: utara
+slug: utara
+ipa: "u\u02C8ta\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8ta\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - north
+  epo:
+  - - nordo
+  spa:
+  - - norte
+search terms:
+  glb:
+  - utara
+  eng:
+  - north
+  epo:
+  - nordo
+  spa:
+  - norte
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0909\u0924\u094D\u0924\u0930 \u201Cuttar\u201D"
+  Telugusa:
+  - - "\u0C09\u0C24\u0C4D\u0C24\u0C30 \u201Cuttarar\u201D"
+  Indonesisa:
+  - - utara
+raw data:
+  term: utara
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: north
+    epo: nordo
+    spa: norte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0909\u0924\u094D\u0924\u0930 \u201Cuttar\u201D), Telugusa
+    (\u0C09\u0C24\u0C4D\u0C24\u0C30 \u201Cuttarar\u201D), Indonesisa (utara)"
+...

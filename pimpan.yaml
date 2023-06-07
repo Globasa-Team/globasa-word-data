@@ -1,0 +1,73 @@
+---
+term: pimpan
+slug: pimpan
+ipa: "pim\u02C8pan"
+ipa link: "http://ipa-reader.xyz/?text=pim\u02C8pan&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - frequent
+    - frequently
+    - often
+    - oftentimes
+    - common
+    - commonly
+    - regular
+    - regularly
+  epo:
+  - - ofta
+  - - ofte
+  spa:
+  - - a menudo
+    - frecuente
+    - "com\xFAn"
+search terms:
+  glb:
+  - pimpan
+  eng:
+  - frequent
+  - frequently
+  - often
+  - oftentimes
+  - common
+  - commonly
+  - regular
+  - regularly
+  epo:
+  - ofta
+  - ofte
+  spa:
+  - a menudo
+  - frecuente
+  - "com\xFAn"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u9891\u7E41 \u201Cp\xEDnf\xE1n\u201D"
+  Niponsa:
+  - - "\u983B\u7E41 \u201Chinpan\u201D"
+  Hangusa:
+  - - "\uBE48\uBC88 \u201Cbinbeon\u201D"
+raw data:
+  term: pimpan
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: frequent, frequently, often, oftentimes, common, commonly, regular, regularly
+    epo: ofta; ofte
+    spa: "a menudo, frecuente, com\xFAn"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u9891\u7E41 \u201Cp\xEDnf\xE1n\u201D), Niponsa (\u983B\u7E41
+    \u201Chinpan\u201D), Hangusa (\uBE48\uBC88 \u201Cbinbeon\u201D)"
+...

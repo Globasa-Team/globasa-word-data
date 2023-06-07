@@ -1,0 +1,57 @@
+---
+term: siu
+slug: siu
+ipa: "\u02C8siu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8siu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - sew
+  epo:
+  - - kudrado
+  - - kudri
+  spa:
+  - - coser
+search terms:
+  glb:
+  - siu
+  eng:
+  - sew
+  epo:
+  - kudrado
+  - kudri
+  spa:
+  - coser
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sew
+  Rusisa:
+  - - "\u0448\u0438\u0442\u044C \u201C\u0161it\u02B9\u201D"
+  Hindisa:
+  - - "\u0938\u0940\u0928\u093E \u201Cs\u012Bn\u0101\u201D"
+    - "\u0938\u093F\u0932\u0928\u093E \u201Csiln\u0101\u201D"
+raw data:
+  term: siu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: sew
+    epo: kudrado; kudri
+    spa: coser
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (sew), Rusisa (\u0448\u0438\u0442\u044C \u201C\u0161it\u02B9\u201D),
+    Hindisa (\u0938\u0940\u0928\u093E \u201Cs\u012Bn\u0101\u201D, \u0938\u093F\u0932\u0928\u093E
+    \u201Csiln\u0101\u201D)"
+...

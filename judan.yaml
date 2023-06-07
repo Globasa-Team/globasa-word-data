@@ -1,0 +1,47 @@
+---
+term: judan
+slug: judan
+ipa: "d\u0361\u0292u\u02C8dan"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292u\u02C8dan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bullet
+  epo:
+  - - kuglo
+  spa:
+  - - bala
+search terms:
+  glb:
+  - judan
+  eng:
+  - bullet
+  epo:
+  - kuglo
+  spa:
+  - bala
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: judan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bullet
+    epo: kuglo
+    spa: bala
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5B50\u5F39 \u201Cz\u01D0d\xE0n\u201D), Niponsa (\u9283\u5F3E
+    \u201Cjudan\u201D), Vyetnamsa (\u0111\u1EA1n)"
+...

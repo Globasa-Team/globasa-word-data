@@ -1,0 +1,54 @@
+---
+term: haji
+slug: haji
+ipa: ˈxad͡ʒi
+ipa link: http://ipa-reader.xyz/?text=ˈxad͡ʒi&voice=Ewa
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - still
+    - yet
+  epo:
+  - - ankoraŭ
+  spa:
+  - - todavía
+search terms:
+  glb:
+  - haji
+  eng:
+  - still
+  - yet
+  epo:
+  - ankoraŭ
+  spa:
+  - todavía
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 还 “hái”
+  Gujarati:
+  - - હજી “hajī”
+  Hangusa:
+  - - 아직 “ajik”
+raw data:
+  term: haji
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: still, yet
+    epo: ankoraŭ
+    spa: todavía
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (还 “hái”), Gujarati (હજી “hajī”), Hangusa (아직 “ajik”)
+...

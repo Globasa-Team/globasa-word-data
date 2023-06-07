@@ -1,0 +1,48 @@
+---
+term: descareyum
+slug: descareyum
+ipa: "dest\u0361\u0283a\u027Ee\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=dest\u0361\u0283a\u027Ee\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - fourteenth
+  epo:
+  - - dekkvara
+  - - dekkvare
+  spa:
+  - - "d\xE9cimo cuarto"
+search terms:
+  glb:
+  - descareyum
+  eng:
+  - fourteenth
+  epo:
+  - dekkvara
+  - dekkvare
+  spa:
+  - "d\xE9cimo cuarto"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/care">care</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: descareyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: fourteenth
+    epo: dekkvara; dekkvare
+    spa: "d\xE9cimo cuarto"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + care + -yum
+...

@@ -1,0 +1,50 @@
+---
+term: tem-
+slug: tem-
+ipa: "\u02C8tem-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tem-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - about
+    - regarding
+  epo:
+  - - pri-
+  spa:
+  - - acerca de
+    - con respecto a
+search terms:
+  glb:
+  - tem-
+  eng:
+  - about
+  - regarding
+  epo:
+  - pri-
+  spa:
+  - acerca de
+  - con respecto a
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/tem">tem</a>.
+raw data:
+  term: tem-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: about, regarding
+    epo: pri-
+    spa: acerca de, con respecto a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _tem_.
+...

@@ -1,0 +1,52 @@
+---
+term: kanmun
+slug: kanmun
+ipa: "kan\u02C8mun"
+ipa link: "http://ipa-reader.xyz/?text=kan\u02C8mun&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - anus
+  epo:
+  - - anuso
+    - "posta\u0135otruo"
+  spa:
+  - - ano
+search terms:
+  glb:
+  - kanmun
+  eng:
+  - anus
+  epo:
+  - anuso
+  - "posta\u0135otruo"
+  spa:
+  - ano
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: kanmun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: anus
+    epo: "anuso, posta\u0135otruo"
+    spa: ano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa (\u809B\u95E8 \u201Cg\u0101ngm\xE9n\u201D), Niponsa (\u809B\u9580
+    \u201Ck\u014Dmon\u201D), Hangusa (\uD56D\uBB38 \u201Changmun\u201D) and Vyetnamsa
+    (h\u1EADu m\xF4n)"
+...

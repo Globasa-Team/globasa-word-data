@@ -1,0 +1,46 @@
+---
+term: -fon
+slug: -fon
+ipa: "\u02C8-fon"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-fon&voice=Ewa"
+status: true
+category: affix
+word class: "n"
+trans:
+  eng:
+  - - -phone
+    - sound tool
+  spa:
+  - - -fono
+    - herramienta para sonidos
+search terms:
+  glb:
+  - -fon
+  eng:
+  - -phone
+  - sound tool
+  spa:
+  - -fono
+  - herramienta para sonidos
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/fon">fon</a>.
+raw data:
+  term: -fon
+  category: affix
+  word class: "n"
+  status: true
+  trans:
+    eng: -phone, sound tool
+    epo: ""
+    spa: -fono, herramienta para sonidos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _fon_.
+...

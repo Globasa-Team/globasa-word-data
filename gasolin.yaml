@@ -1,0 +1,68 @@
+---
+term: gasolin
+slug: gasolin
+ipa: gasoˈlin
+ipa link: http://ipa-reader.xyz/?text=gasoˈlin&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gasoline
+    - gas
+    - petrol
+  epo:
+  - - benzino
+  spa:
+  - - gasolina
+search terms:
+  glb:
+  - gasolin
+  eng:
+  - gasoline
+  - gas
+  - petrol
+  epo:
+  - benzino
+  spa:
+  - gasolina
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gasoline
+  Espanisa:
+  - - gasolina
+  Niponsa:
+  - - ガソリン “gasorin”
+  Hangusa:
+  - - 가솔린 “gasollin”
+  Hindisa:
+  - - गैसोलीन “gesolin”
+  Telugusa:
+  - - గ్యాసోలిన్ “gyasolin”
+  Arabisa:
+  - - الغازولين “alghazulin”
+  Pilipinasa:
+  - - gasolina
+raw data:
+  term: gasolin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gasoline, gas, petrol
+    epo: benzino
+    spa: gasolina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (gasoline), Espanisa (gasolina), Niponsa (ガソリン “gasorin”), Hangusa
+    (가솔린 “gasollin”), Hindisa (गैसोलीन “gesolin”), Telugusa (గ్యాసోలిన్ “gyasolin”),
+    Arabisa (الغازولين “alghazulin”), Pilipinasa (gasolina)
+...

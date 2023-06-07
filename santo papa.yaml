@@ -1,0 +1,48 @@
+---
+term: santo papa
+slug: santo papa
+ipa: "\u02C8santo \u02C8papa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8santo \u02C8papa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pope
+  epo:
+  - - papo
+  spa:
+  - - papa
+search terms:
+  glb:
+  - santo papa
+  - santo
+  - papa
+  eng:
+  - pope
+  epo:
+  - papo
+  spa:
+  - papa
+etymology_type: DERIVD
+etymology: <a href="../lexi/santo">santo</a> + <a href="../lexi/papa">papa</a>
+raw data:
+  term: Santo Papa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pope
+    epo: papo
+    spa: papa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: santo + papa
+...

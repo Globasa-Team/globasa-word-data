@@ -1,0 +1,60 @@
+---
+term: kalifornyum
+slug: kalifornyum
+ipa: "kalifo\u027E\u02C8njum"
+ipa link: "http://ipa-reader.xyz/?text=kalifo\u027E\u02C8njum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - californium
+  epo:
+  - - kaliforniumo
+    - kalifornio
+  spa:
+  - - californio (_elemento_)
+    - Cf
+search terms:
+  glb:
+  - kalifornyum
+  eng:
+  - californium
+  epo:
+  - kaliforniumo
+  - kalifornio
+  spa:
+  - californio
+  - cf
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: kalifornyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: californium
+    epo: kaliforniumo, kalifornio
+    spa: californio (_elemento_), Cf
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (californium), Hindisa (\u0915\u0948\u0932\u0940\u092B\u094B\u0930\u094D\u0928\u093F\u092F\u092E
+    \u201Ckeliforniyam\u201D), Espanisa (californio), Arabisa (\u0643\u064E\u0627\u0644\u0650\u064A\u0641\u064F\u0648\u0631\u0652\u0646\u0650\u064A\u064F\u0648\u0645
+    \u201Ckaliforniyum\u201D), Fransesa (californium), Rusisa (\u043A\u0430\u043B\u0438\u0444\u043E\u0440\u043D\u0438\u0439
+    \u201Ckaliforniy\u201D), Indonesisa (kalifornium), Doycisa (Californium), Niponsa
+    (\u30AB\u30EA\u30DB\u30EB\u30CB\u30A6\u30E0 \u201Ckarihoruniumu\u201D), Telugusa
+    (\u0C15\u0C3E\u0C32\u0C3F\u0C2B\u0C4B\u0C30\u0C4D\u0C28\u0C3F\u0C2F\u0C02 \u201Ckaliforniyam\u201D),
+    Turkisa (kaliforniyum), Hangusa (\uCE98\uB9AC\uD3EC\uB284 \u201Ckeliponyum\u201D),
+    Vyetnamsa (califoni), Parsisa (\u06A9\u0627\u0644\u06CC\u0641\u0631\u0646\u06CC\u0645
+    \u201Ckaliforniyom\u201D), Swahilisa (kaliforni), Pilipinasa (kalipornyo)"
+...

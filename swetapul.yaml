@@ -1,0 +1,52 @@
+---
+term: swetapul
+slug: swetapul
+ipa: "sweta\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=sweta\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - sweaty
+  epo:
+  - - "\u015Dvita"
+  - - "\u015Dvite"
+  spa:
+  - - sudoroso
+    - sudado
+    - transpirado
+search terms:
+  glb:
+  - swetapul
+  eng:
+  - sweaty
+  epo:
+  - "\u015Dvita"
+  - "\u015Dvite"
+  spa:
+  - sudoroso
+  - sudado
+  - transpirado
+etymology_type: DERIVD
+etymology: <a href="../lexi/sweta">sweta</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: swetapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: sweaty
+    epo: "\u015Dvita; \u015Dvite"
+    spa: sudoroso, sudado, transpirado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sweta + -pul
+...

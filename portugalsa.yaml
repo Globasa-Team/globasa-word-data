@@ -1,0 +1,50 @@
+---
+term: portugalsa
+slug: portugalsa
+ipa: "po\u027Etu\u02C8galsa"
+ipa link: "http://ipa-reader.xyz/?text=po\u027Etu\u02C8galsa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Portuguese (language)
+  epo:
+  - - la portugala (lingvo)
+  spa:
+  - - "portugu\xE9s (_idioma_)"
+search terms:
+  glb:
+  - portugalsa
+  eng:
+  - portuguese language
+  - portuguese
+  epo:
+  - la portugala lingvo
+  - la portugala
+  spa:
+  - "portugu\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Portugal">Portugal</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Portugalsa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Portuguese (language)
+    epo: la portugala (lingvo)
+    spa: "portugu\xE9s (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Portugal + -sa
+...

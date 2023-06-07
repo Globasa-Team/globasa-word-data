@@ -1,0 +1,50 @@
+---
+term: matematili
+slug: matematili
+ipa: "matema\u02C8tili"
+ipa link: "http://ipa-reader.xyz/?text=matema\u02C8tili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - mathematical
+  - - mathematically
+  epo:
+  - - matematika
+  spa:
+  - - "matem\xE1tico"
+  - - "matem\xE1ticamente"
+search terms:
+  glb:
+  - matematili
+  eng:
+  - mathematical
+  - mathematically
+  epo:
+  - matematika
+  spa:
+  - "matem\xE1tico"
+  - "matem\xE1ticamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/matemati">matemati</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: matematili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: mathematical; mathematically
+    epo: matematika
+    spa: "matem\xE1tico; matem\xE1ticamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: matemati + -li
+...

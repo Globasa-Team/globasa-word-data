@@ -1,0 +1,57 @@
+---
+term: moy
+slug: moy
+ipa: "\u02C8moj"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8moj&voice=Ewa"
+status: true
+category: root
+word class: d
+trans:
+  eng:
+  - - every
+    - each
+    - all [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+  epo:
+  - - "\u0109iu"
+    - "\u0109i- (korelativa parto)"
+  spa:
+  - - cada
+    - todo(s)
+search terms:
+  glb:
+  - moy
+  eng:
+  - every
+  - each
+  - all
+  epo:
+  - "\u0109iu"
+  - "\u0109i- korelativa parto"
+  - "\u0109i-"
+  spa:
+  - cada
+  - todos
+  - todo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: moy
+  category: root
+  word class: d
+  status: true
+  trans:
+    eng: every, each, all [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+    epo: "\u0109iu, \u0109i- (korelativa parto)"
+    spa: cada, todo(s)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u6BCF \u201Cm\u011Bi\u201D), Niponsa (\u6BCE \u201Cmai\u201D),
+    Vyetnamsa (m\u1ED7i), Hangusa (\uBAA8\uB450 \u201Cmodu\u201D)"
+...

@@ -1,0 +1,52 @@
+---
+term: exkiperi
+slug: exkiperi
+ipa: "e\u0283ki\u02C8pe\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283ki\u02C8pe\u027Ei&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Albania
+  epo:
+  - - Albanio
+    - Albanujo
+  spa:
+  - - Albania
+search terms:
+  glb:
+  - exkiperi
+  eng:
+  - albania
+  epo:
+  - albanio
+  - albanujo
+  spa:
+  - albania
+etymology_type: NATLNG
+etymology:
+  Exkiperisa:
+  - - "Shqip\xEBria"
+tags:
+- dexa
+raw data:
+  term: Exkiperi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Albania
+    epo: Albanio, Albanujo
+    spa: Albania
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Exkiperisa (Shqip\xEBria)"
+...

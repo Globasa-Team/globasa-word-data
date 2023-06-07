@@ -1,0 +1,57 @@
+---
+term: vyata
+slug: vyata
+ipa: "\u02C8vjata"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8vjata&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - expression
+  - - express
+  epo:
+  - - esprimo
+  - - esprimi
+  spa:
+  - - "expresi\xF3n"
+  - - expresar
+search terms:
+  glb:
+  - vyata
+  eng:
+  - expression
+  - express
+  epo:
+  - esprimo
+  - esprimi
+  spa:
+  - "expresi\xF3n"
+  - expresar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0935\u094D\u092F\u0915\u094D\u0924 \u201Cvyakt\u201D"
+  Telugusa:
+  - - "\u0C35\u0C4D\u0C2F\u0C15\u0C4D\u0C24\u0C02 \u201Cvyaktam\u201D"
+raw data:
+  term: vyata
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: expression; express
+    epo: esprimo; esprimi
+    spa: "expresi\xF3n; expresar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0935\u094D\u092F\u0915\u094D\u0924 \u201Cvyakt\u201D), Telugusa
+    (\u0C35\u0C4D\u0C2F\u0C15\u0C4D\u0C24\u0C02 \u201Cvyaktam\u201D)"
+...

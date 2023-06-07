@@ -1,0 +1,59 @@
+---
+term: fe espesyalya
+slug: fe espesyalya
+ipa: "fe espe\u02C8sjalja"
+ipa link: "http://ipa-reader.xyz/?text=fe espe\u02C8sjalja&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - in particular
+    - particularly
+    - especially
+  epo:
+  - - speciale
+    - precipe
+  spa:
+  - - especialmente
+    - en particular
+    - particularmente
+search terms:
+  glb:
+  - fe espesyalya
+  - fe
+  - espesyalya
+  eng:
+  - in particular
+  - particularly
+  - especially
+  epo:
+  - speciale
+  - precipe
+  spa:
+  - especialmente
+  - en particular
+  - particularmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/espesyal">espesyal</a> +
+  <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fe espesyalya
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: in particular, particularly, especially
+    epo: speciale, precipe
+    spa: especialmente, en particular, particularmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, espesyal + -ya
+...

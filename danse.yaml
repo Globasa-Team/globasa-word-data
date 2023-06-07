@@ -1,0 +1,76 @@
+---
+term: danse
+slug: danse
+ipa: ˈdanse
+ipa link: http://ipa-reader.xyz/?text=ˈdanse&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - dance
+  epo:
+  - - danco
+  - - danci
+  spa:
+  - - baile
+  - - bailar
+search terms:
+  glb:
+  - danse
+  eng:
+  - dance
+  epo:
+  - danco
+  - danci
+  spa:
+  - baile
+  - bailar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - dance
+  Fransesa:
+  - - danse
+  Doycisa:
+  - - Tanz
+    - tanzen
+  Rusisa:
+  - - танцевать “tantsevat”
+  Espanisa:
+  - - danza
+  Turkisa:
+  - - dans
+  Indonesisa:
+  - - dansa
+  Niponsa:
+  - - ダンス “dansu”
+  Hangusa:
+  - - 댄스 “densu”
+  Parsisa:
+  - - دانس “dâns”
+  Swahilisa:
+  - - dansi
+    - densi
+raw data:
+  term: danse
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: dance
+    epo: danco; danci
+    spa: baile; bailar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (dance), Fransesa (danse), Doycisa (Tanz, tanzen), Rusisa (танцевать
+    “tantsevat”), Espanisa (danza), Turkisa (dans), Indonesisa (dansa), Niponsa (ダンス
+    “dansu”), Hangusa (댄스 “densu”), Parsisa (دانس “dâns”), Swahilisa (dansi, densi)
+...

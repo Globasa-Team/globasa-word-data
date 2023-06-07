@@ -1,0 +1,48 @@
+---
+term: jandanya
+slug: jandanya
+ipa: "d\u0361\u0292an\u02C8danja"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292an\u02C8danja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - simplicity
+  epo:
+  - - simpleco
+  spa:
+  - - sencillez
+search terms:
+  glb:
+  - jandanya
+  eng:
+  - simplicity
+  epo:
+  - simpleco
+  spa:
+  - sencillez
+etymology_type: DERIVD
+etymology: <a href="../lexi/jandan">jandan</a> + <a href="../lexi/-ya">-ya</a>
+antonyms:
+- fukuzaya
+raw data:
+  term: jandanya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: simplicity
+    epo: simpleco
+    spa: sencillez
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: fukuzaya
+  example: ""
+  tags: ""
+  etymology: jandan + -ya
+...

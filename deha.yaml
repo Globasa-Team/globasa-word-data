@@ -1,0 +1,59 @@
+---
+term: deha
+slug: deha
+ipa: ˈdexa
+ipa link: http://ipa-reader.xyz/?text=ˈdexa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - village
+  epo:
+  - - vilaĝo
+  spa:
+  - - aldea
+    - pueblo
+search terms:
+  glb:
+  - deha
+  eng:
+  - village
+  epo:
+  - vilaĝo
+  spa:
+  - aldea
+  - pueblo
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - деревня “derevnja”
+  Espanisa:
+  - - aldea
+  Indonesisa:
+  - - desa
+  Arabisa:
+  - - ضيعة “ḍayʿa”
+  Parsisa:
+  - - ده “deh”
+raw data:
+  term: deha
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: village
+    epo: vilaĝo
+    spa: aldea, pueblo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Rusisa (деревня “derevnja”), Espanisa (aldea), Indonesisa (desa), Arabisa
+    (ضيعة “ḍayʿa”), Parsisa (ده “deh”)
+...

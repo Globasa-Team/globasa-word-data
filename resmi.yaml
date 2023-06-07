@@ -1,0 +1,71 @@
+---
+term: resmi
+slug: resmi
+ipa: "\u02C8\u027Eesmi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eesmi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - formal
+    - formally
+    - official
+    - officially
+  epo:
+  - - formala
+    - oficiala
+  - - formale
+    - oficiale
+  spa:
+  - - formal
+    - oficial
+search terms:
+  glb:
+  - resmi
+  eng:
+  - formal
+  - formally
+  - official
+  - officially
+  epo:
+  - formala
+  - oficiala
+  - formale
+  - oficiale
+  spa:
+  - formal
+  - oficial
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0631\u0633\u0645\u064A \u201Crasmi\u201D"
+  Parsisa:
+  - - "\u0631\u0633\u0645\u06CC \u201Crasmi\u201D"
+  Indonesisa:
+  - - resmi
+  Turkisa:
+  - - "resm\xEE"
+  Swahilisa:
+  - - rasmi
+raw data:
+  term: resmi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: formal, formally, official, officially
+    epo: formala, oficiala; formale, oficiale
+    spa: formal, oficial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0631\u0633\u0645\u064A \u201Crasmi\u201D), Parsisa (\u0631\u0633\u0645\u06CC
+    \u201Crasmi\u201D), Indonesisa (resmi), Turkisa (resm\xEE), Swahilisa (rasmi)"
+...

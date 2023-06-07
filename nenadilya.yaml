@@ -1,0 +1,49 @@
+---
+term: nenadilya
+slug: nenadilya
+ipa: "nena\u02C8dilja"
+ipa link: "http://ipa-reader.xyz/?text=nena\u02C8dilja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - injustice
+  epo:
+  - - maljusto
+    - maljusteco
+  spa:
+  - - injusticia
+search terms:
+  glb:
+  - nenadilya
+  eng:
+  - injustice
+  epo:
+  - maljusto
+  - maljusteco
+  spa:
+  - injusticia
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/adil">adil</a> + <a
+  href="../lexi/-ya">-ya</a>
+raw data:
+  term: nenadilya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: injustice
+    epo: maljusto, maljusteco
+    spa: injusticia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + adil + -ya
+...

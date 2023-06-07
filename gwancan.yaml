@@ -1,0 +1,56 @@
+---
+term: gwancan
+slug: gwancan
+ipa: gwanˈt͡ʃan
+ipa link: http://ipa-reader.xyz/?text=gwanˈt͡ʃan&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - plaza
+    - (town) square
+  epo:
+  - - placo
+  spa:
+  - - plaza
+search terms:
+  glb:
+  - gwancan
+  eng:
+  - plaza
+  - town square
+  - square
+  epo:
+  - placo
+  spa:
+  - plaza
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 广场 “guǎngchǎng”
+  Hangusa:
+  - - 광장 “gwangjang”
+  Vyetnamsa:
+  - - quảng trường
+raw data:
+  term: gwancan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: plaza, (town) square
+    epo: placo
+    spa: plaza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (广场 “guǎngchǎng”), Hangusa (광장 “gwangjang”), Vyetnamsa (quảng
+    trường)
+...

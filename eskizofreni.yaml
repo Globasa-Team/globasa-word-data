@@ -1,0 +1,78 @@
+---
+term: eskizofreni
+slug: eskizofreni
+ipa: eskizoˈfɾeni
+ipa link: http://ipa-reader.xyz/?text=eskizoˈfɾeni&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - schizophrenia
+  epo:
+  - - sĥizofrenio
+    - skizofrenio
+  spa:
+  - - esquizofrenia
+search terms:
+  glb:
+  - eskizofreni
+  eng:
+  - schizophrenia
+  epo:
+  - sĥizofrenio
+  - skizofrenio
+  spa:
+  - esquizofrenia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - schizophrenia
+  Espanisa:
+  - - esquizofrenia
+  Fransesa:
+  - - schizophrénie
+  Rusisa:
+  - - шизофрения "xizofrenia"
+  Doycisa:
+  - - Schizophrenie
+  Indonesisa:
+  - - skizofrenia
+  Pilipinasa:
+  - - eskisopreniya
+  Hindisa:
+  - - शीजोफ्रेनिया "xijofrenya"
+  Arabisa:
+  - - شيزوفرينيا "xizufrenya"
+  Telugusa:
+  - - స్కిజోఫ్రీనియా "skijofriniya"
+  Turkisa:
+  - - şizofreni
+  Parsisa:
+  - - اسکیزوفرنی "eskizoferni"
+  Swahilisa:
+  - - skizofrenia
+raw data:
+  term: eskizofreni
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: schizophrenia
+    epo: sĥizofrenio, skizofrenio
+    spa: esquizofrenia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (schizophrenia), Espanisa (esquizofrenia), Fransesa (schizophrénie)
+    Rusisa (шизофрения "xizofrenia"), Doycisa (Schizophrenie), Indonesisa (skizofrenia),
+    Pilipinasa (eskisopreniya), Hindisa (शीजोफ्रेनिया "xijofrenya"), Arabisa (شيزوفرينيا
+    "xizufrenya"), Telugusa (స్కిజోఫ్రీనియా "skijofriniya"), Turkisa (şizofreni),
+    Parsisa (اسکیزوفرنی "eskizoferni"), Swahilisa (skizofrenia)
+...

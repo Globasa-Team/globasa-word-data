@@ -1,0 +1,61 @@
+---
+term: (fe) ner xaya
+slug: (fe) ner xaya
+ipa: "\u02C8(fe) \u02C8ne\u027E \u02C8\u0283aja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8(fe) \u02C8ne\u027E \u02C8\u0283aja&voice=Ewa"
+status: false
+category: phrase
+word class: jm.p
+trans:
+  eng:
+  - - in the near future
+    - soon
+  epo:
+  - - en la proksima estonteco
+    - post nelonge
+    - "balda\u016D"
+  spa:
+  - - en el futuro cercano
+    - pronto
+search terms:
+  glb:
+  - (fe) ner xaya
+  - fe ner xaya
+  - ner xaya
+  - ner
+  - xaya
+  eng:
+  - in the near future
+  - soon
+  epo:
+  - en la proksima estonteco
+  - post nelonge
+  - "balda\u016D"
+  spa:
+  - en el futuro cercano
+  - pronto
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/ner">ner</a>, <a href="../lexi/xa">xa</a>
+  + <a href="../lexi/-ya">-ya</a>
+synonyms:
+- nerxali
+raw data:
+  term: (fe) ner xaya
+  category: phrase
+  word class: jm.p
+  status: false
+  trans:
+    eng: in the near future, soon
+    epo: "en la proksima estonteco, post nelonge, balda\u016D"
+    spa: en el futuro cercano, pronto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: nerxali
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, ner, xa + -ya
+...

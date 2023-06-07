@@ -1,0 +1,48 @@
+---
+term: fronkadam
+slug: fronkadam
+ipa: "f\u027Eonka\u02C8dam"
+ipa link: "http://ipa-reader.xyz/?text=f\u027Eonka\u02C8dam&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - progress
+  epo:
+  - - "anta\u016Denpa\u015Do"
+  - - "anta\u016Denpa\u015Di"
+  spa:
+  - - progreso
+search terms:
+  glb:
+  - fronkadam
+  eng:
+  - progress
+  epo:
+  - "anta\u016Denpa\u015Do"
+  - "anta\u016Denpa\u015Di"
+  spa:
+  - progreso
+etymology_type: DERIVD
+etymology: <a href="../lexi/fron-">fron-</a> + <a href="../lexi/kadam">kadam</a>
+raw data:
+  term: fronkadam
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: progress
+    epo: "anta\u016Denpa\u015Do; anta\u016Denpa\u015Di"
+    spa: progreso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fron- + kadam
+...

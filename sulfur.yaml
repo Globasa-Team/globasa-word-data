@@ -1,0 +1,72 @@
+---
+term: sulfur
+slug: sulfur
+ipa: "sul\u02C8fu\u027E"
+ipa link: "http://ipa-reader.xyz/?text=sul\u02C8fu\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sulfur
+    - sulphur
+  epo:
+  - - sulfo
+  spa:
+  - - azufre
+    - S
+search terms:
+  glb:
+  - sulfur
+  eng:
+  - sulfur
+  - sulphur
+  epo:
+  - sulfo
+  spa:
+  - azufre
+  - s
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sulfur
+  Espanisa:
+  - - azufre
+  Fransesa:
+  - - soufre
+  Indonesisa:
+  - - sulfur
+  Doycisa:
+  - - Sulfur
+  Telugusa:
+  - - "\u0C38\u0C32\u0C4D\u0C2B\u0C30\u0C4D \u201Csalfar\u201D"
+  Swahilisa:
+  - - sulfuri
+    - salfa
+  Pilipinasa:
+  - - asupre
+    - sulpura
+tags:
+- kimikali monlari
+raw data:
+  term: sulfur
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sulfur, sulphur
+    epo: sulfo
+    spa: azufre, S
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (sulfur), Espanisa (azufre), Fransesa (soufre), Indonesisa (sulfur),
+    Doycisa (Sulfur), Telugusa (\u0C38\u0C32\u0C4D\u0C2B\u0C30\u0C4D \u201Csalfar\u201D),
+    Swahilisa (sulfuri, salfa), Pilipinasa (asupre, sulpura)"
+...

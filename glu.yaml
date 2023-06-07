@@ -1,0 +1,61 @@
+---
+term: glu
+slug: glu
+ipa: ˈglu
+ipa link: http://ipa-reader.xyz/?text=ˈglu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - drink
+  epo:
+  - - trinko
+  - - trinki
+  spa:
+  - - bebida
+  - - beber
+    - tomar
+search terms:
+  glb:
+  - glu
+  eng:
+  - drink
+  epo:
+  - trinko
+  - trinki
+  spa:
+  - bebida
+  - beber
+  - tomar
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Englisa:
+  - - glug
+  Doycisa: ~
+  Polskasa: ~
+  Fransesa: ~
+  Indonesisa: ~
+  Parsisa: ~
+  Espanisa: ~
+raw data:
+  term: glu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: drink
+    epo: trinko; trinki
+    spa: bebida; beber, tomar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwasilexi - Englisa (glug), Doycisa ( ), Polskasa, Fransesa, Indonesisa,
+    Parsisa, Espanisa
+...

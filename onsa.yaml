@@ -1,0 +1,95 @@
+---
+term: onsa
+slug: onsa
+ipa: "\u02C8onsa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8onsa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ounce
+  epo:
+  - - unco
+  spa:
+  - - onza (_unidad de masa_)
+    - oz
+search terms:
+  glb:
+  - onsa
+  eng:
+  - ounce
+  epo:
+  - unco
+  spa:
+  - onza
+  - oz
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ounce
+  Espanisa:
+  - - onza
+  Fransesa:
+  - - once
+  Rusisa:
+  - - "\u0443\u043D\u0446\u0438\u044F \"untsiya\""
+  Doycisa:
+  - - Unze
+  Portugalsa:
+  - - "on\xE7a"
+  Italisa:
+  - - oncia
+  Indonesisa:
+  - - ons
+  Pilipinasa:
+  - - onsa
+  Putunhwa:
+  - - "\u76CE\u53F8 \"angsi\""
+  Hindisa:
+  - - "\u0914\u0902\u0938 \"auns\""
+  Arabisa:
+  - - "\u0623\u064E\u0648\u0652\u0646\u0652\u0633 \"awns\""
+    - "\u0623\u0648\u0646\u0635\u0629 \"unsa\""
+    - "\u0623\u0648\u0646\u0633\u0629 \"unsa\""
+  Niponsa:
+  - - "\u30AA\u30F3\u30B9 \"onsu\""
+  Tamilsa:
+  - - "\u0B85\u0BB5\u0BC1\u0BA9\u0BCD\u0BB8\u0BCD \"avuns\""
+  Turkisa:
+  - - ons
+  Vyetnamsa:
+  - - ounce
+  Hangusa:
+  - - "\uC628\uC2A4 \"onsu\""
+  Parsisa:
+  - - "\u0627\u0648\u0646\u0633 \"'uns\""
+tags:
+- meterya
+raw data:
+  term: onsa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ounce
+    epo: unco
+    spa: onza (_unidad de masa_), oz
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: meterya
+  etymology: "Englisa (ounce), Espanisa (onza), Fransesa (once), Rusisa (\u0443\u043D\u0446\u0438\u044F
+    \"untsiya\"), Doycisa (Unze), Portugalsa (on\xE7a), Italisa (oncia), Indonesisa
+    (ons), Pilipinasa (onsa), Putunhwa (\u76CE\u53F8 \"angsi\"), Hindisa (\u0914\u0902\u0938
+    \"auns\"), Arabisa (\u0623\u064E\u0648\u0652\u0646\u0652\u0633 \"awns\", \u0623\u0648\u0646\u0635\u0629
+    \"unsa\", \u0623\u0648\u0646\u0633\u0629 \"unsa\"), Niponsa (\u30AA\u30F3\u30B9
+    \"onsu\"), Tamilsa (\u0B85\u0BB5\u0BC1\u0BA9\u0BCD\u0BB8\u0BCD \"avuns\"), Turkisa
+    (ons), Vyetnamsa (ounce), Hangusa (\uC628\uC2A4 \"onsu\"), Parsisa (\u0627\u0648\u0646\u0633
+    \"'uns\")"
+...

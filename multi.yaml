@@ -1,0 +1,68 @@
+---
+term: multi
+slug: multi
+ipa: "\u02C8multi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8multi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - many
+    - much
+    - a lot (of)
+    - lots (of)
+    - (a) great deal
+  epo:
+  - - multa
+  - - multe (da)
+    - "tre (anta\u016D verbo) (malo de [xosu]) (vidu [daymo] por \u201Ctre\u201D anta\u016D
+      adjektivo)"
+  spa:
+  - - mucho
+    - muchos
+search terms:
+  glb:
+  - multi
+  eng:
+  - many
+  - much
+  - a lot of
+  - a lot
+  - lots of
+  - lots
+  - a great deal
+  - great deal
+  epo:
+  - multa
+  - multe da
+  - multe
+  - "tre anta\u016D verbo malo de  por \u201Ctre\u201D anta\u016D adjektivo"
+  - tre
+  spa:
+  - mucho
+  - muchos
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: multi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: many, much, a lot (of), lots (of), (a) great deal
+    epo: "multa; multe (da), tre (anta\u016D verbo) (malo de [xosu]) (vidu [daymo]
+      por \u201Ctre\u201D anta\u016D adjektivo)"
+    spa: mucho, muchos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: many, much, lot, a lot, a lot of
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (multitude), Espanisa (multi-), Englisa (multi-), Doycisa (multi-),
+    Rusisa (\u043C\u0443\u043B\u044C\u0442\u0438- \u201Cmulti-\u201D)"
+...

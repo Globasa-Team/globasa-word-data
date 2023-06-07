@@ -1,0 +1,57 @@
+---
+term: suki
+slug: suki
+ipa: "\u02C8suki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8suki&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - like
+  epo:
+  - - "\u015Dato"
+  - - "\u015Dati"
+  spa:
+  - - gusto
+  - - gustar
+search terms:
+  glb:
+  - suki
+  eng:
+  - like
+  epo:
+  - "\u015Dato"
+  - "\u015Dati"
+  spa:
+  - gusto
+  - gustar
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - suka
+  Niponsa:
+  - - "\u597D\u304D \u201Csuki\u201D"
+  Hindisa:
+  - - "\u0938\u0941\u0916 \u201Csukh\u201D ~ furaha"
+raw data:
+  term: suki
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: like
+    epo: "\u015Dato; \u015Dati"
+    spa: gusto; gustar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (suka), Niponsa (\u597D\u304D \u201Csuki\u201D), Hindisa
+    (\u0938\u0941\u0916 \u201Csukh\u201D ~ furaha)"
+...

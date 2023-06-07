@@ -1,0 +1,90 @@
+---
+term: servi
+slug: servi
+ipa: "\u02C8se\u027Evi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8se\u027Evi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - service
+  - - serve
+  epo:
+  - - servo
+  - - servi
+  spa:
+  - - servicio
+  - - servir
+  fra:
+  - - service
+  - - servir
+search terms:
+  glb:
+  - servi
+  eng:
+  - service
+  - serve
+  epo:
+  - servo
+  - servi
+  spa:
+  - servicio
+  - servir
+  fra:
+  - service
+  - servir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - serve
+    - serving
+    - service
+  Fransesa:
+  - - servir
+    - service
+  Espanisa:
+  - - servir
+    - servicio
+  Polskasa:
+  - - serwis
+  Hindisa:
+  - - "\u0938\u0930\u094D\u0935\u093F\u0938 \u201Csarvis\u201D"
+    - "\u0938\u0947\u0935\u093E \u201Csev\u0101\u201D"
+  Indonesisa:
+  - - servis
+  Niponsa:
+  - - "\u30B5\u30FC\u30D3\u30B9 \u201Cs\u0101bisu\u201D"
+  Hangusa:
+  - - "\uC11C\uBE44\uC2A4 \u201Cseobiseu\u201D"
+  Telugu:
+  - - "\u0C38\u0C47\u0C35 \u201Cs\u0113va\u201D"
+  Pilipinasa:
+  - - serbisyo
+  Parsisa:
+  - - "\u0633\u0631\u0648\u06CC\u0633 \u201Cservis\u201D"
+raw data:
+  term: servi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: service; serve
+    epo: servo; servi
+    spa: servicio; servir
+    deu: ""
+    fra: service; servir
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (serve, serving, service), Fransesa (servir, service), Espanisa
+    (servir, servicio), Polskasa (serwis), Hindisa (\u0938\u0930\u094D\u0935\u093F\u0938
+    \u201Csarvis\u201D, \u0938\u0947\u0935\u093E \u201Csev\u0101\u201D), Indonesisa
+    (servis), Niponsa (\u30B5\u30FC\u30D3\u30B9 \u201Cs\u0101bisu\u201D), Hangusa
+    (\uC11C\uBE44\uC2A4 \u201Cseobiseu\u201D), Telugu (\u0C38\u0C47\u0C35 \u201Cs\u0113va\u201D),
+    Pilipinasa (serbisyo), Parsisa (\u0633\u0631\u0648\u06CC\u0633 \u201Cservis\u201D)"
+...

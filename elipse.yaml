@@ -1,0 +1,66 @@
+---
+term: elipse
+slug: elipse
+ipa: eˈlipse
+ipa link: http://ipa-reader.xyz/?text=eˈlipse&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ellipse
+  epo:
+  - - elipso
+  spa:
+  - - elipse
+search terms:
+  glb:
+  - elipse
+  eng:
+  - ellipse
+  epo:
+  - elipso
+  spa:
+  - elipse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ellipse
+  Espanisa:
+  - - elipse
+  Fransesa:
+  - - ellipse
+  Rusisa:
+  - - эллипс "elips"
+  Doycisa:
+  - - Ellipse
+  Indonesisa:
+  - - elips
+  Pilipinasa:
+  - - elipso
+  Turkisa:
+  - - elips
+  Vyetnamsa:
+  - - elíp
+raw data:
+  term: elipse
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ellipse
+    epo: elipso
+    spa: elipse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (ellipse), Espanisa (elipse), Fransesa (ellipse), Rusisa (эллипс
+    "elips"), Doycisa (Ellipse), Indonesisa (elips), Pilipinasa (elipso), Turkisa
+    (elips), Vyetnamsa (elíp)
+...

@@ -1,0 +1,48 @@
+---
+term: minoriya
+slug: minoriya
+ipa: "mino\u02C8\u027Eija"
+ipa link: "http://ipa-reader.xyz/?text=mino\u02C8\u027Eija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - minority
+  epo:
+  - - plejmalmulto
+    - minoritato
+  spa:
+  - - "minor\xEDa"
+search terms:
+  glb:
+  - minoriya
+  eng:
+  - minority
+  epo:
+  - plejmalmulto
+  - minoritato
+  spa:
+  - "minor\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/minori">minori</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: minoriya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: minority
+    epo: plejmalmulto, minoritato
+    spa: "minor\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: minori + -ya
+...

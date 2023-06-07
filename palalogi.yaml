@@ -1,0 +1,62 @@
+---
+term: palalogi
+slug: palalogi
+ipa: "pala\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=pala\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - rhetoric
+  epo:
+  - - retoriko
+    - oratorarto
+  spa:
+  - - "ret\xF3rica"
+  deu:
+  - - Rhetorik
+    - Redekunst
+  fra:
+  - - "rh\xE9torique"
+  rus:
+  - - "\u0440\u0438\u0442\u043E\u0440\u0438\u043A\u0430"
+search terms:
+  glb:
+  - palalogi
+  eng:
+  - rhetoric
+  epo:
+  - retoriko
+  - oratorarto
+  spa:
+  - "ret\xF3rica"
+  deu:
+  - rhetorik
+  - redekunst
+  fra:
+  - "rh\xE9torique"
+  rus:
+  - "\u0440\u0438\u0442\u043E\u0440\u0438\u043A\u0430"
+etymology_type: DERIVD
+etymology: <a href="../lexi/pala">pala</a> + <a href="../lexi/-logi">-logi</a>
+raw data:
+  term: palalogi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: rhetoric
+    epo: retoriko, oratorarto
+    spa: "ret\xF3rica"
+    deu: Rhetorik, Redekunst
+    fra: "rh\xE9torique"
+    rus: "\u0440\u0438\u0442\u043E\u0440\u0438\u043A\u0430"
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pala + -logi
+...

@@ -1,0 +1,48 @@
+---
+term: kesadiya
+slug: kesadiya
+ipa: "kesa\u02C8dija"
+ipa link: "http://ipa-reader.xyz/?text=kesa\u02C8dija&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - quesadilla
+  epo:
+  - - kesadiljo
+  spa:
+  - - quesadilla
+search terms:
+  glb:
+  - kesadiya
+  eng:
+  - quesadilla
+  epo:
+  - kesadiljo
+  spa:
+  - quesadilla
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: kesadiya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: quesadilla
+    epo: kesadiljo
+    spa: quesadilla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Espanisa (quesadilla)
+...

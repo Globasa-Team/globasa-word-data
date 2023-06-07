@@ -1,0 +1,75 @@
+---
+term: vakasi
+slug: vakasi
+ipa: "va\u02C8kasi"
+ipa link: "http://ipa-reader.xyz/?text=va\u02C8kasi&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - vacation
+    - holiday
+  - - take a vacation
+    - go on holiday
+  epo:
+  - - ferio
+  - - ferii
+  spa:
+  - - vacaciones
+  - - vacacionar
+search terms:
+  glb:
+  - vakasi
+  eng:
+  - vacation
+  - holiday
+  - take a vacation
+  - go on holiday
+  epo:
+  - ferio
+  - ferii
+  spa:
+  - vacaciones
+  - vacacionar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - vacation
+  Espanisa:
+  - - vacaciones
+  Fransesa:
+  - - vacances
+  Indonesisa:
+  - - vakansi
+  Pilipinasa:
+  - - bakasyon
+  Niponsa:
+  - - "\u30D0\u30AB\u30F3\u30B9 \"bakansu\""
+    - "\u30F4\u30A1\u30AB\u30F3\u30B9 \"vakansu\""
+    - "\u30D0\u30B1\u30FC\u30B7\u30E7\u30F3 \"bakexon\""
+  Hindisa:
+  - - "\u0905\u0935\u0915\u093E\u0936 \"avakax\""
+raw data:
+  term: vakasi
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: vacation, holiday; take a vacation, go on holiday
+    epo: ferio; ferii
+    spa: vacaciones; vacacionar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (vacation), Espanisa (vacaciones), Fransesa (vacances), Indonesisa
+    (vakansi), Pilipinasa (bakasyon), Niponsa (\u30D0\u30AB\u30F3\u30B9 \"bakansu\",
+    \u30F4\u30A1\u30AB\u30F3\u30B9 \"vakansu\", \u30D0\u30B1\u30FC\u30B7\u30E7\u30F3
+    \"bakexon\"), Hindisa (\u0905\u0935\u0915\u093E\u0936 \"avakax\")"
+...

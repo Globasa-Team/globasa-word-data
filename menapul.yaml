@@ -1,0 +1,56 @@
+---
+term: menapul
+slug: menapul
+ipa: "mena\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=mena\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - meaningful
+    - significant
+  - - meaningfully
+    - significantly
+  epo:
+  - - signifa
+  - - signife
+  spa:
+  - - significativo
+  - - significativamente
+search terms:
+  glb:
+  - menapul
+  eng:
+  - meaningful
+  - significant
+  - meaningfully
+  - significantly
+  epo:
+  - signifa
+  - signife
+  spa:
+  - significativo
+  - significativamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/mena">mena</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: menapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: meaningful, significant; meaningfully, significantly
+    epo: signifa; signife
+    spa: significativo; significativamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mena + -pul
+...

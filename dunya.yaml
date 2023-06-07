@@ -1,0 +1,64 @@
+---
+term: dunya
+slug: dunya
+ipa: "\u02C8dunja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dunja&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Earth
+  epo:
+  - - (la) Tero
+  spa:
+  - - Tierra
+search terms:
+  glb:
+  - dunya
+  eng:
+  - earth
+  epo:
+  - la tero
+  - tero
+  spa:
+  - tierra
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062F\u0646\u064A\u0627 \u201Cdunia\u201D - globa"
+  Turkisa:
+  - - "D\xFCnya"
+  Swahilisa:
+  - - dunia
+  Indonesisa:
+  - - dunia - globa
+  Hindisa:
+  - - "\u0926\u0941\u0928\u093F\u092F\u093E \u201Cduniy\u0101\u201D - globa"
+  Parsisa:
+  - - "\u062F\u0646\u06CC\u0627 \u201Cdony\xE2\u201D - globa"
+tags:
+- planeta
+raw data:
+  term: Dunya
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Earth
+    epo: (la) Tero
+    spa: Tierra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planeta
+  etymology: "Arabisa (\u062F\u0646\u064A\u0627 \u201Cdunia\u201D - globa), Turkisa
+    (D\xFCnya), Swahilisa (dunia), Indonesisa (dunia - globa), Hindisa (\u0926\u0941\u0928\u093F\u092F\u093E
+    \u201Cduniy\u0101\u201D - globa), Parsisa (\u062F\u0646\u06CC\u0627 \u201Cdony\xE2\u201D
+    - globa)"
+...

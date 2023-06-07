@@ -1,0 +1,48 @@
+---
+term: nilte
+slug: nilte
+ipa: "\u02C8nilte"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nilte&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - nobody
+    - no one
+  epo:
+  - - neniu
+  spa:
+  - - nadie
+search terms:
+  glb:
+  - nilte
+  eng:
+  - nobody
+  - no one
+  epo:
+  - neniu
+  spa:
+  - nadie
+etymology_type: DERIVD
+etymology: <a href="../lexi/nil">nil</a> + <a href="../lexi/te">te</a>
+raw data:
+  term: nilte
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: nobody, no one
+    epo: neniu
+    spa: nadie
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nil + te
+...

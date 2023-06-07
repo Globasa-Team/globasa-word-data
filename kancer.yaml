@@ -1,0 +1,51 @@
+---
+term: kancer
+slug: kancer
+ipa: "kan\u02C8t\u0361\u0283e\u027E"
+ipa link: "http://ipa-reader.xyz/?text=kan\u02C8t\u0361\u0283e\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cancer
+  epo:
+  - - kancero
+  spa:
+  - - "c\xE1ncer"
+search terms:
+  glb:
+  - kancer
+  eng:
+  - cancer
+  epo:
+  - kancero
+  spa:
+  - "c\xE1ncer"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: kancer
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cancer
+    epo: kancero
+    spa: "c\xE1ncer"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (cancer), Fransesa, Espanisa (c\xE1ncer), Indonesisa (kanker),
+    Pilipinasa (kanser), Turkisa, Hindisa (\u0915\u0948\u0902\u0938\u0930 \u201Ckansar\u201D),
+    Telugusa (\u0C15\u0C4D\u0C2F\u0C3E\u0C28\u0C4D\u0C38\u0C30\u0C4D \u201Ckyansar\u201D),
+    Swahilisa (kansa)"
+...

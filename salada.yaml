@@ -1,0 +1,87 @@
+---
+term: salada
+slug: salada
+ipa: "sa\u02C8lada"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8lada&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - salad
+  epo:
+  - - salato
+  spa:
+  - - ensalada
+search terms:
+  glb:
+  - salada
+  eng:
+  - salad
+  epo:
+  - salato
+  spa:
+  - ensalada
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6C99\u62C9 \u201Csh\u0101l\u0101\u201D"
+  Hangusa:
+  - - "\uC0D0\uB7EC\uB4DC \u201Csellodu\u201D"
+  Niponsa:
+  - - "\u30B5\u30E9\u30C0 \u201Csarada\u201D"
+  Arabisa:
+  - - "\u0633\u064E\u0644\u064E\u0637\u064E\u0629 \u201Csalata\u201D"
+  Hindisa:
+  - - "\u0938\u0932\u093E\u0926 \u201Csalad\u201D"
+  Telugusa:
+  - - "\u0C38\u0C32\u0C3E\u0C21\u0C41 \u201Csaladu\u201D"
+  Parsisa:
+  - - "\u0633\u0627\u0644\u0627\u062F \u201Cs\xE2l\xE2d\u201D"
+  Turkisa:
+  - - salata
+  Indonesisa:
+  - - salad
+  Pilipinasa:
+  - - ensalada
+  Swahilisa:
+  - - saladi
+  Englisa:
+  - - salad
+  Doycisa:
+  - - Salat
+  Fransesa:
+  - - salade
+  Espanisa:
+  - - ensalada
+  Rusisa:
+  - - "\u0441\u0430\u043B\u0430\u0442 \u201Csalat\u201D"
+tags:
+- yamxey
+raw data:
+  term: salada
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: salad
+    epo: salato
+    spa: ensalada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Putunhwa  (\u6C99\u62C9 \u201Csh\u0101l\u0101\u201D), Hangusa (\uC0D0\uB7EC\uB4DC
+    \u201Csellodu\u201D), Niponsa (\u30B5\u30E9\u30C0 \u201Csarada\u201D), Arabisa
+    (\u0633\u064E\u0644\u064E\u0637\u064E\u0629 \u201Csalata\u201D), Hindisa (\u0938\u0932\u093E\u0926
+    \u201Csalad\u201D), Telugusa (\u0C38\u0C32\u0C3E\u0C21\u0C41 \u201Csaladu\u201D),
+    Parsisa (\u0633\u0627\u0644\u0627\u062F \u201Cs\xE2l\xE2d\u201D), Turkisa (salata),
+    Indonesisa (salad), Pilipinasa (ensalada), Swahilisa (saladi), Englisa (salad),
+    Doycisa (Salat), Fransesa (salade), Espanisa (ensalada), Rusisa (\u0441\u0430\u043B\u0430\u0442
+    \u201Csalat\u201D)"
+...

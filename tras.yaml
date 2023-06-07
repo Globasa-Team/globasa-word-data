@@ -1,0 +1,70 @@
+---
+term: tras
+slug: tras
+ipa: "t\u027Eas"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Eas&voice=Ewa"
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - across
+  epo:
+  - - trans
+  spa:
+  - - cruzando
+    - en frente
+search terms:
+  glb:
+  - tras
+  eng:
+  - across
+  epo:
+  - trans
+  spa:
+  - cruzando
+  - en frente
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - trans-
+  Doycisa:
+  - - trans-
+  Fransesa:
+  - - trans-
+  Espanisa:
+  - - trans-
+    - tras
+  Indonesisa:
+  - - trans-
+  Italisa:
+  - - tras
+  Rusisa:
+  - - "\u0442\u0440\u0430\u043D\u0441- \u201Ctrans-\u201D"
+  Niponsa:
+  - - "\u30C8\u30E9\u30F3\u30B9 \u201Ctoransu\u201D"
+  Parsisa:
+  - - "\u062A\u0631\u0627 \u201Ctar\xE2\u201D"
+raw data:
+  term: tras
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: across
+    epo: trans
+    spa: cruzando, en frente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (trans-), Doycisa (trans-), Fransesa (trans-), Espanisa (trans-,
+    tras), Indonesisa (trans-), Italisa (tras), Rusisa (\u0442\u0440\u0430\u043D\u0441-
+    \u201Ctrans-\u201D), Niponsa (\u30C8\u30E9\u30F3\u30B9 \u201Ctoransu\u201D), Parsisa
+    (\u062A\u0631\u0627 \u201Ctar\xE2\u201D)"
+...

@@ -1,0 +1,56 @@
+---
+term: azizu
+slug: azizu
+ipa: aˈzizu
+ipa link: http://ipa-reader.xyz/?text=aˈzizu&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - dear
+    - dearly
+  epo:
+  - - kara
+  - - kare
+  spa:
+  - - querido
+search terms:
+  glb:
+  - azizu
+  eng:
+  - dear
+  - dearly
+  epo:
+  - kara
+  - kare
+  spa:
+  - querido
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - عزيز “eaziz”
+  Parsisa:
+  - - عزیز “aziz”
+  Hindisa:
+  - - अज़ीज़ “aziz”
+raw data:
+  term: azizu
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: dear, dearly
+    epo: kara; kare
+    spa: querido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (عزيز “eaziz”), Parsisa (عزیز “aziz”), Hindisa (अज़ीज़ “aziz”)
+...

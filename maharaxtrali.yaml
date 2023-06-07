@@ -1,0 +1,48 @@
+---
+term: maharaxtrali
+slug: maharaxtrali
+ipa: "maxa\u027Ea\u0283\u02C8t\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=maxa\u027Ea\u0283\u02C8t\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Marathi
+  epo:
+  - - marata
+    - maratha
+  spa:
+  - - marati
+search terms:
+  glb:
+  - maharaxtrali
+  eng:
+  - marathi
+  epo:
+  - marata
+  - maratha
+  spa:
+  - marati
+etymology_type: DERIVD
+etymology: <a href="../lexi/Maharaxtra">Maharaxtra</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Maharaxtrali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Marathi
+    epo: marata, maratha
+    spa: marati
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Maharaxtra + -li
+...

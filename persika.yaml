@@ -1,0 +1,63 @@
+---
+term: persika
+slug: persika
+ipa: "pe\u027E\u02C8sika"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027E\u02C8sika&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - peach (_Prunus persica_)
+  epo:
+  - - persiko
+  spa:
+  - - durazno
+    - _Prunus persica_
+search terms:
+  glb:
+  - persika
+  eng:
+  - peach
+  epo:
+  - persiko
+  spa:
+  - durazno
+  - prunus persica
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - "\u043F\u0435\u0440\u0441\u0438\u043A \u201Cpersik\u201D"
+  Doycisa:
+  - - Pfirsich
+  Indonesisa:
+  - - persik
+  Rumanisa:
+  - - "piersic\u0103"
+  Arabisa:
+  - - "\u0641\u0650\u0631\u0652\u0633\u0650\u0643 \u201Cfirsik\u201D"
+tags:
+- fruta
+- yamxey
+raw data:
+  term: persika
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: peach (_Prunus persica_)
+    epo: persiko
+    spa: durazno, _Prunus persica_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Rusisa (\u043F\u0435\u0440\u0441\u0438\u043A \u201Cpersik\u201D), Doycisa
+    (Pfirsich), Indonesisa (persik), Rumanisa (piersic\u0103), Arabisa (\u0641\u0650\u0631\u0652\u0633\u0650\u0643
+    \u201Cfirsik\u201D)"
+...

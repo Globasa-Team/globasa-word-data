@@ -1,0 +1,48 @@
+---
+term: pakili
+slug: pakili
+ipa: "pa\u02C8kili"
+ipa link: "http://ipa-reader.xyz/?text=pa\u02C8kili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Pakistani
+  epo:
+  - - pakistana
+  - - pakistane
+  spa:
+  - - "pakistan\xED"
+search terms:
+  glb:
+  - pakili
+  eng:
+  - pakistani
+  epo:
+  - pakistana
+  - pakistane
+  spa:
+  - "pakistan\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Paki">Paki</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Pakili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Pakistani
+    epo: pakistana; pakistane
+    spa: "pakistan\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Paki + -li
+...

@@ -1,0 +1,49 @@
+---
+term: leli presidiyen
+slug: leli presidiyen
+ipa: "\u02C8leli p\u027Eesidi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8leli p\u027Eesidi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ex-president
+  epo:
+  - - eksprezidanto
+  spa:
+  - - expresidente
+search terms:
+  glb:
+  - leli presidiyen
+  - leli
+  - presidiyen
+  eng:
+  - ex-president
+  epo:
+  - eksprezidanto
+  spa:
+  - expresidente
+etymology_type: DERIVD
+etymology: <a href="../lexi/le">le</a> + <a href="../lexi/-li">-li</a>, <a href="../lexi/presidi">presidi</a>
+  + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: leli presidiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ex-president
+    epo: eksprezidanto
+    spa: expresidente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: le + -li, presidi + -yen
+...

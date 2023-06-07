@@ -1,0 +1,48 @@
+---
+term: sealimdo
+slug: sealimdo
+ipa: "sea\u02C8limdo"
+ipa link: "http://ipa-reader.xyz/?text=sea\u02C8limdo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - self-taught
+  epo:
+  - - meminstruita
+  - - meminstruite
+  spa:
+  - - autodidacta
+search terms:
+  glb:
+  - sealimdo
+  eng:
+  - self-taught
+  epo:
+  - meminstruita
+  - meminstruite
+  spa:
+  - autodidacta
+etymology_type: DERIVD
+etymology: <a href="../lexi/se-">se-</a> + <a href="../lexi/alim">alim</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: sealimdo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: self-taught
+    epo: meminstruita; meminstruite
+    spa: autodidacta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se- + alim + -do
+...

@@ -1,0 +1,51 @@
+---
+term: kanadayen
+slug: kanadayen
+ipa: "kanada\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=kanada\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Canadian
+  epo:
+  - - kanadano
+  spa:
+  - - persona canadiense
+  fra:
+  - - Canadien(ne)
+search terms:
+  glb:
+  - kanadayen
+  eng:
+  - canadian
+  epo:
+  - kanadano
+  spa:
+  - persona canadiense
+  fra:
+  - canadienne
+  - canadien
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kanada">Kanada</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Kanadayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Canadian
+    epo: kanadano
+    spa: persona canadiense
+    deu: ""
+    fra: Canadien(ne)
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kanada + -yen
+...

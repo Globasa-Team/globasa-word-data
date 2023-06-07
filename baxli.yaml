@@ -1,0 +1,50 @@
+---
+term: baxli
+slug: baxli
+ipa: "\u02C8ba\u0283li"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ba\u0283li&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - lower
+    - underlying
+  epo:
+  - - suba
+  - - sube
+  spa:
+  - - inferior
+search terms:
+  glb:
+  - baxli
+  eng:
+  - lower
+  - underlying
+  epo:
+  - suba
+  - sube
+  spa:
+  - inferior
+etymology_type: DERIVD
+etymology: <a href="../lexi/bax">bax</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: baxli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: lower, underlying
+    epo: suba; sube
+    spa: inferior
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bax + -li
+...

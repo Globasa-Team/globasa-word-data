@@ -1,0 +1,49 @@
+---
+term: mais
+slug: mais
+ipa: "ma\u02C8is"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8is&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - corn
+  epo:
+  - - maizo
+  spa:
+  - - "ma\xEDz"
+search terms:
+  glb:
+  - mais
+  eng:
+  - corn
+  epo:
+  - maizo
+  spa:
+  - "ma\xEDz"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: mais
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: corn
+    epo: maizo
+    spa: "ma\xEDz"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (maize), Doycisa (Mais), Espanisa (ma\xEDz), Fransesa (ma\xEFs),
+    Pilipinasa (mais), Rusisa (\u043C\u0430\u0438\u0441 \u201Cmais\u201D)"
+...

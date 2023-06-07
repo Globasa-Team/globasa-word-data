@@ -1,0 +1,49 @@
+---
+term: fe muka de
+slug: fe muka de
+ipa: "fe \u02C8muka de"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8muka de&voice=Ewa"
+status: false
+category: phrase
+word class: jm p
+trans:
+  eng:
+  - - across from
+  epo:
+  - - fronte al
+  spa:
+  - - frente a
+search terms:
+  glb:
+  - fe muka de
+  - fe
+  - muka
+  - de
+  eng:
+  - across from
+  epo:
+  - fronte al
+  spa:
+  - frente a
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/muka">muka</a>, <a href="../lexi/de">de</a>
+raw data:
+  term: fe muka de
+  category: phrase
+  word class: jm p
+  status: false
+  trans:
+    eng: across from
+    epo: fronte al
+    spa: frente a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, muka, de
+...

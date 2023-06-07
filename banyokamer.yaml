@@ -1,0 +1,50 @@
+---
+term: banyokamer
+slug: banyokamer
+ipa: "banjoka\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=banjoka\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - bathroom
+  epo:
+  - - banejo
+  spa:
+  - - "ba\xF1o"
+    - servicio
+search terms:
+  glb:
+  - banyokamer
+  eng:
+  - bathroom
+  epo:
+  - banejo
+  spa:
+  - "ba\xF1o"
+  - servicio
+etymology_type: DERIVD
+etymology: <a href="../lexi/banyo">banyo</a> + <a href="../lexi/-kamer">-kamer</a>
+tags:
+- kamer
+raw data:
+  term: banyokamer
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: bathroom
+    epo: banejo
+    spa: "ba\xF1o, servicio"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kamer
+  etymology: banyo + -kamer
+...

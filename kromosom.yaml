@@ -1,0 +1,53 @@
+---
+term: kromosom
+slug: kromosom
+ipa: "k\u027Eomo\u02C8som"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Eomo\u02C8som&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chromosome
+  epo:
+  - - kromosomo
+  spa:
+  - - cromosoma
+  deu:
+  - - Chromosom
+search terms:
+  glb:
+  - kromosom
+  eng:
+  - chromosome
+  epo:
+  - kromosomo
+  spa:
+  - cromosoma
+  deu:
+  - chromosom
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kromosom
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chromosome
+    epo: kromosomo
+    spa: cromosoma
+    deu: Chromosom
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (chromosome), Fransesa, Espanisa (cromosoma), Rusisa (\u0445\u0440\u043E\u043C\u043E\u0441\u043E\u043C\u0430
+    \u201Chromosoma\u201D), Doycisa (Chromosom), Indonesisa (kromosom), Pilipinasa
+    (kromosoma), Arabisa (\u0643\u0652\u0631\u064F\u0648\u0645\u064F\u0648\u0633\u064F\u0648\u0645\u200E
+    \u201Ckrumusum\u201D), Turkisa (kromozom)"
+...

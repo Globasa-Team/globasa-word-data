@@ -1,0 +1,76 @@
+---
+term: peda
+slug: peda
+ipa: "\u02C8peda"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8peda&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - foot
+  - - step (on)
+    - tread
+  epo:
+  - - piedo
+  - - "pa\u015Di"
+    - piedpremi
+    - piediri
+  spa:
+  - - pie
+  - - pisar
+search terms:
+  glb:
+  - peda
+  eng:
+  - foot
+  - step on
+  - step
+  - tread
+  epo:
+  - piedo
+  - "pa\u015Di"
+  - piedpremi
+  - piediri
+  spa:
+  - pie
+  - pisar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pedal
+  Fransesa:
+  - - pied
+  Espanisa:
+  - - pie
+    - pata
+  Hindisa:
+  - - "\u092A\u0948\u0930 \u201Cpair\u201D"
+  Karnatakasa:
+  - - "\u0CAA\u0CBE\u0CA6 \u201Cp\u0101da\u201D"
+  Pilipinasa:
+  - - paa
+tags:
+- jismulogi
+raw data:
+  term: peda
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: foot; step (on), tread
+    epo: "piedo; pa\u015Di, piedpremi, piediri"
+    spa: pie; pisar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (pedal), Fransesa (pied), Espanisa (pie, pata), Hindisa (\u092A\u0948\u0930
+    \u201Cpair\u201D), Karnatakasa (\u0CAA\u0CBE\u0CA6 \u201Cp\u0101da\u201D), Pilipinasa
+    (paa)"
+...

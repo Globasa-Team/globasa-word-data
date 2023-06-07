@@ -1,0 +1,47 @@
+---
+term: haseda
+slug: haseda
+ipa: "xa\u02C8seda"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8seda&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - envy
+  epo:
+  - - envio
+  spa:
+  - - envidia
+search terms:
+  glb:
+  - haseda
+  eng:
+  - envy
+  epo:
+  - envio
+  spa:
+  - envidia
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: haseda
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: envy
+    epo: envio
+    spa: envidia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u064E\u0633\u064E\u062F \u201Chasad\u201D), Turkisa
+    (haset), Parsisa (\u062D\u0633\u0627\u062F\u062A \u201Chesadat\u201D)"
+...

@@ -1,0 +1,85 @@
+---
+term: batiza
+slug: batiza
+ipa: baˈtiza
+ipa link: http://ipa-reader.xyz/?text=baˈtiza&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - baptism
+  - - baptise
+  epo:
+  - - bapto
+  - - bapti
+  spa:
+  - - bautizo
+    - bautismo
+  - - bautizar
+search terms:
+  glb:
+  - batiza
+  eng:
+  - baptism
+  - baptise
+  epo:
+  - bapto
+  - bapti
+  spa:
+  - bautizo
+  - bautismo
+  - bautizar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - baptism
+  - - baptize
+  Espanisa:
+  - - bautismo
+    - bautizo
+  Fransesa:
+  - - baptême
+  - - baptiser
+  Rusisa:
+  - - баптизм "baptizm"
+  Portugalsa:
+  - - batismo
+  - - batizar
+  Italisa:
+  - - battesimo
+  Indonesisa:
+  - - baptis
+  Hindisa:
+  - - बपतिस्मा "baptisma"
+    - बाप्तिस्मा "baptisma"
+  Turkisa:
+  - - vaftiz
+  Swahilisa:
+  - - ubatizo
+  - - -batiza
+tags:
+- dini
+raw data:
+  term: batiza
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: baptism; baptise
+    epo: bapto; bapti
+    spa: bautizo, bautismo; bautizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: Englisa (baptism; baptize), Espanisa (bautismo, bautizo), Fransesa (baptême;
+    baptiser), Rusisa (баптизм "baptizm"), Portugalsa (batismo; batizar), Italisa
+    (battesimo), Indonesisa (baptis), Hindisa (बपतिस्मा "baptisma", बाप्तिस्मा "baptisma"),
+    Turkisa (vaftiz), Swahilisa (ubatizo; -batiza)
+...

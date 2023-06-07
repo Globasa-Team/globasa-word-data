@@ -1,0 +1,55 @@
+---
+term: lefe or fe
+slug: lefe or fe
+ipa: "\u02C8lefe o\u027E fe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lefe o\u027E fe&voice=Ewa"
+status: false
+category: phrase
+word class: p
+trans:
+  eng:
+  - - by
+    - on or before
+  epo:
+  - - "\u011Dis"
+    - "anta\u016D or je"
+    - "je or anta\u016D"
+  spa:
+  - - "a m\xE1s tardar"
+search terms:
+  glb:
+  - lefe or fe
+  - lefe
+  - or
+  - fe
+  eng:
+  - by
+  - on or before
+  epo:
+  - "\u011Dis"
+  - "anta\u016D or je"
+  - "je or anta\u016D"
+  spa:
+  - "a m\xE1s tardar"
+etymology_type: DERIVD
+etymology: <a href="../lexi/lefe">lefe</a>, <a href="../lexi/or">or</a>, <a href="../lexi/fe">fe</a>
+raw data:
+  term: lefe or fe
+  category: phrase
+  word class: p
+  status: false
+  trans:
+    eng: by, on or before
+    epo: "\u011Dis, anta\u016D or je, je or anta\u016D"
+    spa: "a m\xE1s tardar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lefe, or, fe
+...

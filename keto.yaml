@@ -1,0 +1,49 @@
+---
+term: keto
+slug: keto
+ipa: "\u02C8keto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8keto&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - what
+    - which (one)
+  epo:
+  - - kio
+  spa:
+  - - "\xBFqu\xE9? \xBFcu\xE1l cosa?"
+search terms:
+  glb:
+  - keto
+  eng:
+  - what
+  - which one
+  - which
+  epo:
+  - kio
+  spa:
+  - "\xBFqu\xE9? \xBFcu\xE1l cosa?"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ke">ke</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: keto
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: what, which (one)
+    epo: kio
+    spa: "\xBFqu\xE9? \xBFcu\xE1l cosa?"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ke + to
+...

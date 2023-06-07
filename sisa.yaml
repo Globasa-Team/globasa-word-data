@@ -1,0 +1,57 @@
+---
+term: sisa
+slug: sisa
+ipa: "\u02C8sisa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sisa&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - six
+  epo:
+  - - ses
+  spa:
+  - - seis
+search terms:
+  glb:
+  - sisa
+  eng:
+  - six
+  epo:
+  - ses
+  spa:
+  - seis
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - six
+  Fransesa:
+  - - six
+  Doycisa:
+  - - sechs
+  Espanisa:
+  - - seis
+  Swahilisa:
+  - - sita
+raw data:
+  term: sisa
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: six
+    epo: ses
+    spa: seis
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (six), Fransesa (six), Doycisa (sechs), Espanisa (seis), Swahilisa
+    (sita)
+...

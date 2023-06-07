@@ -1,0 +1,70 @@
+---
+term: uvula
+slug: uvula
+ipa: "u\u02C8vula"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8vula&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - uvula
+  epo:
+  - - uvulo
+  spa:
+  - - "\xFAvula"
+    - campanilla
+    - galillo
+search terms:
+  glb:
+  - uvula
+  eng:
+  - uvula
+  epo:
+  - uvulo
+  spa:
+  - "\xFAvula"
+  - campanilla
+  - galillo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - uvula
+    - uvular
+  Espanisa:
+  - - "\xFAvula"
+  Fransesa:
+  - - uvule
+    - uvula
+  Rusisa:
+  - - "\u0443\u0432\u0443\u043B\u0430 \"uvula\""
+  Doycisa:
+  - - Uvula
+  Indonesisa:
+  - - uvula
+  Pilipinasa:
+  - - ubular
+tags:
+- jismulogi
+raw data:
+  term: uvula
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: uvula
+    epo: uvulo
+    spa: "\xFAvula, campanilla, galillo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (uvula, uvular), Espanisa (\xFAvula), Fransesa (uvule, uvula),
+    Rusisa (\u0443\u0432\u0443\u043B\u0430 \"uvula\"), Doycisa (Uvula), Indonesisa
+    (uvula), Pilipinasa (ubular)"
+...

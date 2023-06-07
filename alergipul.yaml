@@ -1,0 +1,47 @@
+---
+term: alergipul
+slug: alergipul
+ipa: "ale\u027Egi\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=ale\u027Egi\u02C8pul&voice=Ewa"
+status: true
+category: derived
+word class: t
+trans:
+  eng:
+  - - allergic
+  epo:
+  - - alergia (al)
+  spa:
+  - - "al\xE9rgico"
+search terms:
+  glb:
+  - alergipul
+  eng:
+  - allergic
+  epo:
+  - alergia al
+  - alergia
+  spa:
+  - "al\xE9rgico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/alergi">alergi</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: alergipul
+  category: derived
+  word class: t
+  status: true
+  trans:
+    eng: allergic
+    epo: alergia (al)
+    spa: "al\xE9rgico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alergi + -pul
+...

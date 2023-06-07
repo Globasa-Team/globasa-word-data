@@ -1,0 +1,61 @@
+---
+term: zuhura
+slug: zuhura
+ipa: "zu\u02C8xu\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=zu\u02C8xu\u027Ea&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Venus (_planet_)
+  epo:
+  - - Venuso
+  spa:
+  - - Venus (_planeta_)
+search terms:
+  glb:
+  - zuhura
+  eng:
+  - venus
+  epo:
+  - venuso
+  spa:
+  - venus
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0627\u0644\u0632\u0647\u0631\u0629 \u201Calzahra\u201D"
+  Parsisa:
+  - - "\u0632\u0647\u0631\u0647 \u201Czahra\u201D"
+  Swahilisa:
+  - - Zuhura
+  Indonesisa:
+  - - Zohrah
+    - Zuhrah
+  Turkisa:
+  - - "Z\xFChre"
+tags:
+- planeta
+raw data:
+  term: Zuhura
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Venus (_planet_)
+    epo: Venuso
+    spa: Venus (_planeta_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planeta
+  etymology: "Arabisa (\u0627\u0644\u0632\u0647\u0631\u0629 \u201Calzahra\u201D),
+    Parsisa (\u0632\u0647\u0631\u0647 \u201Czahra\u201D), Swahilisa (Zuhura), Indonesisa
+    (Zohrah, Zuhrah), Turkisa (Z\xFChre)"
+...

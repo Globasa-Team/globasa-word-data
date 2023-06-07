@@ -1,0 +1,76 @@
+---
+term: -logi
+slug: -logi
+ipa: "-\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8logi&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - specialty
+    - science (of)
+    - philosophy (of)
+    - study (of)
+    - art (of)
+  epo:
+  - - -logio
+    - fako
+    - -scienco
+    - filozofio
+    - -studo
+    - -arto
+  spa:
+  - - especialidad
+    - ciencia de
+    - "filosof\xEDa de"
+    - estudio de
+    - arte de
+search terms:
+  glb:
+  - -logi
+  eng:
+  - specialty
+  - science of
+  - science
+  - philosophy of
+  - philosophy
+  - study of
+  - study
+  - art of
+  - art
+  epo:
+  - -logio
+  - fako
+  - -scienco
+  - filozofio
+  - -studo
+  - -arto
+  spa:
+  - especialidad
+  - ciencia de
+  - "filosof\xEDa de"
+  - estudio de
+  - arte de
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/logi">logi</a>.
+raw data:
+  term: -logi
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: specialty, science (of), philosophy (of), study (of), art (of)
+    epo: -logio, fako, -scienco, filozofio, -studo, -arto
+    spa: "especialidad, ciencia de, filosof\xEDa de, estudio de, arte de"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: science of, philosophy of, study of, art of
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _logi_.
+...

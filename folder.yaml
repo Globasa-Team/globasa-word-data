@@ -1,0 +1,65 @@
+---
+term: folder
+slug: folder
+ipa: folˈdeɾ
+ipa link: http://ipa-reader.xyz/?text=folˈdeɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - folder
+  epo:
+  - - dosierujo
+  spa:
+  - - carpeta
+search terms:
+  glb:
+  - folder
+  eng:
+  - folder
+  epo:
+  - dosierujo
+  spa:
+  - carpeta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - folder
+  Indonesisa:
+  - - folder
+  Pilipinasa:
+  - - polder
+    - folder
+  Hindisa:
+  - - फ़ोल्डर “foldar”
+  Niponsa:
+  - - フォルダー “foruda”
+  Telugusa:
+  - - ఫోల్డర్ “foldar”
+  Hangusa:
+  - - 폴더 “poldo”
+  Swahilisa:
+  - - folda
+raw data:
+  term: folder
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: folder
+    epo: dosierujo
+    spa: carpeta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (folder), Indonesisa (folder), Pilipinasa (polder, folder), Hindisa
+    (फ़ोल्डर “foldar”), Niponsa (フォルダー “foruda”), Telugusa (ఫోల్డర్ “foldar”), Hangusa
+    (폴더 “poldo”), Swahilisa (folda)
+...

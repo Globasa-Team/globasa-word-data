@@ -1,0 +1,51 @@
+---
+term: kawcu
+slug: kawcu
+ipa: "\u02C8kawt\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kawt\u0361\u0283u&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rubber
+  epo:
+  - - "ka\u016D\u0109uko"
+  spa:
+  - - goma
+    - caucho
+search terms:
+  glb:
+  - kawcu
+  eng:
+  - rubber
+  epo:
+  - "ka\u016D\u0109uko"
+  spa:
+  - goma
+  - caucho
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kawcu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rubber
+    epo: "ka\u016D\u0109uko"
+    spa: goma, caucho
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (caucho), Fransesa (caoutchouc), Englisa, Doycisa (Kautschuk),
+    Pilipinasa (kawtso), Arabisa (\u0643\u064E\u0627\u0648\u0652\u062A\u0652\u0634\u064F\u0648\u0643
+    \u201Ckawcuk\u201D), Turkisa (kau\xE7uk), Vyetnamsa (cao su), Parsisa (\u06A9\u0627\u0626\u0648\u0686\u0648
+    \u201Ckaucu\u201D)"
+...

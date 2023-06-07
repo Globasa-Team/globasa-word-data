@@ -1,0 +1,61 @@
+---
+term: tahtu
+slug: tahtu
+ipa: "\u02C8taxtu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8taxtu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - throne
+  epo:
+  - - trono
+  spa:
+  - - trono
+    - solio
+search terms:
+  glb:
+  - tahtu
+  eng:
+  - throne
+  epo:
+  - trono
+  spa:
+  - trono
+  - solio
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0924\u0916\u093C\u094D\u0924 \u201Ctaht\u201D"
+  Arabisa:
+  - - "\u062A\u064E\u062E\u0652\u062A \u201Ctaht\u201D"
+    - "\u062A\u064E\u062E\u0652\u062A\u064F \u201Ctahtu\u201D"
+  Indonesisa:
+  - - takhta
+  Turkisa:
+  - - taht
+  Parsisa:
+  - - "\u062A\u062E\u062A \u201Ctaht\u201D"
+raw data:
+  term: tahtu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: throne
+    epo: trono
+    spa: trono, solio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0924\u0916\u093C\u094D\u0924 \u201Ctaht\u201D), Arabisa (\u062A\u064E\u062E\u0652\u062A
+    \u201Ctaht\u201D, \u062A\u064E\u062E\u0652\u062A\u064F \u201Ctahtu\u201D), Indonesisa
+    (takhta), Turkisa (taht), Parsisa (\u062A\u062E\u062A \u201Ctaht\u201D)"
+...

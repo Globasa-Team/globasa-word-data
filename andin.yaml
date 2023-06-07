@@ -1,0 +1,62 @@
+---
+term: andin
+slug: andin
+ipa: anˈdin
+ipa link: http://ipa-reader.xyz/?text=anˈdin&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - stable
+    - firm
+  epo:
+  - - stabila
+    - firma
+  - - stabile
+    - firme
+  spa:
+  - - estable
+    - firme
+search terms:
+  glb:
+  - andin
+  eng:
+  - stable
+  - firm
+  epo:
+  - stabila
+  - firma
+  - stabile
+  - firme
+  spa:
+  - estable
+  - firme
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 安定 “āndìng”
+  Niponsa:
+  - - 安定 “antei”
+  Vyetnamsa:
+  - - ổn định
+raw data:
+  term: andin
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: stable, firm
+    epo: stabila, firma; stabile, firme
+    spa: estable, firme
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (安定 “āndìng”), Niponsa (安定 “antei”), Vyetnamsa (ổn định)
+...

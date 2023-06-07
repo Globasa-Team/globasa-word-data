@@ -1,0 +1,56 @@
+---
+term: bawekal
+slug: bawekal
+ipa: "bawe\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=bawe\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - defenseless
+    - defenceless
+    - vulnerable
+  epo:
+  - - sendefenda
+  - - sendefende
+  spa:
+  - - indefenso
+    - vulnerable
+search terms:
+  glb:
+  - bawekal
+  eng:
+  - defenseless
+  - defenceless
+  - vulnerable
+  epo:
+  - sendefenda
+  - sendefende
+  spa:
+  - indefenso
+  - vulnerable
+etymology_type: DERIVD
+etymology: <a href="../lexi/bawe">bawe</a> + <a href="../lexi/-kal">-kal</a>
+synonyms:
+- sahaykal
+raw data:
+  term: bawekal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: defenseless, defenceless, vulnerable
+    epo: sendefenda; sendefende
+    spa: indefenso, vulnerable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: sahaykal
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bawe + -kal
+...

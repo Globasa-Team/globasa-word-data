@@ -1,0 +1,46 @@
+---
+term: kapitalista
+slug: kapitalista
+ipa: "kapita\u02C8lista"
+ipa link: "http://ipa-reader.xyz/?text=kapita\u02C8lista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - capitalist
+  epo:
+  - - kapitalisto
+  spa:
+  - - capitalista
+search terms:
+  glb:
+  - kapitalista
+  eng:
+  - capitalist
+  epo:
+  - kapitalisto
+  spa:
+  - capitalista
+etymology_type: DERIVD
+etymology: <a href="../lexi/kapital">kapital</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: kapitalista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: capitalist
+    epo: kapitalisto
+    spa: capitalista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kapital + -ista
+...

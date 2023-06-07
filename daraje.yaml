@@ -1,0 +1,63 @@
+---
+term: daraje
+slug: daraje
+ipa: daˈɾad͡ʒe
+ipa link: http://ipa-reader.xyz/?text=daˈɾad͡ʒe&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - degree
+    - grade
+    - level
+  epo:
+  - - grado
+    - nivelo
+  spa:
+  - - grado
+    - nivel
+search terms:
+  glb:
+  - daraje
+  eng:
+  - degree
+  - grade
+  - level
+  epo:
+  - grado
+  - nivelo
+  spa:
+  - grado
+  - nivel
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - درجة “daraja”
+  Parsisa:
+  - - درجه “daraje”
+  Indonesisa:
+  - - derajat
+  Turkisa:
+  - - derece
+raw data:
+  term: daraje
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: degree, grade, level
+    epo: grado, nivelo
+    spa: grado, nivel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (درجة “daraja”), Parsisa (درجه “daraje”), Indonesisa (derajat),
+    Turkisa (derece)
+...

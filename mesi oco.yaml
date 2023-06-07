@@ -1,0 +1,48 @@
+---
+term: mesi oco
+slug: mesi oco
+ipa: "\u02C8mesi \u02C8ot\u0361\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mesi \u02C8ot\u0361\u0283o&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - August
+  epo:
+  - - "A\u016Dgusto"
+  spa:
+  - - agosto
+search terms:
+  glb:
+  - mesi oco
+  - mesi
+  - oco
+  eng:
+  - august
+  epo:
+  - "a\u016Dgusto"
+  spa:
+  - agosto
+etymology_type: DERIVD
+etymology: <a href="../lexi/mesi">mesi</a>, <a href="../lexi/oco">oco</a>
+raw data:
+  term: mesi oco
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: August
+    epo: "A\u016Dgusto"
+    spa: agosto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mesi, oco
+...

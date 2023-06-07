@@ -1,0 +1,48 @@
+---
+term: linkutul
+slug: linkutul
+ipa: "linku\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=linku\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (hyper)link
+  epo:
+  - - ligilo
+  spa:
+  - - (hiper)enlace
+search terms:
+  glb:
+  - linkutul
+  eng:
+  - hyperlink
+  - link
+  epo:
+  - ligilo
+  spa:
+  - hiperenlace
+  - enlace
+etymology_type: DERIVD
+etymology: <a href="../lexi/linku">linku</a> + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: linkutul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (hyper)link
+    epo: ligilo
+    spa: (hiper)enlace
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: link, hyperlink
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: linku + -tul
+...

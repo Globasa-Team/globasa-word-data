@@ -1,0 +1,46 @@
+---
+term: xatubofun
+slug: xatubofun
+ipa: "\u0283atubo\u02C8fun"
+ipa link: "http://ipa-reader.xyz/?text=\u0283atubo\u02C8fun&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - sandstorm
+  epo:
+  - - "sablo\u015Dtormo"
+  spa:
+  - - tormenta de arena
+search terms:
+  glb:
+  - xatubofun
+  eng:
+  - sandstorm
+  epo:
+  - "sablo\u015Dtormo"
+  spa:
+  - tormenta de arena
+etymology_type: DERIVD
+etymology: <a href="../lexi/xatu">xatu</a> + <a href="../lexi/bofun">bofun</a>
+raw data:
+  term: xatubofun
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: sandstorm
+    epo: "sablo\u015Dtormo"
+    spa: tormenta de arena
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xatu + bofun
+...

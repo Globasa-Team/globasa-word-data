@@ -1,0 +1,50 @@
+---
+term: suratu
+slug: suratu
+ipa: "su\u02C8\u027Eatu"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8\u027Eatu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter (_written message_)
+  epo:
+  - - letero
+  spa:
+  - - carta
+search terms:
+  glb:
+  - suratu
+  eng:
+  - letter
+  epo:
+  - letero
+  spa:
+  - carta
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - surat
+  Pilipinasa:
+  - - sulat
+raw data:
+  term: suratu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter (_written message_)
+    epo: letero
+    spa: carta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Indonesisa (surat), Pilipinasa (sulat)
+...

@@ -1,0 +1,51 @@
+---
+term: fidali
+slug: fidali
+ipa: "fi\u02C8dali"
+ipa link: "http://ipa-reader.xyz/?text=fi\u02C8dali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - (of) silver
+    - made of silver
+  epo:
+  - - "ar\u011Denta"
+  - - "ar\u011Dente"
+  spa:
+  - - de plata
+search terms:
+  glb:
+  - fidali
+  eng:
+  - of silver
+  - silver
+  - made of silver
+  epo:
+  - "ar\u011Denta"
+  - "ar\u011Dente"
+  spa:
+  - de plata
+etymology_type: DERIVD
+etymology: <a href="../lexi/fida">fida</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: fidali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: (of) silver, made of silver
+    epo: "ar\u011Denta; ar\u011Dente"
+    spa: de plata
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fida + -li
+...

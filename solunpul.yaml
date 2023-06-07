@@ -1,0 +1,56 @@
+---
+term: solunpul
+slug: solunpul
+ipa: "solun\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=solun\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unique
+  - - uniquely
+  epo:
+  - - unika
+    - ununura
+  - - unuke
+    - ununure
+  spa:
+  - - "\xFAnico"
+  - - "\xFAnicamente"
+search terms:
+  glb:
+  - solunpul
+  eng:
+  - unique
+  - uniquely
+  epo:
+  - unika
+  - ununura
+  - unuke
+  - ununure
+  spa:
+  - "\xFAnico"
+  - "\xFAnicamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sol">sol</a> + <a href="../lexi/un">un</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: solunpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unique; uniquely
+    epo: unika, ununura; unuke, ununure
+    spa: "\xFAnico; \xFAnicamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sol + un + -pul
+...

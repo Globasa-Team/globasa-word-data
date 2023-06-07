@@ -1,0 +1,52 @@
+---
+term: byen
+slug: byen
+ipa: ˈbjen
+ipa link: http://ipa-reader.xyz/?text=ˈbjen&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - edge
+  epo:
+  - - bordo
+    - rando
+  spa:
+  - - borde
+search terms:
+  glb:
+  - byen
+  eng:
+  - edge
+  epo:
+  - bordo
+  - rando
+  spa:
+  - borde
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 边 “biān”
+  Vyetnamsa:
+  - - biên
+raw data:
+  term: byen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: edge
+    epo: bordo, rando
+    spa: borde
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (边 “biān”), Vyetnamsa (biên)
+...

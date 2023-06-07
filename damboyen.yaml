@@ -1,0 +1,46 @@
+---
+term: damboyen
+slug: damboyen
+ipa: "dambo\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=dambo\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - thin person
+  epo:
+  - - maldikulo
+  spa:
+  - - persona delgada
+search terms:
+  glb:
+  - damboyen
+  eng:
+  - thin person
+  epo:
+  - maldikulo
+  spa:
+  - persona delgada
+etymology_type: DERIVD
+etymology: <a href="../lexi/dambo">dambo</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: damboyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: thin person
+    epo: maldikulo
+    spa: persona delgada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dambo + -yen
+...

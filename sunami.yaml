@@ -1,0 +1,76 @@
+---
+term: sunami
+slug: sunami
+ipa: "su\u02C8nami"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8nami&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tsunami
+  epo:
+  - - cunamo
+  spa:
+  - - tsunami
+search terms:
+  glb:
+  - sunami
+  eng:
+  - tsunami
+  epo:
+  - cunamo
+  spa:
+  - tsunami
+etymology_type: NATLNG
+etymology:
+  Niponsa:
+  - - "\u6D25\u6CE2 \u201Ctsunami\u201D"
+  Englisa:
+  - - tsunami
+  Espanisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Turkisa: ~
+  Swahilisa: ~
+  "":
+  - - "\u0446\u0443\u043D\u0430\u043C\u0438 \u201Ctsunami\u201D"
+  Pilipinasa:
+  - - sunami
+  Hindisa:
+  - - "\u0938\u0941\u0928\u093E\u092E\u0940 \u201Csunami\u201D"
+  Arabisa:
+  - - "\u062A\u0652\u0633\u064F\u0648\u0646\u064E\u0627\u0645\u0650\u064A \u201Ctsunami\u201D"
+  Telugusa:
+  - - "\u0C38\u0C41\u0C28\u0C3E\u0C2E\u0C3F \u201Csunami\u201D"
+  Hangusa:
+  - - "\uC4F0\uB098\uBBF8 \u201Csunami\u201D"
+  Parsisa:
+  - - "\u0633\u0648\u0646\u0627\u0645\u06CC \u201Csunami\u201D"
+raw data:
+  term: sunami
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tsunami
+    epo: cunamo
+    spa: tsunami
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Niponsa (\u6D25\u6CE2 \u201Ctsunami\u201D), Englisa (tsunami), Espanisa,
+    Fransesa, Doycisa, Indonesisa, Turkisa, Swahilisa, (\u0446\u0443\u043D\u0430\u043C\u0438
+    \u201Ctsunami\u201D), Pilipinasa (sunami), Hindisa (\u0938\u0941\u0928\u093E\u092E\u0940
+    \u201Csunami\u201D), Arabisa (\u062A\u0652\u0633\u064F\u0648\u0646\u064E\u0627\u0645\u0650\u064A
+    \u201Ctsunami\u201D), Telugusa (\u0C38\u0C41\u0C28\u0C3E\u0C2E\u0C3F \u201Csunami\u201D),
+    Hangusa (\uC4F0\uB098\uBBF8 \u201Csunami\u201D), Parsisa (\u0633\u0648\u0646\u0627\u0645\u06CC
+    \u201Csunami\u201D)"
+...

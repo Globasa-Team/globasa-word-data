@@ -1,0 +1,46 @@
+---
+term: miismo
+slug: miismo
+ipa: "mi\u02C8ismo"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8ismo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - egoism
+  epo:
+  - - egoismo
+  spa:
+  - - "ego\xEDsmo"
+search terms:
+  glb:
+  - miismo
+  eng:
+  - egoism
+  epo:
+  - egoismo
+  spa:
+  - "ego\xEDsmo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/mi">mi</a> + <a href="../lexi/-ismo">-ismo</a>
+raw data:
+  term: miismo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: egoism
+    epo: egoismo
+    spa: "ego\xEDsmo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mi + -ismo
+...

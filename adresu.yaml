@@ -1,0 +1,81 @@
+---
+term: adresu
+slug: adresu
+ipa: aˈdɾesu
+ipa link: http://ipa-reader.xyz/?text=aˈdɾesu&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - address
+  - - address (_mail_)
+  epo:
+  - - adreso
+  - - adresi
+  spa:
+  - - dirección
+    - domicilio
+  - - poner la dirección de alguien en
+  deu:
+  - - Anschrift
+    - Adresse
+  - - (_einen Brief/ein Paket_) adressieren
+search terms:
+  glb:
+  - adresu
+  eng:
+  - address
+  epo:
+  - adreso
+  - adresi
+  spa:
+  - dirección
+  - domicilio
+  - poner la dirección de alguien en
+  deu:
+  - anschrift
+  - adresse
+  - adressieren
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - adresse
+  Englisa:
+  - - address
+  Doycisa:
+  - - Adresse
+  Rusisa:
+  - - адрес “adres”
+  Indonesisa:
+  - - adres
+  Pilipinasa:
+  - - adres
+  Turkisa:
+  - - adres
+  Niponsa:
+  - - アドレス “adoresu”
+  Parsisa:
+  - - آدرس “âdres”
+raw data:
+  term: adresu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: address; address (_mail_)
+    epo: adreso; adresi
+    spa: dirección, domicilio; poner la dirección de alguien en
+    deu: Anschrift, Adresse; (_einen Brief/ein Paket_) adressieren
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: Fe lutuf, am irsal misu paketi cel hin adresu.
+  tags: ""
+  etymology: Fransesa (adresse), Englisa (address), Doycisa (Adresse), Rusisa (адрес
+    “adres”), Indonesisa (adres), Pilipinasa (adres), Turkisa (adres), Niponsa (アドレス
+    “adoresu”), Parsisa (آدرس “âdres”)
+...

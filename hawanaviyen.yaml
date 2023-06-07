@@ -1,0 +1,57 @@
+---
+term: hawanaviyen
+slug: hawanaviyen
+ipa: "xawanavi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=xawanavi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pilot
+    - aeronaut
+  epo:
+  - - piloto
+    - aviadisto
+    - "aerona\u016Dto"
+    - aerveturanto
+  spa:
+  - - piloto
+    - aeronauta
+search terms:
+  glb:
+  - hawanaviyen
+  eng:
+  - pilot
+  - aeronaut
+  epo:
+  - piloto
+  - aviadisto
+  - "aerona\u016Dto"
+  - aerveturanto
+  spa:
+  - piloto
+  - aeronauta
+etymology_type: DERIVD
+etymology: <a href="../lexi/hawa-">hawa-</a> + <a href="../lexi/navi">navi</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: hawanaviyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pilot, aeronaut
+    epo: "piloto, aviadisto, aerona\u016Dto, aerveturanto"
+    spa: piloto, aeronauta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hawa- + navi + -yen
+...

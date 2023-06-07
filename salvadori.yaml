@@ -1,0 +1,50 @@
+---
+term: salvadori
+slug: salvadori
+ipa: "salva\u02C8do\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=salva\u02C8do\u027Ei&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - El Salvador
+  epo:
+  - - Salvadoro
+  spa:
+  - - El Salvador
+search terms:
+  glb:
+  - salvadori
+  eng:
+  - el salvador
+  epo:
+  - salvadoro
+  spa:
+  - el salvador
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - El Salvador
+tags:
+- dexa
+raw data:
+  term: Salvadori
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: El Salvador
+    epo: Salvadoro
+    spa: El Salvador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (El Salvador)
+...

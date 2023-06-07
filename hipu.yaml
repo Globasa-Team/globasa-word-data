@@ -1,0 +1,49 @@
+---
+term: hipu
+slug: hipu
+ipa: "\u02C8xipu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xipu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hip (_anatomy_)
+  epo:
+  - - kokso
+  spa:
+  - - cadera
+search terms:
+  glb:
+  - hipu
+  eng:
+  - hip
+  epo:
+  - kokso
+  spa:
+  - cadera
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: hipu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hip (_anatomy_)
+    epo: kokso
+    spa: cadera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (hipu), Doycisa (H\xFCfte), Niponsa (\u30D2\u30C3\u30D7 \u201Chippu\u201D),
+    Hangusa (\uD788\uD504 \u201Chipeu\u201D)"
+...

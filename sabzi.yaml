@@ -1,0 +1,55 @@
+---
+term: sabzi
+slug: sabzi
+ipa: "\u02C8sabzi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sabzi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vegetable
+  epo:
+  - - legomo
+  spa:
+  - - vegetal
+search terms:
+  glb:
+  - sabzi
+  eng:
+  - vegetable
+  epo:
+  - legomo
+  spa:
+  - vegetal
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - "\u0633\u0628\u0632\u06CC \u201Csabzi\u201D"
+  Hindisa:
+  - - "\u0938\u092C\u091C\u0940 \u201Csabji\u201D"
+  Turkisa:
+  - - sebze
+tags:
+- yamxey
+raw data:
+  term: sabzi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vegetable
+    epo: legomo
+    spa: vegetal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Parsisa (\u0633\u0628\u0632\u06CC \u201Csabzi\u201D), Hindisa (\u0938\u092C\u091C\u0940
+    \u201Csabji\u201D), Turkisa (sebze)"
+...

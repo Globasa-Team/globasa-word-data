@@ -1,0 +1,73 @@
+---
+term: rutina
+slug: rutina
+ipa: "\u027Eu\u02C8tina"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8tina&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - routine
+  epo:
+  - - rutino
+    - kutimo
+  spa:
+  - - rutina
+search terms:
+  glb:
+  - rutina
+  eng:
+  - routine
+  epo:
+  - rutino
+  - kutimo
+  spa:
+  - rutina
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Routine
+  Englisa:
+  - - routine
+  Espanisa:
+  - - rutina
+  Fransesa:
+  - - routine
+  Rusisa:
+  - - "\u0440\u0443\u0442\u0438\u043D\u0430 \u201Crutina\u201D"
+  Arabisa: ~
+  Parsisa:
+  - - "\u0631\u0648\u062A\u06CC\u0646 \u201Crutin\u201D"
+  Indonesisa:
+  - - rutin
+  Turkisa:
+  - - rutin
+  Niponsa:
+  - - "\u30EB\u30FC\u30C1\u30F3 \u201Crucin\u201D"
+  Hangusa:
+  - - "\uB8E8\uD2F4 \u201Crutin\u201D"
+raw data:
+  term: rutina
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: routine
+    epo: rutino, kutimo
+    spa: rutina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Routine), Englisa (routine), Espanisa (rutina), Fransesa (routine),
+    Rusisa (\u0440\u0443\u0442\u0438\u043D\u0430 \u201Crutina\u201D), Arabisa, Parsisa
+    (\u0631\u0648\u062A\u06CC\u0646 \u201Crutin\u201D), Indonesisa (rutin), Turkisa
+    (rutin), Niponsa (\u30EB\u30FC\u30C1\u30F3 \u201Crucin\u201D), Hangusa (\uB8E8\uD2F4
+    \u201Crutin\u201D)"
+...

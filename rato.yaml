@@ -1,0 +1,65 @@
+---
+term: rato
+slug: rato
+ipa: "\u02C8\u027Eato"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eato&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rat
+  epo:
+  - - rato
+  spa:
+  - - rata
+    - _Rodentia_
+search terms:
+  glb:
+  - rato
+  eng:
+  - rat
+  epo:
+  - rato
+  spa:
+  - rata
+  - rodentia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rat
+  Fransesa:
+  - - rat
+  Espanisa:
+  - - rata
+  Doycisa:
+  - - Ratte
+  Portugalsa:
+  - - rato
+  Italisa:
+  - - rato
+  Niponsa:
+  - - "\u30E9\u30C3\u30C8 \u201Cratto\u201D"
+tags:
+- hewan
+raw data:
+  term: rato
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rat
+    epo: rato
+    spa: rata, _Rodentia_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (rat), Fransesa (rat) Espanisa (rata), Doycisa (Ratte), Portugalsa
+    (rato), Italisa (rato), Niponsa (\u30E9\u30C3\u30C8 \u201Cratto\u201D)"
+...

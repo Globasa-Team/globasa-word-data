@@ -1,0 +1,77 @@
+---
+term: bacilus
+slug: bacilus
+ipa: bat͡ʃiˈlus
+ipa link: http://ipa-reader.xyz/?text=bat͡ʃiˈlus&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bacillus
+  epo:
+  - - bacilo
+  spa:
+  - - bacilo
+search terms:
+  glb:
+  - bacilus
+  eng:
+  - bacillus
+  epo:
+  - bacilo
+  spa:
+  - bacilo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bacillus
+  Espanisa:
+  - - basilo
+  Fransesa:
+  - - bacille
+  Rusisa:
+  - - бацилла “batsila”
+  Doycisa:
+  - - Bazillus
+  Indonesisa:
+  - - basilus
+    - basil
+  Hindisa:
+  - - बैसिलस “besilas”
+  Niponsa:
+  - - バシラス “baxirasu”
+    - バチルス “bacirusu”
+  Telugusa:
+  - - బేసిలస్ “besilas”
+  Turkisa:
+  - - basil
+    - Bacillus
+  Parsisa:
+  - - باسیل “basil”
+    - باسیلوس “basilus”
+  Swahilisa:
+  - - basila
+raw data:
+  term: bacilus
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bacillus
+    epo: bacilo
+    spa: bacilo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (bacillus), Espanisa (basilo), Fransesa (bacille), Rusisa (бацилла
+    “batsila”), Doycisa (Bazillus), Indonesisa (basilus, basil), Hindisa (बैसिलस “besilas”),
+    Niponsa (バシラス “baxirasu”, バチルス “bacirusu”), Telugusa (బేసిలస్ “besilas”), Turkisa
+    (basil, Bacillus), Parsisa (باسیل “basil”, باسیلوس “basilus”), Swahilisa (basila)
+...

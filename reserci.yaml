@@ -1,0 +1,59 @@
+---
+term: reserci
+slug: reserci
+ipa: "\u027Ee\u02C8se\u027Et\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8se\u027Et\u0361\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - research
+  epo:
+  - - esploro
+  - - esplori
+  spa:
+  - - "investigaci\xF3n"
+  - - investigar
+search terms:
+  glb:
+  - reserci
+  eng:
+  - research
+  epo:
+  - esploro
+  - esplori
+  spa:
+  - "investigaci\xF3n"
+  - investigar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - research
+  Fransesa:
+  - - recherche
+  Niponsa:
+  - - "\u30EA\u30B5\u30FC\u30C1 \u201Crisaci\u201D"
+  Indonesisa:
+  - - riset
+raw data:
+  term: reserci
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: research
+    epo: esploro; esplori
+    spa: "investigaci\xF3n; investigar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (research), Fransesa (recherche), Niponsa (\u30EA\u30B5\u30FC\u30C1
+    \u201Crisaci\u201D), Indonesisa (riset)"
+...

@@ -1,0 +1,56 @@
+---
+term: kadmyum
+slug: kadmyum
+ipa: "kad\u02C8mjum"
+ipa link: "http://ipa-reader.xyz/?text=kad\u02C8mjum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cadmium
+  epo:
+  - - kadmio
+  spa:
+  - - cadmio
+    - Cd
+search terms:
+  glb:
+  - kadmyum
+  eng:
+  - cadmium
+  epo:
+  - kadmio
+  spa:
+  - cadmio
+  - cd
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: kadmyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cadmium
+    epo: kadmio
+    spa: cadmio, Cd
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (cadmium), Espanisa (cadmio), Arabisa (\u0643\u064E\u0627\u062F\u0652\u0645\u0650\u064A\u064F\u0648\u0645
+    \u201Ckadmiyum\u201D), Fransesa (cadmium), Rusisa (\u043A\u0430\u0434\u043C\u0438\u0439
+    \u201Ckadmiy\u201D), Indonesisa (kadmium), Doycisa (Kadmium), Niponsa (\u30AB\u30C9\u30DF\u30A6\u30E0
+    \u201Ckadomiumu\u201D), Telugusa (\u0C15\u0C3E\u0C21\u0C4D\u0C2E\u0C3F\u0C2F\u0C02
+    \u201Ckadmiyam\u201D), Turkisa (kadmiyum), Hangusa (\uCE74\uB4DC\uBBB4 \u201Ckadumyum\u201D),
+    Vyetnamsa (cadimi), Parsisa (\u06A9\u0627\u062F\u0645\u06CC\u0648\u0645 \u201Ckadmiyom\u201D),
+    Swahilisa (cadimi), Pilipinasa (kadmiyo)"
+...

@@ -1,0 +1,49 @@
+---
+term: idey
+slug: idey
+ipa: "i\u02C8dej"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8dej&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - idea
+  epo:
+  - - ideo
+  spa:
+  - - idea
+search terms:
+  glb:
+  - idey
+  eng:
+  - idea
+  epo:
+  - ideo
+  spa:
+  - idea
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: idey
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: idea
+    epo: ideo
+    spa: idea
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (idea), Espanisa (idea), Fransesa (id\xE9e), Doycisa (Idee),
+    Rusisa (\u0438\u0434\u0435\u044F \u201Cideya\u201D), Indonesisa (ide), Niponsa
+    (\u30A4\u30C7\u30A2 \u201Cidea\u201D, \u30A2\u30A4\u30C7\u30A3\u30A2 \u201Caydia\u201D),
+    Parsisa (\u0627\u06CC\u062F\u0647 \u201Cide\u201D)"
+...

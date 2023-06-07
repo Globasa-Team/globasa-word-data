@@ -1,0 +1,75 @@
+---
+term: halowin
+slug: halowin
+ipa: "xalo\u02C8win"
+ipa link: "http://ipa-reader.xyz/?text=xalo\u02C8win&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Halloween
+  epo:
+  - - Haloveno
+  spa:
+  - - Halloween
+search terms:
+  glb:
+  - halowin
+  eng:
+  - halloween
+  epo:
+  - haloveno
+  spa:
+  - halloween
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Halloween
+  Espanisa: ~
+  Fransesa: ~
+  Indonesisa: ~
+  Vyetnamsa: ~
+  Swahilisa: ~
+  Rusisa:
+  - - "\u0425\u044D\u043B\u043B\u043E\u0443\u0438\u043D \u201CHellouin\u201D"
+  Hindisa:
+  - - "\u0939\u0948\u0932\u094B\u0935\u0940\u0928 \u201Chelovin\u201D"
+  Arabisa:
+  - - "\u0647\u064E\u0627\u0644\u064F\u0648\u0650\u064A\u0646 \u201Chaluwin\u201D"
+  Niponsa:
+  - - "\u30CF\u30ED\u30A6\u30A3\u30F3 \u201Charowin\u201D"
+  Telugusa:
+  - - "\u0C39\u0C3E\u0C32\u0C4B\u0C35\u0C40\u0C28\u0C4D \u201Chalavin\u201D"
+  Hangusa:
+  - - "\uD560\uB85C\uC708 \u201Chalowin\u201D"
+  Parsisa:
+  - - "\u0647\u0627\u0644\u0648\u0648\u06CC\u0646 \u201Chaluvin\u201D"
+tags:
+- din
+raw data:
+  term: Halowin
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Halloween
+    epo: Haloveno
+    spa: Halloween
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: din
+  etymology: "Englisa (Halloween), Espanisa, Fransesa, Indonesisa, Vyetnamsa, Swahilisa,
+    Rusisa (\u0425\u044D\u043B\u043B\u043E\u0443\u0438\u043D \u201CHellouin\u201D),
+    Hindisa (\u0939\u0948\u0932\u094B\u0935\u0940\u0928 \u201Chelovin\u201D), Arabisa
+    (\u0647\u064E\u0627\u0644\u064F\u0648\u0650\u064A\u0646 \u201Chaluwin\u201D),
+    Niponsa (\u30CF\u30ED\u30A6\u30A3\u30F3 \u201Charowin\u201D), Telugusa (\u0C39\u0C3E\u0C32\u0C4B\u0C35\u0C40\u0C28\u0C4D
+    \u201Chalavin\u201D), Hangusa (\uD560\uB85C\uC708 \u201Chalowin\u201D), Parsisa
+    (\u0647\u0627\u0644\u0648\u0648\u06CC\u0646 \u201Chaluvin\u201D)"
+...

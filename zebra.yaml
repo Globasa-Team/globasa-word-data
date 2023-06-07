@@ -1,0 +1,71 @@
+---
+term: zebra
+slug: zebra
+ipa: "\u02C8zeb\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8zeb\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - zebra
+    - _Hippotigris_
+  epo:
+  - - zebro
+  spa:
+  - - cebra
+    - _Hippotigris_
+search terms:
+  glb:
+  - zebra
+  eng:
+  - zebra
+  - hippotigris
+  epo:
+  - zebro
+  spa:
+  - cebra
+  - hippotigris
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - zebra
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa:
+  - - "\u0437\u0435\u0431\u0440\u0430 \u201Czebra\u201D"
+  Espanisa: ~
+  Hindisa:
+  - - "\u091C\u093C\u0940\u092C\u094D\u0930\u093E"
+    - "\u091C\u093C\u0947\u092C\u094D\u0930\u093E \u201Czibra\u201D"
+  Telugusa:
+  - - "\u0C1C\u0C40\u0C2C\u0C4D\u0C30\u0C3E \u201Cjibra\u201D"
+  Turkisa: ~
+  Indonesisa: ~
+  Pilipinasa:
+  - - sebra
+tags:
+- hewan
+raw data:
+  term: zebra
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: zebra, _Hippotigris_
+    epo: zebro
+    spa: cebra, _Hippotigris_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (zebra), Fransesa, Doycisa, Rusisa (\u0437\u0435\u0431\u0440\u0430
+    \u201Czebra\u201D), Espanisa, Hindisa (\u091C\u093C\u0940\u092C\u094D\u0930\u093E,
+    \u091C\u093C\u0947\u092C\u094D\u0930\u093E \u201Czibra\u201D), Telugusa (\u0C1C\u0C40\u0C2C\u0C4D\u0C30\u0C3E
+    \u201Cjibra\u201D), Turkisa, Indonesisa, Pilipinasa (sebra)"
+...

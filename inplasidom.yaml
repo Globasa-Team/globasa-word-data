@@ -1,0 +1,51 @@
+---
+term: inplasidom
+slug: inplasidom
+ipa: "inplasi\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=inplasi\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - depository
+    - depositary
+  epo:
+  - - deponejo
+    - tenejo
+  spa:
+  - - "dep\xF3sito"
+search terms:
+  glb:
+  - inplasidom
+  eng:
+  - depository
+  - depositary
+  epo:
+  - deponejo
+  - tenejo
+  spa:
+  - "dep\xF3sito"
+etymology_type: DERIVD
+etymology: <a href="../lexi/in-">in-</a> + <a href="../lexi/plasi">plasi</a> + <a
+  href="../lexi/-dom">-dom</a>
+raw data:
+  term: inplasidom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: depository, depositary
+    epo: deponejo, tenejo
+    spa: "dep\xF3sito"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in- + plasi + -dom
+...

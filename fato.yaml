@@ -1,0 +1,61 @@
+---
+term: fato
+slug: fato
+ipa: ˈfato
+ipa link: http://ipa-reader.xyz/?text=ˈfato&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fact
+  epo:
+  - - fakto
+  spa:
+  - - hecho
+    - dato
+search terms:
+  glb:
+  - fato
+  eng:
+  - fact
+  epo:
+  - fakto
+  spa:
+  - hecho
+  - dato
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - fait
+  Englisa:
+  - - fact
+  Doycisa:
+  - - faktum
+  Portugalsa:
+  - - fato
+  Rusisa:
+  - - факт “fakt”
+  Indonesia:
+  - - fakta
+raw data:
+  term: fato
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fact
+    epo: fakto
+    spa: hecho, dato
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Fransesa (fait), Englisa (fact), Doycisa (faktum), Portugalsa (fato),
+    Rusisa (факт “fakt”), Indonesia (fakta)
+...

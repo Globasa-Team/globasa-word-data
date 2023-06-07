@@ -1,0 +1,48 @@
+---
+term: cisgi
+slug: cisgi
+ipa: "\u02C8t\u0361\u0283isgi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u0361\u0283isgi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - put on this side of
+    - bring on this side of
+  epo:
+  - - "meti je \u0109i tiun flankon"
+  spa:
+  - - hacer a este lado
+search terms:
+  glb:
+  - cisgi
+  eng:
+  - put on this side of
+  - bring on this side of
+  epo:
+  - "meti je \u0109i tiun flankon"
+  spa:
+  - hacer a este lado
+etymology_type: DERIVD
+etymology: <a href="../lexi/cis">cis</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: 'cisgi '
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: put on this side of, bring on this side of
+    epo: "meti je \u0109i tiun flankon"
+    spa: hacer a este lado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cis + -gi
+...

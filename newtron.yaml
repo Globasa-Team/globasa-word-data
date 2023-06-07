@@ -1,0 +1,80 @@
+---
+term: newtron
+slug: newtron
+ipa: "new\u02C8t\u027Eon"
+ipa link: "http://ipa-reader.xyz/?text=new\u02C8t\u027Eon&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - neutron
+  epo:
+  - - "ne\u016Dtrono"
+  spa:
+  - - "neutr\xF3n"
+search terms:
+  glb:
+  - newtron
+  eng:
+  - neutron
+  epo:
+  - "ne\u016Dtrono"
+  spa:
+  - "neutr\xF3n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - neutron
+  Espanisa:
+  - - "neutr\xF3n"
+  Fransesa:
+  - - neutron
+  Rusisa:
+  - - "\u043D\u0435\u0439\u0442\u0440\u043E\u043D \u201Cneytron\u201D"
+  Doycisa:
+  - - Neutron
+  Indonesisa:
+  - - neutron
+  Pilipinasa:
+  - - neutron
+  Hindisa:
+  - - "\u0928\u094D\u092F\u0942\u091F\u094D\u0930\u0949\u0928 \u201Cnyutron\u201D"
+  Arabisa:
+  - - "\u0646\u0652\u064A\u064F\u0648\u062A\u0652\u0631\u064F\u0648\u0646 \u201Cnyutrun\u201D"
+  Telugusa:
+  - - "\u0C28\u0C4D\u0C2F\u0C42\u0C1F\u0C4D\u0C30\u0C3E\u0C28\u0C4D \u201Cnyutran\u201D"
+  Turkisa:
+  - - "n\xF6tron"
+  Vyetnamsa:
+  - - "n\u01A1tron"
+  Parsisa:
+  - - "\u0646\u0648\u062A\u0631\u0648\u0646 \u201Cnotrun\u201D"
+  Swahilisa:
+  - - nyutroni
+raw data:
+  term: newtron
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: neutron
+    epo: "ne\u016Dtrono"
+    spa: "neutr\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (neutron), Espanisa (neutr\xF3n), Fransesa (neutron), Rusisa
+    (\u043D\u0435\u0439\u0442\u0440\u043E\u043D \u201Cneytron\u201D), Doycisa (Neutron),
+    Indonesisa (neutron), Pilipinasa (neutron), Hindisa (\u0928\u094D\u092F\u0942\u091F\u094D\u0930\u0949\u0928
+    \u201Cnyutron\u201D), Arabisa (\u0646\u0652\u064A\u064F\u0648\u062A\u0652\u0631\u064F\u0648\u0646
+    \u201Cnyutrun\u201D), Telugusa (\u0C28\u0C4D\u0C2F\u0C42\u0C1F\u0C4D\u0C30\u0C3E\u0C28\u0C4D
+    \u201Cnyutran\u201D), Turkisa (n\xF6tron), Vyetnamsa (n\u01A1tron), Parsisa (\u0646\u0648\u062A\u0631\u0648\u0646
+    \u201Cnotrun\u201D), Swahilisa (nyutroni)"
+...

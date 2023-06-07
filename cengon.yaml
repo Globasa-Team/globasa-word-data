@@ -1,0 +1,52 @@
+---
+term: cengon
+slug: cengon
+ipa: "t\u0361\u0283en\u02C8gon"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283en\u02C8gon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hectogon
+    - hecatontagon
+    - 100-gon
+  epo:
+  - - centangulo
+    - centlatero
+  spa:
+  - - "hect\xE1gono"
+search terms:
+  glb:
+  - cengon
+  eng:
+  - hectogon
+  - hecatontagon
+  - 100-gon
+  epo:
+  - centangulo
+  - centlatero
+  spa:
+  - "hect\xE1gono"
+etymology_type: DERIVD
+etymology: <a href="../lexi/cen">cen</a> + <a href="../lexi/gon">gon</a>
+raw data:
+  term: cengon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hectogon, hecatontagon, 100-gon
+    epo: centangulo, centlatero
+    spa: "hect\xE1gono"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cen + gon
+...

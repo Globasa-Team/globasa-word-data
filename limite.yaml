@@ -1,0 +1,49 @@
+---
+term: limite
+slug: limite
+ipa: "li\u02C8mite"
+ipa link: "http://ipa-reader.xyz/?text=li\u02C8mite&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - limit
+  epo:
+  - - limo
+  - - limigi
+  spa:
+  - - "l\xEDmite"
+search terms:
+  glb:
+  - limite
+  eng:
+  - limit
+  epo:
+  - limo
+  - limigi
+  spa:
+  - "l\xEDmite"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: limite
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: limit
+    epo: limo; limigi
+    spa: "l\xEDmite"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (limit), Fransesa (limite), Doycisa (Limes), Rusisa (\u043B\u0438\u043C\u0438\u0442
+    \u201Climit\u201D), Espanisa (l\xEDmite), Turkisa (limit)"
+...

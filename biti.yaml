@@ -1,0 +1,76 @@
+---
+term: biti
+slug: biti
+ipa: ˈbiti
+ipa link: http://ipa-reader.xyz/?text=ˈbiti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bit (_unit of information_)
+  epo:
+  - - bito
+  spa:
+  - - bit
+search terms:
+  glb:
+  - biti
+  eng:
+  - bit
+  epo:
+  - bito
+  spa:
+  - bit
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bit
+  Fransesa: ~
+  Doycisa: ~
+  Portugalsa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Vyetnamsa: ~
+  Rusisa:
+  - - бит “bit”
+  Putunhwa:
+  - - 比特 “bite”
+  Hindisa:
+  - - बिट “bit”
+  Arabisa:
+  - - بت “bit”
+  Niponsa:
+  - - ビット “bitto”
+  Telugusa:
+  - - బిట్ “bit”
+  Hangusa:
+  - - 비트 “bitu”
+  Parsisa:
+  - - بیت “bit”
+  Swahilisa:
+  - - biti
+raw data:
+  term: biti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bit (_unit of information_)
+    epo: bito
+    spa: bit
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (bit), Fransesa, Doycisa, Portugalsa, Indonesisa, Pilipinasa,
+    Turkisa, Vyetnamsa, Rusisa (бит “bit”), Putunhwa (比特 “bite”), Hindisa (बिट “bit”),
+    Arabisa (بت “bit”), Niponsa (ビット “bitto”), Telugusa (బిట్ “bit”), Hangusa (비트
+    “bitu”), Parsisa (بیت “bit”), Swahilisa (biti)
+...

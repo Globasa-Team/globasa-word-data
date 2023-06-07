@@ -1,0 +1,48 @@
+---
+term: desocoyum
+slug: desocoyum
+ipa: "desot\u0361\u0283o\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=desot\u0361\u0283o\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - eighteenth
+  epo:
+  - - dekoka
+  - - dekoke
+  spa:
+  - - "d\xE9cimo octavo"
+search terms:
+  glb:
+  - desocoyum
+  eng:
+  - eighteenth
+  epo:
+  - dekoka
+  - dekoke
+  spa:
+  - "d\xE9cimo octavo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/oco">oco</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: desocoyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: eighteenth
+    epo: dekoka; dekoke
+    spa: "d\xE9cimo octavo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + oco + -yum
+...

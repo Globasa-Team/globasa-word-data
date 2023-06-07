@@ -1,0 +1,69 @@
+---
+term: senyor
+slug: senyor
+ipa: "se\u02C8njo\u027E"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8njo\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gentleman
+    - lady
+    - sir
+    - mam
+    - Mr.
+    - Mrs.
+  epo:
+  - - sinjoro
+    - sinjorino
+  spa:
+  - - "se\xF1or"
+search terms:
+  glb:
+  - senyor
+  eng:
+  - gentleman
+  - lady
+  - sir
+  - mam
+  - mr.
+  - mrs.
+  epo:
+  - sinjoro
+  - sinjorino
+  spa:
+  - "se\xF1or"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - senior
+  Fransesa:
+  - - sieur
+  Espanisa:
+  - - "se\xF1or"
+    - "se\xF1ora"
+  Italisa:
+  - - signor
+    - signora
+raw data:
+  term: senyor
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gentleman, lady, sir, mam, Mr., Mrs.
+    epo: sinjoro, sinjorino
+    spa: "se\xF1or"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (senior), Fransesa (sieur), Espanisa (se\xF1or, se\xF1ora),
+    Italisa (signor, signora)"
+...

@@ -1,0 +1,73 @@
+---
+term: ocelote
+slug: ocelote
+ipa: "ot\u0361\u0283e\u02C8lote"
+ipa link: "http://ipa-reader.xyz/?text=ot\u0361\u0283e\u02C8lote&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ocelot
+    - _Leopardus pardalis_
+  epo:
+  - - oceloto
+  spa:
+  - - ocelote
+    - _Leopardus pardalis_
+search terms:
+  glb:
+  - ocelote
+  eng:
+  - ocelot
+  - leopardus pardalis
+  epo:
+  - oceloto
+  spa:
+  - ocelote
+  - leopardus pardalis
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ocelot
+  Fransesa: ~
+  Italisa: ~
+  Espanisa:
+  - - ocelote
+  Rusisa:
+  - - "\u043E\u0446\u0435\u043B\u043E\u0442 \u201Cotselot\u201D"
+  Doycisa:
+  - - Ozelot
+  Hindisa:
+  - - "\u0911\u0938\u0947\u0932\u0949\u091F \u201Coselot\u201D"
+  Arabisa:
+  - - "\u0627\u0644\u0623\u0635\u0644\u0648\u062A \u201Calaslut\u201D"
+  Turkisa:
+  - - oselo
+  Hangusa:
+  - - "\uC624\uC2E4\uB86F \u201Cosilot\u201D"
+tags:
+- hewan
+raw data:
+  term: ocelote
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ocelot, _Leopardus pardalis_
+    epo: oceloto
+    spa: ocelote, _Leopardus pardalis_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (ocelot), Fransesa, Italisa, Espanisa (ocelote), Rusisa (\u043E\u0446\u0435\u043B\u043E\u0442
+    \u201Cotselot\u201D), Doycisa (Ozelot), Hindisa (\u0911\u0938\u0947\u0932\u0949\u091F
+    \u201Coselot\u201D), Arabisa (\u0627\u0644\u0623\u0635\u0644\u0648\u062A \u201Calaslut\u201D),
+    Turkisa (oselo), Hangusa (\uC624\uC2E4\uB86F \u201Cosilot\u201D)"
+...

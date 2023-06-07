@@ -1,0 +1,80 @@
+---
+term: osmosi
+slug: osmosi
+ipa: "os\u02C8mosi"
+ipa link: "http://ipa-reader.xyz/?text=os\u02C8mosi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - osmosis
+  - - osmose
+  epo:
+  - - osmozo
+  - - osmoze difuzi
+    - osmozi
+  spa:
+  - - "\xF3smosis"
+  - - "pasar por \xF3smosis"
+search terms:
+  glb:
+  - osmosi
+  eng:
+  - osmosis
+  - osmose
+  epo:
+  - osmozo
+  - osmoze difuzi
+  - osmozi
+  spa:
+  - "\xF3smosis"
+  - "pasar por \xF3smosis"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - osmosis
+    - osmose
+  Espanisa:
+  - - "\xF3smosis"
+  Fransesa:
+  - - osmose
+  Rusisa:
+  - - "\u043E\u0441\u043C\u043E\u0441 \u201Cosmos\u201D"
+  Doycisa:
+  - - Osmose
+  Indonesisa:
+  - - osmosis
+  Pilipinasa: ~
+  Arabisa:
+  - - "\u0623\u0633\u0645\u0648\u0632\u064A\u0629 \u201Casmuzia\u201D"
+  Turkisa:
+  - - osmoz
+  Parsisa:
+  - - "\u0627\u0633\u0645\u0632 \u201Cosmoz\u201D"
+  Swahilisa:
+  - - osmosisi
+raw data:
+  term: osmosi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: osmosis; osmose
+    epo: osmozo; osmoze difuzi, osmozi
+    spa: "\xF3smosis; pasar por \xF3smosis"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (osmosis, osmose), Espanisa (\xF3smosis), Fransesa (osmose),
+    Rusisa (\u043E\u0441\u043C\u043E\u0441 \u201Cosmos\u201D), Doycisa (Osmose), Indonesisa
+    (osmosis), Pilipinasa, Arabisa (\u0623\u0633\u0645\u0648\u0632\u064A\u0629 \u201Casmuzia\u201D),
+    Turkisa (osmoz), Parsisa (\u0627\u0633\u0645\u0632 \u201Cosmoz\u201D), Swahilisa
+    (osmosisi)"
+...

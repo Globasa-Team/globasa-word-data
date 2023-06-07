@@ -1,0 +1,73 @@
+---
+term: alkoba
+slug: alkoba
+ipa: alˈkoba
+ipa link: http://ipa-reader.xyz/?text=alˈkoba&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - alcove
+    - recess
+    - niche
+  epo:
+  - - alkovo
+    - niĉo
+  spa:
+  - - nicho
+    - hueco
+    - rincón
+    - hornacina
+search terms:
+  glb:
+  - alkoba
+  eng:
+  - alcove
+  - recess
+  - niche
+  epo:
+  - alkovo
+  - niĉo
+  spa:
+  - nicho
+  - hueco
+  - rincón
+  - hornacina
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - القبة "alkuba"
+  Doycisa:
+  - - Alkoven
+  Englisa:
+  - - alcove
+  Fransesa:
+  - - alcôve
+  Rusisa:
+  - - альков "alkov"
+  Pilipinasa:
+  - - alkoba
+  Niponsa:
+  - - アルコーブ "arukobu"
+raw data:
+  term: alkoba
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: alcove, recess, niche
+    epo: alkovo, niĉo
+    spa: nicho, hueco, rincón, hornacina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (القبة "alkuba"), Doycisa (Alkoven), Englisa (alcove), Fransesa
+    (alcôve), Rusisa (альков "alkov"), Pilipinasa (alkoba), Niponsa (アルコーブ "arukobu")
+...

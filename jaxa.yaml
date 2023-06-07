@@ -1,0 +1,47 @@
+---
+term: jaxa
+slug: jaxa
+ipa: "\u02C8d\u0361\u0292a\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292a\u0283a&voice=Ewa"
+status: false
+category: derived
+word class: f par
+trans:
+  eng:
+  - - (be) about (to)
+  epo:
+  - - tujposte
+  spa:
+  - - estar por
+search terms:
+  glb:
+  - jaxa
+  eng:
+  - be about to
+  - about
+  epo:
+  - tujposte
+  spa:
+  - estar por
+etymology_type: DERIVD
+etymology: <a href="../lexi/ja-">ja-</a> + <a href="../lexi/xa">xa</a>
+raw data:
+  term: 'jaxa '
+  category: derived
+  word class: f par
+  status: false
+  trans:
+    eng: (be) about (to)
+    epo: tujposte
+    spa: estar por
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ja- + xa
+...

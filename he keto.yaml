@@ -1,0 +1,50 @@
+---
+term: he keto
+slug: he keto
+ipa: "\u02C8xe \u02C8keto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8keto&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - whatever
+    - what ever
+  epo:
+  - - kio ajn
+  spa:
+  - - lo que sea
+search terms:
+  glb:
+  - he keto
+  - he
+  - keto
+  eng:
+  - whatever
+  - what ever
+  epo:
+  - kio ajn
+  spa:
+  - lo que sea
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/ke">ke</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: he keto
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: whatever, what ever
+    epo: kio ajn
+    spa: lo que sea
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, ke + to
+...

@@ -1,0 +1,57 @@
+---
+term: vyayama
+slug: vyayama
+ipa: "vja\u02C8jama"
+ipa link: "http://ipa-reader.xyz/?text=vja\u02C8jama&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - exercise (_physical movement_)
+  epo:
+  - - (fizika) ekzerco
+  - - "(fizike) ekzerci\u011Di"
+  spa:
+  - - "ejercicio (_movimiento f\xEDsico_)"
+  - - hacer ejercicio
+search terms:
+  glb:
+  - vyayama
+  eng:
+  - exercise
+  epo:
+  - fizika ekzerco
+  - ekzerco
+  - "fizike ekzerci\u011Di"
+  - "ekzerci\u011Di"
+  spa:
+  - ejercicio
+  - hacer ejercicio
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0935\u094D\u092F\u093E\u092F\u093E\u092E \u201Cvyayam\u201D"
+  Telugusa:
+  - - "\u0C35\u0C4D\u0C2F\u0C3E\u0C2F\u0C3E\u0C2E\u0C02 \u201Cvy\u0101y\u0101ma\u1E41\u201D"
+raw data:
+  term: vyayama
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: exercise (_physical movement_)
+    epo: "(fizika) ekzerco; (fizike) ekzerci\u011Di"
+    spa: "ejercicio (_movimiento f\xEDsico_); hacer ejercicio"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0935\u094D\u092F\u093E\u092F\u093E\u092E \u201Cvyayam\u201D),
+    Telugusa (\u0C35\u0C4D\u0C2F\u0C3E\u0C2F\u0C3E\u0C2E\u0C02 \u201Cvy\u0101y\u0101ma\u1E41\u201D)"
+...

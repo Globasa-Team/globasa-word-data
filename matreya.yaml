@@ -1,0 +1,46 @@
+---
+term: matreya
+slug: matreya
+ipa: "ma\u02C8t\u027Eeja"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8t\u027Eeja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - motherhood
+  epo:
+  - - patrineco
+  spa:
+  - - maternidad
+search terms:
+  glb:
+  - matreya
+  eng:
+  - motherhood
+  epo:
+  - patrineco
+  spa:
+  - maternidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/matre">matre</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: matreya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: motherhood
+    epo: patrineco
+    spa: maternidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: matre + -ya
+...

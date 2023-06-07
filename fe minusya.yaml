@@ -1,0 +1,50 @@
+---
+term: fe minusya
+slug: fe minusya
+ipa: "fe mi\u02C8nusja"
+ipa link: "http://ipa-reader.xyz/?text=fe mi\u02C8nusja&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - except for that (_phrase initial_)
+  epo:
+  - - krom tio
+    - escepte de tio
+  spa:
+  - - aparte de eso (_al principio de una frase_)
+search terms:
+  glb:
+  - fe minusya
+  - fe
+  - minusya
+  eng:
+  - except for that
+  epo:
+  - krom tio
+  - escepte de tio
+  spa:
+  - aparte de eso
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/minus">minus</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fe minusya
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: except for that (_phrase initial_)
+    epo: krom tio, escepte de tio
+    spa: aparte de eso (_al principio de una frase_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, minus + -ya
+...

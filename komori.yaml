@@ -1,0 +1,50 @@
+---
+term: komori
+slug: komori
+ipa: "ko\u02C8mo\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8mo\u027Ei&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Comoros
+  epo:
+  - - Komoroj
+  spa:
+  - - Comoras
+search terms:
+  glb:
+  - komori
+  eng:
+  - comoros
+  epo:
+  - komoroj
+  spa:
+  - comoras
+etymology_type: NATLNG
+etymology:
+  Komorisa:
+  - - Komori
+tags:
+- dexa
+raw data:
+  term: Komori
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Comoros
+    epo: Komoroj
+    spa: Comoras
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Komorisa (Komori)
+...

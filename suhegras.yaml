@@ -1,0 +1,46 @@
+---
+term: suhegras
+slug: suhegras
+ipa: "suxe\u02C8g\u027Eas"
+ipa link: "http://ipa-reader.xyz/?text=suxe\u02C8g\u027Eas&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hay
+  epo:
+  - - fojno
+  spa:
+  - - heno
+search terms:
+  glb:
+  - suhegras
+  eng:
+  - hay
+  epo:
+  - fojno
+  spa:
+  - heno
+etymology_type: DERIVD
+etymology: <a href="../lexi/suhe">suhe</a> + <a href="../lexi/gras">gras</a>
+raw data:
+  term: suhegras
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hay
+    epo: fojno
+    spa: heno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: suhe + gras
+...

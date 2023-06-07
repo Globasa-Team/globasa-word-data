@@ -1,0 +1,46 @@
+---
+term: oya
+slug: oya
+ipa: "\u02C8oja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8oja&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter o
+  epo:
+  - - litero o
+  spa:
+  - - letra o
+search terms:
+  glb:
+  - oya
+  eng:
+  - letter o
+  epo:
+  - litero o
+  spa:
+  - letra o
+etymology_type: DERIVD
+etymology: _a priori_
+raw data:
+  term: oya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter o
+    epo: litero o
+    spa: letra o
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

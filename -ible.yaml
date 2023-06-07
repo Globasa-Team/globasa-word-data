@@ -1,0 +1,61 @@
+---
+term: -ible
+slug: -ible
+ipa: "-\u02C8ible"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8ible&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - -ible
+    - -able
+  epo:
+  - - -eble
+  spa:
+  - - -ible
+    - -able
+  deu:
+  - - "_kurz f\xFCr_ [be-](/eng/lexi/be-) _____ [-bil](/eng/lexi/-bil): -bar"
+    - -abel
+search terms:
+  glb:
+  - -ible
+  eng:
+  - -ible
+  - -able
+  epo:
+  - -eble
+  spa:
+  - -ible
+  - -able
+  deu:
+  - -abel
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - -able
+    - -ble
+  Espanisa:
+  - - -able
+    - -ible
+raw data:
+  term: -ible
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: -ible, -able
+    epo: -eble
+    spa: -ible, -able
+    deu: "_kurz f\xFCr_ [be-](/eng/lexi/be-) _____ [-bil](/eng/lexi/-bil): -bar, -abel"
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (-able, -ble), Espanisa (-able, -ible)
+...

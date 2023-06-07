@@ -1,0 +1,55 @@
+---
+term: tofa
+slug: tofa
+ipa: "\u02C8tofa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tofa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (head) hair
+  epo:
+  - - haro
+    - hararo
+  spa:
+  - - cabello
+search terms:
+  glb:
+  - tofa
+  eng:
+  - head hair
+  - hair
+  epo:
+  - haro
+  - hararo
+  spa:
+  - cabello
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5934\u53D1 \u201Ct\xF3uf\u01CE\u201D"
+  Vyetnamsa:
+  - - "t\xF3c"
+tags:
+- jismulogi
+raw data:
+  term: tofa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (head) hair
+    epo: haro, hararo
+    spa: cabello
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa  (\u5934\u53D1 \u201Ct\xF3uf\u01CE\u201D), Vyetnamsa (t\xF3c)"
+...

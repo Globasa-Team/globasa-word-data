@@ -1,0 +1,56 @@
+---
+term: sude
+slug: sude
+ipa: "\u02C8sude"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sude&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - south
+  epo:
+  - - sudo
+  spa:
+  - - sur
+search terms:
+  glb:
+  - sude
+  eng:
+  - south
+  epo:
+  - sudo
+  spa:
+  - sur
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - south
+  Fransesa:
+  - - sud
+  Doycisa:
+  - - "S\xFCden"
+  Espanisa:
+  - - sud
+    - sur
+raw data:
+  term: sude
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: south
+    epo: sudo
+    spa: sur
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (south), Fransesa (sud), Doycisa (S\xFCden), Espanisa (sud,
+    sur)"
+...

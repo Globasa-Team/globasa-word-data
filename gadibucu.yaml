@@ -1,0 +1,48 @@
+---
+term: gadibucu
+slug: gadibucu
+ipa: "gadi\u02C8but\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=gadi\u02C8but\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - get angry
+  epo:
+  - - "koleri\u011Do"
+  - - "koleri\u011Di"
+  spa:
+  - - enojarse
+search terms:
+  glb:
+  - gadibucu
+  eng:
+  - get angry
+  epo:
+  - "koleri\u011Do"
+  - "koleri\u011Di"
+  spa:
+  - enojarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/gadibu">gadibu</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: gadibucu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: get angry
+    epo: "koleri\u011Do; koleri\u011Di"
+    spa: enojarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gadibu + -cu
+...

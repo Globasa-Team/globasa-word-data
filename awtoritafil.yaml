@@ -1,0 +1,52 @@
+---
+term: awtoritafil
+slug: awtoritafil
+ipa: "awto\u027Eita\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=awto\u027Eita\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - authoritarian
+  - - authoritarianly
+  epo:
+  - - ordonema
+  - - ordoneme
+  spa:
+  - - autoritario
+  - - autoritariamente
+search terms:
+  glb:
+  - awtoritafil
+  eng:
+  - authoritarian
+  - authoritarianly
+  epo:
+  - ordonema
+  - ordoneme
+  spa:
+  - autoritario
+  - autoritariamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/awtorita">awtorita</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: awtoritafil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: authoritarian; authoritarianly
+    epo: ordonema; ordoneme
+    spa: autoritario; autoritariamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: awtorita + -fil
+...

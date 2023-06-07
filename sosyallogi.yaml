@@ -1,0 +1,46 @@
+---
+term: sosyallogi
+slug: sosyallogi
+ipa: "sosjal\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=sosjal\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - sociology
+  epo:
+  - - sociologio
+  spa:
+  - - "sociolog\xEDa"
+search terms:
+  glb:
+  - sosyallogi
+  eng:
+  - sociology
+  epo:
+  - sociologio
+  spa:
+  - "sociolog\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sosyal">sosyal</a> + <a href="../lexi/-logi">-logi</a>
+raw data:
+  term: sosyallogi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: sociology
+    epo: sociologio
+    spa: "sociolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sosyal + -logi
+...

@@ -1,0 +1,56 @@
+---
+term: matu
+slug: matu
+ipa: "\u02C8matu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8matu&voice=Ewa"
+status: true
+category: root
+word class: il
+trans:
+  eng:
+  - - mate (_chess_)
+    - checkmate
+  epo:
+  - - mato
+  - - "\u015Dakmat"
+  spa:
+  - - jaque mate
+search terms:
+  glb:
+  - matu
+  eng:
+  - mate
+  - checkmate
+  epo:
+  - mato
+  - "\u015Dakmat"
+  spa:
+  - jaque mate
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: matu
+  category: root
+  word class: il
+  status: true
+  trans:
+    eng: mate (_chess_), checkmate
+    epo: "mato; \u015Dakmat"
+    spa: jaque mate
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (checkmate), Espanisa (jaque mate), Fransesa (\xE9chec et mat),
+    Rusisa (\u043C\u0430\u0442 \u201Cmat\u201D), Doycisa (Matt), Indonesisa (skakmat,
+    syahmat, sekakmat), Hindisa (\u092E\u093E\u0924 \u201Cmat\u201D), Arabisa (\u0645\u064E\u0627\u062A
+    \u201Cmat\u201D), Niponsa (\u30C1\u30A7\u30C3\u30AF\u30E1\u30A4\u30C8 \u201Ccekumeyto\u201D),
+    Telugusa (\u0C2E\u0C3E\u0C24\u0C41 \u201Cmatu\u201D), Turkisa (mat), Hangusa (\uCCB4\uD06C\uBA54\uC774\uD2B8
+    \u201Ccekumeytu\u201D), Parsisa (\u0634\u0627\u0647 \u0645\u0627\u062A \u201C\u0161\xE2h
+    m\xE2t\u201D)"
+...

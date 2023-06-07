@@ -1,0 +1,51 @@
+---
+term: egaljacipul
+slug: egaljacipul
+ipa: "egald\u0361\u0292at\u0361\u0283i\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=egald\u0361\u0292at\u0361\u0283i\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - equivalent
+  epo:
+  - - egalvalora
+    - ekvivalenta
+  - - egalvalore
+  spa:
+  - - equivalente
+search terms:
+  glb:
+  - egaljacipul
+  eng:
+  - equivalent
+  epo:
+  - egalvalora
+  - ekvivalenta
+  - egalvalore
+  spa:
+  - equivalente
+etymology_type: DERIVD
+etymology: <a href="../lexi/egal">egal</a> + <a href="../lexi/jaci">jaci</a> + <a
+  href="../lexi/-pul">-pul</a>
+raw data:
+  term: egaljacipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: equivalent
+    epo: egalvalora, ekvivalenta; egalvalore
+    spa: equivalente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: egal + jaci + -pul
+...

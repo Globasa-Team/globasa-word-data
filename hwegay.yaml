@@ -1,0 +1,60 @@
+---
+term: hwegay
+slug: hwegay
+ipa: "xwe\u02C8gaj"
+ipa link: "http://ipa-reader.xyz/?text=xwe\u02C8gaj&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - remorse
+  - - repent
+    - feel remorse (for)
+  epo:
+  - - pento
+    - "memripro\u0109o"
+  - - penti
+    - "beda\u016Dri"
+  spa:
+  - - remordimiento
+  - - arrepentirse
+search terms:
+  glb:
+  - hwegay
+  eng:
+  - remorse
+  - repent
+  - feel remorse for
+  - feel remorse
+  epo:
+  - pento
+  - "memripro\u0109o"
+  - penti
+  - "beda\u016Dri"
+  spa:
+  - remordimiento
+  - arrepentirse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hwegay
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: remorse; repent, feel remorse (for)
+    epo: "pento, memripro\u0109o; penti, beda\u016Dri"
+    spa: remordimiento; arrepentirse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u6094\u6539 \u201Chu\u01D0g\u01CEi\u201D), Hangusa (\uD68C\uAC1C
+    \u201Choegae\u201D)"
+...

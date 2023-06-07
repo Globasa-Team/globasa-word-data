@@ -1,0 +1,50 @@
+---
+term: malaysi
+slug: malaysi
+ipa: "ma\u02C8lajsi"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8lajsi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Malaysia
+  epo:
+  - - Malajzio
+  spa:
+  - - Malasia
+search terms:
+  glb:
+  - malaysi
+  eng:
+  - malaysia
+  epo:
+  - malajzio
+  spa:
+  - malasia
+etymology_type: NATLNG
+etymology:
+  Malaysisa:
+  - - Malaysia
+tags:
+- dexa
+raw data:
+  term: Malaysi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Malaysia
+    epo: Malajzio
+    spa: Malasia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Malaysisa (Malaysia)
+...

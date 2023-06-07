@@ -1,0 +1,55 @@
+---
+term: nipon
+slug: nipon
+ipa: "ni\u02C8pon"
+ipa link: "http://ipa-reader.xyz/?text=ni\u02C8pon&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Japan
+  epo:
+  - - Japanio
+    - Japanujo
+    - Nipono
+  spa:
+  - - "Jap\xF3n"
+search terms:
+  glb:
+  - nipon
+  eng:
+  - japan
+  epo:
+  - japanio
+  - japanujo
+  - nipono
+  spa:
+  - "jap\xF3n"
+etymology_type: NATLNG
+etymology:
+  Niponsa:
+  - - "\u65E5\u672C \u201CNippon"
+    - "Nihon\u201D"
+tags:
+- dexa
+raw data:
+  term: Nipon
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Japan
+    epo: Japanio, Japanujo, Nipono
+    spa: "Jap\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Niponsa (\u65E5\u672C \u201CNippon, Nihon\u201D)"
+...

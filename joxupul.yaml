@@ -1,0 +1,54 @@
+---
+term: joxupul
+slug: joxupul
+ipa: "d\u0361\u0292o\u0283u\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292o\u0283u\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - enthusiastic
+    - eager
+  epo:
+  - - entuziasma
+  - - entuziasme
+  spa:
+  - - emocionado
+    - ansioso
+    - entusiasmado
+search terms:
+  glb:
+  - joxupul
+  eng:
+  - enthusiastic
+  - eager
+  epo:
+  - entuziasma
+  - entuziasme
+  spa:
+  - emocionado
+  - ansioso
+  - entusiasmado
+etymology_type: DERIVD
+etymology: <a href="../lexi/joxu">joxu</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: joxupul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: enthusiastic, eager
+    epo: entuziasma; entuziasme
+    spa: emocionado, ansioso, entusiasmado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: joxu + -pul
+...

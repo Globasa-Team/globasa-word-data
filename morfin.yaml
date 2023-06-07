@@ -1,0 +1,56 @@
+---
+term: morfin
+slug: morfin
+ipa: "mo\u027E\u02C8fin"
+ipa link: "http://ipa-reader.xyz/?text=mo\u027E\u02C8fin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - morphine
+  epo:
+  - - morfino
+  spa:
+  - - morfina
+search terms:
+  glb:
+  - morfin
+  eng:
+  - morphine
+  epo:
+  - morfino
+  spa:
+  - morfina
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: morfin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: morphine
+    epo: morfino
+    spa: morfina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (morphine), Putunhwa (\u5417\u5561 \u201Cmafey\u201D), Hindisa
+    (\u092E\u0949\u0930\u092B\u0940\u0928 \u201Cmorfin\u201D), Espanisa (morfina),
+    Arabisa (\u0645\u064F\u0648\u0631\u0652\u0641\u0650\u064A\u0646 \u201Cmurfin\u201D),
+    Fransesa (morphine), Rusisa (\u043C\u043E\u0440\u0444\u0438\u0439 \u201Cmorfiy\u201D),
+    Indonesisa (morfina), Doycisa (Morphin, Morphium), Niponsa (\u30E2\u30EB\u30D2\u30CD
+    \u201Cmoruhin\u201D), Telugusa (\u0C2E\u0C3E\u0C30\u0C4D\u0C2B\u0C3F\u0C28\u0C4D
+    \u201Cmarfin\u201D), Turkisa (morfin), Hangusa (\uBAA8\uB974\uD540 \u201Cmorupin\u201D),
+    Vyetnamsa (mocfin), Parsisa (\u0645\u0648\u0631\u0641\u06CC\u0646 / \u0645\u0631\u0641\u06CC\u0646
+    \u201Cmorfin\u201D), Swahilisa, Italisa, Pilipinasa"
+...

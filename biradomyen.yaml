@@ -1,0 +1,53 @@
+---
+term: biradomyen
+slug: biradomyen
+ipa: "bi\u027Eado\u02C8mjen"
+ipa link: "http://ipa-reader.xyz/?text=bi\u027Eado\u02C8mjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - bartender
+  epo:
+  - - bierejisto
+    - trinkejisto
+    - bufedisto
+    - drinkejisto
+  spa:
+  - - barman
+search terms:
+  glb:
+  - biradomyen
+  eng:
+  - bartender
+  epo:
+  - bierejisto
+  - trinkejisto
+  - bufedisto
+  - drinkejisto
+  spa:
+  - barman
+etymology_type: DERIVD
+etymology: <a href="../lexi/bira">bira</a> + <a href="../lexi/-dom">-dom</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: biradomyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: bartender
+    epo: bierejisto, trinkejisto, bufedisto, drinkejisto
+    spa: barman
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bira + -dom + -yen
+...

@@ -1,0 +1,50 @@
+---
+term: gadibuya
+slug: gadibuya
+ipa: "gadi\u02C8buja"
+ipa link: "http://ipa-reader.xyz/?text=gadi\u02C8buja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - anger
+  epo:
+  - - kolero
+    - kolereco
+  spa:
+  - - enojo
+    - ira
+search terms:
+  glb:
+  - gadibuya
+  eng:
+  - anger
+  epo:
+  - kolero
+  - kolereco
+  spa:
+  - enojo
+  - ira
+etymology_type: DERIVD
+etymology: <a href="../lexi/gadibu">gadibu</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: gadibuya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: anger
+    epo: kolero, kolereco
+    spa: enojo, ira
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gadibu + -ya
+...

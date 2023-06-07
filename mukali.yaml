@@ -1,0 +1,48 @@
+---
+term: mukali
+slug: mukali
+ipa: "mu\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8kali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - facial
+  epo:
+  - - "viza\u011Da"
+  - - "viza\u011De"
+  spa:
+  - - facial
+search terms:
+  glb:
+  - mukali
+  eng:
+  - facial
+  epo:
+  - "viza\u011Da"
+  - "viza\u011De"
+  spa:
+  - facial
+etymology_type: DERIVD
+etymology: <a href="../lexi/muka">muka</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: 'mukali '
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: facial
+    epo: "viza\u011Da; viza\u011De"
+    spa: facial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: muka + -li
+...

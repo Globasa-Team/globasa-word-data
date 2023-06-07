@@ -1,0 +1,46 @@
+---
+term: ime
+slug: ime
+ipa: "\u02C8ime"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ime&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter m
+  epo:
+  - - litero m
+  spa:
+  - - letra m
+search terms:
+  glb:
+  - ime
+  eng:
+  - letter m
+  epo:
+  - litero m
+  spa:
+  - letra m
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ime
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter m
+    epo: litero m
+    spa: letra m
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

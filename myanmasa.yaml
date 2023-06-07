@@ -1,0 +1,50 @@
+---
+term: myanmasa
+slug: myanmasa
+ipa: "mjan\u02C8masa"
+ipa link: "http://ipa-reader.xyz/?text=mjan\u02C8masa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Burmese (language)
+  epo:
+  - - la birma (lingo)
+  spa:
+  - - birmano (_idioma_)
+search terms:
+  glb:
+  - myanmasa
+  eng:
+  - burmese language
+  - burmese
+  epo:
+  - la birma lingo
+  - la birma
+  spa:
+  - birmano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Myanma">Myanma</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Myanmasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Burmese (language)
+    epo: la birma (lingo)
+    spa: birmano (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Myanma + -sa
+...

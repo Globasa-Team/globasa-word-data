@@ -1,0 +1,70 @@
+---
+term: anti
+slug: anti
+ipa: ˈanti
+ipa link: http://ipa-reader.xyz/?text=ˈanti&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - against
+    - versus
+  epo:
+  - - kontraŭ
+  spa:
+  - - en contra de
+search terms:
+  glb:
+  - anti
+  eng:
+  - against
+  - versus
+  epo:
+  - kontraŭ
+  spa:
+  - en contra de
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - anti-
+  Fransesa:
+  - - anti-
+  Doycisa:
+  - - anti-
+  Rusisa:
+  - - антитело “antitelo”
+  Espanisa:
+  - - anti-
+  Indonesisa:
+  - - anti-
+  Turkisa:
+  - - anti-
+  Hangusa:
+  - - 안티 “anti”
+  Niponsa:
+  - - アンチ “anci”
+antonyms:
+- pro
+raw data:
+  term: anti
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: against, versus
+    epo: kontraŭ
+    spa: en contra de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: pro
+  example: ""
+  tags: ""
+  etymology: Englisa (anti-), Fransesa (anti-), Doycisa (anti-), Rusisa (антитело
+    “antitelo”), Espanisa (anti-), Indonesisa (anti-), Turkisa (anti-), Hangusa (안티
+    “anti”), Niponsa (アンチ “anci”)
+...

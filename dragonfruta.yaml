@@ -1,0 +1,78 @@
+---
+term: dragonfruta
+slug: dragonfruta
+ipa: dɾagonˈfɾuta
+ipa link: http://ipa-reader.xyz/?text=dɾagonˈfɾuta&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dragon fruit
+    - pitaya
+  epo:
+  - - drakofrukto
+    - pitajo
+  spa:
+  - - pitahaya
+    - fruta dragón
+    - _Selenicereus_
+search terms:
+  glb:
+  - dragonfruta
+  eng:
+  - dragon fruit
+  - pitaya
+  epo:
+  - drakofrukto
+  - pitajo
+  spa:
+  - pitahaya
+  - fruta dragón
+  - selenicereus
+etymology_type: NATLNG
+etymology:
+  'dragon + fruta: Englisa':
+  - - dragon fruit
+  Fransesa:
+  - - fruit du dragon
+  Rusisa:
+  - - драко́ний фрукт “drakónij frukt”
+  Doycisa:
+  - - Drachenfrucht
+  Niponsa:
+  - - ドラゴンフルーツ “doragonfurūtsu”
+  Putunhwa:
+  - - 火龙果
+  Hangusa:
+  - - 용과 “yonggwa”
+  Arabisa:
+  - - فَاكِهَة تِنِّين‎ “fākihat tinnīn”
+  Indonesisa:
+  - - buah naga
+tags:
+- fruta
+- yamxey
+raw data:
+  term: dragonfruta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dragon fruit, pitaya
+    epo: drakofrukto, pitajo
+    spa: pitahaya, fruta dragón, _Selenicereus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: 'dragon + fruta: Englisa (dragon fruit), Fransesa (fruit du dragon),
+    Rusisa (драко́ний фрукт “drakónij frukt”), Doycisa (Drachenfrucht), Niponsa (ドラゴンフルーツ
+    “doragonfurūtsu”), Putunhwa (火龙果), Hangusa (용과 “yonggwa”), Arabisa (فَاكِهَة تِنِّين‎
+    “fākihat tinnīn”), Indonesisa (buah naga)'
+...

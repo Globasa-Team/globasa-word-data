@@ -1,0 +1,48 @@
+---
+term: denwatu
+slug: denwatu
+ipa: "de\u02C8nwatu"
+ipa link: "http://ipa-reader.xyz/?text=de\u02C8nwatu&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - then (_at that time_)
+  epo:
+  - - tiam
+  spa:
+  - - entonces
+search terms:
+  glb:
+  - denwatu
+  eng:
+  - then
+  epo:
+  - tiam
+  spa:
+  - entonces
+etymology_type: DERIVD
+etymology: <a href="../lexi/den">den</a> + <a href="../lexi/watu">watu</a>
+antonyms:
+- hinwatu
+raw data:
+  term: denwatu
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: then (_at that time_)
+    epo: tiam
+    spa: entonces
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: 'hinwatu '
+  example: ""
+  tags: ""
+  etymology: den + watu
+...

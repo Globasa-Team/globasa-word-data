@@ -1,0 +1,50 @@
+---
+term: likakendi
+slug: likakendi
+ipa: "lika\u02C8kendi"
+ipa link: "http://ipa-reader.xyz/?text=lika\u02C8kendi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lollipop
+  epo:
+  - - lekbombono
+    - stangobombono
+  spa:
+  - - paleta
+search terms:
+  glb:
+  - likakendi
+  eng:
+  - lollipop
+  epo:
+  - lekbombono
+  - stangobombono
+  spa:
+  - paleta
+etymology_type: DERIVD
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: likakendi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lollipop
+    epo: lekbombono, stangobombono
+    spa: paleta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: lika + kendi
+...

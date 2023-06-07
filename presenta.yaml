@@ -1,0 +1,78 @@
+---
+term: presenta
+slug: presenta
+ipa: "p\u027Ee\u02C8senta"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Ee\u02C8senta&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - presentation
+  - - present
+  epo:
+  - - prezento
+    - "enkonduka\u0135o"
+    - konigo
+  - - prezenti
+    - enkonduki
+    - konigi
+  spa:
+  - - "presentaci\xF3n"
+  - - presentar
+search terms:
+  glb:
+  - presenta
+  eng:
+  - presentation
+  - present
+  epo:
+  - prezento
+  - "enkonduka\u0135o"
+  - konigo
+  - prezenti
+  - enkonduki
+  - konigi
+  spa:
+  - "presentaci\xF3n"
+  - presentar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - present
+    - presentation
+  Fransesa:
+  - - "pr\xE9sentation"
+  Doycisa:
+  - - "Pr\xE4sentation"
+  Espanisa:
+  - - "presentaci\xF3n"
+  Indonesisa:
+  - - presentasi
+  Niponsa:
+  - - "\u30D7\u30EC\u30BC\u30F3\u30C6\u30FC\u30B7\u30E7\u30F3 \u201Cpurezentexon\u201D"
+  Turkisa:
+  - - prezantasyon
+raw data:
+  term: presenta
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: presentation; present
+    epo: "prezento, enkonduka\u0135o, konigo; prezenti, enkonduki, konigi"
+    spa: "presentaci\xF3n; presentar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (present, presentation), Fransesa (pr\xE9sentation), Doycisa
+    (Pr\xE4sentation), Espanisa (presentaci\xF3n), Indonesisa (presentasi), Niponsa
+    (\u30D7\u30EC\u30BC\u30F3\u30C6\u30FC\u30B7\u30E7\u30F3 \u201Cpurezentexon\u201D),
+    Turkisa (prezantasyon)"
+...

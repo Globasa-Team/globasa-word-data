@@ -1,0 +1,46 @@
+---
+term: pelakebelo
+slug: pelakebelo
+ipa: "pelake\u02C8belo"
+ipa link: "http://ipa-reader.xyz/?text=pelake\u02C8belo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - eyelash
+  epo:
+  - - okulharo
+  spa:
+  - - "pesta\xF1a"
+search terms:
+  glb:
+  - pelakebelo
+  eng:
+  - eyelash
+  epo:
+  - okulharo
+  spa:
+  - "pesta\xF1a"
+etymology_type: DERIVD
+etymology: <a href="../lexi/pelake">pelake</a> + <a href="../lexi/belo">belo</a>
+raw data:
+  term: pelakebelo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: eyelash
+    epo: okulharo
+    spa: "pesta\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pelake + belo
+...

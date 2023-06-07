@@ -1,0 +1,67 @@
+---
+term: wagon
+slug: wagon
+ipa: "wa\u02C8gon"
+ipa link: "http://ipa-reader.xyz/?text=wa\u02C8gon&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wagon
+    - coach
+  epo:
+  - - vagono
+  spa:
+  - - carro
+    - carruaje
+    - coche de caballos
+search terms:
+  glb:
+  - wagon
+  eng:
+  - wagon
+  - coach
+  epo:
+  - vagono
+  spa:
+  - carro
+  - carruaje
+  - coche de caballos
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - wagon
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Turkisa: ~
+  Pilipinasa:
+  - - wagon
+  Niponsa:
+  - - "\u30EF\u30B4\u30F3 \u201Cwagon\u201D"
+  Hangusa:
+  - - "\uC65C\uAC74 \u201Cwegon\u201D"
+raw data:
+  term: wagon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wagon, coach
+    epo: vagono
+    spa: carro, carruaje, coche de caballos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (wagon), Fransesa, Doycisa, Rusisa, Espanisa, Turkisa, Pilipinasa
+    (wagon), Niponsa (\u30EF\u30B4\u30F3 \u201Cwagon\u201D), Hangusa (\uC65C\uAC74
+    \u201Cwegon\u201D)"
+...

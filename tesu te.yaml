@@ -1,0 +1,54 @@
+---
+term: tesu te
+slug: tesu te
+ipa: "\u02C8tesu \u02C8te"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tesu \u02C8te&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - his
+    - hers (_that being belonging to her/him_)
+  epo:
+  - - la lia
+    - "la \u015Dia"
+    - la ria
+  spa:
+  - - "el de \xE9l (_ser viviente_)"
+search terms:
+  glb:
+  - tesu te
+  - tesu
+  - te
+  eng:
+  - his
+  - hers
+  epo:
+  - la lia
+  - "la \u015Dia"
+  - la ria
+  spa:
+  - "el de \xE9l"
+etymology_type: DERIVD
+etymology: <a href="../lexi/te">te</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/te">te</a>
+raw data:
+  term: tesu te
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: his, hers (_that being belonging to her/him_)
+    epo: "la lia, la \u015Dia, la ria"
+    spa: "el de \xE9l (_ser viviente_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: te + -su, te
+...

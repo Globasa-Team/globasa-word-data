@@ -1,0 +1,67 @@
+---
+term: xuli
+slug: xuli
+ipa: "\u02C8\u0283uli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283uli&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - repair
+    - fix
+  epo:
+  - - riparo
+  - - ripari
+  spa:
+  - - "reparaci\xF3n"
+    - arreglo
+    - remedio
+  - - reparar
+    - arreglar
+    - remediar
+search terms:
+  glb:
+  - xuli
+  eng:
+  - repair
+  - fix
+  epo:
+  - riparo
+  - ripari
+  spa:
+  - "reparaci\xF3n"
+  - arreglo
+  - remedio
+  - reparar
+  - arreglar
+  - remediar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4FEE\u7406 \u201Cxi\u016Bl\u01D0\u201D"
+  Hangusa:
+  - - "\uC218\uB9AC \u201Csuli\u201D"
+  Niponsa:
+  - - "\u4FEE\u7406 \u201Csh\u016Bri\u201D"
+raw data:
+  term: xuli
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: repair, fix
+    epo: riparo; ripari
+    spa: "reparaci\xF3n, arreglo, remedio; reparar, arreglar, remediar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u4FEE\u7406 \u201Cxi\u016Bl\u01D0\u201D), Hangusa (\uC218\uB9AC
+    \u201Csuli\u201D), Niponsa (\u4FEE\u7406 \u201Csh\u016Bri\u201D)"
+...

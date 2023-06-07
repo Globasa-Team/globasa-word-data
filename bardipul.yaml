@@ -1,0 +1,50 @@
+---
+term: bardipul
+slug: bardipul
+ipa: "ba\u027Edi\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=ba\u027Edi\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - cold
+  epo:
+  - - malvarma
+  - - malvarme
+  spa:
+  - - "fr\xEDo"
+search terms:
+  glb:
+  - bardipul
+  eng:
+  - cold
+  epo:
+  - malvarma
+  - malvarme
+  spa:
+  - "fr\xEDo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bardi">bardi</a> + <a href="../lexi/-pul">-pul</a>
+antonyms:
+- termopul
+raw data:
+  term: bardipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: cold
+    epo: malvarma; malvarme
+    spa: "fr\xEDo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: termopul
+  example: ""
+  tags: ""
+  etymology: bardi + -pul
+...

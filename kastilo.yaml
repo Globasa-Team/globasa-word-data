@@ -1,0 +1,52 @@
+---
+term: kastilo
+slug: kastilo
+ipa: "kas\u02C8tilo"
+ipa link: "http://ipa-reader.xyz/?text=kas\u02C8tilo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - castle
+  epo:
+  - - kastelo
+  spa:
+  - - castillo
+search terms:
+  glb:
+  - kastilo
+  eng:
+  - castle
+  epo:
+  - kastelo
+  spa:
+  - castillo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- dom
+raw data:
+  term: kastilo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: castle
+    epo: kastelo
+    spa: castillo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dom
+  etymology: "Englisa (castle), Espanisa (castillo), Indonesisa (kastil), Pilipinasa
+    (kastilyo), Hindisa (\u0915\u093C\u093F\u0932\u093E \u201Cqila\u201D), Telugusa
+    (\u0C15\u0C4B\u0C1F \u201Ck\u014D\u1E6Da\u201D), Arabisa (\u0642\u0644\u0639\u0629
+    \u201Cqalea\u201D, \u0642\u064E\u0635\u0652\u0631 \u201Cqa\u1E63r\u201D), Parsisa
+    (\u0642\u0644\u0639\u0647 \u201Cqal'e\u201D), Turkisa (kale)"
+...

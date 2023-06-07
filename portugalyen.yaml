@@ -1,0 +1,47 @@
+---
+term: portugalyen
+slug: portugalyen
+ipa: "po\u027Etuga\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=po\u027Etuga\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Portuguese (person)
+  epo:
+  - - portugalo
+  spa:
+  - - "portugu\xE9s (_persona_)"
+search terms:
+  glb:
+  - portugalyen
+  eng:
+  - portuguese person
+  - portuguese
+  epo:
+  - portugalo
+  spa:
+  - "portugu\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Portugal">Portugal</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Portugalyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Portuguese (person)
+    epo: portugalo
+    spa: "portugu\xE9s (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Portugal + -yen
+...

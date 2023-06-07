@@ -1,0 +1,77 @@
+---
+term: pasa
+slug: pasa
+ipa: "\u02C8pasa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pasa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - passage
+    - passing
+  - - pass
+  epo:
+  - - paso
+  - - pasi
+  spa:
+  - - paso
+  - - pasar
+search terms:
+  glb:
+  - pasa
+  eng:
+  - passage
+  - passing
+  - pass
+  epo:
+  - paso
+  - pasi
+  spa:
+  - paso
+  - pasar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pass
+    - passage
+  Fransesa:
+  - - passe
+    - passage
+  Doycisa:
+  - - Pass
+    - Passage
+  Espanisa:
+  - - paso
+    - pasaje
+    - pasar
+  Rusisa:
+  - - "\u043F\u0430\u0441\u0441\u0430\u0436 \u201Cpassaj\u201D"
+  Turkisa:
+  - - pasaj
+  Indonesisa:
+  - - "pasas\xEA"
+  Pilipinasa:
+  - - pasahe
+raw data:
+  term: pasa
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: passage, passing; pass
+    epo: paso; pasi
+    spa: paso; pasar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (pass, passage), Fransesa (passe, passage), Doycisa (Pass, Passage),
+    Espanisa (paso, pasaje, pasar), Rusisa (\u043F\u0430\u0441\u0441\u0430\u0436 \u201Cpassaj\u201D),
+    Turkisa (pasaj), Indonesisa (pasas\xEA), Pilipinasa (pasahe)"
+...

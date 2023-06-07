@@ -1,0 +1,51 @@
+---
+term: fe hataya fe
+slug: fe hataya fe
+ipa: "fe xa\u02C8taja fe"
+ipa link: "http://ipa-reader.xyz/?text=fe xa\u02C8taja fe&voice=Ewa"
+status: false
+category: phrase
+word class: p
+trans:
+  eng:
+  - - in spite of
+    - despite
+  epo:
+  - - "malgra\u016D"
+  spa:
+  - - a pesar de
+search terms:
+  glb:
+  - fe hataya fe
+  - fe
+  - hataya
+  eng:
+  - in spite of
+  - despite
+  epo:
+  - "malgra\u016D"
+  spa:
+  - a pesar de
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/hata">hata</a> + <a href="../lexi/-ya">-ya</a>,
+  <a href="../lexi/fe">fe</a>
+raw data:
+  term: fe hataya fe
+  category: phrase
+  word class: p
+  status: false
+  trans:
+    eng: in spite of, despite
+    epo: "malgra\u016D"
+    spa: a pesar de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, hata + -ya, fe
+...

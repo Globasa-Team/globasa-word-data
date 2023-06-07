@@ -1,0 +1,60 @@
+---
+term: garaku
+slug: garaku
+ipa: gaˈɾaku
+ipa link: http://ipa-reader.xyz/?text=gaˈɾaku&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - drown
+    - sink
+  epo:
+  - - dronado
+  - - droni(gi)
+  spa:
+  - - ahogamiento
+  - - ahogar
+    - ahogarse
+search terms:
+  glb:
+  - garaku
+  eng:
+  - drown
+  - sink
+  epo:
+  - dronado
+  - dronigi
+  - droni
+  spa:
+  - ahogamiento
+  - ahogar
+  - ahogarse
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - غرق “gharaq”
+    - يَغْرَقُ‎‎ “yaḡraqu”
+  Parsisa:
+  - - غرق “gharaq”
+raw data:
+  term: garaku
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: drown, sink
+    epo: dronado; droni(gi)
+    spa: ahogamiento; ahogar, ahogarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (غرق “gharaq”, يَغْرَقُ‎‎ “yaḡraqu”), Parsisa (غرق “gharaq”)
+...

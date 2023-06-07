@@ -1,0 +1,53 @@
+---
+term: konestable
+slug: konestable
+ipa: "kones\u02C8table"
+ipa link: "http://ipa-reader.xyz/?text=kones\u02C8table&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - constable
+  epo:
+  - - konestablo
+  spa:
+  - - condestable
+search terms:
+  glb:
+  - konestable
+  eng:
+  - constable
+  epo:
+  - konestablo
+  spa:
+  - condestable
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- insan
+raw data:
+  term: konestable
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: constable
+    epo: konestablo
+    spa: condestable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: "Englisa (constable), Espanisa (condestable), Fransesa (conn\xE9table),
+    Rusisa (\u043A\u043E\u043D\u0441\u0442\u0435\u0431\u043B\u044C \"konstebl\"),
+    Doycisa (Konstabler, Konstabel), Malaysisa (konstabel), Pilipinasa (konstable),
+    Hindisa (\u0915\u0949\u0902\u0938\u094D\u091F\u0947\u092C\u0932 \"konstebal\"),
+    Niponsa (\u30B3\u30F3\u30B9\u30BF\u30D6\u30EB \"konstaburu\"), Karnatakasa (\u0C95\u0CBE\u0CA8\u0CCD\u200D\u0CB8\u0CCD\u0C9F\u0CC6\u0CAC\u0CB2\u0CCD
+    \"kanstebal\"), Swahilisa (konstebo)"
+...

@@ -1,0 +1,64 @@
+---
+term: xorhare
+slug: xorhare
+ipa: "\u0283o\u027E\u02C8xa\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u027E\u02C8xa\u027Ee&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - acquisition
+  - - gain
+    - win
+    - acquire
+    - obtain
+  epo:
+  - - akiro
+    - akirado
+  - - aliri
+    - ekhavi
+  spa:
+  - - "adquisici\xF3n"
+  - - obtener
+search terms:
+  glb:
+  - xorhare
+  eng:
+  - acquisition
+  - gain
+  - win
+  - acquire
+  - obtain
+  epo:
+  - akiro
+  - akirado
+  - aliri
+  - ekhavi
+  spa:
+  - "adquisici\xF3n"
+  - obtener
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor-">xor-</a> + <a href="../lexi/hare">hare</a>
+antonyms:
+- xorwala
+raw data:
+  term: xorhare
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: acquisition; gain, win, acquire, obtain
+    epo: akiro, akirado; aliri, ekhavi
+    spa: "adquisici\xF3n; obtener"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: xorwala
+  example: ""
+  tags: ""
+  etymology: xor- + hare
+...

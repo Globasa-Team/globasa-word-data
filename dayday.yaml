@@ -1,0 +1,58 @@
+---
+term: dayday
+slug: dayday
+ipa: "daj\u02C8daj"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8daj&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - enormous
+    - enormously
+    - gigantic
+    - gigantically
+    - huge
+    - hugely
+  epo:
+  - - grandega
+  - - grandege
+  spa:
+  - - "grand\xEDsimo"
+search terms:
+  glb:
+  - dayday
+  eng:
+  - enormous
+  - enormously
+  - gigantic
+  - gigantically
+  - huge
+  - hugely
+  epo:
+  - grandega
+  - grandege
+  spa:
+  - "grand\xEDsimo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/day">day</a>
+raw data:
+  term: dayday
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: enormous, enormously, gigantic, gigantically, huge, hugely
+    epo: grandega; grandege
+    spa: "grand\xEDsimo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + day
+...

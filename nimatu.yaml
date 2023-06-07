@@ -1,0 +1,71 @@
+---
+term: nimatu
+slug: nimatu
+ipa: "ni\u02C8matu"
+ipa link: "http://ipa-reader.xyz/?text=ni\u02C8matu&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - (religious) favor
+    - grace
+  epo:
+  - - graco
+    - (di)favoro
+  - - (di)favori
+  spa:
+  - - "gracia (_religi\xF3n_)"
+search terms:
+  glb:
+  - nimatu
+  eng:
+  - religious favor
+  - favor
+  - grace
+  epo:
+  - graco
+  - difavoro
+  - favoro
+  - difavori
+  - favori
+  spa:
+  - gracia
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0928\u0947\u092E\u0924 \"nimat\""
+  Arabisa:
+  - - "\u0646\u0650\u0639\u0652\u0645\u064E\u0629 \"nima\""
+    - "\u0646\u0650\u0639\u0652\u0645\u064E\u0629\u064F \"nimatu\""
+  Indonesisa:
+  - - nikmat
+  Turkisa:
+  - - nimet
+  Parsisa:
+  - - "\u0646\u0639\u0645\u062A \"nemat\""
+  Swahilisa:
+  - - neema
+raw data:
+  term: nimatu
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: (religious) favor, grace
+    epo: graco, (di)favoro; (di)favori
+    spa: "gracia (_religi\xF3n_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0928\u0947\u092E\u0924 \"nimat\"), Arabisa (\u0646\u0650\u0639\u0652\u0645\u064E\u0629
+    \"nima\", \u0646\u0650\u0639\u0652\u0645\u064E\u0629\u064F \"nimatu\"), Indonesisa
+    (nikmat), Turkisa (nimet), Parsisa (\u0646\u0639\u0645\u062A \"nemat\"), Swahilisa
+    (neema)"
+...

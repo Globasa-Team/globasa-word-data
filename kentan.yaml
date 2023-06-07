@@ -1,0 +1,53 @@
+---
+term: kentan
+slug: kentan
+ipa: "ken\u02C8tan"
+ipa link: "http://ipa-reader.xyz/?text=ken\u02C8tan&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - exploration
+  - - explore
+  epo:
+  - - esploro
+  - - esplori
+  spa:
+  - - "exploraci\xF3n"
+  - - explorar
+search terms:
+  glb:
+  - kentan
+  eng:
+  - exploration
+  - explore
+  epo:
+  - esploro
+  - esplori
+  spa:
+  - "exploraci\xF3n"
+  - explorar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kentan
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: exploration; explore
+    epo: esploro; esplori
+    spa: "exploraci\xF3n; explorar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u52D8\u63A2 \u201Ck\u0101nt\xE0n\u201D), Niponsa (\u63A2\u691C
+    \u201Ctanken\u201D)"
+...

@@ -1,0 +1,48 @@
+---
+term: somuroti
+slug: somuroti
+ipa: "somu\u02C8\u027Eoti"
+ipa link: "http://ipa-reader.xyz/?text=somu\u02C8\u027Eoti&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - garlic bread
+  epo:
+  - - ajla pano
+    - ajlpano
+  spa:
+  - - pan de ajo
+search terms:
+  glb:
+  - somuroti
+  eng:
+  - garlic bread
+  epo:
+  - ajla pano
+  - ajlpano
+  spa:
+  - pan de ajo
+etymology_type: DERIVD
+etymology: <a href="../lexi/somu">somu</a> + <a href="../lexi/roti">roti</a>
+raw data:
+  term: somuroti
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: garlic bread
+    epo: ajla pano, ajlpano
+    spa: pan de ajo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: somu + roti
+...

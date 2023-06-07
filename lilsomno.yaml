@@ -1,0 +1,48 @@
+---
+term: lilsomno
+slug: lilsomno
+ipa: "lil\u02C8somno"
+ipa link: "http://ipa-reader.xyz/?text=lil\u02C8somno&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - nap
+  epo:
+  - - dormeto
+  - - dormeti
+  spa:
+  - - siesta
+search terms:
+  glb:
+  - lilsomno
+  eng:
+  - nap
+  epo:
+  - dormeto
+  - dormeti
+  spa:
+  - siesta
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/somno">somno</a>
+raw data:
+  term: lilsomno
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: nap
+    epo: dormeto; dormeti
+    spa: siesta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + somno
+...

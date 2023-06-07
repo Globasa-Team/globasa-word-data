@@ -1,0 +1,56 @@
+---
+term: jumbi
+slug: jumbi
+ipa: "\u02C8d\u0361\u0292umbi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292umbi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - ready
+    - prepared
+    - set
+  epo:
+  - - preta
+  - - prete
+  spa:
+  - - listo
+    - preparado
+search terms:
+  glb:
+  - jumbi
+  eng:
+  - ready
+  - prepared
+  - set
+  epo:
+  - preta
+  - prete
+  spa:
+  - listo
+  - preparado
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jumbi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: ready, prepared, set
+    epo: preta; prete
+    spa: listo, preparado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u51C6\u5907 \u201Czh\u01D4nb\xE8i\u201D), Niponsa (\u6E96\u5099
+    \u201Cjunbi\u201D), Hangusa (\uC900\uBE44 \u201Cjunbi\u201D), Vyetnamsa (chu\xE2\u0309n
+    bi\u0323)"
+...

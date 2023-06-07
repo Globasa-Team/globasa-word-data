@@ -1,0 +1,55 @@
+---
+term: ehtiram
+slug: ehtiram
+ipa: extiˈɾam
+ipa link: http://ipa-reader.xyz/?text=extiˈɾam&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - respect
+  - - respect
+  epo:
+  - - respekto
+  - - respekti
+  spa:
+  - - respeto
+  - - respetar
+search terms:
+  glb:
+  - ehtiram
+  eng:
+  - respect
+  epo:
+  - respekto
+  - respekti
+  spa:
+  - respeto
+  - respetar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - احترام “aihtiram”
+  Parsisa:
+  - - احترام “ehteram”
+raw data:
+  term: ehtiram
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: respect; respect
+    epo: respekto; respekti
+    spa: respeto; respetar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (احترام “aihtiram”), Parsisa (احترام “ehteram”)
+...

@@ -1,0 +1,52 @@
+---
+term: senegal
+slug: senegal
+ipa: "sene\u02C8gal"
+ipa link: "http://ipa-reader.xyz/?text=sene\u02C8gal&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Senegal
+  epo:
+  - - Senegalo
+    - Senegalio
+  spa:
+  - - Senegal
+search terms:
+  glb:
+  - senegal
+  eng:
+  - senegal
+  epo:
+  - senegalo
+  - senegalio
+  spa:
+  - senegal
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - "S\xE9n\xE9gal"
+tags:
+- dexa
+raw data:
+  term: Senegal
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Senegal
+    epo: Senegalo, Senegalio
+    spa: Senegal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Fransesa (S\xE9n\xE9gal)"
+...

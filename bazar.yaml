@@ -1,0 +1,76 @@
+---
+term: bazar
+slug: bazar
+ipa: baˈzaɾ
+ipa link: http://ipa-reader.xyz/?text=baˈzaɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - market
+    - bazaar
+  epo:
+  - - bazaro
+    - vendejo
+  spa:
+  - - bazar
+    - mercado
+search terms:
+  glb:
+  - bazar
+  eng:
+  - market
+  - bazaar
+  epo:
+  - bazaro
+  - vendejo
+  spa:
+  - bazar
+  - mercado
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - बाज़ार “bāzār”
+  Parsisa:
+  - - بازار “bâzâr”
+  Turkisa:
+  - - pazar
+  Indonesisa:
+  - - pasar
+  Englisa:
+  - - bazaar
+  Fransesa:
+  - - bazar
+  Doycisa:
+  - - Basar
+  Rusisa:
+  - - базар “bazar”
+  Espanisa:
+  - - bazar
+  Putunhwa:
+  - - 巴扎 “bāzhá”
+tags:
+- dom
+raw data:
+  term: bazar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: market, bazaar
+    epo: bazaro, vendejo
+    spa: bazar, mercado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dom
+  etymology: Hindisa (बाज़ार “bāzār”), Parsisa (بازار “bâzâr”), Turkisa (pazar), Indonesisa
+    (pasar), Englisa (bazaar), Fransesa (bazar), Doycisa (Basar), Rusisa (базар “bazar”),
+    Espanisa (bazar), Putunhwa (巴扎 “bāzhá”)
+...

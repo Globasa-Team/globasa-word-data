@@ -1,0 +1,53 @@
+---
+term: kweho
+slug: kweho
+ipa: "\u02C8kwexo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kwexo&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - merry
+    - cheerful
+  epo:
+  - - gaja
+    - bonhumora
+  spa:
+  - - alegre
+    - jovial
+search terms:
+  glb:
+  - kweho
+  eng:
+  - merry
+  - cheerful
+  epo:
+  - gaja
+  - bonhumora
+  spa:
+  - alegre
+  - jovial
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kweho
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: merry, cheerful
+    epo: gaja, bonhumora
+    spa: alegre, jovial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5FEB\u6D3B \u201Cku\xE0ihu\xF3\u201D), Hangusa (\uCF8C\uD65C\uD55C
+    \u201Ckwaehwalhan\u201D)"
+...

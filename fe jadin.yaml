@@ -1,0 +1,50 @@
+---
+term: fe jadin
+slug: fe jadin
+ipa: "fe d\u0361\u0292a\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=fe d\u0361\u0292a\u02C8din&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - supposedly
+  epo:
+  - - supozeble
+    - onidire
+  spa:
+  - - supuestamente
+search terms:
+  glb:
+  - fe jadin
+  - fe
+  - jadin
+  eng:
+  - supposedly
+  epo:
+  - supozeble
+  - onidire
+  spa:
+  - supuestamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/jadin">jadin</a>
+raw data:
+  term: fe jadin
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: supposedly
+    epo: supozeble, onidire
+    spa: supuestamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, jadin
+...

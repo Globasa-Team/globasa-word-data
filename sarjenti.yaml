@@ -1,0 +1,75 @@
+---
+term: sarjenti
+slug: sarjenti
+ipa: "sa\u027E\u02C8d\u0361\u0292enti"
+ipa link: "http://ipa-reader.xyz/?text=sa\u027E\u02C8d\u0361\u0292enti&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sargeant
+  epo:
+  - - "ser\u011Dento"
+  spa:
+  - - sargento
+search terms:
+  glb:
+  - sarjenti
+  eng:
+  - sargeant
+  epo:
+  - "ser\u011Dento"
+  spa:
+  - sargento
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sergeant
+  Espanisa:
+  - - sargento
+  Fransesa:
+  - - sergent
+  Rusisa:
+  - - "\u0441\u0435\u0440\u0436\u0430\u043D\u0442 \"serjant\""
+  Indonesisa:
+  - - sersan
+  Malaysisa:
+  - - sarjan
+  Pilipinasa:
+  - - sarhento
+  Hindisa:
+  - - "\u0938\u093E\u0930\u094D\u091C\u0923\u094D\u091F \"sarjant\""
+    - "\u0938\u093E\u0930\u091C\u0902\u091F"
+    - "\u0938\u093E\u0930\u094D\u091C\u0902\u091F \"sarjant\""
+  Telugusa:
+  - - "\u0C38\u0C3E\u0C30\u0C4D\u0C1C\u0C46\u0C02\u0C1F\u0C4D \"sarjent\""
+  Swahilisa:
+  - - sajini
+tags:
+- insan
+raw data:
+  term: sarjenti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sargeant
+    epo: "ser\u011Dento"
+    spa: sargento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: "Englisa (sergeant), Espanisa (sargento), Fransesa (sergent), Rusisa
+    (\u0441\u0435\u0440\u0436\u0430\u043D\u0442 \"serjant\"), Indonesisa (sersan),
+    Malaysisa (sarjan) Pilipinasa (sarhento), Hindisa (\u0938\u093E\u0930\u094D\u091C\u0923\u094D\u091F
+    \"sarjant\", \u0938\u093E\u0930\u091C\u0902\u091F, \u0938\u093E\u0930\u094D\u091C\u0902\u091F
+    \"sarjant\"), Telugusa (\u0C38\u0C3E\u0C30\u0C4D\u0C1C\u0C46\u0C02\u0C1F\u0C4D
+    \"sarjent\"), Swahilisa (sajini)"
+...

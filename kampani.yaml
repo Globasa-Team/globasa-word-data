@@ -1,0 +1,53 @@
+---
+term: kampani
+slug: kampani
+ipa: "kam\u02C8pani"
+ipa link: "http://ipa-reader.xyz/?text=kam\u02C8pani&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - campaign
+    - movement
+  epo:
+  - - kampanjo
+  spa:
+  - - "campa\xF1a"
+    - movimiento
+search terms:
+  glb:
+  - kampani
+  eng:
+  - campaign
+  - movement
+  epo:
+  - kampanjo
+  spa:
+  - "campa\xF1a"
+  - movimiento
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kampani
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: campaign, movement
+    epo: kampanjo
+    spa: "campa\xF1a, movimiento"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (campaign), Fransesa (campagne), Doycesa (Kampagne), Rusisa
+    (\u043A\u0430\u043C\u043F\u0430\u043D\u0438\u044F \u201Ckampaniya\u201D), Espanisa
+    (campa\xF1a), Niponsa (\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3 \u201Ckyanp\u0113n\u201D),
+    Swahilisa (kampeni), Turkisa (kampanya), Indonesisa (kampanye), Pilipinasa (kampanya)"
+...

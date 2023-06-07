@@ -1,0 +1,83 @@
+---
+term: otima
+slug: otima
+ipa: "o\u02C8tima"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8tima&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - optimal
+    - optimum
+    - best possible
+    - awesome (_informal_)
+  epo:
+  - - optimuma
+    - plejbona
+  - - optimume
+    - 'plejbone (neformale: mojosege'
+    - bonege)
+  spa:
+  - - "\xF3ptimo"
+  - - genial
+search terms:
+  glb:
+  - otima
+  eng:
+  - optimal
+  - optimum
+  - best possible
+  - awesome
+  epo:
+  - optimuma
+  - plejbona
+  - optimume
+  - 'plejbone neformale: mojosege'
+  - 'plejbone (neformale: mojosege'
+  - bonege
+  spa:
+  - "\xF3ptimo"
+  - genial
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - optimal
+  Fransesa:
+  - - optimal
+  Doycisa:
+  - - optimal
+  Rusisa:
+  - - "\u043E\u043F\u0442\u0438\u043C\u0430\u043B\u044C\u043D\u044B\u0439 \u201Coptimalniy\u201D"
+  Espanisa:
+  - - "\xF3ptima"
+    - "\xF3ptimo"
+  Turkisa:
+  - - optimal
+  Indonesia:
+  - - optimal
+  Portugalsa:
+  - - "\xF3tima"
+    - "\xF3timo"
+raw data:
+  term: otima
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: optimal, optimum, best possible, awesome (_informal_)
+    epo: 'optimuma, plejbona; optimume, plejbone (neformale: mojosege, bonege)'
+    spa: "\xF3ptimo; genial"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (optimal), Fransesa (optimal), Doycisa (optimal), Rusisa (\u043E\u043F\u0442\u0438\u043C\u0430\u043B\u044C\u043D\u044B\u0439
+    \u201Coptimalniy\u201D), Espanisa (\xF3ptima, \xF3ptimo), Turkisa (optimal), Indonesia
+    (optimal), Portugalsa (\xF3tima, \xF3timo)"
+...

@@ -1,0 +1,63 @@
+---
+term: fikir
+slug: fikir
+ipa: fiˈkiɾ
+ipa link: http://ipa-reader.xyz/?text=fiˈkiɾ&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - thought
+  - - think
+  epo:
+  - - penso
+  - - pensi
+  spa:
+  - - pensamiento
+  - - pensar
+search terms:
+  glb:
+  - fikir
+  eng:
+  - thought
+  - think
+  epo:
+  - penso
+  - pensi
+  spa:
+  - pensamiento
+  - pensar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فكر “fikr”
+  Indonesisa:
+  - - pikir
+  Turkisa:
+  - - fikir
+  Parsisa:
+  - - فکر “fikr”
+  Swahilisa:
+  - - -fikiri
+raw data:
+  term: fikir
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: thought; think
+    epo: penso; pensi
+    spa: pensamiento; pensar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (فكر “fikr”), Indonesisa (pikir), Turkisa (fikir), Parsisa (فکر
+    “fikr”), Swahilisa (-fikiri)
+...

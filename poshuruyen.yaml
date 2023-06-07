@@ -1,0 +1,47 @@
+---
+term: poshuruyen
+slug: poshuruyen
+ipa: "posxu\u027Eu\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=posxu\u027Eu\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - prisoner
+  epo:
+  - - malliberulo
+  spa:
+  - - prisionero
+search terms:
+  glb:
+  - poshuruyen
+  eng:
+  - prisoner
+  epo:
+  - malliberulo
+  spa:
+  - prisionero
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/huru">huru</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: poshuruyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'prisoner '
+    epo: malliberulo
+    spa: prisionero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + huru + -yen
+...

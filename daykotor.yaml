@@ -1,0 +1,52 @@
+---
+term: daykotor
+slug: daykotor
+ipa: "dajko\u02C8to\u027E"
+ipa link: "http://ipa-reader.xyz/?text=dajko\u02C8to\u027E&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - filthy
+  epo:
+  - - malpurega
+    - kota
+  - - malpurege
+    - kote
+  spa:
+  - - mugriento
+search terms:
+  glb:
+  - daykotor
+  eng:
+  - filthy
+  epo:
+  - malpurega
+  - kota
+  - malpurege
+  - kote
+  spa:
+  - mugriento
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/kotor">kotor</a>
+raw data:
+  term: daykotor
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: filthy
+    epo: malpurega, kota; malpurege, kote
+    spa: mugriento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + kotor
+...

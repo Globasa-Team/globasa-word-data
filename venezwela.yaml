@@ -1,0 +1,50 @@
+---
+term: venezwela
+slug: venezwela
+ipa: "vene\u02C8zwela"
+ipa link: "http://ipa-reader.xyz/?text=vene\u02C8zwela&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Venezuela
+  epo:
+  - - Venezuelo
+  spa:
+  - - Venezuela
+search terms:
+  glb:
+  - venezwela
+  eng:
+  - venezuela
+  epo:
+  - venezuelo
+  spa:
+  - venezuela
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Venezuela
+tags:
+- dexa
+raw data:
+  term: Venezwela
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Venezuela
+    epo: Venezuelo
+    spa: Venezuela
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Venezuela)
+...

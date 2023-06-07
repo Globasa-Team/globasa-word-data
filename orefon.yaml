@@ -1,0 +1,48 @@
+---
+term: orefon
+slug: orefon
+ipa: "o\u027Ee\u02C8fon"
+ipa link: "http://ipa-reader.xyz/?text=o\u027Ee\u02C8fon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - earphones
+  epo:
+  - - "a\u016Dskultilo"
+  spa:
+  - - "aud\xEDfonos"
+    - auriculares
+search terms:
+  glb:
+  - orefon
+  eng:
+  - earphones
+  epo:
+  - "a\u016Dskultilo"
+  spa:
+  - "aud\xEDfonos"
+  - auriculares
+etymology_type: DERIVD
+etymology: <a href="../lexi/ore">ore</a> + <a href="../lexi/-fon">-fon</a>
+raw data:
+  term: orefon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: earphones
+    epo: "a\u016Dskultilo"
+    spa: "aud\xEDfonos, auriculares"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ore + -fon
+...

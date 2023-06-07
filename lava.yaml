@@ -1,0 +1,50 @@
+---
+term: lava
+slug: lava
+ipa: "\u02C8lava"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lava&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lava
+  epo:
+  - - lafo
+  spa:
+  - - lava
+search terms:
+  glb:
+  - lava
+  eng:
+  - lava
+  epo:
+  - lafo
+  spa:
+  - lava
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lava
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lava
+    epo: lafo
+    spa: lava
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lava), Espanisa, Doycisa, Indonesisa, Pilipinasa, Swahilisa,
+    Fransesa (lave), Rusisa (\u043B\u0430\u0432\u0430 \u201Clava\u201D), Hindisa (\u0932\u093E\u0935\u093E
+    \u201Clava\u201D), Arabisa (\u0644\u064E\u0627\u0628\u064E\u0629 \u201Claba\u201D),
+    Niponsa (\u30E9\u30F4\u30A1 \u201Crava\u201D), Telugusa (\u0C32\u0C3E\u0C35\u0C3E
+    \u201Clava\u201D), Turkisa (lav)"
+...

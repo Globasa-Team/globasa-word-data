@@ -1,0 +1,59 @@
+---
+term: sama
+slug: sama
+ipa: "\u02C8sama"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sama&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - same [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+  epo:
+  - - sama
+  - - same
+  spa:
+  - - mismo
+search terms:
+  glb:
+  - sama
+  eng:
+  - same
+  epo:
+  - sama
+  - same
+  spa:
+  - mismo
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - sama
+  Englisa:
+  - - same
+  Swerisa:
+  - - samma
+  Rusisa:
+  - - "\u0441\u0430\u043C\u0430\u044F \u201Csamaya\u201D"
+  Swahilisa:
+  - - sawa
+raw data:
+  term: sama
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: same [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+    epo: sama; same
+    spa: mismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (sama), Englisa (same), Swerisa (samma), Rusisa (\u0441\u0430\u043C\u0430\u044F
+    \u201Csamaya\u201D), Swahilisa (sawa)"
+...

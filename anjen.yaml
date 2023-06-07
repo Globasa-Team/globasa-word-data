@@ -1,0 +1,62 @@
+---
+term: anjen
+slug: anjen
+ipa: anˈd͡ʒen
+ipa link: http://ipa-reader.xyz/?text=anˈd͡ʒen&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - safe
+    - safely
+    - secure
+    - securely
+  epo:
+  - - sekura
+  - - sekure
+  spa:
+  - - seguro
+  - - seguramente
+search terms:
+  glb:
+  - anjen
+  eng:
+  - safe
+  - safely
+  - secure
+  - securely
+  epo:
+  - sekura
+  - sekure
+  spa:
+  - seguro
+  - seguramente
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 安全 “ānquán”
+  Niponsa:
+  - - 安全 “anzen”
+  Hangusa:
+  - - 안전 “anjeon”
+raw data:
+  term: anjen
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: safe, safely, secure, securely
+    epo: sekura; sekure
+    spa: seguro; seguramente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (安全 “ānquán”), Niponsa (安全 “anzen”), Hangusa (안전 “anjeon”)
+...

@@ -1,0 +1,48 @@
+---
+term: dyerya
+slug: dyerya
+ipa: "\u02C8dje\u027Eja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dje\u027Eja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - lateness
+    - tardiness
+  epo:
+  - - malfrueco
+  spa:
+  - - tardanza
+search terms:
+  glb:
+  - dyerya
+  eng:
+  - lateness
+  - tardiness
+  epo:
+  - malfrueco
+  spa:
+  - tardanza
+etymology_type: DERIVD
+etymology: <a href="../lexi/dyer">dyer</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: dyerya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: lateness, tardiness
+    epo: malfrueco
+    spa: tardanza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dyer + -ya
+...

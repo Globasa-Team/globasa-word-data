@@ -1,0 +1,59 @@
+---
+term: rahim
+slug: rahim
+ipa: "\u027Ea\u02C8xim"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8xim&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - uterus
+    - womb
+  epo:
+  - - utero
+  spa:
+  - - matriz
+    - "\xFAtero"
+search terms:
+  glb:
+  - rahim
+  eng:
+  - uterus
+  - womb
+  epo:
+  - utero
+  spa:
+  - matriz
+  - "\xFAtero"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0631\u064E\u062D\u0650\u0645 \u201Crahim\u201D"
+  Indonesisa:
+  - - rahim
+  Turkisa:
+  - - rahim
+  Parsisa:
+  - - "\u0631\u062D\u0645 \u201Crahem\u201D"
+raw data:
+  term: rahim
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: uterus, womb
+    epo: utero
+    spa: "matriz, \xFAtero"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0631\u064E\u062D\u0650\u0645 \u201Crahim\u201D), Indonesisa
+    (rahim), Turkisa (rahim), Parsisa (\u0631\u062D\u0645 \u201Crahem\u201D)"
+...

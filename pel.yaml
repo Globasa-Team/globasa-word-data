@@ -1,0 +1,90 @@
+---
+term: pel
+slug: pel
+ipa: "\u02C8pel"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pel&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - impulse
+    - impetus
+    - push
+    - drive
+  - - push
+    - drive
+  epo:
+  - - impulso
+    - impeto
+    - "pu\u015Do"
+    - pelado
+  - - "pu\u015Di"
+    - peli
+  spa:
+  - - impulso
+    - "\xEDmpetu"
+    - "empuj\xF3n"
+  - - empujar
+    - impulsar
+    - impeler
+search terms:
+  glb:
+  - pel
+  eng:
+  - impulse
+  - impetus
+  - push
+  - drive
+  epo:
+  - impulso
+  - impeto
+  - "pu\u015Do"
+  - pelado
+  - "pu\u015Di"
+  - peli
+  spa:
+  - impulso
+  - "\xEDmpetu"
+  - "empuj\xF3n"
+  - empujar
+  - impulsar
+  - impeler
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - impel
+    - impetus
+    - impulse
+  Fransesa:
+  - - impulsion
+  Espanisa:
+  - - "\xEDmpetu"
+    - impulso
+  Doycisa:
+  - - Impetus
+    - Impuls
+  Rusisa:
+  - - "\u0438\u043C\u043F\u0443\u043B\u044C\u0441 \u201Cimpuls\u201D"
+raw data:
+  term: pel
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: impulse, impetus, push, drive; push, drive
+    epo: "impulso, impeto, pu\u015Do, pelado; pu\u015Di, peli"
+    spa: "impulso, \xEDmpetu, empuj\xF3n; empujar, impulsar, impeler"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (impel, impetus, impulse), Fransesa (impulsion), Espanisa (\xEDmpetu,
+    impulso), Doycisa (Impetus, Impuls), Rusisa (\u0438\u043C\u043F\u0443\u043B\u044C\u0441
+    \u201Cimpuls\u201D)"
+...

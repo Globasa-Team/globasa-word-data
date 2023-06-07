@@ -1,0 +1,52 @@
+---
+term: posdongwi
+slug: posdongwi
+ipa: "pos\u02C8dongwi"
+ipa link: "http://ipa-reader.xyz/?text=pos\u02C8dongwi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - disagreement
+  - - disagree
+  epo:
+  - - malakordo
+  - - malakordi
+  spa:
+  - - desacuerdo
+  - - no estar de acuerdo
+search terms:
+  glb:
+  - posdongwi
+  eng:
+  - disagreement
+  - disagree
+  epo:
+  - malakordo
+  - malakordi
+  spa:
+  - desacuerdo
+  - no estar de acuerdo
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/dongwi">dongwi</a>
+raw data:
+  term: posdongwi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: disagreement; disagree
+    epo: malakordo; malakordi
+    spa: desacuerdo; no estar de acuerdo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + dongwi
+...

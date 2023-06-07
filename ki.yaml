@@ -1,0 +1,47 @@
+---
+term: ki
+slug: ki
+ipa: ki
+ipa link: http://ipa-reader.xyz/?text=ki&voice=Ewa
+status: true
+category: root
+word class: l
+trans:
+  eng:
+  - - that
+  epo:
+  - - ke
+  spa:
+  - - que
+search terms:
+  glb:
+  - ki
+  eng:
+  - that
+  epo:
+  - ke
+  spa:
+  - que
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ki
+  category: root
+  word class: l
+  status: true
+  trans:
+    eng: that
+    epo: ke
+    spa: que
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (que), Espanisa (que), Hindisa (\u0915\u093F \u201Cki\u201D),
+    Parsisa (\u06A9\u0647 \u201Cke\u201D)"
+...

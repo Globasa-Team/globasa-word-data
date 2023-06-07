@@ -1,0 +1,45 @@
+---
+term: deliryum
+slug: deliryum
+ipa: deliˈɾjum
+ipa link: http://ipa-reader.xyz/?text=deliˈɾjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - delirium
+  epo:
+  - - deliro
+  spa:
+  - - delirio
+search terms:
+  glb:
+  - deliryum
+  eng:
+  - delirium
+  epo:
+  - deliro
+  spa:
+  - delirio
+etymology_type: none
+raw data:
+  term: deliryum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: delirium
+    epo: deliro
+    spa: delirio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ""
+...

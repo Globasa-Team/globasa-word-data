@@ -1,0 +1,71 @@
+---
+term: vino
+slug: vino
+ipa: "\u02C8vino"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8vino&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wine
+  epo:
+  - - vino
+  spa:
+  - - vino
+search terms:
+  glb:
+  - vino
+  eng:
+  - wine
+  epo:
+  - vino
+  spa:
+  - vino
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - wine
+  Fransesa:
+  - - vin
+  Doycisa:
+  - - Wein
+  Rusisa:
+  - - "\u0432\u0438\u043D\u043E \u201Cvino\u201D"
+  Espanisa:
+  - - vino
+  Hindisa:
+  - - "\u0935\u093E\u0907\u0928 \u201Cvain\u201D"
+  Telugusa:
+  - - "\u0C35\u0C46\u0C56\u0C28\u0C4D \u201Cvain\u201D"
+  Niponsa:
+  - - "\u30EF\u30A4\u30F3 \u201Cwain\u201D"
+  Vyetnamsa:
+  - - vang
+  Pilipinasa:
+  - - bino
+  Swahilisa:
+  - - mvinyo
+raw data:
+  term: vino
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wine
+    epo: vino
+    spa: vino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (wine), Fransesa (vin), Doycisa (Wein), Rusisa (\u0432\u0438\u043D\u043E
+    \u201Cvino\u201D), Espanisa (vino), Hindisa (\u0935\u093E\u0907\u0928 \u201Cvain\u201D),
+    Telugusa (\u0C35\u0C46\u0C56\u0C28\u0C4D \u201Cvain\u201D), Niponsa (\u30EF\u30A4\u30F3
+    \u201Cwain\u201D), Vyetnamsa (vang) Pilipinasa (bino), Swahilisa (mvinyo)"
+...

@@ -1,0 +1,59 @@
+---
+term: banmo
+slug: banmo
+ipa: "\u02C8banmo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8banmo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - to some degree
+    - to a certain degree
+    - somewhat
+    - (a) bit
+    - (a) little bit
+  epo:
+  - - iom
+  spa:
+  - - a cierto grado
+    - un poco
+search terms:
+  glb:
+  - banmo
+  eng:
+  - to some degree
+  - to a certain degree
+  - somewhat
+  - a bit
+  - bit
+  - a little bit
+  - little bit
+  epo:
+  - iom
+  spa:
+  - a cierto grado
+  - un poco
+etymology_type: DERIVD
+etymology: <a href="../lexi/ban">ban</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: banmo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: to some degree, to a certain degree, somewhat, (a) bit, (a) little bit
+    epo: iom
+    spa: a cierto grado, un poco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: to some degree, to a certain degree, somewhat, bit, a bit, a little
+    bit, little, little bit
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ban + -mo
+...

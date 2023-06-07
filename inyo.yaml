@@ -1,0 +1,62 @@
+---
+term: inyo
+slug: inyo
+ipa: "\u02C8injo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8injo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - quote
+    - quotation
+    - citation
+  - - quote
+    - cite
+  epo:
+  - - cito
+    - citilo
+    - "cita\u0135o"
+  - - citi
+  spa:
+  - - cita
+  - - citar
+search terms:
+  glb:
+  - inyo
+  eng:
+    0: quote
+    1: quotation
+    2: citation
+    4: cite
+  epo:
+  - cito
+  - citilo
+  - "cita\u0135o"
+  - citi
+  spa:
+  - cita
+  - citar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: inyo
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: quote, quotation, citation; quote, cite
+    epo: "cito, citilo, cita\u0135o; citi"
+    spa: cita; citar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5F15\u7528 \u201Cy\u01D0ny\xF2ng\u201D), Niponsa (\u5F15\u7528
+    \u201Cin'y\u014D\u201D), Hangusa (\uC778\uC6A9 \u201Cin-yong\u201D)"
+...

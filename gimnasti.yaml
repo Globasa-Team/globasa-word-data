@@ -1,0 +1,69 @@
+---
+term: gimnasti
+slug: gimnasti
+ipa: gimˈnasti
+ipa link: http://ipa-reader.xyz/?text=gimˈnasti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gymnastics
+  epo:
+  - - gimnastiko
+  spa:
+  - - gimnasia
+search terms:
+  glb:
+  - gimnasti
+  eng:
+  - gymnastics
+  epo:
+  - gimnastiko
+  spa:
+  - gimnasia
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Gymnastik
+  Englisa:
+  - - gymnastics
+  Espanisa:
+  - - gimnasia
+  Fransesa:
+  - - gymnastique
+  Rusisa:
+  - - гимнастика “gimnastika”
+  Turkisa:
+  - - jimnastik
+  Indonesisa:
+  - - gimnastik
+  Pilipinasa:
+  - - himnastiko
+  Telugusa:
+  - - జిమ్నాస్టిక్స్ “jimnastiks”
+  Parsisa:
+  - - ژیمناستیک “jiminastik”
+raw data:
+  term: gimnasti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gymnastics
+    epo: gimnastiko
+    spa: gimnasia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Gymnastik), Englisa (gymnastics), Espanisa (gimnasia), Fransesa
+    (gymnastique), Rusisa (гимнастика “gimnastika”), Turkisa (jimnastik), Indonesisa
+    (gimnastik), Pilipinasa (himnastiko), Telugusa (జిమ్నాస్టిక్స్ “jimnastiks”),
+    Parsisa (ژیمناستیک “jiminastik”)
+...

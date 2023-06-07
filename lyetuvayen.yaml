@@ -1,0 +1,47 @@
+---
+term: lyetuvayen
+slug: lyetuvayen
+ipa: "ljetuva\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=ljetuva\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Lithuanian (person)
+  epo:
+  - - litovo
+  spa:
+  - - lituano (_persona_)
+search terms:
+  glb:
+  - lyetuvayen
+  eng:
+  - lithuanian person
+  - lithuanian
+  epo:
+  - litovo
+  spa:
+  - lituano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Lyetuva">Lyetuva</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Lyetuvayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Lithuanian (person)
+    epo: litovo
+    spa: lituano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Lyetuva + -yen
+...

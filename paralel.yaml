@@ -1,0 +1,71 @@
+---
+term: paralel
+slug: paralel
+ipa: "pa\u027Ea\u02C8lel"
+ipa link: "http://ipa-reader.xyz/?text=pa\u027Ea\u02C8lel&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - parallel
+  epo:
+  - - paralela
+  - - paralele
+  spa:
+  - - paralelo
+search terms:
+  glb:
+  - paralel
+  eng:
+  - parallel
+  epo:
+  - paralela
+  - paralele
+  spa:
+  - paralelo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - parallel
+  Espanisa:
+  - - paralelo
+  Fransesa:
+  - - "parall\xE8le"
+  Rusisa:
+  - - "\u043F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0439 \"paralelniy\""
+  Doycisa:
+  - - parallel
+  Portugalsa:
+  - - paralelo
+  Italisa:
+  - - parallelo
+  Indonesisa:
+  - - paralel
+  Pilipinasa:
+  - - paralel
+  Turkisa:
+  - - paralel
+raw data:
+  term: paralel
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: parallel
+    epo: paralela; paralele
+    spa: paralelo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (parallel), Espanisa (paralelo), Fransesa (parall\xE8le), Rusisa
+    (\u043F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0439 \"paralelniy\"),
+    Doycisa (parallel), Portugalsa (paralelo), Italisa (parallelo), Indonesisa (paralel),
+    Pilipinasa (paralel), Turkisa (paralel)"
+...

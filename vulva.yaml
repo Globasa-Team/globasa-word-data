@@ -1,0 +1,64 @@
+---
+term: vulva
+slug: vulva
+ipa: "\u02C8vulva"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8vulva&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vulva
+  epo:
+  - - vulvo
+  spa:
+  - - vulva
+search terms:
+  glb:
+  - vulva
+  eng:
+  - vulva
+  epo:
+  - vulvo
+  spa:
+  - vulva
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - vulva
+  Espanisa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Turkisa: ~
+  Fransesa:
+  - - vulve
+  Rusisa:
+  - - "\u0432\u0443\u043B\u044C\u0432\u0430 \u201Cvulva\u201D"
+  Pilipinasa:
+  - - bulba
+  Arabisa:
+  - - "\u0641\u064E\u0627\u0644\u0652\u0641\u064E\u0627 \u201Cfalfa\u201D"
+tags:
+- jismulogi
+raw data:
+  term: vulva
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vulva
+    epo: vulvo
+    spa: vulva
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (vulva), Espanisa, Doycisa, Indonesisa, Turkisa, Fransesa (vulve),
+    Rusisa (\u0432\u0443\u043B\u044C\u0432\u0430 \u201Cvulva\u201D), Pilipinasa (bulba),
+    Arabisa (\u0641\u064E\u0627\u0644\u0652\u0641\u064E\u0627 \u201Cfalfa\u201D)"
+...

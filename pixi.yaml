@@ -1,0 +1,103 @@
+---
+term: pixi
+slug: pixi
+ipa: "\u02C8pi\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pi\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - urine
+    - piss
+    - pee
+    - wee
+  - - urinate
+  epo:
+  - - urino
+    - piso
+  - - uniri
+    - pisi
+  spa:
+  - - orina
+    - meado
+    - pis
+    - "pip\xED"
+  - - orinar
+    - mear
+    - hacer pis
+    - "hacer pip\xED"
+search terms:
+  glb:
+  - pixi
+  eng:
+  - urine
+  - piss
+  - pee
+  - wee
+  - urinate
+  epo:
+  - urino
+  - piso
+  - uniri
+  - pisi
+  spa:
+  - orina
+  - meado
+  - pis
+  - "pip\xED"
+  - orinar
+  - mear
+  - hacer pis
+  - "hacer pip\xED"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - piss
+    - pee
+  Espanisa:
+  - - pis
+  Fransesa:
+  - - pis
+  Rusisa:
+  - - "\u043F\u0438\u0441\u0430\u0442\u044C \u201Cpisat\u201D"
+  Doycisa:
+  - - Pisse
+  Indonesisa:
+  - - pipis
+  Hindisa:
+  - - "\u092A\u0947\u0936\u093E\u092C \u201Cpexab\u201D"
+  Parsisa:
+  - - "\u067E\u06CC\u0634\u0627\u0628 \u201Cpexab\u201D"
+    - "\u067E\u06CC\u0634\u06CC\u0627\u0631 \u201Cpixyar\u201D"
+    - "\u062C\u06CC\u0634 \u201Cjix\u201D"
+  Turkisa:
+  - - "\xE7i\u015F \u201Ccix\u201D"
+    - "i\u015Feme \u201Cixme\u201D"
+  Niponsa:
+  - - "\u304A\u3057\u3063\u3053 \u201Co-xiko\u201D"
+raw data:
+  term: pixi
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: urine, piss, pee, wee; urinate
+    epo: urino, piso; uniri, pisi
+    spa: "orina, meado, pis, pip\xED; orinar, mear, hacer pis, hacer pip\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (piss, pee), Espanisa (pis), Fransesa (pis), Rusisa (\u043F\u0438\u0441\u0430\u0442\u044C
+    \u201Cpisat\u201D), Doycisa (Pisse), Indonesisa (pipis), Hindisa (\u092A\u0947\u0936\u093E\u092C
+    \u201Cpexab\u201D), Parsisa (\u067E\u06CC\u0634\u0627\u0628 \u201Cpexab\u201D,
+    \u067E\u06CC\u0634\u06CC\u0627\u0631 \u201Cpixyar\u201D, \u062C\u06CC\u0634 \u201Cjix\u201D),
+    Turkisa (\xE7i\u015F \u201Ccix\u201D, i\u015Feme \u201Cixme\u201D), Niponsa (\u304A\u3057\u3063\u3053
+    \u201Co-xiko\u201D)"
+...

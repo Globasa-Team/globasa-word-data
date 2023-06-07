@@ -1,0 +1,68 @@
+---
+term: populer
+slug: populer
+ipa: "popu\u02C8le\u027E"
+ipa link: "http://ipa-reader.xyz/?text=popu\u02C8le\u027E&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - popular
+    - popularly
+  epo:
+  - - populara
+  - - populare
+  spa:
+  - - popular
+search terms:
+  glb:
+  - populer
+  eng:
+  - popular
+  - popularly
+  epo:
+  - populara
+  - populare
+  spa:
+  - popular
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - popular
+  Fransesa:
+  - - populaire
+  Doycisa:
+  - - "popul\xE4r"
+  Rusisa:
+  - - "\u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439 \u201Cpopulyarniy\u201D"
+  Espanisa:
+  - - popular
+  Indonesisa:
+  - - populer
+  Pilipinasa:
+  - - popular
+  Turkisa:
+  - - "pop\xFCler"
+raw data:
+  term: populer
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: popular, popularly
+    epo: populara; populare
+    spa: popular
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (popular), Fransesa (populaire), Doycisa (popul\xE4r), Rusisa
+    (\u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439 \u201Cpopulyarniy\u201D),
+    Espanisa (popular), Indonesisa (populer), Pilipinasa (popular), Turkisa (pop\xFCler)"
+...

@@ -1,0 +1,70 @@
+---
+term: radya
+slug: radya
+ipa: "\u02C8\u027Eadja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eadja&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - ray
+  - - radiate
+  epo:
+  - - radio (_fiziko_)
+  - - radii
+  spa:
+  - - rayo
+  - - radiar
+search terms:
+  glb:
+  - radya
+  eng:
+  - ray
+  - radiate
+  epo:
+  - radio
+  - radii
+  spa:
+  - rayo
+  - radiar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - radiation
+  Fransesa:
+  - - radiation
+  Espanisa:
+  - - "radiaci\xF3n"
+  Rusisa:
+  - - "\u0440\u0430\u0434\u0438\u0430\u0446\u0438\u044F \"radiatsiya\""
+  Pilipinasa:
+  - - radiyasyon
+  Indonesisa:
+  - - radiasi
+  Turkisa:
+  - - radyasyon
+  Vyetnamsa:
+  - - tia
+raw data:
+  term: radya
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: ray; radiate
+    epo: radio (_fiziko_); radii
+    spa: rayo; radiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (radiation), Fransesa (radiation), Espanisa (radiaci\xF3n),
+    Rusisa (\u0440\u0430\u0434\u0438\u0430\u0446\u0438\u044F \"radiatsiya\"), Pilipinasa
+    (radiyasyon), Indonesisa (radiasi), Turkisa (radyasyon), Vyetnamsa (tia)"
+...

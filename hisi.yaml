@@ -1,0 +1,55 @@
+---
+term: hisi
+slug: hisi
+ipa: "\u02C8xisi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xisi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - (_physical_) feeling
+    - sensation
+  - - feel
+  epo:
+  - - (_korpa_) sento
+  - - senti
+  spa:
+  - - "sensaci\xF3n"
+  - - sentir
+search terms:
+  glb:
+  - hisi
+  eng:
+  - feeling
+  - sensation
+  - feel
+  epo:
+  - sento
+  - senti
+  spa:
+  - "sensaci\xF3n"
+  - sentir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hisi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: (_physical_) feeling, sensation; feel
+    epo: (_korpa_) sento; senti
+    spa: "sensaci\xF3n; sentir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u0633 \u201Chis\u201D), Turkisa (his), Parsisa (\u062D\u0633
+    \u201Chis\u201D), Swahilisa (hisia)"
+...

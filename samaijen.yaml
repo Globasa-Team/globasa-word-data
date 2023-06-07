@@ -1,0 +1,52 @@
+---
+term: samaijen
+slug: samaijen
+ipa: "samai\u02C8d\u0361\u0292en"
+ipa link: "http://ipa-reader.xyz/?text=samai\u02C8d\u0361\u0292en&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - agreement (_same opinion_)
+  - - agree
+  epo:
+  - - samopinio
+  - - samopinii
+  spa:
+  - - concordancia
+  - - concordar
+search terms:
+  glb:
+  - samaijen
+  eng:
+  - agreement
+  - agree
+  epo:
+  - samopinio
+  - samopinii
+  spa:
+  - concordancia
+  - concordar
+etymology_type: DERIVD
+etymology: <a href="../lexi/sama">sama</a> + <a href="../lexi/ijen ">ijen </a>
+raw data:
+  term: samaijen
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: agreement (_same opinion_); agree
+    epo: samopinio; samopinii
+    spa: concordancia; concordar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'sama + ijen '
+...

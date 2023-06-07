@@ -1,0 +1,70 @@
+---
+term: brayle
+slug: brayle
+ipa: ˈbɾajle
+ipa link: http://ipa-reader.xyz/?text=ˈbɾajle&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - braille
+  epo:
+  - - Brajlo
+  spa:
+  - - braille
+search terms:
+  glb:
+  - brayle
+  eng:
+  - braille
+  epo:
+  - brajlo
+  spa:
+  - braille
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - Braille
+  Englisa: ~
+  Espanisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Vyetnamsa: ~
+  Swahilisa: ~
+  Rusisa:
+  - - брайль “brayl”
+  Hindisa:
+  - - ब्रेल “brel”
+  Arabisa:
+  - - بريل “bril”
+  Niponsa:
+  - - ブライユ点字 “Buraiyu tenji”
+  Telugusa:
+  - - బ్రెయిలీ “breyili”
+  Parsisa:
+  - - بریل
+raw data:
+  term: brayle
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: braille
+    epo: Brajlo
+    spa: braille
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Fransesa (Braille), Englisa, Espanisa, Indonesisa, Pilipinasa, Turkisa,
+    Vyetnamsa, Swahilisa, Rusisa (брайль “brayl”), Hindisa (ब्रेल “brel”), Arabisa
+    (بريل “bril”), Niponsa (ブライユ点字 “Buraiyu tenji”), Telugusa (బ్రెయిలీ “breyili”),
+    Parsisa (بریل)
+...

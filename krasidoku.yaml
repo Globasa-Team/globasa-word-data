@@ -1,0 +1,46 @@
+---
+term: krasidoku
+slug: krasidoku
+ipa: "k\u027Easi\u02C8doku"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Easi\u02C8doku&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - constitution
+  epo:
+  - - konstitucio
+  spa:
+  - - "constituci\xF3n"
+search terms:
+  glb:
+  - krasidoku
+  eng:
+  - constitution
+  epo:
+  - konstitucio
+  spa:
+  - "constituci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/krasi">krasi</a> + <a href="../lexi/-doku">-doku</a>
+raw data:
+  term: krasidoku
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: constitution
+    epo: konstitucio
+    spa: "constituci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: krasi + -doku
+...

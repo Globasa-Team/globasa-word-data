@@ -1,0 +1,46 @@
+---
+term: mogunyen
+slug: mogunyen
+ipa: "mogu\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=mogu\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - carpenter
+  epo:
+  - - "\u0109arpentisto"
+  spa:
+  - - carpintero
+search terms:
+  glb:
+  - mogunyen
+  eng:
+  - carpenter
+  epo:
+  - "\u0109arpentisto"
+  spa:
+  - carpintero
+etymology_type: DERIVD
+etymology: <a href="../lexi/mogun">mogun</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: mogunyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: carpenter
+    epo: "\u0109arpentisto"
+    spa: carpintero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mogun + -yen
+...

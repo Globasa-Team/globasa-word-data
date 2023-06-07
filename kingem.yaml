@@ -1,0 +1,52 @@
+---
+term: kingem
+slug: kingem
+ipa: "kin\u02C8gem"
+ipa link: "http://ipa-reader.xyz/?text=kin\u02C8gem&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - experience
+  epo:
+  - - sperto
+  - - sperti
+  spa:
+  - - experiencia
+  - - experimentar
+search terms:
+  glb:
+  - kingem
+  eng:
+  - experience
+  epo:
+  - sperto
+  - sperti
+  spa:
+  - experiencia
+  - experimentar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kingem
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: experience
+    epo: sperto; sperti
+    spa: experiencia; experimentar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7ECF\u9A8C \u201Cj\u012Bngy\xE0n\u201D), Vyetnamsa (kinh
+    nghi\u1EC7m), Niponsa (\u7D4C\u9A13 \u201CKeiken\u201D), Hangusa (\uACBD\uD5D8
+    \u201Cgyeongheom\u201D)"
+...

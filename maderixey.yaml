@@ -1,0 +1,52 @@
+---
+term: maderixey
+slug: maderixey
+ipa: "made\u027Ei\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=made\u027Ei\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - substance
+    - stuff
+  epo:
+  - - substanco
+    - "a\u0135o"
+    - "materia\u0135o"
+  spa:
+  - - sustancia
+search terms:
+  glb:
+  - maderixey
+  eng:
+  - substance
+  - stuff
+  epo:
+  - substanco
+  - "a\u0135o"
+  - "materia\u0135o"
+  spa:
+  - sustancia
+etymology_type: DERIVD
+etymology: <a href="../lexi/maderi">maderi</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: maderixey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: substance, stuff
+    epo: "substanco, a\u0135o, materia\u0135o"
+    spa: sustancia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: maderi + -xey
+...

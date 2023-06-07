@@ -1,0 +1,51 @@
+---
+term: maxina
+slug: maxina
+ipa: "ma\u02C8\u0283ina"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8\u0283ina&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - machine
+  epo:
+  - - "ma\u015Dino"
+  spa:
+  - - "m\xE1quina"
+search terms:
+  glb:
+  - maxina
+  eng:
+  - machine
+  epo:
+  - "ma\u015Dino"
+  spa:
+  - "m\xE1quina"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: maxina
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: machine
+    epo: "ma\u015Dino"
+    spa: "m\xE1quina"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (machine), Fransesa (machine), Doycisa (Maschine), Rusisa (\u043C\u0430\u0448\u0438\u043D\u0430
+    \u201Cmaxina\u201D), Espanisa (m\xE1quina), Indonesisa (mesin), Pilipinasa (makina),
+    Arabisa (\u0645\u064E\u0627\u0643\u0650\u064A\u0646\u064E\u0629 \u201Cmakina\u201D),
+    Hindisa (\u092E\u0936\u0940\u0928 \u201Cmaxin\u201D), Niponsa (\u30DE\u30B7\u30F3
+    \u201Cmaxin\u201D), Hangusa (\uBA38\uC2E0 \u201Cmoxin\u201D), Turkisa (makine),
+    Parsisa (\u0645\u0627\u0634\u06CC\u0646 \u201Cmaxin\u201D), Swahilisa (mashine)"
+...

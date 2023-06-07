@@ -1,0 +1,78 @@
+---
+term: estatisti
+slug: estatisti
+ipa: estaˈtisti
+ipa link: http://ipa-reader.xyz/?text=estaˈtisti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - statistics
+  epo:
+  - - statistiko
+  spa:
+  - - estadística
+  deu:
+  - - Statistik
+  fra:
+  - - statistique
+  rus:
+  - - статистика
+search terms:
+  glb:
+  - estatisti
+  eng:
+  - statistics
+  epo:
+  - statistiko
+  spa:
+  - estadística
+  deu:
+  - statistik
+  fra:
+  - statistique
+  rus:
+  - статистика
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Statistik
+  Englisa:
+  - - statistics
+  Espanisa:
+  - - estadística
+  Fransesa:
+  - - statistique
+  Rusisa:
+  - - статистика “statistika”
+  Turkisa:
+  - - istatistik
+  Indonesisa:
+  - - statistik
+  Pilipinasa:
+  - - istatistika
+  Niponsa:
+  - - スタティスティックス “statistikusu”
+raw data:
+  term: estatisti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: statistics
+    epo: statistiko
+    spa: estadística
+    deu: Statistik
+    fra: statistique
+    rus: статистика
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'Doycisa (Statistik), Englisa (statistics), Espanisa (estadística), Fransesa
+    (statistique), Rusisa (статистика “statistika”), Turkisa (istatistik), Indonesisa
+    (statistik), Pilipinasa (istatistika), Niponsa (スタティスティックス “statistikusu”) '
+...

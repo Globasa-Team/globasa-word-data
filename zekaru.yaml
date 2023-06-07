@@ -1,0 +1,61 @@
+---
+term: zekaru
+slug: zekaru
+ipa: "ze\u02C8ka\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=ze\u02C8ka\u027Eu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - mention
+  epo:
+  - - mencio
+  - - mencii
+  spa:
+  - - "menci\xF3n"
+  - - mencionar
+search terms:
+  glb:
+  - zekaru
+  eng:
+  - mention
+  epo:
+  - mencio
+  - mencii
+  spa:
+  - "menci\xF3n"
+  - mencionar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0630\u064E\u0643\u064E\u0631\u064E \u201Cdakara\u201D"
+  Parsisa:
+  - - "\u0630\u06A9\u0631 \u201Czekr\u201D"
+  Turkisa:
+  - - zikir
+  Hindisa:
+  - - "\u091C\u093C\u093F\u0915\u094D\u0930 \u201Czikr\u201D"
+  https://en.wiktionary.org/wiki/%D8%B0%D9%83%D8%B1: ~
+raw data:
+  term: zekaru
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: mention
+    epo: mencio; mencii
+    spa: "menci\xF3n; mencionar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0630\u064E\u0643\u064E\u0631\u064E \u201Cdakara\u201D), Parsisa
+    (\u0630\u06A9\u0631 \u201Czekr\u201D), Turkisa (zikir), Hindisa (\u091C\u093C\u093F\u0915\u094D\u0930
+    \u201Czikr\u201D) https://en.wiktionary.org/wiki/%D8%B0%D9%83%D8%B1"
+...

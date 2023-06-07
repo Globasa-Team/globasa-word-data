@@ -1,0 +1,48 @@
+---
+term: niloto
+slug: niloto
+ipa: "ni\u02C8loto"
+ipa link: "http://ipa-reader.xyz/?text=ni\u02C8loto&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - no things
+    - none of them
+  epo:
+  - - nenioj
+  spa:
+  - - ninguna de esas cosas
+search terms:
+  glb:
+  - niloto
+  eng:
+  - no things
+  - none of them
+  epo:
+  - nenioj
+  spa:
+  - ninguna de esas cosas
+etymology_type: DERIVD
+etymology: <a href="../lexi/nil">nil</a> + <a href="../lexi/oto">oto</a>
+raw data:
+  term: niloto
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: no things, none of them
+    epo: nenioj
+    spa: ninguna de esas cosas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nil + oto
+...

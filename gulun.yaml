@@ -1,0 +1,54 @@
+---
+term: gulun
+slug: gulun
+ipa: guˈlun
+ipa link: http://ipa-reader.xyz/?text=guˈlun&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - roll (_get rolled or cause to roll_)
+  epo:
+  - - rulo
+  - - ruliĝi
+    - ruli
+  spa:
+  - - rodar
+search terms:
+  glb:
+  - gulun
+  eng:
+  - roll
+  epo:
+  - rulo
+  - ruliĝi
+  - ruli
+  spa:
+  - rodar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 滚 “gǔn”
+  Indonesisa:
+  - - gulung
+raw data:
+  term: gulun
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: roll (_get rolled or cause to roll_)
+    epo: rulo; ruliĝi, ruli
+    spa: rodar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (滚 “gǔn”), Indonesisa (gulung)
+...

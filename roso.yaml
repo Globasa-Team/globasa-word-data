@@ -1,0 +1,56 @@
+---
+term: roso
+slug: roso
+ipa: "\u02C8\u027Eoso"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eoso&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - red
+  epo:
+  - - "ru\u011Da"
+    - "ru\u011De"
+  spa:
+  - - rojo
+search terms:
+  glb:
+  - roso
+  eng:
+  - red
+  epo:
+  - "ru\u011Da"
+  - "ru\u011De"
+  spa:
+  - rojo
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - rot
+  Espanisa:
+  - - rojo
+  Italisa:
+  - - rosso
+tags:
+- kolor
+raw data:
+  term: roso
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: red
+    epo: "ru\u011Da, ru\u011De"
+    spa: rojo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: Doycisa (rot), Espanisa (rojo), Italisa (rosso)
+...

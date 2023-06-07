@@ -1,0 +1,51 @@
+---
+term: kafedom
+slug: kafedom
+ipa: "kafe\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=kafe\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - "caf\xE9"
+    - coffeehouse
+    - coffee shop
+  epo:
+  - - kafejo
+  spa:
+  - - "caf\xE9 (establecimiento)"
+search terms:
+  glb:
+  - kafedom
+  eng:
+  - "caf\xE9"
+  - coffeehouse
+  - coffee shop
+  epo:
+  - kafejo
+  spa:
+  - "caf\xE9 establecimiento"
+  - "caf\xE9"
+etymology_type: DERIVD
+etymology: <a href="../lexi/kafe">kafe</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: kafedom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: "caf\xE9, coffeehouse, coffee shop"
+    epo: kafejo
+    spa: "caf\xE9 (establecimiento)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kafe + -dom
+...

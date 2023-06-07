@@ -1,0 +1,47 @@
+---
+term: konkanyen
+slug: konkanyen
+ipa: "konka\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=konka\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Konkani (person)
+  epo:
+  - - konkano
+  spa:
+  - - konkani (_persona_)
+search terms:
+  glb:
+  - konkanyen
+  eng:
+  - konkani person
+  - konkani
+  epo:
+  - konkano
+  spa:
+  - konkani
+etymology_type: DERIVD
+etymology: <a href="../lexi/Konkan">Konkan</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Konkanyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Konkani (person)
+    epo: konkano
+    spa: konkani (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Konkan + -yen
+...

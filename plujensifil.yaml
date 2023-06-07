@@ -1,0 +1,49 @@
+---
+term: plujensifil
+slug: plujensifil
+ipa: "plud\u0361\u0292ensi\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=plud\u0361\u0292ensi\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - polysexual
+  epo:
+  - - plurseksema
+  - - plursekseme
+  spa:
+  - - polisexual
+search terms:
+  glb:
+  - plujensifil
+  eng:
+  - polysexual
+  epo:
+  - plurseksema
+  - plursekseme
+  spa:
+  - polisexual
+etymology_type: DERIVD
+etymology: <a href="../lexi/plu-">plu-</a> + <a href="../lexi/jensi">jensi</a> + <a
+  href="../lexi/-fil">-fil</a>
+raw data:
+  term: plujensifil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: polysexual
+    epo: plurseksema; plursekseme
+    spa: polisexual
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: plu- + jensi + -fil
+...

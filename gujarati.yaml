@@ -1,0 +1,52 @@
+---
+term: gujarati
+slug: gujarati
+ipa: "gud\u0361\u0292a\u02C8\u027Eati"
+ipa link: "http://ipa-reader.xyz/?text=gud\u0361\u0292a\u02C8\u027Eati&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Gujarat (_state in India_)
+  epo:
+  - - "Gu\u011Daratio"
+    - "Gu\u011Daratujo"
+  spa:
+  - - Guyarat (_estado de India_)
+search terms:
+  glb:
+  - gujarati
+  eng:
+  - gujarat
+  epo:
+  - "gu\u011Daratio"
+  - "gu\u011Daratujo"
+  spa:
+  - guyarat
+etymology_type: NATLNG
+etymology:
+  Gujaratisa:
+  - - "\u0A97\u0AC1\u0A9C\u0AB0\u0ABE\u0AA4 \u201Cgujrat\u201D"
+    - "\u0A97\u0AC1\u0A9C\u0AB0\u0ABE\u0AA4\u0AC0 \u201Cgujrati\u201D"
+raw data:
+  term: Gujarati
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Gujarat (_state in India_)
+    epo: "Gu\u011Daratio, Gu\u011Daratujo"
+    spa: Guyarat (_estado de India_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Gujaratisa (\u0A97\u0AC1\u0A9C\u0AB0\u0ABE\u0AA4 \u201Cgujrat\u201D,
+    \u0A97\u0AC1\u0A9C\u0AB0\u0ABE\u0AA4\u0AC0 \u201Cgujrati\u201D)"
+...

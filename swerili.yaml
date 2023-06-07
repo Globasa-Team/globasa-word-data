@@ -1,0 +1,46 @@
+---
+term: swerili
+slug: swerili
+ipa: "swe\u02C8\u027Eili"
+ipa link: "http://ipa-reader.xyz/?text=swe\u02C8\u027Eili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Swedish
+  epo:
+  - - sveda
+  spa:
+  - - sueco
+search terms:
+  glb:
+  - swerili
+  eng:
+  - swedish
+  epo:
+  - sveda
+  spa:
+  - sueco
+etymology_type: DERIVD
+etymology: <a href="../lexi/Sweri">Sweri</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Swerili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Swedish
+    epo: sveda
+    spa: sueco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Sweri + -li
+...

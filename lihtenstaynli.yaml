@@ -1,0 +1,46 @@
+---
+term: lihtenstaynli
+slug: lihtenstaynli
+ipa: "lixtens\u02C8tajnli"
+ipa link: "http://ipa-reader.xyz/?text=lixtens\u02C8tajnli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Liechtensteinian
+  epo:
+  - - "li\u0125ten\u015Dtejna"
+  spa:
+  - - liechtensteiniano
+search terms:
+  glb:
+  - lihtenstaynli
+  eng:
+  - liechtensteinian
+  epo:
+  - "li\u0125ten\u015Dtejna"
+  spa:
+  - liechtensteiniano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Lihtenstayn">Lihtenstayn</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Lihtenstaynli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Liechtensteinian
+    epo: "li\u0125ten\u015Dtejna"
+    spa: liechtensteiniano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Lihtenstayn + -li
+...

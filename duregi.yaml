@@ -1,0 +1,53 @@
+---
+term: duregi
+slug: duregi
+ipa: "du\u02C8\u027Eegi"
+ipa link: "http://ipa-reader.xyz/?text=du\u02C8\u027Eegi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - continue
+    - keep (on)
+    - maintain
+  epo:
+  - - "da\u016Drigo"
+  - - "da\u016Drigi"
+  spa:
+  - - continuar
+search terms:
+  glb:
+  - duregi
+  eng:
+  - continue
+  - keep on
+  - keep
+  - maintain
+  epo:
+  - "da\u016Drigo"
+  - "da\u016Drigi"
+  spa:
+  - continuar
+etymology_type: DERIVD
+etymology: <a href="../lexi/dure">dure</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: duregi
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: continue, keep (on), maintain
+    epo: "da\u016Drigo; da\u016Drigi"
+    spa: continuar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dure + -gi
+...

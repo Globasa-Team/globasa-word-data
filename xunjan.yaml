@@ -1,0 +1,59 @@
+---
+term: xunjan
+slug: xunjan
+ipa: "\u0283un\u02C8d\u0361\u0292an"
+ipa link: "http://ipa-reader.xyz/?text=\u0283un\u02C8d\u0361\u0292an&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - growth
+  - - grow
+  epo:
+  - - kresko
+  - - kreski
+    - kreskigi
+  spa:
+  - - crecimiento
+  - - crecer
+search terms:
+  glb:
+  - xunjan
+  eng:
+  - growth
+  - grow
+  epo:
+  - kresko
+  - kreski
+  - kreskigi
+  spa:
+  - crecimiento
+  - crecer
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u751F\u957F \u201Csh\u0113ngzh\u01CEng\u201D"
+  Hangusa:
+  - - "\uC131\uC7A5 \u201Cseongjang\u201D"
+raw data:
+  term: xunjan
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: growth; grow
+    epo: kresko; kreski, kreskigi
+    spa: crecimiento; crecer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u751F\u957F \u201Csh\u0113ngzh\u01CEng\u201D), Hangusa (\uC131\uC7A5
+    \u201Cseongjang\u201D)"
+...

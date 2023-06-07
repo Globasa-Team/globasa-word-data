@@ -1,0 +1,50 @@
+---
+term: mansenyor
+slug: mansenyor
+ipa: "manse\u02C8njo\u027E"
+ipa link: "http://ipa-reader.xyz/?text=manse\u02C8njo\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - gentleman
+    - sir
+    - Mr.
+  epo:
+  - - sinjoro
+  spa:
+  - - "se\xF1or"
+search terms:
+  glb:
+  - mansenyor
+  eng:
+  - gentleman
+  - sir
+  - mr.
+  epo:
+  - sinjoro
+  spa:
+  - "se\xF1or"
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/senyor">senyor</a>
+raw data:
+  term: mansenyor
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: gentleman, sir, Mr.
+    epo: sinjoro
+    spa: "se\xF1or"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + senyor
+...

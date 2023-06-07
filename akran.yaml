@@ -1,0 +1,65 @@
+---
+term: akran
+slug: akran
+ipa: aˈkɾan
+ipa link: http://ipa-reader.xyz/?text=aˈkɾan&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - scorpion
+    - _Scorpiones_
+  epo:
+  - - skorpio
+  spa:
+  - - escorpión
+    - _Scorpiones_
+search terms:
+  glb:
+  - akran
+  eng:
+  - scorpion
+  - scorpiones
+  epo:
+  - skorpio
+  spa:
+  - escorpión
+  - scorpiones
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - alacrán
+  Pilipinasa:
+  - - alakdan
+  Hindisa अकरब:
+  - - akrab
+  Arabisa:
+  - - عَقْرَب “akrab”
+  Turkisa:
+  - - akrep
+  Parsisa:
+  - - عقرب “akrab”
+tags:
+- hewan
+raw data:
+  term: akran
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: scorpion, _Scorpiones_
+    epo: skorpio
+    spa: escorpión, _Scorpiones_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Espanisa (alacrán), Pilipinasa (alakdan), Hindisa अकरब (akrab), Arabisa
+    (عَقْرَب “akrab”), Turkisa (akrep), Parsisa (عقرب “akrab”)
+...

@@ -1,0 +1,58 @@
+---
+term: fe oposya de
+slug: fe oposya de
+ipa: "fe o\u02C8posja de"
+ipa link: "http://ipa-reader.xyz/?text=fe o\u02C8posja de&voice=Ewa"
+status: false
+category: phrase
+word class: p
+trans:
+  eng:
+  - - opposite
+    - contrary to
+    - against (_positioned_)
+  epo:
+  - - male al
+    - "kontra\u016D"
+  spa:
+  - - frente a
+    - en contra de (_posicionado_)
+search terms:
+  glb:
+  - fe oposya de
+  - fe
+  - oposya
+  - de
+  eng:
+  - opposite
+  - contrary to
+  - against
+  epo:
+  - male al
+  - "kontra\u016D"
+  spa:
+  - frente a
+  - en contra de
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/opos">opos</a> + <a href="../lexi/-ya">-ya</a>,
+  <a href="../lexi/de">de</a>
+raw data:
+  term: fe oposya de
+  category: phrase
+  word class: p
+  status: false
+  trans:
+    eng: opposite, contrary to, against (_positioned_)
+    epo: "male al, kontra\u016D"
+    spa: frente a, en contra de (_posicionado_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, opos + -ya, de
+...

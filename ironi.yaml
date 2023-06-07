@@ -1,0 +1,48 @@
+---
+term: ironi
+slug: ironi
+ipa: "i\u02C8\u027Eoni"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8\u027Eoni&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - irony
+  epo:
+  - - ironio
+  spa:
+  - - "iron\xEDa"
+search terms:
+  glb:
+  - ironi
+  eng:
+  - irony
+  epo:
+  - ironio
+  spa:
+  - "iron\xEDa"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ironi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: irony
+    epo: ironio
+    spa: "iron\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (irony), Espanisa (iron\xEDa), Fransesa (ironie), Doycisa (Ironie),
+    Rusisa (\u0438\u0440\u043E\u043D\u0438\u044F \u201Cironiya\u201D), Indonesisa
+    (ironi), Turkisa (ironi), Niponsa (\u30A2\u30A4\u30ED\u30CB\u30FC \u201Caironi\u201D)"
+...

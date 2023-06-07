@@ -1,0 +1,52 @@
+---
+term: cadi
+slug: cadi
+ipa: "\u02C8t\u0361\u0283adi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u0361\u0283adi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Chad
+  epo:
+  - - "\u0108adio"
+    - "\u0108ado"
+  spa:
+  - - Chad
+search terms:
+  glb:
+  - cadi
+  eng:
+  - chad
+  epo:
+  - "\u0108adio"
+  - "\u0108ado"
+  spa:
+  - chad
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u0634\u0627\u062F\u200E \u201Cch\u0101d\u201D"
+tags:
+- dexa
+raw data:
+  term: Cadi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Chad
+    epo: "\u0108adio, \u0108ado"
+    spa: Chad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u062A\u0634\u0627\u062F\u200E \u201Cch\u0101d\u201D)"
+...

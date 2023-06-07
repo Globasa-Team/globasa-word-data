@@ -1,0 +1,89 @@
+---
+term: fini
+slug: fini
+ipa: ˈfini
+ipa link: http://ipa-reader.xyz/?text=ˈfini&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - end
+    - conclusion
+  - - finish
+    - end
+    - finalize
+    - (be) done (with)
+    - conclude
+  epo:
+  - - fino
+  - - finiĝi
+    - fini
+  spa:
+  - - fin
+    - conclusión
+  - - terminar
+    - acabar
+    - concluír
+    - finalizar
+search terms:
+  glb:
+  - fini
+  eng:
+    0: end
+    1: conclusion
+    2: finish
+    4: finalize
+    5: be done with
+    6: done
+    7: conclude
+  epo:
+  - fino
+  - finiĝi
+  - fini
+  spa:
+  - fin
+  - conclusión
+  - terminar
+  - acabar
+  - concluír
+  - finalizar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - finish
+  Fransesa:
+  - - fin
+    - finir
+  Doycisa:
+  - - Finale
+  Espanisa:
+  - - fin
+  Rusisa:
+  - - финиш “finix”
+  Turkisa:
+  - - finiş
+    - final
+  Niponsa:
+  - - フィナーレ “finale”
+raw data:
+  term: fini
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: end, conclusion; finish, end, finalize, (be) done (with), conclude
+    epo: fino; finiĝi, fini
+    spa: fin, conclusión; terminar, acabar, concluír, finalizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (finish), Fransesa (fin, finir), Doycisa (Finale), Espanisa (fin),
+    Rusisa (финиш “finix”), Turkisa (finiş, final), Niponsa (フィナーレ “finale”)
+...

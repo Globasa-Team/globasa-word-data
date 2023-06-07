@@ -1,0 +1,48 @@
+---
+term: fronpel
+slug: fronpel
+ipa: "f\u027Eon\u02C8pel"
+ipa link: "http://ipa-reader.xyz/?text=f\u027Eon\u02C8pel&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - push forward
+  epo:
+  - - "anta\u016Denpu\u015Do"
+  - - "anta\u016Denpu\u015Di"
+  spa:
+  - - empujar
+search terms:
+  glb:
+  - fronpel
+  eng:
+  - push forward
+  epo:
+  - "anta\u016Denpu\u015Do"
+  - "anta\u016Denpu\u015Di"
+  spa:
+  - empujar
+etymology_type: DERIVD
+etymology: <a href="../lexi/fron-">fron-</a> + <a href="../lexi/pel">pel</a>
+raw data:
+  term: fronpel
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: push forward
+    epo: "anta\u016Denpu\u015Do; anta\u016Denpu\u015Di"
+    spa: empujar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fron- + pel
+...

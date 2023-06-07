@@ -1,0 +1,80 @@
+---
+term: pijin
+slug: pijin
+ipa: "pi\u02C8d\u0361\u0292in"
+ipa link: "http://ipa-reader.xyz/?text=pi\u02C8d\u0361\u0292in&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pidgin
+  epo:
+  - - "pi\u011Dino"
+  spa:
+  - - _pidgin_
+search terms:
+  glb:
+  - pijin
+  eng:
+  - pidgin
+  epo:
+  - "pi\u011Dino"
+  spa:
+  - pidgin
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pidgin
+  Espanisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Vyetnamsa: ~
+  Rusisa:
+  - - "\u043F\u0438\u0434\u0436\u0438\u043D \u201Cpijin\u201D"
+  Indonesisa:
+  - - pijin
+  Putunhwa:
+  - - "\u76AE\u94A6\u8BED \u201Cpijinyu\u201D"
+  Hindisa:
+  - - "\u092A\u093F\u091C\u093F\u0928 \u201Cpijina\u201D"
+  Niponsa:
+  - - "\u30D4\u30B8\u30F3\u8A00\u8A9E \u201Cpijin gengo\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C3F\u0C21\u0C4D\u0C1C\u0C3F\u0C28\u0C4D \u201Cpidjin\u201D"
+  Hangusa:
+  - - "\uD53C\uC9C4 \u201Cpijin\u201D"
+  Parsisa:
+  - - "\u067E\u06CC\u062C\u06CC\u0646"
+  Swahilisa:
+  - - pijini
+tags:
+- hewan
+raw data:
+  term: pijin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pidgin
+    epo: "pi\u011Dino"
+    spa: _pidgin_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (pidgin), Espanisa, Fransesa, Doycisa, Pilipinasa, Turkisa,
+    Vyetnamsa, Rusisa (\u043F\u0438\u0434\u0436\u0438\u043D \u201Cpijin\u201D), Indonesisa
+    (pijin), Putunhwa (\u76AE\u94A6\u8BED \u201Cpijinyu\u201D), Hindisa (\u092A\u093F\u091C\u093F\u0928
+    \u201Cpijina\u201D), Niponsa (\u30D4\u30B8\u30F3\u8A00\u8A9E \u201Cpijin gengo\u201D),
+    Telugusa (\u0C2A\u0C3F\u0C21\u0C4D\u0C1C\u0C3F\u0C28\u0C4D \u201Cpidjin\u201D),
+    Hangusa (\uD53C\uC9C4 \u201Cpijin\u201D), Parsisa (\u067E\u06CC\u062C\u06CC\u0646),
+    Swahilisa (pijini)"
+...

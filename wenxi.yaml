@@ -1,0 +1,69 @@
+---
+term: wenxi
+slug: wenxi
+ipa: "\u02C8wen\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wen\u0283i&voice=Ewa"
+status: false
+category: root
+word class: t
+trans:
+  eng:
+  - - primal
+    - primitive
+    - primordial
+    - proto-
+  epo:
+  - - pra-
+    - praa
+  - - prae
+  spa:
+  - - primitivo
+    - primordial
+    - proto-
+search terms:
+  glb:
+  - wenxi
+  eng:
+  - primal
+  - primitive
+  - primordial
+  - proto-
+  epo:
+  - pra-
+  - praa
+  - prae
+  spa:
+  - primitivo
+  - primordial
+  - proto-
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u539F\u59CB \"ywenxi\""
+  Niponsa:
+  - - "\u539F\u59CB \"genxi\""
+  Vyetnamsa:
+  - - "nguy\xEAn thu\u1EF7"
+  Hangusa:
+  - - "\uC6D0\uC2DC \"wonxi\""
+raw data:
+  term: wenxi
+  category: root
+  word class: t
+  status: false
+  trans:
+    eng: primal, primitive, primordial, proto-
+    epo: pra-, praa; prae
+    spa: primitivo, primordial, proto-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u539F\u59CB \"ywenxi\"), Niponsa (\u539F\u59CB \"genxi\"),
+    Vyetnamsa (nguy\xEAn thu\u1EF7), Hangusa (\uC6D0\uC2DC \"wonxi\")"
+...

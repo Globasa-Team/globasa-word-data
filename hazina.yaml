@@ -1,0 +1,48 @@
+---
+term: hazina
+slug: hazina
+ipa: "xa\u02C8zina"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8zina&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - treasure
+  epo:
+  - - trezoro
+  spa:
+  - - tesoro
+search terms:
+  glb:
+  - hazina
+  eng:
+  - treasure
+  epo:
+  - trezoro
+  spa:
+  - tesoro
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hazina
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: treasure
+    epo: trezoro
+    spa: tesoro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062E\u064E\u0632\u0650\u064A\u0646\u064E\u0629 \u201Ckhazina\u201D),
+    Hindisa (\u0916\u093C\u091C\u093C\u093E\u0928\u093E \u201Ckhazana\u201D), Indonesisa
+    (khazanah), Turkisa (hazine), Swahilisa (hazina)"
+...

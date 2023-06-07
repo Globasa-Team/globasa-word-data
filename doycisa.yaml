@@ -1,0 +1,50 @@
+---
+term: doycisa
+slug: doycisa
+ipa: "doj\u02C8t\u0361\u0283isa"
+ipa link: "http://ipa-reader.xyz/?text=doj\u02C8t\u0361\u0283isa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Geman (language)
+  epo:
+  - - la germana (lingvo)
+  spa:
+  - - "alem\xE1n (_idioma_)"
+search terms:
+  glb:
+  - doycisa
+  eng:
+  - geman language
+  - geman
+  epo:
+  - la germana lingvo
+  - la germana
+  spa:
+  - "alem\xE1n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Doyci">Doyci</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Doycisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Geman (language)
+    epo: la germana (lingvo)
+    spa: "alem\xE1n (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Doyci + -sa
+...

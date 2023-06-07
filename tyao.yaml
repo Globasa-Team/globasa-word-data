@@ -1,0 +1,54 @@
+---
+term: tyao
+slug: tyao
+ipa: "\u02C8tjao"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tjao&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - jump
+    - leap
+  epo:
+  - - salto
+  - - salti
+  spa:
+  - - salto
+  - - saltar
+search terms:
+  glb:
+  - tyao
+  eng:
+  - jump
+  - leap
+  epo:
+  - salto
+  - salti
+  spa:
+  - salto
+  - saltar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u8DF3 \u201Cti\xE0o\u201D"
+raw data:
+  term: tyao
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: jump, leap
+    epo: salto; salti
+    spa: salto; saltar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u8DF3 \u201Cti\xE0o\u201D)"
+...

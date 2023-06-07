@@ -1,0 +1,47 @@
+---
+term: pakiyen
+slug: pakiyen
+ipa: "paki\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=paki\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Pakistani (person)
+  epo:
+  - - pakistanano
+  spa:
+  - - "pakistan\xED (_persona_)"
+search terms:
+  glb:
+  - pakiyen
+  eng:
+  - pakistani person
+  - pakistani
+  epo:
+  - pakistanano
+  spa:
+  - "pakistan\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Paki">Paki</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Pakiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Pakistani (person)
+    epo: pakistanano
+    spa: "pakistan\xED (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Paki + -yen
+...

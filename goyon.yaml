@@ -1,0 +1,62 @@
+---
+term: goyon
+slug: goyon
+ipa: goˈjon
+ipa link: http://ipa-reader.xyz/?text=goˈjon&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - employment
+    - hiring
+  - - employ
+    - hire
+  epo:
+  - - dungo
+  - - dungi
+  spa:
+  - - empleo
+  - - emplear
+    - contratar
+search terms:
+  glb:
+  - goyon
+  eng:
+  - employment
+  - hiring
+  - employ
+  - hire
+  epo:
+  - dungo
+  - dungi
+  spa:
+  - empleo
+  - emplear
+  - contratar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 雇用 “gùyòng”
+  Hangusa:
+  - - 고용 “goyong”
+raw data:
+  term: goyon
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: employment, hiring; employ, hire
+    epo: dungo; dungi
+    spa: empleo; emplear, contratar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa  (雇用 “gùyòng”), Hangusa (고용 “goyong”)
+...

@@ -1,0 +1,51 @@
+---
+term: intre
+slug: intre
+ipa: "\u02C8int\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8int\u027Ee&voice=Ewa"
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - between
+    - among
+  epo:
+  - - inter
+  spa:
+  - - entre
+search terms:
+  glb:
+  - intre
+  eng:
+  - between
+  - among
+  epo:
+  - inter
+  spa:
+  - entre
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: intre
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: between, among
+    epo: inter
+    spa: entre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (international), Fransesa (entre), Espanisa (entre), Doycisa
+    (unter), Rusisa (\u0438\u043D\u0442\u0435\u0440\u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B
+    \u201Cinternatsional\u201D), Indonesisa (antara, internasional), Hindisa (\u0905\u0902\u0924\u0930\u094D-
+    \u201Cantar-\u201D), Telugusa (\u0C05\u0C02\u0C24\u0C30\u0C4D- \u201Cantar-\u201D)"
+...

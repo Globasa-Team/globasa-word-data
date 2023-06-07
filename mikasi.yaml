@@ -1,0 +1,48 @@
+---
+term: mikasi
+slug: mikasi
+ipa: "mi\u02C8kasi"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8kasi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (pair of) scissors
+  epo:
+  - - tondilo
+  spa:
+  - - tijeras
+search terms:
+  glb:
+  - mikasi
+  eng:
+  - pair of scissors
+  - scissors
+  epo:
+  - tondilo
+  spa:
+  - tijeras
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mikasi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (pair of) scissors
+    epo: tondilo
+    spa: tijeras
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: scissors, pair of scissors
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0642\u0635 \u201Cmiqa\u1E63\u1E63\u201D), Turkisa (makas),
+    Swahilisa (mikasi)"
+...

@@ -1,0 +1,55 @@
+---
+term: widu
+slug: widu
+ipa: "\u02C8widu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8widu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - latitude
+  epo:
+  - - latitudo
+  spa:
+  - - latitud
+search terms:
+  glb:
+  - widu
+  eng:
+  - latitude
+  epo:
+  - latitudo
+  spa:
+  - latitud
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u7EAC\u5EA6 \"weydu\""
+  Niponsa:
+  - - "\u7DEF\u5EA6 \"ido\""
+  Vyetnamsa:
+  - - "v\u0129 \u0111\u1ED9"
+  Hangusa:
+  - - "\uC704\uB3C4 \"wido\""
+raw data:
+  term: widu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: latitude
+    epo: latitudo
+    spa: latitud
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7EAC\u5EA6 \"weydu\"), Niponsa (\u7DEF\u5EA6 \"ido\"), Vyetnamsa
+    (v\u0129 \u0111\u1ED9), Hangusa (\uC704\uB3C4 \"wido\")"
+...

@@ -1,0 +1,87 @@
+---
+term: fetixi
+slug: fetixi
+ipa: feˈtiʃi
+ipa link: http://ipa-reader.xyz/?text=feˈtiʃi&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - fetish
+    - fetishism
+  - - fetishize
+  epo:
+  - - fetiĉo
+    - fetiĉismo
+  - - fetiĉigi
+  spa:
+  - - fetiche
+    - fetichismo
+  - - fetichizar
+search terms:
+  glb:
+  - fetixi
+  eng:
+  - fetish
+  - fetishism
+  - fetishize
+  epo:
+  - fetiĉo
+  - fetiĉismo
+  - fetiĉigi
+  spa:
+  - fetiche
+  - fetichismo
+  - fetichizar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fetish
+    - fetishism
+    - fetishize
+  Espanise:
+  - - fetiche
+  Fransesa:
+  - - fétiche
+  Rusisa:
+  - - фетиш “fetix”
+  Doycisa:
+  - - Fetisch
+  Indonesisa:
+  - - fetisisme
+  Pilipinasa:
+  - - petisismong
+  Niponsa:
+  - - フェティシズム “fetixizumu”
+  Turkisa:
+  - - fetiş
+  Hangusa:
+  - - 페티시즘 “petixijum”
+    - 페티시 “petixi”
+  Parsisa:
+  - - فتیشیسم “fetixism"
+    - فِتیش "fetix"
+raw data:
+  term: fetixi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: fetish, fetishism; fetishize
+    epo: fetiĉo, fetiĉismo; fetiĉigi
+    spa: fetiche, fetichismo; fetichizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (fetish, fetishism, fetishize), Espanise (fetiche), Fransesa
+    (fétiche), Rusisa (фетиш “fetix”), Doycisa (Fetisch), Indonesisa (fetisisme),
+    Pilipinasa (petisismong), Niponsa (フェティシズム “fetixizumu”), Turkisa (fetiş), Hangusa
+    (페티시즘 “petixijum”, 페티시 “petixi”), Parsisa (فتیشیسم “fetixism", فِتیش "fetix")
+...

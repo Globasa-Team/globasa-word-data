@@ -1,0 +1,52 @@
+---
+term: teorili
+slug: teorili
+ipa: "teo\u02C8\u027Eili"
+ipa link: "http://ipa-reader.xyz/?text=teo\u02C8\u027Eili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - theoretical
+    - theoretic
+    - theoretically
+  epo:
+  - - teoria
+  - - teorie
+  spa:
+  - - "te\xF3rico"
+search terms:
+  glb:
+  - teorili
+  eng:
+  - theoretical
+  - theoretic
+  - theoretically
+  epo:
+  - teoria
+  - teorie
+  spa:
+  - "te\xF3rico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/teori">teori</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: teorili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: theoretical, theoretic, theoretically
+    epo: teoria; teorie
+    spa: "te\xF3rico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: teori + -li
+...

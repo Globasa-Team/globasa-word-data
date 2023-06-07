@@ -1,0 +1,59 @@
+---
+term: jaxne
+slug: jaxne
+ipa: "\u02C8d\u0361\u0292a\u0283ne"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292a\u0283ne&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - celebration
+    - observance
+  - - celebrate
+    - observe
+  epo:
+  - - celebrado
+    - festado
+  - - celebri. festi
+  spa:
+  - - "celebraci\xF3n"
+  - - celebrar
+search terms:
+  glb:
+  - jaxne
+  eng:
+  - celebration
+  - observance
+  - celebrate
+  - observe
+  epo:
+  - celebrado
+  - festado
+  - celebri. festi
+  spa:
+  - "celebraci\xF3n"
+  - celebrar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jaxne
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: celebration, observance; celebrate, observe
+    epo: celebrado, festado; celebri. festi
+    spa: "celebraci\xF3n; celebrar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u091C\u0936\u094D\u0928 \u201Cjashn\u201D), Parsisa (\u062C\u0634\u0646
+    \u201Cjashn\u201D)"
+...

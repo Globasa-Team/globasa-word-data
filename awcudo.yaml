@@ -1,0 +1,48 @@
+---
+term: awcudo
+slug: awcudo
+ipa: "aw\u02C8t\u0361\u0283udo"
+ipa link: "http://ipa-reader.xyz/?text=aw\u02C8t\u0361\u0283udo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - disappeared
+  epo:
+  - - malaperinta
+  - - malaperinte
+  spa:
+  - - desaparecido
+search terms:
+  glb:
+  - awcudo
+  eng:
+  - disappeared
+  epo:
+  - malaperinta
+  - malaperinte
+  spa:
+  - desaparecido
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw">aw</a> + <a href="../lexi/-cu">-cu</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: awcudo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: disappeared
+    epo: malaperinta; malaperinte
+    spa: desaparecido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aw + -cu + -do
+...

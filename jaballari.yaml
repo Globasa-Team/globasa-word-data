@@ -1,0 +1,48 @@
+---
+term: jaballari
+slug: jaballari
+ipa: "d\u0361\u0292abal\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292abal\u02C8la\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - mountain range
+  epo:
+  - - montaro
+  spa:
+  - - cordillera
+    - sierra
+search terms:
+  glb:
+  - jaballari
+  eng:
+  - mountain range
+  epo:
+  - montaro
+  spa:
+  - cordillera
+  - sierra
+etymology_type: DERIVD
+etymology: <a href="../lexi/jabal">jabal</a> + <a href="../lexi/-lari">-lari</a>
+raw data:
+  term: jaballari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: mountain range
+    epo: montaro
+    spa: cordillera, sierra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jabal + -lari
+...

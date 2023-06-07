@@ -1,0 +1,50 @@
+---
+term: lutsemburgisa
+slug: lutsemburgisa
+ipa: "lutsembu\u027E\u02C8gisa"
+ipa link: "http://ipa-reader.xyz/?text=lutsembu\u027E\u02C8gisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Luxembourgish (language)
+  epo:
+  - - la luksemburga (lingvo)
+  spa:
+  - - "luxemburgu\xE9s (_idioma_)"
+search terms:
+  glb:
+  - lutsemburgisa
+  eng:
+  - luxembourgish language
+  - luxembourgish
+  epo:
+  - la luksemburga lingvo
+  - la luksemburga
+  spa:
+  - "luxemburgu\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Lutsemburgi">Lutsemburgi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Lutsemburgisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Luxembourgish (language)
+    epo: la luksemburga (lingvo)
+    spa: "luxemburgu\xE9s (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Lutsemburgi + -sa
+...

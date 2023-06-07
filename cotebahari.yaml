@@ -1,0 +1,48 @@
+---
+term: cotebahari
+slug: cotebahari
+ipa: "t\u0361\u0283oteba\u02C8xa\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283oteba\u02C8xa\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - low tide
+  epo:
+  - - malalta tajdo
+  spa:
+  - - marea baja
+search terms:
+  glb:
+  - cotebahari
+  eng:
+  - low tide
+  epo:
+  - malalta tajdo
+  spa:
+  - marea baja
+etymology_type: DERIVD
+etymology: <a href="../lexi/cote">cote</a> + <a href="../lexi/bahari">bahari</a>
+antonyms:
+- gaobahari
+raw data:
+  term: cotebahari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: low tide
+    epo: malalta tajdo
+    spa: marea baja
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: gaobahari
+  example: ""
+  tags: ""
+  etymology: cote + bahari
+...

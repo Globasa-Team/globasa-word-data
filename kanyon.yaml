@@ -1,0 +1,50 @@
+---
+term: kanyon
+slug: kanyon
+ipa: "ka\u02C8njon"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8njon&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - canyon
+    - gorge
+  epo:
+  - - kanjono
+  spa:
+  - - "ca\xF1\xF3n"
+search terms:
+  glb:
+  - kanyon
+  eng:
+  - canyon
+  - gorge
+  epo:
+  - kanjono
+  spa:
+  - "ca\xF1\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kanyon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: canyon, gorge
+    epo: kanjono
+    spa: "ca\xF1\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (canyon), Espanisa (ca\xF1\xF3n), Fransesa (canyon \"kanyon\"),
+    Rusisa (\u043A\u0430\u043D\u044C\u043E\u043D \"kanyon\"), Doycisa (Canyon), Pilipinasa
+    (kanyon), Turkisa (kanyon), Parsisa (\u06A9\u0627\u0646\u06CC\u0648\u0646 \"k\xE2nion\")"
+...

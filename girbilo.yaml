@@ -1,0 +1,80 @@
+---
+term: girbilo
+slug: girbilo
+ipa: giɾˈbilo
+ipa link: http://ipa-reader.xyz/?text=giɾˈbilo&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - sieve
+    - strainer
+    - colander
+    - sifter
+    - cribble
+    - sile
+  - - sift
+    - strain
+  epo:
+  - - kibrilo
+  - - kibri
+    - bluti
+  spa:
+  - - tamiz
+    - colador
+  - - tamizar
+    - colar
+search terms:
+  glb:
+  - girbilo
+  eng:
+  - sieve
+  - strainer
+  - colander
+  - sifter
+  - cribble
+  - sile
+  - sift
+  - strain
+  epo:
+  - kibrilo
+  - kibri
+  - bluti
+  spa:
+  - tamiz
+  - colador
+  - tamizar
+  - colar
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - garbillo
+  Arabisa:
+  - - غِرْبَال "ḡirbāl"
+  Turkisa:
+  - - kalbur
+  Parsisa:
+  - - غربال "ğarbâl
+    - ğirbâl"
+raw data:
+  term: girbilo
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: sieve, strainer, colander, sifter, cribble, sile; sift, strain
+    epo: kibrilo; kibri, bluti
+    spa: tamiz, colador; tamizar, colar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (garbillo), Arabisa (غِرْبَال "ḡirbāl"), Turkisa (kalbur), Parsisa
+    (غربال "ğarbâl, ğirbâl")
+...

@@ -1,0 +1,48 @@
+---
+term: dua kilo
+slug: dua kilo
+ipa: "\u02C8dua \u02C8kilo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dua \u02C8kilo&voice=Ewa"
+status: false
+category: phrase
+word class: num
+trans:
+  eng:
+  - - two thousand
+  epo:
+  - - dumil
+  spa:
+  - - dos mil
+search terms:
+  glb:
+  - dua kilo
+  - dua
+  - kilo
+  eng:
+  - two thousand
+  epo:
+  - dumil
+  spa:
+  - dos mil
+etymology_type: DERIVD
+etymology: <a href="../lexi/dua">dua</a> + <a href="../lexi/kilo">kilo</a>
+raw data:
+  term: dua kilo
+  category: phrase
+  word class: num
+  status: false
+  trans:
+    eng: two thousand
+    epo: dumil
+    spa: dos mil
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dua + kilo
+...

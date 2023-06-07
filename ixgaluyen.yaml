@@ -1,0 +1,46 @@
+---
+term: ixgaluyen
+slug: ixgaluyen
+ipa: "i\u0283galu\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=i\u0283galu\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - occupant
+  epo:
+  - - okupanto
+  spa:
+  - - ocupante
+search terms:
+  glb:
+  - ixgaluyen
+  eng:
+  - occupant
+  epo:
+  - okupanto
+  spa:
+  - ocupante
+etymology_type: DERIVD
+etymology: <a href="../lexi/ixgalu">ixgalu</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: ixgaluyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: occupant
+    epo: okupanto
+    spa: ocupante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ixgalu + -yen
+...

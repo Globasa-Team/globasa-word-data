@@ -1,0 +1,52 @@
+---
+term: mitilasa
+slug: mitilasa
+ipa: "miti\u02C8lasa"
+ipa link: "http://ipa-reader.xyz/?text=miti\u02C8lasa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Maithili (language)
+  epo:
+  - - la maitila (lingvo)
+  spa:
+  - - maithili
+    - "maijil\xED (_idioma_)"
+search terms:
+  glb:
+  - mitilasa
+  eng:
+  - maithili language
+  - maithili
+  epo:
+  - la maitila lingvo
+  - la maitila
+  spa:
+  - maithili
+  - "maijil\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Mitila">Mitila</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Mitilasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Maithili (language)
+    epo: la maitila (lingvo)
+    spa: "maithili, maijil\xED (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Mitila + -sa
+...

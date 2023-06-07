@@ -1,0 +1,46 @@
+---
+term: misu
+slug: misu
+ipa: "\u02C8misu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8misu&voice=Ewa"
+status: false
+category: derived
+word class: su s
+trans:
+  eng:
+  - - my
+  epo:
+  - - mia
+  spa:
+  - - mi
+search terms:
+  glb:
+  - misu
+  eng:
+  - my
+  epo:
+  - mia
+  spa:
+  - mi
+etymology_type: DERIVD
+etymology: <a href="../lexi/mi">mi</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: misu
+  category: derived
+  word class: su s
+  status: false
+  trans:
+    eng: my
+    epo: mia
+    spa: mi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mi + -su
+...

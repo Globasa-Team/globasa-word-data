@@ -1,0 +1,50 @@
+---
+term: malaysisa
+slug: malaysisa
+ipa: "malaj\u02C8sisa"
+ipa link: "http://ipa-reader.xyz/?text=malaj\u02C8sisa&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Malaysian (language)
+  epo:
+  - - la malajzia (lingvo)
+  spa:
+  - - malasio (_idioma_)
+search terms:
+  glb:
+  - malaysisa
+  eng:
+  - malaysian language
+  - malaysian
+  epo:
+  - la malajzia lingvo
+  - la malajzia
+  spa:
+  - malasio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Malaysi">Malaysi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Malaysisa
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Malaysian (language)
+    epo: la malajzia (lingvo)
+    spa: malasio (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Malaysi + -sa
+...

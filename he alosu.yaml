@@ -1,0 +1,50 @@
+---
+term: he alosu
+slug: he alosu
+ipa: "\u02C8xe a\u02C8losu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe a\u02C8losu&voice=Ewa"
+status: false
+category: phrase
+word class: su s
+trans:
+  eng:
+  - - anybody else's
+    - anyone else's
+  epo:
+  - - de iu ajn alia
+  spa:
+  - - de cualquier otro
+search terms:
+  glb:
+  - he alosu
+  - he
+  - alosu
+  eng:
+  - anybody else's
+  - anyone else's
+  epo:
+  - de iu ajn alia
+  spa:
+  - de cualquier otro
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/alo">alo</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: he alosu
+  category: phrase
+  word class: su s
+  status: false
+  trans:
+    eng: anybody else's, anyone else's
+    epo: de iu ajn alia
+    spa: de cualquier otro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, alo + -su
+...

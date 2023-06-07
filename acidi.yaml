@@ -1,0 +1,66 @@
+---
+term: acidi
+slug: acidi
+ipa: aˈt͡ʃidi
+ipa link: http://ipa-reader.xyz/?text=aˈt͡ʃidi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - acid
+  epo:
+  - - acido
+  spa:
+  - - ácido
+search terms:
+  glb:
+  - acidi
+  eng:
+  - acid
+  epo:
+  - acido
+  spa:
+  - ácido
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - acid
+    - acidic
+  Espanisa:
+  - - ácido
+  Fransesa:
+  - - acide
+  Italisa:
+  - - acido
+    - acidi
+  Pilipinasa:
+  - - asido
+  Turkisa:
+  - - asit
+  Parsisa:
+  - - اسید “asid”
+  Swahilisa:
+  - - asidi
+raw data:
+  term: acidi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: acid
+    epo: acido
+    spa: ácido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (acid, acidic), Espanisa (ácido), Fransesa (acide), Italisa (acido,
+    acidi), Pilipinasa (asido), Turkisa (asit), Parsisa  (اسید “asid”), Swahilisa
+    (asidi)
+...

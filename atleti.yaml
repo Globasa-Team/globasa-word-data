@@ -1,0 +1,66 @@
+---
+term: atleti
+slug: atleti
+ipa: aˈtleti
+ipa link: http://ipa-reader.xyz/?text=aˈtleti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - athletics
+  epo:
+  - - atletiko
+    - atletismo
+  spa:
+  - - atletismo
+search terms:
+  glb:
+  - atleti
+  eng:
+  - athletics
+  epo:
+  - atletiko
+  - atletismo
+  spa:
+  - atletismo
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Athletik
+  Englisa:
+  - - athletics
+  Espanisa:
+  - - atletismo
+  Fransesa:
+  - - atlétisme
+  Rusisa:
+  - - атлетика “atletika”
+  Turkisa:
+  - - atletizm
+  Indonesisa:
+  - - atletik
+  Pilipinasa:
+  - - atletika
+raw data:
+  term: atleti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: athletics
+    epo: atletiko, atletismo
+    spa: atletismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Athletik), Englisa (athletics), Espanisa (atletismo), Fransesa
+    (atlétisme), Rusisa (атлетика “atletika”), Turkisa (atletizm), Indonesisa (atletik),
+    Pilipinasa (atletika)
+...

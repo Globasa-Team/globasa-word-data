@@ -1,0 +1,73 @@
+---
+term: sayni
+slug: sayni
+ipa: "\u02C8sajni"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sajni&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - signature
+    - autograph
+  - - sign
+  epo:
+  - - subskribo
+    - "a\u016Dtografio"
+  - - subskribi
+  spa:
+  - - firma
+    - "aut\xF3grafo"
+  - - firmar
+    - autografiar
+search terms:
+  glb:
+  - sayni
+  eng:
+  - signature
+  - autograph
+  - sign
+  epo:
+  - subskribo
+  - "a\u016Dtografio"
+  - subskribi
+  spa:
+  - firma
+  - "aut\xF3grafo"
+  - firmar
+  - autografiar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sign
+  Fransesa:
+  - - signer
+  oycisa:
+  - - Signatur
+  Niponsa:
+  - - "\u30B5\u30A4\u30F3 \"sain\""
+  Hangusa:
+  - - "\uC0AC\uC778 \"sayn\""
+  Swahilisa:
+  - - saini
+raw data:
+  term: sayni
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: signature, autograph; sign
+    epo: "subskribo, a\u016Dtografio; subskribi"
+    spa: "firma, aut\xF3grafo; firmar, autografiar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (sign), Fransesa (signer)Doycisa (Signatur), Niponsa (\u30B5\u30A4\u30F3
+    \"sain\"), Hangusa (\uC0AC\uC778 \"sayn\"), Swahilisa (saini)"
+...

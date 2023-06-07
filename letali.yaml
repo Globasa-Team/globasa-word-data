@@ -1,0 +1,52 @@
+---
+term: letali
+slug: letali
+ipa: "le\u02C8tali"
+ipa link: "http://ipa-reader.xyz/?text=le\u02C8tali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - horizontal
+  - - horizontally
+  epo:
+  - - horizontala
+  - - horizontale
+  spa:
+  - - horizontal
+  - - horizontalmente
+search terms:
+  glb:
+  - letali
+  eng:
+  - horizontal
+  - horizontally
+  epo:
+  - horizontala
+  - horizontale
+  spa:
+  - horizontal
+  - horizontalmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/leta">leta</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: letali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: horizontal; horizontally
+    epo: horizontala; horizontale
+    spa: horizontal; horizontalmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: leta + -li
+...

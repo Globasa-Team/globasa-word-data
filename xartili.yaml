@@ -1,0 +1,52 @@
+---
+term: xartili
+slug: xartili
+ipa: "\u0283a\u027E\u02C8tili"
+ipa link: "http://ipa-reader.xyz/?text=\u0283a\u027E\u02C8tili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - conditional
+    - conditionally
+  epo:
+  - - "kondi\u0109a"
+  - - "kondi\u0109e"
+  spa:
+  - - condicional
+  - - condicionalmente
+search terms:
+  glb:
+  - xartili
+  eng:
+  - conditional
+  - conditionally
+  epo:
+  - "kondi\u0109a"
+  - "kondi\u0109e"
+  spa:
+  - condicional
+  - condicionalmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/xarti">xarti</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: xartili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: conditional, conditionally
+    epo: "kondi\u0109a; kondi\u0109e"
+    spa: condicional; condicionalmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xarti + -li
+...

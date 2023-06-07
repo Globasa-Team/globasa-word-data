@@ -1,0 +1,58 @@
+---
+term: fasul
+slug: fasul
+ipa: faˈsul
+ipa link: http://ipa-reader.xyz/?text=faˈsul&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bean
+  epo:
+  - - fabo
+  spa:
+  - - frijol
+    - fríjol
+    - _Fabaceae_
+search terms:
+  glb:
+  - fasul
+  eng:
+  - bean
+  epo:
+  - fabo
+  spa:
+  - frijol
+  - fríjol
+  - fabaceae
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فاصوليا “faswlya”
+  Turkisa:
+  - - fasulye
+  Rusisa:
+  - - фасоль “fasol”
+tags:
+- yamxey
+raw data:
+  term: fasul
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bean
+    epo: fabo
+    spa: frijol, fríjol, _Fabaceae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Arabisa (فاصوليا “faswlya”), Turkisa (fasulye), Rusisa (фасоль “fasol”)
+...

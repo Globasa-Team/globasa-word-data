@@ -1,0 +1,48 @@
+---
+term: evoluli teori
+slug: evoluli teori
+ipa: "evo\u02C8luli te\u02C8o\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=evo\u02C8luli te\u02C8o\u027Ei&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - theory of evolution
+  epo:
+  - - teorio de evolucio
+  spa:
+  - - "teor\xEDa de la evoluci\xF3n"
+search terms:
+  glb:
+  - evoluli teori
+  - evoluli
+  - teori
+  eng:
+  - theory of evolution
+  epo:
+  - teorio de evolucio
+  spa:
+  - "teor\xEDa de la evoluci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/evolu">evolu</a> + <a href="../lexi/-li">-li</a>, <a href="../lexi/teori">teori</a>
+raw data:
+  term: evoluli teori
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: theory of evolution
+    epo: teorio de evolucio
+    spa: "teor\xEDa de la evoluci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: evolu + -li, teori
+...

@@ -1,0 +1,50 @@
+---
+term: mulin
+slug: mulin
+ipa: "mu\u02C8lin"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8lin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - radish
+  epo:
+  - - rafano
+  spa:
+  - - "r\xE1bano"
+search terms:
+  glb:
+  - mulin
+  eng:
+  - radish
+  epo:
+  - rafano
+  spa:
+  - "r\xE1bano"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: mulin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: radish
+    epo: rafano
+    spa: "r\xE1bano"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Hindisa (\u092E\u0942\u0932\u0940 \"muli\"), Telugusa (\u0C2E\u0C41\u0C32\u0C4D\u0C32\u0C02\u0C17\u0C3F
+    \"mulangi\"), Tamilsa (\u0BAE\u0BC1\u0BB3\u0BCD\u0BB3\u0B99\u0BCD\u0B95\u0BBF
+    \"mulanki\"), Hangusa (\uBB34 \"mu\")"
+...

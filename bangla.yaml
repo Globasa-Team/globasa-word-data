@@ -1,0 +1,50 @@
+---
+term: bangla
+slug: bangla
+ipa: "\u02C8bangla"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8bangla&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Bengal (_region_)
+  epo:
+  - - Bengalio
+  spa:
+  - - Bengala
+search terms:
+  glb:
+  - bangla
+  eng:
+  - bengal
+  epo:
+  - bengalio
+  spa:
+  - bengala
+etymology_type: NATLNG
+etymology:
+  Banglasa:
+  - - "\u09AC\u09BE\u0982\u09B2\u09BE \u201CBa\u1E45la\u201D"
+tags:
+- dexa
+raw data:
+  term: Bangla
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Bengal (_region_)
+    epo: Bengalio
+    spa: Bengala
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Banglasa (\u09AC\u09BE\u0982\u09B2\u09BE \u201CBa\u1E45la\u201D)"
+...

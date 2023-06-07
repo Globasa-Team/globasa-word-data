@@ -1,0 +1,46 @@
+---
+term: drukili
+slug: drukili
+ipa: "d\u027Eu\u02C8kili"
+ipa link: "http://ipa-reader.xyz/?text=d\u027Eu\u02C8kili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Bhutanese
+  epo:
+  - - butana
+  spa:
+  - - "butan\xE9s"
+search terms:
+  glb:
+  - drukili
+  eng:
+  - bhutanese
+  epo:
+  - butana
+  spa:
+  - "butan\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Druki">Druki</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Drukili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Bhutanese
+    epo: butana
+    spa: "butan\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Druki + -li
+...

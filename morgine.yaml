@@ -1,0 +1,58 @@
+---
+term: morgine
+slug: morgine
+ipa: "mo\u027E\u02C8gine"
+ipa link: "http://ipa-reader.xyz/?text=mo\u027E\u02C8gine&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - deadly
+    - lethal
+    - fatal
+    - mortal
+    - killing
+  epo:
+  - - mortiga
+  - - mortige
+  spa:
+  - - mortal
+    - fatal
+search terms:
+  glb:
+  - morgine
+  eng:
+  - deadly
+  - lethal
+  - fatal
+  - mortal
+  - killing
+  epo:
+  - mortiga
+  - mortige
+  spa:
+  - mortal
+  - fatal
+etymology_type: DERIVD
+etymology: <a href="../lexi/mor">mor</a> + <a href="../lexi/-gi">-gi</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: morgine
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: deadly, lethal, fatal, mortal, killing
+    epo: mortiga; mortige
+    spa: mortal, fatal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mor + -gi + -ne
+...

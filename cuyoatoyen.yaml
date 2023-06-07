@@ -1,0 +1,54 @@
+---
+term: cuyoatoyen
+slug: cuyoatoyen
+ipa: "t\u0361\u0283ujoato\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ujoato\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - star (_actor_)
+    - protagonist
+  epo:
+  - - "\u0109efaktoro"
+    - "\u0109efrolulo"
+    - protagonisto
+  spa:
+  - - protagonista
+    - estrella
+search terms:
+  glb:
+  - cuyoatoyen
+  eng:
+  - star
+  - protagonist
+  epo:
+  - "\u0109efaktoro"
+  - "\u0109efrolulo"
+  - protagonisto
+  spa:
+  - protagonista
+  - estrella
+etymology_type: DERIVD
+etymology: <a href="../lexi/cuyo">cuyo</a> + <a href="../lexi/ato">ato</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: cuyoatoyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: star (_actor_), protagonist
+    epo: "\u0109efaktoro, \r\n\u0109efrolulo, \r\nprotagonisto"
+    spa: protagonista, estrella
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cuyo + ato + -yen
+...

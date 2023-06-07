@@ -1,0 +1,86 @@
+---
+term: fono
+slug: fono
+ipa: ˈfono
+ipa link: http://ipa-reader.xyz/?text=ˈfono&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - speech sound
+  epo:
+  - - parola sono
+  spa:
+  - - sonido del habla
+search terms:
+  glb:
+  - fono
+  eng:
+  - speech sound
+  epo:
+  - parola sono
+  spa:
+  - sonido del habla
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fonology
+    - telephone
+  Fransesa:
+  - - phonologie
+    - téléfphone
+  Doycisa:
+  - - Phonologie
+    - Telefon
+  Rusisa:
+  - - фонология “fonologiya”
+    - телефон “telefon”
+  Espanisa:
+  - - fonología
+    - teléfono
+  Hindisa:
+  - - टेलीफ़ोन “telifon”
+  Telugusa:
+  - - టెలీఫోను “telifonu”
+  Parsisa:
+  - - تلفن “telefon”
+  Turkisa:
+  - - fonoloji
+    - telefon
+  Indonesisa:
+  - - fonologi
+    - telepon
+  Pilipinasa:
+  - - ponolohiya
+    - telepono
+  Arabisa:
+  - - فُونُولُوجِيَّا “funulujiyya”
+    - تِلِفُون “tilifun”
+  Swahilisa:
+  - - fonolojia
+raw data:
+  term: fono
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: speech sound
+    epo: parola sono
+    spa: sonido del habla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (fonology, telephone), Fransesa (phonologie, téléfphone), Doycisa
+    (Phonologie, Telefon), Rusisa (фонология “fonologiya”, телефон “telefon”), Espanisa
+    (fonología, teléfono), Hindisa (टेलीफ़ोन “telifon”), Telugusa (టెలీఫోను “telifonu”),
+    Parsisa (تلفن “telefon”), Turkisa (fonoloji, telefon), Indonesisa (fonologi, telepon),
+    Pilipinasa (ponolohiya, telepono), Arabisa (فُونُولُوجِيَّا “funulujiyya”, تِلِفُون
+    “tilifun”), Swahilisa (fonolojia)
+...

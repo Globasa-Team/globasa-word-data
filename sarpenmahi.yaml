@@ -1,0 +1,56 @@
+---
+term: sarpenmahi
+slug: sarpenmahi
+ipa: "sa\u027Epen\u02C8maxi"
+ipa link: "http://ipa-reader.xyz/?text=sa\u027Epen\u02C8maxi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - eel
+    - _Anguilliformes_
+  epo:
+  - - angilo
+  spa:
+  - - anguila
+    - _Anguilliformes_
+  fra:
+  - - anguille
+search terms:
+  glb:
+  - sarpenmahi
+  eng:
+  - eel
+  - anguilliformes
+  epo:
+  - angilo
+  spa:
+  - anguila
+  - anguilliformes
+  fra:
+  - anguille
+etymology_type: DERIVD
+etymology: <a href="../lexi/sarpen">sarpen</a> + <a href="../lexi/mahi">mahi</a>
+tags:
+- hewan
+raw data:
+  term: sarpenmahi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: eel, _Anguilliformes_
+    epo: angilo
+    spa: anguila, _Anguilliformes_
+    deu: ""
+    fra: anguille
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: sarpen + mahi
+...

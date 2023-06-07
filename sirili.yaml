@@ -1,0 +1,50 @@
+---
+term: sirili
+slug: sirili
+ipa: "si\u02C8\u027Eili"
+ipa link: "http://ipa-reader.xyz/?text=si\u02C8\u027Eili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - secret
+  epo:
+  - - sekreta
+  - - sekrete
+  spa:
+  - - secreto
+    - confidencial
+search terms:
+  glb:
+  - sirili
+  eng:
+  - secret
+  epo:
+  - sekreta
+  - sekrete
+  spa:
+  - secreto
+  - confidencial
+etymology_type: DERIVD
+etymology: <a href="../lexi/siri">siri</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: sirili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: secret
+    epo: sekreta; sekrete
+    spa: secreto, confidencial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: siri + -li
+...

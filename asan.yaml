@@ -1,0 +1,59 @@
+---
+term: asan
+slug: asan
+ipa: aˈsan
+ipa link: http://ipa-reader.xyz/?text=aˈsan&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - easy
+    - easily
+  epo:
+  - - facila
+  - - facile
+  spa:
+  - - fácil
+search terms:
+  glb:
+  - asan
+  eng:
+  - easy
+  - easily
+  epo:
+  - facila
+  - facile
+  spa:
+  - fácil
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - आसान
+    - “asan”
+  Parsisa:
+  - - آسان “asan”
+  Azerbaijani:
+  - - asan
+antonyms:
+- katina
+raw data:
+  term: asan
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: easy, easily
+    epo: facila; facile
+    spa: fácil
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: katina
+  example: ""
+  tags: ""
+  etymology: Hindisa (आसान, “asan”), Parsisa (آسان “asan”), Azerbaijani (asan)
+...

@@ -1,0 +1,50 @@
+---
+term: kilople
+slug: kilople
+ipa: "ki\u02C8lople"
+ipa link: "http://ipa-reader.xyz/?text=ki\u02C8lople&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - milluple
+    - thousandfold
+  epo:
+  - - milobla
+  - - miloble
+  spa:
+  - - "m\xEDluple"
+search terms:
+  glb:
+  - kilople
+  eng:
+  - milluple
+  - thousandfold
+  epo:
+  - milobla
+  - miloble
+  spa:
+  - "m\xEDluple"
+etymology_type: DERIVD
+etymology: <a href="../lexi/kilo">kilo</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: kilople
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: milluple, thousandfold
+    epo: milobla; miloble
+    spa: "m\xEDluple"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kilo + -ple
+...

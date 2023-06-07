@@ -1,0 +1,47 @@
+---
+term: drukiyen
+slug: drukiyen
+ipa: "d\u027Euki\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=d\u027Euki\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Bhutanese (person)
+  epo:
+  - - butanano
+  spa:
+  - - "butan\xE9s (_persona_)"
+search terms:
+  glb:
+  - drukiyen
+  eng:
+  - bhutanese person
+  - bhutanese
+  epo:
+  - butanano
+  spa:
+  - "butan\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Druki">Druki</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Drukiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Bhutanese (person)
+    epo: butanano
+    spa: "butan\xE9s (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Druki + -yen
+...

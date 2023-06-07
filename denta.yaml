@@ -1,0 +1,58 @@
+---
+term: denta
+slug: denta
+ipa: ˈdenta
+ipa link: http://ipa-reader.xyz/?text=ˈdenta&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tooth
+  epo:
+  - - dento
+  spa:
+  - - diente
+search terms:
+  glb:
+  - denta
+  eng:
+  - tooth
+  epo:
+  - dento
+  spa:
+  - diente
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - दांत “daant”
+  Englisa: ~
+  Fransesa: ~
+  Doycisa:
+  - - dental
+  Rusisa:
+  - - дентальный “dentalny”
+  Espanisa: ~
+tags:
+- jismulogi
+raw data:
+  term: denta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tooth
+    epo: dento
+    spa: diente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Hindisa (दांत “daant”), Englisa, Fransesa, Doycisa (dental), Rusisa (дентальный
+    “dentalny”), Espanisa
+...

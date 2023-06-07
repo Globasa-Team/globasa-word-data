@@ -1,0 +1,50 @@
+---
+term: orisali
+slug: orisali
+ipa: "o\u027Ei\u02C8sali"
+ipa link: "http://ipa-reader.xyz/?text=o\u027Ei\u02C8sali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - (of) Odisha
+    - (of) Orissa
+  epo:
+  - - orisa
+  spa:
+  - - oriya
+search terms:
+  glb:
+  - orisali
+  eng:
+  - of odisha
+  - odisha
+  - of orissa
+  - orissa
+  epo:
+  - orisa
+  spa:
+  - oriya
+etymology_type: DERIVD
+etymology: <a href="../lexi/Orisa">Orisa</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Orisali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: (of) Odisha, (of) Orissa
+    epo: orisa
+    spa: oriya
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Orisa + -li
+...

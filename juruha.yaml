@@ -1,0 +1,61 @@
+---
+term: juruha
+slug: juruha
+ipa: "d\u0361\u0292u\u02C8\u027Euxa"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292u\u02C8\u027Euxa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - wound
+    - injury
+  - - wound
+    - injure
+  epo:
+  - - vundo
+  - - vundi
+  spa:
+  - - herida
+    - "lesi\xF3n"
+  - - herir
+    - lesionar
+search terms:
+  glb:
+  - juruha
+  eng:
+    0: wound
+    1: injury
+    3: injure
+  epo:
+  - vundo
+  - vundi
+  spa:
+  - herida
+  - "lesi\xF3n"
+  - herir
+  - lesionar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: juruha
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: wound, injury; wound, injure
+    epo: vundo; vundi
+    spa: "herida, lesi\xF3n; herir, lesionar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u0631\u062D \u201Cjurh\u201D, \u062C\u064E\u0631\u064E\u062D\u064E
+    \u201Cjaraha\u201D), Parsisa (\u0645\u062C\u0631\u0648\u062D \u201Cmajruh\u201D),
+    Swahilisa (jeraha, -jiruhi)"
+...

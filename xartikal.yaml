@@ -1,0 +1,52 @@
+---
+term: xartikal
+slug: xartikal
+ipa: "\u0283a\u027Eti\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=\u0283a\u027Eti\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unconditional
+    - unconditionally
+  epo:
+  - - "senkondi\u0109a"
+  - - "senkondi\u0109e"
+  spa:
+  - - incondicional
+  - - incondicionalmente
+search terms:
+  glb:
+  - xartikal
+  eng:
+  - unconditional
+  - unconditionally
+  epo:
+  - "senkondi\u0109a"
+  - "senkondi\u0109e"
+  spa:
+  - incondicional
+  - incondicionalmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/xarti">xarti</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: xartikal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unconditional, unconditionally
+    epo: "senkondi\u0109a; senkondi\u0109e"
+    spa: incondicional; incondicionalmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xarti + -kal
+...

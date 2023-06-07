@@ -1,0 +1,50 @@
+---
+term: gabon
+slug: gabon
+ipa: "ga\u02C8bon"
+ipa link: "http://ipa-reader.xyz/?text=ga\u02C8bon&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Gabon
+  epo:
+  - - Gabon
+  spa:
+  - - "Gab\xF3n"
+search terms:
+  glb:
+  - gabon
+  eng:
+  - gabon
+  epo:
+  - gabon
+  spa:
+  - "gab\xF3n"
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - Gabon
+tags:
+- dexa
+raw data:
+  term: Gabon
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Gabon
+    epo: Gabon
+    spa: "Gab\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Fransesa (Gabon)
+...

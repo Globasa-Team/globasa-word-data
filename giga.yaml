@@ -1,0 +1,62 @@
+---
+term: giga
+slug: giga
+ipa: ˈgiga
+ipa link: http://ipa-reader.xyz/?text=ˈgiga&voice=Ewa
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - billion
+    - one billion
+  epo:
+  - - miliardo
+  spa:
+  - - giga-
+    - 1 × 10^9
+    - mil millones
+    - G
+search terms:
+  glb:
+  - giga
+  eng:
+  - billion
+  - one billion
+  epo:
+  - miliardo
+  spa:
+  - giga-
+  - 1 × 10^9
+  - mil millones
+  - g
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - giga-
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Arabisa: ~
+  Hindisa: ~
+raw data:
+  term: giga
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: billion, one billion
+    epo: miliardo
+    spa: giga-, 1 × 10^9, mil millones, G
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (giga-), Fransesa ( ), Doycisa, Rusisa, Espanisa, Arabisa, Hindisa
+...

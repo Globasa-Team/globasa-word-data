@@ -1,0 +1,52 @@
+---
+term: somali
+slug: somali
+ipa: "so\u02C8mali"
+ipa link: "http://ipa-reader.xyz/?text=so\u02C8mali&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Somalia
+  epo:
+  - - Somalio
+    - Somalujo
+  spa:
+  - - Somalia
+search terms:
+  glb:
+  - somali
+  eng:
+  - somalia
+  epo:
+  - somalio
+  - somalujo
+  spa:
+  - somalia
+etymology_type: NATLNG
+etymology:
+  Somali:
+  - - Soomaaliya
+tags:
+- dexa
+raw data:
+  term: Somali
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Somalia
+    epo: Somalio, Somalujo
+    spa: Somalia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Somali (Soomaaliya)
+...

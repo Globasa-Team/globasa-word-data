@@ -1,0 +1,50 @@
+---
+term: utaramakedoni
+slug: utaramakedoni
+ipa: "uta\u027Eamake\u02C8doni"
+ipa link: "http://ipa-reader.xyz/?text=uta\u027Eamake\u02C8doni&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - North Macedonia
+  epo:
+  - - Nord-Makedonio
+    - Nord-Makedonujo
+  spa:
+  - - Macedonia del norte
+search terms:
+  glb:
+  - utaramakedoni
+  eng:
+  - north macedonia
+  epo:
+  - nord-makedonio
+  - nord-makedonujo
+  spa:
+  - macedonia del norte
+etymology_type: DERIVD
+etymology: <a href="../lexi/utara">utara</a> + <a href="../lexi/Makedoni">Makedoni</a>
+tags:
+- dexa
+raw data:
+  term: Utaramakedoni
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: North Macedonia
+    epo: Nord-Makedonio, Nord-Makedonujo
+    spa: Macedonia del norte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: utara + Makedoni
+...

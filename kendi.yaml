@@ -1,0 +1,56 @@
+---
+term: kendi
+slug: kendi
+ipa: "\u02C8kendi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kendi&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - candy
+    - sweet
+  epo:
+  - - bonbono
+  spa:
+  - - golosina
+    - caramelo
+    - dulce
+search terms:
+  glb:
+  - kendi
+  eng:
+  - candy
+  - sweet
+  epo:
+  - bonbono
+  spa:
+  - golosina
+  - caramelo
+  - dulce
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: kendi
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: candy, sweet
+    epo: bonbono
+    spa: golosina, caramelo, dulce
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (candy), Pilipinasa (kendi), Hindisa (\u0915\u0948\u0902\u0921\u0940
+    \"kendi\"), Niponsa (\u30AD\u30E3\u30F3\u30C7\u30A3 \"kyandi\"), Hangusa (\uCE94\uB514
+    \"kendi\"), Telugusa (\u0C15\u0C32\u0C15\u0C02\u0C21 \"kalakanda\")"
+...

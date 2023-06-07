@@ -1,0 +1,75 @@
+---
+term: plani
+slug: plani
+ipa: "\u02C8plani"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8plani&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - plan
+  epo:
+  - - plano
+  - - plani
+  spa:
+  - - plan
+  - - planear
+search terms:
+  glb:
+  - plani
+  eng:
+  - plan
+  epo:
+  - plano
+  - plani
+  spa:
+  - plan
+  - planear
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - plan
+    - planing
+  Doycisa:
+  - - Plan
+  Fransesa:
+  - - plan
+  Espanisa:
+  - - plan
+    - planificar
+  Rusisa:
+  - - "\u043F\u043B\u0430\u043D \u201Cplan\u201D"
+    - "\u043F\u043B\u0430\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u201Cplanirovat\u201D"
+  Niponsa:
+  - - "\u30D7\u30E9\u30F3 \u201Cpuran\u201D"
+  Turkisa:
+  - - plan
+  Hindisa:
+  - - "\u092A\u094D\u0932\u0948\u0928 \u201Cplen\u201D"
+  Parsisa:
+  - - "\u067E\u0644\u0627\u0646 \u201Cpl\xE2n\u201D"
+raw data:
+  term: plani
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: plan
+    epo: plano; plani
+    spa: plan; planear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (plan, planing), Doycisa (Plan), Fransesa (plan), Espanisa (plan,
+    planificar), Rusisa (\u043F\u043B\u0430\u043D \u201Cplan\u201D, \u043F\u043B\u0430\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C
+    \u201Cplanirovat\u201D), Niponsa (\u30D7\u30E9\u30F3 \u201Cpuran\u201D), Turkisa
+    (plan), Hindisa (\u092A\u094D\u0932\u0948\u0928 \u201Cplen\u201D), Parsisa (\u067E\u0644\u0627\u0646
+    \u201Cpl\xE2n\u201D)"
+...

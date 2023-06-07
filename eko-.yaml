@@ -1,0 +1,73 @@
+---
+term: eko-
+slug: eko-
+ipa: "e\u02C8ko-"
+ipa link: "http://ipa-reader.xyz/?text=e\u02C8ko-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - eco-
+  epo:
+  - - eko- (ekologio)
+  spa:
+  - - eco-
+search terms:
+  glb:
+  - eko-
+  eng:
+  - eco-
+  epo:
+  - eko- ekologio
+  - eko-
+  spa:
+  - eco-
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - "\xD6kologie"
+  Englisa:
+  - - eco-
+    - ecology
+  Espanisa:
+  - - "ecolog\xEDa"
+  Fransesa:
+  - - "\xE9cologie"
+  Rusisa:
+  - - "\u044D\u043A\u043E\u043B\u043E\u0433\u0438\u044F \u201Cekologiya\u201D"
+  Indonesisa:
+  - - ekologi
+  Pilipinasa:
+  - - ekolohiya
+  Turkisa:
+  - - ekoloji
+  Swahilisa:
+  - - ikolojia
+  Niponsa:
+  - - "\u30A8\u30B3 \u201Ciko\u201D"
+    - "\u30A8\u30B3\u30ED\u30B8\u30FC \u201Cikoroji\u201D"
+raw data:
+  term: eko-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: eco-
+    epo: eko- (ekologio)
+    spa: eco-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (\xD6kologie), Englisa (eco-, ecology), Espanisa (ecolog\xEDa),
+    Fransesa (\xE9cologie), Rusisa (\u044D\u043A\u043E\u043B\u043E\u0433\u0438\u044F
+    \u201Cekologiya\u201D), Indonesisa (ekologi), Pilipinasa (ekolohiya), Turkisa
+    (ekoloji), Swahilisa (ikolojia), Niponsa (\u30A8\u30B3 \u201Ciko\u201D, \u30A8\u30B3\u30ED\u30B8\u30FC
+    \u201Cikoroji\u201D)"
+...

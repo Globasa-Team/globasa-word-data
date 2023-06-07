@@ -1,0 +1,48 @@
+---
+term: mimu
+slug: mimu
+ipa: "\u02C8mimu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mimu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - meme
+  epo:
+  - - memeo
+  spa:
+  - - meme
+search terms:
+  glb:
+  - mimu
+  eng:
+  - meme
+  epo:
+  - memeo
+  spa:
+  - meme
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mimu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: meme
+    epo: memeo
+    spa: meme
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (meme), Niponsa (\u30DF\u30FC\u30E0 \u201Cm\u012Bmu), Espanisa
+    (meme), Doycisa (Mem), Rusisa (\u043C\u0435\u043C \u201Cmem\u201D), Fransesa (m\xE8me),
+    Indonesisa (meme), Pilipinasa (meme), Turkisa (mem), Vyetnamsa (meme)"
+...

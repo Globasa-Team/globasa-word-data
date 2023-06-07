@@ -1,0 +1,68 @@
+---
+term: anedota
+slug: anedota
+ipa: aneˈdota
+ipa link: http://ipa-reader.xyz/?text=aneˈdota&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - anecdote
+  epo:
+  - - anekdoto
+  spa:
+  - - anécdota
+search terms:
+  glb:
+  - anedota
+  eng:
+  - anecdote
+  epo:
+  - anekdoto
+  spa:
+  - anécdota
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - anecdotal
+  Epsanisa:
+  - - anécdota
+  Fransesa:
+  - - anecdote
+  Rusisa:
+  - - анекдот “anekdot”
+  Doycisa:
+  - - Anekdote
+  Portugalsa:
+  - - anedota
+  Italisa:
+  - - aneddoto
+  Indonesisa:
+  - - anekdot
+  Pilipinasa:
+  - - anekdota
+  Turkisa:
+  - - anekdot
+raw data:
+  term: anedota
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: anecdote
+    epo: anekdoto
+    spa: anécdota
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (anecdotal), Epsanisa (anécdota), Fransesa (anecdote), Rusisa
+    (анекдот “anekdot”), Doycisa (Anekdote), Portugalsa (anedota), Italisa (aneddoto),
+    Indonesisa (anekdot), Pilipinasa (anekdota), Turkisa (anekdot)
+...

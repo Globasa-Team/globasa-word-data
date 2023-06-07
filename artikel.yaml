@@ -1,0 +1,61 @@
+---
+term: artikel
+slug: artikel
+ipa: aɾtiˈkel
+ipa link: http://ipa-reader.xyz/?text=aɾtiˈkel&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - article (_grammar_)
+  epo:
+  - - artikolo (_gramatiko_)
+  spa:
+  - - artículo (_gramática_)
+search terms:
+  glb:
+  - artikel
+  eng:
+  - article
+  epo:
+  - artikolo
+  spa:
+  - artículo
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Artikel
+  Englisa:
+  - - article
+  Espanisa:
+  - - artículo
+  Fransesa:
+  - - article
+  Rusisa:
+  - - артикль “artikl”
+  Turkisa:
+  - - artikel
+  Indonesisa:
+  - - artikel
+raw data:
+  term: artikel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: article (_grammar_)
+    epo: artikolo (_gramatiko_)
+    spa: artículo (_gramática_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Artikel), Englisa (article), Espanisa (artículo), Fransesa (article),
+    Rusisa (артикль “artikl”), Turkisa (artikel), Indonesisa (artikel)
+...

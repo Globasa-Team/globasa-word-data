@@ -1,0 +1,49 @@
+---
+term: imisu oto
+slug: imisu oto
+ipa: "i\u02C8misu \u02C8oto"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8misu \u02C8oto&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - ours (_those things belonging to us_)
+  epo:
+  - - la niaj
+  spa:
+  - - nuestros (cosas que nos pertenecen)
+search terms:
+  glb:
+  - imisu oto
+  - imisu
+  - oto
+  eng:
+  - ours
+  epo:
+  - la niaj
+  spa:
+  - nuestros cosas que nos pertenecen
+  - nuestros
+etymology_type: DERIVD
+etymology: <a href="../lexi/imi">imi</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/oto">oto</a>
+raw data:
+  term: imisu oto
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: ours (_those things belonging to us_)
+    epo: la niaj
+    spa: nuestros (cosas que nos pertenecen)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: imi + -su, oto
+...

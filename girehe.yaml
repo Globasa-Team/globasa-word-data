@@ -1,0 +1,50 @@
+---
+term: girehe
+slug: girehe
+ipa: giˈɾexe
+ipa link: http://ipa-reader.xyz/?text=giˈɾexe&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - knot
+  epo:
+  - - nodo
+  spa:
+  - - nudo
+search terms:
+  glb:
+  - girehe
+  eng:
+  - knot
+  epo:
+  - nodo
+  spa:
+  - nudo
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - गिरह “girah”
+  Parsisa:
+  - - گره “gereh”
+raw data:
+  term: girehe
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: knot
+    epo: nodo
+    spa: nudo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (गिरह “girah”), Parsisa (گره “gereh”)
+...

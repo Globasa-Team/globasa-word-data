@@ -1,0 +1,62 @@
+---
+term: balangu
+slug: balangu
+ipa: baˈlangu
+ipa link: http://ipa-reader.xyz/?text=baˈlangu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - grasshopper
+    - locust
+    - _Caelifera_
+  epo:
+  - - lokusto
+  spa:
+  - - saltamontes
+    - langosta
+    - (_Caelifera_)
+search terms:
+  glb:
+  - balangu
+  eng:
+  - grasshopper
+  - locust
+  - caelifera
+  epo:
+  - lokusto
+  spa:
+  - saltamontes
+  - langosta
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - belalang
+  Pilipinasa:
+  - - balang
+  Espanisa:
+  - - langosta
+tags:
+- hewan
+- koncun
+raw data:
+  term: balangu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: grasshopper, locust, _Caelifera_
+    epo: lokusto
+    spa: saltamontes, langosta, (_Caelifera_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan, koncun
+  etymology: Indonesisa (belalang), Pilipinasa (balang), Espanisa (langosta)
+...

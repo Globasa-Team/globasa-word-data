@@ -1,0 +1,49 @@
+---
+term: ger preferi
+slug: ger preferi
+ipa: "ge\u027E p\u027Ee\u02C8fe\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=ge\u027E p\u027Ee\u02C8fe\u027Ei&voice=Ewa"
+status: false
+category: phrase
+word class: jm
+trans:
+  eng:
+  - - (would) rather
+  epo:
+  - - preferus
+  spa:
+  - - "preferir\xEDa"
+search terms:
+  glb:
+  - ger preferi
+  - ger
+  - preferi
+  eng:
+  - would rather
+  - rather
+  epo:
+  - preferus
+  spa:
+  - "preferir\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ger">ger</a>, <a href="../lexi/preferi">preferi</a>
+raw data:
+  term: ger preferi
+  category: phrase
+  word class: jm
+  status: false
+  trans:
+    eng: (would) rather
+    epo: preferus
+    spa: "preferir\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ger, preferi
+...

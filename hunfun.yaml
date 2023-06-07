@@ -1,0 +1,73 @@
+---
+term: hunfun
+slug: hunfun
+ipa: "xun\u02C8fun"
+ipa link: "http://ipa-reader.xyz/?text=xun\u02C8fun&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - excitement
+    - arousal
+    - stimulation
+    - agitation
+  - - excite
+    - arouse
+    - stimulate
+    - agitate
+  epo:
+  - - ekscito
+    - agito
+  - - eksciti
+    - agiti
+  spa:
+  - - "agitaci\xF3n"
+    - "excitaci\xF3n"
+  - - agitar
+    - excitar
+search terms:
+  glb:
+  - hunfun
+  eng:
+  - excitement
+  - arousal
+  - stimulation
+  - agitation
+  - excite
+  - arouse
+  - stimulate
+  - agitate
+  epo:
+  - ekscito
+  - agito
+  - eksciti
+  - agiti
+  spa:
+  - "agitaci\xF3n"
+  - "excitaci\xF3n"
+  - agitar
+  - excitar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hunfun
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: excitement, arousal, stimulation, agitation; excite, arouse, stimulate, agitate
+    epo: ekscito, agito; eksciti, agiti
+    spa: "agitaci\xF3n, excitaci\xF3n; agitar, excitar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5174\u594B \u201Cxingfen\u201D), Niponsa (\u8208\u596E \u201Ckofun\u201D),
+    Hangusa (\uD765\uBD84 \u201Chungbun\u201D), Vyetnamsa (h\u01B0ng ph\u1EA5n)"
+...

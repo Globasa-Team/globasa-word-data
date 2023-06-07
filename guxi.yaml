@@ -1,0 +1,74 @@
+---
+term: guxi
+slug: guxi
+ipa: ˈguʃi
+ipa link: http://ipa-reader.xyz/?text=ˈguʃi&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - obsolete
+    - archaic
+    - outdated
+    - old-fashioned
+  epo:
+  - - arĥaika
+    - arkaika
+    - arkaa
+    - malmoderna
+  - - arĥaike
+    - arkaike
+    - arkae
+    - malmoderne
+  spa:
+  - - obsoleto
+    - arcaico
+    - anticuado
+search terms:
+  glb:
+  - guxi
+  eng:
+  - obsolete
+  - archaic
+  - outdated
+  - old-fashioned
+  epo:
+  - arĥaika
+  - arkaika
+  - arkaa
+  - malmoderna
+  - arĥaike
+  - arkaike
+  - arkae
+  - malmoderne
+  spa:
+  - obsoleto
+  - arcaico
+  - anticuado
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 过时 “guòshí”
+  Hangusa:
+  - - 구식 “gusig”
+raw data:
+  term: guxi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: obsolete, archaic, outdated, old-fashioned
+    epo: arĥaika, arkaika, arkaa, malmoderna; arĥaike, arkaike, arkae, malmoderne
+    spa: obsoleto, arcaico, anticuado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (过时 “guòshí”), Hangusa (구식 “gusig”)
+...

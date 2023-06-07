@@ -1,0 +1,62 @@
+---
+term: seza
+slug: seza
+ipa: "\u02C8seza"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8seza&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - punishment
+  - - punish
+  epo:
+  - - puno
+  - - puni
+  spa:
+  - - castigo
+  - - castigar
+search terms:
+  glb:
+  - seza
+  eng:
+  - punishment
+  - punish
+  epo:
+  - puno
+  - puni
+  spa:
+  - castigo
+  - castigar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062C\u064E\u0632\u064E\u0627\u0621 \u201Cjaza\u201D"
+  Hindisa:
+  - - "\u0938\u091C\u093C\u093E \u201Csaza\u201D"
+  Parsisa:
+  - - "\u0633\u0632\u0627 \u201Cseza\u201D"
+  Turkisa:
+  - - ceza
+raw data:
+  term: seza
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: punishment; punish
+    epo: puno; puni
+    spa: castigo; castigar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u064E\u0632\u064E\u0627\u0621 \u201Cjaza\u201D), Hindisa
+    (\u0938\u091C\u093C\u093E \u201Csaza\u201D), Parsisa (\u0633\u0632\u0627 \u201Cseza\u201D),
+    Turkisa (ceza)"
+...

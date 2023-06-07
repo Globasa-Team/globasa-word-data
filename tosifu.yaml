@@ -1,0 +1,62 @@
+---
+term: tosifu
+slug: tosifu
+ipa: "to\u02C8sifu"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8sifu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - description
+  - - describe
+  epo:
+  - - priskribo
+  - - priskribi
+  spa:
+  - - "descripci\xF3n"
+  - - describir
+search terms:
+  glb:
+  - tosifu
+  eng:
+  - description
+  - describe
+  epo:
+  - priskribo
+  - priskribi
+  spa:
+  - "descripci\xF3n"
+  - describir
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0648\u0635\u0641 \u201Cwasaf\u201D"
+    - "\u062A\u0648\u0635\u06CC\u0641 \u201Ctawsif\u201D"
+    - "\u064A\u064E\u0635\u0650\u0641\u064F\u200E\u200E \u201Cya\u1E63ifu\u201D"
+  Parsisa:
+  - - "\u062A\u0648\u0635\u06CC\u0641 \u201Ctosif\u201D"
+  Turkisa:
+  - - tavsif
+raw data:
+  term: tosifu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: description; describe
+    epo: priskribo; priskribi
+    spa: "descripci\xF3n; describir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0648\u0635\u0641 \u201Cwasaf\u201D, \u062A\u0648\u0635\u06CC\u0641
+    \u201Ctawsif\u201D, \u064A\u064E\u0635\u0650\u0641\u064F\u200E\u200E \u201Cya\u1E63ifu\u201D),
+    Parsisa (\u062A\u0648\u0635\u06CC\u0641 \u201Ctosif\u201D), Turkisa (tavsif)"
+...

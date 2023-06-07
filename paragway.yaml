@@ -1,0 +1,52 @@
+---
+term: paragway
+slug: paragway
+ipa: "pa\u027Ea\u02C8gwaj"
+ipa link: "http://ipa-reader.xyz/?text=pa\u027Ea\u02C8gwaj&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Paraguay
+  epo:
+  - - Paragvajo
+  spa:
+  - - Paraguay
+search terms:
+  glb:
+  - paragway
+  eng:
+  - paraguay
+  epo:
+  - paragvajo
+  spa:
+  - paraguay
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Paraguay
+  Gwaranisa:
+  - - "Paragu\xE1i"
+tags:
+- dexa
+raw data:
+  term: Paragway
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Paraguay
+    epo: Paragvajo
+    spa: Paraguay
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Espanisa (Paraguay), Gwaranisa (Paragu\xE1i)"
+...

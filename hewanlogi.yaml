@@ -1,0 +1,50 @@
+---
+term: hewanlogi
+slug: hewanlogi
+ipa: "xewan\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=xewan\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - zoology
+  epo:
+  - - zoologio
+    - bestbiologio
+    - bestoscienco
+  spa:
+  - - "zoolog\xEDa"
+search terms:
+  glb:
+  - hewanlogi
+  eng:
+  - zoology
+  epo:
+  - zoologio
+  - bestbiologio
+  - bestoscienco
+  spa:
+  - "zoolog\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/hewan">hewan</a> + <a href="../lexi/-logi">-logi</a>
+raw data:
+  term: hewanlogi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: zoology
+    epo: zoologio, bestbiologio, bestoscienco
+    spa: "zoolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hewan + -logi
+...

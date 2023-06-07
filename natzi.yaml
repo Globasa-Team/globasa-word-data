@@ -1,0 +1,50 @@
+---
+term: natzi
+slug: natzi
+ipa: "\u02C8natzi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8natzi&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Nazi
+  epo:
+  - - nazia
+  - - nazie
+  spa:
+  - - nazi
+search terms:
+  glb:
+  - natzi
+  eng:
+  - nazi
+  epo:
+  - nazia
+  - nazie
+  spa:
+  - nazi
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Nazi
+raw data:
+  term: Natzi
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: Nazi
+    epo: nazia; nazie
+    spa: nazi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Nazi)
+...

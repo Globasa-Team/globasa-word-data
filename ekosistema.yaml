@@ -1,0 +1,46 @@
+---
+term: ekosistema
+slug: ekosistema
+ipa: "ekosis\u02C8tema"
+ipa link: "http://ipa-reader.xyz/?text=ekosis\u02C8tema&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ecosystem
+  epo:
+  - - ekosistemo
+  spa:
+  - - ecosistema
+search terms:
+  glb:
+  - ekosistema
+  eng:
+  - ecosystem
+  epo:
+  - ekosistemo
+  spa:
+  - ecosistema
+etymology_type: DERIVD
+etymology: <a href="../lexi/eko-">eko-</a> + <a href="../lexi/sistema">sistema</a>
+raw data:
+  term: ekosistema
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ecosystem
+    epo: ekosistemo
+    spa: ecosistema
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: eko- + sistema
+...

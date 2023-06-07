@@ -1,0 +1,46 @@
+---
+term: tongali
+slug: tongali
+ipa: "ton\u02C8gali"
+ipa link: "http://ipa-reader.xyz/?text=ton\u02C8gali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Tongan
+  epo:
+  - - tongana
+  spa:
+  - - tongano
+search terms:
+  glb:
+  - tongali
+  eng:
+  - tongan
+  epo:
+  - tongana
+  spa:
+  - tongano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Tonga">Tonga</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Tongali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Tongan
+    epo: tongana
+    spa: tongano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Tonga + -li
+...

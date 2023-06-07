@@ -1,0 +1,51 @@
+---
+term: netopostali adresu
+slug: netopostali adresu
+ipa: "netopos\u02C8tali a\u02C8d\u027Eesu"
+ipa link: "http://ipa-reader.xyz/?text=netopos\u02C8tali a\u02C8d\u027Eesu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - email address
+  epo:
+  - - "retpo\u015Dta adreso"
+    - "retpo\u015Dtadreso"
+  spa:
+  - - "direcci\xF3n de correo electr\xF3nico"
+search terms:
+  glb:
+  - netopostali adresu
+  - netopostali
+  - adresu
+  eng:
+  - email address
+  epo:
+  - "retpo\u015Dta adreso"
+  - "retpo\u015Dtadreso"
+  spa:
+  - "direcci\xF3n de correo electr\xF3nico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/neto">neto</a> + <a href="../lexi/posta">posta</a> + <a
+  href="../lexi/-li">-li</a>, <a href="../lexi/adresu">adresu</a>
+raw data:
+  term: netopostali adresu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: email address
+    epo: "retpo\u015Dta adreso, retpo\u015Dtadreso"
+    spa: "direcci\xF3n de correo electr\xF3nico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: neto + posta + -li, adresu
+...

@@ -1,0 +1,60 @@
+---
+term: yon
+slug: yon
+ipa: jon
+ipa link: http://ipa-reader.xyz/?text=jon&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - with
+    - by
+    - by means of
+    - through
+    - via
+  epo:
+  - - per
+  spa:
+  - - con (_utilizando_)
+    - por medio de
+    - mediante
+search terms:
+  glb:
+  - yon
+  eng:
+  - with
+  - by
+  - by means of
+  - through
+  - via
+  epo:
+  - per
+  spa:
+  - con
+  - por medio de
+  - mediante
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/yongu">yongu</a>.
+antonyms:
+- nenyon
+raw data:
+  term: yon
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: with, by, by means of, through, via
+    epo: per
+    spa: con (_utilizando_), por medio de, mediante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: nenyon
+  example: ""
+  tags: ""
+  etymology: Am oko _yongu_.
+...

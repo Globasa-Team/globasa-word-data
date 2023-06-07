@@ -1,0 +1,52 @@
+---
+term: plugi
+slug: plugi
+ipa: "\u02C8plugi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8plugi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - multiplication
+  - - multiply
+  epo:
+  - - multigo
+  - - multigi
+  spa:
+  - - "multiplicaci\xF3n"
+  - - multiplicar
+search terms:
+  glb:
+  - plugi
+  eng:
+  - multiplication
+  - multiply
+  epo:
+  - multigo
+  - multigi
+  spa:
+  - "multiplicaci\xF3n"
+  - multiplicar
+etymology_type: DERIVD
+etymology: <a href="../lexi/plu">plu</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: plugi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: multiplication; multiply
+    epo: multigo; multigi
+    spa: "multiplicaci\xF3n; multiplicar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: plu + -gi
+...

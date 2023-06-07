@@ -1,0 +1,48 @@
+---
+term: lilnahir
+slug: lilnahir
+ipa: "lilna\u02C8xi\u027E"
+ipa link: "http://ipa-reader.xyz/?text=lilna\u02C8xi\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - stream
+    - brook
+  epo:
+  - - rivereto
+  spa:
+  - - arroyo
+search terms:
+  glb:
+  - lilnahir
+  eng:
+  - stream
+  - brook
+  epo:
+  - rivereto
+  spa:
+  - arroyo
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/nahir">nahir</a>
+raw data:
+  term: lilnahir
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: stream, brook
+    epo: rivereto
+    spa: arroyo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + nahir
+...

@@ -1,0 +1,61 @@
+---
+term: kasava
+slug: kasava
+ipa: "ka\u02C8sava"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8sava&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cassava
+    - manioc
+    - yuca
+  epo:
+  - - kasavo
+    - manioko
+  spa:
+  - - mandioca
+    - yuca
+    - _Manihot esculenta_
+search terms:
+  glb:
+  - kasava
+  eng:
+  - cassava
+  - manioc
+  - yuca
+  epo:
+  - kasavo
+  - manioko
+  spa:
+  - mandioca
+  - yuca
+  - manihot esculenta
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: kasava
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cassava, manioc, yuca
+    epo: kasavo, manioko
+    spa: mandioca, yuca, _Manihot esculenta_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (cassava), Doycisa (Kassawa), Pilipinasa (kasaba, cassava),
+    Hindisa (\u0915\u0938\u093E\u0935\u093E \"kasava\"), Arabisa (\u0643\u0627\u0633\u0627\u06A8\u0627
+    \"kasava\"), Niponsa (\u30AD\u30E3\u30C3\u30B5\u30D0 \"kyassaba\"), Hangusa (\uCE74\uC0AC\uBC14
+    \"kasaba\"), Parsisa (\u06A9\u0627\u0633\u0627\u0648 \"kasav\")"
+...

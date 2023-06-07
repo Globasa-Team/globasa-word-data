@@ -1,0 +1,56 @@
+---
+term: osel
+slug: osel
+ipa: "o\u02C8sel"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8sel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - donkey
+  epo:
+  - - azeno
+  spa:
+  - - burro
+    - asno
+    - _Equus africanus asinus_
+search terms:
+  glb:
+  - osel
+  eng:
+  - donkey
+  epo:
+  - azeno
+  spa:
+  - burro
+  - asno
+  - equus africanus asinus
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Esel
+  Rusisa:
+  - - "\u043E\u0441\u0451\u043B \u201Cosel\u201D"
+tags:
+- hewan
+raw data:
+  term: osel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: donkey
+    epo: azeno
+    spa: burro, asno, _Equus africanus asinus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Doycisa (Esel), Rusisa (\u043E\u0441\u0451\u043B \u201Cosel\u201D)"
+...

@@ -1,0 +1,50 @@
+---
+term: ananassui
+slug: ananassui
+ipa: "ananas\u02C8sui"
+ipa link: "http://ipa-reader.xyz/?text=ananas\u02C8sui&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pineappleade
+  epo:
+  - - ananasakvo
+    - ananasado
+  spa:
+  - - "agua de pi\xF1a"
+    - "agua de anan\xE1"
+search terms:
+  glb:
+  - ananassui
+  eng:
+  - pineappleade
+  epo:
+  - ananasakvo
+  - ananasado
+  spa:
+  - "agua de pi\xF1a"
+  - "agua de anan\xE1"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ananas">ananas</a> + <a href="../lexi/sui">sui</a>
+raw data:
+  term: ananassui
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pineappleade
+    epo: ananasakvo, ananasado
+    spa: "agua de pi\xF1a, agua de anan\xE1"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ananas + sui
+...

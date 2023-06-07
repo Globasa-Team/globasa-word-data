@@ -1,0 +1,46 @@
+---
+term: minxilogi
+slug: minxilogi
+ipa: "min\u0283i\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=min\u0283i\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - civics
+  epo:
+  - - civita eduko
+  spa:
+  - - "c\xEDvica"
+search terms:
+  glb:
+  - minxilogi
+  eng:
+  - civics
+  epo:
+  - civita eduko
+  spa:
+  - "c\xEDvica"
+etymology_type: DERIVD
+etymology: <a href="../lexi/minxi">minxi</a> + <a href="../lexi/-logi">-logi</a>
+raw data:
+  term: minxilogi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: civics
+    epo: civita eduko
+    spa: "c\xEDvica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: minxi + -logi
+...

@@ -1,0 +1,51 @@
+---
+term: ton-
+slug: ton-
+ipa: "\u02C8ton-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ton-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - co-
+    - (together) with
+  epo:
+  - - kun- (_kune kun_)
+  spa:
+  - - co-
+    - junto con
+search terms:
+  glb:
+  - ton-
+  eng:
+  - co-
+  - together with
+  - with
+  epo:
+  - kun-
+  spa:
+  - co-
+  - junto con
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/ton">ton</a>.
+raw data:
+  term: ton-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: co-, (together) with
+    epo: kun- (_kune kun_)
+    spa: co-, junto con
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _ton_.
+...

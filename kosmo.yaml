@@ -1,0 +1,53 @@
+---
+term: kosmo
+slug: kosmo
+ipa: "\u02C8kosmo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kosmo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - universe
+  epo:
+  - - kosmo
+    - universo
+  spa:
+  - - universo
+search terms:
+  glb:
+  - kosmo
+  eng:
+  - universe
+  epo:
+  - kosmo
+  - universo
+  spa:
+  - universo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kosmo
+raw data:
+  term: kosmo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: universe
+    epo: kosmo, universo
+    spa: universo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kosmo
+  etymology: "Englisa (cosmos), Fransesa (cosmos), Doycisa (Kosmos), Rusisa (\u043A\u043E\u0441\u043C\u043E\u0441
+    \u201Ckosmos\u201D), Espanisa (cosmos), Turkisa (kozmos), Indonesisa (kosmos),
+    Pilipinasa (kosmos), Niponsa (\u30B3\u30B9\u30E2\u30B9 \u201Ckosumosu\u201D),
+    Hangusa (\uCF54\uC2A4\uBAA8\uC2A4 \u201Ckosumosu\u201D)"
+...

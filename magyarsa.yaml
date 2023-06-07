@@ -1,0 +1,50 @@
+---
+term: magyarsa
+slug: magyarsa
+ipa: "ma\u02C8gja\u027Esa"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8gja\u027Esa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Hungarian (language)
+  epo:
+  - - la hungara (lingvo)
+  spa:
+  - - "h\xFAngaro (_idioma_)"
+search terms:
+  glb:
+  - magyarsa
+  eng:
+  - hungarian language
+  - hungarian
+  epo:
+  - la hungara lingvo
+  - la hungara
+  spa:
+  - "h\xFAngaro"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Magyar">Magyar</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Magyarsa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Hungarian (language)
+    epo: la hungara (lingvo)
+    spa: "h\xFAngaro (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Magyar + -sa
+...

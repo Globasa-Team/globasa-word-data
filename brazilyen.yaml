@@ -1,0 +1,46 @@
+---
+term: brazilyen
+slug: brazilyen
+ipa: "b\u027Eazi\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=b\u027Eazi\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Brazilian
+  epo:
+  - - brazilano
+  spa:
+  - - "brasile\xF1o (_persona_)"
+search terms:
+  glb:
+  - brazilyen
+  eng:
+  - brazilian
+  epo:
+  - brazilano
+  spa:
+  - "brasile\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Brazil">Brazil</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Brazilyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Brazilian
+    epo: brazilano
+    spa: "brasile\xF1o (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Brazil + -yen
+...

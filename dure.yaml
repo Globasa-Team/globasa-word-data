@@ -1,0 +1,62 @@
+---
+term: dure
+slug: dure
+ipa: ˈduɾe
+ipa link: http://ipa-reader.xyz/?text=ˈduɾe&voice=Ewa
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - duration
+  - - last
+    - continue
+    - go on
+  epo:
+  - - daŭro
+  - - daŭri
+  spa:
+  - - duración
+  - - durar
+search terms:
+  glb:
+  - dure
+  eng:
+  - duration
+  - last
+  - continue
+  - go on
+  epo:
+  - daŭro
+  - daŭri
+  spa:
+  - duración
+  - durar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - duration
+  Fransesa:
+  - - durée
+  Doycisa: ~
+  Espanisa: ~
+raw data:
+  term: dure
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: duration; last, continue, go on
+    epo: daŭro; daŭri
+    spa: duración; durar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (duration), Fransesa (durée), Doycisa, Espanisa
+...

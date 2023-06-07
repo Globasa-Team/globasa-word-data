@@ -1,0 +1,49 @@
+---
+term: konceto
+slug: konceto
+ipa: "kon\u02C8t\u0361\u0283eto"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8t\u0361\u0283eto&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - concept
+  epo:
+  - - koncepto
+  spa:
+  - - concepto
+search terms:
+  glb:
+  - konceto
+  eng:
+  - concept
+  epo:
+  - koncepto
+  spa:
+  - concepto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: konceto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: concept
+    epo: koncepto
+    spa: concepto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (concept), Fransesa (concept), Doycisa (Konzept), Rusisa (\u043A\u043E\u043D\u0446\u0435\u043F\u0446\u0438\u044F
+    \u201Ckontseptsiya\u201D), Espanisa (concepto), Niponsa (\u30B3\u30F3\u30BB\u30D7\u30C8
+    \u201Ckonseputo\u201D), Hangusa (\uCEE8\uC149 \u201Ckonsep\u201D, \uCF58\uC149\uD2B8
+    \u201Ckonseptu\u201D), Indonesisa (konsep), Pilipinasa (konsepto)"
+...

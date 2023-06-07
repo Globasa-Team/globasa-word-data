@@ -1,0 +1,49 @@
+---
+term: samaoto
+slug: samaoto
+ipa: "sama\u02C8oto"
+ipa link: "http://ipa-reader.xyz/?text=sama\u02C8oto&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - the same things
+  epo:
+  - - samoj
+    - la samaj (aferoj)
+  spa:
+  - - las mismas cosas
+search terms:
+  glb:
+  - samaoto
+  eng:
+  - the same things
+  epo:
+  - samoj
+  - la samaj aferoj
+  - la samaj
+  spa:
+  - las mismas cosas
+etymology_type: DERIVD
+etymology: <a href="../lexi/sama">sama</a> + <a href="../lexi/oto">oto</a>
+raw data:
+  term: samaoto
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: the same things
+    epo: samoj, la samaj (aferoj)
+    spa: las mismas cosas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sama + oto
+...

@@ -1,0 +1,84 @@
+---
+term: dolar
+slug: dolar
+ipa: doˈlaɾ
+ipa link: http://ipa-reader.xyz/?text=doˈlaɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dollar
+  epo:
+  - - dolaro
+  spa:
+  - - dólar
+    - $
+search terms:
+  glb:
+  - dolar
+  eng:
+  - dollar
+  epo:
+  - dolaro
+  spa:
+  - dólar
+  - $
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - dollar
+  Hindisa:
+  - - डॉलर “dolar”
+    - डौलर “daular”
+    - डालर “dalar”
+  Espanisa:
+  - - dólar
+  Arabisa:
+  - - دُولَار‎ “dular”
+  Fransesa:
+  - - dollar
+  Rusisa:
+  - - доллар “dollar”
+  Indonesisa:
+  - - dolar
+  Doycisa:
+  - - Dollar
+  Niponsa:
+  - - ドル “doru”
+  Turkisa:
+  - - dolar
+  Hangusa:
+  - - 러 “dallo”
+  Vyetnamsa:
+  - - đô la
+  Parsisa:
+  - - دلار‎ “dolâr”
+  Swahilisa:
+  - - dola
+  Pilipinasa:
+  - - dolyar
+raw data:
+  term: dolar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dollar
+    epo: dolaro
+    spa: dólar, $
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (dollar), Hindisa (डॉलर “dolar”, डौलर “daular”, डालर “dalar”),
+    Espanisa (dólar), Arabisa (دُولَار‎ “dular”), Fransesa (dollar), Rusisa (доллар
+    “dollar”), Indonesisa (dolar), Doycisa (Dollar), Niponsa (ドル “doru”), Turkisa
+    (dolar), Hangusa (러 “dallo”), Vyetnamsa (đô la), Parsisa (دلار‎ “dolâr”), Swahilisa
+    (dola), Pilipinasa (dolyar)
+...

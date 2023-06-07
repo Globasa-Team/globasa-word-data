@@ -1,0 +1,57 @@
+---
+term: xen
+slug: xen
+ipa: "\u02C8\u0283en"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283en&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - born
+  epo:
+  - - naskita
+  - - naskite
+  spa:
+  - - nacido
+search terms:
+  glb:
+  - xen
+  eng:
+  - born
+  epo:
+  - naskita
+  - naskite
+  spa:
+  - nacido
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u751F \u201Csh\u0113ng\u201D"
+  Hangusa:
+  - - "\uCD9C\uC0DD \u201Cculseng\u201D - xengi"
+    - "\uC0DD \u201Cseng\u201D"
+  Vyetnamsa:
+  - - sinh
+    - sanh
+raw data:
+  term: xen
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: born
+    epo: naskita; naskite
+    spa: nacido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u751F \u201Csh\u0113ng\u201D), Hangusa (\uCD9C\uC0DD \u201Cculseng\u201D
+    - xengi, \uC0DD \u201Cseng\u201D), Vyetnamsa (sinh, sanh)"
+...

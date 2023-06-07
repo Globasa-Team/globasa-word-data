@@ -1,0 +1,48 @@
+---
+term: gitarayen
+slug: gitarayen
+ipa: "gita\u027Ea\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=gita\u027Ea\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - guitarist
+    - guitar player
+  epo:
+  - - gitaristo
+  spa:
+  - - guitarrista
+search terms:
+  glb:
+  - gitarayen
+  eng:
+  - guitarist
+  - guitar player
+  epo:
+  - gitaristo
+  spa:
+  - guitarrista
+etymology_type: DERIVD
+etymology: <a href="../lexi/gitara">gitara</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: gitarayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: guitarist, guitar player
+    epo: gitaristo
+    spa: guitarrista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gitara + -yen
+...

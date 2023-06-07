@@ -1,0 +1,53 @@
+---
+term: bahari artiko
+slug: bahari artiko
+ipa: "ba\u02C8xa\u027Ei a\u027E\u02C8tiko"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8xa\u027Ei a\u027E\u02C8tiko&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Arctic Ocean
+    - (the) Arctic
+  epo:
+  - - Arkta Oceano
+    - Norda Oceano
+  spa:
+  - - "oc\xE9ano \xC1rtico"
+search terms:
+  glb:
+  - bahari artiko
+  - bahari
+  - artiko
+  eng:
+  - arctic ocean
+  - the arctic
+  - arctic
+  epo:
+  - arkta oceano
+  - norda oceano
+  spa:
+  - "oc\xE9ano \xC1rtico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bahari">bahari</a>, <a href="../lexi/Artiko">Artiko</a>
+raw data:
+  term: Bahari Artiko
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Arctic Ocean, (the) Arctic
+    epo: Arkta Oceano, Norda Oceano
+    spa: "oc\xE9ano \xC1rtico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bahari, Artiko
+...

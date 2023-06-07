@@ -1,0 +1,54 @@
+---
+term: mumusa
+slug: mumusa
+ipa: "mu\u02C8musa"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8musa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - moo
+  epo:
+  - - "mu\u011Do"
+    - bovobleko
+  - - "mu\u011Di"
+    - bovobleki
+  spa:
+  - - mugido
+  - - mugir
+search terms:
+  glb:
+  - mumusa
+  eng:
+  - moo
+  epo:
+  - "mu\u011Do"
+  - bovobleko
+  - "mu\u011Di"
+  - bovobleki
+  spa:
+  - mugido
+  - mugir
+etymology_type: DERIVD
+etymology: <a href="../lexi/mumu">mumu</a> + <a href="../lexi/-sa">-sa</a>
+raw data:
+  term: mumusa
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: moo
+    epo: "mu\u011Do, bovobleko; mu\u011Di, bovobleki"
+    spa: mugido; mugir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mumu + -sa
+...

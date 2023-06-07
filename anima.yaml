@@ -1,0 +1,93 @@
+---
+term: anima
+slug: anima
+ipa: aˈnima
+ipa link: http://ipa-reader.xyz/?text=aˈnima&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - animation
+    - anime
+    - cartoon
+  - - animate
+  epo:
+  - - animacio
+  - - animacii
+  spa:
+  - - animación
+    - dibujo animado
+    - _anime_
+  - - animar
+search terms:
+  glb:
+  - anima
+  eng:
+  - animation
+  - anime
+  - cartoon
+  - animate
+  epo:
+  - animacio
+  - animacii
+  spa:
+  - animación
+  - dibujo animado
+  - anime
+  - animar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - animation
+    - animate
+  Espanisa:
+  - - animación
+    - animar
+  Fransesa:
+  - - animation
+  Doycisa: ~
+  Rusisa:
+  - - анимация “animatsya”
+  Indonesisa:
+  - - animasi
+  Pilipinasa:
+  - - animasyon
+  Turkisa: ~
+  Hindisa:
+  - - एनिमेशन “enimexan”
+  Arabisa:
+  - - أَنِمِي “animi”
+  Niponsa:
+  - - アニメーション “animexon”
+    - アニメ “anime”
+  Telugusa:
+  - - యానిమేషన్ “yanimexan”
+  Hangusa:
+  - - 애니메이션 “enimeyxon”
+  Parsisa:
+  - - انیمیشن “animeyxen”
+raw data:
+  term: anima
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: animation, anime, cartoon; animate
+    epo: animacio; animacii
+    spa: animación, dibujo animado, _anime_; animar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (animation, animate), Espanisa (animación, animar), Fransesa
+    (animation), Doycisa, Rusisa (анимация “animatsya”), Indonesisa (animasi), Pilipinasa
+    (animasyon), Turkisa, Hindisa (एनिमेशन “enimexan”), Arabisa (أَنِمِي “animi”),
+    Niponsa (アニメーション “animexon”, アニメ “anime”), Telugusa (యానిమేషన్ “yanimexan”), Hangusa
+    (애니메이션 “enimeyxon”), Parsisa (انیمیشن “animeyxen”)
+...

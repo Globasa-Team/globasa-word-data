@@ -1,0 +1,58 @@
+---
+term: minimum
+slug: minimum
+ipa: "mini\u02C8mum"
+ipa link: "http://ipa-reader.xyz/?text=mini\u02C8mum&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - minimum
+    - minimal
+  - - at least
+  epo:
+  - - minimuma
+  - - minimume
+  spa:
+  - - "m\xEDnimo"
+    - "a lo m\xEDnimo"
+    - al menos
+search terms:
+  glb:
+  - minimum
+  eng:
+  - minimum
+  - minimal
+  - at least
+  epo:
+  - minimuma
+  - minimume
+  spa:
+  - "m\xEDnimo"
+  - "a lo m\xEDnimo"
+  - al menos
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: minimum
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: minimum, minimal; at least
+    epo: minimuma; minimume
+    spa: "m\xEDnimo, a lo m\xEDnimo, al menos"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (minimum), Espanisa (m\xEDnimo), Englisa (minimum), Doycisa
+    (Minimum), Rusisa (\u043C\u0438\u043D\u0438\u043C\u0443\u043C \"m\xEDnimum\"),
+    Indonesisa (minimal), Pilipinasa (minimalismo), Turkisa (minimum)"
+...

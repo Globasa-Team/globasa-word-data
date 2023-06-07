@@ -1,0 +1,58 @@
+---
+term: mena
+slug: mena
+ipa: "\u02C8mena"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mena&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - meaning
+    - sense
+  - - mean
+  epo:
+  - - signifo
+  - - signifi
+  spa:
+  - - significado
+    - sentido
+  - - significar
+search terms:
+  glb:
+  - mena
+  eng:
+  - meaning
+  - sense
+  - mean
+  epo:
+  - signifo
+  - signifi
+  spa:
+  - significado
+  - sentido
+  - significar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mena
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: meaning, sense; mean
+    epo: signifo; signifi
+    spa: significado, sentido; significar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0639\u0646\u0649 \u201Cmaenaa\u201D), Swahilisa (maana),
+    Parsisa (\u0645\u0639\u0646\u06CC \u201Cmani\u201D, \u201Cmana\u201D), Turkisa
+    (man\xE2), Hindisa (\u092E\u0905\u0928\u0940 \u201Cmaani\u201D), Englisa (mean)"
+...

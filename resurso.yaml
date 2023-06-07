@@ -1,0 +1,62 @@
+---
+term: resurso
+slug: resurso
+ipa: "\u027Ee\u02C8su\u027Eso"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8su\u027Eso&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - resource
+  epo:
+  - - rimedo
+    - resurso
+  spa:
+  - - recurso
+search terms:
+  glb:
+  - resurso
+  eng:
+  - resource
+  epo:
+  - rimedo
+  - resurso
+  spa:
+  - recurso
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - resource
+  Fransesa:
+  - - ressource
+  Doycisa:
+  - - Ressource
+  Rusisa:
+  - - "\u0440\u0435\u0441\u0443\u0440\u0441 \u201Cresurs\u201D"
+  Espanisa:
+  - - recurso
+  Pilipinasa:
+  - - rekurso
+raw data:
+  term: resurso
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: resource
+    epo: rimedo, resurso
+    spa: recurso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (resource), Fransesa (ressource), Doycisa (Ressource), Rusisa
+    (\u0440\u0435\u0441\u0443\u0440\u0441 \u201Cresurs\u201D), Espanisa (recurso),
+    Pilipinasa (rekurso)"
+...

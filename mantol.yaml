@@ -1,0 +1,43 @@
+---
+term: mantol
+slug: mantol
+ipa: "man\u02C8tol"
+ipa link: "http://ipa-reader.xyz/?text=man\u02C8tol&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mantle
+  spa:
+  - - manto
+search terms:
+  glb:
+  - mantol
+  eng:
+  - mantle
+  spa:
+  - manto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mantol
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mantle
+    epo: ""
+    spa: manto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa ( ), Espanisa, Fransesa, Rusisa, Doycisa, Turkisa, Niponsa, Hangusa,
+    Parsisa
+...

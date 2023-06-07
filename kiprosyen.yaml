@@ -1,0 +1,47 @@
+---
+term: kiprosyen
+slug: kiprosyen
+ipa: "kip\u027Eo\u02C8sjen"
+ipa link: "http://ipa-reader.xyz/?text=kip\u027Eo\u02C8sjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Cypriot (person)
+  epo:
+  - - kiprano
+  spa:
+  - - chipriota (_persona_)
+search terms:
+  glb:
+  - kiprosyen
+  eng:
+  - cypriot person
+  - cypriot
+  epo:
+  - kiprano
+  spa:
+  - chipriota
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kipros">Kipros</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Kiprosyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Cypriot (person)
+    epo: kiprano
+    spa: chipriota (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kipros + -yen
+...

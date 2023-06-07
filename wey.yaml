@@ -1,0 +1,46 @@
+---
+term: wey
+slug: wey
+ipa: wej
+ipa link: http://ipa-reader.xyz/?text=wej&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - around
+  epo:
+  - - "\u0109irka\u016D"
+  spa:
+  - - alrededor de
+search terms:
+  glb:
+  - wey
+  eng:
+  - around
+  epo:
+  - "\u0109irka\u016D"
+  spa:
+  - alrededor de
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/jowey">jowey</a>.
+raw data:
+  term: wey
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: around
+    epo: "\u0109irka\u016D"
+    spa: alrededor de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _jowey_.
+...

@@ -1,0 +1,77 @@
+---
+term: esparago
+slug: esparago
+ipa: espaˈɾago
+ipa link: http://ipa-reader.xyz/?text=espaˈɾago&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - asparagus
+  epo:
+  - - asparago
+  spa:
+  - - espárrago
+    - _Asparagus officinalis_
+search terms:
+  glb:
+  - esparago
+  eng:
+  - asparagus
+  epo:
+  - asparago
+  spa:
+  - espárrago
+  - asparagus officinalis
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - asparagus
+  Fransesa:
+  - - asperge
+  Doycisa:
+  - - Spargel
+  Rusisa:
+  - - спаржа “sparža”
+  Espanisa:
+  - - espárrago
+  Indonesisa:
+  - - asparagus
+  Pilipinasa:
+  - - esparago
+  Niponsa:
+  - - アスパラガス “asuparagasu”
+  Hangusa:
+  - - 아스파라거스 “aseuparageoseu”
+  Arabisa:
+  - - أسفراج “ʾasfarāj”
+  Swahilisa:
+  - - asparaga
+  Parsisa:
+  - - سپارک‎ “sepārk”
+tags:
+- yamxey
+raw data:
+  term: esparago
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: asparagus
+    epo: asparago
+    spa: espárrago, _Asparagus officinalis_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Englisa (asparagus), Fransesa (asperge), Doycisa (Spargel), Rusisa (спаржа
+    “sparža”), Espanisa (espárrago), Indonesisa (asparagus), Pilipinasa (esparago),
+    Niponsa (アスパラガス “asuparagasu”), Hangusa (아스파라거스 “aseuparageoseu”), Arabisa (أسفراج
+    “ʾasfarāj”), Swahilisa (asparaga), Parsisa (سپارک‎ “sepārk”)
+...

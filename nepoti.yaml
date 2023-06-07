@@ -1,0 +1,73 @@
+---
+term: nepoti
+slug: nepoti
+ipa: "ne\u02C8poti"
+ipa link: "http://ipa-reader.xyz/?text=ne\u02C8poti&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nephew
+    - niece
+  epo:
+  - - nevo
+    - nevino
+  spa:
+  - - sobrino
+search terms:
+  glb:
+  - nepoti
+  eng:
+  - nephew
+  - niece
+  epo:
+  - nevo
+  - nevino
+  spa:
+  - sobrino
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nepotism
+  Doycisa:
+  - - Nepotismus
+  Fransesa:
+  - - "n\xE9potisme"
+  Espanisa:
+  - - nepotismo
+  Rusisa:
+  - - "\u043D\u0435\u043F\u043E\u0442\u0438\u0437\u043C \u201Cnepotizm\u201D"
+  Indonesisa:
+  - - nepotisme
+  Pilipinasa:
+  - - nepotismo
+  Hindisa:
+  - - "\u0928\u0947\u092A\u094D\u091F\u094B\u0907\u091C\u094D\u092E \u201Cnepotijm\u201D"
+  Turkisa:
+  - - nepotizm
+tags:
+- famil
+raw data:
+  term: nepoti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nephew, niece
+    epo: nevo, nevino
+    spa: sobrino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: famil
+  etymology: "Englisa (nepotism), Doycisa (Nepotismus), Fransesa (n\xE9potisme), Espanisa
+    (nepotismo), Rusisa (\u043D\u0435\u043F\u043E\u0442\u0438\u0437\u043C \u201Cnepotizm\u201D),
+    Indonesisa (nepotisme), Pilipinasa (nepotismo), Hindisa (\u0928\u0947\u092A\u094D\u091F\u094B\u0907\u091C\u094D\u092E
+    \u201Cnepotijm\u201D), Turkisa (nepotizm)"
+...

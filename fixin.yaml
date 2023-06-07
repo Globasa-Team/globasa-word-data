@@ -1,0 +1,75 @@
+---
+term: fixin
+slug: fixin
+ipa: fiˈʃin
+ipa link: http://ipa-reader.xyz/?text=fiˈʃin&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - phishing
+  epo:
+  - - rettrompado
+    - reta trompado
+    - ŝteltruko
+  spa:
+  - - fraude electrónico
+search terms:
+  glb:
+  - fixin
+  eng:
+  - phishing
+  epo:
+  - rettrompado
+  - reta trompado
+  - ŝteltruko
+  spa:
+  - fraude electrónico
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - phishing
+  Espanisa:
+  - - phishing
+  Rusisa:
+  - - фишинг "fixing"
+  Doycisa:
+  - - Phishing
+  Pilipinasa:
+  - - phishing
+  Hindisa:
+  - - फ़िशिंग "fixing"
+  Niponsa:
+  - - フィッシング詐欺 "fixxingu sagi"
+  Telugusa:
+  - - ఫిషింగ్ "fixing"
+  Hangusa:
+  - - 피싱 "pixing"
+  Parsisa:
+  - - فیشینگ‎ "fixing"
+  Swahilisa:
+  - - phishing
+raw data:
+  term: fixin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: phishing
+    epo: rettrompado, reta trompado, ŝteltruko
+    spa: fraude electrónico
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (phishing), Espanisa (phishing), Rusisa (фишинг "fixing"), Doycisa
+    (Phishing), Pilipinasa (phishing), Hindisa (फ़िशिंग "fixing"), Niponsa (フィッシング詐欺
+    "fixxingu sagi"), Telugusa (ఫిషింగ్ "fixing"), Hangusa (피싱 "pixing"), Parsisa
+    (فیشینگ‎ "fixing"), Swahilisa (phishing)
+...

@@ -1,0 +1,66 @@
+---
+term: fenjan
+slug: fenjan
+ipa: fenˈd͡ʒan
+ipa link: http://ipa-reader.xyz/?text=fenˈd͡ʒan&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cup
+    - mug
+  epo:
+  - - taso
+    - glaso
+    - (trinko)kruĉo
+  spa:
+  - - taza
+search terms:
+  glb:
+  - fenjan
+  eng:
+  - cup
+  - mug
+  epo:
+  - taso
+  - glaso
+  - trinkokruĉo
+  - kruĉo
+  spa:
+  - taza
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فنجان “finjan”
+  Parsisa:
+  - - فنجان “fenjan”
+  Turkisa:
+  - - fincan
+  Elinisa:
+  - - φλιτζάνι “flitzáni”
+  Magyarsa:
+  - - findzsa
+tags:
+- xey
+raw data:
+  term: fenjan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cup, mug
+    epo: taso, glaso, (trinko)kruĉo
+    spa: taza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: xey
+  etymology: Arabisa (فنجان “finjan”), Parsisa (فنجان “fenjan”), Turkisa (fincan),
+    Elinisa (φλιτζάνι “flitzáni”), Magyarsa (findzsa)
+...

@@ -1,0 +1,50 @@
+---
+term: sawdili
+slug: sawdili
+ipa: "saw\u02C8dili"
+ipa link: "http://ipa-reader.xyz/?text=saw\u02C8dili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Saudi
+    - Saudi Arabian
+  epo:
+  - - "sa\u016Dda"
+    - "sa\u016Dd-araba"
+  spa:
+  - - "saud\xED"
+search terms:
+  glb:
+  - sawdili
+  eng:
+  - saudi
+  - saudi arabian
+  epo:
+  - "sa\u016Dda"
+  - "sa\u016Dd-araba"
+  spa:
+  - "saud\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Sawdi">Sawdi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Sawdili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Saudi, Saudi Arabian
+    epo: "sa\u016Dda, sa\u016Dd-araba"
+    spa: "saud\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Sawdi + -li
+...

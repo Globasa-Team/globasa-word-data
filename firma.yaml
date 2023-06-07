@@ -1,0 +1,78 @@
+---
+term: firma
+slug: firma
+ipa: ˈfiɾma
+ipa link: http://ipa-reader.xyz/?text=ˈfiɾma&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - company
+    - firm
+    - corporation
+  epo:
+  - - kompanio
+    - firmao
+    - korporacio
+    - firmo
+    - entrepreno (la firmao)
+  spa:
+  - - compañía
+    - firma
+    - empresa
+    - corporación
+search terms:
+  glb:
+  - firma
+  eng:
+  - company
+  - firm
+  - corporation
+  epo:
+  - kompanio
+  - firmao
+  - korporacio
+  - firmo
+  - entrepreno la firmao
+  - entrepreno
+  spa:
+  - compañía
+  - firma
+  - empresa
+  - corporación
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - firm
+  Fransesa:
+  - - firme
+  Doycisa:
+  - - Firma
+  Rusisa:
+  - - фирма “firma”
+  Indonesisa:
+  - - firma
+  Turkisa:
+  - - firma
+raw data:
+  term: firma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: company, firm, corporation
+    epo: kompanio, firmao, korporacio, firmo, entrepreno (la firmao)
+    spa: compañía, firma, empresa, corporación
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (firm), Fransesa (firme), Doycisa (Firma), Rusisa (фирма “firma”),
+    Indonesisa (firma), Turkisa (firma)
+...

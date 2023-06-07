@@ -1,0 +1,49 @@
+---
+term: koda
+slug: koda
+ipa: "\u02C8koda"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8koda&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tail
+  epo:
+  - - vosto
+  spa:
+  - - cola
+search terms:
+  glb:
+  - koda
+  eng:
+  - tail
+  epo:
+  - vosto
+  spa:
+  - cola
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: koda
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tail
+    epo: vosto
+    spa: cola
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (coda), Fransesa (caudal), Doycisa (kaudal, Coda), Rusisa (\u043A\u043E\u0434\u0430
+    \u201Ckoda\u201D), Espanisa (coda, cola, caudal), Turkisa"
+...

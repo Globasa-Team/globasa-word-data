@@ -1,0 +1,54 @@
+---
+term: ixgalu
+slug: ixgalu
+ipa: "i\u0283\u02C8galu"
+ipa link: "http://ipa-reader.xyz/?text=i\u0283\u02C8galu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - occupation
+  - - occupy
+  epo:
+  - - okupo
+  - - okupi
+  spa:
+  - - "ocupaci\xF3n"
+  - - ocupar
+search terms:
+  glb:
+  - ixgalu
+  eng:
+  - occupation
+  - occupy
+  epo:
+  - okupo
+  - okupi
+  spa:
+  - "ocupaci\xF3n"
+  - ocupar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ixgalu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: occupation; occupy
+    epo: okupo; okupi
+    spa: "ocupaci\xF3n; ocupar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0634\u063A\u0644 \u201Cshaghal\u201D; \u064A\u064E\u0634\u0652\u063A\u064E\u0644\u064F\u200E\u200E
+    \u201Cya\u0161\u1E21alu\u201D), Parsisa (\u0627\u0634\u063A\u0627\u0644 \u201Ceshgal\u201D),
+    Turkisa (i\u015Fgal), Swahlisa (shughuli)"
+...

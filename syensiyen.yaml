@@ -1,0 +1,46 @@
+---
+term: syensiyen
+slug: syensiyen
+ipa: "sjensi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=sjensi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - scientist
+  epo:
+  - - sciencisto
+  spa:
+  - - "cient\xEDfico (_persona_)"
+search terms:
+  glb:
+  - syensiyen
+  eng:
+  - scientist
+  epo:
+  - sciencisto
+  spa:
+  - "cient\xEDfico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/syensi">syensi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: syensiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: scientist
+    epo: sciencisto
+    spa: "cient\xEDfico (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: syensi + -yen
+...

@@ -1,0 +1,76 @@
+---
+term: ametisto
+slug: ametisto
+ipa: ameˈtisto
+ipa link: http://ipa-reader.xyz/?text=ameˈtisto&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - amethyst
+  epo:
+  - - ametisto
+  spa:
+  - - amatista
+search terms:
+  glb:
+  - ametisto
+  eng:
+  - amethyst
+  epo:
+  - ametisto
+  spa:
+  - amatista
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - amethyst
+  Espanisa:
+  - - amatista
+  Fransesa:
+  - - améthyste
+  Rusisa:
+  - - аметист “ametist”
+  Doycisa:
+  - - Amethyst
+  Indonesisa:
+  - - ametis
+  Pilipinasa:
+  - - amatista
+  Hindisa:
+  - - अमेथिस्ट “amethist”
+    - एमिथिस्ट “emithist”
+  Niponsa:
+  - - アメシスト “amexisuto”
+  Telugusa:
+  - - అమెథిస్ట్ “ametist”
+  Vyetnamsa:
+  - - ametit
+  Swahilisa:
+  - - amethisto
+tags:
+- petra
+raw data:
+  term: ametisto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: amethyst
+    epo: ametisto
+    spa: amatista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: Englisa (amethyst), Espanisa (amatista), Fransesa (améthyste), Rusisa
+    (аметист “ametist”), Doycisa (Amethyst), Indonesisa (ametis), Pilipinasa (amatista),
+    Hindisa (अमेथिस्ट “amethist”, एमिथिस्ट “emithist”), Niponsa (アメシスト “amexisuto”),
+    Telugusa (అమెథిస్ట్ “ametist”), Vyetnamsa (ametit), Swahilisa (amethisto)
+...

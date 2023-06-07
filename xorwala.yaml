@@ -1,0 +1,56 @@
+---
+term: xorwala
+slug: xorwala
+ipa: "\u0283o\u02C8\u027Ewala"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u02C8\u027Ewala&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - loss
+  - - lose
+  epo:
+  - - perdo
+  - - perdi
+    - ekmalhavi
+  spa:
+  - - "p\xE9rdida"
+  - - perder
+search terms:
+  glb:
+  - xorwala
+  eng:
+  - loss
+  - lose
+  epo:
+  - perdo
+  - perdi
+  - ekmalhavi
+  spa:
+  - "p\xE9rdida"
+  - perder
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor-">xor-</a> + <a href="../lexi/wala">wala</a>
+antonyms:
+- xorhare
+raw data:
+  term: xorwala
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: loss; lose
+    epo: perdo; perdi, ekmalhavi
+    spa: "p\xE9rdida; perder"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: xorhare
+  example: ""
+  tags: ""
+  etymology: xor- + wala
+...

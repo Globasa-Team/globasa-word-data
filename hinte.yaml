@@ -1,0 +1,54 @@
+---
+term: hinte
+slug: hinte
+ipa: "\u02C8xinte"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xinte&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - this
+    - this one
+    - this being
+    - this person
+  epo:
+  - - "\u0109i tiu"
+    - "tiu \u0109i"
+  spa:
+  - - "\xE9ste (_ser viviente_)"
+search terms:
+  glb:
+  - hinte
+  eng:
+  - this
+  - this one
+  - this being
+  - this person
+  epo:
+  - "\u0109i tiu"
+  - "tiu \u0109i"
+  spa:
+  - "\xE9ste"
+etymology_type: DERIVD
+etymology: <a href="../lexi/hin">hin</a> + <a href="../lexi/te">te</a>
+raw data:
+  term: hinte
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: this, this one, this being, this person
+    epo: "\u0109i tiu, tiu \u0109i"
+    spa: "\xE9ste (_ser viviente_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hin + te
+...

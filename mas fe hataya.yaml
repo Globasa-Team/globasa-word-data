@@ -1,0 +1,54 @@
+---
+term: mas fe hataya
+slug: mas fe hataya
+ipa: "mas fe xa\u02C8taja"
+ipa link: "http://ipa-reader.xyz/?text=mas fe xa\u02C8taja&voice=Ewa"
+status: false
+category: phrase
+word class: l jm
+trans:
+  eng:
+  - - and yet
+    - but nevertheless
+  epo:
+  - - sed tamen
+    - kaj tamen
+  spa:
+  - - mas sin embargo
+search terms:
+  glb:
+  - mas fe hataya
+  - mas
+  - fe
+  - hataya
+  eng:
+  - and yet
+  - but nevertheless
+  epo:
+  - sed tamen
+  - kaj tamen
+  spa:
+  - mas sin embargo
+etymology_type: DERIVD
+etymology: <a href="../lexi/mas">mas</a>, <a href="../lexi/fe">fe</a>, <a href="../lexi/hata">hata</a>
+  + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: mas fe hataya
+  category: phrase
+  word class: l jm
+  status: false
+  trans:
+    eng: and yet, but nevertheless
+    epo: sed tamen, kaj tamen
+    spa: mas sin embargo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mas, fe, hata + -ya
+...

@@ -1,0 +1,46 @@
+---
+term: pesimaismo
+slug: pesimaismo
+ipa: "pesima\u02C8ismo"
+ipa link: "http://ipa-reader.xyz/?text=pesima\u02C8ismo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pessimism
+  epo:
+  - - pesimismo
+  spa:
+  - - pesimismo
+search terms:
+  glb:
+  - pesimaismo
+  eng:
+  - pessimism
+  epo:
+  - pesimismo
+  spa:
+  - pesimismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/pesima">pesima</a> + <a href="../lexi/-ismo">-ismo</a>
+raw data:
+  term: pesimaismo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pessimism
+    epo: pesimismo
+    spa: pesimismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pesima + -ismo
+...

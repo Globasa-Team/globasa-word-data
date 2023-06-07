@@ -1,0 +1,49 @@
+---
+term: har
+slug: har
+ipa: "xa\u027E"
+ipa link: "http://ipa-reader.xyz/?text=xa\u027E&voice=Ewa"
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - with (_having_)
+  epo:
+  - - kun (havante)
+  spa:
+  - - con (_que tiene_)
+search terms:
+  glb:
+  - har
+  eng:
+  - with
+  epo:
+  - kun havante
+  - kun
+  spa:
+  - con
+etymology_type: DERIVD
+etymology: BLAH
+antonyms:
+- nenhar
+raw data:
+  term: har
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: with (_having_)
+    epo: kun (havante)
+    spa: con (_que tiene_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: nenhar
+  example: ""
+  tags: ""
+  etymology: Am oko _hare_.
+...

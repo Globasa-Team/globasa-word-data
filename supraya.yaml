@@ -1,0 +1,54 @@
+---
+term: supraya
+slug: supraya
+ipa: "su\u02C8p\u027Eaja"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8p\u027Eaja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - superiority
+    - aboveness
+  - - be above
+  epo:
+  - - supro
+  - - esti supra
+  spa:
+  - - superioridad
+  - - estar arriba
+search terms:
+  glb:
+  - supraya
+  eng:
+  - superiority
+  - aboveness
+  - be above
+  epo:
+  - supro
+  - esti supra
+  spa:
+  - superioridad
+  - estar arriba
+etymology_type: DERIVD
+etymology: <a href="../lexi/supra">supra</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: supraya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: superiority, aboveness; be above
+    epo: supro; esti supra
+    spa: superioridad; estar arriba
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: supra + -ya
+...

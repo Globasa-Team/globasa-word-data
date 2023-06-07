@@ -1,0 +1,54 @@
+---
+term: xwexi
+slug: xwexi
+ipa: "\u02C8\u0283we\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283we\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - learn
+  epo:
+  - - lernado
+  - - lerni
+  spa:
+  - - aprendizaje
+  - - aprender
+search terms:
+  glb:
+  - xwexi
+  eng:
+  - learn
+  epo:
+  - lernado
+  - lerni
+  spa:
+  - aprendizaje
+  - aprender
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5B66\u4E60 \u201Cxu\xE9x\xED\u201D"
+tags:
+- eskolya
+raw data:
+  term: xwexi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: learn
+    epo: lernado; lerni
+    spa: aprendizaje; aprender
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: eskolya
+  etymology: "Putunhwa  (\u5B66\u4E60 \u201Cxu\xE9x\xED\u201D)"
+...

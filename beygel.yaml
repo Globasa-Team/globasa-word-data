@@ -1,0 +1,85 @@
+---
+term: beygel
+slug: beygel
+ipa: bejˈgel
+ipa link: http://ipa-reader.xyz/?text=bejˈgel&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bagel
+  epo:
+  - - bagelo
+  spa:
+  - - _bagel_
+search terms:
+  glb:
+  - beygel
+  eng:
+  - bagel
+  epo:
+  - bagelo
+  spa:
+  - bagel
+etymology_type: NATLNG
+etymology:
+  Yehudili Doycisa:
+  - - בייגל “beygl”
+  Englisa:
+  - - bagel
+  Espanisa:
+  - - bagel
+    - baguel
+  Fransesa:
+  - - bagel
+    - baguel
+    - beguel
+  Rusisa:
+  - - бейгл “beygl”
+    - бейгель “beygel”
+  Doycisa:
+  - - Bagel
+  Indonesisa:
+  - - bagel
+    - beigel
+  Pilipinasa:
+  - - beygel
+  Putunhwa:
+  - - 焙果 “beygwo”
+  Hindisa:
+  - - बैगल रोटी “begal roti”
+  Niponsa:
+  - - ベーグル “beiguru”
+  Turkisa:
+  - - bagel
+  Hangusa:
+  - - 베이글 “beygul”
+  Parsisa:
+  - - بیگل “beygel”
+tags:
+- yamxey
+raw data:
+  term: beygel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bagel
+    epo: bagelo
+    spa: _bagel_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Yehudili Doycisa (בייגל “beygl”), Englisa (bagel), Espanisa (bagel, baguel),
+    Fransesa (bagel, baguel, beguel), Rusisa (бейгл “beygl”, бейгель “beygel”), Doycisa
+    (Bagel), Indonesisa (bagel, beigel), Pilipinasa (beygel), Putunhwa (焙果 “beygwo”),
+    Hindisa (बैगल रोटी “begal roti”), Niponsa (ベーグル “beiguru”), Turkisa (bagel), Hangusa
+    (베이글 “beygul”), Parsisa (بیگل “beygel”)
+...

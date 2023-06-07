@@ -1,0 +1,66 @@
+---
+term: waone
+slug: waone
+ipa: "wa\u02C8one"
+ipa link: "http://ipa-reader.xyz/?text=wa\u02C8one&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - amazing
+    - amazingly
+    - wonderful
+    - wonderfully
+    - marvelous
+    - marvelously
+  epo:
+  - - mira
+    - miriga
+  - - mire
+    - mirige
+  spa:
+  - - asombroso
+    - "incre\xEDble"
+    - maravilloso
+search terms:
+  glb:
+  - waone
+  eng:
+  - amazing
+  - amazingly
+  - wonderful
+  - wonderfully
+  - marvelous
+  - marvelously
+  epo:
+  - mira
+  - miriga
+  - mire
+  - mirige
+  spa:
+  - asombroso
+  - "incre\xEDble"
+  - maravilloso
+etymology_type: DERIVD
+etymology: <a href="../lexi/wao">wao</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: waone
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: amazing, amazingly, wonderful, wonderfully, marvelous, marvelously
+    epo: mira, miriga; mire, mirige
+    spa: "asombroso, incre\xEDble, maravilloso"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wao + -ne
+...

@@ -1,0 +1,62 @@
+---
+term: prumu
+slug: prumu
+ipa: "\u02C8p\u027Eumu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8p\u027Eumu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - plum
+  epo:
+  - - pruno
+  spa:
+  - - ciruela
+    - _Prunus_
+search terms:
+  glb:
+  - prumu
+  eng:
+  - plum
+  epo:
+  - pruno
+  spa:
+  - ciruela
+  - prunus
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - plum
+  Italisa:
+  - - prugna
+  Rumanisa:
+  - - "prun\u0103"
+  Indonesisa:
+  - - prem
+  Swahilisa:
+  - - plamu
+tags:
+- fruta
+- yamxey
+raw data:
+  term: prumu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: plum
+    epo: pruno
+    spa: ciruela, _Prunus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Englisa (plum), Italisa (prugna), Rumanisa (prun\u0103), Indonesisa
+    (prem), Swahilisa (plamu)"
+...

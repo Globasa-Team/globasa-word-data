@@ -1,0 +1,56 @@
+---
+term: dis-
+slug: dis-
+ipa: "\u02C8dis-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dis-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - dis-
+  epo:
+  - - dis-
+  spa:
+  - - "dis- (_separaci\xF3n o dispersi\xF3n_)"
+search terms:
+  glb:
+  - dis-
+  eng:
+  - dis-
+  epo:
+  - dis-
+  spa:
+  - dis-
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - disperse
+  Fransesa:
+  - - disperser
+  Rusisa:
+  - - "\u0434\u0438\u0441\u043F\u0435\u0440\u0433\u0438\u0440\u043E\u0432\u0430\u0442\u044C
+      \u201Cdispergirovat\u201D"
+  Espanisa:
+  - - dispersar
+raw data:
+  term: dis-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: dis-
+    epo: dis-
+    spa: "dis- (_separaci\xF3n o dispersi\xF3n_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (disperse), Fransesa (disperser), Rusisa (\u0434\u0438\u0441\u043F\u0435\u0440\u0433\u0438\u0440\u043E\u0432\u0430\u0442\u044C
+    \u201Cdispergirovat\u201D), Espanisa (dispersar)"
+...

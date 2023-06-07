@@ -1,0 +1,58 @@
+---
+term: sindrom dawn
+slug: sindrom dawn
+ipa: "sin\u02C8d\u027Eom \u02C8dawn"
+ipa link: "http://ipa-reader.xyz/?text=sin\u02C8d\u027Eom \u02C8dawn&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - Down syndrome
+    - Down's syndrome
+    - trisomy 21
+  epo:
+  - - Down-sindromo
+    - "Da\u016Dn-sindromo"
+    - trisomio 21
+  spa:
+  - - "s\xEDndrome de Down"
+    - "trisom\xEDa 21"
+search terms:
+  glb:
+  - sindrom dawn
+  - sindrom
+  - dawn
+  eng:
+  - down syndrome
+  - down's syndrome
+  - trisomy 21
+  epo:
+  - down-sindromo
+  - "da\u016Dn-sindromo"
+  - trisomio 21
+  spa:
+  - "s\xEDndrome de down"
+  - "trisom\xEDa 21"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sindrom">sindrom</a>, <a href="../lexi/Dawn">Dawn</a>
+raw data:
+  term: sindrom Dawn
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: Down syndrome, Down's syndrome, trisomy 21
+    epo: "Down-sindromo, Da\u016Dn-sindromo, trisomio 21"
+    spa: "s\xEDndrome de Down, trisom\xEDa 21"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sindrom, Dawn
+...

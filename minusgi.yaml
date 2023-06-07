@@ -1,0 +1,60 @@
+---
+term: minusgi
+slug: minusgi
+ipa: "mi\u02C8nusgi"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8nusgi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - subtraction
+    - deletion
+  - - subtract
+    - delete
+  epo:
+  - - depreno
+    - forigo
+  - - depreni
+    - forigi
+  spa:
+  - - "sustracci\xF3n"
+  - - sustraer
+search terms:
+  glb:
+  - minusgi
+  eng:
+  - subtraction
+  - deletion
+  - subtract
+  - delete
+  epo:
+  - depreno
+  - forigo
+  - depreni
+  - forigi
+  spa:
+  - "sustracci\xF3n"
+  - sustraer
+etymology_type: DERIVD
+etymology: <a href="../lexi/minus">minus</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: minusgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: subtraction, deletion; subtract, delete
+    epo: depreno, forigo; depreni, forigi
+    spa: "sustracci\xF3n; sustraer"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: minus + -gi
+...

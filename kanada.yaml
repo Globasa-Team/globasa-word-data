@@ -1,0 +1,54 @@
+---
+term: kanada
+slug: kanada
+ipa: "ka\u02C8nada"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8nada&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Canada
+  epo:
+  - - Kanado
+  spa:
+  - - "Canad\xE1"
+  fra:
+  - - Canada
+search terms:
+  glb:
+  - kanada
+  eng:
+  - canada
+  epo:
+  - kanado
+  spa:
+  - "canad\xE1"
+  fra:
+  - canada
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Canada
+tags:
+- dexa
+raw data:
+  term: Kanada
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Canada
+    epo: Kanado
+    spa: "Canad\xE1"
+    deu: ""
+    fra: Canada
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Canada)
+...

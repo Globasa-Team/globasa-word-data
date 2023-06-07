@@ -1,0 +1,48 @@
+---
+term: maskudo
+slug: maskudo
+ipa: "mas\u02C8kudo"
+ipa link: "http://ipa-reader.xyz/?text=mas\u02C8kudo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - masked
+  epo:
+  - - maskata
+  - - maskate
+  spa:
+  - - enmascarado
+search terms:
+  glb:
+  - maskudo
+  eng:
+  - masked
+  epo:
+  - maskata
+  - maskate
+  spa:
+  - enmascarado
+etymology_type: DERIVD
+etymology: <a href="../lexi/masku">masku</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: maskudo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: masked
+    epo: maskata; maskate
+    spa: enmascarado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: masku + -do
+...

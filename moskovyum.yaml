@@ -1,0 +1,55 @@
+---
+term: moskovyum
+slug: moskovyum
+ipa: "mosko\u02C8vjum"
+ipa link: "http://ipa-reader.xyz/?text=mosko\u02C8vjum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - moscovium
+  epo:
+  - - moskovio
+  spa:
+  - - moscovio
+search terms:
+  glb:
+  - moskovyum
+  eng:
+  - moscovium
+  epo:
+  - moskovio
+  spa:
+  - moscovio
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: moskovyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: moscovium
+    epo: moskovio
+    spa: moscovio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (moscovium), Putunhwa (\u93CC \u201Cmo\u201D), Hindisa (\u092E\u0949\u0938\u094D\u0915\u094B\u0935\u0940\u092F\u092E
+    \u201Cmoskoviyam\u201D), Espanisa (moscovio), Arabisa (\u0645\u0648\u0633\u0643\u0648\u0641\u064A\u0648\u0645
+    \u201Cmuskufyum\u201D), Fransesa (moscovium), Rusisa (\u043C\u043E\u0441\u043A\u043E\u0432\u0438\u0439
+    \u201Cmoskoviy\u201D), Indonesisa (moskovium), Doycisa (Moscovium), Niponsa (\u30E2\u30B9\u30B3\u30D3\u30A6\u30E0
+    \u201Cmosukobiumu\u201D), Telugusa (\u0C2E\u0C3E\u0C38\u0C4D\u0C15\u0C4B\u0C35\u0C3F\u0C2F\u0C02
+    \u201Cmaskoviyam\u201D), Turkisa (moskoviyum), Hangusa (\uBAA8\uC2A4\uCF54\uBE00
+    \u201Cmosukobyum\u201D), Vyetnamsa (moscovi), Parsisa (\u0645\u0633\u06A9\u0648\u0648\u06CC\u0645
+    \u201Cmoskoviyom\u201D), Swahilisa (moskovi), Pilipinasa (moscovium, moskobyo)"
+...

@@ -1,0 +1,48 @@
+---
+term: eslovenili
+slug: eslovenili
+ipa: "eslove\u02C8nili"
+ipa link: "http://ipa-reader.xyz/?text=eslove\u02C8nili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Slovene
+    - Slovenian
+  epo:
+  - - slovena
+  spa:
+  - - esloveno
+search terms:
+  glb:
+  - eslovenili
+  eng:
+  - slovene
+  - slovenian
+  epo:
+  - slovena
+  spa:
+  - esloveno
+etymology_type: DERIVD
+etymology: <a href="../lexi/Esloveni">Esloveni</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Eslovenili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Slovene, Slovenian
+    epo: slovena
+    spa: esloveno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Esloveni + -li
+...

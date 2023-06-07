@@ -1,0 +1,46 @@
+---
+term: privatoya
+slug: privatoya
+ipa: "p\u027Eiva\u02C8toja"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eiva\u02C8toja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - privacy
+  epo:
+  - - privateco
+  spa:
+  - - privacidad
+search terms:
+  glb:
+  - privatoya
+  eng:
+  - privacy
+  epo:
+  - privateco
+  spa:
+  - privacidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/privato">privato</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: privatoya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: privacy
+    epo: privateco
+    spa: privacidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: privato + -ya
+...

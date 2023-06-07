@@ -1,0 +1,69 @@
+---
+term: abyasa
+slug: abyasa
+ipa: aˈbjasa
+ipa link: http://ipa-reader.xyz/?text=aˈbjasa&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - rehearsal
+    - practice
+  - - practice
+    - rehearse
+  epo:
+  - - ekzerco
+  - - ekzerci
+  spa:
+  - - ensayo
+  - - ensayar
+  deu:
+  - - Übung
+    - Probe
+  - - üben
+    - proben
+search terms:
+  glb:
+  - abyasa
+  eng:
+    0: rehearsal
+    1: practice
+    3: rehearse
+  epo:
+  - ekzerco
+  - ekzerci
+  spa:
+  - ensayo
+  - ensayar
+  deu:
+  - Übung
+  - probe
+  - üben
+  - proben
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - अभ्यास “abyas”
+  Karnatakasa:
+  - - ಅಭ್ಯಾಸ “abyāsa”
+raw data:
+  term: abyasa
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: rehearsal, practice; practice, rehearse
+    epo: ekzerco; ekzerci
+    spa: ensayo; ensayar
+    deu: Übung, Probe; üben, proben
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (अभ्यास “abyas”), Karnatakasa (ಅಭ್ಯಾಸ “abyāsa”)
+...

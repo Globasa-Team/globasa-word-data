@@ -1,0 +1,51 @@
+---
+term: hinlokali
+slug: hinlokali
+ipa: "xinlo\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=xinlo\u02C8kali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - local
+    - locally
+  epo:
+  - - loka
+  - - loke
+  spa:
+  - - "de aqu\xED"
+search terms:
+  glb:
+  - hinlokali
+  eng:
+  - local
+  - locally
+  epo:
+  - loka
+  - loke
+  spa:
+  - "de aqu\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/hin-">hin-</a> + <a href="../lexi/loka">loka</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: hinlokali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: local, locally
+    epo: loka; loke
+    spa: "de aqu\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hin- + loka + -li
+...

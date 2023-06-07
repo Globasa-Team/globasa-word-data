@@ -1,0 +1,49 @@
+---
+term: ketif
+slug: ketif
+ipa: "ke\u02C8tif"
+ipa link: "http://ipa-reader.xyz/?text=ke\u02C8tif&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - shoulder
+  epo:
+  - - "\u015Dultro"
+  spa:
+  - - hombro
+search terms:
+  glb:
+  - ketif
+  eng:
+  - shoulder
+  epo:
+  - "\u015Dultro"
+  spa:
+  - hombro
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: ketif
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: shoulder
+    epo: "\u015Dultro"
+    spa: hombro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Arabisa (\u0643\u062A\u0641 \u201Ckatef\u201D), Parsisa (\u06A9\u062A\u0641
+    \u201Cketf\u201D), Ivrisa (\u05DB\u05B8\u05BC\u05EA\u05B5\u05E3 \u201Ckatef\u201D)"
+...

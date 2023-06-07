@@ -1,0 +1,48 @@
+---
+term: problemapul
+slug: problemapul
+ipa: "p\u027Eoblema\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eoblema\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - problematic
+  epo:
+  - - problema
+  - - probleme
+  spa:
+  - - "problem\xE1tico"
+search terms:
+  glb:
+  - problemapul
+  eng:
+  - problematic
+  epo:
+  - problema
+  - probleme
+  spa:
+  - "problem\xE1tico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/problema">problema</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: problemapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: problematic
+    epo: problema; probleme
+    spa: "problem\xE1tico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: problema + -pul
+...

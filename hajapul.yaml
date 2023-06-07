@@ -1,0 +1,50 @@
+---
+term: hajapul
+slug: hajapul
+ipa: "xad\u0361\u0292a\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=xad\u0361\u0292a\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - needy
+  epo:
+  - - bezonanta
+    - bezona
+  - - bezonante
+  spa:
+  - - necesitado
+search terms:
+  glb:
+  - hajapul
+  eng:
+  - needy
+  epo:
+  - bezonanta
+  - bezona
+  - bezonante
+  spa:
+  - necesitado
+etymology_type: DERIVD
+etymology: <a href="../lexi/haja">haja</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: hajapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: needy
+    epo: bezonanta, bezona; bezonante
+    spa: necesitado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: haja + -pul
+...

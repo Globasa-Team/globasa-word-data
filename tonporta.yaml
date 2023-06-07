@@ -1,0 +1,52 @@
+---
+term: tonporta
+slug: tonporta
+ipa: "ton\u02C8po\u027Eta"
+ipa link: "http://ipa-reader.xyz/?text=ton\u02C8po\u027Eta&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - take (with)
+    - bring (with)
+  epo:
+  - - kunportado
+  - - kunporti
+  spa:
+  - - traer consigo
+search terms:
+  glb:
+  - tonporta
+  eng:
+  - take with
+  - take
+  - bring with
+  - bring
+  epo:
+  - kunportado
+  - kunporti
+  spa:
+  - traer consigo
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton-">ton-</a> + <a href="../lexi/porta">porta</a>
+raw data:
+  term: tonporta
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: take (with), bring (with)
+    epo: kunportado; kunporti
+    spa: traer consigo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton- + porta
+...

@@ -1,0 +1,54 @@
+---
+term: personya
+slug: personya
+ipa: "pe\u027E\u02C8sonja"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027E\u02C8sonja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - personhood
+    - individuality
+    - personality
+  epo:
+  - - personeco
+    - individueco
+  spa:
+  - - individualidad
+    - personalidad
+search terms:
+  glb:
+  - personya
+  eng:
+  - personhood
+  - individuality
+  - personality
+  epo:
+  - personeco
+  - individueco
+  spa:
+  - individualidad
+  - personalidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/person">person</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: personya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: personhood, individuality, personality
+    epo: personeco, individueco
+    spa: individualidad, personalidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: person + -ya
+...

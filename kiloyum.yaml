@@ -1,0 +1,48 @@
+---
+term: kiloyum
+slug: kiloyum
+ipa: "kilo\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=kilo\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - thousandth
+  epo:
+  - - mila
+  - - mile
+  spa:
+  - - "mil\xE9simo"
+search terms:
+  glb:
+  - kiloyum
+  eng:
+  - thousandth
+  epo:
+  - mila
+  - mile
+  spa:
+  - "mil\xE9simo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/kilo">kilo</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: kiloyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: thousandth
+    epo: mila; mile
+    spa: "mil\xE9simo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kilo + -yum
+...

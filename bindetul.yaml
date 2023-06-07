@@ -1,0 +1,50 @@
+---
+term: bindetul
+slug: bindetul
+ipa: "binde\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=binde\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - buckle
+  epo:
+  - - buko
+    - bindilo
+  spa:
+  - - hebilla
+    - broche
+search terms:
+  glb:
+  - bindetul
+  eng:
+  - buckle
+  epo:
+  - buko
+  - bindilo
+  spa:
+  - hebilla
+  - broche
+etymology_type: DERIVD
+etymology: <a href="../lexi/binde">binde</a> + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: bindetul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: buckle
+    epo: buko, bindilo
+    spa: hebilla, broche
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: binde + -tul
+...

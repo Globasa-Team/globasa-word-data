@@ -1,0 +1,62 @@
+---
+term: arkitetur
+slug: arkitetur
+ipa: aɾkiteˈtuɾ
+ipa link: http://ipa-reader.xyz/?text=aɾkiteˈtuɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - architecture
+  epo:
+  - - arĥitekturo
+    - arkitekturo
+  spa:
+  - - arquitectura
+search terms:
+  glb:
+  - arkitetur
+  eng:
+  - architecture
+  epo:
+  - arĥitekturo
+  - arkitekturo
+  spa:
+  - arquitectura
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - architecture
+  Fransesa: ~
+  Doycisa:
+  - - Architektur
+  Rusisa:
+  - - архитектура “arxitektura”
+  Espanisa:
+  - - arquitectura
+  Indonesisa:
+  - - arsitektur
+  Pilipinasa:
+  - - arkitektura
+raw data:
+  term: arkitetur
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: architecture
+    epo: arĥitekturo, arkitekturo
+    spa: arquitectura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (architecture), Fransesa, Doycisa (Architektur), Rusisa (архитектура
+    “arxitektura”), Espanisa (arquitectura), Indonesisa (arsitektur), Pilipinasa (arkitektura)
+...

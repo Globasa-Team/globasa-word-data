@@ -1,0 +1,77 @@
+---
+term: bulevar
+slug: bulevar
+ipa: buleˈvaɾ
+ipa link: http://ipa-reader.xyz/?text=buleˈvaɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - boulevard
+  epo:
+  - - bulvardo
+    - aleo
+  spa:
+  - - bulevar
+search terms:
+  glb:
+  - bulevar
+  eng:
+  - boulevard
+  epo:
+  - bulvardo
+  - aleo
+  spa:
+  - bulevar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - boulevard
+  Espanisa:
+  - - bulevar
+  Fransesa:
+  - - boulevard
+  Rusisa:
+  - - бульвар "bul'var"
+  Doycisa:
+  - - Boulevard
+  Indonesisa:
+  - - bulevar
+  Pilipinasa:
+  - - bulebar
+  Arabisa:
+  - - بولفار "bulfar"
+  Niponsa:
+  - - ブールバール "burubaru"
+  Turkisa:
+  - - bulvar
+  Hangusa:
+  - - 불바르 "bulbalu"
+  Parsisa:
+  - - بولوار "bulvâr"
+  Swahilisa:
+  - - barabara
+raw data:
+  term: bulevar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: boulevard
+    epo: bulvardo, aleo
+    spa: bulevar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (boulevard), Espanisa (bulevar), Fransesa (boulevard), Rusisa
+    (бульвар "bul'var"), Doycisa (Boulevard), Indonesisa (bulevar), Pilipinasa (bulebar),
+    Arabisa (بولفار "bulfar"), Niponsa (ブールバール "burubaru"), Turkisa (bulvar), Hangusa
+    (불바르 "bulbalu"), Parsisa (بولوار "bulvâr"), Swahilisa (barabara)
+...

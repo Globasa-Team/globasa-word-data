@@ -1,0 +1,73 @@
+---
+term: treyna
+slug: treyna
+ipa: "\u02C8t\u027Eejna"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u027Eejna&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - training
+    - coaching
+  - - train
+    - coach
+  epo:
+  - - trejnado
+  - - trejni
+  spa:
+  - - entrenamiento
+  - - entrenar
+search terms:
+  glb:
+  - treyna
+  eng:
+  - training
+  - coaching
+  - train
+  - coach
+  epo:
+  - trejnado
+  - trejni
+  spa:
+  - entrenamiento
+  - entrenar
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - trainieren
+  Englisa:
+  - - train
+  Espanisa:
+  - - entrenar
+  Fransesa:
+  - - "entra\xEEner"
+  Rusisa:
+  - - "\u0442\u0440\u0435\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u201Ctrenirovat\u201D"
+  Turkisa:
+  - - antrenman
+  Hindisa:
+  - - "\u091F\u094D\u0930\u0947\u0928\u093F\u0902\u0917 \u201Ctrening\u201D"
+raw data:
+  term: treyna
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: training, coaching; train, coach
+    epo: trejnado; trejni
+    spa: entrenamiento; entrenar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (trainieren), Englisa (train), Espanisa (entrenar), Fransesa
+    (entra\xEEner), Rusisa (\u0442\u0440\u0435\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C
+    \u201Ctrenirovat\u201D), Turkisa (antrenman), Hindisa (\u091F\u094D\u0930\u0947\u0928\u093F\u0902\u0917
+    \u201Ctrening\u201D)"
+...

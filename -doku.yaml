@@ -1,0 +1,46 @@
+---
+term: -doku
+slug: -doku
+ipa: "-\u02C8doku"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8doku&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - document
+  epo:
+  - - dokumento
+  spa:
+  - - documento
+search terms:
+  glb:
+  - -doku
+  eng:
+  - document
+  epo:
+  - dokumento
+  spa:
+  - documento
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/doku">doku</a>.
+raw data:
+  term: -doku
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: document
+    epo: dokumento
+    spa: documento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _doku_.
+...

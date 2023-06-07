@@ -1,0 +1,73 @@
+---
+term: vibra
+slug: vibra
+ipa: "\u02C8vib\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8vib\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - vibration
+  - - vibrate
+  epo:
+  - - vibrado
+  - - vibri
+    - vibrigi
+  spa:
+  - - "vibraci\xF3n"
+  - - vibrar
+search terms:
+  glb:
+  - vibra
+  eng:
+  - vibration
+  - vibrate
+  epo:
+  - vibrado
+  - vibri
+  - vibrigi
+  spa:
+  - "vibraci\xF3n"
+  - vibrar
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Vibration
+  Englisa:
+  - - vibration
+  Espanisa:
+  - - "vibraci\xF3n"
+  Fransesa:
+  - - vibration
+  Rusisa:
+  - - "\u0432\u0438\u0431\u0440\u0430\u0446\u0438\u044F \u201Cvibratsiya\u201D"
+  Indonesisa:
+  - - vibrator
+  Turkisa:
+  - - "vibrat\xF6r"
+  Niponsa:
+  - - "\u30D0\u30A4\u30D6\u30EC\u30FC\u30BF \u201Cbaibureta\u201D"
+raw data:
+  term: vibra
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: vibration; vibrate
+    epo: vibrado; vibri, vibrigi
+    spa: "vibraci\xF3n; vibrar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Vibration), Englisa (vibration), Espanisa (vibraci\xF3n), Fransesa
+    (vibration), Rusisa (\u0432\u0438\u0431\u0440\u0430\u0446\u0438\u044F \u201Cvibratsiya\u201D),
+    Indonesisa (vibrator), Turkisa (vibrat\xF6r), Niponsa (\u30D0\u30A4\u30D6\u30EC\u30FC\u30BF
+    \u201Cbaibureta\u201D)"
+...

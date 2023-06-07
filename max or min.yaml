@@ -1,0 +1,51 @@
+---
+term: max or min
+slug: max or min
+ipa: "\u02C8ma\u0283 o\u027E \u02C8min"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u0283 o\u027E \u02C8min&voice=Ewa"
+status: false
+category: phrase
+word class: t jm
+trans:
+  eng:
+  - - more or less
+  epo:
+  - - plimalpli
+  spa:
+  - - "m\xE1s o menos"
+search terms:
+  glb:
+  - max or min
+  - max
+  - or
+  - min
+  eng:
+  - more or less
+  epo:
+  - plimalpli
+  spa:
+  - "m\xE1s o menos"
+etymology_type: DERIVD
+etymology: <a href="../lexi/max">max</a>, <a href="../lexi/or">or</a>, <a href="../lexi/min">min</a>
+synonyms:
+- maxmin
+raw data:
+  term: max or min
+  category: phrase
+  word class: t jm
+  status: false
+  trans:
+    eng: more or less
+    epo: plimalpli
+    spa: "m\xE1s o menos"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: maxmin
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: max, or, min
+...

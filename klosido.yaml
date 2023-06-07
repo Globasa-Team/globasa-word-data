@@ -1,0 +1,54 @@
+---
+term: klosido
+slug: klosido
+ipa: "klo\u02C8sido"
+ipa link: "http://ipa-reader.xyz/?text=klo\u02C8sido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - closed
+    - shut
+  epo:
+  - - fermita
+    - fermata
+  - - fermite
+    - fermate
+  spa:
+  - - cerrado
+search terms:
+  glb:
+  - klosido
+  eng:
+  - closed
+  - shut
+  epo:
+  - fermita
+  - fermata
+  - fermite
+  - fermate
+  spa:
+  - cerrado
+etymology_type: DERIVD
+etymology: <a href="../lexi/klosi">klosi</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: klosido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: closed, shut
+    epo: fermita, fermata; fermite, fermate
+    spa: cerrado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: klosi + -do
+...

@@ -1,0 +1,50 @@
+---
+term: carmepul
+slug: carmepul
+ipa: "t\u0361\u0283a\u027Eme\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283a\u027Eme\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - charming
+    - enchanting
+  epo:
+  - - "\u0109arma"
+  - - "\u0109arme"
+  spa:
+  - - encantador
+search terms:
+  glb:
+  - carmepul
+  eng:
+  - charming
+  - enchanting
+  epo:
+  - "\u0109arma"
+  - "\u0109arme"
+  spa:
+  - encantador
+etymology_type: DERIVD
+etymology: <a href="../lexi/carme">carme</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: carmepul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: charming, enchanting
+    epo: "\u0109arma; \u0109arme"
+    spa: encantador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: carme + -pul
+...

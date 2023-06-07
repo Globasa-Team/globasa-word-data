@@ -1,0 +1,51 @@
+---
+term: busdom
+slug: busdom
+ipa: "bus\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=bus\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (bus) station
+  epo:
+  - - busstacio
+    - "a\u016Dtobusa stacio"
+    - busstacidomo
+  spa:
+  - - "parada de autob\xFAs"
+search terms:
+  glb:
+  - busdom
+  eng:
+  - bus station
+  - station
+  epo:
+  - busstacio
+  - "a\u016Dtobusa stacio"
+  - busstacidomo
+  spa:
+  - "parada de autob\xFAs"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bus">bus</a> + <a href="../lexi/dom">dom</a>
+raw data:
+  term: busdom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (bus) station
+    epo: "busstacio, a\u016Dtobusa stacio, busstacidomo"
+    spa: "parada de autob\xFAs"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bus + dom
+...

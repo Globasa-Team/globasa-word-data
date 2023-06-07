@@ -1,0 +1,53 @@
+---
+term: karaoke
+slug: karaoke
+ipa: "ka\u027Ea\u02C8oke"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027Ea\u02C8oke&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - karaoke
+  epo:
+  - - karaokeo
+  spa:
+  - - karaoke
+search terms:
+  glb:
+  - karaoke
+  eng:
+  - karaoke
+  epo:
+  - karaokeo
+  spa:
+  - karaoke
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: karaoke
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: karaoke
+    epo: karaokeo
+    spa: karaoke
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Niponsa (\u30AB\u30E9\u30AA\u30B1 \u201Ckaraoke\u201D), Englisa (karaoke),
+    Espanisa, Doycisa, Indonesisa, Pilipinasa, Turkisa, Vyetnamsa, Swahilisa, Fransesa
+    (karaok\xE9), Rusisa (\u043A\u0430\u0440\u0430\u043E\u0301\u043A\u0435 \u201Ckara\xF3ke\u201D),
+    Putunhwa (\u5361\u62C9OK \u201Ckalaowkey\u201D), Hindisa (\u0915\u0930\u093E\u0913\u0915\u0947
+    \u201Ckaraoke\u201D), Arabisa (\u0643\u064E\u0627\u0631\u064E\u064A\u064F\u0648\u0643\u0650\u064A
+    \u201Ckarayoke\u201D), Telugusa (\u0C15\u0C30\u0C3E\u0C35\u0C4B\u0C15\u0C47 \u201Ckaravoke\u201D),
+    Hangusa (\uAC00\uB77C\uC624\uCF00 \u201Cgaraoke\u201D), Parsisa (\u06A9\u0627\u0631\u0627\u0626\u0648\u06A9\u0647
+    \u201Ckaraoke\u201D, \u06A9\u0627\u0631\u0627\u0626\u0648\u06A9\u06CC \u201Ckaraoki\u201D)"
+...

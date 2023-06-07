@@ -1,0 +1,50 @@
+---
+term: daoista
+slug: daoista
+ipa: "dao\u02C8ista"
+ipa link: "http://ipa-reader.xyz/?text=dao\u02C8ista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Taoist
+  epo:
+  - - taoisto
+    - "da\u016Disto"
+    - "ta\u016Disto"
+  spa:
+  - - "tao\xEDsta"
+search terms:
+  glb:
+  - daoista
+  eng:
+  - taoist
+  epo:
+  - taoisto
+  - "da\u016Disto"
+  - "ta\u016Disto"
+  spa:
+  - "tao\xEDsta"
+etymology_type: DERIVD
+etymology: <a href="../lexi/dao">dao</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: daoista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Taoist
+    epo: "taoisto, da\u016Disto, ta\u016Disto"
+    spa: "tao\xEDsta"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dao + -ista
+...

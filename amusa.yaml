@@ -1,0 +1,73 @@
+---
+term: amusa
+slug: amusa
+ipa: aˈmusa
+ipa link: http://ipa-reader.xyz/?text=aˈmusa&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - amusement
+    - entertainment
+    - fun
+  - - amuse
+    - entertain
+  epo:
+  - - amuzo
+  - - amuzi
+  spa:
+  - - diversión
+    - entretenimiento
+  - - divertir
+    - entretener
+search terms:
+  glb:
+  - amusa
+  eng:
+  - amusement
+  - entertainment
+  - fun
+  - amuse
+  - entertain
+  epo:
+  - amuzo
+  - amuzi
+  spa:
+  - diversión
+  - entretenimiento
+  - divertir
+  - entretener
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - amusement
+  Fransesa:
+  - - amusant
+  Doycisa:
+  - - amüsant
+  Arabisa:
+  - - مسل “masal”
+antonyms:
+- posamusa
+raw data:
+  term: amusa
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: amusement, entertainment, fun; amuse, entertain
+    epo: amuzo; amuzi
+    spa: diversión, entretenimiento; divertir, entretener
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: posamusa
+  example: ""
+  tags: ""
+  etymology: Englisa (amusement), Fransesa (amusant), Doycisa (amüsant), Arabisa (مسل
+    “masal”)
+...

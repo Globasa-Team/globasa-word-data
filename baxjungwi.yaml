@@ -1,0 +1,54 @@
+---
+term: baxjungwi
+slug: baxjungwi
+ipa: "ba\u0283\u02C8d\u0361\u0292ungwi"
+ipa link: "http://ipa-reader.xyz/?text=ba\u0283\u02C8d\u0361\u0292ungwi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ensign
+    - second lieutenant
+  epo:
+  - - "suble\u016Dtenanto"
+    - "vicsuble\u016Dtenanto"
+    - standardisto
+  spa:
+  - - "alf\xE9rez"
+search terms:
+  glb:
+  - baxjungwi
+  eng:
+  - ensign
+  - second lieutenant
+  epo:
+  - "suble\u016Dtenanto"
+  - "vicsuble\u016Dtenanto"
+  - standardisto
+  spa:
+  - "alf\xE9rez"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bax-">bax-</a> + <a href="../lexi/jungwi">jungwi</a>
+tags:
+- insan
+raw data:
+  term: baxjungwi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ensign, second lieutenant
+    epo: "suble\u016Dtenanto, vicsuble\u016Dtenanto, standardisto"
+    spa: "alf\xE9rez"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: bax- + jungwi
+...

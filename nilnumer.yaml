@@ -1,0 +1,49 @@
+---
+term: nilnumer
+slug: nilnumer
+ipa: "nilnu\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=nilnu\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - none of (the)
+    - "no"
+  epo:
+  - - neniu nombro
+  spa:
+  - - ninguno de
+search terms:
+  glb:
+  - nilnumer
+  eng:
+  - none of the
+  - none of
+  - "no"
+  epo:
+  - neniu nombro
+  spa:
+  - ninguno de
+etymology_type: DERIVD
+etymology: <a href="../lexi/nil">nil</a> + <a href="../lexi/numer">numer</a>
+raw data:
+  term: 'nilnumer '
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: none of (the), no
+    epo: neniu nombro
+    spa: ninguno de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: none of the, none of, none, no
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nil + numer
+...

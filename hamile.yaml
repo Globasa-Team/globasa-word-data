@@ -1,0 +1,49 @@
+---
+term: hamile
+slug: hamile
+ipa: "xa\u02C8mile"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8mile&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - pregnant
+  epo:
+  - - graveda
+  - - gravede
+  spa:
+  - - embarazado
+search terms:
+  glb:
+  - hamile
+  eng:
+  - pregnant
+  epo:
+  - graveda
+  - gravede
+  spa:
+  - embarazado
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hamile
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: pregnant
+    epo: graveda; gravede
+    spa: embarazado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u0627\u0645\u0644 \u201Chamil\u201D), Parsisa, (\u062D\u0627\u0645\u0644\u0647
+    \u201Chamele\u201D), Turkisa (hamile), Indonesisa (hamil)"
+...

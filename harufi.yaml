@@ -1,0 +1,54 @@
+---
+term: harufi
+slug: harufi
+ipa: "xa\u02C8\u027Eufi"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8\u027Eufi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - letter (_alphabet_)
+  - - spell
+  epo:
+  - - litero
+  - - literumi
+  spa:
+  - - letra
+  - - deletrear
+search terms:
+  glb:
+  - harufi
+  eng:
+  - letter
+  - spell
+  epo:
+  - litero
+  - literumi
+  spa:
+  - letra
+  - deletrear
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: harufi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: letter (_alphabet_); spell
+    epo: litero; literumi
+    spa: letra; deletrear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u0631\u0641 \u201Charf\u201D), Swahilisa (herufi), Turkisa
+    (harf), Indonesisa (huruf), Parsisa (\u062D\u0631\u0641 \u201Charf\u201D), Hindisa
+    (\u0939\u0930\u092B\u093C \u201Charaf\u201D)"
+...

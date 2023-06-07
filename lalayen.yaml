@@ -1,0 +1,48 @@
+---
+term: lalayen
+slug: lalayen
+ipa: "lala\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=lala\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - singer
+  epo:
+  - - kantisto
+    - kantanto
+  spa:
+  - - cantante
+search terms:
+  glb:
+  - lalayen
+  eng:
+  - singer
+  epo:
+  - kantisto
+  - kantanto
+  spa:
+  - cantante
+etymology_type: DERIVD
+etymology: <a href="../lexi/lala">lala</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: lalayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: singer
+    epo: kantisto, kantanto
+    spa: cantante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lala + -yen
+...

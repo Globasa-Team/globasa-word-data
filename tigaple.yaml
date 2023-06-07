@@ -1,0 +1,50 @@
+---
+term: tigaple
+slug: tigaple
+ipa: "ti\u02C8gaple"
+ipa link: "http://ipa-reader.xyz/?text=ti\u02C8gaple&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - triple
+    - threefold
+  epo:
+  - - triobla
+  - - trioble
+  spa:
+  - - triple
+search terms:
+  glb:
+  - tigaple
+  eng:
+  - triple
+  - threefold
+  epo:
+  - triobla
+  - trioble
+  spa:
+  - triple
+etymology_type: DERIVD
+etymology: <a href="../lexi/tiga">tiga</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: tigaple
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: triple, threefold
+    epo: triobla; trioble
+    spa: triple
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tiga + -ple
+...

@@ -1,0 +1,52 @@
+---
+term: virusli
+slug: virusli
+ipa: "vi\u02C8\u027Eusli"
+ipa link: "http://ipa-reader.xyz/?text=vi\u02C8\u027Eusli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - viral
+    - virally
+  epo:
+  - - virusa
+  - - viruse
+  spa:
+  - - viral
+    - "v\xEDrico"
+search terms:
+  glb:
+  - virusli
+  eng:
+  - viral
+  - virally
+  epo:
+  - virusa
+  - viruse
+  spa:
+  - viral
+  - "v\xEDrico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/virus">virus</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: virusli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: viral, virally
+    epo: virusa; viruse
+    spa: "viral, v\xEDrico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: virus + -li
+...

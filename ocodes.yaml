@@ -1,0 +1,46 @@
+---
+term: ocodes
+slug: ocodes
+ipa: "ot\u0361\u0283o\u02C8des"
+ipa link: "http://ipa-reader.xyz/?text=ot\u0361\u0283o\u02C8des&voice=Ewa"
+status: false
+category: derived
+word class: num
+trans:
+  eng:
+  - - eighty
+  epo:
+  - - okdek
+  spa:
+  - - ochenta
+search terms:
+  glb:
+  - ocodes
+  eng:
+  - eighty
+  epo:
+  - okdek
+  spa:
+  - ochenta
+etymology_type: DERIVD
+etymology: <a href="../lexi/oco">oco</a> + <a href="../lexi/des">des</a>
+raw data:
+  term: ocodes
+  category: derived
+  word class: num
+  status: false
+  trans:
+    eng: eighty
+    epo: okdek
+    spa: ochenta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: oco + des
+...

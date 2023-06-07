@@ -1,0 +1,50 @@
+---
+term: magnetosim
+slug: magnetosim
+ipa: "magneto\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=magneto\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - attractive
+  - - attractively
+  epo:
+  - - altira
+  - - altire
+  spa:
+  - - atractivo
+search terms:
+  glb:
+  - magnetosim
+  eng:
+  - attractive
+  - attractively
+  epo:
+  - altira
+  - altire
+  spa:
+  - atractivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/magneto">magneto</a> + <a href="../lexi/-sim">-sim</a>
+raw data:
+  term: magnetosim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: attractive; attractively
+    epo: altira; altire
+    spa: atractivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: magneto + -sim
+...

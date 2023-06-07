@@ -1,0 +1,46 @@
+---
+term: meterya
+slug: meterya
+ipa: "me\u02C8te\u027Eja"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8te\u027Eja&voice=Ewa"
+status: false
+category: derived
+word class: ""
+trans:
+  eng:
+  - - measurement
+  epo:
+  - - mezurado
+  spa:
+  - - medida
+search terms:
+  glb:
+  - meterya
+  eng:
+  - measurement
+  epo:
+  - mezurado
+  spa:
+  - medida
+etymology_type: DERIVD
+etymology: <a href="../lexi/meter">meter</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: meterya
+  category: derived
+  word class: ""
+  status: false
+  trans:
+    eng: measurement
+    epo: mezurado
+    spa: medida
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: meter + -ya
+...

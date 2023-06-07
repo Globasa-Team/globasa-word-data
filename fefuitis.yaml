@@ -1,0 +1,54 @@
+---
+term: fefuitis
+slug: fefuitis
+ipa: "fefui\u02C8tis"
+ipa link: "http://ipa-reader.xyz/?text=fefui\u02C8tis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pneumonitis
+    - pneumonia
+  epo:
+  - - "pne\u016Dmonito"
+    - "pne\u016Dmonio"
+    - pulmobrulumo
+  spa:
+  - - "neumon\xEDa"
+search terms:
+  glb:
+  - fefuitis
+  eng:
+  - pneumonitis
+  - pneumonia
+  epo:
+  - "pne\u016Dmonito"
+  - "pne\u016Dmonio"
+  - pulmobrulumo
+  spa:
+  - "neumon\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fefu">fefu</a> + <a href="../lexi/-itis">-itis</a>
+tags:
+- medis
+raw data:
+  term: fefuitis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pneumonitis, pneumonia
+    epo: "pne\u016Dmonito, pne\u016Dmonio, pulmobrulumo"
+    spa: "neumon\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: fefu + -itis
+...

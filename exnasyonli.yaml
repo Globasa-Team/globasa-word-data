@@ -1,0 +1,53 @@
+---
+term: exnasyonli
+slug: exnasyonli
+ipa: "e\u0283na\u02C8sjonli"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283na\u02C8sjonli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - foreign
+  epo:
+  - - eksterlanda
+    - fremda
+  - - eksterlande
+    - fremde
+  spa:
+  - - extranjero
+search terms:
+  glb:
+  - exnasyonli
+  eng:
+  - foreign
+  epo:
+  - eksterlanda
+  - fremda
+  - eksterlande
+  - fremde
+  spa:
+  - extranjero
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/nasyon">nasyon</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: exnasyonli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: foreign
+    epo: eksterlanda, fremda; eksterlande, fremde
+    spa: extranjero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex- + nasyon + -li
+...

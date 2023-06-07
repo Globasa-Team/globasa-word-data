@@ -1,0 +1,86 @@
+---
+term: cimpanze
+slug: cimpanze
+ipa: t͡ʃimˈpanze
+ipa link: http://ipa-reader.xyz/?text=t͡ʃimˈpanze&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chimpanzee
+    - _Pan troglodytes_
+  epo:
+  - - ĉimpanzo
+  spa:
+  - - chimpancé
+    - _Pan troglodytes_
+  deu:
+  - - Schimpansin
+search terms:
+  glb:
+  - cimpanze
+  eng:
+  - chimpanzee
+  - pan troglodytes
+  epo:
+  - ĉimpanzo
+  spa:
+  - chimpancé
+  - pan troglodytes
+  deu:
+  - schimpansin
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - chimpanzee
+  Pilipinasa: ~
+  Espanisa:
+  - - chimpancé
+  Fransesa:
+  - - chimpanzé
+  Rusisa:
+  - - шимпанзе “ximpanze”
+  Doycisa:
+  - - Schimpansin
+  Indonesisa:
+  - - simpanse
+  Hindisa:
+  - - चिंपांजी “cimpanji”
+    - चिंपाजी “cimpaji”
+  Arabisa:
+  - - شِمْبَانْزِي “ximbanzi”
+  Niponsa:
+  - - チンパンジー “cinpanji”
+  Turkisa:
+  - - şempanze
+  Hangusa:
+  - - 침팬지 “cimpenji”
+  Parsisa:
+  - - شمپانزه “xampanze”
+tags:
+- hewan
+raw data:
+  term: cimpanze
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chimpanzee, _Pan troglodytes_
+    epo: ĉimpanzo
+    spa: chimpancé, _Pan troglodytes_
+    deu: Schimpansin
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (chimpanzee), Pilipinasa, Espanisa (chimpancé), Fransesa (chimpanzé),
+    Rusisa (шимпанзе “ximpanze”), Doycisa (Schimpansin), Indonesisa (simpanse), Hindisa
+    (चिंपांजी “cimpanji”, चिंपाजी “cimpaji”), Arabisa (شِمْبَانْزِي “ximbanzi”), Niponsa
+    (チンパンジー “cinpanji”), Turkisa (şempanze), Hangusa (침팬지 “cimpenji”), Parsisa (شمپانزه
+    “xampanze”)
+...

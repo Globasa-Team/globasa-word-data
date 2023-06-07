@@ -1,0 +1,55 @@
+---
+term: ortogonoli
+slug: ortogonoli
+ipa: "o\u027Etogo\u02C8noli"
+ipa link: "http://ipa-reader.xyz/?text=o\u027Etogo\u02C8noli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - perpendicular
+  epo:
+  - - orta
+    - perpendikla
+    - perpendikulara
+  - - orte
+    - perpendikle
+  spa:
+  - - perpendicular
+search terms:
+  glb:
+  - ortogonoli
+  eng:
+  - perpendicular
+  epo:
+  - orta
+  - perpendikla
+  - perpendikulara
+  - orte
+  - perpendikle
+  spa:
+  - perpendicular
+etymology_type: DERIVD
+etymology: <a href="../lexi/orto">orto</a> + <a href="../lexi/-gon">-gon</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: ortogonoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: perpendicular
+    epo: orta, perpendikla, perpendikulara; orte, perpendikle
+    spa: perpendicular
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: orto + -gon + -li
+...

@@ -1,0 +1,49 @@
+---
+term: kete
+slug: kete
+ipa: "\u02C8kete"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kete&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - who
+    - which (one)
+  epo:
+  - - kiu
+  spa:
+  - - "\xBFqui\xE9n?"
+search terms:
+  glb:
+  - kete
+  eng:
+  - who
+  - which one
+  - which
+  epo:
+  - kiu
+  spa:
+  - "\xBFqui\xE9n?"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ke">ke</a> + <a href="../lexi/te">te</a>
+raw data:
+  term: kete
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: who, which (one)
+    epo: kiu
+    spa: "\xBFqui\xE9n?"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ke + te
+...

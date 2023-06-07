@@ -1,0 +1,72 @@
+---
+term: krampe
+slug: krampe
+ipa: "\u02C8k\u027Eampe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8k\u027Eampe&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - contraction
+    - convulsion
+    - seizure
+    - spasm
+    - cramp
+    - twitch
+  epo:
+  - - "kontrahi\u011Do"
+    - konvulsio
+    - spasmo
+    - kramfo
+  spa:
+  - - "contracci\xF3n"
+    - "convulsi\xF3n"
+    - espasmo
+  - - contraer
+    - contraerse
+search terms:
+  glb:
+  - krampe
+  eng:
+  - contraction
+  - convulsion
+  - seizure
+  - spasm
+  - cramp
+  - twitch
+  epo:
+  - "kontrahi\u011Do"
+  - konvulsio
+  - spasmo
+  - kramfo
+  spa:
+  - "contracci\xF3n"
+  - "convulsi\xF3n"
+  - espasmo
+  - contraer
+  - contraerse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: krampe
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: contraction, convulsion, seizure, spasm, cramp, twitch
+    epo: "kontrahi\u011Do, konvulsio, spasmo, kramfo"
+    spa: "contracci\xF3n, convulsi\xF3n, espasmo; contraer, contraerse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cramp), Espanisa (calambre, rampa), Fransesa (crampe), Doycisa
+    (Krampf, krampfen), Indonesisa (kram), Pilipinasa (kalambre), Turkisa (kramp),
+    Niponsa (\u75D9\u6523 \"keren\")"
+...

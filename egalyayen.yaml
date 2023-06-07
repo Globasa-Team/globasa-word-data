@@ -1,0 +1,48 @@
+---
+term: egalyayen
+slug: egalyayen
+ipa: "egalja\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=egalja\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - egalitarian
+  epo:
+  - - egalisto
+    - egaleculo
+  spa:
+  - - igualitario (_persona_)
+search terms:
+  glb:
+  - egalyayen
+  eng:
+  - egalitarian
+  epo:
+  - egalisto
+  - egaleculo
+  spa:
+  - igualitario
+etymology_type: DERIVD
+etymology: <a href="../lexi/egal">egal</a> + <a href="../lexi/-ya">-ya</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: egalyayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: egalitarian
+    epo: egalisto, egaleculo
+    spa: igualitario (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: egal + -ya + -yen
+...

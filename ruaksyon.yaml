@@ -1,0 +1,56 @@
+---
+term: ruaksyon
+slug: ruaksyon
+ipa: "\u027Euak\u02C8sjon"
+ipa link: "http://ipa-reader.xyz/?text=\u027Euak\u02C8sjon&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - reaction
+  - - react
+  epo:
+  - - reago
+    - reakcio
+  - - reagi
+    - reakcii
+  spa:
+  - - "reacci\xF3n"
+  - - reaccionar
+search terms:
+  glb:
+  - ruaksyon
+  eng:
+  - reaction
+  - react
+  epo:
+  - reago
+  - reakcio
+  - reagi
+  - reakcii
+  spa:
+  - "reacci\xF3n"
+  - reaccionar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ru-">ru-</a> + <a href="../lexi/aksyon">aksyon</a>
+raw data:
+  term: ruaksyon
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: reaction; react
+    epo: reago, reakcio; reagi, reakcii
+    spa: "reacci\xF3n; reaccionar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ru- + aksyon
+...

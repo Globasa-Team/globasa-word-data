@@ -1,0 +1,64 @@
+---
+term: wala
+slug: wala
+ipa: "\u02C8wala"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wala&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - not have
+    - lack
+    - be missing
+  epo:
+  - - manko
+    - malhavado
+  - - manki
+    - malhavi
+  spa:
+  - - carencia
+    - falta
+  - - carecer de
+    - no tener
+search terms:
+  glb:
+  - wala
+  eng:
+  - not have
+  - lack
+  - be missing
+  epo:
+  - manko
+  - malhavado
+  - manki
+  - malhavi
+  spa:
+  - carencia
+  - falta
+  - carecer de
+  - no tener
+etymology_type: NATLNG
+etymology:
+  Pilipinasa:
+  - - wala
+raw data:
+  term: wala
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: not have, lack, be missing
+    epo: manko, malhavado; manki, malhavi
+    spa: carencia, falta; carecer de, no tener
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: not have, lack, be missing, miss
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Pilipinasa (wala)
+...

@@ -1,0 +1,67 @@
+---
+term: aproba
+slug: aproba
+ipa: aˈpɾoba
+ipa link: http://ipa-reader.xyz/?text=aˈpɾoba&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - approval
+  - - approve (of)
+  epo:
+  - - aprobo
+  - - aprobi
+  spa:
+  - - aprobación
+  - - aprobar
+search terms:
+  glb:
+  - aproba
+  eng:
+  - approval
+  - approve of
+  - approve
+  epo:
+  - aprobo
+  - aprobi
+  spa:
+  - aprobación
+  - aprobar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - approve
+    - approbation
+  Espanisa:
+  - - aprobar
+    - aprobación
+  Fransesa:
+  - - approuver
+    - approbation
+  Polskasa:
+  - - aprobata
+  Pilipinasa:
+  - - aproba
+raw data:
+  term: aproba
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: approval; approve (of)
+    epo: aprobo; aprobi
+    spa: aprobación; aprobar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (approve, approbation), Espanisa (aprobar, aprobación) Fransesa
+    (approuver, approbation), Polskasa (aprobata), Pilipinasa (aproba)
+...

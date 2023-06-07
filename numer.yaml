@@ -1,0 +1,74 @@
+---
+term: numer
+slug: numer
+ipa: "nu\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=nu\u02C8me\u027E&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - number
+  epo:
+  - - nombro
+  - - nombri
+  spa:
+  - - "n\xFAmero"
+search terms:
+  glb:
+  - numer
+  eng:
+  - number
+  epo:
+  - nombro
+  - nombri
+  spa:
+  - "n\xFAmero"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - number
+  Doycisa: ~
+  Fransesa:
+  - - numbre
+    - "num\xE9ro"
+  Espanisa:
+  - - "n\xFAmero"
+  Rusisa:
+  - - "\u043D\u043E\u043C\u0435\u0440 \u201Cnomer\u201D"
+  Indonesisa:
+  - - nomor
+  Hindisa:
+  - - "\u0928\u0902\u092C\u0930 \u201Cnambar\u201D"
+  Niponsa:
+  - - "\u30CA\u30F3\u30D0\u30FC \u201Cnamba\u201D"
+  Turkisa:
+  - - numara
+  Parsisa:
+  - - "\u0646\u0645\u0631\u0647 \u201Cnomre\u201D"
+  Swahilisa:
+  - - nambari
+raw data:
+  term: numer
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: number
+    epo: nombro; nombri
+    spa: "n\xFAmero"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (number), Doycisa, Fransesa (numbre, num\xE9ro), Espanisa (n\xFAmero),
+    Rusisa (\u043D\u043E\u043C\u0435\u0440 \u201Cnomer\u201D), Indonesisa (nomor),
+    Hindisa (\u0928\u0902\u092C\u0930 \u201Cnambar\u201D), Niponsa (\u30CA\u30F3\u30D0\u30FC
+    \u201Cnamba\u201D), Turkisa (numara), Parsisa (\u0646\u0645\u0631\u0647 \u201Cnomre\u201D),
+    Swahilisa (nambari)"
+...

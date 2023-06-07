@@ -1,0 +1,74 @@
+---
+term: sintesis
+slug: sintesis
+ipa: "sinte\u02C8sis"
+ipa link: "http://ipa-reader.xyz/?text=sinte\u02C8sis&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - synthesis
+  - - synthesize
+  epo:
+  - - sintezo
+  - - sintezi
+  spa:
+  - - "s\xEDntesis"
+  - - sintetizar
+search terms:
+  glb:
+  - sintesis
+  eng:
+  - synthesis
+  - synthesize
+  epo:
+  - sintezo
+  - sintezi
+  spa:
+  - "s\xEDntesis"
+  - sintetizar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - synthesis
+  Espanisa:
+  - - "s\xEDntesis"
+  Fransesa:
+  - - "synth\xE8se"
+  Rusisa:
+  - - "\u0441\u0438\u043D\u0442\u0435\u0437 \u201Csintez\u201D"
+  Doycisa:
+  - - Synthese
+  Indonesisa:
+  - - sintesis
+  Pilipinasa:
+  - - sintesis
+  Turkisa:
+  - - sentez
+    - sentetik
+  Parsisa:
+  - - "\u0633\u0646\u062A\u0632 \u201Csantez\u201D"
+raw data:
+  term: sintesis
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: synthesis; synthesize
+    epo: sintezo; sintezi
+    spa: "s\xEDntesis; sintetizar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (synthesis), Espanisa (s\xEDntesis), Fransesa (synth\xE8se),
+    Rusisa (\u0441\u0438\u043D\u0442\u0435\u0437 \u201Csintez\u201D), Doycisa (Synthese),
+    Indonesisa (sintesis), Pilipinasa (sintesis), Turkisa (sentez, sentetik), Parsisa
+    (\u0633\u0646\u062A\u0632 \u201Csantez\u201D)"
+...

@@ -1,0 +1,54 @@
+---
+term: hajado
+slug: hajado
+ipa: "xa\u02C8d\u0361\u0292ado"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8d\u0361\u0292ado&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - needed
+    - necessary
+  epo:
+  - - bezonita
+    - necesa
+  - - bezonite
+    - necese
+  spa:
+  - - necesario
+search terms:
+  glb:
+  - hajado
+  eng:
+  - needed
+  - necessary
+  epo:
+  - bezonita
+  - necesa
+  - bezonite
+  - necese
+  spa:
+  - necesario
+etymology_type: DERIVD
+etymology: <a href="../lexi/haja">haja</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: hajado
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: needed, necessary
+    epo: bezonita, necesa; bezonite, necese
+    spa: necesario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: haja + -do
+...

@@ -1,0 +1,77 @@
+---
+term: sinfoni
+slug: sinfoni
+ipa: "sin\u02C8foni"
+ipa link: "http://ipa-reader.xyz/?text=sin\u02C8foni&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - symphony
+  epo:
+  - - simfonio
+  spa:
+  - - "sinfon\xEDa"
+search terms:
+  glb:
+  - sinfoni
+  eng:
+  - symphony
+  epo:
+  - simfonio
+  spa:
+  - "sinfon\xEDa"
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Sinfonie
+    - Symphonie
+  Englisa:
+  - - "sinfon\xEDa"
+  Espanisa:
+  - - "sinfon\xEDa"
+  Fransesa:
+  - - symphonie
+  Rusisa:
+  - - "\u0441\u0438\u043C\u0444\u043E\u043D\u0438\u044F \u201Csimfoniya\u201D"
+  Arabisa:
+  - - "\u0633\u0650\u064A\u0645\u0652\u0641\u064F\u0648\u0646\u0650\u064A\u064E\u0651\u0629
+      \u201Cs\u012Bmf\u016Bniyya\u201D"
+  Parsisa:
+  - - "\u0633\u0645\u0641\u0648\u0646\u06CC \u201Csemfuni"
+    - "simfuni\u201D"
+  Turkisa:
+  - - senfoni
+  Swahilisa: ~
+  Indonesisa:
+  - - simfoni
+  Pilipinasa: ~
+  Telugusa: ~
+  Niponsa: ~
+  Hangusa: ~
+raw data:
+  term: sinfoni
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: symphony
+    epo: simfonio
+    spa: "sinfon\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Sinfonie, Symphonie), Englisa (sinfon\xEDa), Espanisa (sinfon\xEDa),
+    Fransesa (symphonie), Rusisa (\u0441\u0438\u043C\u0444\u043E\u043D\u0438\u044F
+    \u201Csimfoniya\u201D), Arabisa (\u0633\u0650\u064A\u0645\u0652\u0641\u064F\u0648\u0646\u0650\u064A\u064E\u0651\u0629
+    \u201Cs\u012Bmf\u016Bniyya\u201D), Parsisa (\u0633\u0645\u0641\u0648\u0646\u06CC
+    \u201Csemfuni, simfuni\u201D), Turkisa (senfoni), Swahilisa, Indonesisa (simfoni),
+    Pilipinasa, Telugusa, Niponsa, Hangusa"
+...

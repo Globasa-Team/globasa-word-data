@@ -1,0 +1,46 @@
+---
+term: dentamedis
+slug: dentamedis
+ipa: "dentame\u02C8dis"
+ipa link: "http://ipa-reader.xyz/?text=dentame\u02C8dis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - dentistry
+  epo:
+  - - dentokuracado
+  spa:
+  - - "odontolog\xEDa"
+search terms:
+  glb:
+  - dentamedis
+  eng:
+  - dentistry
+  epo:
+  - dentokuracado
+  spa:
+  - "odontolog\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/denta">denta</a> + <a href="../lexi/-medis">-medis</a>
+raw data:
+  term: dentamedis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: dentistry
+    epo: dentokuracado
+    spa: "odontolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: denta + -medis
+...

@@ -1,0 +1,54 @@
+---
+term: aplikaible
+slug: aplikaible
+ipa: "aplika\u02C8ible"
+ipa link: "http://ipa-reader.xyz/?text=aplika\u02C8ible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - applicable
+    - appliable
+  - - applicably
+    - appliably
+  epo:
+  - - aplikebla
+  - - aplikeble
+  spa:
+  - - aplicable
+search terms:
+  glb:
+  - aplikaible
+  eng:
+  - applicable
+  - appliable
+  - applicably
+  - appliably
+  epo:
+  - aplikebla
+  - aplikeble
+  spa:
+  - aplicable
+etymology_type: DERIVD
+etymology: <a href="../lexi/aplika">aplika</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: aplikaible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: applicable, appliable; applicably, appliably
+    epo: aplikebla; aplikeble
+    spa: aplicable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aplika + -ible
+...

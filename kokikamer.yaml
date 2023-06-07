@@ -1,0 +1,46 @@
+---
+term: kokikamer
+slug: kokikamer
+ipa: "kokika\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=kokika\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - kitchen
+  epo:
+  - - kuirejo
+  spa:
+  - - cocina (_lugar_)
+search terms:
+  glb:
+  - kokikamer
+  eng:
+  - kitchen
+  epo:
+  - kuirejo
+  spa:
+  - cocina
+etymology_type: DERIVD
+etymology: <a href="../lexi/koki">koki</a> + <a href="../lexi/-kamer">-kamer</a>
+raw data:
+  term: kokikamer
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: kitchen
+    epo: kuirejo
+    spa: cocina (_lugar_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: koki + -kamer
+...

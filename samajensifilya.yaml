@@ -1,0 +1,47 @@
+---
+term: samajensifilya
+slug: samajensifilya
+ipa: "samad\u0361\u0292ensi\u02C8filja"
+ipa link: "http://ipa-reader.xyz/?text=samad\u0361\u0292ensi\u02C8filja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - homosexuality
+  epo:
+  - - samseksemo
+  spa:
+  - - homosexualidad
+search terms:
+  glb:
+  - samajensifilya
+  eng:
+  - homosexuality
+  epo:
+  - samseksemo
+  spa:
+  - homosexualidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/sama">sama</a> + <a href="../lexi/jensi">jensi</a> + <a
+  href="../lexi/-fil">-fil</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: samajensifilya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: homosexuality
+    epo: samseksemo
+    spa: homosexualidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sama + jensi + -fil + -ya
+...

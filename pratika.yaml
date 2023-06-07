@@ -1,0 +1,72 @@
+---
+term: pratika
+slug: pratika
+ipa: "p\u027Ea\u02C8tika"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Ea\u02C8tika&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - practice
+  - - practice
+    - put into practice
+  epo:
+  - - praktiko
+  - - praktiki
+  spa:
+  - - "pr\xE1ctica"
+  - - practicar
+    - "poner en pr\xE1ctica"
+search terms:
+  glb:
+  - pratika
+  eng:
+    0: practice
+    2: put into practice
+  epo:
+  - praktiko
+  - praktiki
+  spa:
+  - "pr\xE1ctica"
+  - practicar
+  - "poner en pr\xE1ctica"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - practice
+    - practical
+  Doycisa:
+  - - praktisch
+  Fransesa:
+  - - pratique
+  Espanisa:
+  - - "pr\xE1ctica"
+  Rusisa:
+  - - "\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u201Cpraktika\u201D"
+  Turkisa:
+  - - pratik
+  Indonesisa:
+  - - praktik
+raw data:
+  term: pratika
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: practice; practice, put into practice
+    epo: praktiko; praktiki
+    spa: "pr\xE1ctica; practicar, poner en pr\xE1ctica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (practice, practical), Doycisa (praktisch), Fransesa (pratique),
+    Espanisa (pr\xE1ctica), Rusisa (\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430
+    \u201Cpraktika\u201D), Turkisa (pratik), Indonesisa (praktik)"
+...

@@ -1,0 +1,62 @@
+---
+term: jumun
+slug: jumun
+ipa: "d\u0361\u0292u\u02C8mun"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292u\u02C8mun&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - spell
+    - incantation
+  - - bewitch
+    - cast a spell
+  epo:
+  - - "sor\u0109o"
+  - - "sor\u0109i"
+    - "meti sor\u0109a\u0135o"
+  spa:
+  - - hechizo
+    - encanto
+  - - hechizar
+    - encantar
+search terms:
+  glb:
+  - jumun
+  eng:
+  - spell
+  - incantation
+  - bewitch
+  - cast a spell
+  epo:
+  - "sor\u0109o"
+  - "sor\u0109i"
+  - "meti sor\u0109a\u0135o"
+  spa:
+  - hechizo
+  - encanto
+  - hechizar
+  - encantar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jumun
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: spell, incantation; bewitch, cast a spell
+    epo: "sor\u0109o; sor\u0109i, meti sor\u0109a\u0135o"
+    spa: hechizo, encanto; hechizar, encantar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hangusa (\uC8FC\uBB38 \u201Cjumun\u201D), Niponsa ( \u546A\u6587 \u201Cjumon\u201D)"
+...

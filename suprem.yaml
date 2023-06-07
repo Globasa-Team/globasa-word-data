@@ -1,0 +1,81 @@
+---
+term: suprem
+slug: suprem
+ipa: "su\u02C8p\u027Eem"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8p\u027Eem&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - supreme
+    - supremely
+    - greatest (possible)
+    - extreme
+    - extremely
+  - - excellent
+    - excellently
+    - cool (_informal_)
+  epo:
+  - - plejbona
+  - - plejbone
+  - - mojosa
+  spa:
+  - - supremo
+    - extremo
+  - - genial
+    - "ch\xE9vere (_informal_)"
+search terms:
+  glb:
+  - suprem
+  eng:
+  - supreme
+  - supremely
+  - greatest possible
+  - greatest
+  - extreme
+  - extremely
+  - excellent
+  - excellently
+  - cool
+  epo:
+  - plejbona
+  - plejbone
+  - mojosa
+  spa:
+  - supremo
+  - extremo
+  - genial
+  - "ch\xE9vere"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - supreme
+  Fransesa:
+  - - "supr\xEAme"
+  Espanisa:
+  - - supremo
+  Hindisa:
+  - - "\u0938\u0941\u092A\u094D\u0930\u0940\u092E \u201Csuprem\u201D"
+raw data:
+  term: suprem
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: supreme, supremely, greatest (possible), extreme, extremely; excellent, excellently,
+      cool (_informal_)
+    epo: plejbona; plejbone; mojosa
+    spa: "supremo, extremo; genial, ch\xE9vere (_informal_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (supreme), Fransesa (supr\xEAme), Espanisa (supremo), Hindisa
+    (\u0938\u0941\u092A\u094D\u0930\u0940\u092E \u201Csuprem\u201D)"
+...

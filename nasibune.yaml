@@ -1,0 +1,56 @@
+---
+term: nasibune
+slug: nasibune
+ipa: "nasi\u02C8bune"
+ipa link: "http://ipa-reader.xyz/?text=nasi\u02C8bune&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - appropriate
+    - suitable
+    - proper
+  epo:
+  - - "ta\u016Dga"
+    - "ta\u016Dganta"
+  - - "ta\u016Dge"
+    - "ta\u016Dgante"
+  spa:
+  - - apropiado
+search terms:
+  glb:
+  - nasibune
+  eng:
+  - appropriate
+  - suitable
+  - proper
+  epo:
+  - "ta\u016Dga"
+  - "ta\u016Dganta"
+  - "ta\u016Dge"
+  - "ta\u016Dgante"
+  spa:
+  - apropiado
+etymology_type: DERIVD
+etymology: <a href="../lexi/nasibu">nasibu</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: nasibune
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: appropriate, suitable, proper
+    epo: "ta\u016Dga, ta\u016Dganta; ta\u016Dge, ta\u016Dgante"
+    spa: apropiado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nasibu + -ne
+...

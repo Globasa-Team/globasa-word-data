@@ -1,0 +1,52 @@
+---
+term: fe preferi kom
+slug: fe preferi kom
+ipa: "fe p\u027Ee\u02C8fe\u027Ei kom"
+ipa link: "http://ipa-reader.xyz/?text=fe p\u027Ee\u02C8fe\u027Ei kom&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - rather than
+  epo:
+  - - prefere ol
+    - "anstata\u016D"
+  spa:
+  - - de preferencia que
+search terms:
+  glb:
+  - fe preferi kom
+  - fe
+  - preferi
+  - kom
+  eng:
+  - rather than
+  epo:
+  - prefere ol
+  - "anstata\u016D"
+  spa:
+  - de preferencia que
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/preferi">preferi</a>, <a
+  href="../lexi/kom">kom</a>
+raw data:
+  term: fe preferi kom
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: rather than
+    epo: "prefere ol, anstata\u016D"
+    spa: de preferencia que
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, preferi, kom
+...

@@ -1,0 +1,46 @@
+---
+term: komunista
+slug: komunista
+ipa: "komu\u02C8nista"
+ipa link: "http://ipa-reader.xyz/?text=komu\u02C8nista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - communist
+  epo:
+  - - komunisto
+  spa:
+  - - comunista
+search terms:
+  glb:
+  - komunista
+  eng:
+  - communist
+  epo:
+  - komunisto
+  spa:
+  - comunista
+etymology_type: DERIVD
+etymology: <a href="../lexi/komun">komun</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: komunista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: communist
+    epo: komunisto
+    spa: comunista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: komun + -ista
+...

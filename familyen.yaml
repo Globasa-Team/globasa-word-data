@@ -1,0 +1,48 @@
+---
+term: familyen
+slug: familyen
+ipa: "fami\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=fami\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - relative
+    - family member
+  epo:
+  - - familiano
+  spa:
+  - - familiar
+search terms:
+  glb:
+  - familyen
+  eng:
+  - relative
+  - family member
+  epo:
+  - familiano
+  spa:
+  - familiar
+etymology_type: DERIVD
+etymology: <a href="../lexi/famil">famil</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: familyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: relative, family member
+    epo: familiano
+    spa: familiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: famil + -yen
+...

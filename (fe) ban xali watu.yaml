@@ -1,0 +1,56 @@
+---
+term: (fe) ban xali watu
+slug: (fe) ban xali watu
+ipa: "\u02C8(fe) \u02C8ban \u02C8\u0283ali \u02C8watu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8(fe) \u02C8ban \u02C8\u0283ali \u02C8watu&voice=Ewa"
+status: false
+category: phrase
+word class: jm.p
+trans:
+  eng:
+  - - at some point in the future
+    - eventually
+  epo:
+  - - je iu estonta fojo
+  spa:
+  - - en cierto punto del futuro
+    - eventualmente
+search terms:
+  glb:
+  - (fe) ban xali watu
+  - fe ban xali watu
+  - ban xali watu
+  - ban
+  - xali
+  - watu
+  eng:
+  - at some point in the future
+  - eventually
+  epo:
+  - je iu estonta fojo
+  spa:
+  - en cierto punto del futuro
+  - eventualmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/ban">ban</a>, <a href="../lexi/xa">xa</a>
+  + <a href="../lexi/-li">-li</a>, <a href="../lexi/watu">watu</a>
+raw data:
+  term: (fe) ban xali watu
+  category: phrase
+  word class: jm.p
+  status: false
+  trans:
+    eng: at some point in the future, eventually
+    epo: je iu estonta fojo
+    spa: en cierto punto del futuro, eventualmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, ban, xa + -li, watu
+...

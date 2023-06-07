@@ -1,0 +1,71 @@
+---
+term: arko
+slug: arko
+ipa: ˈaɾko
+ipa link: http://ipa-reader.xyz/?text=ˈaɾko&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - arc
+    - arch
+    - bow
+  epo:
+  - - arko
+  spa:
+  - - arco
+search terms:
+  glb:
+  - arko
+  eng:
+  - arc
+  - arch
+  - bow
+  epo:
+  - arko
+  spa:
+  - arco
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - arc
+    - arch
+  Espanisa:
+  - - arco
+  Fransesa:
+  - - arc
+  Rusisa:
+  - - арка “arka”
+  Doycisa:
+  - - Arkus
+  Pilipinasa:
+  - - arko
+  Hindisa:
+  - - आर्क “ark”
+  Niponsa:
+  - - アーク “āku”
+  Turkisa:
+  - - ark
+raw data:
+  term: arko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: arc, arch, bow
+    epo: arko
+    spa: arco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (arc, arch), Espanisa (arco), Fransesa (arc), Rusisa (арка “arka”),
+    Doycisa (Arkus), Pilipinasa (arko), Hindisa (आर्क “ark”), Niponsa (アーク “āku”),
+    Turkisa (ark)
+...

@@ -1,0 +1,58 @@
+---
+term: fatoli
+slug: fatoli
+ipa: "fa\u02C8toli"
+ipa link: "http://ipa-reader.xyz/?text=fa\u02C8toli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - actual
+    - actually
+    - factual
+  epo:
+  - - fakta
+  - - fakte
+  spa:
+  - - real
+    - factual
+  - - realmente
+    - factualmente
+search terms:
+  glb:
+  - fatoli
+  eng:
+  - actual
+  - actually
+  - factual
+  epo:
+  - fakta
+  - fakte
+  spa:
+  - real
+  - factual
+  - realmente
+  - factualmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/fato">fato</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: fatoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: actual, actually, factual
+    epo: fakta; fakte
+    spa: real, factual; realmente, factualmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fato + -li
+...

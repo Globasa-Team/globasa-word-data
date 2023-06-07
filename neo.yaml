@@ -1,0 +1,73 @@
+---
+term: neo
+slug: neo
+ipa: "\u02C8neo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8neo&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - new
+    - newly
+  epo:
+  - - nova
+  - - nove
+  spa:
+  - - nuevo
+search terms:
+  glb:
+  - neo
+  eng:
+  - new
+  - newly
+  epo:
+  - nova
+  - nove
+  spa:
+  - nuevo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - new
+    - neo-
+  Fransesa:
+  - - neo-
+  Doycisa:
+  - - neu
+    - neo-
+  Rusisa:
+  - - "\u043D\u0435\u043E- \u201Cneo-\u201D"
+  Espanisa:
+  - - nuevo
+    - neo-
+  Niponsa:
+  - - "\u30CB\u30E5\u30FC \u201Cnyu\u201D"
+  Hangusa:
+  - - "\uB274 \u201Cnyu\u201D"
+  Parsisa:
+  - - "\u0646\u0648\u200E \u201Cnow\u201D"
+    - "\u0646\u0626\u0648\u200E \u201Cneo-\u201D"
+raw data:
+  term: neo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: new, newly
+    epo: nova; nove
+    spa: nuevo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (new, neo-), Fransesa (neo-), Doycisa (neu, neo-), Rusisa (\u043D\u0435\u043E-
+    \u201Cneo-\u201D), Espanisa (nuevo, neo-), Niponsa (\u30CB\u30E5\u30FC \u201Cnyu\u201D),
+    Hangusa (\uB274 \u201Cnyu\u201D), Parsisa (\u0646\u0648\u200E \u201Cnow\u201D,
+    \u0646\u0626\u0648\u200E \u201Cneo-\u201D)"
+...

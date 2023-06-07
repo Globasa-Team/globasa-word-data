@@ -1,0 +1,52 @@
+---
+term: nunligido
+slug: nunligido
+ipa: "nunli\u02C8gido"
+ipa link: "http://ipa-reader.xyz/?text=nunli\u02C8gido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - updated
+    - up-to-date
+  epo:
+  - - "\u011Disdatigita"
+  - - "\u011Disdatigite"
+  spa:
+  - - actualizado
+    - "al d\xEDa"
+search terms:
+  glb:
+  - nunligido
+  eng:
+  - updated
+  - up-to-date
+  epo:
+  - "\u011Disdatigita"
+  - "\u011Disdatigite"
+  spa:
+  - actualizado
+  - "al d\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/nunligi">nunligi</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: nunligido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: updated, up-to-date
+    epo: "\u011Disdatigita; \u011Disdatigite"
+    spa: "actualizado, al d\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nunligi + -do
+...

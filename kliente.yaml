@@ -1,0 +1,52 @@
+---
+term: kliente
+slug: kliente
+ipa: "kli\u02C8ente"
+ipa link: "http://ipa-reader.xyz/?text=kli\u02C8ente&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - client
+    - customer
+  epo:
+  - - kliento
+  spa:
+  - - cliente
+search terms:
+  glb:
+  - kliente
+  eng:
+  - client
+  - customer
+  epo:
+  - kliento
+  spa:
+  - cliente
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kliente
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: client, customer
+    epo: kliento
+    spa: cliente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Klient), Englisa (client), Espanisa (cliente), Fransesa (client),
+    Rusisan (\u043A\u043B\u0438\u0435\u043D\u0442 \u201Ckliyent\u201D), Indonesisa
+    (klien), Pilipinasa (klieyente), Niponsa (\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8
+    \u201Ckuraianto\u201D), Telugusa (\u0C15\u0C4D\u0C32\u0C2F\u0C3F\u0C02\u0C1F\u0C4D
+    \u201Cklayi\u1E47\u1E6D\u201D)"
+...

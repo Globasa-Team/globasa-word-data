@@ -1,0 +1,69 @@
+---
+term: velosi
+slug: velosi
+ipa: "ve\u02C8losi"
+ipa link: "http://ipa-reader.xyz/?text=ve\u02C8losi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - fast
+    - quick
+    - quickly
+    - rapid
+    - rapidly
+  epo:
+  - - rapida
+  - - rapide
+  spa:
+  - - "r\xE1pido"
+    - veloz
+search terms:
+  glb:
+  - velosi
+  eng:
+  - fast
+  - quick
+  - quickly
+  - rapid
+  - rapidly
+  epo:
+  - rapida
+  - rapide
+  spa:
+  - "r\xE1pido"
+  - veloz
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - velocity
+  Fransesa:
+  - - "v\xE9locit\xE9"
+  Espanisa:
+  - - velocidad
+  Indonesisa:
+  - - velositas
+  Pilipinasa:
+  - - belosidad
+raw data:
+  term: velosi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: fast, quick, quickly, rapid, rapidly
+    epo: rapida; rapide
+    spa: "r\xE1pido, veloz"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (velocity), Fransesa (v\xE9locit\xE9), Espanisa (velocidad),
+    Indonesisa (velositas), Pilipinasa (belosidad)"
+...

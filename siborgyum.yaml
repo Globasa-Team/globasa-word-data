@@ -1,0 +1,93 @@
+---
+term: siborgyum
+slug: siborgyum
+ipa: "sibo\u027E\u02C8gjum"
+ipa link: "http://ipa-reader.xyz/?text=sibo\u027E\u02C8gjum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - seaborgium
+  epo:
+  - - siborgio
+  spa:
+  - - seaborgio
+    - Sg
+search terms:
+  glb:
+  - siborgyum
+  eng:
+  - seaborgium
+  epo:
+  - siborgio
+  spa:
+  - seaborgio
+  - sg
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - seaborgium
+  Putunhwa:
+  - - "\U00028B4E \u201Cxi\u201D"
+  Hindisa:
+  - - "\u0938\u0940\u092C\u094B\u0930\u094D\u0917\u093F\u092F\u092E \u201Csiborgiyam\u201D"
+  Espanisa:
+  - - seaborgio
+  Arabisa:
+  - - "\u0633\u0650\u064A\u0628\u064F\u0648\u0631\u0652\u062C\u0650\u064A\u064F\u0648\u0645
+      \u201Csiborgiyum\u201D"
+  Fransesa:
+  - - seaborgium
+  Rusisa:
+  - - "\u0441\u0438\u0431\u043E\u0440\u0433\u0438\u0439 \u201Csiborgiy\u201D"
+  Indonesisa:
+  - - seaborgium
+  Doycisa:
+  - - Seaborgium
+  Niponsa:
+  - - "\u30B7\u30FC\u30DC\u30FC\u30AE\u30A6\u30E0 \u201Cxibogiumu\u201D"
+  Telugusa:
+  - - "\u0C38\u0C40\u0C2C\u0C30\u0C4D\u0C17\u0C3F\u0C2F\u0C02 \u201Csibargiyam\u201D"
+  Turkisa:
+  - - seaborgiyum
+  Hangusa:
+  - - "\uC2DC\uBCF4\uADEC \u201Cxibogyum\u201D"
+  Vyetnamsa:
+  - - seaborgi
+  Parsisa:
+  - - "\u0633\u06CC\u0628\u0648\u0631\u06AF\u06CC\u0645 \u201Csiborgiyom\u201D"
+  Swahilisa:
+  - - seaborgi
+  Pilipinasa:
+  - - seaborgyo
+tags:
+- kimikali monlari
+raw data:
+  term: siborgyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: seaborgium
+    epo: siborgio
+    spa: seaborgio, Sg
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (seaborgium), Putunhwa (\U00028B4E \u201Cxi\u201D), Hindisa
+    (\u0938\u0940\u092C\u094B\u0930\u094D\u0917\u093F\u092F\u092E \u201Csiborgiyam\u201D),
+    Espanisa (seaborgio), Arabisa (\u0633\u0650\u064A\u0628\u064F\u0648\u0631\u0652\u062C\u0650\u064A\u064F\u0648\u0645
+    \u201Csiborgiyum\u201D), Fransesa (seaborgium), Rusisa (\u0441\u0438\u0431\u043E\u0440\u0433\u0438\u0439
+    \u201Csiborgiy\u201D), Indonesisa (seaborgium), Doycisa (Seaborgium), Niponsa
+    (\u30B7\u30FC\u30DC\u30FC\u30AE\u30A6\u30E0 \u201Cxibogiumu\u201D), Telugusa (\u0C38\u0C40\u0C2C\u0C30\u0C4D\u0C17\u0C3F\u0C2F\u0C02
+    \u201Csibargiyam\u201D), Turkisa (seaborgiyum), Hangusa (\uC2DC\uBCF4\uADEC \u201Cxibogyum\u201D),
+    Vyetnamsa (seaborgi), Parsisa (\u0633\u06CC\u0628\u0648\u0631\u06AF\u06CC\u0645
+    \u201Csiborgiyom\u201D), Swahilisa (seaborgi), Pilipinasa (seaborgyo)"
+...

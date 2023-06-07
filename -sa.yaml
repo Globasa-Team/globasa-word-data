@@ -1,0 +1,52 @@
+---
+term: -sa
+slug: -sa
+ipa: "\u02C8-sa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-sa&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - language
+    - animal sounds
+  epo:
+  - - lingvo
+    - sono de besto
+  spa:
+  - - idioma
+    - sonido de animal
+search terms:
+  glb:
+  - -sa
+  eng:
+  - language
+  - animal sounds
+  epo:
+  - lingvo
+  - sono de besto
+  spa:
+  - idioma
+  - sonido de animal
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/basa">basa</a>.
+raw data:
+  term: -sa
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: language, animal sounds
+    epo: lingvo, sono de besto
+    spa: idioma, sonido de animal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _basa_.
+...

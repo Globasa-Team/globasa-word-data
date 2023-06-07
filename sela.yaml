@@ -1,0 +1,71 @@
+---
+term: sela
+slug: sela
+ipa: "\u02C8sela"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sela&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - flood
+    - deluge
+    - inundation
+  - - inundate
+  epo:
+  - - inundo
+  - - inundi
+  spa:
+  - - "inundaci\xF3n"
+  - - inundar
+search terms:
+  glb:
+  - sela
+  eng:
+  - flood
+  - deluge
+  - inundation
+  - inundate
+  epo:
+  - inundo
+  - inundi
+  spa:
+  - "inundaci\xF3n"
+  - inundar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u0948\u0932\u093E\u092C \"selab\""
+    - "\u0938\u0948\u0932 \"sel\""
+  Arabisa:
+  - - "\u0633\u064E\u064A\u0652\u0644 \"sayl\""
+  Turkisa:
+  - - sel
+  Parsisa:
+  - - "\u0633\u06CC\u0644\u0627\u0628 \"seyl\xE2b\""
+    - "\u0633\u06CC\u0644 \"seyl\""
+  Rusisa:
+  - - "\u0441\u0435\u043B\u044C \"sel\""
+raw data:
+  term: sela
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: flood, deluge, inundation; inundate
+    epo: inundo; inundi
+    spa: "inundaci\xF3n; inundar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0938\u0948\u0932\u093E\u092C \"selab\", \u0938\u0948\u0932
+    \"sel\"), Arabisa (\u0633\u064E\u064A\u0652\u0644 \"sayl\"), Turkisa (sel), Parsisa
+    (\u0633\u06CC\u0644\u0627\u0628 \"seyl\xE2b\", \u0633\u06CC\u0644 \"seyl\"), Rusisa
+    (\u0441\u0435\u043B\u044C \"sel\")"
+...

@@ -1,0 +1,56 @@
+---
+term: xafe
+slug: xafe
+ipa: "\u02C8\u0283afe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283afe&voice=Ewa"
+status: false
+category: derived
+word class: p
+trans:
+  eng:
+  - - after (_+ noun
+    - -ing_)
+    - in (_+ period of time_)
+    - (_period of time +_) from now
+  epo:
+  - - post
+  spa:
+  - - "despu\xE9s de"
+    - "en (_+ per\xEDodo de tiempo_)"
+search terms:
+  glb:
+  - xafe
+  eng:
+  - after + noun
+  - after (_+ noun
+  - -ing
+  - in
+  - from now
+  epo:
+  - post
+  spa:
+  - "despu\xE9s de"
+  - en
+etymology_type: DERIVD
+etymology: <a href="../lexi/xa-">xa-</a> + <a href="../lexi/fe">fe</a>
+raw data:
+  term: xafe
+  category: derived
+  word class: p
+  status: false
+  trans:
+    eng: after (_+ noun, -ing_), in (_+ period of time_), (_period of time +_) from
+      now
+    epo: post
+    spa: "despu\xE9s de, en (_+ per\xEDodo de tiempo_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xa- + fe
+...

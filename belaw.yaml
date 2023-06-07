@@ -1,0 +1,50 @@
+---
+term: belaw
+slug: belaw
+ipa: "be\u02C8law"
+ipa link: "http://ipa-reader.xyz/?text=be\u02C8law&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Palau
+  epo:
+  - - "Pala\u016Do"
+  spa:
+  - - Palaos
+search terms:
+  glb:
+  - belaw
+  eng:
+  - palau
+  epo:
+  - "pala\u016Do"
+  spa:
+  - palaos
+etymology_type: NATLNG
+etymology:
+  Belawsa:
+  - - Belau
+tags:
+- dexa
+raw data:
+  term: Belaw
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Palau
+    epo: "Pala\u016Do"
+    spa: Palaos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Belawsa (Belau)
+...

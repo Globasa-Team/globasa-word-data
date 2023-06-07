@@ -1,0 +1,46 @@
+---
+term: ventotul
+slug: ventotul
+ipa: "vento\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=vento\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - fan
+  epo:
+  - - ventumilo
+  spa:
+  - - abanico
+search terms:
+  glb:
+  - ventotul
+  eng:
+  - fan
+  epo:
+  - ventumilo
+  spa:
+  - abanico
+etymology_type: DERIVD
+etymology: <a href="../lexi/vento">vento</a> + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: ventotul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: fan
+    epo: ventumilo
+    spa: abanico
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: vento + -tul
+...

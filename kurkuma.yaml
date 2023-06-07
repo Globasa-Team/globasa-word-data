@@ -1,0 +1,56 @@
+---
+term: kurkuma
+slug: kurkuma
+ipa: "ku\u027E\u02C8kuma"
+ipa link: "http://ipa-reader.xyz/?text=ku\u027E\u02C8kuma&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - turmeric
+    - kumkuma
+  epo:
+  - - kurkumo
+  spa:
+  - - "c\xFArcuma"
+    - _Curcuma longa_
+search terms:
+  glb:
+  - kurkuma
+  eng:
+  - turmeric
+  - kumkuma
+  epo:
+  - kurkumo
+  spa:
+  - "c\xFArcuma"
+  - curcuma longa
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: kurkuma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: turmeric, kumkuma
+    epo: kurkumo
+    spa: "c\xFArcuma, _Curcuma longa_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Espanisa (c\xFArcuma), Fransesa (curcuma), Rusisa (\u043A\u0443\u0440\u043A\u0443\u043C\u0430
+    \u201Ckurkuma\u201D), Doycisa (Kurkuma, Kurkume), Indonesisa (kurkuma), Arabisa
+    (\u0643\u064F\u0631\u0652\u0643\u064F\u0645 \u201Ckurkum\u201D), Vyetnamsa (c\u1EE7
+    ngh\u1EC7 \u201Ckunge\u201D), Hindisa (\u0915\u0941\u092E\u0915\u0941\u092E \u201Ckumkum\u201D),
+    Telugusa (\u0C15\u0C41\u0C02\u0C15\u0C41\u0C2E \u201Ckungkuma\u201D)"
+...

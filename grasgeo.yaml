@@ -1,0 +1,56 @@
+---
+term: grasgeo
+slug: grasgeo
+ipa: "g\u027Eas\u02C8geo"
+ipa link: "http://ipa-reader.xyz/?text=g\u027Eas\u02C8geo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - grassland
+    - meadow
+  epo:
+  - - herbejo
+    - gresejo
+  spa:
+  - - pastizal
+    - pradera
+    - prado
+    - vega
+search terms:
+  glb:
+  - grasgeo
+  eng:
+  - grassland
+  - meadow
+  epo:
+  - herbejo
+  - gresejo
+  spa:
+  - pastizal
+  - pradera
+  - prado
+  - vega
+etymology_type: DERIVD
+etymology: <a href="../lexi/gras">gras</a> + <a href="../lexi/geo">geo</a>
+raw data:
+  term: grasgeo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: grassland, meadow
+    epo: herbejo, gresejo
+    spa: pastizal, pradera, prado, vega
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gras + geo
+...

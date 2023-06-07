@@ -1,0 +1,75 @@
+---
+term: sweta
+slug: sweta
+ipa: "\u02C8sweta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sweta&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - sweat
+    - perspiration
+  - - sweat
+    - perspire
+  epo:
+  - - "\u015Dvito"
+  - - "\u015Dviti"
+  spa:
+  - - sudor
+    - "transpiraci\xF3n"
+  - - sudar
+    - transpirar
+search terms:
+  glb:
+  - sweta
+  eng:
+    0: sweat
+    1: perspiration
+    3: perspire
+  epo:
+  - "\u015Dvito"
+  - "\u015Dviti"
+  spa:
+  - sudor
+  - "transpiraci\xF3n"
+  - sudar
+  - transpirar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sweat
+  Fransesa:
+  - - sueur
+  Doycisa:
+  - - "Schwei\xDF"
+  Espanisa:
+  - - suda
+    - sudor
+  Hindisa:
+  - - "\u0938\u094D\u0935\u0947\u0926 \u201Csved\u201D"
+  Telugusa:
+  - - "\u0C38\u0C4D\u0C35\u0C47\u0C26\u0C2E\u0C41 \u201Csv\u0113damu\u201D"
+    - "\u0C38\u0C4D\u0C35\u0C47\u0C26\u0C02 \u201Csv\u0113da\u1E43\u201D"
+raw data:
+  term: sweta
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: sweat, perspiration; sweat, perspire
+    epo: "\u015Dvito; \u015Dviti"
+    spa: "sudor, transpiraci\xF3n; sudar, transpirar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (sweat), Fransesa (sueur), Doycisa (Schwei\xDF), Espanisa (suda,
+    sudor), Hindisa (\u0938\u094D\u0935\u0947\u0926 \u201Csved\u201D), Telugusa (\u0C38\u0C4D\u0C35\u0C47\u0C26\u0C2E\u0C41
+    \u201Csv\u0113damu\u201D, \u0C38\u0C4D\u0C35\u0C47\u0C26\u0C02 \u201Csv\u0113da\u1E43\u201D)"
+...

@@ -1,0 +1,50 @@
+---
+term: damuli burtyan
+slug: damuli burtyan
+ipa: "da\u02C8muli bu\u027E\u02C8tjan"
+ipa link: "http://ipa-reader.xyz/?text=da\u02C8muli bu\u027E\u02C8tjan&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - bloodstain
+  epo:
+  - - sangomakulo
+  - - sangomakuli
+  spa:
+  - - mancha de sangre
+search terms:
+  glb:
+  - damuli burtyan
+  - damuli
+  - burtyan
+  eng:
+  - bloodstain
+  epo:
+  - sangomakulo
+  - sangomakuli
+  spa:
+  - mancha de sangre
+etymology_type: DERIVD
+etymology: <a href="../lexi/damu">damu</a> + <a href="../lexi/-li">-li</a>, <a href="../lexi/burtyan">burtyan</a>
+raw data:
+  term: damuli burtyan
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: bloodstain
+    epo: sangomakulo; sangomakuli
+    spa: mancha de sangre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: damu + -li, burtyan
+...

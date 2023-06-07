@@ -1,0 +1,60 @@
+---
+term: grava
+slug: grava
+ipa: ˈgɾava
+ipa link: http://ipa-reader.xyz/?text=ˈgɾava&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gravel
+  epo:
+  - - gruzo
+  spa:
+  - - grava
+search terms:
+  glb:
+  - grava
+  eng:
+  - gravel
+  epo:
+  - gruzo
+  spa:
+  - grava
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gravel
+  Espanisa:
+  - - grava
+    - gravilla
+  Fransesa:
+  - - gravier
+  Rusisa:
+  - - гравий “graviy”
+  Pilipinasa:
+  - - graba
+  Swahilisa:
+  - - changarawe
+raw data:
+  term: grava
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gravel
+    epo: gruzo
+    spa: grava
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (gravel), Espanisa (grava, gravilla), Fransesa (gravier), Rusisa
+    (гравий “graviy”), Pilipinasa (graba), Swahilisa (changarawe)
+...

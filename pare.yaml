@@ -1,0 +1,73 @@
+---
+term: pare
+slug: pare
+ipa: "\u02C8pa\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pa\u027Ee&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - priest
+    - pastor
+  - - Father
+  epo:
+  - - pastro
+    - Patro
+  spa:
+  - - pastor
+    - sacerdote
+    - padre
+search terms:
+  glb:
+  - pare
+  eng:
+  - priest
+  - pastor
+  - father
+  epo:
+  - pastro
+  - patro
+  spa:
+  - pastor
+  - sacerdote
+  - padre
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - padre
+    - "p\xE1rroco"
+  Pilipinasa:
+  - - pari
+  Hindisa:
+  - - "\u092A\u093E\u0926\u0930\u0940 \u201Cpadri\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C42\u0C1C\u0C3E\u0C30\u0C3F \u201Cpujari\u201D"
+  Turkisa:
+  - - papaz
+  Swahilisa:
+  - - padre
+tags:
+- dini
+raw data:
+  term: pare
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: priest, pastor; Father
+    epo: pastro, Patro
+    spa: pastor, sacerdote, padre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: "Espanisa (padre, p\xE1rroco), Pilipinasa (pari), Hindisa (\u092A\u093E\u0926\u0930\u0940
+    \u201Cpadri\u201D), Telugusa (\u0C2A\u0C42\u0C1C\u0C3E\u0C30\u0C3F \u201Cpujari\u201D),
+    Turkisa (papaz) Swahilisa (padre)"
+...

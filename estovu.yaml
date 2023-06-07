@@ -1,0 +1,61 @@
+---
+term: estovu
+slug: estovu
+ipa: esˈtovu
+ipa link: http://ipa-reader.xyz/?text=esˈtovu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - stove
+  epo:
+  - - stovo
+  spa:
+  - - estufa
+search terms:
+  glb:
+  - estovu
+  eng:
+  - stove
+  epo:
+  - stovo
+  spa:
+  - estufa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - stove
+  Espanisa:
+  - - estufa
+  Hindisa:
+  - - स्टोव "stov"
+  Niponsa:
+  - - ストーブ "sutobu"
+  Tamilsa:
+  - - அடுப்பு "atubu"
+  Hangusa:
+  - - 스토브 "sutobu"
+  Swahilisa:
+  - - stovu
+raw data:
+  term: estovu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: stove
+    epo: stovo
+    spa: estufa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (stove), Espanisa (estufa), Hindisa (स्टोव "stov"), Niponsa (ストーブ
+    "sutobu"), Tamilsa (அடுப்பு "atubu"), Hangusa (스토브 "sutobu"), Swahilisa (stovu)
+...

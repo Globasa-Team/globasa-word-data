@@ -1,0 +1,71 @@
+---
+term: gono
+slug: gono
+ipa: ˈgono
+ipa link: http://ipa-reader.xyz/?text=ˈgono&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - angle
+    - corner
+  epo:
+  - - angulo
+  spa:
+  - - ángulo
+search terms:
+  glb:
+  - gono
+  eng:
+  - angle
+  - corner
+  epo:
+  - angulo
+  spa:
+  - ángulo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - hexagon
+  Fransesa:
+  - - hexagone
+  Doycisa:
+  - - Hexagon
+  Espanisa:
+  - - hexágono
+  Pilipinasa:
+  - - eksagono
+    - heksagon
+  Turkisa:
+  - - beşgen
+  Hindisa:
+  - - कोण “kon”
+  Telugusa:
+  - - కోణం “konam”
+  Parsisa:
+  - - کنج “konj”
+  Swahlisa:
+  - - kona
+raw data:
+  term: gono
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: angle, corner
+    epo: angulo
+    spa: ángulo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (hexagon), Fransesa (hexagone), Doycisa (Hexagon), Espanisa (hexágono),
+    Pilipinasa (eksagono, heksagon), Turkisa (beşgen), Hindisa (कोण “kon”), Telugusa
+    (కోణం “konam”), Parsisa (کنج “konj”), Swahlisa (kona)
+...

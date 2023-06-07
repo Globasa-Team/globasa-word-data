@@ -1,0 +1,78 @@
+---
+term: kwanli
+slug: kwanli
+ipa: "\u02C8kwanli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kwanli&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - administration
+    - management
+  - - administer
+    - manage
+  epo:
+  - - administrado
+    - kondukado
+    - regado
+  - - administri
+    - konduki
+    - regi
+  spa:
+  - - "administraci\xF3n"
+    - "gesti\xF3n"
+    - "direcci\xF3n"
+    - manejo
+  - - administrar
+    - gestionar
+    - dirigir
+    - manejar
+search terms:
+  glb:
+  - kwanli
+  eng:
+  - administration
+  - management
+  - administer
+  - manage
+  epo:
+  - administrado
+  - kondukado
+  - regado
+  - administri
+  - konduki
+  - regi
+  spa:
+  - "administraci\xF3n"
+  - "gesti\xF3n"
+  - "direcci\xF3n"
+  - manejo
+  - administrar
+  - gestionar
+  - dirigir
+  - manejar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kwanli
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: administration, management; administer, manage
+    epo: administrado, kondukado, regado; administri, konduki, regi
+    spa: "administraci\xF3n, gesti\xF3n, direcci\xF3n, manejo; administrar, gestionar,
+      dirigir, manejar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7BA1\u7406 \u201Cgwanli\u201D), Hangusa (\uAD00\uB9AC \u201Cgwanli\u201D),
+    Niponsa (\u7BA1\u7406 \u201Ckanri\u201D), Vyetnamsa (qu\u1EA3n l\xED \u201Ckwanli\u201D)"
+...

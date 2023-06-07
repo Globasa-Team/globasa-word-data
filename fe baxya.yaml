@@ -1,0 +1,48 @@
+---
+term: fe baxya
+slug: fe baxya
+ipa: "fe \u02C8ba\u0283ja"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8ba\u0283ja&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - underneath
+  epo:
+  - - sube
+  spa:
+  - - por debajo de
+search terms:
+  glb:
+  - fe baxya
+  - fe
+  - baxya
+  eng:
+  - underneath
+  epo:
+  - sube
+  spa:
+  - por debajo de
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/bax">bax</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fe baxya
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: underneath
+    epo: sube
+    spa: por debajo de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, bax + -ya
+...

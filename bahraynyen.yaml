@@ -1,0 +1,49 @@
+---
+term: bahraynyen
+slug: bahraynyen
+ipa: "bax\u027Eaj\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=bax\u027Eaj\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Bahraini (person)
+  epo:
+  - - barejnano
+    - "ba\u0125rajnano"
+  spa:
+  - - "barein\xED (_persona_)"
+search terms:
+  glb:
+  - bahraynyen
+  eng:
+  - bahraini person
+  - bahraini
+  epo:
+  - barejnano
+  - "ba\u0125rajnano"
+  spa:
+  - "barein\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Bahrayn">Bahrayn</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Bahraynyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Bahraini (person)
+    epo: "barejnano, ba\u0125rajnano"
+    spa: "barein\xED (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Bahrayn + -yen
+...

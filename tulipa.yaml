@@ -1,0 +1,76 @@
+---
+term: tulipa
+slug: tulipa
+ipa: "tu\u02C8lipa"
+ipa link: "http://ipa-reader.xyz/?text=tu\u02C8lipa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tulip
+  epo:
+  - - tulipo
+  spa:
+  - - "tulip\xE1n"
+search terms:
+  glb:
+  - tulipa
+  eng:
+  - tulip
+  epo:
+  - tulipo
+  spa:
+  - "tulip\xE1n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tulip
+  Indonesisa: ~
+  Espanisa:
+  - - "tulip\xE1n"
+  Fransesa:
+  - - tulipe
+  Rusisa:
+  - - "\u0442\u044E\u043B\u044C\u043F\u0430\u043D \u201Ctyulpan\u201D"
+  Doycisa:
+  - - Tulpe
+  Pilipinasa:
+  - - tulipan
+  Hindisa:
+  - - "\u091F\u094D\u092F\u0942\u0932\u093F\u092A \u201Ctyulip\u201D"
+  Arabisa:
+  - - "\u062A\u0648\u0644\u064A\u0628 \u201Ctulib\u201D"
+  Niponsa:
+  - - "\u30C1\u30E5\u30FC\u30EA\u30C3\u30D7 \u201Ccuripu\u201D"
+  Telugusa:
+  - - "\u0C24\u0C41\u0C32\u0C3F\u0C2A\u0C4D \u201Ctulip\u201D"
+  Hangusa:
+  - - "\uD2A4\uB9BD \u201Ctyulib\u201D"
+  Swahilisa:
+  - - tulipu
+raw data:
+  term: tulipa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tulip
+    epo: tulipo
+    spa: "tulip\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tulip), Indonesisa, Espanisa (tulip\xE1n), Fransesa (tulipe),
+    Rusisa (\u0442\u044E\u043B\u044C\u043F\u0430\u043D \u201Ctyulpan\u201D), Doycisa
+    (Tulpe), Pilipinasa (tulipan), Hindisa (\u091F\u094D\u092F\u0942\u0932\u093F\u092A
+    \u201Ctyulip\u201D), Arabisa (\u062A\u0648\u0644\u064A\u0628 \u201Ctulib\u201D),
+    Niponsa (\u30C1\u30E5\u30FC\u30EA\u30C3\u30D7 \u201Ccuripu\u201D), Telugusa (\u0C24\u0C41\u0C32\u0C3F\u0C2A\u0C4D
+    \u201Ctulip\u201D), Hangusa (\uD2A4\uB9BD \u201Ctyulib\u201D), Swahilisa (tulipu)"
+...

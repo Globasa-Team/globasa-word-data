@@ -1,0 +1,55 @@
+---
+term: katina
+slug: katina
+ipa: "ka\u02C8tina"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8tina&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - difficult
+    - hard
+    - tough
+  epo:
+  - - malfacila
+  - - malfacile
+  spa:
+  - - "dif\xEDcil"
+search terms:
+  glb:
+  - katina
+  eng:
+  - difficult
+  - hard
+  - tough
+  epo:
+  - malfacila
+  - malfacile
+  spa:
+  - "dif\xEDcil"
+etymology_type: NATLNG
+etymology: BLAH
+antonyms:
+- asan
+raw data:
+  term: katina
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: difficult, hard, tough
+    epo: malfacila; malfacile
+    spa: "dif\xEDcil"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: asan
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0915\u0920\u093F\u0928 \u201Ckathin\u201D), Telugusa (\u0C15\u0C20\u0C3F\u0C28\u0C2E\u0C41
+    \u201Cka\u1E6Dhinamu\u201D), Tamilsa (\u0B95\u0B9F\u0BBF\u0BA9\u0BAE\u0BCD \u201Cka\u1E6Di\u1E49am\u201D)"
+...

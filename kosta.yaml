@@ -1,0 +1,50 @@
+---
+term: kosta
+slug: kosta
+ipa: "\u02C8kosta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kosta&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coast
+  epo:
+  - - (mar)bordo
+  spa:
+  - - costa
+search terms:
+  glb:
+  - kosta
+  eng:
+  - coast
+  epo:
+  - marbordo
+  - bordo
+  spa:
+  - costa
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- geografi
+raw data:
+  term: kosta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coast
+    epo: (mar)bordo
+    spa: costa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: "Englisa (coast, coastal), Fransesa (c\xF4te), Doycisa (K\xFCste), Espanisa
+    (costa)"
+...

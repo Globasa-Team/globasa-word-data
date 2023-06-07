@@ -1,0 +1,53 @@
+---
+term: antivirusli
+slug: antivirusli
+ipa: "antivi\u02C8\u027Eusli"
+ipa link: "http://ipa-reader.xyz/?text=antivi\u02C8\u027Eusli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - antiviral
+  epo:
+  - - antivirusa
+    - "kontra\u016Dvirusa"
+  - - "kontra\u016Dviruse"
+  spa:
+  - - antiviral
+search terms:
+  glb:
+  - antivirusli
+  eng:
+  - antiviral
+  epo:
+  - antivirusa
+  - "kontra\u016Dvirusa"
+  - "kontra\u016Dviruse"
+  spa:
+  - antiviral
+etymology_type: DERIVD
+etymology: <a href="../lexi/anti-">anti-</a> + <a href="../lexi/virus">virus</a> +
+  <a href="../lexi/-li">-li</a>
+tags:
+- medis
+raw data:
+  term: antivirusli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: antiviral
+    epo: "antivirusa, kontra\u016Dvirusa; kontra\u016Dviruse"
+    spa: antiviral
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: anti- + virus + -li
+...

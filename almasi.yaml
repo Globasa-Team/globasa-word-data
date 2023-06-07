@@ -1,0 +1,59 @@
+---
+term: almasi
+slug: almasi
+ipa: alˈmasi
+ipa link: http://ipa-reader.xyz/?text=alˈmasi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - diamond
+  epo:
+  - - diamanto
+  spa:
+  - - diamante
+search terms:
+  glb:
+  - almasi
+  eng:
+  - diamond
+  epo:
+  - diamanto
+  spa:
+  - diamante
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - алмаз “almaz”
+  Arabisa:
+  - - ألماس “ʾalmās”
+  Swahilisa:
+  - - almasi
+  Parsisa:
+  - - الماس “almâs”
+  Turkisa:
+  - - elmas
+tags:
+- petra
+raw data:
+  term: almasi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: diamond
+    epo: diamanto
+    spa: diamante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: Rusisa (алмаз “almaz”), Arabisa (ألماس “ʾalmās”), Swahilisa (almasi),
+    Parsisa (الماس “almâs”), Turkisa (elmas)
+...

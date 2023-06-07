@@ -1,0 +1,48 @@
+---
+term: orecu
+slug: orecu
+ipa: "o\u02C8\u027Eet\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8\u027Eet\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.lin
+trans:
+  eng:
+  - - sound (_have a particular sound_)
+  epo:
+  - - "a\u016Ddi\u011Dado"
+  - - "a\u016Ddi\u011Di"
+  spa:
+  - - sonar (_dar cierto sonido_)
+search terms:
+  glb:
+  - orecu
+  eng:
+  - sound
+  epo:
+  - "a\u016Ddi\u011Dado"
+  - "a\u016Ddi\u011Di"
+  spa:
+  - sonar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ore">ore</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: orecu
+  category: derived
+  word class: n/f.lin
+  status: false
+  trans:
+    eng: sound (_have a particular sound_)
+    epo: "a\u016Ddi\u011Dado; a\u016Ddi\u011Di"
+    spa: sonar (_dar cierto sonido_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ore + -cu
+...

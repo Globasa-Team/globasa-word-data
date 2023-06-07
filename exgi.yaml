@@ -1,0 +1,48 @@
+---
+term: exgi
+slug: exgi
+ipa: "\u02C8e\u0283gi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8e\u0283gi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - take out
+  epo:
+  - - eligo
+  - - eligi
+  spa:
+  - - sacar
+search terms:
+  glb:
+  - exgi
+  eng:
+  - take out
+  epo:
+  - eligo
+  - eligi
+  spa:
+  - sacar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex">ex</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: exgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: 'take out '
+    epo: eligo; eligi
+    spa: sacar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex + -gi
+...

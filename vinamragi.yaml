@@ -1,0 +1,52 @@
+---
+term: vinamragi
+slug: vinamragi
+ipa: "vinam\u02C8\u027Eagi"
+ipa link: "http://ipa-reader.xyz/?text=vinam\u02C8\u027Eagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - humble
+    - make humble
+    - cause to be humble
+  epo:
+  - - humiligo
+  - - humiligi
+  spa:
+  - - "ense\xF1ar humildad"
+search terms:
+  glb:
+  - vinamragi
+  eng:
+  - humble
+  - make humble
+  - cause to be humble
+  epo:
+  - humiligo
+  - humiligi
+  spa:
+  - "ense\xF1ar humildad"
+etymology_type: DERIVD
+etymology: <a href="../lexi/vinamra">vinamra</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: vinamragi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: humble, make humble, cause to be humble
+    epo: humiligo; humiligi
+    spa: "ense\xF1ar humildad"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: vinamra + -gi
+...

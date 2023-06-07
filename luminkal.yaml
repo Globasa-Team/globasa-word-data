@@ -1,0 +1,54 @@
+---
+term: luminkal
+slug: luminkal
+ipa: "lumin\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=lumin\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - dark
+  - - darkly
+  epo:
+  - - senluma
+    - malluma
+  - - senlume
+    - mallume
+  spa:
+  - - oscuro
+search terms:
+  glb:
+  - luminkal
+  eng:
+  - dark
+  - darkly
+  epo:
+  - senluma
+  - malluma
+  - senlume
+  - mallume
+  spa:
+  - oscuro
+etymology_type: DERIVD
+etymology: <a href="../lexi/lumin">lumin</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: luminkal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: dark; darkly
+    epo: senluma, malluma; senlume, mallume
+    spa: oscuro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lumin + -kal
+...

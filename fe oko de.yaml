@@ -1,0 +1,55 @@
+---
+term: fe oko de
+slug: fe oko de
+ipa: "fe \u02C8oko de"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8oko de&voice=Ewa"
+status: false
+category: phrase
+word class: jm p
+trans:
+  eng:
+  - - before
+    - in the eyes of
+  epo:
+  - - en la okuloj de
+    - "anta\u016D"
+  spa:
+  - - ante
+    - a ojos de
+search terms:
+  glb:
+  - fe oko de
+  - fe
+  - oko
+  - de
+  eng:
+  - before
+  - in the eyes of
+  epo:
+  - en la okuloj de
+  - "anta\u016D"
+  spa:
+  - ante
+  - a ojos de
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/oko">oko</a>, <a href="../lexi/de">de</a>
+raw data:
+  term: fe oko de
+  category: phrase
+  word class: jm p
+  status: false
+  trans:
+    eng: before, in the eyes of
+    epo: "en la okuloj de, anta\u016D"
+    spa: ante, a ojos de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, oko, de
+...

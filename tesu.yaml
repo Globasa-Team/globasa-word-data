@@ -1,0 +1,54 @@
+---
+term: tesu
+slug: tesu
+ipa: "\u02C8tesu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tesu&voice=Ewa"
+status: false
+category: derived
+word class: su s
+trans:
+  eng:
+  - - her
+    - his
+    - its
+  epo:
+  - - lia
+    - "\u015Dia"
+    - ria
+  spa:
+  - - su (_de un ser viviente_)
+search terms:
+  glb:
+  - tesu
+  eng:
+  - her
+  - his
+  - its
+  epo:
+  - lia
+  - "\u015Dia"
+  - ria
+  spa:
+  - su
+etymology_type: DERIVD
+etymology: <a href="../lexi/te">te</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: tesu
+  category: derived
+  word class: su s
+  status: false
+  trans:
+    eng: her, his, its
+    epo: "lia, \u015Dia, ria"
+    spa: su (_de un ser viviente_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: te + -su
+...

@@ -1,0 +1,53 @@
+---
+term: eslovakisa
+slug: eslovakisa
+ipa: "eslova\u02C8kisa"
+ipa link: "http://ipa-reader.xyz/?text=eslova\u02C8kisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Slovak (language)
+    - Slovakian (language)
+  epo:
+  - - la slovaka (lingvo)
+  spa:
+  - - eslovaco (_idioma_)
+search terms:
+  glb:
+  - eslovakisa
+  eng:
+  - slovak language
+  - slovak
+  - slovakian language
+  - slovakian
+  epo:
+  - la slovaka lingvo
+  - la slovaka
+  spa:
+  - eslovaco
+etymology_type: DERIVD
+etymology: <a href="../lexi/Eslovaki">Eslovaki</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Eslovakisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Slovak (language), Slovakian (language)
+    epo: la slovaka (lingvo)
+    spa: eslovaco (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Eslovaki + -sa
+...

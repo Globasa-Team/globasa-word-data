@@ -1,0 +1,53 @@
+---
+term: posnaturali
+slug: posnaturali
+ipa: "posnatu\u02C8\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=posnatu\u02C8\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - artificial
+  - - artificially
+  epo:
+  - - malnatura
+  - - malnature
+  spa:
+  - - artificial
+  - - artificialmente
+search terms:
+  glb:
+  - posnaturali
+  eng:
+  - artificial
+  - artificially
+  epo:
+  - malnatura
+  - malnature
+  spa:
+  - artificial
+  - artificialmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/natura">natura</a> +
+  <a href="../lexi/-li">-li</a>
+raw data:
+  term: posnaturali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: artificial; artificially
+    epo: malnatura; malnature
+    spa: artificial; artificialmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + natura + -li
+...

@@ -1,0 +1,52 @@
+---
+term: hurma
+slug: hurma
+ipa: "\u02C8xu\u027Ema"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xu\u027Ema&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - date (_fruit_)
+  epo:
+  - - daktilo
+  spa:
+  - - "d\xE1til"
+    - _Phoenix dactylifera_
+search terms:
+  glb:
+  - hurma
+  eng:
+  - date
+  epo:
+  - daktilo
+  spa:
+  - "d\xE1til"
+  - phoenix dactylifera
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- fruta
+- yamxey
+raw data:
+  term: hurma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: date (_fruit_)
+    epo: daktilo
+    spa: "d\xE1til, _Phoenix dactylifera_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Indonesisa (kurma), Turkisa (hurma), Parsisa (\u062E\u0631\u0645\u0627
+    \u201Chorma\u201D)"
+...

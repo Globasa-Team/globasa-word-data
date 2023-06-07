@@ -1,0 +1,52 @@
+---
+term: rasonapul
+slug: rasonapul
+ipa: "\u027Easona\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=\u027Easona\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - reasonable
+  epo:
+  - - racia
+    - "la\u016Drezona"
+  - - racie
+    - "la\u016Drezone"
+  spa:
+  - - razonable
+search terms:
+  glb:
+  - rasonapul
+  eng:
+  - reasonable
+  epo:
+  - racia
+  - "la\u016Drezona"
+  - racie
+  - "la\u016Drezone"
+  spa:
+  - razonable
+etymology_type: DERIVD
+etymology: <a href="../lexi/rasona">rasona</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: 'rasonapul '
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: reasonable
+    epo: "racia, la\u016Drezona; racie, la\u016Drezone"
+    spa: razonable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: rasona + -pul
+...

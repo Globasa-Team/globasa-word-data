@@ -1,0 +1,50 @@
+---
+term: aysepul
+slug: aysepul
+ipa: "ajse\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=ajse\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - icy
+  epo:
+  - - glacia
+    - glaciplena
+  - - glacie
+  spa:
+  - - "g\xE9lido"
+search terms:
+  glb:
+  - aysepul
+  eng:
+  - icy
+  epo:
+  - glacia
+  - glaciplena
+  - glacie
+  spa:
+  - "g\xE9lido"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ayse">ayse</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: aysepul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: icy
+    epo: glacia, glaciplena; glacie
+    spa: "g\xE9lido"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ayse + -pul
+...

@@ -1,0 +1,86 @@
+---
+term: eskan
+slug: eskan
+ipa: esˈkan
+ipa link: http://ipa-reader.xyz/?text=esˈkan&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - (digital) scan
+  epo:
+  - - skano
+  - - skani
+  spa:
+  - - escáner
+  - - escanear
+search terms:
+  glb:
+  - eskan
+  eng:
+  - digital scan
+  - scan
+  epo:
+  - skano
+  - skani
+  spa:
+  - escáner
+  - escanear
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - scan
+  - - scanner
+  Espanisa:
+  - - escanear
+  - - escáner
+  Fransesa:
+  - - scan
+    - scanner
+  - - scanneur
+  Rusisa:
+  - - скан "skan"
+  - - сканировать "skanírovat"
+  Doycisa:
+  - - Scan
+  - - Scanner
+  Pilipinasa:
+  - - iskan
+  - - iskaner
+  Hindisa:
+  - - स्कैनर "skenar"
+  Arabisa:
+  - - سكانر "skanir"
+  Niponsa:
+  - - スキャナ "sukyana"
+  Telugusa:
+  - - స్కానర్ "skanar"
+  Hangusa:
+  - - 스캐너 "sukeno"
+  Parsisa:
+  - - اسکنر "eskaner"
+raw data:
+  term: eskan
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: (digital) scan
+    epo: skano; skani
+    spa: escáner; escanear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (scan; scanner), Espanisa (escanear; escáner), Fransesa (scan,
+    scanner; scanneur), Rusisa (скан "skan"; сканировать "skanírovat"), Doycisa (Scan;
+    Scanner), Pilipinasa (iskan; iskaner), Hindisa (स्कैनर "skenar"), Arabisa (سكانر
+    "skanir"), Niponsa (スキャナ "sukyana"), Telugusa (స్కానర్ "skanar"), Hangusa (스캐너
+    "sukeno"), Parsisa (اسکنر "eskaner")
+...

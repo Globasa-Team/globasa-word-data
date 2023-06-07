@@ -1,0 +1,55 @@
+---
+term: tonder
+slug: tonder
+ipa: "ton\u02C8de\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ton\u02C8de\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - thunder
+  epo:
+  - - tondro
+  spa:
+  - - trueno
+search terms:
+  glb:
+  - tonder
+  eng:
+  - thunder
+  epo:
+  - tondro
+  spa:
+  - trueno
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - thunder
+  Fransesa:
+  - - tonnerre
+  Doycisa:
+  - - Donner
+  Parsisa:
+  - - "\u062A\u0646\u062F\u0631 \u201Ctondar\u201D"
+raw data:
+  term: tonder
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: thunder
+    epo: tondro
+    spa: trueno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (thunder), Fransesa (tonnerre), Doycisa (Donner), Parsisa (\u062A\u0646\u062F\u0631
+    \u201Ctondar\u201D)"
+...

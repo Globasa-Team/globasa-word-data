@@ -1,0 +1,63 @@
+---
+term: todzi
+slug: todzi
+ipa: "\u02C8todzi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8todzi&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - investment
+  - - invest
+  epo:
+  - - investo
+    - investado
+  - - investi
+  spa:
+  - - "inversi\xF3n"
+  - - invertir
+search terms:
+  glb:
+  - todzi
+  eng:
+  - investment
+  - invest
+  epo:
+  - investo
+  - investado
+  - investi
+  spa:
+  - "inversi\xF3n"
+  - invertir
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6295\u8D44 \u201Ctowdzi\u201D"
+  Niponsa:
+  - - "\u6295\u8CC7 \u201Ctoxi\u201D"
+  Hangusa:
+  - - "\uD22C\uC790 \u201Ctuja\u201D"
+  Vyetnamsa:
+  - - "\u0111\u1EA7u t\u01B0"
+raw data:
+  term: todzi
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: investment; invest
+    epo: investo, investado; investi
+    spa: "inversi\xF3n; invertir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6295\u8D44 \u201Ctowdzi\u201D), Niponsa (\u6295\u8CC7 \u201Ctoxi\u201D),
+    Hangusa (\uD22C\uC790 \u201Ctuja\u201D), Vyetnamsa (\u0111\u1EA7u t\u01B0)"
+...

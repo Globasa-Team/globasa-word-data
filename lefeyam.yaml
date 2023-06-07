@@ -1,0 +1,54 @@
+---
+term: lefeyam
+slug: lefeyam
+ipa: "lefe\u02C8jam"
+ipa link: "http://ipa-reader.xyz/?text=lefe\u02C8jam&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - appetizer
+  - - have an appetizer
+    - eat as an appetizer
+  epo:
+  - - "anta\u016Dman\u011Do"
+  - - "anta\u016Dman\u011Di"
+  spa:
+  - - aperitivo
+  - - comer un aperitivo
+search terms:
+  glb:
+  - lefeyam
+  eng:
+  - appetizer
+  - have an appetizer
+  - eat as an appetizer
+  epo:
+  - "anta\u016Dman\u011Do"
+  - "anta\u016Dman\u011Di"
+  spa:
+  - aperitivo
+  - comer un aperitivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/lefe-">lefe-</a> + <a href="../lexi/yam">yam</a>
+raw data:
+  term: lefeyam
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: 'appetizer; have an appetizer, eat as an appetizer '
+    epo: "anta\u016Dman\u011Do; anta\u016Dman\u011Di"
+    spa: aperitivo; comer un aperitivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lefe- + yam
+...

@@ -1,0 +1,46 @@
+---
+term: leki
+slug: leki
+ipa: "\u02C8leki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8leki&voice=Ewa"
+status: false
+category: derived
+word class: l
+trans:
+  eng:
+  - - before
+  epo:
+  - - "anta\u016D ol"
+  spa:
+  - - antes que
+search terms:
+  glb:
+  - leki
+  eng:
+  - before
+  epo:
+  - "anta\u016D ol"
+  spa:
+  - antes que
+etymology_type: DERIVD
+etymology: <a href="../lexi/le-">le-</a> + <a href="../lexi/ki">ki</a>
+raw data:
+  term: leki
+  category: derived
+  word class: l
+  status: false
+  trans:
+    eng: before
+    epo: "anta\u016D ol"
+    spa: antes que
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: le- + ki
+...

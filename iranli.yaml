@@ -1,0 +1,46 @@
+---
+term: iranli
+slug: iranli
+ipa: "i\u02C8\u027Eanli"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8\u027Eanli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Iranian
+  epo:
+  - - irana
+  spa:
+  - - "iran\xED"
+search terms:
+  glb:
+  - iranli
+  eng:
+  - iranian
+  epo:
+  - irana
+  spa:
+  - "iran\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Iran">Iran</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Iranli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Iranian
+    epo: irana
+    spa: "iran\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Iran + -li
+...

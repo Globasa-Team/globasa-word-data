@@ -1,0 +1,51 @@
+---
+term: suhe
+slug: suhe
+ipa: "\u02C8suxe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8suxe&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - dry
+  epo:
+  - - seka
+  spa:
+  - - seco
+search terms:
+  glb:
+  - suhe
+  eng:
+  - dry
+  epo:
+  - seka
+  spa:
+  - seco
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u0942\u0916\u093E \u201Cs\u016Bkh\u0101\u201D"
+  Rusisa:
+  - - "\u0441\u0443\u0445\u043E\u0439 \u201Csuhoy\u201D"
+raw data:
+  term: suhe
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: dry
+    epo: seka
+    spa: seco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0938\u0942\u0916\u093E \u201Cs\u016Bkh\u0101\u201D), Rusisa
+    (\u0441\u0443\u0445\u043E\u0439 \u201Csuhoy\u201D)"
+...

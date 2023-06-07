@@ -1,0 +1,51 @@
+---
+term: menu
+slug: menu
+ipa: "\u02C8menu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8menu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - menu
+  epo:
+  - - menuo
+  spa:
+  - - "men\xFA"
+search terms:
+  glb:
+  - menu
+  eng:
+  - menu
+  epo:
+  - menuo
+  spa:
+  - "men\xFA"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: menu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: menu
+    epo: menuo
+    spa: "men\xFA"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (menu), Fransesa, Indonesisa, Espanisa (men\xFA), Rusisa (\u043C\u0435\u043D\u044E
+    \u201Cmenyu\u201D), Doycisa (Men\xFC), Turkisa, Hindisa (\u092E\u0947\u0928\u0942
+    \u201Cmenu\u201D), Arabisa (\u0645\u0646\u064A\u0648 \u201Cminyu\u201D), Niponsa
+    (\u30E1\u30CB\u30E5\u30FC \u201Cmeny\u016B\u201D), Telugusa (\u0C2E\u0C46\u0C28\u0C42/\u0C2E\u0C46\u0C28\u0C41
+    \u201Cmenu\u201D), Hangusa (\uBA54\uB274 \u201Cmenyu\u201D), Parsisa (\u0645\u0646\u0648
+    \u201Cmenu\u201D), Swahilisa (menyu)"
+...

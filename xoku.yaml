@@ -1,0 +1,94 @@
+---
+term: xoku
+slug: xoku
+ipa: "\u02C8\u0283oku"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283oku&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - shock
+  - - be in shock
+  epo:
+  - - "\u015Doko"
+  - - "\u015Doki\u011Di"
+    - "\u015Doki"
+  spa:
+  - - "conmoci\xF3n"
+    - "impresi\xF3n"
+    - estupor
+    - _shock_
+  - - estar en _shock_
+    - estar impactado
+    - estar anonadado
+search terms:
+  glb:
+  - xoku
+  eng:
+  - shock
+  - be in shock
+  epo:
+  - "\u015Doko"
+  - "\u015Doki\u011Di"
+  - "\u015Doki"
+  spa:
+  - "conmoci\xF3n"
+  - "impresi\xF3n"
+  - estupor
+  - shock
+  - estar en shock
+  - estar impactado
+  - estar anonadado
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Schock
+  Englisa:
+  - - shock
+  Espanisa:
+  - - shock
+    - choque
+  Fransesa:
+  - - choc
+  Rusisa:
+  - - "\u0448\u043E\u043A \u201Cxok\u201D"
+  Indonesisa:
+  - - syok
+  Turkisa:
+  - - "\u015Fok"
+  Telugusa:
+  - - "\u0C37\u0C3E\u0C15\u0C4D \u201Cxak\u201D"
+  Putunhwa:
+  - - "\u4F11\u514B \u201Cxyowke\u201D"
+  Niponsa:
+  - - "\u30B7\u30E7\u30C3\u30AF \u201Cxoku\u201D"
+  Hangusa:
+  - - "\uC1FC\uD06C \u201Cxoku\u201D"
+  Vyetnamsa:
+  - - "s\u1ED1c"
+raw data:
+  term: xoku
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: shock; be in shock
+    epo: "\u015Doko; \u015Doki\u011Di, \u015Doki"
+    spa: "conmoci\xF3n, impresi\xF3n, estupor, _shock_; estar en _shock_, estar impactado,
+      estar anonadado"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Schock), Englisa (shock), Espanisa (shock, choque), Fransesa
+    (choc), Rusisa (\u0448\u043E\u043A \u201Cxok\u201D), Indonesisa (syok), Turkisa
+    (\u015Fok), Telugusa (\u0C37\u0C3E\u0C15\u0C4D \u201Cxak\u201D), Putunhwa (\u4F11\u514B
+    \u201Cxyowke\u201D), Niponsa (\u30B7\u30E7\u30C3\u30AF \u201Cxoku\u201D), Hangusa
+    (\uC1FC\uD06C \u201Cxoku\u201D), Vyetnamsa (s\u1ED1c)"
+...

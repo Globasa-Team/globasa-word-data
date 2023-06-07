@@ -1,0 +1,66 @@
+---
+term: tesis
+slug: tesis
+ipa: "te\u02C8sis"
+ipa link: "http://ipa-reader.xyz/?text=te\u02C8sis&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - thesis
+  epo:
+  - - tezo
+  spa:
+  - - tesis
+search terms:
+  glb:
+  - tesis
+  eng:
+  - thesis
+  epo:
+  - tezo
+  spa:
+  - tesis
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - thesis
+  Espanisa:
+  - - tesis
+  Fransesa:
+  - - "th\xE8se"
+  Doycisa:
+  - - These
+  Italisa:
+  - - tesi
+  Niponsa:
+  - - "\u30C6\u30FC\u30BC \u201Ct\u0113ze\u201D"
+  Hangusa:
+  - - "\uD14C\uC81C \u201Cteje\u201D"
+  Parsisan:
+  - - "\u062A\u0632 \u201Ctez\u201D"
+  Turkisa:
+  - - tez
+raw data:
+  term: tesis
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: thesis
+    epo: tezo
+    spa: tesis
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (thesis), Espanisa (tesis), Fransesa (th\xE8se), Doycisa (These),
+    Italisa (tesi), Niponsa (\u30C6\u30FC\u30BC \u201Ct\u0113ze\u201D), Hangusa (\uD14C\uC81C
+    \u201Cteje\u201D), Parsisan (\u062A\u0632 \u201Ctez\u201D), Turkisa (tez)"
+...

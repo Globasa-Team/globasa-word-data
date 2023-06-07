@@ -1,0 +1,49 @@
+---
+term: hisicu
+slug: hisicu
+ipa: "xi\u02C8sit\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=xi\u02C8sit\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.lin
+trans:
+  eng:
+  - - feel (_physically feel a particular way_)
+  epo:
+  - - "senti\u011Do"
+  - - "senti\u011Di"
+  spa:
+  - - "sentirse (de cierta manera f\xEDsicamente)"
+search terms:
+  glb:
+  - hisicu
+  eng:
+  - feel
+  epo:
+  - "senti\u011Do"
+  - "senti\u011Di"
+  spa:
+  - "sentirse de cierta manera f\xEDsicamente"
+  - sentirse
+etymology_type: DERIVD
+etymology: <a href="../lexi/hisi">hisi</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: hisicu
+  category: derived
+  word class: n/f.lin
+  status: false
+  trans:
+    eng: feel (_physically feel a particular way_)
+    epo: "senti\u011Do; senti\u011Di"
+    spa: "sentirse (de cierta manera f\xEDsicamente)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hisi + -cu
+...

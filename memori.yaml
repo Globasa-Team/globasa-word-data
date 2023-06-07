@@ -1,0 +1,62 @@
+---
+term: memori
+slug: memori
+ipa: "me\u02C8mo\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8mo\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - memory
+    - recollection
+  - - remember
+    - recall
+  epo:
+  - - memoro
+  - - memori
+  spa:
+  - - memoria
+    - recuerdo
+  - - recordar
+    - acordarse de
+search terms:
+  glb:
+  - memori
+  eng:
+  - memory
+  - recollection
+  - remember
+  - recall
+  epo:
+  - memoro
+  - memori
+  spa:
+  - memoria
+  - recuerdo
+  - recordar
+  - acordarse de
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: memori
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: memory, recollection; remember, recall
+    epo: memoro; memori
+    spa: memoria, recuerdo; recordar, acordarse de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (memory), Fransesa (m\xE9moire), Espanisa (memoria), Indonesisa
+    (memori), Pilipinasa (memorya), Niponsa (\u30E1\u30E2\u30EA \u201Cmemori\u201D),
+    Hangusa (\uBA54\uBAA8\uB9AC \u201Cmemori\u201D)"
+...

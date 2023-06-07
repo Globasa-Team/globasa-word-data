@@ -1,0 +1,46 @@
+---
+term: navilari
+slug: navilari
+ipa: "navi\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=navi\u02C8la\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - fleet of ships
+  epo:
+  - - "\u015Diparo"
+  spa:
+  - - flota
+search terms:
+  glb:
+  - navilari
+  eng:
+  - fleet of ships
+  epo:
+  - "\u015Diparo"
+  spa:
+  - flota
+etymology_type: DERIVD
+etymology: <a href="../lexi/navi">navi</a> + <a href="../lexi/-lari">-lari</a>
+raw data:
+  term: navilari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: fleet of ships
+    epo: "\u015Diparo"
+    spa: flota
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: navi + -lari
+...

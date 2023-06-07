@@ -1,0 +1,52 @@
+---
+term: nasali
+slug: nasali
+ipa: "na\u02C8sali"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8sali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - nasal
+  - - nasally
+  epo:
+  - - naza
+  - - naze
+  spa:
+  - - nasal
+  - - nasalmente
+search terms:
+  glb:
+  - nasali
+  eng:
+  - nasal
+  - nasally
+  epo:
+  - naza
+  - naze
+  spa:
+  - nasal
+  - nasalmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/nasa">nasa</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: nasali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: nasal; nasally
+    epo: naza; naze
+    spa: nasal; nasalmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nasa + -li
+...

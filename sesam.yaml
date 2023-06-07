@@ -1,0 +1,79 @@
+---
+term: sesam
+slug: sesam
+ipa: "se\u02C8sam"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8sam&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sesame
+  epo:
+  - - sezamo
+  spa:
+  - - "s\xE9samo"
+    - "ajonjol\xED"
+    - _Sesamum indicum_
+  deu:
+  - - Sesam
+search terms:
+  glb:
+  - sesam
+  eng:
+  - sesame
+  epo:
+  - sezamo
+  spa:
+  - "s\xE9samo"
+  - "ajonjol\xED"
+  - sesamum indicum
+  deu:
+  - sesam
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sesame
+  Espanisa:
+  - - "s\xE9samo"
+  Fransesa:
+  - - "s\xE9same"
+  Rusisa:
+  - - "\u0441\u0435\u0437\u0430\u043C \"sezam\""
+  Doycisa:
+  - - Sesam
+  Indonesisa:
+  - - sesam
+  Arabisa:
+  - - "\u0633\u0650\u0645\u0652\u0633\u0650\u0645 \"simsim\""
+  Turkisa:
+  - - susam
+  Parsisa:
+  - - "\u0633\u0645\u0633\u0645 \"semsem\""
+  Swahilisa:
+  - - simsim
+tags:
+- yamxey
+raw data:
+  term: sesam
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sesame
+    epo: sezamo
+    spa: "s\xE9samo, ajonjol\xED, _Sesamum indicum_"
+    deu: Sesam
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (sesame), Espanisa (s\xE9samo), Fransesa (s\xE9same), Rusisa
+    (\u0441\u0435\u0437\u0430\u043C \"sezam\"), Doycisa (Sesam), Indonesisa (sesam),
+    Arabisa (\u0633\u0650\u0645\u0652\u0633\u0650\u0645 \"simsim\"), Turkisa (susam),
+    Parsisa (\u0633\u0645\u0633\u0645 \"semsem\"), Swahilisa (simsim)"
+...

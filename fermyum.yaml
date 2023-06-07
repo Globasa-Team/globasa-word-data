@@ -1,0 +1,87 @@
+---
+term: fermyum
+slug: fermyum
+ipa: feɾˈmjum
+ipa link: http://ipa-reader.xyz/?text=feɾˈmjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fermium
+  epo:
+  - - fermio
+  spa:
+  - - fermio
+    - Fm
+search terms:
+  glb:
+  - fermyum
+  eng:
+  - fermium
+  epo:
+  - fermio
+  spa:
+  - fermio
+  - fm
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fermium
+  Hindisa:
+  - - फर्मीयम “farmiyam”
+  Espanisa:
+  - - fermio
+  Arabisa:
+  - - فِرْمِيُوم “firmiyum”
+  Fransesa:
+  - - fermium
+  Rusisa:
+  - - фермий “fermiy”
+  Indonesisa:
+  - - fermium
+  Doycisa:
+  - - Fermium
+  Niponsa:
+  - - フェルミウム “ferumiumu”
+  Telugusa:
+  - - ఫెర్మియం “fermiyam”
+  Turkisa:
+  - - fermiyum
+  Hangusa:
+  - - 페르뮴 “perumyum”
+  Vyetnamsa:
+  - - fermi
+    - fecmi
+  Parsisa:
+  - - فرمیم “fermiyom”
+  Swahilisa:
+  - - fermi
+  Pilipinasa:
+  - - fermyo
+tags:
+- kimikali monlari
+raw data:
+  term: fermyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fermium
+    epo: fermio
+    spa: fermio, Fm
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (fermium), Hindisa (फर्मीयम “farmiyam”), Espanisa (fermio), Arabisa
+    (فِرْمِيُوم “firmiyum”), Fransesa (fermium), Rusisa (фермий “fermiy”), Indonesisa
+    (fermium), Doycisa (Fermium), Niponsa (フェルミウム “ferumiumu”), Telugusa (ఫెర్మియం
+    “fermiyam”), Turkisa (fermiyum), Hangusa (페르뮴 “perumyum”), Vyetnamsa (fermi, fecmi),
+    Parsisa (فرمیم “fermiyom”), Swahilisa (fermi), Pilipinasa (fermyo)
+...

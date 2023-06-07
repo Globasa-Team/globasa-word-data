@@ -1,0 +1,50 @@
+---
+term: tay
+slug: tay
+ipa: "\u02C8taj"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8taj&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Thailand
+  epo:
+  - - Tajlando
+  spa:
+  - - Tailandia
+search terms:
+  glb:
+  - tay
+  eng:
+  - thailand
+  epo:
+  - tajlando
+  spa:
+  - tailandia
+etymology_type: NATLNG
+etymology:
+  Taysa:
+  - - "\u0E44\u0E17\u0E22 \u201Cth\u1ECBy\u201D"
+tags:
+- dexa
+raw data:
+  term: Tay
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Thailand
+    epo: Tajlando
+    spa: Tailandia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Taysa (\u0E44\u0E17\u0E22 \u201Cth\u1ECBy\u201D)"
+...

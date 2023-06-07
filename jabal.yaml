@@ -1,0 +1,48 @@
+---
+term: jabal
+slug: jabal
+ipa: "d\u0361\u0292a\u02C8bal"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8bal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mountain
+  epo:
+  - - monto
+  spa:
+  - - "monta\xF1a"
+search terms:
+  glb:
+  - jabal
+  eng:
+  - mountain
+  epo:
+  - monto
+  spa:
+  - "monta\xF1a"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jabal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mountain
+    epo: monto
+    spa: "monta\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u0628\u0644 \u201Cjabal\u201D), Hindisa (\u091C\u092C\u0932
+    \u201Cjabal\u201D), Indonesisa (jabal), Parsisa (\u062C\u0628\u0644 \u201Cjabal\u201D),
+    Swahilisa (jabali)"
+...

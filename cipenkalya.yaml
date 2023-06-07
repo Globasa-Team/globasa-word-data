@@ -1,0 +1,57 @@
+---
+term: cipenkalya
+slug: cipenkalya
+ipa: "t\u0361\u0283ipen\u02C8kalja"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ipen\u02C8kalja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - honesty
+    - sincerity
+  epo:
+  - - honesteco
+    - sincereco
+    - sentrompeco
+  spa:
+  - - honestidad
+    - sinceridad
+    - franqueza
+search terms:
+  glb:
+  - cipenkalya
+  eng:
+  - honesty
+  - sincerity
+  epo:
+  - honesteco
+  - sincereco
+  - sentrompeco
+  spa:
+  - honestidad
+  - sinceridad
+  - franqueza
+etymology_type: DERIVD
+etymology: <a href="../lexi/cipen">cipen</a> + <a href="../lexi/-kal">-kal</a> + <a
+  href="../lexi/-ya">-ya</a>
+raw data:
+  term: cipenkalya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: honesty, sincerity
+    epo: honesteco, sincereco, sentrompeco
+    spa: honestidad, sinceridad, franqueza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cipen + -kal + -ya
+...

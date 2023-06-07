@@ -1,0 +1,48 @@
+---
+term: kurtina
+slug: kurtina
+ipa: "ku\u027E\u02C8tina"
+ipa link: "http://ipa-reader.xyz/?text=ku\u027E\u02C8tina&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - curtain
+  epo:
+  - - kurteno
+  spa:
+  - - cortina
+search terms:
+  glb:
+  - kurtina
+  eng:
+  - curtain
+  epo:
+  - kurteno
+  spa:
+  - cortina
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kurtina
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: curtain
+    epo: kurteno
+    spa: cortina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (curtain), Espanisa (cortina), Rusisa (\u0433\u0430\u0440\u0434\u0438\u043D\u0430
+    \"gardina\"), Doycisa (Gardine), Indonesisa (gorden), Pilipinasa (kurtina), Niponsa
+    (\u30AB\u30FC\u30C6\u30F3 \"katen\"), Hangusa (\uCEE4\uD2BC \"kotun\")"
+...

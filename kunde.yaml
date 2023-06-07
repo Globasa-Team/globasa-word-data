@@ -1,0 +1,53 @@
+---
+term: kunde
+slug: kunde
+ipa: "\u02C8kunde"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kunde&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - dull
+    - dully
+    - blunt
+    - bluntly
+  spa:
+  - - romo
+    - desafilado
+    - despuntado
+search terms:
+  glb:
+  - kunde
+  eng:
+  - dull
+  - dully
+  - blunt
+  - bluntly
+  spa:
+  - romo
+  - desafilado
+  - despuntado
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kunde
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: dull, dully, blunt, bluntly
+    epo: ""
+    spa: romo, desafilado, despuntado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0915\u0941\u0902\u0926 \u201Ckund\u201D), Parsisa (\u06A9\u0646\u062F
+    \u201Ckond\u201D), Vyetnamsa (c\xF9n)"
+...

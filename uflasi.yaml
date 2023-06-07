@@ -1,0 +1,83 @@
+---
+term: uflasi
+slug: uflasi
+ipa: "u\u02C8flasi"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8flasi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - bankruptcy
+    - insolvency
+  - - go bankrupt
+    - bankrupt
+    - become insolvent
+  epo:
+  - - bankroto
+  - - bankroti
+    - bankrotigi
+  spa:
+  - - bancarrota
+    - quiebra
+    - insolvencia
+  - - quebrar
+    - arruinar
+search terms:
+  glb:
+  - uflasi
+  eng:
+  - bankruptcy
+  - insolvency
+  - go bankrupt
+  - bankrupt
+  - become insolvent
+  epo:
+  - bankroto
+  - bankroti
+  - bankrotigi
+  spa:
+  - bancarrota
+  - quiebra
+  - insolvencia
+  - quebrar
+  - arruinar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0645\u064F\u0641\u0652\u0644\u0650\u0633 \u201Cmuflis\""
+    - "\u0625\u0650\u0641\u0652\u0644\u064E\u0627\u0633 \u201Ciflas\u201D"
+  Turkisa:
+  - - "m\xFCflis"
+    - iflas
+  Parsisa:
+  - - "\u0645\u0641\u0644\u0633 \u201Cmofles\""
+    - "\u0627\u0641\u0644\u0627\u0633 \u201Ceflas\u201D"
+  Swahilisa:
+  - - -filisi
+    - ufilisi
+  Malaysisa:
+  - - muflis
+raw data:
+  term: uflasi
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: bankruptcy, insolvency; go bankrupt, bankrupt, become insolvent
+    epo: bankroto; bankroti, bankrotigi
+    spa: bancarrota, quiebra, insolvencia; quebrar, arruinar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u064F\u0641\u0652\u0644\u0650\u0633 \u201Cmuflis\",
+    \u0625\u0650\u0641\u0652\u0644\u064E\u0627\u0633 \u201Ciflas\u201D), Turkisa (m\xFCflis,
+    iflas), Parsisa (\u0645\u0641\u0644\u0633 \u201Cmofles\", \u0627\u0641\u0644\u0627\u0633
+    \u201Ceflas\u201D), Swahilisa (-filisi, ufilisi), Malaysisa (muflis)"
+...

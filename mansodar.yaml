@@ -1,0 +1,46 @@
+---
+term: mansodar
+slug: mansodar
+ipa: "manso\u02C8da\u027E"
+ipa link: "http://ipa-reader.xyz/?text=manso\u02C8da\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - brother
+  epo:
+  - - frato
+  spa:
+  - - hermano
+search terms:
+  glb:
+  - mansodar
+  eng:
+  - brother
+  epo:
+  - frato
+  spa:
+  - hermano
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/sodar">sodar</a>
+raw data:
+  term: mansodar
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: brother
+    epo: frato
+    spa: hermano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + sodar
+...

@@ -1,0 +1,48 @@
+---
+term: poshay
+slug: poshay
+ipa: "pos\u02C8xaj"
+ipa link: "http://ipa-reader.xyz/?text=pos\u02C8xaj&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - be missing
+  epo:
+  - - mankas
+    - "ne trovi\u011Das"
+  spa:
+  - - faltar
+search terms:
+  glb:
+  - poshay
+  eng:
+  - be missing
+  epo:
+  - mankas
+  - "ne trovi\u011Das"
+  spa:
+  - faltar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/hay">hay</a>
+raw data:
+  term: poshay
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: be missing
+    epo: "mankas, ne trovi\u011Das"
+    spa: faltar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: miss, be missing
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + hay
+...

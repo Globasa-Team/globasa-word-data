@@ -1,0 +1,50 @@
+---
+term: sindisa
+slug: sindisa
+ipa: "sin\u02C8disa"
+ipa link: "http://ipa-reader.xyz/?text=sin\u02C8disa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Sindhi (language)
+  epo:
+  - - la sinda (lingvo)
+  spa:
+  - - "sind\xED (_idioma_)"
+search terms:
+  glb:
+  - sindisa
+  eng:
+  - sindhi language
+  - sindhi
+  epo:
+  - la sinda lingvo
+  - la sinda
+  spa:
+  - "sind\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Sindi">Sindi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Sindisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Sindhi (language)
+    epo: la sinda (lingvo)
+    spa: "sind\xED (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Sindi + -sa
+...

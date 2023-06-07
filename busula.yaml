@@ -1,0 +1,55 @@
+---
+term: busula
+slug: busula
+ipa: buˈsula
+ipa link: http://ipa-reader.xyz/?text=buˈsula&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - compass
+  epo:
+  - - kompaso
+  spa:
+  - - brújula
+search terms:
+  glb:
+  - busula
+  eng:
+  - compass
+  epo:
+  - kompaso
+  spa:
+  - brújula
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - brújula
+  Pilipinasa:
+  - - bruhula
+  Arabisa:
+  - - بُوصُّلَة “busula”
+  Turkisa:
+  - - pusula
+raw data:
+  term: busula
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: compass
+    epo: kompaso
+    spa: brújula
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (brújula), Pilipinasa (bruhula), Arabisa (بُوصُّلَة “busula”),
+    Turkisa (pusula)
+...

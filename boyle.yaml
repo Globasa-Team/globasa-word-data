@@ -1,0 +1,73 @@
+---
+term: boyle
+slug: boyle
+ipa: ˈbojle
+ipa link: http://ipa-reader.xyz/?text=ˈbojle&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - boil
+  epo:
+  - - bolo
+  - - boli
+    - boligi
+  spa:
+  - - hervir
+    - hervirse
+search terms:
+  glb:
+  - boyle
+  eng:
+  - boil
+  epo:
+  - bolo
+  - boli
+  - boligi
+  spa:
+  - hervir
+  - hervirse
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Boiler
+  Englisa:
+  - - boiler
+  Espanisa:
+  - - bóiler
+  Rusisa:
+  - - бойлер “boyler”
+  Hindisa:
+  - - बायलर “baylar”
+  Telugusa:
+  - - బాయిలర్ “baylar”
+  Swahilisa:
+  - - bwela
+  Niponsa:
+  - - ボイラー “boyra”
+  Hangusa:
+  - - 보일러 “boylo”
+  'Am kompara: _lide_.': ~
+raw data:
+  term: boyle
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: boil
+    epo: bolo; boli, boligi
+    spa: hervir, hervirse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'Doycisa (Boiler), Englisa (boiler), Espanisa (bóiler), Rusisa (бойлер
+    “boyler”), Hindisa (बायलर “baylar”), Telugusa (బాయిలర్ “baylar”), Swahilisa (bwela),
+    Niponsa (ボイラー “boyra”), Hangusa (보일러 “boylo”). Am kompara: _lide_.'
+...

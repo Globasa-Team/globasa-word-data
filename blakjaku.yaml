@@ -1,0 +1,74 @@
+---
+term: blakjaku
+slug: blakjaku
+ipa: blakˈd͡ʒaku
+ipa link: http://ipa-reader.xyz/?text=blakˈd͡ʒaku&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - blackjack
+  spa:
+  - - _blackjack_
+    - veintiuno (juego)
+search terms:
+  glb:
+  - blakjaku
+  eng:
+  - blackjack
+  spa:
+  - blackjack
+  - veintiuno juego
+  - veintiuno
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - blackjack
+  Espanisa:
+  - - Blackjack
+  Doycisa:
+  - - Blackjack
+  Niponsa:
+  - - ブラックジャック "burakkujakku"
+    - Hangusa (블랙잭 "bullekjek"
+  Rusisa:
+  - - блэкджек "blɛkdjek"
+  Hindisa:
+  - - ब्लैकजैक "blekjek"
+  Fransesa:
+  - - blackjack
+  Arabisa:
+  - - بلاك جاك "blak jak"
+  Parsisa:
+  - - بلک‌جک "blak-jak"
+  Indonesisa:
+  - - blackjack
+  Pilipinasa:
+  - - blackjack
+  Vyetnamsa:
+  - - blackjack
+raw data:
+  term: blakjaku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: blackjack
+    epo: ""
+    spa: _blackjack_, veintiuno (juego)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (blackjack), Espanisa (Blackjack), Doycisa (Blackjack), Niponsa
+    (ブラックジャック "burakkujakku", Hangusa (블랙잭 "bullekjek"), Rusisa (блэкджек "blɛkdjek"),
+    Hindisa (ब्लैकजैक "blekjek"), Fransesa (blackjack), Arabisa (بلاك جاك "blak jak"),
+    Parsisa (بلک‌جک "blak-jak"), Indonesisa (blackjack), Pilipinasa (blackjack), Vyetnamsa
+    (blackjack)
+...

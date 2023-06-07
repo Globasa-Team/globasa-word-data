@@ -1,0 +1,48 @@
+---
+term: des nue
+slug: des nue
+ipa: "\u02C8des \u02C8nue"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8des \u02C8nue&voice=Ewa"
+status: false
+category: phrase
+word class: num
+trans:
+  eng:
+  - - nineteen
+  epo:
+  - - "dek na\u016D"
+  spa:
+  - - diecinueve
+search terms:
+  glb:
+  - des nue
+  - des
+  - nue
+  eng:
+  - nineteen
+  epo:
+  - "dek na\u016D"
+  spa:
+  - diecinueve
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a>, <a href="../lexi/nue">nue</a>
+raw data:
+  term: des nue
+  category: phrase
+  word class: num
+  status: false
+  trans:
+    eng: nineteen
+    epo: "dek na\u016D"
+    spa: diecinueve
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des, nue
+...

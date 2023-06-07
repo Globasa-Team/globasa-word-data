@@ -1,0 +1,48 @@
+---
+term: futbol
+slug: futbol
+ipa: futˈbol
+ipa link: http://ipa-reader.xyz/?text=futˈbol&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - American football
+  epo:
+  - - usona piedpilkado
+  spa:
+  - - fútbol americano
+search terms:
+  glb:
+  - futbol
+  eng:
+  - american football
+  epo:
+  - usona piedpilkado
+  spa:
+  - fútbol americano
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - football
+raw data:
+  term: futbol
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: American football
+    epo: usona piedpilkado
+    spa: fútbol americano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (football)
+...

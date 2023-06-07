@@ -1,0 +1,46 @@
+---
+term: juniuma
+slug: juniuma
+ipa: "d\u0361\u0292uni\u02C8uma"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292uni\u02C8uma&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - foal
+  epo:
+  - - "\u0109evalido"
+  spa:
+  - - potro
+search terms:
+  glb:
+  - juniuma
+  eng:
+  - foal
+  epo:
+  - "\u0109evalido"
+  spa:
+  - potro
+etymology_type: DERIVD
+etymology: <a href="../lexi/juni-">juni-</a> + <a href="../lexi/uma">uma</a>
+raw data:
+  term: juniuma
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: foal
+    epo: "\u0109evalido"
+    spa: potro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: juni- + uma
+...

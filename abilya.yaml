@@ -1,0 +1,54 @@
+---
+term: abilya
+slug: abilya
+ipa: "a\u02C8bilja"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8bilja&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ability
+    - capacity
+    - capability
+  epo:
+  - - povo
+    - kapablo
+  spa:
+  - - habilidad
+    - capacidad
+search terms:
+  glb:
+  - abilya
+  eng:
+  - ability
+  - capacity
+  - capability
+  epo:
+  - povo
+  - kapablo
+  spa:
+  - habilidad
+  - capacidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/abil">abil</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: abilya
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: ability, capacity, capability
+    epo: povo, kapablo
+    spa: habilidad, capacidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: abil + -ya
+...

@@ -1,0 +1,88 @@
+---
+term: espiral
+slug: espiral
+ipa: espiˈɾal
+ipa link: http://ipa-reader.xyz/?text=espiˈɾal&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - spiral
+    - helix
+  - - twist
+  epo:
+  - - spiralo
+    - tordo
+    - kurbo
+    - helico
+  - - spirali
+    - tordi
+    - kurbi
+  spa:
+  - - espiral
+    - hélice
+  - - retorcer
+    - retorcerse
+search terms:
+  glb:
+  - espiral
+  eng:
+  - spiral
+  - helix
+  - twist
+  epo:
+  - spiralo
+  - tordo
+  - kurbo
+  - helico
+  - spirali
+  - tordi
+  - kurbi
+  spa:
+  - espiral
+  - hélice
+  - retorcer
+  - retorcerse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - spiral
+  Espanisa:
+  - - espiral
+  Fransesa:
+  - - spirale
+  Rusisa:
+  - - спираль “spiral”
+  Doycisa:
+  - - Spirale
+  Indonesisa:
+  - - spiral
+  Hindisa:
+  - - सर्पिल “sarpil”
+  Telugusa:
+  - - సర్పిలం “sarpilam”
+  Turkisa:
+  - - spiral
+raw data:
+  term: espiral
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: spiral, helix; twist
+    epo: spiralo, tordo, kurbo, helico; spirali, tordi, kurbi
+    spa: espiral, hélice; retorcer, retorcerse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (spiral), Espanisa (espiral), Fransesa (spirale), Rusisa (спираль
+    “spiral”), Doycisa (Spirale), Indonesisa (spiral), Hindisa (सर्पिल “sarpil”),
+    Telugusa (సర్పిలం “sarpilam”), Turkisa (spiral)
+...

@@ -1,0 +1,48 @@
+---
+term: irsalyen
+slug: irsalyen
+ipa: "i\u027Esa\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=i\u027Esa\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - sender
+  epo:
+  - - sendanto
+  spa:
+  - - remitente
+    - expedidor
+search terms:
+  glb:
+  - irsalyen
+  eng:
+  - sender
+  epo:
+  - sendanto
+  spa:
+  - remitente
+  - expedidor
+etymology_type: DERIVD
+etymology: <a href="../lexi/irsal">irsal</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: irsalyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: sender
+    epo: sendanto
+    spa: remitente, expedidor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: irsal + -yen
+...

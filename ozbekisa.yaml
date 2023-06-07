@@ -1,0 +1,50 @@
+---
+term: ozbekisa
+slug: ozbekisa
+ipa: "ozbe\u02C8kisa"
+ipa link: "http://ipa-reader.xyz/?text=ozbe\u02C8kisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Uzbek (language)
+  epo:
+  - - la uzbeka (lingvo)
+  spa:
+  - - uzbeko (_idioma_)
+search terms:
+  glb:
+  - ozbekisa
+  eng:
+  - uzbek language
+  - uzbek
+  epo:
+  - la uzbeka lingvo
+  - la uzbeka
+  spa:
+  - uzbeko
+etymology_type: DERIVD
+etymology: <a href="../lexi/Ozbeki">Ozbeki</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Ozbekisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Uzbek (language)
+    epo: la uzbeka (lingvo)
+    spa: uzbeko (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Ozbeki + -sa
+...

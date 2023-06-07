@@ -1,0 +1,46 @@
+---
+term: pasya
+slug: pasya
+ipa: "\u02C8pasja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pasja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - be through
+  epo:
+  - - esti trae
+  spa:
+  - - "estar a trav\xE9s"
+search terms:
+  glb:
+  - pasya
+  eng:
+  - be through
+  epo:
+  - esti trae
+  spa:
+  - "estar a trav\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/pas">pas</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: pasya
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: be through
+    epo: esti trae
+    spa: "estar a trav\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pas + -ya
+...

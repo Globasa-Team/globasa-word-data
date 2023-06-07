@@ -1,0 +1,53 @@
+---
+term: tojiki
+slug: tojiki
+ipa: "to\u02C8d\u0361\u0292iki"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8d\u0361\u0292iki&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Tajikistan
+  epo:
+  - - "Ta\u011Dikio"
+    - "Ta\u011Dikujo"
+  spa:
+  - - "Tayikist\xE1n"
+search terms:
+  glb:
+  - tojiki
+  eng:
+  - tajikistan
+  epo:
+  - "ta\u011Dikio"
+  - "ta\u011Dikujo"
+  spa:
+  - "tayikist\xE1n"
+etymology_type: NATLNG
+etymology:
+  Tojikisa:
+  - - "\u0422\u043E\u04B7\u0438\u043A\u0438\u0441\u0442\u043E\u043D \u201CTojikiston\u201D"
+tags:
+- dexa
+raw data:
+  term: Tojiki
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Tajikistan
+    epo: "Ta\u011Dikio, Ta\u011Dikujo"
+    spa: "Tayikist\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Tojikisa (\u0422\u043E\u04B7\u0438\u043A\u0438\u0441\u0442\u043E\u043D
+    \u201CTojikiston\u201D)"
+...

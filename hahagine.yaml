@@ -1,0 +1,52 @@
+---
+term: hahagine
+slug: hahagine
+ipa: "xaxa\u02C8gine"
+ipa link: "http://ipa-reader.xyz/?text=xaxa\u02C8gine&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - ridiculous
+  epo:
+  - - ridiga
+    - ridinda
+    - ridiganta
+  - - ridigante
+  spa:
+  - - "rid\xEDculo"
+search terms:
+  glb:
+  - hahagine
+  eng:
+  - ridiculous
+  epo:
+  - ridiga
+  - ridinda
+  - ridiganta
+  - ridigante
+  spa:
+  - "rid\xEDculo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/haha">haha</a> + <a href="../lexi/-gi">-gi</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: hahagine
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: ridiculous
+    epo: ridiga, ridinda, ridiganta; ridigante
+    spa: "rid\xEDculo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: haha + -gi + -ne
+...

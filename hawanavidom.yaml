@@ -1,0 +1,51 @@
+---
+term: hawanavidom
+slug: hawanavidom
+ipa: "xawanavi\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=xawanavi\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - airport
+  epo:
+  - - flughaveno
+    - aviadilejo
+    - aviejo
+  spa:
+  - - aeropuerto
+search terms:
+  glb:
+  - hawanavidom
+  eng:
+  - airport
+  epo:
+  - flughaveno
+  - aviadilejo
+  - aviejo
+  spa:
+  - aeropuerto
+etymology_type: DERIVD
+etymology: <a href="../lexi/hawa-">hawa-</a> + <a href="../lexi/navi">navi</a> + <a
+  href="../lexi/-dom">-dom</a>
+raw data:
+  term: hawanavidom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: airport
+    epo: flughaveno, aviadilejo, aviejo
+    spa: aeropuerto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hawa- + navi + -dom
+...

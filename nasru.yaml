@@ -1,0 +1,57 @@
+---
+term: nasru
+slug: nasru
+ipa: "\u02C8nas\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nas\u027Eu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vulture
+  epo:
+  - - vulturo
+  spa:
+  - - buitre
+    - _Aegypiinae_
+search terms:
+  glb:
+  - nasru
+  eng:
+  - vulture
+  epo:
+  - vulturo
+  spa:
+  - buitre
+  - aegypiinae
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - nazar
+  Arabisa:
+  - - "\u0646\u0633\u0631 \u201Cnasr\u201D"
+  Parsisa:
+  - - "\u0646\u0633\u0631 \u201Cnasr\u201D"
+tags:
+- hewan
+raw data:
+  term: nasru
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vulture
+    epo: vulturo
+    spa: buitre, _Aegypiinae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Indonesisa (nazar), Arabisa (\u0646\u0633\u0631 \u201Cnasr\u201D), Parsisa
+    (\u0646\u0633\u0631 \u201Cnasr\u201D)"
+...

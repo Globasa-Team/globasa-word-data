@@ -1,0 +1,50 @@
+---
+term: latinyen
+slug: latinyen
+ipa: "lati\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=lati\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Latina
+    - Latino
+    - Latin person
+  epo:
+  - - latinamerikano
+  spa:
+  - - latino (_persona_)
+search terms:
+  glb:
+  - latinyen
+  eng:
+  - latina
+  - latino
+  - latin person
+  epo:
+  - latinamerikano
+  spa:
+  - latino
+etymology_type: DERIVD
+etymology: <a href="../lexi/Latin">Latin</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Latinyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Latina, Latino, Latin person
+    epo: latinamerikano
+    spa: latino (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Latin + -yen
+...

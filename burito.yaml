@@ -1,0 +1,50 @@
+---
+term: burito
+slug: burito
+ipa: buˈɾito
+ipa link: http://ipa-reader.xyz/?text=buˈɾito&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - burrito
+  epo:
+  - - burito
+  spa:
+  - - burrito (_comida_)
+search terms:
+  glb:
+  - burito
+  eng:
+  - burrito
+  epo:
+  - burito
+  spa:
+  - burrito
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - burrito
+tags:
+- yamxey
+raw data:
+  term: burito
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: burrito
+    epo: burito
+    spa: burrito (_comida_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Espanisa (burrito)
+...

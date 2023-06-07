@@ -1,0 +1,61 @@
+---
+term: swimo
+slug: swimo
+ipa: "\u02C8swimo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8swimo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - jellyfish
+  epo:
+  - - meduzo
+  spa:
+  - - medusa
+    - aguamala
+    - aguaviva
+    - malagua
+    - _Medusozoa_
+search terms:
+  glb:
+  - swimo
+  eng:
+  - jellyfish
+  epo:
+  - meduzo
+  spa:
+  - medusa
+  - aguamala
+  - aguaviva
+  - malagua
+  - medusozoa
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6C34\u6BCD \"xweymu\""
+  Niponsa:
+  - - "\u3059\u3044\u307C \"suibo\""
+  Hangusa:
+  - - "\uC218\uBAA8 \"sumo\""
+raw data:
+  term: swimo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: jellyfish
+    epo: meduzo
+    spa: medusa, aguamala, aguaviva, malagua, _Medusozoa_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6C34\u6BCD \"xweymu\"), Niponsa (\u3059\u3044\u307C \"suibo\"),
+    Hangusa (\uC218\uBAA8 \"sumo\")"
+...

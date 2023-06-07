@@ -1,0 +1,76 @@
+---
+term: porcelen
+slug: porcelen
+ipa: "po\u027Et\u0361\u0283e\u02C8len"
+ipa link: "http://ipa-reader.xyz/?text=po\u027Et\u0361\u0283e\u02C8len&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - porcelain
+  epo:
+  - - porcelano
+  spa:
+  - - porcelana
+search terms:
+  glb:
+  - porcelen
+  eng:
+  - porcelain
+  epo:
+  - porcelano
+  spa:
+  - porcelana
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - porcelain
+  Espanisa:
+  - - porcelana
+  Fransesa:
+  - - porcelaine
+  Doycisa:
+  - - Porzellan
+  Portugalsa:
+  - - porcelana
+  Italisa:
+  - - porcellana
+  Indonesisa:
+  - - porselen
+  Pilipinasa:
+  - - porselana
+  Hindisa:
+  - - "\u092A\u0949\u0930\u094D\u0938\u093F\u0932\u0947\u0928 \u201Cporsilen\u201D"
+  Niponsa:
+  - - "\u30DD\u30FC\u30B9\u30EC\u30F3 \u201Cposuren\u201D"
+  Turkisa:
+  - - porselen
+  Parsisa:
+  - - "\u067E\u0648\u0631\u0633\u0644\u06CC\u0646 \u201Cporselin\""
+    - "\u067E\u0631\u0633\u0644\u0646 \u201Cporselan\u201D"
+raw data:
+  term: porcelen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: porcelain
+    epo: porcelano
+    spa: porcelana
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (porcelain), Espanisa (porcelana), Fransesa (porcelaine), Doycisa
+    (Porzellan), Portugalsa (porcelana), Italisa (porcellana), Indonesisa (porselen),
+    Pilipinasa (porselana), Hindisa (\u092A\u0949\u0930\u094D\u0938\u093F\u0932\u0947\u0928
+    \u201Cporsilen\u201D), Niponsa (\u30DD\u30FC\u30B9\u30EC\u30F3 \u201Cposuren\u201D),
+    Turkisa (porselen), Parsisa (\u067E\u0648\u0631\u0633\u0644\u06CC\u0646 \u201Cporselin\",
+    \u067E\u0631\u0633\u0644\u0646 \u201Cporselan\u201D)"
+...

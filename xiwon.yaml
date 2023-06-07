@@ -1,0 +1,57 @@
+---
+term: xiwon
+slug: xiwon
+ipa: "\u0283i\u02C8won"
+ipa link: "http://ipa-reader.xyz/?text=\u0283i\u02C8won&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - wish
+    - desire
+  epo:
+  - - deziro
+  - - deziri
+  spa:
+  - - deseo
+  - - desear
+search terms:
+  glb:
+  - xiwon
+  eng:
+  - wish
+  - desire
+  epo:
+  - deziro
+  - deziri
+  spa:
+  - deseo
+  - desear
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5E0C\u671B \u201Cx\u012Bw\xE0ng\u201D"
+  Hangusa:
+  - - "\uC18C\uC6D0 \u201Csowon\u201D"
+raw data:
+  term: xiwon
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: wish, desire
+    epo: deziro; deziri
+    spa: deseo; desear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5E0C\u671B \u201Cx\u012Bw\xE0ng\u201D), Hangusa (\uC18C\uC6D0
+    \u201Csowon\u201D)"
+...

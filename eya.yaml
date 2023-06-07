@@ -1,0 +1,46 @@
+---
+term: eya
+slug: eya
+ipa: ˈeja
+ipa link: http://ipa-reader.xyz/?text=ˈeja&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter e
+  epo:
+  - - litero e
+  spa:
+  - - letra e
+search terms:
+  glb:
+  - eya
+  eng:
+  - letter e
+  epo:
+  - litero e
+  spa:
+  - letra e
+etymology_type: DERIVD
+etymology: _a priori_
+raw data:
+  term: eya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter e
+    epo: litero e
+    spa: letra e
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

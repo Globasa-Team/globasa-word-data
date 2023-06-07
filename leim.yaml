@@ -1,0 +1,56 @@
+---
+term: leim
+slug: leim
+ipa: "le\u02C8im"
+ipa link: "http://ipa-reader.xyz/?text=le\u02C8im&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - glue
+  epo:
+  - - gluo
+    - "glua\u0135o"
+  - - glui
+  spa:
+  - - pegamento
+    - pega
+    - cola
+  - - pegar
+search terms:
+  glb:
+  - leim
+  eng:
+  - glue
+  epo:
+  - gluo
+  - "glua\u0135o"
+  - glui
+  spa:
+  - pegamento
+  - pega
+  - cola
+  - pegar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: leim
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: glue
+    epo: "gluo, glua\u0135o; glui"
+    spa: pegamento, pega, cola; pegar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Leim), Indonesisa (lem), Hindisa (\u0932\u0947\u0908 \u201Cley\u201D)"
+...

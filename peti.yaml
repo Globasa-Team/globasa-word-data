@@ -1,0 +1,73 @@
+---
+term: peti
+slug: peti
+ipa: "\u02C8peti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8peti&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - request
+  - - request
+    - ask (for)
+    - order
+  epo:
+  - - peto
+  - - peti
+  spa:
+  - - pedido
+  - - pedir
+search terms:
+  glb:
+  - peti
+  eng:
+    0: request
+    2: ask for
+    3: ask
+    4: order
+  epo:
+  - peto
+  - peti
+  spa:
+  - pedido
+  - pedir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - petition
+  Fransesa:
+  - - "p\xE9tition"
+  Doycisa:
+  - - Petition
+  Rusisa:
+  - - "\u043F\u0435\u0442\u0438\u0446\u0438\u044F \u201Cpetitsiya\u201D"
+  Espanisa:
+  - - pedir
+    - peticion
+  Indonesisa:
+  - - petisi
+  Pilipinasa:
+  - - pitisyon
+raw data:
+  term: peti
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: request; request, ask (for), order
+    epo: peto; peti
+    spa: pedido; pedir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: request, ask, ask for, order
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (petition), Fransesa (p\xE9tition), Doycisa (Petition), Rusisa
+    (\u043F\u0435\u0442\u0438\u0446\u0438\u044F \u201Cpetitsiya\u201D), Espanisa (pedir,
+    peticion), Indonesisa (petisi), Pilipinasa (pitisyon)"
+...

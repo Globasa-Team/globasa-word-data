@@ -1,0 +1,46 @@
+---
+term: supraxanse
+slug: supraxanse
+ipa: "sup\u027Ea\u02C8\u0283anse"
+ipa link: "http://ipa-reader.xyz/?text=sup\u027Ea\u02C8\u0283anse&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - advantage
+  epo:
+  - - "avanta\u011Do"
+  spa:
+  - - ventaja
+search terms:
+  glb:
+  - supraxanse
+  eng:
+  - advantage
+  epo:
+  - "avanta\u011Do"
+  spa:
+  - ventaja
+etymology_type: DERIVD
+etymology: <a href="../lexi/supra-">supra-</a> + <a href="../lexi/xanse">xanse</a>
+raw data:
+  term: supraxanse
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: advantage
+    epo: "avanta\u011Do"
+    spa: ventaja
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: supra- + xanse
+...

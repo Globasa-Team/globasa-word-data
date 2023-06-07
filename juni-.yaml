@@ -1,0 +1,48 @@
+---
+term: juni-
+slug: juni-
+ipa: "d\u0361\u0292u\u02C8ni-"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292u\u02C8ni-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - offspring
+    - young
+  epo:
+  - - -id-
+  spa:
+  - - "cr\xEDa"
+search terms:
+  glb:
+  - juni-
+  eng:
+  - offspring
+  - young
+  epo:
+  - -id-
+  spa:
+  - "cr\xEDa"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/juni">juni</a>.
+raw data:
+  term: juni-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: offspring, young
+    epo: -id-
+    spa: "cr\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _juni_.
+...

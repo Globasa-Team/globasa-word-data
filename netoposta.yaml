@@ -1,0 +1,46 @@
+---
+term: netoposta
+slug: netoposta
+ipa: "neto\u02C8posta"
+ipa link: "http://ipa-reader.xyz/?text=neto\u02C8posta&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - email
+  epo:
+  - - "retpo\u015Dto"
+  spa:
+  - - "correo electr\xF3nico"
+search terms:
+  glb:
+  - netoposta
+  eng:
+  - email
+  epo:
+  - "retpo\u015Dto"
+  spa:
+  - "correo electr\xF3nico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/neto">neto</a> + <a href="../lexi/posta">posta</a>
+raw data:
+  term: netoposta
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: email
+    epo: "retpo\u015Dto"
+    spa: "correo electr\xF3nico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: neto + posta
+...

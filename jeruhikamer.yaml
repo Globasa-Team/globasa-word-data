@@ -1,0 +1,50 @@
+---
+term: jeruhikamer
+slug: jeruhikamer
+ipa: "d\u0361\u0292e\u027Euxika\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292e\u027Euxika\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - operating room
+    - operating theater
+  epo:
+  - - operaciejo
+  spa:
+  - - "quir\xF3fano"
+search terms:
+  glb:
+  - jeruhikamer
+  eng:
+  - operating room
+  - operating theater
+  epo:
+  - operaciejo
+  spa:
+  - "quir\xF3fano"
+etymology_type: DERIVD
+etymology: <a href="../lexi/jeruhi">jeruhi</a> + <a href="../lexi/-kamer">-kamer</a>
+tags:
+- kamer
+raw data:
+  term: jeruhikamer
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: operating room, operating theater
+    epo: operaciejo
+    spa: "quir\xF3fano"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kamer
+  etymology: jeruhi + -kamer
+...

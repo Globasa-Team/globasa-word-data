@@ -1,0 +1,49 @@
+---
+term: medisdoku
+slug: medisdoku
+ipa: "medis\u02C8doku"
+ipa link: "http://ipa-reader.xyz/?text=medis\u02C8doku&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - prescription
+  epo:
+  - - (medicina) preskribo
+    - (kuraca) preskribo
+  spa:
+  - - "receta m\xE9dica"
+search terms:
+  glb:
+  - medisdoku
+  eng:
+  - prescription
+  epo:
+  - medicina preskribo
+  - preskribo
+  - kuraca preskribo
+  spa:
+  - "receta m\xE9dica"
+etymology_type: DERIVD
+etymology: <a href="../lexi/medis">medis</a> + <a href="../lexi/-doku">-doku</a>
+raw data:
+  term: medisdoku
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: prescription
+    epo: (medicina) preskribo, (kuraca) preskribo
+    spa: "receta m\xE9dica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: medis + -doku
+...

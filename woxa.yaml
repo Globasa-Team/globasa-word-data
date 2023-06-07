@@ -1,0 +1,56 @@
+---
+term: woxa
+slug: woxa
+ipa: "\u02C8wo\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wo\u0283a&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - wash
+  epo:
+  - - lavado
+  - - lavi
+  spa:
+  - - lavada
+  - - lavar
+search terms:
+  glb:
+  - woxa
+  eng:
+  - wash
+  epo:
+  - lavado
+  - lavi
+  spa:
+  - lavada
+  - lavar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - wash
+  Doycisa:
+  - - waschen
+  Swahilisa:
+  - - -osha
+raw data:
+  term: woxa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: wash
+    epo: lavado; lavi
+    spa: lavada; lavar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (wash), Doycisa (waschen), Swahilisa (-osha)
+...

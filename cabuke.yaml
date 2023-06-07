@@ -1,0 +1,56 @@
+---
+term: cabuke
+slug: cabuke
+ipa: t͡ʃaˈbuke
+ipa link: http://ipa-reader.xyz/?text=t͡ʃaˈbuke&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - whip
+  epo:
+  - - vipo
+  - - vipi
+  spa:
+  - - látigo
+  - - azotar
+search terms:
+  glb:
+  - cabuke
+  eng:
+  - whip
+  epo:
+  - vipo
+  - vipi
+  spa:
+  - látigo
+  - azotar
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - cambuk
+  Hindisa:
+  - - चाबुक “cabuk”
+  Parsisa:
+  - - چابک “cabok”
+raw data:
+  term: cabuke
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: whip
+    epo: vipo; vipi
+    spa: látigo; azotar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Indonesisa (cambuk), Hindisa (चाबुक “cabuk”), Parsisa (چابک “cabok”)
+...

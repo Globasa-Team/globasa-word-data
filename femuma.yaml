@@ -1,0 +1,48 @@
+---
+term: femuma
+slug: femuma
+ipa: "fe\u02C8muma"
+ipa link: "http://ipa-reader.xyz/?text=fe\u02C8muma&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - mare
+    - female horse
+  epo:
+  - - "\u0109evalino"
+  spa:
+  - - yegua
+search terms:
+  glb:
+  - femuma
+  eng:
+  - mare
+  - female horse
+  epo:
+  - "\u0109evalino"
+  spa:
+  - yegua
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/uma">uma</a>
+raw data:
+  term: femuma
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: mare, female horse
+    epo: "\u0109evalino"
+    spa: yegua
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem- + uma
+...

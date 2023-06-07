@@ -1,0 +1,68 @@
+---
+term: rubin
+slug: rubin
+ipa: "\u027Eu\u02C8bin"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8bin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ruby
+  epo:
+  - - rubeno
+  spa:
+  - - "rub\xED"
+search terms:
+  glb:
+  - rubin
+  eng:
+  - ruby
+  epo:
+  - rubeno
+  spa:
+  - "rub\xED"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ruby
+  Espanisa:
+  - - "rub\xED"
+  Rubis:
+  - - rubis
+  Rusisa:
+  - - "\u0440\u0443\u0431\u0438\u043D \u201Crubin\u201D"
+  Doycisa:
+  - - Rubin
+  Indonesisa:
+  - - rubi
+  Pilipinasa: ~
+  Swahilisa: ~
+  Niponsa:
+  - - "\u30EB\u30D3\u30FC \u201Crubi\u201D"
+  Hangusa:
+  - - "\uB8E8\uBE44 \u201Crubi\u201D"
+tags:
+- petra
+raw data:
+  term: rubin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ruby
+    epo: rubeno
+    spa: "rub\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: "Englisa (ruby), Espanisa (rub\xED), Rubis (rubis), Rusisa (\u0440\u0443\u0431\u0438\u043D
+    \u201Crubin\u201D), Doycisa (Rubin), Indonesisa (rubi), Pilipinasa, Swahilisa,
+    Niponsa (\u30EB\u30D3\u30FC \u201Crubi\u201D), Hangusa (\uB8E8\uBE44 \u201Crubi\u201D)"
+...

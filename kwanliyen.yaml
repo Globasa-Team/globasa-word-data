@@ -1,0 +1,50 @@
+---
+term: kwanliyen
+slug: kwanliyen
+ipa: "kwanli\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=kwanli\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - administrator
+    - manager
+  epo:
+  - - administranto
+  spa:
+  - - administrador
+    - gerente
+search terms:
+  glb:
+  - kwanliyen
+  eng:
+  - administrator
+  - manager
+  epo:
+  - administranto
+  spa:
+  - administrador
+  - gerente
+etymology_type: DERIVD
+etymology: <a href="../lexi/kwanli">kwanli</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: kwanliyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: administrator, manager
+    epo: administranto
+    spa: administrador, gerente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwanli + -yen
+...

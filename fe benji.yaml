@@ -1,0 +1,56 @@
+---
+term: fe benji
+slug: fe benji
+ipa: "fe \u02C8bend\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8bend\u0361\u0292i&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - in essense
+    - basically
+  epo:
+  - - esence
+    - baze
+  spa:
+  - - en esencia
+    - esencialmente
+    - "b\xE1sicamente"
+search terms:
+  glb:
+  - fe benji
+  - fe
+  - benji
+  eng:
+  - in essense
+  - basically
+  epo:
+  - esence
+  - baze
+  spa:
+  - en esencia
+  - esencialmente
+  - "b\xE1sicamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/benji">benji</a>
+raw data:
+  term: fe benji
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: in essense, basically
+    epo: esence, baze
+    spa: "en esencia, esencialmente, b\xE1sicamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, benji
+...

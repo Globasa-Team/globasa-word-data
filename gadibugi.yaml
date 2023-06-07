@@ -1,0 +1,52 @@
+---
+term: gadibugi
+slug: gadibugi
+ipa: "gadi\u02C8bugi"
+ipa link: "http://ipa-reader.xyz/?text=gadi\u02C8bugi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - anger
+    - make angry
+  epo:
+  - - kolerigo
+  - - kolerigi
+  spa:
+  - - enojo
+  - - enojar
+search terms:
+  glb:
+  - gadibugi
+  eng:
+  - anger
+  - make angry
+  epo:
+  - kolerigo
+  - kolerigi
+  spa:
+  - enojo
+  - enojar
+etymology_type: DERIVD
+etymology: <a href="../lexi/gadibu">gadibu</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: gadibugi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: anger, make angry
+    epo: kolerigo; kolerigi
+    spa: enojo; enojar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gadibu + -gi
+...

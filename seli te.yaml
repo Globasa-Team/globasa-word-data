@@ -1,0 +1,54 @@
+---
+term: seli te
+slug: seli te
+ipa: "\u02C8seli \u02C8te"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8seli \u02C8te&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - he himself
+    - she herself
+  epo:
+  - - li mem
+    - "\u015Di mem"
+    - ri mem
+  spa:
+  - - "\xE9l mismo"
+search terms:
+  glb:
+  - seli te
+  - seli
+  - te
+  eng:
+  - he himself
+  - she herself
+  epo:
+  - li mem
+  - "\u015Di mem"
+  - ri mem
+  spa:
+  - "\xE9l mismo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/se">se</a> + <a href="../lexi/-li">-li</a>, <a href="../lexi/te">te</a>
+raw data:
+  term: seli te
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: he himself, she herself
+    epo: "li mem, \u015Di mem, ri mem"
+    spa: "\xE9l mismo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se + -li, te
+...

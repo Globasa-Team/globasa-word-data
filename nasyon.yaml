@@ -1,0 +1,62 @@
+---
+term: nasyon
+slug: nasyon
+ipa: "na\u02C8sjon"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8sjon&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nation
+  epo:
+  - - nacio
+  spa:
+  - - "naci\xF3n"
+search terms:
+  glb:
+  - nasyon
+  eng:
+  - nation
+  epo:
+  - nacio
+  spa:
+  - "naci\xF3n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nation
+  Doycisa:
+  - - Nation
+  Fransesa:
+  - - nation
+  Espanisa:
+  - - "naci\xF3n"
+  Rusisa:
+  - - "\u043D\u0430\u0301\u0446\u0438\u044F \u201Cn\xE1cija\u201D"
+  Indonesisa:
+  - - internasional
+  Pilipinasa:
+  - - nasyon
+raw data:
+  term: nasyon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nation
+    epo: nacio
+    spa: "naci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (nation), Doycisa (Nation), Fransesa (nation), Espanisa (naci\xF3n),
+    Rusisa (\u043D\u0430\u0301\u0446\u0438\u044F \u201Cn\xE1cija\u201D), Indonesisa
+    (internasional), Pilipinasa (nasyon)"
+...

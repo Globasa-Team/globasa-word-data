@@ -1,0 +1,55 @@
+---
+term: mingi
+slug: mingi
+ipa: "\u02C8mingi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mingi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - decrease
+    - reduction
+  - - decrease
+    - reduce
+  epo:
+  - - malpliigo
+  - - malpliigi
+  spa:
+  - - "reducci\xF3n"
+  - - reducir
+search terms:
+  glb:
+  - mingi
+  eng:
+    0: decrease
+    1: reduction
+    3: reduce
+  epo:
+  - malpliigo
+  - malpliigi
+  spa:
+  - "reducci\xF3n"
+  - reducir
+etymology_type: DERIVD
+etymology: <a href="../lexi/min">min</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: mingi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: decrease, reduction; decrease, reduce
+    epo: malpliigo; malpliigi
+    spa: "reducci\xF3n; reducir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: min + -gi
+...

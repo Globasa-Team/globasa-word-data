@@ -1,0 +1,50 @@
+---
+term: kosya ki
+slug: kosya ki
+ipa: "\u02C8kosja ki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kosja ki&voice=Ewa"
+status: false
+category: phrase
+word class: jm l
+trans:
+  eng:
+  - - is because
+  epo:
+  - - "esti \u0109ar"
+  spa:
+  - - es porque
+search terms:
+  glb:
+  - kosya ki
+  - kosya
+  - ki
+  eng:
+  - is because
+  epo:
+  - "esti \u0109ar"
+  spa:
+  - es porque
+etymology_type: DERIVD
+etymology: <a href="../lexi/kos">kos</a> + <a href="../lexi/-ya">-ya</a>, <a href="../lexi/ki">ki</a>
+synonyms:
+- sen koski
+raw data:
+  term: kosya ki
+  category: phrase
+  word class: jm l
+  status: false
+  trans:
+    eng: 'is because '
+    epo: "esti \u0109ar"
+    spa: es porque
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: sen koski
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kos + -ya, ki
+...

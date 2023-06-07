@@ -1,0 +1,55 @@
+---
+term: ofcu
+slug: ofcu
+ipa: "\u02C8oft\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8oft\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - get off (of)
+  epo:
+  - - "dei\u011Do"
+    - deiro
+  - - "dei\u011Di"
+    - deiri
+  spa:
+  - - bajarse de
+    - apearse
+search terms:
+  glb:
+  - ofcu
+  eng:
+  - get off of
+  - get off
+  epo:
+  - "dei\u011Do"
+  - deiro
+  - "dei\u011Di"
+  - deiri
+  spa:
+  - bajarse de
+  - apearse
+etymology_type: DERIVD
+etymology: <a href="../lexi/of">of</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: ofcu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: get off (of)
+    epo: "dei\u011Do, deiro; dei\u011Di, deiri"
+    spa: bajarse de, apearse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: of + -cu
+...

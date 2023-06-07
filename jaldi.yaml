@@ -1,0 +1,48 @@
+---
+term: jaldi
+slug: jaldi
+ipa: "\u02C8d\u0361\u0292aldi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292aldi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - early
+  epo:
+  - - frua
+  - - frue
+  spa:
+  - - temprano
+search terms:
+  glb:
+  - jaldi
+  eng:
+  - early
+  epo:
+  - frua
+  - frue
+  spa:
+  - temprano
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jaldi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: early
+    epo: frua; frue
+    spa: temprano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u091C\u0932\u094D\u0926\u0940 \u201Cjaldi\u201D)"
+...

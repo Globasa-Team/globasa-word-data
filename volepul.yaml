@@ -1,0 +1,56 @@
+---
+term: volepul
+slug: volepul
+ipa: "vole\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=vole\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - willing
+    - willingly
+    - eager
+    - eagerly
+  epo:
+  - - vola
+  - - vole
+  spa:
+  - - dispuesto
+  - - dispuestamente
+search terms:
+  glb:
+  - volepul
+  eng:
+  - willing
+  - willingly
+  - eager
+  - eagerly
+  epo:
+  - vola
+  - vole
+  spa:
+  - dispuesto
+  - dispuestamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/vole">vole</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: volepul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: willing, willingly, eager, eagerly
+    epo: vola; vole
+    spa: dispuesto; dispuestamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: vole + -pul
+...

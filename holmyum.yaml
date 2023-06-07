@@ -1,0 +1,57 @@
+---
+term: holmyum
+slug: holmyum
+ipa: "xol\u02C8mjum"
+ipa link: "http://ipa-reader.xyz/?text=xol\u02C8mjum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - holmium
+  epo:
+  - - holmio
+  spa:
+  - - holmio
+    - Ho
+search terms:
+  glb:
+  - holmyum
+  eng:
+  - holmium
+  epo:
+  - holmio
+  spa:
+  - holmio
+  - ho
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: holmyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: holmium
+    epo: holmio
+    spa: holmio, Ho
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (holmium), Putunhwa (\u9225 \u201Chwo\u201D), Espanisa (holmio),
+    Arabisa (\u0647\u064F\u0644\u0652\u0645\u0650\u064A\u064F\u0648\u0645 \u201Chulmiyum\u201D),
+    Fransesa (holmium), Rusisa (\u0433\u043E\u043B\u044C\u043C\u0438\u0439 \u201Cgolmiy\u201D),
+    Indonesisa (holmium), Doycisa (Holmium), Niponsa (\u30DB\u30EB\u30DF\u30A6\u30E0
+    \u201Chorumiumu\u201D), Telugusa (\u0C39\u0C4B\u0C32\u0C4D\u0C2E\u0C3F\u0C2F\u0C02
+    \u201Cholmiyam\u201D), Turkisa (holmiyum), Hangusa (\uD640\uBBB4 \u201Cholmyum\u201D),
+    Vyetnamsa (holmi), Parsisa (\u0647\u0648\u0644\u0645\u06CC\u0645 \u201Cholmyom\u201D),
+    Swahilisa (holmi), Pilipinasa (holmyo)"
+...

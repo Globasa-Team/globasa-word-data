@@ -1,0 +1,52 @@
+---
+term: meli-
+slug: meli-
+ipa: "me\u02C8li-"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8li-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - beautiful
+    - pretty
+  epo:
+  - - bel-
+  spa:
+  - - hermoso
+    - bonito
+search terms:
+  glb:
+  - meli-
+  eng:
+  - beautiful
+  - pretty
+  epo:
+  - bel-
+  spa:
+  - hermoso
+  - bonito
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/meli">meli</a>.
+antonyms:
+- colo-
+raw data:
+  term: meli-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: beautiful, pretty
+    epo: bel-
+    spa: hermoso, bonito
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: colo-
+  example: ""
+  tags: ""
+  etymology: Am oko _meli_.
+...

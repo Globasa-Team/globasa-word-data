@@ -1,0 +1,89 @@
+---
+term: xow
+slug: xow
+ipa: "\u02C8\u0283ow"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283ow&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - show
+    - spectacle
+    - performance
+  - - perform
+  epo:
+  - - "spekta\u0135o"
+    - spektaklo
+  - - "fari spekta\u0135on (pri)"
+  spa:
+  - - "espect\xE1culo"
+    - _show_
+  - - representar
+    - interpretar
+    - ejecutar
+search terms:
+  glb:
+  - xow
+  eng:
+  - show
+  - spectacle
+  - performance
+  - perform
+  epo:
+  - "spekta\u0135o"
+  - spektaklo
+  - "fari spekta\u0135on pri"
+  - "fari spekta\u0135on"
+  spa:
+  - "espect\xE1culo"
+  - show
+  - representar
+  - interpretar
+  - ejecutar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - show
+  Espanisa:
+  - - show
+  Doycisa:
+  - - Show
+    - Schau
+  Rusisa:
+  - - "\u0448\u043E\u0443 \u201C\u0161ou\u201D"
+  Putunhwa:
+  - - "\u79C0 \u201Cxi\xF9\u201D"
+  Hindisa:
+  - - "\u0936\u094B \u201C\u015Bo\u201D"
+  Niponsa:
+  - - "\u30B7\u30E7\u30FC \u201Csh\u014D\u201D"
+  Turkisa:
+  - - "\u015Fov"
+  Hangusa:
+  - - "\uC1FC \u201Csyo\u201D"
+  Swahilisa:
+  - - shoo
+raw data:
+  term: xow
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: show, spectacle, performance; perform
+    epo: "spekta\u0135o, spektaklo; fari spekta\u0135on (pri)"
+    spa: "espect\xE1culo, _show_; representar, interpretar, ejecutar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (show), Espanisa (show), Doycisa (Show, Schau), Rusisa (\u0448\u043E\u0443
+    \u201C\u0161ou\u201D), Putunhwa (\u79C0 \u201Cxi\xF9\u201D), Hindisa (\u0936\u094B
+    \u201C\u015Bo\u201D), Niponsa (\u30B7\u30E7\u30FC \u201Csh\u014D\u201D), Turkisa
+    (\u015Fov), Hangusa (\uC1FC \u201Csyo\u201D), Swahilisa (shoo)"
+...

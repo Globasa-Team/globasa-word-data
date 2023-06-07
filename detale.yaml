@@ -1,0 +1,61 @@
+---
+term: detale
+slug: detale
+ipa: deˈtale
+ipa link: http://ipa-reader.xyz/?text=deˈtale&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - detail
+  epo:
+  - - detalo
+  spa:
+  - - detalle
+search terms:
+  glb:
+  - detale
+  eng:
+  - detail
+  epo:
+  - detalo
+  spa:
+  - detalle
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - detail
+  Fransesa:
+  - - détail
+  Doycisa:
+  - - Detail
+  Rusisa:
+  - - деталь “detal”
+  Espanisa:
+  - - detalle
+  Turkisa:
+  - - detay
+  Pilipinasa:
+  - - detalye
+raw data:
+  term: detale
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: detail
+    epo: detalo
+    spa: detalle
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (detail), Fransesa (détail), Doycisa (Detail), Rusisa (деталь
+    “detal”), Espanisa (detalle), Turkisa (detay), Pilipinasa (detalye)
+...

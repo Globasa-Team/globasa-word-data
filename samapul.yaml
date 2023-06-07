@@ -1,0 +1,53 @@
+---
+term: samapul
+slug: samapul
+ipa: "sama\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=sama\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - the same kind of
+    - the same way
+    - in the same way
+  epo:
+  - - sama tipo (de)
+  spa:
+  - - de la misma manera
+search terms:
+  glb:
+  - samapul
+  eng:
+  - the same kind of
+  - the same way
+  - in the same way
+  epo:
+  - sama tipo de
+  - sama tipo
+  spa:
+  - de la misma manera
+etymology_type: DERIVD
+etymology: <a href="../lexi/sama">sama</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: samapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: |-
+      the same kind of, the same way,
+      in the same way
+    epo: sama tipo (de)
+    spa: de la misma manera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sama + -pul
+...

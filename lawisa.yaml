@@ -1,0 +1,50 @@
+---
+term: lawisa
+slug: lawisa
+ipa: "la\u02C8wisa"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8wisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Lao (language)
+  epo:
+  - - la laosa (lingvo)
+  spa:
+  - - laosiano (_idioma_)
+search terms:
+  glb:
+  - lawisa
+  eng:
+  - lao language
+  - lao
+  epo:
+  - la laosa lingvo
+  - la laosa
+  spa:
+  - laosiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Lawi">Lawi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Lawisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Lao (language)
+    epo: la laosa (lingvo)
+    spa: laosiano (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Lawi + -sa
+...

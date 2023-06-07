@@ -1,0 +1,52 @@
+---
+term: ativogi
+slug: ativogi
+ipa: "ati\u02C8vogi"
+ipa link: "http://ipa-reader.xyz/?text=ati\u02C8vogi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - activation
+  - - activate
+  epo:
+  - - aktivigo
+  - - aktivigi
+  spa:
+  - - "activaci\xF3n"
+  - - activar
+search terms:
+  glb:
+  - ativogi
+  eng:
+  - activation
+  - activate
+  epo:
+  - aktivigo
+  - aktivigi
+  spa:
+  - "activaci\xF3n"
+  - activar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ativo">ativo</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: ativogi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: activation; activate
+    epo: aktivigo; aktivigi
+    spa: "activaci\xF3n; activar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ativo + -gi
+...

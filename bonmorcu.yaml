@@ -1,0 +1,46 @@
+---
+term: bonmorcu
+slug: bonmorcu
+ipa: "bon\u02C8mo\u027Et\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=bon\u02C8mo\u027Et\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - euthanasia
+  epo:
+  - - "e\u016Dtanazio"
+  spa:
+  - - eutanasia
+search terms:
+  glb:
+  - bonmorcu
+  eng:
+  - euthanasia
+  epo:
+  - "e\u016Dtanazio"
+  spa:
+  - eutanasia
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/morcu">morcu</a>
+raw data:
+  term: bonmorcu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: euthanasia
+    epo: "e\u016Dtanazio"
+    spa: eutanasia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bon- + morcu
+...

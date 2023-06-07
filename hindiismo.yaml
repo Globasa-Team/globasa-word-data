@@ -1,0 +1,46 @@
+---
+term: hindiismo
+slug: hindiismo
+ipa: "xindi\u02C8ismo"
+ipa link: "http://ipa-reader.xyz/?text=xindi\u02C8ismo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Hinduism
+  epo:
+  - - Hinduismo
+  spa:
+  - - hinduismo
+search terms:
+  glb:
+  - hindiismo
+  eng:
+  - hinduism
+  epo:
+  - hinduismo
+  spa:
+  - hinduismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/Hindi">Hindi</a> + <a href="../lexi/-ismo">-ismo</a>
+raw data:
+  term: Hindiismo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Hinduism
+    epo: Hinduismo
+    spa: hinduismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindi + -ismo
+...

@@ -1,0 +1,75 @@
+---
+term: xantaje
+slug: xantaje
+ipa: "\u0283an\u02C8tad\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=\u0283an\u02C8tad\u0361\u0292e&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - blackmail
+    - extortion
+  - - blackmail
+    - extort
+  epo:
+  - - "\u0109anta\u011Do"
+  - - "\u0109anta\u011Di"
+  spa:
+  - - chantaje
+    - "extorsi\xF3n"
+  - - chantajear
+    - extorsionar
+search terms:
+  glb:
+  - xantaje
+  eng:
+    0: blackmail
+    1: extortion
+    3: extort
+  epo:
+  - "\u0109anta\u011Do"
+  - "\u0109anta\u011Di"
+  spa:
+  - chantaje
+  - "extorsi\xF3n"
+  - chantajear
+  - extorsionar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - chantage
+  Espanisa:
+  - - chantaje
+  Fransesa:
+  - - chantage
+  Rusisa:
+  - - "\u0448\u0430\u043D\u0442\u0430\u0436 \"xantaj\""
+  Lutsemburgisa:
+  - - Chantage
+  Turkisa:
+  - - "\u015Fantaj"
+  Parsisa:
+  - - "\u0634\u0627\u0646\u062A\u0627\u0698 \"xantaj\""
+raw data:
+  term: xantaje
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: blackmail, extortion; blackmail, extort
+    epo: "\u0109anta\u011Do; \u0109anta\u011Di"
+    spa: "chantaje, extorsi\xF3n; chantajear, extorsionar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (chantage), Espanisa (chantaje), Fransesa (chantage), Rusisa
+    (\u0448\u0430\u043D\u0442\u0430\u0436 \"xantaj\"), Lutsemburgisa (Chantage), Turkisa
+    (\u015Fantaj), Parsisa (\u0634\u0627\u0646\u062A\u0627\u0698 \"xantaj\")"
+...

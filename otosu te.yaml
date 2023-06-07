@@ -1,0 +1,49 @@
+---
+term: otosu te
+slug: otosu te
+ipa: "o\u02C8tosu \u02C8te"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8tosu \u02C8te&voice=Ewa"
+status: false
+category: derived
+word class: su pn
+trans:
+  eng:
+  - - theirs (_that being belonging to those things_)
+  epo:
+  - - la ilia
+  spa:
+  - - el de ellos (_ser viviente_)
+search terms:
+  glb:
+  - otosu te
+  - otosu
+  - te
+  eng:
+  - theirs
+  epo:
+  - la ilia
+  spa:
+  - el de ellos
+etymology_type: DERIVD
+etymology: <a href="../lexi/oto">oto</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/te">te</a>,
+  <a href="../lexi/to">to</a>
+raw data:
+  term: otosu te
+  category: derived
+  word class: su pn
+  status: false
+  trans:
+    eng: theirs (_that being belonging to those things_)
+    epo: la ilia
+    spa: el de ellos (_ser viviente_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: oto + -su, te, to
+...

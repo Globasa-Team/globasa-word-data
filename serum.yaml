@@ -1,0 +1,66 @@
+---
+term: serum
+slug: serum
+ipa: "se\u02C8\u027Eum"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8\u027Eum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - serum
+  epo:
+  - - sero
+  spa:
+  - - suero
+search terms:
+  glb:
+  - serum
+  eng:
+  - serum
+  epo:
+  - sero
+  spa:
+  - suero
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - serum
+  Espanisa:
+  - - suero
+  Fransesa:
+  - - "s\xE9rum"
+  Doycisa:
+  - - Serum
+  Indonesisa:
+  - - serum
+  Pilipinasa:
+  - - suwero
+  Hindisa:
+  - - "\u0938\u0940\u0930\u092E \"siram\""
+  Turkisa:
+  - - serum
+  Parsisa:
+  - - "\u0633\u0631\u0645 \"serom\""
+raw data:
+  term: serum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: serum
+    epo: sero
+    spa: suero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (serum), Espanisa (suero), Fransesa (s\xE9rum), Doycisa (Serum),
+    Indonesisa (serum), Pilipinasa (suwero), Hindisa (\u0938\u0940\u0930\u092E \"siram\"),
+    Turkisa (serum), Parsisa (\u0633\u0631\u0645 \"serom\")"
+...

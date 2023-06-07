@@ -1,0 +1,56 @@
+---
+term: -tim
+slug: -tim
+ipa: "\u02C8-tim"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-tim&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - team
+    - body
+  epo:
+  - - teamo
+    - grupo
+    - -istaro
+    - -antaro
+  spa:
+  - - equipo
+    - grupo
+search terms:
+  glb:
+  - -tim
+  eng:
+  - team
+  - body
+  epo:
+  - teamo
+  - grupo
+  - -istaro
+  - -antaro
+  spa:
+  - equipo
+  - grupo
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/tim">tim</a>.
+raw data:
+  term: -tim
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: team, body
+    epo: teamo, grupo, -istaro, -antaro
+    spa: equipo, grupo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _tim_.
+...

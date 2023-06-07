@@ -1,0 +1,46 @@
+---
+term: ire
+slug: ire
+ipa: "\u02C8i\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8i\u027Ee&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter r
+  epo:
+  - - litero r
+  spa:
+  - - letra r
+search terms:
+  glb:
+  - ire
+  eng:
+  - letter r
+  epo:
+  - litero r
+  spa:
+  - letra r
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ire
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter r
+    epo: litero r
+    spa: letra r
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

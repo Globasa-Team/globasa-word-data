@@ -1,0 +1,50 @@
+---
+term: hoxinlyo
+slug: hoxinlyo
+ipa: "xo\u02C8\u0283inljo"
+ipa link: "http://ipa-reader.xyz/?text=xo\u02C8\u0283inljo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - spice
+  epo:
+  - - spico
+  spa:
+  - - especia
+search terms:
+  glb:
+  - hoxinlyo
+  eng:
+  - spice
+  epo:
+  - spico
+  spa:
+  - especia
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: hoxinlyo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: spice
+    epo: spico
+    spa: especia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Putunhwa (\u9999\u8F9B\u6599 \u201Cxyangxinlyaw\u201D), Niponsa (\u9999\u8F9B\u6599
+    \u201Ckoxinryo\u201D), Hangusa (\uD5A5\uC2E0\uB8CC \u201Chyangxinyo\u201D), Vyetnamsa
+    (h\u01B0\u01A1ng li\u1EC7u)"
+...

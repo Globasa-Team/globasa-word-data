@@ -1,0 +1,54 @@
+---
+term: jagegi
+slug: jagegi
+ipa: "d\u0361\u0292a\u02C8gegi"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8gegi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - awaken
+    - wake
+    - wake up
+  epo:
+  - - veko
+  - - veki
+    - vekigi
+  spa:
+  - - despertar
+search terms:
+  glb:
+  - jagegi
+  eng:
+  - awaken
+  - wake
+  - wake up
+  epo:
+  - veko
+  - veki
+  - vekigi
+  spa:
+  - despertar
+etymology_type: DERIVD
+etymology: <a href="../lexi/jage">jage</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: jagegi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: awaken, wake, wake up
+    epo: veko; veki, vekigi
+    spa: despertar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jage + -gi
+...

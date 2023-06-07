@@ -1,0 +1,46 @@
+---
+term: nenhar
+slug: nenhar
+ipa: "nen\u02C8xa\u027E"
+ipa link: "http://ipa-reader.xyz/?text=nen\u02C8xa\u027E&voice=Ewa"
+status: false
+category: derived
+word class: p
+trans:
+  eng:
+  - - without (_not having_)
+  epo:
+  - - sen (_sen havi_)
+  spa:
+  - - sin
+search terms:
+  glb:
+  - nenhar
+  eng:
+  - without
+  epo:
+  - sen
+  spa:
+  - sin
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/har">har</a>
+raw data:
+  term: nenhar
+  category: derived
+  word class: p
+  status: false
+  trans:
+    eng: without (_not having_)
+    epo: sen (_sen havi_)
+    spa: sin
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + har
+...

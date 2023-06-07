@@ -1,0 +1,49 @@
+---
+term: inkopi
+slug: inkopi
+ipa: "in\u02C8kopi"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8kopi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - upload
+  epo:
+  - - "al\u015Duto"
+  - - "al\u015Duti"
+  spa:
+  - - subir (datos)
+search terms:
+  glb:
+  - inkopi
+  eng:
+  - upload
+  epo:
+  - "al\u015Duto"
+  - "al\u015Duti"
+  spa:
+  - subir datos
+  - subir
+etymology_type: DERIVD
+etymology: <a href="../lexi/in-">in-</a> + <a href="../lexi/kopi">kopi</a>
+raw data:
+  term: inkopi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: upload
+    epo: "al\u015Duto; al\u015Duti"
+    spa: subir (datos)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in- + kopi
+...

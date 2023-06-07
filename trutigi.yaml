@@ -1,0 +1,52 @@
+---
+term: trutigi
+slug: trutigi
+ipa: "t\u027Eu\u02C8tigi"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Eu\u02C8tigi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - satisfaction
+  - - satisfy
+  epo:
+  - - kontentigo
+  - - kontentigi
+  spa:
+  - - "satisfacci\xF3n"
+  - - satisfacer
+search terms:
+  glb:
+  - trutigi
+  eng:
+  - satisfaction
+  - satisfy
+  epo:
+  - kontentigo
+  - kontentigi
+  spa:
+  - "satisfacci\xF3n"
+  - satisfacer
+etymology_type: DERIVD
+etymology: <a href="../lexi/truti">truti</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: trutigi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: satisfaction; satisfy
+    epo: kontentigo; kontentigi
+    spa: "satisfacci\xF3n; satisfacer"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: truti + -gi
+...

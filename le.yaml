@@ -1,0 +1,48 @@
+---
+term: le
+slug: le
+ipa: le
+ipa link: http://ipa-reader.xyz/?text=le&voice=Ewa
+status: true
+category: root
+word class: par
+trans:
+  eng:
+  - - _past tense marker_
+  epo:
+  - - markilo de estinteca tempo (simile al -is)
+  spa:
+  - - _marcador del tiempo pasado_
+search terms:
+  glb:
+  - le
+  eng:
+  - past tense marker
+  epo:
+  - markilo de estinteca tempo simile al -is
+  - markilo de estinteca tempo
+  spa:
+  - marcador del tiempo pasado
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: le
+  category: root
+  word class: par
+  status: true
+  trans:
+    eng: _past tense marker_
+    epo: markilo de estinteca tempo (simile al -is)
+    spa: _marcador del tiempo pasado_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u4E86 \u201Cle\u201D), Swahilisa (-li-), Rusisa (-\u043B
+    \u201C-l\u201D)"
+...

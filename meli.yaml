@@ -1,0 +1,57 @@
+---
+term: meli
+slug: meli
+ipa: "\u02C8meli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8meli&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - beautiful
+    - beautifully
+    - pretty
+  epo:
+  - - bela
+  - - bele
+  spa:
+  - - hermoso
+    - bonito
+search terms:
+  glb:
+  - meli
+  eng:
+  - beautiful
+  - beautifully
+  - pretty
+  epo:
+  - bela
+  - bele
+  spa:
+  - hermoso
+  - bonito
+etymology_type: NATLNG
+etymology: BLAH
+antonyms:
+- colo
+raw data:
+  term: meli
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: beautiful, beautifully, pretty
+    epo: bela; bele
+    spa: hermoso, bonito
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: colo
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7F8E\u4E3D \u201Cm\u011Bil\xEC\u201D), Vyetnamsa (m\u0129
+    l\u1EC7)"
+...

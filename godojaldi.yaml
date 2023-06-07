@@ -1,0 +1,50 @@
+---
+term: godojaldi
+slug: godojaldi
+ipa: "godo\u02C8d\u0361\u0292aldi"
+ipa link: "http://ipa-reader.xyz/?text=godo\u02C8d\u0361\u0292aldi&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - premature
+    - prematurely
+  epo:
+  - - trofrua
+  - - trofrue
+  spa:
+  - - prematuro
+search terms:
+  glb:
+  - godojaldi
+  eng:
+  - premature
+  - prematurely
+  epo:
+  - trofrua
+  - trofrue
+  spa:
+  - prematuro
+etymology_type: DERIVD
+etymology: <a href="../lexi/go">go</a> + <a href="../lexi/jaldi">jaldi</a>
+raw data:
+  term: godojaldi
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: premature, prematurely
+    epo: trofrua; trofrue
+    spa: prematuro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: go + jaldi
+...

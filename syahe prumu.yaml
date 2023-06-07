@@ -1,0 +1,50 @@
+---
+term: syahe prumu
+slug: syahe prumu
+ipa: "\u02C8sjaxe \u02C8p\u027Eumu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sjaxe \u02C8p\u027Eumu&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - black plum
+    - java plum
+  epo:
+  - - sizigifrukto
+  spa:
+  - - ciruela negra
+search terms:
+  glb:
+  - syahe prumu
+  - syahe
+  - prumu
+  eng:
+  - black plum
+  - java plum
+  epo:
+  - sizigifrukto
+  spa:
+  - ciruela negra
+etymology_type: DERIVD
+etymology: <a href="../lexi/syahe">syahe</a>, <a href="../lexi/prumu">prumu</a>
+raw data:
+  term: syahe prumu
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: black plum, java plum
+    epo: sizigifrukto
+    spa: ciruela negra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: syahe, prumu
+...

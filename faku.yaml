@@ -1,0 +1,67 @@
+---
+term: faku
+slug: faku
+ipa: ˈfaku
+ipa link: http://ipa-reader.xyz/?text=ˈfaku&voice=Ewa
+status: false
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - fuck
+    - shag
+    - (have) sex (_vulgar_)
+  epo:
+  - - fiko
+  - - fiki
+  spa:
+  - - chingar (_obsceno_)
+search terms:
+  glb:
+  - faku
+  eng:
+  - fuck
+  - shag
+  - have sex
+  - sex
+  epo:
+  - fiko
+  - fiki
+  spa:
+  - chingar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fuck
+  Rusisa: ~
+  Doycisa:
+  - - Fick
+    - ficken
+  Hindisa: ~
+  Niponsa:
+  - - ファック "fakku"
+  Hangusa:
+  - - 퍽 "pok"
+  Parsisa:
+  - - فاک "fâk"
+raw data:
+  term: faku
+  category: root
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: fuck, shag, (have) sex (_vulgar_)
+    epo: fiko; fiki
+    spa: chingar (_obsceno_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (fuck), Rusisa, Doycisa (Fick, ficken), Hindisa, Niponsa (ファック
+    "fakku"), Hangusa (퍽 "pok"), Parsisa (فاک "fâk")
+...

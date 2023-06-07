@@ -1,0 +1,60 @@
+---
+term: osto
+slug: osto
+ipa: "\u02C8osto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8osto&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bone
+  epo:
+  - - osto
+  spa:
+  - - hueso
+search terms:
+  glb:
+  - osto
+  eng:
+  - bone
+  epo:
+  - osto
+  spa:
+  - hueso
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - "\u0627\u0633\u062A\u062E\u0648\u0627\u0646 \u201Costox\xE2n\u201D"
+  Rusisa:
+  - - "\u043A\u043E\u0441\u0442\u044C \u201Ckost\u02B9\u201D"
+  Fransesa:
+  - - os
+  Espanisa:
+  - - hueso
+  Englisa:
+  - - osteo-
+tags:
+- jismulogi
+raw data:
+  term: osto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bone
+    epo: osto
+    spa: hueso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Parsisa (\u0627\u0633\u062A\u062E\u0648\u0627\u0646 \u201Costox\xE2n\u201D),
+    Rusisa (\u043A\u043E\u0441\u0442\u044C \u201Ckost\u02B9\u201D), Fransesa (os),
+    Espanisa (hueso), Englisa (osteo-)"
+...

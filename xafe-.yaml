@@ -1,0 +1,48 @@
+---
+term: xafe-
+slug: xafe-
+ipa: "\u0283a\u02C8fe-"
+ipa link: "http://ipa-reader.xyz/?text=\u0283a\u02C8fe-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - post-
+  epo:
+  - - post-
+  spa:
+  - - post-
+search terms:
+  glb:
+  - xafe-
+  eng:
+  - post-
+  epo:
+  - post-
+  spa:
+  - post-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/xafe">xafe</a>.
+antonyms:
+- lefe-
+raw data:
+  term: xafe-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: post-
+    epo: post-
+    spa: post-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: lefe-
+  example: ""
+  tags: ""
+  etymology: Am oko _xafe_.
+...

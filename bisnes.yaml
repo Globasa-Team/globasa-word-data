@@ -1,0 +1,62 @@
+---
+term: bisnes
+slug: bisnes
+ipa: bisˈnes
+ipa link: http://ipa-reader.xyz/?text=bisˈnes&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - business
+  epo:
+  - - komerco
+  - - komerci (vidu [firma] por la firmao
+    - '[xogyo] por la komerca interŝanĝo)'
+  spa:
+  - - negocio
+search terms:
+  glb:
+  - bisnes
+  eng:
+  - business
+  epo:
+  - komerco
+  - komerci vidu [firma] por la firmao
+  - komerci (vidu [firma] por la firmao
+  - '[xogyo] por la komerca interŝanĝo'
+  spa:
+  - negocio
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - business
+  Fransesa:
+  - - business
+  Indonesisa:
+  - - bisnis
+  Rusisa:
+  - - бизнес “biznes”
+  Niponsa:
+  - - ビジネス “bijinesu”
+raw data:
+  term: bisnes
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: business
+    epo: komerco; komerci (vidu [firma] por la firmao, [xogyo] por la komerca interŝanĝo)
+    spa: negocio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (business), Fransesa (business), Indonesisa (bisnis), Rusisa
+    (бизнес “biznes”), Niponsa (ビジネス “bijinesu”)
+...

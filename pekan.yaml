@@ -1,0 +1,90 @@
+---
+term: pekan
+slug: pekan
+ipa: "pe\u02C8kan"
+ipa link: "http://ipa-reader.xyz/?text=pe\u02C8kan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pecan
+  epo:
+  - - pekano
+  spa:
+  - - "pec\xE1n"
+    - nuez pecana
+    - _Carya illinoinensis_
+search terms:
+  glb:
+  - pekan
+  eng:
+  - pecan
+  epo:
+  - pekano
+  spa:
+  - "pec\xE1n"
+  - nuez pecana
+  - carya illinoinensis
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pecan
+  Espanisa:
+  - - pecana
+    - pacana
+    - "pec\xE1n"
+  Fransesa:
+  - - "p\xE9can"
+    - pacane
+  Rusisa:
+  - - "\u043F\u0435\u043A\u0430\u043D \"pekan\""
+  Doycisa:
+  - - Pekannuss
+  Indonesisa:
+  - - pecan
+  Arabisa:
+  - - "\u0628\u064E\u0642\u064E\u0651\u0627\u0646 \"baqqan\""
+  Niponsa:
+  - - "\u30DA\u30AB\u30F3 \"pekan\""
+  Tamilsa:
+  - - "\u0BAA\u0BC7\u0B95\u0BCD\u0B95\u0BBE\u0BA9\u0BCD \"pekan\""
+  Turkisa:
+  - - pekan
+  Vyetnamsa:
+  - - "p\xEAcan"
+  Hangusa:
+  - - "\uD53C\uCE78 \"pikan\""
+  Parsisa:
+  - - "\u06AF\u0631\u062F\u0648 \u067E\u06CC\u200C\u06A9\u0627\u0646 \"gerdu peykan\""
+  Swahilisa:
+  - - pekani
+tags:
+- planta
+- yamxey
+raw data:
+  term: pekan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pecan
+    epo: pekano
+    spa: "pec\xE1n, nuez pecana, _Carya illinoinensis_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta, yamxey
+  etymology: "Englisa (pecan), Espanisa (pecana, pacana, pec\xE1n), Fransesa (p\xE9can,
+    pacane), Rusisa (\u043F\u0435\u043A\u0430\u043D \"pekan\"), Doycisa (Pekannuss),
+    Indonesisa (pecan), Arabisa (\u0628\u064E\u0642\u064E\u0651\u0627\u0646 \"baqqan\"),
+    Niponsa (\u30DA\u30AB\u30F3 \"pekan\"), Tamilsa (\u0BAA\u0BC7\u0B95\u0BCD\u0B95\u0BBE\u0BA9\u0BCD
+    \"pekan\"), Turkisa (pekan), Vyetnamsa (p\xEAcan), Hangusa (\uD53C\uCE78 \"pikan\"),
+    Parsisa (\u06AF\u0631\u062F\u0648 \u067E\u06CC\u200C\u06A9\u0627\u0646 \"gerdu
+    peykan\"), Swahilisa (pekani)"
+...

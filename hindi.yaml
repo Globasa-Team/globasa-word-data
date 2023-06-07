@@ -1,0 +1,48 @@
+---
+term: hindi
+slug: hindi
+ipa: "\u02C8xindi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xindi&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Hindi
+  epo:
+  - - hinda
+  spa:
+  - - Hindi
+search terms:
+  glb:
+  - hindi
+  eng:
+  - hindi
+  epo:
+  - hinda
+  spa:
+  - hindi
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0939\u093F\u0902\u0926\u0940 \u201CHindi\u201D"
+raw data:
+  term: Hindi
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: Hindi
+    epo: hinda
+    spa: Hindi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0939\u093F\u0902\u0926\u0940 \u201CHindi\u201D)"
+...

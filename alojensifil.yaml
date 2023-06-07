@@ -1,0 +1,49 @@
+---
+term: alojensifil
+slug: alojensifil
+ipa: "alod\u0361\u0292ensi\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=alod\u0361\u0292ensi\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - heterosexual
+  epo:
+  - - aliseksema
+  - - alisekseme
+  spa:
+  - - heterosexual
+search terms:
+  glb:
+  - alojensifil
+  eng:
+  - heterosexual
+  epo:
+  - aliseksema
+  - alisekseme
+  spa:
+  - heterosexual
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo-">alo-</a> + <a href="../lexi/jensi">jensi</a> + <a
+  href="../lexi/-fil">-fil</a>
+raw data:
+  term: alojensifil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: heterosexual
+    epo: aliseksema; alisekseme
+    spa: heterosexual
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo- + jensi + -fil
+...

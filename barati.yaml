@@ -1,0 +1,91 @@
+---
+term: barati
+slug: barati
+ipa: "ba\u02C8\u027Eati"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8\u027Eati&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - India
+  epo:
+  - - Barato
+  spa:
+  - - India
+search terms:
+  glb:
+  - barati
+  eng:
+  - india
+  epo:
+  - barato
+  spa:
+  - india
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u092D\u093E\u0930\u0924 \u201CBh\u0101rat\u201D"
+  Dograsa: ~
+  Mitilasa: ~
+  Maharaxtrasa: ~
+  Nepalsa: ~
+  Sindisa: ~
+  Gujaratisa:
+  - - "\u0AAD\u0ABE\u0AB0\u0AA4 \u201CBh\u0101rat\u201D"
+  Panjabisa:
+  - - "\u0A2D\u0A3E\u0A30\u0A24 \u201CBh\u0101rat\u201D"
+  Karnatakasa:
+  - - "\u0CAD\u0CBE\u0CB0\u0CA4 \u201CBh\u0101rata\u201D"
+  Orisasa:
+  - - "\u0B2D\u0B3E\u0B30\u0B24 \u201CBh\u0101rata\u201D"
+  Telugusa:
+  - - "\u0C2D\u0C3E\u0C30\u0C24 \u201CBh\u0101rata\u201D"
+  Keralasa:
+  - - "\u0D2D\u0D3E\u0D30\u0D24\u0D02 \u201CBharatam\u201D"
+  Sanskritam:
+  - - "\u092D\u093E\u0930\u0924\u092E\u094D \u201CBh\u0101ratam\u201D"
+  Tamilsa:
+  - - "\u0BAA\u0BBE\u0BB0\u0BA4\u0BAE\u0BCD \u201CBh\u0101ratham\u201D"
+  Konkansa:
+  - - "\u092D\u093E\u0930\u0924 \u201CBharot\u201D"
+  Santari:
+  - - "\u1C65\u1C64\u1C67\u1C5A\u1C5B"
+    - "\u092D\u093E\u0930\u094B\u0924 \u201CBharot\u201D"
+  Manipursa:
+  - - "\u09AD\u09BE\u09B0\u09A4 \u201CBharot\u201D"
+  Banglasa: ~
+  Ohomsa: ~
+  Borosa:
+  - - "\u092D\u093E\u0930\u0924 \u201CBh\u0101r\xF4t\u201D"
+tags:
+- dexa
+raw data:
+  term: Barati
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: India
+    epo: Barato
+    spa: India
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Hindisa (\u092D\u093E\u0930\u0924 \u201CBh\u0101rat\u201D), Dograsa,
+    Mitilasa, Maharaxtrasa, Nepalsa, Sindisa, Gujaratisa (\u0AAD\u0ABE\u0AB0\u0AA4
+    \u201CBh\u0101rat\u201D), Panjabisa (\u0A2D\u0A3E\u0A30\u0A24 \u201CBh\u0101rat\u201D),
+    Karnatakasa (\u0CAD\u0CBE\u0CB0\u0CA4 \u201CBh\u0101rata\u201D), Orisasa (\u0B2D\u0B3E\u0B30\u0B24
+    \u201CBh\u0101rata\u201D), Telugusa (\u0C2D\u0C3E\u0C30\u0C24 \u201CBh\u0101rata\u201D),
+    Keralasa (\u0D2D\u0D3E\u0D30\u0D24\u0D02 \u201CBharatam\u201D), Sanskritam (\u092D\u093E\u0930\u0924\u092E\u094D
+    \u201CBh\u0101ratam\u201D), Tamilsa (\u0BAA\u0BBE\u0BB0\u0BA4\u0BAE\u0BCD \u201CBh\u0101ratham\u201D),
+    Konkansa (\u092D\u093E\u0930\u0924 \u201CBharot\u201D), Santari (\u1C65\u1C64\u1C67\u1C5A\u1C5B,
+    \u092D\u093E\u0930\u094B\u0924 \u201CBharot\u201D), Manipursa (\u09AD\u09BE\u09B0\u09A4
+    \u201CBharot\u201D), Banglasa, Ohomsa, Borosa (\u092D\u093E\u0930\u0924 \u201CBh\u0101r\xF4t\u201D)"
+...

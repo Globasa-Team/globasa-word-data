@@ -1,0 +1,55 @@
+---
+term: kosmonaviyen
+slug: kosmonaviyen
+ipa: "kosmonavi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=kosmonavi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - astronaut
+    - cosmonaut
+  epo:
+  - - "kosmona\u016Dto"
+    - "astrona\u016Dto"
+  spa:
+  - - astronauta
+    - cosmonauta
+search terms:
+  glb:
+  - kosmonaviyen
+  eng:
+  - astronaut
+  - cosmonaut
+  epo:
+  - "kosmona\u016Dto"
+  - "astrona\u016Dto"
+  spa:
+  - astronauta
+  - cosmonauta
+etymology_type: DERIVD
+etymology: <a href="../lexi/kosmo">kosmo</a> + <a href="../lexi/navi">navi</a> + <a
+  href="../lexi/-yen">-yen</a>
+tags:
+- kosmo
+raw data:
+  term: kosmonaviyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: astronaut, cosmonaut
+    epo: "kosmona\u016Dto, astrona\u016Dto"
+    spa: astronauta, cosmonauta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kosmo
+  etymology: kosmo + navi + -yen
+...

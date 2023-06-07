@@ -1,0 +1,56 @@
+---
+term: farxu
+slug: farxu
+ipa: ˈfaɾʃu
+ipa link: http://ipa-reader.xyz/?text=ˈfaɾʃu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - carpet
+  epo:
+  - - tapiŝo
+  spa:
+  - - alfombra
+    - tapete
+    - moqueta
+search terms:
+  glb:
+  - farxu
+  eng:
+  - carpet
+  epo:
+  - tapiŝo
+  spa:
+  - alfombra
+  - tapete
+  - moqueta
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فرش “farš”
+  Parsisa:
+  - - فرش “farš”
+  Hindisa:
+  - - फ़र्श “farś”
+raw data:
+  term: farxu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: carpet
+    epo: tapiŝo
+    spa: alfombra, tapete, moqueta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (فرش “farš”), Parsisa (فرش “farš”), Hindisa (फ़र्श “farś”)
+...

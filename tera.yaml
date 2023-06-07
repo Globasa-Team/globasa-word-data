@@ -1,0 +1,62 @@
+---
+term: tera
+slug: tera
+ipa: "\u02C8te\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8te\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - trillion
+    - one trillion
+  epo:
+  - - biliono
+  spa:
+  - - tera-
+    - "1 \xD7 10^12"
+    - "bill\xF3n"
+    - T
+search terms:
+  glb:
+  - tera
+  eng:
+  - trillion
+  - one trillion
+  epo:
+  - biliono
+  spa:
+  - tera-
+  - "1 \xD7 10^12"
+  - "bill\xF3n"
+  - t
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tera-
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Arabisa: ~
+  Hindisa: ~
+raw data:
+  term: tera
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: trillion, one trillion
+    epo: biliono
+    spa: "tera-, 1 \xD7 10^12, bill\xF3n, T"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (tera-), Fransesa ( ), Doycisa, Rusisa, Espanisa, Arabisa, Hindisa
+...

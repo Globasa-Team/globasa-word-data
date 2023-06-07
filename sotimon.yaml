@@ -1,0 +1,48 @@
+---
+term: sotimon
+slug: sotimon
+ipa: "soti\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=soti\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - note
+    - tone
+  epo:
+  - - tono
+  spa:
+  - - nota musical
+search terms:
+  glb:
+  - sotimon
+  eng:
+  - note
+  - tone
+  epo:
+  - tono
+  spa:
+  - nota musical
+etymology_type: DERIVD
+etymology: <a href="../lexi/soti">soti</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: sotimon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: note, tone
+    epo: tono
+    spa: nota musical
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: soti + -mon
+...

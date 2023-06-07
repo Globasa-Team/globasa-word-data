@@ -1,0 +1,50 @@
+---
+term: maldoxo
+slug: maldoxo
+ipa: "mal\u02C8do\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=mal\u02C8do\u0283o&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - misreading
+  - - misread
+  epo:
+  - - mislego
+  - - mislegi
+  spa:
+  - - leer mal
+search terms:
+  glb:
+  - maldoxo
+  eng:
+  - misreading
+  - misread
+  epo:
+  - mislego
+  - mislegi
+  spa:
+  - leer mal
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal-">mal-</a> + <a href="../lexi/doxo">doxo</a>
+raw data:
+  term: maldoxo
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: misreading; misread
+    epo: mislego; mislegi
+    spa: leer mal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal- + doxo
+...

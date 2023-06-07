@@ -1,0 +1,59 @@
+---
+term: yugo
+slug: yugo
+ipa: "\u02C8jugo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jugo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - yoke
+  epo:
+  - - jugo
+  spa:
+  - - yugo
+search terms:
+  glb:
+  - yugo
+  eng:
+  - yoke
+  epo:
+  - jugo
+  spa:
+  - yugo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - yoke
+  Espanisa:
+  - - yugo
+  Fransesa:
+  - - joug
+  Rusisa:
+  - - "\u0438\u0433\u043E \u201Cigo\u201D"
+  Doycisa:
+  - - Joch
+  Parsisa:
+  - - "\u06CC\u0648\u063A \u201Cyug\u201D"
+raw data:
+  term: yugo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: yoke
+    epo: jugo
+    spa: yugo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (yoke), Espanisa (yugo), Fransesa (joug), Rusisa (\u0438\u0433\u043E
+    \u201Cigo\u201D), Doycisa (Joch), Parsisa (\u06CC\u0648\u063A \u201Cyug\u201D)"
+...

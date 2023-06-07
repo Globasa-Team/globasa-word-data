@@ -1,0 +1,74 @@
+---
+term: prokrastina
+slug: prokrastina
+ipa: "p\u027Eok\u027Eas\u02C8tina"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eok\u027Eas\u02C8tina&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - procrastination
+  - - procrastinate
+  epo:
+  - - prokrastado
+  - - prokrasti
+  spa:
+  - - "procrastinaci\xF3n"
+  - - procrastinar
+    - aplazar
+search terms:
+  glb:
+  - prokrastina
+  eng:
+  - procrastination
+  - procrastinate
+  epo:
+  - prokrastado
+  - prokrasti
+  spa:
+  - "procrastinaci\xF3n"
+  - procrastinar
+  - aplazar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - procrastination
+    - procrastinate
+  Espanisa:
+  - - "procrastinaci\xF3n"
+    - procrastinar
+  Fransesa:
+  - - procrastination
+  Rusisa:
+  - - "\u043F\u0440\u043E\u043A\u0440\u0430\u0441\u0442\u0438\u043D\u0430\u0446\u0438\u044F
+      \"prokrastinatsiya\""
+  Doycisa:
+  - - Prokrastination
+  Indonesisa:
+  - - prokrastinasi
+  Turkisa:
+  - - prokrastrinasyon
+raw data:
+  term: prokrastina
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: procrastination; procrastinate
+    epo: prokrastado; prokrasti
+    spa: "procrastinaci\xF3n; procrastinar, aplazar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (procrastination, procrastinate), Espanisa (procrastinaci\xF3n,
+    procrastinar), Fransesa (procrastination), Rusisa (\u043F\u0440\u043E\u043A\u0440\u0430\u0441\u0442\u0438\u043D\u0430\u0446\u0438\u044F
+    \"prokrastinatsiya\"), Doycisa (Prokrastination), Indonesisa (prokrastinasi),
+    Turkisa (prokrastrinasyon)"
+...

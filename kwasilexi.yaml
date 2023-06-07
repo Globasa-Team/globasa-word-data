@@ -1,0 +1,48 @@
+---
+term: kwasilexi
+slug: kwasilexi
+ipa: "kwasi\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=kwasi\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - onomatopoeia
+  epo:
+  - - onomatopeo
+  spa:
+  - - onomatopeya
+search terms:
+  glb:
+  - kwasilexi
+  eng:
+  - onomatopoeia
+  epo:
+  - onomatopeo
+  spa:
+  - onomatopeya
+etymology_type: DERIVD
+etymology: <a href="../lexi/kwasi">kwasi</a> + <a href="../lexi/-lexi">-lexi</a>
+tags:
+- gramati
+raw data:
+  term: kwasilexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: onomatopoeia
+    epo: onomatopeo
+    spa: onomatopeya
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gramati
+  etymology: kwasi + -lexi
+...

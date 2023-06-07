@@ -1,0 +1,49 @@
+---
+term: kalendar
+slug: kalendar
+ipa: "kalen\u02C8da\u027E"
+ipa link: "http://ipa-reader.xyz/?text=kalen\u02C8da\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - calendar
+  epo:
+  - - kalendaro
+  spa:
+  - - calendario
+search terms:
+  glb:
+  - kalendar
+  eng:
+  - calendar
+  epo:
+  - kalendaro
+  spa:
+  - calendario
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kalendar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: calendar
+    epo: kalendaro
+    spa: calendario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (calendar), Fransesa (calendrier), Doycisa (kalender), Rusisa
+    (kalendar), Espanisa (calendario), Indonesisa (kalender), Pilipinasa (kalendaryo),
+    Niponsa (karend\u0101), Hindisa (kailendar), Telugusa (ky\u0101le\u1E47\u1E0Dar),
+    Swahilisa (kalenda), Parsisa (kalenda)"
+...

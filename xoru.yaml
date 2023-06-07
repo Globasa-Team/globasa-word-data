@@ -1,0 +1,76 @@
+---
+term: xoru
+slug: xoru
+ipa: "\u02C8\u0283o\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283o\u027Eu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - beginning
+    - start
+    - initiation
+  - - begin
+    - start
+    - initiate
+  epo:
+  - - komenco
+    - starto
+  - - eki
+    - komenci
+    - starti
+  spa:
+  - - comienzo
+    - principio
+  - - comenzar
+    - empezar
+search terms:
+  glb:
+  - xoru
+  eng:
+    0: beginning
+    1: start
+    2: initiation
+    3: begin
+    5: initiate
+  epo:
+  - komenco
+  - starto
+  - eki
+  - komenci
+  - starti
+  spa:
+  - comienzo
+  - principio
+  - comenzar
+  - empezar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0936\u0941\u0930\u0942 \u201Cxuru\u201D"
+  Parsisa:
+  - - "\u0634\u0631\u0648\u0639 \u201Cxoru\u201D"
+  Arabisa:
+  - - "\u0634\u064F\u0631\u064F\u0648\u0639  \u201Cxuru\u201D"
+raw data:
+  term: xoru
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: beginning, start, initiation; begin, start, initiate
+    epo: komenco, starto; eki, komenci, starti
+    spa: comienzo, principio; comenzar, empezar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0936\u0941\u0930\u0942 \u201Cxuru\u201D), Parsisa (\u0634\u0631\u0648\u0639
+    \u201Cxoru\u201D), Arabisa (\u0634\u064F\u0631\u064F\u0648\u0639  \u201Cxuru\u201D)"
+...

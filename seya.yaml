@@ -1,0 +1,48 @@
+---
+term: seya
+slug: seya
+ipa: "\u02C8seja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8seja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - self
+  epo:
+  - - memo
+  spa:
+  - - uno mismo
+    - ego
+search terms:
+  glb:
+  - seya
+  eng:
+  - self
+  epo:
+  - memo
+  spa:
+  - uno mismo
+  - ego
+etymology_type: DERIVD
+etymology: <a href="../lexi/se">se</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: seya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: self
+    epo: memo
+    spa: uno mismo, ego
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se + -ya
+...

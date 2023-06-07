@@ -1,0 +1,50 @@
+---
+term: pesali
+slug: pesali
+ipa: "pe\u02C8sali"
+ipa link: "http://ipa-reader.xyz/?text=pe\u02C8sali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - monetary
+    - financial
+  epo:
+  - - mona
+  - - mone
+  spa:
+  - - monetario
+search terms:
+  glb:
+  - pesali
+  eng:
+  - monetary
+  - financial
+  epo:
+  - mona
+  - mone
+  spa:
+  - monetario
+etymology_type: DERIVD
+etymology: <a href="../lexi/pesa">pesa</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: pesali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: monetary, financial
+    epo: mona; mone
+    spa: monetario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pesa + -li
+...

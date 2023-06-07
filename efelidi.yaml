@@ -1,0 +1,60 @@
+---
+term: efelidi
+slug: efelidi
+ipa: efeˈlidi
+ipa link: http://ipa-reader.xyz/?text=efeˈlidi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - freckle
+  epo:
+  - - lentugo
+  spa:
+  - - peca
+search terms:
+  glb:
+  - efelidi
+  eng:
+  - freckle
+  epo:
+  - lentugo
+  spa:
+  - peca
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ephelis
+  Espanisa:
+  - - efélide
+  Portugalsa: ~
+  Fransesa:
+  - - éphélides
+  Doycisa:
+  - - Epheliden
+  Italisa:
+  - - efelidi
+  Indonesisa:
+  - - efelid
+raw data:
+  term: efelidi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: freckle
+    epo: lentugo
+    spa: peca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (ephelis), Espanisa (efélide), Portugalsa, Fransesa (éphélides),
+    Doycisa (Epheliden), Italisa (efelidi), Indonesisa (efelid)
+...

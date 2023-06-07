@@ -1,0 +1,75 @@
+---
+term: fyordo
+slug: fyordo
+ipa: ˈfjoɾdo
+ipa link: http://ipa-reader.xyz/?text=ˈfjoɾdo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fjord
+  epo:
+  - - fjordo
+  spa:
+  - - fiordo
+search terms:
+  glb:
+  - fyordo
+  eng:
+  - fjord
+  epo:
+  - fjordo
+  spa:
+  - fiordo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fjord
+  Fransesa: ~
+  Doycisa: ~
+  Espanisa:
+  - - fiordo
+  Rusisa:
+  - - фьорд
+    - фиорд “fyord”
+  Indonesisa:
+  - - fiord
+  Pilipinasa:
+  - - piyordo
+  Hindisa:
+  - - फ़्योर्ड “fyord”
+  Niponsa:
+  - - フィヨルド “fiyorudo”
+  Turkisa:
+  - - fiyort
+  Hangusa:
+  - - 피오르 “pyoru”
+    - 피오르드 “pyorudu”
+  Parsisa:
+  - - فیورد “fiyord”
+tags:
+- geografi
+raw data:
+  term: fyordo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fjord
+    epo: fjordo
+    spa: fiordo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: Englisa (fjord), Fransesa, Doycisa, Espanisa (fiordo), Rusisa (фьорд,
+    фиорд “fyord”), Indonesisa (fiord), Pilipinasa (piyordo), Hindisa (फ़्योर्ड “fyord”),
+    Niponsa (フィヨルド “fiyorudo”), Turkisa (fiyort), Hangusa (피오르 “pyoru”, 피오르드 “pyorudu”),
+    Parsisa (فیورد “fiyord”)
+...

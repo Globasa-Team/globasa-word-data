@@ -1,0 +1,53 @@
+---
+term: jandan
+slug: jandan
+ipa: "d\u0361\u0292an\u02C8dan"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292an\u02C8dan&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - simple
+    - simply
+  epo:
+  - - simpla
+  - - simple
+  spa:
+  - - sencillo
+search terms:
+  glb:
+  - jandan
+  eng:
+  - simple
+  - simply
+  epo:
+  - simpla
+  - simple
+  spa:
+  - sencillo
+etymology_type: NATLNG
+etymology: BLAH
+antonyms:
+- fukuza
+raw data:
+  term: jandan
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: simple, simply
+    epo: simpla; simple
+    spa: sencillo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: fukuza
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7B80\u5355 \u201Cji\u01CEnd\u0101n\u201D), Niponsa (\u7C21\u5358
+    \u201Ckantan\u201D), Hangusa (\uAC04\uB2E8 \u201Cgandan\u201D)"
+...

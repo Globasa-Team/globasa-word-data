@@ -1,0 +1,50 @@
+---
+term: -fobi
+slug: -fobi
+ipa: "-\u02C8fobi"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8fobi&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - phobia
+  epo:
+  - - -fobio
+  spa:
+  - - fobia
+  deu:
+  - - Phobie
+search terms:
+  glb:
+  - -fobi
+  eng:
+  - phobia
+  epo:
+  - -fobio
+  spa:
+  - fobia
+  deu:
+  - phobie
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/fobi">fobi</a>.
+raw data:
+  term: -fobi
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: phobia
+    epo: -fobio
+    spa: fobia
+    deu: Phobie
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _fobi_.
+...

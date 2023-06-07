@@ -1,0 +1,50 @@
+---
+term: kuweyti
+slug: kuweyti
+ipa: "ku\u02C8wejti"
+ipa link: "http://ipa-reader.xyz/?text=ku\u02C8wejti&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Kuwait
+  epo:
+  - - Kuvajto
+  spa:
+  - - Kuwait
+search terms:
+  glb:
+  - kuweyti
+  eng:
+  - kuwait
+  epo:
+  - kuvajto
+  spa:
+  - kuwait
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0627\u0644\u0643\u0648\u064A\u062A \u201Cal-Kuwait\u201D"
+tags:
+- dexa
+raw data:
+  term: Kuweyti
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Kuwait
+    epo: Kuvajto
+    spa: Kuwait
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u0627\u0644\u0643\u0648\u064A\u062A \u201Cal-Kuwait\u201D)"
+...

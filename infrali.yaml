@@ -1,0 +1,48 @@
+---
+term: infrali
+slug: infrali
+ipa: "in\u02C8f\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8f\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - inferior
+  epo:
+  - - malsupra
+  - - malsupre
+  spa:
+  - - inferior
+search terms:
+  glb:
+  - infrali
+  eng:
+  - inferior
+  epo:
+  - malsupra
+  - malsupre
+  spa:
+  - inferior
+etymology_type: DERIVD
+etymology: <a href="../lexi/infra">infra</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: infrali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: inferior
+    epo: malsupra; malsupre
+    spa: inferior
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: infra + -li
+...

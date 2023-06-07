@@ -1,0 +1,80 @@
+---
+term: logi
+slug: logi
+ipa: "\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8logi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - specialty
+    - science (of)
+    - philosophy (of)
+    - study (of)
+    - art (of)
+  epo:
+  - - fako
+    - scienco (de)
+    - filozofio (de)
+    - studo (de)
+    - arto (de)
+  spa:
+  - - especialidad
+    - ciencia
+    - "filosof\xEDa"
+    - estudio
+    - arte
+search terms:
+  glb:
+  - logi
+  eng:
+  - specialty
+  - science of
+  - science
+  - philosophy of
+  - philosophy
+  - study of
+  - study
+  - art of
+  - art
+  epo:
+  - fako
+  - scienco de
+  - scienco
+  - filozofio de
+  - filozofio
+  - studo de
+  - studo
+  - arto de
+  - arto
+  spa:
+  - especialidad
+  - ciencia
+  - "filosof\xEDa"
+  - estudio
+  - arte
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: logi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: specialty, science (of), philosophy (of), study (of), art (of)
+    epo: fako, scienco (de), filozofio (de), studo (de), arto (de)
+    spa: "especialidad, ciencia, filosof\xEDa, estudio, arte"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (-ology), Fransesa (-logie), Doycisa (-logie), Rusisa (-\u043B\u043E\u0433\u0438\u044F
+    \u201C-logiya\u201D), Espanisa (-log\xEDa), Indonesisa (-logi), Pilipinasa (-lohiya),
+    Turkisa (-loji), Swahilisa (saikolojia)"
+...

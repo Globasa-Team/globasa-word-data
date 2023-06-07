@@ -1,0 +1,50 @@
+---
+term: musigi
+slug: musigi
+ipa: "mu\u02C8sigi"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8sigi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - compel
+  epo:
+  - - devigo
+  - - devigi
+  spa:
+  - - obligar
+    - compeler
+search terms:
+  glb:
+  - musigi
+  eng:
+  - compel
+  epo:
+  - devigo
+  - devigi
+  spa:
+  - obligar
+  - compeler
+etymology_type: DERIVD
+etymology: <a href="../lexi/musi">musi</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: musigi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: compel
+    epo: devigo; devigi
+    spa: obligar, compeler
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: musi + -gi
+...

@@ -1,0 +1,52 @@
+---
+term: gwakamole
+slug: gwakamole
+ipa: gwakaˈmole
+ipa link: http://ipa-reader.xyz/?text=gwakaˈmole&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - guacamole
+  epo:
+  - - gvakamolo
+    - avokada kaĉo
+  spa:
+  - - guacamole
+search terms:
+  glb:
+  - gwakamole
+  eng:
+  - guacamole
+  epo:
+  - gvakamolo
+  - avokada kaĉo
+  spa:
+  - guacamole
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - guacamole
+tags:
+- yamxey
+raw data:
+  term: gwakamole
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: guacamole
+    epo: gvakamolo, avokada kaĉo
+    spa: guacamole
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Espanisa (guacamole)
+...

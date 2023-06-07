@@ -1,0 +1,54 @@
+---
+term: fe folya
+slug: fe folya
+ipa: "fe \u02C8folja"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8folja&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - alongside
+    - accordingly
+  epo:
+  - - apude
+    - "la\u016De"
+  spa:
+  - - al lado
+    - como corresponde
+search terms:
+  glb:
+  - fe folya
+  - fe
+  - folya
+  eng:
+  - alongside
+  - accordingly
+  epo:
+  - apude
+  - "la\u016De"
+  spa:
+  - al lado
+  - como corresponde
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/fol">fol</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fe folya
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: alongside, accordingly
+    epo: "apude, la\u016De"
+    spa: al lado, como corresponde
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, fol + -ya
+...

@@ -1,0 +1,64 @@
+---
+term: falezi
+slug: falezi
+ipa: faˈlezi
+ipa link: http://ipa-reader.xyz/?text=faˈlezi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cliff
+  epo:
+  - - klifo
+  spa:
+  - - acantilado
+    - peñasco
+    - risco
+    - precipicio
+    - barranco
+search terms:
+  glb:
+  - falezi
+  eng:
+  - cliff
+  epo:
+  - klifo
+  spa:
+  - acantilado
+  - peñasco
+  - risco
+  - precipicio
+  - barranco
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - falaise
+  Doycisa:
+  - - Felsen
+  Portugalsa:
+  - - falésia
+  Turkisa:
+  - - falez
+tags:
+- geografi
+raw data:
+  term: falezi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cliff
+    epo: klifo
+    spa: acantilado, peñasco, risco, precipicio, barranco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: Fransesa (falaise), Doycisa (Felsen), Portugalsa (falésia), Turkisa (falez)
+...

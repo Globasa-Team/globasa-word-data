@@ -1,0 +1,46 @@
+---
+term: mama
+slug: mama
+ipa: "\u02C8mama"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mama&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mom
+  epo:
+  - - panjo
+  spa:
+  - - "mam\xE1"
+search terms:
+  glb:
+  - mama
+  eng:
+  - mom
+  epo:
+  - panjo
+  spa:
+  - "mam\xE1"
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: mama
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mom
+    epo: panjo
+    spa: "mam\xE1"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _matre_.
+...

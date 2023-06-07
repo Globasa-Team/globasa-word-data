@@ -1,0 +1,74 @@
+---
+term: eskandal
+slug: eskandal
+ipa: eskanˈdal
+ipa link: http://ipa-reader.xyz/?text=eskanˈdal&voice=Ewa
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - scandal
+  - - make a scandal
+  epo:
+  - - skandalo
+  spa:
+  - - escándalo
+search terms:
+  glb:
+  - eskandal
+  eng:
+  - scandal
+  - make a scandal
+  epo:
+  - skandalo
+  spa:
+  - escándalo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - scandal
+  Espanisa:
+  - - escándalo
+  Fransesa:
+  - - scandale
+    - esclandre
+  Rusisa:
+  - - скандал "skandal"
+  Doycisa:
+  - - Skandal
+  Indonesisa:
+  - - skandal
+  Pilipinasa:
+  - - eskandalo
+  Niponsa:
+  - - スキャンダル "sukyandaru"
+  Turkisa:
+  - - skandal
+  Hangusa:
+  - - 스캔들 "sukendul"
+  Parsisa:
+  - - اسکاندال "eskāndāl"
+raw data:
+  term: eskandal
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: scandal; make a scandal
+    epo: skandalo
+    spa: escándalo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (scandal), Espanisa (escándalo), Fransesa (scandale, esclandre),
+    Rusisa (скандал "skandal"), Doycisa (Skandal), Indonesisa (skandal), Pilipinasa
+    (eskandalo), Niponsa (スキャンダル "sukyandaru"), Turkisa (skandal), Hangusa (스캔들 "sukendul"),
+    Parsisa (اسکاندال "eskāndāl")
+...

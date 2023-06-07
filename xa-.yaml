@@ -1,0 +1,50 @@
+---
+term: xa-
+slug: xa-
+ipa: "\u02C8\u0283a-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283a-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - future
+  epo:
+  - - estonta
+    - estonte
+  spa:
+  - - futuro
+search terms:
+  glb:
+  - xa-
+  eng:
+  - future
+  epo:
+  - estonta
+  - estonte
+  spa:
+  - futuro
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/xa">xa</a>.
+antonyms:
+- le-
+raw data:
+  term: xa-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: future
+    epo: estonta, estonte
+    spa: futuro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: le-
+  example: ""
+  tags: ""
+  etymology: Am oko _xa_.
+...

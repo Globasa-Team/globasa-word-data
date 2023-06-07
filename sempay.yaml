@@ -1,0 +1,52 @@
+---
+term: sempay
+slug: sempay
+ipa: "sem\u02C8paj"
+ipa link: "http://ipa-reader.xyz/?text=sem\u02C8paj&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - narrow
+  epo:
+  - - "mallar\u011Da"
+  - - "mallar\u011De"
+  spa:
+  - - angosto
+search terms:
+  glb:
+  - sempay
+  eng:
+  - narrow
+  epo:
+  - "mallar\u011Da"
+  - "mallar\u011De"
+  spa:
+  - angosto
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - sempit
+  Niponsa:
+  - - "\u72ED\u3044 \u201Csemai\u201D"
+raw data:
+  term: sempay
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: narrow
+    epo: "mallar\u011Da; mallar\u011De"
+    spa: angosto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (sempit), Niponsa (\u72ED\u3044 \u201Csemai\u201D)"
+...

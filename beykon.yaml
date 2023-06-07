@@ -1,0 +1,74 @@
+---
+term: beykon
+slug: beykon
+ipa: bejˈkon
+ipa link: http://ipa-reader.xyz/?text=bejˈkon&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bacon
+  epo:
+  - - lardo
+  spa:
+  - - tocino
+    - panceta
+search terms:
+  glb:
+  - beykon
+  eng:
+  - bacon
+  epo:
+  - lardo
+  spa:
+  - tocino
+  - panceta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bacon
+  Espanisa:
+  - - beicon
+  Rusisa:
+  - - бекон “bekon”
+  Indonesisa:
+  - - bakon
+  Hindisa:
+  - - बेकन “bekan”
+  Arabisa:
+  - - بَاكُون “bakun”
+    - بَيْكُون “baykun”
+  Niponsa:
+  - - ベーコン “beykon”
+  Hangusa:
+  - - 베이컨 “beykon”
+  Parsisa:
+  - - بیکن “beyken”
+  Swahilisa:
+  - - bekoni
+tags:
+- yamxey
+raw data:
+  term: beykon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bacon
+    epo: lardo
+    spa: tocino, panceta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Englisa (bacon), Espanisa (beicon), Rusisa (бекон “bekon”), Indonesisa
+    (bakon), Hindisa (बेकन “bekan”), Arabisa (بَاكُون “bakun”, بَيْكُون “baykun”),
+    Niponsa (ベーコン “beykon”), Hangusa (베이컨 “beykon”), Parsisa (بیکن “beyken”), Swahilisa
+    (bekoni)
+...

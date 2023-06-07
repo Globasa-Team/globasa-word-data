@@ -1,0 +1,57 @@
+---
+term: mongusta
+slug: mongusta
+ipa: "mon\u02C8gusta"
+ipa link: "http://ipa-reader.xyz/?text=mon\u02C8gusta&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mongoose
+    - _Herpestidae_
+  epo:
+  - - herpesto
+    - mungoto
+  spa:
+  - - mangosta
+    - _Herpestidae_
+search terms:
+  glb:
+  - mongusta
+  eng:
+  - mongoose
+  - herpestidae
+  epo:
+  - herpesto
+  - mungoto
+  spa:
+  - mangosta
+  - herpestidae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: mongusta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mongoose, _Herpestidae_
+    epo: herpesto, mungoto
+    spa: mangosta, _Herpestidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (mongoose), Pilipinasa, Espanisa (mangosta), Fransesa (mangouste),
+    (Manguste), Putunhwa (\u7374 \u201Cmeng\u201D), Niponsa (\u30DE\u30F3\u30B0\u30FC\u30B9
+    \u201Cmangusu\u201D), Telugusa (\u0C2E\u0C41\u0C02\u0C17\u0C3F\u0C38 \u201Cmungisa\u201D),
+    Hangusa (\uBABD\uAD6C\uC2A4 \u201Cmongusu\u201D), Vyetnamsa (mangut)"
+...

@@ -1,0 +1,51 @@
+---
+term: muhatu
+slug: muhatu
+ipa: "mu\u02C8xatu"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8xatu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mucus
+  epo:
+  - - muko
+  spa:
+  - - moco
+  deu:
+  - - Schleim
+search terms:
+  glb:
+  - muhatu
+  eng:
+  - mucus
+  epo:
+  - muko
+  spa:
+  - moco
+  deu:
+  - schleim
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: muhatu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mucus
+    epo: muko
+    spa: moco
+    deu: Schleim
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u064F\u062E\u064E\u0627\u0637 \u201Cmuhat\u201D), Parsisa
+    (\u0645\u062E\u0627\u0637 \u201Cmohat\u201D)"
+...

@@ -1,0 +1,62 @@
+---
+term: tembal
+slug: tembal
+ipa: "tem\u02C8bal"
+ipa link: "http://ipa-reader.xyz/?text=tem\u02C8bal&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - lazy
+  epo:
+  - - pigra
+    - nelaborema
+  - - pigre
+    - nelaboreme
+  spa:
+  - - perezoso
+search terms:
+  glb:
+  - tembal
+  eng:
+  - lazy
+  epo:
+  - pigra
+  - nelaborema
+  - pigre
+  - nelaboreme
+  spa:
+  - perezoso
+etymology_type: NATLNG
+etymology:
+  Turkisa:
+  - - tembel
+  Parsisa:
+  - - "\u062A\u0646\u0628\u0644 \u201Ctanbal\u201D"
+  Arabisa:
+  - - "\u062A\u064E\u0646\u0652\u0628\u064E\u0644 \u201Ctanbal\u201D"
+  Rumanisa:
+  - - tembel
+raw data:
+  term: tembal
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: lazy
+    epo: pigra, nelaborema; pigre, nelaboreme
+    spa: perezoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Turkisa (tembel), Parsisa (\u062A\u0646\u0628\u0644 \u201Ctanbal\u201D),
+    Arabisa (\u062A\u064E\u0646\u0652\u0628\u064E\u0644 \u201Ctanbal\u201D), Rumanisa
+    (tembel)"
+...

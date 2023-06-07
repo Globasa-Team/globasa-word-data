@@ -1,0 +1,69 @@
+---
+term: estay
+slug: estay
+ipa: esˈtaj
+ipa link: http://ipa-reader.xyz/?text=esˈtaj&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - stand
+    - be standing
+  epo:
+  - - staro
+  - - stari
+  spa:
+  - - pararse
+    - estar de pie
+search terms:
+  glb:
+  - estay
+  eng:
+  - stand
+  - be standing
+  epo:
+  - staro
+  - stari
+  spa:
+  - pararse
+  - estar de pie
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - stand
+  Espanisa:
+  - - estoy
+    - estar
+  Swerisa:
+  - - stå
+  Norgesa:
+  - - stå
+  Rusisa:
+  - - стоять “stoyat”
+  Parsisa:
+  - - ایستادن “istadan”
+  Serbihervatskasa:
+  - - стајати / stajati
+raw data:
+  term: estay
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: stand, be standing
+    epo: staro; stari
+    spa: pararse, estar de pie
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (stand), Espanisa (estoy, estar) Swerisa (stå), Norgesa (stå),
+    Rusisa (стоять “stoyat”), Parsisa (ایستادن “istadan”), Serbihervatskasa (стајати
+    / stajati)
+...

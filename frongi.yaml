@@ -1,0 +1,66 @@
+---
+term: frongi
+slug: frongi
+ipa: "\u02C8f\u027Eongi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8f\u027Eongi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - promotion
+    - advancement
+  - - promote
+    - foster
+    - further
+    - advance
+  epo:
+  - - "anta\u016Denigo"
+  - - "anta\u016Denigi"
+  spa:
+  - - "promoci\xF3n"
+    - avance
+  - - promover
+    - fomentar
+    - impulsar
+search terms:
+  glb:
+  - frongi
+  eng:
+  - promotion
+  - advancement
+  - promote
+  - foster
+  - further
+  - advance
+  epo:
+  - "anta\u016Denigo"
+  - "anta\u016Denigi"
+  spa:
+  - "promoci\xF3n"
+  - avance
+  - promover
+  - fomentar
+  - impulsar
+etymology_type: DERIVD
+etymology: <a href="../lexi/fron-">fron-</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: frongi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: promotion, advancement; promote, foster, further, advance
+    epo: "anta\u016Denigo; anta\u016Denigi"
+    spa: "promoci\xF3n, avance; promover, fomentar, impulsar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fron- + -gi
+...

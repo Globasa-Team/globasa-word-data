@@ -1,0 +1,73 @@
+---
+term: piu
+slug: piu
+ipa: "\u02C8piu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8piu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bird (_Aves_)
+  epo:
+  - - birdo
+  spa:
+  - - "p\xE1jaro"
+    - ave
+    - _Aves_
+search terms:
+  glb:
+  - piu
+  eng:
+  - bird
+  epo:
+  - birdo
+  spa:
+  - "p\xE1jaro"
+  - ave
+  - aves
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Espanisa:
+  - - pio
+  Portugalsa:
+  - - piu
+  Ceskisa:
+  - - "p\xEDp"
+  Latvisa:
+  - - "\u010Diu"
+  Doycisa:
+  - - piep
+  Exkiperisa:
+  - - ciu
+  Elinisa:
+  - - "\u03C4\u03C3\u03AF\u03BF\u03C5 \u201Ctsiu\u201D"
+  Ivrisa:
+  - - "\u05E6\u05B4\u05D9\u05BC\u05D5\u05BC\u05E5\u200E \u201Ctsiy\xFAts\u201D"
+  Niponsa:
+  - - "\u30D4\u30E8 \u201Cpiyo\u201D"
+tags:
+- hewan
+raw data:
+  term: piu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bird (_Aves_)
+    epo: birdo
+    spa: "p\xE1jaro, ave, _Aves_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "kwasilexi - Espanisa (pio), Portugalsa (piu), Ceskisa (p\xEDp), Latvisa
+    (\u010Diu), Doycisa (piep), Exkiperisa (ciu), Elinisa (\u03C4\u03C3\u03AF\u03BF\u03C5
+    \u201Ctsiu\u201D), Ivrisa (\u05E6\u05B4\u05D9\u05BC\u05D5\u05BC\u05E5\u200E \u201Ctsiy\xFAts\u201D),
+    Niponsa (\u30D4\u30E8 \u201Cpiyo\u201D)"
+...

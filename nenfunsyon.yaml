@@ -1,0 +1,48 @@
+---
+term: nenfunsyon
+slug: nenfunsyon
+ipa: "nenfun\u02C8sjon"
+ipa link: "http://ipa-reader.xyz/?text=nenfun\u02C8sjon&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - break (_cause to not function_)
+  epo:
+  - - nefunkciigo
+  - - nefunkciigi
+  spa:
+  - - descomponer (_causar que no funcione_)
+search terms:
+  glb:
+  - nenfunsyon
+  eng:
+  - break
+  epo:
+  - nefunkciigo
+  - nefunkciigi
+  spa:
+  - descomponer
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/funsyon">funsyon</a>
+raw data:
+  term: nenfunsyon
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: break (_cause to not function_)
+    epo: nefunkciigo; nefunkciigi
+    spa: descomponer (_causar que no funcione_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + funsyon
+...

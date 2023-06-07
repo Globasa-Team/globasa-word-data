@@ -1,0 +1,65 @@
+---
+term: awsenti
+slug: awsenti
+ipa: awˈsenti
+ipa link: http://ipa-reader.xyz/?text=awˈsenti&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - absent
+    - away
+    - gone
+  epo:
+  - - foresta
+    - malesta
+  - - foreste
+    - maleste
+  spa:
+  - - ausente
+search terms:
+  glb:
+  - awsenti
+  eng:
+  - absent
+  - away
+  - gone
+  epo:
+  - foresta
+  - malesta
+  - foreste
+  - maleste
+  spa:
+  - ausente
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - absent
+    - away
+  Fransesa:
+  - - absent
+  Espanisa:
+  - - ausente
+antonyms:
+- presenti
+raw data:
+  term: awsenti
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: absent, away, gone
+    epo: foresta, malesta; foreste, maleste
+    spa: ausente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: presenti
+  example: ""
+  tags: ""
+  etymology: Englisa (absent, away), Fransesa (absent), Espanisa (ausente)
+...

@@ -1,0 +1,62 @@
+---
+term: bahari
+slug: bahari
+ipa: baˈxaɾi
+ipa link: http://ipa-reader.xyz/?text=baˈxaɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sea
+    - ocean
+  epo:
+  - - maro
+    - oceano
+  spa:
+  - - mar
+    - océano
+search terms:
+  glb:
+  - bahari
+  eng:
+  - sea
+  - ocean
+  epo:
+  - maro
+  - oceano
+  spa:
+  - mar
+  - océano
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - بحر “bahr”
+  Swahilisa:
+  - - bahari
+  Parsisa:
+  - - بحر “bahr”
+tags:
+- geografi
+synonyms:
+- daybahari
+raw data:
+  term: bahari
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sea, ocean
+    epo: maro, oceano
+    spa: mar, océano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: daybahari
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: Arabisa (بحر “bahr”), Swahilisa (bahari), Parsisa (بحر “bahr”)
+...

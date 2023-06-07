@@ -1,0 +1,48 @@
+---
+term: jujwe
+slug: jujwe
+ipa: "\u02C8d\u0361\u0292ud\u0361\u0292we"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ud\u0361\u0292we&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - chew
+  epo:
+  - - "ma\u0109o"
+  - - "ma\u0109i"
+  spa:
+  - - masticar
+search terms:
+  glb:
+  - jujwe
+  eng:
+  - chew
+  epo:
+  - "ma\u0109o"
+  - "ma\u0109i"
+  spa:
+  - masticar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jujwe
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: chew
+    epo: "ma\u0109o; ma\u0109i"
+    spa: masticar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u5480\u56BC \u201Cj\u01D4ju\xE9\u201D)"
+...

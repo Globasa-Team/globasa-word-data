@@ -1,0 +1,56 @@
+---
+term: ekonomi
+slug: ekonomi
+ipa: ekoˈnomi
+ipa link: http://ipa-reader.xyz/?text=ekoˈnomi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - economy
+  epo:
+  - - ekonomio
+  spa:
+  - - economía
+search terms:
+  glb:
+  - ekonomi
+  eng:
+  - economy
+  epo:
+  - ekonomio
+  spa:
+  - economía
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - economy
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Turkisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+raw data:
+  term: ekonomi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: economy
+    epo: ekonomio
+    spa: economía
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (economy), Fransesa, Doycisa, Rusisa, Espanisa, Turkisa, Indonesisa,
+    Pilipinasa
+...

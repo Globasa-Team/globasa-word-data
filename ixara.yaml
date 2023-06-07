@@ -1,0 +1,83 @@
+---
+term: ixara
+slug: ixara
+ipa: "i\u02C8\u0283a\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8\u0283a\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - sign
+    - signal
+    - indication
+  - - signal
+    - indicate
+    - point (to)
+    - sign (_language_)
+  epo:
+  - - signo
+    - "signa\u0135o"
+    - signalo
+    - indiko
+    - indikilo
+  - - signi
+    - signali
+    - indiki
+  spa:
+  - - "se\xF1al"
+    - indicio
+    - signo
+  - - "se\xF1alar"
+    - indicar
+    - "comunicar por se\xF1as"
+search terms:
+  glb:
+  - ixara
+  eng:
+    0: sign
+    1: signal
+    2: indication
+    4: indicate
+    5: point to
+    6: point
+  epo:
+  - signo
+  - "signa\u0135o"
+  - signalo
+  - indiko
+  - indikilo
+  - signi
+  - signali
+  - indiki
+  spa:
+  - "se\xF1al"
+  - indicio
+  - signo
+  - "se\xF1alar"
+  - indicar
+  - "comunicar por se\xF1as"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ixara
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: sign, signal, indication; signal, indicate, point (to), sign (_language_)
+    epo: "signo, signa\u0135o, signalo, indiko, indikilo; signi, signali, indiki"
+    spa: "se\xF1al, indicio, signo; se\xF1alar, indicar, comunicar por se\xF1as"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0625\u0650\u0634\u064E\u0627\u0631\u064E\u0629 \u201Cishara\u201D),
+    Hindisa (\u0907\u0936\u093E\u0930\u093E \u201Cishaara\u201D), Indonesisa (isyarat),
+    Swahilisa (ishara), Turkisa (i\u015Faret)"
+...

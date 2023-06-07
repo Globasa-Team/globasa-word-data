@@ -1,0 +1,73 @@
+---
+term: xahu
+slug: xahu
+ipa: "\u02C8\u0283axu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283axu&voice=Ewa"
+status: true
+category: root
+word class: il
+trans:
+  eng:
+  - - check (_chess_)
+  epo:
+  - - "\u015Dak"
+    - "\u015Dakon"
+  spa:
+  - - jaque
+search terms:
+  glb:
+  - xahu
+  eng:
+  - check
+  epo:
+  - "\u015Dak"
+  - "\u015Dakon"
+  spa:
+  - jaque
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - check
+  Espanisa:
+  - - jaque
+  Fransesa:
+  - - "\xE9chec"
+  Rusisa:
+  - - "\u0448\u0430\u0445 \u201Cxah\u201D"
+  Doycisa:
+  - - Schach
+  Indonesisa:
+  - - skak
+  Hindisa:
+  - - "\u0936\u0939 \u201Cxah\u201D"
+  Niponsa:
+  - - "\u30C1\u30A7\u30C3\u30AF \u201Cceku\u201D"
+  Turkisa:
+  - - "\u015Fah"
+  Hangusa:
+  - - "\uCCB4\uD06C \u201Cceku\u201D"
+  Parsisa:
+  - - "\u0634\u0627\u0647 \u201Cxah\u201D"
+raw data:
+  term: xahu
+  category: root
+  word class: il
+  status: true
+  trans:
+    eng: check (_chess_)
+    epo: "\u015Dak, \u015Dakon"
+    spa: jaque
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (check), Espanisa (jaque), Fransesa (\xE9chec), Rusisa (\u0448\u0430\u0445
+    \u201Cxah\u201D), Doycisa (Schach), Indonesisa (skak), Hindisa (\u0936\u0939 \u201Cxah\u201D),
+    Niponsa (\u30C1\u30A7\u30C3\u30AF \u201Cceku\u201D), Turkisa (\u015Fah), Hangusa
+    (\uCCB4\uD06C \u201Cceku\u201D), Parsisa (\u0634\u0627\u0647 \u201Cxah\u201D)"
+...

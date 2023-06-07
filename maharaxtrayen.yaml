@@ -1,0 +1,49 @@
+---
+term: maharaxtrayen
+slug: maharaxtrayen
+ipa: "maxa\u027Ea\u0283t\u027Ea\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=maxa\u027Ea\u0283t\u027Ea\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Marathi (person)
+  epo:
+  - - marato
+    - maratho
+  spa:
+  - - marati (_persona_)
+search terms:
+  glb:
+  - maharaxtrayen
+  eng:
+  - marathi person
+  - marathi
+  epo:
+  - marato
+  - maratho
+  spa:
+  - marati
+etymology_type: DERIVD
+etymology: <a href="../lexi/Maharaxtra">Maharaxtra</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Maharaxtrayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Marathi (person)
+    epo: marato, maratho
+    spa: marati (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Maharaxtra + -yen
+...

@@ -1,0 +1,63 @@
+---
+term: mumu
+slug: mumu
+ipa: "\u02C8mumu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mumu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cattle
+    - bull
+    - cow
+    - _Bos_
+  epo:
+  - - bovo
+    - bovino
+  spa:
+  - - res
+    - vaca
+    - toro
+    - _Bos_
+search terms:
+  glb:
+  - mumu
+  eng:
+  - cattle
+  - bull
+  - cow
+  - bos
+  epo:
+  - bovo
+  - bovino
+  spa:
+  - res
+  - vaca
+  - toro
+  - bos
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: mumu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cattle, bull, cow, _Bos_
+    epo: bovo, bovino
+    spa: res, vaca, toro, _Bos_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: kwasilexi - Arabisa, Putunhwa, Fransesa, Doycisa, Englisa ( ), Hindisa,
+    Indonesisa, Niponsa, Rusisa, Espanisa, Turkisa
+...

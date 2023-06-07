@@ -1,0 +1,64 @@
+---
+term: generasi
+slug: generasi
+ipa: geneˈɾasi
+ipa link: http://ipa-reader.xyz/?text=geneˈɾasi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - generation
+  epo:
+  - - generacio
+  spa:
+  - - generación
+search terms:
+  glb:
+  - generasi
+  eng:
+  - generation
+  epo:
+  - generacio
+  spa:
+  - generación
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Generation
+  Englisa:
+  - - generation
+  Espanisa:
+  - - generación
+  Fransesa:
+  - - génération
+  Rusisa:
+  - - генерация “generatsya”
+  Indonesisa:
+  - - generasi
+  Pilipinasa:
+  - - henerasyon
+  Turkisa:
+  - - jenerasyon
+raw data:
+  term: generasi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: generation
+    epo: generacio
+    spa: generación
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Generation), Englisa (generation), Espanisa (generación), Fransesa
+    (génération), Rusisa (генерация “generatsya”), Indonesisa (generasi), Pilipinasa
+    (henerasyon), Turkisa (jenerasyon)
+...

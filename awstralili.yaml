@@ -1,0 +1,48 @@
+---
+term: awstralili
+slug: awstralili
+ipa: "awst\u027Ea\u02C8lili"
+ipa link: "http://ipa-reader.xyz/?text=awst\u027Ea\u02C8lili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Australian
+  epo:
+  - - "a\u016Dstralia"
+  - - "a\u016Dstralie"
+  spa:
+  - - australiano
+search terms:
+  glb:
+  - awstralili
+  eng:
+  - australian
+  epo:
+  - "a\u016Dstralia"
+  - "a\u016Dstralie"
+  spa:
+  - australiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Awstrali">Awstrali</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Awstralili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Australian
+    epo: "a\u016Dstralia; a\u016Dstralie"
+    spa: australiano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Awstrali + -li
+...

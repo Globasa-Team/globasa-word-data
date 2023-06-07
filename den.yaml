@@ -1,0 +1,58 @@
+---
+term: den
+slug: den
+ipa: ˈden
+ipa link: http://ipa-reader.xyz/?text=ˈden&voice=Ewa
+status: true
+category: root
+word class: d
+trans:
+  eng:
+  - - that
+    - those
+    - the [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+  epo:
+  - - tiu
+    - ti- [korelativa]
+  spa:
+  - - ese
+    - aquel
+    - el
+search terms:
+  glb:
+  - den
+  eng:
+  - that
+  - those
+  - the
+  epo:
+  - tiu
+  - ti- [korelativa]
+  spa:
+  - ese
+  - aquel
+  - el
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - den
+raw data:
+  term: den
+  category: root
+  word class: d
+  status: true
+  trans:
+    eng: that, those, the [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+    epo: tiu, ti- [korelativa]
+    spa: ese, aquel, el
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (den)
+...

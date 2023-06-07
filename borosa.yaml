@@ -1,0 +1,54 @@
+---
+term: borosa
+slug: borosa
+ipa: "bo\u02C8\u027Eosa"
+ipa link: "http://ipa-reader.xyz/?text=bo\u02C8\u027Eosa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Boro
+    - Bodo (language)
+  epo:
+  - - la bodoa (lingvo)
+  spa:
+  - - bodo
+    - boro (_idioma_)
+search terms:
+  glb:
+  - borosa
+  eng:
+  - boro
+  - bodo language
+  - bodo
+  epo:
+  - la bodoa lingvo
+  - la bodoa
+  spa:
+  - bodo
+  - boro
+etymology_type: DERIVD
+etymology: <a href="../lexi/Boro">Boro</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Borosa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Boro, Bodo (language)
+    epo: la bodoa (lingvo)
+    spa: bodo, boro (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Boro + -sa
+...

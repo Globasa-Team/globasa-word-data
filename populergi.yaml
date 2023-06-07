@@ -1,0 +1,48 @@
+---
+term: populergi
+slug: populergi
+ipa: "popu\u02C8le\u027Egi"
+ipa link: "http://ipa-reader.xyz/?text=popu\u02C8le\u027Egi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - popularize
+  epo:
+  - - popularigo
+  - - popularigi
+  spa:
+  - - popularizar
+search terms:
+  glb:
+  - populergi
+  eng:
+  - popularize
+  epo:
+  - popularigo
+  - popularigi
+  spa:
+  - popularizar
+etymology_type: DERIVD
+etymology: <a href="../lexi/populer">populer</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: populergi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: popularize
+    epo: popularigo; popularigi
+    spa: popularizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: populer + -gi
+...

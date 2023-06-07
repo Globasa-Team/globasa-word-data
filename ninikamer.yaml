@@ -1,0 +1,50 @@
+---
+term: ninikamer
+slug: ninikamer
+ipa: "ninika\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ninika\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - nursery
+    - children's room
+  epo:
+  - - infanejo
+    - vartejo
+  spa:
+  - - "cuarto de ni\xF1os"
+search terms:
+  glb:
+  - ninikamer
+  eng:
+  - nursery
+  - children's room
+  epo:
+  - infanejo
+  - vartejo
+  spa:
+  - "cuarto de ni\xF1os"
+etymology_type: DERIVD
+etymology: <a href="../lexi/nini">nini</a> + <a href="../lexi/-kamer">-kamer</a>
+raw data:
+  term: ninikamer
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: nursery, children's room
+    epo: infanejo, vartejo
+    spa: "cuarto de ni\xF1os"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nini + -kamer
+...

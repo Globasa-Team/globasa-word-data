@@ -1,0 +1,50 @@
+---
+term: he bankwanti
+slug: he bankwanti
+ipa: "\u02C8xe ban\u02C8kwanti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe ban\u02C8kwanti&voice=Ewa"
+status: false
+category: phrase
+word class: t
+trans:
+  eng:
+  - - any amount of
+    - any quantity of
+  epo:
+  - - iom ajn
+  spa:
+  - - cualquier cantidad de
+search terms:
+  glb:
+  - he bankwanti
+  - he
+  - bankwanti
+  eng:
+  - any amount of
+  - any quantity of
+  epo:
+  - iom ajn
+  spa:
+  - cualquier cantidad de
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/ban-">ban-</a> + <a href="../lexi/kwanti">kwanti</a>
+raw data:
+  term: he bankwanti
+  category: phrase
+  word class: t
+  status: false
+  trans:
+    eng: any amount of, any quantity of
+    epo: iom ajn
+    spa: cualquier cantidad de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, ban- + kwanti
+...

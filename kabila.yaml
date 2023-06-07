@@ -1,0 +1,48 @@
+---
+term: kabila
+slug: kabila
+ipa: "ka\u02C8bila"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8bila&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tribe
+  epo:
+  - - tribo
+  spa:
+  - - tribu
+search terms:
+  glb:
+  - kabila
+  eng:
+  - tribe
+  epo:
+  - tribo
+  spa:
+  - tribu
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kabila
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tribe
+    epo: tribo
+    spa: tribu
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u064E\u0628\u0650\u064A\u0644\u064E\u0629 \u201Ckabila\u201D),
+    Turkisa (kabile), Parsisa (\u0642\u0628\u06CC\u0644\u0647 \u201Ckabile\u201D),
+    Swahilisa (kabila)"
+...

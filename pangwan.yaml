@@ -1,0 +1,63 @@
+---
+term: pangwan
+slug: pangwan
+ipa: "pan\u02C8gwan"
+ipa link: "http://ipa-reader.xyz/?text=pan\u02C8gwan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bladder
+    - sac
+    - vesica
+    - cyst-
+  epo:
+  - - veziko
+    - cisto
+  spa:
+  - - vejiga
+    - "ves\xEDcula"
+search terms:
+  glb:
+  - pangwan
+  eng:
+  - bladder
+  - sac
+  - vesica
+  - cyst-
+  epo:
+  - veziko
+  - cisto
+  spa:
+  - vejiga
+  - "ves\xEDcula"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u8180\u80F1 \u201Cpangguang\u201D"
+  Hangusa:
+  - - "\uBC29\uAD11 \u201Cbanggwang\u201D"
+  Vyetnamsa:
+  - - "b\xE0ng quang"
+raw data:
+  term: pangwan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bladder, sac, vesica, cyst-
+    epo: veziko, cisto
+    spa: "vejiga, ves\xEDcula"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u8180\u80F1 \u201Cpangguang\u201D), Hangusa (\uBC29\uAD11
+    \u201Cbanggwang\u201D), Vyetnamsa (b\xE0ng quang)"
+...

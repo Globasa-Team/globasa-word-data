@@ -1,0 +1,50 @@
+---
+term: gana
+slug: gana
+ipa: "\u02C8gana"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8gana&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Ghana
+  epo:
+  - - Ganao
+  spa:
+  - - Ghana
+search terms:
+  glb:
+  - gana
+  eng:
+  - ghana
+  epo:
+  - ganao
+  spa:
+  - ghana
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Ghana
+tags:
+- dexa
+raw data:
+  term: Gana
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Ghana
+    epo: Ganao
+    spa: Ghana
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Ghana)
+...

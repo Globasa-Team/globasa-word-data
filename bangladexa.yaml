@@ -1,0 +1,50 @@
+---
+term: bangladexa
+slug: bangladexa
+ipa: "bangla\u02C8de\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=bangla\u02C8de\u0283a&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Bangladesh
+  epo:
+  - - "Banglade\u015Do"
+  spa:
+  - - "Banglad\xE9s"
+search terms:
+  glb:
+  - bangladexa
+  eng:
+  - bangladesh
+  epo:
+  - "banglade\u015Do"
+  spa:
+  - "banglad\xE9s"
+etymology_type: NATLNG
+etymology:
+  Bangla + dexa: ~
+  Banglasa:
+  - - "\u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u201CBa\u1E45lade\u015B\u201D"
+raw data:
+  term: Bangladexa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Bangladesh
+    epo: "Banglade\u015Do"
+    spa: "Banglad\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Bangla + dexa, Banglasa (\u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6
+    \u201CBa\u1E45lade\u015B\u201D)"
+...

@@ -1,0 +1,52 @@
+---
+term: hinmo
+slug: hinmo
+ipa: "\u02C8xinmo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xinmo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - to this degree
+    - this
+    - yay
+    - yea
+  epo:
+  - - "\u0109i tiom"
+  spa:
+  - - a este grado
+search terms:
+  glb:
+  - hinmo
+  eng:
+  - to this degree
+  - this
+  - yay
+  - yea
+  epo:
+  - "\u0109i tiom"
+  spa:
+  - a este grado
+etymology_type: DERIVD
+etymology: <a href="../lexi/hin">hin</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: hinmo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: to this degree, this, yay, yea
+    epo: "\u0109i tiom"
+    spa: a este grado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hin + -mo
+...

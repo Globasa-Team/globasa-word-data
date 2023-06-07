@@ -1,0 +1,50 @@
+---
+term: logikali
+slug: logikali
+ipa: "logi\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=logi\u02C8kali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - logical
+    - logically
+  epo:
+  - - logika
+  - - logike
+  spa:
+  - - "l\xF3gico"
+search terms:
+  glb:
+  - logikali
+  eng:
+  - logical
+  - logically
+  epo:
+  - logika
+  - logike
+  spa:
+  - "l\xF3gico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/logika">logika</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: logikali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: logical, logically
+    epo: logika; logike
+    spa: "l\xF3gico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: logika + -li
+...

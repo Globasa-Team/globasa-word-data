@@ -1,0 +1,48 @@
+---
+term: lubilaye
+slug: lubilaye
+ipa: "lubi\u02C8laje"
+ipa link: "http://ipa-reader.xyz/?text=lubi\u02C8laje&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - lovable
+  epo:
+  - - aminda
+  - - aminde
+  spa:
+  - - amable
+search terms:
+  glb:
+  - lubilaye
+  eng:
+  - lovable
+  epo:
+  - aminda
+  - aminde
+  spa:
+  - amable
+etymology_type: DERIVD
+etymology: <a href="../lexi/lubi">lubi</a> + <a href="../lexi/-laye">-laye</a>
+raw data:
+  term: lubilaye
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: lovable
+    epo: aminda; aminde
+    spa: amable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lubi + -laye
+...

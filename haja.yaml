@@ -1,0 +1,63 @@
+---
+term: haja
+slug: haja
+ipa: ˈxad͡ʒa
+ipa link: http://ipa-reader.xyz/?text=ˈxad͡ʒa&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - necessity
+    - need
+    - want
+  - - need
+  epo:
+  - - bezono
+    - necesaĵo
+  - - bezoni
+  spa:
+  - - necesidad
+  - - necesitar
+search terms:
+  glb:
+  - haja
+  eng:
+  - necessity
+  - need
+  - want
+  epo:
+  - bezono
+  - necesaĵo
+  - bezoni
+  spa:
+  - necesidad
+  - necesitar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - حاجة “haja”
+  Swahilisa:
+  - - haja
+  Parsisa:
+  - - حاجت “hâjat”
+raw data:
+  term: haja
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: necessity, need, want; need
+    epo: bezono, necesaĵo; bezoni
+    spa: necesidad; necesitar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (حاجة “haja”), Swahilisa (haja), Parsisa (حاجت “hâjat”)
+...

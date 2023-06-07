@@ -1,0 +1,51 @@
+---
+term: jeruhili
+slug: jeruhili
+ipa: "d\u0361\u0292e\u027Eu\u02C8xili"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292e\u027Eu\u02C8xili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - surgical
+  epo:
+  - - "\u0125irurgia"
+    - kirurgie
+  - - "\u0125irurgie"
+    - kirurgie
+  spa:
+  - - "quir\xFArgico"
+search terms:
+  glb:
+  - jeruhili
+  eng:
+  - surgical
+  epo:
+  - "\u0125irurgia"
+  - kirurgie
+  - "\u0125irurgie"
+  spa:
+  - "quir\xFArgico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/jeruhi">jeruhi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: jeruhili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: surgical
+    epo: "\u0125irurgia, kirurgie; \u0125irurgie, kirurgie"
+    spa: "quir\xFArgico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jeruhi + -li
+...

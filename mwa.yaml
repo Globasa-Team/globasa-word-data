@@ -1,0 +1,59 @@
+---
+term: mwa
+slug: mwa
+ipa: "\u02C8mwa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mwa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - kiss
+  epo:
+  - - kiso
+  - - kisi
+  spa:
+  - - beso
+  - - besar
+search terms:
+  glb:
+  - mwa
+  eng:
+  - kiss
+  epo:
+  - kiso
+  - kisi
+  spa:
+  - beso
+  - besar
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Arabisa: ~
+  Englisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Hindisa: ~
+  Indonesisa: ~
+  Espanisa: ~
+  Pilipinasa: ~
+raw data:
+  term: mwa
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: kiss
+    epo: kiso; kisi
+    spa: beso; besar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwasilexi - Arabisa, Englisa ( ), Fransesa, Doycisa, Hindisa, Indonesisa,
+    Espanisa, Pilipinasa
+...

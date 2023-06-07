@@ -1,0 +1,46 @@
+---
+term: duabioyen
+slug: duabioyen
+ipa: "duabio\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=duabio\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - amphibian
+  epo:
+  - - amfibio
+  spa:
+  - - anfibio
+search terms:
+  glb:
+  - duabioyen
+  eng:
+  - amphibian
+  epo:
+  - amfibio
+  spa:
+  - anfibio
+etymology_type: DERIVD
+etymology: <a href="../lexi/dua">dua</a> + <a href="../lexi/bioyen">bioyen</a>
+raw data:
+  term: duabioyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: amphibian
+    epo: amfibio
+    spa: anfibio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dua + bioyen
+...

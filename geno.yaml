@@ -1,0 +1,48 @@
+---
+term: geno
+slug: geno
+ipa: ˈgeno
+ipa link: http://ipa-reader.xyz/?text=ˈgeno&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - root
+  epo:
+  - - radiko
+  spa:
+  - - raíz
+search terms:
+  glb:
+  - geno
+  eng:
+  - root
+  epo:
+  - radiko
+  spa:
+  - raíz
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 根 “gēn”
+raw data:
+  term: geno
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: root
+    epo: radiko
+    spa: raíz
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (根 “gēn”)
+...

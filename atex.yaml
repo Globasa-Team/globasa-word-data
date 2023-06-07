@@ -1,0 +1,72 @@
+---
+term: atex
+slug: atex
+ipa: aˈteʃ
+ipa link: http://ipa-reader.xyz/?text=aˈteʃ&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - fire
+  - - burn (_be on fire
+    - be consumed by fire
+    - destroy with fire_)
+    - light (_with fire_)
+  epo:
+  - - fajro
+  - - fajri (_konsumiĝi de fajro_)
+    - ekbruligi (_per fajro_)
+  spa:
+  - - fuego
+  - - prender
+    - prenderse
+search terms:
+  glb:
+  - atex
+  eng:
+  - fire
+  - burn be on fire
+  - burn (_be on fire
+  - be consumed by fire
+  - destroy with fire
+  - light
+  epo:
+  - fajro
+  - fajri
+  - ekbruligi
+  spa:
+  - fuego
+  - prender
+  - prenderse
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - آتش “âtaš”
+  Turkisa:
+  - - ateş
+  Hindisa:
+  - - आतिश “ātiś”
+tags:
+- natura
+raw data:
+  term: atex
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: fire; burn (_be on fire, be consumed by fire, destroy with fire_), light
+      (_with fire_)
+    epo: fajro; fajri (_konsumiĝi de fajro_), ekbruligi (_per fajro_)
+    spa: fuego; prender, prenderse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: natura
+  etymology: Parsisa (آتش “âtaš”), Turkisa (ateş), Hindisa (आतिश “ātiś”)
+...

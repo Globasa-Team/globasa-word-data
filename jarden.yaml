@@ -1,0 +1,48 @@
+---
+term: jarden
+slug: jarden
+ipa: "d\u0361\u0292a\u027E\u02C8den"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u027E\u02C8den&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - garden
+  epo:
+  - - "\u011Dardeno"
+  spa:
+  - - "jard\xEDn"
+search terms:
+  glb:
+  - jarden
+  eng:
+  - garden
+  epo:
+  - "\u011Dardeno"
+  spa:
+  - "jard\xEDn"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- dom
+raw data:
+  term: jarden
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: garden
+    epo: "\u011Dardeno"
+    spa: "jard\xEDn"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dom
+  etymology: Englisa (garden), Fransesa (jardin), Doycisa (Garten), Espanisa (jardin)
+...

@@ -1,0 +1,48 @@
+---
+term: amerikayen
+slug: amerikayen
+ipa: "ame\u027Eika\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=ame\u027Eika\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - North American
+    - South American
+  epo:
+  - - Amerikano (_ne Usonano_)
+  spa:
+  - - americano (_persona_)
+search terms:
+  glb:
+  - amerikayen
+  eng:
+  - north american
+  - south american
+  epo:
+  - amerikano
+  spa:
+  - americano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Amerika">Amerika</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Amerikayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: North American, South American
+    epo: Amerikano (_ne Usonano_)
+    spa: americano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Amerika + -yen
+...

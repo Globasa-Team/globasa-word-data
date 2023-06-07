@@ -1,0 +1,81 @@
+---
+term: protokol
+slug: protokol
+ipa: "p\u027Eoto\u02C8kol"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eoto\u02C8kol&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - protocol (_computing_)
+  epo:
+  - - protokolo
+  spa:
+  - - protocolo
+search terms:
+  glb:
+  - protokol
+  eng:
+  - protocol
+  epo:
+  - protokolo
+  spa:
+  - protocolo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - protocol
+  Espanisa:
+  - - protocolo
+  Fransesa:
+  - - protocole
+  Rusisa:
+  - - "\u043F\u0440\u043E\u0442\u043E\u043A\u043E\u0301\u043B \"protokol\""
+  Doycisa:
+  - - Protokoll
+  Indonesisa:
+  - - protokol
+  Pilipinasa:
+  - - protokol
+  Hindisa:
+  - - "\u092A\u094D\u0930\u094B\u091F\u094B\u0915\u0949\u0932 \"pro\u1E6Dok\u014Fl\""
+  Arabisa:
+  - - "\u0628\u0652\u0631\u064F\u0648\u062A\u064F\u0648\u0643\u064F\u0648\u0644 \"brotok\u014Dl\""
+  Niponsa:
+  - - "\u30D7\u30ED\u30C8\u30B3\u30EB \"purotokoru\""
+  Telugusa:
+  - - "\u0C2A\u0C4D\u0C30\u0C4B\u0C1F\u0C4B\u0C15\u0C3E\u0C32\u0C4D \"protokal\""
+  Turkisa:
+  - - protokol
+  Hangusa:
+  - - "\uD504\uB85C\uD1A0\uCF5C \"purotokol\""
+  Parsisa:
+  - - "\u067E\u0631\u0648\u062A\u06A9\u0644 \"por\xF4tokol\""
+raw data:
+  term: protokol
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: protocol (_computing_)
+    epo: protokolo
+    spa: protocolo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (protocol), Espanisa (protocolo), Fransesa (protocole), Rusisa
+    (\u043F\u0440\u043E\u0442\u043E\u043A\u043E\u0301\u043B \"protokol\"), Doycisa
+    (Protokoll), Indonesisa (protokol), Pilipinasa (protokol), Hindisa (\u092A\u094D\u0930\u094B\u091F\u094B\u0915\u0949\u0932
+    \"pro\u1E6Dok\u014Fl\"), Arabisa (\u0628\u0652\u0631\u064F\u0648\u062A\u064F\u0648\u0643\u064F\u0648\u0644
+    \"brotok\u014Dl\"), Niponsa (\u30D7\u30ED\u30C8\u30B3\u30EB \"purotokoru\"), Telugusa
+    (\u0C2A\u0C4D\u0C30\u0C4B\u0C1F\u0C4B\u0C15\u0C3E\u0C32\u0C4D \"protokal\"), Turkisa
+    (protokol), Hangusa (\uD504\uB85C\uD1A0\uCF5C \"purotokol\"), Parsisa (\u067E\u0631\u0648\u062A\u06A9\u0644
+    \"por\xF4tokol\")"
+...

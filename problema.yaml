@@ -1,0 +1,64 @@
+---
+term: problema
+slug: problema
+ipa: "p\u027Eo\u02C8blema"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eo\u02C8blema&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - problem
+    - trouble
+  epo:
+  - - problemo
+  spa:
+  - - problema
+search terms:
+  glb:
+  - problema
+  eng:
+  - problem
+  - trouble
+  epo:
+  - problemo
+  spa:
+  - problema
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - problem
+  Doycisa:
+  - - Problem
+  Fransesa:
+  - - "probl\xE8me"
+  Espanisa:
+  - - problema
+  Rusisa:
+  - - "\u043F\u0440\u043E\u0431\u043B\u0435\u043C\u0430 \u201Cproblema\u201D"
+  Turkisa:
+  - - problem
+  Pilipinasa:
+  - - problema
+raw data:
+  term: problema
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: problem, trouble
+    epo: problemo
+    spa: problema
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (problem), Doycisa (Problem), Fransesa (probl\xE8me), Espanisa
+    (problema), Rusisa (\u043F\u0440\u043E\u0431\u043B\u0435\u043C\u0430 \u201Cproblema\u201D),
+    Turkisa (problem), Pilipinasa (problema)"
+...

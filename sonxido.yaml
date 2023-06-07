@@ -1,0 +1,49 @@
+---
+term: sonxido
+slug: sonxido
+ipa: "son\u02C8\u0283ido"
+ipa link: "http://ipa-reader.xyz/?text=son\u02C8\u0283ido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - lost
+  epo:
+  - - perdita
+    - maltrovita
+  - - ""
+  spa:
+  - - perdido
+search terms:
+  glb:
+  - sonxido
+  eng:
+  - lost
+  epo:
+  - perdita
+  - maltrovita
+  spa:
+  - perdido
+etymology_type: DERIVD
+etymology: <a href="../lexi/sonxi">sonxi</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: sonxido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: lost
+    epo: 'perdita, maltrovita; '
+    spa: perdido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sonxi + -do
+...

@@ -1,0 +1,58 @@
+---
+term: yanlyo
+slug: yanlyo
+ipa: "\u02C8janljo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8janljo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fuel
+  epo:
+  - - fuelo
+    - "bruliga\u0135o"
+  spa:
+  - - combustible
+search terms:
+  glb:
+  - yanlyo
+  eng:
+  - fuel
+  epo:
+  - fuelo
+  - "bruliga\u0135o"
+  spa:
+  - combustible
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u71C3\u6599 \u201Cranlyaw\u201D"
+  Hangusa:
+  - - "\uC5F0\uB8CC \u201Cyanlyo\u201D"
+  Niponsa:
+  - - "\u71C3\u6599 \u201Cnenryo\u201D"
+  Vyetnamsa:
+  - - "nhi\xEAn li\u1EC7u \u201Cnyen lyew\u201D"
+raw data:
+  term: yanlyo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fuel
+    epo: "fuelo, bruliga\u0135o"
+    spa: combustible
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u71C3\u6599 \u201Cranlyaw\u201D), Hangusa (\uC5F0\uB8CC \u201Cyanlyo\u201D),
+    Niponsa (\u71C3\u6599 \u201Cnenryo\u201D), Vyetnamsa (nhi\xEAn li\u1EC7u \u201Cnyen
+    lyew\u201D)"
+...

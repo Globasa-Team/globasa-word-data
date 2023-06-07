@@ -1,0 +1,46 @@
+---
+term: bijamosem
+slug: bijamosem
+ipa: "bid\u0361\u0292amo\u02C8sem"
+ipa link: "http://ipa-reader.xyz/?text=bid\u0361\u0292amo\u02C8sem&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - spring
+  epo:
+  - - printempo
+  spa:
+  - - primavera
+search terms:
+  glb:
+  - bijamosem
+  eng:
+  - spring
+  epo:
+  - printempo
+  spa:
+  - primavera
+etymology_type: DERIVD
+etymology: <a href="../lexi/bija">bija</a> + <a href="../lexi/-mosem">-mosem</a>
+raw data:
+  term: bijamosem
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: spring
+    epo: printempo
+    spa: primavera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bija + -mosem
+...

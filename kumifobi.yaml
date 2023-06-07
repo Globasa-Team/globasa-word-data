@@ -1,0 +1,48 @@
+---
+term: kumifobi
+slug: kumifobi
+ipa: "kumi\u02C8fobi"
+ipa link: "http://ipa-reader.xyz/?text=kumi\u02C8fobi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - arachnophobia
+  epo:
+  - - araneofobio
+    - "ara\u0125nofobio"
+  spa:
+  - - aracnofobia
+search terms:
+  glb:
+  - kumifobi
+  eng:
+  - arachnophobia
+  epo:
+  - araneofobio
+  - "ara\u0125nofobio"
+  spa:
+  - aracnofobia
+etymology_type: DERIVD
+etymology: <a href="../lexi/kumi">kumi</a> + <a href="../lexi/-fobi">-fobi</a>
+raw data:
+  term: kumifobi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: arachnophobia
+    epo: "araneofobio, ara\u0125nofobio"
+    spa: aracnofobia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kumi + -fobi
+...

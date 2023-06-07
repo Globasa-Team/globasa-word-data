@@ -1,0 +1,78 @@
+---
+term: fiksyon
+slug: fiksyon
+ipa: fikˈsjon
+ipa link: http://ipa-reader.xyz/?text=fikˈsjon&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - fiction
+  - - make up
+    - fabricate
+  epo:
+  - - fikcio
+  - - fikcii
+    - elpensi
+  spa:
+  - - ficción
+  - - inventar
+    - falsificar
+search terms:
+  glb:
+  - fiksyon
+  eng:
+  - fiction
+  - make up
+  - fabricate
+  epo:
+  - fikcio
+  - fikcii
+  - elpensi
+  spa:
+  - ficción
+  - inventar
+  - falsificar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fiction
+  Fransesa: ~
+  Doycisa: ~
+  Espanisa:
+  - - ficcion
+  Rusisa:
+  - - фикшен “fikxen”
+  Indonesisa:
+  - - fiksi
+  Pilipinasa:
+  - - piksyon
+  Niponsa:
+  - - フィクション “fikuxon”
+  Telugusa:
+  - - ఫిక్షన్ “fikxan”
+  Hangusa:
+  - - 픽션 “piksyon”
+raw data:
+  term: fiksyon
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: fiction; make up, fabricate
+    epo: fikcio; fikcii, elpensi
+    spa: ficción; inventar, falsificar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (fiction), Fransesa, Doycisa, Espanisa (ficcion), Rusisa (фикшен
+    “fikxen”), Indonesisa (fiksi), Pilipinasa (piksyon), Niponsa (フィクション “fikuxon”),
+    Telugusa (ఫిక్షన్ “fikxan”), Hangusa (픽션 “piksyon”)
+...

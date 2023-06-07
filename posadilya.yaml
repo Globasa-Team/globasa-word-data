@@ -1,0 +1,47 @@
+---
+term: posadilya
+slug: posadilya
+ipa: "posa\u02C8dilja"
+ipa link: "http://ipa-reader.xyz/?text=posa\u02C8dilja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - injustice
+  epo:
+  - - maljusteco
+  spa:
+  - - injusticia
+search terms:
+  glb:
+  - posadilya
+  eng:
+  - injustice
+  epo:
+  - maljusteco
+  spa:
+  - injusticia
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/adil">adil</a> + <a
+  href="../lexi/-ya">-ya</a>
+raw data:
+  term: posadilya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: injustice
+    epo: maljusteco
+    spa: injusticia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + adil + -ya
+...

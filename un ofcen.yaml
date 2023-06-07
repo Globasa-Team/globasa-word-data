@@ -1,0 +1,52 @@
+---
+term: un ofcen
+slug: un ofcen
+ipa: "\u02C8un of\u02C8t\u0361\u0283en"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8un of\u02C8t\u0361\u0283en&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - one hundredth
+  epo:
+  - - centono
+  spa:
+  - - "un c\xE9ntimo"
+    - "una cent\xE9sima parte"
+    - uno por ciento
+search terms:
+  glb:
+  - un ofcen
+  - un
+  - ofcen
+  eng:
+  - one hundredth
+  epo:
+  - centono
+  spa:
+  - "un c\xE9ntimo"
+  - "una cent\xE9sima parte"
+  - uno por ciento
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a>, <a href="../lexi/of-">of-</a> + <a href="../lexi/cen">cen</a>
+raw data:
+  term: un ofcen
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: one hundredth
+    epo: centono
+    spa: "un c\xE9ntimo, una cent\xE9sima parte, uno por ciento"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un, of- + cen
+...

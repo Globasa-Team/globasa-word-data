@@ -1,0 +1,46 @@
+---
+term: ine
+slug: ine
+ipa: "\u02C8ine"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ine&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter n
+  epo:
+  - - litero n
+  spa:
+  - - letra n
+search terms:
+  glb:
+  - ine
+  eng:
+  - letter n
+  epo:
+  - litero n
+  spa:
+  - letra n
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ine
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter n
+    epo: litero n
+    spa: letra n
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

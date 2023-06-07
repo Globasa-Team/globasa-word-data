@@ -1,0 +1,63 @@
+---
+term: fenomen
+slug: fenomen
+ipa: fenoˈmen
+ipa link: http://ipa-reader.xyz/?text=fenoˈmen&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - phenomenon
+    - phenomena
+  epo:
+  - - fenomeno
+  spa:
+  - - fenómeno
+search terms:
+  glb:
+  - fenomen
+  eng:
+  - phenomenon
+  - phenomena
+  epo:
+  - fenomeno
+  spa:
+  - fenómeno
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Phänomen
+  Englisa:
+  - - phenomenon
+  Espanisa:
+  - - fenómeno
+  Fransesa:
+  - - phénomène
+  Rusisa:
+  - - феномен “fenomen”
+  Indonesisa:
+  - - fenomena
+  Turkisa:
+  - - fenomen
+raw data:
+  term: fenomen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: phenomenon, phenomena
+    epo: fenomeno
+    spa: fenómeno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Phänomen), Englisa (phenomenon), Espanisa (fenómeno), Fransesa
+    (phénomène), Rusisa (феномен “fenomen”), Indonesisa (fenomena), Turkisa (fenomen)
+...

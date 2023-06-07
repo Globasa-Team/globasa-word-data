@@ -1,0 +1,47 @@
+---
+term: malawiyen
+slug: malawiyen
+ipa: "malawi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=malawi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Malawian (person)
+  epo:
+  - - malaviano
+  spa:
+  - - "malau\xED (_persona_)"
+search terms:
+  glb:
+  - malawiyen
+  eng:
+  - malawian person
+  - malawian
+  epo:
+  - malaviano
+  spa:
+  - "malau\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Malawi">Malawi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Malawiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Malawian (person)
+    epo: malaviano
+    spa: "malau\xED (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Malawi + -yen
+...

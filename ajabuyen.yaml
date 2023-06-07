@@ -1,0 +1,62 @@
+---
+term: ajabuyen
+slug: ajabuyen
+ipa: "ad\u0361\u0292abu\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=ad\u0361\u0292abu\u02C8jen&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - oddball
+    - weirdo
+    - crank
+    - strange person
+  epo:
+  - - strangulo
+    - bizarulo
+    - kuriozulo
+  spa:
+  - - bicho raro
+    - "exc\xE9ntrico"
+    - tipo raro
+    - rarito
+search terms:
+  glb:
+  - ajabuyen
+  eng:
+  - oddball
+  - weirdo
+  - crank
+  - strange person
+  epo:
+  - strangulo
+  - bizarulo
+  - kuriozulo
+  spa:
+  - bicho raro
+  - "exc\xE9ntrico"
+  - tipo raro
+  - rarito
+etymology_type: DERIVD
+etymology: <a href="../lexi/ajabu">ajabu</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: ajabuyen
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: oddball, weirdo, crank, strange person
+    epo: strangulo, bizarulo, kuriozulo
+    spa: "bicho raro, exc\xE9ntrico, tipo raro, rarito"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ajabu + -yen
+...

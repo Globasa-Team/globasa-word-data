@@ -1,0 +1,51 @@
+---
+term: trendom
+slug: trendom
+ipa: "t\u027Een\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Een\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (train) station
+  epo:
+  - - trajnstacio
+    - fervoja stacio
+    - fervoja stacidomo
+  spa:
+  - - "estaci\xF3n de tren"
+search terms:
+  glb:
+  - trendom
+  eng:
+  - train station
+  - station
+  epo:
+  - trajnstacio
+  - fervoja stacio
+  - fervoja stacidomo
+  spa:
+  - "estaci\xF3n de tren"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tren">tren</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: trendom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (train) station
+    epo: trajnstacio, fervoja stacio, fervoja stacidomo
+    spa: "estaci\xF3n de tren"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tren + -dom
+...

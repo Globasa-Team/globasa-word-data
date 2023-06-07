@@ -1,0 +1,73 @@
+---
+term: roketi
+slug: roketi
+ipa: "\u027Eo\u02C8keti"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eo\u02C8keti&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rocket
+  epo:
+  - - raketo
+  spa:
+  - - cohete
+search terms:
+  glb:
+  - roketi
+  eng:
+  - rocket
+  epo:
+  - raketo
+  spa:
+  - cohete
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rocket
+    - rocketing
+  Rusisa:
+  - - "\u0440\u0430\u043A\u0435\u0442\u0430 \u201Craketa\u201D"
+  Doycisa:
+  - - Rakete
+  Indonesisa:
+  - - roket
+  Turkisa: ~
+  Hindisa:
+  - - "\u0930\u0949\u0915\u0947\u091F \u201Croket\u201D"
+  Niponsa:
+  - - "\u30ED\u30B1\u30C3\u30C8 \u201Croketo\u201D"
+  Telugusa:
+  - - "\u0C30\u0C3E\u0C15\u0C46\u0C1F\u0C4D \u201Craket\u201D"
+  Hangusa:
+  - - "\uB85C\uCF13 \u201Croket\u201D"
+  Parsisa:
+  - - "\u0631\u0627\u06A9\u062A \u201Craket\u201D"
+  Swahilisa:
+  - - roketi
+raw data:
+  term: roketi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rocket
+    epo: raketo
+    spa: cohete
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (rocket, rocketing), Rusisa (\u0440\u0430\u043A\u0435\u0442\u0430
+    \u201Craketa\u201D), Doycisa (Rakete), Indonesisa (roket), Turkisa, Hindisa (\u0930\u0949\u0915\u0947\u091F
+    \u201Croket\u201D), Niponsa (\u30ED\u30B1\u30C3\u30C8 \u201Croketo\u201D), Telugusa
+    (\u0C30\u0C3E\u0C15\u0C46\u0C1F\u0C4D \u201Craket\u201D), Hangusa (\uB85C\uCF13
+    \u201Croket\u201D), Parsisa (\u0631\u0627\u06A9\u062A \u201Craket\u201D), Swahilisa
+    (roketi)"
+...

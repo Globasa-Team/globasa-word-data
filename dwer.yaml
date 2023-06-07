@@ -1,0 +1,57 @@
+---
+term: dwer
+slug: dwer
+ipa: ˈdweɾ
+ipa link: http://ipa-reader.xyz/?text=ˈdweɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - door
+  epo:
+  - - pordo
+  spa:
+  - - puerta
+search terms:
+  glb:
+  - dwer
+  eng:
+  - door
+  epo:
+  - pordo
+  spa:
+  - puerta
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - द्वार “dvar”
+  Parsisa:
+  - - در “dar”
+  Rusisa:
+  - - дверь “dver”
+  Englisa:
+  - - door
+  Nederisa:
+  - - deur
+raw data:
+  term: dwer
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: door
+    epo: pordo
+    spa: puerta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (द्वार “dvar”), Parsisa (در “dar”), Rusisa (дверь “dver”), Englisa
+    (door), Nederisa (deur)
+...

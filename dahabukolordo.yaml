@@ -1,0 +1,52 @@
+---
+term: dahabukolordo
+slug: dahabukolordo
+ipa: "daxabuko\u02C8lo\u027Edo"
+ipa link: "http://ipa-reader.xyz/?text=daxabuko\u02C8lo\u027Edo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - gold
+    - golden (_color_)
+  epo:
+  - - orkolora
+  - - orkolore
+  spa:
+  - - dorado
+search terms:
+  glb:
+  - dahabukolordo
+  eng:
+  - gold
+  - golden
+  epo:
+  - orkolora
+  - orkolore
+  spa:
+  - dorado
+etymology_type: DERIVD
+etymology: <a href="../lexi/dahabu">dahabu</a> + <a href="../lexi/-kolordo">-kolordo</a>
+tags:
+- kolor
+raw data:
+  term: dahabukolordo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: gold, golden (_color_)
+    epo: orkolora; orkolore
+    spa: dorado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: dahabu + -kolordo
+...

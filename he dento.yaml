@@ -1,0 +1,48 @@
+---
+term: he dento
+slug: he dento
+ipa: "\u02C8xe \u02C8dento"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8dento&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - specifically that thing
+  epo:
+  - - specife tio
+  spa:
+  - - "esa cosa espec\xEDfica"
+search terms:
+  glb:
+  - he dento
+  - he
+  - dento
+  eng:
+  - specifically that thing
+  epo:
+  - specife tio
+  spa:
+  - "esa cosa espec\xEDfica"
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/den">den</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: he dento
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: specifically that thing
+    epo: specife tio
+    spa: "esa cosa espec\xEDfica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, den + to
+...

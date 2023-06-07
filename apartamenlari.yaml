@@ -1,0 +1,49 @@
+---
+term: apartamenlari
+slug: apartamenlari
+ipa: "apa\u027Etamen\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=apa\u027Etamen\u02C8la\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (apartment) complex
+  epo:
+  - - apartamentaro
+  spa:
+  - - complejo de apartamentos
+search terms:
+  glb:
+  - apartamenlari
+  eng:
+  - apartment complex
+  - complex
+  epo:
+  - apartamentaro
+  spa:
+  - complejo de apartamentos
+etymology_type: DERIVD
+etymology: <a href="../lexi/apartamen">apartamen</a> + <a href="../lexi/-lari">-lari</a>
+tags:
+- kostruixey
+raw data:
+  term: apartamenlari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (apartment) complex
+    epo: apartamentaro
+    spa: complejo de apartamentos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kostruixey
+  etymology: apartamen + -lari
+...

@@ -1,0 +1,60 @@
+---
+term: mallide
+slug: mallide
+ipa: "mal\u02C8lide"
+ipa link: "http://ipa-reader.xyz/?text=mal\u02C8lide&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - mislead
+  epo:
+  - - miskonduko
+    - misdirekto
+    - misgvido
+  - - miskonduki
+    - misdirekti
+    - misgvidi
+  spa:
+  - - "enga\xF1ar"
+    - confundir
+    - falsear
+search terms:
+  glb:
+  - mallide
+  eng:
+  - mislead
+  epo:
+  - miskonduko
+  - misdirekto
+  - misgvido
+  - miskonduki
+  - misdirekti
+  - misgvidi
+  spa:
+  - "enga\xF1ar"
+  - confundir
+  - falsear
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal-">mal-</a> + <a href="../lexi/lide">lide</a>
+raw data:
+  term: mallide
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: mislead
+    epo: miskonduko, misdirekto, misgvido; miskonduki, misdirekti, misgvidi
+    spa: "enga\xF1ar, confundir, falsear"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal- + lide
+...

@@ -1,0 +1,77 @@
+---
+term: coxo
+slug: coxo
+ipa: ˈt͡ʃoʃo
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃoʃo&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - mockery
+    - ridicule
+    - derision
+  - - mock
+    - ridicule
+    - deride
+    - scoff
+    - sneer
+  epo:
+  - - moko
+  - - moki
+  spa:
+  - - burla
+    - mofa
+    - ridículo
+  - - burlarse de
+    - ridiculizar
+    - mofarse de
+search terms:
+  glb:
+  - coxo
+  eng:
+    0: mockery
+    1: ridicule
+    2: derision
+    3: mock
+    5: deride
+    6: scoff
+    7: sneer
+  epo:
+  - moko
+  - moki
+  spa:
+  - burla
+  - mofa
+  - ridículo
+  - burlarse de
+  - ridiculizar
+  - mofarse de
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 嘲笑 “cháoxiào”
+  Niponsa:
+  - - 嘲笑 “chōshō”
+  Hangusa:
+  - - 조소 “joso”
+raw data:
+  term: coxo
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: mockery, ridicule, derision; mock, ridicule, deride, scoff, sneer
+    epo: moko; moki
+    spa: burla, mofa, ridículo; burlarse de, ridiculizar, mofarse de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (嘲笑 “cháoxiào”), Niponsa (嘲笑 “chōshō”), Hangusa (조소 “joso”)
+...

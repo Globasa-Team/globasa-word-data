@@ -1,0 +1,68 @@
+---
+term: formato
+slug: formato
+ipa: foɾˈmato
+ipa link: http://ipa-reader.xyz/?text=foɾˈmato&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - format
+  epo:
+  - - aranĝo
+    - formato
+  spa:
+  - - formato
+search terms:
+  glb:
+  - formato
+  eng:
+  - format
+  epo:
+  - aranĝo
+  - formato
+  spa:
+  - formato
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - format
+  Fransesa:
+  - - format
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Espanisa:
+  - - formato
+  Rusisa:
+  - - формат “format”
+  Hindisa:
+  - - फोर्मैट “formet”
+  Niponsa:
+  - - フォーマット “fomato”
+  Hangusa:
+  - - 포맷 “pomet”
+raw data:
+  term: formato
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: format
+    epo: aranĝo, formato
+    spa: formato
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (format), Fransesa (format), Doycisa, Indonesisa, Pilipinasa,
+    Turkisa, Espanisa (formato), Rusisa (формат “format”), Hindisa (फोर्मैट “formet”),
+    Niponsa (フォーマット “fomato”), Hangusa (포맷 “pomet”)
+...

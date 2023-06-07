@@ -1,0 +1,54 @@
+---
+term: pangugeo
+slug: pangugeo
+ipa: "pangu\u02C8geo"
+ipa link: "http://ipa-reader.xyz/?text=pangu\u02C8geo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - plain
+    - flatland
+  epo:
+  - - ebenejo
+    - "ebena\u0135o"
+  spa:
+  - - llanura
+    - planicie
+    - llano
+search terms:
+  glb:
+  - pangugeo
+  eng:
+  - plain
+  - flatland
+  epo:
+  - ebenejo
+  - "ebena\u0135o"
+  spa:
+  - llanura
+  - planicie
+  - llano
+etymology_type: DERIVD
+etymology: <a href="../lexi/pangu">pangu</a> + <a href="../lexi/geo">geo</a>
+raw data:
+  term: pangugeo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: plain, flatland
+    epo: "ebenejo, ebena\u0135o"
+    spa: llanura, planicie, llano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pangu + geo
+...

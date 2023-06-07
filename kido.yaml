@@ -1,0 +1,59 @@
+---
+term: kido
+slug: kido
+ipa: "\u02C8kido"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kido&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - prayer
+  - - pray
+  epo:
+  - - "pre\u011Do"
+  - - "pre\u011Di"
+  spa:
+  - - "oraci\xF3n"
+    - rezo
+  - - orar
+    - rezar
+search terms:
+  glb:
+  - kido
+  eng:
+  - prayer
+  - pray
+  epo:
+  - "pre\u011Do"
+  - "pre\u011Di"
+  spa:
+  - "oraci\xF3n"
+  - rezo
+  - orar
+  - rezar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- dini
+raw data:
+  term: kido
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: prayer; pray
+    epo: "pre\u011Do; pre\u011Di"
+    spa: "oraci\xF3n, rezo; orar, rezar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: "Putunhwa (\u7948\u7977 \u201Ccidaw\u201D), Niponsa (\u7948\u7977 \u201Ckito\u201D),
+    Hangusa (\uAE30\uB3C4 \u201Ckido\u201D)"
+...

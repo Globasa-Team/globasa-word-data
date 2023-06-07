@@ -1,0 +1,48 @@
+---
+term: mase
+slug: mase
+ipa: "\u02C8mase"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mase&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mass (_physics_)
+  epo:
+  - - maso
+  spa:
+  - - "masa (_f\xEDsica_)"
+search terms:
+  glb:
+  - mase
+  eng:
+  - mass
+  epo:
+  - maso
+  spa:
+  - masa
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mase
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mass (_physics_)
+    epo: maso
+    spa: "masa (_f\xEDsica_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Masse), Englisa (mass), Espanisa (masa), Fransesa (masse),
+    Rusisa (\u043C\u0430\u0441\u0441\u0430 \u201Cmasa\u201D), Indonesisa (massa),
+    Pilipinasa (masa), Swahilisa (masi)"
+...

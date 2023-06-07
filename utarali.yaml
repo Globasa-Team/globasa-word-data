@@ -1,0 +1,52 @@
+---
+term: utarali
+slug: utarali
+ipa: "uta\u02C8\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=uta\u02C8\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - north
+    - northern
+  epo:
+  - - norda
+  - - norde
+  spa:
+  - - del norte
+    - "norte\xF1o"
+search terms:
+  glb:
+  - utarali
+  eng:
+  - north
+  - northern
+  epo:
+  - norda
+  - norde
+  spa:
+  - del norte
+  - "norte\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/utara">utara</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: utarali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: north, northern
+    epo: norda; norde
+    spa: "del norte, norte\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: utara + -li
+...

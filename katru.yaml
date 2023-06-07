@@ -1,0 +1,56 @@
+---
+term: katru
+slug: katru
+ipa: "\u02C8kat\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kat\u027Eu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - drop
+  - - drip
+  epo:
+  - - guto
+  - - guti
+    - gutigi
+  spa:
+  - - gota
+  - - gotear
+search terms:
+  glb:
+  - katru
+  eng:
+  - drop
+  - drip
+  epo:
+  - guto
+  - guti
+  - gutigi
+  spa:
+  - gota
+  - gotear
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: katru
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: drop; drip
+    epo: guto; guti, gutigi
+    spa: gota; gotear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u064E\u0637\u0652\u0631 \u201Ckatr\u201D, \u0642\u064E\u0637\u064E\u0631\u064E
+    \u201Ckatara\u201D, \u064A\u064E\u0642\u0652\u0637\u064F\u0631\u064F\u200E\u200E
+    \u201Cyak\u1E6Duru), Parsisa (\u0642\u0637\u0631\u0647 \u201Ckatre\u201D) "
+...

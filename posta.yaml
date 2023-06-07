@@ -1,0 +1,72 @@
+---
+term: posta
+slug: posta
+ipa: "\u02C8posta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8posta&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - mail
+  epo:
+  - - "po\u015Dto"
+  - - "po\u015Dti"
+  spa:
+  - - correo
+  - - enviar por correo
+search terms:
+  glb:
+  - posta
+  eng:
+  - mail
+  epo:
+  - "po\u015Dto"
+  - "po\u015Dti"
+  spa:
+  - correo
+  - enviar por correo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - post
+    - postal
+  Fransesa:
+  - - poste
+  Doycisa:
+  - - Post
+  Rusisa:
+  - - "\u043F\u043E\u0447\u0442\u0430 \u201Cpocta\u201D"
+  "": ~
+  Espanisa:
+  - - postal
+  Indonesisa:
+  - - pos
+  Turkisa:
+  - - posta
+  Parsisa:
+  - - "\u067E\u0633\u062A \u201Cpost\u201D"
+  Swahilisa:
+  - - posta
+raw data:
+  term: posta
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: mail
+    epo: "po\u015Dto; po\u015Dti"
+    spa: correo; enviar por correo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (post, postal), Fransesa (poste), Doycisa (Post), Rusisa (\u043F\u043E\u0447\u0442\u0430
+    \u201Cpocta\u201D) , Espanisa (postal), Indonesisa (pos), Turkisa (posta), Parsisa
+    (\u067E\u0633\u062A \u201Cpost\u201D), Swahilisa (posta)"
+...

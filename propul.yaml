@@ -1,0 +1,48 @@
+---
+term: propul
+slug: propul
+ipa: "p\u027Eo\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eo\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - favorable
+  epo:
+  - - favora
+  - - favore
+  spa:
+  - - favorable
+search terms:
+  glb:
+  - propul
+  eng:
+  - favorable
+  epo:
+  - favora
+  - favore
+  spa:
+  - favorable
+etymology_type: DERIVD
+etymology: <a href="../lexi/pro">pro</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: propul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: favorable
+    epo: favora; favore
+    spa: favorable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pro + -pul
+...

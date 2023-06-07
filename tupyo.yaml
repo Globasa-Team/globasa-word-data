@@ -1,0 +1,63 @@
+---
+term: tupyo
+slug: tupyo
+ipa: "\u02C8tupjo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tupjo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - vote (for)
+  epo:
+  - - "vo\u0109dono"
+  - - "vo\u0109doni"
+  spa:
+  - - voto
+  - - votar
+search terms:
+  glb:
+  - tupyo
+  eng:
+  - vote for
+  - vote
+  epo:
+  - "vo\u0109dono"
+  - "vo\u0109doni"
+  spa:
+  - voto
+  - votar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6295\u7968 \u201Ct\xF3upi\xE0o\u201D"
+  Hangusa:
+  - - "\uD22C\uD45C \u201Ctupyo\u201D"
+  Niponsa:
+  - - "\u6295\u7968 \u201Ctohyo\u201D"
+  Vyetnamsa:
+  - - "\u0111\xE2\u0340u phi\xEA\u0341u"
+tags:
+- politi
+raw data:
+  term: tupyo
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: vote (for)
+    epo: "vo\u0109dono; vo\u0109doni"
+    spa: voto; votar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: "Putunhwa (\u6295\u7968 \u201Ct\xF3upi\xE0o\u201D), Hangusa (\uD22C\uD45C
+    \u201Ctupyo\u201D), Niponsa (\u6295\u7968 \u201Ctohyo\u201D), Vyetnamsa (\u0111\xE2\u0340u
+    phi\xEA\u0341u)"
+...

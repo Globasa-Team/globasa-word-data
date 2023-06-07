@@ -1,0 +1,46 @@
+---
+term: kwasipatre
+slug: kwasipatre
+ipa: "kwasi\u02C8pat\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=kwasi\u02C8pat\u027Ee&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - stepfather
+  epo:
+  - - vicpatro
+  spa:
+  - - padrastro
+search terms:
+  glb:
+  - kwasipatre
+  eng:
+  - stepfather
+  epo:
+  - vicpatro
+  spa:
+  - padrastro
+etymology_type: DERIVD
+etymology: <a href="../lexi/kwasi">kwasi</a> + <a href="../lexi/patre">patre</a>
+raw data:
+  term: kwasipatre
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: stepfather
+    epo: vicpatro
+    spa: padrastro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwasi + patre
+...

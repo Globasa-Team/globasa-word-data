@@ -1,0 +1,52 @@
+---
+term: folo
+slug: folo
+ipa: ˈfolo
+ipa link: http://ipa-reader.xyz/?text=ˈfolo&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - follow
+  epo:
+  - - sekvo
+  - - sekvi
+  spa:
+  - - seguir
+search terms:
+  glb:
+  - folo
+  eng:
+  - follow
+  epo:
+  - sekvo
+  - sekvi
+  spa:
+  - seguir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - follow
+  Doycisa:
+  - - folgen
+raw data:
+  term: folo
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: follow
+    epo: sekvo; sekvi
+    spa: seguir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (follow), Doycisa (folgen)
+...

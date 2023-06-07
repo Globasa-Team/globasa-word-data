@@ -1,0 +1,51 @@
+---
+term: hardal
+slug: hardal
+ipa: "xa\u027E\u02C8dal"
+ipa link: "http://ipa-reader.xyz/?text=xa\u027E\u02C8dal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mustard
+  epo:
+  - - mustardo
+  spa:
+  - - mostaza
+search terms:
+  glb:
+  - hardal
+  eng:
+  - mustard
+  epo:
+  - mustardo
+  spa:
+  - mostaza
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: hardal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mustard
+    epo: mustardo
+    spa: mostaza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Hindisa (\u0916\u093C\u0930\u094D\u0926\u0932 \u201Chardal\u201D), Arabisa
+    (\u062E\u064E\u0631\u0652\u062F\u064E\u0644 \u201Chardal\u201D), Turkisa (hardal),
+    Parsisa (\u062E\u0631\u062F\u0644 \u201Chardal\u201D), Swahilisa (haradali), Niponsa
+    (\u304B\u3089\u3057 \u201Ckaraxi\u201D)"
+...

@@ -1,0 +1,54 @@
+---
+term: xeritu
+slug: xeritu
+ipa: "\u0283e\u02C8\u027Eitu"
+ipa link: "http://ipa-reader.xyz/?text=\u0283e\u02C8\u027Eitu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - stripe
+  epo:
+  - - strio
+  spa:
+  - - franja
+    - raya
+    - "l\xEDnea"
+search terms:
+  glb:
+  - xeritu
+  eng:
+  - stripe
+  epo:
+  - strio
+  spa:
+  - franja
+  - raya
+  - "l\xEDnea"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0634\u0631\u064A\u0637 \u201Cxarit\u201D"
+  Turkisa:
+  - - "\u015Ferit"
+raw data:
+  term: xeritu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: stripe
+    epo: strio
+    spa: "franja, raya, l\xEDnea"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0634\u0631\u064A\u0637 \u201Cxarit\u201D), Turkisa (\u015Ferit)"
+...

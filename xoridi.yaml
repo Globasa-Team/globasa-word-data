@@ -1,0 +1,54 @@
+---
+term: xoridi
+slug: xoridi
+ipa: "\u0283o\u02C8\u027Eidi"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u02C8\u027Eidi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - leave
+    - take off
+    - head off
+  epo:
+  - - ekirado
+  - - ekiri
+  spa:
+  - - salir
+    - irse
+search terms:
+  glb:
+  - xoridi
+  eng:
+  - leave
+  - take off
+  - head off
+  epo:
+  - ekirado
+  - ekiri
+  spa:
+  - salir
+  - irse
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor-">xor-</a> + <a href="../lexi/idi">idi</a>
+raw data:
+  term: xoridi
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: leave, take off, head off
+    epo: ekirado; ekiri
+    spa: salir, irse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xor- + idi
+...

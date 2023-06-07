@@ -1,0 +1,51 @@
+---
+term: fe kapi de
+slug: fe kapi de
+ipa: "fe \u02C8kapi de"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8kapi de&voice=Ewa"
+status: false
+category: phrase
+word class: p
+trans:
+  eng:
+  - - on top of
+  epo:
+  - - supre sur
+    - sur
+  spa:
+  - - en la cima de
+search terms:
+  glb:
+  - fe kapi de
+  - fe
+  - kapi
+  - de
+  eng:
+  - on top of
+  epo:
+  - supre sur
+  - sur
+  spa:
+  - en la cima de
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/kapi">kapi</a>, <a href="../lexi/de">de</a>
+raw data:
+  term: fe kapi de
+  category: phrase
+  word class: p
+  status: false
+  trans:
+    eng: on top of
+    epo: supre sur, sur
+    spa: en la cima de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, kapi, de
+...

@@ -1,0 +1,48 @@
+---
+term: histori
+slug: histori
+ipa: "xis\u02C8to\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=xis\u02C8to\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - history
+  epo:
+  - - historio
+  spa:
+  - - historia
+search terms:
+  glb:
+  - histori
+  eng:
+  - history
+  epo:
+  - historio
+  spa:
+  - historia
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: histori
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: history
+    epo: historio
+    spa: historia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (history), Doycisa (Historie), Fransesa (histoire), Espanisa
+    (historia), Rusisa (\u0438\u0441\u0442\u043E\u0440\u0438\u044F \u201Cistorija\u201D),
+    Swahilisa (historia), Indonesisa (histori), Pilipinasa (istorya)"
+...

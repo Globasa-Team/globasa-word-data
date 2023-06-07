@@ -1,0 +1,56 @@
+---
+term: ideal
+slug: ideal
+ipa: "ide\u02C8al"
+ipa link: "http://ipa-reader.xyz/?text=ide\u02C8al&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - ideal
+    - ideally
+  epo:
+  - - ideala
+  - - ideale
+  spa:
+  - - ideal
+  - - idealmente
+search terms:
+  glb:
+  - ideal
+  eng:
+  - ideal
+  - ideally
+  epo:
+  - ideala
+  - ideale
+  spa:
+  - ideal
+  - idealmente
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ideal
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: ideal, ideally
+    epo: ideala; ideale
+    spa: ideal; idealmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (ideal), Doycisa (ideal), Fransesa (id\xE9al), Espanisa (ideal),
+    Rusisa (\u0438\u0434\u0435\u0430\u043B\u044C\u043D\u044B\u0439 \u201Cidealniy\u201D),
+    Indonesisa (ideal), Pilipinasa (ideal), Hindisa (\u0906\u0907\u0921\u093C\u093F\u092F\u0932
+    \u201Ceryal\u201D), Turkisa (ideal), Parsisa (\u0627\u06CC\u062F\u0647\u200C\u0622\u0644
+    \u201Cide\xE2l\u201D)"
+...

@@ -1,0 +1,54 @@
+---
+term: sudesudan
+slug: sudesudan
+ipa: "sudesu\u02C8dan"
+ipa link: "http://ipa-reader.xyz/?text=sudesu\u02C8dan&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - South Sudan
+  epo:
+  - - Sud-Sudano
+    - Suda Sudano
+  spa:
+  - - "Sud\xE1n del Sur"
+search terms:
+  glb:
+  - sudesudan
+  eng:
+  - south sudan
+  epo:
+  - sud-sudano
+  - suda sudano
+  spa:
+  - "sud\xE1n del sur"
+etymology_type: NATLNG
+etymology:
+  Swahilisa:
+  - - Sudan Kusini
+  Englisa:
+  - - South Sudan
+tags:
+- dexa
+raw data:
+  term: Sudesudan
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: South Sudan
+    epo: Sud-Sudano, Suda Sudano
+    spa: "Sud\xE1n del Sur"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Swahilisa (Sudan Kusini), Englisa (South Sudan)
+...

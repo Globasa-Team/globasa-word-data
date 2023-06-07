@@ -1,0 +1,48 @@
+---
+term: mukakumax
+slug: mukakumax
+ipa: "mukaku\u02C8ma\u0283"
+ipa link: "http://ipa-reader.xyz/?text=mukaku\u02C8ma\u0283&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - veil
+  epo:
+  - - kovrotuko
+    - vualo
+  spa:
+  - - velo
+search terms:
+  glb:
+  - mukakumax
+  eng:
+  - veil
+  epo:
+  - kovrotuko
+  - vualo
+  spa:
+  - velo
+etymology_type: DERIVD
+etymology: <a href="../lexi/muka">muka</a> + <a href="../lexi/-kumax">-kumax</a>
+raw data:
+  term: mukakumax
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'veil '
+    epo: kovrotuko, vualo
+    spa: velo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: muka + -kumax
+...

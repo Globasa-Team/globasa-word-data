@@ -1,0 +1,53 @@
+---
+term: litro
+slug: litro
+ipa: "\u02C8lit\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lit\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - liter
+  epo:
+  - - litro
+  spa:
+  - - litro
+    - L
+search terms:
+  glb:
+  - litro
+  eng:
+  - liter
+  epo:
+  - litro
+  spa:
+  - litro
+  - l
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: litro
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: liter
+    epo: litro
+    spa: litro, L
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (liter), Fransesa (litre), Doycisa (Liter), Rusisa (\u043B\u0438\u0442\u0440
+    \u201Clitr\u201D), Espanisa (litro), Arabisa (\u0644\u0650\u062A\u0652\u0631 \u201Clitr\u201D),
+    Hindisa (\u0932\u0940\u091F\u0930 \u201Clitar\u201D), Parsisa (\u0644\u06CC\u062A\u0631
+    \u201Clitar\u201D), Turkisa (litre), Indonesisa (liter), Swahilisa (lita), Vyetnamsa
+    (l\xEDt), Niponsa (\u30EA\u30C3\u30C8\u30EB \u201Crittoru\u201D), Telugusa (\u0C32\u0C40\u0C1F\u0C30\u0C41
+    \u201Clitaru\u201D), Hangusa (\uB9AC\uD130 \u201Crito\u201D)"
+...

@@ -1,0 +1,52 @@
+---
+term: nenperfeto
+slug: nenperfeto
+ipa: "nenpe\u027E\u02C8feto"
+ipa link: "http://ipa-reader.xyz/?text=nenpe\u027E\u02C8feto&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - imperfect
+  - - imperfectly
+  epo:
+  - - neperfekta
+  - - neperfekte
+  spa:
+  - - imperfecto
+  - - imperfectamente
+search terms:
+  glb:
+  - nenperfeto
+  eng:
+  - imperfect
+  - imperfectly
+  epo:
+  - neperfekta
+  - neperfekte
+  spa:
+  - imperfecto
+  - imperfectamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/perfeto">perfeto</a>
+raw data:
+  term: nenperfeto
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: imperfect; imperfectly
+    epo: neperfekta; neperfekte
+    spa: imperfecto; imperfectamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + perfeto
+...

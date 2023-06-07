@@ -1,0 +1,48 @@
+---
+term: pilopul
+slug: pilopul
+ipa: "pilo\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=pilo\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - tired
+  epo:
+  - - laca
+  - - lace
+  spa:
+  - - cansado
+search terms:
+  glb:
+  - pilopul
+  eng:
+  - tired
+  epo:
+  - laca
+  - lace
+  spa:
+  - cansado
+etymology_type: DERIVD
+etymology: <a href="../lexi/pilo">pilo</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: pilopul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: tired
+    epo: laca; lace
+    spa: cansado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pilo + -pul
+...

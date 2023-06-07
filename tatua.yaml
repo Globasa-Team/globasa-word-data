@@ -1,0 +1,80 @@
+---
+term: tatua
+slug: tatua
+ipa: "ta\u02C8tua"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8tua&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - tattoo
+  epo:
+  - - tatuo
+    - "tatua\u0135o"
+  - - tatui
+  spa:
+  - - tatuaje
+  - - tatuar
+search terms:
+  glb:
+  - tatua
+  eng:
+  - tattoo
+  epo:
+  - tatuo
+  - "tatua\u0135o"
+  - tatui
+  spa:
+  - tatuaje
+  - tatuar
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - tatuaje
+    - tatuar
+  Fransesa:
+  - - tatouage
+    - tatouer
+  Englisa:
+  - - tattoo
+  Rusisa:
+  - - "\u0442\u0430\u0442\u0443\u0438\u0440\u043E\u0432\u043A\u0430 \u201Ctatuirovka\u201D"
+    - "\u0442\u0430\u0442\u0443\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u201Ctatuirovat\u201D"
+  Doycisa:
+  - - "T\xE4towierung"
+    - Tatuierung
+  Indonesisa:
+  - - tato
+  Pilipinasa: ~
+  Niponsa:
+  - - "\u30BF\u30C8\u30A5\u30FC \u201Ctatu\u201D"
+  Hangusa:
+  - - "\uD0C0\uD22C \u201Ctatu\u201D"
+  Parsisa:
+  - - "\u062A\u062A\u0648 \u201Ctatu\u201D"
+raw data:
+  term: tatua
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: tattoo
+    epo: "tatuo, tatua\u0135o; tatui"
+    spa: tatuaje; tatuar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (tatuaje, tatuar), Fransesa (tatouage, tatouer), Englisa (tattoo),
+    Rusisa (\u0442\u0430\u0442\u0443\u0438\u0440\u043E\u0432\u043A\u0430 \u201Ctatuirovka\u201D,
+    \u0442\u0430\u0442\u0443\u0438\u0440\u043E\u0432\u0430\u0442\u044C \u201Ctatuirovat\u201D),
+    Doycisa (T\xE4towierung, Tatuierung), Indonesisa (tato), Pilipinasa, Niponsa (\u30BF\u30C8\u30A5\u30FC
+    \u201Ctatu\u201D), Hangusa (\uD0C0\uD22C \u201Ctatu\u201D), Parsisa (\u062A\u062A\u0648
+    \u201Ctatu\u201D)"
+...

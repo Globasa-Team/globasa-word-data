@@ -1,0 +1,81 @@
+---
+term: filme
+slug: filme
+ipa: ˈfilme
+ipa link: http://ipa-reader.xyz/?text=ˈfilme&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - film
+    - movie
+  - - film
+  epo:
+  - - filmo
+  - - filmi
+  spa:
+  - - película
+  - - filmar
+search terms:
+  glb:
+  - filme
+  eng:
+  - film
+  - movie
+  epo:
+  - filmo
+  - filmi
+  spa:
+  - película
+  - filmar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - film
+  Fransesa:
+  - - film
+  Doycisa:
+  - - Film
+  Rusisa:
+  - - фильм “film”
+  Espanisa:
+  - - filme
+  Indonesisa:
+  - - film
+  Pilipinasa: ~
+  Niponsa:
+  - - フィルム “firumu”
+  Turkisa:
+  - - film
+  Arabisa:
+  - - فِلْم “film”
+  Parsisa:
+  - - فیلم “film”
+  Hindisa:
+  - - फ़िल्म “film”
+  Swahilisa:
+  - - filamu
+raw data:
+  term: filme
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: film, movie; film
+    epo: filmo; filmi
+    spa: película; filmar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (film), Fransesa (film), Doycisa (Film), Rusisa (фильм “film”),
+    Espanisa (filme), Indonesisa (film), Pilipinasa, Niponsa (フィルム “firumu”), Turkisa
+    (film), Arabisa (فِلْم “film”), Parsisa (فیلم “film”), Hindisa (फ़िल्म “film”),
+    Swahilisa (filamu)
+...

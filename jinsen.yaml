@@ -1,0 +1,54 @@
+---
+term: jinsen
+slug: jinsen
+ipa: "d\u0361\u0292in\u02C8sen"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292in\u02C8sen&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ginseng
+  epo:
+  - - ginsengo
+  spa:
+  - - _ginseng_
+    - _Panax_
+search terms:
+  glb:
+  - jinsen
+  eng:
+  - ginseng
+  epo:
+  - ginsengo
+  spa:
+  - ginseng
+  - panax
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jinsen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ginseng
+    epo: ginsengo
+    spa: _ginseng_, _Panax_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (ginseng), Espanisa (ginseng), Fransesa (ginseng), Rusisa (\u0436\u0435\u043D\u044C\u0448\u0435\u043D\u044C
+    \"jenxen\"), Doycisa (Ginseng), Indonesisa (ginseng), Pilipinasa (dyinseng), Hindisa
+    (\u091C\u093F\u0928\u0938\u0947\u0902\u0917 \"jinseng\"), Arabisa (\u062C\u0650\u064A\u0646\u0652\u0633\u0650\u0646\u0652\u063A
+    \"jinsin\u1E21\")\nTelugusa (\u0C9C\u0CBF\u0CA8\u0CCD\u200C\u0CB8\u0CC6\u0C82\u0C97\u0CCD\u200C
+    \"jinseng\"), Turkisa (ginseng), Parsisa (\u062C\u06CC\u0646\u0633\u0646\u06AF
+    \"jinseng\"), Putunhwa (\u4EBA\u53C2 \"renxen\"), Niponsa (\u4EBA\u53C2 \"ninjin\"),
+    Vyetnamsa (nh\xE2n s\xE2m), Hangusa (\uC778\uC0BC \"insam\")"
+...

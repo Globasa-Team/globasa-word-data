@@ -1,0 +1,53 @@
+---
+term: maydo
+slug: maydo
+ipa: "\u02C8majdo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8majdo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - sale
+  - - sell
+  epo:
+  - - vendo
+  - - vendi
+  spa:
+  - - venta
+  - - vender
+search terms:
+  glb:
+  - maydo
+  eng:
+  - sale
+  - sell
+  epo:
+  - vendo
+  - vendi
+  spa:
+  - venta
+  - vender
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: maydo
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: sale; sell
+    epo: vendo; vendi
+    spa: venta; vender
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5356\u6389 \u201Cm\xE0i di\xE0o\u201D), Hangusa (\uB9E4\uB3C4
+    \u201Cmaedo\u201D)"
+...

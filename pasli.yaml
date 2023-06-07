@@ -1,0 +1,48 @@
+---
+term: pasli
+slug: pasli
+ipa: "\u02C8pasli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pasli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - through
+  epo:
+  - - traa
+  - - trae
+  spa:
+  - - "de a trav\xE9s"
+search terms:
+  glb:
+  - pasli
+  eng:
+  - through
+  epo:
+  - traa
+  - trae
+  spa:
+  - "de a trav\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/pas">pas</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: pasli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: through
+    epo: traa; trae
+    spa: "de a trav\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pas + -li
+...

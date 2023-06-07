@@ -1,0 +1,48 @@
+---
+term: trankwilogi
+slug: trankwilogi
+ipa: "t\u027Eankwi\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Eankwi\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - tranquilize
+  epo:
+  - - trankviligo
+  - - trankviligi
+  spa:
+  - - tranquilizar
+search terms:
+  glb:
+  - trankwilogi
+  eng:
+  - tranquilize
+  epo:
+  - trankviligo
+  - trankviligi
+  spa:
+  - tranquilizar
+etymology_type: DERIVD
+etymology: <a href="../lexi/trankwilo">trankwilo</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: trankwilogi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: tranquilize
+    epo: trankviligo; trankviligi
+    spa: tranquilizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: trankwilo + -gi
+...

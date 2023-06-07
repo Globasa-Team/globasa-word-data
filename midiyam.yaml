@@ -1,0 +1,48 @@
+---
+term: midiyam
+slug: midiyam
+ipa: "midi\u02C8jam"
+ipa link: "http://ipa-reader.xyz/?text=midi\u02C8jam&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - lunch
+  epo:
+  - - "tagman\u011Do"
+  spa:
+  - - almuerzo
+    - lonche
+search terms:
+  glb:
+  - midiyam
+  eng:
+  - lunch
+  epo:
+  - "tagman\u011Do"
+  spa:
+  - almuerzo
+  - lonche
+etymology_type: DERIVD
+etymology: <a href="../lexi/midi">midi</a> + <a href="../lexi/yam">yam</a>
+raw data:
+  term: midiyam
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: lunch
+    epo: "tagman\u011Do"
+    spa: almuerzo, lonche
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: midi + yam
+...

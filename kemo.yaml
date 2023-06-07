@@ -1,0 +1,48 @@
+---
+term: kemo
+slug: kemo
+ipa: "\u02C8kemo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kemo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - how
+    - to what degree
+  epo:
+  - - kiom
+  spa:
+  - - "\xBFa qu\xE9 grado? \xBFqu\xE9 tan?"
+search terms:
+  glb:
+  - kemo
+  eng:
+  - how
+  - to what degree
+  epo:
+  - kiom
+  spa:
+  - "\xBFa qu\xE9 grado? \xBFqu\xE9 tan?"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ke">ke</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: kemo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: how, to what degree
+    epo: kiom
+    spa: "\xBFa qu\xE9 grado? \xBFqu\xE9 tan?"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ke + -mo
+...

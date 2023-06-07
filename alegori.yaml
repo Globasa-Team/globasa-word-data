@@ -1,0 +1,68 @@
+---
+term: alegori
+slug: alegori
+ipa: aleˈgoɾi
+ipa link: http://ipa-reader.xyz/?text=aleˈgoɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - allegory
+  epo:
+  - - alegorio
+  spa:
+  - - alegoría
+search terms:
+  glb:
+  - alegori
+  eng:
+  - allegory
+  epo:
+  - alegorio
+  spa:
+  - alegoría
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - allegory
+  Espanisa:
+  - - alegoría
+  Fransesa:
+  - - allégorie
+  Rusisa:
+  - - аллегория "allegoriya"
+  Doycisa:
+  - - Allegorie
+  Indonesisa:
+  - - alegori
+  Pilipinasa:
+  - - alegoriya
+  Niponsa:
+  - - アレゴリー "aregori"
+  Turkisa:
+  - - alegori
+  Hangusa:
+  - - 알레고리 "allegori"
+raw data:
+  term: alegori
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: allegory
+    epo: alegorio
+    spa: alegoría
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (allegory), Espanisa (alegoría), Fransesa (allégorie), Rusisa
+    (аллегория "allegoriya"), Doycisa (Allegorie), Indonesisa (alegori), Pilipinasa
+    (alegoriya), Niponsa (アレゴリー "aregori"), Turkisa (alegori), Hangusa (알레고리 "allegori")
+...

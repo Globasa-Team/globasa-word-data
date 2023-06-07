@@ -1,0 +1,46 @@
+---
+term: asanya
+slug: asanya
+ipa: "a\u02C8sanja"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8sanja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ease
+  epo:
+  - - facileco
+  spa:
+  - - facilidad
+search terms:
+  glb:
+  - asanya
+  eng:
+  - ease
+  epo:
+  - facileco
+  spa:
+  - facilidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/asan">asan</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: asanya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ease
+    epo: facileco
+    spa: facilidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: asan + -ya
+...

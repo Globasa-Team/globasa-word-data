@@ -1,0 +1,48 @@
+---
+term: cibopul
+slug: cibopul
+ipa: "t\u0361\u0283ibo\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ibo\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - fat
+  epo:
+  - - grasa
+  - - grase
+  spa:
+  - - gordo
+search terms:
+  glb:
+  - cibopul
+  eng:
+  - fat
+  epo:
+  - grasa
+  - grase
+  spa:
+  - gordo
+etymology_type: DERIVD
+etymology: <a href="../lexi/cibo">cibo</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: cibopul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: fat
+    epo: grasa; grase
+    spa: gordo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cibo + -pul
+...

@@ -1,0 +1,53 @@
+---
+term: yomo
+slug: yomo
+ipa: "\u02C8jomo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jomo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wool
+  epo:
+  - - lano
+  spa:
+  - - lana
+search terms:
+  glb:
+  - yomo
+  eng:
+  - wool
+  epo:
+  - lano
+  spa:
+  - lana
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u7F8A\u6BDB \u201Cyangmaw\u201D"
+  Niponsa:
+  - - "\u7F8A\u6BDB \u201Cyomo\u201D"
+  Hangusa:
+  - - "\uC591\uBAA8 \u201Cyangmo\u201D"
+raw data:
+  term: yomo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wool
+    epo: lano
+    spa: lana
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7F8A\u6BDB \u201Cyangmaw\u201D), Niponsa (\u7F8A\u6BDB \u201Cyomo\u201D),
+    Hangusa (\uC591\uBAA8 \u201Cyangmo\u201D)"
+...

@@ -1,0 +1,61 @@
+---
+term: wermu
+slug: wermu
+ipa: "\u02C8we\u027Emu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8we\u027Emu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - worm
+  epo:
+  - - vermo
+  spa:
+  - - gusano
+    - lombriz
+search terms:
+  glb:
+  - wermu
+  eng:
+  - worm
+  epo:
+  - vermo
+  spa:
+  - gusano
+  - lombriz
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - worm
+  Fransesa:
+  - - ver
+  Doycisa:
+  - - Wurm
+  Niponsa:
+  - - "\u30EF\u30FC\u30E0 \u201Cw\u0101mu\u201D"
+  Parsisa:
+  - - "\u06A9\u0631\u0645 \u201Ckerm\u201D"
+tags:
+- hewan
+raw data:
+  term: wermu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: worm
+    epo: vermo
+    spa: gusano, lombriz
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (worm), Fransesa (ver), Doycisa (Wurm), Niponsa (\u30EF\u30FC\u30E0
+    \u201Cw\u0101mu\u201D), Parsisa (\u06A9\u0631\u0645 \u201Ckerm\u201D)"
+...

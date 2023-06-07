@@ -1,0 +1,73 @@
+---
+term: grafito
+slug: grafito
+ipa: gɾaˈfito
+ipa link: http://ipa-reader.xyz/?text=gɾaˈfito&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - graphite
+  epo:
+  - - grafito
+  spa:
+  - - grafito
+search terms:
+  glb:
+  - grafito
+  eng:
+  - graphite
+  epo:
+  - grafito
+  spa:
+  - grafito
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - graphite
+  Francesa: ~
+  Espanisa:
+  - - grafito
+  Rusisa:
+  - - графит “grafit”
+  Doycisa:
+  - - Graphit
+  Indonesisa:
+  - - grafit
+  Turkisa: ~
+  Pilipinasa:
+  - - grapito
+  Hindisa:
+  - - ग्रेफाइट “grefayt”
+  Arabisa:
+  - - غرافيت “grafit”
+  Telugusa:
+  - - గ్రాఫైట్ “grafayt”
+  Parsisa:
+  - - گرافیت “gerafit”
+  Swahilisa:
+  - - grafiti
+raw data:
+  term: grafito
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: graphite
+    epo: grafito
+    spa: grafito
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (graphite), Francesa, Espanisa (grafito), Rusisa (графит “grafit”),
+    Doycisa (Graphit), Indonesisa (grafit), Turkisa, Pilipinasa (grapito), Hindisa
+    (ग्रेफाइट “grefayt”), Arabisa (غرافيت “grafit”), Telugusa (గ్రాఫైట్ “grafayt”),
+    Parsisa (گرافیت “gerafit”), Swahilisa (grafiti)
+...

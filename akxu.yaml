@@ -1,0 +1,52 @@
+---
+term: akxu
+slug: akxu
+ipa: ˈakʃu
+ipa link: http://ipa-reader.xyz/?text=ˈakʃu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vice (_moral_)
+  epo:
+  - - malvirto
+  spa:
+  - - vicio
+search terms:
+  glb:
+  - akxu
+  eng:
+  - vice
+  epo:
+  - malvirto
+  spa:
+  - vicio
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 恶习 "exi"
+  Niponsa:
+  - - 悪習 "akuxu"
+  Hangusa:
+  - - 악습 "aksup"
+raw data:
+  term: akxu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vice (_moral_)
+    epo: malvirto
+    spa: vicio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (恶习 "exi"), Niponsa (悪習 "akuxu"), Hangusa (악습 "aksup")
+...

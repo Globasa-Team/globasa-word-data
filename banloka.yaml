@@ -1,0 +1,46 @@
+---
+term: banloka
+slug: banloka
+ipa: "ban\u02C8loka"
+ipa link: "http://ipa-reader.xyz/?text=ban\u02C8loka&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - somewhere
+  epo:
+  - - ie
+  spa:
+  - - "alg\xFAn lugar"
+search terms:
+  glb:
+  - banloka
+  eng:
+  - somewhere
+  epo:
+  - ie
+  spa:
+  - "alg\xFAn lugar"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ban">ban</a> + <a href="../lexi/loka">loka</a>
+raw data:
+  term: banloka
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: somewhere
+    epo: ie
+    spa: "alg\xFAn lugar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ban + loka
+...

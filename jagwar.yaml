@@ -1,0 +1,57 @@
+---
+term: jagwar
+slug: jagwar
+ipa: "d\u0361\u0292a\u02C8gwa\u027E"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8gwa\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - jaguar
+    - _Panthera onca_
+  epo:
+  - - jaguaro
+  spa:
+  - - jaguar
+    - _Panthera onca_
+search terms:
+  glb:
+  - jagwar
+  eng:
+  - jaguar
+  - panthera onca
+  epo:
+  - jaguaro
+  spa:
+  - jaguar
+  - panthera onca
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: jagwar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: jaguar, _Panthera onca_
+    epo: jaguaro
+    spa: jaguar, _Panthera onca_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (jaguar), Espanisa (jaguar), Fransesa (jaguar), Rusisa (\u044F\u0433\u0443\u0430\u0440
+    \"yaguar\"), Doycisa (Jaguar), Indonesisa (jaguar), Pilipinasa (haguwar), Hindisa
+    (\u091C\u0948\u0917\u0941\u0906\u0930 \"jegwar\"), Arabisa (\u064A\u063A\u0648\u0631
+    \"ya\u011Fwar\"), Niponsa (\u30B8\u30E3\u30AC\u30FC \"jaga\"), Telugusa (\u0C1C\u0C3E\u0C17\u0C4D\u0C35\u0C30\u0C4D
+    \"jagvar\"), Turkisa (jaguar), Hangusa (\uC7AC\uADDC\uC5B4 \"jegyuo\"), Parsisa
+    (\u062C\u06AF\u0648\u0627\u0631 \"jagv\xE2r\"), Swahilisa (jagwa)"
+...

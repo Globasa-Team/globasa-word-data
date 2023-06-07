@@ -1,0 +1,117 @@
+---
+term: wati
+slug: wati
+ipa: "\u02C8wati"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wati&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - watt
+  epo:
+  - - vato (mezurunuo)
+    - vatto
+    - "\u016Dato"
+  spa:
+  - - _watt_
+    - vatio
+    - W
+  deu:
+  - - Watt
+  fra:
+  - - watt
+  rus:
+  - - "\u0432\u0430\u0442\u0442"
+  zho:
+  - - "\u74E6\u7279"
+search terms:
+  glb:
+  - wati
+  eng:
+  - watt
+  epo:
+  - vato mezurunuo
+  - vato
+  - vatto
+  - "\u016Dato"
+  spa:
+  - watt
+  - vatio
+  - w
+  deu:
+  - watt
+  fra:
+  - watt
+  rus:
+  - "\u0432\u0430\u0442\u0442"
+  zho:
+  - "\u74E6\u7279"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - watt
+  Espanisa:
+  - - vatio
+    - watt
+  Fransesa:
+  - - watt
+  Rusisa:
+  - - "\u0432\u0430\u0442\u0442 \u201Cvatt\u201D"
+  Doycisa:
+  - - Watt
+  Indonesisa:
+  - - watt
+  Pilipinasa:
+  - - watt
+    - batiyo
+    - wato
+    - wat
+  Putunhwa:
+  - - "\u74E6\u7279 \u201Cwate\u201D"
+  Hindisa:
+  - - "\u0935\u0949\u091F \u201Cvot\u201D"
+    - "\u0935\u093E\u091F \u201Cvat\u201D"
+  Arabisa:
+  - - "\u0648\u064E\u0627\u0637 \u201Cwat\u201D"
+  Niponsa:
+  - - "\u30EF\u30C3\u30C8 \u201Cwatto\u201D"
+  Telugusa:
+  - - "\u0C35\u0C3E\u0C1F\u0C4D \u201Cvat\u201D"
+  Turkisa:
+  - - watt
+  Hangusa:
+  - - "\uC640\uD2B8 \u201Cwatu\u201D"
+  Vyetnamsa:
+  - - "o\xE1t"
+    - watt
+  Parsisa:
+  - - "\u0648\u0627\u062A \u201Cvat\u201D"
+  Swahilisa:
+  - - wati
+raw data:
+  term: wati
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: watt
+    epo: "vato (mezurunuo), vatto, \u016Dato"
+    spa: _watt_, vatio, W
+    deu: Watt
+    fra: watt
+    rus: "\u0432\u0430\u0442\u0442"
+    zho: "\u74E6\u7279"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (watt), Espanisa (vatio, watt), Fransesa (watt), Rusisa (\u0432\u0430\u0442\u0442
+    \u201Cvatt\u201D), Doycisa (Watt), Indonesisa (watt), Pilipinasa (watt, batiyo,
+    wato, wat), Putunhwa (\u74E6\u7279 \u201Cwate\u201D), Hindisa (\u0935\u0949\u091F
+    \u201Cvot\u201D, \u0935\u093E\u091F \u201Cvat\u201D), Arabisa (\u0648\u064E\u0627\u0637
+    \u201Cwat\u201D), Niponsa (\u30EF\u30C3\u30C8 \u201Cwatto\u201D), Telugusa (\u0C35\u0C3E\u0C1F\u0C4D
+    \u201Cvat\u201D), Turkisa (watt), Hangusa (\uC640\uD2B8 \u201Cwatu\u201D), Vyetnamsa
+    (o\xE1t, watt), Parsisa (\u0648\u0627\u062A \u201Cvat\u201D), Swahilisa (wati)"
+...

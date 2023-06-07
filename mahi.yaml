@@ -1,0 +1,56 @@
+---
+term: mahi
+slug: mahi
+ipa: "\u02C8maxi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8maxi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - fish
+  - - fish
+  epo:
+  - - "fi\u015Do"
+  - - "fi\u015Di"
+  spa:
+  - - pez
+  - - pescar
+search terms:
+  glb:
+  - mahi
+  eng:
+  - fish
+  epo:
+  - "fi\u015Do"
+  - "fi\u015Di"
+  spa:
+  - pez
+  - pescar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: mahi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: fish; fish
+    epo: "fi\u015Do; fi\u015Di"
+    spa: pez; pescar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Parsisa (\u0645\u0627\u0647\u06CC \u201Cmahi\u201D), Hindisa (\u092E\u091B\u0932\u0940
+    \u201Cmacli\u201D, \u092E\u091A\u094D\u091B\u0940 \u201Cmaci\u201D), \u092E\u093E\u0939\u0940
+    \u201Cmahi\u201D), Telugusa (\u0C2E\u0C24\u0C4D\u0C38\u0C4D\u0C2F\u0C2E\u0C41
+    \u201Cmatsyamu\u201D), Swahilisa (samaki)"
+...

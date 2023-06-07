@@ -1,0 +1,48 @@
+---
+term: dentakrema
+slug: dentakrema
+ipa: "denta\u02C8k\u027Eema"
+ipa link: "http://ipa-reader.xyz/?text=denta\u02C8k\u027Eema&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - toothpaste
+  epo:
+  - - dentopasto
+    - "dento\u015Dmira\u0135o"
+  spa:
+  - - pasta de dientes
+search terms:
+  glb:
+  - dentakrema
+  eng:
+  - toothpaste
+  epo:
+  - dentopasto
+  - "dento\u015Dmira\u0135o"
+  spa:
+  - pasta de dientes
+etymology_type: DERIVD
+etymology: <a href="../lexi/denta">denta</a> + <a href="../lexi/krema">krema</a>
+raw data:
+  term: dentakrema
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: toothpaste
+    epo: "dentopasto, dento\u015Dmira\u0135o"
+    spa: pasta de dientes
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: denta + krema
+...

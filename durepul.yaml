@@ -1,0 +1,52 @@
+---
+term: durepul
+slug: durepul
+ipa: "du\u027Ee\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=du\u027Ee\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - continuous
+    - continuously
+  epo:
+  - - "da\u016Dra"
+  - - "da\u016Dre"
+  spa:
+  - - continuo
+  - - continuamente
+search terms:
+  glb:
+  - durepul
+  eng:
+  - continuous
+  - continuously
+  epo:
+  - "da\u016Dra"
+  - "da\u016Dre"
+  spa:
+  - continuo
+  - continuamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/dure">dure</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: durepul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: continuous, continuously
+    epo: "da\u016Dra; da\u016Dre"
+    spa: continuo; continuamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dure + -pul
+...

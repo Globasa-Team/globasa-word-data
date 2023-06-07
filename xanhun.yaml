@@ -1,0 +1,64 @@
+---
+term: xanhun
+slug: xanhun
+ipa: "\u0283an\u02C8xun"
+ipa link: "http://ipa-reader.xyz/?text=\u0283an\u02C8xun&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - scar
+    - cicatrix
+  epo:
+  - - cikatro
+  - - "cikatri\u011Di"
+    - cikatrigi
+  spa:
+  - - cicatriz
+search terms:
+  glb:
+  - xanhun
+  eng:
+  - scar
+  - cicatrix
+  epo:
+  - cikatro
+  - "cikatri\u011Di"
+  - cikatrigi
+  spa:
+  - cicatriz
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4F24\u75D5 \"xanghen\""
+  Niponsa:
+  - - "\u7622\u75D5 \"hankon\""
+    - "\u50B7\u75D5 \"xokon\""
+  Hangusa:
+  - - "\uD749\uD130 \"hyungto\""
+    - "\uC0C1\uD754 \"sanghun\""
+  Hindisa:
+  - - "\u0928\u093F\u0936\u093E\u0928 \"nixan\""
+raw data:
+  term: xanhun
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: scar, cicatrix
+    epo: "cikatro; cikatri\u011Di, cikatrigi"
+    spa: cicatriz
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u4F24\u75D5 \"xanghen\"), Niponsa (\u7622\u75D5 \"hankon\",
+    \u50B7\u75D5 \"xokon\"), Hangusa (\uD749\uD130 \"hyungto\", \uC0C1\uD754 \"sanghun\"),
+    Hindisa (\u0928\u093F\u0936\u093E\u0928 \"nixan\")"
+...

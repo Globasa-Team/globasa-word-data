@@ -1,0 +1,70 @@
+---
+term: ore
+slug: ore
+ipa: "\u02C8o\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8o\u027Ee&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - ear
+  - - hear
+    - listen
+  epo:
+  - - orelo
+  - - "a\u016Ddi"
+    - "a\u016Dskulti"
+  spa:
+  - - "o\xEDdo"
+    - oreja
+  - - "o\xEDr"
+search terms:
+  glb:
+  - ore
+  eng:
+  - ear
+  - hear
+  - listen
+  epo:
+  - orelo
+  - "a\u016Ddi"
+  - "a\u016Dskulti"
+  spa:
+  - "o\xEDdo"
+  - oreja
+  - "o\xEDr"
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - oreja
+  Fransesa: ~
+  "":
+  - - oreille
+  Doycisa:
+  - - Ohr
+  Putunhwa:
+  - - "\u8033 \u201C\u011Br\u201D"
+tags:
+- jismulogi
+raw data:
+  term: ore
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: ear; hear, listen
+    epo: "orelo; a\u016Ddi, a\u016Dskulti"
+    spa: "o\xEDdo, oreja; o\xEDr"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Espanisa (oreja), Fransesa, (oreille), Doycisa (Ohr), Putunhwa (\u8033
+    \u201C\u011Br\u201D)"
+...

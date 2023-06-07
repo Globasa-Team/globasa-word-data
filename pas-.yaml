@@ -1,0 +1,50 @@
+---
+term: pas-
+slug: pas-
+ipa: "\u02C8pas-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pas-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - through
+  epo:
+  - - tra-
+  spa:
+  - - "a trav\xE9s de"
+    - por medio de
+    - "v\xEDa"
+search terms:
+  glb:
+  - pas-
+  eng:
+  - through
+  epo:
+  - tra-
+  spa:
+  - "a trav\xE9s de"
+  - por medio de
+  - "v\xEDa"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/pasa">pasa</a>.
+raw data:
+  term: pas-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: through
+    epo: tra-
+    spa: "a trav\xE9s de, por medio de, v\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _pasa_.
+...

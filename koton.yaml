@@ -1,0 +1,52 @@
+---
+term: koton
+slug: koton
+ipa: "ko\u02C8ton"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8ton&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cotton
+  epo:
+  - - kotono
+  spa:
+  - - "algod\xF3n"
+    - _Gossypium_
+search terms:
+  glb:
+  - koton
+  eng:
+  - cotton
+  epo:
+  - kotono
+  spa:
+  - "algod\xF3n"
+  - gossypium
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: koton
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cotton
+    epo: kotono
+    spa: "algod\xF3n, _Gossypium_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u064F\u0637\u0652\u0646 \u201Cqu\u1E6Dn\u201D, \u0642\u064F\u0637\u064F\u0646
+    \u201Cqu\u1E6Dun\u201D), Hindisa (\u0915\u0949\u091F\u0928 \u201Ck\u014F\u1E6Dan\u201D),
+    Indonesisa (katun), Pilipinasa (koton), Englisa (cotton), Fransesa (coton), Espanisa
+    (algod\xF3n), Hangusa (\uCF54\uD2BC \u201Ckoteun\u201D), Niponsa (\u30B3\u30C3\u30C8\u30F3
+    \u201Ckotton\u201D)"
+...

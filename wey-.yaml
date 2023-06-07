@@ -1,0 +1,48 @@
+---
+term: wey-
+slug: wey-
+ipa: "\u02C8wej-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wej-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - around
+    - circum-
+  epo:
+  - - "\u0109irka\u016D-"
+  spa:
+  - - alrededor
+search terms:
+  glb:
+  - wey-
+  eng:
+  - around
+  - circum-
+  epo:
+  - "\u0109irka\u016D-"
+  spa:
+  - alrededor
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/wey">wey</a>.
+raw data:
+  term: wey-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: around, circum-
+    epo: "\u0109irka\u016D-"
+    spa: alrededor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _wey_.
+...

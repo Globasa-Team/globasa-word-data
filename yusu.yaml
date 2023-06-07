@@ -1,0 +1,46 @@
+---
+term: yusu
+slug: yusu
+ipa: "\u02C8jusu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jusu&voice=Ewa"
+status: false
+category: derived
+word class: su s
+trans:
+  eng:
+  - - your
+  epo:
+  - - via
+  spa:
+  - - tu
+search terms:
+  glb:
+  - yusu
+  eng:
+  - your
+  epo:
+  - via
+  spa:
+  - tu
+etymology_type: DERIVD
+etymology: <a href="../lexi/yu">yu</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: yusu
+  category: derived
+  word class: su s
+  status: false
+  trans:
+    eng: your
+    epo: via
+    spa: tu
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yu + -su
+...

@@ -1,0 +1,48 @@
+---
+term: literaturli
+slug: literaturli
+ipa: "lite\u027Ea\u02C8tu\u027Eli"
+ipa link: "http://ipa-reader.xyz/?text=lite\u027Ea\u02C8tu\u027Eli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - literary
+  epo:
+  - - literatura
+  - - literature
+  spa:
+  - - literario
+search terms:
+  glb:
+  - literaturli
+  eng:
+  - literary
+  epo:
+  - literatura
+  - literature
+  spa:
+  - literario
+etymology_type: DERIVD
+etymology: <a href="../lexi/literatur">literatur</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: literaturli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: literary
+    epo: literatura; literature
+    spa: literario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: literatur + -li
+...

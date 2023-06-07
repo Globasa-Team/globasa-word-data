@@ -1,0 +1,62 @@
+---
+term: tongi
+slug: tongi
+ipa: "\u02C8tongi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tongi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - connection
+  - - join
+    - connect
+    - merge
+  epo:
+  - - kunigo
+  - - kunigi
+  spa:
+  - - "conexi\xF3n"
+  - - juntar
+    - unir
+    - conectar
+search terms:
+  glb:
+  - tongi
+  eng:
+  - connection
+  - join
+  - connect
+  - merge
+  epo:
+  - kunigo
+  - kunigi
+  spa:
+  - "conexi\xF3n"
+  - juntar
+  - unir
+  - conectar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton">ton</a> + <a href="../lexi/-gi">-gi</a>
+synonyms:
+- tongogi
+raw data:
+  term: tongi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: connection; join, connect, merge
+    epo: kunigo; kunigi
+    spa: "conexi\xF3n; juntar, unir, conectar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: tongogi
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton + -gi
+...

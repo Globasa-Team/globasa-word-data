@@ -1,0 +1,55 @@
+---
+term: bosna ji hertsegovina
+slug: bosna ji hertsegovina
+ipa: "\u02C8bosna d\u0361\u0292i xe\u027Etsego\u02C8vina"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8bosna d\u0361\u0292i xe\u027Etsego\u02C8vina&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - Bosnia and Herzegovina
+  epo:
+  - - Bosnio kaj Hercegovino
+  spa:
+  - - Bosnia y Herzegovina
+search terms:
+  glb:
+  - bosna ji hertsegovina
+  - bosna
+  - ji
+  - hertsegovina
+  eng:
+  - bosnia and herzegovina
+  epo:
+  - bosnio kaj hercegovino
+  spa:
+  - bosnia y herzegovina
+etymology_type: NATLNG
+etymology:
+  Bosnasa:
+  - - Bosna i Hercegovina
+  Serbihervatskasa:
+  - - Bosna i Hercegovina
+tags:
+- dexa
+raw data:
+  term: Bosna ji Hertsegovina
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: Bosnia and Herzegovina
+    epo: Bosnio kaj Hercegovino
+    spa: Bosnia y Herzegovina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Bosnasa (Bosna i Hercegovina), Serbihervatskasa (Bosna i Hercegovina)
+...

@@ -1,0 +1,78 @@
+---
+term: terapi
+slug: terapi
+ipa: "te\u02C8\u027Eapi"
+ipa link: "http://ipa-reader.xyz/?text=te\u02C8\u027Eapi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - therapy
+    - treatment
+  epo:
+  - - terapio
+    - kuracado
+  spa:
+  - - terapia
+    - tratamiento
+search terms:
+  glb:
+  - terapi
+  eng:
+  - therapy
+  - treatment
+  epo:
+  - terapio
+  - kuracado
+  spa:
+  - terapia
+  - tratamiento
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Therapie
+  Englisa:
+  - - therapy
+  Espanisa:
+  - - terapia
+  Fransesa:
+  - - "th\xE9rapie"
+  Rusisa:
+  - - "\u0442\u0435\u0440\u0430\u043F\u0438\u044F \u201Cterapiya\u201D"
+  Indonesisa:
+  - - terapi
+  Pilipinasa:
+  - - terapiya
+  Turkisa:
+  - - terapi
+  Hindisa:
+  - - "\u0915\u0940\u092E\u094B\u0925\u0947\u0930\u0947\u092A\u0940 \u201Ckimoterepi\u201D"
+  Telugusa:
+  - - "\u0C15\u0C40\u0C2E\u0C4B\u0C25\u0C46\u0C30\u0C2A\u0C40 \u201Ckimoterapi\u201D"
+tags:
+- medis
+raw data:
+  term: terapi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: therapy, treatment
+    epo: terapio, kuracado
+    spa: terapia, tratamiento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Doycisa (Therapie), Englisa (therapy), Espanisa (terapia), Fransesa
+    (th\xE9rapie), Rusisa (\u0442\u0435\u0440\u0430\u043F\u0438\u044F \u201Cterapiya\u201D),
+    Indonesisa (terapi), Pilipinasa (terapiya), Turkisa (terapi), Hindisa (\u0915\u0940\u092E\u094B\u0925\u0947\u0930\u0947\u092A\u0940
+    \u201Ckimoterepi\u201D), Telugusa (\u0C15\u0C40\u0C2E\u0C4B\u0C25\u0C46\u0C30\u0C2A\u0C40
+    \u201Ckimoterapi\u201D)"
+...

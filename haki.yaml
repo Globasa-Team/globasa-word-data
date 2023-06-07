@@ -1,0 +1,67 @@
+---
+term: haki
+slug: haki
+ipa: ˈxaki
+ipa link: http://ipa-reader.xyz/?text=ˈxaki&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - right
+  - - have the right (to)
+  epo:
+  - - rajto
+  - - rajti
+  spa:
+  - - derecho
+  - - tener derecho (a)
+search terms:
+  glb:
+  - haki
+  eng:
+  - right
+  - have the right to
+  - have the right
+  epo:
+  - rajto
+  - rajti
+  spa:
+  - derecho
+  - tener derecho a
+  - tener derecho
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - حق “haq”
+  Swahilisa:
+  - - haki
+  Turkisa:
+  - - hak
+  Parsisa:
+  - - حق “hak”
+  Indonesia:
+  - - hak
+  Telugusa:
+  - - హక్కు "hakku"
+raw data:
+  term: haki
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: right; have the right (to)
+    epo: rajto; rajti
+    spa: derecho; tener derecho (a)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (حق “haq”), Swahilisa (haki), Turkisa (hak), Parsisa (حق “hak”),
+    Indonesia (hak), Telugusa (హక్కు "hakku")
+...

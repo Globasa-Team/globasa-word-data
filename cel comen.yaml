@@ -1,0 +1,50 @@
+---
+term: cel comen
+slug: cel comen
+ipa: "t\u0361\u0283el t\u0361\u0283o\u02C8men"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283el t\u0361\u0283o\u02C8men&voice=Ewa"
+status: false
+category: derived
+word class: p jm
+trans:
+  eng:
+  - - aside
+    - to the side
+  epo:
+  - - flanken
+  spa:
+  - - hacia el lado de
+search terms:
+  glb:
+  - cel comen
+  - cel
+  - comen
+  eng:
+  - aside
+  - to the side
+  epo:
+  - flanken
+  spa:
+  - hacia el lado de
+etymology_type: DERIVD
+etymology: <a href="../lexi/cel">cel</a>, <a href="../lexi/comen">comen</a>
+raw data:
+  term: cel comen
+  category: derived
+  word class: p jm
+  status: false
+  trans:
+    eng: aside, to the side
+    epo: flanken
+    spa: hacia el lado de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cel, comen
+...

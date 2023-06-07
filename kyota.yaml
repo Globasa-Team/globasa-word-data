@@ -1,0 +1,46 @@
+---
+term: kyota
+slug: kyota
+ipa: "\u02C8kjota"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kjota&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nest
+  epo:
+  - - nesto
+  spa:
+  - - nido
+search terms:
+  glb:
+  - kyota
+  eng:
+  - nest
+  epo:
+  - nesto
+  spa:
+  - nido
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kyota
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nest
+    epo: nesto
+    spa: nido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Swahilisa (kiota)
+...

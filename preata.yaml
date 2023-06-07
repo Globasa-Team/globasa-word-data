@@ -1,0 +1,52 @@
+---
+term: preata
+slug: preata
+ipa: "p\u027Ee\u02C8ata"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Ee\u02C8ata&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - arrival
+  - - arrive
+  epo:
+  - - alveno
+  - - alveni
+  spa:
+  - - llegada
+  - - llegar
+search terms:
+  glb:
+  - preata
+  eng:
+  - arrival
+  - arrive
+  epo:
+  - alveno
+  - alveni
+  spa:
+  - llegada
+  - llegar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pre-">pre-</a> + <a href="../lexi/ata">ata</a>
+raw data:
+  term: preata
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: arrival; arrive
+    epo: alveno; alveni
+    spa: llegada; llegar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pre- + ata
+...

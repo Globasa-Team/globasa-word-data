@@ -1,0 +1,67 @@
+---
+term: galaksi
+slug: galaksi
+ipa: gaˈlaksi
+ipa link: http://ipa-reader.xyz/?text=gaˈlaksi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - galaxy
+  epo:
+  - - galaksio
+  spa:
+  - - galaxia
+search terms:
+  glb:
+  - galaksi
+  eng:
+  - galaxy
+  epo:
+  - galaksio
+  spa:
+  - galaxia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - galaxy
+  Fransesa:
+  - - galaxie
+  Doycisa:
+  - - Galaxie
+  Rusisa:
+  - - галактика “galaktika”
+  Espanisa:
+  - - galaxia
+  Hindisa:
+  - - गैलेक्सी “geleksi”
+  Turkisa:
+  - - galaksi
+  Indonesisa: ~
+  Pilipinasa:
+  - - galaksiya
+tags:
+- kosmo
+raw data:
+  term: galaksi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: galaxy
+    epo: galaksio
+    spa: galaxia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kosmo
+  etymology: Englisa (galaxy), Fransesa (galaxie), Doycisa (Galaxie), Rusisa (галактика
+    “galaktika”), Espanisa (galaxia), Hindisa (गैलेक्सी “geleksi”), Turkisa (galaksi),
+    Indonesisa, Pilipinasa (galaksiya)
+...

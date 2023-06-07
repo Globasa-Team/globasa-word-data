@@ -1,0 +1,65 @@
+---
+term: nafil
+slug: nafil
+ipa: "na\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8fil&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - navel
+    - umbilicus
+    - belly button
+  epo:
+  - - umbiliko
+  spa:
+  - - ombligo
+search terms:
+  glb:
+  - nafil
+  eng:
+  - navel
+  - umbilicus
+  - belly button
+  epo:
+  - umbiliko
+  spa:
+  - ombligo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - navel
+  Doycisa:
+  - - Nabel
+  Hindisa:
+  - - "\u0928\u093E\u092D\u093F \u201Cnabi\u201D"
+    - "\u0928\u093E\u092B\u093C \u201Cnaf\u201D"
+  Telugusa:
+  - - "\u0C28\u0C3E\u0C2D\u0C3F \u201Cnabi\u201D"
+  Parsisa:
+  - - "\u0646\u0627\u0641 \u201Cnaf\u201D"
+tags:
+- jismulogi
+raw data:
+  term: nafil
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: navel, umbilicus, belly button
+    epo: umbiliko
+    spa: ombligo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (navel), Doycisa (Nabel), Hindisa (\u0928\u093E\u092D\u093F
+    \u201Cnabi\u201D, \u0928\u093E\u092B\u093C \u201Cnaf\u201D), Telugusa (\u0C28\u0C3E\u0C2D\u0C3F
+    \u201Cnabi\u201D), Parsisa (\u0646\u0627\u0641 \u201Cnaf\u201D)"
+...

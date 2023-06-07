@@ -1,0 +1,72 @@
+---
+term: serye
+slug: serye
+ipa: "\u02C8se\u027Eje"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8se\u027Eje&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - series
+    - sequence
+  epo:
+  - - serio
+  spa:
+  - - serie
+    - secuencia
+  fra:
+  - - "s\xE9rie"
+search terms:
+  glb:
+  - serye
+  eng:
+  - series
+  - sequence
+  epo:
+  - serio
+  spa:
+  - serie
+  - secuencia
+  fra:
+  - "s\xE9rie"
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Serie
+  Englisa:
+  - - series
+  Espanisa:
+  - - serie
+  Fransesa:
+  - - "s\xE9rie"
+  Rusisa:
+  - - "\u0441\u0435\u0440\u0438\u044F \u201Cserya\u201D"
+  Turkisa:
+  - - seri
+  Indonesisa:
+  - - seri
+  Pilipinasa:
+  - - serye
+raw data:
+  term: serye
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: series, sequence
+    epo: serio
+    spa: serie, secuencia
+    deu: ""
+    fra: "s\xE9rie"
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Serie), Englisa (series), Espanisa (serie), Fransesa (s\xE9rie),
+    Rusisa (\u0441\u0435\u0440\u0438\u044F \u201Cserya\u201D), Turkisa (seri), Indonesisa
+    (seri), Pilipinasa (serye)"
+...

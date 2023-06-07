@@ -1,0 +1,50 @@
+---
+term: semiblue
+slug: semiblue
+ipa: "semi\u02C8blue"
+ipa link: "http://ipa-reader.xyz/?text=semi\u02C8blue&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - bluish
+    - blueish
+  epo:
+  - - blueca
+  - - bluece
+  spa:
+  - - azulado
+search terms:
+  glb:
+  - semiblue
+  eng:
+  - bluish
+  - blueish
+  epo:
+  - blueca
+  - bluece
+  spa:
+  - azulado
+etymology_type: DERIVD
+etymology: <a href="../lexi/semi">semi</a> + <a href="../lexi/blue">blue</a>
+raw data:
+  term: semiblue
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: bluish, blueish
+    epo: blueca; bluece
+    spa: azulado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: semi + blue
+...

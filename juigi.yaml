@@ -1,0 +1,48 @@
+---
+term: juigi
+slug: juigi
+ipa: "d\u0361\u0292u\u02C8igi"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292u\u02C8igi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - point out
+  epo:
+  - - atentigo
+  - - atentigi
+  spa:
+  - - "se\xF1alar"
+search terms:
+  glb:
+  - juigi
+  eng:
+  - point out
+  epo:
+  - atentigo
+  - atentigi
+  spa:
+  - "se\xF1alar"
+etymology_type: DERIVD
+etymology: <a href="../lexi/jui">jui</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: juigi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: point out
+    epo: atentigo; atentigi
+    spa: "se\xF1alar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: point, point out
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jui + -gi
+...

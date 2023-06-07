@@ -1,0 +1,68 @@
+---
+term: musi
+slug: musi
+ipa: "\u02C8musi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8musi&voice=Ewa"
+status: true
+category: root
+word class: t; f.sah
+trans:
+  eng:
+  - - which must
+    - obligated
+    - supposed (to)
+  - - must
+    - have (to)
+  epo:
+  - - deva
+    - deviga
+  - - deve
+  - - devi
+  spa:
+  - - que debe
+    - obligado
+  - - deber
+    - tener que
+search terms:
+  glb:
+  - musi
+  eng:
+  - which must
+  - obligated
+  - supposed to
+  - supposed
+  - must
+  - have to
+  - have
+  epo:
+  - deva
+  - deviga
+  - deve
+  - devi
+  spa:
+  - que debe
+  - obligado
+  - deber
+  - tener que
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: musi
+  category: root
+  word class: t; f.sah
+  status: true
+  trans:
+    eng: which must, obligated, supposed (to); must, have (to)
+    epo: deva, deviga; deve; devi
+    spa: que debe, obligado; deber, tener que
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (must), Doycisa (m\xFCssen), Ceskisa (mus\xED)"
+...

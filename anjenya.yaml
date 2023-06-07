@@ -1,0 +1,48 @@
+---
+term: anjenya
+slug: anjenya
+ipa: "an\u02C8d\u0361\u0292enja"
+ipa link: "http://ipa-reader.xyz/?text=an\u02C8d\u0361\u0292enja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - safety
+    - security
+  epo:
+  - - sekureco
+  spa:
+  - - seguridad
+search terms:
+  glb:
+  - anjenya
+  eng:
+  - safety
+  - security
+  epo:
+  - sekureco
+  spa:
+  - seguridad
+etymology_type: DERIVD
+etymology: <a href="../lexi/anjen">anjen</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: anjenya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: safety, security
+    epo: sekureco
+    spa: seguridad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: anjen + -ya
+...

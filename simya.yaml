@@ -1,0 +1,48 @@
+---
+term: simya
+slug: simya
+ipa: "\u02C8simja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8simja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - similarity
+  epo:
+  - - simileco
+  spa:
+  - - similitud
+    - parecido
+search terms:
+  glb:
+  - simya
+  eng:
+  - similarity
+  epo:
+  - simileco
+  spa:
+  - similitud
+  - parecido
+etymology_type: DERIVD
+etymology: <a href="../lexi/sim">sim</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: simya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: similarity
+    epo: simileco
+    spa: similitud, parecido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sim + -ya
+...

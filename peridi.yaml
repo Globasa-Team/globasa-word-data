@@ -1,0 +1,54 @@
+---
+term: peridi
+slug: peridi
+ipa: "pe\u02C8\u027Eidi"
+ipa link: "http://ipa-reader.xyz/?text=pe\u02C8\u027Eidi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - mount
+    - board
+  epo:
+  - - supreniri
+    - "sur\u0109evali\u011Di"
+    - "en\u015Dipi\u011Di"
+  spa:
+  - - montar
+    - abordar
+search terms:
+  glb:
+  - peridi
+  eng:
+  - mount
+  - board
+  epo:
+  - supreniri
+  - "sur\u0109evali\u011Di"
+  - "en\u015Dipi\u011Di"
+  spa:
+  - montar
+  - abordar
+etymology_type: DERIVD
+etymology: <a href="../lexi/per-">per-</a> + <a href="../lexi/idi">idi</a>
+raw data:
+  term: peridi
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: mount, board
+    epo: "supreniri, sur\u0109evali\u011Di, en\u015Dipi\u011Di"
+    spa: montar, abordar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: per- + idi
+...

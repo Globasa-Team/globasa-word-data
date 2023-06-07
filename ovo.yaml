@@ -1,0 +1,74 @@
+---
+term: ovo
+slug: ovo
+ipa: "\u02C8ovo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ovo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - egg
+  epo:
+  - - ovo
+  spa:
+  - - huevo
+search terms:
+  glb:
+  - ovo
+  eng:
+  - egg
+  epo:
+  - ovo
+  spa:
+  - huevo
+etymology_type: NATLNG
+etymology:
+  Portugalsa:
+  - - ovo
+  Italisa:
+  - - uovo
+  Englisa:
+  - - ovoid
+    - ovum
+    - oval
+  Doycisa:
+  - - Ovum
+    - oval
+  Fransesa:
+  - - "ovo\xEFde"
+    - ovule
+    - ovale
+  Espanisa:
+  - - "\xF3vulo"
+    - huevo
+    - oval
+  Rusisa:
+  - - "\u043E\u0432\u0430\u043B\u044C\u043D\u044B\u0439 \u201Covalniy\u201D"
+  Turkisa:
+  - - oval
+tags:
+- yamxey
+raw data:
+  term: ovo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: egg
+    epo: ovo
+    spa: huevo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Portugalsa (ovo), Italisa (uovo), Englisa (ovoid, ovum, oval), Doycisa
+    (Ovum, oval), Fransesa (ovo\xEFde, ovule, ovale), Espanisa (\xF3vulo, huevo, oval),
+    Rusisa (\u043E\u0432\u0430\u043B\u044C\u043D\u044B\u0439 \u201Covalniy\u201D),
+    Turkisa (oval)"
+...

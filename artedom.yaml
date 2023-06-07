@@ -1,0 +1,52 @@
+---
+term: artedom
+slug: artedom
+ipa: "a\u027Ete\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Ete\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (art) studio
+  epo:
+  - - (arta) studio
+    - artejo
+  spa:
+  - - estudio de arte
+search terms:
+  glb:
+  - artedom
+  eng:
+  - art studio
+  - studio
+  epo:
+  - arta studio
+  - studio
+  - artejo
+  spa:
+  - estudio de arte
+etymology_type: DERIVD
+etymology: <a href="../lexi/arte">arte</a> + <a href="../lexi/-dom">-dom</a>
+tags:
+- arte
+raw data:
+  term: artedom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (art) studio
+    epo: (arta) studio, artejo
+    spa: estudio de arte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: arte
+  etymology: arte + -dom
+...

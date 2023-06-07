@@ -1,0 +1,47 @@
+---
+term: jara
+slug: jara
+ipa: "\u02C8d\u0361\u0292a\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292a\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - neighbor
+  epo:
+  - - najbaro
+  spa:
+  - - vecino
+search terms:
+  glb:
+  - jara
+  eng:
+  - neighbor
+  epo:
+  - najbaro
+  spa:
+  - vecino
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jara
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: neighbor
+    epo: najbaro
+    spa: vecino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u0627\u0631\u0629 \u201Cjara\u201D, \u0627\u0644\u062C\u064A\u0631\u0627\u0646
+    \u201Cjiran\u201D), Swahilisa (jirani), Indonesia (jiran)"
+...

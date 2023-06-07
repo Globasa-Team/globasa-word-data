@@ -1,0 +1,54 @@
+---
+term: tweji
+slug: tweji
+ipa: "\u02C8twed\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8twed\u0361\u0292i&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - retirement
+  - - retire
+  spa:
+  - - retiro
+    - "jubilaci\xF3n"
+  - - retirarse
+    - jubilarse
+search terms:
+  glb:
+  - tweji
+  eng:
+  - retirement
+  - retire
+  spa:
+  - retiro
+  - "jubilaci\xF3n"
+  - retirarse
+  - jubilarse
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u9000\u804C \"tweyji\""
+  Hangusa:
+  - - "\uD1F4\uC9C1 \"twejik\""
+raw data:
+  term: tweji
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: retirement; retire
+    epo: ""
+    spa: "retiro, jubilaci\xF3n; retirarse, jubilarse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u9000\u804C \"tweyji\"), Hangusa (\uD1F4\uC9C1 \"twejik\")"
+...

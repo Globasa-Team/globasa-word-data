@@ -1,0 +1,77 @@
+---
+term: efeto
+slug: efeto
+ipa: eˈfeto
+ipa link: http://ipa-reader.xyz/?text=eˈfeto&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - effect
+    - impact
+  - - affect
+  epo:
+  - - efiko
+    - efekto
+  - - efiki
+  spa:
+  - - efecto
+  - - afectar
+search terms:
+  glb:
+  - efeto
+  eng:
+  - effect
+  - impact
+  - affect
+  epo:
+  - efiko
+  - efekto
+  - efiki
+  spa:
+  - efecto
+  - afectar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - effect
+  Fransesa:
+  - - effet
+  Doycisa: ~
+  Rusisa:
+  - - эффект “effekt”
+  Espanisa:
+  - - efecto
+  Indonesisa:
+  - - efek
+  Pilipinasa:
+  - - epekto
+  Turkisa:
+  - - efekt
+  Parsisa:
+  - - افکت “efekt”
+  Niponsa:
+  - - エフェクター “efekuta”
+raw data:
+  term: efeto
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: effect, impact; affect
+    epo: efiko, efekto; efiki
+    spa: efecto; afectar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (effect), Fransesa (effet), Doycisa, Rusisa (эффект “effekt”),
+    Espanisa (efecto), Indonesisa (efek), Pilipinasa (epekto), Turkisa (efekt), Parsisa
+    (افکت “efekt”), Niponsa (エフェクター “efekuta”)
+...

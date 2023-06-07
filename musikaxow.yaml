@@ -1,0 +1,46 @@
+---
+term: musikaxow
+slug: musikaxow
+ipa: "musika\u02C8\u0283ow"
+ipa link: "http://ipa-reader.xyz/?text=musika\u02C8\u0283ow&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - concert
+  epo:
+  - - koncerto
+  spa:
+  - - concierto
+search terms:
+  glb:
+  - musikaxow
+  eng:
+  - concert
+  epo:
+  - koncerto
+  spa:
+  - concierto
+etymology_type: DERIVD
+etymology: <a href="../lexi/musika">musika</a> + <a href="../lexi/xow">xow</a>
+raw data:
+  term: musikaxow
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: concert
+    epo: koncerto
+    spa: concierto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: musika + xow
+...

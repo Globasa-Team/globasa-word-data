@@ -1,0 +1,49 @@
+---
+term: uyusu
+slug: uyusu
+ipa: "u\u02C8jusu"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8jusu&voice=Ewa"
+status: false
+category: derived
+word class: su s
+trans:
+  eng:
+  - - your (_pl. you_)
+  epo:
+  - - via (plurala)
+  spa:
+  - - de ustedes
+    - vuestro
+search terms:
+  glb:
+  - uyusu
+  eng:
+  - your
+  epo:
+  - via plurala
+  - via
+  spa:
+  - de ustedes
+  - vuestro
+etymology_type: DERIVD
+etymology: <a href="../lexi/uyu">uyu</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: uyusu
+  category: derived
+  word class: su s
+  status: false
+  trans:
+    eng: your (_pl. you_)
+    epo: via (plurala)
+    spa: de ustedes, vuestro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: uyu + -su
+...

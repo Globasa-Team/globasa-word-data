@@ -1,0 +1,56 @@
+---
+term: teatro
+slug: teatro
+ipa: "te\u02C8at\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=te\u02C8at\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - theater
+    - theatre
+  epo:
+  - - teatro
+  spa:
+  - - teatro
+search terms:
+  glb:
+  - teatro
+  eng:
+  - theater
+  - theatre
+  epo:
+  - teatro
+  spa:
+  - teatro
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - theater
+  Doycisa: ~
+  Fransesa: ~
+  Espanisa: ~
+  Rusisa: ~
+  Hindisa: ~
+  Indonesisa: ~
+raw data:
+  term: teatro
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: theater, theatre
+    epo: teatro
+    spa: teatro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (theater), Doycisa, Fransesa, Espanisa, Rusisa, Hindisa, Indonesisa
+...

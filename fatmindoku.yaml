@@ -1,0 +1,48 @@
+---
+term: fatmindoku
+slug: fatmindoku
+ipa: "fatmin\u02C8doku"
+ipa link: "http://ipa-reader.xyz/?text=fatmin\u02C8doku&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - patent
+  epo:
+  - - patento
+  - - patenti
+  spa:
+  - - patente
+search terms:
+  glb:
+  - fatmindoku
+  eng:
+  - patent
+  epo:
+  - patento
+  - patenti
+  spa:
+  - patente
+etymology_type: DERIVD
+etymology: <a href="../lexi/fatmin">fatmin</a> + <a href="../lexi/doku">doku</a>
+raw data:
+  term: fatmindoku
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: patent
+    epo: patento; patenti
+    spa: patente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fatmin + doku
+...

@@ -1,0 +1,66 @@
+---
+term: zumrudi
+slug: zumrudi
+ipa: "zum\u02C8\u027Eudi"
+ipa link: "http://ipa-reader.xyz/?text=zum\u02C8\u027Eudi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - emerald
+  epo:
+  - - smeraldo
+  spa:
+  - - esmeralda
+search terms:
+  glb:
+  - zumrudi
+  eng:
+  - emerald
+  epo:
+  - smeraldo
+  spa:
+  - esmeralda
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - "\u0438\u0437\u0443\u043C\u0440\u0443\u0434 \u201Cizumrud\u201D"
+  Hindisa:
+  - - "\u091C\u092E\u0941\u0930\u094D\u0930\u0926 \u201Cjamurad\u201D"
+  Indonesisa:
+  - - zamrud
+  Arabisa:
+  - - "\u0632\u064F\u0645\u064F\u0631\u064F\u0651\u062F \u201Czumurud\u201D"
+  Turkisa:
+  - - "z\xFCmr\xFCt"
+  Parsisa:
+  - - "\u0632\u0645\u0631\u062F \u201Czomorrod\u201D"
+  Swahilisa:
+  - - zumaridi
+tags:
+- petra
+raw data:
+  term: zumrudi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: emerald
+    epo: smeraldo
+    spa: esmeralda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: "Rusisa (\u0438\u0437\u0443\u043C\u0440\u0443\u0434 \u201Cizumrud\u201D),
+    Hindisa (\u091C\u092E\u0941\u0930\u094D\u0930\u0926 \u201Cjamurad\u201D), Indonesisa
+    (zamrud), Arabisa (\u0632\u064F\u0645\u064F\u0631\u064F\u0651\u062F \u201Czumurud\u201D),
+    Turkisa (z\xFCmr\xFCt), Parsisa (\u0632\u0645\u0631\u062F \u201Czomorrod\u201D),
+    Swahilisa (zumaridi)"
+...

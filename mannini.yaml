@@ -1,0 +1,46 @@
+---
+term: mannini
+slug: mannini
+ipa: "man\u02C8nini"
+ipa link: "http://ipa-reader.xyz/?text=man\u02C8nini&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - boy
+  epo:
+  - - knabo
+  spa:
+  - - "ni\xF1o"
+search terms:
+  glb:
+  - mannini
+  eng:
+  - boy
+  epo:
+  - knabo
+  spa:
+  - "ni\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/nini">nini</a>
+raw data:
+  term: mannini
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: boy
+    epo: knabo
+    spa: "ni\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + nini
+...

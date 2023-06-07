@@ -1,0 +1,76 @@
+---
+term: pantalun
+slug: pantalun
+ipa: "panta\u02C8lun"
+ipa link: "http://ipa-reader.xyz/?text=panta\u02C8lun&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - trousers
+    - pants
+    - slacks
+  epo:
+  - - pantalono
+  spa:
+  - - "pantal\xF3n"
+search terms:
+  glb:
+  - pantalun
+  eng:
+  - trousers
+  - pants
+  - slacks
+  epo:
+  - pantalono
+  spa:
+  - "pantal\xF3n"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0628\u064E\u0646\u0652\u0637\u064E\u0644\u064F\u0648\u0646 \u201Cban\u1E6Dal\u014Dn\u201D"
+  Hindisa:
+  - - "\u092A\u0948\u0902\u091F \u201Cpent\u201D"
+  Englisa:
+  - - pantaloons
+    - pants
+  Fransesa:
+  - - pantalon
+  Espanisa:
+  - - pantalones
+    - "panta\xF3n"
+  Turkisa:
+  - - pantolon
+  Telugusa:
+  - - "\u0C2A\u0C4D\u0C2F\u0C3E\u0C02\u0C1F\u0C41 \u201Cpy\u0101\u1E47\u1E6Du\u201D"
+    - "\u0C2A\u0C02\u0C1F\u0C4D\u0C32\u0C3E\u0C02 \u201Cpa\u1E47\u1E6Dl\u0101\u1E43\u201D"
+  Pilipinasa:
+  - - pantalon
+tags:
+- labas
+raw data:
+  term: pantalun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: trousers, pants, slacks
+    epo: pantalono
+    spa: "pantal\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Arabisa (\u0628\u064E\u0646\u0652\u0637\u064E\u0644\u064F\u0648\u0646
+    \u201Cban\u1E6Dal\u014Dn\u201D), Hindisa (\u092A\u0948\u0902\u091F \u201Cpent\u201D),
+    Englisa (pantaloons, pants), Fransesa (pantalon), Espanisa (pantalones, panta\xF3n),
+    Turkisa (pantolon), Telugusa (\u0C2A\u0C4D\u0C2F\u0C3E\u0C02\u0C1F\u0C41 \u201Cpy\u0101\u1E47\u1E6Du\u201D,
+    \u0C2A\u0C02\u0C1F\u0C4D\u0C32\u0C3E\u0C02 \u201Cpa\u1E47\u1E6Dl\u0101\u1E43\u201D),
+    Pilipinasa (pantalon)"
+...

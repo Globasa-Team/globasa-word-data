@@ -1,0 +1,52 @@
+---
+term: dayajabu
+slug: dayajabu
+ipa: "daja\u02C8d\u0361\u0292abu"
+ipa link: "http://ipa-reader.xyz/?text=daja\u02C8d\u0361\u0292abu&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - bizarre
+  epo:
+  - - strangega
+    - bizara
+  - - strangege
+    - bizare
+  spa:
+  - - "extra\xF1o"
+search terms:
+  glb:
+  - dayajabu
+  eng:
+  - bizarre
+  epo:
+  - strangega
+  - bizara
+  - strangege
+  - bizare
+  spa:
+  - "extra\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/ajabu">ajabu</a>
+raw data:
+  term: dayajabu
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: bizarre
+    epo: strangega, bizara; strangege, bizare
+    spa: "extra\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + ajabu
+...

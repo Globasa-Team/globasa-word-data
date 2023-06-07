@@ -1,0 +1,81 @@
+---
+term: demo
+slug: demo
+ipa: ˈdemo
+ipa link: http://ipa-reader.xyz/?text=ˈdemo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (the) public
+    - (a) people
+    - peoples
+    - population
+  epo:
+  - - popolo
+    - populacio
+  spa:
+  - - público
+search terms:
+  glb:
+  - demo
+  eng:
+  - the public
+  - public
+  - a people
+  - people
+  - peoples
+  - population
+  epo:
+  - popolo
+  - populacio
+  spa:
+  - público
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - democracy
+  Fransesa:
+  - - démocratie
+  Doycisa:
+  - - Demokratie
+  Rusisa:
+  - - демократия “demokratiya”
+  Espanisa:
+  - - democracia
+  Arabisa:
+  - - دِيمُقْرَاطِيَّة “dīmuqrāṭiyya”
+  Parsisa:
+  - - دموکراسی “demokrâsi”
+  Turkisa:
+  - - demokrasi
+  Swahilisa:
+  - - demokrasia
+  Indonesisa:
+  - - demokrasi
+  Pilipinasa:
+  - - demokrasya
+raw data:
+  term: demo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (the) public, (a) people, peoples, population
+    epo: popolo, populacio
+    spa: público
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (democracy), Fransesa (démocratie), Doycisa (Demokratie), Rusisa
+    (демократия “demokratiya”), Espanisa (democracia), Arabisa (دِيمُقْرَاطِيَّة “dīmuqrāṭiyya”),
+    Parsisa (دموکراسی “demokrâsi”), Turkisa (demokrasi), Swahilisa (demokrasia), Indonesisa
+    (demokrasi), Pilipinasa (demokrasya)
+...

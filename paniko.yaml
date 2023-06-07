@@ -1,0 +1,74 @@
+---
+term: paniko
+slug: paniko
+ipa: "pa\u02C8niko"
+ipa link: "http://ipa-reader.xyz/?text=pa\u02C8niko&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - panic
+  epo:
+  - - paniko
+  spa:
+  - - "p\xE1nico"
+  - - "entrar en p\xE1nico"
+search terms:
+  glb:
+  - paniko
+  eng:
+  - panic
+  epo:
+  - paniko
+  spa:
+  - "p\xE1nico"
+  - "entrar en p\xE1nico"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - panic
+  Fransesa:
+  - - panique
+  Doycisa:
+  - - Panik
+  Rusisa:
+  - - "\u043F\u0430\u043D\u0438\u043A\u0430 \u201Cpanika\u201D"
+  Espanisa:
+  - - "p\xE1nico"
+  Turkisa:
+  - - panik
+  Indonesisa:
+  - - panik
+  Niponsa:
+  - - "\u30D1\u30CB\u30C3\u30AF \u201Cpanikku\u201D"
+  Hangusa:
+  - - "\uD328\uB2C9 \u201Cpenik\u201D"
+  Parsisa:
+  - - "\u067E\u0627\u0646\u06CC\u06A9 \u201Cp\xE2nik\u201D"
+  Italisa:
+  - - panico
+raw data:
+  term: paniko
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: panic
+    epo: paniko
+    spa: "p\xE1nico; entrar en p\xE1nico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (panic), Fransesa (panique), Doycisa (Panik), Rusisa (\u043F\u0430\u043D\u0438\u043A\u0430
+    \u201Cpanika\u201D), Espanisa (p\xE1nico), Turkisa (panik), Indonesisa (panik),
+    Niponsa (\u30D1\u30CB\u30C3\u30AF \u201Cpanikku\u201D), Hangusa (\uD328\uB2C9
+    \u201Cpenik\u201D), Parsisa (\u067E\u0627\u0646\u06CC\u06A9 \u201Cp\xE2nik\u201D),
+    Italisa (panico)"
+...

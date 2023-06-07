@@ -1,0 +1,68 @@
+---
+term: klase
+slug: klase
+ipa: "\u02C8klase"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8klase&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - class
+    - category
+  - - classify
+    - categorize
+  epo:
+  - - klaso
+    - kategorio
+  - - klasi
+    - klasifiki
+  spa:
+  - - clase
+    - "categor\xEDa"
+  - - clasificar
+    - clasificarse
+    - categorizar
+search terms:
+  glb:
+  - klase
+  eng:
+  - class
+  - category
+  - classify
+  - categorize
+  epo:
+  - klaso
+  - kategorio
+  - klasi
+  - klasifiki
+  spa:
+  - clase
+  - "categor\xEDa"
+  - clasificar
+  - clasificarse
+  - categorizar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: klase
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: class, category; classify, categorize
+    epo: klaso, kategorio; klasi, klasifiki
+    spa: "clase, categor\xEDa; clasificar, clasificarse, categorizar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (class), Fransesa (classe), Doycisa (Klasse), Rusisa (\u043A\u043B\u0430\u0441\u0441
+    \u201Cklass\u201D), Espanisa (clase), Pilipinasa (klase), Indonesisa (kelas),
+    Parsisa (\u06A9\u0644\u0627\u0633 \"kel\xE2s\")"
+...

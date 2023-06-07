@@ -1,0 +1,48 @@
+---
+term: ukrainali
+slug: ukrainali
+ipa: "uk\u027Eai\u02C8nali"
+ipa link: "http://ipa-reader.xyz/?text=uk\u027Eai\u02C8nali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Ukrainian
+  epo:
+  - - ukraina
+  - - ukraine
+  spa:
+  - - ucraniano
+search terms:
+  glb:
+  - ukrainali
+  eng:
+  - ukrainian
+  epo:
+  - ukraina
+  - ukraine
+  spa:
+  - ucraniano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Ukraina">Ukraina</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Ukrainali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Ukrainian
+    epo: ukraina; ukraine
+    spa: ucraniano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Ukraina + -li
+...

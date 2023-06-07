@@ -1,0 +1,79 @@
+---
+term: estandar
+slug: estandar
+ipa: estanˈdaɾ
+ipa link: http://ipa-reader.xyz/?text=estanˈdaɾ&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - standard
+    - default
+  - - standardize
+  epo:
+  - - defaŭlto
+    - normo
+  - - defaŭltigi
+    - normigi
+  spa:
+  - - estándar
+    - _default_ (computadora)
+  - - estandarizar
+search terms:
+  glb:
+  - estandar
+  eng:
+  - standard
+  - default
+  - standardize
+  epo:
+  - defaŭlto
+  - normo
+  - defaŭltigi
+  - normigi
+  spa:
+  - estándar
+  - estandarizar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - standard
+  Espanisa:
+  - - estándar
+  Rusisa:
+  - - стандарт  standart”
+  Doycisa:
+  - - Standard
+  Indonesisa:
+  - - standar
+  Niponsa:
+  - - スタンダード “sutandado”
+  Turkisa:
+  - - standart
+  Hangusa:
+  - - 스탠더드 “sutendodu”
+  Parsisa:
+  - - استاندارد “estandard”
+raw data:
+  term: estandar
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: standard, default; standardize
+    epo: defaŭlto, normo; defaŭltigi, normigi
+    spa: estándar, _default_ (computadora); estandarizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (standard), Espanisa (estándar), Rusisa (стандарт  standart”),
+    Doycisa (Standard), Indonesisa (standar), Niponsa (スタンダード “sutandado”), Turkisa
+    (standart), Hangusa (스탠더드 “sutendodu”), Parsisa (استاندارد “estandard”)
+...

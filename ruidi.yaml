@@ -1,0 +1,56 @@
+---
+term: ruidi
+slug: ruidi
+ipa: "\u027Eu\u02C8idi"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8idi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - return
+    - go back
+  epo:
+  - - reiro
+  - - reiri
+  spa:
+  - - regreso
+    - vuelta
+  - - regresar
+    - volver
+search terms:
+  glb:
+  - ruidi
+  eng:
+  - return
+  - go back
+  epo:
+  - reiro
+  - reiri
+  spa:
+  - regreso
+  - vuelta
+  - regresar
+  - volver
+etymology_type: DERIVD
+etymology: <a href="../lexi/ru-">ru-</a> + <a href="../lexi/idi">idi</a>
+raw data:
+  term: ruidi
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: return, go back
+    epo: reiro; reiri
+    spa: regreso, vuelta; regresar, volver
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ru- + idi
+...

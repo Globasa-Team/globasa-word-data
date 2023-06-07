@@ -1,0 +1,52 @@
+---
+term: kabuverdi
+slug: kabuverdi
+ipa: "kabu\u02C8ve\u027Edi"
+ipa link: "http://ipa-reader.xyz/?text=kabu\u02C8ve\u027Edi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Cabo Verde
+  epo:
+  - - Verda Kabo
+  spa:
+  - - Cabo Verde
+search terms:
+  glb:
+  - kabuverdi
+  eng:
+  - cabo verde
+  epo:
+  - verda kabo
+  spa:
+  - cabo verde
+etymology_type: NATLNG
+etymology:
+  Portugalsa:
+  - - Cabo Verde
+  Kabuverdisa:
+  - - Kabu Verdi
+tags:
+- dexa
+raw data:
+  term: Kabuverdi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Cabo Verde
+    epo: Verda Kabo
+    spa: Cabo Verde
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Portugalsa (Cabo Verde), Kabuverdisa (Kabu Verdi)
+...

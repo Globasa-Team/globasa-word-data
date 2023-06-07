@@ -1,0 +1,75 @@
+---
+term: simula
+slug: simula
+ipa: "si\u02C8mula"
+ipa link: "http://ipa-reader.xyz/?text=si\u02C8mula&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - simulation
+  - - simulate
+  epo:
+  - - simulado
+  - - simuli
+  spa:
+  - - "simulaci\xF3n"
+  - - simular
+search terms:
+  glb:
+  - simula
+  eng:
+  - simulation
+  - simulate
+  epo:
+  - simulado
+  - simuli
+  spa:
+  - "simulaci\xF3n"
+  - simular
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - simulation
+    - simulate
+  Doycisa:
+  - - Simulation
+  Fransesa:
+  - - simulation
+  Espanisa:
+  - - "simulaci\xF3n"
+    - simular
+  Rusisa:
+  - - "\u0441\u0438\u043C\u0443\u043B\u044F\u0301\u0446\u0438\u044F \u201Csimulj\xE1cija\u201D"
+  Indonesisa:
+  - - simulasi
+  Pilipinasa:
+  - - simulasyon
+  Niponsa:
+  - - "\u30B7\u30DF\u30E5\u30EC\u30FC\u30B7\u30E7\u30F3 \u201Cshimyur\u0113shon\u201D"
+    - "\u30B7\u30DF\u30E5\u30EC\u30FC\u30C8 \u201Cshimur\u0113to\u201D"
+raw data:
+  term: simula
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: simulation; simulate
+    epo: simulado; simuli
+    spa: "simulaci\xF3n; simular"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (simulation, simulate), Doycisa (Simulation), Fransesa (simulation),
+    Espanisa (simulaci\xF3n, simular), Rusisa (\u0441\u0438\u043C\u0443\u043B\u044F\u0301\u0446\u0438\u044F
+    \u201Csimulj\xE1cija\u201D), Indonesisa (simulasi), Pilipinasa (simulasyon), Niponsa
+    (\u30B7\u30DF\u30E5\u30EC\u30FC\u30B7\u30E7\u30F3 \u201Cshimyur\u0113shon\u201D,
+    \u30B7\u30DF\u30E5\u30EC\u30FC\u30C8 \u201Cshimur\u0113to\u201D)"
+...

@@ -1,0 +1,46 @@
+---
+term: folya
+slug: folya
+ipa: "\u02C8folja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8folja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - be along
+  epo:
+  - - "esti la\u016D"
+  spa:
+  - - estar junto a
+search terms:
+  glb:
+  - folya
+  eng:
+  - be along
+  epo:
+  - "esti la\u016D"
+  spa:
+  - estar junto a
+etymology_type: DERIVD
+etymology: <a href="../lexi/fol">fol</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: folya
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: be along
+    epo: "esti la\u016D"
+    spa: estar junto a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fol + -ya
+...

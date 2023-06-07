@@ -1,0 +1,66 @@
+---
+term: akrobati
+slug: akrobati
+ipa: akɾoˈbati
+ipa link: http://ipa-reader.xyz/?text=akɾoˈbati&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - acrobatics
+  epo:
+  - - akrobatado
+  spa:
+  - - acrobacia
+search terms:
+  glb:
+  - akrobati
+  eng:
+  - acrobatics
+  epo:
+  - akrobatado
+  spa:
+  - acrobacia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - acrobatics
+  Espanisa:
+  - - acrobacia
+  Fransesa:
+  - - acrobatie
+  Rusisa:
+  - - акробатика “akrobatika”
+  Doycisa:
+  - - Akrobatik
+  Indonesisa:
+  - - akrobatik
+  Pilipinasa:
+  - - akrobatika
+  Turkisa:
+  - - akrobasi
+  Parsisa:
+  - - آکروباتیک “âkrobâtik”
+raw data:
+  term: akrobati
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: acrobatics
+    epo: akrobatado
+    spa: acrobacia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (acrobatics), Espanisa (acrobacia), Fransesa (acrobatie), Rusisa
+    (акробатика “akrobatika”), Doycisa (Akrobatik), Indonesisa (akrobatik), Pilipinasa
+    (akrobatika), Turkisa (akrobasi), Parsisa (آکروباتیک “âkrobâtik”)
+...

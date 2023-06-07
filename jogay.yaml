@@ -1,0 +1,65 @@
+---
+term: jogay
+slug: jogay
+ipa: "d\u0361\u0292o\u02C8gaj"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292o\u02C8gaj&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - handicap
+    - disability
+    - impediment
+    - impairment
+    - disorder
+  epo:
+  - - handikapo
+    - malkapablo
+    - miskapablo
+  spa:
+  - - discapacidad
+    - desorden
+    - trastorno
+search terms:
+  glb:
+  - jogay
+  eng:
+  - handicap
+  - disability
+  - impediment
+  - impairment
+  - disorder
+  epo:
+  - handikapo
+  - malkapablo
+  - miskapablo
+  spa:
+  - discapacidad
+  - desorden
+  - trastorno
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: jogay
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: handicap, disability, impediment, impairment, disorder
+    epo: handikapo, malkapablo, miskapablo
+    spa: discapacidad, desorden, trastorno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Putunhwa (\u969C\u788D \"jangay\"), Niponsa (\u969C\u5BB3 \"xogay\"),
+    Hangusa (\uC7A5\uC560 \"jange\")"
+...

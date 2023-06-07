@@ -1,0 +1,46 @@
+---
+term: kazakili
+slug: kazakili
+ipa: "kaza\u02C8kili"
+ipa link: "http://ipa-reader.xyz/?text=kaza\u02C8kili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Kazakh
+  epo:
+  - - "kaza\u0125a"
+  spa:
+  - - kazajo
+search terms:
+  glb:
+  - kazakili
+  eng:
+  - kazakh
+  epo:
+  - "kaza\u0125a"
+  spa:
+  - kazajo
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kazaki">Kazaki</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Kazakili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Kazakh
+    epo: "kaza\u0125a"
+    spa: kazajo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kazaki + -li
+...

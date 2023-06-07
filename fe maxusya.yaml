@@ -1,0 +1,48 @@
+---
+term: fe maxusya
+slug: fe maxusya
+ipa: "fe ma\u02C8\u0283usja"
+ipa link: "http://ipa-reader.xyz/?text=fe ma\u02C8\u0283usja&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - besides (_phrase initial_)
+  epo:
+  - - plue
+  spa:
+  - - "adem\xE1s (_al principio de una frase_)"
+search terms:
+  glb:
+  - fe maxusya
+  - fe
+  - maxusya
+  eng:
+  - besides
+  epo:
+  - plue
+  spa:
+  - "adem\xE1s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/maxus">maxus</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fe maxusya
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: besides (_phrase initial_)
+    epo: plue
+    spa: "adem\xE1s (_al principio de una frase_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, maxus + -ya
+...

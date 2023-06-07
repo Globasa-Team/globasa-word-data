@@ -1,0 +1,48 @@
+---
+term: somnopeldo
+slug: somnopeldo
+ipa: "somno\u02C8peldo"
+ipa link: "http://ipa-reader.xyz/?text=somno\u02C8peldo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - sleepy
+  epo:
+  - - dorminklina
+  - - dorminkline
+  spa:
+  - - somnoliento
+search terms:
+  glb:
+  - somnopeldo
+  eng:
+  - sleepy
+  epo:
+  - dorminklina
+  - dorminkline
+  spa:
+  - somnoliento
+etymology_type: DERIVD
+etymology: <a href="../lexi/somno">somno</a> + <a href="../lexi/-peldo">-peldo</a>
+raw data:
+  term: somnopeldo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: sleepy
+    epo: dorminklina; dorminkline
+    spa: somnoliento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: somno + -peldo
+...

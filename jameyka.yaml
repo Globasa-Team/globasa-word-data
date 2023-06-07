@@ -1,0 +1,52 @@
+---
+term: jameyka
+slug: jameyka
+ipa: "d\u0361\u0292a\u02C8mejka"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8mejka&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Jamaica
+  epo:
+  - - Jamajko
+  spa:
+  - - Jamaica
+search terms:
+  glb:
+  - jameyka
+  eng:
+  - jamaica
+  epo:
+  - jamajko
+  spa:
+  - jamaica
+etymology_type: NATLNG
+etymology:
+  Jameykasa:
+  - - Jumieka
+  Englisa:
+  - - Jamaica
+tags:
+- dexa
+raw data:
+  term: Jameyka
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Jamaica
+    epo: Jamajko
+    spa: Jamaica
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Jameykasa (Jumieka), Englisa (Jamaica)
+...

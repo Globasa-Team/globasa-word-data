@@ -1,0 +1,64 @@
+---
+term: bete
+slug: bete
+ipa: ˈbete
+ipa link: http://ipa-reader.xyz/?text=ˈbete&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - son
+    - daughter
+    - child
+    - children
+  epo:
+  - - filo
+    - filino
+    - gefilinoj
+  spa:
+  - - hijo
+search terms:
+  glb:
+  - bete
+  eng:
+  - son
+  - daughter
+  - child
+  - children
+  epo:
+  - filo
+  - filino
+  - gefilinoj
+  spa:
+  - hijo
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - बेटा “beta”
+    - बेटी “beti”
+  Ivrisa:
+  - - הבן “ben”
+    - בת “bat”
+tags:
+- famil
+raw data:
+  term: bete
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: son, daughter, child, children
+    epo: filo, filino, gefilinoj
+    spa: hijo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: famil
+  etymology: Hindisa (बेटा “beta”, बेटी “beti”), Ivrisa (הבן “ben”, בת “bat”)
+...

@@ -1,0 +1,52 @@
+---
+term: desocogon
+slug: desocogon
+ipa: "desot\u0361\u0283o\u02C8gon"
+ipa link: "http://ipa-reader.xyz/?text=desot\u0361\u0283o\u02C8gon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - octadecagon
+    - octakaidecagon
+    - 18-gon
+  epo:
+  - - dekokangulo
+    - dekoklatero
+  spa:
+  - - "octadec\xE1gono"
+search terms:
+  glb:
+  - desocogon
+  eng:
+  - octadecagon
+  - octakaidecagon
+  - 18-gon
+  epo:
+  - dekokangulo
+  - dekoklatero
+  spa:
+  - "octadec\xE1gono"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/oco">oco</a> + <a href="../lexi/gon">gon</a>
+raw data:
+  term: desocogon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: octadecagon, octakaidecagon, 18-gon
+    epo: dekokangulo, dekoklatero
+    spa: "octadec\xE1gono"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + oco + gon
+...

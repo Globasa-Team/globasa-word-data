@@ -1,0 +1,63 @@
+---
+term: badam
+slug: badam
+ipa: baˈdam
+ipa link: http://ipa-reader.xyz/?text=baˈdam&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - almond
+  epo:
+  - - migdalo
+    - amando
+  spa:
+  - - almendra
+    - _Prunus amygdalus_
+search terms:
+  glb:
+  - badam
+  eng:
+  - almond
+  epo:
+  - migdalo
+  - amando
+  spa:
+  - almendra
+  - prunus amygdalus
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - बादाम “badam”
+  Parsisa:
+  - - بادام “badam”
+  Indonesisa:
+  - - badam
+  Turkisa:
+  - - badem
+  Putunhwa:
+  - - 巴旦 “bādàn”
+tags:
+- yamxey
+raw data:
+  term: badam
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: almond
+    epo: migdalo, amando
+    spa: almendra, _Prunus amygdalus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Hindisa (बादाम “badam”), Parsisa (بادام “badam”), Indonesisa (badam),
+    Turkisa (badem), Putunhwa (巴旦 “bādàn”)
+...

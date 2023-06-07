@@ -1,0 +1,48 @@
+---
+term: dennumer
+slug: dennumer
+ipa: "dennu\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=dennu\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - that number of
+    - that many
+  epo:
+  - - tiu nombro
+  spa:
+  - - "ese n\xFAmero de"
+search terms:
+  glb:
+  - dennumer
+  eng:
+  - that number of
+  - that many
+  epo:
+  - tiu nombro
+  spa:
+  - "ese n\xFAmero de"
+etymology_type: DERIVD
+etymology: <a href="../lexi/den">den</a> + <a href="../lexi/numer">numer</a>
+raw data:
+  term: dennumer
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: 'that number of, that many '
+    epo: tiu nombro
+    spa: "ese n\xFAmero de"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: that number of, that number, that many
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: den + numer
+...

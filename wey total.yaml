@@ -1,0 +1,54 @@
+---
+term: wey total
+slug: wey total
+ipa: "wej to\u02C8tal"
+ipa link: "http://ipa-reader.xyz/?text=wej to\u02C8tal&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - all around
+    - all over
+    - throughout
+  epo:
+  - - "tute \u0109irka\u016D"
+  spa:
+  - - por todas partes
+search terms:
+  glb:
+  - wey total
+  - wey
+  - total
+  eng:
+  - all around
+  - all over
+  - throughout
+  epo:
+  - "tute \u0109irka\u016D"
+  spa:
+  - por todas partes
+etymology_type: DERIVD
+etymology: <a href="../lexi/wey">wey</a>, <a href="../lexi/total">total</a>
+synonyms:
+- total wey
+raw data:
+  term: wey total
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: all around, all over, throughout
+    epo: "tute \u0109irka\u016D"
+    spa: por todas partes
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: total wey
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wey, total
+...

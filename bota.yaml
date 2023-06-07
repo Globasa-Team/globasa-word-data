@@ -1,0 +1,72 @@
+---
+term: bota
+slug: bota
+ipa: ˈbota
+ipa link: http://ipa-reader.xyz/?text=ˈbota&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - boot
+  epo:
+  - - boto
+  spa:
+  - - bota
+search terms:
+  glb:
+  - bota
+  eng:
+  - boot
+  epo:
+  - boto
+  spa:
+  - bota
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - boot
+  Espanisa:
+  - - bota
+  Fransesa:
+  - - botte
+  Rusisa:
+  - - ботинок “botinok”
+  Indonesisa:
+  - - bot
+  Pilipinasa:
+  - - bota
+  Niponsa:
+  - - ブーツ “butsu”
+  Turkisa:
+  - - bot
+  Hindisa:
+  - - बूट “but”
+  Parsisa:
+  - - بوت “but”
+  Telugusa:
+  - - బూట్ “but”
+  Swahilisa:
+  - - buti
+raw data:
+  term: bota
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: boot
+    epo: boto
+    spa: bota
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (boot), Espanisa (bota), Fransesa (botte), Rusisa (ботинок “botinok”),
+    Indonesisa (bot), Pilipinasa (bota), Niponsa (ブーツ “butsu”), Turkisa (bot), Hindisa
+    (बूट “but”), Parsisa (بوت “but”), Telugusa (బూట్ “but”), Swahilisa (buti)
+...

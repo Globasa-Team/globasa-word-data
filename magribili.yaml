@@ -1,0 +1,46 @@
+---
+term: magribili
+slug: magribili
+ipa: "mag\u027Ei\u02C8bili"
+ipa link: "http://ipa-reader.xyz/?text=mag\u027Ei\u02C8bili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Moroccan
+  epo:
+  - - moroka
+  spa:
+  - - "marroqu\xED"
+search terms:
+  glb:
+  - magribili
+  eng:
+  - moroccan
+  epo:
+  - moroka
+  spa:
+  - "marroqu\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Magribi">Magribi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Magribili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Moroccan
+    epo: moroka
+    spa: "marroqu\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Magribi + -li
+...

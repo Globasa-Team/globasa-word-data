@@ -1,0 +1,46 @@
+---
+term: nilwatu
+slug: nilwatu
+ipa: "ni\u02C8lwatu"
+ipa link: "http://ipa-reader.xyz/?text=ni\u02C8lwatu&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - never
+  epo:
+  - - neniam
+  spa:
+  - - nunca
+search terms:
+  glb:
+  - nilwatu
+  eng:
+  - never
+  epo:
+  - neniam
+  spa:
+  - nunca
+etymology_type: DERIVD
+etymology: <a href="../lexi/nil">nil</a> + <a href="../lexi/watu">watu</a>
+raw data:
+  term: nilwatu
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: never
+    epo: neniam
+    spa: nunca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nil + watu
+...

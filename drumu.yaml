@@ -1,0 +1,59 @@
+---
+term: drumu
+slug: drumu
+ipa: ˈdɾumu
+ipa link: http://ipa-reader.xyz/?text=ˈdɾumu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - drum (_music_)
+  epo:
+  - - tamburo
+  spa:
+  - - tambor
+search terms:
+  glb:
+  - drumu
+  eng:
+  - drum
+  epo:
+  - tamburo
+  spa:
+  - tambor
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - drum
+  Doycisa:
+  - - Trommel
+  Indonesisa:
+  - - drum
+  Hindisa:
+  - - ड्रम “dram”
+  Niponsa:
+  - - ドラム “doramu”
+  Hangusa:
+  - - 드럼 “durom”
+raw data:
+  term: drumu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: drum (_music_)
+    epo: tamburo
+    spa: tambor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (drum), Doycisa (Trommel), Indonesisa (drum), Hindisa (ड्रम “dram”),
+    Niponsa (ドラム “doramu”), Hangusa (드럼 “durom”)
+...

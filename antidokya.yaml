@@ -1,0 +1,48 @@
+---
+term: antidokya
+slug: antidokya
+ipa: "anti\u02C8dokja"
+ipa link: "http://ipa-reader.xyz/?text=anti\u02C8dokja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - antidote
+  epo:
+  - - "kontra\u016Dveneno"
+    - antidoto
+  spa:
+  - - "ant\xEDdoto"
+search terms:
+  glb:
+  - antidokya
+  eng:
+  - antidote
+  epo:
+  - "kontra\u016Dveneno"
+  - antidoto
+  spa:
+  - "ant\xEDdoto"
+etymology_type: DERIVD
+etymology: <a href="../lexi/anti-">anti-</a> + <a href="../lexi/dokya">dokya</a>
+raw data:
+  term: antidokya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: antidote
+    epo: "kontra\u016Dveneno, antidoto"
+    spa: "ant\xEDdoto"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: anti- + dokya
+...

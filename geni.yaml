@@ -1,0 +1,87 @@
+---
+term: geni
+slug: geni
+ipa: ˈgeni
+ipa link: http://ipa-reader.xyz/?text=ˈgeni&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gene
+  epo:
+  - - geno
+  spa:
+  - - gen
+search terms:
+  glb:
+  - geni
+  eng:
+  - gene
+  epo:
+  - geno
+  spa:
+  - gen
+etymology_type: NATLNG
+etymology:
+  Englsia:
+  - - gene
+  Espanisa:
+  - - gen
+    - gene
+  Fransesa:
+  - - gène
+  Rusisa:
+  - - ген “gen”
+  Doycisa:
+  - - Gen
+  Indonesisa:
+  - - gen
+  Pilipinasa:
+  - - hene
+  Putunhwa:
+  - - 基因 “jiyin”
+  Hindisa:
+  - - जीन “jin”
+  Arabisa:
+  - - جين “jin”
+  Turkisa:
+  - - gen
+  Vyetnamsa:
+  - - gen
+  Parsisa:
+  - - ژن “jen”
+  Swahilisa:
+  - - jeni
+  Telugusa:
+  - - జన్యువు “janyuvu”
+  Hangusa:
+  - - 유전자 “yujonja”
+  Niponsa:
+  - - 遺伝子 “idenxi”
+tags:
+- medis
+raw data:
+  term: geni
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gene
+    epo: geno
+    spa: gen
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: Englsia (gene), Espanisa (gen, gene), Fransesa (gène), Rusisa (ген “gen”),
+    Doycisa (Gen), Indonesisa (gen), Pilipinasa (hene), Putunhwa (基因 “jiyin”), Hindisa
+    (जीन “jin”), Arabisa (جين “jin”), Turkisa (gen), Vyetnamsa (gen), Parsisa (ژن
+    “jen”), Swahilisa (jeni), Telugusa (జన్యువు “janyuvu”), Hangusa (유전자 “yujonja”),
+    Niponsa (遺伝子 “idenxi”)
+...

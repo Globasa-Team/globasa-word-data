@@ -1,0 +1,47 @@
+---
+term: infrapelyen
+slug: infrapelyen
+ipa: "inf\u027Eape\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=inf\u027Eape\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - oppressor
+  epo:
+  - - subpremanto
+  spa:
+  - - opresor
+search terms:
+  glb:
+  - infrapelyen
+  eng:
+  - oppressor
+  epo:
+  - subpremanto
+  spa:
+  - opresor
+etymology_type: DERIVD
+etymology: <a href="../lexi/infra">infra</a> + <a href="../lexi/-pel">-pel</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: infrapelyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: oppressor
+    epo: subpremanto
+    spa: opresor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: infra + -pel + -yen
+...

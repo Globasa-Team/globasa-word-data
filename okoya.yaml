@@ -1,0 +1,51 @@
+---
+term: okoya
+slug: okoya
+ipa: "o\u02C8koja"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8koja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (sense of) sight
+    - vision
+  epo:
+  - - vido
+  spa:
+  - - vista
+    - "visi\xF3n"
+search terms:
+  glb:
+  - okoya
+  eng:
+  - sense of sight
+  - sight
+  - vision
+  epo:
+  - vido
+  spa:
+  - vista
+  - "visi\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/oko">oko</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: okoya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (sense of) sight, vision
+    epo: vido
+    spa: "vista, visi\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: oko + -ya
+...

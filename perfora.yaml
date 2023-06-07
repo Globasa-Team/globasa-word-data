@@ -1,0 +1,82 @@
+---
+term: perfora
+slug: perfora
+ipa: "pe\u027E\u02C8fo\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027E\u02C8fo\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - perforation
+    - orifice
+    - hole
+  - - perforate
+  epo:
+  - - perforado
+    - truo
+  - - perfori
+    - trui
+  spa:
+  - - "perforaci\xF3n"
+    - orificio
+    - agujero
+  - - perforar
+    - horadar
+search terms:
+  glb:
+  - perfora
+  eng:
+  - perforation
+  - orifice
+  - hole
+  - perforate
+  epo:
+  - perforado
+  - truo
+  - perfori
+  - trui
+  spa:
+  - "perforaci\xF3n"
+  - orificio
+  - agujero
+  - perforar
+  - horadar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - perforation
+  Fransesa: ~
+  Espanisa: ~
+  "":
+  - - "perforaci\xF3n"
+  Doycisa:
+  - - Perforation
+  Rusisa:
+  - - "\u043F\u0435\u0440\u0444\u043E\u0440\u0430\u0446\u0438\u044F \u201Cperforatsiya\u201D"
+  Indonesisa:
+  - - perforasi
+  Turkisa:
+  - - perforasyon
+raw data:
+  term: perfora
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: perforation, orifice, hole; perforate
+    epo: perforado, truo; perfori, trui
+    spa: "perforaci\xF3n, orificio, agujero; perforar, horadar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (perforation), Fransesa, Espanisa, (perforaci\xF3n), Doycisa
+    (Perforation), Rusisa (\u043F\u0435\u0440\u0444\u043E\u0440\u0430\u0446\u0438\u044F
+    \u201Cperforatsiya\u201D), Indonesisa (perforasi), Turkisa (perforasyon)"
+...

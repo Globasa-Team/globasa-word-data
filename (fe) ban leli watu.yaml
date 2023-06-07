@@ -1,0 +1,56 @@
+---
+term: (fe) ban leli watu
+slug: (fe) ban leli watu
+ipa: "\u02C8(fe) \u02C8ban \u02C8leli \u02C8watu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8(fe) \u02C8ban \u02C8leli \u02C8watu&voice=Ewa"
+status: false
+category: phrase
+word class: jm.p
+trans:
+  eng:
+  - - at some point in the past
+    - once upon a time
+  epo:
+  - - je iu estinta fojo
+  spa:
+  - - en cierto punto del pasado
+    - hubo una vez
+search terms:
+  glb:
+  - (fe) ban leli watu
+  - fe ban leli watu
+  - ban leli watu
+  - ban
+  - leli
+  - watu
+  eng:
+  - at some point in the past
+  - once upon a time
+  epo:
+  - je iu estinta fojo
+  spa:
+  - en cierto punto del pasado
+  - hubo una vez
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/ban">ban</a>, <a href="../lexi/le">le</a>
+  + <a href="../lexi/-li">-li</a>, <a href="../lexi/watu">watu</a>
+raw data:
+  term: (fe) ban leli watu
+  category: phrase
+  word class: jm.p
+  status: false
+  trans:
+    eng: at some point in the past, once upon a time
+    epo: je iu estinta fojo
+    spa: en cierto punto del pasado, hubo una vez
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, ban, le + -li, watu
+...

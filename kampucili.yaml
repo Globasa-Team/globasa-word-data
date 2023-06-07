@@ -1,0 +1,46 @@
+---
+term: kampucili
+slug: kampucili
+ipa: "kampu\u02C8t\u0361\u0283ili"
+ipa link: "http://ipa-reader.xyz/?text=kampu\u02C8t\u0361\u0283ili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Cambodian
+  epo:
+  - - "kambo\u011Da"
+  spa:
+  - - camboyano
+search terms:
+  glb:
+  - kampucili
+  eng:
+  - cambodian
+  epo:
+  - "kambo\u011Da"
+  spa:
+  - camboyano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kampuci">Kampuci</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: 'Kampucili '
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Cambodian
+    epo: "kambo\u011Da"
+    spa: camboyano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kampuci + -li
+...

@@ -1,0 +1,56 @@
+---
+term: xafeyam
+slug: xafeyam
+ipa: "\u0283afe\u02C8jam"
+ipa link: "http://ipa-reader.xyz/?text=\u0283afe\u02C8jam&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - dessert
+  - - have dessert
+    - eat for dessert
+  epo:
+  - - deserto
+  - - "man\u011Di deserton"
+  spa:
+  - - postre
+  - - comer el postre
+    - tomar postre
+search terms:
+  glb:
+  - xafeyam
+  eng:
+  - dessert
+  - have dessert
+  - eat for dessert
+  epo:
+  - deserto
+  - "man\u011Di deserton"
+  spa:
+  - postre
+  - comer el postre
+  - tomar postre
+etymology_type: DERIVD
+etymology: <a href="../lexi/xafe-">xafe-</a> + <a href="../lexi/yam">yam</a>
+raw data:
+  term: xafeyam
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: dessert; have dessert, eat for dessert
+    epo: "deserto; man\u011Di deserton"
+    spa: postre; comer el postre, tomar postre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xafe- + yam
+...

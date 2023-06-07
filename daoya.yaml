@@ -1,0 +1,48 @@
+---
+term: daoya
+slug: daoya
+ipa: "da\u02C8oja"
+ipa link: "http://ipa-reader.xyz/?text=da\u02C8oja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - trip
+  epo:
+  - - veturo
+    - "voja\u011Do"
+  spa:
+  - - viaje
+search terms:
+  glb:
+  - daoya
+  eng:
+  - trip
+  epo:
+  - veturo
+  - "voja\u011Do"
+  spa:
+  - viaje
+etymology_type: DERIVD
+etymology: <a href="../lexi/dao">dao</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: daoya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: trip
+    epo: "veturo, voja\u011Do"
+    spa: viaje
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dao + -ya
+...

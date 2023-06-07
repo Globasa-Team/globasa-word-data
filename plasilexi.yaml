@@ -1,0 +1,56 @@
+---
+term: plasilexi
+slug: plasilexi
+ipa: "plasi\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=plasi\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - adposition
+    - preposition
+    - postposition
+  epo:
+  - - adpozicio
+    - prepozicio
+    - postpozicio
+  spa:
+  - - "aposici\xF3n"
+search terms:
+  glb:
+  - plasilexi
+  eng:
+  - adposition
+  - preposition
+  - postposition
+  epo:
+  - adpozicio
+  - prepozicio
+  - postpozicio
+  spa:
+  - "aposici\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/plasi">plasi</a> + <a href="../lexi/-lexi">-lexi</a>
+tags:
+- gramati
+raw data:
+  term: plasilexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: adposition, preposition, postposition
+    epo: adpozicio, prepozicio, postpozicio
+    spa: "aposici\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gramati
+  etymology: plasi + -lexi
+...

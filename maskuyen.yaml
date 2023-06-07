@@ -1,0 +1,48 @@
+---
+term: maskuyen
+slug: maskuyen
+ipa: "masku\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=masku\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - masked person
+  epo:
+  - - sinmaskanto
+  spa:
+  - - enmascarado
+    - (_persona_) enmascarada
+search terms:
+  glb:
+  - maskuyen
+  eng:
+  - masked person
+  epo:
+  - sinmaskanto
+  spa:
+  - enmascarado
+  - enmascarada
+etymology_type: DERIVD
+etymology: <a href="../lexi/masku">masku</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: maskuyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: masked person
+    epo: sinmaskanto
+    spa: enmascarado, (_persona_) enmascarada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: masku + -yen
+...

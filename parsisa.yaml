@@ -1,0 +1,54 @@
+---
+term: parsisa
+slug: parsisa
+ipa: "pa\u027E\u02C8sisa"
+ipa link: "http://ipa-reader.xyz/?text=pa\u027E\u02C8sisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Farsi
+    - Persian (language)
+  epo:
+  - - la persa (lingvo)
+  spa:
+  - - persa
+    - farsi (_idioma_)
+search terms:
+  glb:
+  - parsisa
+  eng:
+  - farsi
+  - persian language
+  - persian
+  epo:
+  - la persa lingvo
+  - la persa
+  spa:
+  - persa
+  - farsi
+etymology_type: DERIVD
+etymology: <a href="../lexi/Parsi">Parsi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Parsisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Farsi, Persian (language)
+    epo: la persa (lingvo)
+    spa: persa, farsi (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Parsi + -sa
+...

@@ -1,0 +1,74 @@
+---
+term: establi
+slug: establi
+ipa: esˈtabli
+ipa link: http://ipa-reader.xyz/?text=esˈtabli&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - establish
+    - determine
+    - settle
+    - set up
+    - found
+  epo:
+  - - establo
+    - determino
+    - decido
+  - - establi
+    - determini
+    - decidi
+  spa:
+  - - establecimiento
+  - - establecer
+    - establecerse
+search terms:
+  glb:
+  - establi
+  eng:
+  - establish
+  - determine
+  - settle
+  - set up
+  - found
+  epo:
+  - establo
+  - determino
+  - decido
+  - establi
+  - determini
+  - decidi
+  spa:
+  - establecimiento
+  - establecer
+  - establecerse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - establish
+  Fransesa:
+  - - établir
+  Espanisa:
+  - - establecer
+raw data:
+  term: establi
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: establish, determine, settle, set up, found
+    epo: establo, determino, decido; establi, determini, decidi
+    spa: establecimiento; establecer, establecerse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: establish, determine, settle, set, set up, found
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (establish), Fransesa (établir), Espanisa (establecer)
+...

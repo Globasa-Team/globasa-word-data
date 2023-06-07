@@ -1,0 +1,68 @@
+---
+term: flutu
+slug: flutu
+ipa: ˈflutu
+ipa link: http://ipa-reader.xyz/?text=ˈflutu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - flute
+  epo:
+  - - fluto
+  spa:
+  - - flauta
+search terms:
+  glb:
+  - flutu
+  eng:
+  - flute
+  epo:
+  - fluto
+  spa:
+  - flauta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - flute
+  Espanisa:
+  - - flauta
+  Fransesa:
+  - - flûte
+  Rusisa:
+  - - флейта “fleyta”
+  Doycisa:
+  - - flöte
+  Pilipinasa:
+  - - plawta
+  Niponsa:
+  - - フルート “furuto”
+  Turkisa:
+  - - flavta
+  Hangusa:
+  - - 플루트 “pulutu”
+  Parsisa:
+  - - فلوت “folut”
+raw data:
+  term: flutu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: flute
+    epo: fluto
+    spa: flauta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (flute), Espanisa (flauta), Fransesa (flûte), Rusisa (флейта
+    “fleyta”), Doycisa (flöte), Pilipinasa (plawta), Niponsa (フルート “furuto”), Turkisa
+    (flavta), Hangusa (플루트 “pulutu”), Parsisa (فلوت “folut”)
+...

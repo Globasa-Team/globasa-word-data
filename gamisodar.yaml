@@ -1,0 +1,55 @@
+---
+term: gamisodar
+slug: gamisodar
+ipa: "gamiso\u02C8da\u027E"
+ipa link: "http://ipa-reader.xyz/?text=gamiso\u02C8da\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - brother-in-law
+    - sister-in-law
+  epo:
+  - - bofrato
+    - bofratino
+    - bogefratoj
+  spa:
+  - - "cu\xF1ado"
+search terms:
+  glb:
+  - gamisodar
+  eng:
+  - brother-in-law
+  - sister-in-law
+  epo:
+  - bofrato
+  - bofratino
+  - bogefratoj
+  spa:
+  - "cu\xF1ado"
+etymology_type: DERIVD
+etymology: <a href="../lexi/gami-">gami-</a> + <a href="../lexi/sodar">sodar</a>
+tags:
+- insan
+- famil
+raw data:
+  term: gamisodar
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: brother-in-law, sister-in-law
+    epo: bofrato, bofratino, bogefratoj
+    spa: "cu\xF1ado"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan, famil
+  etymology: gami- + sodar
+...

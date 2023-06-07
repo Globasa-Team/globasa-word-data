@@ -1,0 +1,51 @@
+---
+term: intrenasyonli
+slug: intrenasyonli
+ipa: "int\u027Eena\u02C8sjonli"
+ipa link: "http://ipa-reader.xyz/?text=int\u027Eena\u02C8sjonli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - international
+    - internationally
+  epo:
+  - - internacia
+  - - internacie
+  spa:
+  - - internacional
+search terms:
+  glb:
+  - intrenasyonli
+  eng:
+  - international
+  - internationally
+  epo:
+  - internacia
+  - internacie
+  spa:
+  - internacional
+etymology_type: DERIVD
+etymology: <a href="../lexi/intre-">intre-</a> + <a href="../lexi/nasyon">nasyon</a>
+  + <a href="../lexi/-li">-li</a>
+raw data:
+  term: intrenasyonli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: international, internationally
+    epo: internacia; internacie
+    spa: internacional
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: intre- + nasyon + -li
+...

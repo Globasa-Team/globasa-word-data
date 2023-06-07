@@ -1,0 +1,67 @@
+---
+term: pyon
+slug: pyon
+ipa: "\u02C8pjon"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pjon&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pawn
+    - peon
+  epo:
+  - - peono
+  spa:
+  - - "pe\xF3n"
+search terms:
+  glb:
+  - pyon
+  eng:
+  - pawn
+  - peon
+  epo:
+  - peono
+  spa:
+  - "pe\xF3n"
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - "pe\xF3n"
+  Fransesa:
+  - - pion
+  Indonesisa:
+  - - pion
+  Pilipinasa:
+  - - piyon
+  Turkisa:
+  - - piyon
+  Englisa:
+  - - peon
+    - pawn
+  Niponsa:
+  - - "\u30DD\u30FC\u30F3 \"pon\""
+  Hangusa:
+  - - "\uD3F0 \"pon\""
+raw data:
+  term: pyon
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: pawn, peon
+    epo: peono
+    spa: "pe\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (pe\xF3n), Fransesa (pion), Indonesisa (pion), Pilipinasa (piyon),
+    Turkisa (piyon), Englisa (peon, pawn), Niponsa (\u30DD\u30FC\u30F3 \"pon\"), Hangusa
+    (\uD3F0 \"pon\")"
+...

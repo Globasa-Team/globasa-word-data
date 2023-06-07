@@ -1,0 +1,57 @@
+---
+term: xenculi
+slug: xenculi
+ipa: "\u0283en\u02C8t\u0361\u0283uli"
+ipa link: "http://ipa-reader.xyz/?text=\u0283en\u02C8t\u0361\u0283uli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - (of) birth
+    - native
+  epo:
+  - - naska
+    - denaksa
+  - - naske
+    - denaske
+  spa:
+  - - de nacimiento
+    - nativo
+search terms:
+  glb:
+  - xenculi
+  eng:
+  - of birth
+  - birth
+  - native
+  epo:
+  - naska
+  - denaksa
+  - naske
+  - denaske
+  spa:
+  - de nacimiento
+  - nativo
+etymology_type: DERIVD
+etymology: <a href="../lexi/xen">xen</a> + <a href="../lexi/-cu">-cu</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: xenculi
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: (of) birth, native
+    epo: naska, denaksa; naske, denaske
+    spa: de nacimiento, nativo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xen + -cu + -li
+...

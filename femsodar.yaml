@@ -1,0 +1,46 @@
+---
+term: femsodar
+slug: femsodar
+ipa: "femso\u02C8da\u027E"
+ipa link: "http://ipa-reader.xyz/?text=femso\u02C8da\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - sister
+  epo:
+  - - fratino
+  spa:
+  - - hermana
+search terms:
+  glb:
+  - femsodar
+  eng:
+  - sister
+  epo:
+  - fratino
+  spa:
+  - hermana
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/sodar">sodar</a>
+raw data:
+  term: femsodar
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: sister
+    epo: fratino
+    spa: hermana
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem- + sodar
+...

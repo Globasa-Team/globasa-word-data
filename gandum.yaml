@@ -1,0 +1,61 @@
+---
+term: gandum
+slug: gandum
+ipa: ganˈdum
+ipa link: http://ipa-reader.xyz/?text=ganˈdum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wheat
+  epo:
+  - - tritiko
+  spa:
+  - - trigo
+    - _Triticum_
+search terms:
+  glb:
+  - gandum
+  eng:
+  - wheat
+  epo:
+  - tritiko
+  spa:
+  - trigo
+  - triticum
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - गोधूम “godhūm”
+  Indonesisa:
+  - - gandum
+  Parsisa:
+  - - گندم “gandom”
+  Telugusa:
+  - - గోధుమ “gōdhuma”
+  Swahilisa:
+  - - ngano
+tags:
+- yamxey
+raw data:
+  term: gandum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wheat
+    epo: tritiko
+    spa: trigo, _Triticum_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Hindisa (गोधूम “godhūm”), Indonesisa (gandum), Parsisa (گندم “gandom”),
+    Telugusa (గోధుమ “gōdhuma”), Swahilisa (ngano)
+...

@@ -1,0 +1,52 @@
+---
+term: be-
+slug: be-
+ipa: "\u02C8be-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8be-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - _passive voice marker_
+  epo:
+  - - "_markilo de pasiva vo\u0109o_"
+  spa:
+  - - _marcador de voz pasiva_
+search terms:
+  glb:
+  - be-
+  eng:
+  - passive voice marker
+  epo:
+  - "markilo de pasiva vo\u0109o"
+  spa:
+  - marcador de voz pasiva
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u88AB \u201Cb\xE8i\u201D"
+  Englisa:
+  - - be
+  Norgesa:
+  - - ble
+raw data:
+  term: be-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: _passive voice marker_
+    epo: "_markilo de pasiva vo\u0109o_"
+    spa: _marcador de voz pasiva_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u88AB \u201Cb\xE8i\u201D), Englisa (be), Norgesa (ble)"
+...

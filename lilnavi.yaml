@@ -1,0 +1,50 @@
+---
+term: lilnavi
+slug: lilnavi
+ipa: "lil\u02C8navi"
+ipa link: "http://ipa-reader.xyz/?text=lil\u02C8navi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - boat
+  epo:
+  - - boato
+    - barko
+    - "\u015Dipeto"
+  spa:
+  - - bote
+search terms:
+  glb:
+  - lilnavi
+  eng:
+  - boat
+  epo:
+  - boato
+  - barko
+  - "\u015Dipeto"
+  spa:
+  - bote
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/navi">navi</a>
+raw data:
+  term: lilnavi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: boat
+    epo: "boato, barko, \u015Dipeto"
+    spa: bote
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + navi
+...

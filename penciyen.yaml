@@ -1,0 +1,48 @@
+---
+term: penciyen
+slug: penciyen
+ipa: "pent\u0361\u0283i\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=pent\u0361\u0283i\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - editor
+  epo:
+  - - redaktisto
+    - redaktanto
+  spa:
+  - - editor
+search terms:
+  glb:
+  - penciyen
+  eng:
+  - editor
+  epo:
+  - redaktisto
+  - redaktanto
+  spa:
+  - editor
+etymology_type: DERIVD
+etymology: <a href="../lexi/penci">penci</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: penciyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: editor
+    epo: redaktisto, redaktanto
+    spa: editor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: penci + -yen
+...

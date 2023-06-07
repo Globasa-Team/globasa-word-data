@@ -1,0 +1,52 @@
+---
+term: perli
+slug: perli
+ipa: "\u02C8pe\u027Eli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pe\u027Eli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - surface
+    - superficial
+    - superficially
+  epo:
+  - - surfaca
+  - - surface
+  spa:
+  - - superficial
+search terms:
+  glb:
+  - perli
+  eng:
+  - surface
+  - superficial
+  - superficially
+  epo:
+  - surfaca
+  - surface
+  spa:
+  - superficial
+etymology_type: DERIVD
+etymology: <a href="../lexi/per">per</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: perli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: surface, superficial, superficially
+    epo: surfaca; surface
+    spa: superficial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: per + -li
+...

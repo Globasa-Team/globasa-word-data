@@ -1,0 +1,51 @@
+---
+term: kruel
+slug: kruel
+ipa: "k\u027Eu\u02C8el"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Eu\u02C8el&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - cruel
+    - cruelly
+  epo:
+  - - kruela
+  - - kruele
+  spa:
+  - - cruel
+search terms:
+  glb:
+  - kruel
+  eng:
+  - cruel
+  - cruelly
+  epo:
+  - kruela
+  - kruele
+  spa:
+  - cruel
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kruel
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: cruel, cruelly
+    epo: kruela; kruele
+    spa: cruel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cruel), Fransesa (cruel), Espanisa (cruel), Hindisa (\u0915\u094D\u0930\u0942\u0930\u0924\u093E
+    \u201Ckrurata\u201D)"
+...

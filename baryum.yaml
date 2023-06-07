@@ -1,0 +1,85 @@
+---
+term: baryum
+slug: baryum
+ipa: baˈɾjum
+ipa link: http://ipa-reader.xyz/?text=baˈɾjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - barium
+  epo:
+  - - bario
+  spa:
+  - - bario
+    - Ba
+search terms:
+  glb:
+  - baryum
+  eng:
+  - barium
+  epo:
+  - bario
+  spa:
+  - bario
+  - ba
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - barium
+  Espanisa:
+  - - bario
+  Arabisa:
+  - - بَارْيُوم “bariyum”
+  Fransesa:
+  - - baryum
+  Rusisa:
+  - - барий “bariy”
+  Indonesisa:
+  - - barium
+  Doycisa:
+  - - Barium
+  Niponsa:
+  - - バリウム “bariumu”
+  Telugusa:
+  - - బేరియం “beriyam”
+  Turkisa:
+  - - baryum
+  Hangusa:
+  - - 바륨 “baryum”
+  Vyetnamsa:
+  - - bari
+  Parsisa:
+  - - باریم “bariyom”
+  Swahilisa:
+  - - bari
+  Pilipinasa:
+  - - baryo
+    - baryum
+tags:
+- kimikali monlari
+raw data:
+  term: baryum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: barium
+    epo: bario
+    spa: bario, Ba
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (barium), Espanisa (bario), Arabisa (بَارْيُوم “bariyum”), Fransesa
+    (baryum), Rusisa (барий “bariy”), Indonesisa (barium), Doycisa (Barium), Niponsa
+    (バリウム “bariumu”), Telugusa (బేరియం “beriyam”), Turkisa (baryum), Hangusa (바륨 “baryum”),
+    Vyetnamsa (bari), Parsisa (باریم “bariyom”), Swahilisa (bari), Pilipinasa (baryo,
+    baryum)
+...

@@ -1,0 +1,57 @@
+---
+term: banmaner
+slug: banmaner
+ipa: "banma\u02C8ne\u027E"
+ipa link: "http://ipa-reader.xyz/?text=banma\u02C8ne\u027E&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - somehow
+    - by a certain manner
+    - by some manner
+    - in a certain manner
+    - in some manner
+  epo:
+  - - iel
+  spa:
+  - - de alguna manera
+    - "por alg\xFAn m\xE9todo"
+search terms:
+  glb:
+  - banmaner
+  eng:
+  - somehow
+  - by a certain manner
+  - by some manner
+  - in a certain manner
+  - in some manner
+  epo:
+  - iel
+  spa:
+  - de alguna manera
+  - "por alg\xFAn m\xE9todo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ban">ban</a> + <a href="../lexi/ maner"> maner</a>
+raw data:
+  term: banmaner
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: somehow, by a certain manner, by some manner, in a certain manner, in some
+      manner
+    epo: iel
+    spa: "de alguna manera, por alg\xFAn m\xE9todo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ban +  maner
+...

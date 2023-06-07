@@ -1,0 +1,67 @@
+---
+term: sintoma
+slug: sintoma
+ipa: "sin\u02C8toma"
+ipa link: "http://ipa-reader.xyz/?text=sin\u02C8toma&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - symptom
+  epo:
+  - - simptomo
+  spa:
+  - - "s\xEDntoma"
+search terms:
+  glb:
+  - sintoma
+  eng:
+  - symptom
+  epo:
+  - simptomo
+  spa:
+  - "s\xEDntoma"
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Symptom
+  Englisa:
+  - - symptom
+  Espanisa:
+  - - "s\xEDntoma"
+  Fransesa:
+  - - "sympt\xF4me"
+  Rusisa:
+  - - "\u0441\u0438\u043C\u043F\u0442\u043E\u043C \u201Csimptom\u201D"
+  Turkisa:
+  - - semptom
+  Pilipinasa:
+  - - sintomas
+  Parsisa:
+  - - "\u0633\u064E\u0645\u067E\u062A\u0648\u0645 \u201Csampt\u014Dm\u201D"
+tags:
+- medis
+raw data:
+  term: sintoma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: symptom
+    epo: simptomo
+    spa: "s\xEDntoma"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Doycisa (Symptom), Englisa (symptom), Espanisa (s\xEDntoma), Fransesa
+    (sympt\xF4me), Rusisa (\u0441\u0438\u043C\u043F\u0442\u043E\u043C \u201Csimptom\u201D),
+    Turkisa (semptom), Pilipinasa (sintomas), Parsisa (\u0633\u064E\u0645\u067E\u062A\u0648\u0645
+    \u201Csampt\u014Dm\u201D)"
+...

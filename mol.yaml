@@ -1,0 +1,70 @@
+---
+term: mol
+slug: mol
+ipa: "\u02C8mol"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mol&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mole (unit)
+  epo:
+  - - molo
+    - grammolekulo
+  spa:
+  - - mol
+  deu:
+  - - Mol
+  fra:
+  - - mole
+  rus:
+  - - "\u043C\u043E\u043B\u044C"
+  zho:
+  - - "\u6469\u5C14"
+search terms:
+  glb:
+  - mol
+  eng:
+  - mole unit
+  - mole
+  epo:
+  - molo
+  - grammolekulo
+  spa:
+  - mol
+  deu:
+  - mol
+  fra:
+  - mole
+  rus:
+  - "\u043C\u043E\u043B\u044C"
+  zho:
+  - "\u6469\u5C14"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mol
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mole (unit)
+    epo: molo, grammolekulo
+    spa: mol
+    deu: Mol
+    fra: mole
+    rus: "\u043C\u043E\u043B\u044C"
+    zho: "\u6469\u5C14"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mole \u201Cmol\u201D), Espanisa (mol), Fransesa (mole \u201Cmol\u201D),
+    Rusisa (\u043C\u043E\u043B\u044C \u201Cmol\u201D), Doycisa (Mol), Indonesisa (mol),
+    Pilipinasa (mole), Putunhwa (\u6469\u5C14 \u201Cmoer\u201D), Hindisa (\u092E\u094B\u0932
+    \u201Cmol\u201D), Arabisa (\u0645\u064F\u0648\u0644 \u201Cmul\u201D), Niponsa
+    (\u30E2\u30EB \u201Cmoru\u201D), Turkisa (mol), Hangusa (\uBAB0 \u201Cmol\u201D),
+    Vyetnamsa (mol), Parsisa (\u0645\u0648\u0644 \u201Cmol\u201D), Swahilisa (moli)"
+...

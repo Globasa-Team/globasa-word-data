@@ -1,0 +1,46 @@
+---
+term: jaxnedin
+slug: jaxnedin
+ipa: "d\u0361\u0292a\u0283ne\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u0283ne\u02C8din&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - holiday
+  epo:
+  - - festotago
+  spa:
+  - - "d\xEDa festivo"
+search terms:
+  glb:
+  - jaxnedin
+  eng:
+  - holiday
+  epo:
+  - festotago
+  spa:
+  - "d\xEDa festivo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/jaxne">jaxne</a> + <a href="../lexi/-din">-din</a>
+raw data:
+  term: jaxnedin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: holiday
+    epo: festotago
+    spa: "d\xEDa festivo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jaxne + -din
+...

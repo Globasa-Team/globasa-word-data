@@ -1,0 +1,66 @@
+---
+term: mesaje
+slug: mesaje
+ipa: "me\u02C8sad\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8sad\u0361\u0292e&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - message
+    - text (message)
+  - - (send) message
+    - (send) text
+  epo:
+  - - "mesa\u011Do"
+    - "mesa\u011Deto"
+    - "tekstmesa\u011Do"
+  - - "mesa\u011Di"
+  spa:
+  - - mensaje
+  - - enviar mensaje
+    - textear
+search terms:
+  glb:
+  - mesaje
+  eng:
+    0: message
+    1: text message
+    2: text
+    3: send message
+    5: send text
+  epo:
+  - "mesa\u011Do"
+  - "mesa\u011Deto"
+  - "tekstmesa\u011Do"
+  - "mesa\u011Di"
+  spa:
+  - mensaje
+  - enviar mensaje
+  - textear
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mesaje
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: message, text (message); (send) message, (send) text
+    epo: "mesa\u011Do, mesa\u011Deto, tekstmesa\u011Do; mesa\u011Di"
+    spa: mensaje; enviar mensaje, textear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: message, text, text message, send message, send text
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (message), Fransesa (message), Espanisa (mensaje), Rusisa (\u043C\u0435\u0441\u0441\u0435\u0434\u0436
+    \u201Cmessedj\u201D), Malaysisa (mesej), Pilipinasa (mensahe), Hindisa (\u092E\u0947\u0938\u0947\u091C
+    \u201Cmesej\u201D), Turkisa (mesaj), Niponsa (\u30E1\u30C3\u30BB\u30FC\u30B8 \u201Cmess\u0113ji\u201D),
+    Hangusa (\uBA54\uC2DC\uC9C0 \u201Cmesiji\u201D)"
+...

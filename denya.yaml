@@ -1,0 +1,52 @@
+---
+term: denya
+slug: denya
+ipa: "\u02C8denja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8denja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - identity
+  - - identify
+  epo:
+  - - identeco
+  - - identigi
+  spa:
+  - - identidad
+  - - identificar
+search terms:
+  glb:
+  - denya
+  eng:
+  - identity
+  - identify
+  epo:
+  - identeco
+  - identigi
+  spa:
+  - identidad
+  - identificar
+etymology_type: DERIVD
+etymology: <a href="../lexi/den">den</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: denya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: identity; identify
+    epo: identeco; identigi
+    spa: identidad; identificar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: den + -ya
+...

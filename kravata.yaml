@@ -1,0 +1,51 @@
+---
+term: kravata
+slug: kravata
+ipa: "k\u027Ea\u02C8vata"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Ea\u02C8vata&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tie
+    - necktie
+  epo:
+  - - kravato
+  spa:
+  - - corbata
+search terms:
+  glb:
+  - kravata
+  eng:
+  - tie
+  - necktie
+  epo:
+  - kravato
+  spa:
+  - corbata
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kravata
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tie, necktie
+    epo: kravato
+    spa: corbata
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (cravate), Espanisa (corbata), Doycisa (Kravatte), Pilipinasa
+    (kurbata), Arabisa (\u0643\u064E\u0631\u064E\u0627\u0641\u064E\u062A\u064E\u0629
+    \u201Ckarafata\u201D), Turkisa (kravat), Vyetnamsa (c\xE0 v\u1EA1t), Parsisa (\u06A9\u0631\u0627\u0648\u0627\u062A
+    \u201Cker\xE2v\xE2t\u201D)"
+...

@@ -1,0 +1,48 @@
+---
+term: eger si
+slug: eger si
+ipa: "e\u02C8ge\u027E \u02C8si"
+ipa link: "http://ipa-reader.xyz/?text=e\u02C8ge\u027E \u02C8si&voice=Ewa"
+status: false
+category: phrase
+word class: l
+trans:
+  eng:
+  - - if so
+  epo:
+  - - se jes
+  spa:
+  - - "si s\xED"
+search terms:
+  glb:
+  - eger si
+  - eger
+  - si
+  eng:
+  - if so
+  epo:
+  - se jes
+  spa:
+  - "si s\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/eger">eger</a>, <a href="../lexi/si">si</a>
+raw data:
+  term: eger si
+  category: phrase
+  word class: l
+  status: false
+  trans:
+    eng: if so
+    epo: se jes
+    spa: "si s\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: eger, si
+...

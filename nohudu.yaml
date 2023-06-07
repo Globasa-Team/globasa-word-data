@@ -1,0 +1,60 @@
+---
+term: nohudu
+slug: nohudu
+ipa: "no\u02C8xudu"
+ipa link: "http://ipa-reader.xyz/?text=no\u02C8xudu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chickpea
+    - garbanzo
+  epo:
+  - - kikero
+  spa:
+  - - garbanzo
+    - _Cicer arietinum_
+search terms:
+  glb:
+  - nohudu
+  eng:
+  - chickpea
+  - garbanzo
+  epo:
+  - kikero
+  spa:
+  - garbanzo
+  - cicer arietinum
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - "\u043D\u0443\u0442 \u201Cnut\u201D"
+  Turkisa:
+  - - nohut
+    - nohudu
+  Parsisa:
+  - - "\u0646\u062E\u0648\u062F \u201Cnohod\u201D"
+tags:
+- yamxey
+raw data:
+  term: nohudu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chickpea, garbanzo
+    epo: kikero
+    spa: garbanzo, _Cicer arietinum_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Rusisa (\u043D\u0443\u0442 \u201Cnut\u201D), Turkisa (nohut, nohudu),
+    Parsisa (\u0646\u062E\u0648\u062F \u201Cnohod\u201D)"
+...

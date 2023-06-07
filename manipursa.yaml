@@ -1,0 +1,56 @@
+---
+term: manipursa
+slug: manipursa
+ipa: "mani\u02C8pu\u027Esa"
+ipa link: "http://ipa-reader.xyz/?text=mani\u02C8pu\u027Esa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Meitei
+    - Manipuri
+    - Meitheilon
+    - Kathe (language)
+  epo:
+  - - la manipura (lingvo)
+  spa:
+  - - manipuri (_idioma_)
+search terms:
+  glb:
+  - manipursa
+  eng:
+  - meitei
+  - manipuri
+  - meitheilon
+  - kathe language
+  - kathe
+  epo:
+  - la manipura lingvo
+  - la manipura
+  spa:
+  - manipuri
+etymology_type: DERIVD
+etymology: <a href="../lexi/Manipur">Manipur</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Manipursa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Meitei, Manipuri, Meitheilon, Kathe (language)
+    epo: la manipura (lingvo)
+    spa: manipuri (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Manipur + -sa
+...

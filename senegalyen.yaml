@@ -1,0 +1,49 @@
+---
+term: senegalyen
+slug: senegalyen
+ipa: "senega\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=senega\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Senegalese (person)
+  epo:
+  - - senegalano
+    - senegalo
+  spa:
+  - - "senegal\xE9s (_persona_)"
+search terms:
+  glb:
+  - senegalyen
+  eng:
+  - senegalese person
+  - senegalese
+  epo:
+  - senegalano
+  - senegalo
+  spa:
+  - "senegal\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Senegal">Senegal</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Senegalyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Senegalese (person)
+    epo: senegalano, senegalo
+    spa: "senegal\xE9s (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Senegal + -yen
+...

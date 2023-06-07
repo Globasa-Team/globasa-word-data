@@ -1,0 +1,52 @@
+---
+term: musikali
+slug: musikali
+ipa: "musi\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=musi\u02C8kali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - musical
+  - - musically
+  epo:
+  - - muzika
+  - - muzike
+  spa:
+  - - musical
+  - - musicalmente
+search terms:
+  glb:
+  - musikali
+  eng:
+  - musical
+  - musically
+  epo:
+  - muzika
+  - muzike
+  spa:
+  - musical
+  - musicalmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/musika">musika</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: musikali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: musical; musically
+    epo: muzika; muzike
+    spa: musical; musicalmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: musika + -li
+...

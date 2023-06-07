@@ -1,0 +1,66 @@
+---
+term: taypu
+slug: taypu
+ipa: "\u02C8tajpu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tajpu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - typing
+  - - type
+  epo:
+  - - tajpo
+  - - tajpi
+  spa:
+  - - "mecanograf\xEDa"
+  - - "escribir a m\xE1quina"
+    - teclear
+search terms:
+  glb:
+  - taypu
+  eng:
+  - typing
+  - type
+  epo:
+  - tajpo
+  - tajpi
+  spa:
+  - "mecanograf\xEDa"
+  - "escribir a m\xE1quina"
+  - teclear
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - type
+  Niponsa:
+  - - "\u30BF\u30A4\u30D7 \u201Ctaipu\u201D"
+  Hindisa:
+  - - "\u091F\u093E\u0907\u092A \u201Ctaip\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C48\u0C2A\u0C3F\u0C02\u0C17\u0C4D \u201Ctaiping\u201D"
+  Parsisa:
+  - - "\u062A\u0627\u06CC\u067E \u201Ct\xE2yp\u201D"
+raw data:
+  term: taypu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: typing; type
+    epo: tajpo; tajpi
+    spa: "mecanograf\xEDa; escribir a m\xE1quina, teclear"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (type), Niponsa (\u30BF\u30A4\u30D7 \u201Ctaipu\u201D), Hindisa
+    (\u091F\u093E\u0907\u092A \u201Ctaip\u201D), Telugusa (\u0C1F\u0C48\u0C2A\u0C3F\u0C02\u0C17\u0C4D
+    \u201Ctaiping\u201D), Parsisa (\u062A\u0627\u06CC\u067E \u201Ct\xE2yp\u201D)"
+...

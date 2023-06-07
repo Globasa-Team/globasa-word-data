@@ -1,0 +1,51 @@
+---
+term: kirgizi
+slug: kirgizi
+ipa: "ki\u027E\u02C8gizi"
+ipa link: "http://ipa-reader.xyz/?text=ki\u027E\u02C8gizi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Kyrgyzstan
+  epo:
+  - - Kirgizio
+  spa:
+  - - "Kirguizist\xE1n"
+search terms:
+  glb:
+  - kirgizi
+  eng:
+  - kyrgyzstan
+  epo:
+  - kirgizio
+  spa:
+  - "kirguizist\xE1n"
+etymology_type: NATLNG
+etymology:
+  Kirgizisa:
+  - - "\u041A\u044B\u0440\u0433\u044B\u0437\u0441\u0442\u0430\u043D \u201CQ\u0131r\u011F\u0131zstan\u201D"
+tags:
+- dexa
+raw data:
+  term: Kirgizi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Kyrgyzstan
+    epo: Kirgizio
+    spa: "Kirguizist\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Kirgizisa (\u041A\u044B\u0440\u0433\u044B\u0437\u0441\u0442\u0430\u043D
+    \u201CQ\u0131r\u011F\u0131zstan\u201D)"
+...

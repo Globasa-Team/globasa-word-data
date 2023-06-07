@@ -1,0 +1,58 @@
+---
+term: orisa
+slug: orisa
+ipa: "o\u02C8\u027Eisa"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8\u027Eisa&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Odisha
+    - Orissa (_state in India_)
+  epo:
+  - - "Odi\u015Do"
+    - Orisio
+    - Oriso
+    - Orislando
+  spa:
+  - - Odisha
+    - Orissa (_estado de India_)
+search terms:
+  glb:
+  - orisa
+  eng:
+  - odisha
+  - orissa
+  epo:
+  - "odi\u015Do"
+  - orisio
+  - oriso
+  - orislando
+  spa:
+  - odisha
+  - orissa
+etymology_type: NATLNG
+etymology:
+  Orisasa:
+  - - "\u0B13\u0B21\u0B3C\u0B3F\u0B36\u0B3E \u201Corisa\u201D"
+raw data:
+  term: Orisa
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Odisha, Orissa (_state in India_)
+    epo: "Odi\u015Do, Orisio, Oriso, Orislando"
+    spa: Odisha, Orissa (_estado de India_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Orisasa (\u0B13\u0B21\u0B3C\u0B3F\u0B36\u0B3E \u201Corisa\u201D)"
+...

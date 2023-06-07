@@ -1,0 +1,71 @@
+---
+term: -li
+slug: -li
+ipa: "\u02C8-li"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-li&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - relating to
+    - of
+  epo:
+  - - -a
+    - de
+    - rilate al
+  spa:
+  - - relacionado con
+    - de
+search terms:
+  glb:
+  - -li
+  eng:
+  - relating to
+  - of
+  epo:
+  - -a
+  - de
+  - rilate al
+  spa:
+  - relacionado con
+  - de
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - -el
+    - -elle
+  Espanisa:
+  - - -al
+  Englisa:
+  - - -al
+    - -ly
+  Doycisa:
+  - - -lich
+  Rusisa:
+  - - "-\u0435\u043B\u044C\u043D\u044B\u0439 \u201C-elni\u201D"
+    - "-\u0430\u043B\u044C\u043D\u044B\u0439 \u201C-alni\u201D"
+  Turkisa:
+  - - -li
+raw data:
+  term: -li
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: relating to, of
+    epo: -a, de, rilate al
+    spa: relacionado con, de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (-el, -elle), Espanisa (-al), Englisa (-al, -ly), Doycisa (-lich),
+    Rusisa (-\u0435\u043B\u044C\u043D\u044B\u0439 \u201C-elni\u201D, -\u0430\u043B\u044C\u043D\u044B\u0439
+    \u201C-alni\u201D), Turkisa (-li)"
+...

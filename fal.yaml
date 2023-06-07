@@ -1,0 +1,49 @@
+---
+term: fal
+slug: fal
+ipa: fal
+ipa link: http://ipa-reader.xyz/?text=fal&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - (done) by
+  epo:
+  - - (fare) de
+  spa:
+  - - (hecho) por
+search terms:
+  glb:
+  - fal
+  eng:
+  - done by
+  - by
+  epo:
+  - fare de
+  - de
+  spa:
+  - hecho por
+  - por
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/fale">fale</a>.
+raw data:
+  term: fal
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: (done) by
+    epo: (fare) de
+    spa: (hecho) por
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: by, done by
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _fale_.
+...

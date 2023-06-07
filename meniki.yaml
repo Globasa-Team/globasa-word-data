@@ -1,0 +1,52 @@
+---
+term: meniki
+slug: meniki
+ipa: "me\u02C8niki"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8niki&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - immunity
+  - - immunize
+  epo:
+  - - imuno
+  spa:
+  - - inmunidad
+  - - inmunizar
+search terms:
+  glb:
+  - meniki
+  eng:
+  - immunity
+  - immunize
+  epo:
+  - imuno
+  spa:
+  - inmunidad
+  - inmunizar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: meniki
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: immunity; immunize
+    epo: imuno
+    spa: inmunidad; inmunizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u514D\u75AB \"myenyi\"), Niponsa (\u514D\u75AB \"meneki\"),
+    Vyetnamsa (mi\u1EC5n d\u1ECBch), Hangusa (\uBA74\uC5ED \"myonyok\"), Parsisa (\u0627\u06CC\u0645\u0646\u06CC
+    \"imeni\")"
+...

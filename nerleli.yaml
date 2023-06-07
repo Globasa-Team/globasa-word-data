@@ -1,0 +1,60 @@
+---
+term: nerleli
+slug: nerleli
+ipa: "ne\u027E\u02C8leli"
+ipa link: "http://ipa-reader.xyz/?text=ne\u027E\u02C8leli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - recent
+  - - recently
+  epo:
+  - - nelga
+    - "fre\u015Ddata"
+  - - nelge
+    - "fre\u015Ddate"
+    - "anta\u016D nelonge"
+  spa:
+  - - reciente
+  - - "reci\xE9n"
+    - recientemente
+search terms:
+  glb:
+  - nerleli
+  eng:
+  - recent
+  - recently
+  epo:
+  - nelga
+  - "fre\u015Ddata"
+  - nelge
+  - "fre\u015Ddate"
+  - "anta\u016D nelonge"
+  spa:
+  - reciente
+  - "reci\xE9n"
+  - recientemente
+etymology_type: DERIVD
+etymology: <a href="../lexi/ner-">ner-</a> + <a href="../lexi/le-">le-</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: nerleli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: recent; recently
+    epo: "nelga, fre\u015Ddata; nelge, fre\u015Ddate, anta\u016D nelonge"
+    spa: "reciente; reci\xE9n, recientemente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ner- + le- + -li
+...

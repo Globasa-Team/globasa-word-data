@@ -1,0 +1,55 @@
+---
+term: hero
+slug: hero
+ipa: "\u02C8xe\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hero
+    - heroine
+  epo:
+  - - heroo
+    - heroino
+  spa:
+  - - "h\xE9roe"
+    - "hero\xEDna"
+search terms:
+  glb:
+  - hero
+  eng:
+  - hero
+  - heroine
+  epo:
+  - heroo
+  - heroino
+  spa:
+  - "h\xE9roe"
+  - "hero\xEDna"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hero
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hero, heroine
+    epo: heroo, heroino
+    spa: "h\xE9roe, hero\xEDna"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Heros), Englisa (hero), Espanisa (h\xE9roe), Fransesa (h\xE9ros),
+    Rusisa (\u0433\u0435\u0440\u043E\u0439 \u201Cgeroy\u201D), Niponsa (\u30D2\u30FC\u30ED\u30FC
+    \u201Chiro\u201D), Hindisa (\u0939\u0940\u0930\u094B \u201Chiro\u201D), Telugusa
+    (\u0C39\u0C40\u0C30\u0C4B \u201Chiro\u201D)"
+...

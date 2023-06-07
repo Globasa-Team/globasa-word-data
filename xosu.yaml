@@ -1,0 +1,72 @@
+---
+term: xosu
+slug: xosu
+ipa: "\u02C8\u0283osu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283osu&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - few
+    - (a) little
+    - (a) little bit (of)
+  epo:
+  - - malmulta
+  - - malmulte (da)
+    - "iomete (anta\u016D verbo) (malo de [multi]) (vidu [lilmo] por \u201Ciomete\u201D
+      anta\u016D adjektivo)"
+  spa:
+  - - poco
+    - pocos
+search terms:
+  glb:
+  - xosu
+  eng:
+  - few
+  - a little
+  - little
+  - a little bit of
+  - little bit
+  epo:
+  - malmulta
+  - malmulte da
+  - malmulte
+  - "iomete anta\u016D verbo malo de  por \u201Ciomete\u201D anta\u016D adjektivo"
+  - iomete
+  spa:
+  - poco
+  - pocos
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5C11\u6570 \u201Csh\u01CEosh\xF9\u201D"
+  Niponsa:
+  - - "\u5C11\u6570 \u201Csh\u014Ds\u016B\u201D"
+  Hangusa:
+  - - "\uC18C\uC218\uC758 \u201Csosuui\u201D"
+antonyms:
+- multi
+raw data:
+  term: xosu
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: few, (a) little, (a) little bit (of)
+    epo: "malmulta; malmulte (da), iomete (anta\u016D verbo) (malo de [multi]) (vidu
+      [lilmo] por \u201Ciomete\u201D anta\u016D adjektivo)"
+    spa: poco, pocos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: few, little, a little, a little bit, little bit, a little bit
+    of
+  synonyms: ""
+  antonyms: multi
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5C11\u6570 \u201Csh\u01CEosh\xF9\u201D), Niponsa (\u5C11\u6570
+    \u201Csh\u014Ds\u016B\u201D), Hangusa (\uC18C\uC218\uC758 \u201Csosuui\u201D)"
+...

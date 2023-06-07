@@ -1,0 +1,88 @@
+---
+term: orkestra
+slug: orkestra
+ipa: "o\u027E\u02C8kest\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=o\u027E\u02C8kest\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - orchestra
+  epo:
+  - - orkestro
+  spa:
+  - - orquesta
+search terms:
+  glb:
+  - orkestra
+  eng:
+  - orchestra
+  epo:
+  - orkestro
+  spa:
+  - orquesta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - orchestra
+  Fransesa:
+  - - orchestre
+  Doycesa:
+  - - Orchester
+  Rusisa:
+  - - "\u043E\u0440\u043A\u0435\u0441\u0442\u0440 \u201Corkestr\u201D"
+  Espanisa:
+  - - orquesta
+  Niponsa:
+  - - "\u30AA\u30FC\u30B1\u30B9\u30C8\u30E9 \u201Cokesutora\u201D"
+  Hangusa:
+  - - "\uC624\uCF00\uC2A4\uD2B8\uB77C \u201Cokesutula\u201D"
+  Hindisa:
+  - - "\u0911\u0930\u094D\u0915\u0947\u0938\u094D\u091F\u094D\u0930\u093E \u201Corkestra\u201D"
+    - "\u0906\u0930\u094D\u0915\u0947\u0938\u094D\u091F\u094D\u0930\u093E \u201Carkestra\u201D"
+  Telugusa:
+  - - "\u0C06\u0C30\u0C4D\u0C15\u0C46\u0C38\u0C4D\u0C1F\u0C4D\u0C30\u0C3E \u201Carkestra\u201D"
+  Arabisa:
+  - - "\u0623\u0648\u0631\u0643\u0633\u062A\u0631\u0627 \u201C'uwrkistra\u201D"
+  Swahilisa:
+  - - okestra
+  Parsisa:
+  - - "\u0627\u0631\u06A9\u0633\u062A\u0631\u200E \u201Corkestr\u201D"
+  Turkisa:
+  - - orkestra
+  Indonesisa:
+  - - orkes
+    - orkestra
+  Pilipinasa:
+  - - orkestra
+    - orkesta
+raw data:
+  term: orkestra
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: orchestra
+    epo: orkestro
+    spa: orquesta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (orchestra), Fransesa (orchestre), Doycesa (Orchester), Rusisa
+    (\u043E\u0440\u043A\u0435\u0441\u0442\u0440 \u201Corkestr\u201D), Espanisa (orquesta),
+    Niponsa (\u30AA\u30FC\u30B1\u30B9\u30C8\u30E9 \u201Cokesutora\u201D), Hangusa
+    (\uC624\uCF00\uC2A4\uD2B8\uB77C \u201Cokesutula\u201D), Hindisa (\u0911\u0930\u094D\u0915\u0947\u0938\u094D\u091F\u094D\u0930\u093E
+    \u201Corkestra\u201D, \u0906\u0930\u094D\u0915\u0947\u0938\u094D\u091F\u094D\u0930\u093E
+    \u201Carkestra\u201D), Telugusa (\u0C06\u0C30\u0C4D\u0C15\u0C46\u0C38\u0C4D\u0C1F\u0C4D\u0C30\u0C3E
+    \u201Carkestra\u201D), Arabisa (\u0623\u0648\u0631\u0643\u0633\u062A\u0631\u0627
+    \u201C'uwrkistra\u201D), Swahilisa (okestra), Parsisa (\u0627\u0631\u06A9\u0633\u062A\u0631\u200E
+    \u201Corkestr\u201D), Turkisa (orkestra), Indonesisa (orkes, orkestra), Pilipinasa
+    (orkestra, orkesta)"
+...

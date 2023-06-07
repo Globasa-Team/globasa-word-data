@@ -1,0 +1,54 @@
+---
+term: hipotesis
+slug: hipotesis
+ipa: "xipote\u02C8sis"
+ipa link: "http://ipa-reader.xyz/?text=xipote\u02C8sis&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - hypothesis
+  - - hypothesize
+  epo:
+  - - hipotezo
+  - - hipotezi
+  spa:
+  - - "hip\xF3tesis"
+  - - hipotetizar
+search terms:
+  glb:
+  - hipotesis
+  eng:
+  - hypothesis
+  - hypothesize
+  epo:
+  - hipotezo
+  - hipotezi
+  spa:
+  - "hip\xF3tesis"
+  - hipotetizar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hipotesis
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: hypothesis; hypothesize
+    epo: hipotezo; hipotezi
+    spa: "hip\xF3tesis; hipotetizar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (hypothesis), Espanisa (hip\xF3tesis), Fransesa (hypoth\xE8se),
+    Rusisa (\u0433\u0438\u043F\u043E\u0442\u0435\u0437\u0430 \u201Cgipoteza\u201D),
+    Doycisa (Hypothese), Indonesisa (hipotesis), Pilipinasa (ipotesis), Turkisa (hipotez)"
+...

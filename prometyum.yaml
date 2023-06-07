@@ -1,0 +1,89 @@
+---
+term: prometyum
+slug: prometyum
+ipa: "p\u027Eome\u02C8tjum"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eome\u02C8tjum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - promethium
+  epo:
+  - - prometio
+  spa:
+  - - prometio
+    - Pm
+search terms:
+  glb:
+  - prometyum
+  eng:
+  - promethium
+  epo:
+  - prometio
+  spa:
+  - prometio
+  - pm
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - promethium
+  Espanisa:
+  - - promecio
+  Arabisa:
+  - - "\u0628\u0652\u0631\u064F\u0648\u0645\u0650\u064A\u062B\u0652\u064A\u064F\u0648\u0645
+      \u201Cbrumityum\u201D"
+  Fransesa:
+  - - "prom\xE9thium"
+    - "prom\xE9th\xE9um"
+  Rusisa:
+  - - "\u043F\u0440\u043E\u043C\u0435\u0442\u0438\u0439 \u201Cprometiy\u201D"
+  Indonesisa:
+  - - prometium
+  Doycisa:
+  - - Promethium
+  Niponsa:
+  - - "\u30D7\u30ED\u30E1\u30C1\u30A6\u30E0 \u201Cpuromeciumu\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C4D\u0C30\u0C4B\u0C2E\u0C3F\u0C25\u0C3F\u0C2F\u0C02 \u201Cpromitiyam\u201D"
+  Turkisa:
+  - - prometyum
+  Hangusa:
+  - - "\uD504\uB85C\uBA54\uD2AC \u201Cpurometyum\u201D"
+  Vyetnamsa:
+  - - prometi
+  Parsisa:
+  - - "\u067E\u0631\u0648\u0645\u062A\u06CC\u0645 \u201Cprometyom\u201D"
+  Swahilisa:
+  - - promethi
+  Pilipinasa:
+  - - prometyo
+    - promethium
+tags:
+- kimikali monlari
+raw data:
+  term: prometyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: promethium
+    epo: prometio
+    spa: prometio, Pm
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (promethium), Espanisa (promecio), Arabisa (\u0628\u0652\u0631\u064F\u0648\u0645\u0650\u064A\u062B\u0652\u064A\u064F\u0648\u0645
+    \u201Cbrumityum\u201D), Fransesa (prom\xE9thium, prom\xE9th\xE9um), Rusisa (\u043F\u0440\u043E\u043C\u0435\u0442\u0438\u0439
+    \u201Cprometiy\u201D), Indonesisa (prometium), Doycisa (Promethium), Niponsa (\u30D7\u30ED\u30E1\u30C1\u30A6\u30E0
+    \u201Cpuromeciumu\u201D), Telugusa (\u0C2A\u0C4D\u0C30\u0C4B\u0C2E\u0C3F\u0C25\u0C3F\u0C2F\u0C02
+    \u201Cpromitiyam\u201D), Turkisa (prometyum), Hangusa (\uD504\uB85C\uBA54\uD2AC
+    \u201Cpurometyum\u201D), Vyetnamsa (prometi), Parsisa (\u067E\u0631\u0648\u0645\u062A\u06CC\u0645
+    \u201Cprometyom\u201D), Swahilisa (promethi), Pilipinasa (prometyo, promethium)"
+...

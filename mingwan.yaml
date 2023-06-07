@@ -1,0 +1,53 @@
+---
+term: mingwan
+slug: mingwan
+ipa: "min\u02C8gwan"
+ipa link: "http://ipa-reader.xyz/?text=min\u02C8gwan&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Pluto (_dwarf planet_)
+  epo:
+  - - Plutono
+    - Pluto
+  spa:
+  - - "Plut\xF3n (_planeta enano_)"
+search terms:
+  glb:
+  - mingwan
+  eng:
+  - pluto
+  epo:
+  - plutono
+  - pluto
+  spa:
+  - "plut\xF3n"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u51A5\u738B\u661F \u201Cm\xEDngw\xE1ngx\u012Bng\u201D"
+  Hangusa:
+  - - "\uBA85\uC655\uC131 \u201Cmyeong-wangseong\u201D"
+raw data:
+  term: Mingwan
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Pluto (_dwarf planet_)
+    epo: Plutono, Pluto
+    spa: "Plut\xF3n (_planeta enano_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u51A5\u738B\u661F \u201Cm\xEDngw\xE1ngx\u012Bng\u201D), Hangusa
+    (\uBA85\uC655\uC131 \u201Cmyeong-wangseong\u201D)"
+...

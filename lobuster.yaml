@@ -1,0 +1,57 @@
+---
+term: lobuster
+slug: lobuster
+ipa: "lobus\u02C8te\u027E"
+ipa link: "http://ipa-reader.xyz/?text=lobus\u02C8te\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lobster
+    - _Nephropidae_
+  epo:
+  - - langusto
+  spa:
+  - - langosta
+    - bogavante
+    - _Nephropidae_
+search terms:
+  glb:
+  - lobuster
+  eng:
+  - lobster
+  - nephropidae
+  epo:
+  - langusto
+  spa:
+  - langosta
+  - bogavante
+  - nephropidae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: lobuster
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lobster, _Nephropidae_
+    epo: langusto
+    spa: langosta, bogavante, _Nephropidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (lobuster), Niponsa (\u30ED\u30D6\u30B9\u30BF\u30FC \u201Crobusuta\u201D),
+    Espanisa (langosta), Rusisa (\u043B\u043E\u0431\u0441\u0442\u0435\u0440 \u201Clobster\u201D),
+    Indonesisa (lobster), Hindisa (\u0932\u0949\u092C\u094D\u0938\u094D\u091F\u0930
+    \u201Clobstar\u201D)"
+...

@@ -1,0 +1,46 @@
+---
+term: klientelari
+slug: klientelari
+ipa: "kliente\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=kliente\u02C8la\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - clientele
+  epo:
+  - - klientaro
+  spa:
+  - - clientela
+search terms:
+  glb:
+  - klientelari
+  eng:
+  - clientele
+  epo:
+  - klientaro
+  spa:
+  - clientela
+etymology_type: DERIVD
+etymology: <a href="../lexi/kliente">kliente</a> + <a href="../lexi/-lari">-lari</a>
+raw data:
+  term: klientelari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: clientele
+    epo: klientaro
+    spa: clientela
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kliente + -lari
+...

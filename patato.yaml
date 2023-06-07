@@ -1,0 +1,61 @@
+---
+term: patato
+slug: patato
+ipa: "pa\u02C8tato"
+ipa link: "http://ipa-reader.xyz/?text=pa\u02C8tato&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - potato
+  epo:
+  - - terpomo
+  spa:
+  - - papa (_comida_)
+search terms:
+  glb:
+  - patato
+  eng:
+  - potato
+  epo:
+  - terpomo
+  spa:
+  - papa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - potato
+  Fransesa:
+  - - patate
+  Espanisa:
+  - - patata
+  Arabisa:
+  - - "\u0628\u064E\u0637\u064E\u0627\u0637\u064E\u0627 \u201Cbatata\u201D"
+  Turkisa:
+  - - patates
+  Pilipinasa:
+  - - patatas
+tags:
+- yamxey
+raw data:
+  term: patato
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: potato
+    epo: terpomo
+    spa: papa (_comida_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (potato), Fransesa (patate), Espanisa (patata), Arabisa (\u0628\u064E\u0637\u064E\u0627\u0637\u064E\u0627
+    \u201Cbatata\u201D), Turkisa (patates), Pilipinasa (patatas)"
+...

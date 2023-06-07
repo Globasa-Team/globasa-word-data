@@ -1,0 +1,48 @@
+---
+term: okoli kolor
+slug: okoli kolor
+ipa: "o\u02C8koli ko\u02C8lo\u027E"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8koli ko\u02C8lo\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - eye color
+  epo:
+  - - okula koloro
+  spa:
+  - - color de ojos
+search terms:
+  glb:
+  - okoli kolor
+  - okoli
+  - kolor
+  eng:
+  - eye color
+  epo:
+  - okula koloro
+  spa:
+  - color de ojos
+etymology_type: DERIVD
+etymology: <a href="../lexi/oko">oko</a> + <a href="../lexi/-li">-li</a>, <a href="../lexi/kolor">kolor</a>
+raw data:
+  term: okoli kolor
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: eye color
+    epo: okula koloro
+    spa: color de ojos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: oko + -li, kolor
+...

@@ -1,0 +1,84 @@
+---
+term: neon
+slug: neon
+ipa: "ne\u02C8on"
+ipa link: "http://ipa-reader.xyz/?text=ne\u02C8on&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - neon
+  epo:
+  - - neono
+  spa:
+  - - "ne\xF3n"
+search terms:
+  glb:
+  - neon
+  eng:
+  - neon
+  epo:
+  - neono
+  spa:
+  - "ne\xF3n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - neon
+  Espanisa:
+  - - "ne\xF3n"
+  Arabisa:
+  - - "\u0646\u0650\u064A\u064F\u0648\u0646 \u201Cniyun\u201D"
+  Fransesa:
+  - - "n\xE9on"
+  Rusisa:
+  - - "\u043D\u0435\u043E\u043D \u201Cneon\u201D"
+  Indonesisa:
+  - - neon
+  Doycisa:
+  - - Neon
+  Niponsa:
+  - - "\u30CD\u30AA\u30F3 \u201Cneon\u201D"
+  Telugusa:
+  - - "\u0C28\u0C3F\u0C2F\u0C3E\u0C28\u0C4D \u201Cniyan\u201D"
+  Turkisa:
+  - - neon
+  Hangusa:
+  - - "\uB124\uC628 \u201Cne-on\u201D"
+  Vyetnamsa:
+  - - neon
+    - "n\xEA-\xF4ng"
+  Parsisa:
+  - - "\u0646\u0626\u0648\u0646 \u201Cniyun\u201D"
+  Swahilisa:
+  - - neoni
+  Pilipinasa:
+  - - neon
+tags:
+- kimikali monlari
+raw data:
+  term: neon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: neon
+    epo: neono
+    spa: "ne\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (neon), Espanisa (ne\xF3n), Arabisa (\u0646\u0650\u064A\u064F\u0648\u0646
+    \u201Cniyun\u201D), Fransesa (n\xE9on), Rusisa (\u043D\u0435\u043E\u043D \u201Cneon\u201D),
+    Indonesisa (neon), Doycisa (Neon), Niponsa (\u30CD\u30AA\u30F3 \u201Cneon\u201D),
+    Telugusa (\u0C28\u0C3F\u0C2F\u0C3E\u0C28\u0C4D \u201Cniyan\u201D), Turkisa (neon),
+    Hangusa (\uB124\uC628 \u201Cne-on\u201D), Vyetnamsa (neon, n\xEA-\xF4ng), Parsisa
+    (\u0646\u0626\u0648\u0646 \u201Cniyun\u201D), Swahilisa (neoni), Pilipinasa (neon)"
+...

@@ -1,0 +1,52 @@
+---
+term: xencu
+slug: xencu
+ipa: "\u02C8\u0283ent\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283ent\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - birth
+  - - be born
+  epo:
+  - - "naski\u011Do"
+  - - "naski\u011Di"
+  spa:
+  - - nacimiento
+  - - nacer
+search terms:
+  glb:
+  - xencu
+  eng:
+  - birth
+  - be born
+  epo:
+  - "naski\u011Do"
+  - "naski\u011Di"
+  spa:
+  - nacimiento
+  - nacer
+etymology_type: DERIVD
+etymology: <a href="../lexi/xen">xen</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: xencu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: birth; be born
+    epo: "naski\u011Do; naski\u011Di"
+    spa: nacimiento; nacer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xen + -cu
+...

@@ -1,0 +1,64 @@
+---
+term: xanse
+slug: xanse
+ipa: "\u02C8\u0283anse"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283anse&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - luck
+    - fortune
+    - odds
+  epo:
+  - - "\u015Danco"
+  spa:
+  - - suerte
+search terms:
+  glb:
+  - xanse
+  eng:
+  - luck
+  - fortune
+  - odds
+  epo:
+  - "\u015Danco"
+  spa:
+  - suerte
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - chanse
+  Fransesa: ~
+  Hindi:
+  - - "\u091A\u093E\u0902\u0938\_\"cans\u201D"
+  Nipnaa:
+  - - "\u30C1\u30E3\u30F3\u30B9 \u201Ccansu\u201D"
+  Turkisa:
+  - - "\u015Fans"
+  "Hangusa \uCC2C\uC2A4\_\"cansu\u201D)": ~
+  Parsisa:
+  - - "\u0634\u0627\u0646\u0633 \u201Cxans\u201D"
+raw data:
+  term: xanse
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: luck, fortune, odds
+    epo: "\u015Danco"
+    spa: suerte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (chanse), Fransesa, Hindi (\u091A\u093E\u0902\u0938\_\"cans\u201D),
+    Nipnaa (\u30C1\u30E3\u30F3\u30B9 \u201Ccansu\u201D), Turkisa (\u015Fans), Hangusa
+    \uCC2C\uC2A4\_\"cansu\u201D), Parsisa (\u0634\u0627\u0646\u0633 \u201Cxans\u201D)"
+...

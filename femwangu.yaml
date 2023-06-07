@@ -1,0 +1,46 @@
+---
+term: femwangu
+slug: femwangu
+ipa: "fe\u02C8mwangu"
+ipa link: "http://ipa-reader.xyz/?text=fe\u02C8mwangu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - queen
+  epo:
+  - - "re\u011Dino"
+  spa:
+  - - reina
+search terms:
+  glb:
+  - femwangu
+  eng:
+  - queen
+  epo:
+  - "re\u011Dino"
+  spa:
+  - reina
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/wangu">wangu</a>
+raw data:
+  term: femwangu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: queen
+    epo: "re\u011Dino"
+    spa: reina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem- + wangu
+...

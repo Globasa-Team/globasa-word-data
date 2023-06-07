@@ -1,0 +1,48 @@
+---
+term: sisayum
+slug: sisayum
+ipa: "sisa\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=sisa\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - sixth
+  epo:
+  - - sesa
+  - - sese
+  spa:
+  - - sexto
+search terms:
+  glb:
+  - sisayum
+  eng:
+  - sixth
+  epo:
+  - sesa
+  - sese
+  spa:
+  - sexto
+etymology_type: DERIVD
+etymology: <a href="../lexi/sisa">sisa</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: sisayum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: sixth
+    epo: sesa; sese
+    spa: sexto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sisa + -yum
+...

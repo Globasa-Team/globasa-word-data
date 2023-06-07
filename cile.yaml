@@ -1,0 +1,50 @@
+---
+term: cile
+slug: cile
+ipa: "\u02C8t\u0361\u0283ile"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u0361\u0283ile&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Chile
+  epo:
+  - - "\u0108ilio"
+  spa:
+  - - Chile
+search terms:
+  glb:
+  - cile
+  eng:
+  - chile
+  epo:
+  - "\u0108ilio"
+  spa:
+  - chile
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Chile
+tags:
+- dexa
+raw data:
+  term: Cile
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Chile
+    epo: "\u0108ilio"
+    spa: Chile
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Chile)
+...

@@ -1,0 +1,63 @@
+---
+term: forke
+slug: forke
+ipa: ˈfoɾke
+ipa link: http://ipa-reader.xyz/?text=ˈfoɾke&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fork
+  epo:
+  - - forko
+  spa:
+  - - tenedor
+search terms:
+  glb:
+  - forke
+  eng:
+  - fork
+  epo:
+  - forko
+  spa:
+  - tenedor
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fork
+  Fransesa:
+  - - fourchette
+  Italisa:
+  - - forchetta
+  Nederisa:
+  - - vork
+  Telugusa:
+  - - ఫోర్క “phōrk”
+  Niponsa:
+  - - フォーク “foku”
+  Hangusa:
+  - - 포크 “poku”
+tags:
+- tul
+raw data:
+  term: forke
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fork
+    epo: forko
+    spa: tenedor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: tul
+  etymology: Englisa (fork), Fransesa (fourchette), Italisa (forchetta), Nederisa
+    (vork), Telugusa (ఫోర్క “phōrk”), Niponsa (フォーク “foku”) Hangusa (포크 “poku”)
+...

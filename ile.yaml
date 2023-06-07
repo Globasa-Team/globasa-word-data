@@ -1,0 +1,46 @@
+---
+term: ile
+slug: ile
+ipa: "\u02C8ile"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ile&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter l
+  epo:
+  - - litero l
+  spa:
+  - - letra l
+search terms:
+  glb:
+  - ile
+  eng:
+  - letter l
+  epo:
+  - litero l
+  spa:
+  - letra l
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ile
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter l
+    epo: litero l
+    spa: letra l
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

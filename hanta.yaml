@@ -1,0 +1,56 @@
+---
+term: hanta
+slug: hanta
+ipa: "\u02C8xanta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xanta&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - hand
+  - - handle
+    - hold (_with hands_)
+  epo:
+  - - mano
+  - - manuzi
+  spa:
+  - - mano
+  - - manejar
+    - agarrar (_con las manos_)
+search terms:
+  glb:
+  - hanta
+  eng:
+  - hand
+  - handle
+  - hold
+  epo:
+  - mano
+  - manuzi
+  spa:
+  - mano
+  - manejar
+  - agarrar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hanta
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: hand; handle, hold (_with hands_)
+    epo: mano; manuzi
+    spa: mano; manejar, agarrar (_con las manos_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (hand), Doycisa (Hand), Hindisa (hatta)
+...

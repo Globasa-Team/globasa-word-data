@@ -1,0 +1,54 @@
+---
+term: xinloylaye
+slug: xinloylaye
+ipa: "\u0283inloj\u02C8laje"
+ipa link: "http://ipa-reader.xyz/?text=\u0283inloj\u02C8laje&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - trust-worthy
+    - trustworthy
+  epo:
+  - - fidinda
+  - - fidinde
+  spa:
+  - - de confianza
+    - confiable
+    - fiable
+search terms:
+  glb:
+  - xinloylaye
+  eng:
+  - trust-worthy
+  - trustworthy
+  epo:
+  - fidinda
+  - fidinde
+  spa:
+  - de confianza
+  - confiable
+  - fiable
+etymology_type: DERIVD
+etymology: <a href="../lexi/xinloy">xinloy</a> + <a href="../lexi/-laye">-laye</a>
+raw data:
+  term: xinloylaye
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: trust-worthy, trustworthy
+    epo: fidinda; fidinde
+    spa: de confianza, confiable, fiable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xinloy + -laye
+...

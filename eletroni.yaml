@@ -1,0 +1,78 @@
+---
+term: eletroni
+slug: eletroni
+ipa: eleˈtɾoni
+ipa link: http://ipa-reader.xyz/?text=eleˈtɾoni&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - electronic
+  epo:
+  - - elektronika
+  - - elektronike
+  spa:
+  - - electrónico
+search terms:
+  glb:
+  - eletroni
+  eng:
+  - electronic
+  epo:
+  - elektronika
+  - elektronike
+  spa:
+  - electrónico
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - electronic
+  Fransesa:
+  - - électronique
+  Doycisa:
+  - - elektronisch
+  Rusisa:
+  - - электронный “elektronniy”
+  Espanisa:
+  - - electrónico
+  Arabisa:
+  - - إِلِكْتْرُونِي “iliktroniy”
+  Hindisa:
+  - - इलेक्ट्रॉनिक “ilektronik”
+  Telugusa:
+  - - వైద్యుత “elaktranik”
+  Parsisa:
+  - - الکترونی “elekteroni”
+  Turkisa:
+  - - elektronik
+  Indonesisa:
+  - - elektronik
+  Pilipinasa:
+  - - elektronika
+  Swahilisa:
+  - - -a elektroniki
+raw data:
+  term: eletroni
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: electronic
+    epo: elektronika; elektronike
+    spa: electrónico
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (electronic), Fransesa (électronique), Doycisa (elektronisch),
+    Rusisa (электронный “elektronniy”), Espanisa (electrónico), Arabisa (إِلِكْتْرُونِي
+    “iliktroniy”), Hindisa (इलेक्ट्रॉनिक “ilektronik”), Telugusa (వైద్యుత “elaktranik”),
+    Parsisa (الکترونی “elekteroni”), Turkisa (elektronik), Indonesisa (elektronik),
+    Pilipinasa (elektronika), Swahilisa (-a elektroniki)
+...

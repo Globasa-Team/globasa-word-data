@@ -1,0 +1,62 @@
+---
+term: borsuke
+slug: borsuke
+ipa: boɾˈsuke
+ipa link: http://ipa-reader.xyz/?text=boɾˈsuke&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - badger
+  epo:
+  - - melo
+    - taksideo
+  spa:
+  - - tejón
+    - tasugo
+    - bacher
+    - juín
+    - _Caniformia_
+search terms:
+  glb:
+  - borsuke
+  eng:
+  - badger
+  epo:
+  - melo
+  - taksideo
+  spa:
+  - tejón
+  - tasugo
+  - bacher
+  - juín
+  - caniformia
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - барсук “barsuk”
+  Turkisa:
+  - - porsuk
+tags:
+- hewan
+raw data:
+  term: borsuke
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: badger
+    epo: melo, taksideo
+    spa: tejón, tasugo, bacher, juín, _Caniformia_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Rusisa (барсук “barsuk”), Turkisa (porsuk)
+...

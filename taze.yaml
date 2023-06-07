@@ -1,0 +1,59 @@
+---
+term: taze
+slug: taze
+ipa: "\u02C8taze"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8taze&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - fresh
+  epo:
+  - - "fre\u015Da"
+  - - "fre\u015De"
+  spa:
+  - - fresco
+search terms:
+  glb:
+  - taze
+  eng:
+  - fresh
+  epo:
+  - "fre\u015Da"
+  - "fre\u015De"
+  spa:
+  - fresco
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0637\u0627\u0632\u062C \u201Ctazij\u201D"
+  Hindisa:
+  - - "\u0924\u093E\u091C\u093C\u093E \u201Ctaaza\u201D \u0924\u093E\u091C\u093C\u0940
+      \u201Ctaazi\u201D"
+  Parsisa:
+  - - "\u062A\u0627\u0632\u0647  \u201Ctaz\u201D"
+  Turkisa:
+  - - taze
+raw data:
+  term: taze
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: fresh
+    epo: "fre\u015Da; fre\u015De"
+    spa: fresco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0637\u0627\u0632\u062C \u201Ctazij\u201D), Hindisa (\u0924\u093E\u091C\u093C\u093E
+    \u201Ctaaza\u201D \u0924\u093E\u091C\u093C\u0940 \u201Ctaazi\u201D), Parsisa (\u062A\u0627\u0632\u0647
+    \ \u201Ctaz\u201D), Turkisa (taze)"
+...

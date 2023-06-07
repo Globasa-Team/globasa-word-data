@@ -1,0 +1,48 @@
+---
+term: ergokal
+slug: ergokal
+ipa: "e\u027Ego\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=e\u027Ego\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unemployed
+  epo:
+  - - senlabora
+  - - senlabore
+  spa:
+  - - desempleado
+search terms:
+  glb:
+  - ergokal
+  eng:
+  - unemployed
+  epo:
+  - senlabora
+  - senlabore
+  spa:
+  - desempleado
+etymology_type: DERIVD
+etymology: <a href="../lexi/ergo">ergo</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: ergokal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unemployed
+    epo: senlabora; senlabore
+    spa: desempleado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ergo + -kal
+...

@@ -1,0 +1,53 @@
+---
+term: cisya
+slug: cisya
+ipa: "\u02C8t\u0361\u0283isja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u0361\u0283isja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - this side
+  - - be on this side (of)
+  epo:
+  - - "\u0109i tiu flanko"
+  - - "esti je \u0109i tiu flanko"
+  spa:
+  - - este lado
+  - - estar de este lado de
+search terms:
+  glb:
+  - cisya
+  eng:
+  - this side
+  - be on this side of
+  - be on this side
+  epo:
+  - "\u0109i tiu flanko"
+  - "esti je \u0109i tiu flanko"
+  spa:
+  - este lado
+  - estar de este lado de
+etymology_type: DERIVD
+etymology: <a href="../lexi/cis">cis</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: cisya
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: this side; be on this side (of)
+    epo: "\u0109i tiu flanko; esti je \u0109i tiu flanko"
+    spa: este lado; estar de este lado de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cis + -ya
+...

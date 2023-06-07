@@ -1,0 +1,52 @@
+---
+term: morcuabil
+slug: morcuabil
+ipa: "mo\u027Et\u0361\u0283ua\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=mo\u027Et\u0361\u0283ua\u02C8bil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - mortal
+  - - mortally
+  epo:
+  - - mortema
+    - mortideva
+  - - morteme
+  spa:
+  - - mortal (_sujeto a la muerte_)
+search terms:
+  glb:
+  - morcuabil
+  eng:
+  - mortal
+  - mortally
+  epo:
+  - mortema
+  - mortideva
+  - morteme
+  spa:
+  - mortal
+etymology_type: DERIVD
+etymology: <a href="../lexi/mor">mor</a> + <a href="../lexi/-cu">-cu</a> + <a href="../lexi/-abil">-abil</a>
+raw data:
+  term: morcuabil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: mortal; mortally
+    epo: mortema, mortideva; morteme
+    spa: mortal (_sujeto a la muerte_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mor + -cu + -abil
+...

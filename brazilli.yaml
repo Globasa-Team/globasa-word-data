@@ -1,0 +1,46 @@
+---
+term: brazilli
+slug: brazilli
+ipa: "b\u027Ea\u02C8zilli"
+ipa link: "http://ipa-reader.xyz/?text=b\u027Ea\u02C8zilli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Brazilian
+  epo:
+  - - brazila
+  spa:
+  - - "brasile\xF1o"
+search terms:
+  glb:
+  - brazilli
+  eng:
+  - brazilian
+  epo:
+  - brazila
+  spa:
+  - "brasile\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Brazil">Brazil</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Brazilli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Brazilian
+    epo: brazila
+    spa: "brasile\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Brazil + -li
+...

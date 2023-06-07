@@ -1,0 +1,74 @@
+---
+term: produti
+slug: produti
+ipa: "p\u027Eo\u02C8duti"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eo\u02C8duti&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - product
+  - - produce
+    - generate
+  epo:
+  - - produkto
+  - - produkti
+  spa:
+  - - producto
+  - - producir
+    - generar
+search terms:
+  glb:
+  - produti
+  eng:
+  - product
+  - produce
+  - generate
+  epo:
+  - produkto
+  - produkti
+  spa:
+  - producto
+  - producir
+  - generar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - product
+    - productivity
+  Fransesa:
+  - - produit
+  Doycisa:
+  - - Produkt
+  Rusisa:
+  - - "\u043F\u0440\u043E\u0434\u0443\u043A\u0442 \u201Cprodukt\u201D"
+  Espanisa:
+  - - producto
+  Indonesisa:
+  - - produk
+    - produktivitas
+  Pilipinasa:
+  - - produkto
+raw data:
+  term: produti
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: product; produce, generate
+    epo: produkto; produkti
+    spa: producto; producir, generar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (product, productivity), Fransesa (produit), Doycisa (Produkt),
+    Rusisa (\u043F\u0440\u043E\u0434\u0443\u043A\u0442 \u201Cprodukt\u201D), Espanisa
+    (producto), Indonesisa (produk, produktivitas), Pilipinasa (produkto)"
+...

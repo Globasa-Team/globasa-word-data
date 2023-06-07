@@ -1,0 +1,58 @@
+---
+term: zaxi
+slug: zaxi
+ipa: "\u02C8za\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8za\u0283i&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - magazine
+  epo:
+  - - gazeto
+    - magazino
+  spa:
+  - - revista
+search terms:
+  glb:
+  - zaxi
+  eng:
+  - magazine
+  epo:
+  - gazeto
+  - magazino
+  spa:
+  - revista
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6742\u5FD7 \u201Cz\xE1zh\xEC\u201D"
+  Niponsa:
+  - - "\u96D1\u8A8C \u201Czasshi\u201D"
+  Hangusa:
+  - - "\uC7A1\uC9C0 \u201Cjapji\u201D"
+  Vyetnamsa:
+  - - "t\u1EA1p ch\xED"
+raw data:
+  term: zaxi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: magazine
+    epo: gazeto, magazino
+    spa: revista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6742\u5FD7 \u201Cz\xE1zh\xEC\u201D), Niponsa (\u96D1\u8A8C
+    \u201Czasshi\u201D), Hangusa (\uC7A1\uC9C0 \u201Cjapji\u201D), Vyetnamsa (t\u1EA1p
+    ch\xED)"
+...

@@ -1,0 +1,52 @@
+---
+term: -kamer
+slug: -kamer
+ipa: "-ka\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=-ka\u02C8me\u027E&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - room
+  epo:
+  - - "-\u0109ambro"
+    - -ejo
+  spa:
+  - - cuarto
+    - "habitaci\xF3n"
+    - "c\xE1mara"
+search terms:
+  glb:
+  - -kamer
+  eng:
+  - room
+  epo:
+  - "-\u0109ambro"
+  - -ejo
+  spa:
+  - cuarto
+  - "habitaci\xF3n"
+  - "c\xE1mara"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/kamer">kamer</a>.
+raw data:
+  term: -kamer
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: room
+    epo: "-\u0109ambro, -ejo"
+    spa: "cuarto, habitaci\xF3n, c\xE1mara"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _kamer_.
+...

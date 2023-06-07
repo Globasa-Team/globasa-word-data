@@ -1,0 +1,53 @@
+---
+term: rehina
+slug: rehina
+ipa: "\u027Ee\u02C8xina"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8xina&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - hostage
+  epo:
+  - - "osta\u011Do"
+  spa:
+  - - "reh\xE9n"
+search terms:
+  glb:
+  - rehina
+  eng:
+  - hostage
+  epo:
+  - "osta\u011Do"
+  spa:
+  - "reh\xE9n"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0631\u064E\u0647\u0650\u064A\u0646\u064E\u0629 \"rahina\""
+  Espanisa:
+  - - "reh\xE9n"
+  Turkisa:
+  - - rehine
+raw data:
+  term: rehina
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: hostage
+    epo: "osta\u011Do "
+    spa: "reh\xE9n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0631\u064E\u0647\u0650\u064A\u0646\u064E\u0629 \"rahina\").
+    Espanisa (reh\xE9n), Turkisa (rehine)"
+...

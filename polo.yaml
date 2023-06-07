@@ -1,0 +1,81 @@
+---
+term: polo
+slug: polo
+ipa: "\u02C8polo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8polo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - polo (_sport_)
+  epo:
+  - - poloo
+    - maleopilko
+  spa:
+  - - polo (_deporte_)
+search terms:
+  glb:
+  - polo
+  eng:
+  - polo
+  epo:
+  - poloo
+  - maleopilko
+  spa:
+  - polo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - polo
+  Hindisa:
+  - - "\u092A\u094B\u0932\u094B \u201Cpolo\u201D"
+  Espanisa:
+  - - polo
+  Arabisa:
+  - - "\u0628\u064F\u0648\u0644\u064F\u0648 \u201Cbulu\u201D"
+  Fransesa:
+  - - polo
+  Rusisa:
+  - - "\u043F\u043E\u043B\u043E \u201Cpolo\u201D"
+  Indonesisa:
+  - - polo
+  Doycisa:
+  - - Polo
+  Niponsa:
+  - - "\u30DD\u30ED \u201Cporo\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C4B\u0C32\u0C4B \u201Cpolo\u201D"
+  Turkisa:
+  - - polo
+  Hangusa:
+  - - "\uD3F4\uB85C \u201Cpollo\u201D"
+  Vyetnamsa:
+  - - "p\xF4-l\xF4"
+  Pilipinasa:
+  - - polo
+raw data:
+  term: polo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: polo (_sport_)
+    epo: poloo, maleopilko
+    spa: polo (_deporte_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (polo), Hindisa (\u092A\u094B\u0932\u094B \u201Cpolo\u201D),
+    Espanisa (polo), Arabisa (\u0628\u064F\u0648\u0644\u064F\u0648 \u201Cbulu\u201D),
+    Fransesa (polo), Rusisa (\u043F\u043E\u043B\u043E \u201Cpolo\u201D), Indonesisa
+    (polo), Doycisa (Polo), Niponsa (\u30DD\u30ED \u201Cporo\u201D), Telugusa (\u0C2A\u0C4B\u0C32\u0C4B
+    \u201Cpolo\u201D), Turkisa (polo), Hangusa (\uD3F4\uB85C \u201Cpollo\u201D), Vyetnamsa
+    (p\xF4-l\xF4), Pilipinasa (polo)"
+...

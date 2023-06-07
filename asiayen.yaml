@@ -1,0 +1,46 @@
+---
+term: asiayen
+slug: asiayen
+ipa: "asia\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=asia\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Asian
+  epo:
+  - - aziano
+  spa:
+  - - "asi\xE1tico (_persona_)"
+search terms:
+  glb:
+  - asiayen
+  eng:
+  - asian
+  epo:
+  - aziano
+  spa:
+  - "asi\xE1tico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Asia">Asia</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Asiayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Asian
+    epo: aziano
+    spa: "asi\xE1tico (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Asia + -yen
+...

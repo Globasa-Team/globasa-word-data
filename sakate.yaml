@@ -1,0 +1,63 @@
+---
+term: sakate
+slug: sakate
+ipa: "sa\u02C8kate"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8kate&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - hard
+    - stiff
+    - rigid
+    - firm
+    - tough
+  epo:
+  - - malmola
+  - - malmole
+  spa:
+  - - duro
+    - "r\xEDgido"
+search terms:
+  glb:
+  - sakate
+  eng:
+  - hard
+  - stiff
+  - rigid
+  - firm
+  - tough
+  epo:
+  - malmola
+  - malmole
+  spa:
+  - duro
+  - "r\xEDgido"
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0936\u0916\u094D\u0924 \u201Csakht\u201D"
+  Parsisa:
+  - - "\u0633\u062E\u062A \u201Csakhat\u201D"
+raw data:
+  term: sakate
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: hard, stiff, rigid, firm, tough
+    epo: malmola; malmole
+    spa: "duro, r\xEDgido"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0936\u0916\u094D\u0924 \u201Csakht\u201D), Parsisa (\u0633\u062E\u062A
+    \u201Csakhat\u201D)"
+...

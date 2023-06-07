@@ -1,0 +1,57 @@
+---
+term: lense
+slug: lense
+ipa: "\u02C8lense"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lense&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lens
+  epo:
+  - - lenso
+  spa:
+  - - lente
+  deu:
+  - - Linse
+  fra:
+  - - lentille
+search terms:
+  glb:
+  - lense
+  eng:
+  - lens
+  epo:
+  - lenso
+  spa:
+  - lente
+  deu:
+  - linse
+  fra:
+  - lentille
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lense
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lens
+    epo: lenso
+    spa: lente
+    deu: Linse
+    fra: lentille
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lens), Espanisa (lente), Fransesa (lentille), Rusisa (\u043B\u0438\u043D\u0437\u0430
+    \u201Clinza\u201D), Doycisa (Linse), Indonesisa (lensa), Pilipinasa (lente), Hindisa
+    (\u0932\u0947\u0902\u0938 \u201Clens\u201D), Niponsa (\u30EC\u30F3\u30BA \u201Crenzu\u201D),
+    Turkisa (lens), Hangusa (\uB80C\uC988 \u201Crenju\u201D), Swahilisa (lenzi)"
+...

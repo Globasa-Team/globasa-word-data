@@ -1,0 +1,48 @@
+---
+term: min
+slug: min
+ipa: "\u02C8min"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8min&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - fewer
+    - less
+  epo:
+  - - malpli
+  spa:
+  - - menos
+search terms:
+  glb:
+  - min
+  eng:
+  - fewer
+  - less
+  epo:
+  - malpli
+  spa:
+  - menos
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: min
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: fewer, less
+    epo: malpli
+    spa: menos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Fransesa, Espanisa, Englisa, Doycisa, Rusisa, Turkisa (minimum)
+...

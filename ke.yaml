@@ -1,0 +1,53 @@
+---
+term: ke
+slug: ke
+ipa: "\u02C8ke"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ke&voice=Ewa"
+status: true
+category: root
+word class: d
+trans:
+  eng:
+  - - which
+    - what [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+  epo:
+  - - kiu
+    - ki- (por demandi pri la sekva vorto)
+  spa:
+  - - "\xBFqu\xE9? \xBFcu\xE1l?"
+search terms:
+  glb:
+  - ke
+  eng:
+  - which
+  - what
+  epo:
+  - kiu
+  - ki- por demandi pri la sekva vorto
+  - ki-
+  spa:
+  - "\xBFqu\xE9? \xBFcu\xE1l?"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ke
+  category: root
+  word class: d
+  status: true
+  trans:
+    eng: which, what [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+    epo: kiu, ki- (por demandi pri la sekva vorto)
+    spa: "\xBFqu\xE9? \xBFcu\xE1l?"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (quel), Espanisa (que, cual), Rusisa (\u043A\u0430\u043A\u043E\u0439
+    \u201Ckakoy\u201D), Hindisa (\u0915\u094C\u0928 \u201Ckaun\u201D), Parsisa (\u06A9\u0647
+    \u201Cke\u201D)"
+...

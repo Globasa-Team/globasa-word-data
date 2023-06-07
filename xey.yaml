@@ -1,0 +1,50 @@
+---
+term: xey
+slug: xey
+ipa: "\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283ej&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - thing
+    - object
+  epo:
+  - - "a\u0135o"
+  spa:
+  - - cosa
+    - objeto
+search terms:
+  glb:
+  - xey
+  eng:
+  - thing
+  - object
+  epo:
+  - "a\u0135o"
+  spa:
+  - cosa
+  - objeto
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/-xey">-xey</a>.
+raw data:
+  term: xey
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: thing, object
+    epo: "a\u0135o"
+    spa: cosa, objeto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _-xey_.
+...

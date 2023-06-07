@@ -1,0 +1,46 @@
+---
+term: amikuje
+slug: amikuje
+ipa: "ami\u02C8kud\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=ami\u02C8kud\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - depth
+  epo:
+  - - profundeco
+  spa:
+  - - profundidad
+search terms:
+  glb:
+  - amikuje
+  eng:
+  - depth
+  epo:
+  - profundeco
+  spa:
+  - profundidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/amiku">amiku</a> + <a href="../lexi/-je">-je</a>
+raw data:
+  term: amikuje
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: depth
+    epo: profundeco
+    spa: profundidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: amiku + -je
+...

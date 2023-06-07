@@ -1,0 +1,48 @@
+---
+term: aprobado
+slug: aprobado
+ipa: "ap\u027Eo\u02C8bado"
+ipa link: "http://ipa-reader.xyz/?text=ap\u027Eo\u02C8bado&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - approved
+  epo:
+  - - aprobita
+  - - aprobite
+  spa:
+  - - aprobado
+search terms:
+  glb:
+  - aprobado
+  eng:
+  - approved
+  epo:
+  - aprobita
+  - aprobite
+  spa:
+  - aprobado
+etymology_type: DERIVD
+etymology: <a href="../lexi/aproba">aproba</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: aprobado
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: approved
+    epo: aprobita; aprobite
+    spa: aprobado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aproba + -do
+...

@@ -1,0 +1,57 @@
+---
+term: alokwanti
+slug: alokwanti
+ipa: "alo\u02C8kwanti"
+ipa link: "http://ipa-reader.xyz/?text=alo\u02C8kwanti&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - |-
+      a different
+      quantity of
+    - a different amount of
+  epo:
+  - - alia kvanto da
+    - alia kiomo da
+  spa:
+  - - una cantidad diferente (de)
+search terms:
+  glb:
+  - alokwanti
+  eng:
+  - |-
+    a different
+    quantity of
+  - a different amount of
+  epo:
+  - alia kvanto da
+  - alia kiomo da
+  spa:
+  - una cantidad diferente de
+  - una cantidad diferente
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/kwanti">kwanti</a>
+raw data:
+  term: 'alokwanti '
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: |-
+      a different
+      quantity of, a different amount of
+    epo: alia kvanto da, alia kiomo da
+    spa: una cantidad diferente (de)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + kwanti
+...

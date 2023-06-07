@@ -1,0 +1,59 @@
+---
+term: haberi
+slug: haberi
+ipa: xaˈbeɾi
+ipa link: http://ipa-reader.xyz/?text=xaˈbeɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - news
+  epo:
+  - - novaĵoj
+  spa:
+  - - noticia
+    - nueva
+search terms:
+  glb:
+  - haberi
+  eng:
+  - news
+  epo:
+  - novaĵoj
+  spa:
+  - noticia
+  - nueva
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - أخبار “akhbar”
+  Parsisa:
+  - - اخبار “akhbar”
+  Swahilisa:
+  - - habari
+  Indonesisa:
+  - - kabar
+  Turkisa:
+  - - haber
+raw data:
+  term: haberi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: news
+    epo: novaĵoj
+    spa: noticia, nueva
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (أخبار “akhbar”), Parsisa (اخبار “akhbar”), Swahilisa (habari),
+    Indonesisa (kabar), Turkisa (haber)
+...

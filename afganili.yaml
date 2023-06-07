@@ -1,0 +1,51 @@
+---
+term: afganili
+slug: afganili
+ipa: "afga\u02C8nili"
+ipa link: "http://ipa-reader.xyz/?text=afga\u02C8nili&voice=Ewa"
+status: true
+category: derived
+word class: t
+trans:
+  eng:
+  - - Afghan (_relating to Afghanistan
+    - its people
+    - or their language_)
+  epo:
+  - - afgana
+  spa:
+  - - afgano
+search terms:
+  glb:
+  - afganili
+  eng:
+  - afghan relating to afghanistan
+  - afghan (_relating to afghanistan
+  - its people
+  - or their language
+  epo:
+  - afgana
+  spa:
+  - afgano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Afgani">Afgani</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Afganili
+  category: derived
+  word class: t
+  status: true
+  trans:
+    eng: Afghan (_relating to Afghanistan, its people, or their language_)
+    epo: afgana
+    spa: afgano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Afgani + -li
+...

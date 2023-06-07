@@ -1,0 +1,59 @@
+---
+term: brazavilkongo
+slug: brazavilkongo
+ipa: "b\u027Eazavil\u02C8kongo"
+ipa link: "http://ipa-reader.xyz/?text=b\u027Eazavil\u02C8kongo&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Republic of the Congo
+  epo:
+  - - Respubliko Kongo
+    - Kongo Brazavila
+  spa:
+  - - "Rep\xFAblica del Congo"
+    - Congo-Brazzaville
+search terms:
+  glb:
+  - brazavilkongo
+  eng:
+  - republic of the congo
+  epo:
+  - respubliko kongo
+  - kongo brazavila
+  spa:
+  - "rep\xFAblica del congo"
+  - congo-brazzaville
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - Congo-Brazzaville
+  Lingala:
+  - - "Kong\xF3-Brazzaville"
+  Kongosa:
+  - - "K\xF4ngo-Balazavile"
+tags:
+- dexa
+raw data:
+  term: Brazavilkongo
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Republic of the Congo
+    epo: Respubliko Kongo, Kongo Brazavila
+    spa: "Rep\xFAblica del Congo, Congo-Brazzaville"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Fransesa (Congo-Brazzaville), Lingala (Kong\xF3-Brazzaville), Kongosa
+    (K\xF4ngo-Balazavile)"
+...

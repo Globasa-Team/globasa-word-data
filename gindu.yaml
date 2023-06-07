@@ -1,0 +1,55 @@
+---
+term: gindu
+slug: gindu
+ipa: ˈgindu
+ipa link: http://ipa-reader.xyz/?text=ˈgindu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - longitude
+  epo:
+  - - longitudo
+  spa:
+  - - longitud
+search terms:
+  glb:
+  - gindu
+  eng:
+  - longitude
+  epo:
+  - longitudo
+  spa:
+  - longitud
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 经度 "jingdu"
+  Niponsa:
+  - - 経度 "keydo"
+  Vyetnamsa:
+  - - kinh độ
+  Hangusa:
+  - - 경도 "gyongdo"
+raw data:
+  term: gindu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: longitude
+    epo: longitudo
+    spa: longitud
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (经度 "jingdu"), Niponsa (経度 "keydo"), Vyetnamsa (kinh độ), Hangusa
+    (경도 "gyongdo")
+...

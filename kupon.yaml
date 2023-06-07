@@ -1,0 +1,52 @@
+---
+term: kupon
+slug: kupon
+ipa: "ku\u02C8pon"
+ipa link: "http://ipa-reader.xyz/?text=ku\u02C8pon&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coupon
+  epo:
+  - - kupono
+  spa:
+  - - "cup\xF3n"
+search terms:
+  glb:
+  - kupon
+  eng:
+  - coupon
+  epo:
+  - kupono
+  spa:
+  - "cup\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kupon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coupon
+    epo: kupono
+    spa: "cup\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (coupon), Espanisa (cup\xF3n), Fransesa (coupon), Rusisa (\u043A\u0443\u043F\u043E\u043D
+    \u201Ckupon\u201D), Doycisa (Coupon, Kupon), Indonesisa (kupon), Pilipinasa (kupon),
+    Hindisa (\u0915\u0942\u092A\u0928 \u201Ckupan\u201D), Arabisa (\u0643\u064F\u0648\u0628\u064F\u0648\u0646
+    \u201Ckubon\", \u0643\u064F\u0648\u0628\u064F\u0648\u0646 \u201Ckupon\u201D),
+    Niponsa (\u30AF\u30FC\u30DD\u30F3 \u201Ck\u016Bpon\u201D), Tamilsa (\u0B95\u0BC2\u0BAA\u0BCD\u0BAA\u0BA9\u0BCD
+    \u201Ckupan\u201D), Turkisa (kupon), Hangusa (\uCFE0\uD3F0 \u201Ckupon\u201D),
+    Parsisa (\u06A9\u0648\u067E\u0646 \u201Ckopon\u201D), Swahilisa (kuponi)"
+...

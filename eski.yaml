@@ -1,0 +1,77 @@
+---
+term: eski
+slug: eski
+ipa: ˈeski
+ipa link: http://ipa-reader.xyz/?text=ˈeski&voice=Ewa
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - skiing
+  - - ski
+  epo:
+  - - skio
+  - - skii
+  spa:
+  - - esquí
+  - - esquiar
+search terms:
+  glb:
+  - eski
+  eng:
+  - skiing
+  - ski
+  epo:
+  - skio
+  - skii
+  spa:
+  - esquí
+  - esquiar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ski
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Espanisa:
+  - - esquí
+  Pilipinasa:
+  - - eski
+  Hindisa:
+  - - स्की “ski”
+  Niponsa:
+  - - スキー “sukii”
+  Telugusa:
+  - - స్కీయింగ్ “skiying”
+  Hangusa:
+  - - 스키 “suki”
+  Vyetnamsa:
+  - - xki
+  Parsisa:
+  - - اسکی “eski”
+  Swahilisa:
+  - - skii
+raw data:
+  term: eski
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: skiing; ski
+    epo: skio; skii
+    spa: esquí; esquiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (ski), Fransesa, Doycisa, Indonesisa, Espanisa (esquí), Pilipinasa
+    (eski), Hindisa (स्की “ski”), Niponsa (スキー “sukii”), Telugusa (స్కీయింగ్ “skiying”),
+    Hangusa (스키 “suki”), Vyetnamsa (xki), Parsisa (اسکی “eski”), Swahilisa (skii)
+...

@@ -1,0 +1,50 @@
+---
+term: barku
+slug: barku
+ipa: ˈbaɾku
+ipa link: http://ipa-reader.xyz/?text=ˈbaɾku&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lightning
+  epo:
+  - - fulmo
+  spa:
+  - - relámpago
+search terms:
+  glb:
+  - barku
+  eng:
+  - lightning
+  epo:
+  - fulmo
+  spa:
+  - relámpago
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - بَرْق “bark”
+  Parsisa:
+  - - برق “bark”
+raw data:
+  term: barku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lightning
+    epo: fulmo
+    spa: relámpago
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (بَرْق “bark”), Parsisa (برق “bark”)
+...

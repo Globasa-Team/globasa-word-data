@@ -1,0 +1,48 @@
+---
+term: alergili
+slug: alergili
+ipa: "ale\u027E\u02C8gili"
+ipa link: "http://ipa-reader.xyz/?text=ale\u027E\u02C8gili&voice=Ewa"
+status: true
+category: derived
+word class: t
+trans:
+  eng:
+  - - allergic (_caused by or relating to an allergy_)
+  epo:
+  - - "alergia (_ka\u016Dzita de a\u016D rilata al alergio_)"
+  - - alergie
+  spa:
+  - - "al\xE9rgico (_causado por o relacionado con una alergia_)"
+search terms:
+  glb:
+  - alergili
+  eng:
+  - allergic
+  epo:
+  - alergia
+  - alergie
+  spa:
+  - "al\xE9rgico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/alergi">alergi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: alergili
+  category: derived
+  word class: t
+  status: true
+  trans:
+    eng: allergic (_caused by or relating to an allergy_)
+    epo: "alergia (_ka\u016Dzita de a\u016D rilata al alergio_); alergie"
+    spa: "al\xE9rgico (_causado por o relacionado con una alergia_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alergi + -li
+...

@@ -1,0 +1,51 @@
+---
+term: etesu
+slug: etesu
+ipa: "e\u02C8tesu"
+ipa link: "http://ipa-reader.xyz/?text=e\u02C8tesu&voice=Ewa"
+status: false
+category: derived
+word class: su s
+trans:
+  eng:
+  - - their
+  epo:
+  - - ilia (_de vivaj
+    - personigitaj objektoj_)
+  spa:
+  - - su
+    - sus (_de ellos_)
+search terms:
+  glb:
+  - etesu
+  eng:
+  - their
+  epo:
+  - ilia de vivaj
+  - ilia (_de vivaj
+  - personigitaj objektoj
+  spa:
+  - su
+  - sus
+etymology_type: DERIVD
+etymology: <a href="../lexi/ete">ete</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: etesu
+  category: derived
+  word class: su s
+  status: false
+  trans:
+    eng: their
+    epo: ilia (_de vivaj, personigitaj objektoj_)
+    spa: su, sus (_de ellos_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ete + -su
+...

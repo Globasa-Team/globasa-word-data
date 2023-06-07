@@ -1,0 +1,48 @@
+---
+term: gramatili
+slug: gramatili
+ipa: "g\u027Eama\u02C8tili"
+ipa link: "http://ipa-reader.xyz/?text=g\u027Eama\u02C8tili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - grammatical
+  epo:
+  - - gramatika
+  - - gramatike
+  spa:
+  - - "gram\xE1tico"
+search terms:
+  glb:
+  - gramatili
+  eng:
+  - grammatical
+  epo:
+  - gramatika
+  - gramatike
+  spa:
+  - "gram\xE1tico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/gramati">gramati</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: gramatili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: grammatical
+    epo: gramatika; gramatike
+    spa: "gram\xE1tico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gramati + -li
+...

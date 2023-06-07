@@ -1,0 +1,77 @@
+---
+term: fleksi
+slug: fleksi
+ipa: ˈfleksi
+ipa link: http://ipa-reader.xyz/?text=ˈfleksi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - bend
+    - flex
+  epo:
+  - - flekso
+    - kurbo
+  - - fleksiĝi
+    - kurbiĝi
+    - fleksi
+    - kurbigi
+  spa:
+  - - curva
+  - - doblar
+    - curvar
+    - curvarse
+    - flexionar
+search terms:
+  glb:
+  - fleksi
+  eng:
+  - bend
+  - flex
+  epo:
+  - flekso
+  - kurbo
+  - fleksiĝi
+  - kurbiĝi
+  - fleksi
+  - kurbigi
+  spa:
+  - curva
+  - doblar
+  - curvar
+  - curvarse
+  - flexionar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - flexible
+  Fransesa:
+  - - flexible
+  Doycisa:
+  - - flexibel
+  Espanisa:
+  - - flexible
+  Indonesisa:
+  - - flexibel
+raw data:
+  term: fleksi
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: bend, flex
+    epo: flekso, kurbo; fleksiĝi, kurbiĝi, fleksi, kurbigi
+    spa: curva; doblar, curvar, curvarse, flexionar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (flexible), Fransesa (flexible), Doycisa (flexibel), Espanisa
+    (flexible), Indonesisa (flexibel)
+...

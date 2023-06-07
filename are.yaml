@@ -1,0 +1,54 @@
+---
+term: are
+slug: are
+ipa: ˈaɾe
+ipa link: http://ipa-reader.xyz/?text=ˈaɾe&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pastor (_male or female_)
+  epo:
+  - - pastro
+    - pastrino
+  spa:
+  - - pastor
+    - sacerdote
+    - padre (_género neutro_)
+search terms:
+  glb:
+  - are
+  eng:
+  - pastor
+  epo:
+  - pastro
+  - pastrino
+  spa:
+  - pastor
+  - sacerdote
+  - padre
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/mare">mare</a>, <a href="../lexi/pare">pare</a>.
+tags:
+- dini
+raw data:
+  term: are
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: 'pastor (_male or female_) '
+    epo: pastro, pastrino
+    spa: pastor, sacerdote, padre (_género neutro_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: 'Am oko _mare_, _pare_. '
+...

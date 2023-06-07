@@ -1,0 +1,57 @@
+---
+term: cinon
+slug: cinon
+ipa: t͡ʃiˈnon
+ipa link: http://ipa-reader.xyz/?text=t͡ʃiˈnon&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - intelligence
+  epo:
+  - - inteligenteco
+    - inteligento
+  spa:
+  - - inteligencia
+search terms:
+  glb:
+  - cinon
+  eng:
+  - intelligence
+  epo:
+  - inteligenteco
+  - inteligento
+  spa:
+  - inteligencia
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 智能 “jinen”
+  Hangusa:
+  - - 지능 “jinun”
+  Niponsa:
+  - - 知能 “cino”
+  Vyetnamsa:
+  - - trí năng “cinan”
+raw data:
+  term: cinon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: intelligence
+    epo: inteligenteco, inteligento
+    spa: inteligencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (智能 “jinen”), Hangusa (지능 “jinun”), Niponsa (知能 “cino”), Vyetnamsa
+    (trí năng “cinan”)
+...

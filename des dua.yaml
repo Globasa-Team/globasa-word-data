@@ -1,0 +1,48 @@
+---
+term: des dua
+slug: des dua
+ipa: "\u02C8des \u02C8dua"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8des \u02C8dua&voice=Ewa"
+status: false
+category: phrase
+word class: num
+trans:
+  eng:
+  - - twelve
+  epo:
+  - - dek du
+  spa:
+  - - doce
+search terms:
+  glb:
+  - des dua
+  - des
+  - dua
+  eng:
+  - twelve
+  epo:
+  - dek du
+  spa:
+  - doce
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a>, <a href="../lexi/dua">dua</a>
+raw data:
+  term: des dua
+  category: phrase
+  word class: num
+  status: false
+  trans:
+    eng: twelve
+    epo: dek du
+    spa: doce
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des, dua
+...

@@ -1,0 +1,70 @@
+---
+term: askeri
+slug: askeri
+ipa: asˈkeɾi
+ipa link: http://ipa-reader.xyz/?text=asˈkeɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - army
+    - infantry
+    - troop
+  epo:
+  - - armeo
+    - infanterio
+    - soldataro
+  spa:
+  - - ejército
+    - infantería
+    - tropa
+search terms:
+  glb:
+  - askeri
+  eng:
+  - army
+  - infantry
+  - troop
+  epo:
+  - armeo
+  - infanterio
+  - soldataro
+  spa:
+  - ejército
+  - infantería
+  - tropa
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - عسكري “askariy”
+  Indonesisa:
+  - - laskar
+    - askar
+  Turkisa:
+  - - asker
+  Swahilisa:
+  - - askari
+  Hindisa:
+  - - अस्कर “askar”
+raw data:
+  term: askeri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: army, infantry, troop
+    epo: armeo, infanterio, soldataro
+    spa: ejército, infantería, tropa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (عسكري “askariy”), Indonesisa (laskar, askar), Turkisa (asker),
+    Swahilisa (askari), Hindisa (अस्कर “askar”)
+...

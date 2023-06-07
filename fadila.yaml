@@ -1,0 +1,58 @@
+---
+term: fadila
+slug: fadila
+ipa: faˈdila
+ipa link: http://ipa-reader.xyz/?text=faˈdila&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - virtue
+  epo:
+  - - virto
+  spa:
+  - - virtud
+search terms:
+  glb:
+  - fadila
+  eng:
+  - virtue
+  epo:
+  - virto
+  spa:
+  - virtud
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - fadilat
+  Arabisa:
+  - - فَضِيلَة "faḍila"
+  Turkisa:
+  - - fazilet
+  Parsisa:
+  - - فضیلت "fazilat"
+  Swahilisa:
+  - - adili
+    - fadhila
+raw data:
+  term: fadila
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: virtue
+    epo: virto
+    spa: virtud
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Indonesisa (fadilat), Arabisa (فَضِيلَة "faḍila"), Turkisa (fazilet),
+    Parsisa (فضیلت "fazilat"), Swahilisa (adili, fadhila)
+...

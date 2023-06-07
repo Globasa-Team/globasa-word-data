@@ -1,0 +1,52 @@
+---
+term: deklaradoku
+slug: deklaradoku
+ipa: "dekla\u027Ea\u02C8doku"
+ipa link: "http://ipa-reader.xyz/?text=dekla\u027Ea\u02C8doku&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - declaration (_official document_)
+    - manifesto
+  epo:
+  - - deklaracio (_oficiala dokumento_)
+    - manifesto
+  spa:
+  - - "declaraci\xF3n (_documento oficial_)"
+    - manifiesto
+search terms:
+  glb:
+  - deklaradoku
+  eng:
+  - declaration
+  - manifesto
+  epo:
+  - deklaracio
+  - manifesto
+  spa:
+  - "declaraci\xF3n"
+  - manifiesto
+etymology_type: DERIVD
+etymology: <a href="../lexi/deklara">deklara</a> + <a href="../lexi/-doku">-doku</a>
+raw data:
+  term: deklaradoku
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: declaration (_official document_), manifesto
+    epo: deklaracio (_oficiala dokumento_), manifesto
+    spa: "declaraci\xF3n (_documento oficial_), manifiesto"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: deklara + -doku
+...

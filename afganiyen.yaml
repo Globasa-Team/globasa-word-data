@@ -1,0 +1,46 @@
+---
+term: afganiyen
+slug: afganiyen
+ipa: "afgani\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=afgani\u02C8jen&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Afghan (_a native or inhabitant of Afghanistan_)
+  epo:
+  - - afgano
+  spa:
+  - - afgano (_persona_)
+search terms:
+  glb:
+  - afganiyen
+  eng:
+  - afghan
+  epo:
+  - afgano
+  spa:
+  - afgano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Afgani">Afgani</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Afganiyen
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: Afghan (_a native or inhabitant of Afghanistan_)
+    epo: afgano
+    spa: afgano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Afgani + -yen
+...

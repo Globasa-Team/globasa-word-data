@@ -1,0 +1,50 @@
+---
+term: bolivi
+slug: bolivi
+ipa: "bo\u02C8livi"
+ipa link: "http://ipa-reader.xyz/?text=bo\u02C8livi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Bolivia
+  epo:
+  - - Bolivio
+  spa:
+  - - Bolivia
+search terms:
+  glb:
+  - bolivi
+  eng:
+  - bolivia
+  epo:
+  - bolivio
+  spa:
+  - bolivia
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Bolivia
+tags:
+- dexa
+raw data:
+  term: Bolivi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Bolivia
+    epo: Bolivio
+    spa: Bolivia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Bolivia)
+...

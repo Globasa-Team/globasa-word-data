@@ -1,0 +1,58 @@
+---
+term: mayones
+slug: mayones
+ipa: "majo\u02C8nes"
+ipa link: "http://ipa-reader.xyz/?text=majo\u02C8nes&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mayonnaise
+    - mayo
+  epo:
+  - - majonezo
+  spa:
+  - - mayonesa
+search terms:
+  glb:
+  - mayones
+  eng:
+  - mayonnaise
+  - mayo
+  epo:
+  - majonezo
+  spa:
+  - mayonesa
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: mayones
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mayonnaise, mayo
+    epo: majonezo
+    spa: mayonesa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (mayonnaise), Fransesa, Espanisa (mayonesa), Pilipinasa, Rusisa
+    (\u043C\u0430\u0439\u043E\u043D\u0435\u0437 \u201Cmayonez\u201D), Doycisa (Majon\xE4se),
+    Indonesisa (mayones), Putunhwa (\u7F8E\u4E43\u6ECB \u201Cmeynayzi\u201D), Hindisa
+    (\u092E\u0947\u092F\u094B\u0928\u0947\u091C\u093C \u201Cmeyonez\u201D), Arabisa
+    (\u0645\u064E\u0627\u064A\u064F\u0648\u0646\u0650\u064A\u0632 \u201Cmayuniz\u201D),
+    Niponsa (\u30DE\u30E8\u30CD\u30FC\u30BA \u201Cmayonezu\u201D), Telugusa (\u0C2E\u0C2F\u0C4A\u0C28\u0C2F\u0C3F\u0C38\u0C4D
+    \u201Cmayonayis\u201D), Turkisa (mayonez), Hangusa (\uB9C8\uC694\uB124\uC988 \u201Cmayoneju\u201D),
+    Vyetnamsa (may-on-ne), Parsisa (\u0645\u0627\u06CC\u0648\u0646\u0632 \u201Cmayonez\u201D),
+    Swahilisa (mayonesi)"
+...

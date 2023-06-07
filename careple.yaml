@@ -1,0 +1,50 @@
+---
+term: careple
+slug: careple
+ipa: "t\u0361\u0283a\u02C8\u027Eeple"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283a\u02C8\u027Eeple&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - quadruple
+    - fourfold
+  epo:
+  - - kvarobla
+  - - kvaroble
+  spa:
+  - - "cu\xE1druple"
+search terms:
+  glb:
+  - careple
+  eng:
+  - quadruple
+  - fourfold
+  epo:
+  - kvarobla
+  - kvaroble
+  spa:
+  - "cu\xE1druple"
+etymology_type: DERIVD
+etymology: <a href="../lexi/care">care</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: careple
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: quadruple, fourfold
+    epo: kvarobla; kvaroble
+    spa: "cu\xE1druple"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: care + -ple
+...

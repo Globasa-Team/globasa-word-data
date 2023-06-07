@@ -1,0 +1,48 @@
+---
+term: kampaniismo
+slug: kampaniismo
+ipa: "kampani\u02C8ismo"
+ipa link: "http://ipa-reader.xyz/?text=kampani\u02C8ismo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - activism
+  epo:
+  - - kampanjismo
+    - aktivismo
+  spa:
+  - - activismo
+search terms:
+  glb:
+  - kampaniismo
+  eng:
+  - activism
+  epo:
+  - kampanjismo
+  - aktivismo
+  spa:
+  - activismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/kampani">kampani</a> + <a href="../lexi/-ismo">-ismo</a>
+raw data:
+  term: kampaniismo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: activism
+    epo: kampanjismo, aktivismo
+    spa: activismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kampani + -ismo
+...

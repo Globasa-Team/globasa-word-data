@@ -1,0 +1,57 @@
+---
+term: nexaste
+slug: nexaste
+ipa: "ne\u02C8\u0283aste"
+ipa link: "http://ipa-reader.xyz/?text=ne\u02C8\u0283aste&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - starch
+  epo:
+  - - amelo
+  spa:
+  - - "almid\xF3n"
+  deu:
+  - - "St\xE4rke"
+search terms:
+  glb:
+  - nexaste
+  eng:
+  - starch
+  epo:
+  - amelo
+  spa:
+  - "almid\xF3n"
+  deu:
+  - "st\xE4rke"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0646\u064E\u0634\u064E\u0627\u0621 \"naxa\""
+  Turkisa:
+  - - "ni\u015Fasta"
+  Parsisa:
+  - - "\u0646\u0634\u0627\u0633\u062A\u0647 \"nexaste\""
+raw data:
+  term: nexaste
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: starch
+    epo: amelo
+    spa: "almid\xF3n"
+    deu: "St\xE4rke"
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0646\u064E\u0634\u064E\u0627\u0621 \"naxa\"), Turkisa (ni\u015Fasta),
+    Parsisa (\u0646\u0634\u0627\u0633\u062A\u0647 \"nexaste\")"
+...

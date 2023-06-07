@@ -1,0 +1,73 @@
+---
+term: futi
+slug: futi
+ipa: ˈfuti
+ipa link: http://ipa-reader.xyz/?text=ˈfuti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - foot (unit)
+  epo:
+  - - futo
+  spa:
+  - - pie (_unidad de longitud_)
+    - ft
+search terms:
+  glb:
+  - futi
+  eng:
+  - foot unit
+  - foot
+  epo:
+  - futo
+  spa:
+  - pie
+  - ft
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - foot
+  Rusisa:
+  - - фут "fut"
+  Doycisa:
+  - - Fuß
+  Hindisa:
+  - - फ़ुट "fut"
+  Niponsa:
+  - - フィート "fito"
+  Turkisa:
+  - - fit
+  Vyetnamsa:
+  - - foot
+  Hangusa:
+  - - 피트 "pitu"
+  Parsisa:
+  - - فوت "fut"
+  Swahilisa:
+  - - futi
+tags:
+- meterya
+raw data:
+  term: futi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: foot (unit)
+    epo: futo
+    spa: pie (_unidad de longitud_), ft
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: meterya
+  etymology: Englisa (foot), Rusisa (фут "fut"), Doycisa (Fuß), Hindisa (फ़ुट "fut"),
+    Niponsa (フィート "fito"), Turkisa (fit), Vyetnamsa (foot), Hangusa (피트 "pitu"), Parsisa
+    (فوت "fut"), Swahilisa (futi)
+...

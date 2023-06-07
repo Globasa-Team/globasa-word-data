@@ -1,0 +1,49 @@
+---
+term: jojiki
+slug: jojiki
+ipa: "d\u0361\u0292o\u02C8d\u0361\u0292iki"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292o\u02C8d\u0361\u0292iki&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tissue (_biology_)
+    - -histo
+  epo:
+  - - histo
+  spa:
+  - - "tejido (_biolog\xEDa_)"
+search terms:
+  glb:
+  - jojiki
+  eng:
+  - tissue
+  - -histo
+  epo:
+  - histo
+  spa:
+  - tejido
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jojiki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tissue (_biology_), -histo
+    epo: histo
+    spa: "tejido (_biolog\xEDa_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7EC4\u7EC7 \"dzuji\"), Niponsa (\u7D44\u7E54 \"soxiki\"),
+    Hangusa (\uC870\uC9C1 \"jojik\")"
+...

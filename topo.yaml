@@ -1,0 +1,58 @@
+---
+term: topo
+slug: topo
+ipa: "\u02C8topo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8topo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mole
+    - _Talpa_
+  epo:
+  - - talpo
+  spa:
+  - - topo
+    - _Talpa_
+search terms:
+  glb:
+  - topo
+  eng:
+  - mole
+  - talpa
+  epo:
+  - talpo
+  spa:
+  - topo
+  - talpa
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - topo
+  Fransesa:
+  - - taupe
+  Pilipinasa:
+  - - topo
+tags:
+- hewan
+raw data:
+  term: topo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mole, _Talpa_
+    epo: talpo
+    spa: topo, _Talpa_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Espanisa (topo), Fransesa (taupe), Pilipinasa (topo)
+...

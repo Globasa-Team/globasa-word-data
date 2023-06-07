@@ -1,0 +1,52 @@
+---
+term: suo
+slug: suo
+ipa: "\u02C8suo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8suo&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - left
+  epo:
+  - - maldekstra
+  - - maldekstre
+  spa:
+  - - izquierdo
+search terms:
+  glb:
+  - suo
+  eng:
+  - left
+  epo:
+  - maldekstra
+  - maldekstre
+  spa:
+  - izquierdo
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5DE6 \u201Czu\u01D2\u201D"
+  Turkisa:
+  - - sol
+raw data:
+  term: suo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: left
+    epo: maldekstra; maldekstre
+    spa: izquierdo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5DE6 \u201Czu\u01D2\u201D), Turkisa (sol)"
+...

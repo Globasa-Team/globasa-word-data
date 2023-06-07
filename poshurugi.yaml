@@ -1,0 +1,57 @@
+---
+term: poshurugi
+slug: poshurugi
+ipa: "posxu\u02C8\u027Eugi"
+ipa link: "http://ipa-reader.xyz/?text=posxu\u02C8\u027Eugi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - detention
+  - - detain
+    - hold captive
+  epo:
+  - - malliberigo
+  - - malliberigi
+  spa:
+  - - "detenci\xF3n"
+  - - detener
+    - tener cautivo
+search terms:
+  glb:
+  - poshurugi
+  eng:
+  - detention
+  - detain
+  - hold captive
+  epo:
+  - malliberigo
+  - malliberigi
+  spa:
+  - "detenci\xF3n"
+  - detener
+  - tener cautivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/huru">huru</a> + <a
+  href="../lexi/-gi">-gi</a>
+raw data:
+  term: poshurugi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: detention; detain, hold captive
+    epo: malliberigo; malliberigi
+    spa: "detenci\xF3n; detener, tener cautivo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + huru + -gi
+...

@@ -1,0 +1,80 @@
+---
+term: data
+slug: data
+ipa: ˈdata
+ipa link: http://ipa-reader.xyz/?text=ˈdata&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - datum
+    - data
+  epo:
+  - - datumo(j)
+    - dateno(j)
+  spa:
+  - - dato
+search terms:
+  glb:
+  - data
+  eng:
+  - datum
+  - data
+  epo:
+  - datumoj
+  - datumo
+  - datenoj
+  - dateno
+  spa:
+  - dato
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Daten
+  Englisa:
+  - - data
+  Espanisa:
+  - - datos
+  Hindisa:
+  - - डेटा “ḍeṭā”
+    - डाटा “ḍāṭā”
+  Swahilisa:
+  - - data
+  Indonesisa:
+  - - data
+  Pilipinasa:
+  - - datos
+  Niponsa:
+  - - データ “dēta”
+  Hangusa:
+  - - 데이터 “deito”
+  Turkisa:
+  - - data
+  Vyetnamsa:
+  - - đa ta
+  Parsisa:
+  - - داده‌ها “dâde-hâ”
+raw data:
+  term: data
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: datum, data
+    epo: datumo(j), dateno(j)
+    spa: dato
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Daten), Englisa (data), Espanisa (datos), Hindisa (डेटा “ḍeṭā”,
+    डाटा “ḍāṭā”), Swahilisa (data), Indonesisa (data), Pilipinasa (datos), Niponsa
+    (データ “dēta”), Hangusa (데이터 “deito”), Turkisa (data), Vyetnamsa (đa ta), Parsisa
+    (داده‌ها “dâde-hâ”)
+...

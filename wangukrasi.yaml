@@ -1,0 +1,54 @@
+---
+term: wangukrasi
+slug: wangukrasi
+ipa: "wangu\u02C8k\u027Easi"
+ipa link: "http://ipa-reader.xyz/?text=wangu\u02C8k\u027Easi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - monarchy
+    - reign
+  epo:
+  - - "monar\u0125io"
+    - monarkio
+  spa:
+  - - "monarqu\xEDa"
+    - reinado
+search terms:
+  glb:
+  - wangukrasi
+  eng:
+  - monarchy
+  - reign
+  epo:
+  - "monar\u0125io"
+  - monarkio
+  spa:
+  - "monarqu\xEDa"
+  - reinado
+etymology_type: DERIVD
+etymology: <a href="../lexi/wangu">wangu</a> + <a href="../lexi/-krasi">-krasi</a>
+tags:
+- politi
+raw data:
+  term: wangukrasi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: monarchy, reign
+    epo: "monar\u0125io, monarkio"
+    spa: "monarqu\xEDa, reinado"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: wangu + -krasi
+...

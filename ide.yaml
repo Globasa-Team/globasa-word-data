@@ -1,0 +1,46 @@
+---
+term: ide
+slug: ide
+ipa: "\u02C8ide"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ide&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter d
+  epo:
+  - - litero d
+  spa:
+  - - letra d
+search terms:
+  glb:
+  - ide
+  eng:
+  - letter d
+  epo:
+  - litero d
+  spa:
+  - letra d
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ide
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter d
+    epo: litero d
+    spa: letra d
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

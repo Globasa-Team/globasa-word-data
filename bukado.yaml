@@ -1,0 +1,50 @@
+---
+term: bukado
+slug: bukado
+ipa: "bu\u02C8kado"
+ipa link: "http://ipa-reader.xyz/?text=bu\u02C8kado&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - open
+  - - openly
+  epo:
+  - - malferma
+  - - malferme
+  spa:
+  - - abierto
+search terms:
+  glb:
+  - bukado
+  eng:
+  - open
+  - openly
+  epo:
+  - malferma
+  - malferme
+  spa:
+  - abierto
+etymology_type: DERIVD
+etymology: <a href="../lexi/buka">buka</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: bukado
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: open; openly
+    epo: malferma; malferme
+    spa: abierto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: buka + -do
+...

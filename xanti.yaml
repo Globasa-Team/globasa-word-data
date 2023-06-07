@@ -1,0 +1,72 @@
+---
+term: xanti
+slug: xanti
+ipa: "\u02C8\u0283anti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283anti&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - peace
+  - - hello
+    - bye
+  epo:
+  - - paco
+  - - pacon
+    - saluton
+    - "adia\u016D"
+    - "\u011Dis"
+  spa:
+  - - paz
+  - - hola
+    - "adi\xF3s"
+search terms:
+  glb:
+  - xanti
+  eng:
+  - peace
+  - hello
+  - bye
+  epo:
+  - paco
+  - pacon
+  - saluton
+  - "adia\u016D"
+  - "\u011Dis"
+  spa:
+  - paz
+  - hola
+  - "adi\xF3s"
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0936\u093E\u0902\u0924\u093F \u201C\u015B\u0101nti\u201D"
+  Telugusa:
+  - - "\u0C36\u0C3E\u0C02\u0C24\u0C3F \u201C\u015B\u0101nti\u201D"
+  Taysa:
+  - - "\u0E2A\u0E31\u0E19\u0E15\u0E34 \u201Cs\u01CEn-dt\xEC\u201D"
+tags:
+- intrelogalexi
+raw data:
+  term: xanti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: peace; hello, bye
+    epo: "paco; pacon, saluton, adia\u016D, \u011Dis"
+    spa: "paz; hola, adi\xF3s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: "Hindisa (\u0936\u093E\u0902\u0924\u093F \u201C\u015B\u0101nti\u201D),
+    Telugusa (\u0C36\u0C3E\u0C02\u0C24\u0C3F \u201C\u015B\u0101nti\u201D), Taysa (\u0E2A\u0E31\u0E19\u0E15\u0E34
+    \u201Cs\u01CEn-dt\xEC\u201D)"
+...

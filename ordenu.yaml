@@ -1,0 +1,72 @@
+---
+term: ordenu
+slug: ordenu
+ipa: "o\u027E\u02C8denu"
+ipa link: "http://ipa-reader.xyz/?text=o\u027E\u02C8denu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - arrangement
+    - order
+    - sequence
+  - - arrange
+    - order
+  epo:
+  - - ordo
+  - - ordigi
+  spa:
+  - - arreglo
+    - orden
+  - - arreglar
+    - ordenar
+search terms:
+  glb:
+  - ordenu
+  eng:
+  - arrangement
+  - order
+  - sequence
+  - arrange
+  epo:
+  - ordo
+  - ordigi
+  spa:
+  - arreglo
+  - orden
+  - arreglar
+  - ordenar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - order
+  Fransesa:
+  - - ordre
+  Doycisa:
+  - - Ordnung
+  Espanisa:
+  - - orden
+  Swahilisa:
+  - - oda
+raw data:
+  term: ordenu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: arrangement, order, sequence; arrange, order
+    epo: ordo; ordigi
+    spa: arreglo, orden; arreglar, ordenar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (order), Fransesa (ordre), Doycisa (Ordnung), Espanisa (orden),
+    Swahilisa (oda)
+...

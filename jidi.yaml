@@ -1,0 +1,53 @@
+---
+term: jidi
+slug: jidi
+ipa: "\u02C8d\u0361\u0292idi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292idi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - serious
+    - earnest
+  epo:
+  - - serioza
+  - - serioze
+  spa:
+  - - serio
+    - sincero
+search terms:
+  glb:
+  - jidi
+  eng:
+  - serious
+  - earnest
+  epo:
+  - serioza
+  - serioze
+  spa:
+  - serio
+  - sincero
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jidi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: serious, earnest
+    epo: serioza; serioze
+    spa: serio, sincero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u062F\u064A \u201Cjidi\u201D), Parsisa (\u062C\u062F\u06CC
+    \u201Cjedi\u201D), Turkisa (ciddi)"
+...

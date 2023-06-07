@@ -1,0 +1,48 @@
+---
+term: folli
+slug: folli
+ipa: "\u02C8folli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8folli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - alongside
+  epo:
+  - - apuda
+  - - apude
+  spa:
+  - - junto a
+search terms:
+  glb:
+  - folli
+  eng:
+  - alongside
+  epo:
+  - apuda
+  - apude
+  spa:
+  - junto a
+etymology_type: DERIVD
+etymology: <a href="../lexi/fol">fol</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: folli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: alongside
+    epo: apuda; apude
+    spa: junto a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fol + -li
+...

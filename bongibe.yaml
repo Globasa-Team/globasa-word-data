@@ -1,0 +1,52 @@
+---
+term: bongibe
+slug: bongibe
+ipa: "bon\u02C8gibe"
+ipa link: "http://ipa-reader.xyz/?text=bon\u02C8gibe&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - donation
+  - - donate
+  epo:
+  - - donaco
+  - - donaci
+  spa:
+  - - "donaci\xF3n"
+  - - donar
+search terms:
+  glb:
+  - bongibe
+  eng:
+  - donation
+  - donate
+  epo:
+  - donaco
+  - donaci
+  spa:
+  - "donaci\xF3n"
+  - donar
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/gibe">gibe</a>
+raw data:
+  term: bongibe
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: donation; donate
+    epo: donaco; donaci
+    spa: "donaci\xF3n; donar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bon- + gibe
+...

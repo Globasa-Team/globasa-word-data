@@ -1,0 +1,52 @@
+---
+term: espani
+slug: espani
+ipa: "es\u02C8pani"
+ipa link: "http://ipa-reader.xyz/?text=es\u02C8pani&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Spain
+  epo:
+  - - Hispanio
+    - Hispanujo
+  spa:
+  - - "Espa\xF1a"
+search terms:
+  glb:
+  - espani
+  eng:
+  - spain
+  epo:
+  - hispanio
+  - hispanujo
+  spa:
+  - "espa\xF1a"
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - "Espa\xF1a"
+tags:
+- dexa
+raw data:
+  term: Espani
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Spain
+    epo: Hispanio, Hispanujo
+    spa: "Espa\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Espanisa (Espa\xF1a)"
+...

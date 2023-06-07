@@ -1,0 +1,63 @@
+---
+term: radyus
+slug: radyus
+ipa: "\u027Ea\u02C8djus"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8djus&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - radius
+  epo:
+  - - radio (_geometrio_)
+  spa:
+  - - "radio (_geometr\xEDa_)"
+search terms:
+  glb:
+  - radyus
+  eng:
+  - radius
+  epo:
+  - radio
+  spa:
+  - radio
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - radius
+  Doycisa:
+  - - Radius
+  Espanisa:
+  - - radio
+  Rusisa:
+  - - "\u0440\u0430\u0434\u0438\u0443\u0441 \u201Cradius\u201D"
+  Indonesisa:
+  - - radius
+  Pilipinasa:
+  - - radyos
+    - radyus
+  Swahilisa:
+  - - rediasi
+raw data:
+  term: radyus
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: radius
+    epo: radio (_geometrio_)
+    spa: "radio (_geometr\xEDa_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (radius), Doycisa (Radius), Espanisa (radio), Rusisa (\u0440\u0430\u0434\u0438\u0443\u0441
+    \u201Cradius\u201D), Indonesisa (radius), Pilipinasa (radyos, radyus), Swahilisa
+    (rediasi)"
+...

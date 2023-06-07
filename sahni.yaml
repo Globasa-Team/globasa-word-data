@@ -1,0 +1,53 @@
+---
+term: sahni
+slug: sahni
+ipa: "\u02C8saxni"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8saxni&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - scene
+  epo:
+  - - sceno
+  spa:
+  - - escena
+search terms:
+  glb:
+  - sahni
+  eng:
+  - scene
+  epo:
+  - sceno
+  spa:
+  - escena
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - "\u0635\u062D\u0646\u0647 \u201Csahne\u201D"
+  Turkisa:
+  - - sahne
+  Telugusa:
+  - - "\u0C38\u0C28\u0C4D\u0C28\u0C3F\u0C35\u0C47\u0C36\u0C02 \u201Csanivexam\u201D"
+raw data:
+  term: sahni
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: scene
+    epo: sceno
+    spa: escena
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Parsisa (\u0635\u062D\u0646\u0647 \u201Csahne\u201D), Turkisa (sahne),
+    Telugusa (\u0C38\u0C28\u0C4D\u0C28\u0C3F\u0C35\u0C47\u0C36\u0C02 \u201Csanivexam\u201D)"
+...

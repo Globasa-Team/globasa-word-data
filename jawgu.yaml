@@ -1,0 +1,60 @@
+---
+term: jawgu
+slug: jawgu
+ipa: "\u02C8d\u0361\u0292awgu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292awgu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - care
+  - - care (for)
+    - take care (of)
+  epo:
+  - - prizorgado
+    - vartado
+  - - zorgi (pri)
+    - varti
+  spa:
+  - - cuidado
+  - - cuidar
+search terms:
+  glb:
+  - jawgu
+  eng:
+    0: care
+    1: care for
+    3: take care of
+    4: take care
+  epo:
+  - prizorgado
+  - vartado
+  - zorgi pri
+  - zorgi
+  - varti
+  spa:
+  - cuidado
+  - cuidar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jawgu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: care; care (for), take care (of)
+    epo: prizorgado, vartado; zorgi (pri), varti
+    spa: cuidado; cuidar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u7167\u987E \u201Czh\xE0og\xF9\u201D)"
+...

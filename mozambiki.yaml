@@ -1,0 +1,50 @@
+---
+term: mozambiki
+slug: mozambiki
+ipa: "mozam\u02C8biki"
+ipa link: "http://ipa-reader.xyz/?text=mozam\u02C8biki&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Mozambique
+  epo:
+  - - Mozambiko
+  spa:
+  - - Mozambique
+search terms:
+  glb:
+  - mozambiki
+  eng:
+  - mozambique
+  epo:
+  - mozambiko
+  spa:
+  - mozambique
+etymology_type: NATLNG
+etymology:
+  Chichewa:
+  - - Mozambiki
+tags:
+- dexa
+raw data:
+  term: Mozambiki
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Mozambique
+    epo: Mozambiko
+    spa: Mozambique
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Chichewa (Mozambiki)
+...

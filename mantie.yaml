@@ -1,0 +1,46 @@
+---
+term: mantie
+slug: mantie
+ipa: "man\u02C8tie"
+ipa link: "http://ipa-reader.xyz/?text=man\u02C8tie&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - uncle
+  epo:
+  - - onklo
+  spa:
+  - - "t\xEDo"
+search terms:
+  glb:
+  - mantie
+  eng:
+  - uncle
+  epo:
+  - onklo
+  spa:
+  - "t\xEDo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/tie">tie</a>
+raw data:
+  term: mantie
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: uncle
+    epo: onklo
+    spa: "t\xEDo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + tie
+...

@@ -1,0 +1,89 @@
+---
+term: rol
+slug: rol
+ipa: "\u02C8\u027Eol"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eol&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - role
+    - part
+  - - play a role
+    - participate
+    - take part
+    - be involved (in)
+  epo:
+  - - rolo
+  - - roli
+    - partopreni
+    - preni parton (en)
+  spa:
+  - - papel
+    - rol
+  - - "desempe\xF1ar un papel"
+    - participar
+    - involucrarse (en)
+search terms:
+  glb:
+  - rol
+  eng:
+  - role
+  - part
+  - play a role
+  - participate
+  - take part
+  - be involved in
+  - be involved
+  epo:
+  - rolo
+  - roli
+  - partopreni
+  - preni parton en
+  - preni parton
+  spa:
+  - papel
+  - rol
+  - "desempe\xF1ar un papel"
+  - participar
+  - involucrarse en
+  - involucrarse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - role
+  Fransesa:
+  - - "r\xF4le"
+  Doycisa:
+  - - Rolle
+  Rusisa:
+  - - "\u0440\u043E\u043B\u044C \u201Crol\u201D"
+  Espanisa:
+  - - rol
+  Turkisa:
+  - - rol
+  Parsisa:
+  - - "\u0631\u0644 \u201Crol\u201D"
+raw data:
+  term: rol
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: role, part; play a role, participate, take part, be involved (in)
+    epo: rolo; roli, partopreni, preni parton (en)
+    spa: "papel, rol; desempe\xF1ar un papel, participar, involucrarse (en)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: role, part, play a role, participate, take part, be involved,
+    involved
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (role), Fransesa (r\xF4le), Doycisa (Rolle), Rusisa (\u0440\u043E\u043B\u044C
+    \u201Crol\u201D), Espanisa (rol), Turkisa (rol), Parsisa (\u0631\u0644 \u201Crol\u201D)"
+...

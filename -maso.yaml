@@ -1,0 +1,48 @@
+---
+term: -maso
+slug: -maso
+ipa: "-\u02C8maso"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8maso&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - meat
+  epo:
+  - - "-a\u0135o"
+    - karno de
+  spa:
+  - - carne
+search terms:
+  glb:
+  - -maso
+  eng:
+  - meat
+  epo:
+  - "-a\u0135o"
+  - karno de
+  spa:
+  - carne
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/maso">maso</a>.
+raw data:
+  term: -maso
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: meat
+    epo: "-a\u0135o, karno de"
+    spa: carne
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _maso_.
+...

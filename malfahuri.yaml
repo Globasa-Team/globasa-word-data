@@ -1,0 +1,54 @@
+---
+term: malfahuri
+slug: malfahuri
+ipa: "malfa\u02C8xu\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=malfa\u02C8xu\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - arrogant
+  - - arrogantly
+  epo:
+  - - aroga
+    - aroganta
+  - - arogante
+  spa:
+  - - arrogante
+  - - arrogantemente
+search terms:
+  glb:
+  - malfahuri
+  eng:
+  - arrogant
+  - arrogantly
+  epo:
+  - aroga
+  - aroganta
+  - arogante
+  spa:
+  - arrogante
+  - arrogantemente
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal-">mal-</a> + <a href="../lexi/fahuri">fahuri</a>
+raw data:
+  term: malfahuri
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: arrogant; arrogantly
+    epo: aroga, aroganta; arogante
+    spa: arrogante; arrogantemente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal- + fahuri
+...

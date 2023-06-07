@@ -1,0 +1,49 @@
+---
+term: intre aloto
+slug: intre aloto
+ipa: "\u02C8int\u027Ee a\u02C8loto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8int\u027Ee a\u02C8loto&voice=Ewa"
+status: false
+category: derived
+word class: p jm
+trans:
+  eng:
+  - - among other things
+  epo:
+  - - inter aliaj (aferoj)
+  spa:
+  - - entre otras cosas
+search terms:
+  glb:
+  - intre aloto
+  - intre
+  - aloto
+  eng:
+  - among other things
+  epo:
+  - inter aliaj aferoj
+  - inter aliaj
+  spa:
+  - entre otras cosas
+etymology_type: DERIVD
+etymology: <a href="../lexi/intre">intre</a>, <a href="../lexi/alo">alo</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: intre aloto
+  category: derived
+  word class: p jm
+  status: false
+  trans:
+    eng: among other things
+    epo: inter aliaj (aferoj)
+    spa: entre otras cosas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: intre, alo + to
+...

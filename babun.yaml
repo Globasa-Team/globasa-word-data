@@ -1,0 +1,76 @@
+---
+term: babun
+slug: babun
+ipa: baˈbun
+ipa link: http://ipa-reader.xyz/?text=baˈbun&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - baboon
+    - _Papio_
+  epo:
+  - - paviano
+  spa:
+  - - babuino
+    - papión
+    - _Papio_
+search terms:
+  glb:
+  - babun
+  eng:
+  - baboon
+  - papio
+  epo:
+  - paviano
+  spa:
+  - babuino
+  - papión
+  - papio
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - baboon
+  Espanisa:
+  - - babuino
+  Fransesa:
+  - - babouin
+  Rusisa:
+  - - бабуин “babuin”
+  Indonesisa:
+  - - babun
+  Pilipinasa:
+  - - baboon
+  Hindisa:
+  - - बबून “babun”
+  Arabisa:
+  - - بَابُون “babun”
+  Turkisa:
+  - - babun
+  Parsisa:
+  - - بابون “babun”
+tags:
+- hewan
+raw data:
+  term: babun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: baboon, _Papio_
+    epo: paviano
+    spa: babuino, papión, _Papio_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (baboon), Espanisa (babuino), Fransesa (babouin), Rusisa (бабуин
+    “babuin”), Indonesisa (babun), Pilipinasa (baboon), Hindisa (बबून “babun”), Arabisa
+    (بَابُون “babun”), Turkisa (babun), Parsisa (بابون “babun”)
+...

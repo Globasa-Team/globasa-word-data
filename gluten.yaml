@@ -1,0 +1,84 @@
+---
+term: gluten
+slug: gluten
+ipa: gluˈten
+ipa link: http://ipa-reader.xyz/?text=gluˈten&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gluten
+  epo:
+  - - gluteno
+  spa:
+  - - gluten
+  deu:
+  - - Gluten
+search terms:
+  glb:
+  - gluten
+  eng:
+  - gluten
+  epo:
+  - gluteno
+  spa:
+  - gluten
+  deu:
+  - gluten
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gluten
+  Espanisa:
+  - - gluten
+  Fransesa:
+  - - gluten
+  Rusisa:
+  - - глютен “glyuten”
+  Doycisa:
+  - - Gluten
+  Indonesisa:
+  - - gluten
+  Pilipinasa:
+  - - gluten
+  Hindisa:
+  - - ग्लूटेन “gluten”
+  Arabisa:
+  - - غْلُوتِين “glutin”
+  Niponsa:
+  - - グルテン “guruten”
+  Turkisa:
+  - - glüten
+  Hangusa:
+  - - 글루텐 “guluten”
+  Vyetnamsa:
+  - - gluten
+  Parsisa:
+  - - گلوتن “geluten”
+  Swahilisa:
+  - - gluten
+raw data:
+  term: gluten
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gluten
+    epo: gluteno
+    spa: gluten
+    deu: Gluten
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (gluten), Espanisa (gluten), Fransesa (gluten), Rusisa (глютен
+    “glyuten”), Doycisa (Gluten), Indonesisa (gluten), Pilipinasa (gluten), Hindisa
+    (ग्लूटेन “gluten”), Arabisa (غْلُوتِين “glutin”), Niponsa (グルテン “guruten”), Turkisa
+    (glüten), Hangusa (글루텐 “guluten”), Vyetnamsa (gluten), Parsisa (گلوتن “geluten”),
+    Swahilisa (gluten)
+...

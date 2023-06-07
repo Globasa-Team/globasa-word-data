@@ -1,0 +1,53 @@
+---
+term: kermes
+slug: kermes
+ipa: "ke\u027E\u02C8mes"
+ipa link: "http://ipa-reader.xyz/?text=ke\u027E\u02C8mes&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - kermes (_insect_)
+  epo:
+  - - kirmeso
+  spa:
+  - - quermes
+    - _Kermes_
+search terms:
+  glb:
+  - kermes
+  eng:
+  - kermes
+  epo:
+  - kirmeso
+  spa:
+  - quermes
+  - kermes
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kermes
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: kermes (_insect_)
+    epo: kirmeso
+    spa: quermes, _Kermes_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (kermes), Espanisa (kermes, quermes), Fransesa (kermes), Doycisa
+    (kermes), Rusisa (\u043A\u0435\u0440\u043C\u0435\u0441\u044B \u201Ckermesi\u201D),
+    Arabisa (\u0642\u0650\u0631\u0652\u0645\u0650\u0632 \u201Cqirmiz\u201D), Parsisa
+    (\u0642\u0631\u0645\u0632 \u201Cqermez\u201D), Turkisa (k\u0131rm\u0131z)"
+...

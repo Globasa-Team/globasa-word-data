@@ -1,0 +1,49 @@
+---
+term: jage
+slug: jage
+ipa: "\u02C8d\u0361\u0292age"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292age&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - awake
+  epo:
+  - - veka
+  - - veke
+  spa:
+  - - despierto
+search terms:
+  glb:
+  - jage
+  eng:
+  - awake
+  epo:
+  - veka
+  - veke
+  spa:
+  - despierto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jage
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: awake
+    epo: veka; veke
+    spa: despierto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u091C\u093E\u0917 \u201Cjag\u201D), Panjabisa (\u0A1C\u0A3E\u0A17\u0A23\u0A3E
+    \u201Cj\u0101g\u1E47\u0101\u201D)"
+...

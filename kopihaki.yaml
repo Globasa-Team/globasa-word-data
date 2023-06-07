@@ -1,0 +1,46 @@
+---
+term: kopihaki
+slug: kopihaki
+ipa: "kopi\u02C8xaki"
+ipa link: "http://ipa-reader.xyz/?text=kopi\u02C8xaki&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - copyright
+  epo:
+  - - kopirajto
+  spa:
+  - - derechos de autor
+search terms:
+  glb:
+  - kopihaki
+  eng:
+  - copyright
+  epo:
+  - kopirajto
+  spa:
+  - derechos de autor
+etymology_type: DERIVD
+etymology: <a href="../lexi/kopi">kopi</a> + <a href="../lexi/haki">haki</a>
+raw data:
+  term: kopihaki
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: copyright
+    epo: kopirajto
+    spa: derechos de autor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kopi + haki
+...

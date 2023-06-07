@@ -1,0 +1,64 @@
+---
+term: trasli
+slug: trasli
+ipa: "\u02C8t\u027Easli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u027Easli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - across
+    - of the other side
+    - trans
+    - transgender
+  epo:
+  - - transa
+    - transgenra
+  - - transe
+    - aliflanke
+  spa:
+  - - cruzando
+    - del otro lado
+    - trans
+    - "transg\xE9nero"
+search terms:
+  glb:
+  - trasli
+  eng:
+  - across
+  - of the other side
+  - trans
+  - transgender
+  epo:
+  - transa
+  - transgenra
+  - transe
+  - aliflanke
+  spa:
+  - cruzando
+  - del otro lado
+  - trans
+  - "transg\xE9nero"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tras">tras</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: trasli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: across, of the other side, trans, transgender
+    epo: transa,  transgenra; transe, aliflanke
+    spa: "cruzando, del otro lado, trans, transg\xE9nero"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tras + -li
+...

@@ -1,0 +1,49 @@
+---
+term: moyjensifil
+slug: moyjensifil
+ipa: "mojd\u0361\u0292ensi\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=mojd\u0361\u0292ensi\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - pansexual
+  epo:
+  - - "\u0109iuseksema"
+  - - "\u0109iusekseme"
+  spa:
+  - - pansexual
+search terms:
+  glb:
+  - moyjensifil
+  eng:
+  - pansexual
+  epo:
+  - "\u0109iuseksema"
+  - "\u0109iusekseme"
+  spa:
+  - pansexual
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy-">moy-</a> + <a href="../lexi/jensi">jensi</a> + <a
+  href="../lexi/-fil">-fil</a>
+raw data:
+  term: moyjensifil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: pansexual
+    epo: "\u0109iuseksema; \u0109iusekseme"
+    spa: pansexual
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy- + jensi + -fil
+...

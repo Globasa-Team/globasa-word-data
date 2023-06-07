@@ -1,0 +1,66 @@
+---
+term: hole
+slug: hole
+ipa: "\u02C8xole"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xole&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sheath
+    - sleeve
+    - shell
+    - casing
+    - holster
+    - holder
+  epo:
+  - - ingo
+  spa:
+  - - vaina
+    - funda
+    - cubierta
+    - caja
+    - portador
+    - soporte
+search terms:
+  glb:
+  - hole
+  eng:
+  - sheath
+  - sleeve
+  - shell
+  - casing
+  - holster
+  - holder
+  epo:
+  - ingo
+  spa:
+  - vaina
+  - funda
+  - cubierta
+  - caja
+  - portador
+  - soporte
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hole
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sheath, sleeve, shell, casing, holster, holder
+    epo: ingo
+    spa: vaina, funda, cubierta, caja, portador, soporte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0916\u094B\u0932 \u201Ckhol\u201D), Doycisa (H\xFClle)"
+...

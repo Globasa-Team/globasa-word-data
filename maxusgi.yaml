@@ -1,0 +1,52 @@
+---
+term: maxusgi
+slug: maxusgi
+ipa: "ma\u02C8\u0283usgi"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8\u0283usgi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - addition
+  - - add
+  epo:
+  - - aldono
+  - - aldoni
+  spa:
+  - - "adici\xF3n"
+  - - "a\xF1adir"
+search terms:
+  glb:
+  - maxusgi
+  eng:
+  - addition
+  - add
+  epo:
+  - aldono
+  - aldoni
+  spa:
+  - "adici\xF3n"
+  - "a\xF1adir"
+etymology_type: DERIVD
+etymology: <a href="../lexi/maxus">maxus</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: maxusgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: addition; add
+    epo: aldono; aldoni
+    spa: "adici\xF3n; a\xF1adir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: maxus + -gi
+...

@@ -1,0 +1,79 @@
+---
+term: depresi
+slug: depresi
+ipa: deˈpɾesi
+ipa link: http://ipa-reader.xyz/?text=deˈpɾesi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - depression
+  - - depress
+  epo:
+  - - depresio
+    - deprimo
+  - - deprimiĝi
+    - deprimi
+  spa:
+  - - depresión
+  - - deprimirse
+search terms:
+  glb:
+  - depresi
+  eng:
+  - depression
+  - depress
+  epo:
+  - depresio
+  - deprimo
+  - deprimiĝi
+  - deprimi
+  spa:
+  - depresión
+  - deprimirse
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Depression
+  Englisa:
+  - - depression
+  Espanisa:
+  - - depresión
+  Fransesa:
+  - - dépression
+  Rusisa:
+  - - депрессия “depressiya”
+  Indonesisa:
+  - - depresi
+  Pilipinasa:
+  - - depresyon
+  Turkisa:
+  - - depresyon
+  Hindisa:
+  - - डिप्रेशन “diprexan”
+  Telugusa:
+  - - డిప్రెషన్ “diprexan”
+raw data:
+  term: depresi
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: depression; depress
+    epo: depresio, deprimo; deprimiĝi, deprimi
+    spa: depresión; deprimirse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Depression), Englisa (depression), Espanisa (depresión), Fransesa
+    (dépression), Rusisa (депрессия “depressiya”), Indonesisa (depresi), Pilipinasa
+    (depresyon), Turkisa (depresyon), Hindisa (डिप्रेशन “diprexan”), Telugusa (డిప్రెషన్
+    “diprexan”)
+...

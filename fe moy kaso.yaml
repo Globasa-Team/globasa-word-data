@@ -1,0 +1,57 @@
+---
+term: fe moy kaso
+slug: fe moy kaso
+ipa: "fe \u02C8moj \u02C8kaso"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8moj \u02C8kaso&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - in any case
+    - at any rate
+    - anyway
+    - anyways
+  epo:
+  - - "\u0109iaokaze"
+    - "\u0109iukaze"
+  spa:
+  - - de todos modos
+search terms:
+  glb:
+  - fe moy kaso
+  - fe
+  - moy
+  - kaso
+  eng:
+  - in any case
+  - at any rate
+  - anyway
+  - anyways
+  epo:
+  - "\u0109iaokaze"
+  - "\u0109iukaze"
+  spa:
+  - de todos modos
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/moy">moy</a>, <a href="../lexi/kaso">kaso</a>
+raw data:
+  term: fe moy kaso
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: in any case, at any rate, anyway, anyways
+    epo: "\u0109iaokaze, \u0109iukaze"
+    spa: de todos modos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: in any case, case, at any rate, rate, anyway, anyways
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, moy, kaso
+...

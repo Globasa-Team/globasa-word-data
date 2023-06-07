@@ -1,0 +1,47 @@
+---
+term: dograyen
+slug: dograyen
+ipa: "dog\u027Ea\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=dog\u027Ea\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Dogra (person)
+  epo:
+  - - dogro
+  spa:
+  - - dogra (_persona_)
+search terms:
+  glb:
+  - dograyen
+  eng:
+  - dogra person
+  - dogra
+  epo:
+  - dogro
+  spa:
+  - dogra
+etymology_type: DERIVD
+etymology: <a href="../lexi/Dogra">Dogra</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Dograyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Dogra (person)
+    epo: dogro
+    spa: dogra (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Dogra + -yen
+...

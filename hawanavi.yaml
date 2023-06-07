@@ -1,0 +1,48 @@
+---
+term: hawanavi
+slug: hawanavi
+ipa: "xawa\u02C8navi"
+ipa link: "http://ipa-reader.xyz/?text=xawa\u02C8navi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - aircraft
+  epo:
+  - - aviadilo
+    - avio
+  spa:
+  - - aeronave
+search terms:
+  glb:
+  - hawanavi
+  eng:
+  - aircraft
+  epo:
+  - aviadilo
+  - avio
+  spa:
+  - aeronave
+etymology_type: DERIVD
+etymology: <a href="../lexi/hawa-">hawa-</a> + <a href="../lexi/navi">navi</a>
+raw data:
+  term: hawanavi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: aircraft
+    epo: aviadilo, avio
+    spa: aeronave
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hawa- + navi
+...

@@ -1,0 +1,51 @@
+---
+term: daykotorya
+slug: daykotorya
+ipa: "dajko\u02C8to\u027Eja"
+ipa link: "http://ipa-reader.xyz/?text=dajko\u02C8to\u027Eja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - filth
+  epo:
+  - - malpuregeco
+    - koto
+  spa:
+  - - suciedad
+    - mugre
+search terms:
+  glb:
+  - daykotorya
+  eng:
+  - filth
+  epo:
+  - malpuregeco
+  - koto
+  spa:
+  - suciedad
+  - mugre
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/kotor">kotor</a> + <a
+  href="../lexi/-ya">-ya</a>
+raw data:
+  term: daykotorya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: filth
+    epo: malpuregeco, koto
+    spa: suciedad, mugre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + kotor + -ya
+...

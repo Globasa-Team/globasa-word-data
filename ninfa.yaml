@@ -1,0 +1,80 @@
+---
+term: ninfa
+slug: ninfa
+ipa: "\u02C8ninfa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ninfa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nymph (_mythology_)
+  epo:
+  - - nimfo
+  spa:
+  - - ninfa
+search terms:
+  glb:
+  - ninfa
+  eng:
+  - nymph
+  epo:
+  - nimfo
+  spa:
+  - ninfa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nymph
+  Vyetnamsa: ~
+  Espanisa:
+  - - ninfa
+  Fransesa:
+  - - nymphe
+  Doycisa: ~
+  Rusisa:
+  - - "\u043D\u0438\u043C\u0444 \u201Cnimf\u201D"
+  Indonesisa:
+  - - nimfa
+  Pilipinasa:
+  - - nimpa
+  Putunhwa:
+  - - "\u5B81\u8299 \u201Cningfu\u201D"
+  Hindisa:
+  - - "\u0928\u093F\u092E\u094D\u092B \u201Cnimf\u201D"
+  Niponsa:
+  - - "\u30CB\u30E5\u30F3\u30DA\u30FC \u201Cnyunpe\u201D"
+    - "\u30CB\u30F3\u30D5 \u201Cninfu\u201D"
+  Turkisa:
+  - - ninf
+  Hangusa:
+  - - "\uB2D8\uD504 \u201Cnimpu\u201D"
+  Parsisa:
+  - - "\u0646\u06CC\u0645\u0641"
+  Swahilisa:
+  - - ninfi
+raw data:
+  term: ninfa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nymph (_mythology_)
+    epo: nimfo
+    spa: ninfa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (nymph), Vyetnamsa, Espanisa (ninfa), Fransesa (nymphe), Doycisa,
+    Rusisa (\u043D\u0438\u043C\u0444 \u201Cnimf\u201D), Indonesisa (nimfa), Pilipinasa
+    (nimpa), Putunhwa (\u5B81\u8299 \u201Cningfu\u201D), Hindisa (\u0928\u093F\u092E\u094D\u092B
+    \u201Cnimf\u201D), Niponsa (\u30CB\u30E5\u30F3\u30DA\u30FC \u201Cnyunpe\u201D,
+    \u30CB\u30F3\u30D5 \u201Cninfu\u201D), Turkisa (ninf), Hangusa (\uB2D8\uD504 \u201Cnimpu\u201D),
+    Parsisa (\u0646\u06CC\u0645\u0641), Swahilisa (ninfi)"
+...

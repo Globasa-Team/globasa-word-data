@@ -1,0 +1,48 @@
+---
+term: etesu te
+slug: etesu te
+ipa: "e\u02C8tesu \u02C8te"
+ipa link: "http://ipa-reader.xyz/?text=e\u02C8tesu \u02C8te&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - theirs (_that being which belongs to those beings_)
+  epo:
+  - - la ilia (_tiu de ili_)
+  spa:
+  - - el de ellos (_ser viviente_)
+search terms:
+  glb:
+  - etesu te
+  - etesu
+  - te
+  eng:
+  - theirs
+  epo:
+  - la ilia
+  spa:
+  - el de ellos
+etymology_type: DERIVD
+etymology: <a href="../lexi/ete">ete</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/te">te</a>
+raw data:
+  term: etesu te
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: theirs (_that being which belongs to those beings_)
+    epo: la ilia (_tiu de ili_)
+    spa: el de ellos (_ser viviente_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ete + -su, te
+...

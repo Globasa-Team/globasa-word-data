@@ -1,0 +1,61 @@
+---
+term: gancaw
+slug: gancaw
+ipa: ganˈt͡ʃaw
+ipa link: http://ipa-reader.xyz/?text=ganˈt͡ʃaw&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - licorice
+    - liquorice
+  epo:
+  - - glicirizo
+  spa:
+  - - regaliz
+    - orozuz
+search terms:
+  glb:
+  - gancaw
+  eng:
+  - licorice
+  - liquorice
+  epo:
+  - glicirizo
+  spa:
+  - regaliz
+  - orozuz
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 甘草 “gancaw”
+  Niponsa:
+  - - 甘草 “kanzow”
+  Hindisa:
+  - - 감초 “gamco”
+  Vyetnamsa:
+  - - cam thảo
+tags:
+- yamxey
+raw data:
+  term: gancaw
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: licorice, liquorice
+    epo: glicirizo
+    spa: regaliz, orozuz
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Putunhwa (甘草 “gancaw”), Niponsa (甘草 “kanzow”), Hindisa (감초 “gamco”),
+    Vyetnamsa (cam thảo)
+...

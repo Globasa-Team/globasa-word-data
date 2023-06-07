@@ -1,0 +1,48 @@
+---
+term: latex
+slug: latex
+ipa: "la\u02C8te\u0283"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8te\u0283&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - latex
+  epo:
+  - - latekso
+  spa:
+  - - "l\xE1tex"
+search terms:
+  glb:
+  - latex
+  eng:
+  - latex
+  epo:
+  - latekso
+  spa:
+  - "l\xE1tex"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: latex
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: latex
+    epo: latekso
+    spa: "l\xE1tex"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (latex), Fransesa (latex), Doycisa (Latex), Rusisa (\u043B\u0430\u0442\u0435\u043A\u0441
+    \u201Clateks\u201D), Espanisa (l\xE1tex), Arabisa (\u0644\u0627\u062A\u0643\u0633
+    \"latiks\"), Turkisa (lateks), Niponsa (\u30E9\u30C6\u30C3\u30AF\u30B9 \u201Cratekkusu\u201D)"
+...

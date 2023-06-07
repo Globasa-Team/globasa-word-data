@@ -1,0 +1,52 @@
+---
+term: komenta
+slug: komenta
+ipa: "ko\u02C8menta"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8menta&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - comment
+  epo:
+  - - komento
+  - - komenti
+  spa:
+  - - comentario
+  - - comentar
+search terms:
+  glb:
+  - komenta
+  eng:
+  - comment
+  epo:
+  - komento
+  - komenti
+  spa:
+  - comentario
+  - comentar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: komenta
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: comment
+    epo: komento; komenti
+    spa: comentario; comentar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (commentary), Fransesa (commentaire), Doycisa (Kommentar), Rusisa
+    (\u043A\u043E\u043C\u043C\u0435\u043D\u0442\u0430\u0440\u0438\u0439 \u201Ckommentary\u201D),
+    Espanisa (comentario), Indonesisa (komentar), Pilipinasa"
+...

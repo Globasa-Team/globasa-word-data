@@ -1,0 +1,91 @@
+---
+term: netunyum
+slug: netunyum
+ipa: "netu\u02C8njum"
+ipa link: "http://ipa-reader.xyz/?text=netu\u02C8njum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - neptunium
+  epo:
+  - - Neptunio
+  spa:
+  - - neptunio
+    - Np
+search terms:
+  glb:
+  - netunyum
+  eng:
+  - neptunium
+  epo:
+  - neptunio
+  spa:
+  - neptunio
+  - np
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - neptunium
+  Hindisa:
+  - - "\u0928\u0947\u092A\u094D\u091F\u0942\u0928\u093F\u092F\u092E \u201Cneptuniyam\u201D"
+  Espanisa:
+  - - neptunio
+  Arabisa:
+  - - "\u0646\u0650\u0628\u0652\u062A\u064F\u0648\u0646\u0652\u064A\u064F\u0648\u0645
+      \u201Cnibtunyum\u201D"
+  Fransesa:
+  - - neptunium
+  Rusisa:
+  - - "\u043D\u0435\u043F\u0442\u0443\u043D\u0438\u0439 \u201Cneptuniy\u201D"
+  Indonesisa:
+  - - neptunium
+  Doycisa:
+  - - Neptunium
+  Niponsa:
+  - - "\u30CD\u30D7\u30C4\u30CB\u30A6\u30E0 \u201Cneputsuniumu\u201D"
+  Telugusa:
+  - - "\u0C28\u0C46\u0C2A\u0C4D\u0C1F\u0C4D\u0C2F\u0C42\u0C28\u0C3F\u0C2F\u0C02 \u201Cneptyuniyam\u201D"
+  Turkisa:
+  - - "nept\xFCnyum"
+  Hangusa:
+  - - "\uB135\uD22C\uB284 \u201Cneptunyum\u201D"
+  Vyetnamsa:
+  - - neptuni
+  Parsisa:
+  - - "\u0646\u067E\u062A\u0648\u0646\u06CC\u0648\u0645 \u201Cneptuniyom\u201D"
+  Swahilisa:
+  - - neptuni
+  Pilipinasa:
+  - - neptunyo
+    - neptunium
+tags:
+- kimikali monlari
+raw data:
+  term: netunyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: neptunium
+    epo: Neptunio
+    spa: neptunio, Np
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (neptunium), Hindisa (\u0928\u0947\u092A\u094D\u091F\u0942\u0928\u093F\u092F\u092E
+    \u201Cneptuniyam\u201D), Espanisa (neptunio), Arabisa (\u0646\u0650\u0628\u0652\u062A\u064F\u0648\u0646\u0652\u064A\u064F\u0648\u0645
+    \u201Cnibtunyum\u201D), Fransesa (neptunium), Rusisa (\u043D\u0435\u043F\u0442\u0443\u043D\u0438\u0439
+    \u201Cneptuniy\u201D), Indonesisa (neptunium), Doycisa (Neptunium), Niponsa (\u30CD\u30D7\u30C4\u30CB\u30A6\u30E0
+    \u201Cneputsuniumu\u201D), Telugusa (\u0C28\u0C46\u0C2A\u0C4D\u0C1F\u0C4D\u0C2F\u0C42\u0C28\u0C3F\u0C2F\u0C02
+    \u201Cneptyuniyam\u201D), Turkisa (nept\xFCnyum), Hangusa (\uB135\uD22C\uB284
+    \u201Cneptunyum\u201D), Vyetnamsa (neptuni), Parsisa (\u0646\u067E\u062A\u0648\u0646\u06CC\u0648\u0645
+    \u201Cneptuniyom\u201D), Swahilisa (neptuni), Pilipinasa (neptunyo, neptunium)"
+...

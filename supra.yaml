@@ -1,0 +1,64 @@
+---
+term: supra
+slug: supra
+ipa: "\u02C8sup\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sup\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - above
+    - over
+  epo:
+  - - super
+  spa:
+  - - arriba de
+    - sobre
+search terms:
+  glb:
+  - supra
+  eng:
+  - above
+  - over
+  epo:
+  - super
+  spa:
+  - arriba de
+  - sobre
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - supra-
+  Fransesa:
+  - - supra-
+  Espanisa:
+  - - supra-
+    - sobre
+  Niponsa:
+  - - "\u30B9\u30FC\u30D1\u30FC \u201Csupa-\u201D"
+  Vyernamsa:
+  - - "si\xEAu"
+  Italisa:
+  - - sopra
+raw data:
+  term: supra
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: above, over
+    epo: super
+    spa: arriba de, sobre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (supra-), Fransesa (supra-), Espanisa (supra-, sobre), Niponsa
+    (\u30B9\u30FC\u30D1\u30FC \u201Csupa-\u201D), Vyernamsa (si\xEAu), Italisa (sopra)"
+...

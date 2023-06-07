@@ -1,0 +1,58 @@
+---
+term: kurto
+slug: kurto
+ipa: "\u02C8ku\u027Eto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ku\u027Eto&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - short
+    - brief
+    - briefly
+  epo:
+  - - mallonga
+  - - mallonge
+  spa:
+  - - corto
+    - breve
+search terms:
+  glb:
+  - kurto
+  eng:
+  - short
+  - brief
+  - briefly
+  epo:
+  - mallonga
+  - mallonge
+  spa:
+  - corto
+  - breve
+etymology_type: NATLNG
+etymology: BLAH
+antonyms:
+- lungo
+raw data:
+  term: kurto
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: short, brief, briefly
+    epo: mallonga; mallonge
+    spa: corto, breve
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: lungo
+  example: ""
+  tags: ""
+  etymology: "Englisa (curt), Doycisa (kurz), Fransesa (court), Espanisa (corto),
+    Rusisa (\u043A\u043E\u0440\u043E\u0442\u043A\u0438\u0439 \u201Ckorotkiy\u201D),
+    Parsisa (\u06A9\u0648\u062A\u0627\u0647 \u201Ckuta\u201D)"
+...

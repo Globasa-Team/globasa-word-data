@@ -1,0 +1,49 @@
+---
+term: demoje
+slug: demoje
+ipa: "de\u02C8mod\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=de\u02C8mod\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - population (size)
+  epo:
+  - - "lo\u011Dantaro (amplekso)"
+  spa:
+  - - "(tama\xF1o de) poblaci\xF3n"
+search terms:
+  glb:
+  - demoje
+  eng:
+  - population size
+  - population
+  epo:
+  - "lo\u011Dantaro amplekso"
+  - "lo\u011Dantaro"
+  spa:
+  - "tama\xF1o de poblaci\xF3n"
+  - "poblaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/demo">demo</a> + <a href="../lexi/-je">-je</a>
+raw data:
+  term: demoje
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: population (size)
+    epo: "lo\u011Dantaro (amplekso)"
+    spa: "(tama\xF1o de) poblaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: demo + -je
+...

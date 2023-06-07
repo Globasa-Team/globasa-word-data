@@ -1,0 +1,48 @@
+---
+term: leaxam
+slug: leaxam
+ipa: "lea\u02C8\u0283am"
+ipa link: "http://ipa-reader.xyz/?text=lea\u02C8\u0283am&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - eve
+  epo:
+  - - "anta\u016Dvespero"
+    - "anta\u016Da vespero"
+  spa:
+  - - "v\xEDspera"
+search terms:
+  glb:
+  - leaxam
+  eng:
+  - eve
+  epo:
+  - "anta\u016Dvespero"
+  - "anta\u016Da vespero"
+  spa:
+  - "v\xEDspera"
+etymology_type: DERIVD
+etymology: <a href="../lexi/le-">le-</a> + <a href="../lexi/axam">axam</a>
+raw data:
+  term: leaxam
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: eve
+    epo: "anta\u016Dvespero, anta\u016Da vespero"
+    spa: "v\xEDspera"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: le- + axam
+...

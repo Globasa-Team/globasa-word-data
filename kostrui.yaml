@@ -1,0 +1,58 @@
+---
+term: kostrui
+slug: kostrui
+ipa: "kos\u02C8t\u027Eui"
+ipa link: "http://ipa-reader.xyz/?text=kos\u02C8t\u027Eui&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - construction
+  - - construct
+    - build
+  epo:
+  - - konstruo
+  - - konstrui
+  spa:
+  - - "construcci\xF3n"
+  - - construir
+    - edificar
+search terms:
+  glb:
+  - kostrui
+  eng:
+  - construction
+  - construct
+  - build
+  epo:
+  - konstruo
+  - konstrui
+  spa:
+  - "construcci\xF3n"
+  - construir
+  - edificar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kostrui
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: construction; construct, build
+    epo: konstruo; konstrui
+    spa: "construcci\xF3n; construir, edificar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (construction), Fransesa (construire), Doycisa (konstruieren),
+    Rusisa (\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u0442\u044C
+    \u201Ckonstruirovat\u201D), Espanisa (construir), Italisa (costruire)"
+...

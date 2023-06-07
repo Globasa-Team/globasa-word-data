@@ -1,0 +1,61 @@
+---
+term: hatari
+slug: hatari
+ipa: "xa\u02C8ta\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8ta\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - danger
+  - - endanger
+    - put in danger
+    - be in danger
+  epo:
+  - - "dan\u011Dero"
+  - - "endan\u011Deri\u011Di"
+    - "endan\u011Derigi"
+  spa:
+  - - peligro
+  - - poner en peligro
+    - estar en peligro
+search terms:
+  glb:
+  - hatari
+  eng:
+  - danger
+  - endanger
+  - put in danger
+  - be in danger
+  epo:
+  - "dan\u011Dero"
+  - "endan\u011Deri\u011Di"
+  - "endan\u011Derigi"
+  spa:
+  - peligro
+  - poner en peligro
+  - estar en peligro
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hatari
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: danger; endanger, put in danger, be in danger
+    epo: "dan\u011Dero; endan\u011Deri\u011Di, endan\u011Derigi"
+    spa: peligro; poner en peligro, estar en peligro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062E\u0637\u0631 \u201Ckhatar\u201D), Hindisa (\u0916\u0924\u0930\u093E
+    \u201Ckhatara\u201D), Swahilisa (hatari), Parsisa (\u062E\u0637\u0631 \u201Chatar\u201D)"
+...

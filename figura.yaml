@@ -1,0 +1,72 @@
+---
+term: figura
+slug: figura
+ipa: fiˈguɾa
+ipa link: http://ipa-reader.xyz/?text=fiˈguɾa&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - shape
+    - figure
+  - - shape
+  epo:
+  - - figuro
+  - - figuri
+  spa:
+  - - figura
+  - - moldear
+    - moldearse
+search terms:
+  glb:
+  - figura
+  eng:
+  - shape
+  - figure
+  epo:
+  - figuro
+  - figuri
+  spa:
+  - figura
+  - moldear
+  - moldearse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - figure
+  Fransesa:
+  - - figure
+  Doycisa:
+  - - Figur
+  Rusisa:
+  - - фигура “figura”
+  Espanisa:
+  - - figura
+  Pilipinasa:
+  - - pigura
+  Indonesisa: ~
+  Niponsa:
+  - - フィギュア “figyua”
+raw data:
+  term: figura
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: shape, figure; shape
+    epo: figuro; figuri
+    spa: figura; moldear, moldearse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (figure), Fransesa (figure), Doycisa (Figur), Rusisa (фигура
+    “figura”), Espanisa (figura), Pilipinasa (pigura), Indonesisa, Niponsa (フィギュア
+    “figyua”)
+...

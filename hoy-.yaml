@@ -1,0 +1,48 @@
+---
+term: hoy-
+slug: hoy-
+ipa: "\u02C8xoj-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xoj-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - toward
+    - towards (_in the direction of_)
+  epo:
+  - - "al- (_la\u016D direkto de_)"
+  spa:
+  - - hacia
+search terms:
+  glb:
+  - hoy-
+  eng:
+  - toward
+  - towards
+  epo:
+  - al-
+  spa:
+  - hacia
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/hoyo">hoyo</a>.
+raw data:
+  term: hoy-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: toward, towards (_in the direction of_)
+    epo: "al- (_la\u016D direkto de_)"
+    spa: hacia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _hoyo_.
+...

@@ -1,0 +1,62 @@
+---
+term: cis
+slug: cis
+ipa: t͡ʃis
+ipa link: http://ipa-reader.xyz/?text=t͡ʃis&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - on this side of
+  epo:
+  - - cis
+    - ĉiflanke de
+  spa:
+  - - a este lado de
+search terms:
+  glb:
+  - cis
+  eng:
+  - on this side of
+  epo:
+  - cis
+  - ĉiflanke de
+  spa:
+  - a este lado de
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - zis-
+    - cis-
+  Englisa:
+  - - cis-
+  Espanisa:
+  - - cis-
+  Fransesa:
+  - - cis-
+  Rusisa:
+  - - цис- “tsis-”
+  Turkisa:
+  - - cis-
+raw data:
+  term: cis
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: on this side of
+    epo: cis, ĉiflanke de
+    spa: a este lado de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (zis-, cis-), Englisa (cis-), Espanisa (cis-), Fransesa (cis-),
+    Rusisa (цис- “tsis-”),Turkisa (cis-)
+...

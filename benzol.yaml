@@ -1,0 +1,87 @@
+---
+term: benzol
+slug: benzol
+ipa: benˈzol
+ipa link: http://ipa-reader.xyz/?text=benˈzol&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - benzene
+    - benzole
+  epo:
+  - - benzeno
+  spa:
+  - - benceno
+    - benzol
+search terms:
+  glb:
+  - benzol
+  eng:
+  - benzene
+  - benzole
+  epo:
+  - benzeno
+  spa:
+  - benceno
+  - benzol
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - бензол “benzol”
+  Doycisa:
+  - - Benzol
+  Niponsa:
+  - - ベンゼン “benzen”
+    - ベンゾール “benzoru”
+  Hangusa:
+  - - 벤젠 “benjen”
+    - 벤졸 “benjol”
+  Englisa:
+  - - benzene
+  Espanisa:
+  - - benceno
+  Fransesa:
+  - - benzéne
+  Indonesisa:
+  - - benzena
+  Pilipinasa:
+  - - bensina
+  Putunhwa:
+  - - 苯 “ben”
+  Arabisa:
+  - - بَنْزِين‎ “banzin”
+  Telugusa:
+  - - బెంజీన్ “benjin”
+  Turkisa:
+  - - benzen
+  Vyetnamsa: ~
+  Parsisa:
+  - - بنزن‎ “banzen”
+  Swahilisa:
+  - - benzini
+raw data:
+  term: benzol
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: benzene, benzole
+    epo: benzeno
+    spa: benceno, benzol
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Rusisa (бензол “benzol”), Doycisa (Benzol), Niponsa (ベンゼン “benzen”, ベンゾール
+    “benzoru”), Hangusa (벤젠 “benjen”, 벤졸 “benjol”), Englisa (benzene), Espanisa (benceno),
+    Fransesa (benzéne), Indonesisa (benzena), Pilipinasa (bensina), Putunhwa (苯 “ben”),
+    Arabisa (بَنْزِين‎ “banzin”), Telugusa (బెంజీన్ “benjin”), Turkisa (benzen), Vyetnamsa,
+    Parsisa (بنزن‎ “banzen”), Swahilisa (benzini)
+...

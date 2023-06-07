@@ -1,0 +1,50 @@
+---
+term: tanzani
+slug: tanzani
+ipa: "tan\u02C8zani"
+ipa link: "http://ipa-reader.xyz/?text=tan\u02C8zani&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Tanzania
+  epo:
+  - - Tanzanio
+  spa:
+  - - Tanzania
+search terms:
+  glb:
+  - tanzani
+  eng:
+  - tanzania
+  epo:
+  - tanzanio
+  spa:
+  - tanzania
+etymology_type: NATLNG
+etymology:
+  Swahilisa:
+  - - Tanzania
+tags:
+- dexa
+raw data:
+  term: Tanzani
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Tanzania
+    epo: Tanzanio
+    spa: Tanzania
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Swahilisa (Tanzania)
+...

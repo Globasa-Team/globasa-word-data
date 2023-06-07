@@ -1,0 +1,48 @@
+---
+term: yamkamer
+slug: yamkamer
+ipa: "jamka\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=jamka\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - dining room
+  epo:
+  - - "man\u011Dejo"
+    - "man\u011Do\u0109ambro"
+  spa:
+  - - comedor (_sala_)
+search terms:
+  glb:
+  - yamkamer
+  eng:
+  - dining room
+  epo:
+  - "man\u011Dejo"
+  - "man\u011Do\u0109ambro"
+  spa:
+  - comedor
+etymology_type: DERIVD
+etymology: <a href="../lexi/yam">yam</a> + <a href="../lexi/-kamer">-kamer</a>
+raw data:
+  term: yamkamer
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: dining room
+    epo: "man\u011Dejo, man\u011Do\u0109ambro"
+    spa: comedor (_sala_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yam + -kamer
+...

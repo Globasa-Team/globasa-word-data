@@ -1,0 +1,54 @@
+---
+term: idol
+slug: idol
+ipa: "i\u02C8dol"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8dol&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - idol
+  - - idolize
+  epo:
+  - - idolo
+  spa:
+  - - "\xEDdolo"
+search terms:
+  glb:
+  - idol
+  eng:
+  - idol
+  - idolize
+  epo:
+  - idolo
+  spa:
+  - "\xEDdolo"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- dini
+raw data:
+  term: idol
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: idol; idolize
+    epo: idolo
+    spa: "\xEDdolo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: "Englisa (idol), Espanisa (\xEDdolo), Fransesa (idole), Rusisa (\u0438\u0434\u043E\u043B
+    \"idol\"), Doycisa (Idol), Indonesisa (idola), Pilipinasa (idolo), Putunhwa (\u611B\u8C46
+    \"aydow\"), Arabisa (\u0622\u064A\u0652\u062F\u064F\u0648\u0644 \"aydul\"), Niponsa
+    (\u30A2\u30A4\u30C9\u30EB \"aidoru\"), Turkisa (idol), Hangusa (\uC544\uC774\uB3CC
+    \"aidol\"), Parsisa (\u0622\u06CC\u062F\u0644 \"\xE2ydol\")"
+...

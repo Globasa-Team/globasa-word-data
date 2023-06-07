@@ -1,0 +1,56 @@
+---
+term: amiruli
+slug: amiruli
+ipa: "ami\u02C8\u027Euli"
+ipa link: "http://ipa-reader.xyz/?text=ami\u02C8\u027Euli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - imperative
+  epo:
+  - - postula
+    - imperativa
+    - ordona
+  - - postule
+    - imperative
+    - ordone
+  spa:
+  - - imperativo
+search terms:
+  glb:
+  - amiruli
+  eng:
+  - imperative
+  epo:
+  - postula
+  - imperativa
+  - ordona
+  - postule
+  - imperative
+  - ordone
+  spa:
+  - imperativo
+etymology_type: DERIVD
+etymology: <a href="../lexi/amiru">amiru</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: amiruli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: imperative
+    epo: postula, imperativa, ordona; postule, imperative, ordone
+    spa: imperativo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: amiru + -li
+...

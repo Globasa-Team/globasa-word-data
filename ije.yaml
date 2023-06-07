@@ -1,0 +1,46 @@
+---
+term: ije
+slug: ije
+ipa: "\u02C8id\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8id\u0361\u0292e&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter j
+  epo:
+  - - litero j
+  spa:
+  - - letra j
+search terms:
+  glb:
+  - ije
+  eng:
+  - letter j
+  epo:
+  - litero j
+  spa:
+  - letra j
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ije
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter j
+    epo: litero j
+    spa: letra j
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

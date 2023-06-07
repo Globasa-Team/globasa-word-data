@@ -1,0 +1,58 @@
+---
+term: perya
+slug: perya
+ipa: "\u02C8pe\u027Eja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pe\u027Eja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - surface
+  - - be on
+    - be on the surface (of)
+  epo:
+  - - surfaco
+  - - esti sur
+    - esti sur surfaco de
+  spa:
+  - - superficie
+  - - estar en la superficie (de)
+search terms:
+  glb:
+  - perya
+  eng:
+  - surface
+  - be on
+  - be on the surface of
+  - be on the surface
+  epo:
+  - surfaco
+  - esti sur
+  - esti sur surfaco de
+  spa:
+  - superficie
+  - estar en la superficie de
+  - estar en la superficie
+etymology_type: DERIVD
+etymology: <a href="../lexi/per">per</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: perya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: surface; be on, be on the surface (of)
+    epo: surfaco; esti sur, esti sur surfaco de
+    spa: superficie; estar en la superficie (de)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: per + -ya
+...

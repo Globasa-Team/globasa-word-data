@@ -1,0 +1,59 @@
+---
+term: tuksedo
+slug: tuksedo
+ipa: "tuk\u02C8sedo"
+ipa link: "http://ipa-reader.xyz/?text=tuk\u02C8sedo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tuxedo
+  epo:
+  - - smokingo
+  spa:
+  - - esmoquin
+search terms:
+  glb:
+  - tuksedo
+  eng:
+  - tuxedo
+  epo:
+  - smokingo
+  spa:
+  - esmoquin
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tuxedo
+  Indonesisa:
+  - - tuksedo
+  Pilipinasa: ~
+  Niponsa:
+  - - "\u30BF\u30AD\u30B7\u30FC\u30C9 \u201Ctakixido\u201D"
+  Hangusa:
+  - - "\uD131\uC2DC\uB3C4 \u201Ctokxido\u201D"
+  Parsisa:
+  - - "\u062A\u0627\u06A9\u0633\u06CC\u062F\u0648"
+raw data:
+  term: tuksedo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tuxedo
+    epo: smokingo
+    spa: esmoquin
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tuxedo), Indonesisa (tuksedo), Pilipinasa, Niponsa (\u30BF\u30AD\u30B7\u30FC\u30C9
+    \u201Ctakixido\u201D), Hangusa (\uD131\uC2DC\uB3C4 \u201Ctokxido\u201D), Parsisa
+    (\u062A\u0627\u06A9\u0633\u06CC\u062F\u0648)"
+...

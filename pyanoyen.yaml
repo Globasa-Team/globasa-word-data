@@ -1,0 +1,48 @@
+---
+term: pyanoyen
+slug: pyanoyen
+ipa: "pjano\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=pjano\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pianist
+    - piano player
+  epo:
+  - - pianisto
+  spa:
+  - - pianista
+search terms:
+  glb:
+  - pyanoyen
+  eng:
+  - pianist
+  - piano player
+  epo:
+  - pianisto
+  spa:
+  - pianista
+etymology_type: DERIVD
+etymology: <a href="../lexi/pyano">pyano</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: pyanoyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pianist, piano player
+    epo: pianisto
+    spa: pianista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pyano + -yen
+...

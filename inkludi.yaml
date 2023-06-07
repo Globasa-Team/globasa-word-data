@@ -1,0 +1,62 @@
+---
+term: inkludi
+slug: inkludi
+ipa: "in\u02C8kludi"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8kludi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - inclusion
+  - - include
+    - involve
+    - entail
+  epo:
+  - - inkluzivo
+    - indkludigo
+  - - inkluzivi
+    - inkludi
+  spa:
+  - - "inclusi\xF3n"
+  - - incluir
+search terms:
+  glb:
+  - inkludi
+  eng:
+  - inclusion
+  - include
+  - involve
+  - entail
+  epo:
+  - inkluzivo
+  - indkludigo
+  - inkluzivi
+  - inkludi
+  spa:
+  - "inclusi\xF3n"
+  - incluir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: inkludi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: inclusion; include, involve, entail
+    epo: inkluzivo, indkludigo; inkluzivi, inkludi
+    spa: "inclusi\xF3n; incluir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (include, including), Fransesa (inclure), Doycisa (inkludieren),
+    Rusisa (\u0438\u043D\u043A\u043B\u044E\u0437\u0438\u044F \u201Cinkluziya\u201D),
+    Espanisa (incluir)"
+...

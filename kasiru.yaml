@@ -1,0 +1,54 @@
+---
+term: kasiru
+slug: kasiru
+ipa: "ka\u02C8si\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8si\u027Eu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - break
+  epo:
+  - - rompo
+  - - rompi
+  spa:
+  - - rompimiento
+  - - romper
+    - romperse
+search terms:
+  glb:
+  - kasiru
+  eng:
+  - break
+  epo:
+  - rompo
+  - rompi
+  spa:
+  - rompimiento
+  - romper
+  - romperse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kasiru
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: break
+    epo: rompo; rompi
+    spa: rompimiento; romper, romperse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u064A\u064F\u0643\u064E\u0633\u0650\u0651\u0631\u064F\u200E
+    \u201Cyukassiru\u201D, \u0643\u064E\u0633\u064E\u0651\u0631\u064E \u201Ckassara\u201D),
+    Turkisa (kasir), Parsisa (\u06A9\u0633\u0631 \u201Ckasr\u201D)"
+...

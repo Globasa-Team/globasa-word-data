@@ -1,0 +1,48 @@
+---
+term: ugandali
+slug: ugandali
+ipa: "ugan\u02C8dali"
+ipa link: "http://ipa-reader.xyz/?text=ugan\u02C8dali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Ugandan
+  epo:
+  - - uganda
+  - - ugande
+  spa:
+  - - "ugand\xE9s"
+search terms:
+  glb:
+  - ugandali
+  eng:
+  - ugandan
+  epo:
+  - uganda
+  - ugande
+  spa:
+  - "ugand\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Uganda">Uganda</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Ugandali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Ugandan
+    epo: uganda; ugande
+    spa: "ugand\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Uganda + -li
+...

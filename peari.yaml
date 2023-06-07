@@ -1,0 +1,71 @@
+---
+term: peari
+slug: peari
+ipa: "pe\u02C8a\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=pe\u02C8a\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fairy
+  epo:
+  - - feo
+    - feino
+  spa:
+  - - hada
+search terms:
+  glb:
+  - peari
+  eng:
+  - fairy
+  epo:
+  - feo
+  - feino
+  spa:
+  - hada
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fairy
+  Fransesa:
+  - - "f\xE9e"
+  Rusisa:
+  - - "\u0444\u0435\u044F \u201Cfeya\u201D"
+  Doycisa:
+  - - Fee
+  Indonesisa:
+  - - peri
+  Hindisa:
+  - - "\u092A\u0930\u0940 \u201Cpari\u201D"
+  Niponsa:
+  - - "\u30D5\u30A7\u30A2\u30EA\u30FC \u201Cfeari\u201D"
+  Turkisa:
+  - - peri
+  Hangusa:
+  - - "\uD398\uC5B4\uB9AC \u201Cpeari\u201D"
+  Parsisa:
+  - - "\u067E\u0631\u06CC \u201Cpari\u201D"
+raw data:
+  term: peari
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fairy
+    epo: feo, feino
+    spa: hada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (fairy), Fransesa (f\xE9e), Rusisa (\u0444\u0435\u044F \u201Cfeya\u201D),
+    Doycisa (Fee), Indonesisa (peri), Hindisa (\u092A\u0930\u0940 \u201Cpari\u201D),
+    Niponsa (\u30D5\u30A7\u30A2\u30EA\u30FC \u201Cfeari\u201D), Turkisa (peri), Hangusa
+    (\uD398\uC5B4\uB9AC \u201Cpeari\u201D), Parsisa (\u067E\u0631\u06CC \u201Cpari\u201D)"
+...

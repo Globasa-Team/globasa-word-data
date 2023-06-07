@@ -1,0 +1,56 @@
+---
+term: bawe
+slug: bawe
+ipa: ˈbawe
+ipa link: http://ipa-reader.xyz/?text=ˈbawe&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - defense
+  - - defend
+  epo:
+  - - defendo
+  - - defendi
+  spa:
+  - - defensa
+  - - defender
+search terms:
+  glb:
+  - bawe
+  eng:
+  - defense
+  - defend
+  epo:
+  - defendo
+  - defendi
+  spa:
+  - defensa
+  - defender
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 保卫 “bǎowèi”
+  Vyetnamsa:
+  - - bảo vệ
+raw data:
+  term: bawe
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: defense; defend
+    epo: defendo; defendi
+    spa: defensa; defender
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (保卫 “bǎowèi”), Vyetnamsa (bảo vệ)
+...

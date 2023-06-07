@@ -1,0 +1,48 @@
+---
+term: fukuzaxey
+slug: fukuzaxey
+ipa: "fukuza\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=fukuza\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - complication
+  epo:
+  - - "komplika\u0135o"
+    - "malsimpla\u0135o"
+  spa:
+  - - "complicaci\xF3n"
+search terms:
+  glb:
+  - fukuzaxey
+  eng:
+  - complication
+  epo:
+  - "komplika\u0135o"
+  - "malsimpla\u0135o"
+  spa:
+  - "complicaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fukuza">fukuza</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: fukuzaxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: complication
+    epo: "komplika\u0135o, malsimpla\u0135o"
+    spa: "complicaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fukuza + -xey
+...

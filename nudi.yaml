@@ -1,0 +1,65 @@
+---
+term: nudi
+slug: nudi
+ipa: "\u02C8nudi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nudi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - nude
+    - naked
+  epo:
+  - - nuda
+  - - nude
+  spa:
+  - - desnudo
+search terms:
+  glb:
+  - nudi
+  eng:
+  - nude
+  - naked
+  epo:
+  - nuda
+  - nude
+  spa:
+  - desnudo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nude
+    - nudist
+  Doycisa:
+  - - Nudist
+  Fransesa:
+  - - nudiste
+  Espanisa:
+  - - nudista
+  Rusisa:
+  - - "\u043D\u0443\u0434\u0438\u0441\u0442 \u201Cnudist\u201D"
+  Indonesisa:
+  - - nudis
+raw data:
+  term: nudi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: nude, naked
+    epo: nuda; nude
+    spa: desnudo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (nude, nudist), Doycisa (Nudist), Fransesa (nudiste), Espanisa
+    (nudista), Rusisa (\u043D\u0443\u0434\u0438\u0441\u0442 \u201Cnudist\u201D), Indonesisa
+    (nudis)"
+...

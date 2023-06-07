@@ -1,0 +1,48 @@
+---
+term: seli ete
+slug: seli ete
+ipa: "\u02C8seli \u02C8ete"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8seli \u02C8ete&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - they themselves
+  epo:
+  - - ili mem
+  spa:
+  - - ellos mismos
+search terms:
+  glb:
+  - seli ete
+  - seli
+  - ete
+  eng:
+  - they themselves
+  epo:
+  - ili mem
+  spa:
+  - ellos mismos
+etymology_type: DERIVD
+etymology: <a href="../lexi/se">se</a> + <a href="../lexi/-li">-li</a>, <a href="../lexi/ete">ete</a>
+raw data:
+  term: seli ete
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: they themselves
+    epo: ili mem
+    spa: ellos mismos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se + -li, ete
+...

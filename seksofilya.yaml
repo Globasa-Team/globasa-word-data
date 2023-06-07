@@ -1,0 +1,49 @@
+---
+term: seksofilya
+slug: seksofilya
+ipa: "sekso\u02C8filja"
+ipa link: "http://ipa-reader.xyz/?text=sekso\u02C8filja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - libido
+    - sex drive
+  epo:
+  - - libido
+  spa:
+  - - libido
+search terms:
+  glb:
+  - seksofilya
+  eng:
+  - libido
+  - sex drive
+  epo:
+  - libido
+  spa:
+  - libido
+etymology_type: DERIVD
+etymology: <a href="../lexi/sekso">sekso</a> + <a href="../lexi/-fil">-fil</a> + <a
+  href="../lexi/-ya">-ya</a>
+raw data:
+  term: seksofilya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: libido, sex drive
+    epo: libido
+    spa: libido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sekso + -fil + -ya
+...

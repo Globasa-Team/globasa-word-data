@@ -1,0 +1,50 @@
+---
+term: pasidi
+slug: pasidi
+ipa: "pa\u02C8sidi"
+ipa link: "http://ipa-reader.xyz/?text=pa\u02C8sidi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - traverse
+    - go through
+  epo:
+  - - trairo
+  - - trairi
+  spa:
+  - - atravesar
+search terms:
+  glb:
+  - pasidi
+  eng:
+  - traverse
+  - go through
+  epo:
+  - trairo
+  - trairi
+  spa:
+  - atravesar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pas-">pas-</a> + <a href="../lexi/idi">idi</a>
+raw data:
+  term: pasidi
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: traverse, go through
+    epo: trairo; trairi
+    spa: atravesar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pas- + idi
+...

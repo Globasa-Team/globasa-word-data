@@ -1,0 +1,48 @@
+---
+term: burtyan
+slug: burtyan
+ipa: "bu\u027E\u02C8tjan"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027E\u02C8tjan&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - stain
+    - blemish
+  epo:
+  - - makulo
+  spa:
+  - - mancha
+search terms:
+  glb:
+  - burtyan
+  eng:
+  - stain
+  - blemish
+  epo:
+  - makulo
+  spa:
+  - mancha
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/tyan">tyan</a>
+raw data:
+  term: burtyan
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: stain, blemish
+    epo: makulo
+    spa: mancha
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + tyan
+...

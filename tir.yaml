@@ -1,0 +1,51 @@
+---
+term: tir
+slug: tir
+ipa: "\u02C8ti\u027E"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ti\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - arrow
+  epo:
+  - - sago
+  spa:
+  - - flecha
+search terms:
+  glb:
+  - tir
+  eng:
+  - arrow
+  epo:
+  - sago
+  spa:
+  - flecha
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0924\u0940\u0930 \u201Ctir\u201D"
+  Parsisa:
+  - - "\u062A\u06CC\u0631 \u201Ctir\u201D"
+raw data:
+  term: tir
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: arrow
+    epo: sago
+    spa: flecha
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0924\u0940\u0930 \u201Ctir\u201D), Parsisa (\u062A\u06CC\u0631
+    \u201Ctir\u201D)"
+...

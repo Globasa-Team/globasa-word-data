@@ -1,0 +1,54 @@
+---
+term: fahuri
+slug: fahuri
+ipa: faˈxuɾi
+ipa link: http://ipa-reader.xyz/?text=faˈxuɾi&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - proud
+  epo:
+  - - fiera
+    - fiere
+  spa:
+  - - orgulloso
+search terms:
+  glb:
+  - fahuri
+  eng:
+  - proud
+  epo:
+  - fiera
+  - fiere
+  spa:
+  - orgulloso
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فخور “fakhur”
+  Swahilisa:
+  - - fahari
+  Parsisa:
+  - - fakhr
+raw data:
+  term: fahuri
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: proud
+    epo: fiera, fiere
+    spa: orgulloso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (فخور “fakhur”), Swahilisa (fahari), Parsisa (fakhr)
+...

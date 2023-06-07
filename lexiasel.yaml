@@ -1,0 +1,48 @@
+---
+term: lexiasel
+slug: lexiasel
+ipa: "le\u0283ia\u02C8sel"
+ipa link: "http://ipa-reader.xyz/?text=le\u0283ia\u02C8sel&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - etymology
+  epo:
+  - - etimologio
+    - vortdeveno
+  spa:
+  - - "etimolog\xEDa"
+search terms:
+  glb:
+  - lexiasel
+  eng:
+  - etymology
+  epo:
+  - etimologio
+  - vortdeveno
+  spa:
+  - "etimolog\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/lexi">lexi</a> + <a href="../lexi/asel">asel</a>
+raw data:
+  term: lexiasel
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: etymology
+    epo: etimologio, vortdeveno
+    spa: "etimolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lexi + asel
+...

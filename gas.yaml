@@ -1,0 +1,67 @@
+---
+term: gas
+slug: gas
+ipa: ˈgas
+ipa link: http://ipa-reader.xyz/?text=ˈgas&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gas
+  epo:
+  - - gaso
+  spa:
+  - - gas
+search terms:
+  glb:
+  - gas
+  eng:
+  - gas
+  epo:
+  - gaso
+  spa:
+  - gas
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gas
+  Espanisa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Rusisa:
+  - - газ “gaz”
+  Hindisa:
+  - - गैस “ges”
+  Arabisa:
+  - - غَاز “gaz”
+  Niponsa:
+  - - ガス “gasu”
+  Turkisa:
+  - - gaz
+  Hangusa:
+  - - 가스 “gasu”
+  Swahilisa:
+  - - gesi
+raw data:
+  term: gas
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gas
+    epo: gaso
+    spa: gas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (gas), Espanisa, Doycisa, Indonesisa, Rusisa (газ “gaz”), Hindisa
+    (गैस “ges”), Arabisa (غَاز “gaz”), Niponsa (ガス “gasu”), Turkisa (gaz), Hangusa
+    (가스 “gasu”), Swahilisa (gesi)
+...

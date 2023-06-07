@@ -1,0 +1,52 @@
+---
+term: nenjinji
+slug: nenjinji
+ipa: "nen\u02C8d\u0361\u0292ind\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=nen\u02C8d\u0361\u0292ind\u0361\u0292i&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - indirect
+  - - indirectly
+  epo:
+  - - nerekta
+  - - nerekte
+  spa:
+  - - indirecto
+  - - indirectamente
+search terms:
+  glb:
+  - nenjinji
+  eng:
+  - indirect
+  - indirectly
+  epo:
+  - nerekta
+  - nerekte
+  spa:
+  - indirecto
+  - indirectamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/jinji">jinji</a>
+raw data:
+  term: nenjinji
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: indirect; indirectly
+    epo: nerekta; nerekte
+    spa: indirecto; indirectamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + jinji
+...

@@ -1,0 +1,50 @@
+---
+term: nanometro
+slug: nanometro
+ipa: "nano\u02C8met\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=nano\u02C8met\u027Eo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - nanometer
+    - nanometre
+  epo:
+  - - nanometro
+  spa:
+  - - "nan\xF3metro"
+    - nm
+search terms:
+  glb:
+  - nanometro
+  eng:
+  - nanometer
+  - nanometre
+  epo:
+  - nanometro
+  spa:
+  - "nan\xF3metro"
+  - nm
+etymology_type: DERIVD
+etymology: <a href="../lexi/nano">nano</a> + <a href="../lexi/metro">metro</a>
+raw data:
+  term: nanometro
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: nanometer, nanometre
+    epo: nanometro
+    spa: "nan\xF3metro, nm"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nano + metro
+...

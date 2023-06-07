@@ -1,0 +1,50 @@
+---
+term: surinam
+slug: surinam
+ipa: "su\u027Ei\u02C8nam"
+ipa link: "http://ipa-reader.xyz/?text=su\u027Ei\u02C8nam&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Suriname
+  epo:
+  - - Surinamo
+  spa:
+  - - Surinam
+search terms:
+  glb:
+  - surinam
+  eng:
+  - suriname
+  epo:
+  - surinamo
+  spa:
+  - surinam
+etymology_type: NATLNG
+etymology:
+  Nederisa:
+  - - Suriname
+tags:
+- dexa
+raw data:
+  term: Surinam
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Suriname
+    epo: Surinamo
+    spa: Surinam
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Nederisa (Suriname)
+...

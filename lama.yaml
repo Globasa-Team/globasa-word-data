@@ -1,0 +1,56 @@
+---
+term: lama
+slug: lama
+ipa: "\u02C8lama"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lama&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - old
+    - longtime
+  epo:
+  - - malnova
+    - antikva
+    - praa
+  spa:
+  - - "viejo (_ant\xF3nimo: nuevo_)"
+search terms:
+  glb:
+  - lama
+  eng:
+  - old
+  - longtime
+  epo:
+  - malnova
+  - antikva
+  - praa
+  spa:
+  - viejo
+etymology_type: NATLNG
+etymology: BLAH
+synonyms:
+- lao
+antonyms:
+- neo
+raw data:
+  term: lama
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: old, longtime
+    epo: malnova, antikva, praa
+    spa: "viejo (_ant\xF3nimo: nuevo_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: lao
+  antonyms: neo
+  example: ""
+  tags: ""
+  etymology: Indonesisa (lama), Pilipinasa (luma)
+...

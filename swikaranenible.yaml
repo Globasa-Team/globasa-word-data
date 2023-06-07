@@ -1,0 +1,49 @@
+---
+term: swikaranenible
+slug: swikaranenible
+ipa: "swika\u027Eane\u02C8nible"
+ipa link: "http://ipa-reader.xyz/?text=swika\u027Eane\u02C8nible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unacceptable
+  epo:
+  - - neakceptebla
+  - - neakcepteble
+  spa:
+  - - inaceptable
+search terms:
+  glb:
+  - swikaranenible
+  eng:
+  - unacceptable
+  epo:
+  - neakceptebla
+  - neakcepteble
+  spa:
+  - inaceptable
+etymology_type: DERIVD
+etymology: <a href="../lexi/swikara">swikara</a> + <a href="../lexi/nen-">nen-</a>
+  + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: swikaranenible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unacceptable
+    epo: neakceptebla; neakcepteble
+    spa: inaceptable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: swikara + nen- + -ible
+...

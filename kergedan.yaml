@@ -1,0 +1,54 @@
+---
+term: kergedan
+slug: kergedan
+ipa: "ke\u027Ege\u02C8dan"
+ipa link: "http://ipa-reader.xyz/?text=ke\u027Ege\u02C8dan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rhinoceros
+  epo:
+  - - rinocero
+  spa:
+  - - rinoceronte
+    - _Rhinocerotidae_
+search terms:
+  glb:
+  - kergedan
+  eng:
+  - rhinoceros
+  epo:
+  - rinocero
+  spa:
+  - rinoceronte
+  - rhinocerotidae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kergedan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rhinoceros
+    epo: rinocero
+    spa: rinoceronte, _Rhinocerotidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Hindisa (\u0916\u0921\u094D\u0917 \u201Ckhadg\u201D, \u0916\u0921\u094D\u0917\u0927\u0947\u0928\u0941
+    \u201Ckhadgadhenu\u201D), Arabisa (\u0643\u064E\u0631\u0652\u0643\u064E\u062F\u064E\u0651\u0646
+    \u201Ckarkadan\u201D), Telugusa (\u0C16\u0C21\u0C4D\u0C17\u0C2E\u0C43\u0C17\u0C02
+    \u201Ckhadgamrgam\u201D), Turkisa (gergedan), Parsisa (\u06A9\u0631\u06AF\u062F\u0646
+    \u201Ckargadan\u201D, \u06A9\u0631\u06AF \u201Ckarg\u201D)"
+...

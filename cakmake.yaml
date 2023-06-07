@@ -1,0 +1,58 @@
+---
+term: cakmake
+slug: cakmake
+ipa: t͡ʃakˈmake
+ipa link: http://ipa-reader.xyz/?text=t͡ʃakˈmake&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - flint
+    - flintstone
+  epo:
+  - - siliko
+  spa:
+  - - pedernal
+    - sílex
+search terms:
+  glb:
+  - cakmake
+  eng:
+  - flint
+  - flintstone
+  epo:
+  - siliko
+  spa:
+  - pedernal
+  - sílex
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - चकमक "cakmak"
+  Turkisa:
+  - - çakmak taşı
+  Parsisa:
+  - - چخماق "cahmak"
+tags:
+- petra
+raw data:
+  term: cakmake
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: flint, flintstone
+    epo: siliko
+    spa: pedernal, sílex
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: Hindisa (चकमक "cakmak"), Turkisa (çakmak taşı), Parsisa (چخماق "cahmak")
+...

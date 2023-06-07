@@ -1,0 +1,46 @@
+---
+term: manbete
+slug: manbete
+ipa: "man\u02C8bete"
+ipa link: "http://ipa-reader.xyz/?text=man\u02C8bete&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - son
+  epo:
+  - - filo
+  spa:
+  - - hijo
+search terms:
+  glb:
+  - manbete
+  eng:
+  - son
+  epo:
+  - filo
+  spa:
+  - hijo
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/bete">bete</a>
+raw data:
+  term: manbete
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: son
+    epo: filo
+    spa: hijo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + bete
+...

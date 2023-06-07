@@ -1,0 +1,46 @@
+---
+term: doxoyen
+slug: doxoyen
+ipa: "do\u0283o\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=do\u0283o\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - reader
+  epo:
+  - - leganto
+  spa:
+  - - lector
+search terms:
+  glb:
+  - doxoyen
+  eng:
+  - reader
+  epo:
+  - leganto
+  spa:
+  - lector
+etymology_type: DERIVD
+etymology: <a href="../lexi/doxo">doxo</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: doxoyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: reader
+    epo: leganto
+    spa: lector
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: doxo + -yen
+...

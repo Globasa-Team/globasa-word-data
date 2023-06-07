@@ -1,0 +1,54 @@
+---
+term: dyucayen
+slug: dyucayen
+ipa: "djut\u0361\u0283a\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=djut\u0361\u0283a\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - investigator
+    - detective
+  epo:
+  - - esploristo
+    - esploranto
+    - detektivo
+  spa:
+  - - investigador
+    - detective
+search terms:
+  glb:
+  - dyucayen
+  eng:
+  - investigator
+  - detective
+  epo:
+  - esploristo
+  - esploranto
+  - detektivo
+  spa:
+  - investigador
+  - detective
+etymology_type: DERIVD
+etymology: <a href="../lexi/dyuca">dyuca</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: dyucayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: investigator, detective
+    epo: esploristo, esploranto, detektivo
+    spa: investigador, detective
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dyuca + -yen
+...

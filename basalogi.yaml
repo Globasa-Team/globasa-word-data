@@ -1,0 +1,48 @@
+---
+term: basalogi
+slug: basalogi
+ipa: "basa\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=basa\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - linguistics
+  epo:
+  - - lingvoscienco
+    - lingvistiko
+  spa:
+  - - "ling\xFC\xEDstica"
+search terms:
+  glb:
+  - basalogi
+  eng:
+  - linguistics
+  epo:
+  - lingvoscienco
+  - lingvistiko
+  spa:
+  - "ling\xFC\xEDstica"
+etymology_type: DERIVD
+etymology: <a href="../lexi/basa">basa</a> + <a href="../lexi/-logi">-logi</a>
+raw data:
+  term: basalogi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: linguistics
+    epo: lingvoscienco, lingvistiko
+    spa: "ling\xFC\xEDstica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: basa + -logi
+...

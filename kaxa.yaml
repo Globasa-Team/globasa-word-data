@@ -1,0 +1,57 @@
+---
+term: kaxa
+slug: kaxa
+ipa: "\u02C8ka\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ka\u0283a&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - case
+    - container
+  epo:
+  - - ujo
+    - kontenero
+  spa:
+  - - estuche
+    - caja
+    - contenedor
+search terms:
+  glb:
+  - kaxa
+  eng:
+  - case
+  - container
+  epo:
+  - ujo
+  - kontenero
+  spa:
+  - estuche
+  - caja
+  - contenedor
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kaxa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: case, container
+    epo: ujo, kontenero
+    spa: estuche, caja, contenedor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (case), Fransesa (caisse), Doycisa (Kasten, Kiste), Rusisa (\u043A\u0430\u0441\u0441\u0430
+    \u201Ckassa\u201D), Espanisa (caja), Portugalsa (caixa), Hindisa (\u0915\u094B\u0936
+    \u201Ckox\u201D), Telugusa (\u0C15\u0C4B\u0C36\u0C2E\u0C41 \u201Ckoxamu\u201D),
+    Sanskritam (\u0915\u094B\u0936 \u201Ckoxa\u201D)"
+...

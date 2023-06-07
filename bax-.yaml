@@ -1,0 +1,54 @@
+---
+term: bax-
+slug: bax-
+ipa: "\u02C8ba\u0283-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ba\u0283-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - under-
+    - sub-
+    - vice-
+  epo:
+  - - sub-
+    - vic-
+  spa:
+  - - sub-
+    - vice-
+search terms:
+  glb:
+  - bax-
+  eng:
+  - under-
+  - sub-
+  - vice-
+  epo:
+  - sub-
+  - vic-
+  spa:
+  - sub-
+  - vice-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/bax">bax</a>.
+raw data:
+  term: bax-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: under-, sub-, vice-
+    epo: sub-, vic-
+    spa: sub-, vice-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _bax_.
+...

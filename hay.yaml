@@ -1,0 +1,51 @@
+---
+term: hay
+slug: hay
+ipa: "\u02C8xaj"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xaj&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - there is
+    - there are
+  epo:
+  - - "estas (simile al \u201Ctrovi\u011Das\u201D"
+    - "\u201Cekzistas\u201D)"
+  spa:
+  - - hay
+search terms:
+  glb:
+  - hay
+  eng:
+  - there is
+  - there are
+  epo:
+  - "estas simile al \u201Ctrovi\u011Das\u201D"
+  - "estas (simile al \u201Ctrovi\u011Das\u201D"
+  - "\u201Cekzistas\u201D"
+  spa:
+  - hay
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hay
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: there is, there are
+    epo: "estas (simile al \u201Ctrovi\u011Das\u201D, \u201Cekzistas\u201D)"
+    spa: hay
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (hay), Hindisa (\u0939\u0948 \u201Chai\u201D)"
+...

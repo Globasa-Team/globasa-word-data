@@ -1,0 +1,75 @@
+---
+term: netar
+slug: netar
+ipa: "ne\u02C8ta\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ne\u02C8ta\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nectar
+  epo:
+  - - nektaro
+  spa:
+  - - "n\xE9ctar"
+search terms:
+  glb:
+  - netar
+  eng:
+  - nectar
+  epo:
+  - nektaro
+  spa:
+  - "n\xE9ctar"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nectar
+  Espanisa:
+  - - "n\xE9ctar"
+  Fransesa:
+  - - nectar
+  Rusisa:
+  - - "\u043D\u0435\u043A\u0442\u0430\u0440 \"nektar\""
+  Doycisa:
+  - - Nektar
+  Portugalsa:
+  - - "n\xE9ctar"
+  Italisa:
+  - - nettare
+  Indonesisa:
+  - - nektar
+  Arabisa:
+  - - "\u0646\u0643\u062A\u0627\u0631 \"naktar\""
+  Turkisa:
+  - - nektar
+  Hangusa:
+  - - "\uB125\uD0C0 \"negta\""
+  Swahilisa:
+  - - nekta
+tags:
+- yamxey
+raw data:
+  term: netar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nectar
+    epo: nektaro
+    spa: "n\xE9ctar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (nectar), Espanisa (n\xE9ctar), Fransesa (nectar), Rusisa (\u043D\u0435\u043A\u0442\u0430\u0440
+    \"nektar\"), Doycisa (Nektar), Portugalsa (n\xE9ctar), Italisa (nettare), Indonesisa
+    (nektar), Arabisa (\u0646\u0643\u062A\u0627\u0631 \"naktar\"), Turkisa (nektar),
+    Hangusa (\uB125\uD0C0 \"negta\"), Swahilisa (nekta)"
+...

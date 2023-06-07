@@ -1,0 +1,82 @@
+---
+term: fluorin
+slug: fluorin
+ipa: fluoˈɾin
+ipa link: http://ipa-reader.xyz/?text=fluoˈɾin&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fluorine
+  epo:
+  - - fluoro
+  spa:
+  - - flúor
+    - F
+search terms:
+  glb:
+  - fluorin
+  eng:
+  - fluorine
+  epo:
+  - fluoro
+  spa:
+  - flúor
+  - f
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fluorine
+  Espanisa:
+  - - flúor
+  Arabisa:
+  - - فِلُور “filur”
+  Fransesa:
+  - - fluor
+  Rusisa:
+  - - фтор “ftor”
+  Indonesisa:
+  - - fluor
+  Doycisa:
+  - - Fluor
+  Telugusa:
+  - - ఫ్లోరిన్ “florin”
+  Turkisa:
+  - - flor
+  Vyetnamsa:
+  - - flo
+  Parsisa:
+  - - فلوئور‎ “folu'or”
+    - “felo'or”
+    - “flu'or”
+  Swahilisa:
+  - - florini
+  Pilipinasa:
+  - - plurina
+    - pluor
+tags:
+- kimikali monlari
+raw data:
+  term: fluorin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fluorine
+    epo: fluoro
+    spa: flúor, F
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (fluorine), Espanisa (flúor), Arabisa (فِلُور “filur”), Fransesa
+    (fluor), Rusisa (фтор “ftor”), Indonesisa (fluor), Doycisa (Fluor), Telugusa (ఫ్లోరిన్
+    “florin”), Turkisa (flor), Vyetnamsa (flo), Parsisa (فلوئور‎ “folu'or”, “felo'or”,
+    “flu'or”), Swahilisa (florini), Pilipinasa (plurina, pluor)
+...

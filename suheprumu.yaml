@@ -1,0 +1,48 @@
+---
+term: suheprumu
+slug: suheprumu
+ipa: "suxe\u02C8p\u027Eumu"
+ipa link: "http://ipa-reader.xyz/?text=suxe\u02C8p\u027Eumu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - prune
+  epo:
+  - - seka pruno
+  spa:
+  - - ciruela pasa
+search terms:
+  glb:
+  - suheprumu
+  eng:
+  - prune
+  epo:
+  - seka pruno
+  spa:
+  - ciruela pasa
+etymology_type: DERIVD
+etymology: <a href="../lexi/suhe">suhe</a> + <a href="../lexi/prumu">prumu</a>
+tags:
+- yamxey
+raw data:
+  term: suheprumu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: prune
+    epo: seka pruno
+    spa: ciruela pasa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: suhe + prumu
+...

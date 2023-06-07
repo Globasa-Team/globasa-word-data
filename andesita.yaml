@@ -1,0 +1,75 @@
+---
+term: andesita
+slug: andesita
+ipa: andeˈsita
+ipa link: http://ipa-reader.xyz/?text=andeˈsita&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - andesite
+  epo:
+  - - andezito
+    - andesito
+  spa:
+  - - andesita
+search terms:
+  glb:
+  - andesita
+  eng:
+  - andesite
+  epo:
+  - andezito
+  - andesito
+  spa:
+  - andesita
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - andesite
+  Fransesa: ~
+  Espanisa:
+  - - andesita
+  Pilipinasa: ~
+  Rusisa:
+  - - андезит “andezit”
+  Doycisa:
+  - - Andesit
+  Indonesisa: ~
+  Vyetnamsa: ~
+  Hindisa:
+  - - एंडेसाइट “endesait”
+  Arabisa:
+  - - أنديسايت “andisayt”
+  Telugusa:
+  - - ఆండెసైట్ “andesait”
+  Turkisa:
+  - - andezit
+  Parsisa:
+  - - آندزیت “andezit”
+tags:
+- petra
+raw data:
+  term: andesita
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: andesite
+    epo: andezito, andesito
+    spa: andesita
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: Englisa (andesite), Fransesa, Espanisa (andesita), Pilipinasa, Rusisa
+    (андезит “andezit”), Doycisa (Andesit), Indonesisa, Vyetnamsa, Hindisa (एंडेसाइट
+    “endesait”), Arabisa (أنديسايت “andisayt”), Telugusa (ఆండెసైట్ “andesait”), Turkisa
+    (andezit), Parsisa (آندزیت “andezit”)
+...

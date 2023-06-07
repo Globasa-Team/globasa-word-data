@@ -1,0 +1,50 @@
+---
+term: bimaryen
+slug: bimaryen
+ipa: "bima\u02C8\u027Ejen"
+ipa link: "http://ipa-reader.xyz/?text=bima\u02C8\u027Ejen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - patient
+    - sick person
+  epo:
+  - - malsanulo
+  spa:
+  - - paciente
+    - persona enferma
+search terms:
+  glb:
+  - bimaryen
+  eng:
+  - patient
+  - sick person
+  epo:
+  - malsanulo
+  spa:
+  - paciente
+  - persona enferma
+etymology_type: DERIVD
+etymology: <a href="../lexi/bimar">bimar</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: bimaryen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: patient, sick person
+    epo: malsanulo
+    spa: paciente, persona enferma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bimar + -yen
+...

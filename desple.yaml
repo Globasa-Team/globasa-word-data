@@ -1,0 +1,50 @@
+---
+term: desple
+slug: desple
+ipa: "\u02C8desple"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8desple&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - decuple
+    - tenfold
+  epo:
+  - - dekobla
+  - - dekoble
+  spa:
+  - - "d\xE9cuple"
+search terms:
+  glb:
+  - desple
+  eng:
+  - decuple
+  - tenfold
+  epo:
+  - dekobla
+  - dekoble
+  spa:
+  - "d\xE9cuple"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: desple
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: decuple, tenfold
+    epo: dekobla; dekoble
+    spa: "d\xE9cuple"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + -ple
+...

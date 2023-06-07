@@ -1,0 +1,50 @@
+---
+term: yamible
+slug: yamible
+ipa: "ja\u02C8mible"
+ipa link: "http://ipa-reader.xyz/?text=ja\u02C8mible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - edible
+    - edibly
+  epo:
+  - - "man\u011Debla"
+  - - "man\u011Deble"
+  spa:
+  - - comestible
+search terms:
+  glb:
+  - yamible
+  eng:
+  - edible
+  - edibly
+  epo:
+  - "man\u011Debla"
+  - "man\u011Deble"
+  spa:
+  - comestible
+etymology_type: DERIVD
+etymology: <a href="../lexi/yam">yam</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: yamible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: edible, edibly
+    epo: "man\u011Debla; man\u011Deble"
+    spa: comestible
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yam + -ible
+...

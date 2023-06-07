@@ -1,0 +1,48 @@
+---
+term: ofxerca
+slug: ofxerca
+ipa: "of\u02C8\u0283e\u027Et\u0361\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=of\u02C8\u0283e\u027Et\u0361\u0283a&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - search
+  epo:
+  - - "priser\u0109ado"
+  - - "priser\u0109i"
+  spa:
+  - - busca
+search terms:
+  glb:
+  - ofxerca
+  eng:
+  - search
+  epo:
+  - "priser\u0109ado"
+  - "priser\u0109i"
+  spa:
+  - busca
+etymology_type: DERIVD
+etymology: <a href="../lexi/of">of</a> + <a href="../lexi/xerca">xerca</a>
+raw data:
+  term: ofxerca
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: search
+    epo: "priser\u0109ado; priser\u0109i"
+    spa: busca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: of + xerca
+...

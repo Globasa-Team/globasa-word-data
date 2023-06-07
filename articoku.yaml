@@ -1,0 +1,81 @@
+---
+term: articoku
+slug: articoku
+ipa: aɾtiˈt͡ʃoku
+ipa link: http://ipa-reader.xyz/?text=aɾtiˈt͡ʃoku&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - artichoke
+  epo:
+  - - artiŝoko
+  spa:
+  - - alcachofa
+    - _Cynara cardunculus var. scolymus_
+search terms:
+  glb:
+  - articoku
+  eng:
+  - artichoke
+  epo:
+  - artiŝoko
+  spa:
+  - alcachofa
+  - cynara cardunculus var. scolymus
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - artichoke
+  Espanisa:
+  - - alcachofa
+  Fransesa:
+  - - artichaut
+  Rusisa:
+  - - артишок “artixok”
+  Doycisa:
+  - - Artischocke “artixoke”
+  Indonesisa:
+  - - articok
+  Pilipinasa:
+  - - alkatsopas
+  Hindisa:
+  - - आटिचोक “aticok”
+  Niponsa:
+  - - アーティチョーク “aticoku”
+  Telugusa:
+  - - ఆర్టిచోక్ “articok”
+  Hangusa:
+  - - 아티초크 “aticokhu”
+  Vyetnamsa:
+  - - atisô “atiso
+    - atixo”
+  Parsisa:
+  - - آرتیشو “artixo”
+tags:
+- yamxey
+raw data:
+  term: articoku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: artichoke
+    epo: artiŝoko
+    spa: alcachofa, _Cynara cardunculus var. scolymus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Englisa (artichoke), Espanisa (alcachofa), Fransesa (artichaut), Rusisa
+    (артишок “artixok”), Doycisa (Artischocke “artixoke”), Indonesisa (articok), Pilipinasa
+    (alkatsopas), Hindisa (आटिचोक “aticok”), Niponsa (アーティチョーク “aticoku”), Telugusa
+    (ఆర్టిచోక్ “articok”), Hangusa (아티초크 “aticokhu”), Vyetnamsa (atisô “atiso, atixo”),
+    Parsisa (آرتیشو “artixo”)
+...

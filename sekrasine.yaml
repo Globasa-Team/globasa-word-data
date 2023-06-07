@@ -1,0 +1,54 @@
+---
+term: sekrasine
+slug: sekrasine
+ipa: "sek\u027Ea\u02C8sine"
+ipa link: "http://ipa-reader.xyz/?text=sek\u027Ea\u02C8sine&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - autonomous
+    - self-governing
+  epo:
+  - - memreganta
+    - "a\u016Dtonoma"
+  - - memregante
+    - "a\u016Dtonome"
+  spa:
+  - - autogobernado
+search terms:
+  glb:
+  - sekrasine
+  eng:
+  - autonomous
+  - self-governing
+  epo:
+  - memreganta
+  - "a\u016Dtonoma"
+  - memregante
+  - "a\u016Dtonome"
+  spa:
+  - autogobernado
+etymology_type: DERIVD
+etymology: <a href="../lexi/se">se</a> + <a href="../lexi/krasi">krasi</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: sekrasine
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: autonomous, self-governing
+    epo: "memreganta, a\u016Dtonoma; memregante, a\u016Dtonome"
+    spa: autogobernado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se + krasi + -ne
+...

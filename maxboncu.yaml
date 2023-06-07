@@ -1,0 +1,50 @@
+---
+term: maxboncu
+slug: maxboncu
+ipa: "ma\u0283\u02C8bont\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=ma\u0283\u02C8bont\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - improve
+    - get better
+  epo:
+  - - "pliboni\u011Do"
+  - - "pliboni\u011Di"
+  spa:
+  - - mejorar
+search terms:
+  glb:
+  - maxboncu
+  eng:
+  - improve
+  - get better
+  epo:
+  - "pliboni\u011Do"
+  - "pliboni\u011Di"
+  spa:
+  - mejorar
+etymology_type: DERIVD
+etymology: <a href="../lexi/max">max</a> + <a href="../lexi/bon">bon</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: maxboncu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: improve, get better
+    epo: "pliboni\u011Do; pliboni\u011Di"
+    spa: mejorar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: max + bon + -cu
+...

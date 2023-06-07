@@ -1,0 +1,50 @@
+---
+term: komorisa
+slug: komorisa
+ipa: "komo\u02C8\u027Eisa"
+ipa link: "http://ipa-reader.xyz/?text=komo\u02C8\u027Eisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Comorian (language)
+  epo:
+  - - la komora (lingvo)
+  spa:
+  - - comorense (_idioma_)
+search terms:
+  glb:
+  - komorisa
+  eng:
+  - comorian language
+  - comorian
+  epo:
+  - la komora lingvo
+  - la komora
+  spa:
+  - comorense
+etymology_type: DERIVD
+etymology: <a href="../lexi/Komori">Komori</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Komorisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Comorian (language)
+    epo: la komora (lingvo)
+    spa: comorense (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Komori + -sa
+...

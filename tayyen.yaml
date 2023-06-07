@@ -1,0 +1,46 @@
+---
+term: tayyen
+slug: tayyen
+ipa: "taj\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=taj\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Thai
+  epo:
+  - - tajo
+  spa:
+  - - persona tailandesa
+search terms:
+  glb:
+  - tayyen
+  eng:
+  - thai
+  epo:
+  - tajo
+  spa:
+  - persona tailandesa
+etymology_type: DERIVD
+etymology: <a href="../lexi/Tay">Tay</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Tayyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'Thai '
+    epo: tajo
+    spa: persona tailandesa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Tay + -yen
+...

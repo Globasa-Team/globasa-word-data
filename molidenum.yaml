@@ -1,0 +1,57 @@
+---
+term: molidenum
+slug: molidenum
+ipa: "molide\u02C8num"
+ipa link: "http://ipa-reader.xyz/?text=molide\u02C8num&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - molibdenum
+  epo:
+  - - molibdeno
+  spa:
+  - - molibdeno
+    - Mo
+search terms:
+  glb:
+  - molidenum
+  eng:
+  - molibdenum
+  epo:
+  - molibdeno
+  spa:
+  - molibdeno
+  - mo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: molidenum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: molibdenum
+    epo: molibdeno
+    spa: molibdeno, Mo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (molybdenum), Espanisa (molibdeno), Arabisa (\u0645\u064F\u0648\u0644\u0650\u064A\u0628\u0652\u062F\u0650\u064A\u0646\u064F\u0648\u0645
+    \u201Cmulibdinum\u201D), Fransesa (molybd\xE8ne), Rusisa (\u043C\u043E\u043B\u0438\u0431\u0434\u0435\u043D
+    \u201Cmolibden\u201D), Indonesisa (molibdenum), Doycisa (Molybd\xE4n), Niponsa
+    (\u30E2\u30EA\u30D6\u30C7\u30F3 \u201Cmoribuden\u201D), Telugusa (\u0C2E\u0C3E\u0C32\u0C3F\u0C2C\u0C4D\u0C21\u0C46\u0C28\u0C02
+    \u201Cmalibdinam\u201D), Turkisa (molibden), Hangusa (\uBAB0\uB9AC\uBE0C\uB374
+    \u201Cmolibuden\u201D, \uBAB0\uB9AC\uBE0C\uB370\uB118 \u201Cmolibudenam\u201D),
+    Vyetnamsa (molypden), Parsisa (\u0645\u0648\u0644\u06CC\u0628\u062F\u0646 \u201Cmilibden\u201D),
+    Swahilisa (molibdeni), Pilipinasa (molibdeno, molybdenum)"
+...

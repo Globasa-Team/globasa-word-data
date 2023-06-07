@@ -1,0 +1,68 @@
+---
+term: sen
+slug: sen
+ipa: "\u02C8sen"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sen&voice=Ewa"
+status: true
+category: root
+word class: n/f.lin
+trans:
+  eng:
+  - - be
+    - am
+    - is
+    - are
+  epo:
+  - - esto
+  - - esti
+  spa:
+  - - ser
+    - estar
+search terms:
+  glb:
+  - sen
+  eng:
+  - be
+  - am
+  - is
+  - are
+  epo:
+  - esto
+  - esti
+  spa:
+  - ser
+  - estar
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - sein
+    - sind
+  Espanisa:
+  - - ser
+    - son
+  Fransesa:
+  - - sont
+  Italisa:
+  - - sono
+    - sei
+raw data:
+  term: sen
+  category: root
+  word class: n/f.lin
+  status: true
+  trans:
+    eng: be, am, is, are
+    epo: esto; esti
+    spa: ser, estar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (sein, sind), Espanisa (ser, son), Fransesa (sont), Italisa (sono,
+    sei)
+...

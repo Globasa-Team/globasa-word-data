@@ -1,0 +1,76 @@
+---
+term: norma
+slug: norma
+ipa: "\u02C8no\u027Ema"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8no\u027Ema&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - norm
+  epo:
+  - - normo
+  spa:
+  - - norma
+search terms:
+  glb:
+  - norma
+  eng:
+  - norm
+  epo:
+  - normo
+  spa:
+  - norma
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - norm
+    - normative
+  Doycisa:
+  - - Norm
+    - normal
+  Fransesa:
+  - - norme
+    - normal
+  Espanisa:
+  - - norma
+    - normal
+  Rusisa:
+  - - "\u043D\u043E\u0440\u043C\u0430 \u201Cnorma\""
+    - "\u043D\u043E\u0440\u043C\u0430\u043B\u044C\u043D\u044B\u0439 \u201Cnormalniy\u201D"
+  Indonesisa:
+  - - norm
+    - normal
+  Niponsa:
+  - - "\u30CE\u30FC\u30DE\u30EB \u201Cnomaru\u201D"
+  Turkisa:
+  - - normal
+  Parsisa:
+  - - "\u0646\u064F\u0631\u0645 \u201Cnorm\""
+    - "\u0646\u0631\u0645\u0627\u0644 \u201Cnorm\xE2l\u201D"
+raw data:
+  term: norma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: norm
+    epo: normo
+    spa: norma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (norm, normative), Doycisa (Norm, normal), Fransesa (norme,
+    normal), Espanisa (norma, normal), Rusisa (\u043D\u043E\u0440\u043C\u0430 \u201Cnorma\",
+    \u043D\u043E\u0440\u043C\u0430\u043B\u044C\u043D\u044B\u0439 \u201Cnormalniy\u201D),
+    Indonesisa (norm, normal), Niponsa (\u30CE\u30FC\u30DE\u30EB \u201Cnomaru\u201D),
+    Turkisa (normal), Parsisa (\u0646\u064F\u0631\u0645 \u201Cnorm\", \u0646\u0631\u0645\u0627\u0644
+    \u201Cnorm\xE2l\u201D)"
+...

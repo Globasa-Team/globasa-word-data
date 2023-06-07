@@ -1,0 +1,47 @@
+---
+term: merasem
+slug: merasem
+ipa: "me\u027Ea\u02C8sem"
+ipa link: "http://ipa-reader.xyz/?text=me\u027Ea\u02C8sem&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ceremony
+  epo:
+  - - ceremonio
+  spa:
+  - - ceremonia
+search terms:
+  glb:
+  - merasem
+  eng:
+  - ceremony
+  epo:
+  - ceremonio
+  spa:
+  - ceremonia
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: merasem
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ceremony
+    epo: ceremonio
+    spa: ceremonia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0631\u0627\u0633\u0645 \u201Cmarasim\u201D), Parsisa
+    (\u0645\u0631\u0627\u0633\u0645 \u201Cmar\xE2sem\u201D), Turkisa (merasim)"
+...

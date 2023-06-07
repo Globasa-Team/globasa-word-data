@@ -1,0 +1,54 @@
+---
+term: -bol
+slug: -bol
+ipa: "\u02C8-bol"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-bol&voice=Ewa"
+status: true
+category: affix
+word class: ""
+trans:
+  eng:
+  - - ball
+  epo:
+  - - -pilko
+    - sfero
+  spa:
+  - - pelota
+    - juego de pelota
+  deu:
+  - - Ball
+search terms:
+  glb:
+  - -bol
+  eng:
+  - ball
+  epo:
+  - -pilko
+  - sfero
+  spa:
+  - pelota
+  - juego de pelota
+  deu:
+  - ball
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/bol">bol</a>.
+raw data:
+  term: -bol
+  category: affix
+  word class: ""
+  status: true
+  trans:
+    eng: ball
+    epo: -pilko, sfero
+    spa: pelota, juego de pelota
+    deu: Ball
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _bol_.
+...

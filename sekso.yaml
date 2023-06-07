@@ -1,0 +1,85 @@
+---
+term: sekso
+slug: sekso
+ipa: "\u02C8sekso"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sekso&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - sex
+    - sexual intercourse
+  - - have sex (with)
+  epo:
+  - - seksumo
+  spa:
+  - - sexo
+    - acto sexual
+    - relaciones sexuales
+  - - tener sexo con
+search terms:
+  glb:
+  - sekso
+  eng:
+  - sex
+  - sexual intercourse
+  - have sex with
+  - have sex
+  epo:
+  - seksumo
+  spa:
+  - sexo
+  - acto sexual
+  - relaciones sexuales
+  - tener sexo con
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sex
+  Fransesa:
+  - - sexe
+  Doycisa:
+  - - Sex
+  Rusisa:
+  - - "\u0441\u0435\u043A\u0441 \u201Cseks\u201D"
+  Espanisa:
+  - - sexo
+  Hindisa:
+  - - "\u0938\u0947\u0915\u094D\u0938 \u201Cseks\u201D"
+  Arabisa:
+  - - "\u0633\u0650\u064A\u0643\u0652\u0633 \u201Csiks\u201D"
+  Indonesisa:
+  - - seks
+  Niponsa:
+  - - "\u30BB\u30C3\u30AF\u30B9 \u201Csekusu\u201D"
+  Turkisa:
+  - - seks
+  Hangusa:
+  - - "\uC139\uC2A4 \u201Cseksu\u201D"
+  Parsisa:
+  - - "\u0633\u06A9\u0633 \u201Cseks\u201D"
+raw data:
+  term: sekso
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: sex, sexual intercourse; have sex (with)
+    epo: seksumo
+    spa: sexo, acto sexual, relaciones sexuales; tener sexo con
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (sex), Fransesa (sexe), Doycisa (Sex), Rusisa (\u0441\u0435\u043A\u0441
+    \u201Cseks\u201D), Espanisa (sexo), Hindisa (\u0938\u0947\u0915\u094D\u0938 \u201Cseks\u201D),
+    Arabisa (\u0633\u0650\u064A\u0643\u0652\u0633 \u201Csiks\u201D), Indonesisa (seks),
+    Niponsa (\u30BB\u30C3\u30AF\u30B9 \u201Csekusu\u201D), Turkisa (seks), Hangusa
+    (\uC139\uC2A4 \u201Cseksu\u201D), Parsisa (\u0633\u06A9\u0633 \u201Cseks\u201D)"
+...

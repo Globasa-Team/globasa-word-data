@@ -1,0 +1,72 @@
+---
+term: pimento
+slug: pimento
+ipa: "pi\u02C8mento"
+ipa link: "http://ipa-reader.xyz/?text=pi\u02C8mento&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pepper (_bell pepper
+    - chili pepper_)
+  epo:
+  - - kapsiko
+  spa:
+  - - chile
+    - "pimiento morr\xF3n"
+    - "piment\xF3n"
+    - _Capsicum_
+search terms:
+  glb:
+  - pimento
+  eng:
+  - pepper bell pepper
+  - pepper (_bell pepper
+  - chili pepper
+  epo:
+  - kapsiko
+  spa:
+  - chile
+  - "pimiento morr\xF3n"
+  - "piment\xF3n"
+  - capsicum
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - pimiento
+  Portugalsa:
+  - - "piment\xE3o"
+    - pimento
+  Italisa:
+  - - pimento
+  Fransesa:
+  - - piment
+  Niponsa:
+  - - "\u30D4\u30FC\u30DE\u30F3 \u201Cpiman\u201D"
+  Hangusa:
+  - - "\uD53C\uB9DD \u201Cpimang\u201D"
+tags:
+- yamxey
+raw data:
+  term: pimento
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pepper (_bell pepper, chili pepper_)
+    epo: kapsiko
+    spa: "chile, pimiento morr\xF3n, piment\xF3n, _Capsicum_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: pepper, bell pepper, chili pepper
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Espanisa (pimiento), Portugalsa (piment\xE3o, pimento), Italisa (pimento),
+    Fransesa (piment), Niponsa (\u30D4\u30FC\u30DE\u30F3 \u201Cpiman\u201D), Hangusa
+    (\uD53C\uB9DD \u201Cpimang\u201D)"
+...

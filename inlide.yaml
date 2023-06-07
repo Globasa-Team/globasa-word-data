@@ -1,0 +1,52 @@
+---
+term: inlide
+slug: inlide
+ipa: "in\u02C8lide"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8lide&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - induction
+  - - induce
+  epo:
+  - - indukto
+  - - indukti
+  spa:
+  - - "inducci\xF3n"
+  - - inducir
+search terms:
+  glb:
+  - inlide
+  eng:
+  - induction
+  - induce
+  epo:
+  - indukto
+  - indukti
+  spa:
+  - "inducci\xF3n"
+  - inducir
+etymology_type: DERIVD
+etymology: <a href="../lexi/in-">in-</a> + <a href="../lexi/lide">lide</a>
+raw data:
+  term: inlide
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: induction; induce
+    epo: indukto; indukti
+    spa: "inducci\xF3n; inducir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in- + lide
+...

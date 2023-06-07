@@ -1,0 +1,55 @@
+---
+term: sui
+slug: sui
+ipa: "\u02C8sui"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sui&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - water
+  epo:
+  - - akvo
+  spa:
+  - - agua
+search terms:
+  glb:
+  - sui
+  eng:
+  - water
+  epo:
+  - akvo
+  spa:
+  - agua
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6C34 \u201Cshu\u01D0\u201D"
+  Niponsa:
+  - - "\u6C34\u57DF \u201Csuiiki\u201D"
+  Turkisa:
+  - - su
+tags:
+- natura
+raw data:
+  term: sui
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: water
+    epo: akvo
+    spa: agua
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: natura
+  etymology: "Putunhwa (\u6C34 \u201Cshu\u01D0\u201D), Niponsa (\u6C34\u57DF \u201Csuiiki\u201D),
+    Turkisa (su)"
+...

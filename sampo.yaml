@@ -1,0 +1,66 @@
+---
+term: sampo
+slug: sampo
+ipa: "\u02C8sampo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sampo&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - walk (_take a walk
+    - go for a walk_)
+    - stroll
+    - promenade
+  epo:
+  - - promenado
+  - - promeni
+  spa:
+  - - paseo
+    - caminata
+  - - pasear
+search terms:
+  glb:
+  - sampo
+  eng:
+  - walk take a walk
+  - walk (_take a walk
+  - go for a walk
+  - stroll
+  - promenade
+  epo:
+  - promenado
+  - promeni
+  spa:
+  - paseo
+  - caminata
+  - pasear
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6563\u6B69 \u201Csanbu\u201D"
+  Hangusa:
+  - - "\uC0B0\uBCF4 \u201Csanpo\u201D"
+  Niponsa:
+  - - "\u6563\u6B69 \u201Csanpo\u201D"
+raw data:
+  term: sampo
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: walk (_take a walk, go for a walk_), stroll, promenade
+    epo: promenado; promeni
+    spa: paseo, caminata; pasear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6563\u6B69 \u201Csanbu\u201D), Hangusa (\uC0B0\uBCF4 \u201Csanpo\u201D),
+    Niponsa (\u6563\u6B69 \u201Csanpo\u201D)"
+...

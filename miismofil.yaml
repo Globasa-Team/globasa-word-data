@@ -1,0 +1,50 @@
+---
+term: miismofil
+slug: miismofil
+ipa: "miismo\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=miismo\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - egotistical
+  epo:
+  - - egoisma
+    - egoismema
+  - - egoismeme
+  spa:
+  - - "ego\xEDsta"
+search terms:
+  glb:
+  - miismofil
+  eng:
+  - egotistical
+  epo:
+  - egoisma
+  - egoismema
+  - egoismeme
+  spa:
+  - "ego\xEDsta"
+etymology_type: DERIVD
+etymology: <a href="../lexi/mi">mi</a> + <a href="../lexi/-ismo">-ismo</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: miismofil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: egotistical
+    epo: egoisma, egoismema; egoismeme
+    spa: "ego\xEDsta"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mi + -ismo + -fil
+...

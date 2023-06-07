@@ -1,0 +1,53 @@
+---
+term: hata
+slug: hata
+ipa: "\u02C8xata"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xata&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - even
+    - yet
+  epo:
+  - - "e\u0109"
+  spa:
+  - - hasta
+    - "a\xFAn"
+    - incluso
+search terms:
+  glb:
+  - hata
+  eng:
+  - even
+  - yet
+  epo:
+  - "e\u0109"
+  spa:
+  - hasta
+  - "a\xFAn"
+  - incluso
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hata
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: even, yet
+    epo: "e\u0109"
+    spa: "hasta, a\xFAn, incluso"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u062A\u0649 \u201Chataa\u201D), Parsisa (\u062D\u062A\u06CC
+    \u201Chatta\u201D), Swahilisa (hata), Espanisa (hasta)"
+...

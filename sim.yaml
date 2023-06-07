@@ -1,0 +1,65 @@
+---
+term: sim
+slug: sim
+ipa: "\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sim&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - similar
+    - alike
+    - like
+  epo:
+  - - simila
+  - - simile
+  spa:
+  - - parecido
+    - similar
+search terms:
+  glb:
+  - sim
+  eng:
+  - similar
+  - alike
+  - like
+  epo:
+  - simila
+  - simile
+  spa:
+  - parecido
+  - similar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - similar
+    - seem
+  Fransesa:
+  - - similaire
+  Espanisa:
+  - - similar
+    - similitud
+  Italisa:
+  - - simile
+raw data:
+  term: sim
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: similar, alike, like
+    epo: simila; simile
+    spa: parecido, similar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (similar, seem), Fransesa (similaire), Espanisa (similar, similitud),
+    Italisa (simile)
+...

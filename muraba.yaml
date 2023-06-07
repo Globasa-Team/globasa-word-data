@@ -1,0 +1,47 @@
+---
+term: muraba
+slug: muraba
+ipa: "mu\u02C8\u027Eaba"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8\u027Eaba&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - square
+  epo:
+  - - kvadrato
+  spa:
+  - - cuadrado
+search terms:
+  glb:
+  - muraba
+  eng:
+  - square
+  epo:
+  - kvadrato
+  spa:
+  - cuadrado
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: muraba
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: square
+    epo: kvadrato
+    spa: cuadrado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0631\u0628\u0639 \u201Cmuraba\u201D), Parsisa (\u0645\u0631\u0628\u0639
+    \u201Cmoraba\u201D), Swahilisa (mraba)"
+...

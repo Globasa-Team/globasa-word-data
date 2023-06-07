@@ -1,0 +1,53 @@
+---
+term: maraton
+slug: maraton
+ipa: "ma\u027Ea\u02C8ton"
+ipa link: "http://ipa-reader.xyz/?text=ma\u027Ea\u02C8ton&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - marathon
+  epo:
+  - - maratono
+  spa:
+  - - "marat\xF3n"
+search terms:
+  glb:
+  - maraton
+  eng:
+  - marathon
+  epo:
+  - maratono
+  spa:
+  - "marat\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: maraton
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: marathon
+    epo: maratono
+    spa: "marat\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (marathon), Espanisa (marat\xF3n), Fransesa (marathon), Rusisa
+    (\u043C\u0430\u0440\u0430\u0444\u043E\u043D \u201Cmarafon\u201D), Doycisa (Marathon),
+    Indonesisa (maraton), Putunhwa (\u9A6C\u62C9\u677E \u201Cmalasong\u201D), Hindisa
+    (\u092E\u0948\u0930\u093E\u0925\u0928 \u201Cmeratan\u201D), Arabisa (\u0645\u064E\u0627\u0631\u064E\u0627\u062B\u064F\u0648\u0646
+    \u201Cmarathun\u201D), Niponsa (\u30DE\u30E9\u30BD\u30F3 \u201Cmarason\u201D),
+    Turkisa (maraton), Hangusa (\uB9C8\uB77C\uD1A4 \u201Cmaraton\u201D), Vyetnamsa
+    (ma-ra-t\xF4ng), Parsisa (\u0645\u0627\u0631\u0627\u062A\u0648\u0646, \u0645\u0627\u0631\u0627\u062A\u0646),
+    Swahilisa (marathoni)"
+...

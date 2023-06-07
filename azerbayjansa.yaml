@@ -1,0 +1,57 @@
+---
+term: azerbayjansa
+slug: azerbayjansa
+ipa: "aze\u027Ebaj\u02C8d\u0361\u0292ansa"
+ipa link: "http://ipa-reader.xyz/?text=aze\u027Ebaj\u02C8d\u0361\u0292ansa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Azerbaijani (language)
+    - Azeri (language)
+    - Azeri Turkic
+  epo:
+  - - "la azerbaj\u011Dana (lingvo)"
+  spa:
+  - - "azer\xED"
+    - azerbaiyano (_idioma_)
+search terms:
+  glb:
+  - azerbayjansa
+  eng:
+  - azerbaijani language
+  - azerbaijani
+  - azeri language
+  - azeri
+  - azeri turkic
+  epo:
+  - "la azerbaj\u011Dana lingvo"
+  - "la azerbaj\u011Dana"
+  spa:
+  - "azer\xED"
+  - azerbaiyano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Azerbayjan">Azerbayjan</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Azerbayjansa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Azerbaijani (language), Azeri (language), Azeri Turkic
+    epo: "la azerbaj\u011Dana (lingvo)"
+    spa: "azer\xED, azerbaiyano (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Azerbayjan + -sa
+...

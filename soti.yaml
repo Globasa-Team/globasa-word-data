@@ -1,0 +1,62 @@
+---
+term: soti
+slug: soti
+ipa: "\u02C8soti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8soti&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - sound
+  epo:
+  - - sono
+  spa:
+  - - sonido
+  - - sonar
+    - tocar (_un instrumento_)
+search terms:
+  glb:
+  - soti
+  eng:
+  - sound
+  epo:
+  - sono
+  spa:
+  - sonido
+  - sonar
+  - tocar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0635\u0648\u062A \u201Csawt\u201D"
+  Parsisa:
+  - - "\u0635\u0648\u062A \u201Csot\u201D"
+  Swahilisa:
+  - - sauti
+  Hangusa:
+  - - "\uC18C\uB9AC \u201Csori\u201D"
+  Espanisa:
+  - - sonido
+raw data:
+  term: soti
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: sound
+    epo: sono
+    spa: sonido; sonar, tocar (_un instrumento_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0635\u0648\u062A \u201Csawt\u201D), Parsisa (\u0635\u0648\u062A
+    \u201Csot\u201D), Swahilisa (sauti), Hangusa (\uC18C\uB9AC \u201Csori\u201D),
+    Espanisa (sonido)"
+...

@@ -1,0 +1,60 @@
+---
+term: tyan
+slug: tyan
+ipa: "\u02C8tjan"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tjan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dot
+    - point
+    - period
+    - spot
+  epo:
+  - - punkto
+  spa:
+  - - punto
+    - mancha
+    - lunar
+search terms:
+  glb:
+  - tyan
+  eng:
+  - dot
+  - point
+  - period
+  - spot
+  epo:
+  - punkto
+  spa:
+  - punto
+  - mancha
+  - lunar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u70B9 \u201Cdi\u01CEn\u201D"
+  Niponsa:
+  - - "\u70B9 \u201Cten\u201D"
+raw data:
+  term: tyan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dot, point, period, spot
+    epo: punkto
+    spa: punto, mancha, lunar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u70B9 \u201Cdi\u01CEn\u201D), Niponsa (\u70B9 \u201Cten\u201D)"
+...

@@ -1,0 +1,56 @@
+---
+term: dava
+slug: dava
+ipa: ˈdava
+ipa link: http://ipa-reader.xyz/?text=ˈdava&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - drug
+  epo:
+  - - medikamento
+    - kuracilo
+    - drogo
+  spa:
+  - - medicamento
+search terms:
+  glb:
+  - dava
+  eng:
+  - drug
+  epo:
+  - medikamento
+  - kuracilo
+  - drogo
+  spa:
+  - medicamento
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - دواء “dawa”
+  Hindisa:
+  - - दवा “dava”
+  Swahilisa:
+  - - dawa
+raw data:
+  term: dava
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: drug
+    epo: medikamento, kuracilo, drogo
+    spa: medicamento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (دواء “dawa”), Hindisa (दवा “dava”), Swahilisa (dawa)
+...

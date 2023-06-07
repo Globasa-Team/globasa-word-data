@@ -1,0 +1,54 @@
+---
+term: hirxa
+slug: hirxa
+ipa: "\u02C8xi\u027E\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xi\u027E\u0283a&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - deer
+    - _Cervidae_
+  epo:
+  - - cervo
+  spa:
+  - - venado
+    - ciervo
+    - _Cervidae_
+search terms:
+  glb:
+  - hirxa
+  eng:
+  - deer
+  - cervidae
+  epo:
+  - cervo
+  spa:
+  - venado
+  - ciervo
+  - cervidae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: hirxa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: deer, _Cervidae_
+    epo: cervo
+    spa: venado, ciervo, _Cervidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Hindisa (\u0939\u093F\u0930\u0928 \u201Chiran\u201D), Doycisa (Hirsch)"
+...

@@ -1,0 +1,48 @@
+---
+term: tosu oto
+slug: tosu oto
+ipa: "\u02C8tosu \u02C8oto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tosu \u02C8oto&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - its (_those things belonging to it_)
+  epo:
+  - - "la \u011Diaj (_tioj de \u011Di_)"
+  spa:
+  - - suyos (_cosas que pertenecen a esa cosa_)
+search terms:
+  glb:
+  - tosu oto
+  - tosu
+  - oto
+  eng:
+  - its
+  epo:
+  - "la \u011Diaj"
+  spa:
+  - suyos
+etymology_type: DERIVD
+etymology: <a href="../lexi/to">to</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/oto">oto</a>
+raw data:
+  term: tosu oto
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: its (_those things belonging to it_)
+    epo: "la \u011Diaj (_tioj de \u011Di_)"
+    spa: suyos (_cosas que pertenecen a esa cosa_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: to + -su, oto
+...

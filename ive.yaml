@@ -1,0 +1,46 @@
+---
+term: ive
+slug: ive
+ipa: "\u02C8ive"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ive&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter v
+  epo:
+  - - litero v
+  spa:
+  - - letra v
+search terms:
+  glb:
+  - ive
+  eng:
+  - letter v
+  epo:
+  - litero v
+  spa:
+  - letra v
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ive
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter v
+    epo: litero v
+    spa: letra v
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

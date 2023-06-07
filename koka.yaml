@@ -1,0 +1,55 @@
+---
+term: koka
+slug: koka
+ipa: "\u02C8koka"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8koka&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coca
+    - _Erythroxylum_
+  epo:
+  - - kokao
+  spa:
+  - - coca
+    - _Erythroxylum_
+search terms:
+  glb:
+  - koka
+  eng:
+  - coca
+  - erythroxylum
+  epo:
+  - kokao
+  spa:
+  - coca
+  - erythroxylum
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: koka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coca, _Erythroxylum_
+    epo: kokao
+    spa: coca, _Erythroxylum_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (coca, cocaine), Espanisa (coca, coca\xEDna), Fransesa (coca\xEFne),
+    Rusisa (\u043A\u043E\u043A\u0430 \u201Ckoka\u201D), Doycisa (Kokain), Arabisa
+    (\u0643\u0648\u0643\u0627 \u201Ckuka\u201D), Turkisa (koka, kokain), Parsisa (\u06A9\u0648\u06A9\u0627
+    \u201Ckoka\u201D), Putunhwa (\u53E4\u67EF \u201Cguke\", \u53EF\u5361\u56E0 \u201Ckekayon\u201D),
+    Niponsa (\u30B3\u30AB \u201Ckoka\u201D), Vyetnamsa (c\xF4ca), Hindisa (\u0915\u094B\u0915\u0947\u0928
+    \u201Ckoken\u201D), Indonesisa (kokain), Pilipinasa (kokaina), Swahilisa (kokain)"
+...

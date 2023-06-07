@@ -1,0 +1,48 @@
+---
+term: burxanse
+slug: burxanse
+ipa: "bu\u027E\u02C8\u0283anse"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027E\u02C8\u0283anse&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - bad luck
+  epo:
+  - - "malbon\u015Danco"
+  spa:
+  - - mala suerte
+    - infortunio
+search terms:
+  glb:
+  - burxanse
+  eng:
+  - bad luck
+  epo:
+  - "malbon\u015Danco"
+  spa:
+  - mala suerte
+  - infortunio
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/xanse">xanse</a>
+raw data:
+  term: burxanse
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: bad luck
+    epo: "malbon\u015Danco"
+    spa: mala suerte, infortunio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + xanse
+...

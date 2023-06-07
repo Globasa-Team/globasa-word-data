@@ -1,0 +1,52 @@
+---
+term: mijuje
+slug: mijuje
+ipa: "mi\u02C8d\u0361\u0292ud\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8d\u0361\u0292ud\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - density
+    - concentration
+  epo:
+  - - denseco
+    - koncentriteco
+  spa:
+  - - densidad
+    - "concentraci\xF3n"
+search terms:
+  glb:
+  - mijuje
+  eng:
+  - density
+  - concentration
+  epo:
+  - denseco
+  - koncentriteco
+  spa:
+  - densidad
+  - "concentraci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/miju">miju</a> + <a href="../lexi/-je">-je</a>
+raw data:
+  term: mijuje
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: density, concentration
+    epo: denseco, koncentriteco
+    spa: "densidad, concentraci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: miju + -je
+...

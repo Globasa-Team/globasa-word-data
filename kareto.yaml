@@ -1,0 +1,53 @@
+---
+term: kareto
+slug: kareto
+ipa: "ka\u02C8\u027Eeto"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8\u027Eeto&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cart
+    - wheelbarrow
+  epo:
+  - - "\u0109aro"
+    - "\u0109arumo"
+  spa:
+  - - carretilla
+search terms:
+  glb:
+  - kareto
+  eng:
+  - cart
+  - wheelbarrow
+  epo:
+  - "\u0109aro"
+  - "\u0109arumo"
+  spa:
+  - carretilla
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kareto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cart, wheelbarrow
+    epo: "\u0109aro, \u0109arumo"
+    spa: carretilla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Karre), Englisa (cart), Espanisa (carreta, carret\xF3n), Fransesa
+    (charrette), Italisa (carretto), Hindisa (\u0915\u093E\u0930\u094D\u091F \"kart\"),
+    Indonesisa (kereta), Pilipinasa (kariton), Niponsa (\u30AB\u30FC\u30C8 \"kato\"),
+    Hangusa (\uCE74\uD2B8 \"katu\") "
+...

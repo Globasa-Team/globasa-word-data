@@ -1,0 +1,46 @@
+---
+term: manya
+slug: manya
+ipa: "\u02C8manja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8manja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - masculinity
+  epo:
+  - - vireco
+  spa:
+  - - masculinidad
+search terms:
+  glb:
+  - manya
+  eng:
+  - masculinity
+  epo:
+  - vireco
+  spa:
+  - masculinidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/man">man</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: manya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: masculinity
+    epo: vireco
+    spa: masculinidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man + -ya
+...

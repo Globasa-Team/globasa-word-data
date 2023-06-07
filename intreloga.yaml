@@ -1,0 +1,52 @@
+---
+term: intreloga
+slug: intreloga
+ipa: "int\u027Ee\u02C8loga"
+ipa link: "http://ipa-reader.xyz/?text=int\u027Ee\u02C8loga&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - interjection
+  - - interject
+  epo:
+  - - interrompo
+  - - interrompi
+  spa:
+  - - "interjecci\xF3n"
+  - - interrumpir
+search terms:
+  glb:
+  - intreloga
+  eng:
+  - interjection
+  - interject
+  epo:
+  - interrompo
+  - interrompi
+  spa:
+  - "interjecci\xF3n"
+  - interrumpir
+etymology_type: DERIVD
+etymology: <a href="../lexi/intre-">intre-</a> + <a href="../lexi/loga">loga</a>
+raw data:
+  term: 'intreloga '
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: interjection; interject
+    epo: interrompo; interrompi
+    spa: "interjecci\xF3n; interrumpir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: intre- + loga
+...

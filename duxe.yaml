@@ -1,0 +1,71 @@
+---
+term: duxe
+slug: duxe
+ipa: ˈduʃe
+ipa link: http://ipa-reader.xyz/?text=ˈduʃe&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - shower
+  epo:
+  - - duŝo
+  - - (sin)duŝi
+  spa:
+  - - ducha
+  - - duchar
+    - ducharse
+search terms:
+  glb:
+  - duxe
+  eng:
+  - shower
+  epo:
+  - duŝo
+  - sinduŝi
+  - duŝi
+  spa:
+  - ducha
+  - duchar
+  - ducharse
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - ducha
+  Fransesa:
+  - - douche
+  Rusisa:
+  - - душ “dux”
+  Doycisa:
+  - - Dusche
+  Indonesisa:
+  - - dus
+  Arabisa:
+  - - دُش‎
+    - دُوش “dux”
+  Turkisa:
+  - - duş
+  Parsisa:
+  - - دوش “dux”
+raw data:
+  term: duxe
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: shower
+    epo: duŝo; (sin)duŝi
+    spa: ducha; duchar, ducharse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (ducha), Fransesa (douche), Rusisa (душ “dux”), Doycisa (Dusche),
+    Indonesisa (dus), Arabisa (دُش‎, دُوش “dux”), Turkisa (duş), Parsisa (دوش “dux”)
+...

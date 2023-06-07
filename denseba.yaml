@@ -1,0 +1,46 @@
+---
+term: denseba
+slug: denseba
+ipa: "den\u02C8seba"
+ipa link: "http://ipa-reader.xyz/?text=den\u02C8seba&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - for that reason
+  epo:
+  - - tial
+  spa:
+  - - "por esa raz\xF3n"
+search terms:
+  glb:
+  - denseba
+  eng:
+  - for that reason
+  epo:
+  - tial
+  spa:
+  - "por esa raz\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/den">den</a> + <a href="../lexi/seba">seba</a>
+raw data:
+  term: denseba
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: for that reason
+    epo: tial
+    spa: "por esa raz\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: den + seba
+...

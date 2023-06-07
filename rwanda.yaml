@@ -1,0 +1,57 @@
+---
+term: rwanda
+slug: rwanda
+ipa: "\u02C8\u027Ewanda"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Ewanda&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Rwanda
+  epo:
+  - - Ruando
+  spa:
+  - - Ruanda
+search terms:
+  glb:
+  - rwanda
+  eng:
+  - rwanda
+  epo:
+  - ruando
+  spa:
+  - ruanda
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Rwanda
+  Fransesa:
+  - - Rwanda
+  Kinyarwanda:
+  - - Rwanda
+  Swahilisa:
+  - - Rwanda
+tags:
+- dexa
+raw data:
+  term: Rwanda
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Rwanda
+    epo: Ruando
+    spa: Ruanda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Rwanda), Fransesa (Rwanda), Kinyarwanda (Rwanda), Swahilisa
+    (Rwanda)
+...

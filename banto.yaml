@@ -1,0 +1,46 @@
+---
+term: banto
+slug: banto
+ipa: "\u02C8banto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8banto&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - something
+  epo:
+  - - io
+  spa:
+  - - algo
+search terms:
+  glb:
+  - banto
+  eng:
+  - something
+  epo:
+  - io
+  spa:
+  - algo
+etymology_type: DERIVD
+etymology: <a href="../lexi/ban">ban</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: banto
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: something
+    epo: io
+    spa: algo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ban + to
+...

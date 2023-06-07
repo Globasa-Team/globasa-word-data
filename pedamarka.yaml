@@ -1,0 +1,46 @@
+---
+term: pedamarka
+slug: pedamarka
+ipa: "peda\u02C8ma\u027Eka"
+ipa link: "http://ipa-reader.xyz/?text=peda\u02C8ma\u027Eka&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - footprint
+  epo:
+  - - piedsigno
+  spa:
+  - - huella
+search terms:
+  glb:
+  - pedamarka
+  eng:
+  - footprint
+  epo:
+  - piedsigno
+  spa:
+  - huella
+etymology_type: DERIVD
+etymology: <a href="../lexi/peda">peda</a> + <a href="../lexi/marka">marka</a>
+raw data:
+  term: pedamarka
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: footprint
+    epo: piedsigno
+    spa: huella
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: peda + marka
+...

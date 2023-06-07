@@ -1,0 +1,75 @@
+---
+term: omelete
+slug: omelete
+ipa: "ome\u02C8lete"
+ipa link: "http://ipa-reader.xyz/?text=ome\u02C8lete&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - omelette
+  epo:
+  - - omleto
+  spa:
+  - - _omelette_
+search terms:
+  glb:
+  - omelete
+  eng:
+  - omelette
+  epo:
+  - omleto
+  spa:
+  - omelette
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - omelette
+  Fransesa: ~
+  Italisa: ~
+  Espanisa:
+  - - omelet
+  Indonesisa: ~
+  Rusisa:
+  - - "\u043E\u043C\u043B\u0435\u0442 \u201Comlet\u201D"
+  Doycisa:
+  - - Omelett
+  Portugalsa:
+  - - omelete
+  Hindisa:
+  - - "\u0911\u092E\u0932\u0947\u091F \u201Comalet\u201D"
+  Niponsa:
+  - - "\u30AA\u30E0\u30EC\u30C4 \u201Comuretsu\u201D"
+  Turkisa:
+  - - omlet
+  Hangusa:
+  - - "\uC624\uBBC8\uB81B \u201Comulet\u201D"
+  Parsisa:
+  - - "\u0627\u0645\u0644\u062A \u201Comlet\u201D"
+tags:
+- yamxey
+raw data:
+  term: omelete
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: omelette
+    epo: omleto
+    spa: _omelette_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (omelette), Fransesa, Italisa, Espanisa (omelet), Indonesisa,
+    Rusisa (\u043E\u043C\u043B\u0435\u0442 \u201Comlet\u201D), Doycisa (Omelett),
+    Portugalsa (omelete), Hindisa (\u0911\u092E\u0932\u0947\u091F \u201Comalet\u201D),
+    Niponsa (\u30AA\u30E0\u30EC\u30C4 \u201Comuretsu\u201D), Turkisa (omlet), Hangusa
+    (\uC624\uBBC8\uB81B \u201Comulet\u201D), Parsisa (\u0627\u0645\u0644\u062A \u201Comlet\u201D)"
+...

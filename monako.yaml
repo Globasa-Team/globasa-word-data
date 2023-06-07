@@ -1,0 +1,52 @@
+---
+term: monako
+slug: monako
+ipa: "mo\u02C8nako"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8nako&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Monaco
+  epo:
+  - - Monako
+    - Monaka Princlando
+  spa:
+  - - "M\xF3naco"
+search terms:
+  glb:
+  - monako
+  eng:
+  - monaco
+  epo:
+  - monako
+  - monaka princlando
+  spa:
+  - "m\xF3naco"
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - Monaco
+tags:
+- dexa
+raw data:
+  term: Monako
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Monaco
+    epo: Monako, Monaka Princlando
+    spa: "M\xF3naco"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Fransesa (Monaco)
+...

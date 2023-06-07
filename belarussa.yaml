@@ -1,0 +1,50 @@
+---
+term: belarussa
+slug: belarussa
+ipa: "bela\u02C8\u027Eussa"
+ipa link: "http://ipa-reader.xyz/?text=bela\u02C8\u027Eussa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Belarusian (language)
+  epo:
+  - - la belorusa (lingvo)
+  spa:
+  - - bielorruso (_idioma_)
+search terms:
+  glb:
+  - belarussa
+  eng:
+  - belarusian language
+  - belarusian
+  epo:
+  - la belorusa lingvo
+  - la belorusa
+  spa:
+  - bielorruso
+etymology_type: DERIVD
+etymology: <a href="../lexi/Belarus">Belarus</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Belarussa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Belarusian (language)
+    epo: la belorusa (lingvo)
+    spa: bielorruso (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Belarus + -sa
+...

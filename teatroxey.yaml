@@ -1,0 +1,47 @@
+---
+term: teatroxey
+slug: teatroxey
+ipa: "teat\u027Eo\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=teat\u027Eo\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - play (_theater_)
+  epo:
+  - - "teatra\u0135o"
+  spa:
+  - - obra (de teatro)
+search terms:
+  glb:
+  - teatroxey
+  eng:
+  - play
+  epo:
+  - "teatra\u0135o"
+  spa:
+  - obra de teatro
+  - obra
+etymology_type: DERIVD
+etymology: <a href="../lexi/teatro">teatro</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: teatroxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: play (_theater_)
+    epo: "teatra\u0135o"
+    spa: obra (de teatro)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: teatro + -xey
+...

@@ -1,0 +1,48 @@
+---
+term: nongyogeo
+slug: nongyogeo
+ipa: "nongjo\u02C8geo"
+ipa link: "http://ipa-reader.xyz/?text=nongjo\u02C8geo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - countryside
+  epo:
+  - - agraro
+  spa:
+  - - campo
+    - tierra de cultivo
+search terms:
+  glb:
+  - nongyogeo
+  eng:
+  - countryside
+  epo:
+  - agraro
+  spa:
+  - campo
+  - tierra de cultivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/nongyo">nongyo</a> + <a href="../lexi/geo">geo</a>
+raw data:
+  term: nongyogeo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: countryside
+    epo: agraro
+    spa: campo, tierra de cultivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nongyo + geo
+...

@@ -1,0 +1,46 @@
+---
+term: nasihatim
+slug: nasihatim
+ipa: "nasixa\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=nasixa\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - council
+  epo:
+  - - konsilantaro
+  spa:
+  - - consejo (_grupo_)
+search terms:
+  glb:
+  - nasihatim
+  eng:
+  - council
+  epo:
+  - konsilantaro
+  spa:
+  - consejo
+etymology_type: DERIVD
+etymology: <a href="../lexi/nasiha">nasiha</a> + <a href="../lexi/-tim">-tim</a>
+raw data:
+  term: nasihatim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: council
+    epo: konsilantaro
+    spa: consejo (_grupo_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nasiha + -tim
+...

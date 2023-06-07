@@ -1,0 +1,54 @@
+---
+term: krimu
+slug: krimu
+ipa: "\u02C8k\u027Eimu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8k\u027Eimu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cream (_dairy_)
+  epo:
+  - - (lakta) kremo
+  spa:
+  - - "crema (_l\xE1ctea_)"
+search terms:
+  glb:
+  - krimu
+  eng:
+  - cream
+  epo:
+  - lakta kremo
+  - kremo
+  spa:
+  - crema
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: krimu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cream (_dairy_)
+    epo: (lakta) kremo
+    spa: "crema (_l\xE1ctea_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Doycisa (Creme), Englisa (cream), Espanisa, Fransesa (cr\xE8me), Indonesisa
+    (es krim), Turkisa (krema), Hindisa (\u0906\u0907\u0938\u0915\u094D\u0930\u0940\u092E
+    \u201Caysakrim\u201D), Telugusa (\u0C90\u0CB8\u0CCD \u0C95\u0CCD\u0CB0\u0CC0\u0CAE\u0CCD
+    \u201Cays krim\u201D), Arabisa (\u0643\u0631\u064A\u0645 \u201Ckrim, krem, kerem\u201D),
+    Swahilisa (aiskrimu), Niponsa, Hangusa (\uC544\uC774\uC2A4\uD06C\uB9BC \u201Caysukurim\u201D),
+    Vyetnamsa (kem)"
+...

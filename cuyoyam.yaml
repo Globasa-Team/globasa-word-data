@@ -1,0 +1,48 @@
+---
+term: cuyoyam
+slug: cuyoyam
+ipa: "t\u0361\u0283ujo\u02C8jam"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ujo\u02C8jam&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - main course
+    - main dish
+  epo:
+  - - "\u0109efman\u011Do"
+  spa:
+  - - platillo principal
+search terms:
+  glb:
+  - cuyoyam
+  eng:
+  - main course
+  - main dish
+  epo:
+  - "\u0109efman\u011Do"
+  spa:
+  - platillo principal
+etymology_type: DERIVD
+etymology: <a href="../lexi/cuyo">cuyo</a>, <a href="../lexi/yam">yam</a>
+raw data:
+  term: cuyoyam
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: main course, main dish
+    epo: "\u0109efman\u011Do"
+    spa: platillo principal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cuyo, yam
+...

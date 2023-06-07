@@ -1,0 +1,62 @@
+---
+term: lutufkal
+slug: lutufkal
+ipa: "lutuf\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=lutuf\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unkind
+    - unkindly
+    - mean
+  epo:
+  - - malbonvola
+    - malafabla
+    - malkompleza
+  - - malbonvole
+  spa:
+  - - "antip\xE1tico"
+    - mezquino
+  - - "antip\xE1ticamente"
+    - mezquinamente
+search terms:
+  glb:
+  - lutufkal
+  eng:
+  - unkind
+  - unkindly
+  - mean
+  epo:
+  - malbonvola
+  - malafabla
+  - malkompleza
+  - malbonvole
+  spa:
+  - "antip\xE1tico"
+  - mezquino
+  - "antip\xE1ticamente"
+  - mezquinamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/lutuf">lutuf</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: lutufkal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unkind, unkindly, mean
+    epo: malbonvola, malafabla, malkompleza; malbonvole
+    spa: "antip\xE1tico, mezquino; antip\xE1ticamente, mezquinamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lutuf + -kal
+...

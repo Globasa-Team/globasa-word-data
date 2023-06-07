@@ -1,0 +1,55 @@
+---
+term: konfortapul
+slug: konfortapul
+ipa: "konfo\u027Eta\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=konfo\u027Eta\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - comfortable (_in comfort
+    - full of comfort_)
+    - comfortably
+  epo:
+  - - komforta
+    - komfortanta
+  - - komforte
+  spa:
+  - - "c\xF3modo (_que siente comodidad_)"
+search terms:
+  glb:
+  - konfortapul
+  eng:
+  - comfortable in comfort
+  - comfortable (_in comfort
+  - full of comfort
+  - comfortably
+  epo:
+  - komforta
+  - komfortanta
+  - komforte
+  spa:
+  - "c\xF3modo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/konforta">konforta</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: konfortapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: comfortable (_in comfort, full of comfort_), comfortably
+    epo: komforta, komfortanta; komforte
+    spa: "c\xF3modo (_que siente comodidad_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: 'Mi sen konfortapul per hin sofa. '
+  tags: ""
+  etymology: konforta + -pul
+...

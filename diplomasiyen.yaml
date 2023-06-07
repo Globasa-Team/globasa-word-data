@@ -1,0 +1,46 @@
+---
+term: diplomasiyen
+slug: diplomasiyen
+ipa: "diplomasi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=diplomasi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - diplomat
+  epo:
+  - - dipltomato
+  spa:
+  - - "diplom\xE1tico"
+search terms:
+  glb:
+  - diplomasiyen
+  eng:
+  - diplomat
+  epo:
+  - dipltomato
+  spa:
+  - "diplom\xE1tico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/diplomasi">diplomasi</a> + <a href="../lexi/yen">yen</a>
+raw data:
+  term: diplomasiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: diplomat
+    epo: dipltomato
+    spa: "diplom\xE1tico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: diplomasi + yen
+...

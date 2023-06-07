@@ -1,0 +1,46 @@
+---
+term: tontexto
+slug: tontexto
+ipa: "ton\u02C8te\u0283to"
+ipa link: "http://ipa-reader.xyz/?text=ton\u02C8te\u0283to&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - context
+  epo:
+  - - kunteksto
+  spa:
+  - - contexto
+search terms:
+  glb:
+  - tontexto
+  eng:
+  - context
+  epo:
+  - kunteksto
+  spa:
+  - contexto
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton-">ton-</a> + <a href="../lexi/texto">texto</a>
+raw data:
+  term: tontexto
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: context
+    epo: kunteksto
+    spa: contexto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton- + texto
+...

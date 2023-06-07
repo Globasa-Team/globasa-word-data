@@ -1,0 +1,46 @@
+---
+term: tul
+slug: tul
+ipa: "\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tul&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tool
+  epo:
+  - - ilo
+  spa:
+  - - herramienta
+search terms:
+  glb:
+  - tul
+  eng:
+  - tool
+  epo:
+  - ilo
+  spa:
+  - herramienta
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/-tul">-tul</a>.
+raw data:
+  term: tul
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tool
+    epo: ilo
+    spa: herramienta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _-tul_.
+...

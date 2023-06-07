@@ -1,0 +1,49 @@
+---
+term: kama
+slug: kama
+ipa: "\u02C8kama"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kama&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - whether
+  epo:
+  - - "\u0109u (_\u0109u_ ... \u0109u ...)"
+  spa:
+  - - si
+    - ya sea
+search terms:
+  glb:
+  - kama
+  eng:
+  - whether
+  epo:
+  - "\u0109u \u0109u ... \u0109u ..."
+  - "\u0109u"
+  spa:
+  - si
+  - ya sea
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: kama
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: whether
+    epo: "\u0109u (_\u0109u_ ... \u0109u ...)"
+    spa: si, ya sea
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _kam_.
+...

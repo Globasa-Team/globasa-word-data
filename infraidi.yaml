@@ -1,0 +1,54 @@
+---
+term: infraidi
+slug: infraidi
+ipa: "inf\u027Ea\u02C8idi"
+ipa link: "http://ipa-reader.xyz/?text=inf\u027Ea\u02C8idi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - descend
+    - go down
+  epo:
+  - - malsupreniro
+  - - malsupreniri
+  spa:
+  - - descenso
+  - - descender
+    - bajar
+search terms:
+  glb:
+  - infraidi
+  eng:
+  - descend
+  - go down
+  epo:
+  - malsupreniro
+  - malsupreniri
+  spa:
+  - descenso
+  - descender
+  - bajar
+etymology_type: DERIVD
+etymology: <a href="../lexi/infra-">infra-</a> + <a href="../lexi/idi">idi</a>
+raw data:
+  term: infraidi
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: descend, go down
+    epo: malsupreniro; malsupreniri
+    spa: descenso; descender, bajar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: infra- + idi
+...

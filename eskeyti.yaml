@@ -1,0 +1,64 @@
+---
+term: eskeyti
+slug: eskeyti
+ipa: esˈkejti
+ipa link: http://ipa-reader.xyz/?text=esˈkejti&voice=Ewa
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - skating
+  - - skate
+  epo:
+  - - glito
+  - - gliti
+  spa:
+  - - patinaje
+  - - patinar
+search terms:
+  glb:
+  - eskeyti
+  eng:
+  - skating
+  - skate
+  epo:
+  - glito
+  - gliti
+  spa:
+  - patinaje
+  - patinar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - skate
+    - skating
+  Niponsa:
+  - - スケート “sukeyto”
+  Hangusa:
+  - - 스케이트 “sukeytu”
+  Hindisa: ~
+  Telugusa: ~
+  Pilipinasa:
+  - - isketing
+raw data:
+  term: eskeyti
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: skating; skate
+    epo: glito; gliti
+    spa: patinaje; patinar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (skate, skating), Niponsa (スケート “sukeyto”), Hangusa (스케이트 “sukeytu”),
+    Hindisa, Telugusa, Pilipinasa (isketing)
+...

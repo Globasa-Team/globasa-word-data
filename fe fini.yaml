@@ -1,0 +1,52 @@
+---
+term: fe fini
+slug: fe fini
+ipa: "fe \u02C8fini"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8fini&voice=Ewa"
+status: false
+category: phrase
+word class: m
+trans:
+  eng:
+  - - finally
+    - eventually
+  epo:
+  - - finfine
+    - fine
+  spa:
+  - - por fin
+search terms:
+  glb:
+  - fe fini
+  - fe
+  - fini
+  eng:
+  - finally
+  - eventually
+  epo:
+  - finfine
+  - fine
+  spa:
+  - por fin
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/fini">fini</a>
+raw data:
+  term: fe fini
+  category: phrase
+  word class: m
+  status: false
+  trans:
+    eng: finally, eventually
+    epo: finfine, fine
+    spa: por fin
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, fini
+...

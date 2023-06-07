@@ -1,0 +1,56 @@
+---
+term: kibiriti
+slug: kibiriti
+ipa: "kibi\u02C8\u027Eiti"
+ipa link: "http://ipa-reader.xyz/?text=kibi\u02C8\u027Eiti&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - match (_fire_)
+  epo:
+  - - alumeto
+  spa:
+  - - "f\xF3sforo"
+    - cerilla
+    - cerillo
+    - misto
+    - mixto
+search terms:
+  glb:
+  - kibiriti
+  eng:
+  - match
+  epo:
+  - alumeto
+  spa:
+  - "f\xF3sforo"
+  - cerilla
+  - cerillo
+  - misto
+  - mixto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kibiriti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: match (_fire_)
+    epo: alumeto
+    spa: "f\xF3sforo, cerilla, cerillo, misto, mixto"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0643\u0650\u0628\u0652\u0631\u0650\u064A\u062A \u201Ckibrit\u201D),
+    Turkisa (kibrit), Parsisa (\u06A9\u0628\u0631\u06CC\u062A \u201Ckebrit\u201D),
+    Swahilisa (kibiriti)"
+...

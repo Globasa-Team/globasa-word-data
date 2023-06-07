@@ -1,0 +1,64 @@
+---
+term: urjuha
+slug: urjuha
+ipa: "u\u027E\u02C8d\u0361\u0292uxa"
+ipa link: "http://ipa-reader.xyz/?text=u\u027E\u02C8d\u0361\u0292uxa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - swing
+  epo:
+  - - pendolilo
+  - - pendoli
+  spa:
+  - - columpio
+  - - columpiar
+    - columpiarse
+search terms:
+  glb:
+  - urjuha
+  eng:
+  - swing
+  epo:
+  - pendolilo
+  - pendoli
+  spa:
+  - columpio
+  - columpiar
+  - columpiarse
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0623\u064F\u0631\u0652\u062C\u064F\u0648\u062D\u064E\u0629 \"urj\u016B\u1E25a\""
+  Parsisa:
+  - - "\u0627\u0631\u062C\u0648\u062D\u0629 \"urj\u016B\u1E25at\""
+  Telugusa:
+  - - "\u0C09\u0C2F\u0C4D\u0C2F\u0C3E\u0C32 \"uyy\u0101la\""
+    - "\u0C0A\u0C2F\u0C32 \"\u016Byala\""
+  Tamilsa:
+  - - "\u0B8A\u0B9E\u0BCD\u0B9A\u0BB2\u0BCD \"unjal\""
+raw data:
+  term: urjuha
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: swing
+    epo: pendolilo; pendoli
+    spa: columpio; columpiar, columpiarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0623\u064F\u0631\u0652\u062C\u064F\u0648\u062D\u064E\u0629
+    \"urj\u016B\u1E25a\"), Parsisa (\u0627\u0631\u062C\u0648\u062D\u0629 \"urj\u016B\u1E25at\"),
+    Telugusa (\u0C09\u0C2F\u0C4D\u0C2F\u0C3E\u0C32 \"uyy\u0101la\", \u0C0A\u0C2F\u0C32
+    \"\u016Byala\"), Tamilsa (\u0B8A\u0B9E\u0BCD\u0B9A\u0BB2\u0BCD \"unjal\")"
+...

@@ -1,0 +1,74 @@
+---
+term: gingiva
+slug: gingiva
+ipa: ginˈgiva
+ipa link: http://ipa-reader.xyz/?text=ginˈgiva&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gums
+    - gingiva
+  epo:
+  - - gingivo
+    - dentokarno
+  spa:
+  - - encías
+search terms:
+  glb:
+  - gingiva
+  eng:
+  - gums
+  - gingiva
+  epo:
+  - gingivo
+  - dentokarno
+  spa:
+  - encías
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gingiva
+    - gingivitis
+  Espanisa:
+  - - gingivitis
+  Fransesa:
+  - - gencive
+    - gingivite
+  Rusisa:
+  - - гингивит "gingivit"
+  Doycisa:
+  - - Gingivitis
+  Portugalsa:
+  - - gengiva
+  Italisa:
+  - - gengiva
+  Indonesisa:
+  - - gingivitis
+  Parsisa:
+  - - ژنژیویت "jenjivit"
+tags:
+- jismulogi
+raw data:
+  term: gingiva
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gums, gingiva
+    epo: gingivo, dentokarno
+    spa: encías
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Englisa (gingiva, gingivitis), Espanisa (gingivitis), Fransesa (gencive,
+    gingivite), Rusisa (гингивит "gingivit"), Doycisa (Gingivitis), Portugalsa (gengiva),
+    Italisa (gengiva), Indonesisa (gingivitis), Parsisa (ژنژیویت "jenjivit")
+...

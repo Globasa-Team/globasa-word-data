@@ -1,0 +1,68 @@
+---
+term: laxo
+slug: laxo
+ipa: "\u02C8la\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8la\u0283o&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - loose
+    - flaccid
+    - limp
+  epo:
+  - - loza
+    - malstrikta
+    - "malstre\u0109ita"
+    - malkompakta
+  - - loze
+    - malstrikte
+    - "malstre\u0109ite"
+    - malkompakte
+  spa:
+  - - flojo
+    - "fl\xE1cido"
+search terms:
+  glb:
+  - laxo
+  eng:
+  - loose
+  - flaccid
+  - limp
+  epo:
+  - loza
+  - malstrikta
+  - "malstre\u0109ita"
+  - malkompakta
+  - loze
+  - malstrikte
+  - "malstre\u0109ite"
+  - malkompakte
+  spa:
+  - flojo
+  - "fl\xE1cido"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: laxo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: loose, flaccid, limp
+    epo: "loza, malstrikta, malstre\u0109ita, malkompakta; loze, malstrikte, malstre\u0109ite,
+      malkompakte"
+    spa: "flojo, fl\xE1cido"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lax), Fransesa (l\xE2che, las), Doycisa (lax), Espanisa (laxo),
+    Portugalsa (lasso), Parsisa (\u0644\u0642 \u201Clak\u201D)"
+...

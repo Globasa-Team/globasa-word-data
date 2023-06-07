@@ -1,0 +1,72 @@
+---
+term: muta
+slug: muta
+ipa: "\u02C8muta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8muta&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - mutation
+  - - mutate
+  epo:
+  - - mutacio
+  - - mutacii
+    - mutaciigi
+  spa:
+  - - "mutaci\xF3n"
+  - - mutar
+search terms:
+  glb:
+  - muta
+  eng:
+  - mutation
+  - mutate
+  epo:
+  - mutacio
+  - mutacii
+  - mutaciigi
+  spa:
+  - "mutaci\xF3n"
+  - mutar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - mutation
+  Espanisa:
+  - - "mutaci\xF3n"
+  Fransesa:
+  - - mutation
+  Rusisa:
+  - - "\u043C\u0443\u0442\u0430\u0446\u0438\u044F \u201Cmutatsiya\u201D"
+  Indonesisa:
+  - - mutasi
+  Doycisa:
+  - - Mutation
+  Turkisa:
+  - - mutasyon
+  Pilipinasa:
+  - - mutasyon
+raw data:
+  term: muta
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: mutation; mutate
+    epo: mutacio; mutacii, mutaciigi
+    spa: "mutaci\xF3n; mutar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mutation), Espanisa (mutaci\xF3n), Fransesa (mutation), Rusisa
+    (\u043C\u0443\u0442\u0430\u0446\u0438\u044F \u201Cmutatsiya\u201D), Indonesisa
+    (mutasi), Doycisa (Mutation), Turkisa (mutasyon), Pilipinasa (mutasyon)"
+...

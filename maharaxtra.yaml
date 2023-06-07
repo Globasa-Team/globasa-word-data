@@ -1,0 +1,51 @@
+---
+term: maharaxtra
+slug: maharaxtra
+ipa: "maxa\u02C8\u027Ea\u0283t\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=maxa\u02C8\u027Ea\u0283t\u027Ea&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Maharashtra (_state in India_)
+  epo:
+  - - "Mahara\u015Dtro"
+  spa:
+  - - Maharashtra
+    - Maharastra
+search terms:
+  glb:
+  - maharaxtra
+  eng:
+  - maharashtra
+  epo:
+  - "mahara\u015Dtro"
+  spa:
+  - maharashtra
+  - maharastra
+etymology_type: NATLNG
+etymology:
+  Maharaxtrasa:
+  - - "\u092E\u0939\u093E\u0930\u093E\u0937\u094D\u091F\u094D\u0930 \u201Cmaharaxtra\u201D"
+raw data:
+  term: Maharaxtra
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Maharashtra (_state in India_)
+    epo: "Mahara\u015Dtro"
+    spa: Maharashtra, Maharastra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Maharaxtrasa (\u092E\u0939\u093E\u0930\u093E\u0937\u094D\u091F\u094D\u0930
+    \u201Cmaharaxtra\u201D)"
+...

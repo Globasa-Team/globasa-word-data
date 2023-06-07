@@ -1,0 +1,76 @@
+---
+term: esponji
+slug: esponji
+ipa: esˈpond͡ʒi
+ipa link: http://ipa-reader.xyz/?text=esˈpond͡ʒi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sponge
+  epo:
+  - - spongo
+  spa:
+  - - esponja
+search terms:
+  glb:
+  - esponji
+  eng:
+  - sponge
+  epo:
+  - spongo
+  spa:
+  - esponja
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sponge
+  Espanisa:
+  - - esponja
+  Fransesa:
+  - - éponge
+  Indonesisa:
+  - - spons
+  Pilipinasa:
+  - - espongha
+  Hindisa:
+  - - स्पंज “spanj”
+  Arabisa:
+  - - إِسْفَنْج “isfanj”
+  Niponsa:
+  - - スポンジ “suponji”
+  Telugusa:
+  - - స్పాంజి “spanji”
+  Hangusa:
+  - - 스펀지 “supanji”
+  Parsisa:
+  - - اسفنج “esfanj”
+  Swahilisa:
+  - - sifongo
+tags:
+- hewan
+- xey
+raw data:
+  term: esponji
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sponge
+    epo: spongo
+    spa: esponja
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan, xey
+  etymology: Englisa (sponge), Espanisa (esponja), Fransesa (éponge), Indonesisa (spons),
+    Pilipinasa (espongha), Hindisa (स्पंज “spanj”), Arabisa (إِسْفَنْج “isfanj”),
+    Niponsa (スポンジ “suponji”), Telugusa (స్పాంజి “spanji”), Hangusa (스펀지 “supanji”),
+    Parsisa (اسفنج “esfanj”), Swahilisa (sifongo)
+...

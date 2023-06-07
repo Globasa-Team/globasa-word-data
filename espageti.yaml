@@ -1,0 +1,79 @@
+---
+term: espageti
+slug: espageti
+ipa: espaˈgeti
+ipa link: http://ipa-reader.xyz/?text=espaˈgeti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - spaghetti
+  epo:
+  - - spageto(j)
+  spa:
+  - - espagueti
+search terms:
+  glb:
+  - espageti
+  eng:
+  - spaghetti
+  epo:
+  - spagetoj
+  - spageto
+  spa:
+  - espagueti
+etymology_type: NATLNG
+etymology:
+  Italisa:
+  - - spaghetti
+  Englisa: ~
+  Doycisa: ~
+  Turkisa: ~
+  Fransesa:
+  - - spaghettis
+  Espanisa:
+  - - espagueti
+  Rusisa: ~
+  Arabisa:
+  - - سْبَاغِيتِي “sbāḡītī”
+  Hindisa:
+  - - स्पघेटी “spagheṭī”
+  Niponsa:
+  - - スパゲッティ “supagetti”
+  Hangusa:
+  - - 스파게티 “supageti”
+  Telugusa:
+  - - స్పఘెట్టి “spageti”
+  Parsisa:
+  - - اسپاگتی “espâgeti”
+  Indonesisa:
+  - - spageti
+  Pilipinasa: ~
+  Swahilisa: ~
+tags:
+- yamxey
+raw data:
+  term: espageti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: spaghetti
+    epo: spageto(j)
+    spa: espagueti
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Italisa (spaghetti), Englisa, Doycisa, Turkisa, Fransesa (spaghettis),
+    Espanisa (espagueti), Rusisa, Arabisa (سْبَاغِيتِي “sbāḡītī”), Hindisa (स्पघेटी
+    “spagheṭī”), Niponsa (スパゲッティ “supagetti”), Hangusa (스파게티 “supageti”), Telugusa
+    (స్పఘెట్టి “spageti”), Parsisa (اسپاگتی “espâgeti”), Indonesisa (spageti), Pilipinasa,
+    Swahilisa
+...

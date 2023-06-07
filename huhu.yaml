@@ -1,0 +1,56 @@
+---
+term: huhu
+slug: huhu
+ipa: "\u02C8xuxu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xuxu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - owl
+    - _Strigiformes_
+  epo:
+  - - strigo
+  spa:
+  - - "b\xFAho"
+    - _Strigiformes_
+search terms:
+  glb:
+  - huhu
+  eng:
+  - owl
+  - strigiformes
+  epo:
+  - strigo
+  spa:
+  - "b\xFAho"
+  - strigiformes
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: huhu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: owl, _Strigiformes_
+    epo: strigo
+    spa: "b\xFAho, _Strigiformes_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "kwasilexi - Englisa (hoo hoo), Fransesa (huhuu), Doycisa (Uhu, hu hu),
+    Banglasa (\u201Chuup huup\u201D), Niponsa (\u30DB\u30A6\u30DB\u30A6 \u201Ch\u014D
+    h\u014D\u201D), Indonesisa (kuk-kuk), Rusisa (\u0443\u0445\u0443 \u201Cukhu\u201D),
+    Espanisa (uh, uh), Hindisa (\u0918\u0942\u0918\u0942\_\"gh\u016Bgh\u016B\"), Turkisa
+    (gu guk guuk), Pilipinasa (wahu), ji maxya"
+...

@@ -1,0 +1,52 @@
+---
+term: hyerarki
+slug: hyerarki
+ipa: "xje\u02C8\u027Ea\u027Eki"
+ipa link: "http://ipa-reader.xyz/?text=xje\u02C8\u027Ea\u027Eki&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hierarchy
+  epo:
+  - - "hierar\u0125io"
+    - hierarkio
+  spa:
+  - - "jerarqu\xEDa"
+search terms:
+  glb:
+  - hyerarki
+  eng:
+  - hierarchy
+  epo:
+  - "hierar\u0125io"
+  - hierarkio
+  spa:
+  - "jerarqu\xEDa"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hyerarki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hierarchy
+    epo: "hierar\u0125io, hierarkio"
+    spa: "jerarqu\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Hierarchie \u201Chyerarhi\u201D), Englisa (hierachy), Espanisa
+    (jerarqu\xEDa \u201Cherarkia\u201D), Fransesa (hi\xE9rarchie \u201Cyerarxi\u201D),
+    Rusisa (\u0438\u0435\u0440\u0430\u0440\u0445\u0438\u044F \u201Cyerarhia\u201D),
+    Turkisa (hiyerar\u015Fi \u201Chyerarxi\u201D), Indonesisa (hirarki), Pilipinasa
+    (herarkiya)"
+...

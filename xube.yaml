@@ -1,0 +1,59 @@
+---
+term: xube
+slug: xube
+ipa: "\u02C8\u0283ube"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283ube&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - branch
+    - phylum
+  epo:
+  - - "bran\u0109o"
+    - filumo
+  spa:
+  - - rama
+    - filo
+search terms:
+  glb:
+  - xube
+  eng:
+  - branch
+  - phylum
+  epo:
+  - "bran\u0109o"
+  - filumo
+  spa:
+  - rama
+  - filo
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0634\u064F\u0639\u0652\u0628\u064E\u0629 \u201Cxuba\u201D"
+  Parsisa:
+  - - "\u0634\u0639\u0628\u0647 \u201Cxobe\u201D"
+  Turkisa:
+  - - "\u015Fube"
+raw data:
+  term: xube
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: branch, phylum
+    epo: "bran\u0109o, filumo"
+    spa: rama, filo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0634\u064F\u0639\u0652\u0628\u064E\u0629 \u201Cxuba\u201D),
+    Parsisa (\u0634\u0639\u0628\u0647 \u201Cxobe\u201D), Turkisa (\u015Fube)"
+...

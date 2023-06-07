@@ -1,0 +1,52 @@
+---
+term: kermeskolordo
+slug: kermeskolordo
+ipa: "ke\u027Emesko\u02C8lo\u027Edo"
+ipa link: "http://ipa-reader.xyz/?text=ke\u027Emesko\u02C8lo\u027Edo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - crimson
+  epo:
+  - - karmezina
+  - - karmezine
+  spa:
+  - - "carmes\xED"
+    - "carm\xEDn"
+search terms:
+  glb:
+  - kermeskolordo
+  eng:
+  - crimson
+  epo:
+  - karmezina
+  - karmezine
+  spa:
+  - "carmes\xED"
+  - "carm\xEDn"
+etymology_type: DERIVD
+etymology: <a href="../lexi/kermes">kermes</a> + <a href="../lexi/-kolordo">-kolordo</a>
+tags:
+- kolor
+raw data:
+  term: kermeskolordo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: crimson
+    epo: karmezina; karmezine
+    spa: "carmes\xED, carm\xEDn"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: kermes + -kolordo
+...

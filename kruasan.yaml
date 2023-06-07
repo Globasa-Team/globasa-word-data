@@ -1,0 +1,81 @@
+---
+term: kruasan
+slug: kruasan
+ipa: "k\u027Eua\u02C8san"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Eua\u02C8san&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - croissant
+  epo:
+  - - lunarka bulko
+    - korna bulko
+  spa:
+  - - "cruas\xE1n"
+    - _croissant_
+  deu:
+  - - Croissant
+    - "H\xF6rnchen"
+    - Beugel
+    - Gipfel
+  fra:
+  - - croissant (viennoiserie)
+  rus:
+  - - "\u043A\u0440\u0443\u0430\u0441\u0441\u0430\u043D"
+  zho:
+  - - "\u7F8A\u89D2\u9762\u5305"
+    - "\u725B\u89D2\u5305"
+    - "\u53EF\u980C"
+    - "\u65B0\u6708\u9EB5\u5305"
+search terms:
+  glb:
+  - kruasan
+  eng:
+  - croissant
+  epo:
+  - lunarka bulko
+  - korna bulko
+  spa:
+  - "cruas\xE1n"
+  - croissant
+  deu:
+  - croissant
+  - "h\xF6rnchen"
+  - beugel
+  - gipfel
+  fra:
+  - croissant viennoiserie
+  - croissant
+  rus:
+  - "\u043A\u0440\u0443\u0430\u0441\u0441\u0430\u043D"
+  zho:
+  - "\u7F8A\u89D2\u9762\u5305"
+  - "\u725B\u89D2\u5305"
+  - "\u53EF\u980C"
+  - "\u65B0\u6708\u9EB5\u5305"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: kruasan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: croissant
+    epo: lunarka bulko, korna bulko
+    spa: "cruas\xE1n, _croissant_"
+    deu: "Croissant, H\xF6rnchen, Beugel, Gipfel"
+    fra: croissant (viennoiserie)
+    rus: "\u043A\u0440\u0443\u0430\u0441\u0441\u0430\u043D"
+    zho: "\u7F8A\u89D2\u9762\u5305, \u725B\u89D2\u5305, \u53EF\u980C, \u65B0\u6708\u9EB5\u5305"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Fransesa (croissant)
+...

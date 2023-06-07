@@ -1,0 +1,49 @@
+---
+term: imisu to
+slug: imisu to
+ipa: "i\u02C8misu \u02C8to"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8misu \u02C8to&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - ours (_that thing belonging to us_)
+  epo:
+  - - la nia
+  spa:
+  - - nuestro (cosa que nos pertenece)
+search terms:
+  glb:
+  - imisu to
+  - imisu
+  - to
+  eng:
+  - ours
+  epo:
+  - la nia
+  spa:
+  - nuestro cosa que nos pertenece
+  - nuestro
+etymology_type: DERIVD
+etymology: <a href="../lexi/imi">imi</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/to">to</a>
+raw data:
+  term: imisu to
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: ours (_that thing belonging to us_)
+    epo: la nia
+    spa: nuestro (cosa que nos pertenece)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: imi + -su, to
+...

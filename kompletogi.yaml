@@ -1,0 +1,52 @@
+---
+term: kompletogi
+slug: kompletogi
+ipa: "komple\u02C8togi"
+ipa link: "http://ipa-reader.xyz/?text=komple\u02C8togi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - complete
+    - fulfill
+    - carry out
+  epo:
+  - - kompletigo
+  - - kompletigi
+  spa:
+  - - completar
+search terms:
+  glb:
+  - kompletogi
+  eng:
+  - complete
+  - fulfill
+  - carry out
+  epo:
+  - kompletigo
+  - kompletigi
+  spa:
+  - completar
+etymology_type: DERIVD
+etymology: <a href="../lexi/kompleto">kompleto</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: kompletogi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: complete, fulfill, carry out
+    epo: kompletigo; kompletigi
+    spa: completar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: complete, fulfill, carry, carry out
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kompleto + -gi
+...

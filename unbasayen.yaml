@@ -1,0 +1,47 @@
+---
+term: unbasayen
+slug: unbasayen
+ipa: "unbasa\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=unbasa\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - monolingual (speaker)
+  epo:
+  - - unulingvano
+  spa:
+  - - "monoling\xFCe"
+search terms:
+  glb:
+  - unbasayen
+  eng:
+  - monolingual speaker
+  - monolingual
+  epo:
+  - unulingvano
+  spa:
+  - "monoling\xFCe"
+etymology_type: DERIVD
+etymology: <a href="../lexi/un-">un-</a> + <a href="../lexi/basa">basa</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: unbasayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: monolingual (speaker)
+    epo: unulingvano
+    spa: "monoling\xFCe"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un- + basa + -yen
+...

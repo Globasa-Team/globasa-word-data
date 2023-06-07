@@ -1,0 +1,54 @@
+---
+term: susana
+slug: susana
+ipa: "su\u02C8sana"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8sana&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lily (flower)
+  epo:
+  - - lilio
+  spa:
+  - - azucena
+search terms:
+  glb:
+  - susana
+  eng:
+  - lily flower
+  - lily
+  epo:
+  - lilio
+  spa:
+  - azucena
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - "\u0633\u0648\u0633\u0646 \u201Csusan\u201D"
+  Arabisa:
+  - - "\u0633\u064E\u0648\u0652\u0633\u064E\u0646 \u201Csawsan\u201D"
+  Espanisa:
+  - - azucena
+raw data:
+  term: susana
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lily (flower)
+    epo: lilio
+    spa: azucena
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Parsisa (\u0633\u0648\u0633\u0646 \u201Csusan\u201D), Arabisa (\u0633\u064E\u0648\u0652\u0633\u064E\u0646
+    \u201Csawsan\u201D), Espanisa (azucena)"
+...

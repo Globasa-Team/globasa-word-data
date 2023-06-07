@@ -1,0 +1,56 @@
+---
+term: balgam
+slug: balgam
+ipa: balˈgam
+ipa link: http://ipa-reader.xyz/?text=balˈgam&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - phlegm
+  epo:
+  - - flegmo
+  spa:
+  - - flema
+search terms:
+  glb:
+  - balgam
+  eng:
+  - phlegm
+  epo:
+  - flegmo
+  spa:
+  - flema
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - बलग़म “balġam"
+    - बलगम “balgam”
+  Arabisa:
+  - - بَلْغَم “balḡam”
+  Turkisa:
+  - - balgam
+  Parsisa:
+  - - بلغم “balğam”
+raw data:
+  term: balgam
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: phlegm
+    epo: flegmo
+    spa: flema
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (बलग़म “balġam", बलगम “balgam”), Arabisa (بَلْغَم “balḡam”),
+    Turkisa (balgam), Parsisa (بلغم “balğam”)
+...

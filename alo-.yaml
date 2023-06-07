@@ -1,0 +1,52 @@
+---
+term: alo-
+slug: alo-
+ipa: "a\u02C8lo-"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8lo-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - other
+    - different
+  epo:
+  - - ali-
+    - malsam-
+  spa:
+  - - otro
+    - diferente
+search terms:
+  glb:
+  - alo-
+  eng:
+  - other
+  - different
+  epo:
+  - ali-
+  - malsam-
+  spa:
+  - otro
+  - diferente
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/alo">alo</a>.
+raw data:
+  term: 'alo- '
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: other, different
+    epo: ali-, malsam-
+    spa: otro, diferente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _alo_.
+...

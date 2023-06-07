@@ -1,0 +1,50 @@
+---
+term: no haji
+slug: no haji
+ipa: "\u02C8no \u02C8xad\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8no \u02C8xad\u0361\u0292i&voice=Ewa"
+status: false
+category: phrase
+word class: m
+trans:
+  eng:
+  - - no longer
+    - not anymore
+  epo:
+  - - ne plu
+  spa:
+  - - ya no
+search terms:
+  glb:
+  - no haji
+  - "no"
+  - haji
+  eng:
+  - no longer
+  - not anymore
+  epo:
+  - ne plu
+  spa:
+  - ya no
+etymology_type: DERIVD
+etymology: <a href="../lexi/no">no</a>, <a href="../lexi/haji">haji</a>
+raw data:
+  term: no haji
+  category: phrase
+  word class: m
+  status: false
+  trans:
+    eng: no longer, not anymore
+    epo: ne plu
+    spa: ya no
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: no longer, not anymore, anymore
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: no, haji
+...

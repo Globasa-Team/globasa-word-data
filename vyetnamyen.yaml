@@ -1,0 +1,46 @@
+---
+term: vyetnamyen
+slug: vyetnamyen
+ipa: "vjetna\u02C8mjen"
+ipa link: "http://ipa-reader.xyz/?text=vjetna\u02C8mjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Vietnamese
+  epo:
+  - - vjetnamo
+  spa:
+  - - vietnamita (_persona_)
+search terms:
+  glb:
+  - vyetnamyen
+  eng:
+  - vietnamese
+  epo:
+  - vjetnamo
+  spa:
+  - vietnamita
+etymology_type: DERIVD
+etymology: <a href="../lexi/Vyetnam">Vyetnam</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Vyetnamyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Vietnamese
+    epo: vjetnamo
+    spa: vietnamita (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Vyetnam + -yen
+...

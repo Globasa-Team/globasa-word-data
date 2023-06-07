@@ -1,0 +1,59 @@
+---
+term: ner
+slug: ner
+ipa: "\u02C8ne\u027E"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ne\u027E&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - nearby
+    - close
+  epo:
+  - - proksima
+  - - proksime
+  spa:
+  - - cercano
+search terms:
+  glb:
+  - ner
+  eng:
+  - nearby
+  - close
+  epo:
+  - proksima
+  - proksime
+  spa:
+  - cercano
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - near
+  Swerisa:
+  - - "n\xE4ra"
+  Danisa:
+  - - "n\xE6r"
+  Panjabisa:
+  - - "\u0A28\u0A47\u0A5C\u0A47 \u201Cn\u0113\u1E5B\u0113\u201D"
+raw data:
+  term: ner
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: nearby, close
+    epo: proksima; proksime
+    spa: cercano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (near), Swerisa (n\xE4ra), Danisa (n\xE6r), Panjabisa (\u0A28\u0A47\u0A5C\u0A47
+    \u201Cn\u0113\u1E5B\u0113\u201D)"
+...

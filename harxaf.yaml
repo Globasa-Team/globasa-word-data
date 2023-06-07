@@ -1,0 +1,50 @@
+---
+term: harxaf
+slug: harxaf
+ipa: "xa\u027E\u02C8\u0283af"
+ipa link: "http://ipa-reader.xyz/?text=xa\u027E\u02C8\u0283af&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - scale (_of fish
+    - reptile_)
+  epo:
+  - - skvamo
+  spa:
+  - - escama
+search terms:
+  glb:
+  - harxaf
+  eng:
+  - scale of fish
+  - scale (_of fish
+  - reptile
+  epo:
+  - skvamo
+  spa:
+  - escama
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: harxaf
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: scale (_of fish, reptile_)
+    epo: skvamo
+    spa: escama
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u064E\u0631\u0652\u0634\u064E\u0641 \u201Charxaf\u201D),
+    Parsisa (\u062D\u0631\u0634\u0641 \u201Charxaf\u201D)"
+...

@@ -1,0 +1,87 @@
+---
+term: ible
+slug: ible
+ipa: "\u02C8ible"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - possible
+    - possibly
+    - maybe
+    - perhaps
+    - might
+    - potential
+    - potentially
+  epo:
+  - - ebla
+  - - eble
+  spa:
+  - - posible
+    - potencial
+  - - posiblemente
+    - potencialmente
+    - "quiz\xE1"
+  deu:
+  - - vielleicht
+    - "m\xF6glich"
+    - "m\xF6glicherweise"
+search terms:
+  glb:
+  - ible
+  eng:
+  - possible
+  - possibly
+  - maybe
+  - perhaps
+  - might
+  - potential
+  - potentially
+  epo:
+  - ebla
+  - eble
+  spa:
+  - posible
+  - potencial
+  - posiblemente
+  - potencialmente
+  - "quiz\xE1"
+  deu:
+  - vielleicht
+  - "m\xF6glich"
+  - "m\xF6glicherweise"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - -ible
+  Espanisa:
+  - - -ible
+  Fransesa:
+  - - -ible
+  Portugalsa:
+  - - "-\xEDvle"
+  Italisa:
+  - - -ibile
+raw data:
+  term: ible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: possible, possibly, maybe, perhaps, might, potential, potentially
+    epo: ebla; eble
+    spa: "posible, potencial; posiblemente, potencialmente, quiz\xE1"
+    deu: "vielleicht, m\xF6glich, m\xF6glicherweise"
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (-ible), Espanisa (-ible), Fransesa (-ible), Portugalsa (-\xEDvle),
+    Italisa (-ibile)"
+...

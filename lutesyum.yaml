@@ -1,0 +1,57 @@
+---
+term: lutesyum
+slug: lutesyum
+ipa: "lute\u02C8sjum"
+ipa link: "http://ipa-reader.xyz/?text=lute\u02C8sjum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lutetium
+  epo:
+  - - lutecio
+  spa:
+  - - lutecio
+    - Lu
+search terms:
+  glb:
+  - lutesyum
+  eng:
+  - lutetium
+  epo:
+  - lutecio
+  spa:
+  - lutecio
+  - lu
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: lutesyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lutetium
+    epo: lutecio
+    spa: lutecio, Lu
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (lutetium), Putunhwa (\u9565 \u201Clu\u201D), Espanisa (lutecio),
+    Arabisa (\u0644\u064F\u0648\u062A\u0650\u064A\u062A\u0652\u064A\u064F\u0648\u0645
+    \u201Clutityum\u201D), Fransesa (lut\xE9cium), Rusisa (\u043B\u044E\u0442\u0435\u0446\u0438\u0439
+    \u201Clyutetsiy\u201D), Indonesisa (lutesium), Doycisa (Lutetium), Niponsa (\u30EB\u30C6\u30C1\u30A6\u30E0
+    \u201Cruteciumu\u201D), Telugusa (\u0C32\u0C41\u0C1F\u0C40\u0C37\u0C3F\u0C2F\u0C02
+    \u201Clutixiyam\u201D), Turkisa (l\xFCtesyum), Hangusa (\uB8E8\uD14C\uD2AC \u201Crutetyum\u201D),
+    Vyetnamsa (luteti), Parsisa (\u0644\u0648\u062A\u062A\u06CC\u0645 \u201Clutetyom\u201D),
+    Swahilisa (luteti), Pilipinasa (lutesyo)"
+...

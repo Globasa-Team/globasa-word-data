@@ -1,0 +1,75 @@
+---
+term: tatika
+slug: tatika
+ipa: "ta\u02C8tika"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8tika&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tactics
+  epo:
+  - - taktiko
+  spa:
+  - - "t\xE1ctica"
+search terms:
+  glb:
+  - tatika
+  eng:
+  - tactics
+  epo:
+  - taktiko
+  spa:
+  - "t\xE1ctica"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tactics
+  Espanisa:
+  - - "t\xE1ctica"
+  Fransesa:
+  - - tactique
+  Rusisa:
+  - - "\u0442\u0430\u043A\u0442\u0438\u043A\u0430 \"taktika\""
+  Doycisa:
+  - - Taktik
+  Portugalsa:
+  - - "t\xE1ticas"
+  Italisa:
+  - - tattica
+  Indonesisa:
+  - - taktik
+  Pilipinasa:
+  - - taktika
+  Arabisa:
+  - - "\u062A\u064E\u0643\u0652\u062A\u0650\u064A\u0643 \"taktik\""
+    - "\u062A\u064E\u062E\u0652\u0637\u0650\u064A\u0637 \"tahtit\""
+  Turkisa:
+  - - taktik
+  Parsisa:
+  - - "\u062A\u0627\u06A9\u062A\u06CC\u06A9 \"t\xE2ktik\""
+raw data:
+  term: tatika
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tactics
+    epo: taktiko
+    spa: "t\xE1ctica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tactics), Espanisa (t\xE1ctica), Fransesa (tactique), Rusisa
+    (\u0442\u0430\u043A\u0442\u0438\u043A\u0430 \"taktika\"), Doycisa (Taktik), Portugalsa
+    (t\xE1ticas), Italisa (tattica), Indonesisa (taktik), Pilipinasa (taktika), Arabisa
+    (\u062A\u064E\u0643\u0652\u062A\u0650\u064A\u0643 \"taktik\", \u062A\u064E\u062E\u0652\u0637\u0650\u064A\u0637
+    \"tahtit\"), Turkisa (taktik), Parsisa (\u062A\u0627\u06A9\u062A\u06CC\u06A9 \"t\xE2ktik\")"
+...

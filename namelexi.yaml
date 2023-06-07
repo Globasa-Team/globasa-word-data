@@ -1,0 +1,50 @@
+---
+term: namelexi
+slug: namelexi
+ipa: "name\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=name\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - noun
+  epo:
+  - - o-vorto
+    - substantivo
+  spa:
+  - - sustantivo
+search terms:
+  glb:
+  - namelexi
+  eng:
+  - noun
+  epo:
+  - o-vorto
+  - substantivo
+  spa:
+  - sustantivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/name">name</a> + <a href="../lexi/-lexi">-lexi</a>
+tags:
+- gramati
+raw data:
+  term: namelexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: noun
+    epo: o-vorto, substantivo
+    spa: sustantivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gramati
+  etymology: name + -lexi
+...

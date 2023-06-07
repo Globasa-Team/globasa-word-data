@@ -1,0 +1,46 @@
+---
+term: tarafya
+slug: tarafya
+ipa: "ta\u02C8\u027Eafja"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8\u027Eafja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - bias
+  epo:
+  - - biaso
+  spa:
+  - - sesgo
+search terms:
+  glb:
+  - tarafya
+  eng:
+  - bias
+  epo:
+  - biaso
+  spa:
+  - sesgo
+etymology_type: DERIVD
+etymology: <a href="../lexi/taraf">taraf</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: tarafya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: bias
+    epo: biaso
+    spa: sesgo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: taraf + -ya
+...

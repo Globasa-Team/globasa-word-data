@@ -1,0 +1,65 @@
+---
+term: tabriku
+slug: tabriku
+ipa: "ta\u02C8b\u027Eiku"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8b\u027Eiku&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - congratulation
+    - congratulations
+  - - congratulate
+  epo:
+  - - gratulo
+  - - gratuli
+  - - gratulon
+  spa:
+  - - "felicitaci\xF3n"
+  - - felicitar
+  - - felicidades
+search terms:
+  glb:
+  - tabriku
+  eng:
+  - congratulation
+  - congratulations
+  - congratulate
+  epo:
+  - gratulo
+  - gratuli
+  - gratulon
+  spa:
+  - "felicitaci\xF3n"
+  - felicitar
+  - felicidades
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u064E\u0628\u0652\u0631\u0650\u064A\u0643 \u201Ctabrik\u201D"
+  Turkisa:
+  - - tebrik
+  Parsisa:
+  - - "\u062A\u0628\u0631\u06CC\u06A9 \u201Ctabrik\u201D"
+raw data:
+  term: tabriku
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: congratulation, congratulations; congratulate
+    epo: gratulo; gratuli; gratulon
+    spa: "felicitaci\xF3n; felicitar; felicidades"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u064E\u0628\u0652\u0631\u0650\u064A\u0643 \u201Ctabrik\u201D),
+    Turkisa (tebrik), Parsisa (\u062A\u0628\u0631\u06CC\u06A9 \u201Ctabrik\u201D)"
+...

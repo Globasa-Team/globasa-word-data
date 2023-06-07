@@ -1,0 +1,46 @@
+---
+term: aya
+slug: aya
+ipa: ˈaja
+ipa link: http://ipa-reader.xyz/?text=ˈaja&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter a
+  epo:
+  - - litero a
+  spa:
+  - - letra a
+search terms:
+  glb:
+  - aya
+  eng:
+  - letter a
+  epo:
+  - litero a
+  spa:
+  - letra a
+etymology_type: DERIVD
+etymology: _a priori_
+raw data:
+  term: aya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter a
+    epo: litero a
+    spa: letra a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

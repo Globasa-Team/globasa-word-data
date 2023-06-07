@@ -1,0 +1,48 @@
+---
+term: moysu
+slug: moysu
+ipa: "\u02C8mojsu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mojsu&voice=Ewa"
+status: false
+category: derived
+word class: su s
+trans:
+  eng:
+  - - everybody's
+    - everyone's
+  epo:
+  - - "\u0109ies"
+  spa:
+  - - de todos
+search terms:
+  glb:
+  - moysu
+  eng:
+  - everybody's
+  - everyone's
+  epo:
+  - "\u0109ies"
+  spa:
+  - de todos
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: moysu
+  category: derived
+  word class: su s
+  status: false
+  trans:
+    eng: everybody's, everyone's
+    epo: "\u0109ies"
+    spa: de todos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + -su
+...

@@ -1,0 +1,75 @@
+---
+term: garanti
+slug: garanti
+ipa: gaˈɾanti
+ipa link: http://ipa-reader.xyz/?text=gaˈɾanti&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - guarantee
+    - warranty
+  - - guarantee
+  epo:
+  - - garantio
+  - - garantii
+  spa:
+  - - garantía
+  - - garantizar
+search terms:
+  glb:
+  - garanti
+  eng:
+  - guarantee
+  - warranty
+  epo:
+  - garantio
+  - garantii
+  spa:
+  - garantía
+  - garantizar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - guarantee
+  Fransesa:
+  - - garantie
+  Doycisa:
+  - - Garantie
+  Rusisa:
+  - - гарантия “garantiya”
+  Espanisa:
+  - - garantía
+  Indonesisa:
+  - - garansi
+  Pilipinasa:
+  - - garantiya
+  Turkisa:
+  - - garanti
+  Hindisa:
+  - - गारंटी "garanti"
+  Parsisa:
+  - - گارانتی “gârânti”
+raw data:
+  term: garanti
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: guarantee, warranty; guarantee
+    epo: garantio; garantii
+    spa: garantía; garantizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (guarantee), Fransesa (garantie), Doycisa (Garantie), Rusisa
+    (гарантия “garantiya”), Espanisa (garantía), Indonesisa (garansi), Pilipinasa
+    (garantiya), Turkisa (garanti), Hindisa (गारंटी "garanti"), Parsisa (گارانتی “gârânti”)
+...

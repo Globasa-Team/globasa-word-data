@@ -1,0 +1,50 @@
+---
+term: juilaye
+slug: juilaye
+ipa: "d\u0361\u0292ui\u02C8laje"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292ui\u02C8laje&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - remarkable
+    - notable (_worthy of attention_)
+  epo:
+  - - atentinda
+  - - atentinde
+  spa:
+  - - notable
+search terms:
+  glb:
+  - juilaye
+  eng:
+  - remarkable
+  - notable
+  epo:
+  - atentinda
+  - atentinde
+  spa:
+  - notable
+etymology_type: DERIVD
+etymology: <a href="../lexi/jui">jui</a> + <a href="../lexi/-laye">-laye</a>
+raw data:
+  term: juilaye
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: remarkable, notable (_worthy of attention_)
+    epo: atentinda; atentinde
+    spa: notable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jui + -laye
+...

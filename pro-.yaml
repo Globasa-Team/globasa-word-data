@@ -1,0 +1,50 @@
+---
+term: pro-
+slug: pro-
+ipa: "\u02C8p\u027Eo-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8p\u027Eo-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - pro-
+    - in favor of
+  epo:
+  - - "malkontra\u016D"
+  spa:
+  - - pro-
+    - a favor de
+search terms:
+  glb:
+  - pro-
+  eng:
+  - pro-
+  - in favor of
+  epo:
+  - "malkontra\u016D"
+  spa:
+  - pro-
+  - a favor de
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/pro">pro</a>.
+raw data:
+  term: pro-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: pro-, in favor of
+    epo: "malkontra\u016D"
+    spa: pro-, a favor de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _pro_.
+...

@@ -1,0 +1,50 @@
+---
+term: jazair
+slug: jazair
+ipa: "d\u0361\u0292aza\u02C8i\u027E"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292aza\u02C8i\u027E&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Algeria
+  epo:
+  - - "Al\u011Derio"
+  spa:
+  - - Argelia
+search terms:
+  glb:
+  - jazair
+  eng:
+  - algeria
+  epo:
+  - "al\u011Derio"
+  spa:
+  - argelia
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0627\u0644\u062C\u0632\u0627\u0626\u0631\u200E \u201Cal-Jaz\u0101'ir\u201D"
+tags:
+- dexa
+raw data:
+  term: Jazair
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Algeria
+    epo: "Al\u011Derio"
+    spa: Argelia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u0627\u0644\u062C\u0632\u0627\u0626\u0631\u200E \u201Cal-Jaz\u0101'ir\u201D)"
+...

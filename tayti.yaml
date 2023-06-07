@@ -1,0 +1,71 @@
+---
+term: tayti
+slug: tayti
+ipa: "\u02C8tajti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tajti&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - replacement
+    - substitution
+  - - replace
+    - substitute
+  epo:
+  - - "anstata\u016Do"
+    - "anstata\u016Da\u0135o"
+  - - "anstata\u016Di"
+    - "anstata\u016Digi"
+  spa:
+  - - reemplazo
+    - "sustituci\xF3n"
+  - - reemplazar
+    - sustituir
+search terms:
+  glb:
+  - tayti
+  eng:
+  - replacement
+  - substitution
+  - replace
+  - substitute
+  epo:
+  - "anstata\u016Do"
+  - "anstata\u016Da\u0135o"
+  - "anstata\u016Di"
+  - "anstata\u016Digi"
+  spa:
+  - reemplazo
+  - "sustituci\xF3n"
+  - reemplazar
+  - sustituir
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4EE3\u66FF \u201Cdayti\u201D"
+  Niponsa:
+  - - "\u4EE3\u66FF \u201Cdaytai\u201D"
+  Vyetnamsa:
+  - - "thay th\u1EBF"
+raw data:
+  term: tayti
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: replacement, substitution; replace, substitute
+    epo: "anstata\u016Do, anstata\u016Da\u0135o; anstata\u016Di, anstata\u016Digi"
+    spa: "reemplazo, sustituci\xF3n; reemplazar, sustituir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u4EE3\u66FF \u201Cdayti\u201D), Niponsa (\u4EE3\u66FF \u201Cdaytai\u201D),
+    Vyetnamsa (thay th\u1EBF)"
+...

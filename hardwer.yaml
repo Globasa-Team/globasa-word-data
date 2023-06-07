@@ -1,0 +1,70 @@
+---
+term: hardwer
+slug: hardwer
+ipa: "xa\u027E\u02C8dwe\u027E"
+ipa link: "http://ipa-reader.xyz/?text=xa\u027E\u02C8dwe\u027E&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hardware
+  epo:
+  - - aparataro
+  spa:
+  - - _hardware_
+    - equipo
+search terms:
+  glb:
+  - hardwer
+  eng:
+  - hardware
+  epo:
+  - aparataro
+  spa:
+  - hardware
+  - equipo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - hardware
+  Espanisa:
+  - - hardware
+  Rusisa:
+  - - "\u0445\u0430\u0440\u0434\u0432\u0435\u0440 \"hardver\""
+  Doycisa:
+  - - Hardaware
+  Pilipinasa:
+  - - hardware
+  Hindisa:
+  - - "\u0939\u093E\u0930\u094D\u0921\u0935\u0947\u092F\u0930 \"hardveyar\""
+  Niponsa:
+  - - "\u30CF\u30FC\u30C9\u30A6\u30A7\u30A2 \"hadowea\""
+  Telugusa:
+  - - "\u0C39\u0C3E\u0C30\u0C4D\u0C21\u0C4D\u200C\u0C35\u0C47\u0C30\u0C4D \"hardver\""
+  Hangusa:
+  - - "\uD558\uB4DC\uC6E8\uC5B4 \"haduweo\""
+raw data:
+  term: hardwer
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: hardware
+    epo: aparataro
+    spa: _hardware_, equipo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (hardware), Espanisa (hardware), Rusisa (\u0445\u0430\u0440\u0434\u0432\u0435\u0440
+    \"hardver\"), Doycisa (Hardaware), Pilipinasa (hardware), Hindisa (\u0939\u093E\u0930\u094D\u0921\u0935\u0947\u092F\u0930
+    \"hardveyar\"), Niponsa (\u30CF\u30FC\u30C9\u30A6\u30A7\u30A2 \"hadowea\"), Telugusa
+    (\u0C39\u0C3E\u0C30\u0C4D\u0C21\u0C4D\u200C\u0C35\u0C47\u0C30\u0C4D \"hardver\"),
+    Hangusa (\uD558\uB4DC\uC6E8\uC5B4 \"haduweo\")"
+...

@@ -1,0 +1,59 @@
+---
+term: soba
+slug: soba
+ipa: "\u02C8soba"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8soba&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - morning
+  epo:
+  - - mateno
+  spa:
+  - - "(la) ma\xF1ana (_hora del d\xEDa_)"
+search terms:
+  glb:
+  - soba
+  eng:
+  - morning
+  epo:
+  - mateno
+  spa:
+  - "la ma\xF1ana"
+  - "ma\xF1ana"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0635\u0628\u0627\u062D \u201Csabah\u201D"
+  Hindisa:
+  - - "\u0938\u0941\u092C\u0939 \u201Csubah\u201D"
+  Parsisa:
+  - - "\u0635\u0628\u0627\u062D \u201Csobh\u201D"
+  Swahilisa:
+  - - asubuhi
+  Turkisa:
+  - - sabah
+raw data:
+  term: soba
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: morning
+    epo: mateno
+    spa: "(la) ma\xF1ana (_hora del d\xEDa_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0635\u0628\u0627\u062D \u201Csabah\u201D), Hindisa (\u0938\u0941\u092C\u0939
+    \u201Csubah\u201D), Parsisa (\u0635\u0628\u0627\u062D \u201Csobh\u201D), Swahilisa
+    (asubuhi), Turkisa (sabah)"
+...

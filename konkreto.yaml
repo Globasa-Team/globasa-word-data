@@ -1,0 +1,54 @@
+---
+term: konkreto
+slug: konkreto
+ipa: "kon\u02C8k\u027Eeto"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8k\u027Eeto&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - concrete
+    - concretely
+  epo:
+  - - konkreta
+  - - konkrete
+  spa:
+  - - concreto
+search terms:
+  glb:
+  - konkreto
+  eng:
+  - concrete
+  - concretely
+  epo:
+  - konkreta
+  - konkrete
+  spa:
+  - concreto
+etymology_type: NATLNG
+etymology: BLAH
+antonyms:
+- astrato
+raw data:
+  term: konkreto
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: concrete, concretely
+    epo: konkreta; konkrete
+    spa: concreto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: astrato
+  example: ""
+  tags: ""
+  etymology: "Englisa (concrete), Fransesa (concret), Doycisa (konkret), Rusisa (\u043A\u043E\u043D\u043A\u0440\u0435\u0442\u043D\u044B\u0439
+    \u201Ckonkretniy\u201D) Espanisa (conctreto), Indonesisa (konkret), Pilipinasa
+    (kongkreto)"
+...

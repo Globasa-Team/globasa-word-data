@@ -1,0 +1,54 @@
+---
+term: mapa ci
+slug: mapa ci
+ipa: "\u02C8mapa t\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mapa t\u0361\u0283i&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - mommy
+    - daddy
+  epo:
+  - - "pa\u0109jo"
+    - panjo
+  spa:
+  - - mami
+    - papi
+search terms:
+  glb:
+  - mapa ci
+  - mapa
+  - ci
+  eng:
+  - mommy
+  - daddy
+  epo:
+  - "pa\u0109jo"
+  - panjo
+  spa:
+  - mami
+  - papi
+etymology_type: DERIVD
+etymology: <a href="../lexi/mapa">mapa</a> + <a href="../lexi/ci">ci</a>
+raw data:
+  term: mapa ci
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: mommy, daddy
+    epo: "pa\u0109jo, panjo"
+    spa: mami, papi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mapa + ci
+...

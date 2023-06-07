@@ -1,0 +1,54 @@
+---
+term: mapa
+slug: mapa
+ipa: "\u02C8mapa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mapa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mom
+    - dad
+    - folks (_parents_)
+  epo:
+  - - "pa\u0109jo"
+    - panjo
+  spa:
+  - - "mam\xE1 y/o pap\xE1"
+search terms:
+  glb:
+  - mapa
+  eng:
+  - mom
+  - dad
+  - folks
+  epo:
+  - "pa\u0109jo"
+  - panjo
+  spa:
+  - "mam\xE1 y/o pap\xE1"
+etymology_type: DERIVD
+etymology: BLAH
+tags:
+- famil
+raw data:
+  term: mapa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mom, dad, folks (_parents_)
+    epo: "pa\u0109jo, panjo"
+    spa: "mam\xE1 y/o pap\xE1"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: famil
+  etymology: Am oko _mama_, _papa_.
+...

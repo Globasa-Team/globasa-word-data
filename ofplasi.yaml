@@ -1,0 +1,52 @@
+---
+term: ofplasi
+slug: ofplasi
+ipa: "of\u02C8plasi"
+ipa link: "http://ipa-reader.xyz/?text=of\u02C8plasi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - take off
+    - remove
+  epo:
+  - - demeto
+  - - demeti
+  spa:
+  - - remover
+    - quitar
+search terms:
+  glb:
+  - ofplasi
+  eng:
+  - take off
+  - remove
+  epo:
+  - demeto
+  - demeti
+  spa:
+  - remover
+  - quitar
+etymology_type: DERIVD
+etymology: <a href="../lexi/of-">of-</a> + <a href="../lexi/plasi">plasi</a>
+raw data:
+  term: ofplasi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: take off, remove
+    epo: demeto; demeti
+    spa: remover, quitar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: of- + plasi
+...

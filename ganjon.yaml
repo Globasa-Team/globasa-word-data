@@ -1,0 +1,67 @@
+---
+term: ganjon
+slug: ganjon
+ipa: ganˈd͡ʒon
+ipa link: http://ipa-reader.xyz/?text=ganˈd͡ʒon&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - emotion
+    - feeling
+    - sentiment
+  - - feel
+  epo:
+  - - emocio
+    - sento
+  - - senti (de interne)
+  spa:
+  - - emoción
+    - sentimiento
+  - - sentir
+search terms:
+  glb:
+  - ganjon
+  eng:
+  - emotion
+  - feeling
+  - sentiment
+  - feel
+  epo:
+  - emocio
+  - sento
+  - senti de interne
+  - senti
+  spa:
+  - emoción
+  - sentimiento
+  - sentir
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 感情 “gancing”
+  Hangusa:
+  - - 감정 “gamjang”
+  Niponsa:
+  - - 感情 “kanjo”
+raw data:
+  term: ganjon
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: emotion, feeling, sentiment; feel
+    epo: emocio, sento; senti (de interne)
+    spa: emoción, sentimiento; sentir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (感情 “gancing”), Hangusa (감정 “gamjang”), Niponsa (感情 “kanjo”)
+...

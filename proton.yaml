@@ -1,0 +1,69 @@
+---
+term: proton
+slug: proton
+ipa: "p\u027Eo\u02C8ton"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eo\u02C8ton&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - proton
+  epo:
+  - - protono
+  spa:
+  - - "prot\xF3n"
+search terms:
+  glb:
+  - proton
+  eng:
+  - proton
+  epo:
+  - protono
+  spa:
+  - "prot\xF3n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - proton
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Vyetnamsa: ~
+  Rusisa:
+  - - "\u043F\u0440\u043E\u0442\u043E\u043D \u201Cproton\u201D"
+  Hindisa:
+  - - "\u092A\u094D\u0930\u094B\u091F\u0949\u0928 \u201Cproton\u201D"
+  Arabisa:
+  - - "\u0628\u0652\u0631\u064F\u0648\u062A\u064F\u0648\u0646\u200E \u201Cbrutun\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C4D\u0C30\u0C4B\u0C1F\u0C3E\u0C28\u0C4D \u201Cprotan\u201D"
+  Parsisa:
+  - - "\u067E\u0631\u0648\u062A\u0648\u0646\u200E \u201Cprutun\u201D"
+  Swahilisa:
+  - - protoni
+raw data:
+  term: proton
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: proton
+    epo: protono
+    spa: "prot\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (proton), Fransesa, Doycisa, Indonesisa, Vyetnamsa, Rusisa (\u043F\u0440\u043E\u0442\u043E\u043D
+    \u201Cproton\u201D), Hindisa (\u092A\u094D\u0930\u094B\u091F\u0949\u0928 \u201Cproton\u201D),
+    Arabisa (\u0628\u0652\u0631\u064F\u0648\u062A\u064F\u0648\u0646\u200E \u201Cbrutun\u201D),
+    Telugusa (\u0C2A\u0C4D\u0C30\u0C4B\u0C1F\u0C3E\u0C28\u0C4D \u201Cprotan\u201D),
+    Parsisa (\u067E\u0631\u0648\u062A\u0648\u0646\u200E \u201Cprutun\u201D), Swahilisa
+    (protoni)"
+...

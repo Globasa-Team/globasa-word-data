@@ -1,0 +1,54 @@
+---
+term: daypetra
+slug: daypetra
+ipa: "daj\u02C8pet\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8pet\u027Ea&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - boulder
+  epo:
+  - - "\u015Dtonego"
+    - rokego
+  spa:
+  - - roca
+    - "pe\xF1a"
+    - pedrusco
+    - "pe\xF1asco"
+search terms:
+  glb:
+  - daypetra
+  eng:
+  - boulder
+  epo:
+  - "\u015Dtonego"
+  - rokego
+  spa:
+  - roca
+  - "pe\xF1a"
+  - pedrusco
+  - "pe\xF1asco"
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/petra">petra</a>
+raw data:
+  term: daypetra
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: boulder
+    epo: "\u015Dtonego, rokego"
+    spa: "roca, pe\xF1a, pedrusco, pe\xF1asco"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + petra
+...

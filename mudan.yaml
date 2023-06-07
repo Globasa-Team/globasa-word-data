@@ -1,0 +1,48 @@
+---
+term: mudan
+slug: mudan
+ipa: "mu\u02C8dan"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8dan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - peony
+  epo:
+  - - peonio
+  spa:
+  - - "peon\xEDa"
+search terms:
+  glb:
+  - mudan
+  eng:
+  - peony
+  epo:
+  - peonio
+  spa:
+  - "peon\xEDa"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mudan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: peony
+    epo: peonio
+    spa: "peon\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7261\u4E39 \"mudan\"), Niponsa (\u7261\u4E39 \"botan\"),
+    Vyetnamsa (m\u1EABu \u0111\u01A1n), Hangusa (\uBAA8\uB780 \"moran\"), Indonesisa
+    (botan)"
+...

@@ -1,0 +1,52 @@
+---
+term: alodexa
+slug: alodexa
+ipa: "alo\u02C8de\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=alo\u02C8de\u0283a&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - abroad
+    - foreign country
+  epo:
+  - - alilando
+    - fremdlando
+  spa:
+  - - extranjero
+    - fuera
+search terms:
+  glb:
+  - alodexa
+  eng:
+  - abroad
+  - foreign country
+  epo:
+  - alilando
+  - fremdlando
+  spa:
+  - extranjero
+  - fuera
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/dexa">dexa</a>
+raw data:
+  term: alodexa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: abroad, foreign country
+    epo: alilando, fremdlando
+    spa: extranjero, fuera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + dexa
+...

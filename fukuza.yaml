@@ -1,0 +1,71 @@
+---
+term: fukuza
+slug: fukuza
+ipa: fuˈkuza
+ipa link: http://ipa-reader.xyz/?text=fuˈkuza&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - complicated
+    - complex
+  epo:
+  - - komplika
+    - kompleksa
+    - malsimpla
+  - - komplike
+    - komplekse
+    - malsimple
+  spa:
+  - - complicado
+    - complejo
+search terms:
+  glb:
+  - fukuza
+  eng:
+  - complicated
+  - complex
+  epo:
+  - komplika
+  - kompleksa
+  - malsimpla
+  - komplike
+  - komplekse
+  - malsimple
+  spa:
+  - complicado
+  - complejo
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 复杂 “fùzá”
+  Niponsa:
+  - - 複雑 “Fukuzatsu”
+  Vyetnamsa:
+  - - phức tạp
+  Hangusa:
+  - - 복잡 “bokjap”
+antonyms:
+- jandan
+raw data:
+  term: fukuza
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: complicated, complex
+    epo: komplika, kompleksa, malsimpla; komplike, komplekse, malsimple
+    spa: complicado, complejo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: jandan
+  example: ""
+  tags: ""
+  etymology: Putunhwa (复杂 “fùzá”), Niponsa (複雑 “Fukuzatsu”), Vyetnamsa (phức tạp),
+    Hangusa (복잡 “bokjap”)
+...

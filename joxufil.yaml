@@ -1,0 +1,52 @@
+---
+term: joxufil
+slug: joxufil
+ipa: "d\u0361\u0292o\u0283u\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292o\u0283u\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - enthusiastic
+    - cheerful
+  epo:
+  - - entuziasmema
+    - gaja
+  spa:
+  - - entusiasta
+    - animado
+search terms:
+  glb:
+  - joxufil
+  eng:
+  - enthusiastic
+  - cheerful
+  epo:
+  - entuziasmema
+  - gaja
+  spa:
+  - entusiasta
+  - animado
+etymology_type: DERIVD
+etymology: <a href="../lexi/joxu">joxu</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: joxufil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: enthusiastic, cheerful
+    epo: entuziasmema, gaja
+    spa: entusiasta, animado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: joxu + -fil
+...

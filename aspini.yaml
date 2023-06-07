@@ -1,0 +1,66 @@
+---
+term: aspini
+slug: aspini
+ipa: asˈpini
+ipa link: http://ipa-reader.xyz/?text=asˈpini&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pin
+  epo:
+  - - pinglo
+  spa:
+  - - alfiler
+search terms:
+  glb:
+  - aspini
+  eng:
+  - pin
+  epo:
+  - pinglo
+  spa:
+  - alfiler
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pin
+  Espanisa:
+  - - alfiler
+  Fransesa:
+  - - épingle
+  Pilipinasa:
+  - - aspili
+  Hindisa:
+  - - पिन “pin”
+  Niponsa:
+  - - ピン “pin”
+  Turkisa:
+  - - pim
+  Hangusa:
+  - - 핀 “pin”
+  Swahlisa:
+  - - pini
+raw data:
+  term: aspini
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pin
+    epo: pinglo
+    spa: alfiler
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (pin), Espanisa (alfiler), Fransesa (épingle), Pilipinasa (aspili),
+    Hindisa (पिन “pin”), Niponsa (ピン “pin”), Turkisa (pim), Hangusa (핀 “pin”), Swahlisa
+    (pini)
+...

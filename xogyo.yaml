@@ -1,0 +1,62 @@
+---
+term: xogyo
+slug: xogyo
+ipa: "\u02C8\u0283ogjo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283ogjo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - commerce
+    - trade
+  - - deal
+  epo:
+  - - "negoco (inter\u015Dan\u011Do)"
+    - negoci
+  spa:
+  - - comercio
+  - - comerciar
+search terms:
+  glb:
+  - xogyo
+  eng:
+  - commerce
+  - trade
+  - deal
+  epo:
+  - "negoco inter\u015Dan\u011Do"
+  - negoco
+  - negoci
+  spa:
+  - comercio
+  - comerciar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5546\u4E1A \u201Csh\u0101ngy\xE8\u201D"
+  Hangusa:
+  - - "\uC0C1\uC5C5 \u201Csang-eob\u201D"
+  Niponsa:
+  - - "\u5546\u696D \u201Csh\u014Dgy\u014D"
+raw data:
+  term: xogyo
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: commerce, trade; deal
+    epo: "negoco (inter\u015Dan\u011Do), negoci"
+    spa: comercio; comerciar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5546\u4E1A \u201Csh\u0101ngy\xE8\u201D), Hangusa (\uC0C1\uC5C5
+    \u201Csang-eob\u201D), Niponsa (\u5546\u696D \u201Csh\u014Dgy\u014D)"
+...

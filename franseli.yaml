@@ -1,0 +1,46 @@
+---
+term: franseli
+slug: franseli
+ipa: "f\u027Ean\u02C8seli"
+ipa link: "http://ipa-reader.xyz/?text=f\u027Ean\u02C8seli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - French
+  epo:
+  - - franca
+  spa:
+  - - "franc\xE9s"
+search terms:
+  glb:
+  - franseli
+  eng:
+  - french
+  epo:
+  - franca
+  spa:
+  - "franc\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Franse">Franse</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Franseli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: French
+    epo: franca
+    spa: "franc\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Franse + -li
+...

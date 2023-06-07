@@ -1,0 +1,52 @@
+---
+term: minori
+slug: minori
+ipa: "mi\u02C8no\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8no\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - the minority of
+  epo:
+  - - plejmalmulta
+    - minoritata
+  - - plejmalmulte
+    - minoritate
+  spa:
+  - - "la minor\xEDa de"
+search terms:
+  glb:
+  - minori
+  eng:
+  - the minority of
+  epo:
+  - plejmalmulta
+  - minoritata
+  - plejmalmulte
+  - minoritate
+  spa:
+  - "la minor\xEDa de"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: minori
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: the minority of
+    epo: plejmalmulta, minoritata; plejmalmulte, minoritate
+    spa: "la minor\xEDa de"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Fransesa ( ), Espanisa, Englisa (minority), Doycisa, Rusisa
+...

@@ -1,0 +1,69 @@
+---
+term: egal
+slug: egal
+ipa: eˈgal
+ipa link: http://ipa-reader.xyz/?text=eˈgal&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - equal
+    - equally
+    - even
+    - evenly
+  epo:
+  - - egala
+  - - egale
+  spa:
+  - - igual
+search terms:
+  glb:
+  - egal
+  eng:
+  - equal
+  - equally
+  - even
+  - evenly
+  epo:
+  - egala
+  - egale
+  spa:
+  - igual
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - egalitarian
+    - equal
+  Fransesa:
+  - - égal
+  Doycisa:
+  - - egalitär
+    - egal
+  Rusisa:
+  - - эгалитарный “egalitarniy”
+  Espanisa:
+  - - igual
+  Indonesisa:
+  - - egaliter
+raw data:
+  term: egal
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: equal, equally, even, evenly
+    epo: egala; egale
+    spa: igual
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (egalitarian, equal), Fransesa (égal), Doycisa (egalitär, egal),
+    Rusisa (эгалитарный “egalitarniy”), Espanisa (igual), Indonesisa (egaliter)
+...

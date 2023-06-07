@@ -1,0 +1,53 @@
+---
+term: koloni
+slug: koloni
+ipa: "ko\u02C8loni"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8loni&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - colony
+  epo:
+  - - kolonio
+  spa:
+  - - colonia
+  deu:
+  - - Kolonie
+search terms:
+  glb:
+  - koloni
+  eng:
+  - colony
+  epo:
+  - kolonio
+  spa:
+  - colonia
+  deu:
+  - kolonie
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: koloni
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: colony
+    epo: kolonio
+    spa: colonia
+    deu: Kolonie
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (colony), Espanisa (colonia), Fransesa (colonie), Rusisa (\u043A\u043E\u043B\u043E\u043D\u0438\u044F
+    \u201Ckoloniya\u201D), Doycisa (Kolonie), Indonesisa (koloni), Turkisa, Swahilisa,
+    Pilipinasa (kolonya), Hindisa (\u0915\u0949\u0932\u094B\u0928\u0940 \u201Ckoloni\u201D),
+    Niponsa (\u30B3\u30ED\u30CB\u30FC \u201Ckoroni\u201D)"
+...

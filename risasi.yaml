@@ -1,0 +1,55 @@
+---
+term: risasi
+slug: risasi
+ipa: "\u027Ei\u02C8sasi"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ei\u02C8sasi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lead
+  epo:
+  - - plumbo
+  spa:
+  - - plomo
+    - Pb
+search terms:
+  glb:
+  - risasi
+  eng:
+  - lead
+  epo:
+  - plumbo
+  spa:
+  - plomo
+  - pb
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0631\u064E\u0635\u064E\u0627\u0635 \u201Crasas\u201D"
+  Swahilisa:
+  - - risasi
+tags:
+- kimikali monlari
+raw data:
+  term: risasi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lead
+    epo: plumbo
+    spa: plomo, Pb
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Arabisa (\u0631\u064E\u0635\u064E\u0627\u0635 \u201Crasas\u201D), Swahilisa
+    (risasi)"
+...

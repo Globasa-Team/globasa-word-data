@@ -1,0 +1,50 @@
+---
+term: yunkipul
+slug: yunkipul
+ipa: "junki\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=junki\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - courageous
+    - brave
+  epo:
+  - - "kura\u011Da"
+  - - "kura\u011De"
+  spa:
+  - - valiente
+search terms:
+  glb:
+  - yunkipul
+  eng:
+  - courageous
+  - brave
+  epo:
+  - "kura\u011Da"
+  - "kura\u011De"
+  spa:
+  - valiente
+etymology_type: DERIVD
+etymology: <a href="../lexi/yunki">yunki</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: yunkipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: courageous, brave
+    epo: "kura\u011Da; kura\u011De"
+    spa: valiente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yunki + -pul
+...

@@ -1,0 +1,48 @@
+---
+term: bonaxam
+slug: bonaxam
+ipa: "bona\u02C8\u0283am"
+ipa link: "http://ipa-reader.xyz/?text=bona\u02C8\u0283am&voice=Ewa"
+status: false
+category: derived
+word class: il
+trans:
+  eng:
+  - - good evening
+  epo:
+  - - bonan vesperon
+  spa:
+  - - buenas tardes
+search terms:
+  glb:
+  - bonaxam
+  eng:
+  - good evening
+  epo:
+  - bonan vesperon
+  spa:
+  - buenas tardes
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/axam">axam</a>
+tags:
+- intrelogalexi
+raw data:
+  term: bonaxam
+  category: derived
+  word class: il
+  status: false
+  trans:
+    eng: good evening
+    epo: bonan vesperon
+    spa: buenas tardes
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: bon- + axam
+...

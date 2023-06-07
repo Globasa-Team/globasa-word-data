@@ -1,0 +1,50 @@
+---
+term: jegami
+slug: jegami
+ipa: "d\u0361\u0292e\u02C8gami"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292e\u02C8gami&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - straw
+  epo:
+  - - bajlo
+  spa:
+  - - paja
+search terms:
+  glb:
+  - jegami
+  eng:
+  - straw
+  epo:
+  - bajlo
+  spa:
+  - paja
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u79F8\u79C6 \"jyegan\""
+  Indonesisa:
+  - - jerami
+raw data:
+  term: jegami
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: straw
+    epo: bajlo
+    spa: paja
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u79F8\u79C6 \"jyegan\"), Indonesisa (jerami)"
+...

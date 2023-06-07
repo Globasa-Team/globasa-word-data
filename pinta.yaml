@@ -1,0 +1,83 @@
+---
+term: pinta
+slug: pinta
+ipa: "\u02C8pinta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pinta&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pint
+  epo:
+  - - pajnto
+    - pindo
+  spa:
+  - - pinta (_unidad de volumen_)
+    - pt
+search terms:
+  glb:
+  - pinta
+  eng:
+  - pint
+  epo:
+  - pajnto
+  - pindo
+  spa:
+  - pinta
+  - pt
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pint
+  Espanisa:
+  - - pinta
+  Rusisa:
+  - - "\u043F\u0438\u043D\u0442\u0430 \"pinta\""
+  Doycisa:
+  - - Pint
+  Pilipinasa:
+  - - pitis
+  Putunhwa:
+  - - "\u54C1\u8131 \"pintwo\""
+  Hindisa:
+  - - "\u092A\u093F\u0902\u091F \"pint\""
+  Arabisa:
+  - - "\u0628\u0627\u064A\u0646\u062A \"bayint\""
+  Niponsa:
+  - - "\u30D1\u30A4\u30F3\u30C8 \"painto\""
+  Turkisa:
+  - - pint
+  Vyetnamsa:
+  - - pint
+  Hangusa:
+  - - "\uD30C\uC778\uD2B8 \"paintu\""
+  Parsisa:
+  - - "\u067E\u0627\u06CC\u0646\u062A \"payint\""
+  Swahilisa:
+  - - painti
+raw data:
+  term: pinta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pint
+    epo: pajnto, pindo
+    spa: pinta (_unidad de volumen_), pt
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (pint), Espanisa (pinta), Rusisa (\u043F\u0438\u043D\u0442\u0430
+    \"pinta\"), Doycisa (Pint), Pilipinasa (pitis), Putunhwa (\u54C1\u8131 \"pintwo\"),
+    Hindisa (\u092A\u093F\u0902\u091F \"pint\"), Arabisa (\u0628\u0627\u064A\u0646\u062A
+    \"bayint\"), Niponsa (\u30D1\u30A4\u30F3\u30C8 \"painto\"), Turkisa (pint), Vyetnamsa
+    (pint), Hangusa (\uD30C\uC778\uD2B8 \"paintu\"), Parsisa (\u067E\u0627\u06CC\u0646\u062A
+    \"payint\"), Swahilisa (painti)"
+...

@@ -1,0 +1,71 @@
+---
+term: astrato
+slug: astrato
+ipa: asˈtɾato
+ipa link: http://ipa-reader.xyz/?text=asˈtɾato&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - abstract
+  - - abstractly
+  epo:
+  - - abstrakta
+  - - abstrakte
+  spa:
+  - - abstracto
+  - - abstractamente
+  deu:
+  - - abstrakt
+search terms:
+  glb:
+  - astrato
+  eng:
+  - abstract
+  - abstractly
+  epo:
+  - abstrakta
+  - abstrakte
+  spa:
+  - abstracto
+  - abstractamente
+  deu:
+  - abstrakt
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - abstract
+  Fransesa:
+  - - abstrait
+  Doycisa:
+  - - abstrakt
+  Rusisa:
+  - - абстрактный “abstraktniy”
+  Espanisa:
+  - - abstracto
+  Indonesisa:
+  - - abstrak
+antonyms:
+- konkreto
+raw data:
+  term: astrato
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: abstract; abstractly
+    epo: abstrakta; abstrakte
+    spa: abstracto; abstractamente
+    deu: abstrakt
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: konkreto
+  example: ""
+  tags: ""
+  etymology: Englisa (abstract), Fransesa (abstrait), Doycisa (abstrakt), Rusisa (абстрактный
+    “abstraktniy”), Espanisa (abstracto), Indonesisa (abstrak)
+...

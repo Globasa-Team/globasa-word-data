@@ -1,0 +1,50 @@
+---
+term: banglasa
+slug: banglasa
+ipa: "ban\u02C8glasa"
+ipa link: "http://ipa-reader.xyz/?text=ban\u02C8glasa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Bengali (language)
+  epo:
+  - - la bengala (lingvo)
+  spa:
+  - - "bengal\xED (_idioma_)"
+search terms:
+  glb:
+  - banglasa
+  eng:
+  - bengali language
+  - bengali
+  epo:
+  - la bengala lingvo
+  - la bengala
+  spa:
+  - "bengal\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Bangla">Bangla</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Banglasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Bengali (language)
+    epo: la bengala (lingvo)
+    spa: "bengal\xED (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Bangla + -sa
+...

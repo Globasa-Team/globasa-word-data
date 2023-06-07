@@ -1,0 +1,52 @@
+---
+term: ri-
+slug: ri-
+ipa: "\u02C8\u027Ei-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Ei-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - re- (_again_)
+  epo:
+  - - re-
+  spa:
+  - - re- (_otra vez_)
+search terms:
+  glb:
+  - ri-
+  eng:
+  - re-
+  epo:
+  - re-
+  spa:
+  - re-
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - re-
+  Fransesa: ~
+  Italisa:
+  - - ri-
+  Espanisa: ~
+raw data:
+  term: ri-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: re- (_again_)
+    epo: re-
+    spa: re- (_otra vez_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (re-), Fransesa, Italisa (ri-), Espanisa
+...

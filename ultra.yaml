@@ -1,0 +1,71 @@
+---
+term: ultra
+slug: ultra
+ipa: "\u02C8ult\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ult\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - beyond
+    - over
+  epo:
+  - - preter
+  spa:
+  - - "m\xE1s all\xE1 de"
+search terms:
+  glb:
+  - ultra
+  eng:
+  - beyond
+  - over
+  epo:
+  - preter
+  spa:
+  - "m\xE1s all\xE1 de"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ultra-
+  Doycisa:
+  - - Ultraschall
+  Fransesa:
+  - - ultrason
+  Espanisa:
+  - - ultrasonido
+  Rusisa:
+  - - "\u0443\u043B\u044C\u0442\u0440\u0430\u0437\u0432\u0443\u043A \u201Cultrazvuk\u201D"
+  Indonesisa:
+  - - ultrasonik
+    - ultraungu
+  Pilipinasa:
+  - - ultrabiyoleta
+    - ultralila
+  Turkisa:
+  - - ultrason
+  Italisa:
+  - - oltre
+raw data:
+  term: ultra
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: beyond, over
+    epo: preter
+    spa: "m\xE1s all\xE1 de"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (ultra-), Doycisa (Ultraschall), Fransesa (ultrason), Espanisa
+    (ultrasonido), Rusisa (\u0443\u043B\u044C\u0442\u0440\u0430\u0437\u0432\u0443\u043A
+    \u201Cultrazvuk\u201D), Indonesisa (ultrasonik, ultraungu), Pilipinasa (ultrabiyoleta,
+    ultralila), Turkisa (ultrason), Italisa (oltre)"
+...

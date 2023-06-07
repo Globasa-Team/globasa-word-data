@@ -1,0 +1,48 @@
+---
+term: arabili
+slug: arabili
+ipa: "a\u027Ea\u02C8bili"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Ea\u02C8bili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Arabian
+  epo:
+  - - araba
+  - - arabe
+  spa:
+  - - "\xE1rabe"
+search terms:
+  glb:
+  - arabili
+  eng:
+  - arabian
+  epo:
+  - araba
+  - arabe
+  spa:
+  - "\xE1rabe"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Arabi">Arabi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Arabili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Arabian
+    epo: araba; arabe
+    spa: "\xE1rabe"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabi + -li
+...

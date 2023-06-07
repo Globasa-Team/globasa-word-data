@@ -1,0 +1,51 @@
+---
+term: hantageno
+slug: hantageno
+ipa: "xanta\u02C8geno"
+ipa link: "http://ipa-reader.xyz/?text=xanta\u02C8geno&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - wrist
+  epo:
+  - - manartiko
+    - pojno
+  spa:
+  - - "mu\xF1eca (de la mano)"
+search terms:
+  glb:
+  - hantageno
+  eng:
+  - wrist
+  epo:
+  - manartiko
+  - pojno
+  spa:
+  - "mu\xF1eca de la mano"
+  - "mu\xF1eca"
+etymology_type: DERIVD
+etymology: <a href="../lexi/hanta">hanta</a> + <a href="../lexi/geno">geno</a>
+tags:
+- jismulogi
+raw data:
+  term: hantageno
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: wrist
+    epo: manartiko, pojno
+    spa: "mu\xF1eca (de la mano)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: hanta + geno
+...

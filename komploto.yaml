@@ -1,0 +1,64 @@
+---
+term: komploto
+slug: komploto
+ipa: "kom\u02C8ploto"
+ipa link: "http://ipa-reader.xyz/?text=kom\u02C8ploto&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - conspiracy
+    - plot
+    - scheme
+  - - conspire
+  epo:
+  - - komploto
+    - konspiro
+  - - komploti
+    - konspiri
+  spa:
+  - - "conspiraci\xF3n"
+    - complot
+  - - conspirar
+search terms:
+  glb:
+  - komploto
+  eng:
+  - conspiracy
+  - plot
+  - scheme
+  - conspire
+  epo:
+  - komploto
+  - konspiro
+  - komploti
+  - konspiri
+  spa:
+  - "conspiraci\xF3n"
+  - complot
+  - conspirar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: komploto
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: conspiracy, plot, scheme; conspire
+    epo: komploto, konspiro; komploti, konspiri
+    spa: "conspiraci\xF3n, complot; conspirar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (conspiracy, plot), Espanisa (complot), Fransesa (complot, comploter),
+    Doycisa (Komplott), Portugalsa (compl\xF4), Italisa (complotto, complottare),
+    Indonesisa (konspirasi), Pilipinasa (komplot), Turkisa (kumpas, komplo)"
+...

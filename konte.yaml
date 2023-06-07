@@ -1,0 +1,55 @@
+---
+term: konte
+slug: konte
+ipa: "\u02C8konte"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8konte&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - count
+    - countess
+    - earl
+  epo:
+  - - grafo
+    - grafino
+  spa:
+  - - conde
+search terms:
+  glb:
+  - konte
+  eng:
+  - count
+  - countess
+  - earl
+  epo:
+  - grafo
+  - grafino
+  spa:
+  - conde
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: konte
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: count, countess, earl
+    epo: grafo, grafino
+    spa: conde
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (count, countess), Espanisa (conde, condesa), Fransesa (comte,
+    comtesse), Portugalsa (conde, condessa), Italisa (conte, contessa), Pilipinasa
+    (konde, kondesa), Hindisa (\u0915\u094C\u0902\u091F \"kawnt\"), Arabisa (\u0643\u064F\u0648\u0646\u0652\u062A
+    \"kunt\"), Turkisa (kont, kontes), Parsisa (\u06A9\u0646\u062A \"kont\")"
+...

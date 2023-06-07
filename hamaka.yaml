@@ -1,0 +1,50 @@
+---
+term: hamaka
+slug: hamaka
+ipa: "xa\u02C8maka"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8maka&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hammock
+  epo:
+  - - hamako
+    - pendlito
+  spa:
+  - - hamaca
+search terms:
+  glb:
+  - hamaka
+  eng:
+  - hammock
+  epo:
+  - hamako
+  - pendlito
+  spa:
+  - hamaca
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hamaka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hammock
+    epo: hamako, pendlito
+    spa: hamaca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (hamaca), Englisa (hammock), Fransesa (hamac), Rusisa (\u0433\u0430\u043C\u0430\u043A
+    \u201Cgamak\u201D), Niponsa (\u30CF\u30F3\u30E2\u30C3\u30AF \u201Chamoku\u201D),
+    Turkisa (hamak), Hangusa (\uD574\uBA39 \u201Chamak\u201D)"
+...

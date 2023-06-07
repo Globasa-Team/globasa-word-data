@@ -1,0 +1,64 @@
+---
+term: -tora
+slug: -tora
+ipa: "-\u02C8to\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8to\u027Ea&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - -ator
+    - machine
+    - device
+    - apparatus
+    - appliance
+  epo:
+  - - -ilo
+    - "ma\u015Dino"
+    - aparato
+  spa:
+  - - -adora
+    - "m\xE1quina"
+    - dispositivo
+    - aparato
+search terms:
+  glb:
+  - -tora
+  eng:
+  - -ator
+  - machine
+  - device
+  - apparatus
+  - appliance
+  epo:
+  - -ilo
+  - "ma\u015Dino"
+  - aparato
+  spa:
+  - -adora
+  - "m\xE1quina"
+  - dispositivo
+  - aparato
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/tora">tora</a>.
+raw data:
+  term: -tora
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: -ator, machine, device, apparatus, appliance
+    epo: "-ilo, ma\u015Dino, aparato"
+    spa: "-adora, m\xE1quina, dispositivo, aparato"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _tora_.
+...

@@ -1,0 +1,50 @@
+---
+term: nilpul
+slug: nilpul
+ipa: "nil\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=nil\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - no kind of
+  - - in no way
+  epo:
+  - - nenia
+  spa:
+  - - de ninguna manera
+search terms:
+  glb:
+  - nilpul
+  eng:
+  - no kind of
+  - in no way
+  epo:
+  - nenia
+  spa:
+  - de ninguna manera
+etymology_type: DERIVD
+etymology: <a href="../lexi/nil">nil</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: nilpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: |-
+      no kind of;
+      in no way
+    epo: nenia
+    spa: de ninguna manera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nil + -pul
+...

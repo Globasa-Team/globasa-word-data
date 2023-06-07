@@ -1,0 +1,71 @@
+---
+term: enciklopedi
+slug: enciklopedi
+ipa: ent͡ʃikloˈpedi
+ipa link: http://ipa-reader.xyz/?text=ent͡ʃikloˈpedi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - encyclopedia
+  epo:
+  - - enciklopedio
+  spa:
+  - - enciclopedia
+search terms:
+  glb:
+  - enciklopedi
+  eng:
+  - encyclopedia
+  epo:
+  - enciklopedio
+  spa:
+  - enciclopedia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - encyclopedia
+  Espanisa:
+  - - enciclopedia
+  Fransesa:
+  - - encyclopédie
+  Rusisa:
+  - - энциклопедия “entsiklopediya”
+  Doycisa:
+  - - Enzyklopädie
+  Indonesisa:
+  - - ensiklopedia
+  Pilipinasa:
+  - - ensiklopedya
+  Hindisa:
+  - - इनसाइक्लोपीडिया “insaiklopidiya”
+  Turkisa:
+  - - ansiklopedi
+  Parsisa:
+  - - آنسیکلوپدی “ansiklopedi”
+  Swahilisa:
+  - - ensaiklopidia
+raw data:
+  term: enciklopedi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: encyclopedia
+    epo: enciklopedio
+    spa: enciclopedia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (encyclopedia), Espanisa (enciclopedia), Fransesa (encyclopédie),
+    Rusisa (энциклопедия “entsiklopediya”), Doycisa (Enzyklopädie), Indonesisa (ensiklopedia),
+    Pilipinasa (ensiklopedya), Hindisa (इनसाइक्लोपीडिया “insaiklopidiya”), Turkisa
+    (ansiklopedi), Parsisa (آنسیکلوپدی “ansiklopedi”), Swahilisa (ensaiklopidia)
+...

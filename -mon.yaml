@@ -1,0 +1,56 @@
+---
+term: -mon
+slug: -mon
+ipa: "\u02C8-mon"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-mon&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - element
+    - unit (_of a whole_)
+  epo:
+  - - -ero
+    - elemento
+    - unuo
+  spa:
+  - - elemento
+    - unidad (_de un conjunto_)
+search terms:
+  glb:
+  - -mon
+  eng:
+  - element
+  - unit
+  epo:
+  - -ero
+  - elemento
+  - unuo
+  spa:
+  - elemento
+  - unidad
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/mon">mon</a>.
+antonyms:
+- -lari
+raw data:
+  term: -mon
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: element, unit (_of a whole_)
+    epo: -ero, elemento, unuo
+    spa: elemento, unidad (_de un conjunto_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: -lari
+  example: ""
+  tags: ""
+  etymology: Am oko _mon_.
+...

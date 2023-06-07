@@ -1,0 +1,58 @@
+---
+term: awizin
+slug: awizin
+ipa: "awi\u02C8zin"
+ipa link: "http://ipa-reader.xyz/?text=awi\u02C8zin&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - relinquish
+    - yield
+    - give up
+    - surrender
+  epo:
+  - - forlaso
+  - - folasi
+    - forcedi
+  spa:
+  - - renunciar a
+    - ceder
+search terms:
+  glb:
+  - awizin
+  eng:
+  - relinquish
+  - yield
+  - give up
+  - surrender
+  epo:
+  - forlaso
+  - folasi
+  - forcedi
+  spa:
+  - renunciar a
+  - ceder
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw-">aw-</a> + <a href="../lexi/izin">izin</a>
+raw data:
+  term: awizin
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: relinquish, yield, give up, surrender
+    epo: forlaso; folasi, forcedi
+    spa: renunciar a, ceder
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aw- + izin
+...

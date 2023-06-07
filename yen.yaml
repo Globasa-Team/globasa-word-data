@@ -1,0 +1,64 @@
+---
+term: yen
+slug: yen
+ipa: "\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jen&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (animate) being
+    - gal
+    - guy
+    - personified object
+  epo:
+  - - "(viva) esta\u0135o"
+    - persono
+    - ulo
+    - personigita objekto
+  spa:
+  - - ser (_cualquier ser viviente_)
+    - objeto (_personificado_)
+search terms:
+  glb:
+  - yen
+  eng:
+  - animate being
+  - being
+  - gal
+  - guy
+  - personified object
+  epo:
+  - "viva esta\u0135o"
+  - "esta\u0135o"
+  - persono
+  - ulo
+  - personigita objekto
+  spa:
+  - ser
+  - objeto
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/-yen">-yen</a>.
+synonyms:
+- bioyen
+raw data:
+  term: yen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (animate) being, gal, guy, personified object
+    epo: "(viva) esta\u0135o, persono, ulo, personigita objekto"
+    spa: ser (_cualquier ser viviente_), objeto (_personificado_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: bioyen
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _-yen_.
+...

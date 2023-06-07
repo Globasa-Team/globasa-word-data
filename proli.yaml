@@ -1,0 +1,48 @@
+---
+term: proli
+slug: proli
+ipa: "\u02C8p\u027Eoli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8p\u027Eoli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - favoring
+  epo:
+  - - favora
+  - - favore
+  spa:
+  - - favorable
+search terms:
+  glb:
+  - proli
+  eng:
+  - favoring
+  epo:
+  - favora
+  - favore
+  spa:
+  - favorable
+etymology_type: DERIVD
+etymology: <a href="../lexi/pro">pro</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: proli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: favoring
+    epo: favora; favore
+    spa: favorable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pro + -li
+...

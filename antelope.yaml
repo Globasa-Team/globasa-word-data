@@ -1,0 +1,70 @@
+---
+term: antelope
+slug: antelope
+ipa: anteˈlope
+ipa link: http://ipa-reader.xyz/?text=anteˈlope&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - antelope
+  epo:
+  - - antilopo
+  spa:
+  - - antílope
+    - _Bovidae_
+search terms:
+  glb:
+  - antelope
+  eng:
+  - antelope
+  epo:
+  - antilopo
+  spa:
+  - antílope
+  - bovidae
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - antelope
+  Espanisa:
+  - - antílope
+  Fransesa:
+  - - antilope
+  Rusisa:
+  - - антилопа “antilopa”
+  Doycisa:
+  - - Antilope
+  Indonesisa:
+  - - Antelop
+  Pilipinasa:
+  - - antilope
+  Turkisa:
+  - - antilop
+  Parsisa:
+  - - آنتلوپ “antelop”
+tags:
+- hewan
+raw data:
+  term: antelope
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: antelope
+    epo: antilopo
+    spa: antílope, _Bovidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (antelope), Espanisa (antílope), Fransesa (antilope), Rusisa
+    (антилопа “antilopa”), Doycisa (Antilope), Indonesisa (Antelop), Pilipinasa (antilope),
+    Turkisa (antilop), Parsisa (آنتلوپ “antelop”)
+...

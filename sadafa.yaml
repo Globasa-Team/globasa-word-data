@@ -1,0 +1,63 @@
+---
+term: sadafa
+slug: sadafa
+ipa: "sa\u02C8dafa"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8dafa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - shell
+    - seashell
+    - carapace
+    - concha
+  epo:
+  - - konko
+    - karapaco
+  spa:
+  - - concha
+    - carapacho
+    - "caparaz\xF3n"
+search terms:
+  glb:
+  - sadafa
+  eng:
+  - shell
+  - seashell
+  - carapace
+  - concha
+  epo:
+  - konko
+  - karapaco
+  spa:
+  - concha
+  - carapacho
+  - "caparaz\xF3n"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0635\u064E\u062F\u064E\u0641\u064E\u0629 \"sadafa\""
+  Parsisa:
+  - - "\u0635\u062F\u0641 \"sadaf\""
+raw data:
+  term: sadafa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: shell, seashell, carapace, concha
+    epo: konko, karapaco
+    spa: "concha, carapacho, caparaz\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0635\u064E\u062F\u064E\u0641\u064E\u0629 \"sadafa\"), Parsisa
+    (\u0635\u062F\u0641 \"sadaf\")"
+...

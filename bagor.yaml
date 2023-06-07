@@ -1,0 +1,55 @@
+---
+term: bagor
+slug: bagor
+ipa: baˈgoɾ
+ipa link: http://ipa-reader.xyz/?text=baˈgoɾ&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - fence
+  epo:
+  - - barilo
+  spa:
+  - - cerca
+    - valla
+    - barda
+search terms:
+  glb:
+  - bagor
+  eng:
+  - fence
+  epo:
+  - barilo
+  spa:
+  - cerca
+  - valla
+  - barda
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - pagar
+  Pilipinasa:
+  - - bakod
+    - bakor
+raw data:
+  term: bagor
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: fence
+    epo: barilo
+    spa: cerca, valla, barda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Indonesisa (pagar), Pilipinasa (bakod, bakor)
+...

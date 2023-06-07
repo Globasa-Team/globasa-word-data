@@ -1,0 +1,54 @@
+---
+term: fe fato
+slug: fe fato
+ipa: "fe \u02C8fato"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8fato&voice=Ewa"
+status: false
+category: phrase
+word class: m
+trans:
+  eng:
+  - - in fact
+    - actually
+    - de facto
+  epo:
+  - - fakte
+    - efektive
+  spa:
+  - - de hecho
+search terms:
+  glb:
+  - fe fato
+  - fe
+  - fato
+  eng:
+  - in fact
+  - actually
+  - de facto
+  epo:
+  - fakte
+  - efektive
+  spa:
+  - de hecho
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/fato">fato</a>
+raw data:
+  term: fe fato
+  category: phrase
+  word class: m
+  status: false
+  trans:
+    eng: in fact, actually, de facto
+    epo: fakte, efektive
+    spa: de hecho
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, fato
+...

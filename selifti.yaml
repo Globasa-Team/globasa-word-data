@@ -1,0 +1,46 @@
+---
+term: selifti
+slug: selifti
+ipa: "se\u02C8lifti"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8lifti&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - rise
+    - get up
+  spa:
+  - - alzarse
+    - levantarse
+search terms:
+  glb:
+  - selifti
+  eng:
+  - rise
+  - get up
+  spa:
+  - alzarse
+  - levantarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/se-">se-</a> + <a href="../lexi/lifti">lifti</a>
+raw data:
+  term: selifti
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: rise, get up
+    epo: ""
+    spa: alzarse, levantarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se- + lifti
+...

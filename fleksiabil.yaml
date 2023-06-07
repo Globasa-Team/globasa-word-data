@@ -1,0 +1,52 @@
+---
+term: fleksiabil
+slug: fleksiabil
+ipa: "fleksia\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=fleksia\u02C8bil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - flexible
+  epo:
+  - - "fleksi\u011Dipova"
+    - "kurbi\u011Dipova"
+    - fleksipova
+    - kurbigipova
+  spa:
+  - - flexible
+search terms:
+  glb:
+  - fleksiabil
+  eng:
+  - flexible
+  epo:
+  - "fleksi\u011Dipova"
+  - "kurbi\u011Dipova"
+  - fleksipova
+  - kurbigipova
+  spa:
+  - flexible
+etymology_type: DERIVD
+etymology: <a href="../lexi/fleksi">fleksi</a> + <a href="../lexi/-abil">-abil</a>
+raw data:
+  term: fleksiabil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: flexible
+    epo: "fleksi\u011Dipova, kurbi\u011Dipova, fleksipova, kurbigipova"
+    spa: flexible
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fleksi + -abil
+...

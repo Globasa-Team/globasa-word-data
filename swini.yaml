@@ -1,0 +1,67 @@
+---
+term: swini
+slug: swini
+ipa: "\u02C8swini"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8swini&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pig
+    - hog
+    - swine
+    - _Sus_
+  epo:
+  - - porko
+  spa:
+  - - cerdo
+    - puerco
+    - cochino
+    - _Sus_
+search terms:
+  glb:
+  - swini
+  eng:
+  - pig
+  - hog
+  - swine
+  - sus
+  epo:
+  - porko
+  spa:
+  - cerdo
+  - puerco
+  - cochino
+  - sus
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - swine
+  Doycisa:
+  - - Schwein
+  Rusisa:
+  - - "\u0441\u0432\u0438\u043D\u044C\u044F \u201Csvin'ya\u201D"
+tags:
+- hewan
+raw data:
+  term: swini
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pig, hog, swine, _Sus_
+    epo: porko
+    spa: cerdo, puerco, cochino, _Sus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (swine), Doycisa (Schwein), Rusisa (\u0441\u0432\u0438\u043D\u044C\u044F
+    \u201Csvin'ya\u201D)"
+...

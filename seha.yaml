@@ -1,0 +1,61 @@
+---
+term: seha
+slug: seha
+ipa: "\u02C8sexa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sexa&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - healthy
+    - healthily
+  epo:
+  - - sana
+  - - sane
+  spa:
+  - - saludable
+    - sano
+search terms:
+  glb:
+  - seha
+  eng:
+  - healthy
+  - healthily
+  epo:
+  - sana
+  - sane
+  spa:
+  - saludable
+  - sano
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0635\u062D\u0629 \u201Csiha\u201D - sehaya"
+  Indonesisa:
+  - - sehat
+  Hindisa:
+  - - "\u0938\u0947\u0939\u0924 \u201Csehat\u201D - sehaya"
+  Turkisa:
+  - - "s\u0131hhat"
+raw data:
+  term: seha
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: healthy, healthily
+    epo: sana; sane
+    spa: saludable, sano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0635\u062D\u0629 \u201Csiha\u201D - sehaya), Indonesisa (sehat),
+    Hindisa (\u0938\u0947\u0939\u0924 \u201Csehat\u201D - sehaya), Turkisa (s\u0131hhat)"
+...

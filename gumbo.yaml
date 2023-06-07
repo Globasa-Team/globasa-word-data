@@ -1,0 +1,83 @@
+---
+term: gumbo
+slug: gumbo
+ipa: ˈgumbo
+ipa link: http://ipa-reader.xyz/?text=ˈgumbo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - stick
+    - rod
+    - club
+    - bar
+    - stake
+  epo:
+  - - bastono
+    - stango
+    - vergo
+    - klabo
+  spa:
+  - - palo
+    - vara
+    - barra
+  fra:
+  - - bâton
+    - canne
+    - baguette
+    - pieu
+search terms:
+  glb:
+  - gumbo
+  eng:
+  - stick
+  - rod
+  - club
+  - bar
+  - stake
+  epo:
+  - bastono
+  - stango
+  - vergo
+  - klabo
+  spa:
+  - palo
+  - vara
+  - barra
+  fra:
+  - bâton
+  - canne
+  - baguette
+  - pieu
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 棍棒 “gùnbàng”
+  Niponsa:
+  - - 棍棒 “konbō”
+  Hangusa:
+  - - 곤봉 “gonbong”
+  Swahilisa:
+  - - fimbo
+raw data:
+  term: gumbo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: stick, rod, club, bar, stake
+    epo: bastono, stango, vergo, klabo
+    spa: palo, vara, barra
+    deu: ""
+    fra: bâton, canne, baguette, pieu
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (棍棒 “gùnbàng”), Niponsa (棍棒 “konbō”), Hangusa (곤봉 “gonbong”),
+    Swahilisa (fimbo)
+...

@@ -1,0 +1,48 @@
+---
+term: insanlogi
+slug: insanlogi
+ipa: "insan\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=insan\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - anthropology
+  epo:
+  - - antropologio
+    - homoscienco
+  spa:
+  - - "antropolog\xEDa"
+search terms:
+  glb:
+  - insanlogi
+  eng:
+  - anthropology
+  epo:
+  - antropologio
+  - homoscienco
+  spa:
+  - "antropolog\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/insan">insan</a> + <a href="../lexi/-logi">-logi</a>
+raw data:
+  term: insanlogi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: anthropology
+    epo: antropologio, homoscienco
+    spa: "antropolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: insan + -logi
+...

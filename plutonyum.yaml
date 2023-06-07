@@ -1,0 +1,93 @@
+---
+term: plutonyum
+slug: plutonyum
+ipa: "pluto\u02C8njum"
+ipa link: "http://ipa-reader.xyz/?text=pluto\u02C8njum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - plutonium
+  epo:
+  - - plutonio
+  spa:
+  - - plutonio
+    - Pu
+search terms:
+  glb:
+  - plutonyum
+  eng:
+  - plutonium
+  epo:
+  - plutonio
+  spa:
+  - plutonio
+  - pu
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - plutonium
+  Hindisa:
+  - - "\u092A\u094D\u0932\u0942\u091F\u094B\u0928\u093F\u092F\u092E \u201Cplutoniyam\u201D"
+  Espanisa:
+  - - plutonio
+  Arabisa:
+  - - "\u0628\u0652\u0644\u064F\u0648\u062A\u064F\u0648\u0646\u0650\u064A\u064F\u0648\u0645
+      \u201Cblutuniyum\u201D"
+  Fransesa:
+  - - plutonium
+  Rusisa:
+  - - "\u043F\u043B\u0443\u0442\u043E\u043D\u0438\u0439 \u201Cplutoniy\u201D"
+  Indonesisa:
+  - - plutonium
+  Doycisa:
+  - - Plutonium
+  Niponsa:
+  - - "\u30D7\u30EB\u30C8\u30CB\u30A6\u30E0 \u201Cpurutoniumu\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C4D\u0C32\u0C42\u0C1F\u0C4B\u0C28\u0C3F\u0C2F\u0C02 \u201Cplutoniyam\u201D"
+  Turkisa:
+  - - "pl\xFCtonyum"
+  Hangusa:
+  - - "\uD50C\uB8E8\uD1A0\uB284 \u201Cpulutonyum\u201D"
+  Vyetnamsa:
+  - - plutoni
+  Parsisa:
+  - - "\u067E\u0644\u0648\u062A\u0648\u0646\u06CC\u0648\u0645 \u201Cplutoniyom\u201D"
+  Swahilisa:
+  - - plutoni
+  Pilipinasa:
+  - - plutonyo
+    - plutonyum
+    - plutonium
+tags:
+- kimikali monlari
+raw data:
+  term: plutonyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: plutonium
+    epo: plutonio
+    spa: plutonio, Pu
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (plutonium), Hindisa (\u092A\u094D\u0932\u0942\u091F\u094B\u0928\u093F\u092F\u092E
+    \u201Cplutoniyam\u201D), Espanisa (plutonio), Arabisa (\u0628\u0652\u0644\u064F\u0648\u062A\u064F\u0648\u0646\u0650\u064A\u064F\u0648\u0645
+    \u201Cblutuniyum\u201D), Fransesa (plutonium), Rusisa (\u043F\u043B\u0443\u0442\u043E\u043D\u0438\u0439
+    \u201Cplutoniy\u201D), Indonesisa (plutonium), Doycisa (Plutonium), Niponsa (\u30D7\u30EB\u30C8\u30CB\u30A6\u30E0
+    \u201Cpurutoniumu\u201D), Telugusa (\u0C2A\u0C4D\u0C32\u0C42\u0C1F\u0C4B\u0C28\u0C3F\u0C2F\u0C02
+    \u201Cplutoniyam\u201D), Turkisa (pl\xFCtonyum), Hangusa (\uD50C\uB8E8\uD1A0\uB284
+    \u201Cpulutonyum\u201D), Vyetnamsa (plutoni), Parsisa (\u067E\u0644\u0648\u062A\u0648\u0646\u06CC\u0648\u0645
+    \u201Cplutoniyom\u201D), Swahilisa (plutoni), Pilipinasa (plutonyo, plutonyum,
+    plutonium)"
+...

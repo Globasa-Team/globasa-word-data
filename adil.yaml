@@ -1,0 +1,76 @@
+---
+term: adil
+slug: adil
+ipa: aˈdil
+ipa link: http://ipa-reader.xyz/?text=aˈdil&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - fair
+    - fairly
+    - just
+    - justly
+  epo:
+  - - justa
+  - - juste
+  spa:
+  - - justo
+    - imparcial
+  deu:
+  - - gerecht
+    - fair
+search terms:
+  glb:
+  - adil
+  eng:
+  - fair
+  - fairly
+  - just
+  - justly
+  epo:
+  - justa
+  - juste
+  spa:
+  - justo
+  - imparcial
+  deu:
+  - gerecht
+  - fair
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - عادل “adil”
+  Parsisa:
+  - - عادل “adel”
+  Indonesisa:
+  - - adil
+  Turkisa:
+  - - adil
+  Swahilisa:
+  - - adili
+antonyms:
+- posadil
+- nenadil
+raw data:
+  term: adil
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: fair, fairly, just, justly
+    epo: justa; juste
+    spa: justo, imparcial
+    deu: gerecht, fair
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: posadil, nenadil
+  example: ""
+  tags: ""
+  etymology: Arabisa (عادل “adil”), Parsisa (عادل “adel”), Indonesisa (adil), Turkisa
+    (adil), Swahilisa (adili)
+...

@@ -1,0 +1,57 @@
+---
+term: alocu
+slug: alocu
+ipa: "a\u02C8lot\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8lot\u0361\u0283u&voice=Ewa"
+status: true
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - change
+  - - change
+    - become different
+    - get changed
+  epo:
+  - - "ali\u011Do"
+    - "\u015Dan\u011Di\u011Do"
+  - - "ali\u011Di"
+    - "\u015Dan\u011Di\u011Di"
+  spa:
+  - - cambiar
+search terms:
+  glb:
+  - alocu
+  eng:
+    0: change
+    2: become different
+    3: get changed
+  epo:
+  - "ali\u011Do"
+  - "\u015Dan\u011Di\u011Do"
+  - "ali\u011Di"
+  - "\u015Dan\u011Di\u011Di"
+  spa:
+  - cambiar
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: alocu
+  category: derived
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: change; change, become different, get changed
+    epo: "ali\u011Do, \u015Dan\u011Di\u011Do; ali\u011Di, \u015Dan\u011Di\u011Di"
+    spa: cambiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + -cu
+...

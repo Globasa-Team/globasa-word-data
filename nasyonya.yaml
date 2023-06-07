@@ -1,0 +1,46 @@
+---
+term: nasyonya
+slug: nasyonya
+ipa: "na\u02C8sjonja"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8sjonja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - nationality
+  epo:
+  - - nacieco
+  spa:
+  - - nacionalidad
+search terms:
+  glb:
+  - nasyonya
+  eng:
+  - nationality
+  epo:
+  - nacieco
+  spa:
+  - nacionalidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/nasyon">nasyon</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: nasyonya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: nationality
+    epo: nacieco
+    spa: nacionalidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nasyon + -ya
+...

@@ -1,0 +1,64 @@
+---
+term: solo
+slug: solo
+ipa: "\u02C8solo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8solo&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - alone
+    - (the) sole
+    - (the) only
+  epo:
+  - - sola
+  - - sole
+  spa:
+  - - solo
+    - "\xFAnico"
+search terms:
+  glb:
+  - solo
+  eng:
+  - alone
+  - the sole
+  - sole
+  - the only
+  - only
+  epo:
+  - sola
+  - sole
+  spa:
+  - solo
+  - "\xFAnico"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sole
+    - solo
+  Fransesa:
+  - - seul
+    - solo
+  Espanisa:
+  - - solo
+raw data:
+  term: solo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: alone, (the) sole, (the) only
+    epo: sola; sole
+    spa: "solo, \xFAnico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (sole, solo), Fransesa (seul, solo), Espanisa (solo)
+...

@@ -1,0 +1,48 @@
+---
+term: weyya
+slug: weyya
+ipa: "\u02C8wejja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wejja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - be around
+    - surround
+  epo:
+  - - "\u0109irka\u016Di"
+  spa:
+  - - estar alrededor
+search terms:
+  glb:
+  - weyya
+  eng:
+  - be around
+  - surround
+  epo:
+  - "\u0109irka\u016Di"
+  spa:
+  - estar alrededor
+etymology_type: DERIVD
+etymology: <a href="../lexi/wey">wey</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: weyya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: be around, surround
+    epo: "\u0109irka\u016Di"
+    spa: estar alrededor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wey + -ya
+...

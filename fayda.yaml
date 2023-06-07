@@ -1,0 +1,63 @@
+---
+term: fayda
+slug: fayda
+ipa: ˈfajda
+ipa link: http://ipa-reader.xyz/?text=ˈfajda&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - benefit (_be helpful or useful to_)
+  epo:
+  - - profito
+  - - profiti
+    - profitigi
+  spa:
+  - - beneficio
+  - - beneficiar
+    - beneficiarse
+search terms:
+  glb:
+  - fayda
+  eng:
+  - benefit
+  epo:
+  - profito
+  - profiti
+  - profitigi
+  spa:
+  - beneficio
+  - beneficiar
+  - beneficiarse
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فایده “fayida”
+  Hindisa:
+  - - फायदा “phaayada”
+  Swahilisa:
+  - - faida
+  Turkisa:
+  - - fayda
+raw data:
+  term: fayda
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: benefit (_be helpful or useful to_)
+    epo: profito; profiti, profitigi
+    spa: beneficio; beneficiar, beneficiarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (فایده “fayida”), Hindisa (फायदा “phaayada”), Swahilisa (faida),
+    Turkisa (fayda)
+...

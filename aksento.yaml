@@ -1,0 +1,69 @@
+---
+term: aksento
+slug: aksento
+ipa: akˈsento
+ipa link: http://ipa-reader.xyz/?text=akˈsento&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - accent (_sociolinguistics_)
+  epo:
+  - - akĉento
+  spa:
+  - - acento (_sociolingüística_)
+  deu:
+  - - Akzent (Aussprache)
+search terms:
+  glb:
+  - aksento
+  eng:
+  - accent
+  epo:
+  - akĉento
+  spa:
+  - acento
+  deu:
+  - akzent aussprache
+  - akzent
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - accent
+  Espanisa:
+  - - acento
+  Fransesa:
+  - - acento
+  Rusisa:
+  - - акцент “akcent”
+  Doycisa:
+  - - Akzent
+  Indonesisa:
+  - - aksen
+  Turkisa:
+  - - aksan
+  Parsisa:
+  - - اکسنت “aksent”
+raw data:
+  term: aksento
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: accent (_sociolinguistics_)
+    epo: akĉento
+    spa: acento (_sociolingüística_)
+    deu: Akzent (Aussprache)
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (accent), Espanisa (acento), Fransesa (acento), Rusisa (акцент
+    “akcent”), Doycisa (Akzent), Indonesisa (aksen), Turkisa (aksan), Parsisa (اکسنت
+    “aksent”)
+...

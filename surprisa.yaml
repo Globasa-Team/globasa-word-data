@@ -1,0 +1,67 @@
+---
+term: surprisa
+slug: surprisa
+ipa: "su\u027E\u02C8p\u027Eisa"
+ipa link: "http://ipa-reader.xyz/?text=su\u027E\u02C8p\u027Eisa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - surprise
+  epo:
+  - - surprizo
+  - - surprizi
+  spa:
+  - - sorpresa
+  - - sorprender
+search terms:
+  glb:
+  - surprisa
+  eng:
+  - surprise
+  epo:
+  - surprizo
+  - surprizi
+  spa:
+  - sorpresa
+  - sorprender
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - surprise
+  Espanisa:
+  - - sorpresa
+  Fransesa:
+  - - surprise
+  Rusisa:
+  - - "\u0441\u044E\u0440\u043F\u0440\u0438\u0437 \u201Csyurpriz\u201D"
+  Pilipinasa:
+  - - sorpresa
+  Turkisa:
+  - - "s\xFCrpriz"
+  Parsisa:
+  - - "\u0633\u0648\u0631\u067E\u0631\u06CC\u0632 \u201Csurpriz\u201D"
+raw data:
+  term: surprisa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: surprise
+    epo: surprizo; surprizi
+    spa: sorpresa; sorprender
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (surprise), Espanisa (sorpresa), Fransesa (surprise), Rusisa
+    (\u0441\u044E\u0440\u043F\u0440\u0438\u0437 \u201Csyurpriz\u201D), Pilipinasa
+    (sorpresa), Turkisa (s\xFCrpriz), Parsisa (\u0633\u0648\u0631\u067E\u0631\u06CC\u0632
+    \u201Csurpriz\u201D)"
+...

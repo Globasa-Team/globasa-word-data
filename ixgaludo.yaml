@@ -1,0 +1,52 @@
+---
+term: ixgaludo
+slug: ixgaludo
+ipa: "i\u0283ga\u02C8ludo"
+ipa link: "http://ipa-reader.xyz/?text=i\u0283ga\u02C8ludo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - busy
+    - occupied
+    - taken
+  epo:
+  - - okupita
+  - - okupite
+  spa:
+  - - ocupado
+search terms:
+  glb:
+  - ixgaludo
+  eng:
+  - busy
+  - occupied
+  - taken
+  epo:
+  - okupita
+  - okupite
+  spa:
+  - ocupado
+etymology_type: DERIVD
+etymology: <a href="../lexi/ixgalu">ixgalu</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: ixgaludo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: busy, occupied, taken
+    epo: okupita; okupite
+    spa: ocupado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ixgalu + -do
+...

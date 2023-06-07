@@ -1,0 +1,50 @@
+---
+term: urugway
+slug: urugway
+ipa: "u\u027Eu\u02C8gwaj"
+ipa link: "http://ipa-reader.xyz/?text=u\u027Eu\u02C8gwaj&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Uruguay
+  epo:
+  - - Urugvajo
+  spa:
+  - - Uruguay
+search terms:
+  glb:
+  - urugway
+  eng:
+  - uruguay
+  epo:
+  - urugvajo
+  spa:
+  - uruguay
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Uruguay
+tags:
+- dexa
+raw data:
+  term: Urugway
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Uruguay
+    epo: Urugvajo
+    spa: Uruguay
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Uruguay)
+...

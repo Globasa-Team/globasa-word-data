@@ -1,0 +1,50 @@
+---
+term: kusen
+slug: kusen
+ipa: "ku\u02C8sen"
+ipa link: "http://ipa-reader.xyz/?text=ku\u02C8sen&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cushion
+  epo:
+  - - kuseno
+  spa:
+  - - "coj\xEDn"
+    - "almohad\xF3n"
+search terms:
+  glb:
+  - kusen
+  eng:
+  - cushion
+  epo:
+  - kuseno
+  spa:
+  - "coj\xEDn"
+  - "almohad\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kusen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cushion
+    epo: kuseno
+    spa: "coj\xEDn, almohad\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cushion), Fransesa (coussin), Doycisa (Kissen), Espanisa (coj\xEDn),
+    Niponsa (\u30AF\u30C3\u30B7\u30E7\u30F3 \u201Ckusshon\u201D), Hangusa (\uCFE0\uC158
+    \u201Ckusyeon\u201D), Parsisa (\u06A9\u0648\u0633\u0646 \u201Ckusan\u201D)"
+...

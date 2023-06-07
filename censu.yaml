@@ -1,0 +1,54 @@
+---
+term: censu
+slug: censu
+ipa: ˈt͡ʃensu
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃensu&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - mature
+    - maturely
+  epo:
+  - - matura
+  - - mature
+  spa:
+  - - maduro
+search terms:
+  glb:
+  - censu
+  eng:
+  - mature
+  - maturely
+  epo:
+  - matura
+  - mature
+  spa:
+  - maduro
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 成熟 “chéngshú”
+  Hangusa:
+  - - 성숙 “seongsug-”
+raw data:
+  term: censu
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: mature, maturely
+    epo: matura; mature
+    spa: maduro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (成熟 “chéngshú”), Hangusa (성숙 “seongsug-”)
+...

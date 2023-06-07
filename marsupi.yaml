@@ -1,0 +1,54 @@
+---
+term: marsupi
+slug: marsupi
+ipa: "ma\u027E\u02C8supi"
+ipa link: "http://ipa-reader.xyz/?text=ma\u027E\u02C8supi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - marsupium
+    - pouch
+  epo:
+  - - marsupio
+  spa:
+  - - marsupio
+search terms:
+  glb:
+  - marsupi
+  eng:
+  - marsupium
+  - pouch
+  epo:
+  - marsupio
+  spa:
+  - marsupio
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: marsupi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: marsupium, pouch
+    epo: marsupio
+    spa: marsupio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (marsupium, marsupial), Espanisa (marsupio, marsupial), Fransesa
+    (marsupium), Doycisa (Marsupialier), Indonesisa (marsupialia), Pilipinasa (marsupial),
+    Hindisa (\u092E\u093E\u0930\u0938\u0942\u092A\u093F\u092F\u0932 \u201Cmarsupiyal\u201D),
+    Telugusa (\u0C2E\u0C3E\u0C30\u0C4D\u0C38\u0C41\u0C2A\u0C40\u0C32\u0C3F\u0C2F\u0C3E
+    \u201Cmarsupiliya\u201D), Swahilisa (marsupialia)"
+...

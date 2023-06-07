@@ -1,0 +1,56 @@
+---
+term: okey
+slug: okey
+ipa: "o\u02C8kej"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8kej&voice=Ewa"
+status: true
+category: root
+word class: il
+trans:
+  eng:
+  - - okay
+  epo:
+  - - bone
+    - okej
+  spa:
+  - - okey
+    - bien
+    - bueno
+search terms:
+  glb:
+  - okey
+  eng:
+  - okay
+  epo:
+  - bone
+  - okej
+  spa:
+  - okey
+  - bien
+  - bueno
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - okay
+tags:
+- intrelogalexi
+raw data:
+  term: okey
+  category: root
+  word class: il
+  status: true
+  trans:
+    eng: okay
+    epo: bone, okej
+    spa: okey, bien, bueno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: Englisa (okay)
+...

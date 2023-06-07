@@ -1,0 +1,58 @@
+---
+term: expesa
+slug: expesa
+ipa: "e\u0283\u02C8pesa"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283\u02C8pesa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - expense
+    - expenditure
+  - - spend
+  epo:
+  - - elspezo
+  - - elspezi
+  spa:
+  - - costo
+    - gasto
+    - desembolso
+  - - gastar
+search terms:
+  glb:
+  - expesa
+  eng:
+  - expense
+  - expenditure
+  - spend
+  epo:
+  - elspezo
+  - elspezi
+  spa:
+  - costo
+  - gasto
+  - desembolso
+  - gastar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/pesa">pesa</a>
+raw data:
+  term: expesa
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: expense, expenditure; spend
+    epo: elspezo; elspezi
+    spa: costo, gasto, desembolso; gastar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex- + pesa
+...

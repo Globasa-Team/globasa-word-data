@@ -1,0 +1,50 @@
+---
+term: kijawi
+slug: kijawi
+ipa: "ki\u02C8d\u0361\u0292awi"
+ipa link: "http://ipa-reader.xyz/?text=ki\u02C8d\u0361\u0292awi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - green
+  epo:
+  - - verda
+  - - verde
+  spa:
+  - - verde
+search terms:
+  glb:
+  - kijawi
+  eng:
+  - green
+  epo:
+  - verda
+  - verde
+  spa:
+  - verde
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kolor
+raw data:
+  term: kijawi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: green
+    epo: verda; verde
+    spa: verde
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: Swahilisa (kijani), Indonesisa (hijau)
+...

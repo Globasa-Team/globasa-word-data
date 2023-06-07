@@ -1,0 +1,52 @@
+---
+term: dyer
+slug: dyer
+ipa: ˈdjeɾ
+ipa link: http://ipa-reader.xyz/?text=ˈdjeɾ&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - late
+  epo:
+  - - malfrua
+  - - malfrue
+  spa:
+  - - tarde
+search terms:
+  glb:
+  - dyer
+  eng:
+  - late
+  epo:
+  - malfrua
+  - malfrue
+  spa:
+  - tarde
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - देर “der”
+  Parsisa:
+  - - دیر “dir”
+raw data:
+  term: dyer
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: late
+    epo: malfrua; malfrue
+    spa: tarde
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (देर “der”), Parsisa (دیر “dir”)
+...

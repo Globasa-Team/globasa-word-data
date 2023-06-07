@@ -1,0 +1,48 @@
+---
+term: semiroso
+slug: semiroso
+ipa: "semi\u02C8\u027Eoso"
+ipa link: "http://ipa-reader.xyz/?text=semi\u02C8\u027Eoso&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - reddish
+  epo:
+  - - "ru\u011Deca"
+  - - "ru\u011Dece"
+  spa:
+  - - rojizo
+search terms:
+  glb:
+  - semiroso
+  eng:
+  - reddish
+  epo:
+  - "ru\u011Deca"
+  - "ru\u011Dece"
+  spa:
+  - rojizo
+etymology_type: DERIVD
+etymology: <a href="../lexi/semi">semi</a> + <a href="../lexi/roso">roso</a>
+raw data:
+  term: semiroso
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: reddish
+    epo: "ru\u011Deca; ru\u011Dece"
+    spa: rojizo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: semi + roso
+...

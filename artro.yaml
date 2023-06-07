@@ -1,0 +1,72 @@
+---
+term: artro
+slug: artro
+ipa: ˈaɾtɾo
+ipa link: http://ipa-reader.xyz/?text=ˈaɾtɾo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - joint
+  epo:
+  - - artiko
+  spa:
+  - - articulación
+    - coyuntura
+    - junta
+    - bisagra
+search terms:
+  glb:
+  - artro
+  eng:
+  - joint
+  epo:
+  - artiko
+  spa:
+  - articulación
+  - coyuntura
+  - junta
+  - bisagra
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - arthro-
+    - arthritis
+  Espanisa:
+  - - artro-
+    - artritis
+  Fransesa:
+  - - arthrite
+  Rusisa:
+  - - артрит “artrit”
+  Doycisa:
+  - - Arthritis
+  Turkisa:
+  - - artrit
+  Lamaelinisa:
+  - - ᾰ̓́ρθρον “arthron”
+tags:
+- jismulogi
+raw data:
+  term: artro
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: joint
+    epo: artiko
+    spa: articulación, coyuntura, junta, bisagra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Englisa (arthro-, arthritis), Espanisa (artro-, artritis), Fransesa (arthrite),
+    Rusisa (артрит “artrit”), Doycisa (Arthritis), Turkisa (artrit), Lamaelinisa (ᾰ̓́ρθρον
+    “arthron”)
+...

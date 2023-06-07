@@ -1,0 +1,82 @@
+---
+term: retil
+slug: retil
+ipa: "\u027Ee\u02C8til"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8til&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - crawl
+    - creep
+  epo:
+  - - rampo
+  - - rampi
+  spa:
+  - - gatear
+    - reptar
+    - arrastrarse
+    - deslizarse
+search terms:
+  glb:
+  - retil
+  eng:
+  - crawl
+  - creep
+  epo:
+  - rampo
+  - rampi
+  spa:
+  - gatear
+  - reptar
+  - arrastrarse
+  - deslizarse
+etymology_type: NATLNG
+etymology:
+  Latinsa:
+  - - reptilis
+    - reptile
+    - repere
+  '- Englisa':
+  - - reptile
+    - reptilian
+    - Reptilia
+  Fransesa:
+  - - reptile
+  Espanisa:
+  - - reptil
+    - reptar
+  Doycisa:
+  - - Reptil
+  Indonesisa:
+  - - reptil
+  Rusisa:
+  - - "\u0440\u0435\u043F\u0442\u0438\u043B\u0438\u044F \u201Creptiliya\u201D"
+  Pilipinasa:
+  - - reptilya
+  Swahilisa:
+  - - reptilia
+raw data:
+  term: retil
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: crawl, creep
+    epo: rampo; rampi
+    spa: gatear, reptar, arrastrarse, deslizarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Latinsa (reptilis, reptile, repere) - Englisa (reptile, reptilian, Reptilia),
+    Fransesa (reptile), Espanisa (reptil, reptar), Doycisa (Reptil), Indonesisa (reptil),
+    Rusisa (\u0440\u0435\u043F\u0442\u0438\u043B\u0438\u044F \u201Creptiliya\u201D),
+    Pilipinasa (reptilya), Swahilisa (reptilia)"
+...

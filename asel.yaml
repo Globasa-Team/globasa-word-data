@@ -1,0 +1,66 @@
+---
+term: asel
+slug: asel
+ipa: aˈsel
+ipa link: http://ipa-reader.xyz/?text=aˈsel&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - origin
+    - source
+  - - originate
+  epo:
+  - - deveno
+  - - deveni
+  spa:
+  - - origen
+  - - originar
+    - originarse
+search terms:
+  glb:
+  - asel
+  eng:
+  - origin
+  - source
+  - originate
+  epo:
+  - deveno
+  - deveni
+  spa:
+  - origen
+  - originar
+  - originarse
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - أصل “asl”
+  Indonesisa:
+  - - asal
+  Parsisa:
+  - - اصل “asl”
+  "": ~
+  Swahilisa:
+  - - asili
+raw data:
+  term: asel
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: origin, source; originate
+    epo: deveno; deveni
+    spa: origen; originar, originarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (أصل “asl”), Indonesisa (asal), Parsisa (اصل “asl”) , Swahilisa
+    (asili)
+...

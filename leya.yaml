@@ -1,0 +1,57 @@
+---
+term: leya
+slug: leya
+ipa: "\u02C8leja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8leja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - (the) past
+  - - be before
+  epo:
+  - - estinteco
+    - pasinteco
+  - - "esti anta\u016D"
+  spa:
+  - - pasado
+  - - preceder
+    - anteceder
+search terms:
+  glb:
+  - leya
+  eng:
+  - the past
+  - past
+  - be before
+  epo:
+  - estinteco
+  - pasinteco
+  - "esti anta\u016D"
+  spa:
+  - pasado
+  - preceder
+  - anteceder
+etymology_type: DERIVD
+etymology: <a href="../lexi/le">le</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: leya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: (the) past; be before
+    epo: "estinteco, pasinteco; esti anta\u016D"
+    spa: pasado; preceder, anteceder
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: le + -ya
+...

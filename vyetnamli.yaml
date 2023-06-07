@@ -1,0 +1,46 @@
+---
+term: vyetnamli
+slug: vyetnamli
+ipa: "vjet\u02C8namli"
+ipa link: "http://ipa-reader.xyz/?text=vjet\u02C8namli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Vietnamese
+  epo:
+  - - vjetnama
+  spa:
+  - - vietnamita
+search terms:
+  glb:
+  - vyetnamli
+  eng:
+  - vietnamese
+  epo:
+  - vjetnama
+  spa:
+  - vietnamita
+etymology_type: DERIVD
+etymology: <a href="../lexi/Vyetnam">Vyetnam</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Vyetnamli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Vietnamese
+    epo: vjetnama
+    spa: vietnamita
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Vyetnam + -li
+...

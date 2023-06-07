@@ -1,0 +1,52 @@
+---
+term: antiaksyon
+slug: antiaksyon
+ipa: "antiak\u02C8sjon"
+ipa link: "http://ipa-reader.xyz/?text=antiak\u02C8sjon&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - counteraction
+  - - counteract
+  epo:
+  - - "kontra\u016Dago"
+  - - "kontra\u016Dagi"
+  spa:
+  - - "oposici\xF3n"
+  - - oponer
+search terms:
+  glb:
+  - antiaksyon
+  eng:
+  - counteraction
+  - counteract
+  epo:
+  - "kontra\u016Dago"
+  - "kontra\u016Dagi"
+  spa:
+  - "oposici\xF3n"
+  - oponer
+etymology_type: DERIVD
+etymology: <a href="../lexi/anti-">anti-</a> + <a href="../lexi/aksyon">aksyon</a>
+raw data:
+  term: antiaksyon
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: counteraction; counteract
+    epo: "kontra\u016Dago; kontra\u016Dagi"
+    spa: "oposici\xF3n; oponer"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: anti- + aksyon
+...

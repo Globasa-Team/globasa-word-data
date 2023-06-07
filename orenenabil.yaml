@@ -1,0 +1,48 @@
+---
+term: orenenabil
+slug: orenenabil
+ipa: "o\u027Eenena\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=o\u027Eenena\u02C8bil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - deaf
+  epo:
+  - - surda
+  - - surde
+  spa:
+  - - sordo
+search terms:
+  glb:
+  - orenenabil
+  eng:
+  - deaf
+  epo:
+  - surda
+  - surde
+  spa:
+  - sordo
+etymology_type: DERIVD
+etymology: <a href="../lexi/ore">ore</a> + <a href="../lexi/nen-">nen-</a> + <a href="../lexi/abil">abil</a>
+raw data:
+  term: orenenabil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: deaf
+    epo: surda; surde
+    spa: sordo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ore + nen- + abil
+...

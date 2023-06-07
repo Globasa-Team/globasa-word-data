@@ -1,0 +1,55 @@
+---
+term: jelatin
+slug: jelatin
+ipa: "d\u0361\u0292ela\u02C8tin"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292ela\u02C8tin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gelatine
+  epo:
+  - - gelateno
+  spa:
+  - - gelatina
+search terms:
+  glb:
+  - jelatin
+  eng:
+  - gelatine
+  epo:
+  - gelateno
+  spa:
+  - gelatina
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: jelatin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gelatine
+    epo: gelateno
+    spa: gelatina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (gelatin), Espanisa (gelatina), Fransesa (g\xE9latine), Rusisa
+    (\u0436\u0435\u043B\u0430\u0442\u0438\u043D \u201Cjelatin\u201D), Doycisa (Gelatine),
+    Pilipinasa (helatina), Putunhwa (\u5409\u5229\u4E01 \u201Cjiliding\u201D), Hindisa
+    (\u091C\u093F\u0932\u0947\u091F\u093F\u0928 \u201Cjiletin\u201D), Arabisa (\u062C\u064A\u0644\u0627\u062A\u064A\u0646
+    \u201Cjilatin\u201D), Niponsa (\u30BC\u30E9\u30C1\u30F3 \u201Czeracin\u201D),
+    Telugusa (\u0C1C\u0C46\u0C32\u0C1F\u0C3F\u0C28\u0C4D \u201Cjelatin\u201D), Turkisa
+    (jelatin), Hangusa (\uC824\uB77C\uD2F4 \u201Cjellatin\u201D), Parsisa (\u0698\u0644\u0627\u062A\u06CC\u0646
+    \u201Cjelatin\u201D)"
+...

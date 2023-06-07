@@ -1,0 +1,58 @@
+---
+term: bonglu
+slug: bonglu
+ipa: "\u02C8bonglu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8bonglu&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a; il
+trans:
+  eng:
+  - - toast
+  - - (drink a) toast
+  - - cheers
+  epo:
+  - - tosto
+  - - tosti
+  - - sanon
+  spa:
+  - - brindis
+  - - salud
+search terms:
+  glb:
+  - bonglu
+  eng:
+    0: toast
+    1: drink a toast
+    3: cheers
+  epo:
+  - tosto
+  - tosti
+  - sanon
+  spa:
+  - brindis
+  - salud
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/glu">glu</a>
+tags:
+- intrelogalexi
+raw data:
+  term: bonglu
+  category: derived
+  word class: n/f.oro.a; il
+  status: false
+  trans:
+    eng: toast; (drink a) toast; cheers
+    epo: tosto; tosti; sanon
+    spa: brindis; salud
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: bon- + glu
+...

@@ -1,0 +1,51 @@
+---
+term: ninimedisyen
+slug: ninimedisyen
+ipa: "ninimedi\u02C8sjen"
+ipa link: "http://ipa-reader.xyz/?text=ninimedi\u02C8sjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pediatrician
+  epo:
+  - - pediatriisto
+    - pediatro
+    - infankuracisto
+  spa:
+  - - pediatra
+search terms:
+  glb:
+  - ninimedisyen
+  eng:
+  - pediatrician
+  epo:
+  - pediatriisto
+  - pediatro
+  - infankuracisto
+  spa:
+  - pediatra
+etymology_type: DERIVD
+etymology: <a href="../lexi/nini">nini</a> + <a href="../lexi/-medis">-medis</a> +
+  <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: ninimedisyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pediatrician
+    epo: pediatriisto, pediatro, infankuracisto
+    spa: pediatra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nini + -medis + -yen
+...

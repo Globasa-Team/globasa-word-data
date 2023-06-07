@@ -1,0 +1,56 @@
+---
+term: dongu
+slug: dongu
+ipa: ˈdongu
+ipa link: http://ipa-reader.xyz/?text=ˈdongu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - east
+  epo:
+  - - oriento
+  spa:
+  - - este
+    - oriente
+search terms:
+  glb:
+  - dongu
+  eng:
+  - east
+  epo:
+  - oriento
+  spa:
+  - este
+  - oriente
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 东 “dōng”
+  Vyetnamsa:
+  - - đông
+  Hangusa:
+  - - 동 “dong”
+  Turkish:
+  - - doğu
+raw data:
+  term: dongu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: east
+    epo: oriento
+    spa: este, oriente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (东 “dōng”), Vyetnamsa (đông), Hangusa (동 “dong”), Turkish (doğu)
+...

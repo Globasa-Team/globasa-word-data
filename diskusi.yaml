@@ -1,0 +1,68 @@
+---
+term: diskusi
+slug: diskusi
+ipa: disˈkusi
+ipa link: http://ipa-reader.xyz/?text=disˈkusi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - discussion
+  - - discuss
+  epo:
+  - - diskuto
+  - - diskuti
+  spa:
+  - - discusión
+  - - discutir
+search terms:
+  glb:
+  - diskusi
+  eng:
+  - discussion
+  - discuss
+  epo:
+  - diskuto
+  - diskuti
+  spa:
+  - discusión
+  - discutir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - discussion
+  Fransesa:
+  - - discussion
+  Doycisa:
+  - - Diskussion
+  Rusisa:
+  - - дискуссия “diskussiya”
+  Espanisa:
+  - - dicusión
+  Indonesisa:
+  - - diskusi
+  Pilipinasa:
+  - - diskusyon
+raw data:
+  term: diskusi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: discussion; discuss
+    epo: diskuto; diskuti
+    spa: discusión; discutir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (discussion), Fransesa (discussion), Doycisa (Diskussion), Rusisa
+    (дискуссия “diskussiya”), Espanisa (dicusión), Indonesisa (diskusi), Pilipinasa
+    (diskusyon)
+...

@@ -1,0 +1,69 @@
+---
+term: toka
+slug: toka
+ipa: "\u02C8toka"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8toka&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - knock (on)
+  epo:
+  - - frapeto
+    - sonfrapo
+  - - frapi (surfacon kiel pordon)
+  spa:
+  - - golpe (en la puerta)
+    - toc
+  - - golpear
+    - tocar a la puerta
+search terms:
+  glb:
+  - toka
+  eng:
+  - knock on
+  - knock
+  epo:
+  - frapeto
+  - sonfrapo
+  - frapi surfacon kiel pordon
+  - frapi
+  spa:
+  - golpe en la puerta
+  - golpe
+  - toc
+  - golpear
+  - tocar a la puerta
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Fransesa: ~
+  Indonesisa: ~
+  Hangusa: ~
+  Parsisa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Vyetnamsa: ~
+raw data:
+  term: toka
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: knock (on)
+    epo: frapeto, sonfrapo; frapi (surfacon kiel pordon)
+    spa: golpe (en la puerta), toc; golpear, tocar a la puerta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwasilexi - Fransesa ( ), Indonesisa, Hangusa, Parsisa, Rusisa, Espanisa,
+    Pilipinasa, Turkisa, Vyetnamsa
+...

@@ -1,0 +1,49 @@
+---
+term: femkuzin
+slug: femkuzin
+ipa: "femku\u02C8zin"
+ipa link: "http://ipa-reader.xyz/?text=femku\u02C8zin&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (female) cousin
+  epo:
+  - - kuzino
+  spa:
+  - - prima
+search terms:
+  glb:
+  - femkuzin
+  eng:
+  - female cousin
+  - cousin
+  epo:
+  - kuzino
+  spa:
+  - prima
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/kuzin">kuzin</a>
+tags:
+- famil
+raw data:
+  term: femkuzin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (female) cousin
+    epo: kuzino
+    spa: prima
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: famil
+  etymology: fem- + kuzin
+...

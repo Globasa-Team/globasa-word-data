@@ -1,0 +1,79 @@
+---
+term: preciso
+slug: preciso
+ipa: "p\u027Ee\u02C8t\u0361\u0283iso"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Ee\u02C8t\u0361\u0283iso&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - exact
+    - exactly
+    - precise
+    - precisely
+    - accurate
+    - accurately
+  epo:
+  - - preciza
+  - - precize
+  spa:
+  - - exacto
+    - preciso
+search terms:
+  glb:
+  - preciso
+  eng:
+  - exact
+  - exactly
+  - precise
+  - precisely
+  - accurate
+  - accurately
+  epo:
+  - preciza
+  - precize
+  spa:
+  - exacto
+  - preciso
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - precise
+  Fransesa:
+  - - "pr\xE9cis"
+  Doycisa:
+  - - "pr\xE4zise"
+  Espanisa:
+  - - preciso
+  Italisa:
+  - - preciso
+  Polskasa:
+  - - precyzyjny
+  Indonesisa:
+  - - persis
+    - presisi
+  Parsisa:
+  - - "\u067E\u0631\u0633\u0648\u0646 \u201Cparsun\u201D"
+raw data:
+  term: preciso
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: exact, exactly, precise, precisely, accurate, accurately
+    epo: preciza; precize
+    spa: exacto, preciso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (precise), Fransesa (pr\xE9cis), Doycisa (pr\xE4zise), Espanisa
+    (preciso), Italisa (preciso), Polskasa (precyzyjny), Indonesisa (persis, presisi),
+    Parsisa (\u067E\u0631\u0633\u0648\u0646 \u201Cparsun\u201D)"
+...

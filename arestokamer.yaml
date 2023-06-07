@@ -1,0 +1,49 @@
+---
+term: arestokamer
+slug: arestokamer
+ipa: "a\u027Eestoka\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Eestoka\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (prison) cell
+  epo:
+  - - arestejo
+    - karcero
+  spa:
+  - - "celda de prisi\xF3n"
+search terms:
+  glb:
+  - arestokamer
+  eng:
+  - prison cell
+  - cell
+  epo:
+  - arestejo
+  - karcero
+  spa:
+  - "celda de prisi\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/aresto">aresto</a> + <a href="../lexi/-kamer">-kamer</a>
+raw data:
+  term: arestokamer
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (prison) cell
+    epo: arestejo, karcero
+    spa: "celda de prisi\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aresto + -kamer
+...

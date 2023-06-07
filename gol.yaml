@@ -1,0 +1,85 @@
+---
+term: gol
+slug: gol
+ipa: ˈgol
+ipa link: http://ipa-reader.xyz/?text=ˈgol&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - goal (_soccer
+    - football_)
+    - score
+    - touchdown
+  - - score
+  epo:
+  - - golo
+  - - goli
+  spa:
+  - - gol
+    - _touchdown_
+  - - marcar un gol
+search terms:
+  glb:
+  - gol
+  eng:
+  - goal soccer
+  - goal (_soccer
+  - football
+  - score
+  - touchdown
+  epo:
+  - golo
+  - goli
+  spa:
+  - gol
+  - touchdown
+  - marcar un gol
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - goal
+  Fransesa:
+  - - goal
+  Doycisa:
+  - - Goal
+  Rusisa: ~
+  Espanisa:
+  - - gol
+  Turkisa:
+  - - gol
+  Indonesisa:
+  - - gol
+  Pilipinasa:
+  - - gol
+  Niponsa:
+  - - ゴール “gōru”
+  Hangusa:
+  - - 골 “gol”
+  Telugusa:
+  - - గోలు “gōlu”
+  Parsisa:
+  - - گل‎ “gol”
+raw data:
+  term: gol
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: goal (_soccer, football_), score, touchdown; score
+    epo: golo; goli
+    spa: gol, _touchdown_; marcar un gol
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (goal), Fransesa (goal), Doycisa (Goal), Rusisa, Espanisa (gol),
+    Turkisa (gol), Indonesisa (gol), Pilipinasa (gol), Niponsa (ゴール “gōru”), Hangusa
+    (골 “gol”), Telugusa (గోలు “gōlu”), Parsisa (گل‎ “gol”)
+...

@@ -1,0 +1,75 @@
+---
+term: enfasis
+slug: enfasis
+ipa: enfaˈsis
+ipa link: http://ipa-reader.xyz/?text=enfaˈsis&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - emphasis
+    - stress
+    - accent (_phonology_)
+  - - emphasize
+    - stress
+  epo:
+  - - emfazo
+    - akcento
+  - - emfazi
+    - akcenti
+  spa:
+  - - énfasis
+    - hincapié
+    - acento (_fonología_)
+  - - enfatizar
+    - acentuar
+search terms:
+  glb:
+  - enfasis
+  eng:
+  - emphasis
+  - stress
+  - accent
+  - emphasize
+  epo:
+  - emfazo
+  - akcento
+  - emfazi
+  - akcenti
+  spa:
+  - énfasis
+  - hincapié
+  - acento
+  - enfatizar
+  - acentuar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - emphasis
+  Fransesa:
+  - - emphase
+  Espanisa:
+  - - énfasis
+  Swerisa:
+  - - emfas
+raw data:
+  term: enfasis
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: emphasis, stress, accent (_phonology_); emphasize, stress
+    epo: emfazo, akcento; emfazi, akcenti
+    spa: énfasis, hincapié, acento (_fonología_); enfatizar, acentuar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (emphasis), Fransesa (emphase), Espanisa (énfasis), Swerisa (emfas)
+...

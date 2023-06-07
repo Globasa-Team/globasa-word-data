@@ -1,0 +1,50 @@
+---
+term: larva
+slug: larva
+ipa: "\u02C8la\u027Eva"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8la\u027Eva&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - larva
+  epo:
+  - - larvo
+  spa:
+  - - larva
+search terms:
+  glb:
+  - larva
+  eng:
+  - larva
+  epo:
+  - larvo
+  spa:
+  - larva
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: larva
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: larva
+    epo: larvo
+    spa: larva
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (larva), Espanisa, Indonesisa, Turkisa, Fransesa (larve), Doycisa,
+    Pilipinasa (larba), Parsisa (\u0644\u0627\u0631\u0648 \u201Clarv\u201D), Swahilisa
+    (lava)"
+...

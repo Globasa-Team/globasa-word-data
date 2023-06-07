@@ -1,0 +1,50 @@
+---
+term: maxmo or minmo
+slug: maxmo or minmo
+ipa: "\u02C8ma\u0283mo o\u027E \u02C8minmo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u0283mo o\u027E \u02C8minmo&voice=Ewa"
+status: false
+category: phrase
+word class: t jm
+trans:
+  eng:
+  - - more or less
+  epo:
+  - - "pli a\u016D malpli"
+  spa:
+  - - "m\xE1s o menos"
+search terms:
+  glb:
+  - maxmo or minmo
+  - maxmo
+  - or
+  - minmo
+  eng:
+  - more or less
+  epo:
+  - "pli a\u016D malpli"
+  spa:
+  - "m\xE1s o menos"
+etymology_type: DERIVD
+etymology: <a href="../lexi/max">max</a> + <a href="../lexi/-mo">-mo</a>, <a href="../lexi/or">or</a>,
+  <a href="../lexi/min">min</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: maxmo or minmo
+  category: phrase
+  word class: t jm
+  status: false
+  trans:
+    eng: more or less
+    epo: "pli a\u016D malpli"
+    spa: "m\xE1s o menos"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: max + -mo, or, min + -mo
+...

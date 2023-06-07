@@ -1,0 +1,50 @@
+---
+term: kulturali
+slug: kulturali
+ipa: "kultu\u02C8\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=kultu\u02C8\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - cultural
+    - culturally
+  epo:
+  - - kultura
+  - - kulture
+  spa:
+  - - cultural
+search terms:
+  glb:
+  - kulturali
+  eng:
+  - cultural
+  - culturally
+  epo:
+  - kultura
+  - kulture
+  spa:
+  - cultural
+etymology_type: DERIVD
+etymology: <a href="../lexi/kultura">kultura</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: kulturali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: cultural, culturally
+    epo: kultura; kulture
+    spa: cultural
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kultura + -li
+...

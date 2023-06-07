@@ -1,0 +1,73 @@
+---
+term: diskrimina
+slug: diskrimina
+ipa: diskɾiˈmina
+ipa link: http://ipa-reader.xyz/?text=diskɾiˈmina&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - discrimination
+  - - discriminate (against)
+  epo:
+  - - diskriminacio
+    - diskrimino
+  - - diskriminacii
+    - diskrimini
+  spa:
+  - - discriminación
+  - - discriminar
+search terms:
+  glb:
+  - diskrimina
+  eng:
+  - discrimination
+  - discriminate against
+  - discriminate
+  epo:
+  - diskriminacio
+  - diskrimino
+  - diskriminacii
+  - diskrimini
+  spa:
+  - discriminación
+  - discriminar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - discrimination
+  Fransesa:
+  - - discrimination
+  Doycisa:
+  - - Diskriminierung
+  Rusisa:
+  - - дискриминация “diskriminatsiya”
+  Espanisa:
+  - - disciminación
+  Indonesisa:
+  - - diskriminasi
+  Pilipinasa:
+  - - diskriminasyon
+raw data:
+  term: diskrimina
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: discrimination; discriminate (against)
+    epo: diskriminacio, diskrimino; diskriminacii, diskrimini
+    spa: discriminación; discriminar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (discrimination), Fransesa (discrimination), Doycisa (Diskriminierung),
+    Rusisa (дискриминация “diskriminatsiya”), Espanisa (disciminación), Indonesisa
+    (diskriminasi), Pilipinasa (diskriminasyon)
+...

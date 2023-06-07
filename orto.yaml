@@ -1,0 +1,84 @@
+---
+term: orto
+slug: orto
+ipa: "\u02C8o\u027Eto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8o\u027Eto&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - right
+    - upright
+    - erect
+  epo:
+  - - orta
+    - rekta
+    - rektangula
+  - - orte
+    - rekte
+    - rektangule
+  spa:
+  - - derecho
+    - erguido
+    - erecto
+    - vertical
+search terms:
+  glb:
+  - orto
+  eng:
+  - right
+  - upright
+  - erect
+  epo:
+  - orta
+  - rekta
+  - rektangula
+  - orte
+  - rekte
+  - rektangule
+  spa:
+  - derecho
+  - erguido
+  - erecto
+  - vertical
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ortho-
+  Espanisa:
+  - - orto-
+  Fransesa:
+  - - ortho-
+  Rusisa:
+  - - "\u043E\u0440\u0442\u043E- \u201Corto-\u201D"
+  Doycisa:
+  - - ortho-
+  Turkisa:
+  - - ortografi
+  Indonesisa:
+  - - ortografi
+  Pilipinasa:
+  - - ortograpiya
+raw data:
+  term: orto
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: right, upright, erect
+    epo: orta, rekta, rektangula; orte, rekte, rektangule
+    spa: derecho, erguido, erecto, vertical
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (ortho-), Espanisa (orto-), Fransesa (ortho-), Rusisa (\u043E\u0440\u0442\u043E-
+    \u201Corto-\u201D), Doycisa (ortho-), Turkisa (ortografi), Indonesisa (ortografi),
+    Pilipinasa (ortograpiya)"
+...

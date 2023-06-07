@@ -1,0 +1,50 @@
+---
+term: bonatagi
+slug: bonatagi
+ipa: "bona\u02C8tagi"
+ipa link: "http://ipa-reader.xyz/?text=bona\u02C8tagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - welcome
+  epo:
+  - - bonvenigo
+  - - bonvenigi
+  spa:
+  - - bienvenida
+  - - dar la bienvenida
+search terms:
+  glb:
+  - bonatagi
+  eng:
+  - welcome
+  epo:
+  - bonvenigo
+  - bonvenigi
+  spa:
+  - bienvenida
+  - dar la bienvenida
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/ata">ata</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: bonatagi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: welcome
+    epo: bonvenigo; bonvenigi
+    spa: bienvenida; dar la bienvenida
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bon- + ata + -gi
+...

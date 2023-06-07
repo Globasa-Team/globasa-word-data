@@ -1,0 +1,58 @@
+---
+term: humor
+slug: humor
+ipa: "xu\u02C8mo\u027E"
+ipa link: "http://ipa-reader.xyz/?text=xu\u02C8mo\u027E&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - humor
+  - - joke
+  epo:
+  - - humuro
+    - "\u015Dercemo"
+  - - "\u015Derci"
+  spa:
+  - - humor
+  - - contar chistes
+    - bromear
+search terms:
+  glb:
+  - humor
+  eng:
+  - humor
+  - joke
+  epo:
+  - humuro
+  - "\u015Dercemo"
+  - "\u015Derci"
+  spa:
+  - humor
+  - contar chistes
+  - bromear
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: humor
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: humor; joke
+    epo: "humuro, \u015Dercemo; \u015Derci"
+    spa: humor; contar chistes, bromear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (humor), Fransesa (humour), Doycisa (Humor), Rusisa (\u044E\u043C\u043E\u0440
+    \u201Cyumor\u201D), Espanisa (humor), Indonesisa (humor), Niponsa (\u30E6\u30FC\u30E2\u30A2
+    \u201Cyumoa\u201D), Hangusa (\uC720\uBA38 \u201Cyumo\u201D)"
+...

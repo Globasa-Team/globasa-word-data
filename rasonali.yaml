@@ -1,0 +1,54 @@
+---
+term: rasonali
+slug: rasonali
+ipa: "\u027Easo\u02C8nali"
+ipa link: "http://ipa-reader.xyz/?text=\u027Easo\u02C8nali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - rational
+  - - rationally
+  epo:
+  - - racia
+    - racionala
+  - - racie
+    - racionale
+  spa:
+  - - racional
+search terms:
+  glb:
+  - rasonali
+  eng:
+  - rational
+  - rationally
+  epo:
+  - racia
+  - racionala
+  - racie
+  - racionale
+  spa:
+  - racional
+etymology_type: DERIVD
+etymology: <a href="../lexi/rasona">rasona</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: rasonali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: rational; rationally
+    epo: racia, racionala; racie, racionale
+    spa: racional
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: rasona + -li
+...

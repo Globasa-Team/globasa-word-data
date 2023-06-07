@@ -1,0 +1,78 @@
+---
+term: bamya
+slug: bamya
+ipa: ˈbamja
+ipa link: http://ipa-reader.xyz/?text=ˈbamja&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - okra
+  epo:
+  - - gombo
+  spa:
+  - - quimbombó
+    - quingombó
+    - gombo
+    - molondrón
+    - ocra
+    - okra
+    - bamia
+    - candia
+    - _Abelmoschus esculentus_
+search terms:
+  glb:
+  - bamya
+  eng:
+  - okra
+  epo:
+  - gombo
+  spa:
+  - quimbombó
+  - quingombó
+  - gombo
+  - molondrón
+  - ocra
+  - okra
+  - bamia
+  - candia
+  - abelmoschus esculentus
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - بَامِيَة “bamiya”
+  Rusisa:
+  - - бамия “bamiya”
+  Turkisa:
+  - - bamya
+  Parsisa:
+  - - بامیه “bâmiye”
+  Swahilisa:
+  - - bamia
+  Espanisa:
+  - - bamia
+tags:
+- yamxey
+raw data:
+  term: bamya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: okra
+    epo: gombo
+    spa: quimbombó, quingombó, gombo, molondrón, ocra, okra, bamia, candia, _Abelmoschus
+      esculentus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Arabisa (بَامِيَة “bamiya”), Rusisa (бамия “bamiya”), Turkisa (bamya),
+    Parsisa (بامیه “bâmiye”), Swahilisa (bamia), Espanisa (bamia)
+...

@@ -1,0 +1,88 @@
+---
+term: tatmini
+slug: tatmini
+ipa: "tat\u02C8mini"
+ipa link: "http://ipa-reader.xyz/?text=tat\u02C8mini&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - appraisal
+    - evaluation
+    - assessment
+    - critique
+    - criticism
+  - - appraise
+    - evaluate
+    - assess
+    - critique
+  epo:
+  - - takso
+    - ekzameno
+  - - taksi
+    - ekzameni
+  spa:
+  - - "evaluaci\xF3n"
+    - "valoraci\xF3n"
+    - "estimaci\xF3n"
+    - "cr\xEDtica"
+  - - evaluar
+    - valorar
+    - estimar
+    - criticar
+search terms:
+  glb:
+  - tatmini
+  eng:
+  - appraisal
+  - evaluation
+  - assessment
+  - critique
+  - criticism
+  - appraise
+  - evaluate
+  - assess
+  epo:
+  - takso
+  - ekzameno
+  - taksi
+  - ekzameni
+  spa:
+  - "evaluaci\xF3n"
+  - "valoraci\xF3n"
+  - "estimaci\xF3n"
+  - "cr\xEDtica"
+  - evaluar
+  - valorar
+  - estimar
+  - criticar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u062B\u0645\u064A\u0646 \u201Ctathmin\u201D"
+  Swahilisa:
+  - - tathmini
+raw data:
+  term: tatmini
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: appraisal, evaluation, assessment, critique, criticism; appraise, evaluate,
+      assess, critique
+    epo: takso, ekzameno; taksi, ekzameni
+    spa: "evaluaci\xF3n, valoraci\xF3n, estimaci\xF3n, cr\xEDtica; evaluar, valorar,
+      estimar, criticar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u062B\u0645\u064A\u0646 \u201Ctathmin\u201D), Swahilisa
+    (tathmini)"
+...

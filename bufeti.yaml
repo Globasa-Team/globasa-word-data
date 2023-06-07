@@ -1,0 +1,86 @@
+---
+term: bufeti
+slug: bufeti
+ipa: buˈfeti
+ipa link: http://ipa-reader.xyz/?text=buˈfeti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - buffet
+  epo:
+  - - bufedo
+  spa:
+  - - bufé
+    - bufet
+search terms:
+  glb:
+  - bufeti
+  eng:
+  - buffet
+  epo:
+  - bufedo
+  spa:
+  - bufé
+  - bufet
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - buffet
+  Espanisa:
+  - - bufé
+    - bufet
+  Fransesa:
+  - - buffet
+  Rusisa:
+  - - буфет “bufet”
+  Doycisa:
+  - - Büfett
+  Indonesisa:
+  - - bufet
+  Pilipinasa:
+  - - buffet
+  Hindisa:
+  - - बुफे “bufe"
+    - बुफ़े “bufe”
+  Arabisa:
+  - - بُوفِيه “bufeh”
+  Niponsa:
+  - - ビュッフェ “byufe”
+  Telugusa:
+  - - బఫే “bafe”
+  Turkisa:
+  - - büfe
+  Vyetnamsa:
+  - - búp phê
+  Hangusa:
+  - - 뷔페 “bwipe”
+  Parsisa:
+  - - بوفه “bufe”
+  Swahilisa:
+  - - bufee
+raw data:
+  term: bufeti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: buffet
+    epo: bufedo
+    spa: bufé, bufet
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (buffet), Espanisa (bufé, bufet), Fransesa (buffet), Rusisa (буфет
+    “bufet”), Doycisa (Büfett), Indonesisa (bufet), Pilipinasa (buffet), Hindisa (बुफे
+    “bufe", बुफ़े “bufe”), Arabisa (بُوفِيه “bufeh”), Niponsa (ビュッフェ “byufe”), Telugusa
+    (బఫే “bafe”), Turkisa (büfe), Vyetnamsa (búp phê), Hangusa (뷔페 “bwipe”), Parsisa
+    (بوفه “bufe”), Swahilisa (bufee)
+...

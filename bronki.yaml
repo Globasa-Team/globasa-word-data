@@ -1,0 +1,93 @@
+---
+term: bronki
+slug: bronki
+ipa: ˈbɾonki
+ipa link: http://ipa-reader.xyz/?text=ˈbɾonki&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bronchus
+    - bronchial tube
+  epo:
+  - - bronko
+  spa:
+  - - bronquio
+search terms:
+  glb:
+  - bronki
+  eng:
+  - bronchus
+  - bronchial tube
+  epo:
+  - bronko
+  spa:
+  - bronquio
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bronchus
+    - bronchi
+    - bronchitis
+  Espanisa:
+  - - bronquio
+  - - bronquitis
+  Fransesa:
+  - - bronche
+    - bronchite
+  Rusisa:
+  - - бронх "bronh"
+  - - бронхита "bronhita"
+  Doycisa:
+  - - Bronchie
+    - Bronchitis
+  Portugalsa:
+  - - brônquio
+    - bronquite
+  Italisa:
+  - - bronco
+    - bronchi
+    - bronchite
+  Indonesisa:
+  - - bronkus
+    - bronkitis
+  Pilipinasa:
+  - - brongkyo
+  Hindisa:
+  - - ब्रोंकाइटिस "bronkaytis"
+  Telugusa:
+  - - బ్రాంకైటిస్ "bronkaytis"
+  Turkisa:
+  - - bronş "bronx"
+    - bronşit "bronxit"
+  Parsisa:
+  - - برونش "boronx"
+    - برونشیت "boronxit"
+tags:
+- jismulogi
+raw data:
+  term: bronki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bronchus, bronchial tube
+    epo: bronko
+    spa: bronquio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Englisa (bronchus, bronchi, bronchitis), Espanisa (bronquio; bronquitis),
+    Fransesa (bronche, bronchite), Rusisa (бронх "bronh"; бронхита "bronhita"), Doycisa
+    (Bronchie, Bronchitis), Portugalsa (brônquio, bronquite), Italisa (bronco, bronchi,
+    bronchite), Indonesisa (bronkus, bronkitis), Pilipinasa (brongkyo), Hindisa (ब्रोंकाइटिस
+    "bronkaytis"), Telugusa (బ్రాంకైటిస్ "bronkaytis"), Turkisa (bronş "bronx", bronşit
+    "bronxit"), Parsisa (برونش "boronx", برونشیت "boronxit")
+...

@@ -1,0 +1,77 @@
+---
+term: alergi
+slug: alergi
+ipa: aˈleɾgi
+ipa link: http://ipa-reader.xyz/?text=aˈleɾgi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - allergy
+  epo:
+  - - alergio
+  spa:
+  - - alergia
+search terms:
+  glb:
+  - alergi
+  eng:
+  - allergy
+  epo:
+  - alergio
+  spa:
+  - alergia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - allergy
+  Fransesa:
+  - - allergie
+  Doycisa:
+  - - Allergie
+  Rusisa:
+  - - аллергия “alergiya”
+  Espanisa:
+  - - alergia
+  Hindisa:
+  - - एलर्जी “elarjī”
+  Turkisa:
+  - - alerji
+  Indonesisa:
+  - - alergi
+  Pilipinasa:
+  - - alerdyi
+  Arabisa:
+  - - أَرَجِيَّة “ʾarajiyya”
+  Parsisa:
+  - - آلرژی “âlerži”
+  Niponsa:
+  - - アレルギー “arerugī”
+  Hangusa:
+  - - 알레르기 “allereugi”
+tags:
+- medis
+raw data:
+  term: alergi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: allergy
+    epo: alergio
+    spa: alergia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: Englisa (allergy), Fransesa (allergie), Doycisa (Allergie), Rusisa (аллергия
+    “alergiya”), Espanisa (alergia), Hindisa (एलर्जी “elarjī”), Turkisa (alerji),
+    Indonesisa (alergi), Pilipinasa (alerdyi), Arabisa (أَرَجِيَّة “ʾarajiyya”), Parsisa
+    (آلرژی “âlerži”), Niponsa (アレルギー “arerugī”), Hangusa (알레르기 “allereugi”)
+...

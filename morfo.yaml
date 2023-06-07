@@ -1,0 +1,89 @@
+---
+term: morfo
+slug: morfo
+ipa: "\u02C8mo\u027Efo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mo\u027Efo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - morphology (linguistic form and structure)
+    - inflection
+    - conjugation
+    - declension
+  - - inflect
+    - conjugate
+    - decline
+  epo:
+  - - "morfologia\u0135o"
+    - fleksio
+    - deklinacio
+    - kunjugacio
+  - - fleksii
+    - deklinacii
+    - konjugacii
+  spa:
+  - - "morfolog\xEDa"
+    - "flexi\xF3n"
+    - "declinaci\xF3n"
+    - "conjugaci\xF3n"
+  - - declinar
+    - conjugar
+search terms:
+  glb:
+  - morfo
+  eng:
+  - morphology linguistic form and structure
+  - morphology
+  - inflection
+  - conjugation
+  - declension
+  - inflect
+  - conjugate
+  - decline
+  epo:
+  - "morfologia\u0135o"
+  - fleksio
+  - deklinacio
+  - kunjugacio
+  - fleksii
+  - deklinacii
+  - konjugacii
+  spa:
+  - "morfolog\xEDa"
+  - "flexi\xF3n"
+  - "declinaci\xF3n"
+  - "conjugaci\xF3n"
+  - declinar
+  - conjugar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- gramati
+raw data:
+  term: morfo
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: morphology (linguistic form and structure), inflection, conjugation, declension;
+      inflect, conjugate, decline
+    epo: "morfologia\u0135o, fleksio, deklinacio, kunjugacio; fleksii, deklinacii,
+      konjugacii"
+    spa: "morfolog\xEDa, flexi\xF3n, declinaci\xF3n, conjugaci\xF3n; declinar, conjugar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gramati
+  etymology: "Englisa (morphology), Espanisa (morfolog\xEDa), Fransesa (morphologie),
+    Rusisa (\u043C\u043E\u0440\u0444\u043E\u043B\u043E\u0433\u0438\u044F \u201Cmorfologiya\u201D),
+    Doycisa (Morphologie), Portugalsa (morfologia), Italisa (morfologia), Indonesisa
+    (mofologi), Pilipinasa (morpolohiya), Arabisa (\u0645\u064F\u0648\u0631\u0652\u0641\u064F\u0648\u0644\u064F\u0648\u062C\u0650\u064A\u064E\u0627
+    \u201Cmurfulujiya\u201D), Turkisa (morfoloji), Swahilisa (mofolojia)"
+...

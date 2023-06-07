@@ -1,0 +1,47 @@
+---
+term: teluguyen
+slug: teluguyen
+ipa: "telugu\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=telugu\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Telugu (people)
+  epo:
+  - - telugua
+  spa:
+  - - "t\xE9lugu (_persona_)"
+search terms:
+  glb:
+  - teluguyen
+  eng:
+  - telugu people
+  - telugu
+  epo:
+  - telugua
+  spa:
+  - "t\xE9lugu"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Telugu">Telugu</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Teluguyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Telugu (people)
+    epo: telugua
+    spa: "t\xE9lugu (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Telugu + -yen
+...

@@ -1,0 +1,59 @@
+---
+term: kweten
+slug: kweten
+ipa: "kwe\u02C8ten"
+ipa link: "http://ipa-reader.xyz/?text=kwe\u02C8ten&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - defect
+    - flaw
+    - shortcoming
+  - - break (_make defective_)
+  epo:
+  - - difekto
+  - - difekti
+  spa:
+  - - defecto
+    - falla
+  - - descomponerse
+search terms:
+  glb:
+  - kweten
+  eng:
+  - defect
+  - flaw
+  - shortcoming
+  - break
+  epo:
+  - difekto
+  - difekti
+  spa:
+  - defecto
+  - falla
+  - descomponerse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kweten
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: defect, flaw, shortcoming; break (_make defective_)
+    epo: difekto; difekti
+    spa: defecto, falla; descomponerse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7F3A\u70B9 \u201Ccwedyen\u201D), Niponsa (\u6B20\u70B9 \u201Cketen\u201D),
+    Vyetnamsa (khuy\u1EBFt \u0111i\u1EC3m)"
+...

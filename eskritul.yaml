@@ -1,0 +1,46 @@
+---
+term: eskritul
+slug: eskritul
+ipa: "esk\u027Ei\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=esk\u027Ei\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - writing utensil
+  epo:
+  - - skribilo
+  spa:
+  - - utensilio de escritura
+search terms:
+  glb:
+  - eskritul
+  eng:
+  - writing utensil
+  epo:
+  - skribilo
+  spa:
+  - utensilio de escritura
+etymology_type: DERIVD
+etymology: <a href="../lexi/eskri">eskri</a> + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: eskritul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: writing utensil
+    epo: skribilo
+    spa: utensilio de escritura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: eskri + -tul
+...

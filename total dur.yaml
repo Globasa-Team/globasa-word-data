@@ -1,0 +1,50 @@
+---
+term: total dur
+slug: total dur
+ipa: "to\u02C8tal du\u027E"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8tal du\u027E&voice=Ewa"
+status: false
+category: phrase
+word class: jm p
+trans:
+  eng:
+  - - throughout
+  epo:
+  - - tute dum
+  spa:
+  - - durante todo
+search terms:
+  glb:
+  - total dur
+  - total
+  - dur
+  eng:
+  - throughout
+  epo:
+  - tute dum
+  spa:
+  - durante todo
+etymology_type: DERIVD
+etymology: <a href="../lexi/total">total</a>, <a href="../lexi/dur">dur</a>
+synonyms:
+- dur total
+raw data:
+  term: 'total dur '
+  category: phrase
+  word class: jm p
+  status: false
+  trans:
+    eng: throughout
+    epo: tute dum
+    spa: durante todo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: dur total
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: total, dur
+...

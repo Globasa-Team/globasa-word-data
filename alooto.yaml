@@ -1,0 +1,46 @@
+---
+term: alooto
+slug: alooto
+ipa: "alo\u02C8oto"
+ipa link: "http://ipa-reader.xyz/?text=alo\u02C8oto&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - some other things
+  epo:
+  - - alioj
+  spa:
+  - - otras cosas
+search terms:
+  glb:
+  - alooto
+  eng:
+  - some other things
+  epo:
+  - alioj
+  spa:
+  - otras cosas
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/oto">oto</a>
+raw data:
+  term: alooto
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: some other things
+    epo: alioj
+    spa: otras cosas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + oto
+...

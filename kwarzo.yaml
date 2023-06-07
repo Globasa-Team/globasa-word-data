@@ -1,0 +1,50 @@
+---
+term: kwarzo
+slug: kwarzo
+ipa: "\u02C8kwa\u027Ezo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kwa\u027Ezo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - quartz
+  epo:
+  - - kvarco
+  spa:
+  - - cuarzo
+search terms:
+  glb:
+  - kwarzo
+  eng:
+  - quartz
+  epo:
+  - kvarco
+  spa:
+  - cuarzo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kwarzo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: 'quartz '
+    epo: kvarco
+    spa: cuarzo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (quartz), Fransesa, Espanisa (cuarzo), Rusisa (\u043A\u0432\u0430\u0440\u0446
+    \u201Ckvarts\u201D), Doycisa (Quarz), Indonesisa (kuarsa), Pilipinasa (kuwarso),
+    Hindisa (\u0915\u094D\u0935\u093E\u0930\u094D\u091F\u091C\u093C \u201Ckvartaz\u201D),
+    Arabisa (\u0643\u064E\u0648\u064E\u0627\u0631\u0652\u062A\u0652\u0632 \u201Ckawartz\u201D),
+    Turkisa (kuvars), Parsisa (\u06A9\u0648\u0627\u0631\u062A\u0632), Swahilisa (kwatsi)"
+...

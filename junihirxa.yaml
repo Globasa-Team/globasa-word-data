@@ -1,0 +1,48 @@
+---
+term: junihirxa
+slug: junihirxa
+ipa: "d\u0361\u0292uni\u02C8xi\u027E\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292uni\u02C8xi\u027E\u0283a&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - fawn
+  epo:
+  - - cervido
+  spa:
+  - - cervato
+    - cervatillo
+search terms:
+  glb:
+  - junihirxa
+  eng:
+  - fawn
+  epo:
+  - cervido
+  spa:
+  - cervato
+  - cervatillo
+etymology_type: DERIVD
+etymology: <a href="../lexi/juni-">juni-</a> + <a href="../lexi/hirxa">hirxa</a>
+raw data:
+  term: junihirxa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: fawn
+    epo: cervido
+    spa: cervato, cervatillo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: juni- + hirxa
+...

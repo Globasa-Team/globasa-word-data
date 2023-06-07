@@ -1,0 +1,66 @@
+---
+term: jigam
+slug: jigam
+ipa: "d\u0361\u0292i\u02C8gam"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i\u02C8gam&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - intuition
+    - (gut) feeling
+    - hunch
+  - - intuit
+    - intuitively know
+    - feel
+  epo:
+  - - intuicio
+    - intuo
+  - - intuicie scii
+    - intuicii
+  spa:
+  - - "intuici\xF3n"
+  - - intuir
+search terms:
+  glb:
+  - jigam
+  eng:
+  - intuition
+  - gut feeling
+  - feeling
+  - hunch
+  - intuit
+  - intuitively know
+  - feel
+  epo:
+  - intuicio
+  - intuo
+  - intuicie scii
+  - intuicii
+  spa:
+  - "intuici\xF3n"
+  - intuir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jigam
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: intuition, (gut) feeling, hunch; intuit, intuitively know, feel
+    epo: intuicio, intuo; intuicie scii, intuicii
+    spa: "intuici\xF3n; intuir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u76F4\u611F \"jigan\"), Niponsa (\u76F4\u611F \"cokan\"),
+    Vyetnamsa (tr\u1EF1c c\u1EA3m), Hangusa (\uC9C1\uAC10 \"jikgam\")"
+...

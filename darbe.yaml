@@ -1,0 +1,67 @@
+---
+term: darbe
+slug: darbe
+ipa: ˈdaɾbe
+ipa link: http://ipa-reader.xyz/?text=ˈdaɾbe&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - strike
+    - blow
+  - - hit
+    - strike
+    - beat
+  epo:
+  - - bato
+    - frapo
+  - - bati
+    - frapi
+  spa:
+  - - golpe
+  - - golpear
+search terms:
+  glb:
+  - darbe
+  eng:
+    0: strike
+    1: blow
+    2: hit
+    4: beat
+  epo:
+  - bato
+  - frapo
+  - bati
+  - frapi
+  spa:
+  - golpe
+  - golpear
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - ضربة “darba”
+  Turkisa:
+  - - darbe
+  Parsisa:
+  - - ضربه “zarbe”
+raw data:
+  term: darbe
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: strike, blow; hit, strike, beat
+    epo: bato, frapo; bati, frapi
+    spa: golpe; golpear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (ضربة “darba”), Turkisa (darbe), Parsisa (ضربه “zarbe”)
+...

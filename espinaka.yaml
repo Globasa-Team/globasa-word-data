@@ -1,0 +1,70 @@
+---
+term: espinaka
+slug: espinaka
+ipa: espiˈnaka
+ipa link: http://ipa-reader.xyz/?text=espiˈnaka&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - spinach
+  epo:
+  - - spinaco
+  spa:
+  - - espinaca
+    - _Spinacia oleracea_
+search terms:
+  glb:
+  - espinaka
+  eng:
+  - spinach
+  epo:
+  - spinaco
+  spa:
+  - espinaca
+  - spinacia oleracea
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - spinach
+  Espanisa:
+  - - espinaca
+  Fransesa:
+  - - épinards
+  Rusisa:
+  - - шпинат “xpinat”
+  Doycisa:
+  - - Spinat
+  Pilipinasa:
+  - - espinaka
+  Arabisa:
+  - - إِسْفَانَاخ “isfanah”
+  Turkisa:
+  - - ıspanak
+  Parsisa:
+  - - اسفناج “esfenâj”
+tags:
+- yamxey
+raw data:
+  term: espinaka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: spinach
+    epo: spinaco
+    spa: espinaca, _Spinacia oleracea_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Englisa (spinach), Espanisa (espinaca), Fransesa (épinards), Rusisa (шпинат
+    “xpinat”), Doycisa (Spinat), Pilipinasa (espinaka), Arabisa (إِسْفَانَاخ “isfanah”),
+    Turkisa (ıspanak), Parsisa (اسفناج “esfenâj”)
+...

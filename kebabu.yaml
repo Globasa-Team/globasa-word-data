@@ -1,0 +1,91 @@
+---
+term: kebabu
+slug: kebabu
+ipa: "ke\u02C8babu"
+ipa link: "http://ipa-reader.xyz/?text=ke\u02C8babu&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - kebab
+    - kabob
+  epo:
+  - - kebabo
+  spa:
+  - - kebab
+  fra:
+  - - kebab
+search terms:
+  glb:
+  - kebabu
+  eng:
+  - kebab
+  - kabob
+  epo:
+  - kebabo
+  spa:
+  - kebab
+  fra:
+  - kebab
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - kebab
+    - kabob
+  Espanisa:
+  - - kebab
+  Fransesa:
+  - - kebab
+  Rusisa:
+  - - "\u043A\u0435\u0431\u0430\u0431 \"kebab\""
+  Doycisa:
+  - - Kebab
+  Indonesisa:
+  - - kebab
+  Pilipinasa:
+  - - kebab
+  Putunhwa:
+  - - "\u5361\u5DF4\_\"kaba\""
+  Hindisa:
+  - - "\u0915\u092C\u093E\u092C \"kabab\""
+  Arabisa:
+  - - "\u0643\u064E\u0628\u064E\u0627\u0628 \"kabab\""
+    - "\u0643\u064E\u0628\u064E\u0627\u0628\u064F \"kababu\""
+  Niponsa:
+  - - "\u30B1\u30D0\u30D6\_\"kebabu\""
+  Turkisa:
+  - - kebap
+  Vyetnamsa:
+  - - kebab
+  Hangusa:
+  - - "\uCF00\uBC25 \"kebap\""
+  Parsisa:
+  - - "\u06A9\u0628\u0627\u0628 \"kabab\""
+tags:
+- yamxey
+raw data:
+  term: kebabu
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: kebab, kabob
+    epo: kebabo
+    spa: kebab
+    deu: ""
+    fra: kebab
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (kebab, kabob), Espanisa (kebab), Fransesa (kebab), Rusisa (\u043A\u0435\u0431\u0430\u0431
+    \"kebab\"), Doycisa (Kebab), Indonesisa (kebab), Pilipinasa (kebab), Putunhwa
+    (\u5361\u5DF4\_\"kaba\"), Hindisa (\u0915\u092C\u093E\u092C \"kabab\"), Arabisa
+    (\u0643\u064E\u0628\u064E\u0627\u0628 \"kabab\", \u0643\u064E\u0628\u064E\u0627\u0628\u064F
+    \"kababu\"), Niponsa (\u30B1\u30D0\u30D6\_\"kebabu\"), Turkisa (kebap), Vyetnamsa
+    (kebab), Hangusa (\uCF00\uBC25 \"kebap\"), Parsisa (\u06A9\u0628\u0627\u0628 \"kabab\") "
+...

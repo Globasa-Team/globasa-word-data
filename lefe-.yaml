@@ -1,0 +1,50 @@
+---
+term: lefe-
+slug: lefe-
+ipa: "le\u02C8fe-"
+ipa link: "http://ipa-reader.xyz/?text=le\u02C8fe-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - pre-
+    - fore-
+  epo:
+  - - "anta\u016D-"
+  spa:
+  - - pre-
+search terms:
+  glb:
+  - lefe-
+  eng:
+  - pre-
+  - fore-
+  epo:
+  - "anta\u016D-"
+  spa:
+  - pre-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/lefe">lefe</a>.
+antonyms:
+- xafe-
+raw data:
+  term: lefe-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: pre-, fore-
+    epo: "anta\u016D-"
+    spa: pre-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: xafe-
+  example: ""
+  tags: ""
+  etymology: Am oko _lefe_.
+...

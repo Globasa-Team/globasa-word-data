@@ -1,0 +1,53 @@
+---
+term: darsukamer
+slug: darsukamer
+ipa: "da\u027Esuka\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=da\u027Esuka\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - classroom
+  epo:
+  - - klasejo
+    - "klas\u0109ambro"
+  spa:
+  - - aula
+    - "sal\xF3n (de clases)"
+search terms:
+  glb:
+  - darsukamer
+  eng:
+  - classroom
+  epo:
+  - klasejo
+  - "klas\u0109ambro"
+  spa:
+  - aula
+  - "sal\xF3n de clases"
+  - "sal\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/darsu">darsu</a> + <a href="../lexi/-kamer">-kamer</a>
+tags:
+- kamer
+raw data:
+  term: darsukamer
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: classroom
+    epo: "klasejo, klas\u0109ambro"
+    spa: "aula, sal\xF3n (de clases)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kamer
+  etymology: darsu + -kamer
+...

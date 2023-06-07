@@ -1,0 +1,54 @@
+---
+term: vanwatu
+slug: vanwatu
+ipa: "va\u02C8nwatu"
+ipa link: "http://ipa-reader.xyz/?text=va\u02C8nwatu&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Vanuatu
+  epo:
+  - - Vanuatuo
+  spa:
+  - - Vanuatu
+search terms:
+  glb:
+  - vanwatu
+  eng:
+  - vanuatu
+  epo:
+  - vanuatuo
+  spa:
+  - vanuatu
+etymology_type: NATLNG
+etymology:
+  Bislama:
+  - - Vanuatu
+  Englisa:
+  - - Vanuatu
+  Fransesa:
+  - - Vanuatu
+tags:
+- dexa
+raw data:
+  term: Vanwatu
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Vanuatu
+    epo: Vanuatuo
+    spa: Vanuatu
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Bislama (Vanuatu), Englisa (Vanuatu), Fransesa (Vanuatu)
+...

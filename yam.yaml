@@ -1,0 +1,67 @@
+---
+term: yam
+slug: yam
+ipa: "\u02C8jam"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jam&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - meal
+    - food
+  - - eat
+  epo:
+  - - "man\u011Do"
+    - "man\u011Da\u0135o"
+  - - "man\u011Di"
+  spa:
+  - - comida
+  - - comer
+search terms:
+  glb:
+  - yam
+  eng:
+  - meal
+  - food
+  - eat
+  epo:
+  - "man\u011Do"
+  - "man\u011Da\u0135o"
+  - "man\u011Di"
+  spa:
+  - comida
+  - comer
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Englisa: ~
+  Rusisa: ~
+  Fransesa: ~
+  Indonesisa: ~
+  Hangusa: ~
+  Espanisa: ~
+  Vyetnamsa: ~
+  Norgesa: ~
+  Turkisa:
+  - - yemek
+raw data:
+  term: yam
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: meal, food; eat
+    epo: "man\u011Do, man\u011Da\u0135o; man\u011Di"
+    spa: comida; comer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwasilexi - Englisa ( ), Rusisa, Fransesa, Indonesisa, Hangusa, Espanisa,
+    Vyetnamsa, Norgesa, Turkisa (yemek)
+...

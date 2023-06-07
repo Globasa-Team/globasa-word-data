@@ -1,0 +1,67 @@
+---
+term: surka
+slug: surka
+ipa: "\u02C8su\u027Eka"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8su\u027Eka&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vinegar
+  epo:
+  - - vinagro
+  spa:
+  - - vinagre
+search terms:
+  glb:
+  - surka
+  eng:
+  - vinegar
+  epo:
+  - vinagro
+  spa:
+  - vinagre
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - cuka
+  Pilipinasa:
+  - - suka
+  Putunhwa:
+  - - "\u918B \u201Cc\xF9\u201D"
+  Niponsa:
+  - - "\u9162 \u201Csu\u201D"
+  Hindisa:
+  - - "\u0938\u093F\u0930\u0915\u093E \u201Csirk\u0101\u201D"
+  Swahilisa:
+  - - siki
+  Parsisa:
+  - - "\u0633\u0631\u06A9\u0647 \u201Cserke\u201D"
+  Turkisa:
+  - - sirke
+tags:
+- yamxey
+raw data:
+  term: surka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vinegar
+    epo: vinagro
+    spa: vinagre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Indonesisa (cuka), Pilipinasa (suka), Putunhwa (\u918B \u201Cc\xF9\u201D),
+    Niponsa (\u9162 \u201Csu\u201D), Hindisa (\u0938\u093F\u0930\u0915\u093E \u201Csirk\u0101\u201D),
+    Swahilisa (siki), Parsisa (\u0633\u0631\u06A9\u0647 \u201Cserke\u201D), Turkisa
+    (sirke)"
+...

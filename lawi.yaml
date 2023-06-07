@@ -1,0 +1,50 @@
+---
+term: lawi
+slug: lawi
+ipa: "\u02C8lawi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lawi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Laos
+  epo:
+  - - Laoso
+  spa:
+  - - Laos
+search terms:
+  glb:
+  - lawi
+  eng:
+  - laos
+  epo:
+  - laoso
+  spa:
+  - laos
+etymology_type: NATLNG
+etymology:
+  Laosa:
+  - - "\u0EA5\u0EB2\u0EA7 \u201CL\u0101o\u201D"
+tags:
+- dexa
+raw data:
+  term: Lawi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Laos
+    epo: Laoso
+    spa: Laos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Laosa (\u0EA5\u0EB2\u0EA7 \u201CL\u0101o\u201D)"
+...

@@ -1,0 +1,55 @@
+---
+term: meter
+slug: meter
+ipa: "me\u02C8te\u027E"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8te\u027E&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - measuring device
+  - - measure
+  epo:
+  - - mezuro
+  - - mezuri
+  spa:
+  - - medida
+  - - medir
+search terms:
+  glb:
+  - meter
+  eng:
+  - measuring device
+  - measure
+  epo:
+  - mezuro
+  - mezuri
+  spa:
+  - medida
+  - medir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: meter
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: measuring device; measure
+    epo: mezuro; mezuri
+    spa: medida; medir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (thermometer), Fransesa (thermom\xE8tre), Doycisa (Thermometer,
+    Messer), Rusisa (\u0442\u0435\u0440\u043C\u043E\u043C\u0435\u0442\u0440 \u201Ctermometr\u201D),
+    Espanisa (term\xF3metro), Indonesisa (termometer), Hindisa (\u0925\u0930\u094D\u092E\u093E\u092E\u0940\u091F\u0930
+    \u201Ctarmamitar\u201D), Turkisa (termometre)"
+...

@@ -1,0 +1,61 @@
+---
+term: doxo
+slug: doxo
+ipa: ˈdoʃo
+ipa link: http://ipa-reader.xyz/?text=ˈdoʃo&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - reading
+  - - read
+  epo:
+  - - lego
+  - - legi
+  spa:
+  - - lectura
+  - - leer
+search terms:
+  glb:
+  - doxo
+  eng:
+  - reading
+  - read
+  epo:
+  - lego
+  - legi
+  spa:
+  - lectura
+  - leer
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 读书 “dúshū”
+  Vyetnamsa:
+  - - đọc
+  Hangusa:
+  - - 독서 “dogseo”
+  Niponsa:
+  - - 読書 “dokusho”
+raw data:
+  term: doxo
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: reading; read
+    epo: lego; legi
+    spa: lectura; leer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (读书 “dúshū”), Vyetnamsa (đọc), Hangusa (독서 “dogseo”), Niponsa
+    (読書 “dokusho”)
+...

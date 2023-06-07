@@ -1,0 +1,50 @@
+---
+term: infrajeti
+slug: infrajeti
+ipa: "inf\u027Ea\u02C8d\u0361\u0292eti"
+ipa link: "http://ipa-reader.xyz/?text=inf\u027Ea\u02C8d\u0361\u0292eti&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - throw down
+  epo:
+  - - "malsupre\u0135eto"
+  - - "malsupre\u0135eti"
+  spa:
+  - - arrojar abajo
+    - tirar
+search terms:
+  glb:
+  - infrajeti
+  eng:
+  - throw down
+  epo:
+  - "malsupre\u0135eto"
+  - "malsupre\u0135eti"
+  spa:
+  - arrojar abajo
+  - tirar
+etymology_type: DERIVD
+etymology: <a href="../lexi/infra-">infra-</a> + <a href="../lexi/jeti">jeti</a>
+raw data:
+  term: infrajeti
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: throw down
+    epo: "malsupre\u0135eto; malsupre\u0135eti"
+    spa: arrojar abajo, tirar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: infra- + jeti
+...

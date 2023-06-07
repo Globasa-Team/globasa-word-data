@@ -1,0 +1,50 @@
+---
+term: realgido
+slug: realgido
+ipa: "\u027Eeal\u02C8gido"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eeal\u02C8gido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - realized
+    - made real
+  epo:
+  - - realigita
+  - - realigite
+  spa:
+  - - vuelto realidad
+search terms:
+  glb:
+  - realgido
+  eng:
+  - realized
+  - made real
+  epo:
+  - realigita
+  - realigite
+  spa:
+  - vuelto realidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/real">real</a> + <a href="../lexi/-gi">-gi</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: realgido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: realized, made real
+    epo: realigita; realigite
+    spa: vuelto realidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: real + -gi + -do
+...

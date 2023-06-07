@@ -1,0 +1,52 @@
+---
+term: dahun
+slug: dahun
+ipa: daˈxun
+ipa link: http://ipa-reader.xyz/?text=daˈxun&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - leaf
+    - sheet
+  epo:
+  - - folio
+  spa:
+  - - hoja
+search terms:
+  glb:
+  - dahun
+  eng:
+  - leaf
+  - sheet
+  epo:
+  - folio
+  spa:
+  - hoja
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - daun
+  Pilipinasa:
+  - - dahon
+raw data:
+  term: dahun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: leaf, sheet
+    epo: folio
+    spa: hoja
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Indonesisa (daun), Pilipinasa (dahon)
+...

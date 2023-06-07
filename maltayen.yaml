@@ -1,0 +1,47 @@
+---
+term: maltayen
+slug: maltayen
+ipa: "malta\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=malta\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Maltese (person)
+  epo:
+  - - maltano
+  spa:
+  - - "malt\xE9s (_persona_)"
+search terms:
+  glb:
+  - maltayen
+  eng:
+  - maltese person
+  - maltese
+  epo:
+  - maltano
+  spa:
+  - "malt\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Malta">Malta</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Maltayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Maltese (person)
+    epo: maltano
+    spa: "malt\xE9s (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Malta + -yen
+...

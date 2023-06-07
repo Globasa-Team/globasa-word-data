@@ -1,0 +1,96 @@
+---
+term: centi
+slug: centi
+ipa: ˈt͡ʃenti
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃenti&voice=Ewa
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - 1 × 10^-2
+    - one hundredth of
+    - percent of
+  epo:
+  - - centono
+  spa:
+  - - centi-
+    - 1 × 10^-2
+    - centésima parte de
+    - por ciento
+    - c
+search terms:
+  glb:
+  - centi
+  eng:
+  - 1 × 10^-2
+  - one hundredth of
+  - percent of
+  epo:
+  - centono
+  spa:
+  - centi-
+  - 1 × 10^-2
+  - centésima parte de
+  - por ciento
+  - c
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Zentimeter
+  Englisa:
+  - - centimeter
+  Fransesa:
+  - - centimètre
+  Rusisa:
+  - - сантиметр “santimetr”
+  Espanisa:
+  - - centímetro
+  Turkisa:
+  - - santimetre
+  Indonesisa:
+  - - sentimeter
+  Pilipinasa:
+  - - sentimetro
+  Arabisa:
+  - - سِنْتِيمِتْر “sintimitr”
+  Parsisa:
+  - - سانتی‌متر “sânti-metar”
+  Swahilisa:
+  - - sentimita
+  Hindisa:
+  - - सेंटीमीटर “sentimitar”
+  Telugusa:
+  - - సెంటీమీటరు “sentimitaru”
+  Niponsa:
+  - - センチメートル “sencimetoru”
+  Hangusa:
+  - - 센티미터 “sentimito”
+  Vyetnamsa:
+  - - centimét
+    - xen-ti-mét
+raw data:
+  term: centi
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: '1 × 10^-2, one hundredth of, percent of '
+    epo: centono
+    spa: centi-, 1 × 10^-2, centésima parte de, por ciento, c
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: one hundredth of, hundredth, percent of, percent
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Zentimeter), Englisa (centimeter), Fransesa (centimètre), Rusisa
+    (сантиметр “santimetr”), Espanisa (centímetro), Turkisa (santimetre), Indonesisa
+    (sentimeter), Pilipinasa (sentimetro), Arabisa (سِنْتِيمِتْر “sintimitr”), Parsisa
+    (سانتی‌متر “sânti-metar”), Swahilisa (sentimita), Hindisa (सेंटीमीटर “sentimitar”),
+    Telugusa (సెంటీమీటరు “sentimitaru”), Niponsa (センチメートル “sencimetoru”), Hangusa
+    (센티미터 “sentimito”), Vyetnamsa (centimét, xen-ti-mét)
+...

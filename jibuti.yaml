@@ -1,0 +1,57 @@
+---
+term: jibuti
+slug: jibuti
+ipa: "d\u0361\u0292i\u02C8buti"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i\u02C8buti&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Djibouti
+  epo:
+  - - "\u011Cibutio"
+  spa:
+  - - Yibuti
+search terms:
+  glb:
+  - jibuti
+  eng:
+  - djibouti
+  epo:
+  - "\u011Cibutio"
+  spa:
+  - yibuti
+etymology_type: NATLNG
+etymology:
+  Somalisa:
+  - - Jabuuti
+  Afar:
+  - - Yibuuti
+  Arabisa:
+  - - "\u062C\u064A\u0628\u0648\u062A\u064A \u201CJ\u012Bb\u016Bt\u012B\u201D"
+  Fransesa:
+  - - Djibouti
+tags:
+- dexa
+raw data:
+  term: Jibuti
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Djibouti
+    epo: "\u011Cibutio"
+    spa: Yibuti
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Somalisa (Jabuuti), Afar (Yibuuti), Arabisa (\u062C\u064A\u0628\u0648\u062A\u064A
+    \u201CJ\u012Bb\u016Bt\u012B\u201D), Fransesa (Djibouti)"
+...

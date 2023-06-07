@@ -1,0 +1,65 @@
+---
+term: preferi
+slug: preferi
+ipa: "p\u027Ee\u02C8fe\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Ee\u02C8fe\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - prefer
+  epo:
+  - - prefero
+  - - preferi
+  spa:
+  - - preferencia
+  - - preferir
+search terms:
+  glb:
+  - preferi
+  eng:
+  - prefer
+  epo:
+  - prefero
+  - preferi
+  spa:
+  - preferencia
+  - preferir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - prefer
+    - prefering
+  Doycisa:
+  - - "pr\xE4ferieren"
+  Fransesa:
+  - - "pr\xE9f\xE9rer"
+  Espanisa:
+  - - preferir
+  Rusisa:
+  - - "\u043F\u0440\u0435\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u044F \u201Cpreferentsiya\u201D"
+  Indonesisa:
+  - - preferensi
+raw data:
+  term: preferi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: prefer
+    epo: prefero; preferi
+    spa: preferencia; preferir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (prefer, prefering), Doycisa (pr\xE4ferieren), Fransesa (pr\xE9f\xE9rer),
+    Espanisa (preferir), Rusisa (\u043F\u0440\u0435\u0444\u0435\u0440\u0435\u043D\u0446\u0438\u044F
+    \u201Cpreferentsiya\u201D), Indonesisa (preferensi)"
+...

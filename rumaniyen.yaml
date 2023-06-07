@@ -1,0 +1,47 @@
+---
+term: rumaniyen
+slug: rumaniyen
+ipa: "\u027Eumani\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eumani\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Romanian (person)
+  epo:
+  - - rumano
+  spa:
+  - - rumano (_persona_)
+search terms:
+  glb:
+  - rumaniyen
+  eng:
+  - romanian person
+  - romanian
+  epo:
+  - rumano
+  spa:
+  - rumano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Romani">Romani</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Rumaniyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Romanian (person)
+    epo: rumano
+    spa: rumano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Romani + -yen
+...

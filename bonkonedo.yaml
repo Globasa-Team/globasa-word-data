@@ -1,0 +1,52 @@
+---
+term: bonkonedo
+slug: bonkonedo
+ipa: "bonko\u02C8nedo"
+ipa link: "http://ipa-reader.xyz/?text=bonko\u02C8nedo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - familiar
+  epo:
+  - - familiara
+    - bonkonata
+  - - familiare
+    - bonkonate
+  spa:
+  - - familiar
+search terms:
+  glb:
+  - bonkonedo
+  eng:
+  - familiar
+  epo:
+  - familiara
+  - bonkonata
+  - familiare
+  - bonkonate
+  spa:
+  - familiar
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon">bon</a> + <a href="../lexi/kone">kone</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: bonkonedo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: familiar
+    epo: familiara, bonkonata; familiare, bonkonate
+    spa: familiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bon + kone + -do
+...

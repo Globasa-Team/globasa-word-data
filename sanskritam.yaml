@@ -1,0 +1,50 @@
+---
+term: sanskritam
+slug: sanskritam
+ipa: "sansk\u027Ei\u02C8tam"
+ipa link: "http://ipa-reader.xyz/?text=sansk\u027Ei\u02C8tam&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Sanskrit (_language_)
+  epo:
+  - - Sanskrito
+  spa:
+  - - "s\xE1nscrito"
+search terms:
+  glb:
+  - sanskritam
+  eng:
+  - sanskrit
+  epo:
+  - sanskrito
+  spa:
+  - "s\xE1nscrito"
+etymology_type: NATLNG
+etymology:
+  Sanskritam:
+  - - "\u0938\u0902\u0938\u094D\u0915\u0943\u0924\u092E\u094D \u201Csanskrtam\u201D"
+tags:
+- basa
+raw data:
+  term: Sanskritam
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Sanskrit (_language_)
+    epo: Sanskrito
+    spa: "s\xE1nscrito"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: "Sanskritam (\u0938\u0902\u0938\u094D\u0915\u0943\u0924\u092E\u094D \u201Csanskrtam\u201D)"
+...

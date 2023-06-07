@@ -1,0 +1,48 @@
+---
+term: daypamtul
+slug: daypamtul
+ipa: "dajpam\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=dajpam\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - cannon
+  epo:
+  - - kanono
+    - pafilego
+  spa:
+  - - "ca\xF1\xF3n"
+search terms:
+  glb:
+  - daypamtul
+  eng:
+  - cannon
+  epo:
+  - kanono
+  - pafilego
+  spa:
+  - "ca\xF1\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/pam">pam</a> + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: daypamtul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: cannon
+    epo: kanono, pafilego
+    spa: "ca\xF1\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + pam + -tul
+...

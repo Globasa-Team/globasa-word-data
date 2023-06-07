@@ -1,0 +1,52 @@
+---
+term: disbija
+slug: disbija
+ipa: "dis\u02C8bid\u0361\u0292a"
+ipa link: "http://ipa-reader.xyz/?text=dis\u02C8bid\u0361\u0292a&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - dissemination
+  - - disseminate
+  epo:
+  - - dissemado
+  - - dissemi
+  spa:
+  - - "diseminaci\xF3n"
+    - diseminar
+search terms:
+  glb:
+  - disbija
+  eng:
+  - dissemination
+  - disseminate
+  epo:
+  - dissemado
+  - dissemi
+  spa:
+  - "diseminaci\xF3n"
+  - diseminar
+etymology_type: DERIVD
+etymology: <a href="../lexi/dis-">dis-</a> + <a href="../lexi/bija">bija</a>
+raw data:
+  term: disbija
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: dissemination; disseminate
+    epo: dissemado; dissemi
+    spa: "diseminaci\xF3n, diseminar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dis- + bija
+...

@@ -1,0 +1,52 @@
+---
+term: teokalista
+slug: teokalista
+ipa: "teoka\u02C8lista"
+ipa link: "http://ipa-reader.xyz/?text=teoka\u02C8lista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - atheist
+  epo:
+  - - ateisto
+    - sendiulo
+    - sendiisto
+  spa:
+  - - ateo
+    - "ate\xEDsta"
+search terms:
+  glb:
+  - teokalista
+  eng:
+  - atheist
+  epo:
+  - ateisto
+  - sendiulo
+  - sendiisto
+  spa:
+  - ateo
+  - "ate\xEDsta"
+etymology_type: DERIVD
+etymology: <a href="../lexi/teo">teo</a> + <a href="../lexi/-kal">-kal</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: teokalista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: atheist
+    epo: ateisto, sendiulo, sendiisto
+    spa: "ateo, ate\xEDsta"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: teo + -kal + -ista
+...

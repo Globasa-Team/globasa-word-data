@@ -1,0 +1,77 @@
+---
+term: okre
+slug: okre
+ipa: "\u02C8ok\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ok\u027Ee&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ocher
+    - ochre
+  epo:
+  - - okro
+  spa:
+  - - ocre
+search terms:
+  glb:
+  - okre
+  eng:
+  - ocher
+  - ochre
+  epo:
+  - okro
+  spa:
+  - ocre
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ochre
+    - ocher
+  Espanisa:
+  - - ocre
+  Fransesa:
+  - - ocre
+  Rusisa:
+  - - "\u043E\u0445\u0440\u0430 \u201Cohra\u201D"
+  Portugalsa:
+  - - ocre
+    - ocra
+  Indonesisa:
+  - - oker
+  Doycisa:
+  - - Ocker
+  Niponsa:
+  - - "\u30AA\u30FC\u30AB\u30FC \u201Coka\u201D"
+  Turkisa:
+  - - okre
+  Parsisa:
+  - - "\u0627\u062E\u0631\u0627 \u201Cohra\u201D"
+  Italisa:
+  - - ocra
+  Pilipinasa:
+  - - okre
+raw data:
+  term: okre
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ocher, ochre
+    epo: okro
+    spa: ocre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (ochre, ocher), Espanisa (ocre), Fransesa (ocre), Rusisa (\u043E\u0445\u0440\u0430
+    \u201Cohra\u201D), Portugalsa (ocre, ocra), Indonesisa (oker), Doycisa (Ocker),
+    Niponsa (\u30AA\u30FC\u30AB\u30FC \u201Coka\u201D), Turkisa (okre), Parsisa (\u0627\u062E\u0631\u0627
+    \u201Cohra\u201D), Italisa (ocra), Pilipinasa (okre)"
+...

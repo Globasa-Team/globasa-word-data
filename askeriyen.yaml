@@ -1,0 +1,46 @@
+---
+term: askeriyen
+slug: askeriyen
+ipa: "aske\u027Ei\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=aske\u027Ei\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - soldier
+  epo:
+  - - soldato
+  spa:
+  - - soldado
+search terms:
+  glb:
+  - askeriyen
+  eng:
+  - soldier
+  epo:
+  - soldato
+  spa:
+  - soldado
+etymology_type: DERIVD
+etymology: <a href="../lexi/askeri">askeri</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: askeriyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: soldier
+    epo: soldato
+    spa: soldado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: askeri + -yen
+...

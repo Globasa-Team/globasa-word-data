@@ -1,0 +1,82 @@
+---
+term: trawma
+slug: trawma
+ipa: "\u02C8t\u027Eawma"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u027Eawma&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - trauma
+  epo:
+  - - "tra\u016Dmato"
+  spa:
+  - - trauma
+  deu:
+  - - Trauma
+  fra:
+  - - traumatisme
+    - trauma
+  rus:
+  - - "\u0442\u0440\u0430\u0432\u043C\u0430"
+search terms:
+  glb:
+  - trawma
+  eng:
+  - trauma
+  epo:
+  - "tra\u016Dmato"
+  spa:
+  - trauma
+  deu:
+  - trauma
+  fra:
+  - traumatisme
+  - trauma
+  rus:
+  - "\u0442\u0440\u0430\u0432\u043C\u0430"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - trauma
+  Espanisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Rusisa:
+  - - "\u0442\u0440\u0430\u0432\u043C\u0430 \u201Ctravma\u201D"
+  Niponsa:
+  - - "\u30E9\u30A6\u30DE \u201Ctorauma\u201D"
+  Turkisa:
+  - - travma
+  Hangusa:
+  - - "\uD2B8\uB77C\uC6B0\uB9C8 \u201Ctulauma\u201D"
+  Parsisa:
+  - - "\u062A\u0631\u0648\u0645\u0627 \u201Cteroma\u201D"
+tags:
+- medis
+raw data:
+  term: trawma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: trauma
+    epo: "tra\u016Dmato"
+    spa: trauma
+    deu: Trauma
+    fra: traumatisme, trauma
+    rus: "\u0442\u0440\u0430\u0432\u043C\u0430"
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (trauma), Espanisa, Fransesa, Doycisa, Indonesisa, Pilipinasa,
+    Rusisa (\u0442\u0440\u0430\u0432\u043C\u0430 \u201Ctravma\u201D), Niponsa (\u30E9\u30A6\u30DE
+    \u201Ctorauma\u201D), Turkisa (travma), Hangusa (\uD2B8\uB77C\uC6B0\uB9C8 \u201Ctulauma\u201D),
+    Parsisa (\u062A\u0631\u0648\u0645\u0627 \u201Cteroma\u201D)"
+...

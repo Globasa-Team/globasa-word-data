@@ -1,0 +1,64 @@
+---
+term: tornado
+slug: tornado
+ipa: "to\u027E\u02C8nado"
+ipa link: "http://ipa-reader.xyz/?text=to\u027E\u02C8nado&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tornado
+  epo:
+  - - tornado
+  spa:
+  - - tornado
+search terms:
+  glb:
+  - tornado
+  eng:
+  - tornado
+  epo:
+  - tornado
+  spa:
+  - tornado
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tornado
+  Espanisa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Fransesa:
+  - - tornade
+  Rusisa:
+  - - "\u0442\u043E\u0440\u043D\u0430\u0434\u043E \u201Ctornado\u201D"
+  Niponsa:
+  - - "\u30C8\u30EB\u30CD\u30FC\u30C9 \u201Ctoruneido\u201D"
+  Hanusa:
+  - - "\uD1A0\uB124\uC774\uB3C4 \u201Ctoneido\u201D"
+  Parsisa:
+  - - "\u062A\u0648\u0631\u0646\u0627\u062F\u0648 \u201Ctornado\u201D"
+raw data:
+  term: tornado
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tornado
+    epo: tornado
+    spa: tornado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tornado), Espanisa, Doycisa, Indonesisa, Fransesa (tornade),
+    Rusisa (\u0442\u043E\u0440\u043D\u0430\u0434\u043E \u201Ctornado\u201D), Niponsa
+    (\u30C8\u30EB\u30CD\u30FC\u30C9 \u201Ctoruneido\u201D), Hanusa (\uD1A0\uB124\uC774\uB3C4
+    \u201Ctoneido\u201D), Parsisa (\u062A\u0648\u0631\u0646\u0627\u062F\u0648 \u201Ctornado\u201D)"
+...

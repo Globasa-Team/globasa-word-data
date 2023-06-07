@@ -1,0 +1,48 @@
+---
+term: gujedo
+slug: gujedo
+ipa: "gu\u02C8d\u0361\u0292edo"
+ipa link: "http://ipa-reader.xyz/?text=gu\u02C8d\u0361\u0292edo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - fractured
+  epo:
+  - - frakasita
+  - - frakasite
+  spa:
+  - - fracturado
+search terms:
+  glb:
+  - gujedo
+  eng:
+  - fractured
+  epo:
+  - frakasita
+  - frakasite
+  spa:
+  - fracturado
+etymology_type: DERIVD
+etymology: <a href="../lexi/guje">guje</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: gujedo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: fractured
+    epo: frakasita; frakasite
+    spa: fracturado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: guje + -do
+...

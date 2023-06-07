@@ -1,0 +1,49 @@
+---
+term: uyu
+slug: uyu
+ipa: "\u02C8uju"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8uju&voice=Ewa"
+status: true
+category: root
+word class: pn
+trans:
+  eng:
+  - - you (_pl._)
+  epo:
+  - - vi (plurala)
+  spa:
+  - - ustedes
+    - vosotros
+search terms:
+  glb:
+  - uyu
+  eng:
+  - you
+  epo:
+  - vi plurala
+  - vi
+  spa:
+  - ustedes
+  - vosotros
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/yu">yu</a>.
+raw data:
+  term: uyu
+  category: root
+  word class: pn
+  status: true
+  trans:
+    eng: you (_pl._)
+    epo: vi (plurala)
+    spa: ustedes, vosotros
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _yu_.
+...

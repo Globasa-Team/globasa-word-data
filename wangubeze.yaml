@@ -1,0 +1,50 @@
+---
+term: wangubeze
+slug: wangubeze
+ipa: "wangu\u02C8beze"
+ipa link: "http://ipa-reader.xyz/?text=wangu\u02C8beze&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - queen-bee
+  epo:
+  - - "abelre\u011Dino"
+    - "re\u011Dinabelo"
+    - "\u0109efabelino"
+  spa:
+  - - abeja reina
+search terms:
+  glb:
+  - wangubeze
+  eng:
+  - queen-bee
+  epo:
+  - "abelre\u011Dino"
+  - "re\u011Dinabelo"
+  - "\u0109efabelino"
+  spa:
+  - abeja reina
+etymology_type: DERIVD
+etymology: <a href="../lexi/wangu">wangu</a> + <a href="../lexi/beze">beze</a>
+raw data:
+  term: wangubeze
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: queen-bee
+    epo: "abelre\u011Dino, re\u011Dinabelo, \u0109efabelino"
+    spa: abeja reina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wangu + beze
+...

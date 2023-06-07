@@ -1,0 +1,60 @@
+---
+term: siri
+slug: siri
+ipa: "\u02C8si\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8si\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - secret
+  epo:
+  - - sekreto
+  spa:
+  - - secreto
+search terms:
+  glb:
+  - siri
+  eng:
+  - secret
+  epo:
+  - sekreto
+  spa:
+  - secreto
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0633\u0650\u0631\u0651 \u201Csirr\u201D"
+  Hindisa:
+  - - "\u0938\u0947\u0930 \u201Cser\u201D"
+  Indonesisa:
+  - - sir
+  Parsisa:
+  - - "\u0633\u0631 \u201Cserr\u201D"
+  Turkisa:
+  - - "s\u0131r"
+  Swahilisa:
+  - - siri
+raw data:
+  term: siri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: secret
+    epo: sekreto
+    spa: secreto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0633\u0650\u0631\u0651 \u201Csirr\u201D), Hindisa (\u0938\u0947\u0930
+    \u201Cser\u201D), Indonesisa (sir), Parsisa (\u0633\u0631 \u201Cserr\u201D), Turkisa
+    (s\u0131r), Swahilisa (siri)"
+...

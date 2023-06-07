@@ -1,0 +1,46 @@
+---
+term: baxyen
+slug: baxyen
+ipa: "ba\u02C8\u0283jen"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8\u0283jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - subordinate
+  epo:
+  - - subulo
+  spa:
+  - - subordinado
+search terms:
+  glb:
+  - baxyen
+  eng:
+  - subordinate
+  epo:
+  - subulo
+  spa:
+  - subordinado
+etymology_type: DERIVD
+etymology: <a href="../lexi/bax">bax</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: baxyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: subordinate
+    epo: subulo
+    spa: subordinado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bax + -yen
+...

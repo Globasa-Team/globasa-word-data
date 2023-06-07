@@ -1,0 +1,48 @@
+---
+term: dambipul
+slug: dambipul
+ipa: "dambi\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=dambi\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - sinful
+  epo:
+  - - peka
+  - - peke
+  spa:
+  - - pecaminoso
+search terms:
+  glb:
+  - dambipul
+  eng:
+  - sinful
+  epo:
+  - peka
+  - peke
+  spa:
+  - pecaminoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/dambi">dambi</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: dambipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: sinful
+    epo: peka; peke
+    spa: pecaminoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dambi + -pul
+...

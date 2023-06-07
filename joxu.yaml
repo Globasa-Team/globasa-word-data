@@ -1,0 +1,68 @@
+---
+term: joxu
+slug: joxu
+ipa: "\u02C8d\u0361\u0292o\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292o\u0283u&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - enthusiasm
+    - excitement
+    - zeal
+  - - enthuse
+    - excite
+  epo:
+  - - entuziasmo
+    - ekscito
+  - - entuziasmi
+    - ekciti
+  spa:
+  - - entusiasmo
+    - "emoci\xF3n"
+  - - entusiasmar
+    - emocionar
+search terms:
+  glb:
+  - joxu
+  eng:
+  - enthusiasm
+  - excitement
+  - zeal
+  - enthuse
+  - excite
+  epo:
+  - entuziasmo
+  - ekscito
+  - entuziasmi
+  - ekciti
+  spa:
+  - entusiasmo
+  - "emoci\xF3n"
+  - entusiasmar
+  - emocionar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: joxu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: enthusiasm, excitement, zeal; enthuse, excite
+    epo: entuziasmo, ekscito; entuziasmi, ekciti
+    spa: "entusiasmo, emoci\xF3n; entusiasmar, emocionar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u091C\u094B\u0936 \u201Cjox\u201D), Turkisa (co\u015Fku),
+    Niponsa (\u60C5\u71B1 \u201Cjonetsu\u201D), Parsisa (\u062C\u0648\u0634\u0634
+    \u201Cjoxex\u201D)"
+...

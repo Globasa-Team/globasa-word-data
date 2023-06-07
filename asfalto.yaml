@@ -1,0 +1,72 @@
+---
+term: asfalto
+slug: asfalto
+ipa: asˈfalto
+ipa link: http://ipa-reader.xyz/?text=asˈfalto&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - asphalt
+  epo:
+  - - asfalto
+  spa:
+  - - asfalto
+    - alquitrán
+search terms:
+  glb:
+  - asfalto
+  eng:
+  - asphalt
+  epo:
+  - asfalto
+  spa:
+  - asfalto
+  - alquitrán
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Asphalt
+  Englisa:
+  - - asphalt
+  Espanisa:
+  - - asfalto
+  Fransesa:
+  - - asfalte
+  Rusisa:
+  - - acфальт “asfalt”
+  Turkisa:
+  - - asfalt
+  Parsisa:
+  - - آسفالت “asfalt”
+  Indonesisa:
+  - - aspal
+  Pilipinasa:
+  - - aspalto
+  Niponsa:
+  - - アスファルト “asufaruto”
+  Hangusa:
+  - - 아스팔트 “asupaltu”
+raw data:
+  term: asfalto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: asphalt
+    epo: asfalto
+    spa: asfalto, alquitrán
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Asphalt), Englisa (asphalt), Espanisa (asfalto), Fransesa (asfalte),
+    Rusisa (acфальт “asfalt”), Turkisa (asfalt), Parsisa (آسفالت “asfalt”), Indonesisa
+    (aspal), Pilipinasa (aspalto), Niponsa (アスファルト “asufaruto”), Hangusa (아스팔트 “asupaltu”)
+...

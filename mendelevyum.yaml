@@ -1,0 +1,58 @@
+---
+term: mendelevyum
+slug: mendelevyum
+ipa: "mendele\u02C8vjum"
+ipa link: "http://ipa-reader.xyz/?text=mendele\u02C8vjum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mendelevium
+  epo:
+  - - Mendelevio
+  spa:
+  - - mendelevio
+    - Md
+search terms:
+  glb:
+  - mendelevyum
+  eng:
+  - mendelevium
+  epo:
+  - mendelevio
+  spa:
+  - mendelevio
+  - md
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: mendelevyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mendelevium
+    epo: Mendelevio
+    spa: mendelevio, Md
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (mendelevium), Putunhwa (\u9346 \u201Cmen\u201D), Hindisa (\u092E\u0947\u0923\u094D\u0921\u0947\u0932\u0940\u0935\u093F\u092F\u092E
+    \u201Cmendeliviyam\u201D), Espanisa (mendelevio), Arabisa (\u0645\u064E\u0646\u0652\u062F\u064E\u0644\u0650\u0641\u0652\u064A\u064F\u0648\u0645
+    \u201Cmandalifyum\u201D), Fransesa (mend\xE9l\xE9vium), Rusisa (\u043C\u0435\u043D\u0434\u0435\u043B\u0435\u0432\u0438\u0439
+    \u201Cmendeleviy\u201D), Indonesisa (mendelevium), Doycisa (Mendelevium), Niponsa
+    (\u30E1\u30F3\u30C7\u30EC\u30D3\u30A6\u30E0 \u201Cmenderebiumu\u201D), Telugusa
+    (\u0C2E\u0C46\u0C02\u0C21\u0C32\u0C40\u0C35\u0C3F\u0C2F\u0C02 \u201Cmendaliviyam\u201D),
+    Turkisa (mendelevyum), Hangusa (\uBA58\uB378\uB808\uBE00 \u201Cmendelebyum\u201D),
+    Vyetnamsa (mendelevi), Parsisa (\u0645\u0646\u062F\u0644\u06CC\u0641\u06CC\u0645
+    \u201Cmendelefiyom\u201D), Swahilisa (mendelevi), Pilipinasa (mendelebyo)"
+...

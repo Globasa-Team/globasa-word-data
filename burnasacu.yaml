@@ -1,0 +1,66 @@
+---
+term: burnasacu
+slug: burnasacu
+ipa: "bu\u027Ena\u02C8sat\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027Ena\u02C8sat\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - stink
+    - stench
+    - reek
+  epo:
+  - - malbonodoro
+    - "odora\u0109o"
+    - fetoro
+    - stinko
+  - - malbonodori
+    - "odora\u0109i"
+    - fetori
+    - stinki
+  spa:
+  - - apestar
+search terms:
+  glb:
+  - burnasacu
+  eng:
+  - stink
+  - stench
+  - reek
+  epo:
+  - malbonodoro
+  - "odora\u0109o"
+  - fetoro
+  - stinko
+  - malbonodori
+  - "odora\u0109i"
+  - fetori
+  - stinki
+  spa:
+  - apestar
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/nasa">nasa</a> + <a
+  href="../lexi/-cu">-cu</a>
+raw data:
+  term: burnasacu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: stink, stench, reek
+    epo: "malbonodoro, odora\u0109o, fetoro, stinko; malbonodori, odora\u0109i, fetori,
+      stinki"
+    spa: apestar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + nasa + -cu
+...

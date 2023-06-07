@@ -1,0 +1,46 @@
+---
+term: politiyen
+slug: politiyen
+ipa: "politi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=politi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - politician
+  epo:
+  - - politikisto
+  spa:
+  - - "pol\xEDtico (_persona_)"
+search terms:
+  glb:
+  - politiyen
+  eng:
+  - politician
+  epo:
+  - politikisto
+  spa:
+  - "pol\xEDtico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/politi">politi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: politiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: politician
+    epo: politikisto
+    spa: "pol\xEDtico (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: politi + -yen
+...

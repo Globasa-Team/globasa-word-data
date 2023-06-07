@@ -1,0 +1,50 @@
+---
+term: sindi
+slug: sindi
+ipa: "\u02C8sindi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sindi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Sindh (_province in Pakistan_)
+  epo:
+  - - Sindo
+  spa:
+  - - "Sind (_provincia de Pakist\xE1n_)"
+search terms:
+  glb:
+  - sindi
+  eng:
+  - sindh
+  epo:
+  - sindo
+  spa:
+  - sind
+etymology_type: NATLNG
+etymology:
+  Sindisa:
+  - - "\u0633\u0646\u068C \u201Csind\u201D"
+    - "\u0633\u0646\u068C\u064A \u201Csindi\u201D"
+raw data:
+  term: Sindi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Sindh (_province in Pakistan_)
+    epo: Sindo
+    spa: "Sind (_provincia de Pakist\xE1n_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Sindisa (\u0633\u0646\u068C \u201Csind\u201D, \u0633\u0646\u068C\u064A
+    \u201Csindi\u201D)"
+...

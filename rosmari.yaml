@@ -1,0 +1,84 @@
+---
+term: rosmari
+slug: rosmari
+ipa: "\u027Eos\u02C8ma\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eos\u02C8ma\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rosemary
+    - _Salvia rosmarinus_
+  epo:
+  - - rosmareno
+  spa:
+  - - romero
+    - _Salvia rosmarinus_
+search terms:
+  glb:
+  - rosmari
+  eng:
+  - rosemary
+  - salvia rosmarinus
+  epo:
+  - rosmareno
+  spa:
+  - romero
+  - salvia rosmarinus
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rosemary
+  Espanisa:
+  - - romero
+  Fransesa:
+  - - romarin
+  Rusisa:
+  - - "\u0440\u043E\u0437\u043C\u0430\u0440\u0438\u043D \"rozmarin\""
+  Doycisa:
+  - - Rosmarin
+  Italisa:
+  - - rosmarino
+  Indonesisa:
+  - - rosemary
+  Pilipinasa:
+  - - romero
+  Niponsa:
+  - - "\u30ED\u30FC\u30BA\u30DE\u30EA\u30FC \"rozumari\""
+  Karnatakasa:
+  - - "\u0CB0\u0CCB\u0CB8\u0CCD\u200C\u0CAE\u0CB0\u0CBF \"rosmari\""
+  Tamilsa:
+  - - "\u0BB0\u0BCB\u0B9A\u0BC1\u0BAE\u0BC7\u0BB0\u0BBF \"rosumeri\""
+  Hangusa:
+  - - "\uB85C\uC988\uBA54\uB9AC \"rojumeri\""
+  Parsisa:
+  - - "\u0631\u0632\u0645\u0627\u0631\u06CC \"rozm\xE2ri\""
+tags:
+- planta
+- yamxey
+raw data:
+  term: rosmari
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rosemary, _Salvia rosmarinus_
+    epo: rosmareno
+    spa: romero, _Salvia rosmarinus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta, yamxey
+  etymology: "Englisa (rosemary), Espanisa (romero), Fransesa (romarin), Rusisa (\u0440\u043E\u0437\u043C\u0430\u0440\u0438\u043D
+    \"rozmarin\"), Doycisa (Rosmarin), Italisa (rosmarino), Indonesisa (rosemary),
+    Pilipinasa (romero), Niponsa (\u30ED\u30FC\u30BA\u30DE\u30EA\u30FC \"rozumari\"),
+    Karnatakasa (\u0CB0\u0CCB\u0CB8\u0CCD\u200C\u0CAE\u0CB0\u0CBF \"rosmari\"), Tamilsa
+    (\u0BB0\u0BCB\u0B9A\u0BC1\u0BAE\u0BC7\u0BB0\u0BBF \"rosumeri\"), Hangusa (\uB85C\uC988\uBA54\uB9AC
+    \"rojumeri\"), Parsisa (\u0631\u0632\u0645\u0627\u0631\u06CC \"rozm\xE2ri\")"
+...

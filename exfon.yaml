@@ -1,0 +1,49 @@
+---
+term: exfon
+slug: exfon
+ipa: "e\u0283\u02C8fon"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283\u02C8fon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - speaker(s)
+  epo:
+  - - "la\u016Dtparolilo"
+  spa:
+  - - bocina
+    - altavoz
+search terms:
+  glb:
+  - exfon
+  eng:
+  - speakers
+  - speaker
+  epo:
+  - "la\u016Dtparolilo"
+  spa:
+  - bocina
+  - altavoz
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/fon">fon</a>
+raw data:
+  term: exfon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: speaker(s)
+    epo: "la\u016Dtparolilo"
+    spa: bocina, altavoz
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: speaker, speakers
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex- + fon
+...

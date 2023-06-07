@@ -1,0 +1,52 @@
+---
+term: arkiteturli
+slug: arkiteturli
+ipa: "a\u027Ekite\u02C8tu\u027Eli"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Ekite\u02C8tu\u027Eli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - architectural
+  epo:
+  - - arkitektura
+    - "ar\u0125itektura"
+  - - arkitekture
+    - "ar\u0125itekture"
+  spa:
+  - - "arquitect\xF3nico"
+search terms:
+  glb:
+  - arkiteturli
+  eng:
+  - architectural
+  epo:
+  - arkitektura
+  - "ar\u0125itektura"
+  - arkitekture
+  - "ar\u0125itekture"
+  spa:
+  - "arquitect\xF3nico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/artiketur">artiketur</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: 'arkiteturli '
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: architectural
+    epo: "arkitektura, ar\u0125itektura; arkitekture, ar\u0125itekture"
+    spa: "arquitect\xF3nico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: artiketur + -li
+...

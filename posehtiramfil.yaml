@@ -1,0 +1,55 @@
+---
+term: posehtiramfil
+slug: posehtiramfil
+ipa: "posexti\u027Eam\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=posexti\u027Eam\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - disrespectful
+  - - disrespectfully
+  epo:
+  - - malrespektema
+    - malrespekta
+  - - malrespekteme
+    - malrespekte
+  spa:
+  - - irrespetuoso
+search terms:
+  glb:
+  - posehtiramfil
+  eng:
+  - disrespectful
+  - disrespectfully
+  epo:
+  - malrespektema
+  - malrespekta
+  - malrespekteme
+  - malrespekte
+  spa:
+  - irrespetuoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/ehtiram">ehtiram</a>
+  + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: posehtiramfil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: disrespectful; disrespectfully
+    epo: malrespektema, malrespekta; malrespekteme, malrespekte
+    spa: irrespetuoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + ehtiram + -fil
+...

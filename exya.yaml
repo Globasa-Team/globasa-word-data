@@ -1,0 +1,55 @@
+---
+term: exya
+slug: exya
+ipa: "\u02C8e\u0283ja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8e\u0283ja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - (the) outside
+    - exterior
+  - - be out (of)
+    - be outside (of)
+  epo:
+  - - ekstero
+  spa:
+  - - exterior
+search terms:
+  glb:
+  - exya
+  eng:
+  - the outside
+  - outside
+  - exterior
+  - be out of
+  - be out
+  - be outside of
+  - be outside
+  epo:
+  - ekstero
+  spa:
+  - exterior
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex">ex</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: exya
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: (the) outside, exterior; be out (of), be outside (of)
+    epo: ekstero
+    spa: exterior
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex + -ya
+...

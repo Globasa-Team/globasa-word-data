@@ -1,0 +1,48 @@
+---
+term: safegi
+slug: safegi
+ipa: "sa\u02C8fegi"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8fegi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - clean
+  epo:
+  - - purigo
+  - - purigi
+  spa:
+  - - limpiar
+search terms:
+  glb:
+  - safegi
+  eng:
+  - clean
+  epo:
+  - purigo
+  - purigi
+  spa:
+  - limpiar
+etymology_type: DERIVD
+etymology: <a href="../lexi/safe">safe</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: safegi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: clean
+    epo: purigo; purigi
+    spa: limpiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: safe + -gi
+...

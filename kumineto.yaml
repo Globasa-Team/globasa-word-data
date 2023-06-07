@@ -1,0 +1,52 @@
+---
+term: kumineto
+slug: kumineto
+ipa: "kumi\u02C8neto"
+ipa link: "http://ipa-reader.xyz/?text=kumi\u02C8neto&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - spider web
+    - spider's web
+    - cobweb
+  epo:
+  - - aranereto
+  - - "aranea\u0135o"
+  spa:
+  - - "telara\xF1a"
+search terms:
+  glb:
+  - kumineto
+  eng:
+  - spider web
+  - spider's web
+  - cobweb
+  epo:
+  - aranereto
+  - "aranea\u0135o"
+  spa:
+  - "telara\xF1a"
+etymology_type: DERIVD
+etymology: <a href="../lexi/kumi">kumi</a> + <a href="../lexi/neto">neto</a>
+raw data:
+  term: kumineto
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: spider web, spider's web, cobweb
+    epo: "aranereto; aranea\u0135o"
+    spa: "telara\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kumi + neto
+...

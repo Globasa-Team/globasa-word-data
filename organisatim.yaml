@@ -1,0 +1,54 @@
+---
+term: organisatim
+slug: organisatim
+ipa: "o\u027Eganisa\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=o\u027Eganisa\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - organization
+    - organisation
+    - institution
+  epo:
+  - - "organiza\u0135o"
+    - organizo
+  spa:
+  - - "organizaci\xF3n"
+    - "instituci\xF3n"
+search terms:
+  glb:
+  - organisatim
+  eng:
+  - organization
+  - organisation
+  - institution
+  epo:
+  - "organiza\u0135o"
+  - organizo
+  spa:
+  - "organizaci\xF3n"
+  - "instituci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/organisa">organisa</a> + <a href="../lexi/-tim">-tim</a>
+raw data:
+  term: organisatim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: organization, organisation, institution
+    epo: "organiza\u0135o, organizo"
+    spa: "organizaci\xF3n, instituci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: organisa + -tim
+...

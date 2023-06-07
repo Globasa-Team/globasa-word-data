@@ -1,0 +1,74 @@
+---
+term: ato
+slug: ato
+ipa: ˈato
+ipa link: http://ipa-reader.xyz/?text=ˈato&voice=Ewa
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - act
+    - performance
+  - - act
+    - play a role
+  epo:
+  - - aktoraĵo
+  - - aktori
+    - roli
+  spa:
+  - - acto
+  - - actuar
+    - hacer un papel
+search terms:
+  glb:
+  - ato
+  eng:
+    0: act
+    1: performance
+    3: play a role
+  epo:
+  - aktoraĵo
+  - aktori
+  - roli
+  spa:
+  - acto
+  - actuar
+  - hacer un papel
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - actor
+  Pilipinasa:
+  - - aktor
+  Indonesisa:
+  - - aktor
+  Nederisa:
+  - - acteur
+  Rusisa:
+  - - актер “akter”
+  Espanisa:
+  - - actor
+  Turkisa:
+  - - aktör
+raw data:
+  term: ato
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: act, performance; act, play a role
+    epo: aktoraĵo; aktori, roli
+    spa: acto; actuar, hacer un papel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (actor), Pilipinasa (aktor), Indonesisa (aktor), Nederisa (acteur),
+    Rusisa (актер “akter”), Espanisa (actor), Turkisa (aktör)
+...

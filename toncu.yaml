@@ -1,0 +1,64 @@
+---
+term: toncu
+slug: toncu
+ipa: "\u02C8tont\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tont\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - coalescence
+    - joining
+  - - coalesce
+    - get together
+    - come together
+    - join
+  epo:
+  - - "kuni\u011Do"
+  - - "kuni\u011Di"
+  spa:
+  - - "uni\xF3n"
+  - - juntarse
+    - unirse
+search terms:
+  glb:
+  - toncu
+  eng:
+  - coalescence
+  - joining
+  - coalesce
+  - get together
+  - come together
+  - join
+  epo:
+  - "kuni\u011Do"
+  - "kuni\u011Di"
+  spa:
+  - "uni\xF3n"
+  - juntarse
+  - unirse
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton">ton</a> + <a href="../lexi/-cu">-cu</a>
+synonyms:
+- tongocu
+raw data:
+  term: toncu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: coalescence, joining; coalesce, get together, come together, join
+    epo: "kuni\u011Do; kuni\u011Di"
+    spa: "uni\xF3n; juntarse, unirse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: tongocu
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton + -cu
+...

@@ -1,0 +1,57 @@
+---
+term: gante
+slug: gante
+ipa: ˈgante
+ipa link: http://ipa-reader.xyz/?text=ˈgante&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - glove
+  epo:
+  - - ganto
+  spa:
+  - - guante
+search terms:
+  glb:
+  - gante
+  eng:
+  - glove
+  epo:
+  - ganto
+  spa:
+  - guante
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - guante
+  Fransesa:
+  - - gant
+  Pilipinasa:
+  - - guwante
+  Vyetnamsa:
+  - - găng tay
+tags:
+- labas
+raw data:
+  term: gante
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: glove
+    epo: ganto
+    spa: guante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: 'Espanisa (guante), Fransesa (gant), Pilipinasa (guwante), Vyetnamsa
+    (găng tay) '
+...

@@ -1,0 +1,58 @@
+---
+term: noce
+slug: noce
+ipa: "\u02C8not\u0361\u0283e"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8not\u0361\u0283e&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - night
+  epo:
+  - - nokto
+  spa:
+  - - noche
+search terms:
+  glb:
+  - noce
+  eng:
+  - night
+  epo:
+  - nokto
+  spa:
+  - noche
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - noche
+    - nocturno
+  Fransesa:
+  - - nocturne
+  Rusisa:
+  - - "\u043D\u043E\u0447\u044C \u201Cnoch\u201D"
+  Englisa:
+  - - nocturnal
+  Doycisa:
+  - - Nacht
+raw data:
+  term: noce
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: night
+    epo: nokto
+    spa: noche
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (noche, nocturno), Fransesa (nocturne), Rusisa (\u043D\u043E\u0447\u044C
+    \u201Cnoch\u201D), Englisa (nocturnal), Doycisa (Nacht)"
+...

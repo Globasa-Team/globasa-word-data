@@ -1,0 +1,52 @@
+---
+term: federali
+slug: federali
+ipa: "fede\u02C8\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=fede\u02C8\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - federal
+  epo:
+  - - federacia
+    - federa
+  - - federacie
+    - federe
+  spa:
+  - - federal
+search terms:
+  glb:
+  - federali
+  eng:
+  - federal
+  epo:
+  - federacia
+  - federa
+  - federacie
+  - federe
+  spa:
+  - federal
+etymology_type: DERIVD
+etymology: <a href="../lexi/federa">federa</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: federali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: federal
+    epo: federacia, federa; federacie, federe
+    spa: federal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: federa + -li
+...

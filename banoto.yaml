@@ -1,0 +1,46 @@
+---
+term: banoto
+slug: banoto
+ipa: "ba\u02C8noto"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8noto&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - some things
+  epo:
+  - - ioj
+  spa:
+  - - algunas cosas
+search terms:
+  glb:
+  - banoto
+  eng:
+  - some things
+  epo:
+  - ioj
+  spa:
+  - algunas cosas
+etymology_type: DERIVD
+etymology: <a href="../lexi/ban">ban</a> + <a href="../lexi/oto">oto</a>
+raw data:
+  term: banoto
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: some things
+    epo: ioj
+    spa: algunas cosas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ban + oto
+...

@@ -1,0 +1,66 @@
+---
+term: gitay
+slug: gitay
+ipa: giˈtaj
+ipa link: http://ipa-reader.xyz/?text=giˈtaj&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - expectation
+    - anticipation
+  - - expect
+    - anticipate
+  epo:
+  - - anticipo
+  - - anticipi
+  spa:
+  - - expectativa
+    - anticipación
+  - - esperar
+    - anticipar
+search terms:
+  glb:
+  - gitay
+  eng:
+  - expectation
+  - anticipation
+  - expect
+  - anticipate
+  epo:
+  - anticipo
+  - anticipi
+  spa:
+  - expectativa
+  - anticipación
+  - esperar
+  - anticipar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 期待 “qídài”
+  Hangusa:
+  - - 기대 “gidae”
+  Niponsa:
+  - - 期待 “kitai”
+raw data:
+  term: gitay
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: expectation, anticipation; expect, anticipate
+    epo: anticipo; anticipi
+    spa: expectativa, anticipación; esperar, anticipar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (期待 “qídài”), Hangusa (기대 “gidae”), Niponsa (期待 “kitai”)
+...

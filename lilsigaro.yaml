@@ -1,0 +1,50 @@
+---
+term: lilsigaro
+slug: lilsigaro
+ipa: "lilsi\u02C8ga\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=lilsi\u02C8ga\u027Eo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - cigarette
+  epo:
+  - - cigaredo
+    - cigareto
+  spa:
+  - - cigarrillo
+    - cigarro
+search terms:
+  glb:
+  - lilsigaro
+  eng:
+  - cigarette
+  epo:
+  - cigaredo
+  - cigareto
+  spa:
+  - cigarrillo
+  - cigarro
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/sigaro">sigaro</a>
+raw data:
+  term: lilsigaro
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: cigarette
+    epo: cigaredo, cigareto
+    spa: cigarrillo, cigarro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + sigaro
+...

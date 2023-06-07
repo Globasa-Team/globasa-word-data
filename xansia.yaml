@@ -1,0 +1,64 @@
+---
+term: xansia
+slug: xansia
+ipa: "\u0283an\u02C8sia"
+ipa link: "http://ipa-reader.xyz/?text=\u0283an\u02C8sia&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - umbrella
+    - parasol
+  epo:
+  - - ombrelo
+  spa:
+  - - paraguas
+    - sombrilla
+    - parasol
+search terms:
+  glb:
+  - xansia
+  eng:
+  - umbrella
+  - parasol
+  epo:
+  - ombrelo
+  spa:
+  - paraguas
+  - sombrilla
+  - parasol
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4F1E \u201Cs\u01CEn\u201D"
+  Hangusa:
+  - - "\uC6B0\uC0B0 \u201Cusan\u201D"
+  Arabisa:
+  - - "\u0634\u064E\u0645\u0652\u0633\u064A\u0651\u0629 \u201C\u0161amsiyya\u201D"
+  Turkisa:
+  - - "\u015Femsiye"
+tags:
+- xey
+raw data:
+  term: xansia
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: umbrella, parasol
+    epo: ombrelo
+    spa: paraguas, sombrilla, parasol
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: xey
+  etymology: "Putunhwa (\u4F1E \u201Cs\u01CEn\u201D), Hangusa (\uC6B0\uC0B0 \u201Cusan\u201D),
+    Arabisa (\u0634\u064E\u0645\u0652\u0633\u064A\u0651\u0629 \u201C\u0161amsiyya\u201D),
+    Turkisa (\u015Femsiye)"
+...

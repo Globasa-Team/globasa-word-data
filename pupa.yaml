@@ -1,0 +1,81 @@
+---
+term: pupa
+slug: pupa
+ipa: "\u02C8pupa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pupa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pupa
+    - pupe
+    - chrysalis
+    - tumbler
+  epo:
+  - - pupo
+    - krizalido
+  spa:
+  - - pupa
+    - "cris\xE1lida"
+    - capullo
+search terms:
+  glb:
+  - pupa
+  eng:
+  - pupa
+  - pupe
+  - chrysalis
+  - tumbler
+  epo:
+  - pupo
+  - krizalido
+  spa:
+  - pupa
+  - "cris\xE1lida"
+  - capullo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pupa
+  Espanisa:
+  - - pupa
+  Fransesa:
+  - - pupe
+  Doycisa:
+  - - Puppe
+  Portugalsa:
+  - - pupa
+  Italisa:
+  - - pupa
+  Indonesisa:
+  - - pupa
+  Hindisa:
+  - - "\u092A\u094D\u092F\u0942\u092A\u093E \"pyupa\""
+  Karnatakasa:
+  - - "\u0CAA\u0CCD\u0CAF\u0CC2\u0CAA\u0CBE \"pyupa\""
+  Turkisa:
+  - - pupa
+raw data:
+  term: pupa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pupa, pupe, chrysalis, tumbler
+    epo: pupo, krizalido
+    spa: "pupa, cris\xE1lida, capullo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (pupa), Espanisa (pupa), Fransesa (pupe), Doycisa (Puppe), Portugalsa
+    (pupa), Italisa (pupa), Indonesisa (pupa), Hindisa (\u092A\u094D\u092F\u0942\u092A\u093E
+    \"pyupa\"), Karnatakasa (\u0CAA\u0CCD\u0CAF\u0CC2\u0CAA\u0CBE \"pyupa\"), Turkisa
+    (pupa)"
+...

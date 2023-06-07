@@ -1,0 +1,48 @@
+---
+term: gluxey
+slug: gluxey
+ipa: "glu\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=glu\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - beverage
+    - drink
+  epo:
+  - - "trinka\u0135o"
+  spa:
+  - - bebida
+search terms:
+  glb:
+  - gluxey
+  eng:
+  - beverage
+  - drink
+  epo:
+  - "trinka\u0135o"
+  spa:
+  - bebida
+etymology_type: DERIVD
+etymology: <a href="../lexi/glu">glu</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: gluxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: beverage, drink
+    epo: "trinka\u0135o"
+    spa: bebida
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: glu + -xey
+...

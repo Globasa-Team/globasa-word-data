@@ -1,0 +1,77 @@
+---
+term: trapesi
+slug: trapesi
+ipa: "t\u027Ea\u02C8pesi"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Ea\u02C8pesi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - trapezium
+    - trapezoid (_two parallel sides_)
+  epo:
+  - - trapezo
+  spa:
+  - - trapecio
+    - trapezoide
+search terms:
+  glb:
+  - trapesi
+  eng:
+  - trapezium
+  - trapezoid
+  epo:
+  - trapezo
+  spa:
+  - trapecio
+  - trapezoide
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - trapezium
+    - trapezoid
+  Espanisa:
+  - - trapecio
+  Fransesa:
+  - - "trap\xE8ze"
+  Rusisa:
+  - - "\u0442\u0440\u0430\u043F\u0435\u0446\u0438\u044F \"trapetsiya\""
+  Doycisa:
+  - - Trapez
+  Portugalsa:
+  - - "trap\xE9zio"
+  Italisa:
+  - - trapezio
+  Indonesisa:
+  - - trapesium
+  Pilipinasa:
+  - - trapesoid
+  Banglasa:
+  - - "\u099F\u09CD\u09B0\u09BE\u09AA\u09BF\u099C\u09BF\u09AF\u09BC\u09BE\u09AE \"trabiziyama\""
+  Azerbayjanisa:
+  - - trapesiya
+raw data:
+  term: trapesi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: trapezium, trapezoid (_two parallel sides_)
+    epo: trapezo
+    spa: trapecio, trapezoide
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (trapezium, trapezoid), Espanisa (trapecio), Fransesa (trap\xE8ze),
+    Rusisa (\u0442\u0440\u0430\u043F\u0435\u0446\u0438\u044F \"trapetsiya\"), Doycisa
+    (Trapez), Portugalsa (trap\xE9zio), Italisa (trapezio), Indonesisa (trapesium),
+    Pilipinasa (trapesoid), Banglasa (\u099F\u09CD\u09B0\u09BE\u09AA\u09BF\u099C\u09BF\u09AF\u09BC\u09BE\u09AE
+    \"trabiziyama\"), Azerbayjanisa (trapesiya)"
+...

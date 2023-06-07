@@ -1,0 +1,54 @@
+---
+term: poscosan
+slug: poscosan
+ipa: "post\u0361\u0283o\u02C8san"
+ipa link: "http://ipa-reader.xyz/?text=post\u0361\u0283o\u02C8san&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - criticism
+  - - criticize
+  epo:
+  - - "malla\u016Ddo"
+  - - "malla\u016Ddi"
+  spa:
+  - - "cr\xEDtica"
+  - - criticar
+    - vituperar
+search terms:
+  glb:
+  - poscosan
+  eng:
+  - criticism
+  - criticize
+  epo:
+  - "malla\u016Ddo"
+  - "malla\u016Ddi"
+  spa:
+  - "cr\xEDtica"
+  - criticar
+  - vituperar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/cosan">cosan</a>
+raw data:
+  term: poscosan
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: criticism; criticize
+    epo: "malla\u016Ddo; malla\u016Ddi"
+    spa: "cr\xEDtica; criticar, vituperar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + cosan
+...

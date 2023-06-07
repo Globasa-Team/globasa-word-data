@@ -1,0 +1,57 @@
+---
+term: yobu
+slug: yobu
+ipa: "\u02C8jobu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jobu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - loin
+    - small of back
+  epo:
+  - - lumbo
+  spa:
+  - - lomo
+search terms:
+  glb:
+  - yobu
+  eng:
+  - loin
+  - small of back
+  epo:
+  - lumbo
+  spa:
+  - lomo
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u8170\u90E8 \u201Cyawbu\u201D"
+  Hangusa:
+  - - "\uC694\uBD80 \u201Cyobu\u201D"
+  Niponsa:
+  - - "\u8170\u90E8 \u201Cyobu\u201D"
+tags:
+- jismulogi
+raw data:
+  term: yobu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: loin, small of back
+    epo: lumbo
+    spa: lomo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa (\u8170\u90E8 \u201Cyawbu\u201D), Hangusa (\uC694\uBD80 \u201Cyobu\u201D),
+    Niponsa (\u8170\u90E8 \u201Cyobu\u201D)"
+...

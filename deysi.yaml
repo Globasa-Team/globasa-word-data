@@ -1,0 +1,63 @@
+---
+term: deysi
+slug: deysi
+ipa: ˈdejsi
+ipa link: http://ipa-reader.xyz/?text=ˈdejsi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - daisy
+    - _Leucanthemum_
+  epo:
+  - - lekanto
+    - leŭkanto
+    - leŭkantemo
+  spa:
+  - - margarita
+    - _Leucanthemum_
+search terms:
+  glb:
+  - deysi
+  eng:
+  - daisy
+  - leucanthemum
+  epo:
+  - lekanto
+  - leŭkanto
+  - leŭkantemo
+  spa:
+  - margarita
+  - leucanthemum
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - daisy
+  Indonesisa:
+  - - desi
+  Pilipinasa:
+  - - daisy
+  Hangusa:
+  - - 데이지 "deyji"
+raw data:
+  term: deysi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: daisy, _Leucanthemum_
+    epo: lekanto, leŭkanto, leŭkantemo
+    spa: margarita, _Leucanthemum_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (daisy), Indonesisa (desi), Pilipinasa (daisy), Hangusa (데이지
+    "deyji")
+...

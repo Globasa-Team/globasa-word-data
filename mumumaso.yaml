@@ -1,0 +1,46 @@
+---
+term: mumumaso
+slug: mumumaso
+ipa: "mumu\u02C8maso"
+ipa link: "http://ipa-reader.xyz/?text=mumu\u02C8maso&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - beef
+  epo:
+  - - "bova\u0135o"
+  spa:
+  - - carne de res
+search terms:
+  glb:
+  - mumumaso
+  eng:
+  - beef
+  epo:
+  - "bova\u0135o"
+  spa:
+  - carne de res
+etymology_type: DERIVD
+etymology: <a href="../lexi/mumu">mumu</a> + <a href="../lexi/-maso">-maso</a>
+raw data:
+  term: mumumaso
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: beef
+    epo: "bova\u0135o"
+    spa: carne de res
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mumu + -maso
+...

@@ -1,0 +1,61 @@
+---
+term: doyan
+slug: doyan
+ipa: doˈjan
+ipa link: http://ipa-reader.xyz/?text=doˈjan&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - diverse
+    - diversely
+    - various
+    - variously
+  epo:
+  - - diversa
+  - - diverse
+  spa:
+  - - diverso
+    - distinto
+search terms:
+  glb:
+  - doyan
+  eng:
+  - diverse
+  - diversely
+  - various
+  - variously
+  epo:
+  - diversa
+  - diverse
+  spa:
+  - diverso
+  - distinto
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 多样 “duōyàng”
+    - 多元 “duōyuán”
+  Hangusa:
+  - - 다양 “dayang”
+raw data:
+  term: doyan
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: diverse, diversely, various, variously
+    epo: diversa; diverse
+    spa: diverso, distinto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (多样 “duōyàng”, 多元 “duōyuán”), Hangusa (다양 “dayang”)
+...

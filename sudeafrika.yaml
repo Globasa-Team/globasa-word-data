@@ -1,0 +1,50 @@
+---
+term: sudeafrika
+slug: sudeafrika
+ipa: "sudea\u02C8f\u027Eika"
+ipa link: "http://ipa-reader.xyz/?text=sudea\u02C8f\u027Eika&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - South Africa
+  epo:
+  - - Sud-Afriko
+  spa:
+  - - "Sud\xE1frica"
+search terms:
+  glb:
+  - sudeafrika
+  eng:
+  - south africa
+  epo:
+  - sud-afriko
+  spa:
+  - "sud\xE1frica"
+etymology_type: NATLNG
+etymology:
+  Afrikansesa:
+  - - Suid-Afrika
+tags:
+- dexa
+raw data:
+  term: Sudeafrika
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: South Africa
+    epo: Sud-Afriko
+    spa: "Sud\xE1frica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Afrikansesa (Suid-Afrika)
+...

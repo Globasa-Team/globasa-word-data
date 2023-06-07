@@ -1,0 +1,58 @@
+---
+term: musu
+slug: musu
+ipa: "\u02C8musu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8musu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - elk
+    - moose
+    - _Alces_
+  epo:
+  - - alko
+  spa:
+  - - alce
+    - ante
+    - _Alces alces_
+search terms:
+  glb:
+  - musu
+  eng:
+  - elk
+  - moose
+  - alces
+  epo:
+  - alko
+  spa:
+  - alce
+  - ante
+  - alces alces
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: musu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: elk, moose, _Alces_
+    epo: alko
+    spa: alce, ante, _Alces alces_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (moose), Hindisa (\u092E\u0942\u0938 \"mus\"), Arabisa (\u0645\u064F\u0648\u0638
+    \"muz\"), Niponsa (\u30E0\u30FC\u30B9 \"musu\"), Turkisa (mus), Hangusa (\uBB34\uC2A4
+    \"musu\"), Parsisa (\u0645\u0648\u0633 \"mus\")"
+...

@@ -1,0 +1,78 @@
+---
+term: eletron
+slug: eletron
+ipa: eleˈtɾon
+ipa link: http://ipa-reader.xyz/?text=eleˈtɾon&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - electron
+  epo:
+  - - elektrono
+  spa:
+  - - electrón
+search terms:
+  glb:
+  - eletron
+  eng:
+  - electron
+  epo:
+  - elektrono
+  spa:
+  - electrón
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - electron
+  Espanisa:
+  - - electrón
+  Fransesa:
+  - - électron
+  Rusisa:
+  - - электрон “elektron”
+  Doycisa:
+  - - Elektron
+  Indonesisa:
+  - - elektron
+  Pilipinasa:
+  - - elektron
+  Hindisa:
+  - - इलेक्ट्रॉन “ilektron”
+  Arabisa:
+  - - إِلَكْتْرُون “ilaktrun”
+  Telugusa:
+  - - ఎలక్ట్రాన్ “elaktran”
+  Turkisa:
+  - - elektron
+  Vyetnamsa:
+  - - electron
+  Parsisa:
+  - - الکترون “elekteron”
+  Swahilisa:
+  - - elektroni
+raw data:
+  term: eletron
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: electron
+    epo: elektrono
+    spa: electrón
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (electron), Espanisa (electrón), Fransesa (électron), Rusisa
+    (электрон “elektron”), Doycisa (Elektron), Indonesisa (elektron), Pilipinasa (elektron),
+    Hindisa (इलेक्ट्रॉन “ilektron”), Arabisa (إِلَكْتْرُون “ilaktrun”), Telugusa (ఎలక్ట్రాన్
+    “elaktran”), Turkisa (elektron), Vyetnamsa (electron), Parsisa (الکترون “elekteron”),
+    Swahilisa (elektroni)
+...

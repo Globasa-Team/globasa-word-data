@@ -1,0 +1,93 @@
+---
+term: sweter
+slug: sweter
+ipa: "swe\u02C8te\u027E"
+ipa link: "http://ipa-reader.xyz/?text=swe\u02C8te\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sweater
+    - pullover
+  epo:
+  - - pulovero
+  spa:
+  - - "su\xE9ter"
+    - _jersey_
+  fra:
+  - - pull-over
+    - chandail
+    - tricot
+search terms:
+  glb:
+  - sweter
+  eng:
+  - sweater
+  - pullover
+  epo:
+  - pulovero
+  spa:
+  - "su\xE9ter"
+  - jersey
+  fra:
+  - pull-over
+  - chandail
+  - tricot
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sweater
+  Espanisa:
+  - - "su\xE9ter"
+    - sueta
+    - "su\xE9ter"
+  Rusisa:
+  - - "\u0441\u0432\u0438\u0442\u0435\u0440 \u201Csviter\u201D"
+  Doycisa:
+  - - Sweater
+  Indonesisa:
+  - - switer
+  Pilipinasa:
+  - - sweter
+  Hindisa:
+  - - "\u0938\u094D\u0935\u0947\u091F\u0930 \u201Csvetar\u201D"
+  Arabisa:
+  - - "\u0633\u0652\u0648\u0650\u064A\u062A\u064E\u0631 \u201Cswitar\u201D"
+  Niponsa:
+  - - "\u30BB\u30FC\u30BF\u30FC \u201Cseta\u201D"
+  Telugusa:
+  - - "\u0C38\u0C4D\u0C35\u0C46\u0C1F\u0C4D\u0C1F\u0C30\u0C4D \u201Csvetar\u201D"
+  Turkisa:
+  - - "s\xFCveter"
+  Hangusa:
+  - - "\uC2A4\uC6E8\uD130 \u201Csuweto\u201D"
+  Swahilisa:
+  - - sweta
+tags:
+- labas
+raw data:
+  term: sweter
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sweater, pullover
+    epo: pulovero
+    spa: "su\xE9ter, _jersey_"
+    deu: ""
+    fra: pull-over, chandail, tricot
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Englisa (sweater), Espanisa (su\xE9ter, sueta, su\xE9ter), Rusisa (\u0441\u0432\u0438\u0442\u0435\u0440
+    \u201Csviter\u201D), Doycisa (Sweater), Indonesisa (switer), Pilipinasa (sweter),
+    Hindisa (\u0938\u094D\u0935\u0947\u091F\u0930 \u201Csvetar\u201D), Arabisa (\u0633\u0652\u0648\u0650\u064A\u062A\u064E\u0631
+    \u201Cswitar\u201D), Niponsa (\u30BB\u30FC\u30BF\u30FC \u201Cseta\u201D), Telugusa
+    (\u0C38\u0C4D\u0C35\u0C46\u0C1F\u0C4D\u0C1F\u0C30\u0C4D \u201Csvetar\u201D), Turkisa
+    (s\xFCveter), Hangusa (\uC2A4\uC6E8\uD130 \u201Csuweto\u201D), Swahilisa (sweta)"
+...

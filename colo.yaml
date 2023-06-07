@@ -1,0 +1,52 @@
+---
+term: colo
+slug: colo
+ipa: ˈt͡ʃolo
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃolo&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - ugly
+  epo:
+  - - malbela
+  - - malbele
+  spa:
+  - - feo
+search terms:
+  glb:
+  - colo
+  eng:
+  - ugly
+  epo:
+  - malbela
+  - malbele
+  spa:
+  - feo
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 丑陋 “chǒulòu”
+antonyms:
+- meli
+raw data:
+  term: colo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: ugly
+    epo: malbela; malbele
+    spa: feo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: meli
+  example: ""
+  tags: ""
+  etymology: Putunhwa (丑陋 “chǒulòu”)
+...

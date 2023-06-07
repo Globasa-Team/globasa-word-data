@@ -1,0 +1,55 @@
+---
+term: yentu
+slug: yentu
+ipa: "\u02C8jentu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jentu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pharynx
+  epo:
+  - - faringo
+  spa:
+  - - faringe
+search terms:
+  glb:
+  - yentu
+  eng:
+  - pharynx
+  epo:
+  - faringo
+  spa:
+  - faringe
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u54BD\u5934 \"yantow\""
+  Niponsa:
+  - - "\u54BD\u982D \"into\""
+  Hangusa:
+  - - "\uC778\uB450 \"indu\""
+tags:
+- jismulogi
+raw data:
+  term: yentu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pharynx
+    epo: faringo
+    spa: faringe
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa (\u54BD\u5934 \"yantow\"), Niponsa (\u54BD\u982D \"into\"),
+    Hangusa (\uC778\uB450 \"indu\")"
+...

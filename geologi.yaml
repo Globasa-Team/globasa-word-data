@@ -1,0 +1,46 @@
+---
+term: geologi
+slug: geologi
+ipa: "geo\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=geo\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - geology
+  epo:
+  - - geologio
+  spa:
+  - - "geolog\xEDa"
+search terms:
+  glb:
+  - geologi
+  eng:
+  - geology
+  epo:
+  - geologio
+  spa:
+  - "geolog\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/geo">geo</a> + <a href="../lexi/-logi">-logi</a>
+raw data:
+  term: geologi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: geology
+    epo: geologio
+    spa: "geolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: geo + -logi
+...

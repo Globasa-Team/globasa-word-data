@@ -1,0 +1,88 @@
+---
+term: berilyum
+slug: berilyum
+ipa: beɾiˈljum
+ipa link: http://ipa-reader.xyz/?text=beɾiˈljum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - beryllium
+  epo:
+  - - berilio
+    - glucinio
+  spa:
+  - - berilio
+    - Be
+search terms:
+  glb:
+  - berilyum
+  eng:
+  - beryllium
+  epo:
+  - berilio
+  - glucinio
+  spa:
+  - berilio
+  - be
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - boron
+  Espanisa:
+  - - boro
+  Arabisa:
+  - - بُورُون “borun”
+  Fransesa:
+  - - béryllium
+  Rusisa:
+  - - бериллий “berilliy”
+  Indonesisa:
+  - - berilium
+  Doycisa:
+  - - Beryllium
+  Niponsa:
+  - - ベリリウム “beririumu”
+  Telugusa:
+  - - బెరీలియం “beriliyam”
+  Turkisa:
+  - - berilyum
+  Hangusa:
+  - - 베릴륨 “berillyum”
+  Vyetnamsa:
+  - - berili
+    - beri
+  Parsisa:
+  - - بریلیوم “beriliyom”
+  Swahilisa:
+  - - berili
+  Pilipinasa:
+  - - berilyo
+    - berilyum
+tags:
+- kimikali monlari
+raw data:
+  term: berilyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: beryllium
+    epo: berilio, glucinio
+    spa: berilio, Be
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (boron), Espanisa (boro), Arabisa (بُورُون “borun”), Fransesa
+    (béryllium), Rusisa (бериллий “berilliy”), Indonesisa (berilium), Doycisa (Beryllium),
+    Niponsa (ベリリウム “beririumu”), Telugusa (బెరీలియం “beriliyam”), Turkisa (berilyum),
+    Hangusa (베릴륨 “berillyum”), Vyetnamsa (berili, beri), Parsisa (بریلیوم “beriliyom”),
+    Swahilisa (berili), Pilipinasa (berilyo, berilyum)
+...

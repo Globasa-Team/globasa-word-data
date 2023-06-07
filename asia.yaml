@@ -1,0 +1,82 @@
+---
+term: asia
+slug: asia
+ipa: "a\u02C8sia"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8sia&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Asia
+  epo:
+  - - Azio
+  spa:
+  - - Asia
+search terms:
+  glb:
+  - asia
+  eng:
+  - asia
+  epo:
+  - azio
+  spa:
+  - asia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Asia
+  Fransesa:
+  - - Asia
+  Doycisa:
+  - - Asien
+  Rusisa:
+  - - "\u0410\u0437\u0438\u044F \u201CAziya\u201D"
+  Espanisa:
+  - - Asia
+  Arabisa:
+  - - "\u0622\u0633\u0650\u064A\u064E\u0627 \u201C\u02BE\u0101siy\u0101\u201D"
+  Hindisa:
+  - - "\u090F\u0936\u093F\u092F\u093E \u201Ce\u015Biy\u0101\u201D"
+  Telugusa:
+  - - "\u0C06\u0C38\u0C3F\u0C2F\u0C3E \u201C\u0101siy\u0101\u201D"
+  Turkisa:
+  - - Asya
+  Swahilisa:
+  - - Asia
+  Indonesisa:
+  - - Asia
+  Pilipinasa:
+  - - Asya
+  Hangusa:
+  - - "\uC544\uC2DC\uC544 \u201Casia\u201D"
+  Niponsa:
+  - - "\u30A2\u30B8\u30A2 \u201Cajia\u201D"
+tags:
+- geografi
+- daygeo
+raw data:
+  term: Asia
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Asia
+    epo: Azio
+    spa: Asia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi, daygeo
+  etymology: "Englisa (Asia), Fransesa (Asia), Doycisa (Asien), Rusisa (\u0410\u0437\u0438\u044F
+    \u201CAziya\u201D), Espanisa (Asia), Arabisa (\u0622\u0633\u0650\u064A\u064E\u0627
+    \u201C\u02BE\u0101siy\u0101\u201D), Hindisa (\u090F\u0936\u093F\u092F\u093E \u201Ce\u015Biy\u0101\u201D),
+    Telugusa (\u0C06\u0C38\u0C3F\u0C2F\u0C3E \u201C\u0101siy\u0101\u201D), Turkisa
+    (Asya), Swahilisa (Asia), Indonesisa (Asia), Pilipinasa (Asya), Hangusa (\uC544\uC2DC\uC544
+    \u201Casia\u201D), Niponsa (\u30A2\u30B8\u30A2 \u201Cajia\u201D)"
+...

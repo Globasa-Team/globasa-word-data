@@ -1,0 +1,50 @@
+---
+term: pilipinasa
+slug: pilipinasa
+ipa: "pilipi\u02C8nasa"
+ipa link: "http://ipa-reader.xyz/?text=pilipi\u02C8nasa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Filipino (language)
+  epo:
+  - - la filipina (lingvo)
+  spa:
+  - - filipino (_idioma_)
+search terms:
+  glb:
+  - pilipinasa
+  eng:
+  - filipino language
+  - filipino
+  epo:
+  - la filipina lingvo
+  - la filipina
+  spa:
+  - filipino
+etymology_type: DERIVD
+etymology: <a href="../lexi/Pilipina">Pilipina</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Pilipinasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Filipino (language)
+    epo: la filipina (lingvo)
+    spa: filipino (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Pilipina + -sa
+...

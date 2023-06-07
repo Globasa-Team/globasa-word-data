@@ -1,0 +1,48 @@
+---
+term: deli
+slug: deli
+ipa: "\u02C8deli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8deli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - belonging
+  epo:
+  - - apartena
+  - - apartene
+  spa:
+  - - perteneciente
+search terms:
+  glb:
+  - deli
+  eng:
+  - belonging
+  epo:
+  - apartena
+  - apartene
+  spa:
+  - perteneciente
+etymology_type: DERIVD
+etymology: <a href="../lexi/de">de</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: deli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: 'belonging '
+    epo: apartena; apartene
+    spa: perteneciente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: de + -li
+...

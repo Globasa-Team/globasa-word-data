@@ -1,0 +1,54 @@
+---
+term: polska
+slug: polska
+ipa: "\u02C8polska"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8polska&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Poland
+  epo:
+  - - Pollando
+    - Polio
+    - Polujo
+  spa:
+  - - Polonia
+search terms:
+  glb:
+  - polska
+  eng:
+  - poland
+  epo:
+  - pollando
+  - polio
+  - polujo
+  spa:
+  - polonia
+etymology_type: NATLNG
+etymology:
+  Polskasa:
+  - - Polska
+tags:
+- dexa
+raw data:
+  term: Polska
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Poland
+    epo: Pollando, Polio, Polujo
+    spa: Polonia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Polskasa (Polska)
+...

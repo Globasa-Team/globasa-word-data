@@ -1,0 +1,50 @@
+---
+term: lihtenstayn
+slug: lihtenstayn
+ipa: "lixtens\u02C8tajn"
+ipa link: "http://ipa-reader.xyz/?text=lixtens\u02C8tajn&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Liechtenstein
+  epo:
+  - - "Li\u0125ten\u015Dtejno"
+  spa:
+  - - Liechtenstein
+search terms:
+  glb:
+  - lihtenstayn
+  eng:
+  - liechtenstein
+  epo:
+  - "li\u0125ten\u015Dtejno"
+  spa:
+  - liechtenstein
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Liechtenstein
+tags:
+- dexa
+raw data:
+  term: Lihtenstayn
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Liechtenstein
+    epo: "Li\u0125ten\u015Dtejno"
+    spa: Liechtenstein
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Doycisa (Liechtenstein)
+...

@@ -1,0 +1,59 @@
+---
+term: din
+slug: din
+ipa: ˈdin
+ipa link: http://ipa-reader.xyz/?text=ˈdin&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - day
+  epo:
+  - - tago
+  spa:
+  - - día
+search terms:
+  glb:
+  - din
+  eng:
+  - day
+  epo:
+  - tago
+  spa:
+  - día
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - día
+  Rusisa:
+  - - день “dien”
+  Hindisa:
+  - - दिन “din”
+  Karnatakasa:
+  - - ದಿನ “dina”
+  Javanese:
+  - - dina
+  Putunhwa:
+  - - 天 “tiān”
+raw data:
+  term: din
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: day
+    epo: tago
+    spa: día
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (día), Rusisa (день “dien”), Hindisa (दिन “din”), Karnatakasa
+    (ದಿನ “dina”), Javanese (dina), Putunhwa  (天 “tiān”)
+...

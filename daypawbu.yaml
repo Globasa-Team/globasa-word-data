@@ -1,0 +1,48 @@
+---
+term: daypawbu
+slug: daypawbu
+ipa: "daj\u02C8pawbu"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8pawbu&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - sprint
+  epo:
+  - - kurego
+  - - kuregi
+  spa:
+  - - correr a toda velocidad
+search terms:
+  glb:
+  - daypawbu
+  eng:
+  - sprint
+  epo:
+  - kurego
+  - kuregi
+  spa:
+  - correr a toda velocidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/pawbu">pawbu</a>
+raw data:
+  term: daypawbu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: sprint
+    epo: kurego; kuregi
+    spa: correr a toda velocidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + pawbu
+...

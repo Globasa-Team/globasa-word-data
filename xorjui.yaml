@@ -1,0 +1,50 @@
+---
+term: xorjui
+slug: xorjui
+ipa: "\u0283o\u027E\u02C8d\u0361\u0292ui"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u027E\u02C8d\u0361\u0292ui&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - notice
+  epo:
+  - - rimarko
+  - - rimarki
+    - ekatenti
+  spa:
+  - - darse cuenta
+search terms:
+  glb:
+  - xorjui
+  eng:
+  - notice
+  epo:
+  - rimarko
+  - rimarki
+  - ekatenti
+  spa:
+  - darse cuenta
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor-">xor-</a> + <a href="../lexi/jui">jui</a>
+raw data:
+  term: xorjui
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: notice
+    epo: rimarko; rimarki, ekatenti
+    spa: darse cuenta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xor- + jui
+...

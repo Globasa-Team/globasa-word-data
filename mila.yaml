@@ -1,0 +1,53 @@
+---
+term: mila
+slug: mila
+ipa: "\u02C8mila"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mila&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mile
+  epo:
+  - - mejlo
+  spa:
+  - - milla (_unidad de longitud_)
+    - mi
+search terms:
+  glb:
+  - mila
+  eng:
+  - mile
+  epo:
+  - mejlo
+  spa:
+  - milla
+  - mi
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mila
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mile
+    epo: mejlo
+    spa: milla (_unidad de longitud_), mi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mile), Espanisa (milla), Fransesa (millle), Rusisa (\u043C\u0438\u043B\u044F
+    \"milya\"), Doycisa (Meile), Indonesisa (mil), Pilipinasa (milya), Hindisa (\u092E\u0940\u0932
+    \"mil\"), Arabisa (\u0645\u0650\u064A\u0644 \"mil\"), Niponsa (\u30DE\u30A4\u30EB
+    \"mairu\"), Telugusa (\u0C2E\u0C48\u0C32\u0C41 \"mailu\"), Turkisa (mil), Hangusa
+    (\uB9C8\uC77C \"mail\"), Parsisa (\u0645\u0627\u06CC\u0644 \"m\xE2yl\"), Swahilisa
+    (maili)"
+...

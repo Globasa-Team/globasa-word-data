@@ -1,0 +1,47 @@
+---
+term: bezelari
+slug: bezelari
+ipa: "beze\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=beze\u02C8la\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - swarm of bees
+  epo:
+  - - abelaro
+  spa:
+  - - enjambre (de abejas)
+search terms:
+  glb:
+  - bezelari
+  eng:
+  - swarm of bees
+  epo:
+  - abelaro
+  spa:
+  - enjambre de abejas
+  - enjambre
+etymology_type: DERIVD
+etymology: <a href="../lexi/beze">beze</a> + <a href="../lexi/-lari">-lari</a>
+raw data:
+  term: bezelari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: swarm of bees
+    epo: abelaro
+    spa: enjambre (de abejas)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: swarm of bees, swarm
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: beze + -lari
+...

@@ -1,0 +1,53 @@
+---
+term: adilya
+slug: adilya
+ipa: "a\u02C8dilja"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8dilja&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - fairness
+    - justice
+  epo:
+  - - justeco
+  spa:
+  - - justicia
+    - imparcialidad
+search terms:
+  glb:
+  - adilya
+  eng:
+  - fairness
+  - justice
+  epo:
+  - justeco
+  spa:
+  - justicia
+  - imparcialidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/adil">adil</a> + <a href="../lexi/-ya">-ya</a>
+antonyms:
+- posadilya
+- nenadilya
+raw data:
+  term: adilya
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: fairness, justice
+    epo: justeco
+    spa: justicia, imparcialidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: posadilya, nenadilya
+  example: ""
+  tags: ""
+  etymology: adil + -ya
+...

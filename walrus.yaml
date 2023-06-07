@@ -1,0 +1,65 @@
+---
+term: walrus
+slug: walrus
+ipa: "wal\u02C8\u027Eus"
+ipa link: "http://ipa-reader.xyz/?text=wal\u02C8\u027Eus&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - walrus
+    - _Odobenidae_
+  epo:
+  - - rosmaro
+  spa:
+  - - morsa
+    - _Odobenidae_
+search terms:
+  glb:
+  - walrus
+  eng:
+  - walrus
+  - odobenidae
+  epo:
+  - rosmaro
+  spa:
+  - morsa
+  - odobenidae
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - walrus
+  Indonesisa: ~
+  Doycisa:
+  - - Walross
+  Hindisa:
+  - - "\u0935\u093E\u0932\u0930\u0938 \u201Cvalras\u201D"
+  Telugusa:
+  - - "\u0C35\u0C3E\u0C32\u0C4D\u0C30\u0C38\u0C4D \u201Cvalras\u201D"
+  Swahilisa:
+  - - walarsasi
+tags:
+- hewan
+raw data:
+  term: walrus
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: walrus, _Odobenidae_
+    epo: rosmaro
+    spa: morsa, _Odobenidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (walrus), Indonesisa, Doycisa (Walross), Hindisa (\u0935\u093E\u0932\u0930\u0938
+    \u201Cvalras\u201D), Telugusa (\u0C35\u0C3E\u0C32\u0C4D\u0C30\u0C38\u0C4D \u201Cvalras\u201D),
+    Swahilisa (walarsasi)"
+...

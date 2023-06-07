@@ -1,0 +1,46 @@
+---
+term: supremmo
+slug: supremmo
+ipa: "su\u02C8p\u027Eemmo"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8p\u027Eemmo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - extremely
+  epo:
+  - - ekstreme
+  spa:
+  - - extremadamente
+search terms:
+  glb:
+  - supremmo
+  eng:
+  - extremely
+  epo:
+  - ekstreme
+  spa:
+  - extremadamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/suprem">suprem</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: supremmo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: 'extremely '
+    epo: ekstreme
+    spa: extremadamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: suprem + -mo
+...

@@ -1,0 +1,57 @@
+---
+term: denpul kom
+slug: denpul kom
+ipa: "den\u02C8pul kom"
+ipa link: "http://ipa-reader.xyz/?text=den\u02C8pul kom&voice=Ewa"
+status: false
+category: phrase
+word class: l
+trans:
+  eng:
+  - - as
+    - such as
+    - like
+  epo:
+  - - (tia
+    - ) kia
+  - - kiel
+  spa:
+  - - como
+search terms:
+  glb:
+  - denpul kom
+  - denpul
+  - kom
+  eng:
+  - as
+  - such as
+  - like
+  epo:
+  - tia
+  - (tia
+  - kia
+  - kiel
+  spa:
+  - como
+etymology_type: DERIVD
+etymology: <a href="../lexi/den">den</a> + <a href="../lexi/-pul">-pul</a>, <a href="../lexi/kom">kom</a>
+raw data:
+  term: denpul kom
+  category: phrase
+  word class: l
+  status: false
+  trans:
+    eng: as, such as, like
+    epo: (tia,) kia; kiel
+    spa: como
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: den + -pul, kom
+...

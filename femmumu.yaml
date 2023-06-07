@@ -1,0 +1,46 @@
+---
+term: femmumu
+slug: femmumu
+ipa: "fem\u02C8mumu"
+ipa link: "http://ipa-reader.xyz/?text=fem\u02C8mumu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - cow
+  epo:
+  - - bovino
+  spa:
+  - - vaca
+search terms:
+  glb:
+  - femmumu
+  eng:
+  - cow
+  epo:
+  - bovino
+  spa:
+  - vaca
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/mumu">mumu</a>
+raw data:
+  term: femmumu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: cow
+    epo: bovino
+    spa: vaca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem- + mumu
+...

@@ -1,0 +1,56 @@
+---
+term: temfikir
+slug: temfikir
+ipa: "temfi\u02C8ki\u027E"
+ipa link: "http://ipa-reader.xyz/?text=temfi\u02C8ki\u027E&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - consideration
+  - - consider (_think about_)
+    - regard
+  epo:
+  - - pripenso
+  - - pripensi
+  spa:
+  - - "consideraci\xF3n"
+  - - considerar
+    - pensar en
+search terms:
+  glb:
+  - temfikir
+  eng:
+  - consideration
+  - consider
+  - regard
+  epo:
+  - pripenso
+  - pripensi
+  spa:
+  - "consideraci\xF3n"
+  - considerar
+  - pensar en
+etymology_type: DERIVD
+etymology: <a href="../lexi/tem-">tem-</a> + <a href="../lexi/fikir">fikir</a>
+raw data:
+  term: temfikir
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: consideration; consider (_think about_), regard
+    epo: pripenso; pripensi
+    spa: "consideraci\xF3n; considerar, pensar en"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tem- + fikir
+...

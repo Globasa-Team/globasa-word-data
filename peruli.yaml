@@ -1,0 +1,46 @@
+---
+term: peruli
+slug: peruli
+ipa: "pe\u02C8\u027Euli"
+ipa link: "http://ipa-reader.xyz/?text=pe\u02C8\u027Euli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Peruvian
+  epo:
+  - - perua
+  spa:
+  - - peruano
+search terms:
+  glb:
+  - peruli
+  eng:
+  - peruvian
+  epo:
+  - perua
+  spa:
+  - peruano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Peru">Peru</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Peruli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Peruvian
+    epo: perua
+    spa: peruano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Peru + -li
+...

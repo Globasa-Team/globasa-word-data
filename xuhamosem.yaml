@@ -1,0 +1,48 @@
+---
+term: xuhamosem
+slug: xuhamosem
+ipa: "\u0283uxamo\u02C8sem"
+ipa link: "http://ipa-reader.xyz/?text=\u0283uxamo\u02C8sem&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - autumn
+    - fall
+  epo:
+  - - "a\u016Dtuno"
+  spa:
+  - - "oto\xF1o"
+search terms:
+  glb:
+  - xuhamosem
+  eng:
+  - autumn
+  - fall
+  epo:
+  - "a\u016Dtuno"
+  spa:
+  - "oto\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/xuha">xuha</a> + <a href="../lexi/-mosem">-mosem</a>
+raw data:
+  term: xuhamosem
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: autumn, fall
+    epo: "a\u016Dtuno"
+    spa: "oto\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xuha + -mosem
+...

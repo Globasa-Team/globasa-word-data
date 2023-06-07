@@ -1,0 +1,57 @@
+---
+term: awcudu
+slug: awcudu
+ipa: "aw\u02C8t\u0361\u0283udu"
+ipa link: "http://ipa-reader.xyz/?text=aw\u02C8t\u0361\u0283udu&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - deprivation
+  - - take away
+    - deprive (of)
+  epo:
+  - - senigo
+  - - senigi
+  spa:
+  - - "privaci\xF3n"
+  - - arrebatar
+    - privar
+search terms:
+  glb:
+  - awcudu
+  eng:
+  - deprivation
+  - take away
+  - deprive of
+  - deprive
+  epo:
+  - senigo
+  - senigi
+  spa:
+  - "privaci\xF3n"
+  - arrebatar
+  - privar
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw-">aw-</a> + <a href="../lexi/cudu">cudu</a>
+raw data:
+  term: awcudu
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: deprivation; take away, deprive (of)
+    epo: senigo; senigi
+    spa: "privaci\xF3n; arrebatar, privar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aw- + cudu
+...

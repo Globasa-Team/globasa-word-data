@@ -1,0 +1,56 @@
+---
+term: jotay
+slug: jotay
+ipa: "d\u0361\u0292o\u02C8taj"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292o\u02C8taj&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - condition
+    - state
+  epo:
+  - - stato
+    - "kondi\u0109o (en bona kondi\u0109o)"
+  spa:
+  - - "condici\xF3n"
+    - estado
+  - - irle (_nos va bien_)
+search terms:
+  glb:
+  - jotay
+  eng:
+  - condition
+  - state
+  epo:
+  - stato
+  - "kondi\u0109o en bona kondi\u0109o"
+  - "kondi\u0109o"
+  spa:
+  - "condici\xF3n"
+  - estado
+  - irle
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jotay
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: condition, state
+    epo: "stato, kondi\u0109o (en bona kondi\u0109o)"
+    spa: "condici\xF3n, estado; irle (_nos va bien_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u72B6\u6001 \u201Czhu\xE0ngt\xE0i\u201D), Niponsa (\u72B6\u614B
+    \u201Cj\u014Dtai\u201D)"
+...

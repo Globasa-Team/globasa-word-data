@@ -1,0 +1,54 @@
+---
+term: banwatu
+slug: banwatu
+ipa: "ba\u02C8nwatu"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8nwatu&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - sometime (_in the past or future_)
+    - once upon a time
+    - at some point (in time)
+    - eventually
+  epo:
+  - - iam
+  spa:
+  - - "en alg\xFAn momento"
+search terms:
+  glb:
+  - banwatu
+  eng:
+  - sometime
+  - once upon a time
+  - at some point in time
+  - at some point
+  - eventually
+  epo:
+  - iam
+  spa:
+  - "en alg\xFAn momento"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ban">ban</a> + <a href="../lexi/watu">watu</a>
+raw data:
+  term: banwatu
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: sometime (_in the past or future_), once upon a time, at some point (in time),
+      eventually
+    epo: iam
+    spa: "en alg\xFAn momento"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ban + watu
+...

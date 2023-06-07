@@ -1,0 +1,60 @@
+---
+term: cungwo
+slug: cungwo
+ipa: "\u02C8t\u0361\u0283ungwo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u0361\u0283ungwo&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - China
+  epo:
+  - - "\u0108inio"
+    - "\u0108inujo"
+  spa:
+  - - China
+search terms:
+  glb:
+  - cungwo
+  eng:
+  - china
+  epo:
+  - "\u0108inio"
+  - "\u0108inujo"
+  spa:
+  - china
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4E2D\u56FD \u201Czh\u014Dnggu\xF3\u201D"
+  Hangusa:
+  - - "\uC911\uAD6D \u201Cjung-gug\u201D"
+  Niponsa:
+  - - "\u4E2D\u56FD \u201Cch\u016Bgoku\u201D"
+  Vyetnamsa:
+  - - "Trung Qu\u1ED1c"
+tags:
+- dexa
+raw data:
+  term: Cungwo
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: China
+    epo: "\u0108inio, \u0108inujo"
+    spa: China
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Putunhwa (\u4E2D\u56FD \u201Czh\u014Dnggu\xF3\u201D), Hangusa (\uC911\uAD6D
+    \u201Cjung-gug\u201D), Niponsa (\u4E2D\u56FD \u201Cch\u016Bgoku\u201D), Vyetnamsa
+    (Trung Qu\u1ED1c)"
+...

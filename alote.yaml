@@ -1,0 +1,50 @@
+---
+term: alote
+slug: alote
+ipa: "a\u02C8lote"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8lote&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - somebody else
+    - someone else
+  epo:
+  - - iu alia
+  spa:
+  - - "alguien m\xE1s"
+    - otro ser vivo
+search terms:
+  glb:
+  - alote
+  eng:
+  - somebody else
+  - someone else
+  epo:
+  - iu alia
+  spa:
+  - "alguien m\xE1s"
+  - otro ser vivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/te">te</a>
+raw data:
+  term: alote
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: somebody else, someone else
+    epo: iu alia
+    spa: "alguien m\xE1s, otro ser vivo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: else, somebody else, someone else
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + te
+...

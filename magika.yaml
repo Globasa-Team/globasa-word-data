@@ -1,0 +1,52 @@
+---
+term: magika
+slug: magika
+ipa: "ma\u02C8gika"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8gika&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - magic
+  epo:
+  - - magiko
+  spa:
+  - - magia
+search terms:
+  glb:
+  - magika
+  eng:
+  - magic
+  epo:
+  - magiko
+  spa:
+  - magia
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: magika
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: magic
+    epo: magiko
+    spa: magia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (magic, magical, magician), Fransesa (magie, magique, magicien),
+    Docisa (Magie, magisch, Magier), Rusisa (\u043C\u0430\u0433\u0438\u044F \u201Cmagiya\u201D,
+    \u043C\u0430\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0439 \u201Cmagicheskiy\u201D,
+    \u043C\u0430\u0433 \u201Cmag\u201D), Espanisa (magia, m\xE1gico, mago), Niponsa
+    (\u30DE\u30B8\u30C3\u30AF \u201Cmajikku\u201D, \u30DE\u30B8\u30B7\u30E3\u30F3
+    \u201Cmajishan\u201D), Telugusa (\u0C2E\u0C3E\u0C2F \u201Cm\u0101ya\u201D), Indonesisa
+    (magi, magis), Pilipinasa (mahika, mahiko, mago)"
+...

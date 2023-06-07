@@ -1,0 +1,46 @@
+---
+term: hondurali
+slug: hondurali
+ipa: "xondu\u02C8\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=xondu\u02C8\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Honduran
+  epo:
+  - - hondura
+  spa:
+  - - "hondure\xF1o"
+search terms:
+  glb:
+  - hondurali
+  eng:
+  - honduran
+  epo:
+  - hondura
+  spa:
+  - "hondure\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Hondura">Hondura</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Hondurali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Honduran
+    epo: hondura
+    spa: "hondure\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hondura + -li
+...

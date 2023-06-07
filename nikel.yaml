@@ -1,0 +1,88 @@
+---
+term: nikel
+slug: nikel
+ipa: "ni\u02C8kel"
+ipa link: "http://ipa-reader.xyz/?text=ni\u02C8kel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nickel
+  epo:
+  - - nikelo
+  spa:
+  - - "n\xEDquel"
+    - Ni
+search terms:
+  glb:
+  - nikel
+  eng:
+  - nickel
+  epo:
+  - nikelo
+  spa:
+  - "n\xEDquel"
+  - ni
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nickel
+  Hindisa:
+  - - "\u0928\u093F\u0915\u0932 \u201Cnikal\u201D"
+  Espanisa:
+  - - "n\xEDquel"
+  Arabisa:
+  - - "\u0646\u0650\u064A\u0643\u0652\u0644 \u201Cnikl\u201D"
+  Fransesa:
+  - - nickel
+  Rusisa:
+  - - "\u043D\u0438\u043A\u0435\u043B\u044C \u201Cnikel\u201D"
+  Indonesisa:
+  - - nikel
+  Doycisa:
+  - - Nickel
+  Niponsa:
+  - - "\u30CB\u30C3\u30B1\u30EB \u201Cnikeru\u201D"
+  Telugusa:
+  - - "\u0C28\u0C3F\u0C15\u0C46\u0C32\u0C4D \u201Cnikel\u201D"
+  Turkisa:
+  - - nikel
+  Hangusa:
+  - - "\uB2C8\uCF08 \u201Cnikel\u201D"
+  Vyetnamsa:
+  - - nikel
+  Parsisa:
+  - - "\u0646\u06CC\u06A9\u0644 \u201Cnikel\u201D"
+  Swahilisa:
+  - - nikeli
+  Pilipinasa:
+  - - nikel
+tags:
+- kimikali monlari
+raw data:
+  term: nikel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nickel
+    epo: nikelo
+    spa: "n\xEDquel, Ni"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (nickel), Hindisa (\u0928\u093F\u0915\u0932 \u201Cnikal\u201D),
+    Espanisa (n\xEDquel), Arabisa (\u0646\u0650\u064A\u0643\u0652\u0644 \u201Cnikl\u201D),
+    Fransesa (nickel), Rusisa (\u043D\u0438\u043A\u0435\u043B\u044C \u201Cnikel\u201D),
+    Indonesisa (nikel), Doycisa (Nickel), Niponsa (\u30CB\u30C3\u30B1\u30EB \u201Cnikeru\u201D),
+    Telugusa (\u0C28\u0C3F\u0C15\u0C46\u0C32\u0C4D \u201Cnikel\u201D), Turkisa (nikel),
+    Hangusa (\uB2C8\uCF08 \u201Cnikel\u201D), Vyetnamsa (nikel), Parsisa (\u0646\u06CC\u06A9\u0644
+    \u201Cnikel\u201D), Swahilisa (nikeli), Pilipinasa (nikel)"
+...

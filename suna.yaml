@@ -1,0 +1,57 @@
+---
+term: suna
+slug: suna
+ipa: "\u02C8suna"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8suna&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - artificial
+  epo:
+  - - artefarita
+  - - artefarite
+  spa:
+  - - artificial
+search terms:
+  glb:
+  - suna
+  eng:
+  - artificial
+  epo:
+  - artefarita
+  - artefarite
+  spa:
+  - artificial
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0635\u0646\u0639 \u201Csune\u201D - fabrika"
+  Turkisa:
+  - - suni
+  Indonesisa:
+  - - seni - arte
+  Swahilisa:
+  - - sanaa - arte
+raw data:
+  term: suna
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: artificial
+    epo: artefarita; artefarite
+    spa: artificial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0635\u0646\u0639 \u201Csune\u201D - fabrika), Turkisa (suni),
+    Indonesisa (seni - arte), Swahilisa (sanaa - arte)"
+...

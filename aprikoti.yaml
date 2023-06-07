@@ -1,0 +1,71 @@
+---
+term: aprikoti
+slug: aprikoti
+ipa: apɾiˈkoti
+ipa link: http://ipa-reader.xyz/?text=apɾiˈkoti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - apricot
+  epo:
+  - - abrikoto
+  spa:
+  - - albaricoque
+    - chabacano
+    - _Prunus armeniaca_
+search terms:
+  glb:
+  - aprikoti
+  eng:
+  - apricot
+  epo:
+  - abrikoto
+  spa:
+  - albaricoque
+  - chabacano
+  - prunus armeniaca
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - apricot
+  Fransesa:
+  - - abricot
+  Doycisa:
+  - - Aprikose
+  Rusisa:
+  - - абрикос “abrikos”
+  Espanisa:
+  - - albaricoque
+  Indonesisa:
+  - - aprikot
+  Pilipinasa:
+  - - albarikoke
+  Swahilisa:
+  - - aprikoti
+tags:
+- yamxey
+- fruta
+raw data:
+  term: aprikoti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: apricot
+    epo: abrikoto
+    spa: albaricoque, chabacano, _Prunus armeniaca_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey, fruta
+  etymology: Englisa (apricot), Fransesa (abricot), Doycisa (Aprikose), Rusisa (абрикос
+    “abrikos”), Espanisa (albaricoque), Indonesisa (aprikot), Pilipinasa (albarikoke),
+    Swahilisa (aprikoti)
+...

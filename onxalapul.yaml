@@ -1,0 +1,48 @@
+---
+term: onxalapul
+slug: onxalapul
+ipa: "on\u0283ala\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=on\u0283ala\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - hopeful
+  epo:
+  - - esperplena
+  - - esperplene
+  spa:
+  - - esperanzado
+search terms:
+  glb:
+  - onxalapul
+  eng:
+  - hopeful
+  epo:
+  - esperplena
+  - esperplene
+  spa:
+  - esperanzado
+etymology_type: DERIVD
+etymology: <a href="../lexi/onxala">onxala</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: onxalapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: hopeful
+    epo: esperplena; esperplene
+    spa: esperanzado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: onxala + -pul
+...

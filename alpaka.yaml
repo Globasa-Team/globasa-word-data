@@ -1,0 +1,82 @@
+---
+term: alpaka
+slug: alpaka
+ipa: alˈpaka
+ipa link: http://ipa-reader.xyz/?text=alˈpaka&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - alpaca
+    - _Lama pacos_
+  epo:
+  - - alpako
+  spa:
+  - - alpaca
+    - _Lama pacos_
+search terms:
+  glb:
+  - alpaka
+  eng:
+  - alpaca
+  - lama pacos
+  epo:
+  - alpako
+  spa:
+  - alpaca
+  - lama pacos
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - alpaca
+  Espanisa: ~
+  Fransesa:
+  - - alpaga
+  Rusisa:
+  - - альпака “alpaka”
+  Doycisa:
+  - - Alpaka
+  Indonesisa: ~
+  Pilipinasa: ~
+  Hindisa:
+  - - अलपाका “alpaka”
+  Arabisa:
+  - - أَلْبَكَة “albaka”
+  Niponsa:
+  - - アルパカ “arupaka”
+  Turkisa:
+  - - alpaka
+  Hangusa:
+  - - 알파카 “alpaka”
+  Vyetnamsa:
+  - - alpaca
+  Parsisa:
+  - - آلپاکا “alpaka”
+  Swahilisa:
+  - - alpaka
+tags:
+- hewan
+raw data:
+  term: alpaka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: alpaca, _Lama pacos_
+    epo: alpako
+    spa: alpaca, _Lama pacos_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (alpaca), Espanisa, Fransesa (alpaga), Rusisa (альпака “alpaka”),
+    Doycisa (Alpaka), Indonesisa, Pilipinasa, Hindisa (अलपाका “alpaka”), Arabisa (أَلْبَكَة
+    “albaka”), Niponsa (アルパカ “arupaka”), Turkisa (alpaka), Hangusa (알파카 “alpaka”),
+    Vyetnamsa (alpaca), Parsisa (آلپاکا “alpaka”), Swahilisa (alpaka)
+...

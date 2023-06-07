@@ -1,0 +1,87 @@
+---
+term: esprey
+slug: esprey
+ipa: esˈpɾej
+ipa link: http://ipa-reader.xyz/?text=esˈpɾej&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - spray
+    - atomize
+    - nebulize
+  epo:
+  - - ŝpruco
+    - aspergo
+  - - ŝpruci
+    - aspergi
+    - spraji
+  spa:
+  - - rocío
+    - espray
+    - aerosol
+  - - rociar
+    - atomizar
+    - nebulizar
+search terms:
+  glb:
+  - esprey
+  eng:
+  - spray
+  - atomize
+  - nebulize
+  epo:
+  - ŝpruco
+  - aspergo
+  - ŝpruci
+  - aspergi
+  - spraji
+  spa:
+  - rocío
+  - espray
+  - aerosol
+  - rociar
+  - atomizar
+  - nebulizar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - spray
+  Doycisa: ~
+  Espanisa:
+  - - espray
+  Rusisa:
+  - - спрей “sprey”
+  Hindisa:
+  - - स्प्रे “spre”
+  Niponsa:
+  - - スプレー “supurey”
+  Telugusa:
+  - - స్ప్రే “spre”
+  Turkisa:
+  - - sprey
+  Parsisa:
+  - - اسپری “esprey”
+raw data:
+  term: esprey
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: spray, atomize, nebulize
+    epo: ŝpruco, aspergo; ŝpruci, aspergi, spraji
+    spa: rocío, espray, aerosol; rociar, atomizar, nebulizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (spray), Doycisa, Espanisa (espray), Rusisa (спрей “sprey”),
+    Hindisa (स्प्रे “spre”), Niponsa (スプレー “supurey”), Telugusa (స్ప్రే “spre”), Turkisa
+    (sprey), Parsisa (اسپری “esprey”)
+...

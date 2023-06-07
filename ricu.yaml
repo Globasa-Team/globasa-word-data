@@ -1,0 +1,48 @@
+---
+term: ricu
+slug: ricu
+ipa: "\u02C8\u027Eit\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eit\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - repeat
+  epo:
+  - - "ripeti\u011Do"
+  - - "ripeti\u011Di"
+  spa:
+  - - repetir
+search terms:
+  glb:
+  - ricu
+  eng:
+  - repeat
+  epo:
+  - "ripeti\u011Do"
+  - "ripeti\u011Di"
+  spa:
+  - repetir
+etymology_type: DERIVD
+etymology: <a href="../lexi/ri-">ri-</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: ricu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: repeat
+    epo: "ripeti\u011Do; ripeti\u011Di"
+    spa: repetir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ri- + -cu
+...

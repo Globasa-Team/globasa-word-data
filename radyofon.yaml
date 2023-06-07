@@ -1,0 +1,49 @@
+---
+term: radyofon
+slug: radyofon
+ipa: "\u027Eadjo\u02C8fon"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eadjo\u02C8fon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - radio (transmitter)
+  epo:
+  - - radiosendilo
+    - radio
+  spa:
+  - - radio (_dispositivo_)
+search terms:
+  glb:
+  - radyofon
+  eng:
+  - radio transmitter
+  - radio
+  epo:
+  - radiosendilo
+  - radio
+  spa:
+  - radio
+etymology_type: DERIVD
+etymology: <a href="../lexi/radyo">radyo</a> + <a href="../lexi/-fon">-fon</a>
+raw data:
+  term: radyofon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: radio (transmitter)
+    epo: radiosendilo, radio
+    spa: radio (_dispositivo_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: radyo + -fon
+...

@@ -1,0 +1,50 @@
+---
+term: fototul
+slug: fototul
+ipa: "foto\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=foto\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - camera
+  epo:
+  - - fotografilo
+    - fotilo
+    - kamerao
+  spa:
+  - - "c\xE1mara"
+search terms:
+  glb:
+  - fototul
+  eng:
+  - camera
+  epo:
+  - fotografilo
+  - fotilo
+  - kamerao
+  spa:
+  - "c\xE1mara"
+etymology_type: DERIVD
+etymology: <a href="../lexi/foto">foto</a> + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: fototul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: camera
+    epo: fotografilo, fotilo, kamerao
+    spa: "c\xE1mara"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: foto + -tul
+...

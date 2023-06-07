@@ -1,0 +1,58 @@
+---
+term: kolesterol
+slug: kolesterol
+ipa: "koleste\u02C8\u027Eol"
+ipa link: "http://ipa-reader.xyz/?text=koleste\u02C8\u027Eol&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cholesterol
+  epo:
+  - - "\u0125olesterolo"
+    - koleserolo
+  spa:
+  - - colesterol
+search terms:
+  glb:
+  - kolesterol
+  eng:
+  - cholesterol
+  epo:
+  - "\u0125olesterolo"
+  - koleserolo
+  spa:
+  - colesterol
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kolesterol
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cholesterol
+    epo: "\u0125olesterolo, koleserolo"
+    spa: colesterol
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cholesterol), Vyetnamsa, Espanisa (colesterol), Fransesa (cholest\xE9rol),
+    Rusisa (\u0445\u043E\u043B\u0435\u0441\u0442\u0435\u0440\u0438\u043D \u201Cholesterin\u201D),
+    Doycisa (Cholesterin, Cholesterol), Indonesisa (kolesterol), Pilipinasa, Turkisa,
+    Hindisa (\u0915\u094B\u0932\u0947\u0938\u094D\u091F\u094D\u0930\u0949\u0932 \u201Ckolestrol\u201D),
+    Arabisa (\u0643\u064F\u0648\u0644\u0650\u0633\u0652\u062A\u0650\u0631\u064F\u0648\u0644
+    \u201Ckulistirul\u201D), Niponsa (\u30B3\u30EC\u30B9\u30C6\u30ED\u30FC\u30EB \u201Ckoresuteroru\u201D),
+    Telugusa (\u0C15\u0C4A\u0C32\u0C46\u0C38\u0C4D\u0C1F\u0C30\u0C3E\u0C32\u0C4D\u200C
+    \u201Ckolestaral\u201D, \u0C15\u0C4A\u0C32\u0C46\u0C38\u0C4D\u0C1F\u0C30\u0C4B\u0C32\u0C4D
+    \u201Ckolestarol\u201D), Hangusa (\uCF5C\uB808\uC2A4\uD14C\uB864 \u201Ckolesutelol\u201D),
+    Parsisa (\u06A9\u0644\u0633\u062A\u0631\u0648\u0644 \u201Ckolesterol\u201D), Swahilisa
+    (kolesteroli)"
+...

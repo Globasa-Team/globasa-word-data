@@ -1,0 +1,51 @@
+---
+term: keralali
+slug: keralali
+ipa: "ke\u027Ea\u02C8lali"
+ipa link: "http://ipa-reader.xyz/?text=ke\u027Ea\u02C8lali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - (of) Kerala
+  epo:
+  - - malajala
+    - kerala
+  spa:
+  - - "keral\xED"
+    - malayali
+search terms:
+  glb:
+  - keralali
+  eng:
+  - of kerala
+  - kerala
+  epo:
+  - malajala
+  - kerala
+  spa:
+  - "keral\xED"
+  - malayali
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kerala">Kerala</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Keralali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: (of) Kerala
+    epo: malajala, kerala
+    spa: "keral\xED, malayali"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kerala + -li
+...

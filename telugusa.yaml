@@ -1,0 +1,50 @@
+---
+term: telugusa
+slug: telugusa
+ipa: "telu\u02C8gusa"
+ipa link: "http://ipa-reader.xyz/?text=telu\u02C8gusa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Telugu (language)
+  epo:
+  - - la telugua (lingvo)
+  spa:
+  - - "t\xE9lugu (_idioma_)"
+search terms:
+  glb:
+  - telugusa
+  eng:
+  - telugu language
+  - telugu
+  epo:
+  - la telugua lingvo
+  - la telugua
+  spa:
+  - "t\xE9lugu"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Telugu">Telugu</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Telugusa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Telugu (language)
+    epo: la telugua (lingvo)
+    spa: "t\xE9lugu (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Telugu + -sa
+...

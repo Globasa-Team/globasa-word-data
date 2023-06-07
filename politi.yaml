@@ -1,0 +1,67 @@
+---
+term: politi
+slug: politi
+ipa: "po\u02C8liti"
+ipa link: "http://ipa-reader.xyz/?text=po\u02C8liti&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - politics
+  epo:
+  - - politiko
+  spa:
+  - - "pol\xEDtica"
+search terms:
+  glb:
+  - politi
+  eng:
+  - politics
+  epo:
+  - politiko
+  spa:
+  - "pol\xEDtica"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - politics
+  Fransesa:
+  - - politique
+  Doycisa:
+  - - Politik
+  Rusisa:
+  - - "\u043F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u201Cpolitika\u201D"
+  Espanisa:
+  - - "pol\xEDtica"
+  Turkisa:
+  - - politika
+  Indonesisa:
+  - - politik
+  Pilipinasa:
+  - - pulitika
+  Parsisa:
+  - - "\u067E\u0644\u06CC\u062A\u06CC\u06A9 \u201Cpolitik\u201D"
+raw data:
+  term: politi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: politics
+    epo: politiko
+    spa: "pol\xEDtica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (politics), Fransesa (politique), Doycisa (Politik), Rusisa
+    (\u043F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u201Cpolitika\u201D), Espanisa
+    (pol\xEDtica), Turkisa (politika), Indonesisa (politik), Pilipinasa (pulitika),
+    Parsisa (\u067E\u0644\u06CC\u062A\u06CC\u06A9 \u201Cpolitik\u201D)"
+...

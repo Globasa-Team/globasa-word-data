@@ -1,0 +1,79 @@
+---
+term: artiko
+slug: artiko
+ipa: "a\u027E\u02C8tiko"
+ipa link: "http://ipa-reader.xyz/?text=a\u027E\u02C8tiko&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Arctic (_region or ocean_)
+  epo:
+  - - Arkta Oceano
+    - Arkta Regiono
+  spa:
+  - - "regi\xF3n u oc\xE9ano \xE1rtico"
+search terms:
+  glb:
+  - artiko
+  eng:
+  - arctic
+  epo:
+  - arkta oceano
+  - arkta regiono
+  spa:
+  - "regi\xF3n u oc\xE9ano \xE1rtico"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Arctic
+  Fransesa:
+  - - Arctique
+  Doycesa:
+  - - Arktis
+  Rusisa:
+  - - "\u0410\u0440\u043A\u0442\u0438\u043A\u0430 \u201CArktika\u201D"
+  Espanisa:
+  - - "\xC1rtico"
+  Hindisa:
+  - - "\u0906\u0930\u094D\u0915\u091F\u093F\u0915 \u201Caarkatik\u201D"
+  Telugusa:
+  - - "\u0C06\u0C30\u0C4D\u0C15\u0C3F\u0C1F\u0C3F\u0C15\u0C4D \u201C\u0101rki\u1E6Dik\u201D"
+  Arabisa:
+  - - "\u0623\u064E\u0631\u0652\u0643\u0650\u062A\u0650\u064A\u0643\u200E \u201C\u02BEarkit\u012Bk\u201D"
+  Swahlisa:
+  - - Aktiki
+    - Aktika
+  Turkisa:
+  - - Arktik
+  Indonesisa:
+  - - Arktik
+  Pilipinasa:
+  - - Artiko
+    - Arktiko
+raw data:
+  term: Artiko
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Arctic (_region or ocean_)
+    epo: Arkta Oceano, Arkta Regiono
+    spa: "regi\xF3n u oc\xE9ano \xE1rtico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (Arctic), Fransesa (Arctique), Doycesa (Arktis), Rusisa (\u0410\u0440\u043A\u0442\u0438\u043A\u0430
+    \u201CArktika\u201D), Espanisa (\xC1rtico), Hindisa (\u0906\u0930\u094D\u0915\u091F\u093F\u0915
+    \u201Caarkatik\u201D), Telugusa (\u0C06\u0C30\u0C4D\u0C15\u0C3F\u0C1F\u0C3F\u0C15\u0C4D
+    \u201C\u0101rki\u1E6Dik\u201D), Arabisa (\u0623\u064E\u0631\u0652\u0643\u0650\u062A\u0650\u064A\u0643\u200E
+    \u201C\u02BEarkit\u012Bk\u201D), Swahlisa (Aktiki, Aktika), Turkisa (Arktik),
+    Indonesisa (Arktik), Pilipinasa (Artiko, Arktiko)"
+...

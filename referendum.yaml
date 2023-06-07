@@ -1,0 +1,80 @@
+---
+term: referendum
+slug: referendum
+ipa: "\u027Eefe\u027Een\u02C8dum"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eefe\u027Een\u02C8dum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - referendum
+    - plebiscite
+  epo:
+  - - referendumo
+    - plebiscito
+  spa:
+  - - "refer\xE9ndum"
+    - referendo
+    - plebiscito
+search terms:
+  glb:
+  - referendum
+  eng:
+  - referendum
+  - plebiscite
+  epo:
+  - referendumo
+  - plebiscito
+  spa:
+  - "refer\xE9ndum"
+  - referendo
+  - plebiscito
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - referendum
+  Espanisa:
+  - - "refer\xE9ndum"
+  Fransesa:
+  - - "r\xE9f\xE9rendum"
+  Rusisa:
+  - - "\u0440\u0435\u0444\u0435\u0440\u0435\u043D\u0434\u0443\u043C \"referendum\""
+  Doycisa:
+  - - Referendum
+  Indonesisa:
+  - - referendum
+  Pilipinasa:
+  - - reperendum
+  Telugusa:
+  - - "\u0C30\u0C46\u0C2B\u0C30\u0C46\u0C02\u0C21\u0C02 \"refarendam\""
+  Turkisa:
+  - - referandum
+  Parsisa:
+  - - "\u0631\u0641\u0631\u0627\u0646\u062F\u0648\u0645 \"refr\xE2ndom\""
+tags:
+- politi
+raw data:
+  term: referendum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: referendum, plebiscite
+    epo: referendumo, plebiscito
+    spa: "refer\xE9ndum, referendo, plebiscito"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: "Englisa (referendum), Espanisa (refer\xE9ndum), Fransesa (r\xE9f\xE9rendum),
+    Rusisa (\u0440\u0435\u0444\u0435\u0440\u0435\u043D\u0434\u0443\u043C \"referendum\"),
+    Doycisa (Referendum), Indonesisa (referendum), Pilipinasa (reperendum), Telugusa
+    (\u0C30\u0C46\u0C2B\u0C30\u0C46\u0C02\u0C21\u0C02 \"refarendam\"), Turkisa (referandum),
+    Parsisa (\u0631\u0641\u0631\u0627\u0646\u062F\u0648\u0645 \"refr\xE2ndom\")"
+...

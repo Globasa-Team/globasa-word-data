@@ -1,0 +1,71 @@
+---
+term: plankuton
+slug: plankuton
+ipa: "planku\u02C8ton"
+ipa link: "http://ipa-reader.xyz/?text=planku\u02C8ton&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - plankton
+  epo:
+  - - planktono
+  spa:
+  - - plancton
+search terms:
+  glb:
+  - plankuton
+  eng:
+  - plankton
+  epo:
+  - planktono
+  spa:
+  - plancton
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - plankton
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Espanisa:
+  - - plancton
+  Fransesa: ~
+  Arabisa:
+  - - "\u0628\u0644\u0627\u0646\u0643\u062A\u0648\u0646 \u201Cblaniktun\u201D"
+  Niponsa:
+  - - "\u30D7\u30E9\u30F3\u30AF\u30C8\u30F3 \u201Cpurankuton\u201D"
+  Hangusa:
+  - - "\uD50C\uB791\uD06C\uD1A4 \u201Cpulangkuton\u201D"
+  Parsisa:
+  - - "\u067E\u0644\u0627\u0646\u06A9\u062A\u0648\u0646 \u201Cpel\xE2nkton\u201D"
+  Swahilisa:
+  - - planktoni
+tags:
+- hewan
+raw data:
+  term: plankuton
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: plankton
+    epo: planktono
+    spa: plancton
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (plankton), Doycisa, Indonesisa, Pilipinasa, Turkisa, Espanisa
+    (plancton), Fransesa, Arabisa (\u0628\u0644\u0627\u0646\u0643\u062A\u0648\u0646
+    \u201Cblaniktun\u201D), Niponsa (\u30D7\u30E9\u30F3\u30AF\u30C8\u30F3 \u201Cpurankuton\u201D),
+    Hangusa (\uD50C\uB791\uD06C\uD1A4 \u201Cpulangkuton\u201D), Parsisa (\u067E\u0644\u0627\u0646\u06A9\u062A\u0648\u0646
+    \u201Cpel\xE2nkton\u201D), Swahilisa (planktoni)"
+...

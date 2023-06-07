@@ -1,0 +1,59 @@
+---
+term: glasu
+slug: glasu
+ipa: ˈglasu
+ipa link: http://ipa-reader.xyz/?text=ˈglasu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - glass (_drinking_)
+    - cup
+  epo:
+  - - glaso
+  spa:
+  - - vaso
+search terms:
+  glb:
+  - glasu
+  eng:
+  - glass
+  - cup
+  epo:
+  - glaso
+  spa:
+  - vaso
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - glass
+  Doycisa:
+  - - Glas
+  Hindisa:
+  - - गिलास “gilas”
+  Indonesisa:
+  - - gelas
+  Swahilisa:
+  - - glasi
+raw data:
+  term: glasu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: glass (_drinking_), cup
+    epo: glaso
+    spa: vaso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (glass), Doycisa (Glas), Hindisa (गिलास “gilas”), Indonesisa
+    (gelas), Swahilisa (glasi)
+...

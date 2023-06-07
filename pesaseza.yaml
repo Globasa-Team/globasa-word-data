@@ -1,0 +1,48 @@
+---
+term: pesaseza
+slug: pesaseza
+ipa: "pesa\u02C8seza"
+ipa link: "http://ipa-reader.xyz/?text=pesa\u02C8seza&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - fine (_monetary penalty_)
+  epo:
+  - - monpuno
+  - - monpuni
+  spa:
+  - - multa
+search terms:
+  glb:
+  - pesaseza
+  eng:
+  - fine
+  epo:
+  - monpuno
+  - monpuni
+  spa:
+  - multa
+etymology_type: DERIVD
+etymology: <a href="../lexi/pesa">pesa</a> + <a href="../lexi/seza">seza</a>
+raw data:
+  term: pesaseza
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: fine (_monetary penalty_)
+    epo: monpuno; monpuni
+    spa: multa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pesa + seza
+...

@@ -1,0 +1,47 @@
+---
+term: barixkalya
+slug: barixkalya
+ipa: "ba\u027Ei\u0283\u02C8kalja"
+ipa link: "http://ipa-reader.xyz/?text=ba\u027Ei\u0283\u02C8kalja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - drought
+  epo:
+  - - senpluvo
+  spa:
+  - - "sequ\xEDa"
+search terms:
+  glb:
+  - barixkalya
+  eng:
+  - drought
+  epo:
+  - senpluvo
+  spa:
+  - "sequ\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/barix">barix</a> + <a href="../lexi/-kal">-kal</a> + <a
+  href="../lexi/-ya">-ya</a>
+raw data:
+  term: barixkalya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: drought
+    epo: senpluvo
+    spa: "sequ\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: barix + -kal + -ya
+...

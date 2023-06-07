@@ -1,0 +1,82 @@
+---
+term: tekno
+slug: tekno
+ipa: "\u02C8tekno"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tekno&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - technology
+  epo:
+  - - teknologio
+  spa:
+  - - "tecnolog\xEDa"
+search terms:
+  glb:
+  - tekno
+  eng:
+  - technology
+  epo:
+  - teknologio
+  spa:
+  - "tecnolog\xEDa"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - technology
+  Fransesa:
+  - - technologie
+  Doycisa:
+  - - Technologie
+  Rusisa:
+  - - "\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u201Ctehnologiya\u201D"
+  Espanisa:
+  - - "tecnolog\xEDa"
+  Arabisa:
+  - - "\u062A\u0643\u0646\u0648\u0644\u0648\u062C\u064A\u0627 \u201Cteknolojya\u201D"
+  Hindisa:
+  - - "\u091F\u0948\u0915\u0928\u094B\u0932\u091C\u0940 f \u201Cteknolj\u012B\u201D"
+  Parsisa:
+  - - "\u062A\u06A9\u0646\u0648\u0644\u0648\u0698\u06CC \u201Cteknolo\u017Ei\u201D"
+  Indonesisa:
+  - - teknologi
+  Pilipinasa:
+  - - teknolohiya
+  Niponsa:
+  - - "\u30C6\u30AF\u30CE\u30ED\u30B8\u30FC \u201Ctekunoroji\u201D"
+  Hangusa:
+  - - "\uD14C\uD06C\uB180\uB7EC\uC9C0 \u201Ctekunolloji\u201D"
+  Turkisa:
+  - - teknoloji
+  Swahilisa:
+  - - teknolojia
+raw data:
+  term: tekno
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: technology
+    epo: teknologio
+    spa: "tecnolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (technology), Fransesa (technologie), Doycisa (Technologie),
+    Rusisa (\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u201Ctehnologiya\u201D),
+    Espanisa (tecnolog\xEDa), Arabisa (\u062A\u0643\u0646\u0648\u0644\u0648\u062C\u064A\u0627
+    \u201Cteknolojya\u201D), Hindisa (\u091F\u0948\u0915\u0928\u094B\u0932\u091C\u0940
+    f \u201Cteknolj\u012B\u201D), Parsisa (\u062A\u06A9\u0646\u0648\u0644\u0648\u0698\u06CC
+    \u201Cteknolo\u017Ei\u201D), Indonesisa (teknologi), Pilipinasa (teknolohiya),
+    Niponsa (\u30C6\u30AF\u30CE\u30ED\u30B8\u30FC \u201Ctekunoroji\u201D), Hangusa
+    (\uD14C\uD06C\uB180\uB7EC\uC9C0 \u201Ctekunolloji\u201D), Turkisa (teknoloji),
+    Swahilisa (teknolojia)"
+...

@@ -1,0 +1,50 @@
+---
+term: yunkigi
+slug: yunkigi
+ipa: "jun\u02C8kigi"
+ipa link: "http://ipa-reader.xyz/?text=jun\u02C8kigi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - encourage
+  epo:
+  - - "kura\u011Digado"
+  - - "kura\u011Digi"
+  spa:
+  - - motivar
+    - dar valor
+search terms:
+  glb:
+  - yunkigi
+  eng:
+  - encourage
+  epo:
+  - "kura\u011Digado"
+  - "kura\u011Digi"
+  spa:
+  - motivar
+  - dar valor
+etymology_type: DERIVD
+etymology: <a href="../lexi/yunki">yunki</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: yunkigi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: encourage
+    epo: "kura\u011Digado; kura\u011Digi"
+    spa: motivar, dar valor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yunki + -gi
+...

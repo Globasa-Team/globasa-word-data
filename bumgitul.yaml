@@ -1,0 +1,48 @@
+---
+term: bumgitul
+slug: bumgitul
+ipa: "bumgi\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=bumgi\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - detonator
+  epo:
+  - - detonaciilo
+    - eksplodigilo
+  spa:
+  - - detonador
+search terms:
+  glb:
+  - bumgitul
+  eng:
+  - detonator
+  epo:
+  - detonaciilo
+  - eksplodigilo
+  spa:
+  - detonador
+etymology_type: DERIVD
+etymology: <a href="../lexi/bum">bum</a> + <a href="../lexi/-gi">-gi</a> + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: bumgitul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: detonator
+    epo: detonaciilo, eksplodigilo
+    spa: detonador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bum + -gi + -tul
+...

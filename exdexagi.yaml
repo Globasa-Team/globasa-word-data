@@ -1,0 +1,54 @@
+---
+term: exdexagi
+slug: exdexagi
+ipa: "e\u0283de\u02C8\u0283agi"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283de\u02C8\u0283agi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - exile
+  epo:
+  - - ekzilo
+  - - ekzili
+  spa:
+  - - exilio
+    - destierro
+  - - exiliar
+    - desterrar
+search terms:
+  glb:
+  - exdexagi
+  eng:
+  - exile
+  epo:
+  - ekzilo
+  - ekzili
+  spa:
+  - exilio
+  - destierro
+  - exiliar
+  - desterrar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/dexa">dexa</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: exdexagi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: exile
+    epo: ekzilo; ekzili
+    spa: exilio, destierro; exiliar, desterrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex- + dexa + -gi
+...

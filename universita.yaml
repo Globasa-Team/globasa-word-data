@@ -1,0 +1,74 @@
+---
+term: universita
+slug: universita
+ipa: "unive\u027E\u02C8sita"
+ipa link: "http://ipa-reader.xyz/?text=unive\u027E\u02C8sita&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - university
+  epo:
+  - - universitato
+  spa:
+  - - universidad
+search terms:
+  glb:
+  - universita
+  eng:
+  - university
+  epo:
+  - universitato
+  spa:
+  - universidad
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - "Universit\xE4t"
+  Englisa:
+  - - university
+  Fransesa:
+  - - "universit\xE9"
+  Espanisa:
+  - - universidad
+  Rusisa:
+  - - "\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u201Cuniversitet\u201D"
+  Indonesisa:
+  - - universitas
+  Turkisa:
+  - - "\xFCniversite"
+  Pilipinasa:
+  - - unibersidad
+  Hindisa:
+  - - "\u092F\u0942\u0928\u093F\u0935\u0930\u094D\u0938\u093F\u091F\u0940 \u201Cyunivarsiti\u201D"
+  Ivrisa:
+  - - "\u05D0\u05D5\u05BC\u05E0\u05B4\u05D9\u05D1\u05B6\u05E8\u05B0\u05E1\u05B4\u05D9\u05D8\u05B8\u05D4
+      \u201Cuniversita\u201D"
+tags:
+- eskolya
+raw data:
+  term: universita
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: university
+    epo: universitato
+    spa: universidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: eskolya
+  etymology: "Doycisa (Universit\xE4t), Englisa (university), Fransesa (universit\xE9),
+    Espanisa (universidad), Rusisa (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442
+    \u201Cuniversitet\u201D), Indonesisa (universitas), Turkisa (\xFCniversite), Pilipinasa
+    (unibersidad), Hindisa (\u092F\u0942\u0928\u093F\u0935\u0930\u094D\u0938\u093F\u091F\u0940
+    \u201Cyunivarsiti\u201D), Ivrisa (\u05D0\u05D5\u05BC\u05E0\u05B4\u05D9\u05D1\u05B6\u05E8\u05B0\u05E1\u05B4\u05D9\u05D8\u05B8\u05D4
+    \u201Cuniversita\u201D)"
+...

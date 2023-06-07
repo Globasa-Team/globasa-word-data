@@ -1,0 +1,56 @@
+---
+term: koktel
+slug: koktel
+ipa: "kok\u02C8tel"
+ipa link: "http://ipa-reader.xyz/?text=kok\u02C8tel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cocktail
+  epo:
+  - - koktelo
+  spa:
+  - - coctel
+search terms:
+  glb:
+  - koktel
+  eng:
+  - cocktail
+  epo:
+  - koktelo
+  spa:
+  - coctel
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- gluxey
+raw data:
+  term: koktel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cocktail
+    epo: koktelo
+    spa: coctel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gluxey
+  etymology: "Englisa (cocktail), Espanisa (c\xF3ctel, coctel), Fransesa (cocktail),
+    Rusisa (\u043A\u043E\u043A\u0442\u0435\u0439\u043B\u044C \"kokteyl\"), Doycisa
+    (Cocktail), Portugalsa (coquetel), Italisa (cocktail), Indonesisa (koktail), Pilipinasa
+    (koktel, kaktel, kakteyl), Hindisa (\u0915\u0949\u0915\u091F\u0947\u0932 \"k\u014Fktel\"),
+    Arabisa (\u0643\u064F\u0648\u0643\u0652\u062A\u064E\u064A\u0652\u0644 \"kuktayl\",
+    \u0643\u064F\u0648\u0643\u0652\u062A\u0650\u064A\u0644 \"kokteyl\"), Niponsa (\u30AB\u30AF\u30C6\u30EB
+    \"kakuteru\"), Tamilsa (\u0B95\u0BBE\u0B95\u0BCD\u0B9F\u0BC6\u0BAF\u0BCD\u0BB2\u0BCD\u0B95\u0BB3\u0BCD
+    \"kakteylgal\"), Turkisa (kokteyl), Vyetnamsa (c\u1ED1c-tai), Hangusa (\uCE75\uD14C\uC77C
+    \"kakteil\"), Parsisa (\u06A9\u0648\u06A9\u062A\u0644 \"koktel\")"
+...

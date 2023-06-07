@@ -1,0 +1,46 @@
+---
+term: kristoista
+slug: kristoista
+ipa: "k\u027Eisto\u02C8ista"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Eisto\u02C8ista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Christian
+  epo:
+  - - kristano
+  spa:
+  - - cristiano
+search terms:
+  glb:
+  - kristoista
+  eng:
+  - christian
+  epo:
+  - kristano
+  spa:
+  - cristiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kristo">Kristo</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: Kristoista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Christian
+    epo: kristano
+    spa: cristiano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kristo + -ista
+...

@@ -1,0 +1,66 @@
+---
+term: tange
+slug: tange
+ipa: "\u02C8tange"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tange&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - tight
+  epo:
+  - - prema
+    - troprema
+    - "stre\u0109ita"
+    - kompakta
+  - - preme
+    - tropreme
+    - "stre\u0109ite"
+    - kompakte
+  spa:
+  - - apretado
+search terms:
+  glb:
+  - tange
+  eng:
+  - tight
+  epo:
+  - prema
+  - troprema
+  - "stre\u0109ita"
+  - kompakta
+  - preme
+  - tropreme
+  - "stre\u0109ite"
+  - kompakte
+  spa:
+  - apretado
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0924\u0902\u0917 \u201Ctang\u201D"
+  Parsisa:
+  - - "\u062A\u0646\u06AF \u201Ctang\u201D"
+raw data:
+  term: tange
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: tight
+    epo: "prema, troprema, stre\u0109ita, kompakta; preme, tropreme, stre\u0109ite,
+      kompakte"
+    spa: apretado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0924\u0902\u0917 \u201Ctang\u201D), Parsisa (\u062A\u0646\u06AF
+    \u201Ctang\u201D)"
+...

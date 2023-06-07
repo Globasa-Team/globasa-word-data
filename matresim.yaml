@@ -1,0 +1,48 @@
+---
+term: matresim
+slug: matresim
+ipa: "mat\u027Ee\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=mat\u027Ee\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - motherly
+  epo:
+  - - patrineca
+  - - patrinece
+  spa:
+  - - maternal
+search terms:
+  glb:
+  - matresim
+  eng:
+  - motherly
+  epo:
+  - patrineca
+  - patrinece
+  spa:
+  - maternal
+etymology_type: DERIVD
+etymology: <a href="../lexi/matre">matre</a> + <a href="../lexi/-sim">-sim</a>
+raw data:
+  term: matresim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: motherly
+    epo: patrineca; patrinece
+    spa: maternal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: matre + -sim
+...

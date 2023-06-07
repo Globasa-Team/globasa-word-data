@@ -1,0 +1,48 @@
+---
+term: plastikoli
+slug: plastikoli
+ipa: "plasti\u02C8koli"
+ipa link: "http://ipa-reader.xyz/?text=plasti\u02C8koli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - plastic
+  epo:
+  - - plasta
+  - - plaste
+  spa:
+  - - "pl\xE1stico"
+search terms:
+  glb:
+  - plastikoli
+  eng:
+  - plastic
+  epo:
+  - plasta
+  - plaste
+  spa:
+  - "pl\xE1stico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/plastiko">plastiko</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: plastikoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: plastic
+    epo: plasta; plaste
+    spa: "pl\xE1stico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: plastiko + -li
+...

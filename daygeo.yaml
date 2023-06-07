@@ -1,0 +1,46 @@
+---
+term: daygeo
+slug: daygeo
+ipa: "daj\u02C8geo"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8geo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - continent
+  epo:
+  - - kontinento
+  spa:
+  - - continente
+search terms:
+  glb:
+  - daygeo
+  eng:
+  - continent
+  epo:
+  - kontinento
+  spa:
+  - continente
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/geo">geo</a>
+raw data:
+  term: daygeo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: continent
+    epo: kontinento
+    spa: continente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + geo
+...

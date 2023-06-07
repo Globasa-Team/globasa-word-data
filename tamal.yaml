@@ -1,0 +1,50 @@
+---
+term: tamal
+slug: tamal
+ipa: "ta\u02C8mal"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8mal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tamale
+  epo:
+  - - tamalo
+  spa:
+  - - tamal
+search terms:
+  glb:
+  - tamal
+  eng:
+  - tamale
+  epo:
+  - tamalo
+  spa:
+  - tamal
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - tamal
+tags:
+- yamxey
+raw data:
+  term: tamal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tamale
+    epo: tamalo
+    spa: tamal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Espanisa (tamal)
+...

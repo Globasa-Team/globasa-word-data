@@ -1,0 +1,82 @@
+---
+term: akademi
+slug: akademi
+ipa: akaˈdemi
+ipa link: http://ipa-reader.xyz/?text=akaˈdemi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - academy
+  epo:
+  - - akademio
+  spa:
+  - - academia
+search terms:
+  glb:
+  - akademi
+  eng:
+  - academy
+  epo:
+  - akademio
+  spa:
+  - academia
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Akademie
+  Englisa:
+  - - academy
+  Espanisa:
+  - - academia
+  Fransesa:
+  - - académie
+  Rusisa:
+  - - академия “akademiya”
+  Arabisa:
+  - - أَكَادِيمِيَّة “ʾakādīmiyya”
+  Parsisa:
+  - - آکادمی “âkâdemi”
+  Turkisa:
+  - - akademi
+  Swahilisa:
+  - - akademia
+  Hindisa:
+  - - अकादमी “akādmī”
+  Telugusa:
+  - - అకాడమీ “akāḍamī”
+  Indonesisa:
+  - - akademi
+  Pilipinasa:
+  - - akademya
+  Niponsa:
+  - - アカデミー “akademī”
+  Hangusa:
+  - - 아카데미 “akademi”
+tags:
+- eskolya
+raw data:
+  term: akademi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: academy
+    epo: akademio
+    spa: academia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: eskolya
+  etymology: Doycisa (Akademie), Englisa (academy), Espanisa (academia), Fransesa
+    (académie), Rusisa (академия “akademiya”), Arabisa (أَكَادِيمِيَّة “ʾakādīmiyya”),
+    Parsisa (آکادمی “âkâdemi”), Turkisa (akademi), Swahilisa (akademia), Hindisa (अकादमी
+    “akādmī”), Telugusa (అకాడమీ “akāḍamī”), Indonesisa (akademi), Pilipinasa (akademya),
+    Niponsa (アカデミー “akademī”), Hangusa (아카데미 “akademi”)
+...

@@ -1,0 +1,54 @@
+---
+term: nenpimpan
+slug: nenpimpan
+ipa: "nenpim\u02C8pan"
+ipa link: "http://ipa-reader.xyz/?text=nenpim\u02C8pan&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - infrequent
+    - infrequently
+    - uncommon
+    - unusual
+  epo:
+  - - neofta
+  - - neofte
+  spa:
+  - - infrecuente
+search terms:
+  glb:
+  - nenpimpan
+  eng:
+  - infrequent
+  - infrequently
+  - uncommon
+  - unusual
+  epo:
+  - neofta
+  - neofte
+  spa:
+  - infrecuente
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/pimpan">pimpan</a>
+raw data:
+  term: nenpimpan
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: infrequent, infrequently, uncommon, unusual
+    epo: neofta; neofte
+    spa: infrecuente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + pimpan
+...

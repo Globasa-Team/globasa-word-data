@@ -1,0 +1,46 @@
+---
+term: maharapul
+slug: maharapul
+ipa: "maxa\u027Ea\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=maxa\u027Ea\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - skilled
+  epo:
+  - - lerta
+  spa:
+  - - "h\xE1bil"
+search terms:
+  glb:
+  - maharapul
+  eng:
+  - skilled
+  epo:
+  - lerta
+  spa:
+  - "h\xE1bil"
+etymology_type: DERIVD
+etymology: <a href="../lexi/mahara">mahara</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: maharapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: skilled
+    epo: lerta
+    spa: "h\xE1bil"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mahara + -pul
+...

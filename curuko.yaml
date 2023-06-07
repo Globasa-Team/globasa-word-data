@@ -1,0 +1,66 @@
+---
+term: curuko
+slug: curuko
+ipa: t͡ʃuˈɾuko
+ipa link: http://ipa-reader.xyz/?text=t͡ʃuˈɾuko&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - bruise
+    - contusion
+  epo:
+  - - kontuzo
+  - - kontuziĝi
+    - kontuzi
+  spa:
+  - - moretón
+    - cardenal
+    - magulladura
+    - contusión
+  - - magullar
+    - magullarse
+search terms:
+  glb:
+  - curuko
+  eng:
+  - bruise
+  - contusion
+  epo:
+  - kontuzo
+  - kontuziĝi
+  - kontuzi
+  spa:
+  - moretón
+  - cardenal
+  - magulladura
+  - contusión
+  - magullar
+  - magullarse
+etymology_type: NATLNG
+etymology:
+  Turkisa:
+  - - çürük
+  Swahilisa:
+  - - cubuko
+raw data:
+  term: curuko
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: bruise, contusion
+    epo: kontuzo; kontuziĝi, kontuzi
+    spa: moretón, cardenal, magulladura, contusión; magullar, magullarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Turkisa (çürük), Swahilisa (cubuko)
+...

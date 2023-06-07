@@ -1,0 +1,50 @@
+---
+term: okomedis
+slug: okomedis
+ipa: "okome\u02C8dis"
+ipa link: "http://ipa-reader.xyz/?text=okome\u02C8dis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ophthalmology
+  epo:
+  - - okulmedicino
+    - okulkuraco
+    - oftalmologio
+  spa:
+  - - "oftalmolog\xEDa"
+search terms:
+  glb:
+  - okomedis
+  eng:
+  - ophthalmology
+  epo:
+  - okulmedicino
+  - okulkuraco
+  - oftalmologio
+  spa:
+  - "oftalmolog\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/oko">oko</a> + <a href="../lexi/-medis">-medis</a>
+raw data:
+  term: okomedis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ophthalmology
+    epo: okulmedicino, okulkuraco, oftalmologio
+    spa: "oftalmolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: oko + -medis
+...

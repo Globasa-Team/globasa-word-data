@@ -1,0 +1,61 @@
+---
+term: bija
+slug: bija
+ipa: ˈbid͡ʒa
+ipa link: http://ipa-reader.xyz/?text=ˈbid͡ʒa&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - seed
+  - - sow
+  epo:
+  - - semo
+  - - semi
+  spa:
+  - - semilla
+  - - sembrar
+search terms:
+  glb:
+  - bija
+  eng:
+  - seed
+  - sow
+  epo:
+  - semo
+  - semi
+  spa:
+  - semilla
+  - sembrar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - बीज “bij”
+  Arabisa:
+  - - بذرة “bidhara”
+  Indonesisa:
+  - - biji
+  Karnatakasa:
+  - - ಬೀಜ “bīja”
+raw data:
+  term: 'bija '
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: seed; sow
+    epo: semo; semi
+    spa: semilla; sembrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (बीज “bij”), Arabisa (بذرة “bidhara”), Indonesisa (biji), Karnatakasa
+    (ಬೀಜ “bīja”)
+...

@@ -1,0 +1,48 @@
+---
+term: marihidin
+slug: marihidin
+ipa: "ma\u027Eixi\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=ma\u027Eixi\u02C8din&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Tuesday
+  epo:
+  - - mardo
+  spa:
+  - - martes
+search terms:
+  glb:
+  - marihidin
+  eng:
+  - tuesday
+  epo:
+  - mardo
+  spa:
+  - martes
+etymology_type: DERIVD
+etymology: <a href="../lexi/Marihi">Marihi</a> + <a href="../lexi/-din">-din</a>
+tags:
+- din
+raw data:
+  term: marihidin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Tuesday
+    epo: mardo
+    spa: martes
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: din
+  etymology: Marihi + -din
+...

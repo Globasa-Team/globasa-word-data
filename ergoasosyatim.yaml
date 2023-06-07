@@ -1,0 +1,51 @@
+---
+term: ergoasosyatim
+slug: ergoasosyatim
+ipa: "e\u027Egoasosja\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=e\u027Egoasosja\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - union
+    - labor union
+    - trade union
+  epo:
+  - - sindikato
+  spa:
+  - - sindicato
+search terms:
+  glb:
+  - ergoasosyatim
+  eng:
+  - union
+  - labor union
+  - trade union
+  epo:
+  - sindikato
+  spa:
+  - sindicato
+etymology_type: DERIVD
+etymology: <a href="../lexi/ergo">ergo</a> + <a href="../lexi/-li">-li</a>, <a href="../lexi/asosya">asosya</a>
+  + <a href="../lexi/-tim">-tim</a>
+raw data:
+  term: ergoasosyatim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: union, labor union, trade union
+    epo: sindikato
+    spa: sindicato
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ergo + -li, asosya + -tim
+...

@@ -1,0 +1,85 @@
+---
+term: yate
+slug: yate
+ipa: "\u02C8jate"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jate&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - yacht
+  epo:
+  - - "ja\u0125to"
+    - jakto
+  spa:
+  - - yate
+search terms:
+  glb:
+  - yate
+  eng:
+  - yacht
+  epo:
+  - "ja\u0125to"
+  - jakto
+  spa:
+  - yate
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - yacht
+  Espanisa:
+  - - yate
+  Fransesa:
+  - - yacht
+  Rusisa:
+  - - "\u044F\u0445\u0442\u0430 \"yahta\""
+  Doycisa:
+  - - Jacht
+  Portugalsa:
+  - - iate
+  Italisa:
+  - - yacht
+  Indonesisa:
+  - - yacht
+  Pilipinasa:
+  - - yate
+  Putunhwa:
+  - - "\u6E38\u8247 \"yowting\""
+  Hindisa:
+  - - "\u092F\u093E\u0916\u093C\u094D\u091F \"yaht\""
+  Arabisa:
+  - - "\u064A\u064E\u062E\u0652\u062A \"yaht\""
+  Niponsa:
+  - - "\u30E8\u30C3\u30C8 \"yotto\""
+  Turkisa:
+  - - yat
+  Hangusa:
+  - - "\uC694\uD2B8 \"yotu\""
+  Parsisa:
+  - - "\u06CC\u0627\u062A \"y\xE2t\""
+raw data:
+  term: yate
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: yacht
+    epo: "ja\u0125to, jakto"
+    spa: yate
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (yacht), Espanisa (yate), Fransesa (yacht), Rusisa (\u044F\u0445\u0442\u0430
+    \"yahta\"), Doycisa (Jacht), Portugalsa (iate), Italisa (yacht), Indonesisa (yacht),
+    Pilipinasa (yate), Putunhwa (\u6E38\u8247 \"yowting\"), Hindisa (\u092F\u093E\u0916\u093C\u094D\u091F
+    \"yaht\"), Arabisa (\u064A\u064E\u062E\u0652\u062A \"yaht\"), Niponsa (\u30E8\u30C3\u30C8
+    \"yotto\"), Turkisa (yat), Hangusa (\uC694\uD2B8 \"yotu\"), Parsisa (\u06CC\u0627\u062A
+    \"y\xE2t\")"
+...

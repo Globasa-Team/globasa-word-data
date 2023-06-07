@@ -1,0 +1,61 @@
+---
+term: sutun
+slug: sutun
+ipa: "su\u02C8tun"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8tun&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pillar
+    - column
+  epo:
+  - - kolono
+  spa:
+  - - columna
+search terms:
+  glb:
+  - sutun
+  eng:
+  - pillar
+  - column
+  epo:
+  - kolono
+  spa:
+  - columna
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - "\u0633\u062A\u0648\u0646 \u201Csutun\u201D"
+  Turkisa:
+  - - "s\xFCtun"
+  Urdu:
+  - - "\u0633\u062A\u0648\u0646 \u201Csutun"
+    - "situn\u201D"
+  Telugusa:
+  - - "\u0C38\u0C4D\u0C25\u0C42\u0C23 \u201Cstuna\u201D"
+  Sanskritam:
+  - - "\u0938\u094D\u0925\u0942\u0923\u093E \u201Cstuna\u201D"
+raw data:
+  term: sutun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pillar, column
+    epo: kolono
+    spa: columna
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Parsisa (\u0633\u062A\u0648\u0646 \u201Csutun\u201D), Turkisa (s\xFCtun),
+    Urdu (\u0633\u062A\u0648\u0646 \u201Csutun, situn\u201D), Telugusa (\u0C38\u0C4D\u0C25\u0C42\u0C23
+    \u201Cstuna\u201D), Sanskritam (\u0938\u094D\u0925\u0942\u0923\u093E \u201Cstuna\u201D)"
+...

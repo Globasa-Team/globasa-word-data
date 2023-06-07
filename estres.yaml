@@ -1,0 +1,76 @@
+---
+term: estres
+slug: estres
+ipa: esˈtɾes
+ipa link: http://ipa-reader.xyz/?text=esˈtɾes&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - stress
+  - - stress (out)
+  epo:
+  - - streso
+  - - stresigi
+  spa:
+  - - estrés
+  - - estresar
+search terms:
+  glb:
+  - estres
+  eng:
+  - stress
+  - stress out
+  epo:
+  - streso
+  - stresigi
+  spa:
+  - estrés
+  - estresar
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Stress
+  Englisa:
+  - - stress
+  Espanisa:
+  - - estrés
+  Fransesa:
+  - - stress
+  Rusisa:
+  - - стресс “stress”
+  Indonesisa:
+  - - stres
+  Pilipinasa:
+  - - istres
+  Turkisa:
+  - - stres
+  Niponsa:
+  - - ストレス “sutoresu”
+  Hangusa:
+  - - 스트레스 “suturesu”
+  Parsisa:
+  - - استرس “estres”
+raw data:
+  term: estres
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: stress; stress (out)
+    epo: streso; stresigi
+    spa: estrés; estresar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Stress), Englisa (stress), Espanisa (estrés), Fransesa (stress),
+    Rusisa (стресс “stress”), Indonesisa (stres), Pilipinasa (istres), Turkisa (stres),
+    Niponsa ( ストレス “sutoresu”), Hangusa (스트레스 “suturesu”), Parsisa (استرس “estres”)
+...

@@ -1,0 +1,56 @@
+---
+term: adabu
+slug: adabu
+ipa: aˈdabu
+ipa link: http://ipa-reader.xyz/?text=aˈdabu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - politeness
+  epo:
+  - - ĝentileco
+  spa:
+  - - cortesía
+search terms:
+  glb:
+  - adabu
+  eng:
+  - politeness
+  epo:
+  - ĝentileco
+  spa:
+  - cortesía
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - أدب “adab”
+  Parsisa:
+  - - ادب “adab”
+  Indonesisa:
+  - - keadaban
+    - beradab
+  Turkisa:
+  - - edep
+raw data:
+  term: adabu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: politeness
+    epo: ĝentileco
+    spa: cortesía
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (أدب “adab”), Parsisa (ادب “adab”), Indonesisa (keadaban, beradab),
+    Turkisa (edep)
+...

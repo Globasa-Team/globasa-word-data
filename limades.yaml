@@ -1,0 +1,46 @@
+---
+term: limades
+slug: limades
+ipa: "lima\u02C8des"
+ipa link: "http://ipa-reader.xyz/?text=lima\u02C8des&voice=Ewa"
+status: false
+category: derived
+word class: num
+trans:
+  eng:
+  - - fifty
+  epo:
+  - - kvindek
+  spa:
+  - - cincuenta
+search terms:
+  glb:
+  - limades
+  eng:
+  - fifty
+  epo:
+  - kvindek
+  spa:
+  - cincuenta
+etymology_type: DERIVD
+etymology: <a href="../lexi/lima">lima</a> + <a href="../lexi/des">des</a>
+raw data:
+  term: limades
+  category: derived
+  word class: num
+  status: false
+  trans:
+    eng: fifty
+    epo: kvindek
+    spa: cincuenta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lima + des
+...

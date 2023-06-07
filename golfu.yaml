@@ -1,0 +1,84 @@
+---
+term: golfu
+slug: golfu
+ipa: ˈgolfu
+ipa link: http://ipa-reader.xyz/?text=ˈgolfu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - golf
+  epo:
+  - - golfo (sporto)
+  spa:
+  - - golf
+search terms:
+  glb:
+  - golfu
+  eng:
+  - golf
+  epo:
+  - golfo sporto
+  - golfo
+  spa:
+  - golf
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - golf
+  Espanisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Turkisa: ~
+  Vyetnamsa: ~
+  Rusisa:
+  - - гольф “golf”
+  Pilipinasa:
+  - - golp
+  Putunhwa:
+  - - 高爾夫球 “gawerfu”
+  Hindisa:
+  - - गोल्फ़ “golf”
+    - गोल्फ “golp”
+  Arabisa:
+  - - جُولْف “golf”
+    - جُولْف “gulf”
+    - غُولْف “golf”
+    - غُولْف “gulf”
+    - غُولْف “golf”
+  Niponsa:
+  - - ゴルフ “gorufu”
+  Telugusa:
+  - - గోల్ఫ్ “golp”
+  Hangusa:
+  - - 골프 “golpu”
+  Parsisa:
+  - - گلف “golf”
+  Swahilisa:
+  - - gofu
+raw data:
+  term: golfu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: golf
+    epo: golfo (sporto)
+    spa: golf
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (golf), Espanisa, Fransesa, Doycisa, Indonesisa, Turkisa, Vyetnamsa,
+    Rusisa (гольф “golf”), Pilipinasa (golp), Putunhwa (高爾夫球 “gawerfu”), Hindisa (गोल्फ़
+    “golf”, गोल्फ “golp”), Arabisa (جُولْف “golf”, جُولْف “gulf”, غُولْف “golf”, غُولْف
+    “gulf”, غُولْف “golf”), Niponsa (ゴルフ “gorufu”), Telugusa (గోల్ఫ్ “golp”), Hangusa
+    (골프 “golpu”), Parsisa (گلف “golf”), Swahilisa (gofu)
+...

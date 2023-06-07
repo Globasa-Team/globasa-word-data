@@ -1,0 +1,69 @@
+---
+term: risi
+slug: risi
+ipa: "\u02C8\u027Eisi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eisi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rice
+  epo:
+  - - rizo
+  spa:
+  - - arroz
+search terms:
+  glb:
+  - risi
+  eng:
+  - rice
+  epo:
+  - rizo
+  spa:
+  - arroz
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0623\u064E\u0631\u064F\u0632\u0651 \u201C\u02BEaruzz\u201D"
+    - "\u0631\u064F\u0632\u0651 \u201Cruzz\u201D"
+  Englisa:
+  - - rice
+  Doycisa:
+  - - Reis
+  Fransesa:
+  - - riz
+  Espanisa:
+  - - arroz
+  Rusisa:
+  - - "\u0440\u0438\u0441 \u201Cris\u201D"
+  Tamilsa:
+  - - "\u0B85\u0BB0\u0BBF\u0B9A\u0BBF \u201Carici\u201D"
+  Niponsa:
+  - - "\u30E9\u30A4\u30B9 \u201Craisu\u201D"
+tags:
+- yamxey
+raw data:
+  term: risi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rice
+    epo: rizo
+    spa: arroz
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Arabisa (\u0623\u064E\u0631\u064F\u0632\u0651 \u201C\u02BEaruzz\u201D,
+    \u0631\u064F\u0632\u0651 \u201Cruzz\u201D), Englisa (rice), Doycisa (Reis), Fransesa
+    (riz), Espanisa (arroz), Rusisa (\u0440\u0438\u0441 \u201Cris\u201D), Tamilsa
+    (\u0B85\u0BB0\u0BBF\u0B9A\u0BBF \u201Carici\u201D), Niponsa (\u30E9\u30A4\u30B9
+    \u201Craisu\u201D)"
+...

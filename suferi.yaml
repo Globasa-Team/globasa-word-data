@@ -1,0 +1,62 @@
+---
+term: suferi
+slug: suferi
+ipa: "su\u02C8fe\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8fe\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - suffering
+  - - suffer (from)
+  epo:
+  - - suferado
+  - - suferi (de)
+  spa:
+  - - sufrimiento
+  - - sufrir (de)
+search terms:
+  glb:
+  - suferi
+  eng:
+  - suffering
+  - suffer from
+  - suffer
+  epo:
+  - suferado
+  - suferi de
+  - suferi
+  spa:
+  - sufrimiento
+  - sufrir de
+  - sufrir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - suffer
+    - siffering
+  Fransesa:
+  - - souffrir
+  Espanisa:
+  - - sufrir
+raw data:
+  term: suferi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: suffering; suffer (from)
+    epo: suferado; suferi (de)
+    spa: sufrimiento; sufrir (de)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (suffer, siffering), Fransesa (souffrir), Espanisa (sufrir)
+...

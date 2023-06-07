@@ -1,0 +1,46 @@
+---
+term: historiyen
+slug: historiyen
+ipa: "xisto\u027Ei\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=xisto\u027Ei\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - historian
+  epo:
+  - - historiista
+  spa:
+  - - historiador
+search terms:
+  glb:
+  - historiyen
+  eng:
+  - historian
+  epo:
+  - historiista
+  spa:
+  - historiador
+etymology_type: DERIVD
+etymology: <a href="../lexi/histori">histori</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: historiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: historian
+    epo: historiista
+    spa: historiador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: histori + -yen
+...

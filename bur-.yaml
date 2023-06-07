@@ -1,0 +1,54 @@
+---
+term: bur-
+slug: bur-
+ipa: "\u02C8bu\u027E-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8bu\u027E-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - bad
+  epo:
+  - - malbon-
+    - "-a\u0109-"
+    - fi-
+  spa:
+  - - malo
+  - - mal
+search terms:
+  glb:
+  - bur-
+  eng:
+  - bad
+  epo:
+  - malbon-
+  - "-a\u0109-"
+  - fi-
+  spa:
+  - malo
+  - mal
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/bur">bur</a>.
+antonyms:
+- bon-
+raw data:
+  term: bur-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: bad
+    epo: "malbon-, -a\u0109-, fi-"
+    spa: malo; mal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: bon-
+  example: ""
+  tags: ""
+  etymology: Am oko _bur_.
+...

@@ -1,0 +1,64 @@
+---
+term: posswikara
+slug: posswikara
+ipa: "posswi\u02C8ka\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=posswi\u02C8ka\u027Ea&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - refusal
+    - rejection
+  - - decline
+    - refuse
+    - reject
+  epo:
+  - - rifuzo
+  - - rifuzi
+  spa:
+  - - rechazo
+    - "oposici\xF3n"
+    - repudio
+  - - rechazar
+    - oponerse
+search terms:
+  glb:
+  - posswikara
+  eng:
+  - refusal
+  - rejection
+  - decline
+  - refuse
+  - reject
+  epo:
+  - rifuzo
+  - rifuzi
+  spa:
+  - rechazo
+  - "oposici\xF3n"
+  - repudio
+  - rechazar
+  - oponerse
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/swikara">swikara</a>
+raw data:
+  term: posswikara
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: refusal, rejection; decline, refuse, reject
+    epo: rifuzo; rifuzi
+    spa: "rechazo, oposici\xF3n, repudio; rechazar, oponerse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + swikara
+...

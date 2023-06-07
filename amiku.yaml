@@ -1,0 +1,62 @@
+---
+term: amiku
+slug: amiku
+ipa: aˈmiku
+ipa link: http://ipa-reader.xyz/?text=aˈmiku&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - deep
+    - deeply
+    - profound
+    - profoundly
+  epo:
+  - - profunda
+  - - profunde
+  spa:
+  - - hondo
+    - profundo
+search terms:
+  glb:
+  - amiku
+  eng:
+  - deep
+  - deeply
+  - profound
+  - profoundly
+  epo:
+  - profunda
+  - profunde
+  spa:
+  - hondo
+  - profundo
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - عميق “ʿamīq”
+  Parsisa:
+  - - عمیق‎ “ʿamiq”
+antonyms:
+- posamiku
+raw data:
+  term: amiku
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: deep, deeply, profound, profoundly
+    epo: profunda; profunde
+    spa: hondo, profundo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: posamiku
+  example: ""
+  tags: ""
+  etymology: Arabisa (عميق “ʿamīq”), Parsisa (عمیق‎ “ʿamiq”)
+...

@@ -1,0 +1,70 @@
+---
+term: faylu
+slug: faylu
+ipa: ˈfajlu
+ipa link: http://ipa-reader.xyz/?text=ˈfajlu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - file
+  epo:
+  - - dosiero
+  spa:
+  - - archivo
+search terms:
+  glb:
+  - faylu
+  eng:
+  - file
+  epo:
+  - dosiero
+  spa:
+  - archivo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - file
+  Rusisa:
+  - - файл “fayl”
+  Doycisa:
+  - - File
+  Indonesisa:
+  - - file
+  Pilipinasa:
+  - - file
+  Hindisa:
+  - - फ़ाइल “fayl”
+  Niponsa:
+  - - ファイル “fayru”
+  Telugusa:
+  - - ఫైలు “faylu”
+  Hangusa:
+  - - 파일 “pail”
+  Parsisa:
+  - - فایل “fâyl”
+  Swahilisa:
+  - - faili
+raw data:
+  term: faylu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: file
+    epo: dosiero
+    spa: archivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (file), Rusisa (файл “fayl”), Doycisa (File), Indonesisa (file),
+    Pilipinasa (file), Hindisa (फ़ाइल “fayl”), Niponsa (ファイル “fayru”), Telugusa (ఫైలు
+    “faylu”), Hangusa (파일 “pail”), Parsisa (فایل “fâyl”), Swahilisa (faili)
+...

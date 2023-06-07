@@ -1,0 +1,60 @@
+---
+term: kroa
+slug: kroa
+ipa: "\u02C8k\u027Eoa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8k\u027Eoa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - frog
+    - toad
+    - _Anura_
+  epo:
+  - - rano
+    - bufo
+  spa:
+  - - rana
+    - sapo
+    - _Anura_
+search terms:
+  glb:
+  - kroa
+  eng:
+  - frog
+  - toad
+  - anura
+  epo:
+  - rano
+  - bufo
+  spa:
+  - rana
+  - sapo
+  - anura
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kroa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: frog, toad, _Anura_
+    epo: rano, bufo
+    spa: rana, sapo, _Anura_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "kwasilexi - Fransesa (croa croa), Englisa (croak), Indonesisa (krok
+    krok), Niponsa (\u30B1\u30ED\u30B1\u30ED \"kero kero\"), Espanisa (croac croac).
+    Doycisa (quaak), Pilipinasa (kokak kokak), Putunhwa (\u5471\u5471 \"gu\u0101 gu\u0101\")"
+...

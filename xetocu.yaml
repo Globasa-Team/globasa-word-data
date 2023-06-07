@@ -1,0 +1,52 @@
+---
+term: xetocu
+slug: xetocu
+ipa: "\u0283e\u02C8tot\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u0283e\u02C8tot\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.lin
+trans:
+  eng:
+  - - taste (_have a particular taste_)
+  epo:
+  - - gusto
+  - - gusti
+  spa:
+  - - sabor
+  - - saber
+    - tener sabor
+search terms:
+  glb:
+  - xetocu
+  eng:
+  - taste
+  epo:
+  - gusto
+  - gusti
+  spa:
+  - sabor
+  - saber
+  - tener sabor
+etymology_type: DERIVD
+etymology: <a href="../lexi/xeto">xeto</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: xetocu
+  category: derived
+  word class: n/f.lin
+  status: false
+  trans:
+    eng: taste (_have a particular taste_)
+    epo: gusto; gusti
+    spa: sabor; saber, tener sabor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xeto + -cu
+...

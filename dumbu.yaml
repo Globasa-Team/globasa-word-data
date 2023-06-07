@@ -1,0 +1,75 @@
+---
+term: dumbu
+slug: dumbu
+ipa: ˈdumbu
+ipa link: http://ipa-reader.xyz/?text=ˈdumbu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - posterior
+    - buttocks
+    - butt
+    - hindquarters
+    - heinie
+    - bottom
+    - pygo-
+  epo:
+  - - postaĵo
+    - pugo
+  spa:
+  - - trasero
+    - nalgas
+    - culo
+search terms:
+  glb:
+  - dumbu
+  eng:
+  - posterior
+  - buttocks
+  - butt
+  - hindquarters
+  - heinie
+  - bottom
+  - pygo-
+  epo:
+  - postaĵo
+  - pugo
+  spa:
+  - trasero
+  - nalgas
+  - culo
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 臀部 “tunbu”
+  Hindisa:
+  - - नितम्ब “nitamb”
+  Niponsa:
+  - - 臀部 “denbu”
+  Hangusa:
+  - - 둔부 “dunbu”
+tags:
+- jismulogi
+raw data:
+  term: dumbu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: posterior, buttocks, butt, hindquarters, heinie, bottom, pygo-
+    epo: postaĵo, pugo
+    spa: trasero, nalgas, culo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Putunhwa (臀部 “tunbu”), Hindisa (नितम्ब “nitamb”), Niponsa (臀部 “denbu”),
+    Hangusa (둔부 “dunbu”)
+...

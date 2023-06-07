@@ -1,0 +1,56 @@
+---
+term: xama
+slug: xama
+ipa: "\u02C8\u0283ama"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283ama&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - candle
+  epo:
+  - - kandelo
+  spa:
+  - - vela
+search terms:
+  glb:
+  - xama
+  eng:
+  - candle
+  epo:
+  - kandelo
+  spa:
+  - vela
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0634\u0645\u0639\u0629 \u201Csham\u2019a\u201D"
+  Parsisa:
+  - - "\u0634\u0645\u0639 \u201Csham\u201D"
+  Swahilisa:
+  - - mshumaa
+  Hindisa:
+  - - "\u0936\u092E\u093E \u201C\u015Bam\u0101\u201D"
+raw data:
+  term: xama
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: candle
+    epo: kandelo
+    spa: vela
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0634\u0645\u0639\u0629 \u201Csham\u2019a\u201D), Parsisa
+    (\u0634\u0645\u0639 \u201Csham\u201D), Swahilisa (mshumaa), Hindisa (\u0936\u092E\u093E
+    \u201C\u015Bam\u0101\u201D)"
+...

@@ -1,0 +1,59 @@
+---
+term: panlan
+slug: panlan
+ipa: "pan\u02C8lan"
+ipa link: "http://ipa-reader.xyz/?text=pan\u02C8lan&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - rebellion
+  - - rebel (against)
+  epo:
+  - - ribelo
+  - - "ribeli (kontra\u016D)"
+  spa:
+  - - "rebeli\xF3n"
+  - - rebelarse
+search terms:
+  glb:
+  - panlan
+  eng:
+  - rebellion
+  - rebel against
+  - rebel
+  epo:
+  - ribelo
+  - "ribeli kontra\u016D"
+  - ribeli
+  spa:
+  - "rebeli\xF3n"
+  - rebelarse
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u53DB\u4E71 \u201Cp\xE0nlu\xE0n\u201D"
+  Niponsa:
+  - - "\u53CD\u4E71 \u201Chanran\u201D"
+raw data:
+  term: panlan
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: rebellion; rebel (against)
+    epo: "ribelo; ribeli (kontra\u016D)"
+    spa: "rebeli\xF3n; rebelarse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u53DB\u4E71 \u201Cp\xE0nlu\xE0n\u201D), Niponsa (\u53CD\u4E71
+    \u201Chanran\u201D)"
+...

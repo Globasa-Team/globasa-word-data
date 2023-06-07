@@ -1,0 +1,56 @@
+---
+term: bala
+slug: bala
+ipa: ˈbala
+ipa link: http://ipa-reader.xyz/?text=ˈbala&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - strong
+    - strongly
+  epo:
+  - - forta
+  - - forte
+  spa:
+  - - fuerte
+search terms:
+  glb:
+  - bala
+  eng:
+  - strong
+  - strongly
+  epo:
+  - forta
+  - forte
+  spa:
+  - fuerte
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - बल “bal”
+  Telugusa:
+  - - బలమైన “balamaina”
+antonyms:
+- daif
+raw data:
+  term: bala
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: strong, strongly
+    epo: forta; forte
+    spa: fuerte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: daif
+  example: ""
+  tags: ""
+  etymology: 'Hindisa (बल “bal”), Telugusa (బలమైన “balamaina”) '
+...

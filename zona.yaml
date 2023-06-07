@@ -1,0 +1,74 @@
+---
+term: zona
+slug: zona
+ipa: "\u02C8zona"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8zona&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - zone
+    - area
+    - region
+  epo:
+  - - regiono
+    - areo
+  spa:
+  - - zona
+    - "\xE1rea"
+    - "regi\xF3n"
+search terms:
+  glb:
+  - zona
+  eng:
+  - zone
+  - area
+  - region
+  epo:
+  - regiono
+  - areo
+  spa:
+  - zona
+  - "\xE1rea"
+  - "regi\xF3n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - zone
+  Fransesa:
+  - - zone
+  Doycisa:
+  - - Zone
+  Rusisa:
+  - - "\u0437\u043E\u043D\u0430 \u201Czona\u201D"
+  Espanisa:
+  - - zona
+  Indonesisa:
+  - - zona
+  Pilipinasa:
+  - - sona
+  Hangusa:
+  - - "\uC874 \u201Cjon\u201D"
+raw data:
+  term: zona
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: zone, area, region
+    epo: regiono, areo
+    spa: "zona, \xE1rea, regi\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (zone), Fransesa (zone), Doycisa (Zone), Rusisa (\u0437\u043E\u043D\u0430
+    \u201Czona\u201D), Espanisa (zona), Indonesisa (zona), Pilipinasa (sona), Hangusa
+    (\uC874 \u201Cjon\u201D)"
+...

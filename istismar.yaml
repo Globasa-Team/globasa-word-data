@@ -1,0 +1,55 @@
+---
+term: istismar
+slug: istismar
+ipa: "istis\u02C8ma\u027E"
+ipa link: "http://ipa-reader.xyz/?text=istis\u02C8ma\u027E&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - exploit
+    - take advantage (of)
+  epo:
+  - - ekspluato
+  - - ekspluati
+  spa:
+  - - "explotaci\xF3n"
+  - - explotar
+search terms:
+  glb:
+  - istismar
+  eng:
+  - exploit
+  - take advantage of
+  - take advantage
+  epo:
+  - ekspluato
+  - ekspluati
+  spa:
+  - "explotaci\xF3n"
+  - explotar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: istismar
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: exploit, take advantage (of)
+    epo: ekspluato; ekspluati
+    spa: "explotaci\xF3n; explotar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0627\u0650\u0633\u0652\u062A\u0650\u062B\u0652\u0645\u064E\u0627\u0631
+    \"isti\u1E6Fmar\"), Turkisa (istismar), Parsisa (\u0627\u0633\u062A\u062B\u0645\u0627\u0631
+    \"estesm\xE2r\")"
+...

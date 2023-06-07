@@ -1,0 +1,59 @@
+---
+term: minus
+slug: minus
+ipa: "mi\u02C8nus"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8nus&voice=Ewa"
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - minus
+    - except (for)
+    - excluding
+    - other than
+  epo:
+  - - krom
+    - escepte de
+  spa:
+  - - menos
+    - excepto
+search terms:
+  glb:
+  - minus
+  eng:
+  - minus
+  - except for
+  - except
+  - excluding
+  - other than
+  epo:
+  - krom
+  - escepte de
+  spa:
+  - menos
+  - excepto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: minus
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: minus, except (for), excluding, other than
+    epo: krom, escepte de
+    spa: menos, excepto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (minus), Fransesa (moins), Doycisa (minus), Rusisa (\u043C\u0438\u043D\u0443\u0441
+    \u201Cminus\u201D), Espanisa (menos), Niponsa (\u30DE\u30A4\u30CA\u30B9 \u201Cmainasu\u201D),
+    Hangusa (\uB9C8\uC774\uB108\uC2A4 \u201Cmaineoseu\u201D)"
+...

@@ -1,0 +1,49 @@
+---
+term: konsan
+slug: konsan
+ipa: "kon\u02C8san"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8san&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mine (_excavation_)
+  epo:
+  - - mino
+    - "fosa\u0135o"
+  spa:
+  - - mina
+search terms:
+  glb:
+  - konsan
+  eng:
+  - mine
+  epo:
+  - mino
+  - "fosa\u0135o"
+  spa:
+  - mina
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: konsan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mine (_excavation_)
+    epo: "mino, fosa\u0135o"
+    spa: mina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u77FF\u5C71 \u201Ckwangxan\u201D), Hangusa (\uAD11\uC0B0
+    \u201Ckwansan\u201D), Niponsa (\u9271\u5C71 \u201Ckozan\u201D)"
+...

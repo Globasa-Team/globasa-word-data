@@ -1,0 +1,52 @@
+---
+term: arteli
+slug: arteli
+ipa: "a\u027E\u02C8teli"
+ipa link: "http://ipa-reader.xyz/?text=a\u027E\u02C8teli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - art
+    - artistic (_relating to art_)
+    - artistically
+  epo:
+  - - arta
+  - - arte
+  spa:
+  - - "art\xEDstico (_relacionado con el arte_)"
+search terms:
+  glb:
+  - arteli
+  eng:
+  - art
+  - artistic
+  - artistically
+  epo:
+  - arta
+  - arte
+  spa:
+  - "art\xEDstico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/arte">arte</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: arteli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: art, artistic (_relating to art_), artistically
+    epo: arta; arte
+    spa: "art\xEDstico (_relacionado con el arte_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: arte + -li
+...

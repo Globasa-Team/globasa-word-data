@@ -1,0 +1,52 @@
+---
+term: etnotim
+slug: etnotim
+ipa: "etno\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=etno\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ethnic group
+    - ethnicity
+  epo:
+  - - etna grupo
+    - etno
+  spa:
+  - - "grupo \xE9tnico"
+    - etnia
+search terms:
+  glb:
+  - etnotim
+  eng:
+  - ethnic group
+  - ethnicity
+  epo:
+  - etna grupo
+  - etno
+  spa:
+  - "grupo \xE9tnico"
+  - etnia
+etymology_type: DERIVD
+etymology: <a href="../lexi/etno">etno</a> + <a href="../lexi/-tim">-tim</a>
+raw data:
+  term: etnotim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ethnic group, ethnicity
+    epo: etna grupo, etno
+    spa: "grupo \xE9tnico, etnia"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: etno + -tim
+...

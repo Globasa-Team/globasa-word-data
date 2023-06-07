@@ -1,0 +1,87 @@
+---
+term: pawndu
+slug: pawndu
+ipa: "\u02C8pawndu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pawndu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pound (sterling)
+  epo:
+  - - pundo
+  spa:
+  - - libra (_divisa_)
+    - "\xA3"
+    - GBP
+search terms:
+  glb:
+  - pawndu
+  eng:
+  - pound sterling
+  - pound
+  epo:
+  - pundo
+  spa:
+  - libra
+  - "\xA3"
+  - gbp
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pound
+  Rusisa:
+  - - "\u0444\u0443\u043D\u0442 \"funt\""
+  Doycisa:
+  - - Pfund
+  Indonesisa:
+  - - pon
+    - paun
+  Putunhwa:
+  - - "\u78C5 \"bang\""
+  Hindisa:
+  - - "\u092A\u093E\u0909\u0902\u0921 \"pawnd\""
+  Arabisa:
+  - - "\u0628\u064E\u0627\u0648\u0652\u0646\u0652\u062F \"bawnd\""
+  Niponsa:
+  - - "\u30DD\u30F3\u30C9 \"pondo\""
+  Telugusa:
+  - - "\u0C2A\u0C4C\u0C02\u0C21\u0C4D \"paund\""
+  "": ~
+  Tamilsa:
+  - - "\u0BAA\u0BB5\u0BC1\u0BA3\u0BCD\u0B9F\u0BC1 \"pavuntu\""
+  Vyetnamsa:
+  - - pao
+  Hangusa:
+  - - "\uD30C\uC6B4\uB4DC \"paundu\""
+  Parsisa:
+  - - "\u067E\u0648\u0646\u062F \"pund\""
+  Swahilisa:
+  - - pauni
+raw data:
+  term: pawndu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pound (sterling)
+    epo: pundo
+    spa: "libra (_divisa_), \xA3, GBP"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: pound, sterling
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (pound), Rusisa (\u0444\u0443\u043D\u0442 \"funt\"), Doycisa
+    (Pfund), Indonesisa (pon, paun), Putunhwa (\u78C5 \"bang\"), Hindisa (\u092A\u093E\u0909\u0902\u0921
+    \"pawnd\"), Arabisa (\u0628\u064E\u0627\u0648\u0652\u0646\u0652\u062F \"bawnd\"),
+    Niponsa (\u30DD\u30F3\u30C9 \"pondo\"), Telugusa (\u0C2A\u0C4C\u0C02\u0C21\u0C4D
+    \"paund\") , Tamilsa (\u0BAA\u0BB5\u0BC1\u0BA3\u0BCD\u0B9F\u0BC1 \"pavuntu\"),
+    Vyetnamsa (pao), Hangusa (\uD30C\uC6B4\uB4DC \"paundu\"), Parsisa (\u067E\u0648\u0646\u062F
+    \"pund\"), Swahilisa (pauni)"
+...

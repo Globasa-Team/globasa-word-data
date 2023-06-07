@@ -1,0 +1,46 @@
+---
+term: kesu
+slug: kesu
+ipa: "\u02C8kesu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kesu&voice=Ewa"
+status: false
+category: derived
+word class: su s
+trans:
+  eng:
+  - - whose
+  epo:
+  - - kies
+  spa:
+  - - "\xBFde qui\xE9n?"
+search terms:
+  glb:
+  - kesu
+  eng:
+  - whose
+  epo:
+  - kies
+  spa:
+  - "\xBFde qui\xE9n?"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ke">ke</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: kesu
+  category: derived
+  word class: su s
+  status: false
+  trans:
+    eng: whose
+    epo: kies
+    spa: "\xBFde qui\xE9n?"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ke + -su
+...

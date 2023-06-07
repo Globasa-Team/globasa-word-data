@@ -1,0 +1,48 @@
+---
+term: sapatudukan
+slug: sapatudukan
+ipa: "sapatudu\u02C8kan"
+ipa link: "http://ipa-reader.xyz/?text=sapatudu\u02C8kan&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - shoe store
+  epo:
+  - - "\u015Duvendejo"
+    - "\u015Dubutiko"
+  spa:
+  - - tienda de zapatos
+search terms:
+  glb:
+  - sapatudukan
+  eng:
+  - shoe store
+  epo:
+  - "\u015Duvendejo"
+  - "\u015Dubutiko"
+  spa:
+  - tienda de zapatos
+etymology_type: DERIVD
+etymology: <a href="../lexi/sapatu">sapatu</a> + <a href="../lexi/-dukan">-dukan</a>
+raw data:
+  term: sapatudukan
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: shoe store
+    epo: "\u015Duvendejo, \u015Dubutiko"
+    spa: tienda de zapatos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sapatu + -dukan
+...

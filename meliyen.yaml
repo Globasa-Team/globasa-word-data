@@ -1,0 +1,48 @@
+---
+term: meliyen
+slug: meliyen
+ipa: "meli\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=meli\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - beauty
+    - beautiful one
+  epo:
+  - - belulo
+  spa:
+  - - bello (_persona_)
+search terms:
+  glb:
+  - meliyen
+  eng:
+  - beauty
+  - beautiful one
+  epo:
+  - belulo
+  spa:
+  - bello
+etymology_type: DERIVD
+etymology: <a href="../lexi/meli">meli</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: meliyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: beauty, beautiful one
+    epo: belulo
+    spa: bello (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: meli + -yen
+...

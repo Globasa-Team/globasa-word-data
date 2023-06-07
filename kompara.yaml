@@ -1,0 +1,53 @@
+---
+term: kompara
+slug: kompara
+ipa: "kom\u02C8pa\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=kom\u02C8pa\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - comparison
+  - - compare
+  epo:
+  - - komparo
+  - - kompari
+  spa:
+  - - "comparaci\xF3n"
+  - - comparar
+search terms:
+  glb:
+  - kompara
+  eng:
+  - comparison
+  - compare
+  epo:
+  - komparo
+  - kompari
+  spa:
+  - "comparaci\xF3n"
+  - comparar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kompara
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: comparison; compare
+    epo: komparo; kompari
+    spa: "comparaci\xF3n; comparar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (compare), Fransesa (comparer), Espanisa (comparaci\xF3n, comparar),
+    Doycisa (Komparation), Swerisa (komparera)"
+...

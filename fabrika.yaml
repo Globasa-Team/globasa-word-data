@@ -1,0 +1,75 @@
+---
+term: fabrika
+slug: fabrika
+ipa: faˈbɾika
+ipa link: http://ipa-reader.xyz/?text=faˈbɾika&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - manufacture
+  epo:
+  - - fabrikado
+  - - fabriki
+  spa:
+  - - fabricación
+    - manufactura
+  - - fabricar
+    - manufacturar
+search terms:
+  glb:
+  - fabrika
+  eng:
+  - manufacture
+  epo:
+  - fabrikado
+  - fabriki
+  spa:
+  - fabricación
+  - manufactura
+  - fabricar
+  - manufacturar
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Fabrik
+  Englisa:
+  - - fabricate
+  Espanisa:
+  - - fabricar
+    - fábrica
+  Fransesa:
+  - - fabrication
+  Rusisa:
+  - - фабрика “fabrika”
+  Turkisa:
+  - - fabrika
+  Parsisa:
+  - - فابریکه‎ “fâbrike”
+  Indonesisa:
+  - - pabrik
+  Pilipinasa:
+  - - pabrika
+raw data:
+  term: fabrika
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: manufacture
+    epo: fabrikado; fabriki
+    spa: fabricación, manufactura; fabricar, manufacturar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Fabrik), Englisa (fabricate), Espanisa (fabricar, fábrica),
+    Fransesa (fabrication), Rusisa (фабрика “fabrika”), Turkisa (fabrika), Parsisa
+    (فابریکه‎ “fâbrike”) Indonesisa (pabrik), Pilipinasa (pabrika)
+...

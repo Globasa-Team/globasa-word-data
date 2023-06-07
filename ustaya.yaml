@@ -1,0 +1,50 @@
+---
+term: ustaya
+slug: ustaya
+ipa: "us\u02C8taja"
+ipa link: "http://ipa-reader.xyz/?text=us\u02C8taja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - expertise
+  epo:
+  - - sperteco
+  spa:
+  - - destreza
+    - pericia
+    - experiencia
+search terms:
+  glb:
+  - ustaya
+  eng:
+  - expertise
+  epo:
+  - sperteco
+  spa:
+  - destreza
+  - pericia
+  - experiencia
+etymology_type: DERIVD
+etymology: <a href="../lexi/usta">usta</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: ustaya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: expertise
+    epo: sperteco
+    spa: destreza, pericia, experiencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: usta + -ya
+...

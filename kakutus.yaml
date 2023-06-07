@@ -1,0 +1,54 @@
+---
+term: kakutus
+slug: kakutus
+ipa: "kaku\u02C8tus"
+ipa link: "http://ipa-reader.xyz/?text=kaku\u02C8tus&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cactus
+  epo:
+  - - kakto
+  spa:
+  - - cactus
+    - cacto
+    - _Cactaceae_
+search terms:
+  glb:
+  - kakutus
+  eng:
+  - cactus
+  epo:
+  - kakto
+  spa:
+  - cactus
+  - cacto
+  - cactaceae
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kakutus
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cactus
+    epo: kakto
+    spa: cactus, cacto, _Cactaceae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cactus), Fransesa, Espanisa (cacto), Rusisa (\u043A\u0430\u043A\u0442\u0443\u0441
+    \u201Ckaktus\u201D), Doycisa (Kaktus), Indonesisa, Pilipinasa (kakto), Hindisa
+    (\u0915\u0948\u0915\u094D\u091F\u0938 \u201Ckektas\u201D), Telugusa (\u0C15\u0C3E\u0C15\u0C4D\u0C1F\u0C47\u0C38\u0C3F
+    \u201Ckaktesi\u201D), Turkisa (kakt\xFCs), Parsisa (\u06A9\u0627\u06A9\u062A\u0648\u0633
+    \u201Ckaktus\u201D), Swahilisa (dungusi-kakati)"
+...

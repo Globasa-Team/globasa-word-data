@@ -1,0 +1,50 @@
+---
+term: israel
+slug: israel
+ipa: "is\u027Ea\u02C8el"
+ipa link: "http://ipa-reader.xyz/?text=is\u027Ea\u02C8el&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Israel
+  epo:
+  - - Israelo
+  spa:
+  - - Israel
+search terms:
+  glb:
+  - israel
+  eng:
+  - israel
+  epo:
+  - israelo
+  spa:
+  - israel
+etymology_type: NATLNG
+etymology:
+  Ivrisa:
+  - - "\u05D9\u05E9\u05E8\u05D0\u05DC \u201Cyisra'\xE9l\u201D"
+tags:
+- dexa
+raw data:
+  term: Israel
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Israel
+    epo: Israelo
+    spa: Israel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Ivrisa (\u05D9\u05E9\u05E8\u05D0\u05DC \u201Cyisra'\xE9l\u201D)"
+...

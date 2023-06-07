@@ -1,0 +1,48 @@
+---
+term: kurtogi
+slug: kurtogi
+ipa: "ku\u027E\u02C8togi"
+ipa link: "http://ipa-reader.xyz/?text=ku\u027E\u02C8togi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - shorten
+  epo:
+  - - mallongigo
+  - - malongigi
+  spa:
+  - - acortar
+search terms:
+  glb:
+  - kurtogi
+  eng:
+  - shorten
+  epo:
+  - mallongigo
+  - malongigi
+  spa:
+  - acortar
+etymology_type: DERIVD
+etymology: <a href="../lexi/kurto">kurto</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: kurtogi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: shorten
+    epo: mallongigo; malongigi
+    spa: acortar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kurto + -gi
+...

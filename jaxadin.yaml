@@ -1,0 +1,46 @@
+---
+term: jaxadin
+slug: jaxadin
+ipa: "d\u0361\u0292a\u0283a\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u0283a\u02C8din&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - tomorrow
+  epo:
+  - - "morga\u016D"
+  spa:
+  - - "ma\xF1ana"
+search terms:
+  glb:
+  - jaxadin
+  eng:
+  - tomorrow
+  epo:
+  - "morga\u016D"
+  spa:
+  - "ma\xF1ana"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ja-">ja-</a> + <a href="../lexi/xa-">xa-</a> + <a href="../lexi/din">din</a>
+raw data:
+  term: jaxadin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: tomorrow
+    epo: "morga\u016D"
+    spa: "ma\xF1ana"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ja- + xa- + din
+...

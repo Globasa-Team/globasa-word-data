@@ -1,0 +1,58 @@
+---
+term: ukungu
+slug: ukungu
+ipa: "u\u02C8kungu"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8kungu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fog
+    - mist
+    - haze
+  epo:
+  - - nebulo
+  spa:
+  - - niebla
+    - neblina
+    - bruma
+    - calima
+search terms:
+  glb:
+  - ukungu
+  eng:
+  - fog
+  - mist
+  - haze
+  epo:
+  - nebulo
+  spa:
+  - niebla
+  - neblina
+  - bruma
+  - calima
+etymology_type: NATLNG
+etymology:
+  Swahilisa:
+  - - ukungu
+raw data:
+  term: ukungu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fog, mist, haze
+    epo: nebulo
+    spa: niebla, neblina, bruma, calima
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Swahilisa (ukungu)
+...

@@ -1,0 +1,52 @@
+---
+term: lefelexi
+slug: lefelexi
+ipa: "lefe\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=lefe\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - foreword
+    - preamble
+  epo:
+  - - "anta\u016Dparolo"
+  spa:
+  - - "pr\xF3logo"
+    - "pre\xE1mbulo"
+    - prefacio
+search terms:
+  glb:
+  - lefelexi
+  eng:
+  - foreword
+  - preamble
+  epo:
+  - "anta\u016Dparolo"
+  spa:
+  - "pr\xF3logo"
+  - "pre\xE1mbulo"
+  - prefacio
+etymology_type: DERIVD
+etymology: <a href="../lexi/lefe-">lefe-</a> + <a href="../lexi/lexi">lexi</a>
+raw data:
+  term: lefelexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: foreword, preamble
+    epo: "anta\u016Dparolo"
+    spa: "pr\xF3logo, pre\xE1mbulo, prefacio"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lefe- + lexi
+...

@@ -1,0 +1,67 @@
+---
+term: towa
+slug: towa
+ipa: "\u02C8towa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8towa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tower
+  epo:
+  - - turo
+  spa:
+  - - torre
+search terms:
+  glb:
+  - towa
+  eng:
+  - tower
+  epo:
+  - turo
+  spa:
+  - torre
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tower
+  Fransesa:
+  - - tour
+  Doycisa:
+  - - Turm
+  Espanisa:
+  - - torre
+  Pilipinasa:
+  - - tore
+  Putunhwa:
+  - - "\u5854\u697C \u201Ct\u01CEl\xF3u\u201D"
+  Niponsa:
+  - - "\u30BF\u30EF\u30FC \u201Ctaw\u0101\u201D"
+  Hangusa:
+  - - "\uD0C0\uC6CC \u201Ctawo\u201D"
+  Hindisa:
+  - - "\u091F\u093E\u0935\u0930 \u201C\u1E6D\u0101var\u201D"
+raw data:
+  term: towa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tower
+    epo: turo
+    spa: torre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tower), Fransesa (tour), Doycisa (Turm), Espanisa (torre),
+    Pilipinasa (tore), Putunhwa (\u5854\u697C \u201Ct\u01CEl\xF3u\u201D), Niponsa
+    (\u30BF\u30EF\u30FC \u201Ctaw\u0101\u201D), Hangusa (\uD0C0\uC6CC \u201Ctawo\u201D),
+    Hindisa (\u091F\u093E\u0935\u0930 \u201C\u1E6D\u0101var\u201D)"
+...

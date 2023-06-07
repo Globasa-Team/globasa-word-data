@@ -1,0 +1,48 @@
+---
+term: rigi
+slug: rigi
+ipa: "\u02C8\u027Eigi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eigi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - repeat
+  epo:
+  - - ripeto
+  - - ripeti
+  spa:
+  - - repetir
+search terms:
+  glb:
+  - rigi
+  eng:
+  - repeat
+  epo:
+  - ripeto
+  - ripeti
+  spa:
+  - repetir
+etymology_type: DERIVD
+etymology: <a href="../lexi/ri-">ri-</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: rigi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: repeat
+    epo: ripeto; ripeti
+    spa: repetir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ri- + -gi
+...

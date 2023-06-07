@@ -1,0 +1,63 @@
+---
+term: kopa
+slug: kopa
+ipa: "\u02C8kopa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kopa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - glass
+    - tumbler
+    - cup
+    - mug (any drinking vessel other than bottles)
+  epo:
+  - - glaso
+    - taso
+    - "kru\u0109o (iu ajn trinkujo krom boteloj)"
+  spa:
+  - - vaso
+    - taza
+search terms:
+  glb:
+  - kopa
+  eng:
+  - glass
+  - tumbler
+  - cup
+  - mug any drinking vessel other than bottles
+  - mug
+  epo:
+  - glaso
+  - taso
+  - "kru\u0109o iu ajn trinkujo krom boteloj"
+  - "kru\u0109o"
+  spa:
+  - vaso
+  - taza
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kopa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: glass, tumbler, cup, mug (any drinking vessel other than bottles)
+    epo: "glaso, taso, kru\u0109o (iu ajn trinkujo krom boteloj)"
+    spa: vaso, taza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cup), Hindisa (\u0915\u092A \u201Ckap\u201D), Arabisa (\u0643\u064F\u0648\u0628
+    \u201Ckub\u201D), Fransesa (coupe), Rusisa (\u043A\u0443\u0431\u043E\u043A \u201Ckubok\u201D),
+    Portugalsa (copo), Niponsa (\u30B3\u30C3\u30D7 \u201Ckoppu\u201D), Hangusa (\uCEF5
+    \u201Ckop\u201D), Vyetnamsa (c\u1ED1c), Swahilisa (kikombe), Italisa (coppa)"
+...

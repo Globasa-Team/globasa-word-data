@@ -1,0 +1,81 @@
+---
+term: polixo
+slug: polixo
+ipa: "po\u02C8li\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=po\u02C8li\u0283o&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - polish
+    - shine
+    - wax
+    - buff
+    - furbish
+    - burnish
+  epo:
+  - - "polura\u0135o"
+  - - poluri
+  spa:
+  - - pulir
+search terms:
+  glb:
+  - polixo
+  eng:
+  - polish
+  - shine
+  - wax
+  - buff
+  - furbish
+  - burnish
+  epo:
+  - "polura\u0135o"
+  - poluri
+  spa:
+  - pulir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - polish
+  Espanisa:
+  - - pulidor
+    - pulir
+  Fransesa:
+  - - polir
+  Rusisa:
+  - - "\u043F\u043E\u043B\u0438\u0440\u043E\u0432\u0430\u0442\u044C \"polirovat\""
+  Doycisa:
+  - - Politur
+    - polieren
+  Indonesisa:
+  - - poles
+  Pilipinasa:
+  - - buli
+  Hindisa:
+  - - "\u092A\u0949\u0932\u093F\u0936 \"polix\""
+  Parsisa:
+  - - "\u067E\u0648\u0644\u06CC\u0634 \"polix\""
+raw data:
+  term: polixo
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: polish, shine, wax, buff, furbish, burnish
+    epo: "polura\u0135o; poluri"
+    spa: pulir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (polish), Espanisa (pulidor, pulir), Fransesa (polir), Rusisa
+    (\u043F\u043E\u043B\u0438\u0440\u043E\u0432\u0430\u0442\u044C \"polirovat\"),
+    Doycisa (Politur, polieren), Indonesisa (poles), Pilipinasa (buli), Hindisa (\u092A\u0949\u0932\u093F\u0936
+    \"polix\"), Parsisa (\u067E\u0648\u0644\u06CC\u0634 \"polix\")"
+...

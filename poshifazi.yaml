@@ -1,0 +1,58 @@
+---
+term: poshifazi
+slug: poshifazi
+ipa: "posxi\u02C8fazi"
+ipa link: "http://ipa-reader.xyz/?text=posxi\u02C8fazi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - waste
+    - get rid of
+  epo:
+  - - malkonservo
+    - forigo
+  - - malkonservi
+    - forigi
+  spa:
+  - - deshacerse de
+    - tirar
+    - desechar
+search terms:
+  glb:
+  - poshifazi
+  eng:
+  - waste
+  - get rid of
+  epo:
+  - malkonservo
+  - forigo
+  - malkonservi
+  - forigi
+  spa:
+  - deshacerse de
+  - tirar
+  - desechar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/hifazi">hifazi</a>
+raw data:
+  term: poshifazi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: waste, get rid of
+    epo: malkonservo, forigo; malkonservi, forigi
+    spa: deshacerse de, tirar, desechar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + hifazi
+...

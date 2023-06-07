@@ -1,0 +1,48 @@
+---
+term: poemayen
+slug: poemayen
+ipa: "poema\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=poema\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - poet
+  epo:
+  - - poeto
+  spa:
+  - - poeta
+    - poetisa
+search terms:
+  glb:
+  - poemayen
+  eng:
+  - poet
+  epo:
+  - poeto
+  spa:
+  - poeta
+  - poetisa
+etymology_type: DERIVD
+etymology: <a href="../lexi/poema">poema</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: poemayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: poet
+    epo: poeto
+    spa: poeta, poetisa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: poema + -yen
+...

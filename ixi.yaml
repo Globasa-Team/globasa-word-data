@@ -1,0 +1,58 @@
+---
+term: ixi
+slug: ixi
+ipa: "\u02C8i\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8i\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - consciousness
+    - awareness
+  - - be aware of
+    - be conscious of
+  epo:
+  - - konscio
+  - - konscii (pri)
+  spa:
+  - - conciencia
+  - - estar conciente de
+search terms:
+  glb:
+  - ixi
+  eng:
+  - consciousness
+  - awareness
+  - be aware of
+  - be conscious of
+  epo:
+  - konscio
+  - konscii pri
+  - konscii
+  spa:
+  - conciencia
+  - estar conciente de
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ixi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: consciousness, awareness; be aware of, be conscious of
+    epo: konscio; konscii (pri)
+    spa: conciencia; estar conciente de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u610F\u8BC6 \u201Cy\xECsh\xED\u201D), Niponsa (\u610F\u8B58
+    \u201Cishiki\u201D), Hangusa (\uC758\uC2DD \u201Cuisig\u201D; \uC778\uC2DD \u201Cinsig\u201D)"
+...

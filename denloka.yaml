@@ -1,0 +1,46 @@
+---
+term: denloka
+slug: denloka
+ipa: "den\u02C8loka"
+ipa link: "http://ipa-reader.xyz/?text=den\u02C8loka&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - there
+  epo:
+  - - tie
+  spa:
+  - - "all\xED"
+search terms:
+  glb:
+  - denloka
+  eng:
+  - there
+  epo:
+  - tie
+  spa:
+  - "all\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/den">den</a> + <a href="../lexi/loka">loka</a>
+raw data:
+  term: denloka
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: there
+    epo: tie
+    spa: "all\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: den + loka
+...

@@ -1,0 +1,46 @@
+---
+term: semiisula
+slug: semiisula
+ipa: "semii\u02C8sula"
+ipa link: "http://ipa-reader.xyz/?text=semii\u02C8sula&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - peninsula
+  epo:
+  - - duoninsulo
+  spa:
+  - - "pen\xEDnsula"
+search terms:
+  glb:
+  - semiisula
+  eng:
+  - peninsula
+  epo:
+  - duoninsulo
+  spa:
+  - "pen\xEDnsula"
+etymology_type: DERIVD
+etymology: <a href="../lexi/semi">semi</a> + <a href="../lexi/isula">isula</a>
+raw data:
+  term: semiisula
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: peninsula
+    epo: duoninsulo
+    spa: "pen\xEDnsula"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: semi + isula
+...

@@ -1,0 +1,53 @@
+---
+term: du-
+slug: du-
+ipa: "\u02C8du-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8du-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - _continuous (aspect)
+    - habitual (aspect)
+    - gerund_
+  epo:
+  - - "_da\u016Dra a\u016D kutima aspekto_"
+  - - -ado
+  spa:
+  - - _aspecto continuo/habitual
+    - gerundio_
+search terms:
+  glb:
+  - du-
+  eng:
+  - habitual aspect
+  - habitual
+  - gerund
+  epo:
+  - "da\u016Dra a\u016D kutima aspekto"
+  - -ado
+  spa:
+  - gerundio
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/dure">dure</a>.
+raw data:
+  term: du-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: _continuous (aspect), habitual (aspect), gerund_
+    epo: "_da\u016Dra a\u016D kutima aspekto_; -ado"
+    spa: _aspecto continuo/habitual, gerundio_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _dure_.
+...

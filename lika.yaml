@@ -1,0 +1,53 @@
+---
+term: lika
+slug: lika
+ipa: "\u02C8lika"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lika&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - lick
+  epo:
+  - - leko
+  - - leki
+  spa:
+  - - lamida
+  - - lamer
+search terms:
+  glb:
+  - lika
+  eng:
+  - lick
+  epo:
+  - leko
+  - leki
+  spa:
+  - lamida
+  - lamer
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lika
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: lick
+    epo: leko; leki
+    spa: lamida; lamer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0644\u0639\u0642 \u201Claeq\u201D), Englisa (lick), Fransesa
+    (l\xE9cher), Italisa (leccata, leccare), Doycisa (lecken), Rusisa (\u043B\u0438\u0437\u0430\u0442\u044C
+    \u201Clizat\u201D), Parsisa (\u0644\u06CC\u0633 \u201Clis\u201D), Ivrisa (\u05DC\u05B4\u05E7\u05B5\u05BC\u05E7
+    \u201Clikek\u201D)"
+...

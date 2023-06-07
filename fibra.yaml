@@ -1,0 +1,65 @@
+---
+term: fibra
+slug: fibra
+ipa: ˈfibɾa
+ipa link: http://ipa-reader.xyz/?text=ˈfibɾa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (dietary) fiber
+  epo:
+  - - (dieta) fibro
+  spa:
+  - - fibra (_alimenticio_)
+search terms:
+  glb:
+  - fibra
+  eng:
+  - dietary fiber
+  - fiber
+  epo:
+  - dieta fibro
+  - fibro
+  spa:
+  - fibra
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fibre
+    - fiber
+  Espanisa:
+  - - fibra
+    - hebra
+  Fransesa:
+  - - fibre
+  Rusisa:
+  - - фибра “fibra”
+  Niponsa:
+  - - ファイバー “fayba”
+  Parsisa:
+  - - فیبر‎ “fibr”
+  Pilipinasa:
+  - - hibla
+raw data:
+  term: fibra
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (dietary) fiber
+    epo: (dieta) fibro
+    spa: fibra (_alimenticio_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (fibre, fiber), Espanisa (fibra, hebra), Fransesa (fibre), Rusisa
+    (фибра “fibra”), Niponsa (ファイバー “fayba”), Parsisa (فیبر‎ “fibr”), Pilipinasa (hibla)
+...

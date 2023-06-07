@@ -1,0 +1,61 @@
+---
+term: baru
+slug: baru
+ipa: ˈbaɾu
+ipa link: http://ipa-reader.xyz/?text=ˈbaɾu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bear
+    - _Ursidae_
+  epo:
+  - - urso
+  spa:
+  - - oso
+    - _Ursidae_
+search terms:
+  glb:
+  - baru
+  eng:
+  - bear
+  - ursidae
+  epo:
+  - urso
+  spa:
+  - oso
+  - ursidae
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - भालू “bhalu”
+  Indonesisa:
+  - - beruang
+  Englisa:
+  - - bear
+  Doycisa:
+  - - Bär
+tags:
+- hewan
+raw data:
+  term: baru
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bear, _Ursidae_
+    epo: urso
+    spa: oso, _Ursidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Hindisa (भालू “bhalu”), Indonesisa (beruang), Englisa (bear), Doycisa
+    (Bär)
+...

@@ -1,0 +1,63 @@
+---
+term: ansya
+slug: ansya
+ipa: ˈansja
+ipa link: http://ipa-reader.xyz/?text=ˈansja&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - anxiety
+    - worry
+  epo:
+  - - anksio
+  spa:
+  - - ansiedad
+    - ansia
+    - preocupación
+search terms:
+  glb:
+  - ansya
+  eng:
+  - anxiety
+  - worry
+  epo:
+  - anksio
+  spa:
+  - ansiedad
+  - ansia
+  - preocupación
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - anxiety
+  Fransesa: ~
+  Doycisa:
+  - - ängst
+  Espanisa:
+  - - ansia
+    - ansiedad
+  Turkisa:
+  - - anksyete
+raw data:
+  term: ansya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: anxiety, worry
+    epo: anksio
+    spa: ansiedad, ansia, preocupación
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (anxiety), Fransesa, Doycisa (ängst), Espanisa (ansia, ansiedad),
+    Turkisa (anksyete)
+...

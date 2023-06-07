@@ -1,0 +1,49 @@
+---
+term: cokolateli
+slug: cokolateli
+ipa: "t\u0361\u0283okola\u02C8teli"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283okola\u02C8teli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - (of) chocolate
+  epo:
+  - - "\u0109okolada"
+  - - "\u0109okolade"
+  spa:
+  - - de chocolate
+search terms:
+  glb:
+  - cokolateli
+  eng:
+  - of chocolate
+  - chocolate
+  epo:
+  - "\u0109okolada"
+  - "\u0109okolade"
+  spa:
+  - de chocolate
+etymology_type: DERIVD
+etymology: <a href="../lexi/cokolate">cokolate</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: cokolateli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: (of) chocolate
+    epo: "\u0109okolada; \u0109okolade"
+    spa: de chocolate
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cokolate + -li
+...

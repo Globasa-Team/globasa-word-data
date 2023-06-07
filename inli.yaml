@@ -1,0 +1,50 @@
+---
+term: inli
+slug: inli
+ipa: "\u02C8inli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8inli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - interior
+    - internal
+  epo:
+  - - ena
+  - - ene
+  spa:
+  - - interior
+search terms:
+  glb:
+  - inli
+  eng:
+  - interior
+  - internal
+  epo:
+  - ena
+  - ene
+  spa:
+  - interior
+etymology_type: DERIVD
+etymology: <a href="../lexi/in">in</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: inli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: interior, internal
+    epo: ena; ene
+    spa: interior
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in + -li
+...

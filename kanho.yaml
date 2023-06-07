@@ -1,0 +1,53 @@
+---
+term: kanho
+slug: kanho
+ipa: "\u02C8kanxo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kanxo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - nurse
+  epo:
+  - - flego
+  - - flegi
+  spa:
+  - - cuidar
+    - atender
+search terms:
+  glb:
+  - kanho
+  eng:
+  - nurse
+  epo:
+  - flego
+  - flegi
+  spa:
+  - cuidar
+  - atender
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: kanho
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: nurse
+    epo: flego; flegi
+    spa: cuidar, atender
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Putunhwa  (\u770B\u62A4 \u201Ck\u0101nh\xF9\u201D), Hangusa (\uAC04\uD638
+    \u201Cganho-\u201D), Niponsa (\u770B\u8B77 \u201Ckango\u201D)"
+...

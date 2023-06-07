@@ -1,0 +1,46 @@
+---
+term: kamerunli
+slug: kamerunli
+ipa: "kame\u02C8\u027Eunli"
+ipa link: "http://ipa-reader.xyz/?text=kame\u02C8\u027Eunli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Cameroonian
+  epo:
+  - - kameruna
+  spa:
+  - - "camerun\xE9s"
+search terms:
+  glb:
+  - kamerunli
+  eng:
+  - cameroonian
+  epo:
+  - kameruna
+  spa:
+  - "camerun\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kamerun">Kamerun</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Kamerunli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Cameroonian
+    epo: kameruna
+    spa: "camerun\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kamerun + -li
+...

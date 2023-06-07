@@ -1,0 +1,49 @@
+---
+term: kudu
+slug: kudu
+ipa: "\u02C8kudu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kudu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - elbow
+  epo:
+  - - kubuto
+  spa:
+  - - codo
+search terms:
+  glb:
+  - kudu
+  eng:
+  - elbow
+  epo:
+  - kubuto
+  spa:
+  - codo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: kudu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: elbow
+    epo: kubuto
+    spa: codo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Espanisa (codo), Fransesa (coude), Arabisa (\u0643\u064F\u0648\u0639
+    \u201Cku\u201D), Vyetnamsa (khu\u1EF7u)"
+...

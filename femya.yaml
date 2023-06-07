@@ -1,0 +1,46 @@
+---
+term: femya
+slug: femya
+ipa: "\u02C8femja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8femja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - femininity
+  epo:
+  - - ineco
+  spa:
+  - - feminidad
+search terms:
+  glb:
+  - femya
+  eng:
+  - femininity
+  epo:
+  - ineco
+  spa:
+  - feminidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem">fem</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: femya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: femininity
+    epo: ineco
+    spa: feminidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem + -ya
+...

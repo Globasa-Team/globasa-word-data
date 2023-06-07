@@ -1,0 +1,54 @@
+---
+term: daymo
+slug: daymo
+ipa: "\u02C8dajmo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dajmo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - greatly
+    - very
+    - really
+    - highly
+  epo:
+  - - tre
+  spa:
+  - - mucho
+    - muy
+search terms:
+  glb:
+  - daymo
+  eng:
+  - greatly
+  - very
+  - really
+  - highly
+  epo:
+  - tre
+  spa:
+  - mucho
+  - muy
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: daymo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: greatly, very, really, highly
+    epo: tre
+    spa: mucho, muy
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + -mo
+...

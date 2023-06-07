@@ -1,0 +1,57 @@
+---
+term: masulya
+slug: masulya
+ipa: "ma\u02C8sulja"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8sulja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - responsibility
+  - - have the responsibility (to)
+    - be responsible (for)
+  epo:
+  - - responso
+  - - responsi
+  spa:
+  - - responsabilidad
+  - - tener responsabilidad (por)
+search terms:
+  glb:
+  - masulya
+  eng:
+  - responsibility
+  - have the responsibility to
+  - have the responsibility
+  - be responsible for
+  - be responsible
+  epo:
+  - responso
+  - responsi
+  spa:
+  - responsabilidad
+  - tener responsabilidad por
+  - tener responsabilidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/masul">masul</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: masulya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: responsibility; have the responsibility (to), be responsible (for)
+    epo: responso; responsi
+    spa: responsabilidad; tener responsabilidad (por)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: masul + -ya
+...

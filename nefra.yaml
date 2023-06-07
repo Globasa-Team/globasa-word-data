@@ -1,0 +1,65 @@
+---
+term: nefra
+slug: nefra
+ipa: "\u02C8nef\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nef\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - hatred
+    - hate
+  - - hate
+  epo:
+  - - malamo
+  - - malami
+  spa:
+  - - odio
+  - - odiar
+search terms:
+  glb:
+  - nefra
+  eng:
+  - hatred
+  - hate
+  epo:
+  - malamo
+  - malami
+  spa:
+  - odio
+  - odiar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0646\u0641\u0648\u0631 \u201Cnafur\u201D"
+  Hindisa:
+  - - "\u0928\u092B\u093C\u0930\u0924 \u201Cnafrat\u201D"
+  Parsisa:
+  - - "\u0646\u0641\u0631\u062A \u201Cnefrat\u201D"
+  Turkisa:
+  - - nefret
+antonyms:
+- lubi
+raw data:
+  term: nefra
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: hatred, hate; hate
+    epo: malamo; malami
+    spa: odio; odiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: lubi
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0646\u0641\u0648\u0631 \u201Cnafur\u201D), Hindisa (\u0928\u092B\u093C\u0930\u0924
+    \u201Cnafrat\u201D), Parsisa (\u0646\u0641\u0631\u062A \u201Cnefrat\u201D), Turkisa
+    (nefret)"
+...

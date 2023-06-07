@@ -1,0 +1,66 @@
+---
+term: nyatu
+slug: nyatu
+ipa: "\u02C8njatu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8njatu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - intention
+  - - intend
+  epo:
+  - - intenco
+  - - intenci
+  spa:
+  - - "intenci\xF3n"
+  - - "tener la intenci\xF3n de"
+search terms:
+  glb:
+  - nyatu
+  eng:
+  - intention
+  - intend
+  epo:
+  - intenco
+  - intenci
+  spa:
+  - "intenci\xF3n"
+  - "tener la intenci\xF3n de"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0646\u064A\u0629 \u201Cnia\u201D"
+  Hindisa:
+  - - "\u0928\u0940\u092F\u0924 \u201Cniyat\u201D"
+  Indonesisa:
+  - - niat
+  Parsisa:
+  - - "\u0646\u06CC\u062A \u201Cniyat\u201D"
+  Turkisa:
+  - - niyet
+  Swahilisa:
+  - - nia
+raw data:
+  term: nyatu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: intention; intend
+    epo: intenco; intenci
+    spa: "intenci\xF3n; tener la intenci\xF3n de"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0646\u064A\u0629 \u201Cnia\u201D), Hindisa (\u0928\u0940\u092F\u0924
+    \u201Cniyat\u201D), Indonesisa (niat), Parsisa (\u0646\u06CC\u062A \u201Cniyat\u201D),
+    Turkisa (niyet), Swahilisa (nia)"
+...

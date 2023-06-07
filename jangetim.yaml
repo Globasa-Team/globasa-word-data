@@ -1,0 +1,52 @@
+---
+term: jangetim
+slug: jangetim
+ipa: "d\u0361\u0292ange\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292ange\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - military
+    - armed forces
+  epo:
+  - - armeo
+    - armitaj fortoj
+    - soldatoj
+  spa:
+  - - fuerzas armadas
+search terms:
+  glb:
+  - jangetim
+  eng:
+  - military
+  - armed forces
+  epo:
+  - armeo
+  - armitaj fortoj
+  - soldatoj
+  spa:
+  - fuerzas armadas
+etymology_type: DERIVD
+etymology: <a href="../lexi/jange">jange</a> + <a href="../lexi/-tim">-tim</a>
+raw data:
+  term: jangetim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: military, armed forces
+    epo: armeo, armitaj fortoj, soldatoj
+    spa: fuerzas armadas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jange + -tim
+...

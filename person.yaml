@@ -1,0 +1,78 @@
+---
+term: person
+slug: person
+ipa: "pe\u027E\u02C8son"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027E\u02C8son&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - person
+    - individual
+    - character (_in fictional story_)
+  epo:
+  - - persono
+    - individuo
+    - unuopulo
+    - rolulo (_en fikcia rakonto_)
+  spa:
+  - - persona
+    - individuo
+    - personaje
+search terms:
+  glb:
+  - person
+  eng:
+  - person
+  - individual
+  - character
+  epo:
+  - persono
+  - individuo
+  - unuopulo
+  - rolulo
+  spa:
+  - persona
+  - individuo
+  - personaje
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - person
+  Fransesa:
+  - - personne
+  Doycisa:
+  - - Person
+    - "pers\xF6nlich - personal"
+  Rusisa:
+  - - "\u043F\u0435\u0440\u0441\u043E\u043D\u0430 \u201Cpersona\u201D"
+    - "\u043F\u0435\u0440\u0441\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u201Cpersonalny\u201D
+      - personal"
+  Espanisa:
+  - - _persona_
+  Pilipinasa:
+  - - personal - personal
+raw data:
+  term: person
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: person, individual, character (_in fictional story_)
+    epo: persono, individuo, unuopulo, rolulo (_en fikcia rakonto_)
+    spa: persona, individuo, personaje
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (person), Fransesa (personne), Doycisa (Person, pers\xF6nlich
+    - personal), Rusisa (\u043F\u0435\u0440\u0441\u043E\u043D\u0430 \u201Cpersona\u201D,
+    \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u201Cpersonalny\u201D
+    - personal), Espanisa (_persona_), Pilipinasa (personal - personal)"
+...

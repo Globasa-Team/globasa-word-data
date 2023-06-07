@@ -1,0 +1,58 @@
+---
+term: koala
+slug: koala
+ipa: "ko\u02C8ala"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8ala&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - koala
+    - _Phascolarctidae_
+  epo:
+  - - koalo
+  spa:
+  - - koala
+    - _Phascolarctidae_
+search terms:
+  glb:
+  - koala
+  eng:
+  - koala
+  - phascolarctidae
+  epo:
+  - koalo
+  spa:
+  - koala
+  - phascolarctidae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: koala
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: koala, _Phascolarctidae_
+    epo: koalo
+    spa: koala, _Phascolarctidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (koala), Espanisa, Fransesa, Doycisa, Indonesisa, Turkisa, Vyetnamsa,
+    Swahilisa, Rusisa (\u043A\u043E\u0430\u043B\u0430 \u201Ckoala\u201D), Pilipinasa
+    (kowala), Putunhwa (\u8003\u62C9 \u201Ckawla\u201D), Hindisa (\u0915\u094B\u0905\u0932\u093E
+    \u201Ckoala\u201D), Arabisa (\u0643\u064F\u0648\u064E\u0627\u0644\u064E\u0627
+    \u201Ckuwala\u201D), Niponsa (\u30B3\u30A2\u30E9 \u201Ckoara\u201D), Telugusa
+    (\u0C15\u0C4B\u0C32\u0C3E \u201Ckola\u201D), Hangusa (\uCF54\uC54C\uB77C \u201Ckoala\u201D),
+    Parsisa (\u06A9\u0648\u0622\u0644\u0627 \u201Ckoala\u201D)"
+...

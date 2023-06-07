@@ -1,0 +1,76 @@
+---
+term: general
+slug: general
+ipa: geneˈɾal
+ipa link: http://ipa-reader.xyz/?text=geneˈɾal&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - general (officer)
+  epo:
+  - - generalo
+  spa:
+  - - general (_oficial_)
+search terms:
+  glb:
+  - general
+  eng:
+  - general officer
+  - general
+  epo:
+  - generalo
+  spa:
+  - general
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - general
+  Espanisa:
+  - - general
+  Fransesa:
+  - - général
+  Rusisa:
+  - - генерал
+  Doycisa:
+  - - General
+  Indonesisa:
+  - - jenderal
+  Pilipinasa:
+  - - heneral
+  Hindisa:
+  - - जनरल "janral"
+  Arabisa:
+  - - جِنِرال "jiniral"
+  Turkisa:
+  - - general
+  Parsisa:
+  - - ژنرال "jeneral"
+  Swahilisa:
+  - - jenerali
+tags:
+- insan
+raw data:
+  term: general
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: general (officer)
+    epo: generalo
+    spa: general (_oficial_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: Englisa (general), Espanisa (general), Fransesa (général), Rusisa (генерал),
+    Doycisa (General), Indonesisa (jenderal), Pilipinasa (heneral), Hindisa (जनरल
+    "janral"), Arabisa (جِنِرال "jiniral"), Turkisa (general), Parsisa (ژنرال "jeneral"),
+    Swahilisa (jenerali)
+...

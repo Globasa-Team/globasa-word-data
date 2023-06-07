@@ -1,0 +1,67 @@
+---
+term: katalisi
+slug: katalisi
+ipa: "kata\u02C8lisi"
+ipa link: "http://ipa-reader.xyz/?text=kata\u02C8lisi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - catalysis
+  - - catalyze
+    - catalyse
+  epo:
+  - - katalizo
+  - - katalizi
+  spa:
+  - - "cat\xE1lisis"
+  deu:
+  - - Katalyse
+  fra:
+  - - catalyse
+  rus:
+  - - "\u043A\u0430\u0442\u0430\u043B\u0438\u0437"
+search terms:
+  glb:
+  - katalisi
+  eng:
+  - catalysis
+  - catalyze
+  - catalyse
+  epo:
+  - katalizo
+  - katalizi
+  spa:
+  - "cat\xE1lisis"
+  deu:
+  - katalyse
+  fra:
+  - catalyse
+  rus:
+  - "\u043A\u0430\u0442\u0430\u043B\u0438\u0437"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: katalisi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: catalysis; catalyze, catalyse
+    epo: katalizo; katalizi
+    spa: "cat\xE1lisis"
+    deu: Katalyse
+    fra: catalyse
+    rus: "\u043A\u0430\u0442\u0430\u043B\u0438\u0437"
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (catalyse, catalysis), Espanisa (cat\xE1lisis), Fransesa (catalyse),
+    Rusisa (\u043A\u0430\u0442\u0430\u043B\u0438\u0437 \u201Ckataliz\u201D), Doycisa
+    (Katalyse), Indinesisa (katalis), Pilipinasa (katalisis), Turkisa (kataliz), Parsisa
+    (\u06A9\u0627\u062A\u0627\u0644\u06CC\u0632 \u201Ckataliz\u201D)"
+...

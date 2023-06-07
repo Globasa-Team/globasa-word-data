@@ -1,0 +1,48 @@
+---
+term: panjabi
+slug: panjabi
+ipa: "pan\u02C8d\u0361\u0292abi"
+ipa link: "http://ipa-reader.xyz/?text=pan\u02C8d\u0361\u0292abi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Punjab (_region in South Asia_)
+  epo:
+  - - "Pan\u011Dabio"
+  spa:
+  - - "Panyab (_regi\xF3n del sur de Asia_)"
+search terms:
+  glb:
+  - panjabi
+  eng:
+  - punjab
+  epo:
+  - "pan\u011Dabio"
+  spa:
+  - panyab
+etymology_type: NATLNG
+etymology:
+  Panjabisa:
+  - - "\u0A2A\u0A70\u0A1C\u0A3E\u0A2C \u201Cpanjabi\u201D"
+raw data:
+  term: Panjabi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Punjab (_region in South Asia_)
+    epo: "Pan\u011Dabio"
+    spa: "Panyab (_regi\xF3n del sur de Asia_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Panjabisa (\u0A2A\u0A70\u0A1C\u0A3E\u0A2C \u201Cpanjabi\u201D)"
+...

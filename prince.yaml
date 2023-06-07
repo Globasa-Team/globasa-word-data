@@ -1,0 +1,70 @@
+---
+term: prince
+slug: prince
+ipa: "\u02C8p\u027Eint\u0361\u0283e"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8p\u027Eint\u0361\u0283e&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - prince
+    - princess
+  epo:
+  - - princo
+    - princino
+  spa:
+  - - "pr\xEDncipe"
+    - princesa
+search terms:
+  glb:
+  - prince
+  eng:
+  - prince
+  - princess
+  epo:
+  - princo
+  - princino
+  spa:
+  - "pr\xEDncipe"
+  - princesa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - prince
+  Fransesa:
+  - - prince
+  Doycisa:
+  - - Prinz
+  Rusisa:
+  - - "\u043F\u0440\u0438\u043D\u0446 \u201Cprinc\u201D"
+  Espanisa:
+  - - "pr\xEDncipe"
+  Turkisa:
+  - - prens
+  Pilipinasa:
+  - - prinsipe
+  Italisa:
+  - - principe
+raw data:
+  term: prince
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: prince, princess
+    epo: princo, princino
+    spa: "pr\xEDncipe, princesa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (prince), Fransesa (prince), Doycisa (Prinz), Rusisa (\u043F\u0440\u0438\u043D\u0446
+    \u201Cprinc\u201D), Espanisa (pr\xEDncipe), Turkisa (prens), Pilipinasa (prinsipe),
+    Italisa (principe)"
+...

@@ -1,0 +1,48 @@
+---
+term: dayneo
+slug: dayneo
+ipa: "daj\u02C8neo"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8neo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - brand new
+  epo:
+  - - novega
+  - - novege
+  spa:
+  - - nuevecito
+search terms:
+  glb:
+  - dayneo
+  eng:
+  - brand new
+  epo:
+  - novega
+  - novege
+  spa:
+  - nuevecito
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/neo">neo</a>
+raw data:
+  term: dayneo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: brand new
+    epo: novega; novege
+    spa: nuevecito
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + neo
+...

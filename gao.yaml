@@ -1,0 +1,60 @@
+---
+term: gao
+slug: gao
+ipa: ˈgao
+ipa link: http://ipa-reader.xyz/?text=ˈgao&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - tall
+    - high
+  epo:
+  - - alta
+  - - alte
+  spa:
+  - - alto
+search terms:
+  glb:
+  - gao
+  eng:
+  - tall
+  - high
+  epo:
+  - alta
+  - alte
+  spa:
+  - alto
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 高 “gāo”
+  Vyetnamsa:
+  - - cao
+  Hangusa:
+  - - 고 “go”
+  Niponsa:
+  - - 高 “kō”
+antonyms:
+- cote
+raw data:
+  term: gao
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: tall, high
+    epo: alta; alte
+    spa: alto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: cote
+  example: ""
+  tags: ""
+  etymology: Putunhwa (高 “gāo”), Vyetnamsa (cao), Hangusa (고 “go”), Niponsa (高 “kō”)
+...

@@ -1,0 +1,53 @@
+---
+term: jaru
+slug: jaru
+ipa: "\u02C8d\u0361\u0292a\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292a\u027Eu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - broom
+  - - sweep
+  epo:
+  - - balailo
+  - - balai
+  spa:
+  - - escoba
+  - - barrer
+search terms:
+  glb:
+  - jaru
+  eng:
+  - broom
+  - sweep
+  epo:
+  - balailo
+  - balai
+  spa:
+  - escoba
+  - barrer
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jaru
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: broom; sweep
+    epo: balailo; balai
+    spa: escoba; barrer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Parsisa (\u062C\u0627\u0631\u0648 \u201Cjaru\u201D), Hindisa (\u091D\u093E\u0921\u093C\u0942
+    \u201Cjaru\u201D), Hangusa (\uBE57\uC790\uB8E8 \u201Cbitjaru\u201D)"
+...

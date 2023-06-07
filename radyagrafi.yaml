@@ -1,0 +1,46 @@
+---
+term: radyagrafi
+slug: radyagrafi
+ipa: "\u027Eadja\u02C8g\u027Eafi"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eadja\u02C8g\u027Eafi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - x-ray image
+  epo:
+  - - "radiografa\u0135o"
+  spa:
+  - - "radiograf\xEDa"
+search terms:
+  glb:
+  - radyagrafi
+  eng:
+  - x-ray image
+  epo:
+  - "radiografa\u0135o"
+  spa:
+  - "radiograf\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/radya">radya</a> + <a href="../lexi/-grafi">-grafi</a>
+raw data:
+  term: radyagrafi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: x-ray image
+    epo: "radiografa\u0135o"
+    spa: "radiograf\xEDa "
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: radya + -grafi
+...

@@ -1,0 +1,53 @@
+---
+term: tamil
+slug: tamil
+ipa: "ta\u02C8mil"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8mil&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Tamil Nadu (_state in India_)
+  epo:
+  - - Tamilnado
+    - Tamilujo
+    - Tamilio
+  spa:
+  - - Tamil Nadu (_estado de India_)
+search terms:
+  glb:
+  - tamil
+  eng:
+  - tamil nadu
+  epo:
+  - tamilnado
+  - tamilujo
+  - tamilio
+  spa:
+  - tamil nadu
+etymology_type: NATLNG
+etymology:
+  Tamilsa:
+  - - "\u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0BA8\u0BBE\u0B9F\u0BC1 \u201Ctamil nadu\u201D"
+raw data:
+  term: Tamil
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Tamil Nadu (_state in India_)
+    epo: Tamilnado, Tamilujo, Tamilio
+    spa: Tamil Nadu (_estado de India_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Tamilsa (\u0BA4\u0BAE\u0BBF\u0BB4\u0BCD \u0BA8\u0BBE\u0B9F\u0BC1 \u201Ctamil
+    nadu\u201D)"
+...

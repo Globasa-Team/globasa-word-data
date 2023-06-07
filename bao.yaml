@@ -1,0 +1,52 @@
+---
+term: bao
+slug: bao
+ipa: ˈbao
+ipa link: http://ipa-reader.xyz/?text=ˈbao&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bag
+  epo:
+  - - sako
+  spa:
+  - - bolsa
+search terms:
+  glb:
+  - bao
+  eng:
+  - bag
+  epo:
+  - sako
+  spa:
+  - bolsa
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 包 “bāo”
+  Vyetnamsa:
+  - - bao
+tags:
+- xey
+raw data:
+  term: bao
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bag
+    epo: sako
+    spa: bolsa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: xey
+  etymology: Putunhwa (包 “bāo”), Vyetnamsa (bao)
+...

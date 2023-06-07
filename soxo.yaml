@@ -1,0 +1,51 @@
+---
+term: soxo
+slug: soxo
+ipa: "\u02C8so\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8so\u0283o&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - statue
+  epo:
+  - - statuo
+  spa:
+  - - estatua
+search terms:
+  glb:
+  - soxo
+  eng:
+  - statue
+  epo:
+  - statuo
+  spa:
+  - estatua
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5851\u50CF \u201Cs\xF9xi\xE0ng\u201D"
+  Niponsa:
+  - - "\u5851\u50CF \u201Csoz\u014D\u201D"
+raw data:
+  term: soxo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: statue
+    epo: statuo
+    spa: estatua
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5851\u50CF \u201Cs\xF9xi\xE0ng\u201D), Niponsa (\u5851\u50CF
+    \u201Csoz\u014D\u201D)"
+...

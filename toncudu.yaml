@@ -1,0 +1,54 @@
+---
+term: toncudu
+slug: toncudu
+ipa: "ton\u02C8t\u0361\u0283udu"
+ipa link: "http://ipa-reader.xyz/?text=ton\u02C8t\u0361\u0283udu&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - collection
+  - - collect
+    - gather
+    - pick
+  epo:
+  - - kolekto
+  - - kolekti
+  spa:
+  - - recolectar
+search terms:
+  glb:
+  - toncudu
+  eng:
+  - collection
+  - collect
+  - gather
+  - pick
+  epo:
+  - kolekto
+  - kolekti
+  spa:
+  - recolectar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton-">ton-</a> + <a href="../lexi/cudu">cudu</a>
+raw data:
+  term: toncudu
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: collection; collect, gather, pick
+    epo: kolekto; kolekti
+    spa: recolectar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton- + cudu
+...

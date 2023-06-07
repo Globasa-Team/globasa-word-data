@@ -1,0 +1,48 @@
+---
+term: ikawkal
+slug: ikawkal
+ipa: "ikaw\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=ikaw\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - independent
+  epo:
+  - - sendependa
+  - - sendepende
+  spa:
+  - - independiente
+search terms:
+  glb:
+  - ikawkal
+  eng:
+  - independent
+  epo:
+  - sendependa
+  - sendepende
+  spa:
+  - independiente
+etymology_type: DERIVD
+etymology: <a href="../lexi/ikaw">ikaw</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: ikawkal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: independent
+    epo: sendependa; sendepende
+    spa: independiente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ikaw + -kal
+...

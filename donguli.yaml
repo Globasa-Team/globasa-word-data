@@ -1,0 +1,50 @@
+---
+term: donguli
+slug: donguli
+ipa: "don\u02C8guli"
+ipa link: "http://ipa-reader.xyz/?text=don\u02C8guli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - eastern
+  epo:
+  - - orienta
+  - - oriente
+  spa:
+  - - del este
+    - oriental
+search terms:
+  glb:
+  - donguli
+  eng:
+  - eastern
+  epo:
+  - orienta
+  - oriente
+  spa:
+  - del este
+  - oriental
+etymology_type: DERIVD
+etymology: <a href="../lexi/dongu">dongu</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: donguli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: eastern
+    epo: orienta; oriente
+    spa: del este, oriental
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dongu + -li
+...

@@ -1,0 +1,83 @@
+---
+term: arcivo
+slug: arcivo
+ipa: aɾˈt͡ʃivo
+ipa link: http://ipa-reader.xyz/?text=aɾˈt͡ʃivo&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - archive
+  - - archivize
+  epo:
+  - - arkivo
+    - arĥivo
+  - - arkivi
+    - arĥivi
+  spa:
+  - - archivo
+  - - archivar
+search terms:
+  glb:
+  - arcivo
+  eng:
+  - archive
+  - archivize
+  epo:
+  - arkivo
+  - arĥivo
+  - arkivi
+  - arĥivi
+  spa:
+  - archivo
+  - archivar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - archive
+  Espanisa:
+  - - archivo
+  Fransesa:
+  - - archives
+  Rusisa:
+  - - архив "arhiv"
+  Doycisa:
+  - - Archiv
+  Indonesisa:
+  - - arsip
+  Pilipinasa:
+  - - artsibo
+  Arabisa:
+  - - أَرْشِيف "arxif"
+  Niponsa:
+  - - アーカイブ "akaybu"
+  Turkisa:
+  - - arşiv
+  Hangusa:
+  - - 아카이브 "akaybu"
+  Parsisa:
+  - - آرشیو "arxiv"
+raw data:
+  term: arcivo
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: archive; archivize
+    epo: arkivo, arĥivo; arkivi, arĥivi
+    spa: archivo; archivar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (archive), Espanisa (archivo), Fransesa (archives), Rusisa (архив
+    "arhiv"), Doycisa (Archiv), Indonesisa (arsip), Pilipinasa (artsibo), Arabisa
+    (أَرْشِيف "arxif"), Niponsa (アーカイブ "akaybu"), Turkisa (arşiv), Hangusa (아카이브 "akaybu"),
+    Parsisa (آرشیو "arxiv")
+...

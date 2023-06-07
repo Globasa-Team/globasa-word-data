@@ -1,0 +1,48 @@
+---
+term: cel per
+slug: cel per
+ipa: "t\u0361\u0283el pe\u027E"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283el pe\u027E&voice=Ewa"
+status: false
+category: derived
+word class: p
+trans:
+  eng:
+  - - onto
+  epo:
+  - - sur ___n
+  spa:
+  - - hacia encima de
+search terms:
+  glb:
+  - cel per
+  - cel
+  - per
+  eng:
+  - onto
+  epo:
+  - sur n
+  spa:
+  - hacia encima de
+etymology_type: DERIVD
+etymology: <a href="../lexi/cel">cel</a>, <a href="../lexi/per">per</a>
+raw data:
+  term: cel per
+  category: derived
+  word class: p
+  status: false
+  trans:
+    eng: onto
+    epo: sur ___n
+    spa: hacia encima de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cel, per
+...

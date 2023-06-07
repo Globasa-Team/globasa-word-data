@@ -1,0 +1,73 @@
+---
+term: alkimi
+slug: alkimi
+ipa: alˈkimi
+ipa link: http://ipa-reader.xyz/?text=alˈkimi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - alchemy
+  epo:
+  - - alĥemio
+    - alkemio
+  spa:
+  - - alquimia
+search terms:
+  glb:
+  - alkimi
+  eng:
+  - alchemy
+  epo:
+  - alĥemio
+  - alkemio
+  spa:
+  - alquimia
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Alchemie
+  Englisa:
+  - - alchemy
+  Espanisa:
+  - - alquimia
+  Fransesa:
+  - - alchimie
+  Rusisa:
+  - - алхимия (alhimiya
+  Hindisa:
+  - - कीमिया “kimiya”
+  Arabisa:
+  - - كيمياء “kimiya”
+  Parsisa:
+  - - کیمیا “kimiya”
+  Indonesisa:
+  - - alkimia
+  Pilipinasa:
+  - - alkimiya
+  Turkisa:
+  - - alşimi
+raw data:
+  term: alkimi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: alchemy
+    epo: alĥemio, alkemio
+    spa: alquimia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Alchemie), Englisa (alchemy), Espanisa (alquimia), Fransesa
+    (alchimie), Rusisa (алхимия (alhimiya), Hindisa (कीमिया “kimiya”), Arabisa (كيمياء
+    “kimiya”), Parsisa (کیمیا “kimiya”), Indonesisa (alkimia), Pilipinasa (alkimiya),
+    Turkisa (alşimi)
+...

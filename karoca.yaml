@@ -1,0 +1,80 @@
+---
+term: karoca
+slug: karoca
+ipa: "ka\u02C8\u027Eot\u0361\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8\u027Eot\u0361\u0283a&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - roach
+    - cockroach
+    - _Blattodea_
+  epo:
+  - - blato
+  spa:
+  - - cucaracha
+    - _Blattodea_
+  deu:
+  - - Schabe
+    - "K\xFCchenschabe"
+    - Kakerlake
+  fra:
+  - - cafard
+    - blatte
+  rus:
+  - - "\u0442\u0430\u0440\u0430\u043A\u0430\u043D"
+    - "\u043F\u0440\u0443\u0441\u0430\u043A"
+  zho:
+  - - "\u871A\u880A"
+search terms:
+  glb:
+  - karoca
+  eng:
+  - roach
+  - cockroach
+  - blattodea
+  epo:
+  - blato
+  spa:
+  - cucaracha
+  - blattodea
+  deu:
+  - schabe
+  - "k\xFCchenschabe"
+  - kakerlake
+  fra:
+  - cafard
+  - blatte
+  rus:
+  - "\u0442\u0430\u0440\u0430\u043A\u0430\u043D"
+  - "\u043F\u0440\u0443\u0441\u0430\u043A"
+  zho:
+  - "\u871A\u880A"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+- koncun
+raw data:
+  term: karoca
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: roach, cockroach, _Blattodea_
+    epo: blato
+    spa: cucaracha, _Blattodea_
+    deu: "Schabe, K\xFCchenschabe, Kakerlake"
+    fra: cafard, blatte
+    rus: "\u0442\u0430\u0440\u0430\u043A\u0430\u043D, \u043F\u0440\u0443\u0441\u0430\u043A"
+    zho: "\u871A\u880A"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan, koncun
+  etymology: Englisa (cockroach), Espanisa (cucaracha), Portugalsa (carocha), Indonesisa
+    (kacoa)
+...

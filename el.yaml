@@ -1,0 +1,49 @@
+---
+term: el
+slug: el
+ipa: el
+ipa link: http://ipa-reader.xyz/?text=el&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - direct object marker (_restricted use_)
+  epo:
+  - - markilo de rekta objekto
+    - -n (_limigita uzo_)
+  spa:
+  - - _marcador del objeto directo_ (_uso restringido_)
+search terms:
+  glb:
+  - el
+  eng:
+  - direct object marker
+  epo:
+  - markilo de rekta objekto
+  - -n
+  spa: []
+etymology_type: NATLNG
+etymology:
+  Hangusa:
+  - - 을 “eul”
+raw data:
+  term: el
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: direct object marker (_restricted use_)
+    epo: markilo de rekta objekto, -n (_limigita uzo_)
+    spa: _marcador del objeto directo_ (_uso restringido_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hangusa (을 “eul”)
+...

@@ -1,0 +1,58 @@
+---
+term: ingay
+slug: ingay
+ipa: "in\u02C8gaj"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8gaj&voice=Ewa"
+status: true
+category: root
+word class: t; f.sah
+trans:
+  eng:
+  - - which should
+    - which ought (to)
+  - - should
+    - ought (to)
+  epo:
+  - - kiu devus
+  - - devus
+  spa:
+  - - que debe
+  - - deber
+search terms:
+  glb:
+  - ingay
+  eng:
+  - which should
+  - which ought to
+  - which ought
+  - should
+  - ought to
+  - ought
+  epo:
+  - kiu devus
+  - devus
+  spa:
+  - que debe
+  - deber
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ingay
+  category: root
+  word class: t; f.sah
+  status: true
+  trans:
+    eng: which should, which ought (to); should, ought (to)
+    epo: kiu devus; devus
+    spa: que debe; deber
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5E94\u8BE5 \u201Cy\u012Bngg\u0101i\u201D)"
+...

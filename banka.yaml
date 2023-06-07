@@ -1,0 +1,63 @@
+---
+term: banka
+slug: banka
+ipa: ˈbanka
+ipa link: http://ipa-reader.xyz/?text=ˈbanka&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - jar
+    - can
+    - tin
+  epo:
+  - - ĵaro
+    - bokalo
+    - (lad)skatolo
+  spa:
+  - - frasco
+    - lata
+search terms:
+  glb:
+  - banka
+  eng:
+  - jar
+  - can
+  - tin
+  epo:
+  - ĵaro
+  - bokalo
+  - ladskatolo
+  - skatolo
+  spa:
+  - frasco
+  - lata
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - банка "banka"
+  Pilipinasa:
+  - - banga
+  Parsisa:
+  - - بانکه "banke"
+raw data:
+  term: banka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: jar, can, tin
+    epo: ĵaro, bokalo, (lad)skatolo
+    spa: frasco, lata
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Rusisa (банка "banka"), Pilipinasa (banga), Parsisa (بانکه "banke")
+...

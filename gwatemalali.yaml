@@ -1,0 +1,46 @@
+---
+term: gwatemalali
+slug: gwatemalali
+ipa: "gwatema\u02C8lali"
+ipa link: "http://ipa-reader.xyz/?text=gwatema\u02C8lali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Guatemalan
+  epo:
+  - - gvatemala
+  spa:
+  - - guatemalteco
+search terms:
+  glb:
+  - gwatemalali
+  eng:
+  - guatemalan
+  epo:
+  - gvatemala
+  spa:
+  - guatemalteco
+etymology_type: DERIVD
+etymology: <a href="../lexi/Gwatemala">Gwatemala</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Gwatemalali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Guatemalan
+    epo: gvatemala
+    spa: guatemalteco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Gwatemala + -li
+...

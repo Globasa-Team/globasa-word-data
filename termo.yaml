@@ -1,0 +1,85 @@
+---
+term: termo
+slug: termo
+ipa: "\u02C8te\u027Emo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8te\u027Emo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - heat
+  - - heat
+    - warm (up)
+  epo:
+  - - varmo
+  - - varmi
+    - varmigi
+  spa:
+  - - calor
+  - - calentar
+    - calentarse
+search terms:
+  glb:
+  - termo
+  eng:
+    0: heat
+    2: warm up
+    3: warm
+  epo:
+  - varmo
+  - varmi
+  - varmigi
+  spa:
+  - calor
+  - calentar
+  - calentarse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - thermometer
+  Fransesa:
+  - - "thermom\xE8tre"
+  Doycisa:
+  - - Thermometer
+  Rusisa:
+  - - "\u0442\u0435\u0440\u043C\u043E\u043C\u0435\u0442\u0440 \u201Ctermometr\u201D"
+  Espanisa:
+  - - "term\xF3metro"
+  Hindisa:
+  - - "\u0925\u0930\u094D\u092E\u093E\u092E\u0940\u091F\u0930 \u201Ctarmamitar\u201D"
+  Arabisa:
+  - - "\u062A\u0650\u0631\u0652\u0645\u064F\u0648\u0645\u0650\u062A\u0652\u0631 \u201Ctirmumitr\u201D"
+  Turkisa:
+  - - termometre
+  Indonesisa:
+  - - termometer
+  Pilipinasa:
+  - - termometro
+  Parsisa:
+  - - "\u062A\u0631\u0645\u0627\u0645\u06CC\u062A\u0631 \u201Ctarm\xE2mitar\u201D"
+raw data:
+  term: termo
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: heat; heat, warm (up)
+    epo: varmo; varmi, varmigi
+    spa: calor; calentar, calentarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (thermometer), Fransesa (thermom\xE8tre), Doycisa (Thermometer),
+    Rusisa (\u0442\u0435\u0440\u043C\u043E\u043C\u0435\u0442\u0440 \u201Ctermometr\u201D),
+    Espanisa (term\xF3metro), Hindisa (\u0925\u0930\u094D\u092E\u093E\u092E\u0940\u091F\u0930
+    \u201Ctarmamitar\u201D), Arabisa (\u062A\u0650\u0631\u0652\u0645\u064F\u0648\u0645\u0650\u062A\u0652\u0631
+    \u201Ctirmumitr\u201D), Turkisa (termometre), Indonesisa (termometer), Pilipinasa
+    (termometro), Parsisa (\u062A\u0631\u0645\u0627\u0645\u06CC\u062A\u0631 \u201Ctarm\xE2mitar\u201D)"
+...

@@ -1,0 +1,52 @@
+---
+term: norge
+slug: norge
+ipa: "\u02C8no\u027Ege"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8no\u027Ege&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Norway
+  epo:
+  - - Norvegio
+    - Norvegujo
+  spa:
+  - - Noruega
+search terms:
+  glb:
+  - norge
+  eng:
+  - norway
+  epo:
+  - norvegio
+  - norvegujo
+  spa:
+  - noruega
+etymology_type: NATLNG
+etymology:
+  Norgesa:
+  - - Norge
+tags:
+- dexa
+raw data:
+  term: Norge
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Norway
+    epo: Norvegio, Norvegujo
+    spa: Noruega
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Norgesa (Norge)
+...

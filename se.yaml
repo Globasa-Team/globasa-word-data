@@ -1,0 +1,74 @@
+---
+term: se
+slug: se
+ipa: "\u02C8se"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8se&voice=Ewa"
+status: true
+category: root
+word class: pn
+trans:
+  eng:
+  - - _reflexive pronoun_
+    - myself
+    - yourself
+    - herself
+    - himself
+    - itself
+    - themselves
+    - ourselves
+    - yourselves
+  epo:
+  - - si
+    - sin (sed ne nur por la tria persono)
+  spa:
+  - - se (_pronombre reflexivo_)
+search terms:
+  glb:
+  - se
+  eng:
+  - reflexive pronoun
+  - myself
+  - yourself
+  - herself
+  - himself
+  - itself
+  - themselves
+  - ourselves
+  - yourselves
+  epo:
+  - si
+  - sin sed ne nur por la tria persono
+  - sin
+  spa:
+  - se
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - self
+  Fransesa:
+  - - se
+  Doycisa:
+  - - selbst
+  Espanisa:
+  - - se
+raw data:
+  term: se
+  category: root
+  word class: pn
+  status: true
+  trans:
+    eng: _reflexive pronoun_, myself, yourself, herself, himself, itself, themselves,
+      ourselves, yourselves
+    epo: si, sin (sed ne nur por la tria persono)
+    spa: se (_pronombre reflexivo_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (self), Fransesa (se), Doycisa (selbst), Espanisa (se)
+...

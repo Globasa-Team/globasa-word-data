@@ -1,0 +1,58 @@
+---
+term: pende
+slug: pende
+ipa: "\u02C8pende"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pende&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - hang
+  epo:
+  - - pendo
+  - - pendi
+    - pendigi
+  spa:
+  - - colgar
+    - colgarse
+search terms:
+  glb:
+  - pende
+  eng:
+  - hang
+  epo:
+  - pendo
+  - pendi
+  - pendigi
+  spa:
+  - colgar
+  - colgarse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - suspend
+  Fransesa:
+  - - pendre
+  Espanisa:
+  - - pendiente
+raw data:
+  term: pende
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: hang
+    epo: pendo; pendi, pendigi
+    spa: colgar, colgarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (suspend), Fransesa (pendre), Espanisa (pendiente)
+...

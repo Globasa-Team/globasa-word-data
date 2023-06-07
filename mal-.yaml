@@ -1,0 +1,48 @@
+---
+term: mal-
+slug: mal-
+ipa: "\u02C8mal-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mal-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - wrong
+    - mis-
+  epo:
+  - - mis-
+  spa:
+  - - mal-
+search terms:
+  glb:
+  - mal-
+  eng:
+  - wrong
+  - mis-
+  epo:
+  - mis-
+  spa:
+  - mal-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/mal">mal</a>.
+raw data:
+  term: mal-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: wrong, mis-
+    epo: mis-
+    spa: mal-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _mal_.
+...

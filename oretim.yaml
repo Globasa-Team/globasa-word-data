@@ -1,0 +1,48 @@
+---
+term: oretim
+slug: oretim
+ipa: "o\u027Ee\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=o\u027Ee\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - audience
+  epo:
+  - - "a\u016Ddantaro"
+    - "a\u016Ddienco"
+  spa:
+  - - audiencia
+search terms:
+  glb:
+  - oretim
+  eng:
+  - audience
+  epo:
+  - "a\u016Ddantaro"
+  - "a\u016Ddienco"
+  spa:
+  - audiencia
+etymology_type: DERIVD
+etymology: <a href="../lexi/ore">ore</a> + <a href="../lexi/-tim">-tim</a>
+raw data:
+  term: oretim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: audience
+    epo: "a\u016Ddantaro, a\u016Ddienco"
+    spa: audiencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ore + -tim
+...

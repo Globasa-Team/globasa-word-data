@@ -1,0 +1,51 @@
+---
+term: xamxir
+slug: xamxir
+ipa: "\u0283am\u02C8\u0283i\u027E"
+ipa link: "http://ipa-reader.xyz/?text=\u0283am\u02C8\u0283i\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sword
+  epo:
+  - - glavo
+  spa:
+  - - espada
+search terms:
+  glb:
+  - xamxir
+  eng:
+  - sword
+  epo:
+  - glavo
+  spa:
+  - espada
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0936\u092E\u0936\u0947\u0930 \u201C\u015Bam\u015Ber\u201D"
+  Parsisa:
+  - - "\u0634\u0645\u0634\u06CC\u0631 \u201C\u0161am\u0161ir\u201D"
+raw data:
+  term: xamxir
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sword
+    epo: glavo
+    spa: espada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0936\u092E\u0936\u0947\u0930 \u201C\u015Bam\u015Ber\u201D),
+    Parsisa (\u0634\u0645\u0634\u06CC\u0631 \u201C\u0161am\u0161ir\u201D)"
+...

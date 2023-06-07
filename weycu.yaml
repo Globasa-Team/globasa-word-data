@@ -1,0 +1,48 @@
+---
+term: weycu
+slug: weycu
+ipa: "\u02C8wejt\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wejt\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - get around
+  epo:
+  - - "\u0109irka\u016Di\u011Dado"
+  - - "\u0109irka\u016Di\u011Di"
+  spa:
+  - - ponerse alrededor
+search terms:
+  glb:
+  - weycu
+  eng:
+  - get around
+  epo:
+  - "\u0109irka\u016Di\u011Dado"
+  - "\u0109irka\u016Di\u011Di"
+  spa:
+  - ponerse alrededor
+etymology_type: DERIVD
+etymology: <a href="../lexi/wey">wey</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: weycu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: get around
+    epo: "\u0109irka\u016Di\u011Dado; \u0109irka\u016Di\u011Di"
+    spa: ponerse alrededor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wey + -cu
+...

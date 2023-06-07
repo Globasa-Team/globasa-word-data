@@ -1,0 +1,49 @@
+---
+term: makedonisa
+slug: makedonisa
+ipa: "makedo\u02C8nisa"
+ipa link: "http://ipa-reader.xyz/?text=makedo\u02C8nisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Macedonian (language)
+  epo:
+  - - la makedona lingvo
+  spa:
+  - - macedonio (_idioma_)
+search terms:
+  glb:
+  - makedonisa
+  eng:
+  - macedonian language
+  - macedonian
+  epo:
+  - la makedona lingvo
+  spa:
+  - macedonio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Makedoni">Makedoni</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Makedonisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Macedonian (language)
+    epo: la makedona lingvo
+    spa: macedonio (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Makedoni + -sa
+...

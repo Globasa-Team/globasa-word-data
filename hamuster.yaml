@@ -1,0 +1,58 @@
+---
+term: hamuster
+slug: hamuster
+ipa: "xamus\u02C8te\u027E"
+ipa link: "http://ipa-reader.xyz/?text=xamus\u02C8te\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hamster
+    - _Cricetinae_
+  epo:
+  - - hamstro
+  spa:
+  - - "h\xE1mster"
+    - _Cricetinae_
+search terms:
+  glb:
+  - hamuster
+  eng:
+  - hamster
+  - cricetinae
+  epo:
+  - hamstro
+  spa:
+  - "h\xE1mster"
+  - cricetinae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: hamuster
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hamster, _Cricetinae_
+    epo: hamstro
+    spa: "h\xE1mster, _Cricetinae_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (hamster), Fransesa (hamster), Doycisa (Hamster), Espanisa (h\xE1mster),
+    Indonesisa (hamster), Pilipinasa (hamster), Niponsa (\u30CF\u30E0\u30B9\u30BF\u30FC
+    \u201Chamusut\u0101\u201D), Hangusa (\uD584\uC2A4\uD130 \u201Chaemseuteo\u201D),
+    Vyetnamsa (chu\u1ED9t hamster), Hindisa (\u0939\u0948\u092E\u094D\u0938\u094D\u091F\u0930
+    \u201Chaims\u1E6Dar\u201D), Arabisa (\u0647\u0627\u0645\u0633\u062A\u0631 \u201Ch\u0101mistar\u201D),
+    Swahilisa (hamster), Parsisa (\u0647\u0645\u0633\u062A\u0631 \u201Chamistar\u201D),
+    Turkisa (hamster)"
+...

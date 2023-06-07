@@ -1,0 +1,76 @@
+---
+term: grafiti
+slug: grafiti
+ipa: gɾaˈfiti
+ipa link: http://ipa-reader.xyz/?text=gɾaˈfiti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - grafitti
+  epo:
+  - - grafitio
+    - murskribaĵo
+  spa:
+  - - grafiti
+    - pintadas
+search terms:
+  glb:
+  - grafiti
+  eng:
+  - grafitti
+  epo:
+  - grafitio
+  - murskribaĵo
+  spa:
+  - grafiti
+  - pintadas
+etymology_type: NATLNG
+etymology:
+  Italisa:
+  - - graffiti
+  Englisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Pilipinasa: ~
+  Vyetnamsa: ~
+  Espanisa:
+  - - grafiti
+  Indonesisa: ~
+  Turkisa: ~
+  Hindisa:
+  - - ग्रफ़ीटी “grafiti”
+  Arabisa:
+  - - جرافيتي
+  Niponsa:
+  - - グラフィティ “gurafiti”
+  Telugusa:
+  - - గ్రాఫిటీ “grafiti”
+  Hangusa:
+  - - 그라피토 “gurapito”
+  Parsisa:
+  - - گرافیتی
+raw data:
+  term: grafiti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: grafitti
+    epo: grafitio, murskribaĵo
+    spa: grafiti, pintadas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Italisa (graffiti), Englisa, Fransesa, Doycisa, Pilipinasa, Vyetnamsa,
+    Espanisa (grafiti), Indonesisa, Turkisa, Hindisa (ग्रफ़ीटी “grafiti”), Arabisa
+    (جرافيتي), Niponsa (グラフィティ “gurafiti”), Telugusa (గ్రాఫిటీ “grafiti”), Hangusa
+    (그라피토 “gurapito”), Parsisa (گرافیتی)
+...

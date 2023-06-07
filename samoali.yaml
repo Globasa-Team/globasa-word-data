@@ -1,0 +1,46 @@
+---
+term: samoali
+slug: samoali
+ipa: "samo\u02C8ali"
+ipa link: "http://ipa-reader.xyz/?text=samo\u02C8ali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Samoan
+  epo:
+  - - samoa
+  spa:
+  - - samoano
+search terms:
+  glb:
+  - samoali
+  eng:
+  - samoan
+  epo:
+  - samoa
+  spa:
+  - samoano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Samoa">Samoa</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Samoali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Samoan
+    epo: samoa
+    spa: samoano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Samoa + -li
+...

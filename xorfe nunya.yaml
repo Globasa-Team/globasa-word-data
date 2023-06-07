@@ -1,0 +1,44 @@
+---
+term: xorfe nunya
+slug: xorfe nunya
+ipa: "\u02C8\u0283o\u027Efe \u02C8nunja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283o\u027Efe \u02C8nunja&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - from now on
+  spa:
+  - - de ahora en adelante
+search terms:
+  glb:
+  - xorfe nunya
+  - xorfe
+  - nunya
+  eng:
+  - from now on
+  spa:
+  - de ahora en adelante
+etymology_type: DERIVD
+etymology: <a href="../lexi/xorfe">xorfe</a> + <a href="../lexi/nunya">nunya</a>
+raw data:
+  term: xorfe nunya
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: from now on
+    epo: ""
+    spa: de ahora en adelante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xorfe + nunya
+...

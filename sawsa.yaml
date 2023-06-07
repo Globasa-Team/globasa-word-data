@@ -1,0 +1,87 @@
+---
+term: sawsa
+slug: sawsa
+ipa: "\u02C8sawsa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sawsa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sauce
+    - salsa
+  epo:
+  - - "sa\u016Dco"
+  spa:
+  - - salsa
+search terms:
+  glb:
+  - sawsa
+  eng:
+  - sauce
+  - salsa
+  epo:
+  - "sa\u016Dco"
+  spa:
+  - salsa
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - "So\xDFe"
+    - Sauce
+  Englisa:
+  - - sauce
+  Espanisa:
+  - - salsa
+  Fransesa:
+  - - sauce
+  Rusisa:
+  - - "\u0441\u043E\u0443\u0441 \u201Csous\u201D"
+  Niponsa:
+  - - "\u30BD\u30FC\u30B9 \u201Cs\u014Dsu\u201D"
+  Hangusa:
+  - - "\uC18C\uC2A4 \u201Csoseu\u201D"
+  Hindisa:
+  - - "\u0938\u0949\u0938 \u201Cs\u014Fs\u201D"
+  Arabisa:
+  - - "\u0635\u0644\u0635\u0629 \u201Csalsa\u201D"
+  Indonesisa:
+  - - saus
+  Parsisa:
+  - - "\u0633\u0633 \u201Csos\u201D"
+  Pilipinasa:
+  - - sarsa
+    - sawsawan
+  Putunhwa:
+  - - "\u6C99\u53F8 \u201Csh\u0101s\u012B\u201D"
+  Turkisa:
+  - - sos
+    - "sal\xE7a"
+  Vyetnamsa:
+  - - "x\u1ED1t"
+raw data:
+  term: sawsa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sauce, salsa
+    epo: "sa\u016Dco"
+    spa: salsa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (So\xDFe, Sauce), Englisa (sauce), Espanisa (salsa), Fransesa
+    (sauce), Rusisa (\u0441\u043E\u0443\u0441 \u201Csous\u201D), Niponsa (\u30BD\u30FC\u30B9
+    \u201Cs\u014Dsu\u201D), Hangusa (\uC18C\uC2A4 \u201Csoseu\u201D), Hindisa (\u0938\u0949\u0938
+    \u201Cs\u014Fs\u201D), Arabisa (\u0635\u0644\u0635\u0629 \u201Csalsa\u201D), Indonesisa
+    (saus), Parsisa (\u0633\u0633 \u201Csos\u201D), Pilipinasa (sarsa, sawsawan),
+    Putunhwa (\u6C99\u53F8 \u201Csh\u0101s\u012B\u201D), Turkisa (sos, sal\xE7a),
+    Vyetnamsa (x\u1ED1t)"
+...

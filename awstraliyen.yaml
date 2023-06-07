@@ -1,0 +1,46 @@
+---
+term: awstraliyen
+slug: awstraliyen
+ipa: "awst\u027Eali\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=awst\u027Eali\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Australian
+  epo:
+  - - "a\u016Dstraliano"
+  spa:
+  - - australiano (_persona_)
+search terms:
+  glb:
+  - awstraliyen
+  eng:
+  - australian
+  epo:
+  - "a\u016Dstraliano"
+  spa:
+  - australiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Awstrali">Awstrali</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Awstraliyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Australian
+    epo: "a\u016Dstraliano"
+    spa: australiano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Awstrali + -yen
+...

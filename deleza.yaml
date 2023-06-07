@@ -1,0 +1,62 @@
+---
+term: deleza
+slug: deleza
+ipa: deˈleza
+ipa link: http://ipa-reader.xyz/?text=deˈleza&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - slide
+    - glide
+    - slip
+  epo:
+  - - glito
+  - - gliti
+  spa:
+  - - deslizamiento
+  - - deslizar
+    - deslizarse
+    - resbalarse
+search terms:
+  glb:
+  - deleza
+  eng:
+  - slide
+  - glide
+  - slip
+  epo:
+  - glito
+  - gliti
+  spa:
+  - deslizamiento
+  - deslizar
+  - deslizarse
+  - resbalarse
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - deslizar
+  Swahilisa:
+  - - -teleza
+raw data:
+  term: deleza
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: slide, glide, slip
+    epo: glito; gliti
+    spa: deslizamiento; deslizar, deslizarse, resbalarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (deslizar), Swahilisa (-teleza)
+...

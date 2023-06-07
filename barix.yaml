@@ -1,0 +1,57 @@
+---
+term: barix
+slug: barix
+ipa: baˈɾiʃ
+ipa link: http://ipa-reader.xyz/?text=baˈɾiʃ&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - rain
+  epo:
+  - - pluvo
+  - - pluvi
+  spa:
+  - - lluvia
+  - - llover
+search terms:
+  glb:
+  - barix
+  eng:
+  - rain
+  epo:
+  - pluvo
+  - pluvi
+  spa:
+  - lluvia
+  - llover
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - बारिश “barish”
+  Parsisa:
+  - - بارش “bâreš
+    - bâriš”
+tags:
+- natura
+raw data:
+  term: barix
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: rain
+    epo: pluvo; pluvi
+    spa: lluvia; llover
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: natura
+  etymology: Hindisa (बारिश “barish”), Parsisa (بارش “bâreš, bâriš”)
+...

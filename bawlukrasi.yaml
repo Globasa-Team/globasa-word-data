@@ -1,0 +1,48 @@
+---
+term: bawlukrasi
+slug: bawlukrasi
+ipa: "bawlu\u02C8k\u027Easi"
+ipa link: "http://ipa-reader.xyz/?text=bawlu\u02C8k\u027Easi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - tyranny
+  epo:
+  - - tiraneco
+  spa:
+  - - "tiran\xEDa"
+search terms:
+  glb:
+  - bawlukrasi
+  eng:
+  - tyranny
+  epo:
+  - tiraneco
+  spa:
+  - "tiran\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bawlu">bawlu</a> + <a href="../lexi/-krasi">-krasi</a>
+tags:
+- politi
+raw data:
+  term: bawlukrasi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: tyranny
+    epo: tiraneco
+    spa: "tiran\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: bawlu + -krasi
+...

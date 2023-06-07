@@ -1,0 +1,55 @@
+---
+term: jingo
+slug: jingo
+ipa: "\u02C8d\u0361\u0292ingo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ingo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - warning
+  - - warn
+  epo:
+  - - averto
+  - - averti
+  spa:
+  - - advertencia
+    - aviso
+  - - advertir
+search terms:
+  glb:
+  - jingo
+  eng:
+  - warning
+  - warn
+  epo:
+  - averto
+  - averti
+  spa:
+  - advertencia
+  - aviso
+  - advertir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jingo
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: warning; warn
+    epo: averto; averti
+    spa: advertencia, aviso; advertir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u8B66\u544A \u201Cj\u01D0ngg\xE0o\u201D), Hangusa (\uACBD\uACE0
+    \u201Cgyeong-go\u201D)"
+...

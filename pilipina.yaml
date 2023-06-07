@@ -1,0 +1,50 @@
+---
+term: pilipina
+slug: pilipina
+ipa: "pili\u02C8pina"
+ipa link: "http://ipa-reader.xyz/?text=pili\u02C8pina&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Philippines
+  epo:
+  - - Filipinoj
+  spa:
+  - - Filipinas
+search terms:
+  glb:
+  - pilipina
+  eng:
+  - philippines
+  epo:
+  - filipinoj
+  spa:
+  - filipinas
+etymology_type: NATLNG
+etymology:
+  Pilipinasa:
+  - - Pilipinas
+tags:
+- dexa
+raw data:
+  term: Pilipina
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Philippines
+    epo: Filipinoj
+    spa: Filipinas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Pilipinasa (Pilipinas)
+...

@@ -1,0 +1,52 @@
+---
+term: haregi
+slug: haregi
+ipa: "xa\u02C8\u027Eegi"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8\u027Eegi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - provide with
+    - cause to have
+    - get
+  epo:
+  - - havigo
+  - - havigi
+  spa:
+  - - proveer
+search terms:
+  glb:
+  - haregi
+  eng:
+  - provide with
+  - cause to have
+  - get
+  epo:
+  - havigo
+  - havigi
+  spa:
+  - proveer
+etymology_type: DERIVD
+etymology: <a href="../lexi/hare">hare</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: haregi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: provide with, cause to have, get
+    epo: havigo; havigi
+    spa: proveer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hare + -gi
+...

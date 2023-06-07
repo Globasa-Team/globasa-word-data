@@ -1,0 +1,82 @@
+---
+term: sabotaje
+slug: sabotaje
+ipa: "sabo\u02C8tad\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=sabo\u02C8tad\u0361\u0292e&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sabotage
+  epo:
+  - - sabotado
+  - - saboti
+  spa:
+  - - sabotaje
+  - - sabotear
+search terms:
+  glb:
+  - sabotaje
+  eng:
+  - sabotage
+  epo:
+  - sabotado
+  - saboti
+  spa:
+  - sabotaje
+  - sabotear
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sabotage
+  Espanisa:
+  - - sabotaje
+  Fransesa:
+  - - sabotage
+  Rusisa:
+  - - "\u0441\u0430\u0431\u043E\u0442\u0430\u0436 \"sabotaj\""
+  Doycisa:
+  - - Sabotage
+  Portugalsa:
+  - - sabotagem
+  Italisa:
+  - - sabotaggio
+  Indonesisa:
+  - - sabotase
+  Pilipinasa:
+  - - sabotahe
+  Niponsa:
+  - - "\u30B5\u30DC\u30BF\u30FC\u30B8\u30E5 \"sabotaju\""
+    - "\u30B5\u30DC\u30BF\u30FC\u30B8 \"sabotaji\""
+  Turkisa:
+  - - sabotaj
+  Hangusa:
+  - - "\uC0AC\uBCF4\uD0C0\uC8FC \"sabotaju\""
+  Parsisa:
+  - - "\u0633\u0627\u0628\u0648\u062A\u0627\u0698 \"sabotaj\""
+raw data:
+  term: sabotaje
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sabotage
+    epo: sabotado; saboti
+    spa: sabotaje; sabotear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (sabotage), Espanisa (sabotaje), Fransesa (sabotage), Rusisa
+    (\u0441\u0430\u0431\u043E\u0442\u0430\u0436 \"sabotaj\"), Doycisa (Sabotage),
+    Portugalsa (sabotagem), Italisa (sabotaggio), Indonesisa (sabotase), Pilipinasa
+    (sabotahe), Niponsa (\u30B5\u30DC\u30BF\u30FC\u30B8\u30E5 \"sabotaju\", \u30B5\u30DC\u30BF\u30FC\u30B8
+    \"sabotaji\"), Turkisa (sabotaj), Hangusa (\uC0AC\uBCF4\uD0C0\uC8FC \"sabotaju\"),
+    Parsisa (\u0633\u0627\u0628\u0648\u062A\u0627\u0698 \"sabotaj\")"
+...

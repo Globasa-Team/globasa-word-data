@@ -1,0 +1,48 @@
+---
+term: tigagon
+slug: tigagon
+ipa: "tiga\u02C8gon"
+ipa link: "http://ipa-reader.xyz/?text=tiga\u02C8gon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - triangle
+  epo:
+  - - triangulo
+    - trilatero
+  spa:
+  - - "tri\xE1ngulo"
+search terms:
+  glb:
+  - tigagon
+  eng:
+  - triangle
+  epo:
+  - triangulo
+  - trilatero
+  spa:
+  - "tri\xE1ngulo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tiga">tiga</a> + <a href="../lexi/gon">gon</a>
+raw data:
+  term: tigagon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: triangle
+    epo: triangulo, trilatero
+    spa: "tri\xE1ngulo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tiga + gon
+...

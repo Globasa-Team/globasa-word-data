@@ -1,0 +1,50 @@
+---
+term: dumbumon
+slug: dumbumon
+ipa: "dumbu\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=dumbu\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - butt cheek
+  epo:
+  - - sidvango
+    - gluteo
+  spa:
+  - - "gl\xFAteo"
+    - nalga
+search terms:
+  glb:
+  - dumbumon
+  eng:
+  - butt cheek
+  epo:
+  - sidvango
+  - gluteo
+  spa:
+  - "gl\xFAteo"
+  - nalga
+etymology_type: DERIVD
+etymology: <a href="../lexi/dumbu">dumbu</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: dumbumon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: butt cheek
+    epo: sidvango, gluteo
+    spa: "gl\xFAteo, nalga"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dumbu + -mon
+...

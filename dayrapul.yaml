@@ -1,0 +1,52 @@
+---
+term: dayrapul
+slug: dayrapul
+ipa: "daj\u027Ea\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=daj\u027Ea\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - circular
+    - round
+  epo:
+  - - cirkla
+  - - cirkle
+  spa:
+  - - circular
+    - redondo
+search terms:
+  glb:
+  - dayrapul
+  eng:
+  - circular
+  - round
+  epo:
+  - cirkla
+  - cirkle
+  spa:
+  - circular
+  - redondo
+etymology_type: DERIVD
+etymology: <a href="../lexi/dayra">dayra</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: dayrapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: circular, round
+    epo: cirkla; cirkle
+    spa: circular, redondo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dayra + -pul
+...

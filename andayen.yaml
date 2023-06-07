@@ -1,0 +1,48 @@
+---
+term: andayen
+slug: andayen
+ipa: "anda\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=anda\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - walker
+  epo:
+  - - "mar\u015Danto"
+  spa:
+  - - "transe\xFAnte"
+    - "peat\xF3n"
+search terms:
+  glb:
+  - andayen
+  eng:
+  - walker
+  epo:
+  - "mar\u015Danto"
+  spa:
+  - "transe\xFAnte"
+  - "peat\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/anda">anda</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: andayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: walker
+    epo: "mar\u015Danto"
+    spa: "transe\xFAnte, peat\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: anda + -yen
+...

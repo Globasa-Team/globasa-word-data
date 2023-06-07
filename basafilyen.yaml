@@ -1,0 +1,57 @@
+---
+term: basafilyen
+slug: basafilyen
+ipa: "basafi\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=basafi\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - language enthusiast
+    - language lover
+    - linguaphile
+  epo:
+  - - lingvemulo
+    - "lingvo\u015Datanto"
+    - lingvamanto
+  spa:
+  - - entusiasta de los idiomas
+search terms:
+  glb:
+  - basafilyen
+  eng:
+  - language enthusiast
+  - language lover
+  - linguaphile
+  epo:
+  - lingvemulo
+  - "lingvo\u015Datanto"
+  - lingvamanto
+  spa:
+  - entusiasta de los idiomas
+etymology_type: DERIVD
+etymology: <a href="../lexi/basa">basa</a> + <a href="../lexi/-fil">-fil</a> + <a
+  href="../lexi/-yen">-yen</a>
+synonyms:
+- basalubiyen
+raw data:
+  term: basafilyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: language enthusiast, language lover, linguaphile
+    epo: "lingvemulo, lingvo\u015Datanto, lingvamanto"
+    spa: entusiasta de los idiomas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: basalubiyen
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: basa + -fil + -yen
+...

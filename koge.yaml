@@ -1,0 +1,49 @@
+---
+term: koge
+slug: koge
+ipa: "\u02C8koge"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8koge&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - palate
+  epo:
+  - - palato
+  spa:
+  - - paladar
+search terms:
+  glb:
+  - koge
+  eng:
+  - palate
+  epo:
+  - palato
+  spa:
+  - paladar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: koge
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: palate
+    epo: palato
+    spa: paladar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa (\u4E0A\u989A \"xange\", \u53E3\u76D6 \"kowgay\"), Niponsa
+    (\u53E3\u84CB \"kogay\"), Hangusa (\uAD6C\uAC1C \"guge\"), Swahilisa (kaakaa)"
+...

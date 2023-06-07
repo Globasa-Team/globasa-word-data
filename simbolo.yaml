@@ -1,0 +1,65 @@
+---
+term: simbolo
+slug: simbolo
+ipa: "sim\u02C8bolo"
+ipa link: "http://ipa-reader.xyz/?text=sim\u02C8bolo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - symbol
+  epo:
+  - - simbolo
+  spa:
+  - - "s\xEDmbolo"
+search terms:
+  glb:
+  - simbolo
+  eng:
+  - symbol
+  epo:
+  - simbolo
+  spa:
+  - "s\xEDmbolo"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - symbol
+  Doycisa: ~
+  Espanisa:
+  - - "s\xEDmbolo"
+  Fransesa:
+  - - symbole
+  Rusisa:
+  - - "\u0441\u0438\u043C\u0432\u043E\u043B \u201Csimvol\u201D"
+  Indonesisa:
+  - - simbol
+  Pilipinasa:
+  - - simbolo
+  Turkisa:
+  - - sembol
+  Parsisa:
+  - - "\u0633\u0645\u0628\u0644 \u201Csambol\u201D"
+raw data:
+  term: simbolo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: symbol
+    epo: simbolo
+    spa: "s\xEDmbolo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (symbol), Doycisa, Espanisa (s\xEDmbolo), Fransesa (symbole),
+    Rusisa (\u0441\u0438\u043C\u0432\u043E\u043B \u201Csimvol\u201D), Indonesisa (simbol),
+    Pilipinasa (simbolo), Turkisa (sembol), Parsisa (\u0633\u0645\u0628\u0644 \u201Csambol\u201D)"
+...

@@ -1,0 +1,46 @@
+---
+term: harya
+slug: harya
+ipa: "\u02C8xa\u027Eja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xa\u027Eja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - be with (_having_)
+  epo:
+  - - esti kun (_havante_)
+  spa:
+  - - teniendo
+search terms:
+  glb:
+  - harya
+  eng:
+  - be with
+  epo:
+  - esti kun
+  spa:
+  - teniendo
+etymology_type: DERIVD
+etymology: <a href="../lexi/har">har</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: harya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: be with (_having_)
+    epo: esti kun (_havante_)
+    spa: teniendo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: har + -ya
+...

@@ -1,0 +1,60 @@
+---
+term: bannumer
+slug: bannumer
+ipa: "bannu\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=bannu\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - some number (of)
+    - a certain number (of)
+    - some
+    - several
+    - various
+    - (a) few
+  epo:
+  - - iu nombro
+  spa:
+  - - "alg\xFAn n\xFAmero (de)"
+search terms:
+  glb:
+  - bannumer
+  eng:
+  - some number of
+  - some number
+  - a certain number of
+  - a certain number
+  - some
+  - several
+  - various
+  - a few
+  - few
+  epo:
+  - iu nombro
+  spa:
+  - "alg\xFAn n\xFAmero de"
+  - "alg\xFAn n\xFAmero"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ban">ban</a> + <a href="../lexi/numer">numer</a>
+raw data:
+  term: bannumer
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: some number (of), a certain number (of), some, several, various, (a) few
+    epo: iu nombro
+    spa: "alg\xFAn n\xFAmero (de)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ban + numer
+...

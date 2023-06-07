@@ -1,0 +1,48 @@
+---
+term: awfley
+slug: awfley
+ipa: "aw\u02C8flej"
+ipa link: "http://ipa-reader.xyz/?text=aw\u02C8flej&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - fly away
+  epo:
+  - - forflugado
+  - - forflugi
+  spa:
+  - - irse volando
+search terms:
+  glb:
+  - awfley
+  eng:
+  - fly away
+  epo:
+  - forflugado
+  - forflugi
+  spa:
+  - irse volando
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw-">aw-</a> + <a href="../lexi/fley">fley</a>
+raw data:
+  term: awfley
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: fly away
+    epo: forflugado; forflugi
+    spa: irse volando
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aw- + fley
+...

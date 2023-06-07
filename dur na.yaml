@@ -1,0 +1,47 @@
+---
+term: dur na
+slug: dur na
+ipa: "du\u027E na"
+ipa link: "http://ipa-reader.xyz/?text=du\u027E na&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - while (_+ -ing_)
+  epo:
+  - - dum ___i
+  spa:
+  - - (_+ -ndo_)
+search terms:
+  glb:
+  - dur na
+  - dur
+  - na
+  eng:
+  - while
+  epo:
+  - dum i
+  spa: []
+etymology_type: DERIVD
+etymology: <a href="../lexi/dur">dur</a>, <a href="../lexi/na">na</a>
+raw data:
+  term: dur na
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: while (_+ -ing_)
+    epo: dum ___i
+    spa: (_+ -ndo_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dur, na
+...

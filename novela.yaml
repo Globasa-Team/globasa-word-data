@@ -1,0 +1,68 @@
+---
+term: novela
+slug: novela
+ipa: "no\u02C8vela"
+ipa link: "http://ipa-reader.xyz/?text=no\u02C8vela&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - novel (_literature_)
+  epo:
+  - - romano
+  spa:
+  - - novela
+search terms:
+  glb:
+  - novela
+  eng:
+  - novel
+  epo:
+  - romano
+  spa:
+  - novela
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - novel
+    - novella
+  Espanisa:
+  - - novela
+  Fransesa:
+  - - nouvelle
+  Rusisa:
+  - - "\u043D\u043E\u0432\u0435\u043B\u043B\u0430 \"novela\""
+  Doycisa:
+  - - Novelle
+  Indonesisa:
+  - - novel
+  Pilipinasa:
+  - - nobela
+  Hindisa:
+  - - "\u0928\u093E\u0935\u0947\u0932 \"navel\""
+  Telugusa:
+  - - "\u0C28\u0C35\u0C32 \u201Cnavala\u201D"
+raw data:
+  term: novela
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: novel (_literature_)
+    epo: romano
+    spa: novela
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (novel, novella), Espanisa (novela), Fransesa (nouvelle), Rusisa
+    (\u043D\u043E\u0432\u0435\u043B\u043B\u0430 \"novela\"), Doycisa (Novelle), Indonesisa
+    (novel), Pilipinasa (nobela), Hindisa (\u0928\u093E\u0935\u0947\u0932 \"navel\"),
+    Telugusa (\u0C28\u0C35\u0C32 \u201Cnavala\u201D)"
+...

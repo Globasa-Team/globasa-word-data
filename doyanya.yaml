@@ -1,0 +1,48 @@
+---
+term: doyanya
+slug: doyanya
+ipa: "do\u02C8janja"
+ipa link: "http://ipa-reader.xyz/?text=do\u02C8janja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - diversity
+    - variety
+  epo:
+  - - diverseco
+  spa:
+  - - diversidad
+search terms:
+  glb:
+  - doyanya
+  eng:
+  - diversity
+  - variety
+  epo:
+  - diverseco
+  spa:
+  - diversidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/doyan">doyan</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: doyanya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: diversity, variety
+    epo: diverseco
+    spa: diversidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: doyan + -ya
+...

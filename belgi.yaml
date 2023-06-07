@@ -1,0 +1,56 @@
+---
+term: belgi
+slug: belgi
+ipa: "\u02C8belgi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8belgi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Belgium
+  epo:
+  - - Belgio
+    - Belgujo
+  spa:
+  - - "B\xE9lgica"
+search terms:
+  glb:
+  - belgi
+  eng:
+  - belgium
+  epo:
+  - belgio
+  - belgujo
+  spa:
+  - "b\xE9lgica"
+etymology_type: NATLNG
+etymology:
+  Nederisa:
+  - - "Belgi\xEB"
+  Fransesa:
+  - - Belgique
+  Doycisa:
+  - - Belgien
+tags:
+- dexa
+raw data:
+  term: Belgi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Belgium
+    epo: Belgio, Belgujo
+    spa: "B\xE9lgica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Nederisa (Belgi\xEB), Fransesa (Belgique), Doycisa (Belgien)"
+...

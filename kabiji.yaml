@@ -1,0 +1,52 @@
+---
+term: kabiji
+slug: kabiji
+ipa: "ka\u02C8bid\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8bid\u0361\u0292i&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cabbage
+  epo:
+  - - brasiko
+  spa:
+  - - col
+    - repollo
+search terms:
+  glb:
+  - kabiji
+  eng:
+  - cabbage
+  epo:
+  - brasiko
+  spa:
+  - col
+  - repollo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: kabiji
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cabbage
+    epo: brasiko
+    spa: col, repollo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (cabbage), Swahilisa (kabichi), Telugusa (\u0C15\u0C4D\u0C2F\u0C3E\u0C2C\u0C47\u0C1C\u0C40
+    \u201Cky\u0101b\u0113j\u012B\u201D), Malayalam (\u0D15\u0D3E\u0D2C\u0D47\u0D1C\u0D4D
+    \u201Ck\u0101b\u0113j\u201D), Vyetnamsa (c\u1EA3i b\u1EAFp)"
+...

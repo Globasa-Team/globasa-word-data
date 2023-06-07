@@ -1,0 +1,91 @@
+---
+term: podikasti
+slug: podikasti
+ipa: "podi\u02C8kasti"
+ipa link: "http://ipa-reader.xyz/?text=podi\u02C8kasti&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - podcast
+  epo:
+  - - podkasto
+  spa:
+  - - _podcast_
+search terms:
+  glb:
+  - podikasti
+  eng:
+  - podcast
+  epo:
+  - podkasto
+  spa:
+  - podcast
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - podcast
+    - podcasting
+  Espanisa:
+  - - podcast
+  Fransesa:
+  - - podcast
+  Rusisa:
+  - - "\u043F\u043E\u0434\u043A\u0430\u0441\u0442 \u201Cpodkast\u201D"
+  Doycisa:
+  - - Podcast
+  Pilipinasa:
+  - - "podcast \u201Cpodkast\u201D"
+  Putunhwa:
+  - - "\u64AD\u5BA2 \u201Cboke\u201D"
+  Hindisa:
+  - - "\u092A\u0949\u0921\u0915\u093E\u0938\u094D\u091F \u201Cpodkast\u201D"
+  Arabisa:
+  - - "\u0628\u064F\u0648\u062F\u0652\u0643\u064E\u0627\u0633\u0652\u062A \u201Cbudkast"
+    - "pudkast\u201D"
+    - "\u067E\u064F\u0648\u062F\u0652\u0643\u064E\u0627\u0633\u0652\u062A \u201Cpudkast\u201D"
+  Niponsa:
+  - - "\u30DD\u30C3\u30C9\u30AD\u30E3\u30B9\u30C8 \u201Cpoddokyasuto\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C3E\u0C21\u0C4D\u0C15\u0C3E\u0C38\u0C4D\u0C1F\u0C4D \u201Cpadkast\u201D"
+  Turkisa:
+  - - podcast
+  Hangusa:
+  - - "\uD31F\uCE90\uC2A4\uD2B8 \u201Cpatkesutu\u201D"
+  Vyetnamsa:
+  - - podcast
+  Parsisa:
+  - - "\u067E\u0627\u062F\u06A9\u0633\u062A \u201Cp\xE2dkast\u201D"
+  Swahilisa:
+  - - podikasiti
+raw data:
+  term: podikasti
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: podcast
+    epo: podkasto
+    spa: _podcast_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (podcast, podcasting), Espanisa (podcast), Fransesa (podcast),
+    Rusisa (\u043F\u043E\u0434\u043A\u0430\u0441\u0442 \u201Cpodkast\u201D), Doycisa
+    (Podcast), Pilipinasa (podcast \u201Cpodkast\u201D), Putunhwa (\u64AD\u5BA2 \u201Cboke\u201D),
+    Hindisa (\u092A\u0949\u0921\u0915\u093E\u0938\u094D\u091F \u201Cpodkast\u201D),
+    Arabisa (\u0628\u064F\u0648\u062F\u0652\u0643\u064E\u0627\u0633\u0652\u062A \u201Cbudkast,
+    pudkast\u201D, \u067E\u064F\u0648\u062F\u0652\u0643\u064E\u0627\u0633\u0652\u062A
+    \u201Cpudkast\u201D), Niponsa (\u30DD\u30C3\u30C9\u30AD\u30E3\u30B9\u30C8 \u201Cpoddokyasuto\u201D),
+    Telugusa (\u0C2A\u0C3E\u0C21\u0C4D\u0C15\u0C3E\u0C38\u0C4D\u0C1F\u0C4D \u201Cpadkast\u201D),
+    Turkisa (podcast), Hangusa (\uD31F\uCE90\uC2A4\uD2B8 \u201Cpatkesutu\u201D), Vyetnamsa
+    (podcast), Parsisa (\u067E\u0627\u062F\u06A9\u0633\u062A \u201Cp\xE2dkast\u201D),
+    Swahilisa (podikasiti)"
+...

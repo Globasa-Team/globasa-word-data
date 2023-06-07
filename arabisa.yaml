@@ -1,0 +1,50 @@
+---
+term: arabisa
+slug: arabisa
+ipa: "a\u027Ea\u02C8bisa"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Ea\u02C8bisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Arabic (language)
+  epo:
+  - - la araba (lingvo)
+  spa:
+  - - "\xE1rabe (_idioma_)"
+search terms:
+  glb:
+  - arabisa
+  eng:
+  - arabic language
+  - arabic
+  epo:
+  - la araba lingvo
+  - la araba
+  spa:
+  - "\xE1rabe"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Arabi">Arabi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Arabisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Arabic (language)
+    epo: la araba (lingvo)
+    spa: "\xE1rabe (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Arabi + -sa
+...

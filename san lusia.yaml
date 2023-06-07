@@ -1,0 +1,54 @@
+---
+term: san lusia
+slug: san lusia
+ipa: "\u02C8san lu\u02C8sia"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8san lu\u02C8sia&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - Saint Lucia
+  epo:
+  - - Sankta Lucio
+    - Sent-Lucio
+  spa:
+  - - "Santa Luc\xEDa"
+search terms:
+  glb:
+  - san lusia
+  - san
+  - lusia
+  eng:
+  - saint lucia
+  epo:
+  - sankta lucio
+  - sent-lucio
+  spa:
+  - "santa luc\xEDa"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Saint Lucia
+tags:
+- dexa
+raw data:
+  term: San Lusia
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: Saint Lucia
+    epo: Sankta Lucio, Sent-Lucio
+    spa: "Santa Luc\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Saint Lucia)
+...

@@ -1,0 +1,48 @@
+---
+term: plu-
+slug: plu-
+ipa: "\u02C8plu-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8plu-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - _multiple_
+  epo:
+  - - plur-
+    - pluraj
+  spa:
+  - - "m\xFAltiple"
+search terms:
+  glb:
+  - plu-
+  eng:
+  - multiple
+  epo:
+  - plur-
+  - pluraj
+  spa:
+  - "m\xFAltiple"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/plu">plu</a>.
+raw data:
+  term: plu-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: _multiple_
+    epo: plur-, pluraj
+    spa: "m\xFAltiple"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _plu_.
+...

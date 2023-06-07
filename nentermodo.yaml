@@ -1,0 +1,51 @@
+---
+term: nentermodo
+slug: nentermodo
+ipa: "nente\u027E\u02C8modo"
+ipa link: "http://ipa-reader.xyz/?text=nente\u027E\u02C8modo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unwarmed
+    - unheated
+  epo:
+  - - nevarmigita
+  - - nevarmigite
+  spa:
+  - - sin calentar
+search terms:
+  glb:
+  - nentermodo
+  eng:
+  - unwarmed
+  - unheated
+  epo:
+  - nevarmigita
+  - nevarmigite
+  spa:
+  - sin calentar
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/termo">termo</a> + <a
+  href="../lexi/-do">-do</a>
+raw data:
+  term: nentermodo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unwarmed, unheated
+    epo: nevarmigita; nevarmigite
+    spa: sin calentar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + termo + -do
+...

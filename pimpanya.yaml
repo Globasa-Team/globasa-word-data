@@ -1,0 +1,48 @@
+---
+term: pimpanya
+slug: pimpanya
+ipa: "pim\u02C8panja"
+ipa link: "http://ipa-reader.xyz/?text=pim\u02C8panja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - frequency
+    - rate
+  epo:
+  - - ofteco
+  spa:
+  - - frecuencia
+search terms:
+  glb:
+  - pimpanya
+  eng:
+  - frequency
+  - rate
+  epo:
+  - ofteco
+  spa:
+  - frecuencia
+etymology_type: DERIVD
+etymology: <a href="../lexi/pimpan">pimpan</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: pimpanya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: frequency, rate
+    epo: ofteco
+    spa: frecuencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pimpan + -ya
+...

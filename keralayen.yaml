@@ -1,0 +1,55 @@
+---
+term: keralayen
+slug: keralayen
+ipa: "ke\u027Eala\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=ke\u027Eala\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Malayali
+    - Malayalee
+    - Keralite (person)
+  epo:
+  - - malajalo
+    - keralano
+  spa:
+  - - "keral\xED"
+    - malayali (_persona_)
+search terms:
+  glb:
+  - keralayen
+  eng:
+  - malayali
+  - malayalee
+  - keralite person
+  - keralite
+  epo:
+  - malajalo
+  - keralano
+  spa:
+  - "keral\xED"
+  - malayali
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kerala">Kerala</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Keralayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Malayali, Malayalee, Keralite (person)
+    epo: malajalo, keralano
+    spa: "keral\xED, malayali (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kerala + -yen
+...

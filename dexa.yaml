@@ -1,0 +1,55 @@
+---
+term: dexa
+slug: dexa
+ipa: ˈdeʃa
+ipa link: http://ipa-reader.xyz/?text=ˈdeʃa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - country
+  epo:
+  - - lando
+  spa:
+  - - país
+search terms:
+  glb:
+  - dexa
+  eng:
+  - country
+  epo:
+  - lando
+  spa:
+  - país
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - देश “desh”
+  Telugusa:
+  - - దేశం “dēśaṁ”
+  Indonesisa:
+  - - desa
+  Banglasa:
+  - - দেশ “desh”
+raw data:
+  term: dexa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: country
+    epo: lando
+    spa: país
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (देश “desh”), Telugusa (దేశం “dēśaṁ”), Indonesisa (desa), Banglasa
+    (দেশ “desh”)
+...

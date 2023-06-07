@@ -1,0 +1,46 @@
+---
+term: servimusiya
+slug: servimusiya
+ipa: "se\u027Evimu\u02C8sija"
+ipa link: "http://ipa-reader.xyz/?text=se\u027Evimu\u02C8sija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - servitude
+  epo:
+  - - servuto
+  spa:
+  - - servitud
+search terms:
+  glb:
+  - servimusiya
+  eng:
+  - servitude
+  epo:
+  - servuto
+  spa:
+  - servitud
+etymology_type: DERIVD
+etymology: <a href="../lexi/servi">servi</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: servimusiya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: servitude
+    epo: servuto
+    spa: servitud
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: servi + -ya
+...

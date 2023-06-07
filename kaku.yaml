@@ -1,0 +1,54 @@
+---
+term: kaku
+slug: kaku
+ipa: "\u02C8kaku"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kaku&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - vomit
+  epo:
+  - - vomo
+    - "voma\u0135o"
+  - - vomi
+  spa:
+  - - "v\xF3mito"
+  - - vomitar
+search terms:
+  glb:
+  - kaku
+  eng:
+  - vomit
+  epo:
+  - vomo
+  - "voma\u0135o"
+  - vomi
+  spa:
+  - "v\xF3mito"
+  - vomitar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kaku
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: vomit
+    epo: "vomo, voma\u0135o; vomi"
+    spa: "v\xF3mito; vomitar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Telugusa (\u0C15\u0C15\u0C4D\u0C15\u0C41 \u201Ckakku\u201D), Niponsa
+    (\u5410\u304F \u201Chaku\u201D), Arabisa (\u062A\u064E\u0642\u064E\u064A\u064E\u0651\u0623\u064E
+    \u201Ctaqayya\u02BEa\u201D), Englisa (gag)"
+...

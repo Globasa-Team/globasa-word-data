@@ -1,0 +1,52 @@
+---
+term: yao
+slug: yao
+ipa: "\u02C8jao"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jao&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - bite
+  epo:
+  - - mordo
+  - - mordi
+  spa:
+  - - mordedura
+  - - morder
+search terms:
+  glb:
+  - yao
+  eng:
+  - bite
+  epo:
+  - mordo
+  - mordi
+  spa:
+  - mordedura
+  - morder
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u54AC \u201Cy\u01CEo\u201D"
+raw data:
+  term: yao
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: bite
+    epo: mordo; mordi
+    spa: mordedura; morder
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u54AC \u201Cy\u01CEo\u201D)"
+...

@@ -1,0 +1,54 @@
+---
+term: xunjangi
+slug: xunjangi
+ipa: "\u0283un\u02C8d\u0361\u0292angi"
+ipa link: "http://ipa-reader.xyz/?text=\u0283un\u02C8d\u0361\u0292angi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - grow
+    - cause to grow
+    - make grow
+  epo:
+  - - kreskigo
+  - - kreskigi
+  spa:
+  - - aumentar
+    - hacer crecer
+search terms:
+  glb:
+  - xunjangi
+  eng:
+  - grow
+  - cause to grow
+  - make grow
+  epo:
+  - kreskigo
+  - kreskigi
+  spa:
+  - aumentar
+  - hacer crecer
+etymology_type: DERIVD
+etymology: <a href="../lexi/xunjan">xunjan</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: xunjangi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: grow, cause to grow, make grow
+    epo: kreskigo; kreskigi
+    spa: aumentar, hacer crecer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xunjan + -gi
+...

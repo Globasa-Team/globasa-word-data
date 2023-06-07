@@ -1,0 +1,55 @@
+---
+term: doduku
+slug: doduku
+ipa: doˈduku
+ipa link: http://ipa-reader.xyz/?text=doˈduku&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - morality
+  epo:
+  - - moraleco
+  spa:
+  - - moralidad
+search terms:
+  glb:
+  - doduku
+  eng:
+  - morality
+  epo:
+  - moraleco
+  spa:
+  - moralidad
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 道德 “dàodé”
+  Niponsa:
+  - - 道徳 “dōtoku”
+  Hangusa:
+  - - 도덕 “dodeog”
+  Vyetnamsa:
+  - - đạo đức
+raw data:
+  term: doduku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: morality
+    epo: moraleco
+    spa: moralidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'Putunhwa (道德 “dàodé”), Niponsa (道徳 “dōtoku”), Hangusa (도덕 “dodeog”),
+    Vyetnamsa (đạo đức) '
+...

@@ -1,0 +1,61 @@
+---
+term: namoka
+slug: namoka
+ipa: "na\u02C8moka"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8moka&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mosquito
+    - zancudo
+    - _Culicidae_
+  epo:
+  - - moskito
+  spa:
+  - - mosquito
+    - _Culicidae_
+search terms:
+  glb:
+  - namoka
+  eng:
+  - mosquito
+  - zancudo
+  - culicidae
+  epo:
+  - moskito
+  spa:
+  - mosquito
+  - culicidae
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - nyamuk
+  Pilipinasa:
+  - - lamok
+  Arabisa:
+  - - "\u0646\u064E\u0627\u0645\u064F\u0648\u0633\u064E\u0629 \u201Cnamusa\u201D"
+tags:
+- hewan
+raw data:
+  term: namoka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mosquito, zancudo, _Culicidae_
+    epo: moskito
+    spa: mosquito, _Culicidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Indonesisa (nyamuk), Pilipinasa (lamok), Arabisa (\u0646\u064E\u0627\u0645\u064F\u0648\u0633\u064E\u0629
+    \u201Cnamusa\u201D)"
+...

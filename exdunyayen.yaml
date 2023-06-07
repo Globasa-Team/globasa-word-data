@@ -1,0 +1,51 @@
+---
+term: exdunyayen
+slug: exdunyayen
+ipa: "e\u0283dunja\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283dunja\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - alien
+    - extraterrestrial
+  epo:
+  - - eksterterano
+    - eksterterulo
+  spa:
+  - - extraterrestre
+search terms:
+  glb:
+  - exdunyayen
+  eng:
+  - alien
+  - extraterrestrial
+  epo:
+  - eksterterano
+  - eksterterulo
+  spa:
+  - extraterrestre
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/Dunya">Dunya</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: exdunyayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: alien, extraterrestrial
+    epo: eksterterano, eksterterulo
+    spa: extraterrestre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex- + Dunya + -yen
+...

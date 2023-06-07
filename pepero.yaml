@@ -1,0 +1,92 @@
+---
+term: pepero
+slug: pepero
+ipa: "pe\u02C8pe\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=pe\u02C8pe\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - butterfly
+  epo:
+  - - papilio
+  spa:
+  - - mariposa
+    - _Rhopalocera_
+search terms:
+  glb:
+  - pepero
+  eng:
+  - butterfly
+  epo:
+  - papilio
+  spa:
+  - mariposa
+  - rhopalocera
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - papillon
+  Pilipinasa:
+  - - paruparo
+    - mariposa
+  Swahilisa:
+  - - kipepeo
+  Parsisa:
+  - - "\u067E\u0631\u0648\u0627\u0646\u0647 \u201Cparv\xE2ne\u201D"
+  Amarasa:
+  - - "\u1262\u122B\u1262\u122E \u201Cb\u012Brab\u012Bro\u201D"
+  Bulgarisa:
+  - - "\u043F\u0435\u043F\u0435\u0440\u0443\u0434\u0430 \u201Cpeperuda\u201D"
+  Catalan:
+  - - papallona
+  Swomisa:
+  - - perhonen
+  Sakartwelosa:
+  - - "\u10DE\u10D4\u10DE\u10D4\u10DA\u10D0 \u201Cp\u2019ep\u2019ela\u201D"
+  Haitian Creole:
+  - - papiyon
+  Hawayisa:
+  - - "p\u014Dp\u014D li\u02BBili\u02BBi"
+  Ivrisa:
+  - - "\u05E4\u05E8\u05E4\u05E8 \u201Cparpar\u201D"
+  Lutsemburgisa:
+  - - "P\xE4iperlek"
+  Makedonisa:
+  - - "\u043F\u0435\u043F\u0435\u0440\u0443\u0442\u043A\u0430 \u201Cpeperutka\u201D"
+  Maorisa:
+  - - paruparu
+  Samoasa:
+  - - pepe
+  Kamrisa:
+  - - pili pala
+tags:
+- hewan
+raw data:
+  term: pepero
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: butterfly
+    epo: papilio
+    spa: mariposa, _Rhopalocera_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Fransesa (papillon), Pilipinasa (paruparo, mariposa), Swahilisa (kipepeo),
+    Parsisa (\u067E\u0631\u0648\u0627\u0646\u0647 \u201Cparv\xE2ne\u201D), Amarasa
+    (\u1262\u122B\u1262\u122E \u201Cb\u012Brab\u012Bro\u201D), Bulgarisa (\u043F\u0435\u043F\u0435\u0440\u0443\u0434\u0430
+    \u201Cpeperuda\u201D), Catalan (papallona), Swomisa (perhonen), Sakartwelosa (\u10DE\u10D4\u10DE\u10D4\u10DA\u10D0
+    \u201Cp\u2019ep\u2019ela\u201D), Haitian Creole (papiyon), Hawayisa (p\u014Dp\u014D
+    li\u02BBili\u02BBi), Ivrisa (\u05E4\u05E8\u05E4\u05E8 \u201Cparpar\u201D), Lutsemburgisa
+    (P\xE4iperlek), Makedonisa (\u043F\u0435\u043F\u0435\u0440\u0443\u0442\u043A\u0430
+    \u201Cpeperutka\u201D), Maorisa (paruparu), Samoasa (pepe), Kamrisa (pili pala)"
+...

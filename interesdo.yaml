@@ -1,0 +1,49 @@
+---
+term: interesdo
+slug: interesdo
+ipa: "inte\u02C8\u027Eesdo"
+ipa link: "http://ipa-reader.xyz/?text=inte\u02C8\u027Eesdo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - (be) interested
+  epo:
+  - - interasita
+    - interasata
+  spa:
+  - - interesado
+search terms:
+  glb:
+  - interesdo
+  eng:
+  - be interested
+  - interested
+  epo:
+  - interasita
+  - interasata
+  spa:
+  - interesado
+etymology_type: DERIVD
+etymology: <a href="../lexi/interes">interes</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: interesdo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: (be) interested
+    epo: interasita, interasata
+    spa: interesado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: interes + -do
+...

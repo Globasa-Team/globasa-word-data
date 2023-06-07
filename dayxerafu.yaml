@@ -1,0 +1,50 @@
+---
+term: dayxerafu
+slug: dayxerafu
+ipa: "daj\u0283e\u02C8\u027Eafu"
+ipa link: "http://ipa-reader.xyz/?text=daj\u0283e\u02C8\u027Eafu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - glory
+  epo:
+  - - gloro
+    - honorego
+  spa:
+  - - gloria
+  - - glorificar
+search terms:
+  glb:
+  - dayxerafu
+  eng:
+  - glory
+  epo:
+  - gloro
+  - honorego
+  spa:
+  - gloria
+  - glorificar
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/xerafu">xerafu</a>
+raw data:
+  term: dayxerafu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: glory
+    epo: gloro, honorego
+    spa: gloria; glorificar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + xerafu
+...

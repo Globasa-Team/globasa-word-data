@@ -1,0 +1,56 @@
+---
+term: lityum
+slug: lityum
+ipa: "li\u02C8tjum"
+ipa link: "http://ipa-reader.xyz/?text=li\u02C8tjum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lithium
+  epo:
+  - - litio
+  spa:
+  - - litio
+    - Li
+search terms:
+  glb:
+  - lityum
+  eng:
+  - lithium
+  epo:
+  - litio
+  spa:
+  - litio
+  - li
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: lityum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lithium
+    epo: litio
+    spa: litio, Li
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (lithium), Espanisa (litio), Arabisa (\u0644\u0650\u064A\u062B\u0652\u064A\u064F\u0648\u0645
+    \u201Clityum\u201D), Fransesa (lithium), Rusisa (\u043B\u0438\u0442\u0438\u0439
+    \u201Clitiy\u201D), Indonesisa (litium), Doycisa (Lithium), Niponsa (\u30EA\u30C1\u30A6\u30E0
+    \u201Criciumu\u201D), Telugusa (\u0C32\u0C3F\u0C25\u0C3F\u0C2F\u0C02 \u201Clityam\u201D),
+    Turkisa (lityum), Hangusa (\uB9AC\uD2AC \u201Crityum\u201D), Vyetnamsa (lithi,
+    liti), Parsisa (\u0644\u06CC\u062A\u06CC\u0645 \u201Clitiyom\u201D), Swahilisa
+    (lithi), Pilipinasa (lityo, lityum)"
+...

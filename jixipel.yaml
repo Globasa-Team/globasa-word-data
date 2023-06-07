@@ -1,0 +1,52 @@
+---
+term: jixipel
+slug: jixipel
+ipa: "d\u0361\u0292i\u0283i\u02C8pel"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i\u0283i\u02C8pel&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - curiousity
+  - - wonder
+  epo:
+  - - scivolo
+  - - scivoli
+  spa:
+  - - curiosidad
+  - - preguntarse
+search terms:
+  glb:
+  - jixipel
+  eng:
+  - curiousity
+  - wonder
+  epo:
+  - scivolo
+  - scivoli
+  spa:
+  - curiosidad
+  - preguntarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/jixi">jixi</a> + <a href="../lexi/-pel">-pel</a>
+raw data:
+  term: jixipel
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: curiousity; wonder
+    epo: scivolo; scivoli
+    spa: curiosidad; preguntarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jixi + -pel
+...

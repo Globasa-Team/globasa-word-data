@@ -1,0 +1,46 @@
+---
+term: masrili
+slug: masrili
+ipa: "mas\u02C8\u027Eili"
+ipa link: "http://ipa-reader.xyz/?text=mas\u02C8\u027Eili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Egyptian
+  epo:
+  - - egipta
+  spa:
+  - - egipcio
+search terms:
+  glb:
+  - masrili
+  eng:
+  - egyptian
+  epo:
+  - egipta
+  spa:
+  - egipcio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Masri">Masri</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Masrili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Egyptian
+    epo: egipta
+    spa: egipcio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Masri + -li
+...

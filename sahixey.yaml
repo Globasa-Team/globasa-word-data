@@ -1,0 +1,46 @@
+---
+term: sahixey
+slug: sahixey
+ipa: "saxi\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=saxi\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - correction
+  epo:
+  - - "\u011Dusta\u0135o"
+  spa:
+  - - "correcci\xF3n"
+search terms:
+  glb:
+  - sahixey
+  eng:
+  - correction
+  epo:
+  - "\u011Dusta\u0135o"
+  spa:
+  - "correcci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sahi">sahi</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: sahixey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: correction
+    epo: "\u011Dusta\u0135o"
+    spa: "correcci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sahi + -xey
+...

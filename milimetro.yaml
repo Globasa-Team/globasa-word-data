@@ -1,0 +1,50 @@
+---
+term: milimetro
+slug: milimetro
+ipa: "mili\u02C8met\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=mili\u02C8met\u027Eo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - millimeter
+    - millimetre
+  epo:
+  - - milimetro
+  spa:
+  - - "mil\xEDmetro"
+    - mm
+search terms:
+  glb:
+  - milimetro
+  eng:
+  - millimeter
+  - millimetre
+  epo:
+  - milimetro
+  spa:
+  - "mil\xEDmetro"
+  - mm
+etymology_type: DERIVD
+etymology: <a href="../lexi/mili">mili</a> + <a href="../lexi/metro">metro</a>
+raw data:
+  term: milimetro
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: millimeter, millimetre
+    epo: milimetro
+    spa: "mil\xEDmetro, mm"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mili + metro
+...

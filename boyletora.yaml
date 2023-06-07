@@ -1,0 +1,56 @@
+---
+term: boyletora
+slug: boyletora
+ipa: "bojle\u02C8to\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=bojle\u02C8to\u027Ea&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - boiler
+  epo:
+  - - kaldrono
+    - kaldronego
+    - bolilego
+    - bolilo
+  spa:
+  - - "b\xF3iler"
+    - calentador de agua
+    - caldera
+search terms:
+  glb:
+  - boyletora
+  eng:
+  - boiler
+  epo:
+  - kaldrono
+  - kaldronego
+  - bolilego
+  - bolilo
+  spa:
+  - "b\xF3iler"
+  - calentador de agua
+  - caldera
+etymology_type: DERIVD
+etymology: <a href="../lexi/boyle">boyle</a> + <a href="../lexi/tora">tora</a>
+raw data:
+  term: boyletora
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: boiler
+    epo: kaldrono, kaldronego, bolilego, bolilo
+    spa: "b\xF3iler, calentador de agua, caldera"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: boyle + tora
+...

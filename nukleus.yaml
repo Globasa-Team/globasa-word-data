@@ -1,0 +1,63 @@
+---
+term: nukleus
+slug: nukleus
+ipa: "nukle\u02C8us"
+ipa link: "http://ipa-reader.xyz/?text=nukle\u02C8us&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nucleus
+  epo:
+  - - nukleo
+    - kerno
+  spa:
+  - - "n\xFAcleo"
+search terms:
+  glb:
+  - nukleus
+  eng:
+  - nucleus
+  epo:
+  - nukleo
+  - kerno
+  spa:
+  - "n\xFAcleo"
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Nukleus
+  Englisa:
+  - - nucleus
+  Espanisa:
+  - - "n\xFAcleo"
+  Fransesa:
+  - - "nucl\xE9aire"
+  Pilipinasa:
+  - - nukleus
+  Indonesisa:
+  - - nuklir
+  Turkisa:
+  - - "n\xFCkleer"
+raw data:
+  term: nukleus
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nucleus
+    epo: nukleo, kerno
+    spa: "n\xFAcleo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Nukleus), Englisa (nucleus), Espanisa (n\xFAcleo), Fransesa
+    (nucl\xE9aire), Pilipinasa (nukleus), Indonesisa (nuklir), Turkisa (n\xFCkleer)"
+...

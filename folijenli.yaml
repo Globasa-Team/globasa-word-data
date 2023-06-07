@@ -1,0 +1,54 @@
+---
+term: folijenli
+slug: folijenli
+ipa: "foli\u02C8d\u0361\u0292enli"
+ipa link: "http://ipa-reader.xyz/?text=foli\u02C8d\u0361\u0292enli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - subjective
+    - subjectively
+  epo:
+  - - subjektiva
+    - "la\u016Dopinia"
+  - - subjektive
+    - "la\u016Dopinie"
+  spa:
+  - - subjetivo
+search terms:
+  glb:
+  - folijenli
+  eng:
+  - subjective
+  - subjectively
+  epo:
+  - subjektiva
+  - "la\u016Dopinia"
+  - subjektive
+  - "la\u016Dopinie"
+  spa:
+  - subjetivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/fol">fol</a> + <a href="../lexi/ijen">ijen</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: folijenli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: subjective, subjectively
+    epo: "subjektiva, la\u016Dopinia; subjektive, la\u016Dopinie"
+    spa: subjetivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fol + ijen + -li
+...

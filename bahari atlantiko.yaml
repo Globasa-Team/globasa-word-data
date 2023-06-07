@@ -1,0 +1,57 @@
+---
+term: bahari atlantiko
+slug: bahari atlantiko
+ipa: "ba\u02C8xa\u027Ei atlan\u02C8tiko"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8xa\u027Ei atlan\u02C8tiko&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Atlantic Ocean
+    - (the) Atlantic
+  epo:
+  - - (la) Atlantiko
+    - Atlantika Oceano
+  spa:
+  - - "oc\xE9ano Atl\xE1ntico"
+    - "(el) Atl\xE1ntico"
+search terms:
+  glb:
+  - bahari atlantiko
+  - bahari
+  - atlantiko
+  eng:
+  - atlantic ocean
+  - the atlantic
+  - atlantic
+  epo:
+  - la atlantiko
+  - atlantiko
+  - atlantika oceano
+  spa:
+  - "oc\xE9ano atl\xE1ntico"
+  - "el atl\xE1ntico"
+  - "atl\xE1ntico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bahari">bahari</a>, <a href="../lexi/Atlantiko">Atlantiko</a>
+raw data:
+  term: Bahari Atlantiko
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Atlantic Ocean, (the) Atlantic
+    epo: (la) Atlantiko, Atlantika Oceano
+    spa: "oc\xE9ano Atl\xE1ntico, (el) Atl\xE1ntico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bahari, Atlantiko
+...

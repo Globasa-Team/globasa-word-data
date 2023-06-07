@@ -1,0 +1,63 @@
+---
+term: buter
+slug: buter
+ipa: buˈteɾ
+ipa link: http://ipa-reader.xyz/?text=buˈteɾ&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - butter
+  epo:
+  - - butero
+  spa:
+  - - mantequilla
+    - manteca
+search terms:
+  glb:
+  - buter
+  eng:
+  - butter
+  epo:
+  - butero
+  spa:
+  - mantequilla
+  - manteca
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - butter
+  Fransesa:
+  - - beurre
+  Doycisa:
+  - - Butter
+  Niponsa:
+  - - バター “batā”
+  Hangusa:
+  - - 버터 “beoteo”
+  Vyetnamsa:
+  - - bơ
+tags:
+- yamxey
+raw data:
+  term: buter
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: butter
+    epo: butero
+    spa: mantequilla, manteca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Englisa (butter), Fransesa (beurre), Doycisa (Butter), Niponsa (バター “batā”),
+    Hangusa (버터 “beoteo”), Vyetnamsa (bơ)
+...

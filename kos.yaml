@@ -1,0 +1,54 @@
+---
+term: kos
+slug: kos
+ipa: "\u02C8kos"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kos&voice=Ewa"
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - because of
+    - due to
+    - for
+  epo:
+  - - pro
+  spa:
+  - - por
+    - porque
+    - a causa de
+search terms:
+  glb:
+  - kos
+  eng:
+  - because of
+  - due to
+  - for
+  epo:
+  - pro
+  spa:
+  - por
+  - porque
+  - a causa de
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: kos
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: because of, due to, for
+    epo: pro
+    spa: por, porque, a causa de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _kosa_.
+...

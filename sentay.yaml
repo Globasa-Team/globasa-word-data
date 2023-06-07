@@ -1,0 +1,52 @@
+---
+term: sentay
+slug: sentay
+ipa: "sen\u02C8taj"
+ipa link: "http://ipa-reader.xyz/?text=sen\u02C8taj&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - moss
+  epo:
+  - - musko
+  spa:
+  - - musgo
+    - _Bryophyta_
+search terms:
+  glb:
+  - sentay
+  eng:
+  - moss
+  epo:
+  - musko
+  spa:
+  - musgo
+  - bryophyta
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u861A\u82D4 \u201Cxyentay\u201D"
+  Niponsa:
+  - - "\u861A\u82D4 \u201Csentay\u201D"
+raw data:
+  term: sentay
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: moss
+    epo: musko
+    spa: musgo, _Bryophyta_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u861A\u82D4 \u201Cxyentay\u201D), Niponsa (\u861A\u82D4 \u201Csentay\u201D)"
+...

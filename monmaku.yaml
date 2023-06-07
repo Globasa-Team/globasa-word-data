@@ -1,0 +1,49 @@
+---
+term: monmaku
+slug: monmaku
+ipa: "mon\u02C8maku"
+ipa link: "http://ipa-reader.xyz/?text=mon\u02C8maku&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - retina
+  epo:
+  - - retino
+  spa:
+  - - retina
+search terms:
+  glb:
+  - monmaku
+  eng:
+  - retina
+  epo:
+  - retino
+  spa:
+  - retina
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: monmaku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: retina
+    epo: retino
+    spa: retina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa (\u7F51\u819C \"wangmo\"), Niponsa (\u7DB2\u819C \"m\u014Dmaku\"),
+    Vyetnamsa (v\xF5ng m\u1EA1c), Hangusa (\uB9DD\uB9C9 \"mangmak\")"
+...

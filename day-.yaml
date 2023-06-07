@@ -1,0 +1,60 @@
+---
+term: day-
+slug: day-
+ipa: "\u02C8daj-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8daj-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - big
+    - large
+    - much
+    - loud
+  epo:
+  - - grand-
+    - -eg-
+  spa:
+  - - grande
+    - mucho
+    - fuerte
+search terms:
+  glb:
+  - day-
+  eng:
+  - big
+  - large
+  - much
+  - loud
+  epo:
+  - grand-
+  - -eg-
+  spa:
+  - grande
+  - mucho
+  - fuerte
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/day">day</a>.
+antonyms:
+- lil-
+raw data:
+  term: day-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: big, large, much, loud
+    epo: grand-, -eg-
+    spa: grande, mucho, fuerte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: lil-
+  example: ""
+  tags: ""
+  etymology: Am oko _day_.
+...

@@ -1,0 +1,47 @@
+---
+term: kumax
+slug: kumax
+ipa: "ku\u02C8ma\u0283"
+ipa link: "http://ipa-reader.xyz/?text=ku\u02C8ma\u0283&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - piece of cloth
+  epo:
+  - - tuko
+  spa:
+  - - tela
+search terms:
+  glb:
+  - kumax
+  eng:
+  - piece of cloth
+  epo:
+  - tuko
+  spa:
+  - tela
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kumax
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: piece of cloth
+    epo: tuko
+    spa: tela
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u0645\u0627\u0634 \u201Ckamax\u201D), Parsisa (\u0642\u0645\u0627\u0634
+    \u201Ckomax\u201D), Turkisa (kuma\u015F)"
+...

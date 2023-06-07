@@ -1,0 +1,81 @@
+---
+term: domeni
+slug: domeni
+ipa: doˈmeni
+ipa link: http://ipa-reader.xyz/?text=doˈmeni&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - domain
+    - field (_of study
+    - knowledge_)
+  epo:
+  - - domanio
+    - domajno
+    - fako
+    - kampo (_de studo_)
+  spa:
+  - - dominio
+    - ámbito
+    - campo (_de estudio/conocimiento_)
+    - esfera
+search terms:
+  glb:
+  - domeni
+  eng:
+  - domain
+  - field of study
+  - field (_of study
+  - knowledge
+  epo:
+  - domanio
+  - domajno
+  - fako
+  - kampo
+  spa:
+  - dominio
+  - ámbito
+  - campo
+  - esfera
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - domain
+  Espanisa:
+  - - домен “domen”
+  Fransesa:
+  - - domaine
+  Doycisa:
+  - - domäne
+  Pilipinasa:
+  - - dominyo
+  Niponsa:
+  - - ドメイン “domein”
+  Parsisa:
+  - - دامنه “dâmane”
+  Swahilisa:
+  - - domeni
+raw data:
+  term: domeni
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: domain, field (_of study, knowledge_)
+    epo: domanio, domajno, fako, kampo (_de studo_)
+    spa: dominio, ámbito, campo (_de estudio/conocimiento_), esfera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (domain), Espanisa (dominio), Fransesa (domaine), Espanisa (домен
+    “domen”), Doycisa (domäne), Pilipinasa (dominyo), Niponsa (ドメイン “domein”), Parsisa
+    (دامنه “dâmane”), Swahilisa (domeni)
+...

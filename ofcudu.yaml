@@ -1,0 +1,52 @@
+---
+term: ofcudu
+slug: ofcudu
+ipa: "of\u02C8t\u0361\u0283udu"
+ipa link: "http://ipa-reader.xyz/?text=of\u02C8t\u0361\u0283udu&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - pick up
+  epo:
+  - - depreno
+  - - depreni
+    - preni
+  spa:
+  - - recoger
+    - pasar a buscar
+search terms:
+  glb:
+  - ofcudu
+  eng:
+  - pick up
+  epo:
+  - depreno
+  - depreni
+  - preni
+  spa:
+  - recoger
+  - pasar a buscar
+etymology_type: DERIVD
+etymology: <a href="../lexi/of-">of-</a> + <a href="../lexi/cudu">cudu</a>
+raw data:
+  term: ofcudu
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: pick up
+    epo: depreno; depreni, preni
+    spa: recoger, pasar a buscar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: pick, pick up
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: of- + cudu
+...

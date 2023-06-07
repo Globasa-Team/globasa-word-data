@@ -1,0 +1,53 @@
+---
+term: kone
+slug: kone
+ipa: "\u02C8kone"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kone&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - know
+    - be acquainted with
+    - be familiar with [_**compare with**:_ [jixi](/eng/lexi/jixi)]
+  epo:
+  - - kono
+  - - koni
+  spa:
+  - - conocer
+search terms:
+  glb:
+  - kone
+  eng:
+  - know
+  - be acquainted with
+  - be familiar with
+  epo:
+  - kono
+  - koni
+  spa:
+  - conocer
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kone
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: know, be acquainted with, be familiar with [_**compare with**:_ [jixi](/eng/lexi/jixi)]
+    epo: kono; koni
+    spa: conocer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: know, acquainted, be acquainted with, familiar, be familiar with
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (know), Fransesa (conna\xEEtre), Doycisa (kennen), Espanisa
+    (conocer), Portugalsa (conhecer)"
+...

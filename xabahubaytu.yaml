@@ -1,0 +1,48 @@
+---
+term: xabahubaytu
+slug: xabahubaytu
+ipa: "\u0283abaxu\u02C8bajtu"
+ipa link: "http://ipa-reader.xyz/?text=\u0283abaxu\u02C8bajtu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - haunted house
+  epo:
+  - - "fantomlo\u011Dita domo"
+    - fantomplena domo
+  spa:
+  - - casa embrujada
+search terms:
+  glb:
+  - xabahubaytu
+  eng:
+  - haunted house
+  epo:
+  - "fantomlo\u011Dita domo"
+  - fantomplena domo
+  spa:
+  - casa embrujada
+etymology_type: DERIVD
+etymology: <a href="../lexi/xabahu">xabahu</a> + <a href="../lexi/baytu">baytu</a>
+raw data:
+  term: xabahubaytu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: haunted house
+    epo: "fantomlo\u011Dita domo, fantomplena domo"
+    spa: casa embrujada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xabahu + baytu
+...

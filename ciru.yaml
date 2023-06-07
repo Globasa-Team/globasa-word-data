@@ -1,0 +1,60 @@
+---
+term: ciru
+slug: ciru
+ipa: "\u02C8t\u0361\u0283i\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u0361\u0283i\u027Eu&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - tear
+    - rip
+    - rend
+  spa:
+  - - rasgadura
+    - "rasg\xF3n"
+  - - rasgar
+search terms:
+  glb:
+  - ciru
+  eng:
+  - tear
+  - rip
+  - rend
+  spa:
+  - rasgadura
+  - "rasg\xF3n"
+  - rasgar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u091A\u0940\u0930 \"cir\""
+    - "\u091A\u0940\u0930\u093E \"cira\""
+  Telugusa:
+  - - "\u0C1A\u0C40\u0C30\u0C41 \"chiru\""
+    - "\u0C1A\u0C3F\u0C30\u0C41\u0C17\u0C41 \"cirugu\""
+  Fransesa:
+  - - "d\xE9chirure"
+raw data:
+  term: ciru
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: tear, rip, rend
+    epo: ""
+    spa: "rasgadura, rasg\xF3n; rasgar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u091A\u0940\u0930 \"cir\", \u091A\u0940\u0930\u093E \"cira\"),
+    Telugusa (\u0C1A\u0C40\u0C30\u0C41 \"chiru\", \u0C1A\u0C3F\u0C30\u0C41\u0C17\u0C41
+    \"cirugu\"), Fransesa (d\xE9chirure)"
+...

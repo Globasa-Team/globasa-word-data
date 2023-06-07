@@ -1,0 +1,50 @@
+---
+term: lutufxey
+slug: lutufxey
+ipa: "lutuf\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=lutuf\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - favor
+  epo:
+  - - "afabla\u0135o"
+    - favoro
+    - komplezo
+  spa:
+  - - favor
+search terms:
+  glb:
+  - lutufxey
+  eng:
+  - favor
+  epo:
+  - "afabla\u0135o"
+  - favoro
+  - komplezo
+  spa:
+  - favor
+etymology_type: DERIVD
+etymology: <a href="../lexi/lutuf">lutuf</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: lutufxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: favor
+    epo: "afabla\u0135o, favoro, komplezo"
+    spa: favor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lutuf + -xey
+...

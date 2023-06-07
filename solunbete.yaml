@@ -1,0 +1,46 @@
+---
+term: solunbete
+slug: solunbete
+ipa: "solun\u02C8bete"
+ipa link: "http://ipa-reader.xyz/?text=solun\u02C8bete&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - only child
+  epo:
+  - - solinfano
+  spa:
+  - - "hijo \xFAnico"
+search terms:
+  glb:
+  - solunbete
+  eng:
+  - only child
+  epo:
+  - solinfano
+  spa:
+  - "hijo \xFAnico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sol">sol</a> + <a href="../lexi/un">un</a> + <a href="../lexi/bete">bete</a>
+raw data:
+  term: solunbete
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: only child
+    epo: solinfano
+    spa: "hijo \xFAnico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sol + un + bete
+...

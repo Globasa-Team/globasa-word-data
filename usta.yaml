@@ -1,0 +1,59 @@
+---
+term: usta
+slug: usta
+ipa: "\u02C8usta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8usta&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - expert
+    - expertly
+  epo:
+  - - sperta
+  - - sperte
+  spa:
+  - - experto
+  - - expertamente
+search terms:
+  glb:
+  - usta
+  eng:
+  - expert
+  - expertly
+  epo:
+  - sperta
+  - sperte
+  spa:
+  - experto
+  - expertamente
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0909\u0938\u094D\u0924\u093E\u0926 \u201Cust\u0101d\u201D"
+  Parsisa:
+  - - "\u0627\u0648\u0633\u062A\u0627\u200E \u201Cust\xE2\u201D"
+  Turkisa:
+  - - usta
+raw data:
+  term: usta
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: expert, expertly
+    epo: sperta; sperte
+    spa: experto; expertamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0909\u0938\u094D\u0924\u093E\u0926 \u201Cust\u0101d\u201D),
+    Parsisa (\u0627\u0648\u0633\u062A\u0627\u200E \u201Cust\xE2\u201D), Turkisa (usta)"
+...

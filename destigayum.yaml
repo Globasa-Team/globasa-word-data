@@ -1,0 +1,48 @@
+---
+term: destigayum
+slug: destigayum
+ipa: "destiga\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=destiga\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - thirteenth
+  epo:
+  - - destria
+  - - destrie
+  spa:
+  - - "d\xE9cimo tercero"
+search terms:
+  glb:
+  - destigayum
+  eng:
+  - thirteenth
+  epo:
+  - destria
+  - destrie
+  spa:
+  - "d\xE9cimo tercero"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/tiga">tiga</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: destigayum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: thirteenth
+    epo: destria; destrie
+    spa: "d\xE9cimo tercero"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + tiga + -yum
+...

@@ -1,0 +1,73 @@
+---
+term: amiru
+slug: amiru
+ipa: aˈmiɾu
+ipa link: http://ipa-reader.xyz/?text=aˈmiɾu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - commandment
+  - - command
+    - order
+  epo:
+  - - komando
+    - ordono
+  - - komandi
+    - ordoni
+  spa:
+  - - orden
+    - mando
+    - mandamiento
+  - - mandar
+    - ordenar
+    - controlar
+search terms:
+  glb:
+  - amiru
+  eng:
+  - commandment
+  - command
+  - order
+  epo:
+  - komando
+  - ordono
+  - komandi
+  - ordoni
+  spa:
+  - orden
+  - mando
+  - mandamiento
+  - mandar
+  - ordenar
+  - controlar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - أمر “amr”
+  Turkisa:
+  - - emir
+  Swahilisa:
+  - - amri
+    - -amuru
+raw data:
+  term: amiru
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: commandment; command, order
+    epo: komando, ordono; komandi, ordoni
+    spa: orden, mando, mandamiento; mandar, ordenar, controlar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (أمر “amr”), Turkisa (emir), Swahilisa (amri, -amuru)
+...

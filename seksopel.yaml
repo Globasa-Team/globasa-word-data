@@ -1,0 +1,50 @@
+---
+term: seksopel
+slug: seksopel
+ipa: "sekso\u02C8pel"
+ipa link: "http://ipa-reader.xyz/?text=sekso\u02C8pel&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - sex drive
+    - libido
+  epo:
+  - - libido
+    - volupto
+  spa:
+  - - libido
+search terms:
+  glb:
+  - seksopel
+  eng:
+  - sex drive
+  - libido
+  epo:
+  - libido
+  - volupto
+  spa:
+  - libido
+etymology_type: DERIVD
+etymology: <a href="../lexi/sekso">sekso</a> + <a href="../lexi/-pel">-pel</a>
+raw data:
+  term: seksopel
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: sex drive, libido
+    epo: libido, volupto
+    spa: libido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sekso + -pel
+...

@@ -1,0 +1,48 @@
+---
+term: dostefil
+slug: dostefil
+ipa: "doste\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=doste\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - "friendly (_\u201Cfriend-prone\u201D_)"
+  epo:
+  - - amikema
+  - - amikeme
+  spa:
+  - - amistoso
+search terms:
+  glb:
+  - dostefil
+  eng:
+  - friendly
+  epo:
+  - amikema
+  - amikeme
+  spa:
+  - amistoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/doste">doste</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: dostefil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: "friendly (_\u201Cfriend-prone\u201D_)"
+    epo: amikema; amikeme
+    spa: amistoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: doste + -fil
+...

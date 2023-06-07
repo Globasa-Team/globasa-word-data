@@ -1,0 +1,50 @@
+---
+term: yonya
+slug: yonya
+ipa: "\u02C8jonja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jonja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - be (done) with
+    - be (done) by means of
+  epo:
+  - - "fari\u011Di per"
+  spa:
+  - - ser hecho mediante
+search terms:
+  glb:
+  - yonya
+  eng:
+  - be done with
+  - be with
+  - be done by means of
+  - be by means of
+  epo:
+  - "fari\u011Di per"
+  spa:
+  - ser hecho mediante
+etymology_type: DERIVD
+etymology: <a href="../lexi/yon">yon</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: yonya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: be (done) with, be (done) by means of
+    epo: "fari\u011Di per"
+    spa: ser hecho mediante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yon + -ya
+...

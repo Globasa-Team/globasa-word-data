@@ -1,0 +1,46 @@
+---
+term: minguya
+slug: minguya
+ipa: "min\u02C8guja"
+ipa link: "http://ipa-reader.xyz/?text=min\u02C8guja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - clarity
+  epo:
+  - - klareco
+  spa:
+  - - claridad
+search terms:
+  glb:
+  - minguya
+  eng:
+  - clarity
+  epo:
+  - klareco
+  spa:
+  - claridad
+etymology_type: DERIVD
+etymology: <a href="../lexi/mingu">mingu</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: minguya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: clarity
+    epo: klareco
+    spa: claridad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mingu + -ya
+...

@@ -1,0 +1,60 @@
+---
+term: legalogi
+slug: legalogi
+ipa: "lega\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=lega\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - jurisprudence
+    - science of law
+    - philosophy of law
+    - theory of law
+    - law specialty
+  epo:
+  - - "le\u011Doscienco"
+    - juro
+    - "le\u011Do"
+  spa:
+  - - jurisprudencia
+    - ciencia de la ley
+search terms:
+  glb:
+  - legalogi
+  eng:
+  - jurisprudence
+  - science of law
+  - philosophy of law
+  - theory of law
+  - law specialty
+  epo:
+  - "le\u011Doscienco"
+  - juro
+  - "le\u011Do"
+  spa:
+  - jurisprudencia
+  - ciencia de la ley
+etymology_type: DERIVD
+etymology: <a href="../lexi/lega">lega</a> + <a href="../lexi/-logi">-logi</a>
+raw data:
+  term: legalogi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: jurisprudence, science of law, philosophy of law, theory of law, law specialty
+    epo: "le\u011Doscienco, juro, le\u011Do"
+    spa: jurisprudencia, ciencia de la ley
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lega + -logi
+...

@@ -1,0 +1,47 @@
+---
+term: burnini
+slug: burnini
+ipa: "bu\u027E\u02C8nini"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027E\u02C8nini&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - brat
+  epo:
+  - - "infana\u0109o"
+  spa:
+  - - "mocoso (ni\xF1o)"
+search terms:
+  glb:
+  - burnini
+  eng:
+  - brat
+  epo:
+  - "infana\u0109o"
+  spa:
+  - "mocoso ni\xF1o"
+  - mocoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/nini">nini</a>
+raw data:
+  term: burnini
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: brat
+    epo: "infana\u0109o"
+    spa: "mocoso (ni\xF1o)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + nini
+...

@@ -1,0 +1,53 @@
+---
+term: muskada
+slug: muskada
+ipa: "mus\u02C8kada"
+ipa link: "http://ipa-reader.xyz/?text=mus\u02C8kada&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nutmeg
+  epo:
+  - - muskato
+  spa:
+  - - nuez moscada
+    - _Myristica_
+search terms:
+  glb:
+  - muskada
+  eng:
+  - nutmeg
+  epo:
+  - muskato
+  spa:
+  - nuez moscada
+  - myristica
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- planta
+- yamxey
+raw data:
+  term: muskada
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nutmeg
+    epo: muskato
+    spa: nuez moscada, _Myristica_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta, yamxey
+  etymology: "Espanisa (moscada), Fransesa (muscade), Rusisa (\u043C\u0443\u0441\u043A\u0430\u0442
+    \"muskat\"), Doycisa (Muskat), Portugalsa (moscada), Italisa (moscata), Pilipinasa
+    (moskada), Turkisa (muskat)"
+...

@@ -1,0 +1,49 @@
+---
+term: falya
+slug: falya
+ipa: "\u02C8falja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8falja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - be (done) by
+  epo:
+  - - de
+    - fare de
+  spa:
+  - - estar hecho por
+search terms:
+  glb:
+  - falya
+  eng:
+  - be done by
+  - be by
+  epo:
+  - de
+  - fare de
+  spa:
+  - estar hecho por
+etymology_type: DERIVD
+etymology: <a href="../lexi/fal">fal</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: falya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: be (done) by
+    epo: de, fare de
+    spa: estar hecho por
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fal + -ya
+...

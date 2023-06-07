@@ -1,0 +1,54 @@
+---
+term: sindrom asperger
+slug: sindrom asperger
+ipa: "sin\u02C8d\u027Eom aspe\u027E\u02C8ge\u027E"
+ipa link: "http://ipa-reader.xyz/?text=sin\u02C8d\u027Eom aspe\u027E\u02C8ge\u027E&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - Asperger syndrome
+    - Asperger's
+  epo:
+  - - sindromo de Asperger
+    - Asperger-sindromo
+    - Aspergera sindromo
+  spa:
+  - - "s\xEDndrome de Asperger"
+search terms:
+  glb:
+  - sindrom asperger
+  - sindrom
+  - asperger
+  eng:
+  - asperger syndrome
+  - asperger's
+  epo:
+  - sindromo de asperger
+  - asperger-sindromo
+  - aspergera sindromo
+  spa:
+  - "s\xEDndrome de asperger"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sindrom">sindrom</a>, <a href="../lexi/Asperger">Asperger</a>
+raw data:
+  term: sindrom Asperger
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: Asperger syndrome, Asperger's
+    epo: sindromo de Asperger, Asperger-sindromo, Aspergera sindromo
+    spa: "s\xEDndrome de Asperger"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sindrom, Asperger
+...

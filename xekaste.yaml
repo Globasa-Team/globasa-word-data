@@ -1,0 +1,65 @@
+---
+term: xekaste
+slug: xekaste
+ipa: "\u0283e\u02C8kaste"
+ipa link: "http://ipa-reader.xyz/?text=\u0283e\u02C8kaste&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - defeat
+  - - defeat
+    - beat
+  epo:
+  - - venko
+  - - venki
+  spa:
+  - - derrota
+  - - derrotar
+    - vencer
+search terms:
+  glb:
+  - xekaste
+  eng:
+    0: defeat
+    2: beat
+  epo:
+  - venko
+  - venki
+  spa:
+  - derrota
+  - derrotar
+  - vencer
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - "\u0634\u06A9\u0633\u062A \u201Cxekast\u201D"
+  Hindisa:
+  - - "\u0936\u093F\u0915\u0938\u094D\u0924 \u201Cxikast\u201D"
+  Tamilsa:
+  - - "\u0B9A\u0BBF\u0B95\u0BB8\u0BCD\u0BA4\u0BC1 \u201Ccikastu\u201D"
+  Azerbayjansa:
+  - - "\u015Fik\u0259st"
+raw data:
+  term: xekaste
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: defeat; defeat, beat
+    epo: venko; venki
+    spa: derrota; derrotar, vencer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Parsisa (\u0634\u06A9\u0633\u062A \u201Cxekast\u201D), Hindisa (\u0936\u093F\u0915\u0938\u094D\u0924
+    \u201Cxikast\u201D), Tamilsa (\u0B9A\u0BBF\u0B95\u0BB8\u0BCD\u0BA4\u0BC1 \u201Ccikastu\u201D),
+    Azerbayjansa (\u015Fik\u0259st)"
+...

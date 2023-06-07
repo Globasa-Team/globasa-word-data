@@ -1,0 +1,46 @@
+---
+term: banglali
+slug: banglali
+ipa: "ban\u02C8glali"
+ipa link: "http://ipa-reader.xyz/?text=ban\u02C8glali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Bengali
+  epo:
+  - - bengala
+  spa:
+  - - "bengal\xED"
+search terms:
+  glb:
+  - banglali
+  eng:
+  - bengali
+  epo:
+  - bengala
+  spa:
+  - "bengal\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Bangla">Bangla</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Banglali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Bengali
+    epo: bengala
+    spa: "bengal\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Bangla + -li
+...

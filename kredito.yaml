@@ -1,0 +1,50 @@
+---
+term: kredito
+slug: kredito
+ipa: "k\u027Ee\u02C8dito"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Ee\u02C8dito&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - credit
+  epo:
+  - - kredito
+  spa:
+  - - "cr\xE9dito"
+search terms:
+  glb:
+  - kredito
+  eng:
+  - credit
+  epo:
+  - kredito
+  spa:
+  - "cr\xE9dito"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kredito
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: credit
+    epo: kredito
+    spa: "cr\xE9dito"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Kredit), Englisa (credit), Espanisa (cr\xE9dito), Fransesa
+    (cr\xE9dit), Rusisa (\u043A\u0440\u0435\u0434\u0438\u0442 \u201Ckredit\u201D),
+    Indonesisa (credit), Pilipinasa (kredito), Turkisa (kredi), Hindisa (\u0915\u094D\u0930\u0947\u0921\u093F\u091F
+    \u201Ckredit\u201D), Telugusa (\u0C15\u0C4D\u0C30\u0C46\u0C21\u0C3F\u0C1F\u0C4D
+    \u201Ckredit\u201D)"
+...

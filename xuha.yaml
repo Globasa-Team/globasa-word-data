@@ -1,0 +1,70 @@
+---
+term: xuha
+slug: xuha
+ipa: "\u02C8\u0283uxa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283uxa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - harvest
+  - - reap
+    - earn
+    - gain
+    - win
+  epo:
+  - - rikolto
+    - akiro
+  - - rikolti
+    - akiri (per penado)
+  spa:
+  - - cosecha
+  - - cosechar
+search terms:
+  glb:
+  - xuha
+  eng:
+  - harvest
+  - reap
+  - earn
+  - gain
+  - win
+  epo:
+  - rikolto
+  - akiro
+  - rikolti
+  - akiri per penado
+  - akiri
+  spa:
+  - cosecha
+  - cosechar
+etymology_type: NATLNG
+etymology:
+  Hangusa:
+  - - "\uC218\uD655 \u201Csuhwag\u201D"
+  Niponsa:
+  - - "\u53CE\u7A6B \u201Csh\u016Bkaku\u201D"
+  Putunhwa:
+  - - "\u6536\u5272 \u201Csh\u014Dug\u0113\u201D"
+raw data:
+  term: xuha
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: harvest; reap, earn, gain, win
+    epo: rikolto, akiro; rikolti, akiri (per penado)
+    spa: cosecha; cosechar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hangusa (\uC218\uD655 \u201Csuhwag\u201D), Niponsa (\u53CE\u7A6B \u201Csh\u016Bkaku\u201D),
+    Putunhwa (\u6536\u5272 \u201Csh\u014Dug\u0113\u201D)"
+...

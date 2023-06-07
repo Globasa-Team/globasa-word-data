@@ -1,0 +1,48 @@
+---
+term: moyabilya
+slug: moyabilya
+ipa: "moja\u02C8bilja"
+ipa link: "http://ipa-reader.xyz/?text=moja\u02C8bilja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - omnipotence
+  epo:
+  - - "\u0109iopovo"
+    - "\u0109iopoveco"
+  spa:
+  - - omnipotencia
+search terms:
+  glb:
+  - moyabilya
+  eng:
+  - omnipotence
+  epo:
+  - "\u0109iopovo"
+  - "\u0109iopoveco"
+  spa:
+  - omnipotencia
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/abil">abil</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: moyabilya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: omnipotence
+    epo: "\u0109iopovo, \u0109iopoveco"
+    spa: omnipotencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + abil + -ya
+...

@@ -1,0 +1,55 @@
+---
+term: xukrapul
+slug: xukrapul
+ipa: "\u0283uk\u027Ea\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=\u0283uk\u027Ea\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - grateful
+    - gratefully
+    - thankful (_filled with gratitude_)
+    - thankfully
+  epo:
+  - - danka
+  - - danke
+  spa:
+  - - agradecido (lleno de gratitud)
+search terms:
+  glb:
+  - xukrapul
+  eng:
+  - grateful
+  - gratefully
+  - thankful
+  - thankfully
+  epo:
+  - danka
+  - danke
+  spa:
+  - agradecido lleno de gratitud
+  - agradecido
+etymology_type: DERIVD
+etymology: <a href="../lexi/xukra">xukra</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: xukrapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: grateful, gratefully, thankful (_filled with gratitude_), thankfully
+    epo: danka; danke
+    spa: agradecido (lleno de gratitud)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xukra + -pul
+...

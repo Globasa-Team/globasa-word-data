@@ -1,0 +1,50 @@
+---
+term: care
+slug: care
+ipa: ˈt͡ʃaɾe
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃaɾe&voice=Ewa
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - four
+  epo:
+  - - kvar
+  spa:
+  - - cuatro
+search terms:
+  glb:
+  - care
+  eng:
+  - four
+  epo:
+  - kvar
+  spa:
+  - cuatro
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - चार “car”
+  Parsisa:
+  - - چهار “čahâr”
+raw data:
+  term: care
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: four
+    epo: kvar
+    spa: cuatro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (चार “car”), Parsisa (چهار “čahâr”)
+...

@@ -1,0 +1,49 @@
+---
+term: hosu
+slug: hosu
+ipa: "\u02C8xosu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xosu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lake
+  epo:
+  - - lago
+  spa:
+  - - lago
+search terms:
+  glb:
+  - hosu
+  eng:
+  - lake
+  epo:
+  - lago
+  spa:
+  - lago
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- geografi
+raw data:
+  term: hosu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lake
+    epo: lago
+    spa: lago
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: "Putunhwa  (\u6E56 \u201Ch\xFA\u201D \u85AE \u201Cs\u01D2u\u201D) , Hangusa
+    (\uD638\uC218 \u201Chosu\u201D), Vyetnamsa (h\u1ED3)"
+...

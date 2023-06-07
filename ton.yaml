@@ -1,0 +1,56 @@
+---
+term: ton
+slug: ton
+ipa: ton
+ipa link: http://ipa-reader.xyz/?text=ton&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - (together) with
+    - (along) with
+  epo:
+  - - kun (_kune kun_)
+  spa:
+  - - (junto) con
+search terms:
+  glb:
+  - ton
+  eng:
+  - together with
+  - with
+  - along with
+  epo:
+  - kun
+  spa:
+  - junto con
+  - con
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u540C \u201Ct\xF3ng\u201D"
+  Niponsa:
+  - - "\u3068 \u201Cto\u201D"
+  - - "\u3068\u5171\u306B \u201Cto tomo ni\u201D"
+raw data:
+  term: ton
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: (together) with, (along) with
+    epo: kun (_kune kun_)
+    spa: (junto) con
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u540C \u201Ct\xF3ng\u201D), Niponsa (\u3068 \u201Cto\u201D;
+    \u3068\u5171\u306B \u201Cto tomo ni\u201D)"
+...

@@ -1,0 +1,68 @@
+---
+term: seleri
+slug: seleri
+ipa: "se\u02C8le\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8le\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - celery
+  epo:
+  - - celerio
+  spa:
+  - - apio
+    - _Apium graveolens_
+search terms:
+  glb:
+  - seleri
+  eng:
+  - celery
+  epo:
+  - celerio
+  spa:
+  - apio
+  - apium graveolens
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - celery
+  Fransesa:
+  - - "c\xE9leri"
+  Rusisa:
+  - - "\u0441\u0435\u043B\u044C\u0434\u0435\u0440\u0435\u0439 \"selderey\""
+  Doycisa:
+  - - Sellerie
+  Indonesisa:
+  - - seledri
+    - saderi
+    - seladeri
+  Niponsa:
+  - - "\u30BB\u30ED\u30EA \"serori\""
+  Hangusa:
+  - - "\"\uC140\uB7EC\uB9AC \"sellori\""
+tags:
+- yamxey
+raw data:
+  term: seleri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: celery
+    epo: celerio
+    spa: apio, _Apium graveolens_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (celery), Fransesa (c\xE9leri), Rusisa (\u0441\u0435\u043B\u044C\u0434\u0435\u0440\u0435\u0439
+    \"selderey\"), Doycisa (Sellerie), Indonesisa (seledri, saderi, seladeri), Niponsa
+    (\u30BB\u30ED\u30EA \"serori\"), Hangusa (\"\uC140\uB7EC\uB9AC \"sellori\")"
+...

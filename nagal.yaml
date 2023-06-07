@@ -1,0 +1,61 @@
+---
+term: nagal
+slug: nagal
+ipa: "na\u02C8gal"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8gal&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - plow
+    - plough
+  epo:
+  - - plugilo
+  - - plugi
+  spa:
+  - - arado
+  - - arar
+    - labrar
+    - barbechar
+search terms:
+  glb:
+  - nagal
+  eng:
+  - plow
+  - plough
+  epo:
+  - plugilo
+  - plugi
+  spa:
+  - arado
+  - arar
+  - labrar
+  - barbechar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0928\u093E\u0902\u0917\u0932 \"nangal\""
+  Telugusa:
+  - - "\u0C28\u0C3E\u0C17\u0C32\u0C3F \"nagali\""
+raw data:
+  term: nagal
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: plow, plough
+    epo: plugilo; plugi
+    spa: arado; arar, labrar, barbechar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0928\u093E\u0902\u0917\u0932 \"nangal\"), Telugusa (\u0C28\u0C3E\u0C17\u0C32\u0C3F
+    \"nagali\")"
+...

@@ -1,0 +1,67 @@
+---
+term: breyki
+slug: breyki
+ipa: ˈbɾejki
+ipa link: http://ipa-reader.xyz/?text=ˈbɾejki&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - brake(s)
+  - - brake
+  epo:
+  - - bremsilo
+  - - bremsi
+  spa:
+  - - freno
+  - - frenar
+    - frenarse
+search terms:
+  glb:
+  - breyki
+  eng:
+  - brakes
+  - brake
+  epo:
+  - bremsilo
+  - bremsi
+  spa:
+  - freno
+  - frenar
+  - frenarse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - brake
+  Hindisa:
+  - - ब्रेक “breyk”
+  Telugusa:
+  - - బ్రేక్ “brek”
+  Niponsa:
+  - - ブレーキ “bureki”
+  Hangusa:
+  - - 브레이크 “pureyku”
+  Swahilisa:
+  - - breki
+raw data:
+  term: breyki
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: brake(s); brake
+    epo: bremsilo; bremsi
+    spa: freno; frenar, frenarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (brake), Hindisa (ब्रेक “breyk”), Telugusa (బ్రేక్ “brek”), Niponsa
+    ( ブレーキ “bureki”), Hangusa ( 브레이크 “pureyku”), Swahilisa (breki)
+...

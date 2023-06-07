@@ -1,0 +1,53 @@
+---
+term: koberi
+slug: koberi
+ipa: "ko\u02C8be\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8be\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - cover
+  epo:
+  - - kovro
+  - - kovri
+  spa:
+  - - cubierta
+    - tapa
+  - - cubrir
+search terms:
+  glb:
+  - koberi
+  eng:
+  - cover
+  epo:
+  - kovro
+  - kovri
+  spa:
+  - cubierta
+  - tapa
+  - cubrir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: koberi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: cover
+    epo: kovro; kovri
+    spa: cubierta, tapa; cubrir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (covering), Fransesa (couvrir), Espanisa (cubrir), Hindisa (\u0915\u0935\u0930
+    \u201Ckavar\u201D), Niponsa (\u30AB\u30D0\u30FC \u201Ckab\u0101\u201D)"
+...

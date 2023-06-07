@@ -1,0 +1,52 @@
+---
+term: baxoreitis
+slug: baxoreitis
+ipa: "ba\u0283o\u027Eei\u02C8tis"
+ipa link: "http://ipa-reader.xyz/?text=ba\u0283o\u027Eei\u02C8tis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - mumps
+    - parotits
+  epo:
+  - - mumpso
+    - parotidito
+  spa:
+  - - parotiditis
+    - paperas
+search terms:
+  glb:
+  - baxoreitis
+  eng:
+  - mumps
+  - parotits
+  epo:
+  - mumpso
+  - parotidito
+  spa:
+  - parotiditis
+  - paperas
+etymology_type: DERIVD
+etymology: <a href="../lexi/bax-">bax-</a> + <a href="../lexi/ore">ore</a> + <a href="../lexi/-itis">-itis</a>
+raw data:
+  term: baxoreitis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: mumps, parotits
+    epo: mumpso, parotidito
+    spa: parotiditis, paperas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bax- + ore + -itis
+...

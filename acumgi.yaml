@@ -1,0 +1,54 @@
+---
+term: acumgi
+slug: acumgi
+ipa: "a\u02C8t\u0361\u0283umgi"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8t\u0361\u0283umgi&voice=Ewa"
+status: true
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - make sneeze
+    - cause to sneeze
+  epo:
+  - - ternigo
+  - - ternigi
+  spa:
+  - - hacer estornudar
+  deu:
+  - - "Niesen ausl\xF6sen"
+search terms:
+  glb:
+  - acumgi
+  eng:
+  - make sneeze
+  - cause to sneeze
+  epo:
+  - ternigo
+  - ternigi
+  spa:
+  - hacer estornudar
+  deu:
+  - "niesen ausl\xF6sen"
+etymology_type: DERIVD
+etymology: <a href="../lexi/acum">acum</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: acumgi
+  category: derived
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: make sneeze, cause to sneeze
+    epo: ternigo; ternigi
+    spa: hacer estornudar
+    deu: "Niesen ausl\xF6sen"
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: acum + -gi
+...

@@ -1,0 +1,66 @@
+---
+term: paypu
+slug: paypu
+ipa: "\u02C8pajpu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pajpu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pipe (_tube_)
+    - conduit
+  epo:
+  - - dukto
+    - kondukilo
+    - tubo
+  spa:
+  - - "tuber\xEDa"
+search terms:
+  glb:
+  - paypu
+  eng:
+  - pipe
+  - conduit
+  epo:
+  - dukto
+  - kondukilo
+  - tubo
+  spa:
+  - "tuber\xEDa"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pipe
+  Indonesisa:
+  - - paip
+  Pilipinasa:
+  - - pipa
+  Hindisa:
+  - - "\u092A\u093E\u0907\u092A \"payp\""
+  Niponsa:
+  - - "\u30D1\u30A4\u30D7 \"paypu\""
+  Hangusa:
+  - - "\uD30C\uC774\uD504 \"paypu\""
+raw data:
+  term: paypu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pipe (_tube_), conduit
+    epo: dukto, kondukilo, tubo
+    spa: "tuber\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (pipe), Indonesisa (paip), Pilipinasa (pipa), Hindisa (\u092A\u093E\u0907\u092A
+    \"payp\"), Niponsa (\u30D1\u30A4\u30D7 \"paypu\"), Hangusa (\uD30C\uC774\uD504
+    \"paypu\")"
+...

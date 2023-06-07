@@ -1,0 +1,76 @@
+---
+term: aloe
+slug: aloe
+ipa: aˈloe
+ipa link: http://ipa-reader.xyz/?text=aˈloe&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - aloe (vera)
+  epo:
+  - - aloo (vera)
+  spa:
+  - - áloe
+    - sábila
+    - _Aloe_
+search terms:
+  glb:
+  - aloe
+  eng:
+  - aloe vera
+  - aloe
+  epo:
+  - aloo vera
+  - aloo
+  spa:
+  - áloe
+  - sábila
+  - aloe
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - aloe
+  Espanisa: ~
+  Fransesa:
+  - - aloès
+  Rusisa:
+  - - алоэ “aloe”
+  Doycisa:
+  - - Aloe
+  Indonesisa:
+  - - aloe
+  Hindisa:
+  - - एलो “elo”
+    - अलो “alo”
+  Niponsa アロエ:
+  - - aroe
+  Hangusa:
+  - - 알로에 “aloe”
+  Parsisa:
+  - - الوا / آلوا “alva”
+tags:
+- planta
+raw data:
+  term: aloe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: aloe (vera)
+    epo: aloo (vera)
+    spa: áloe, sábila, _Aloe_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta
+  etymology: Englisa (aloe), Espanisa, Fransesa (aloès), Rusisa (алоэ “aloe”), Doycisa
+    (Aloe), Indonesisa (aloe), Hindisa (एलो “elo”, अलो “alo”), Niponsa アロエ (aroe),
+    Hangusa (알로에 “aloe”), Parsisa (الوا / آلوا “alva”)
+...

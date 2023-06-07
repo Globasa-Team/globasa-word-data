@@ -1,0 +1,55 @@
+---
+term: monhare
+slug: monhare
+ipa: "mon\u02C8xa\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=mon\u02C8xa\u027Ee&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - comprise
+    - consist (of)
+  epo:
+  - - konsisto
+  - - konsisti
+  spa:
+  - - constar de
+    - componerse de
+    - consistir de
+search terms:
+  glb:
+  - monhare
+  eng:
+  - comprise
+  - consist of
+  - consist
+  epo:
+  - konsisto
+  - konsisti
+  spa:
+  - constar de
+  - componerse de
+  - consistir de
+etymology_type: DERIVD
+etymology: <a href="../lexi/mon">mon</a> + <a href="../lexi/hare">hare</a>
+raw data:
+  term: monhare
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: comprise, consist (of)
+    epo: konsisto; konsisti
+    spa: constar de, componerse de, consistir de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mon + hare
+...

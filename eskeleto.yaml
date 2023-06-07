@@ -1,0 +1,66 @@
+---
+term: eskeleto
+slug: eskeleto
+ipa: eskeˈleto
+ipa link: http://ipa-reader.xyz/?text=eskeˈleto&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - skeleton
+  epo:
+  - - skeleto
+  spa:
+  - - esqueleto
+search terms:
+  glb:
+  - eskeleto
+  eng:
+  - skeleton
+  epo:
+  - skeleto
+  spa:
+  - esqueleto
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - skeleton
+  Espanisa:
+  - - esqueleto
+  Fransesa:
+  - - squelette
+  Rusisa:
+  - - скелет “skelet”
+  Doycisa:
+  - - Skelett
+  Indonesisa:
+  - - skelet
+  Turkisa:
+  - - iskelet
+  Parsisa:
+  - - اسکلت “eskelet”
+tags:
+- jismulogi
+raw data:
+  term: eskeleto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: skeleton
+    epo: skeleto
+    spa: esqueleto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Englisa (skeleton), Espanisa (esqueleto), Fransesa (squelette), Rusisa
+    (скелет “skelet”), Doycisa (Skelett), Indonesisa (skelet), Turkisa (iskelet),
+    Parsisa (اسکلت “eskelet”)
+...

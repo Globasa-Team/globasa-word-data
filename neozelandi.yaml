@@ -1,0 +1,52 @@
+---
+term: neozelandi
+slug: neozelandi
+ipa: "neoze\u02C8landi"
+ipa link: "http://ipa-reader.xyz/?text=neoze\u02C8landi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - New Zealand
+  epo:
+  - - Nov-Zelando
+    - Novzelando
+  spa:
+  - - Nueva Zelanda
+search terms:
+  glb:
+  - neozelandi
+  eng:
+  - new zealand
+  epo:
+  - nov-zelando
+  - novzelando
+  spa:
+  - nueva zelanda
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - New Zealand
+tags:
+- dexa
+raw data:
+  term: Neozelandi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: New Zealand
+    epo: Nov-Zelando, Novzelando
+    spa: Nueva Zelanda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (New Zealand)
+...

@@ -1,0 +1,62 @@
+---
+term: sugu
+slug: sugu
+ipa: "\u02C8sugu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sugu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - idiom
+    - set phrase
+    - common saying
+    - expression
+  epo:
+  - - idiotismo
+  spa:
+  - - modismo
+    - idiotismo
+    - frase hecha
+search terms:
+  glb:
+  - sugu
+  eng:
+  - idiom
+  - set phrase
+  - common saying
+  - expression
+  epo:
+  - idiotismo
+  spa:
+  - modismo
+  - idiotismo
+  - frase hecha
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4FD7\u8BED \"suyu\""
+    - "Hangusa (\uC219\uC5B4 \"sugo\""
+  Niponsa:
+  - - "\u6210\u8A9E \"sego\""
+raw data:
+  term: sugu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: idiom, set phrase, common saying, expression
+    epo: idiotismo
+    spa: modismo, idiotismo, frase hecha
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u4FD7\u8BED \"suyu\", Hangusa (\uC219\uC5B4 \"sugo\"), Niponsa
+    (\u6210\u8A9E \"sego\")"
+...

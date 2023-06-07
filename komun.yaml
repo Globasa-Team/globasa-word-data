@@ -1,0 +1,57 @@
+---
+term: komun
+slug: komun
+ipa: "ko\u02C8mun"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8mun&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - in common
+    - communal
+  epo:
+  - - komuna
+  - - komune
+  spa:
+  - - "en com\xFAn"
+    - comunal
+search terms:
+  glb:
+  - komun
+  eng:
+  - in common
+  - communal
+  epo:
+  - komuna
+  - komune
+  spa:
+  - "en com\xFAn"
+  - comunal
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: komun
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: in common, communal
+    epo: komuna; komune
+    spa: "en com\xFAn, comunal"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: common, in common, communal
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (communism), Fransesa (commun), Doycisa (Kommunismus), Rusisa
+    (\u043A\u043E\u043C\u043C\u0443\u043D\u0438\u0437\u043C \u201Ckommunizm\u201D),
+    Espanisa (com\xFAn), Hindisa (\u0915\u092E\u094D\u092F\u0941\u0928\u093F\u091C\u093C\u092E
+    \u201Ckamyunizam\u201D), Parsisa (\u06A9\u0645\u0648\u0646\u06CC\u0633\u0645 \u201Ckomonism\u201D),
+    Turkisa (kom\xFCnizm), Indonesisa (komunisme), Pilipinasa (komunismo), Swahilisa
+    (ukomunisti)"
+...

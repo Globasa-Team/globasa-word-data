@@ -1,0 +1,65 @@
+---
+term: exku
+slug: exku
+ipa: ˈeʃku
+ipa link: http://ipa-reader.xyz/?text=ˈeʃku&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - (romantic) love
+    - romance
+  epo:
+  - - (romantika) amo
+  - - (romantike) ami
+  spa:
+  - - amor (romántico)
+search terms:
+  glb:
+  - exku
+  eng:
+  - romantic love
+  - love
+  - romance
+  epo:
+  - romantika amo
+  - amo
+  - romantike ami
+  - ami
+  spa:
+  - amor romántico
+  - amor
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - عِشْق “ʿišq”
+    - عَشِقَ “ʿašiqa” I
+    - يَعْشَقُ‎‎ “yaʿšaqu”
+  Parsisa:
+  - - عشق “esk”
+  Turkisa:
+  - - aşk
+  Hindisa:
+  - - इश्क़ “iśk”
+raw data:
+  term: exku
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: (romantic) love, romance
+    epo: (romantika) amo; (romantike) ami
+    spa: amor (romántico)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (عِشْق “ʿišq”, عَشِقَ “ʿašiqa” I, يَعْشَقُ‎‎ “yaʿšaqu”), Parsisa
+    (عشق “esk”), Turkisa (aşk), Hindisa (इश्क़ “iśk”)
+...

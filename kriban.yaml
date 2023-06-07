@@ -1,0 +1,51 @@
+---
+term: kriban
+slug: kriban
+ipa: "k\u027Ei\u02C8ban"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Ei\u02C8ban&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - almost
+    - nearly
+  epo:
+  - - "preska\u016D"
+  spa:
+  - - casi
+search terms:
+  glb:
+  - kriban
+  eng:
+  - almost
+  - nearly
+  epo:
+  - "preska\u016D"
+  spa:
+  - casi
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kriban
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: almost, nearly
+    epo: "preska\u016D"
+    spa: casi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u0642\u0631\u064A\u0628\u0627 \u201Ctaqriban\u201D,
+    \u0642\u0631\u064A\u0628 \u201Cqarib\u201D - ner), Parsisa (\u062A\u0642\u0631\u06CC\u0628\u0627
+    \u201Ctaqriban\u201D), Swahilisa (karibu, takriban), Turkisa (takriben), Hindisa
+    (\u0924\u0915\u093C\u0930\u0940\u092C\u0928 \u201Ctakriban\u201D)"
+...

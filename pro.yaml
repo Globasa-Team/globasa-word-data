@@ -1,0 +1,67 @@
+---
+term: pro
+slug: pro
+ipa: "p\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - in favor of
+    - pro-
+  epo:
+  - - por (favora/e al)
+  spa:
+  - - por
+    - a favor de
+    - pro-
+search terms:
+  glb:
+  - pro
+  eng:
+  - in favor of
+  - pro-
+  epo:
+  - por favora/e al
+  - por
+  spa:
+  - por
+  - a favor de
+  - pro-
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - pour
+  Espanisa:
+  - - para
+    - pro-
+  Englisa:
+  - - for
+    - pro-
+  Doycisa:
+  - - "f\xFCr"
+    - pro-
+  Ceskisa:
+  - - pro
+raw data:
+  term: pro
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: in favor of, pro-
+    epo: por (favora/e al)
+    spa: por, a favor de, pro-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (pour), Espanisa (para, pro-), Englisa (for, pro-), Doycisa
+    (f\xFCr, pro-), Ceskisa (pro)"
+...

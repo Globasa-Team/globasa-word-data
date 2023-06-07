@@ -1,0 +1,61 @@
+---
+term: dukan
+slug: dukan
+ipa: duˈkan
+ipa link: http://ipa-reader.xyz/?text=duˈkan&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - store
+    - shop
+  epo:
+  - - butiko
+    - aĉetejo
+  spa:
+  - - tienda
+search terms:
+  glb:
+  - dukan
+  eng:
+  - store
+  - shop
+  epo:
+  - butiko
+  - aĉetejo
+  spa:
+  - tienda
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - دكان “dukan”
+  Hindisa:
+  - - दुकान “dukan”
+  Swahilisa:
+  - - duka
+  Turkisa:
+  - - dükkân
+  Parsisa:
+  - - دکان “dokan”
+raw data:
+  term: dukan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: store, shop
+    epo: butiko, aĉetejo
+    spa: tienda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (دكان “dukan”), Hindisa (दुकान “dukan”), Swahilisa (duka), Turkisa
+    (dükkân), Parsisa (دکان “dokan”)
+...

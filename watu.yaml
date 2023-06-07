@@ -1,0 +1,60 @@
+---
+term: watu
+slug: watu
+ipa: "\u02C8watu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8watu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - time
+  epo:
+  - - tempo
+  spa:
+  - - tiempo
+search terms:
+  glb:
+  - watu
+  eng:
+  - time
+  epo:
+  - tempo
+  spa:
+  - tiempo
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0648\u0642\u062A \u201Cwaqt\u201D"
+  Hindisa:
+  - - "\u0935\u0958\u094D\u0924  \u201Cwakt\u201D"
+  Indonesisa:
+  - - waktu
+  Parsisa:
+  - - "\u0648\u0642\u062A \u201Cvakt\u201D"
+  Swahilisa:
+  - - wakati
+  Turkisa:
+  - - vakit
+raw data:
+  term: watu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: time
+    epo: tempo
+    spa: tiempo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0648\u0642\u062A \u201Cwaqt\u201D), Hindisa (\u0935\u0958\u094D\u0924
+    \ \u201Cwakt\u201D), Indonesisa (waktu), Parsisa (\u0648\u0642\u062A \u201Cvakt\u201D),
+    Swahilisa (wakati), Turkisa (vakit)"
+...

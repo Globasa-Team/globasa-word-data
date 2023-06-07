@@ -1,0 +1,50 @@
+---
+term: intrediskusi
+slug: intrediskusi
+ipa: "int\u027Eedis\u02C8kusi"
+ipa link: "http://ipa-reader.xyz/?text=int\u027Eedis\u02C8kusi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - dialogue
+    - dialog
+  epo:
+  - - interdiskuto
+    - dialogo
+  spa:
+  - - "di\xE1logo"
+search terms:
+  glb:
+  - intrediskusi
+  eng:
+  - dialogue
+  - dialog
+  epo:
+  - interdiskuto
+  - dialogo
+  spa:
+  - "di\xE1logo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/intre-">intre-</a> + <a href="../lexi/diskusi">diskusi</a>
+raw data:
+  term: intrediskusi
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: dialogue, dialog
+    epo: interdiskuto, dialogo
+    spa: "di\xE1logo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: intre- + diskusi
+...

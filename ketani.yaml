@@ -1,0 +1,50 @@
+---
+term: ketani
+slug: ketani
+ipa: "ke\u02C8tani"
+ipa link: "http://ipa-reader.xyz/?text=ke\u02C8tani&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - flax
+  epo:
+  - - lino
+  spa:
+  - - lino
+    - _Linum usitatissimum_
+search terms:
+  glb:
+  - ketani
+  eng:
+  - flax
+  epo:
+  - lino
+  spa:
+  - lino
+  - linum usitatissimum
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ketani
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: flax
+    epo: lino
+    spa: lino, _Linum usitatissimum_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0643\u064E\u062A\u064E\u0651\u0627\u0646 \"katt\u0101n\"),
+    Turkisa (keten), Parsisa (\u06A9\u062A\u0627\u0646 \"kat\xE2n\"), Swahilisa (katani,
+    kitani)"
+...

@@ -1,0 +1,74 @@
+---
+term: henri
+slug: henri
+ipa: "\u02C8xen\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xen\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - henry (unit)
+  epo:
+  - - henro
+  spa:
+  - - _henry_
+    - henrio
+    - H
+  deu:
+  - - Henry
+  fra:
+  - - henry
+  rus:
+  - - "\u0433\u0435\u043D\u0440\u0438"
+  zho:
+  - - "\u4EA8\u5229"
+search terms:
+  glb:
+  - henri
+  eng:
+  - henry unit
+  - henry
+  epo:
+  - henro
+  spa:
+  - henry
+  - henrio
+  - h
+  deu:
+  - henry
+  fra:
+  - henry
+  rus:
+  - "\u0433\u0435\u043D\u0440\u0438"
+  zho:
+  - "\u4EA8\u5229"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- meterya
+raw data:
+  term: henri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: henry (unit)
+    epo: henro
+    spa: _henry_, henrio, H
+    deu: Henry
+    fra: henry
+    rus: "\u0433\u0435\u043D\u0440\u0438"
+    zho: "\u4EA8\u5229"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: meterya
+  etymology: "Englisa (henry), Espanisa (henrio), Fransesa (henry), Rusisa (\u0433\u0435\u043D\u0440\u0438
+    \u201Cgenri\u201D), Doycisa (Henry), Indonesisa (henry), Pilipinasa (henri), Putunhwa
+    (\u4EA8\u5229 \u201Chengli\u201D), Hindisa (\u0939\u0947\u0928\u0930\u0940 \u201Chenri\u201D),
+    Arabisa (\u0647\u0646\u0631\u064A \u201Chinri\u201D), Niponsa (\u30D8\u30F3\u30EA\u30FC
+    \u201Chenri\u201D), Turkisa (henri), Hangusa (\uD5E8\uB9AC \u201Chenri\u201D),
+    Vyetnamsa (henry), Parsisa (\u0647\u0627\u0646\u0631\u06CC \u201Chenriy\u201D)"
+...

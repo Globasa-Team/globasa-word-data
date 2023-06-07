@@ -1,0 +1,72 @@
+---
+term: sutyen
+slug: sutyen
+ipa: "su\u02C8tjen"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8tjen&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bra
+    - brassiere
+  epo:
+  - - mamzono
+  spa:
+  - - "sost\xE9n"
+    - brasier
+search terms:
+  glb:
+  - sutyen
+  eng:
+  - bra
+  - brassiere
+  epo:
+  - mamzono
+  spa:
+  - "sost\xE9n"
+  - brasier
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - soutien-gorge
+  Argentinali Espanisa:
+  - - soutien
+  Portugalsa:
+  - - "suti\xE3"
+  Turkisa:
+  - - "s\xFCtyen"
+    - sutyen
+  Vyetnamsa:
+  - - "xu-chi\xEAng"
+  Parsisa:
+  - - "\u0633\u0648\u062A\u06CC\u0646 \u201Csutiyan\u201D"
+  Masrili Arabsia:
+  - - "\u0633\u062A\u064A\u0627\u0646 \u201Csutyan\u201D"
+  Elinisa:
+  - - "\u03C3\u03BF\u03C5\u03C4\u03B9\u03AD\u03BD \u201Csutyen\u201D"
+tags:
+- labas
+raw data:
+  term: sutyen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bra, brassiere
+    epo: mamzono
+    spa: "sost\xE9n, brasier"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Fransesa (soutien-gorge), Argentinali Espanisa (soutien), Portugalsa
+    (suti\xE3), Turkisa (s\xFCtyen, sutyen), Vyetnamsa (xu-chi\xEAng), Parsisa (\u0633\u0648\u062A\u06CC\u0646
+    \u201Csutiyan\u201D), Masrili Arabsia (\u0633\u062A\u064A\u0627\u0646 \u201Csutyan\u201D),
+    Elinisa (\u03C3\u03BF\u03C5\u03C4\u03B9\u03AD\u03BD \u201Csutyen\u201D)"
+...

@@ -1,0 +1,73 @@
+---
+term: balon
+slug: balon
+ipa: baˈlon
+ipa link: http://ipa-reader.xyz/?text=baˈlon&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - balloon
+  epo:
+  - - balono
+    - baloneto
+  spa:
+  - - globo
+    - bomba
+search terms:
+  glb:
+  - balon
+  eng:
+  - balloon
+  epo:
+  - balono
+  - baloneto
+  spa:
+  - globo
+  - bomba
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - balloon
+  Fransesa:
+  - - ballon
+  Doycisa:
+  - - Ballon
+  Indonesisa:
+  - - balon
+  Pilipinasa:
+  - - balun
+  Niponsa:
+  - - バルーン “barūn”
+  Arabisa:
+  - - بالون “bālōn”
+  Parsisa:
+  - - بالون‎ “bâlon”
+  Turkisa:
+  - - balon
+tags:
+- xey
+- yuxitul
+raw data:
+  term: balon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: balloon
+    epo: balono, baloneto
+    spa: globo, bomba
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: xey, yuxitul
+  etymology: Englisa (balloon), Fransesa (ballon), Doycisa (Ballon), Indonesisa (balon),
+    Pilipinasa (balun), Niponsa (バルーン “barūn”), Arabisa (بالون “bālōn”), Parsisa (بالون‎
+    “bâlon”), Turkisa (balon)
+...

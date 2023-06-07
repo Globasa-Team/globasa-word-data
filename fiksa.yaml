@@ -1,0 +1,73 @@
+---
+term: fiksa
+slug: fiksa
+ipa: ˈfiksa
+ipa link: http://ipa-reader.xyz/?text=ˈfiksa&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - fix
+    - affix
+    - attach
+  epo:
+  - - fikso
+  - - fiksi
+  spa:
+  - - fijar
+    - asegurar
+search terms:
+  glb:
+  - fiksa
+  eng:
+  - fix
+  - affix
+  - attach
+  epo:
+  - fikso
+  - fiksi
+  spa:
+  - fijar
+  - asegurar
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Fix
+    - fixieren
+  Englisa:
+  - - fix
+    - fixate
+    - fixture
+  Espanisa:
+  - - fijar
+  Fransesa:
+  - - fixer
+  Rusisa:
+  - - фиксировать “fiksirovat”
+  Indonesisa:
+  - - fiksasi
+  Turkisa:
+  - - fikstür
+raw data:
+  term: fiksa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: fix, affix, attach
+    epo: fikso; fiksi
+    spa: fijar, asegurar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Fix, fixieren), Englisa (fix, fixate, fixture), Espanisa (fijar),
+    Fransesa (fixer), Rusisa (фиксировать “fiksirovat”), Indonesisa (fiksasi), Turkisa
+    (fikstür)
+...

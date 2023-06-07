@@ -1,0 +1,50 @@
+---
+term: centroli
+slug: centroli
+ipa: "t\u0361\u0283en\u02C8t\u027Eoli"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283en\u02C8t\u027Eoli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - central
+    - centrally
+  epo:
+  - - centra
+  - - centre
+  spa:
+  - - central
+search terms:
+  glb:
+  - centroli
+  eng:
+  - central
+  - centrally
+  epo:
+  - centra
+  - centre
+  spa:
+  - central
+etymology_type: DERIVD
+etymology: <a href="../lexi/centro">centro</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: centroli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: central, centrally
+    epo: centra; centre
+    spa: central
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: centro + -li
+...

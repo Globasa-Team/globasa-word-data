@@ -1,0 +1,109 @@
+---
+term: selsyus
+slug: selsyus
+ipa: "sel\u02C8sjus"
+ipa link: "http://ipa-reader.xyz/?text=sel\u02C8sjus&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - celsius
+    - centigrade
+  epo:
+  - - celsia grado
+    - grado de Celsio
+  spa:
+  - - Celsius
+    - "cent\xEDgrado"
+    - "\xB0C"
+  deu:
+  - - Celsius
+  fra:
+  - - Celsius
+  rus:
+  - - "\u0426\u0435\u043B\u044C\u0441\u0438\u0439"
+  zho:
+  - - "\u6444\u6C0F"
+search terms:
+  glb:
+  - selsyus
+  eng:
+  - celsius
+  - centigrade
+  epo:
+  - celsia grado
+  - grado de celsio
+  spa:
+  - celsius
+  - "cent\xEDgrado"
+  - "\xB0c"
+  deu:
+  - celsius
+  fra:
+  - celsius
+  rus:
+  - "\u0426\u0435\u043B\u044C\u0441\u0438\u0439"
+  zho:
+  - "\u6444\u6C0F"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - celsius
+    - centigrade
+  Espanisa:
+  - - Celsius
+  Fransesa:
+  - - Celsius
+  Rusisa:
+  - - "\u0426\u0435\u043B\u044C\u0441\u0438\u0439 \u201CTselsiy\u201D"
+  Doycisa:
+  - - Celsius
+  Putunhwa:
+  - - "\u6444\u6C0F \u201Cxexi\u201D"
+  Hindisa:
+  - - "\u0938\u0947\u0932\u094D\u0938\u093F\u092F\u0938 \u201Cselsiyas\u201D"
+  Magribili Arabisa:
+  - - "\u0633\u064A\u0644\u0633\u064A\u0648\u0633 \u201Csilsuys\u201D"
+  Niponsa:
+  - - "\u30BB\u30EB\u30B7\u30A6\u30B9 \u201Cseruxiusu\u201D"
+  Telugusa:
+  - - "\u0C38\u0C46\u0C32\u0C4D\u0C38\u0C3F\u0C2F\u0C38\u0C4D \u201Cselsiyas\u201D"
+  Turkisa:
+  - - santigrat
+  Hangusa:
+  - - "\uC140\uC2DC\uC6B0\uC2A4 \u201Cselxiusu\u201D"
+  Vyetnamsa:
+  - - "\u0111\u1ED9 Celsius"
+  Parsisa:
+  - - "\u0633\u0644\u0633\u06CC\u0648\u0633 \u201Cselsyus\u201D"
+  Swahilisa:
+  - - selsiasi
+raw data:
+  term: selsyus
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: celsius, centigrade
+    epo: celsia grado, grado de Celsio
+    spa: "Celsius, cent\xEDgrado, \xB0C"
+    deu: Celsius
+    fra: Celsius
+    rus: "\u0426\u0435\u043B\u044C\u0441\u0438\u0439"
+    zho: "\u6444\u6C0F"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (celsius, centigrade), Espanisa (Celsius), Fransesa (Celsius),
+    Rusisa (\u0426\u0435\u043B\u044C\u0441\u0438\u0439 \u201CTselsiy\u201D), Doycisa
+    (Celsius), Putunhwa (\u6444\u6C0F \u201Cxexi\u201D), Hindisa (\u0938\u0947\u0932\u094D\u0938\u093F\u092F\u0938
+    \u201Cselsiyas\u201D), Magribili Arabisa (\u0633\u064A\u0644\u0633\u064A\u0648\u0633
+    \u201Csilsuys\u201D), Niponsa (\u30BB\u30EB\u30B7\u30A6\u30B9 \u201Cseruxiusu\u201D),
+    Telugusa (\u0C38\u0C46\u0C32\u0C4D\u0C38\u0C3F\u0C2F\u0C38\u0C4D \u201Cselsiyas\u201D),
+    Turkisa (santigrat), Hangusa (\uC140\uC2DC\uC6B0\uC2A4 \u201Cselxiusu\u201D),
+    Vyetnamsa (\u0111\u1ED9 Celsius), Parsisa (\u0633\u0644\u0633\u06CC\u0648\u0633
+    \u201Cselsyus\u201D), Swahilisa (selsiasi)"
+...

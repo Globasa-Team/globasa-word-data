@@ -1,0 +1,52 @@
+---
+term: rioko
+slug: rioko
+ipa: "\u027Ei\u02C8oko"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ei\u02C8oko&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - see again
+    - meet again
+  epo:
+  - - revido
+  - - revidi
+  spa:
+  - - volver a ver
+    - volver a encontrarse
+search terms:
+  glb:
+  - rioko
+  eng:
+  - see again
+  - meet again
+  epo:
+  - revido
+  - revidi
+  spa:
+  - volver a ver
+  - volver a encontrarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/ri-">ri-</a> + <a href="../lexi/oko">oko</a>
+raw data:
+  term: rioko
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: see again, meet again
+    epo: revido; revidi
+    spa: volver a ver, volver a encontrarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ri- + oko
+...

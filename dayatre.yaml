@@ -1,0 +1,50 @@
+---
+term: dayatre
+slug: dayatre
+ipa: "da\u02C8jat\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=da\u02C8jat\u027Ee&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - grandparent
+  epo:
+  - - avo
+    - avino
+    - geavinoj
+  spa:
+  - - abuelo
+search terms:
+  glb:
+  - dayatre
+  eng:
+  - grandparent
+  epo:
+  - avo
+  - avino
+  - geavinoj
+  spa:
+  - abuelo
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/atre">atre</a>
+raw data:
+  term: dayatre
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: grandparent
+    epo: avo, avino, geavinoj
+    spa: abuelo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + atre
+...

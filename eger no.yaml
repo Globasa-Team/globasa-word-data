@@ -1,0 +1,50 @@
+---
+term: eger no
+slug: eger no
+ipa: "e\u02C8ge\u027E \u02C8no"
+ipa link: "http://ipa-reader.xyz/?text=e\u02C8ge\u027E \u02C8no&voice=Ewa"
+status: false
+category: phrase
+word class: l
+trans:
+  eng:
+  - - if not
+    - otherwise
+  epo:
+  - - se ne
+  spa:
+  - - si no
+search terms:
+  glb:
+  - eger no
+  - eger
+  - "no"
+  eng:
+  - if not
+  - otherwise
+  epo:
+  - se ne
+  spa:
+  - si no
+etymology_type: DERIVD
+etymology: <a href="../lexi/eger">eger</a>, <a href="../lexi/no">no</a>
+raw data:
+  term: eger no
+  category: phrase
+  word class: l
+  status: false
+  trans:
+    eng: if not, otherwise
+    epo: se ne
+    spa: si no
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: eger, no
+...

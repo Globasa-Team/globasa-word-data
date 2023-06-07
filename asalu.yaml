@@ -1,0 +1,57 @@
+---
+term: asalu
+slug: asalu
+ipa: aˈsalu
+ipa link: http://ipa-reader.xyz/?text=aˈsalu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - honey
+  epo:
+  - - mielo
+  spa:
+  - - miel
+search terms:
+  glb:
+  - asalu
+  eng:
+  - honey
+  epo:
+  - mielo
+  spa:
+  - miel
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - عسل “ʿasal”
+  Swahilisa:
+  - - asali
+  Parsisa:
+  - - عسل “'asal”
+  Urdu:
+  - - عسل “'asal”
+tags:
+- yamxey
+raw data:
+  term: asalu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: honey
+    epo: mielo
+    spa: miel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Arabisa (عسل “ʿasal”), Swahilisa (asali), Parsisa (عسل “'asal”), Urdu
+    (عسل “'asal”)
+...

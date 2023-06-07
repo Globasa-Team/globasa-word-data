@@ -1,0 +1,50 @@
+---
+term: gubar
+slug: gubar
+ipa: guˈbaɾ
+ipa link: http://ipa-reader.xyz/?text=guˈbaɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dust
+  epo:
+  - - polvo
+  spa:
+  - - polvo
+search terms:
+  glb:
+  - gubar
+  eng:
+  - dust
+  epo:
+  - polvo
+  spa:
+  - polvo
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - غبار “ḡubār”
+  Parsisa:
+  - - غبار‎ “gobar”
+raw data:
+  term: gubar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dust
+    epo: polvo
+    spa: polvo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (غبار “ḡubār”), Parsisa (غبار‎ “gobar”)
+...

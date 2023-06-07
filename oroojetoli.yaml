@@ -1,0 +1,49 @@
+---
+term: oroojetoli
+slug: oroojetoli
+ipa: "o\u027Eood\u0361\u0292e\u02C8toli"
+ipa link: "http://ipa-reader.xyz/?text=o\u027Eood\u0361\u0292e\u02C8toli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - ambitransitive
+  epo:
+  - - "amba\u016Dtransitiva"
+  - - "amba\u016Dtransitive"
+  spa:
+  - - ambitransitivo
+search terms:
+  glb:
+  - oroojetoli
+  eng:
+  - ambitransitive
+  epo:
+  - "amba\u016Dtransitiva"
+  - "amba\u016Dtransitive"
+  spa:
+  - ambitransitivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/oro">oro</a> + <a href="../lexi/ojeto">ojeto</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: oroojetoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: ambitransitive
+    epo: "amba\u016Dtransitiva; amba\u016Dtransitive"
+    spa: ambitransitivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: oro + ojeto + -li
+...

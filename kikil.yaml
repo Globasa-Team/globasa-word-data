@@ -1,0 +1,58 @@
+---
+term: kikil
+slug: kikil
+ipa: "ki\u02C8kil"
+ipa link: "http://ipa-reader.xyz/?text=ki\u02C8kil&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - file (_tool_)
+    - rasp
+  epo:
+  - - fajlilo
+  - - fajli
+  spa:
+  - - lima
+    - escofina (_herramienta_)
+  - - limar
+    - raspar
+    - escofinar
+search terms:
+  glb:
+  - kikil
+  eng:
+  - file
+  - rasp
+  epo:
+  - fajlilo
+  - fajli
+  spa:
+  - lima
+  - escofina
+  - limar
+  - raspar
+  - escofinar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kikil
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: file (_tool_), rasp
+    epo: fajlilo; fajli
+    spa: lima, escofina (_herramienta_); limar, raspar, escofinar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Indonesisa (kikir), Pilipinasa (kikil)
+...

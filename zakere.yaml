@@ -1,0 +1,61 @@
+---
+term: zakere
+slug: zakere
+ipa: "za\u02C8ke\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=za\u02C8ke\u027Ee&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - negotiation
+  - - negotiate
+  epo:
+  - - intertraktado
+  - - pritrakti
+    - intertrakti
+  spa:
+  - - "negociaci\xF3n"
+  - - negociar
+search terms:
+  glb:
+  - zakere
+  eng:
+  - negotiation
+  - negotiate
+  epo:
+  - intertraktado
+  - pritrakti
+  - intertrakti
+  spa:
+  - "negociaci\xF3n"
+  - negociar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0630\u064E\u0627\u0643\u064E\u0631\u064E \u201Cdhakara\u201D"
+  Parsisa:
+  - - "\u0645\u0630\u0627\u06A9\u0631\u0647 \u201Cmozakere\u201D"
+  Turkisa:
+  - - "m\xFCzakere"
+raw data:
+  term: zakere
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: negotiation; negotiate
+    epo: intertraktado; pritrakti, intertrakti
+    spa: "negociaci\xF3n; negociar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0630\u064E\u0627\u0643\u064E\u0631\u064E \u201Cdhakara\u201D),
+    Parsisa (\u0645\u0630\u0627\u06A9\u0631\u0647 \u201Cmozakere\u201D), Turkisa (m\xFCzakere)"
+...

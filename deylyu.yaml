@@ -1,0 +1,61 @@
+---
+term: deylyu
+slug: deylyu
+ipa: ˈdejlju
+ipa link: http://ipa-reader.xyz/?text=ˈdejlju&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - convection
+  - - convect
+  epo:
+  - - konvekto
+  - - konvekti
+  spa:
+  - - convección
+  - - moverse por convección
+search terms:
+  glb:
+  - deylyu
+  eng:
+  - convection
+  - convect
+  epo:
+  - konvekto
+  - konvekti
+  spa:
+  - convección
+  - moverse por convección
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 对流 "dweylyow"
+  Niponsa:
+  - - 対流 "tayryu"
+  Vyetnamsa:
+  - - đối lưu "doylyu"
+  Hangusa:
+  - - 대류 "deryu"
+raw data:
+  term: deylyu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: convection; convect
+    epo: konvekto; konvekti
+    spa: convección; moverse por convección
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (对流 "dweylyow"), Niponsa (対流 "tayryu"), Vyetnamsa (đối lưu "doylyu"),
+    Hangusa (대류 "deryu")
+...

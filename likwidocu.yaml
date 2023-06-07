@@ -1,0 +1,50 @@
+---
+term: likwidocu
+slug: likwidocu
+ipa: "likwi\u02C8dot\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=likwi\u02C8dot\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - liquify
+  epo:
+  - - "ligvi\u011Do"
+  - - "ligvi\u011Di"
+  spa:
+  - - licuarse
+    - "hacerse l\xEDquido"
+search terms:
+  glb:
+  - likwidocu
+  eng:
+  - liquify
+  epo:
+  - "ligvi\u011Do"
+  - "ligvi\u011Di"
+  spa:
+  - licuarse
+  - "hacerse l\xEDquido"
+etymology_type: DERIVD
+etymology: <a href="../lexi/likwido">likwido</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: likwidocu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: liquify
+    epo: "ligvi\u011Do; ligvi\u011Di"
+    spa: "licuarse, hacerse l\xEDquido"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: likwido + -cu
+...

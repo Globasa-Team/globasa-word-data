@@ -1,0 +1,65 @@
+---
+term: rosa
+slug: rosa
+ipa: "\u02C8\u027Eosa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eosa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rose
+  epo:
+  - - rozo
+  spa:
+  - - rosa (_flor_)
+    - _Rosa_
+search terms:
+  glb:
+  - rosa
+  eng:
+  - rose
+  epo:
+  - rozo
+  spa:
+  - rosa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rose
+  Doycisa:
+  - - Rose
+  Fransesa:
+  - - rose
+  Espanisa:
+  - - rosa
+  Rusisa:
+  - - "\u0440\u043E\u0437\u0430 \u201Croza\u201D"
+  Indonesisa:
+  - - ros
+  Pilipinasa:
+  - - rosas
+  Parsisa:
+  - - "\u0631\u0632 \u201Croz\u201D"
+raw data:
+  term: rosa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rose
+    epo: rozo
+    spa: rosa (_flor_), _Rosa_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (rose), Doycisa (Rose), Fransesa (rose), Espanisa (rosa), Rusisa
+    (\u0440\u043E\u0437\u0430 \u201Croza\u201D), Indonesisa (ros), Pilipinasa (rosas),
+    Parsisa (\u0631\u0632 \u201Croz\u201D)"
+...

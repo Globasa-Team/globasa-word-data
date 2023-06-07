@@ -1,0 +1,53 @@
+---
+term: kolor
+slug: kolor
+ipa: "ko\u02C8lo\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8lo\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - color
+  epo:
+  - - koloro
+  spa:
+  - - color
+  deu:
+  - - Farbe
+  - - "f\xE4rben"
+search terms:
+  glb:
+  - kolor
+  eng:
+  - color
+  epo:
+  - koloro
+  spa:
+  - color
+  deu:
+  - farbe
+  - "f\xE4rben"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kolor
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: color
+    epo: koloro
+    spa: color
+    deu: "Farbe; f\xE4rben"
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (color), Fransesa (couleur), Doycisa (kolorieren), Rusisa (\u043A\u043E\u043B\u0435\u0440
+    \u201Ckoler\u201D), Espanisa (color), Pilipinasa (kulay)"
+...

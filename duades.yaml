@@ -1,0 +1,46 @@
+---
+term: duades
+slug: duades
+ipa: "dua\u02C8des"
+ipa link: "http://ipa-reader.xyz/?text=dua\u02C8des&voice=Ewa"
+status: false
+category: derived
+word class: num
+trans:
+  eng:
+  - - twenty
+  epo:
+  - - dudek
+  spa:
+  - - veinte
+search terms:
+  glb:
+  - duades
+  eng:
+  - twenty
+  epo:
+  - dudek
+  spa:
+  - veinte
+etymology_type: DERIVD
+etymology: <a href="../lexi/dua">dua</a> + <a href="../lexi/des">des</a>
+raw data:
+  term: duades
+  category: derived
+  word class: num
+  status: false
+  trans:
+    eng: twenty
+    epo: dudek
+    spa: veinte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dua + des
+...

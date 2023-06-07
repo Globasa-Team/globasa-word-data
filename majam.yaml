@@ -1,0 +1,53 @@
+---
+term: majam
+slug: majam
+ipa: "ma\u02C8d\u0361\u0292am"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8d\u0361\u0292am&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - marrow
+    - medulla
+    - pith
+  epo:
+  - - medolo
+  spa:
+  - - "m\xE9dula"
+    - "tu\xE9tano"
+search terms:
+  glb:
+  - majam
+  eng:
+  - marrow
+  - medulla
+  - pith
+  epo:
+  - medolo
+  spa:
+  - "m\xE9dula"
+  - "tu\xE9tano"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: majam
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: marrow, medulla, pith
+    epo: medolo
+    spa: "m\xE9dula, tu\xE9tano"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u092E\u091C\u094D\u091C\u093E \u201Cmaja\u201D), Telugusa
+    (\u0C2E\u0C1C\u0C4D\u0C1C\u0C2E\u0C41 \u201Cmajamu\u201D)"
+...

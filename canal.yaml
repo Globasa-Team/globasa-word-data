@@ -1,0 +1,94 @@
+---
+term: canal
+slug: canal
+ipa: t͡ʃaˈnal
+ipa link: http://ipa-reader.xyz/?text=t͡ʃaˈnal&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - channel
+    - canal
+  epo:
+  - - kanalo
+  spa:
+  - - canal
+  fra:
+  - - chaîne
+  rus:
+  - - канал
+search terms:
+  glb:
+  - canal
+  eng:
+  - channel
+  - canal
+  epo:
+  - kanalo
+  spa:
+  - canal
+  fra:
+  - chaîne
+  rus:
+  - канал
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - channel
+    - canal
+  Espanisa:
+  - - canal
+  Fransesa:
+  - - chaîne
+  Rusisa:
+  - - канал “kanal”
+  Doycisa:
+  - - Kanal
+  Indonesisa:
+  - - kanal
+  Pilipinasa:
+  - - kanal
+    - channel
+  Hindisa:
+  - - चैनल “cenal”
+  Arabisa:
+  - - قَنَاة “kanah”
+  Niponsa:
+  - - チャンネル “canneru”
+  Telugusa:
+  - - ఛానల్ “canal”
+  Turkisa:
+  - - kanal
+  Hangusa:
+  - - 채널 “cenol”
+  Vyetnamsa:
+  - - kênh
+  Parsisa:
+  - - کانال “kanal”
+  Swahilisa:
+  - - chaneli
+raw data:
+  term: canal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: channel, canal
+    epo: kanalo
+    spa: canal
+    deu: ""
+    fra: chaîne
+    rus: канал
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (channel, canal), Espanisa (canal), Fransesa (chaîne), Rusisa
+    (канал “kanal”), Doycisa (Kanal), Indonesisa (kanal), Pilipinasa (kanal, channel),
+    Hindisa (चैनल “cenal”), Arabisa (قَنَاة “kanah”), Niponsa (チャンネル “canneru”), Telugusa
+    (ఛానల్ “canal”), Turkisa (kanal), Hangusa (채널 “cenol”), Vyetnamsa (kênh), Parsisa
+    (کانال “kanal”), Swahilisa (chaneli)
+...

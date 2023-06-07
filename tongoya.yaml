@@ -1,0 +1,48 @@
+---
+term: tongoya
+slug: tongoya
+ipa: "ton\u02C8goja"
+ipa link: "http://ipa-reader.xyz/?text=ton\u02C8goja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - togetherness
+    - company
+  epo:
+  - - kuneco
+  spa:
+  - - "compa\xF1\xEDa"
+search terms:
+  glb:
+  - tongoya
+  eng:
+  - togetherness
+  - company
+  epo:
+  - kuneco
+  spa:
+  - "compa\xF1\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tongo">tongo</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: tongoya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: togetherness, company
+    epo: kuneco
+    spa: "compa\xF1\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tongo + -ya
+...

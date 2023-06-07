@@ -1,0 +1,54 @@
+---
+term: informe
+slug: informe
+ipa: "in\u02C8fo\u027Eme"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8fo\u027Eme&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - information
+  - - inform
+  epo:
+  - - informo
+  - - informi
+  spa:
+  - - "informaci\xF3n"
+  - - informar
+search terms:
+  glb:
+  - informe
+  eng:
+  - information
+  - inform
+  epo:
+  - informo
+  - informi
+  spa:
+  - "informaci\xF3n"
+  - informar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: informe
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: information; inform
+    epo: informo; informi
+    spa: "informaci\xF3n; informar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (inform), Doycisa (Information, informieren), Fransesa (informations,
+    informer), Espanisa (informaci\xF3n), Rusisa (\u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F
+    \u201Cinformatsiya\u201D), Indonesisa (informasi), Pilipinasa (impormasyon)"
+...

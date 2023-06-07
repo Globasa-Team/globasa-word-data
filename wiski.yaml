@@ -1,0 +1,80 @@
+---
+term: wiski
+slug: wiski
+ipa: "\u02C8wiski"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wiski&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - whiskey
+  epo:
+  - - viskio
+  spa:
+  - - "g\xFCisqui"
+search terms:
+  glb:
+  - wiski
+  eng:
+  - whiskey
+  epo:
+  - viskio
+  spa:
+  - "g\xFCisqui"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - whiskey
+  Espanisa:
+  - - wisky
+  Fransesa: ~
+  Rusisa:
+  - - "\u0432\u0438\u0441\u043A\u0438 \u201Cviski\u201D"
+  Doycisa:
+  - - Whisky
+  Vyetnamsa: ~
+  Indonesisa:
+  - - wiski
+  Pilipinasa: ~
+  Swahilisa: ~
+  Putunhwa:
+  - - "\u5A01\u58EB\u5FCC \u201Cweyxiji\u201D"
+  Hindisa:
+  - - "\u0935\u094D\u0939\u093F\u0938\u094D\u0915\u0940 \u201Cvhiski\u201D"
+  Arabisa:
+  - - "\u0648\u0650\u064A\u0633\u0652\u0643\u0650\u064A \u201Cwiski\u201D"
+  Niponsa:
+  - - "\u30A6\u30A3\u30B9\u30AD\u30FC \u201Cwisuki\u201D"
+  Telugusa:
+  - - "\u0C35\u0C3F\u0C38\u0C4D\u0C15\u0C40 \u201Cviski\u201D"
+  Hangusa:
+  - - "\uC704\uC2A4\uD0A4 \u201Cwisuki\u201D"
+  Parsisa:
+  - - "\u0648\u06CC\u0633\u06A9\u06CC \u201Cviski\u201D"
+raw data:
+  term: wiski
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: whiskey
+    epo: viskio
+    spa: "g\xFCisqui"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (whiskey), Espanisa (wisky), Fransesa, Rusisa (\u0432\u0438\u0441\u043A\u0438
+    \u201Cviski\u201D), Doycisa (Whisky), Vyetnamsa, Indonesisa (wiski), Pilipinasa,
+    Swahilisa, Putunhwa (\u5A01\u58EB\u5FCC \u201Cweyxiji\u201D), Hindisa (\u0935\u094D\u0939\u093F\u0938\u094D\u0915\u0940
+    \u201Cvhiski\u201D), Arabisa (\u0648\u0650\u064A\u0633\u0652\u0643\u0650\u064A
+    \u201Cwiski\u201D), Niponsa (\u30A6\u30A3\u30B9\u30AD\u30FC \u201Cwisuki\u201D),
+    Telugusa (\u0C35\u0C3F\u0C38\u0C4D\u0C15\u0C40 \u201Cviski\u201D), Hangusa (\uC704\uC2A4\uD0A4
+    \u201Cwisuki\u201D), Parsisa (\u0648\u06CC\u0633\u06A9\u06CC \u201Cviski\u201D)"
+...

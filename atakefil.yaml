@@ -1,0 +1,52 @@
+---
+term: atakefil
+slug: atakefil
+ipa: "atake\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=atake\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - aggressive
+  epo:
+  - - agresa
+    - agresema
+    - atakema
+  - - atakeme
+  spa:
+  - - agresivo
+search terms:
+  glb:
+  - atakefil
+  eng:
+  - aggressive
+  epo:
+  - agresa
+  - agresema
+  - atakema
+  - atakeme
+  spa:
+  - agresivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/atake">atake</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: atakefil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: aggressive
+    epo: agresa, agresema, atakema; atakeme
+    spa: agresivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: atake + -fil
+...

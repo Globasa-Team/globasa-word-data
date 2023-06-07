@@ -1,0 +1,87 @@
+---
+term: censur
+slug: censur
+ipa: "t\u0361\u0283en\u02C8su\u027E"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283en\u02C8su\u027E&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - censorship
+  - - censor
+  epo:
+  - - cenzurado
+  - - cenzuri
+  spa:
+  - - censura
+  - - censurar
+search terms:
+  glb:
+  - censur
+  eng:
+  - censorship
+  - censor
+  epo:
+  - cenzurado
+  - cenzuri
+  spa:
+  - censura
+  - censurar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - censor
+  Espanisa:
+  - - censura
+  Fransesa:
+  - - censure
+  Rusisa:
+  - - "\u0446\u0435\u043D\u0437\u0443\u0440\u0430 \"tsenzura\""
+  Doycisa:
+  - - Zensur
+  Italisa:
+  - - censura
+  Indonesisa:
+  - - sensor
+  Pilipinasa:
+  - - sensura
+  Putunhwa:
+  - - "\u68C0\u67E5 \"jyenca\""
+    - "\u5BA1\u67E5 \"xenca\""
+  Hindisa:
+  - - "\u0938\u0947\u0902\u0938\u0930\u0936\u093F\u092A \"sensarxip\""
+    - "\u0938\u0947\u0902\u0938\u0930 \"sensar\""
+  Turkisa:
+  - - "sans\xFCr"
+  Hangusa:
+  - - "\uC13C\uC11C\uC2ED \"sensoxib\""
+  Parsisa:
+  - - "\u0633\u0627\u0646\u0633\u0648\u0631 \"s\xE2nsur\""
+tags:
+- politu
+raw data:
+  term: censur
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: censorship; censor
+    epo: cenzurado; cenzuri
+    spa: censura; censurar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politu
+  etymology: "Englisa (censor), Espanisa (censura), Fransesa (censure), Rusisa (\u0446\u0435\u043D\u0437\u0443\u0440\u0430
+    \"tsenzura\"), Doycisa (Zensur), Italisa (censura), Indonesisa (sensor), Pilipinasa
+    (sensura), Putunhwa (\u68C0\u67E5 \"jyenca\", \u5BA1\u67E5 \"xenca\"), Hindisa
+    (\u0938\u0947\u0902\u0938\u0930\u0936\u093F\u092A \"sensarxip\", \u0938\u0947\u0902\u0938\u0930
+    \"sensar\"), Turkisa (sans\xFCr), Hangusa (\uC13C\uC11C\uC2ED \"sensoxib\"), Parsisa
+    (\u0633\u0627\u0646\u0633\u0648\u0631 \"s\xE2nsur\")"
+...

@@ -1,0 +1,51 @@
+---
+term: janin
+slug: janin
+ipa: "d\u0361\u0292a\u02C8nin"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8nin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fetus
+    - embryo
+  epo:
+  - - feto
+  spa:
+  - - feto
+    - "embri\xF3n"
+search terms:
+  glb:
+  - janin
+  eng:
+  - fetus
+  - embryo
+  epo:
+  - feto
+  spa:
+  - feto
+  - "embri\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: janin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fetus, embryo
+    epo: feto
+    spa: "feto, embri\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u064E\u0646\u0650\u064A\u0646 \u201Cjanin\u201D), Parsisa
+    (\u062C\u0646\u06CC\u0646 \u201Cjanin\u201D), Indonesisa (janin), Turkisa (cenin)"
+...

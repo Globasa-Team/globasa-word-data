@@ -1,0 +1,42 @@
+---
+term: ultrali
+slug: ultrali
+ipa: "ul\u02C8t\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=ul\u02C8t\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - from beyond
+  spa:
+  - - "de m\xE1s all\xE1"
+search terms:
+  glb:
+  - ultrali
+  eng:
+  - from beyond
+  spa:
+  - "de m\xE1s all\xE1"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ultra">ultra</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: ultrali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: from beyond
+    epo: ""
+    spa: "de m\xE1s all\xE1"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ultra + -li
+...

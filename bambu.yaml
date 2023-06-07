@@ -1,0 +1,65 @@
+---
+term: bambu
+slug: bambu
+ipa: ˈbambu
+ipa link: http://ipa-reader.xyz/?text=ˈbambu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bamboo
+  epo:
+  - - bambuo
+  spa:
+  - - bambú
+    - _Bambusoideae_
+search terms:
+  glb:
+  - bambu
+  eng:
+  - bamboo
+  epo:
+  - bambuo
+  spa:
+  - bambú
+  - bambusoideae
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Bambus
+  Englisa:
+  - - bamboo
+  Espanisa:
+  - - bambú
+  Fransesa:
+  - - bambou
+  Rusisa:
+  - - бамбук “bambuk”
+  Turkisa:
+  - - bambu
+  Indonesisa:
+  - - bambu
+tags:
+- planta
+raw data:
+  term: bambu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bamboo
+    epo: bambuo
+    spa: bambú, _Bambusoideae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta
+  etymology: Doycisa (Bambus), Englisa (bamboo), Espanisa (bambú), Fransesa (bambou),
+    Rusisa (бамбук “bambuk”), Turkisa (bambu), Indonesisa (bambu)
+...

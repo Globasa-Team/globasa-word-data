@@ -1,0 +1,58 @@
+---
+term: cakix
+slug: cakix
+ipa: t͡ʃaˈkiʃ
+ipa link: http://ipa-reader.xyz/?text=t͡ʃaˈkiʃ&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - hammer
+  epo:
+  - - martelo
+  - - marteli
+  spa:
+  - - martillo
+  - - martillar
+search terms:
+  glb:
+  - cakix
+  eng:
+  - hammer
+  epo:
+  - martelo
+  - marteli
+  spa:
+  - martillo
+  - martillar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - شَاكُوش “šākūš”
+  Parsisa:
+  - - چکش “čakoš”
+  Turkisa:
+  - - çekiç
+tags:
+- tul
+raw data:
+  term: cakix
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: hammer
+    epo: martelo; marteli
+    spa: martillo; martillar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: tul
+  etymology: Arabisa (شَاكُوش “šākūš”), Parsisa (چکش “čakoš”), Turkisa (çekiç)
+...

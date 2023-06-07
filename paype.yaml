@@ -1,0 +1,61 @@
+---
+term: paype
+slug: paype
+ipa: "\u02C8pajpe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pajpe&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pipe (_instrument_)
+    - fife
+  epo:
+  - - "\u015Dalmo"
+  - - "\u015Dalmi"
+  spa:
+  - - "p\xEDfano"
+    - "octav\xEDn"
+    - "flaut\xEDn"
+search terms:
+  glb:
+  - paype
+  eng:
+  - pipe
+  - fife
+  epo:
+  - "\u015Dalmo"
+  - "\u015Dalmi"
+  spa:
+  - "p\xEDfano"
+  - "octav\xEDn"
+  - "flaut\xEDn"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pipe
+    - piper
+  Doycisa:
+  - - Pfeife
+  Pilipinasa:
+  - - pipa
+raw data:
+  term: paype
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pipe (_instrument_), fife
+    epo: "\u015Dalmo; \u015Dalmi"
+    spa: "p\xEDfano, octav\xEDn, flaut\xEDn"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (pipe, piper), Doycisa (Pfeife), Pilipinasa (pipa)
+...

@@ -1,0 +1,54 @@
+---
+term: kanmunli
+slug: kanmunli
+ipa: "kan\u02C8munli"
+ipa link: "http://ipa-reader.xyz/?text=kan\u02C8munli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - anal
+  - - anally
+  epo:
+  - - anusa
+    - "posta\u0135otrua"
+  - - anuse
+    - "posta\u0135otrue"
+  spa:
+  - - anal
+search terms:
+  glb:
+  - kanmunli
+  eng:
+  - anal
+  - anally
+  epo:
+  - anusa
+  - "posta\u0135otrua"
+  - anuse
+  - "posta\u0135otrue"
+  spa:
+  - anal
+etymology_type: DERIVD
+etymology: <a href="../lexi/kanmun">kanmun</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: kanmunli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: anal; anally
+    epo: "anusa, posta\u0135otrua; anuse, posta\u0135otrue"
+    spa: anal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kanmun + -li
+...

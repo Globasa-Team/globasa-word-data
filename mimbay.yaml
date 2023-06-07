@@ -1,0 +1,59 @@
+---
+term: mimbay
+slug: mimbay
+ipa: "mim\u02C8baj"
+ipa link: "http://ipa-reader.xyz/?text=mim\u02C8baj&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - obvious
+    - obviously
+    - of course
+  epo:
+  - - evidenta
+  - - evidente
+    - kompreneble
+  spa:
+  - - obvio
+  - - obviamente
+    - por supuesto
+search terms:
+  glb:
+  - mimbay
+  eng:
+  - obvious
+  - obviously
+  - of course
+  epo:
+  - evidenta
+  - evidente
+  - kompreneble
+  spa:
+  - obvio
+  - obviamente
+  - por supuesto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mimbay
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: obvious, obviously, of course
+    epo: evidenta; evidente, kompreneble
+    spa: obvio; obviamente, por supuesto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u660E\u767D \u201Cm\xEDngb\xE1i\u201D), Hangusa (\uBA85\uBC31\uD558\uAC8C
+    \u201Cmyeongbaeghage\u201D), Vyetnamsa (minh ba\u0323ch)"
+...

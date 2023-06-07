@@ -1,0 +1,78 @@
+---
+term: gibatu
+slug: gibatu
+ipa: giˈbatu
+ipa link: http://ipa-reader.xyz/?text=giˈbatu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - backbite
+    - badmouth
+    - slander
+    - libel
+    - calumny
+    - defame
+  epo:
+  - - kalumnio
+  - - kalumnii
+  spa:
+  - - calumnia
+    - libelo
+    - difamación
+  - - calumniar
+    - difamar
+search terms:
+  glb:
+  - gibatu
+  eng:
+  - backbite
+  - badmouth
+  - slander
+  - libel
+  - calumny
+  - defame
+  epo:
+  - kalumnio
+  - kalumnii
+  spa:
+  - calumnia
+  - libelo
+  - difamación
+  - calumniar
+  - difamar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - غِيبَة "ḡiba"
+    - غِيبَةُ "ḡibatu"
+  Indonesisa:
+  - - gibah
+  Turkisa:
+  - - gıybet
+  Parsisa:
+  - - غیبت "ğeybet"
+  Urdu:
+  - - غِیبَت "ġibat"
+raw data:
+  term: gibatu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: backbite, badmouth, slander, libel, calumny, defame
+    epo: kalumnio; kalumnii
+    spa: calumnia, libelo, difamación; calumniar, difamar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (غِيبَة "ḡiba", غِيبَةُ "ḡibatu"), Indonesisa (gibah), Turkisa
+    (gıybet), Parsisa (غیبت "ğeybet"), Urdu (غِیبَت "ġibat")
+...

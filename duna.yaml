@@ -1,0 +1,76 @@
+---
+term: duna
+slug: duna
+ipa: ˈduna
+ipa link: http://ipa-reader.xyz/?text=ˈduna&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dune
+  epo:
+  - - duno
+  spa:
+  - - duna
+    - médano
+  deu:
+  - - Düne
+search terms:
+  glb:
+  - duna
+  eng:
+  - dune
+  epo:
+  - duno
+  spa:
+  - duna
+  - médano
+  deu:
+  - düne
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - dune
+  Espanisa:
+  - - duna
+  Fransesa:
+  - - dune
+  Rusisa:
+  - - дюна “dyuna”
+  Doycisa:
+  - - Düne
+  Portugalsa:
+  - - duna
+  Italisa:
+  - - duna
+  Hangusa:
+  - - 둔 “dun”
+    - 둔덕 “dundok”
+    - 둔치 “dunci”
+  Vyetnamsa:
+  - - đụn cát
+tags:
+- geografi
+raw data:
+  term: duna
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dune
+    epo: duno
+    spa: duna, médano
+    deu: Düne
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: Englisa (dune), Espanisa (duna), Fransesa (dune), Rusisa (дюна “dyuna”),
+    Doycisa (Düne), Portugalsa (duna), Italisa (duna), Hangusa (둔 “dun”, 둔덕 “dundok”,
+    둔치 “dunci”), Vyetnamsa (đụn cát)
+...

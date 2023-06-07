@@ -1,0 +1,46 @@
+---
+term: manixu
+slug: manixu
+ipa: "ma\u02C8ni\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8ni\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - man
+  epo:
+  - - viro
+  spa:
+  - - hombre
+search terms:
+  glb:
+  - manixu
+  eng:
+  - man
+  epo:
+  - viro
+  spa:
+  - hombre
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/ixu">ixu</a>
+raw data:
+  term: manixu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: man
+    epo: viro
+    spa: hombre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + ixu
+...

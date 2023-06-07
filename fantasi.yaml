@@ -1,0 +1,75 @@
+---
+term: fantasi
+slug: fantasi
+ipa: fanˈtasi
+ipa link: http://ipa-reader.xyz/?text=fanˈtasi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fantasy
+  epo:
+  - - fantazio
+  spa:
+  - - fantasía
+search terms:
+  glb:
+  - fantasi
+  eng:
+  - fantasy
+  epo:
+  - fantazio
+  spa:
+  - fantasía
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fantasy
+  Fransesa:
+  - - fantaisie
+  Doycisa:
+  - - Fantasie
+  Rusisa:
+  - - фантазия “fantaziya”
+  Espanisa:
+  - - fantasia
+  Hindisa:
+  - - फँतासी “fantasi”
+  Niponsa:
+  - - ファンタジー “fantajī”
+  Turkisa:
+  - - fantazi
+  Parsisa:
+  - - فانتزی “fântezi”
+  Indonesisa:
+  - - fantasi
+  Hangusa:
+  - - 판타지 “pantaji”
+  Pilipinasa:
+  - - pantasya
+  Swahilisa:
+  - - fantasia
+raw data:
+  term: fantasi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fantasy
+    epo: fantazio
+    spa: fantasía
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (fantasy), Fransesa (fantaisie), Doycisa (Fantasie), Rusisa (фантазия
+    “fantaziya”), Espanisa (fantasia), Hindisa (फँतासी “fantasi”), Niponsa (ファンタジー
+    “fantajī”), Turkisa (fantazi), Parsisa (فانتزی “fântezi”), Indonesisa (fantasi),
+    Hangusa (판타지 “pantaji”), Pilipinasa (pantasya), Swahilisa (fantasia)
+...

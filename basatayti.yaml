@@ -1,0 +1,58 @@
+---
+term: basatayti
+slug: basatayti
+ipa: "basa\u02C8tajti"
+ipa link: "http://ipa-reader.xyz/?text=basa\u02C8tajti&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - translation
+    - interpretation
+  - - translate
+    - interpret
+  epo:
+  - - traduko
+  - - traduki
+    - translingvigi
+  spa:
+  - - "traducci\xF3n"
+  - - traducir
+search terms:
+  glb:
+  - basatayti
+  eng:
+  - translation
+  - interpretation
+  - translate
+  - interpret
+  epo:
+  - traduko
+  - traduki
+  - translingvigi
+  spa:
+  - "traducci\xF3n"
+  - traducir
+etymology_type: DERIVD
+etymology: <a href="../lexi/basa">basa</a> + <a href="../lexi/tayti">tayti</a>
+raw data:
+  term: basatayti
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: translation, interpretation; translate, interpret
+    epo: traduko; traduki, translingvigi
+    spa: "traducci\xF3n; traducir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: basa + tayti
+...

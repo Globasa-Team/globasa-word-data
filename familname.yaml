@@ -1,0 +1,46 @@
+---
+term: familname
+slug: familname
+ipa: "famil\u02C8name"
+ipa link: "http://ipa-reader.xyz/?text=famil\u02C8name&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - last name
+  epo:
+  - - familinomo
+  spa:
+  - - apellido
+search terms:
+  glb:
+  - familname
+  eng:
+  - last name
+  epo:
+  - familinomo
+  spa:
+  - apellido
+etymology_type: DERIVD
+etymology: <a href="../lexi/famil">famil</a> + <a href="../lexi/name">name</a>
+raw data:
+  term: familname
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: last name
+    epo: familinomo
+    spa: apellido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: famil + name
+...

@@ -1,0 +1,48 @@
+---
+term: infratermo
+slug: infratermo
+ipa: "inf\u027Ea\u02C8te\u027Emo"
+ipa link: "http://ipa-reader.xyz/?text=inf\u027Ea\u02C8te\u027Emo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hypothermia
+  epo:
+  - - hipotermio
+  spa:
+  - - hipotermia
+search terms:
+  glb:
+  - infratermo
+  eng:
+  - hypothermia
+  epo:
+  - hipotermio
+  spa:
+  - hipotermia
+etymology_type: DERIVD
+etymology: <a href="../lexi/infra-">infra-</a> + <a href="../lexi/termo">termo</a>
+tags:
+- medis
+raw data:
+  term: infratermo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hypothermia
+    epo: hipotermio
+    spa: hipotermia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: infra- + termo
+...

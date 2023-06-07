@@ -1,0 +1,56 @@
+---
+term: daydolo
+slug: daydolo
+ipa: "daj\u02C8dolo"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8dolo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - road
+    - highway
+    - freeway
+  epo:
+  - - "\u015Doseo"
+    - "a\u016Dtovojo"
+    - vojo
+  spa:
+  - - camino
+    - carretera
+search terms:
+  glb:
+  - daydolo
+  eng:
+  - road
+  - highway
+  - freeway
+  epo:
+  - "\u015Doseo"
+  - "a\u016Dtovojo"
+  - vojo
+  spa:
+  - camino
+  - carretera
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/dolo">dolo</a>
+raw data:
+  term: daydolo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'road, highway, freeway '
+    epo: "\u015Doseo, a\u016Dtovojo, vojo"
+    spa: camino, carretera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + dolo
+...

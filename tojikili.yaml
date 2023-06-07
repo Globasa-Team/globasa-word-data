@@ -1,0 +1,50 @@
+---
+term: tojikili
+slug: tojikili
+ipa: "tod\u0361\u0292i\u02C8kili"
+ipa link: "http://ipa-reader.xyz/?text=tod\u0361\u0292i\u02C8kili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Tajik
+    - Tajikistani
+  epo:
+  - - "ta\u011Dika"
+  - - "ta\u011Dike"
+  spa:
+  - - tayiko
+search terms:
+  glb:
+  - tojikili
+  eng:
+  - tajik
+  - tajikistani
+  epo:
+  - "ta\u011Dika"
+  - "ta\u011Dike"
+  spa:
+  - tayiko
+etymology_type: DERIVD
+etymology: <a href="../lexi/Tojiki">Tojiki</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Tojikili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Tajik, Tajikistani
+    epo: "ta\u011Dika; ta\u011Dike"
+    spa: tayiko
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Tojiki + -li
+...

@@ -1,0 +1,56 @@
+---
+term: imanuible
+slug: imanuible
+ipa: "imanu\u02C8ible"
+ipa link: "http://ipa-reader.xyz/?text=imanu\u02C8ible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - credible
+    - credibly
+    - believable
+    - believably
+  epo:
+  - - kredebla
+  - - kredeble
+  spa:
+  - - "cre\xEDble"
+  - - "cre\xEDblemente"
+search terms:
+  glb:
+  - imanuible
+  eng:
+  - credible
+  - credibly
+  - believable
+  - believably
+  epo:
+  - kredebla
+  - kredeble
+  spa:
+  - "cre\xEDble"
+  - "cre\xEDblemente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/imanu">imanu</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: imanuible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: credible, credibly, believable, believably
+    epo: kredebla; kredeble
+    spa: "cre\xEDble; cre\xEDblemente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: imanu + -ible
+...

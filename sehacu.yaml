@@ -1,0 +1,52 @@
+---
+term: sehacu
+slug: sehacu
+ipa: "se\u02C8xat\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8xat\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - get healthy
+    - become healthy
+  epo:
+  - - "sani\u011Do"
+  - - "sani\u011Di"
+  spa:
+  - - ponerse sano
+    - sanar
+search terms:
+  glb:
+  - sehacu
+  eng:
+  - get healthy
+  - become healthy
+  epo:
+  - "sani\u011Do"
+  - "sani\u011Di"
+  spa:
+  - ponerse sano
+  - sanar
+etymology_type: DERIVD
+etymology: <a href="../lexi/seha">seha</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: sehacu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: get healthy, become healthy
+    epo: "sani\u011Do; sani\u011Di"
+    spa: ponerse sano, sanar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: seha + -cu
+...

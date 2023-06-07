@@ -1,0 +1,50 @@
+---
+term: sudan
+slug: sudan
+ipa: "su\u02C8dan"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8dan&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Sudan
+  epo:
+  - - Sudano
+  spa:
+  - - "Sud\xE1n"
+search terms:
+  glb:
+  - sudan
+  eng:
+  - sudan
+  epo:
+  - sudano
+  spa:
+  - "sud\xE1n"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0627\u0644\u0633\u0648\u062F\u0627\u0646\u200E as-S\u016Bd\u0101n"
+tags:
+- dexa
+raw data:
+  term: Sudan
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Sudan
+    epo: Sudano
+    spa: "Sud\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u0627\u0644\u0633\u0648\u062F\u0627\u0646\u200E as-S\u016Bd\u0101n)"
+...

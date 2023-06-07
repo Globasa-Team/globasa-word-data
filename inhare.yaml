@@ -1,0 +1,52 @@
+---
+term: inhare
+slug: inhare
+ipa: "in\u02C8xa\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8xa\u027Ee&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - content
+  - - contain
+  epo:
+  - - enhavo
+  - - enhavi
+  spa:
+  - - contenido
+  - - contener
+search terms:
+  glb:
+  - inhare
+  eng:
+  - content
+  - contain
+  epo:
+  - enhavo
+  - enhavi
+  spa:
+  - contenido
+  - contener
+etymology_type: DERIVD
+etymology: <a href="../lexi/in-">in-</a> + <a href="../lexi/hare">hare</a>
+raw data:
+  term: inhare
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: content; contain
+    epo: enhavo; enhavi
+    spa: contenido; contener
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in- + hare
+...

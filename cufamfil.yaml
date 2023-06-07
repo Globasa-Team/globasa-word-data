@@ -1,0 +1,48 @@
+---
+term: cufamfil
+slug: cufamfil
+ipa: "t\u0361\u0283ufam\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ufam\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - offensive
+  epo:
+  - - ofendema
+  - - ofendeme
+  spa:
+  - - ofensivo
+search terms:
+  glb:
+  - cufamfil
+  eng:
+  - offensive
+  epo:
+  - ofendema
+  - ofendeme
+  spa:
+  - ofensivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/cufam">cufam</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: cufamfil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: offensive
+    epo: ofendema; ofendeme
+    spa: ofensivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cufam + -fil
+...

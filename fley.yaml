@@ -1,0 +1,58 @@
+---
+term: fley
+slug: fley
+ipa: ˈflej
+ipa link: http://ipa-reader.xyz/?text=ˈflej&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - flight
+  - - fly
+  epo:
+  - - flugo
+  - - flugi
+  spa:
+  - - vuelo
+  - - volar
+search terms:
+  glb:
+  - fley
+  eng:
+  - flight
+  - fly
+  epo:
+  - flugo
+  - flugi
+  spa:
+  - vuelo
+  - volar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 飞 “fēi”
+  Englisa:
+  - - fly
+  Doycisa:
+  - - fligen
+raw data:
+  term: fley
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: flight; fly
+    epo: flugo; flugi
+    spa: vuelo; volar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa  (飞 “fēi”), Englisa (fly), Doycisa (fligen)
+...

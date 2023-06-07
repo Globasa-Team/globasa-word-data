@@ -1,0 +1,65 @@
+---
+term: injeneri
+slug: injeneri
+ipa: "ind\u0361\u0292e\u02C8ne\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=ind\u0361\u0292e\u02C8ne\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - engineering
+  - - engineer
+  epo:
+  - - "in\u011Denierio"
+  - - "in\u011Denierii"
+    - realigi
+    - elpensi
+    - modifi
+  spa:
+  - - "ingenier\xEDa"
+  - - ingeniar
+search terms:
+  glb:
+  - injeneri
+  eng:
+  - engineering
+  - engineer
+  epo:
+  - "in\u011Denierio"
+  - "in\u011Denierii"
+  - realigi
+  - elpensi
+  - modifi
+  spa:
+  - "ingenier\xEDa"
+  - ingeniar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- insan
+raw data:
+  term: injeneri
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: engineering; engineer
+    epo: "in\u011Denierio; in\u011Denierii, realigi, elpensi, modifi"
+    spa: "ingenier\xEDa; ingeniar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: "Englisa (engineering), Fransesa (ing\xE9nierie), Doycisa (Engineering,
+    Ingenieur), Rusisa (\u0438\u043D\u0436\u0435\u043D\u0435\u0440\u0438\u044F \u201Cinjeneriya\u201D),
+    Espanisa (ingener\xEDa), Hindisa (\u0907\u0902\u091C\u0940\u0928\u093F\u092F\u0930
+    \u201Cinjiniyar\u201D - injeneriyen), Indonesisa (insinyur - injeneriyen), Pilipinasa
+    (inhenyeriya), Niponsa (\u30A8\u30F3\u30B8\u30CB\u30A2\u30EA\u30F3\u30B0 \u201Cenjiniaringu\u201D),
+    Parsisa (\u0627\u0646\u062C\u0646\u06CC\u0631 \u201Cenjenier\u201D - injeneriyen)"
+...

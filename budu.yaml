@@ -1,0 +1,53 @@
+---
+term: budu
+slug: budu
+ipa: "\u02C8budu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8budu&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Mercury (_planet_)
+  epo:
+  - - Merkuro (_planedo_)
+  spa:
+  - - Mercurio (_planeta_)
+search terms:
+  glb:
+  - budu
+  eng:
+  - mercury
+  epo:
+  - merkuro
+  spa:
+  - mercurio
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u092C\u0941\u0927 \u201Cbudh\u201D"
+  Telugusa:
+  - - "\u0C2C\u0C41\u0C27\u0C41\u0C21\u0C41 \u201Cbudhu\u1E0Du\u201D"
+tags:
+- planeta
+raw data:
+  term: Budu
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Mercury (_planet_)
+    epo: Merkuro (_planedo_)
+    spa: Mercurio (_planeta_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planeta
+  etymology: "Hindisa (\u092C\u0941\u0927 \u201Cbudh\u201D), Telugusa (\u0C2C\u0C41\u0C27\u0C41\u0C21\u0C41
+    \u201Cbudhu\u1E0Du\u201D)"
+...

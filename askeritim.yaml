@@ -1,0 +1,46 @@
+---
+term: askeritim
+slug: askeritim
+ipa: "aske\u027Ei\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=aske\u027Ei\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - army
+  epo:
+  - - armeo
+  spa:
+  - - "ej\xE9rcito"
+search terms:
+  glb:
+  - askeritim
+  eng:
+  - army
+  epo:
+  - armeo
+  spa:
+  - "ej\xE9rcito"
+etymology_type: DERIVD
+etymology: <a href="../lexi/askeri">askeri</a> + <a href="../lexi/-tim">-tim</a>
+raw data:
+  term: askeritim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: army
+    epo: armeo
+    spa: "ej\xE9rcito"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: askeri + -tim
+...

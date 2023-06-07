@@ -1,0 +1,50 @@
+---
+term: angola
+slug: angola
+ipa: "an\u02C8gola"
+ipa link: "http://ipa-reader.xyz/?text=an\u02C8gola&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Angola
+  epo:
+  - - Angolo
+  spa:
+  - - Angola
+search terms:
+  glb:
+  - angola
+  eng:
+  - angola
+  epo:
+  - angolo
+  spa:
+  - angola
+etymology_type: NATLNG
+etymology:
+  Portugalsa:
+  - - Angola
+tags:
+- dexa
+raw data:
+  term: Angola
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Angola
+    epo: Angolo
+    spa: Angola
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Portugalsa (Angola)
+...

@@ -1,0 +1,48 @@
+---
+term: pesapul
+slug: pesapul
+ipa: "pesa\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=pesa\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - rich
+  epo:
+  - - "ri\u0109a"
+  - - "ri\u0109e"
+  spa:
+  - - rico
+search terms:
+  glb:
+  - pesapul
+  eng:
+  - rich
+  epo:
+  - "ri\u0109a"
+  - "ri\u0109e"
+  spa:
+  - rico
+etymology_type: DERIVD
+etymology: <a href="../lexi/pesa">pesa</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: pesapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: rich
+    epo: "ri\u0109a; ri\u0109e"
+    spa: rico
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pesa + -pul
+...

@@ -1,0 +1,50 @@
+---
+term: kosya
+slug: kosya
+ipa: "\u02C8kosja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kosja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - is because of
+    - is due to
+  epo:
+  - - esti pro
+  spa:
+  - - es porque
+    - se debe a
+search terms:
+  glb:
+  - kosya
+  eng:
+  - is because of
+  - is due to
+  epo:
+  - esti pro
+  spa:
+  - es porque
+  - se debe a
+etymology_type: DERIVD
+etymology: <a href="../lexi/kos">kos</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: kosya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: is because of, is due to
+    epo: esti pro
+    spa: es porque, se debe a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kos + -ya
+...

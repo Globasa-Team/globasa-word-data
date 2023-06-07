@@ -1,0 +1,46 @@
+---
+term: manprince
+slug: manprince
+ipa: "man\u02C8p\u027Eint\u0361\u0283e"
+ipa link: "http://ipa-reader.xyz/?text=man\u02C8p\u027Eint\u0361\u0283e&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - prince
+  epo:
+  - - "prin\u0109o"
+  spa:
+  - - "pr\xEDncipe"
+search terms:
+  glb:
+  - manprince
+  eng:
+  - prince
+  epo:
+  - "prin\u0109o"
+  spa:
+  - "pr\xEDncipe"
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/prince">prince</a>
+raw data:
+  term: manprince
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: prince
+    epo: "prin\u0109o"
+    spa: "pr\xEDncipe"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + prince
+...

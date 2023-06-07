@@ -1,0 +1,52 @@
+---
+term: hervatska
+slug: hervatska
+ipa: "xe\u027E\u02C8vatska"
+ipa link: "http://ipa-reader.xyz/?text=xe\u027E\u02C8vatska&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Croatia
+  epo:
+  - - Kroatio
+    - Kroatujo
+  spa:
+  - - Croacia
+search terms:
+  glb:
+  - hervatska
+  eng:
+  - croatia
+  epo:
+  - kroatio
+  - kroatujo
+  spa:
+  - croacia
+etymology_type: NATLNG
+etymology:
+  Hervatskasa:
+  - - Hrvatska
+tags:
+- dexa
+raw data:
+  term: Hervatska
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Croatia
+    epo: Kroatio, Kroatujo
+    spa: Croacia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Hervatskasa (Hrvatska)
+...

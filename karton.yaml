@@ -1,0 +1,52 @@
+---
+term: karton
+slug: karton
+ipa: "ka\u027E\u02C8ton"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027E\u02C8ton&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cardboard
+    - carton
+  epo:
+  - - kartono
+  spa:
+  - - "cart\xF3n"
+search terms:
+  glb:
+  - karton
+  eng:
+  - cardboard
+  - carton
+  epo:
+  - kartono
+  spa:
+  - "cart\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: karton
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cardboard, carton
+    epo: kartono
+    spa: "cart\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (carton), Espanisa (cart\xF3n), Fransesa (carton), Rusisa (\u043A\u0430\u0440\u0442\u043E\u043D
+    \u201Ckarton\u201D), Doycisa (Karton), Indonesisa (karton), Pilipinasa (karton),
+    Arabisa (\u0643\u064E\u0631\u0652\u062A\u064F\u0648\u0646 \u201Ckartun\u201D),
+    Turkisa (karton), Vyetnamsa (c\xE1c t\xF4ng), Parsisa (\u06A9\u0627\u0631\u062A\u0646
+    \u201Ckarton\u201D)"
+...

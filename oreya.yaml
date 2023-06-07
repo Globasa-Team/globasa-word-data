@@ -1,0 +1,50 @@
+---
+term: oreya
+slug: oreya
+ipa: "o\u02C8\u027Eeja"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8\u027Eeja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (sense of) hearing
+  epo:
+  - - "a\u016Ddo"
+    - "a\u016Ddado"
+  spa:
+  - - "(sentido del) o\xEDdo"
+search terms:
+  glb:
+  - oreya
+  eng:
+  - sense of hearing
+  - hearing
+  epo:
+  - "a\u016Ddo"
+  - "a\u016Ddado"
+  spa:
+  - "sentido del o\xEDdo"
+  - "o\xEDdo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ore">ore</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: oreya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (sense of) hearing
+    epo: "a\u016Ddo, a\u016Ddado"
+    spa: "(sentido del) o\xEDdo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ore + -ya
+...

@@ -1,0 +1,54 @@
+---
+term: nicode
+slug: nicode
+ipa: "ni\u02C8t\u0361\u0283ode"
+ipa link: "http://ipa-reader.xyz/?text=ni\u02C8t\u0361\u0283ode&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - squeeze
+  epo:
+  - - kunpremo
+  - - kunpremi
+  spa:
+  - - "apret\xF3n"
+  - - apretar
+search terms:
+  glb:
+  - nicode
+  eng:
+  - squeeze
+  epo:
+  - kunpremo
+  - kunpremi
+  spa:
+  - "apret\xF3n"
+  - apretar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0928\u093F\u091A\u094B\u0921\u093C \u201Cnichod\u201D"
+    - "\u0928\u093F\u091A\u094B\u0921\u093C\u0928\u093E \u201Cnicodna\u201D"
+raw data:
+  term: nicode
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: squeeze
+    epo: kunpremo; kunpremi
+    spa: "apret\xF3n; apretar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0928\u093F\u091A\u094B\u0921\u093C \u201Cnichod\u201D, \u0928\u093F\u091A\u094B\u0921\u093C\u0928\u093E
+    \u201Cnicodna\u201D)"
+...

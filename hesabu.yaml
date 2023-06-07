@@ -1,0 +1,57 @@
+---
+term: hesabu
+slug: hesabu
+ipa: "xe\u02C8sabu"
+ipa link: "http://ipa-reader.xyz/?text=xe\u02C8sabu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - count
+    - calculation
+  - - count
+    - calculate
+  epo:
+  - - kalkulo
+  - - kalkuli
+  spa:
+  - - cuenta
+  - - contar
+search terms:
+  glb:
+  - hesabu
+  eng:
+    0: count
+    1: calculation
+    3: calculate
+  epo:
+  - kalkulo
+  - kalkuli
+  spa:
+  - cuenta
+  - contar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hesabu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: count, calculation; count, calculate
+    epo: kalkulo; kalkuli
+    spa: cuenta; contar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u0650\u0633\u064E\u0627\u0628\u200E \u201Chisab\u201D),
+    Parsisa (\u062D\u0633\u0627\u0628 \u201Ches\xE2b\u201D), Swahilisa (hesabu), Turkisa
+    (hesap)"
+...

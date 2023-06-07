@@ -1,0 +1,63 @@
+---
+term: palasi
+slug: palasi
+ipa: "pa\u02C8lasi"
+ipa link: "http://ipa-reader.xyz/?text=pa\u02C8lasi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - palace
+  epo:
+  - - palaco
+  spa:
+  - - palacio
+search terms:
+  glb:
+  - palasi
+  eng:
+  - palace
+  epo:
+  - palaco
+  spa:
+  - palacio
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - palace
+  Fransesa:
+  - - palais
+  Doycisa:
+  - - Palast
+  Espanisa:
+  - - palacio
+  Slovak:
+  - - "pal\xE1c"
+  Turkisa:
+  - - palas
+  Pilipinasa:
+  - - palasyo
+tags:
+- dom
+raw data:
+  term: palasi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: palace
+    epo: palaco
+    spa: palacio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dom
+  etymology: "Englisa (palace), Fransesa (palais), Doycisa (Palast), Espanisa (palacio),
+    Slovak (pal\xE1c), Turkisa (palas), Pilipinasa (palasyo)"
+...

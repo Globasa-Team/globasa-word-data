@@ -1,0 +1,51 @@
+---
+term: jakulyeli
+slug: jakulyeli
+ipa: "d\u0361\u0292aku\u02C8ljeli"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292aku\u02C8ljeli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - adrenal
+    - suprarenal
+  epo:
+  - - surrena
+  - - surrene
+  spa:
+  - - adrenal
+search terms:
+  glb:
+  - jakulyeli
+  eng:
+  - adrenal
+  - suprarenal
+  epo:
+  - surrena
+  - surrene
+  spa:
+  - adrenal
+etymology_type: DERIVD
+etymology: <a href="../lexi/ja-">ja-</a> + <a href="../lexi/kulye">kulye</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: jakulyeli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: adrenal, suprarenal
+    epo: surrena; surrene
+    spa: adrenal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ja- + kulye + -li
+...

@@ -1,0 +1,65 @@
+---
+term: sodar
+slug: sodar
+ipa: "so\u02C8da\u027E"
+ipa link: "http://ipa-reader.xyz/?text=so\u02C8da\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sibling
+    - brother
+    - sister
+  epo:
+  - - frato
+  - - fratino
+  spa:
+  - - hermano
+search terms:
+  glb:
+  - sodar
+  eng:
+  - sibling
+  - brother
+  - sister
+  epo:
+  - frato
+  - fratino
+  spa:
+  - hermano
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - saudara
+  Sinhalasa:
+  - - "\u0DC3\u0DC4\u0DDD\u0DAF\u0DBB\u0DBA\u0DCF \u201Csah\u014Ddar-\u201D"
+  Telugusa:
+  - - "\u0C38\u0C4B\u0C26\u0C30- \u201Cs\u014Ddar-\u201D of \u0C38\u0C4B\u0C26\u0C30\u0C3F
+      \u201Cs\u014Ddari\u201D"
+    - "\u0C38\u0C4B\u0C26\u0C30\u0C41\u0C21\u0C41 \u201Cs\u014Ddaru\u1E0Du\u201D"
+tags:
+- famil
+raw data:
+  term: sodar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sibling, brother, sister
+    epo: frato; fratino
+    spa: hermano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: famil
+  etymology: "Indonesisa (saudara), Sinhalasa (\u0DC3\u0DC4\u0DDD\u0DAF\u0DBB\u0DBA\u0DCF
+    \u201Csah\u014Ddar-\u201D), Telugusa (\u0C38\u0C4B\u0C26\u0C30- \u201Cs\u014Ddar-\u201D
+    of \u0C38\u0C4B\u0C26\u0C30\u0C3F \u201Cs\u014Ddari\u201D, \u0C38\u0C4B\u0C26\u0C30\u0C41\u0C21\u0C41
+    \u201Cs\u014Ddaru\u1E0Du\u201D)"
+...

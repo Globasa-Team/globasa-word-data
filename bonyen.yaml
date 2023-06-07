@@ -1,0 +1,48 @@
+---
+term: bonyen
+slug: bonyen
+ipa: "bo\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=bo\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - good person
+    - good guy
+  epo:
+  - - bonulo
+  spa:
+  - - buena persona
+search terms:
+  glb:
+  - bonyen
+  eng:
+  - good person
+  - good guy
+  epo:
+  - bonulo
+  spa:
+  - buena persona
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon">bon</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: bonyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: good person, good guy
+    epo: bonulo
+    spa: buena persona
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bon + -yen
+...

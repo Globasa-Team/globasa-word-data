@@ -1,0 +1,52 @@
+---
+term: xorfley
+slug: xorfley
+ipa: "\u0283o\u027E\u02C8flej"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u027E\u02C8flej&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - takeoff
+  - - take off (_aircraft_)
+  epo:
+  - - ekflugo
+  - - ekflugi
+  spa:
+  - - despegue
+  - - despegar
+search terms:
+  glb:
+  - xorfley
+  eng:
+  - takeoff
+  - take off
+  epo:
+  - ekflugo
+  - ekflugi
+  spa:
+  - despegue
+  - despegar
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor-">xor-</a> + <a href="../lexi/fley">fley</a>
+raw data:
+  term: xorfley
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: takeoff; take off (_aircraft_)
+    epo: ekflugo; ekflugi
+    spa: despegue; despegar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xor- + fley
+...

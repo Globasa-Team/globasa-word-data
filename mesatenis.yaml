@@ -1,0 +1,52 @@
+---
+term: mesatenis
+slug: mesatenis
+ipa: "mesate\u02C8nis"
+ipa link: "http://ipa-reader.xyz/?text=mesate\u02C8nis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - table tennis
+    - pingpong
+  epo:
+  - - tabloteniso
+  spa:
+  - - tenis de mesa
+    - _ping-pong_
+    - "pimp\xF3n"
+search terms:
+  glb:
+  - mesatenis
+  eng:
+  - table tennis
+  - pingpong
+  epo:
+  - tabloteniso
+  spa:
+  - tenis de mesa
+  - ping-pong
+  - "pimp\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/mesa">mesa</a> + <a href="../lexi/tenis">tenis</a>
+raw data:
+  term: mesatenis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: table tennis, pingpong
+    epo: tabloteniso
+    spa: "tenis de mesa, _ping-pong_, pimp\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mesa + tenis
+...

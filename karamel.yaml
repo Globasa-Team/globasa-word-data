@@ -1,0 +1,60 @@
+---
+term: karamel
+slug: karamel
+ipa: "ka\u027Ea\u02C8mel"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027Ea\u02C8mel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - caramel
+  epo:
+  - - karamelo
+  spa:
+  - - caramelo
+  deu:
+  - - Karamell
+    - Caramel
+search terms:
+  glb:
+  - karamel
+  eng:
+  - caramel
+  epo:
+  - karamelo
+  spa:
+  - caramelo
+  deu:
+  - karamell
+  - caramel
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: karamel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: caramel
+    epo: karamelo
+    spa: caramelo
+    deu: Karamell, Caramel
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (caramel), Fransesa, Doycisa (Karamell), Vyetnamsa (caramen),
+    Espanisa (caramelo), Indonesisa (karamel), Pilipinasa (karamelo), Hindisa (\u0915\u0948\u0930\u092E\u0947\u0932
+    \u201Ckermel\u201D), Arabisa (\u0643\u064E\u0631\u064E\u0627\u0645\u0650\u064A\u0644
+    \u201Ckaramil\u201D), Niponsa (\u30AD\u30E3\u30E9\u30E1\u30EB \u201Ckyarameru\u201D),
+    Telugusa (\u0C15\u0C3E\u0C30\u0C4D\u0C2E\u0C46\u0C32\u0C4D \u201Ckarmel\u201D),
+    Turkisa (karamel), Hangusa (\uCE90\uB7EC\uBA5C \u201Ckeramel\u201D), Parsisa (\u06A9\u0627\u0631\u0627\u0645\u0644
+    \u201Ckaramel\u201D)"
+...

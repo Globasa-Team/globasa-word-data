@@ -1,0 +1,48 @@
+---
+term: por-
+slug: por-
+ipa: "\u02C8po\u027E-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8po\u027E-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - in exchange for
+  epo:
+  - - "kontra\u016D-"
+    - por
+  spa:
+  - - a cambio de
+search terms:
+  glb:
+  - por-
+  eng:
+  - in exchange for
+  epo:
+  - "kontra\u016D-"
+  - por
+  spa:
+  - a cambio de
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/por">por</a>.
+raw data:
+  term: por-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: in exchange for
+    epo: "kontra\u016D-, por"
+    spa: a cambio de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _por_.
+...

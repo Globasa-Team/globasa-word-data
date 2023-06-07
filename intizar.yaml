@@ -1,0 +1,56 @@
+---
+term: intizar
+slug: intizar
+ipa: "inti\u02C8za\u027E"
+ipa link: "http://ipa-reader.xyz/?text=inti\u02C8za\u027E&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - wait
+  - - await
+    - wait (for)
+  epo:
+  - - atendo
+  - - atendi
+  spa:
+  - - espera
+  - - esperar
+search terms:
+  glb:
+  - intizar
+  eng:
+  - wait
+  - await
+  - wait for
+  epo:
+  - atendo
+  - atendi
+  spa:
+  - espera
+  - esperar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: intizar
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: wait; await, wait (for)
+    epo: atendo; atendi
+    spa: espera; esperar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0627\u0646\u062A\u0638\u0631 \u201Caintazar\u201D), Hindisa
+    (\u0907\u0902\u0924\u093F\u091C\u093C\u093E\u0930 \u201Cintizaar\u201D), Parsisa
+    (\u0627\u0646\u062A\u0638\u0627\u0631 \u201Cintizar\u201D)"
+...

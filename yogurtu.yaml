@@ -1,0 +1,78 @@
+---
+term: yogurtu
+slug: yogurtu
+ipa: "jo\u02C8gu\u027Etu"
+ipa link: "http://ipa-reader.xyz/?text=jo\u02C8gu\u027Etu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - yogurt
+  epo:
+  - - jogurto
+  spa:
+  - - yogur
+search terms:
+  glb:
+  - yogurtu
+  eng:
+  - yogurt
+  epo:
+  - jogurto
+  spa:
+  - yogur
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - yogurt
+  Espanisa:
+  - - yogur
+  Fransesa:
+  - - yaourt
+    - yogourt
+  Rusisa:
+  - - "\u0439\u043E\u0433\u0443\u0440\u0442 \u201Cyogurt\u201D"
+  Doycisa:
+  - - Joghurt
+  Indonesisa:
+  - - yoghurt
+  Pilipinasa:
+  - - yogart
+  Putunhwa:
+  - - "\u4F18\u683C \u201Cyowge\u201D"
+  Niponsa:
+  - - "\u30E8\u30FC\u30B0\u30EB\u30C8 \u201Cyoguruto\u201D"
+  Turkisa:
+  - - "yo\u011Furt"
+  Hangusa:
+  - - "\uC694\uAD6C\uB974\uD2B8 \u201Cyogurutu\u201D"
+  Parsisa:
+  - - "\u062C\u063A\u0631\u0627\u062A \u201Cjograt\u201D"
+tags:
+- yamxey
+raw data:
+  term: yogurtu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: yogurt
+    epo: jogurto
+    spa: yogur
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (yogurt), Espanisa (yogur), Fransesa (yaourt, yogourt), Rusisa
+    (\u0439\u043E\u0433\u0443\u0440\u0442 \u201Cyogurt\u201D), Doycisa (Joghurt),
+    Indonesisa (yoghurt), Pilipinasa (yogart), Putunhwa (\u4F18\u683C \u201Cyowge\u201D),
+    Niponsa (\u30E8\u30FC\u30B0\u30EB\u30C8 \u201Cyoguruto\u201D), Turkisa (yo\u011Furt),
+    Hangusa (\uC694\uAD6C\uB974\uD2B8 \u201Cyogurutu\u201D), Parsisa (\u062C\u063A\u0631\u0627\u062A
+    \u201Cjograt\u201D)"
+...

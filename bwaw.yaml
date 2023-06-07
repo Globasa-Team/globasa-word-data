@@ -1,0 +1,64 @@
+---
+term: bwaw
+slug: bwaw
+ipa: ˈbwaw
+ipa link: http://ipa-reader.xyz/?text=ˈbwaw&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dog
+    - _Canidae_
+  epo:
+  - - hundo
+  spa:
+  - - perro
+    - _Canis lupus familiaris_
+search terms:
+  glb:
+  - bwaw
+  eng:
+  - dog
+  - canidae
+  epo:
+  - hundo
+  spa:
+  - perro
+  - canis lupus familiaris
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Arabisa: ~
+  Banglasa: ~
+  Bulgarisa: ~
+  Hervatskasa: ~
+  Doycisa: ~
+  Englisa: ~
+  Espanisa: ~
+  Telugusa: ~
+  Pilipinasa: ~
+  Swahilisa:
+  - - mbwa
+tags:
+- hewan
+raw data:
+  term: bwaw
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dog, _Canidae_
+    epo: hundo
+    spa: perro, _Canis lupus familiaris_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: kwasilexi - Arabisa ( ), Banglasa, Bulgarisa, Hervatskasa, Doycisa, Englisa,
+    Espanisa, Telugusa, Pilipinasa, Swahilisa (mbwa)
+...

@@ -1,0 +1,51 @@
+---
+term: poshurudom
+slug: poshurudom
+ipa: "posxu\u027Eu\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=posxu\u027Eu\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - prison
+    - jail
+  epo:
+  - - malliberejo
+  spa:
+  - - "prisi\xF3n"
+    - "c\xE1rcel"
+search terms:
+  glb:
+  - poshurudom
+  eng:
+  - prison
+  - jail
+  epo:
+  - malliberejo
+  spa:
+  - "prisi\xF3n"
+  - "c\xE1rcel"
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/huru">huru</a> + <a
+  href="../lexi/-dom">-dom</a>
+raw data:
+  term: poshurudom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: prison, jail
+    epo: malliberejo
+    spa: "prisi\xF3n, c\xE1rcel"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + huru + -dom
+...

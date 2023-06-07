@@ -1,0 +1,54 @@
+---
+term: tesu to
+slug: tesu to
+ipa: "\u02C8tesu \u02C8to"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tesu \u02C8to&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - hers
+    - his (_that thing belonging to her/him_)
+  epo:
+  - - la lia
+    - "la \u015Dia"
+    - la ria
+  spa:
+  - - "suyo (_cosa que pertenece a \xE9l_)"
+search terms:
+  glb:
+  - tesu to
+  - tesu
+  - to
+  eng:
+  - hers
+  - his
+  epo:
+  - la lia
+  - "la \u015Dia"
+  - la ria
+  spa:
+  - suyo
+etymology_type: DERIVD
+etymology: <a href="../lexi/te">te</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/to">to</a>
+raw data:
+  term: tesu to
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: hers, his (_that thing belonging to her/him_)
+    epo: "la lia, la \u015Dia, la ria"
+    spa: "suyo (_cosa que pertenece a \xE9l_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: te + -su, to
+...

@@ -1,0 +1,52 @@
+---
+term: dom
+slug: dom
+ipa: ˈdom
+ipa link: http://ipa-reader.xyz/?text=ˈdom&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - place
+  epo:
+  - - ejo
+    - loko
+  spa:
+  - - lugar
+search terms:
+  glb:
+  - dom
+  eng:
+  - place
+  epo:
+  - ejo
+  - loko
+  spa:
+  - lugar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - domain
+  Rusisa:
+  - - дом “dom”
+raw data:
+  term: dom
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: place
+    epo: ejo, loko
+    spa: lugar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (domain), Rusisa (дом “dom”)
+...

@@ -1,0 +1,50 @@
+---
+term: dixan
+slug: dixan
+ipa: diˈʃan
+ipa link: http://ipa-reader.xyz/?text=diˈʃan&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - floor
+  epo:
+  - - planko
+  spa:
+  - - piso
+    - suelo
+search terms:
+  glb:
+  - dixan
+  eng:
+  - floor
+  epo:
+  - planko
+  spa:
+  - piso
+  - suelo
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 地上 “dìshàng”
+raw data:
+  term: dixan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: floor
+    epo: planko
+    spa: piso, suelo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (地上 “dìshàng”)
+...

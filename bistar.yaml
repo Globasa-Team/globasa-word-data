@@ -1,0 +1,50 @@
+---
+term: bistar
+slug: bistar
+ipa: bisˈtaɾ
+ipa link: http://ipa-reader.xyz/?text=bisˈtaɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bed
+  epo:
+  - - lito
+  spa:
+  - - cama
+search terms:
+  glb:
+  - bistar
+  eng:
+  - bed
+  epo:
+  - lito
+  spa:
+  - cama
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - बिस्तर “bistar”
+  Parsisa:
+  - - بستر “bistar”
+raw data:
+  term: bistar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bed
+    epo: lito
+    spa: cama
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (बिस्तर “bistar”), Parsisa (بستر “bistar”)
+...

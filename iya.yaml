@@ -1,0 +1,46 @@
+---
+term: iya
+slug: iya
+ipa: "\u02C8ija"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ija&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter i
+  epo:
+  - - litero i
+  spa:
+  - - letra i
+search terms:
+  glb:
+  - iya
+  eng:
+  - letter i
+  epo:
+  - litero i
+  spa:
+  - letra i
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: iya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter i
+    epo: litero i
+    spa: letra i
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

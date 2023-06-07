@@ -1,0 +1,73 @@
+---
+term: lide
+slug: lide
+ipa: "\u02C8lide"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lide&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - direction
+    - conduction
+  - - lead
+    - direct
+    - conduct
+  epo:
+  - - konduko
+    - direkto
+    - gvidado
+  - - konduki
+    - direkti
+    - gvidi
+  spa:
+  - - "direcci\xF3n"
+    - "conducci\xF3n"
+  - - dirigir
+    - conducir
+search terms:
+  glb:
+  - lide
+  eng:
+  - direction
+  - conduction
+  - lead
+  - direct
+  - conduct
+  epo:
+  - konduko
+  - direkto
+  - gvidado
+  - konduki
+  - direkti
+  - gvidi
+  spa:
+  - "direcci\xF3n"
+  - "conducci\xF3n"
+  - dirigir
+  - conducir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lide
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: direction, conduction; lead, direct, conduct
+    epo: konduko, direkto, gvidado; konduki, direkti, gvidi
+    spa: "direcci\xF3n, conducci\xF3n; dirigir, conducir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (leader, lead), Fransesa (leader), Doycisa (Leiter, leiten),
+    Rusisa (\u043B\u0438\u0434\u0435\u0440 \u201Clider\u201D), Espanisa (l\xEDder),
+    Turkisa (lider), Pilipinasa (lider), Niponsa (\u30EA\u30FC\u30C0\u30FC \u201Crida\u201D),
+    Hangusa (\uB9AC\uB354 \u201Crido\u201D)"
+...

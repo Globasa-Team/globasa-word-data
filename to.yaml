@@ -1,0 +1,63 @@
+---
+term: to
+slug: to
+ipa: "\u02C8to"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8to&voice=Ewa"
+status: true
+category: root
+word class: pn
+trans:
+  eng:
+  - - it
+  epo:
+  - - "\u011Di"
+    - "\u011Din (nek viva\u0135o"
+    - nek persono)
+  spa:
+  - - "\xE9l"
+    - ella
+    - ello (_objeto_)
+search terms:
+  glb:
+  - to
+  eng:
+  - it
+  epo:
+  - "\u011Di"
+  - "\u011Din nek viva\u0135o"
+  - "\u011Din (nek viva\u0135o"
+  - nek persono
+  spa:
+  - "\xE9l"
+  - ella
+  - ello
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4ED6 \u201Cta\u201D \u5979 \u201Cta\u201D"
+  Eslovakisa:
+  - - to - hinto
+    - to
+  Nepalsa:
+  - - "\u0924\u094D\u092F\u094B \u201Ctyo\u201D - dento"
+raw data:
+  term: to
+  category: root
+  word class: pn
+  status: true
+  trans:
+    eng: it
+    epo: "\u011Di, \u011Din (nek viva\u0135o, nek persono)"
+    spa: "\xE9l, ella, ello (_objeto_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u4ED6 \u201Cta\u201D \u5979 \u201Cta\u201D), Eslovakisa
+    (to - hinto, to), Nepalsa (\u0924\u094D\u092F\u094B \u201Ctyo\u201D - dento)"
+...

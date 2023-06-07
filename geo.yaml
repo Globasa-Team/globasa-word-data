@@ -1,0 +1,58 @@
+---
+term: geo
+slug: geo
+ipa: ˈgeo
+ipa link: http://ipa-reader.xyz/?text=ˈgeo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - land
+    - ground
+  epo:
+  - - tero
+    - grundo
+  spa:
+  - - tierra
+search terms:
+  glb:
+  - geo
+  eng:
+  - land
+  - ground
+  epo:
+  - tero
+  - grundo
+  spa:
+  - tierra
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - geology
+  Doycisa: ~
+  Fransesa: ~
+  Espanisa: ~
+  Rusisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+raw data:
+  term: geo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: land, ground
+    epo: tero, grundo
+    spa: tierra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (geology), Doycisa, Fransesa, Espanisa, Rusisa, Indonesisa, Pilipinasa
+...

@@ -1,0 +1,64 @@
+---
+term: ordinari
+slug: ordinari
+ipa: "o\u027Edi\u02C8na\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=o\u027Edi\u02C8na\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - ordinary
+    - ordinarily
+  epo:
+  - - ordinara
+  - - ordinare
+  spa:
+  - - ordinario
+search terms:
+  glb:
+  - ordinari
+  eng:
+  - ordinary
+  - ordinarily
+  epo:
+  - ordinara
+  - ordinare
+  spa:
+  - ordinario
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ordinary
+  Fransesa:
+  - - ordinaire
+  Doycisa:
+  - - "ordin\xE4r"
+  Rusisa:
+  - - "\u043E\u0440\u0434\u0438\u043D\u0430\u0440\u043D\u044B\u0439 \u201Cordinarniy\u201D"
+  Espanisa:
+  - - ordinario
+  Pilipinasa:
+  - - ordinaryo
+raw data:
+  term: ordinari
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: ordinary, ordinarily
+    epo: ordinara; ordinare
+    spa: ordinario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (ordinary), Fransesa (ordinaire), Doycisa (ordin\xE4r), Rusisa
+    (\u043E\u0440\u0434\u0438\u043D\u0430\u0440\u043D\u044B\u0439 \u201Cordinarniy\u201D),
+    Espanisa (ordinario), Pilipinasa (ordinaryo)"
+...

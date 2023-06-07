@@ -1,0 +1,46 @@
+---
+term: natziista
+slug: natziista
+ipa: "natzi\u02C8ista"
+ipa link: "http://ipa-reader.xyz/?text=natzi\u02C8ista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Nazi
+  epo:
+  - - nazio
+  spa:
+  - - nazi
+search terms:
+  glb:
+  - natziista
+  eng:
+  - nazi
+  epo:
+  - nazio
+  spa:
+  - nazi
+etymology_type: DERIVD
+etymology: <a href="../lexi/Natzi">Natzi</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: Natziista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Nazi
+    epo: nazio
+    spa: nazi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Natzi + -ista
+...

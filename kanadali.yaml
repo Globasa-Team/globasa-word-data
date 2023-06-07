@@ -1,0 +1,51 @@
+---
+term: kanadali
+slug: kanadali
+ipa: "kana\u02C8dali"
+ipa link: "http://ipa-reader.xyz/?text=kana\u02C8dali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Canadian
+  epo:
+  - - kanada
+  spa:
+  - - canadiense
+  fra:
+  - - canadien(ne)
+search terms:
+  glb:
+  - kanadali
+  eng:
+  - canadian
+  epo:
+  - kanada
+  spa:
+  - canadiense
+  fra:
+  - canadienne
+  - canadien
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kanada">Kanada</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Kanadali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Canadian
+    epo: kanada
+    spa: canadiense
+    deu: ""
+    fra: canadien(ne)
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kanada + -li
+...

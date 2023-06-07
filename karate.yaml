@@ -1,0 +1,51 @@
+---
+term: karate
+slug: karate
+ipa: "ka\u02C8\u027Eate"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8\u027Eate&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - karate
+  epo:
+  - - karateo
+  spa:
+  - - karate
+search terms:
+  glb:
+  - karate
+  eng:
+  - karate
+  epo:
+  - karateo
+  spa:
+  - karate
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: karate
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: karate
+    epo: karateo
+    spa: karate
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Niponsa (\u7A7A\u624B \u201Ckarate\u201D), Englisa (karate), Espanisa,
+    Doycisa, Indonesisa, Pilipinasa, Turkisa, Vyetnamsa, Turkisa, Rusisa (\u043A\u0430\u0440\u0430\u0442\u0435
+    \u201Ckarate\u201D), Hindisa (\u0915\u0930\u093E\u091F\u0947 \u201Ckarate\u201D),
+    Arabisa (\u0643\u064E\u0627\u0631\u064E\u0627\u062A\u0650\u064A\u0647 \u201Ckaratih\u201D),
+    Telugusa (\u0C15\u0C30\u0C3E\u0C1F\u0C47 \u201Ckarate\u201D), Hangusa (\uAC00\uB77C\uD14C
+    \u201Cgarade\u201D), Parsisa (\u06A9\u0627\u0631\u0627\u062A\u0647 \u201Ckarate\u201D)"
+...

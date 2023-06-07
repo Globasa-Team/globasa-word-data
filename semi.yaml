@@ -1,0 +1,81 @@
+---
+term: semi
+slug: semi
+ipa: "\u02C8semi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8semi&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - semi-
+    - partly
+    - sort of
+    - -ish
+  - - half-
+    - part
+  epo:
+  - - parta
+    - -eca
+  - - parte
+    - -ece
+  - - duon-
+    - iom
+  spa:
+  - - semi-
+    - en cierto modo
+    - medio
+search terms:
+  glb:
+  - semi
+  eng:
+  - semi-
+  - partly
+  - sort of
+  - -ish
+  - half-
+  - part
+  epo:
+  - parta
+  - -eca
+  - parte
+  - -ece
+  - duon-
+  - iom
+  spa:
+  - semi-
+  - en cierto modo
+  - medio
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - semi-
+  Fransesa:
+  - - semi-
+  Espanisa:
+  - - semi-
+  Doycisa:
+  - - semi-
+  Rusisa:
+  - - "\u0441\u0435\u043C\u0438- \u201Csemi-\u201D"
+raw data:
+  term: semi
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: 'semi-, partly, sort of, -ish; half-, part '
+    epo: parta, -eca; parte, -ece; duon-, iom
+    spa: semi-, en cierto modo, medio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (semi-), Fransesa (semi-), Espanisa (semi-), Doycisa (semi-),
+    Rusisa (\u0441\u0435\u043C\u0438- \u201Csemi-\u201D)"
+...

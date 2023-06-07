@@ -1,0 +1,53 @@
+---
+term: engli
+slug: engli
+ipa: "\u02C8engli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8engli&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - England
+  epo:
+  - - Anglio
+    - Anglujo
+  spa:
+  - - Inglaterra
+search terms:
+  glb:
+  - engli
+  eng:
+  - england
+  epo:
+  - anglio
+  - anglujo
+  spa:
+  - inglaterra
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - England
+    - English
+tags:
+- dexa
+raw data:
+  term: Engli
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: England
+    epo: Anglio, Anglujo
+    spa: Inglaterra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (England, English)
+...

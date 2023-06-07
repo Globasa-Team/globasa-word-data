@@ -1,0 +1,76 @@
+---
+term: simpati
+slug: simpati
+ipa: "sim\u02C8pati"
+ipa link: "http://ipa-reader.xyz/?text=sim\u02C8pati&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sympathy
+    - compassion
+    - pity
+  epo:
+  - - simpatio
+    - kompato
+  spa:
+  - - "compasi\xF3n"
+    - piedad
+    - "simpat\xEDa"
+search terms:
+  glb:
+  - simpati
+  eng:
+  - sympathy
+  - compassion
+  - pity
+  epo:
+  - simpatio
+  - kompato
+  spa:
+  - "compasi\xF3n"
+  - piedad
+  - "simpat\xEDa"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sympathy
+  Fransesa:
+  - - sympathie
+  Doycisa: ~
+  Espanisa:
+  - - "simpat\xEDa"
+  Hindisa:
+  - - "\u0938\u0939\u093E\u0928\u0941\u092D\u0942\u0924\u093F \u201Csahanubhuti\u201D"
+  Telugusa:
+  - - "\u0C38\u0C3E\u0C28\u0C41\u0C2D\u0C42\u0C24\u0C3F \u201Cs\u0101nubhuti\u201D"
+  Turkisa:
+  - - sempati
+  Indonesisa:
+  - - simpati
+  Pilipinasa:
+  - - simpatiya
+raw data:
+  term: simpati
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sympathy, compassion, pity
+    epo: simpatio, kompato
+    spa: "compasi\xF3n, piedad, simpat\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (sympathy), Fransesa (sympathie), Doycisa, Espanisa (simpat\xEDa),
+    Hindisa (\u0938\u0939\u093E\u0928\u0941\u092D\u0942\u0924\u093F \u201Csahanubhuti\u201D),
+    Telugusa (\u0C38\u0C3E\u0C28\u0C41\u0C2D\u0C42\u0C24\u0C3F \u201Cs\u0101nubhuti\u201D),
+    Turkisa (sempati), Indonesisa (simpati), Pilipinasa (simpatiya)"
+...

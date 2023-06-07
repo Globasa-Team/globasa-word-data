@@ -1,0 +1,48 @@
+---
+term: yamkal
+slug: yamkal
+ipa: "jam\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=jam\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - hungry
+  epo:
+  - - malsata
+  - - malsate
+  spa:
+  - - hambriento
+search terms:
+  glb:
+  - yamkal
+  eng:
+  - hungry
+  epo:
+  - malsata
+  - malsate
+  spa:
+  - hambriento
+etymology_type: DERIVD
+etymology: <a href="../lexi/yam">yam</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: yamkal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: hungry
+    epo: malsata; malsate
+    spa: hambriento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yam + -kal
+...

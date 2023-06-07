@@ -1,0 +1,52 @@
+---
+term: nundin
+slug: nundin
+ipa: "nun\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=nun\u02C8din&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - today
+  epo:
+  - - "hodia\u016D"
+    - "\u0109i tiu tago"
+    - "tiu \u0109i tago"
+  spa:
+  - - hoy
+search terms:
+  glb:
+  - nundin
+  eng:
+  - today
+  epo:
+  - "hodia\u016D"
+  - "\u0109i tiu tago"
+  - "tiu \u0109i tago"
+  spa:
+  - hoy
+etymology_type: DERIVD
+etymology: <a href="../lexi/nun-">nun-</a> + <a href="../lexi/din">din</a>
+tags:
+- din
+raw data:
+  term: nundin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: today
+    epo: "hodia\u016D, \u0109i tiu tago, tiu \u0109i tago"
+    spa: hoy
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: din
+  etymology: nun- + din
+...

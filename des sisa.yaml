@@ -1,0 +1,48 @@
+---
+term: des sisa
+slug: des sisa
+ipa: "\u02C8des \u02C8sisa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8des \u02C8sisa&voice=Ewa"
+status: false
+category: phrase
+word class: num
+trans:
+  eng:
+  - - sixteen
+  epo:
+  - - dek ses
+  spa:
+  - - "diecis\xE9is"
+search terms:
+  glb:
+  - des sisa
+  - des
+  - sisa
+  eng:
+  - sixteen
+  epo:
+  - dek ses
+  spa:
+  - "diecis\xE9is"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a>, <a href="../lexi/sisa">sisa</a>
+raw data:
+  term: des sisa
+  category: phrase
+  word class: num
+  status: false
+  trans:
+    eng: sixteen
+    epo: dek ses
+    spa: "diecis\xE9is"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des, sisa
+...

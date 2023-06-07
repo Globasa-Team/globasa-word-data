@@ -1,0 +1,46 @@
+---
+term: posfol
+slug: posfol
+ipa: "pos\u02C8fol"
+ipa link: "http://ipa-reader.xyz/?text=pos\u02C8fol&voice=Ewa"
+status: false
+category: derived
+word class: p
+trans:
+  eng:
+  - - against (_in the opposite direction of_)
+  epo:
+  - - "kontra\u016D (_malla\u016D_)"
+  spa:
+  - - "contra (_en la direcci\xF3n opuesta de_)"
+search terms:
+  glb:
+  - posfol
+  eng:
+  - against
+  epo:
+  - "kontra\u016D"
+  spa:
+  - contra
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/fol">fol</a>
+raw data:
+  term: posfol
+  category: derived
+  word class: p
+  status: false
+  trans:
+    eng: against (_in the opposite direction of_)
+    epo: "kontra\u016D (_malla\u016D_)"
+    spa: "contra (_en la direcci\xF3n opuesta de_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + fol
+...

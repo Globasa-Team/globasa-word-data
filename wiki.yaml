@@ -1,0 +1,79 @@
+---
+term: wiki
+slug: wiki
+ipa: "\u02C8wiki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wiki&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wiki
+  epo:
+  - - vikio
+  spa:
+  - - wiki
+search terms:
+  glb:
+  - wiki
+  eng:
+  - wiki
+  epo:
+  - vikio
+  spa:
+  - wiki
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - wiki
+  Fransesa:
+  - - wiki
+  Doycisa:
+  - - Wiki
+  Rusisa:
+  - - "\u0432\u0438\u043A\u0438"
+  Espanisa:
+  - - wiki
+  Putunhwa:
+  - - "\u7EF4\u57FA \u201Cw\xE9ij\u012B\u201D"
+  Niponsa:
+  - - "\u30A6\u30A3\u30AD \u201Cwiki\u201D"
+  Hangusa:
+  - - "\uC704\uD0A4 \u201Cwiki\u201D"
+  Vyetnamsa:
+  - - wiki
+  Hindisa:
+  - - "\u0935\u093F\u0915\u093F \u201Cviki\u201D"
+  Telugusa:
+  - - "\u0C35\u0C3F\u0C15\u0C40 \u201Cvik\u012B\u201D"
+  Arabisa:
+  - - "\u0648\u064A\u0643\u064A \u201Cw\u012Bk\u012B\u201D"
+  Parsisa:
+  - - "\u0648\u06CC\u06A9\u06CC \u201Cviki\u201D"
+  Turkisa:
+  - - viki
+raw data:
+  term: wiki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wiki
+    epo: vikio
+    spa: wiki
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (wiki), Fransesa (wiki), Doycisa (Wiki), Rusisa (\u0432\u0438\u043A\u0438),
+    Espanisa (wiki), Putunhwa (\u7EF4\u57FA \u201Cw\xE9ij\u012B\u201D), Niponsa (\u30A6\u30A3\u30AD
+    \u201Cwiki\u201D), Hangusa (\uC704\uD0A4 \u201Cwiki\u201D), Vyetnamsa (wiki),
+    Hindisa (\u0935\u093F\u0915\u093F \u201Cviki\u201D), Telugusa (\u0C35\u0C3F\u0C15\u0C40
+    \u201Cvik\u012B\u201D), Arabisa (\u0648\u064A\u0643\u064A \u201Cw\u012Bk\u012B\u201D),
+    Parsisa (\u0648\u06CC\u06A9\u06CC \u201Cviki\u201D), Turkisa (viki)"
+...

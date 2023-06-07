@@ -1,0 +1,60 @@
+---
+term: intikam
+slug: intikam
+ipa: "inti\u02C8kam"
+ipa link: "http://ipa-reader.xyz/?text=inti\u02C8kam&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - revenge
+    - vengeance
+  - - take revenge (on)
+  epo:
+  - - "ven\u011Do"
+  - - "fari ven\u011Don (al)"
+  spa:
+  - - venganza
+  - - vengarse (de)
+search terms:
+  glb:
+  - intikam
+  eng:
+  - revenge
+  - vengeance
+  - take revenge on
+  - take revenge
+  epo:
+  - "ven\u011Do"
+  - "fari ven\u011Don al"
+  - "fari ven\u011Don"
+  spa:
+  - venganza
+  - vengarse de
+  - vengarse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: intikam
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: revenge, vengeance; take revenge (on)
+    epo: "ven\u011Do; fari ven\u011Don (al)"
+    spa: venganza; vengarse (de)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0907\u0928\u094D\u0924\u093F\u0915\u093C\u093E\u092E \u201Cintikam\u201D),
+    Arabisa (\u0627\u0650\u0646\u0652\u062A\u0650\u0642\u064E\u0627\u0645 \u201Cintikam\u201D,
+    \u0627\u0650\u0646\u0652\u062A\u064E\u0642\u064E\u0645\u064E \u201Cintakama\u201D),
+    Turkisa (intikam), Parsisa (\u0627\u0646\u062A\u0642\u0627\u0645 \u201Centekam\u201D),"
+...

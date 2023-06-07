@@ -1,0 +1,54 @@
+---
+term: exkungan
+slug: exkungan
+ipa: "e\u0283kun\u02C8gan"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283kun\u02C8gan&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (outer) space
+  epo:
+  - - (kosma) spaco
+    - ekstertero
+  spa:
+  - - espacio exterior
+    - espacio ultraterrestre
+search terms:
+  glb:
+  - exkungan
+  eng:
+  - outer space
+  - space
+  epo:
+  - kosma spaco
+  - spaco
+  - ekstertero
+  spa:
+  - espacio exterior
+  - espacio ultraterrestre
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/kungan">kungan</a>
+tags:
+- kosmo
+raw data:
+  term: exkungan
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (outer) space
+    epo: (kosma) spaco, ekstertero
+    spa: espacio exterior, espacio ultraterrestre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kosmo
+  etymology: ex- + kungan
+...

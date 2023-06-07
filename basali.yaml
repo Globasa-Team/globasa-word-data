@@ -1,0 +1,52 @@
+---
+term: basali
+slug: basali
+ipa: "ba\u02C8sali"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8sali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - linguistic
+    - linguistically
+  epo:
+  - - lingva
+  - - lingve
+  spa:
+  - - "ling\xFC\xEDstico"
+  - - "ling\xFC\xEDsticamente"
+search terms:
+  glb:
+  - basali
+  eng:
+  - linguistic
+  - linguistically
+  epo:
+  - lingva
+  - lingve
+  spa:
+  - "ling\xFC\xEDstico"
+  - "ling\xFC\xEDsticamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/basa">basa</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: basali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: linguistic, linguistically
+    epo: lingva; lingve
+    spa: "ling\xFC\xEDstico; ling\xFC\xEDsticamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: basa + -li
+...

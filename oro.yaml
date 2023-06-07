@@ -1,0 +1,48 @@
+---
+term: oro
+slug: oro
+ipa: "\u02C8o\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8o\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - either
+  epo:
+  - - "a\u016D (_**a\u016D**...a\u016D..._)"
+  spa:
+  - - o (_**o**...o..._)
+    - ya sea
+search terms:
+  glb:
+  - oro
+  eng:
+  - either
+  epo:
+  - "a\u016D"
+  spa:
+  - o
+  - ya sea
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/or">or</a>.
+raw data:
+  term: oro
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: either
+    epo: "a\u016D (_**a\u016D**...a\u016D..._)"
+    spa: o (_**o**...o..._), ya sea
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _or_.
+...

@@ -1,0 +1,50 @@
+---
+term: telugu
+slug: telugu
+ipa: "te\u02C8lugu"
+ipa link: "http://ipa-reader.xyz/?text=te\u02C8lugu&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Telugu
+  epo:
+  - - telugua
+  - - telugue
+  spa:
+  - - "t\xE9lugu"
+search terms:
+  glb:
+  - telugu
+  eng:
+  - telugu
+  epo:
+  - telugua
+  - telugue
+  spa:
+  - "t\xE9lugu"
+etymology_type: NATLNG
+etymology:
+  Telugusa:
+  - - "\u0C24\u0C46\u0C32\u0C41\u0C17\u0C41 \u201CTelugu\u201D"
+raw data:
+  term: Telugu
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: 'Telugu '
+    epo: telugua; telugue
+    spa: "t\xE9lugu"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Telugusa (\u0C24\u0C46\u0C32\u0C41\u0C17\u0C41 \u201CTelugu\u201D)"
+...

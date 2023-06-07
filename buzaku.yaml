@@ -1,0 +1,56 @@
+---
+term: buzaku
+slug: buzaku
+ipa: buˈzaku
+ipa link: http://ipa-reader.xyz/?text=buˈzaku&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - saliva
+  - - salivate
+  epo:
+  - - salivo
+  - - salivi
+  spa:
+  - - saliva
+  - - salivar
+search terms:
+  glb:
+  - buzaku
+  eng:
+  - saliva
+  - salivate
+  epo:
+  - salivo
+  - salivi
+  spa:
+  - saliva
+  - salivar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - بزاق “buzak”
+  Parsisa:
+  - - بزاق “bozak”
+raw data:
+  term: buzaku
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: saliva; salivate
+    epo: salivo; salivi
+    spa: saliva; salivar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (بزاق “buzak”), Parsisa (بزاق “bozak”)
+...

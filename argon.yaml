@@ -1,0 +1,86 @@
+---
+term: argon
+slug: argon
+ipa: aɾˈgon
+ipa link: http://ipa-reader.xyz/?text=aɾˈgon&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - argon
+  epo:
+  - - Argono
+  spa:
+  - - argón
+    - Ar
+search terms:
+  glb:
+  - argon
+  eng:
+  - argon
+  epo:
+  - argono
+  spa:
+  - argón
+  - ar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - argon
+  Espanisa:
+  - - argón
+  Fransesa:
+  - - argon
+  Rusisa:
+  - - аргон “argon”
+  Doycisa:
+  - - Argon
+  Indonesisa: ~
+  Pilipinasa: ~
+  Hindisa:
+  - - अर्गोन “argon”
+  Arabisa:
+  - - أَرْجُون “arjun”
+    - أَرْجُون “argun”
+    - أَرْغُون “argun”
+  Niponsa:
+  - - アルゴン “arugon”
+  Telugusa:
+  - - ఆర్గాన్ “argan”
+  Turkisa:
+  - - argon
+  Hangusa:
+  - - 아르곤 “arugon”
+  Vyetnamsa:
+  - - agon
+  Parsisa:
+  - - آرگون “ârgon”
+  Swahilisa:
+  - - argoni
+tags:
+- kimikali monlari
+raw data:
+  term: argon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: argon
+    epo: Argono
+    spa: argón, Ar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (argon), Espanisa (argón), Fransesa (argon), Rusisa (аргон “argon”),
+    Doycisa (Argon), Indonesisa, Pilipinasa, Hindisa (अर्गोन “argon”), Arabisa (أَرْجُون
+    “arjun”, أَرْجُون “argun”, أَرْغُون “argun”), Niponsa (アルゴン “arugon”), Telugusa
+    (ఆర్గాన్ “argan”), Turkisa (argon), Hangusa (아르곤 “arugon”), Vyetnamsa (agon),
+    Parsisa (آرگون “ârgon”), Swahilisa (argoni)
+...

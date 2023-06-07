@@ -1,0 +1,53 @@
+---
+term: yow
+slug: yow
+ipa: "\u02C8jow"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jow&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - oil
+  epo:
+  - - oleo
+  spa:
+  - - aceite
+search terms:
+  glb:
+  - yow
+  eng:
+  - oil
+  epo:
+  - oleo
+  spa:
+  - aceite
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6CB9 \u201Cy\xF3u\u201D"
+  Niponsa:
+  - - "\u6CB9 \u201Cyu\u201D"
+  Hangusa:
+  - - "\uC720 \u201Cyu\u201D"
+raw data:
+  term: yow
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: oil
+    epo: oleo
+    spa: aceite
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6CB9 \u201Cy\xF3u\u201D), Niponsa (\u6CB9 \u201Cyu\u201D),
+    Hangusa (\uC720 \u201Cyu\u201D)"
+...

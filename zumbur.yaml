@@ -1,0 +1,56 @@
+---
+term: zumbur
+slug: zumbur
+ipa: "zum\u02C8bu\u027E"
+ipa link: "http://ipa-reader.xyz/?text=zum\u02C8bu\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wasp
+  epo:
+  - - vespo
+  spa:
+  - - avispa
+    - _Apocrita_
+search terms:
+  glb:
+  - zumbur
+  eng:
+  - wasp
+  epo:
+  - vespo
+  spa:
+  - avispa
+  - apocrita
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0632\u064F\u0646\u0652\u0628\u064F\u0648\u0631 \"zunbur\""
+  Parsisa:
+  - - "\u0632\u0646\u0628\u0648\u0631 \"zanbur\""
+tags:
+- hewan
+- koncun
+raw data:
+  term: zumbur
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wasp
+    epo: vespo
+    spa: avispa, _Apocrita_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan, koncun
+  etymology: "Arabisa (\u0632\u064F\u0646\u0652\u0628\u064F\u0648\u0631 \"zunbur\"),
+    Parsisa (\u0632\u0646\u0628\u0648\u0631 \"zanbur\")"
+...

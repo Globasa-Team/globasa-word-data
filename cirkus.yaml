@@ -1,0 +1,89 @@
+---
+term: cirkus
+slug: cirkus
+ipa: t͡ʃiɾˈkus
+ipa link: http://ipa-reader.xyz/?text=t͡ʃiɾˈkus&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - circus
+  epo:
+  - - cirko
+  spa:
+  - - circo
+  deu:
+  - - Zirkus
+search terms:
+  glb:
+  - cirkus
+  eng:
+  - circus
+  epo:
+  - cirko
+  spa:
+  - circo
+  deu:
+  - zirkus
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - circus
+  Italisa:
+  - - circo
+  Espanisa: ~
+  Fransesa:
+  - - cirque
+  Rusisa:
+  - - цирк “tsirk”
+  Doycisa:
+  - - Zirkus
+  Indonesisa:
+  - - sirkus
+  Pilipinasa:
+  - - sirk
+  Hindisa:
+  - - सर्कस “sarkas”
+  Arabisa:
+  - - سِيرْك “sirk”
+  Niponsa:
+  - - サーカス “sakasu”
+  Telugusa:
+  - - సర్కస్ “sarkas”
+  Turkisa:
+  - - sirk
+  Hangusa:
+  - - 서커스 “sakasu”
+  Vyetnamsa:
+  - - xiếc
+  Parsisa:
+  - - سیرک “sirk”
+  Swahilisa:
+  - - sarakasi
+tags:
+- dom
+raw data:
+  term: cirkus
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: circus
+    epo: cirko
+    spa: circo
+    deu: Zirkus
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dom
+  etymology: Englisa (circus), Italisa (circo), Espanisa, Fransesa (cirque), Rusisa
+    (цирк “tsirk”), Doycisa (Zirkus), Indonesisa (sirkus), Pilipinasa (sirk), Hindisa
+    (सर्कस “sarkas”), Arabisa (سِيرْك “sirk”), Niponsa (サーカス “sakasu”), Telugusa (సర్కస్
+    “sarkas”), Turkisa (sirk), Hangusa (서커스 “sakasu”), Vyetnamsa (xiếc), Parsisa (سیرک
+    “sirk”), Swahilisa (sarakasi)
+...

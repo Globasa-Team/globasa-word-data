@@ -1,0 +1,49 @@
+---
+term: gami-
+slug: gami-
+ipa: "ga\u02C8mi-"
+ipa link: "http://ipa-reader.xyz/?text=ga\u02C8mi-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - -in-law
+    - in-law
+  epo:
+  - - bo-
+  spa:
+  - - "(pariente) pol\xEDtico"
+search terms:
+  glb:
+  - gami-
+  eng:
+  - -in-law
+  - in-law
+  epo:
+  - bo-
+  spa:
+  - "pariente pol\xEDtico"
+  - "pol\xEDtico"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/gami">gami</a>.
+raw data:
+  term: gami-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: -in-law, in-law
+    epo: bo-
+    spa: "(pariente) pol\xEDtico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _gami_.
+...

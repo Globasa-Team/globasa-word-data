@@ -1,0 +1,66 @@
+---
+term: belo
+slug: belo
+ipa: ˈbelo
+ipa link: http://ipa-reader.xyz/?text=ˈbelo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hair
+    - fur
+  epo:
+  - - hararo
+    - felo
+  spa:
+  - - pelo
+    - pelaje
+    - vello
+search terms:
+  glb:
+  - belo
+  eng:
+  - hair
+  - fur
+  epo:
+  - hararo
+  - felo
+  spa:
+  - pelo
+  - pelaje
+  - vello
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Pelz
+  Espanisa:
+  - - pelo
+    - vello
+  Hindisa:
+  - - बाल "bal"
+  Indonesisa:
+  - - bulu
+tags:
+- jismulogi
+raw data:
+  term: belo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hair, fur
+    epo: hararo, felo
+    spa: pelo, pelaje, vello
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Doycisa (Pelz), Espanisa (pelo, vello), Hindisa (बाल "bal"), Indonesisa
+    (bulu)
+...

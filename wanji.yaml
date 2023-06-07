@@ -1,0 +1,52 @@
+---
+term: wanji
+slug: wanji
+ipa: "\u02C8wand\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wand\u0361\u0292i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - forget
+  epo:
+  - - forgeso
+  - - forgesi
+    - "forgesi\u011Di"
+  spa:
+  - - olvidar
+search terms:
+  glb:
+  - wanji
+  eng:
+  - forget
+  epo:
+  - forgeso
+  - forgesi
+  - "forgesi\u011Di"
+  spa:
+  - olvidar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5FD8\u8BB0 \u201Cw\xE0ngj\xEC\u201D"
+raw data:
+  term: wanji
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: forget
+    epo: "forgeso; forgesi, forgesi\u011Di"
+    spa: olvidar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u5FD8\u8BB0 \u201Cw\xE0ngj\xEC\u201D)"
+...

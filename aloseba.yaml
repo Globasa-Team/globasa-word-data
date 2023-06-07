@@ -1,0 +1,50 @@
+---
+term: aloseba
+slug: aloseba
+ipa: "alo\u02C8seba"
+ipa link: "http://ipa-reader.xyz/?text=alo\u02C8seba&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - for another reason
+    - for a different reason
+  epo:
+  - - pro alia kialo
+    - "pro alia ka\u016Dzo"
+  spa:
+  - - "por otra raz\xF3n"
+search terms:
+  glb:
+  - aloseba
+  eng:
+  - for another reason
+  - for a different reason
+  epo:
+  - pro alia kialo
+  - "pro alia ka\u016Dzo"
+  spa:
+  - "por otra raz\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/seba">seba</a>
+raw data:
+  term: aloseba
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: for another reason, for a different reason
+    epo: "pro alia kialo, pro alia ka\u016Dzo"
+    spa: "por otra raz\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + seba
+...

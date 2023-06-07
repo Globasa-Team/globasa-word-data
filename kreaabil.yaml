@@ -1,0 +1,48 @@
+---
+term: kreaabil
+slug: kreaabil
+ipa: "k\u027Eeaa\u02C8bil"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Eeaa\u02C8bil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - creative
+  epo:
+  - - krepova
+  - - krepove
+  spa:
+  - - creativo
+search terms:
+  glb:
+  - kreaabil
+  eng:
+  - creative
+  epo:
+  - krepova
+  - krepove
+  spa:
+  - creativo
+etymology_type: DERIVD
+etymology: <a href="../lexi/krea">krea</a> + <a href="../lexi/-abil">-abil</a>
+raw data:
+  term: kreaabil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: creative
+    epo: krepova; krepove
+    spa: creativo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: krea + -abil
+...

@@ -1,0 +1,75 @@
+---
+term: alucina
+slug: alucina
+ipa: aluˈt͡ʃina
+ipa link: http://ipa-reader.xyz/?text=aluˈt͡ʃina&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - hallucination
+  - - hallucinate
+  epo:
+  - - halucino
+  - - halucini
+  spa:
+  - - alucinación
+  - - alucinar
+search terms:
+  glb:
+  - alucina
+  eng:
+  - hallucination
+  - hallucinate
+  epo:
+  - halucino
+  - halucini
+  spa:
+  - alucinación
+  - alucinar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - hallucination
+    - hallucinate
+  Espanisa:
+  - - alucinación
+    - alucinar
+  Fransesa:
+  - - hallucination
+    - halluciner
+  Rusisa:
+  - - галлюцинация “galyutsinatsiya”
+  Doycisa:
+  - - Halluzination
+    - halluzinieren
+  Indonesisa:
+  - - halusinasi
+  Pilipinasa:
+  - - halusinasyon
+  Turkisa:
+  - - halüsinasyon
+raw data:
+  term: alucina
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: hallucination; hallucinate
+    epo: halucino; halucini
+    spa: alucinación; alucinar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (hallucination, hallucinate), Espanisa (alucinación, alucinar),
+    Fransesa (hallucination, halluciner), Rusisa (галлюцинация “galyutsinatsiya”),
+    Doycisa (Halluzination, halluzinieren), Indonesisa (halusinasi), Pilipinasa (halusinasyon),
+    Turkisa (halüsinasyon)
+...

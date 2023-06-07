@@ -1,0 +1,49 @@
+---
+term: posyesengi
+slug: posyesengi
+ipa: "posje\u02C8sengi"
+ipa link: "http://ipa-reader.xyz/?text=posje\u02C8sengi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - tame
+  epo:
+  - - "malsova\u011Digo"
+  - - "malsova\u011Digi"
+  spa:
+  - - domar
+search terms:
+  glb:
+  - posyesengi
+  eng:
+  - tame
+  epo:
+  - "malsova\u011Digo"
+  - "malsova\u011Digi"
+  spa:
+  - domar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/yesen">yesen</a> + <a
+  href="../lexi/-gi">-gi</a>
+raw data:
+  term: posyesengi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: tame
+    epo: "malsova\u011Digo; malsova\u011Digi"
+    spa: domar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + yesen + -gi
+...

@@ -1,0 +1,50 @@
+---
+term: eritra
+slug: eritra
+ipa: "e\u02C8\u027Eit\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=e\u02C8\u027Eit\u027Ea&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Eritrea
+  epo:
+  - - Eritreo
+  spa:
+  - - Eritrea
+search terms:
+  glb:
+  - eritra
+  eng:
+  - eritrea
+  epo:
+  - eritreo
+  spa:
+  - eritrea
+etymology_type: NATLNG
+etymology:
+  Tigrinya:
+  - - "\u12A4\u122D\u1275\u122B \u201CErtra\u201D"
+tags:
+- dexa
+raw data:
+  term: Eritra
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Eritrea
+    epo: Eritreo
+    spa: Eritrea
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Tigrinya (\u12A4\u122D\u1275\u122B \u201CErtra\u201D)"
+...

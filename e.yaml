@@ -1,0 +1,72 @@
+---
+term: e
+slug: e
+ipa: e
+ipa link: http://ipa-reader.xyz/?text=e&voice=Ewa
+status: true
+category: root
+word class: il
+trans:
+  eng:
+  - - hmm
+    - uh
+    - um
+  epo:
+  - - he
+  spa:
+  - - eh
+    - este (_interjección_)
+search terms:
+  glb:
+  - e
+  eng:
+  - hmm
+  - uh
+  - um
+  epo:
+  - he
+  spa:
+  - eh
+  - este
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Putunhwa:
+  - - 呃 “e”
+  Englisa:
+  - - eh
+    - er
+  Doycisa:
+  - - äh
+  Espanisa:
+  - - eh
+  Pilipinasa: ~
+  Hangusa:
+  - - 어 “eo”
+  Rusisa:
+  - - эм “em”
+  Niponsa:
+  - - え “e”
+  ji maxya: ~
+tags:
+- intrelogalexi
+raw data:
+  term: e
+  category: root
+  word class: il
+  status: true
+  trans:
+    eng: hmm, uh, um
+    epo: he
+    spa: eh, este (_interjección_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: kwasilexi - Putunhwa (呃 “e”), Englisa (eh, er), Doycisa (äh), Espanisa
+    (eh), Pilipinasa, Hangusa (어 “eo”), Rusisa (эм “em”), Niponsa (え “e”) ji maxya
+...

@@ -1,0 +1,64 @@
+---
+term: eletri
+slug: eletri
+ipa: eˈletɾi
+ipa link: http://ipa-reader.xyz/?text=eˈletɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - electricity
+  epo:
+  - - elektro
+  spa:
+  - - electricidad
+search terms:
+  glb:
+  - eletri
+  eng:
+  - electricity
+  epo:
+  - elektro
+  spa:
+  - electricidad
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Elektrizität
+  Englisa:
+  - - electricity
+  Espanisa:
+  - - electricidad
+  Fransesa:
+  - - électricité
+  Rusisa:
+  - - электричество “elektricestvo”
+  Pilipinasa:
+  - - elektrisidad
+  Turkisa:
+  - - elektrik
+  Parsisa:
+  - - الکتریسیته “elektrisite”
+raw data:
+  term: eletri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: electricity
+    epo: elektro
+    spa: electricidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Elektrizität), Englisa (electricity), Espanisa (electricidad),
+    Fransesa (électricité), Rusisa (электричество “elektricestvo”), Pilipinasa (elektrisidad),
+    Turkisa (elektrik), Parsisa (الکتریسیته “elektrisite”)
+...

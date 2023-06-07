@@ -1,0 +1,50 @@
+---
+term: labya
+slug: labya
+ipa: "\u02C8labja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8labja&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lip
+  epo:
+  - - lipo
+  spa:
+  - - labio
+search terms:
+  glb:
+  - labya
+  eng:
+  - lip
+  epo:
+  - lipo
+  spa:
+  - labio
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: labya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lip
+    epo: lipo
+    spa: labio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (labial, labia), Fransesa (labilal), Espanisa (labio, labial),
+    Doycisa (labial), Hindisa (\u0932\u092C \u201Clab\u201D), Parsisa (\u0644\u0628
+    \u201Clab\u201D), Pilipinasa (labi)"
+...

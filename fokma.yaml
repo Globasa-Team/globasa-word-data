@@ -1,0 +1,63 @@
+---
+term: fokma
+slug: fokma
+ipa: ˈfokma
+ipa link: http://ipa-reader.xyz/?text=ˈfokma&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - seal (_animal_)
+  epo:
+  - - foko
+  spa:
+  - - foca
+    - _Pinnipedia_
+search terms:
+  glb:
+  - fokma
+  eng:
+  - seal
+  epo:
+  - foko
+  spa:
+  - foca
+  - pinnipedia
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - phoque
+  Espanisa:
+  - - foca
+  Pilipinasa:
+  - - poka
+  Arabisa:
+  - - فقمة “fuqma”
+  Parsisa:
+  - - فک “fok”
+  Turkisa:
+  - - fok
+tags:
+- hewan
+raw data:
+  term: fokma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: seal (_animal_)
+    epo: foko
+    spa: foca, _Pinnipedia_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Fransesa (phoque), Espanisa (foca), Pilipinasa (poka), Arabisa (فقمة
+    “fuqma”), Parsisa (فک “fok”), Turkisa (fok)
+...

@@ -1,0 +1,57 @@
+---
+term: ikono
+slug: ikono
+ipa: "i\u02C8kono"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8kono&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (religious) icon
+    - (popular) icon
+  epo:
+  - - ikono
+  spa:
+  - - icono
+    - "\xEDcono (_religioso_)"
+search terms:
+  glb:
+  - ikono
+  eng:
+  - religious icon
+  - icon
+  - popular icon
+  epo:
+  - ikono
+  spa:
+  - icono
+  - "\xEDcono"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- dini
+raw data:
+  term: ikono
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (religious) icon, (popular) icon
+    epo: ikono
+    spa: "icono, \xEDcono (_religioso_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: "Espanisa (icono), Pilipinasa (ikono), Englisa (icon), Fransesa (ic\xF4ne
+    \"ikon\"), Rusisa (\u0438\u043A\u043E\u043D\u0430 \"ikona\"), Doycisa (Ikone),
+    Indonesisa (ikon), Arabisa (\u0623\u064E\u064A\u0652\u0642\u064F\u0648\u0646\u064E\u0629
+    \"ayquna\"), Niponsa (\u30A4\u30B3\u30F3 \"ikon\"), Turkisa (ikon), Hangusa (\uC774\uCF58
+    \"ikon\")"
+...

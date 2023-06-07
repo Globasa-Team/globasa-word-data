@@ -1,0 +1,51 @@
+---
+term: fe ruke de
+slug: fe ruke de
+ipa: "fe \u02C8\u027Euke de"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8\u027Euke de&voice=Ewa"
+status: false
+category: phrase
+word class: p
+trans:
+  eng:
+  - - behind
+    - in back of
+  epo:
+  - - "malanta\u016De de"
+  spa:
+  - - "detr\xE1s de"
+search terms:
+  glb:
+  - fe ruke de
+  - fe
+  - ruke
+  - de
+  eng:
+  - behind
+  - in back of
+  epo:
+  - "malanta\u016De de"
+  spa:
+  - "detr\xE1s de"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/ruke">ruke</a>, <a href="../lexi/de">de</a>
+raw data:
+  term: fe ruke de
+  category: phrase
+  word class: p
+  status: false
+  trans:
+    eng: behind, in back of
+    epo: "malanta\u016De de"
+    spa: "detr\xE1s de"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, ruke, de
+...

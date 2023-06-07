@@ -1,0 +1,60 @@
+---
+term: aloyagi
+slug: aloyagi
+ipa: "alo\u02C8jagi"
+ipa link: "http://ipa-reader.xyz/?text=alo\u02C8jagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - distinction
+    - differentiation
+  - - differentiate
+    - distinguish
+  epo:
+  - - distingo
+  - - distingi
+  spa:
+  - - "distinci\xF3n"
+    - "diferenciaci\xF3n"
+  - - distinguir
+    - diferenciar
+search terms:
+  glb:
+  - aloyagi
+  eng:
+  - distinction
+  - differentiation
+  - differentiate
+  - distinguish
+  epo:
+  - distingo
+  - distingi
+  spa:
+  - "distinci\xF3n"
+  - "diferenciaci\xF3n"
+  - distinguir
+  - diferenciar
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/-ya">-ya</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: aloyagi
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: distinction, differentiation; differentiate, distinguish
+    epo: distingo; distingi
+    spa: "distinci\xF3n, diferenciaci\xF3n; distinguir, diferenciar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + -ya + -gi
+...

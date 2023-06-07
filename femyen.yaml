@@ -1,0 +1,58 @@
+---
+term: femyen
+slug: femyen
+ipa: "fe\u02C8mjen"
+ipa link: "http://ipa-reader.xyz/?text=fe\u02C8mjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - female
+    - woman
+    - lady
+    - gal
+    - girl
+  epo:
+  - - ino
+    - ulino
+  spa:
+  - - mujer
+    - "ni\xF1a"
+search terms:
+  glb:
+  - femyen
+  eng:
+  - female
+  - woman
+  - lady
+  - gal
+  - girl
+  epo:
+  - ino
+  - ulino
+  spa:
+  - mujer
+  - "ni\xF1a"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem">fem</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: femyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: female, woman, lady, gal, girl
+    epo: ino, ulino
+    spa: "mujer, ni\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem + -yen
+...

@@ -1,0 +1,52 @@
+---
+term: tipoli
+slug: tipoli
+ipa: "ti\u02C8poli"
+ipa link: "http://ipa-reader.xyz/?text=ti\u02C8poli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - typical
+    - typically
+  epo:
+  - - tipa
+  - - tipe
+  spa:
+  - - "t\xEDpico"
+  - - "t\xEDpicamente"
+search terms:
+  glb:
+  - tipoli
+  eng:
+  - typical
+  - typically
+  epo:
+  - tipa
+  - tipe
+  spa:
+  - "t\xEDpico"
+  - "t\xEDpicamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tipo">tipo</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: tipoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: typical, typically
+    epo: tipa; tipe
+    spa: "t\xEDpico; t\xEDpicamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tipo + -li
+...

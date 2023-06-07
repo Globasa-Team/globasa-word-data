@@ -1,0 +1,55 @@
+---
+term: semi semi
+slug: semi semi
+ipa: "\u02C8semi \u02C8semi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8semi \u02C8semi&voice=Ewa"
+status: false
+category: phrase
+word class: m
+trans:
+  eng:
+  - - so-so
+  epo:
+  - - mezbona
+  - - mezbone
+    - iele-trapele
+  spa:
+  - - "m\xE1s o menos"
+    - "as\xED as\xED"
+    - regular
+search terms:
+  glb:
+  - semi semi
+  - semi
+  eng:
+  - so-so
+  epo:
+  - mezbona
+  - mezbone
+  - iele-trapele
+  spa:
+  - "m\xE1s o menos"
+  - "as\xED as\xED"
+  - regular
+etymology_type: DERIVD
+etymology: <a href="../lexi/semi">semi</a>, <a href="../lexi/semi">semi</a>
+raw data:
+  term: semi semi
+  category: phrase
+  word class: m
+  status: false
+  trans:
+    eng: so-so
+    epo: mezbona; mezbone, iele-trapele
+    spa: "m\xE1s o menos, as\xED as\xED, regular"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: semi, semi
+...

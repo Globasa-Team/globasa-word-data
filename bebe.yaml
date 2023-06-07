@@ -1,0 +1,66 @@
+---
+term: bebe
+slug: bebe
+ipa: ˈbebe
+ipa link: http://ipa-reader.xyz/?text=ˈbebe&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - baby
+  epo:
+  - - bebo
+  spa:
+  - - bebé
+search terms:
+  glb:
+  - bebe
+  eng:
+  - baby
+  epo:
+  - bebo
+  spa:
+  - bebé
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - baby
+    - babe
+  Espanisa:
+  - - bebé
+  Fransesa:
+  - - bébé
+  Doycisa:
+  - - Baby
+  Indonesisa:
+  - - bayi
+  Niponsa:
+  - - ベビー “bebi”
+  Turkisa:
+  - - bebek
+  Vyetnamsa:
+  - - bé
+tags:
+- famil
+raw data:
+  term: bebe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: baby
+    epo: bebo
+    spa: bebé
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: famil
+  etymology: Englisa (baby, babe), Espanisa (bebé), Fransesa (bébé), Doycisa (Baby),
+    Indonesisa (bayi), Niponsa (ベビー “bebi”), Turkisa (bebek), Vyetnamsa (bé)
+...

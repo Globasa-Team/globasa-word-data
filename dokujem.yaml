@@ -1,0 +1,59 @@
+---
+term: dokujem
+slug: dokujem
+ipa: dokuˈd͡ʒem
+ipa link: http://ipa-reader.xyz/?text=dokuˈd͡ʒem&voice=Ewa
+status: false
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - monopoly
+  - - monopolize
+  epo:
+  - - monopolo
+  - - monopoligi
+  spa:
+  - - monopolio
+search terms:
+  glb:
+  - dokujem
+  eng:
+  - monopoly
+  - monopolize
+  epo:
+  - monopolo
+  - monopoligi
+  spa:
+  - monopolio
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 独占 "dujan"
+  Niponsa:
+  - - 独占 "dokusen"
+  Vyetnamsa:
+  - - độc chiếm
+  Hangusa:
+  - - 독점 "dokjom"
+raw data:
+  term: dokujem
+  category: root
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: monopoly; monopolize
+    epo: monopolo; monopoligi
+    spa: monopolio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (独占 "dujan"), Niponsa (独占 "dokusen"), Vyetnamsa (độc chiếm),
+    Hangusa (독점 "dokjom")
+...

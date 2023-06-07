@@ -1,0 +1,69 @@
+---
+term: parke
+slug: parke
+ipa: "\u02C8pa\u027Eke"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pa\u027Eke&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - park
+  epo:
+  - - parko
+  spa:
+  - - parque
+search terms:
+  glb:
+  - parke
+  eng:
+  - park
+  epo:
+  - parko
+  spa:
+  - parque
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - park
+  Fransesa:
+  - - parc
+  Doycisa:
+  - - Park
+  Rusisa:
+  - - "\u043F\u0430\u0440\u043A \u201Cpark\u201D"
+  Espanisa:
+  - - parque
+  Hindisa:
+  - - "\u092A\u093E\u0930\u094D\u0915 \u201Cp\u0101rk\u201D"
+  Niponsa:
+  - - "\u30D1\u30FC\u30AF \u201Cp\u0101ku\u201D"
+  Parsisa:
+  - - "\u067E\u0627\u0631\u06A9 \u201Cp\xE2rk\u201D"
+  Pilipinasa:
+  - - parke
+tags:
+- dom
+raw data:
+  term: parke
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: park
+    epo: parko
+    spa: parque
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dom
+  etymology: "Englisa (park), Fransesa (parc), Doycisa (Park), Rusisa (\u043F\u0430\u0440\u043A
+    \u201Cpark\u201D), Espanisa (parque), Hindisa (\u092A\u093E\u0930\u094D\u0915
+    \u201Cp\u0101rk\u201D), Niponsa (\u30D1\u30FC\u30AF \u201Cp\u0101ku\u201D), Parsisa
+    (\u067E\u0627\u0631\u06A9 \u201Cp\xE2rk\u201D), Pilipinasa (parke)"
+...

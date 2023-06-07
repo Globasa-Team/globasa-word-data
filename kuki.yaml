@@ -1,0 +1,55 @@
+---
+term: kuki
+slug: kuki
+ipa: "\u02C8kuki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kuki&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - HTTP cookie
+    - browser cookie
+    - cookie (_computer_)
+  epo:
+  - - kuketo
+    - "\u0135etono"
+    - retumila memoreto
+  spa:
+  - - _cookie_ HTTP
+    - _cookie_ de navegador
+    - "_cookie_ inform\xE1tica"
+search terms:
+  glb:
+  - kuki
+  eng:
+  - http cookie
+  - browser cookie
+  - cookie
+  epo:
+  - kuketo
+  - "\u0135etono"
+  - retumila memoreto
+  spa: []
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kuki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: HTTP cookie, browser cookie, cookie (_computer_)
+    epo: "kuketo, \u0135etono, retumila memoreto"
+    spa: "_cookie_ HTTP, _cookie_ de navegador, _cookie_ inform\xE1tica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ( )
+...

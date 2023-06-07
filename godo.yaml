@@ -1,0 +1,58 @@
+---
+term: godo
+slug: godo
+ipa: ˈgodo
+ipa link: http://ipa-reader.xyz/?text=ˈgodo&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - excessive
+    - too much
+    - too many
+  epo:
+  - - troa
+  - - tro da
+    - troe
+  spa:
+  - - demasiado
+search terms:
+  glb:
+  - godo
+  eng:
+  - excessive
+  - too much
+  - too many
+  epo:
+  - troa
+  - tro da
+  - troe
+  spa:
+  - demasiado
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 过多 “guò duō”
+  Hangusa:
+  - - 과도 “gwado”
+raw data:
+  term: godo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: excessive, too much, too many
+    epo: troa; tro da, troe
+    spa: demasiado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (过多 “guò duō”), Hangusa (과도 “gwado”)
+...

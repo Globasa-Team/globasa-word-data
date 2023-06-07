@@ -1,0 +1,84 @@
+---
+term: galon
+slug: galon
+ipa: gaˈlon
+ipa link: http://ipa-reader.xyz/?text=gaˈlon&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gallon
+  epo:
+  - - galjono
+  spa:
+  - - galón (_unidad de volumen_)
+    - gal
+search terms:
+  glb:
+  - galon
+  eng:
+  - gallon
+  epo:
+  - galjono
+  spa:
+  - galón
+  - gal
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gallon
+  Espanisa:
+  - - galón
+  Fransesa:
+  - - gallon
+  Rusisa:
+  - - галлон "gallon"
+  Doycisa:
+  - - Gallone
+  Indonesisa:
+  - - galon
+  Pilipinasa:
+  - - galon
+  Putunhwa:
+  - - 加仑 "jyalun"
+  Hindisa:
+  - - गैलन "galan"
+  Arabisa:
+  - - غَالُون "ḡalun"
+  Niponsa:
+  - - ガロン "garon"
+  nTurkisa:
+  - - galon
+  Vyetnamsa:
+  - - ga-lông
+  Hangusa:
+  - - 갤런 "gellon"
+  Parsisa:
+  - - گالون "galon"
+  Swahilisa:
+  - - galoni
+raw data:
+  term: galon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gallon
+    epo: galjono
+    spa: galón (_unidad de volumen_), gal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (gallon), Espanisa (galón), Fransesa (gallon), Rusisa (галлон
+    "gallon"), Doycisa (Gallone), Indonesisa (galon), Pilipinasa (galon), Putunhwa
+    (加仑 "jyalun"), Hindisa (गैलन "galan"), Arabisa (غَالُون "ḡalun"), Niponsa (ガロン
+    "garon"),nTurkisa (galon), Vyetnamsa (ga-lông), Hangusa (갤런 "gellon"), Parsisa
+    (گالون "galon"), Swahilisa (galoni)
+...

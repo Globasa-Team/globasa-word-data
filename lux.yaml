@@ -1,0 +1,71 @@
+---
+term: lux
+slug: lux
+ipa: "\u02C8lu\u0283"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lu\u0283&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lux (unit)
+  epo:
+  - - lukso (mezurunuo)
+  spa:
+  - - lux
+    - lx
+  deu:
+  - - Lux
+  fra:
+  - - lux
+  rus:
+  - - "\u043B\u044E\u043A\u0441"
+  zho:
+  - - "\u52D2\u514B\u65AF"
+search terms:
+  glb:
+  - lux
+  eng:
+  - lux unit
+  - lux
+  epo:
+  - lukso mezurunuo
+  - lukso
+  spa:
+  - lux
+  - lx
+  deu:
+  - lux
+  fra:
+  - lux
+  rus:
+  - "\u043B\u044E\u043A\u0441"
+  zho:
+  - "\u52D2\u514B\u65AF"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lux
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lux (unit)
+    epo: lukso (mezurunuo)
+    spa: lux, lx
+    deu: Lux
+    fra: lux
+    rus: "\u043B\u044E\u043A\u0441"
+    zho: "\u52D2\u514B\u65AF"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lux), Espanisa (lux), Fransesa (lux), Rusisa (\u043B\u044E\u043A\u0441
+    \u201Clyuks\u201D), Doycisa (Lux), Indonesisa (lux), Pilipinasa (lux), Putunhwa
+    (\u52D2\u514B\u65AF \u201Clekesi\u201D), Hindisa (\u0932\u0915\u094D\u0938 \u201Claks\u201D),
+    Arabisa (\u0644\u0643\u0633 \u201Claks\u201D), Niponsa (\u30EB\u30AF\u30B9 \u201Crukusu\u201D),
+    Turkisa (l\xFCks), Hangusa (\uB7ED\uC2A4 \u201Clogsu\u201D), Vyetnamsa (lux),
+    Parsisa (\u0644\u0648\u06A9\u0633 \u201Cluks\u201D)"
+...

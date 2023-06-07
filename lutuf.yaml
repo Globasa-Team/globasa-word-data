@@ -1,0 +1,49 @@
+---
+term: lutuf
+slug: lutuf
+ipa: "lu\u02C8tuf"
+ipa link: "http://ipa-reader.xyz/?text=lu\u02C8tuf&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - kindness
+  epo:
+  - - bonvolo
+  spa:
+  - - amabilidad
+    - bondad
+search terms:
+  glb:
+  - lutuf
+  eng:
+  - kindness
+  epo:
+  - bonvolo
+  spa:
+  - amabilidad
+  - bondad
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lutuf
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: kindness
+    epo: bonvolo
+    spa: amabilidad, bondad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0644\u0637\u0641 \u201Cltf\u201D), Parsisa (\u0644\u0637\u0641
+    \u201Cltf\u201D), Turkisa (l\xFCtfen, l\xFCtuf)"
+...

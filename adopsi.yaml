@@ -1,0 +1,63 @@
+---
+term: adopsi
+slug: adopsi
+ipa: aˈdopsi
+ipa link: http://ipa-reader.xyz/?text=aˈdopsi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - adoption
+  - - adopt
+  epo:
+  - - adopto
+  - - adopti
+  spa:
+  - - adopción
+  - - adoptar
+search terms:
+  glb:
+  - adopsi
+  eng:
+  - adoption
+  - adopt
+  epo:
+  - adopto
+  - adopti
+  spa:
+  - adopción
+  - adoptar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - adoption
+  Fransesa: ~
+  Germanisa: ~
+  Espanisa:
+  - - adopción
+  Indonesisa:
+  - - adopsi
+  Pilipinasa:
+  - - adopsiyon
+raw data:
+  term: adopsi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: adoption; adopt
+    epo: adopto; adopti
+    spa: adopción; adoptar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (adoption), Fransesa, Germanisa, Espanisa (adopción), Indonesisa
+    (adopsi), Pilipinasa (adopsiyon)
+...

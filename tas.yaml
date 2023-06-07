@@ -1,0 +1,51 @@
+---
+term: tas
+slug: tas
+ipa: tas
+ipa link: http://ipa-reader.xyz/?text=tas&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - to (_indirect object marker_)
+    - for (_for receiver/recipient_)
+  epo:
+  - - al (nerekta objekto)
+  spa:
+  - - a (_marcador del objeto indirecto_)
+    - para (_recipiente_)
+search terms:
+  glb:
+  - tas
+  eng:
+  - to
+  - for
+  epo:
+  - al nerekta objekto
+  - al
+  spa:
+  - a
+  - para
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/taslum">taslum</a>.
+raw data:
+  term: tas
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: to (_indirect object marker_), for (_for receiver/recipient_)
+    epo: al (nerekta objekto)
+    spa: a (_marcador del objeto indirecto_), para (_recipiente_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _taslum_.
+...

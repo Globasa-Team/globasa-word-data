@@ -1,0 +1,72 @@
+---
+term: side
+slug: side
+ipa: "\u02C8side"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8side&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - sit
+    - be sitting
+    - seat
+  epo:
+  - - sidloko
+  - - sidi
+  spa:
+  - - sentarse
+    - sentar
+search terms:
+  glb:
+  - side
+  eng:
+  - sit
+  - be sitting
+  - seat
+  epo:
+  - sidloko
+  - sidi
+  spa:
+  - sentarse
+  - sentar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sit
+    - seat
+  Doycisa:
+  - - sitzen
+  Rusisa:
+  - - "\u0441\u0438\u0434\u0435\u0442\u044C \u201Csidet\u201D"
+  Italisa:
+  - - sedere
+    - sede
+  Hindisa:
+  - - "\u0938\u0940\u091F \u201Csit\u201D"
+  Niponsa:
+  - - "\u30B7\u30FC\u30C8 \u201Cxito\u201D"
+  Hangusa:
+  - - "\uC2DC\uD2B8 \u201Csitu\u201D"
+raw data:
+  term: side
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: sit, be sitting, seat
+    epo: sidloko; sidi
+    spa: sentarse, sentar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (sit, seat), Doycisa (sitzen), Rusisa (\u0441\u0438\u0434\u0435\u0442\u044C
+    \u201Csidet\u201D), Italisa (sedere, sede), Hindisa (\u0938\u0940\u091F \u201Csit\u201D),
+    Niponsa (\u30B7\u30FC\u30C8 \u201Cxito\u201D), Hangusa (\uC2DC\uD2B8 \u201Csitu\u201D)"
+...

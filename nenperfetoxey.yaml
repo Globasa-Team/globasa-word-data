@@ -1,0 +1,48 @@
+---
+term: nenperfetoxey
+slug: nenperfetoxey
+ipa: "nenpe\u027Efeto\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=nenpe\u027Efeto\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (an) imperfection
+  epo:
+  - - "neperfekta\u0135o"
+  spa:
+  - - "imperfecci\xF3n"
+search terms:
+  glb:
+  - nenperfetoxey
+  eng:
+  - an imperfection
+  - imperfection
+  epo:
+  - "neperfekta\u0135o"
+  spa:
+  - "imperfecci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/perfeto">perfeto</a>
+  + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: nenperfetoxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (an) imperfection
+    epo: "neperfekta\u0135o"
+    spa: "imperfecci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + perfeto + -xey
+...

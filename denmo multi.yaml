@@ -1,0 +1,52 @@
+---
+term: denmo multi
+slug: denmo multi
+ipa: "\u02C8denmo \u02C8multi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8denmo \u02C8multi&voice=Ewa"
+status: false
+category: phrase
+word class: t
+trans:
+  eng:
+  - - so many
+    - so much
+  epo:
+  - - tiom multe
+  spa:
+  - - tanto
+    - tantos
+search terms:
+  glb:
+  - denmo multi
+  - denmo
+  - multi
+  eng:
+  - so many
+  - so much
+  epo:
+  - tiom multe
+  spa:
+  - tanto
+  - tantos
+etymology_type: DERIVD
+etymology: <a href="../lexi/den">den</a> + <a href="../lexi/-mo">-mo</a>, <a href="../lexi/multi">multi</a>
+raw data:
+  term: denmo multi
+  category: phrase
+  word class: t
+  status: false
+  trans:
+    eng: so many, so much
+    epo: tiom multe
+    spa: tanto, tantos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: den + -mo, multi
+...

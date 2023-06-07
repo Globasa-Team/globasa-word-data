@@ -1,0 +1,47 @@
+---
+term: ludan
+slug: ludan
+ipa: "lu\u02C8dan"
+ipa link: "http://ipa-reader.xyz/?text=lu\u02C8dan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - brigade
+  epo:
+  - - brigado
+  spa:
+  - - brigada
+search terms:
+  glb:
+  - ludan
+  eng:
+  - brigade
+  epo:
+  - brigado
+  spa:
+  - brigada
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ludan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: brigade
+    epo: brigado
+    spa: brigada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u65C5\u56E2 \u201Clutwan\u201D), Niponsa (\u65C5\u56E3 \u201Cryodan\u201D),
+    Hangusa (\uC5EC\uB2E8 \u201Cyodan\u201D), Vyetnamsa (l\u1EEF \u0111o\xE0n)"
+...

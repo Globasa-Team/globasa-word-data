@@ -1,0 +1,64 @@
+---
+term: belaka
+slug: belaka
+ipa: beˈlaka
+ipa link: http://ipa-reader.xyz/?text=beˈlaka&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - raft
+  epo:
+  - - floso
+  spa:
+  - - balsa
+search terms:
+  glb:
+  - belaka
+  eng:
+  - raft
+  epo:
+  - floso
+  spa:
+  - balsa
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - बेड़ा "beṛa"
+  Bengalisa:
+  - - ভেলা "bela"
+  Telugusa:
+  - - బల్లకట్టు "ballakattu"
+  Vyetnamsa:
+  - - bè
+  Parsisa:
+  - - بلم "balam"
+    - کلک "kalak"
+    - کرجی "karaji"
+  Espanisa:
+  - - balsa
+  Portugalsa:
+  - - balsa
+raw data:
+  term: belaka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: raft
+    epo: floso
+    spa: balsa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (बेड़ा "beṛa"), Bengalisa (ভেলা "bela"), Telugusa (బల్లకట్టు
+    "ballakattu"), Vyetnamsa (bè), Parsisa (بلم "balam", کلک "kalak", کرجی "karaji"),
+    Espanisa (balsa), Portugalsa (balsa)
+...

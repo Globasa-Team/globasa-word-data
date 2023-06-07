@@ -1,0 +1,52 @@
+---
+term: ejakulaxey
+slug: ejakulaxey
+ipa: "ed\u0361\u0292akula\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=ed\u0361\u0292akula\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - semen
+    - ejaculate
+  epo:
+  - - "\u0109uro"
+    - "ejakula\u0135o"
+  spa:
+  - - semen
+    - "eyaculaci\xF3n"
+search terms:
+  glb:
+  - ejakulaxey
+  eng:
+  - semen
+  - ejaculate
+  epo:
+  - "\u0109uro"
+  - "ejakula\u0135o"
+  spa:
+  - semen
+  - "eyaculaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ejakula">ejakula</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: ejakulaxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: semen, ejaculate
+    epo: "\u0109uro, ejakula\u0135o"
+    spa: "semen, eyaculaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ejakula + -xey
+...

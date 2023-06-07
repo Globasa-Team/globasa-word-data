@@ -1,0 +1,84 @@
+---
+term: taksi
+slug: taksi
+ipa: "\u02C8taksi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8taksi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - taxi
+  epo:
+  - - taksio
+  spa:
+  - - taxi
+search terms:
+  glb:
+  - taksi
+  eng:
+  - taxi
+  epo:
+  - taksio
+  spa:
+  - taxi
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - taxi
+  Espanisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Putunhwa:
+  - - "\u7684\u58EB \u201Cdixi\u201D"
+  Hindisa:
+  - - "\u091F\u0948\u0915\u094D\u0938\u0940 \u201Cteksi\u201D"
+  Arabisa:
+  - - "\u062A\u064E\u0627\u0643\u0652\u0633\u0650\u064A\u200E \u201Ctaksi\u201D"
+  Rusisa:
+  - - "\u0442\u0430\u043A\u0441\u0438 \u201Ctaksi\u201D"
+  Indonesisa:
+  - - taksi
+  Turkisa: ~
+  Niponsa:
+  - - "\u30BF\u30AF\u30B7\u30FC \u201Ctakuxi\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C3E\u0C15\u0C4D\u0C38\u0C40 \u201Ctaksi\u201D"
+  Hangusa:
+  - - "\uD0DD\uC2DC \u201Cteksi\u201D"
+  Vyetnamsa:
+  - - "t\u1EAFc xi"
+  Parsisa:
+  - - "\u062A\u0627\u06A9\u0633\u06CC \u201Ct\xE2ksi\u201D"
+  Swahilisa:
+  - - teksi
+  Pilipinasa:
+  - - taxi
+    - taksi
+raw data:
+  term: taksi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: taxi
+    epo: taksio
+    spa: taxi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (taxi), Espanisa, Fransesa, Doycisa, Putunhwa (\u7684\u58EB
+    \u201Cdixi\u201D), Hindisa (\u091F\u0948\u0915\u094D\u0938\u0940 \u201Cteksi\u201D),
+    Arabisa (\u062A\u064E\u0627\u0643\u0652\u0633\u0650\u064A\u200E \u201Ctaksi\u201D),
+    Rusisa (\u0442\u0430\u043A\u0441\u0438 \u201Ctaksi\u201D), Indonesisa (taksi),
+    Turkisa, Niponsa (\u30BF\u30AF\u30B7\u30FC \u201Ctakuxi\u201D), Telugusa (\u0C1F\u0C3E\u0C15\u0C4D\u0C38\u0C40
+    \u201Ctaksi\u201D), Hangusa (\uD0DD\uC2DC \u201Cteksi\u201D), Vyetnamsa (t\u1EAFc
+    xi), Parsisa (\u062A\u0627\u06A9\u0633\u06CC \u201Ct\xE2ksi\u201D), Swahilisa
+    (teksi), Pilipinasa (taxi, taksi)"
+...

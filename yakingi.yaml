@@ -1,0 +1,62 @@
+---
+term: yakingi
+slug: yakingi
+ipa: "ja\u02C8kingi"
+ipa link: "http://ipa-reader.xyz/?text=ja\u02C8kingi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - assurance
+  - - assure
+    - make sure
+    - secure
+  epo:
+  - - certigado
+  - - certigi
+  spa:
+  - - "garant\xEDa"
+    - certeza
+    - seguridad
+  - - garantizar
+    - asegurar
+search terms:
+  glb:
+  - yakingi
+  eng:
+  - assurance
+  - assure
+  - make sure
+  - secure
+  epo:
+  - certigado
+  - certigi
+  spa:
+  - "garant\xEDa"
+  - certeza
+  - seguridad
+  - garantizar
+  - asegurar
+etymology_type: DERIVD
+etymology: <a href="../lexi/yakin">yakin</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: yakingi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: assurance; assure, make sure, secure
+    epo: certigado; certigi
+    spa: "garant\xEDa, certeza, seguridad; garantizar, asegurar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yakin + -gi
+...

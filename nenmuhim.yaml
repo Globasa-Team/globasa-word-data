@@ -1,0 +1,52 @@
+---
+term: nenmuhim
+slug: nenmuhim
+ipa: "nenmu\u02C8xim"
+ipa link: "http://ipa-reader.xyz/?text=nenmu\u02C8xim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unimportant
+  - - unimportantly
+  epo:
+  - - negrava
+    - malgrave
+  - - negrave
+  spa:
+  - - sin importancia
+search terms:
+  glb:
+  - nenmuhim
+  eng:
+  - unimportant
+  - unimportantly
+  epo:
+  - negrava
+  - malgrave
+  - negrave
+  spa:
+  - sin importancia
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/muhim">muhim</a>
+raw data:
+  term: nenmuhim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unimportant; unimportantly
+    epo: negrava, malgrave; negrave
+    spa: sin importancia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + muhim
+...

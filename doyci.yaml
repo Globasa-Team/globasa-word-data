@@ -1,0 +1,53 @@
+---
+term: doyci
+slug: doyci
+ipa: "\u02C8dojt\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dojt\u0361\u0283i&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Germany
+  epo:
+  - - Germanio
+    - Germanujo
+  spa:
+  - - Alemania
+search terms:
+  glb:
+  - doyci
+  eng:
+  - germany
+  epo:
+  - germanio
+  - germanujo
+  spa:
+  - alemania
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Deutschland
+    - Deutsch
+tags:
+- dexa
+raw data:
+  term: Doyci
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Germany
+    epo: Germanio, Germanujo
+    spa: Alemania
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Doycisa (Deutschland, Deutsch)
+...

@@ -1,0 +1,46 @@
+---
+term: jardenya
+slug: jardenya
+ipa: "d\u0361\u0292a\u027E\u02C8denja"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u027E\u02C8denja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - gardening
+  epo:
+  - - "\u011Dardenado"
+  spa:
+  - - "jardiner\xEDa"
+search terms:
+  glb:
+  - jardenya
+  eng:
+  - gardening
+  epo:
+  - "\u011Dardenado"
+  spa:
+  - "jardiner\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/jarden">jarden</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: jardenya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: gardening
+    epo: "\u011Dardenado"
+    spa: "jardiner\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jarden + -ya
+...

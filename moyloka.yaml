@@ -1,0 +1,48 @@
+---
+term: moyloka
+slug: moyloka
+ipa: "moj\u02C8loka"
+ipa link: "http://ipa-reader.xyz/?text=moj\u02C8loka&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - everywhere
+    - throughout
+  epo:
+  - - "\u0109ie"
+  spa:
+  - - en todo lugar
+search terms:
+  glb:
+  - moyloka
+  eng:
+  - everywhere
+  - throughout
+  epo:
+  - "\u0109ie"
+  spa:
+  - en todo lugar
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/loka">loka</a>
+raw data:
+  term: moyloka
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: everywhere, throughout
+    epo: "\u0109ie"
+    spa: en todo lugar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + loka
+...

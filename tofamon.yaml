@@ -1,0 +1,50 @@
+---
+term: tofamon
+slug: tofamon
+ipa: "tofa\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=tofa\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - single hair
+    - strand of headhair
+  epo:
+  - - (kap)haro
+  spa:
+  - - cabello (uno solo)
+search terms:
+  glb:
+  - tofamon
+  eng:
+  - single hair
+  - strand of headhair
+  epo:
+  - kapharo
+  - haro
+  spa:
+  - cabello uno solo
+  - cabello
+etymology_type: DERIVD
+etymology: <a href="../lexi/tofa">tofa</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: tofamon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: single hair, strand of headhair
+    epo: (kap)haro
+    spa: cabello (uno solo)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tofa + -mon
+...

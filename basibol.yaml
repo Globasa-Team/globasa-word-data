@@ -1,0 +1,48 @@
+---
+term: basibol
+slug: basibol
+ipa: "basi\u02C8bol"
+ipa link: "http://ipa-reader.xyz/?text=basi\u02C8bol&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - baseball
+  epo:
+  - - bazopilko
+    - basbalo
+  spa:
+  - - "b\xE9isbol"
+search terms:
+  glb:
+  - basibol
+  eng:
+  - baseball
+  epo:
+  - bazopilko
+  - basbalo
+  spa:
+  - "b\xE9isbol"
+etymology_type: DERIVD
+etymology: <a href="../lexi/basi">basi</a> + <a href="../lexi/-bol">-bol</a>
+raw data:
+  term: basibol
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: baseball
+    epo: bazopilko, basbalo
+    spa: "b\xE9isbol"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: basi + -bol
+...

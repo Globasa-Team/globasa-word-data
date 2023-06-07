@@ -1,0 +1,48 @@
+---
+term: kostruiyen
+slug: kostruiyen
+ipa: "kost\u027Eui\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=kost\u027Eui\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - builder
+  epo:
+  - - konstruisto
+    - konstruanto
+  spa:
+  - - constructor
+search terms:
+  glb:
+  - kostruiyen
+  eng:
+  - builder
+  epo:
+  - konstruisto
+  - konstruanto
+  spa:
+  - constructor
+etymology_type: DERIVD
+etymology: <a href="../lexi/kostrui">kostrui</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: kostruiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: builder
+    epo: konstruisto, konstruanto
+    spa: constructor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kostrui + -yen
+...

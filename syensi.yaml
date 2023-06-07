@@ -1,0 +1,60 @@
+---
+term: syensi
+slug: syensi
+ipa: "\u02C8sjensi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sjensi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - science
+  epo:
+  - - scienco
+  spa:
+  - - ciencia
+search terms:
+  glb:
+  - syensi
+  eng:
+  - science
+  epo:
+  - scienco
+  spa:
+  - ciencia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - science
+  Fransesa: ~
+  Espanisa:
+  - - _ciencia_
+  Niponsa:
+  - - "\u30B5\u30A4\u30A8\u30F3\u30B9 \u201Csaiensu\u201D"
+  Pilipinasa:
+  - - siyensiya
+  Swahilisa:
+  - - sayansi
+tags:
+- eskolya
+raw data:
+  term: syensi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: science
+    epo: scienco
+    spa: ciencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: eskolya
+  etymology: "Englisa (science), Fransesa, Espanisa (_ciencia_), Niponsa (\u30B5\u30A4\u30A8\u30F3\u30B9
+    \u201Csaiensu\u201D), Pilipinasa (siyensiya), Swahilisa (sayansi)"
+...

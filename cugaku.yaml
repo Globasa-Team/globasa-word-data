@@ -1,0 +1,66 @@
+---
+term: cugaku
+slug: cugaku
+ipa: t͡ʃuˈgaku
+ipa link: http://ipa-reader.xyz/?text=t͡ʃuˈgaku&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - antenna (_biology_)
+    - feeler
+  epo:
+  - - anteno (_biologia_)
+  spa:
+  - - antena (_biología_)
+search terms:
+  glb:
+  - cugaku
+  eng:
+  - antenna
+  - feeler
+  epo:
+  - anteno
+  spa:
+  - antena
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 触角 “cujyaw”
+  Niponsa:
+  - - 触角 “xokkaku”
+  Vyetnamsa:
+  - - xúc giác
+  Hangusa:
+  - - 촉각 “cokgak”
+  Rusisa:
+  - - сяжок “syajok”
+  Pilipinasa:
+  - - sungot
+  Parsisa:
+  - - شاخک “xahak”
+tags:
+- jismulogi
+raw data:
+  term: cugaku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: antenna (_biology_), feeler
+    epo: anteno (_biologia_)
+    spa: antena (_biología_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Putunhwa (触角 “cujyaw”), Niponsa (触角 “xokkaku”), Vyetnamsa (xúc giác),
+    Hangusa (촉각 “cokgak”), Rusisa (сяжок “syajok”), Pilipinasa (sungot), Parsisa (شاخک
+    “xahak”)
+...

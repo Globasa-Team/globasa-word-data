@@ -1,0 +1,50 @@
+---
+term: harkakal
+slug: harkakal
+ipa: "xa\u027Eka\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=xa\u027Eka\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - still
+    - motionless
+  epo:
+  - - senmova
+  - - senmove
+  spa:
+  - - "inm\xF3vil"
+search terms:
+  glb:
+  - harkakal
+  eng:
+  - still
+  - motionless
+  epo:
+  - senmova
+  - senmove
+  spa:
+  - "inm\xF3vil"
+etymology_type: DERIVD
+etymology: <a href="../lexi/harka">harka</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: harkakal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: still, motionless
+    epo: senmova; senmove
+    spa: "inm\xF3vil"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: harka + -kal
+...

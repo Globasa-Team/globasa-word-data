@@ -1,0 +1,46 @@
+---
+term: fem-
+slug: fem-
+ipa: "\u02C8fem-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8fem-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - female
+  epo:
+  - - -in-
+  spa:
+  - - femenino
+search terms:
+  glb:
+  - fem-
+  eng:
+  - female
+  epo:
+  - -in-
+  spa:
+  - femenino
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/fem">fem</a>.
+raw data:
+  term: fem-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: female
+    epo: -in-
+    spa: femenino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _fem_.
+...

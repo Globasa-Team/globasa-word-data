@@ -1,0 +1,46 @@
+---
+term: bonjotay
+slug: bonjotay
+ipa: "bond\u0361\u0292o\u02C8taj"
+ipa link: "http://ipa-reader.xyz/?text=bond\u0361\u0292o\u02C8taj&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - well-being
+  epo:
+  - - bonstato
+  spa:
+  - - bienestar
+search terms:
+  glb:
+  - bonjotay
+  eng:
+  - well-being
+  epo:
+  - bonstato
+  spa:
+  - bienestar
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/jotay">jotay</a>
+raw data:
+  term: bonjotay
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: well-being
+    epo: bonstato
+    spa: bienestar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bon- + jotay
+...

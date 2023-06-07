@@ -1,0 +1,72 @@
+---
+term: pilula
+slug: pilula
+ipa: "pi\u02C8lula"
+ipa link: "http://ipa-reader.xyz/?text=pi\u02C8lula&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pill
+    - pellet
+  epo:
+  - - pilolo
+  spa:
+  - - pastilla
+    - "c\xE1psula"
+search terms:
+  glb:
+  - pilula
+  eng:
+  - pill
+  - pellet
+  epo:
+  - pilolo
+  spa:
+  - pastilla
+  - "c\xE1psula"
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Pille
+  Englisa:
+  - - pill
+  Espanisa:
+  - - "p\xEDldora"
+  Fransesa:
+  - - pilule
+  Italisa:
+  - - pillola
+  Portugalsa:
+  - - "p\xEDlula"
+  Rusisa:
+  - - "\u043F\u0438\u043B\u044E\u043B\u044F \u201Cpilyulya\u201D"
+  Indonesisa:
+  - - pil
+  Niponsa:
+  - - "\u30D4\u30EB \u201Cpiru\u201D"
+tags:
+- medis
+raw data:
+  term: pilula
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pill, pellet
+    epo: pilolo
+    spa: "pastilla, c\xE1psula"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Doycisa (Pille), Englisa (pill), Espanisa (p\xEDldora ), Fransesa (pilule),
+    Italisa (pillola), Portugalsa (p\xEDlula), Rusisa (\u043F\u0438\u043B\u044E\u043B\u044F
+    \u201Cpilyulya\u201D), Indonesisa (pil), Niponsa (\u30D4\u30EB \u201Cpiru\u201D)"
+...

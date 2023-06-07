@@ -1,0 +1,50 @@
+---
+term: cosanyen
+slug: cosanyen
+ipa: "t\u0361\u0283osa\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283osa\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - flatterer
+  epo:
+  - - "la\u016Ddanto"
+    - komplimentanto
+    - admiranto
+  spa:
+  - - adulador
+search terms:
+  glb:
+  - cosanyen
+  eng:
+  - flatterer
+  epo:
+  - "la\u016Ddanto"
+  - komplimentanto
+  - admiranto
+  spa:
+  - adulador
+etymology_type: DERIVD
+etymology: <a href="../lexi/cosan">cosan</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: cosanyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'flatterer '
+    epo: "la\u016Ddanto, komplimentanto, admiranto"
+    spa: adulador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cosan + -yen
+...

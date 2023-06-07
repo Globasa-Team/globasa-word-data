@@ -1,0 +1,48 @@
+---
+term: budaismo
+slug: budaismo
+ipa: "buda\u02C8ismo"
+ipa link: "http://ipa-reader.xyz/?text=buda\u02C8ismo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Buddhism
+  epo:
+  - - budhismo
+    - budaismo
+  spa:
+  - - budismo
+search terms:
+  glb:
+  - budaismo
+  eng:
+  - buddhism
+  epo:
+  - budhismo
+  - budaismo
+  spa:
+  - budismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/Buda">Buda</a> + <a href="../lexi/-ismo">-ismo</a>
+raw data:
+  term: Budaismo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Buddhism
+    epo: budhismo, budaismo
+    spa: budismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Buda + -ismo
+...

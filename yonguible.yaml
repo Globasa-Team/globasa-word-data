@@ -1,0 +1,48 @@
+---
+term: yonguible
+slug: yonguible
+ipa: "jongu\u02C8ible"
+ipa link: "http://ipa-reader.xyz/?text=jongu\u02C8ible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - useable
+  epo:
+  - - uzebla
+  - - uzeble
+  spa:
+  - - utilizable
+search terms:
+  glb:
+  - yonguible
+  eng:
+  - useable
+  epo:
+  - uzebla
+  - uzeble
+  spa:
+  - utilizable
+etymology_type: DERIVD
+etymology: <a href="../lexi/yongu">yongu</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: yonguible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: 'useable '
+    epo: uzebla; uzeble
+    spa: utilizable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yongu + -ible
+...

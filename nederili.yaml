@@ -1,0 +1,46 @@
+---
+term: nederili
+slug: nederili
+ipa: "nede\u02C8\u027Eili"
+ipa link: "http://ipa-reader.xyz/?text=nede\u02C8\u027Eili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Dutch
+  epo:
+  - - nederlanda
+  spa:
+  - - "neerland\xE9s"
+search terms:
+  glb:
+  - nederili
+  eng:
+  - dutch
+  epo:
+  - nederlanda
+  spa:
+  - "neerland\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Nederi">Nederi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Nederili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Dutch
+    epo: nederlanda
+    spa: "neerland\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Nederi + -li
+...

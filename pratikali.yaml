@@ -1,0 +1,48 @@
+---
+term: pratikali
+slug: pratikali
+ipa: "p\u027Eati\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eati\u02C8kali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - 'practical: practically'
+  epo:
+  - - praktika
+  - - praktike
+  spa:
+  - - "pr\xE1ctico"
+search terms:
+  glb:
+  - pratikali
+  eng:
+  - 'practical: practically'
+  epo:
+  - praktika
+  - praktike
+  spa:
+  - "pr\xE1ctico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/pratika">pratika</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: pratikali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: 'practical: practically'
+    epo: praktika; praktike
+    spa: "pr\xE1ctico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pratika + -li
+...

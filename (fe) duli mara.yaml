@@ -1,0 +1,76 @@
+---
+term: (fe) duli mara
+slug: (fe) duli mara
+ipa: "\u02C8(fe) \u02C8duli \u02C8ma\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8(fe) \u02C8duli \u02C8ma\u027Ea&voice=Ewa"
+status: false
+category: phrase
+word class: jm.p
+trans:
+  eng:
+  - - at times
+    - sometimes
+    - occasionally
+    - on occasion
+    - from time to time
+    - once in a while
+  epo:
+  - - iafoje
+    - iufoje
+    - kelkfoje
+    - kelkafoje
+    - multfoje
+    - plurfoje
+  spa:
+  - - a veces
+    - de vez en cuando
+    - ocasionalmente
+search terms:
+  glb:
+  - (fe) duli mara
+  - fe duli mara
+  - duli mara
+  - duli
+  - mara
+  eng:
+  - at times
+  - sometimes
+  - occasionally
+  - on occasion
+  - from time to time
+  - once in a while
+  epo:
+  - iafoje
+  - iufoje
+  - kelkfoje
+  - kelkafoje
+  - multfoje
+  - plurfoje
+  spa:
+  - a veces
+  - de vez en cuando
+  - ocasionalmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/du-">du-</a> + <a href="../lexi/-li">-li</a>,
+  <a href="../lexi/mara">mara</a>
+raw data:
+  term: (fe) duli mara
+  category: phrase
+  word class: jm.p
+  status: false
+  trans:
+    eng: at times, sometimes, occasionally, on occasion, from time to time, once in
+      a while
+    epo: iafoje, iufoje, kelkfoje, kelkafoje, multfoje, plurfoje
+    spa: a veces, de vez en cuando, ocasionalmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, du- + -li, mara
+...

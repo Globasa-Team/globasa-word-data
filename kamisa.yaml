@@ -1,0 +1,51 @@
+---
+term: kamisa
+slug: kamisa
+ipa: "ka\u02C8misa"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8misa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - shirt
+  epo:
+  - - "\u0109emizo"
+  spa:
+  - - camisa
+search terms:
+  glb:
+  - kamisa
+  eng:
+  - shirt
+  epo:
+  - "\u0109emizo"
+  spa:
+  - camisa
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- labas
+raw data:
+  term: kamisa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: shirt
+    epo: "\u0109emizo"
+    spa: camisa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Arabisa (\u0642\u0645\u064A\u0635 \u201Ckamis\u201D), Hindisa (\u0915\u092E\u0940\u091C
+    \u201Ckamij\u201D), Espanisa (camisa), Fransesa (chemise), Indonesisa (kemeja),
+    Pilipinasa (kamisa), Telugusa (\u0C15\u0C2E\u0C40\u0C1C\u0C41 \u201Ckam\u012Bju\u201D),
+    Swahilisa (kamisi)"
+...

@@ -1,0 +1,66 @@
+---
+term: tubo
+slug: tubo
+ipa: "\u02C8tubo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tubo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tube
+  epo:
+  - - tubo
+  spa:
+  - - tubo
+search terms:
+  glb:
+  - tubo
+  eng:
+  - tube
+  epo:
+  - tubo
+  spa:
+  - tubo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tube
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa:
+  - - "\u0442\u0443\u0431\u0430 \u201Ctuba\u201D"
+  Espanisa:
+  - - tubo
+  Pilipinasa: ~
+  Niponsa:
+  - - "Niponsa (\u30C1\u30E5\u30FC\u30D6 \u201Ccubu\u201D"
+  Hangusa:
+  - - "\uD29C\uBE0C \u201Ctyubu\u201D"
+  Hindisa:
+  - - "\u091F\u094D\u092F\u0942\u092C \u201Ctyoob\u201D"
+  Turkisa:
+  - - "t\xFCp"
+raw data:
+  term: tubo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tube
+    epo: tubo
+    spa: tubo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tube), Fransesa, Doycisa, Rusisa (\u0442\u0443\u0431\u0430
+    \u201Ctuba\u201D), Espanisa (tubo), Pilipinasa, Niponsa (Niponsa (\u30C1\u30E5\u30FC\u30D6
+    \u201Ccubu\u201D), Hangusa (\uD29C\uBE0C \u201Ctyubu\u201D), Hindisa (\u091F\u094D\u092F\u0942\u092C
+    \u201Ctyoob\u201D), Turkisa (t\xFCp)"
+...

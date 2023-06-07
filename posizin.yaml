@@ -1,0 +1,61 @@
+---
+term: posizin
+slug: posizin
+ipa: "posi\u02C8zin"
+ipa link: "http://ipa-reader.xyz/?text=posi\u02C8zin&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - prohibition
+    - ban
+  - - prohibit
+    - forbid
+    - ban
+    - deny
+  epo:
+  - - malpermeso
+  - - malpermesi
+    - prohibi
+  spa:
+  - - "prohibici\xF3n"
+  - - prohibir
+search terms:
+  glb:
+  - posizin
+  eng:
+    0: prohibition
+    1: ban
+    2: prohibit
+    3: forbid
+    5: deny
+  epo:
+  - malpermeso
+  - malpermesi
+  - prohibi
+  spa:
+  - "prohibici\xF3n"
+  - prohibir
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/izin">izin</a>
+raw data:
+  term: posizin
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: prohibition, ban; prohibit, forbid, ban, deny
+    epo: malpermeso; malpermesi, prohibi
+    spa: "prohibici\xF3n; prohibir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + izin
+...

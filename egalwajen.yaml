@@ -1,0 +1,55 @@
+---
+term: egalwajen
+slug: egalwajen
+ipa: "egalwa\u02C8d\u0361\u0292en"
+ipa link: "http://ipa-reader.xyz/?text=egalwa\u02C8d\u0361\u0292en&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - balance
+    - equilibrium
+  - - balance
+  epo:
+  - - ekvilibro
+  - - ekvilibrigi
+  spa:
+  - - balance
+    - equilibrio
+  - - balancear
+search terms:
+  glb:
+  - egalwajen
+  eng:
+  - balance
+  - equilibrium
+  epo:
+  - ekvilibro
+  - ekvilibrigi
+  spa:
+  - balance
+  - equilibrio
+  - balancear
+etymology_type: DERIVD
+etymology: <a href="../lexi/egal">egal</a> + <a href="../lexi/wajen">wajen</a>
+raw data:
+  term: egalwajen
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: balance, equilibrium; balance
+    epo: ekvilibro; ekvilibrigi
+    spa: balance, equilibrio; balancear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: egal + wajen
+...

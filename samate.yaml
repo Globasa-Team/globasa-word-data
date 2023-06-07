@@ -1,0 +1,51 @@
+---
+term: samate
+slug: samate
+ipa: "sa\u02C8mate"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8mate&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - (the) same one
+  epo:
+  - - samulo
+    - la sama (persono)
+  spa:
+  - - mismo (ser viviente)
+search terms:
+  glb:
+  - samate
+  eng:
+  - the same one
+  - same one
+  epo:
+  - samulo
+  - la sama persono
+  - la sama
+  spa:
+  - mismo ser viviente
+  - mismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/sama">sama</a> + <a href="../lexi/te">te</a>
+raw data:
+  term: samate
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: (the) same one
+    epo: samulo, la sama (persono)
+    spa: mismo (ser viviente)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sama + te
+...

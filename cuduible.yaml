@@ -1,0 +1,60 @@
+---
+term: cuduible
+slug: cuduible
+ipa: "t\u0361\u0283udu\u02C8ible"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283udu\u02C8ible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - available
+    - obtainable
+  epo:
+  - - akirebla
+    - ekhavebla
+    - prenebla
+    - akireble
+    - ekhaveble
+    - preneble
+  spa:
+  - - disponible
+    - obtenible
+search terms:
+  glb:
+  - cuduible
+  eng:
+  - available
+  - obtainable
+  epo:
+  - akirebla
+  - ekhavebla
+  - prenebla
+  - akireble
+  - ekhaveble
+  - preneble
+  spa:
+  - disponible
+  - obtenible
+etymology_type: DERIVD
+etymology: <a href="../lexi/cudu">cudu</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: cuduible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: available, obtainable
+    epo: akirebla, ekhavebla, prenebla, akireble, ekhaveble, preneble
+    spa: disponible, obtenible
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cudu + -ible
+...

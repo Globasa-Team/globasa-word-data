@@ -1,0 +1,50 @@
+---
+term: aysekrimu
+slug: aysekrimu
+ipa: "ajse\u02C8k\u027Eimu"
+ipa link: "http://ipa-reader.xyz/?text=ajse\u02C8k\u027Eimu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ice cream
+  epo:
+  - - "glacia\u0135o"
+  spa:
+  - - helado
+    - nieve
+search terms:
+  glb:
+  - aysekrimu
+  eng:
+  - ice cream
+  epo:
+  - "glacia\u0135o"
+  spa:
+  - helado
+  - nieve
+etymology_type: DERIVD
+etymology: <a href="../lexi/ayse">ayse</a> + <a href="../lexi/krimu">krimu</a>
+tags:
+- yamxey
+raw data:
+  term: aysekrimu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ice cream
+    epo: "glacia\u0135o"
+    spa: helado, nieve
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: ayse + krimu
+...

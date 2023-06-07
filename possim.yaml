@@ -1,0 +1,50 @@
+---
+term: possim
+slug: possim
+ipa: "pos\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=pos\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - dissimilar
+    - different
+  epo:
+  - - malsimila
+  - - malsimile
+  spa:
+  - - diferente
+search terms:
+  glb:
+  - possim
+  eng:
+  - dissimilar
+  - different
+  epo:
+  - malsimila
+  - malsimile
+  spa:
+  - diferente
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/sim">sim</a>
+raw data:
+  term: possim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: dissimilar, different
+    epo: malsimila; malsimile
+    spa: diferente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + sim
+...

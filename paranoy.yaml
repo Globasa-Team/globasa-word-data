@@ -1,0 +1,76 @@
+---
+term: paranoy
+slug: paranoy
+ipa: "pa\u027Ea\u02C8noj"
+ipa link: "http://ipa-reader.xyz/?text=pa\u027Ea\u02C8noj&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - paranoia
+  epo:
+  - - paranojo
+  spa:
+  - - paranoia
+search terms:
+  glb:
+  - paranoy
+  eng:
+  - paranoia
+  epo:
+  - paranojo
+  spa:
+  - paranoia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - paranoia
+    - paranoid
+  Doycisa: ~
+  Fransesa:
+  - - "parano\xEFa"
+    - "parano\xEFde"
+  Espanisa:
+  - - paranoia
+    - paranoico
+  Niponsa:
+  - - "\u30D1\u30E9\u30CE\u30A4\u30A2 \u201Cparanoia\u201D"
+  Hangusa:
+  - - "\uD328\uB7EC\uB178\uC774\uC544 \u201Cperonoia\u201D"
+  Arabisa:
+  - - "\u0628\u064E\u0627\u0631\u064E\u0627\u0646\u064F\u0648\u064A\u064E\u0627\u200E
+      f \u201Cbaranuya\u201D"
+  Parsisa:
+  - - "\u067E\u0627\u0631\u0627\u0646\u0648\u06CC\u0627\u200E \u201Cparanoya\u201D"
+    - "\u067E\u0627\u0631\u0627\u0646\u0648\u0626\u06CC\u062F \u201Cparanoyd\u201D"
+  Turkisa:
+  - - paranoya
+  Indonesisa:
+  - - paranoia
+  Pilipinasa: ~
+raw data:
+  term: paranoy
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: paranoia
+    epo: paranojo
+    spa: paranoia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (paranoia, paranoid), Doycisa, Fransesa (parano\xEFa, parano\xEFde),
+    Espanisa (paranoia, paranoico), Niponsa (\u30D1\u30E9\u30CE\u30A4\u30A2 \u201Cparanoia\u201D),
+    Hangusa (\uD328\uB7EC\uB178\uC774\uC544 \u201Cperonoia\u201D), Arabisa (\u0628\u064E\u0627\u0631\u064E\u0627\u0646\u064F\u0648\u064A\u064E\u0627\u200E
+    f \u201Cbaranuya\u201D), Parsisa (\u067E\u0627\u0631\u0627\u0646\u0648\u06CC\u0627\u200E
+    \u201Cparanoya\u201D, \u067E\u0627\u0631\u0627\u0646\u0648\u0626\u06CC\u062F \u201Cparanoyd\u201D),
+    Turkisa (paranoya), Indonesisa (paranoia), Pilipinasa"
+...

@@ -1,0 +1,85 @@
+---
+term: astatin
+slug: astatin
+ipa: astaˈtin
+ipa link: http://ipa-reader.xyz/?text=astaˈtin&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - astatine
+  epo:
+  - - astato
+  spa:
+  - - ástato
+    - At
+search terms:
+  glb:
+  - astatin
+  eng:
+  - astatine
+  epo:
+  - astato
+  spa:
+  - ástato
+  - at
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - astatine
+  Espanisa:
+  - - astato
+  Fransesa:
+  - - astate “astat”
+  Rusisa:
+  - - астат “astat”
+    - астатин “astatin”
+  Doycisa:
+  - - Astat
+    - Astatin
+  Indonesisa:
+  - - astatin
+  Arabisa:
+  - - أَسْتَاتِين “astatin”
+  Niponsa:
+  - - 아스타틴 “asutatin”
+  Telugusa:
+  - - ఆస్టాటీన్ “astatin”
+  Turkisa:
+  - - astat
+    - astatin
+  Vyetnamsa:
+  - - astatin
+  Parsisa:
+  - - استاتین “astâtin”
+  Swahlisa:
+  - - astatini
+  Pilipinasa:
+  - - astato
+tags:
+- kimikali monlari
+raw data:
+  term: astatin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: astatine
+    epo: astato
+    spa: ástato, At
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (astatine), Espanisa (astato), Fransesa (astate “astat”), Rusisa
+    (астат “astat”, астатин “astatin”), Doycisa (Astat, Astatin), Indonesisa (astatin),
+    Arabisa (أَسْتَاتِين “astatin”), Niponsa (アスタチン “asutacin”), Telugusa (ఆస్టాటీన్
+    “astatin”), Turkisa (astat, astatin), Niponsa (아스타틴 “asutatin”), Vyetnamsa (astatin),
+    Parsisa (استاتین “astâtin”), Swahlisa (astatini), Pilipinasa (astato)
+...

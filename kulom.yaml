@@ -1,0 +1,72 @@
+---
+term: kulom
+slug: kulom
+ipa: "ku\u02C8lom"
+ipa link: "http://ipa-reader.xyz/?text=ku\u02C8lom&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coulomb
+  epo:
+  - - kulombo
+  spa:
+  - - _coulomb_
+    - culombio
+    - C
+  deu:
+  - - Coulomb
+  fra:
+  - - coulomb
+  rus:
+  - - "\u043A\u0443\u043B\u043E\u043D"
+  zho:
+  - - "\u5E93\u4ED1"
+search terms:
+  glb:
+  - kulom
+  eng:
+  - coulomb
+  epo:
+  - kulombo
+  spa:
+  - coulomb
+  - culombio
+  - c
+  deu:
+  - coulomb
+  fra:
+  - coulomb
+  rus:
+  - "\u043A\u0443\u043B\u043E\u043D"
+  zho:
+  - "\u5E93\u4ED1"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kulom
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coulomb
+    epo: kulombo
+    spa: _coulomb_, culombio, C
+    deu: Coulomb
+    fra: coulomb
+    rus: "\u043A\u0443\u043B\u043E\u043D"
+    zho: "\u5E93\u4ED1"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (coulomb), Espanisa (culombio, coulomb), Fransesa (coulomb),
+    Rusisa (\u043A\u0443\u043B\u043E\u043D \u201Ckulon\u201D), Doycisa (Coulomb),
+    Indonesisa (coulomb), Pilipinasa (coulomb), Putunhwa (\u5E93\u4ED1 \u201Ckulun\u201D),
+    Hindisa (\u0915\u0942\u0932\u093E\u092E\u094D\u092C \u201Ckulamb\u201D), Arabisa
+    (\u0643\u064F\u0648\u0644\u064F\u0648\u0646 \u201Ckulun\u201D), Niponsa (\u30AF\u30FC\u30ED\u30F3
+    \u201Ckuron\u201D), Turkisa (coulomb), Hangusa (\uCFE8\uB871 \u201Ckullong\u201D),
+    Vyetnamsa (cul\xF4ng, coulomb), Parsisa (\u06A9\u0648\u0644\u0646 \u201Ckulon\u201D)"
+...

@@ -1,0 +1,70 @@
+---
+term: -dom
+slug: -dom
+ipa: "\u02C8-dom"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-dom&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - building
+    - place
+    - room
+    - site (_with specific purpose_)
+  epo:
+  - - -ejo
+    - loko
+    - "konstrua\u0135o"
+    - situo (_kun specifa celo_)
+  spa:
+  - - lugar
+    - edificio
+    - "sitio (_con prop\xF3sito espec\xEDfico_)"
+  deu:
+  - - "Geb\xE4ude"
+    - Ort
+    - "St\xE4tte (_zu einem bestimmten Zweck_)"
+search terms:
+  glb:
+  - -dom
+  eng:
+  - building
+  - place
+  - room
+  - site
+  epo:
+  - -ejo
+  - loko
+  - "konstrua\u0135o"
+  - situo
+  spa:
+  - lugar
+  - edificio
+  - sitio
+  deu:
+  - "geb\xE4ude"
+  - ort
+  - "st\xE4tte"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/dom">dom</a>.
+raw data:
+  term: -dom
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: building, place, room, site (_with specific purpose_)
+    epo: "-ejo, loko, konstrua\u0135o, situo (_kun specifa celo_)"
+    spa: "lugar, edificio, sitio (_con prop\xF3sito espec\xEDfico_)"
+    deu: "Geb\xE4ude, Ort, St\xE4tte (_zu einem bestimmten Zweck_)"
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _dom_.
+...

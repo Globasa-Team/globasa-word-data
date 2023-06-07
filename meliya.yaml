@@ -1,0 +1,46 @@
+---
+term: meliya
+slug: meliya
+ipa: "me\u02C8lija"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8lija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - beauty
+  epo:
+  - - beleco
+  spa:
+  - - belleza
+search terms:
+  glb:
+  - meliya
+  eng:
+  - beauty
+  epo:
+  - beleco
+  spa:
+  - belleza
+etymology_type: DERIVD
+etymology: <a href="../lexi/meli">meli</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: meliya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: beauty
+    epo: beleco
+    spa: belleza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: meli + -ya
+...

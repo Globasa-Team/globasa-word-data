@@ -1,0 +1,79 @@
+---
+term: antiya
+slug: antiya
+ipa: "an\u02C8tija"
+ipa link: "http://ipa-reader.xyz/?text=an\u02C8tija&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - opposition
+    - objection
+  - - be against
+    - oppose
+    - counter
+    - object (to)
+    - mind
+  epo:
+  - - opozicio
+    - oponado
+    - "kontra\u016Do"
+    - "kontra\u016Deco"
+  - - opozicii
+    - oponi
+    - "kontra\u016Di"
+  spa:
+  - - "oposici\xF3n"
+    - "objeci\xF3n"
+  - - estar en contra
+    - oponerse
+search terms:
+  glb:
+  - antiya
+  eng:
+  - opposition
+  - objection
+  - be against
+  - oppose
+  - counter
+  - object to
+  - object
+  - mind
+  epo:
+  - opozicio
+  - oponado
+  - "kontra\u016Do"
+  - "kontra\u016Deco"
+  - opozicii
+  - oponi
+  - "kontra\u016Di"
+  spa:
+  - "oposici\xF3n"
+  - "objeci\xF3n"
+  - estar en contra
+  - oponerse
+etymology_type: DERIVD
+etymology: <a href="../lexi/anti">anti</a> + <a href="../lexi/-ya">-ya</a>
+antonyms:
+- proya
+raw data:
+  term: antiya
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: opposition, objection; be against, oppose, counter, object (to), mind
+    epo: "opozicio, oponado, kontra\u016Do, kontra\u016Deco; opozicii, oponi, kontra\u016Di"
+    spa: "oposici\xF3n, objeci\xF3n; estar en contra, oponerse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: proya
+  example: ""
+  tags: ""
+  etymology: anti + -ya
+...

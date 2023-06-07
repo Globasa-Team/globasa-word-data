@@ -1,0 +1,53 @@
+---
+term: muka
+slug: muka
+ipa: "\u02C8muka"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8muka&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - face
+  epo:
+  - - "viza\u011Do"
+  spa:
+  - - cara
+  - - enfrentar
+search terms:
+  glb:
+  - muka
+  eng:
+  - face
+  epo:
+  - "viza\u011Do"
+  spa:
+  - cara
+  - enfrentar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: muka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: face
+    epo: "viza\u011Do"
+    spa: cara; enfrentar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Pilipinasa (mukha), Indonesisa (muka), Karnatakasa (\u0CAE\u0CC1\u0C96
+    \u201Cmukha\u201D), Hindisa (\u092E\u0941\u0916 \u201Cmukh\u201D), Telugusa (\u0C2E\u0C41\u0C16\u0C2E\u0C41
+    \u201Cmukhamu\u201D), Arabisa (\u0645\u064F\u062D\u064E\u064A\u064B\u0651\u0627
+    \u201Cmu\u1E25ayan\u201D)"
+...

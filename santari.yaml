@@ -1,0 +1,53 @@
+---
+term: santari
+slug: santari
+ipa: "san\u02C8ta\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=san\u02C8ta\u027Ei&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Santal
+    - Santali (_language_)
+  epo:
+  - - la santala (lingvo)
+  spa:
+  - - "santal\xED (_idioma_)"
+search terms:
+  glb:
+  - santari
+  eng:
+  - santal
+  - santali
+  epo:
+  - la santala lingvo
+  - la santala
+  spa:
+  - "santal\xED"
+etymology_type: NATLNG
+etymology:
+  Santari:
+  - - "\u1C65\u1C5F\u1C71\u1C5B\u1C5F\u1C72\u1C64 \u201Csantari\u201D"
+tags:
+- basa
+raw data:
+  term: Santari
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Santal, Santali (_language_)
+    epo: la santala (lingvo)
+    spa: "santal\xED (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: "Santari (\u1C65\u1C5F\u1C71\u1C5B\u1C5F\u1C72\u1C64 \u201Csantari\u201D)"
+...

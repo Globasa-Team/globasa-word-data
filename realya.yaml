@@ -1,0 +1,48 @@
+---
+term: realya
+slug: realya
+ipa: "\u027Ee\u02C8alja"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8alja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - reality
+  epo:
+  - - realeco
+    - realo
+  spa:
+  - - realidad
+search terms:
+  glb:
+  - realya
+  eng:
+  - reality
+  epo:
+  - realeco
+  - realo
+  spa:
+  - realidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/real">real</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: realya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: reality
+    epo: realeco, realo
+    spa: realidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: real + -ya
+...

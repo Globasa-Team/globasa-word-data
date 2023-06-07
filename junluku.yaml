@@ -1,0 +1,53 @@
+---
+term: junluku
+slug: junluku
+ipa: "d\u0361\u0292un\u02C8luku"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292un\u02C8luku&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - gravity
+  - - gravitate
+  epo:
+  - - gravito
+  - - graviti
+  spa:
+  - - gravedad
+  - - gravitar
+search terms:
+  glb:
+  - junluku
+  eng:
+  - gravity
+  - gravitate
+  epo:
+  - gravito
+  - graviti
+  spa:
+  - gravedad
+  - gravitar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: junluku
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: gravity; gravitate
+    epo: gravito; graviti
+    spa: gravedad; gravitar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u91CD\u529B \"jungli\"), Niponsa (\u91CD\u529B \"juryoku\"),
+    Vyetnamsa (tr\u1ECDng l\u1EF1c), Hangusa (\uC911\uB825 \"jungnyok\")"
+...

@@ -1,0 +1,46 @@
+---
+term: feki
+slug: feki
+ipa: "\u02C8feki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8feki&voice=Ewa"
+status: true
+category: derived
+word class: l
+trans:
+  eng:
+  - - that (_noun-modifying conjunction_)
+  epo:
+  - - ke
+  spa:
+  - - de que
+search terms:
+  glb:
+  - feki
+  eng:
+  - that
+  epo:
+  - ke
+  spa:
+  - de que
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a> + <a href="../lexi/ki">ki</a>
+raw data:
+  term: feki
+  category: derived
+  word class: l
+  status: true
+  trans:
+    eng: that (_noun-modifying conjunction_)
+    epo: ke
+    spa: de que
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe + ki
+...

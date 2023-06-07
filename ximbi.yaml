@@ -1,0 +1,53 @@
+---
+term: ximbi
+slug: ximbi
+ipa: "\u02C8\u0283imbi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283imbi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mystery
+  epo:
+  - - mistero
+  spa:
+  - - misterio
+search terms:
+  glb:
+  - ximbi
+  eng:
+  - mystery
+  epo:
+  - mistero
+  spa:
+  - misterio
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u795E\u79D8 \u201Cxenmi\u201D"
+  Niponsa:
+  - - "\u795E\u79D8 \u201Cshinpi\u201D"
+  Hangusa:
+  - - "\uC2E0\uBE44 \u201Cxinbi\u201D"
+raw data:
+  term: ximbi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mystery
+    epo: mistero
+    spa: misterio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u795E\u79D8 \u201Cxenmi\u201D), Niponsa (\u795E\u79D8 \u201Cshinpi\u201D),
+    Hangusa (\uC2E0\uBE44 \u201Cxinbi\u201D)"
+...

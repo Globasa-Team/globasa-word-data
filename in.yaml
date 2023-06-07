@@ -1,0 +1,52 @@
+---
+term: in
+slug: in
+ipa: in
+ipa link: http://ipa-reader.xyz/?text=in&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - in
+    - inside of
+    - within
+  epo:
+  - - en
+  spa:
+  - - en
+    - dentro de
+search terms:
+  glb:
+  - in
+  eng:
+  - in
+  - inside of
+  - within
+  epo:
+  - en
+  spa:
+  - en
+  - dentro de
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: in
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: in, inside of, within
+    epo: en
+    spa: en, dentro de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (in), Doycisa (in), Fransesa (en), Espanisa (en)
+...

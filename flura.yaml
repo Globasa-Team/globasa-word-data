@@ -1,0 +1,64 @@
+---
+term: flura
+slug: flura
+ipa: ˈfluɾa
+ipa link: http://ipa-reader.xyz/?text=ˈfluɾa&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - flower
+  - - bloom
+    - blossom
+  epo:
+  - - floro
+  - - flori
+  spa:
+  - - flor
+  - - florecer
+search terms:
+  glb:
+  - flura
+  eng:
+  - flower
+  - bloom
+  - blossom
+  epo:
+  - floro
+  - flori
+  spa:
+  - flor
+  - florecer
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - fleur
+  Espanisa:
+  - - flor
+  Englisa:
+  - - floral
+    - flower
+  Hindisa:
+  - - फूल “fūl”
+raw data:
+  term: flura
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: flower; bloom, blossom
+    epo: floro; flori
+    spa: flor; florecer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Fransesa (fleur), Espanisa (flor), Englisa (floral, flower), Hindisa
+    (फूल “fūl”)
+...

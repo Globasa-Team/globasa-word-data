@@ -1,0 +1,50 @@
+---
+term: hazuniya
+slug: hazuniya
+ipa: "xazu\u02C8nija"
+ipa link: "http://ipa-reader.xyz/?text=xazu\u02C8nija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - sadness
+  epo:
+  - - "malfeli\u0109eco"
+    - "mal\u011Dojeco"
+    - malgajeco
+  spa:
+  - - tristeza
+search terms:
+  glb:
+  - hazuniya
+  eng:
+  - sadness
+  epo:
+  - "malfeli\u0109eco"
+  - "mal\u011Dojeco"
+  - malgajeco
+  spa:
+  - tristeza
+etymology_type: DERIVD
+etymology: <a href="../lexi/hazuni">hazuni</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: hazuniya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: sadness
+    epo: "malfeli\u0109eco, mal\u011Dojeco, malgajeco"
+    spa: tristeza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hazuni + -ya
+...

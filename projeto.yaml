@@ -1,0 +1,56 @@
+---
+term: projeto
+slug: projeto
+ipa: "p\u027Eo\u02C8d\u0361\u0292eto"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eo\u02C8d\u0361\u0292eto&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - project
+  epo:
+  - - projekto
+  spa:
+  - - proyecto
+search terms:
+  glb:
+  - projeto
+  eng:
+  - project
+  epo:
+  - projekto
+  spa:
+  - proyecto
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - project
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Turkisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+raw data:
+  term: projeto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: project
+    epo: projekto
+    spa: proyecto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (project), Fransesa, Doycisa, Rusisa, Espanisa, Turkisa, Indonesisa,
+    Pilipinasa
+...

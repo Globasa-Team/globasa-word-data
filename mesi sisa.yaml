@@ -1,0 +1,48 @@
+---
+term: mesi sisa
+slug: mesi sisa
+ipa: "\u02C8mesi \u02C8sisa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mesi \u02C8sisa&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - June
+  epo:
+  - - Junio
+  spa:
+  - - junio
+search terms:
+  glb:
+  - mesi sisa
+  - mesi
+  - sisa
+  eng:
+  - june
+  epo:
+  - junio
+  spa:
+  - junio
+etymology_type: DERIVD
+etymology: <a href="../lexi/mesi">mesi</a>, <a href="../lexi/sisa">sisa</a>
+raw data:
+  term: mesi sisa
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: June
+    epo: Junio
+    spa: junio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mesi, sisa
+...

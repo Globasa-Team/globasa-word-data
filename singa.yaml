@@ -1,0 +1,61 @@
+---
+term: singa
+slug: singa
+ipa: "\u02C8singa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8singa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lion
+    - _Panthera leo_
+  epo:
+  - - leono
+  spa:
+  - - "le\xF3n"
+    - _Panthera leo_
+search terms:
+  glb:
+  - singa
+  eng:
+  - lion
+  - panthera leo
+  epo:
+  - leono
+  spa:
+  - "le\xF3n"
+  - panthera leo
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u093F\u0902\u0939 \u201Csinh\u201D"
+  Indonesisa:
+  - - singa
+  Telugusa:
+  - - "\u0C38\u0C3F\u0C02\u0C39\u0C02 \u201Csinham\u201D"
+  Swahilisa:
+  - - simba
+tags:
+- hewan
+raw data:
+  term: singa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lion, _Panthera leo_
+    epo: leono
+    spa: "le\xF3n, _Panthera leo_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Hindisa (\u0938\u093F\u0902\u0939 \u201Csinh\u201D), Indonesisa (singa),
+    Telugusa (\u0C38\u0C3F\u0C02\u0C39\u0C02 \u201Csinham\u201D), Swahilisa (simba)"
+...

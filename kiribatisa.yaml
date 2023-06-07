@@ -1,0 +1,50 @@
+---
+term: kiribatisa
+slug: kiribatisa
+ipa: "ki\u027Eiba\u02C8tisa"
+ipa link: "http://ipa-reader.xyz/?text=ki\u027Eiba\u02C8tisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Gilbertese (language)
+  epo:
+  - - la kiribata (lingvo)
+  spa:
+  - - kiribatiano (_idioma_)
+search terms:
+  glb:
+  - kiribatisa
+  eng:
+  - gilbertese language
+  - gilbertese
+  epo:
+  - la kiribata lingvo
+  - la kiribata
+  spa:
+  - kiribatiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kiribati">Kiribati</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Kiribatisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Gilbertese (language)
+    epo: la kiribata (lingvo)
+    spa: kiribatiano (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Kiribati + -sa
+...

@@ -1,0 +1,58 @@
+---
+term: yu
+slug: yu
+ipa: "\u02C8ju"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ju&voice=Ewa"
+status: true
+category: root
+word class: pn
+trans:
+  eng:
+  - - you (_singular_)
+  epo:
+  - - vi (_singulara_)
+  spa:
+  - - "t\xFA"
+    - vos
+    - usted
+search terms:
+  glb:
+  - yu
+  eng:
+  - you
+  epo:
+  - vi
+  spa:
+  - "t\xFA"
+  - vos
+  - usted
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - you
+  Afrikansesa:
+  - - jou
+  Nederisa:
+  - - jou
+  Exkiperisa:
+  - - ju
+raw data:
+  term: yu
+  category: root
+  word class: pn
+  status: true
+  trans:
+    eng: you (_singular_)
+    epo: vi (_singulara_)
+    spa: "t\xFA, vos, usted"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (you), Afrikansesa (jou), Nederisa (jou), Exkiperisa (ju)
+...

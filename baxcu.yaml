@@ -1,0 +1,48 @@
+---
+term: baxcu
+slug: baxcu
+ipa: "\u02C8ba\u0283t\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ba\u0283t\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - get under
+    - go under
+  epo:
+  - - iri sub
+  spa:
+  - - ponerse debajo
+search terms:
+  glb:
+  - baxcu
+  eng:
+  - get under
+  - go under
+  epo:
+  - iri sub
+  spa:
+  - ponerse debajo
+etymology_type: DERIVD
+etymology: <a href="../lexi/bax">bax</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: baxcu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: get under, go under
+    epo: iri sub
+    spa: ponerse debajo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bax + -cu
+...

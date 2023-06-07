@@ -1,0 +1,58 @@
+---
+term: tejam
+slug: tejam
+ipa: "te\u02C8d\u0361\u0292am"
+ipa link: "http://ipa-reader.xyz/?text=te\u02C8d\u0361\u0292am&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - sharp
+  epo:
+  - - akra
+    - pinta
+  - - akre
+    - pinte
+  spa:
+  - - afilado
+    - filoso
+search terms:
+  glb:
+  - tejam
+  eng:
+  - sharp
+  epo:
+  - akra
+  - pinta
+  - akre
+  - pinte
+  spa:
+  - afilado
+  - filoso
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0924\u0947\u091C \u201Ctej\u201D"
+  Indonesisa:
+  - - tajam
+raw data:
+  term: tejam
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: sharp
+    epo: akra, pinta; akre, pinte
+    spa: afilado, filoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0924\u0947\u091C \u201Ctej\u201D), Indonesisa (tajam)"
+...

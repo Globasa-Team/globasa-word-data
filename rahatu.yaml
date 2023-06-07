@@ -1,0 +1,67 @@
+---
+term: rahatu
+slug: rahatu
+ipa: "\u027Ea\u02C8xatu"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8xatu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - rest
+    - break
+  - - rest
+    - take a break
+  epo:
+  - - "pa\u016Dzo"
+  - - "pa\u016Dzi"
+    - ripozi
+  spa:
+  - - descanso
+  - - descansar
+search terms:
+  glb:
+  - rahatu
+  eng:
+    0: rest
+    1: break
+    3: take a break
+  epo:
+  - "pa\u016Dzo"
+  - "pa\u016Dzi"
+  - ripozi
+  spa:
+  - descanso
+  - descansar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0631\u064E\u0627\u062D\u064E\u0629 \u201Craha\u201D"
+  Parsisa:
+  - - "\u0631\u0627\u062D\u062A\u200E \u201Crahat\u201D"
+  Turkisa:
+  - - rahat
+  Indonesisa:
+  - - rehat
+raw data:
+  term: rahatu
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: rest, break; rest, take a break
+    epo: "pa\u016Dzo; pa\u016Dzi, ripozi"
+    spa: descanso; descansar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0631\u064E\u0627\u062D\u064E\u0629 \u201Craha\u201D), Parsisa
+    (\u0631\u0627\u062D\u062A\u200E \u201Crahat\u201D), Turkisa (rahat), Indonesisa
+    (rehat)"
+...

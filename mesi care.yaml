@@ -1,0 +1,48 @@
+---
+term: mesi care
+slug: mesi care
+ipa: "\u02C8mesi \u02C8t\u0361\u0283a\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mesi \u02C8t\u0361\u0283a\u027Ee&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - April
+  epo:
+  - - Aprilo
+  spa:
+  - - abril
+search terms:
+  glb:
+  - mesi care
+  - mesi
+  - care
+  eng:
+  - april
+  epo:
+  - aprilo
+  spa:
+  - abril
+etymology_type: DERIVD
+etymology: <a href="../lexi/mesi">mesi</a>, <a href="../lexi/care">care</a>
+raw data:
+  term: mesi care
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: April
+    epo: Aprilo
+    spa: abril
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mesi, care
+...

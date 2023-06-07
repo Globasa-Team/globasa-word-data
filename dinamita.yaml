@@ -1,0 +1,74 @@
+---
+term: dinamita
+slug: dinamita
+ipa: dinaˈmita
+ipa link: http://ipa-reader.xyz/?text=dinaˈmita&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dynamite
+  epo:
+  - - dinamito
+  spa:
+  - - dinamita
+search terms:
+  glb:
+  - dinamita
+  eng:
+  - dynamite
+  epo:
+  - dinamito
+  spa:
+  - dinamita
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - dynamite
+  Fransesa: ~
+  Espanisa:
+  - - dinamita
+  Pilipinasa: ~
+  Rusisa:
+  - - динамит “dinamit”
+  Doycisa:
+  - - Dynamit
+  Indonesisa:
+  - - dinamit
+  Turkisa: ~
+  Arabisa:
+  - - دِينَامِيت “dinamit”
+  Niponsa:
+  - - ダイナマイト “daynamatyo”
+  Telugusa:
+  - - డైనమైటు “danyamaytu”
+  Hangusa:
+  - - 다이너마이트 “daynomaytu”
+  Vyetnamsa:
+  - - đinamit
+  Parsisa:
+  - - دینامیت “dinamit”
+raw data:
+  term: dinamita
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dynamite
+    epo: dinamito
+    spa: dinamita
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (dynamite), Fransesa, Espanisa (dinamita), Pilipinasa, Rusisa
+    (динамит “dinamit”), Doycisa (Dynamit), Indonesisa (dinamit), Turkisa, Arabisa
+    (دِينَامِيت “dinamit”), Niponsa (ダイナマイト “daynamatyo”), Telugusa (డైనమైటు “danyamaytu”),
+    Hangusa (다이너마이트 “daynomaytu”), Vyetnamsa (đinamit), Parsisa (دینامیت “dinamit”)
+...

@@ -1,0 +1,46 @@
+---
+term: tomatesawsa
+slug: tomatesawsa
+ipa: "tomate\u02C8sawsa"
+ipa link: "http://ipa-reader.xyz/?text=tomate\u02C8sawsa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - tomato sauce
+  epo:
+  - - "tomatosa\u016Dco"
+  spa:
+  - - salsa de tomate
+search terms:
+  glb:
+  - tomatesawsa
+  eng:
+  - tomato sauce
+  epo:
+  - "tomatosa\u016Dco"
+  spa:
+  - salsa de tomate
+etymology_type: DERIVD
+etymology: <a href="../lexi/tomate">tomate</a> + <a href="../lexi/sawsa">sawsa</a>
+raw data:
+  term: tomatesawsa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: tomato sauce
+    epo: "tomatosa\u016Dco"
+    spa: salsa de tomate
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tomate + sawsa
+...

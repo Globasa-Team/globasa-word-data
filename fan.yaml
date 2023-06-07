@@ -1,0 +1,84 @@
+---
+term: fan
+slug: fan
+ipa: ˈfan
+ipa link: http://ipa-reader.xyz/?text=ˈfan&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fan
+  spa:
+  - - fan
+    - seguidor
+search terms:
+  glb:
+  - fan
+  eng:
+  - fan
+  spa:
+  - fan
+  - seguidor
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fan
+    - fanatic
+    - fandom
+  Espanisa:
+  - - fan
+    - fandom
+  Fransesa:
+  - - fan
+  Rusisa:
+  - - фэн “fen"
+    - фан “fan"
+    - фанат “fanat"
+    - фэндом “fendom”
+  Doycisa:
+  - - Fan
+    - Fandom
+  Indonesisa:
+  - - fanatik
+  Putunhwa:
+  - - 粉丝 “fensi”
+  Arabisa:
+  - - فاندوم “fandom”
+  Niponsa:
+  - - ファン “fan”
+  Turkisa:
+  - - fan
+    - fanatik
+  Hangusa:
+  - - 팬 “pen"
+    - 팬덤 “pendom”
+  Vyetnamsa:
+  - - fan
+  Parsisa:
+  - - فن “fan"
+    - فندوم “fandom”
+raw data:
+  term: fan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fan
+    epo: ""
+    spa: fan, seguidor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (fan, fanatic, fandom), Espanisa (fan, fandom), Fransesa (fan),
+    Rusisa (фэн “fen", фан “fan", фанат “fanat", фэндом “fendom”), Doycisa (Fan, Fandom),
+    Indonesisa (fanatik), Putunhwa (粉丝 “fensi”), Arabisa (فاندوم “fandom”), Niponsa
+    (ファン “fan”), Turkisa (fan, fanatik), Hangusa (팬 “pen", 팬덤 “pendom”), Vyetnamsa
+    (fan), Parsisa (فن “fan", فندوم “fandom”)
+...

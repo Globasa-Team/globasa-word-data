@@ -1,0 +1,48 @@
+---
+term: goyonyen
+slug: goyonyen
+ipa: "gojo\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=gojo\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - employer
+  epo:
+  - - dunganto
+  spa:
+  - - empleador
+    - "patr\xF3n"
+search terms:
+  glb:
+  - goyonyen
+  eng:
+  - employer
+  epo:
+  - dunganto
+  spa:
+  - empleador
+  - "patr\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/goyon">goyon</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: goyonyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: employer
+    epo: dunganto
+    spa: "empleador, patr\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: goyon + -yen
+...

@@ -1,0 +1,51 @@
+---
+term: kal
+slug: kal
+ipa: "\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kal&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - empty
+  epo:
+  - - malplena
+  - - malplene
+  spa:
+  - - "vac\xEDo"
+search terms:
+  glb:
+  - kal
+  eng:
+  - empty
+  epo:
+  - malplena
+  - malplene
+  spa:
+  - "vac\xEDo"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kal
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: empty
+    epo: malplena; malplene
+    spa: "vac\xEDo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0916\u093E\u0932\u0940 \u201Ckhali\u201D), Telugusa (\u0C16\u0C3E\u0C33\u0C40
+    \u201Ckhali\u201D), Karnatakasa (\u0C96\u0CBE\u0CB2\u0CBF \u201Ckh\u0101li\u201D),
+    Parsisa (\u062E\u0627\u0644\u06CC \u201Ckhali\u201D), Arabisa (\u062E\u064E\u0627\u0644\u064D
+    \u201C\u1E35\u0101lin\u201D)"
+...

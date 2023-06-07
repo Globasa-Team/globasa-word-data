@@ -1,0 +1,63 @@
+---
+term: rutyao
+slug: rutyao
+ipa: "\u027Eu\u02C8tjao"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8tjao&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.b
+trans:
+  eng:
+  - - bounce
+    - rebound
+    - spring (back)
+    - ricochet
+  epo:
+  - - resalto
+  - - resalti
+    - resaltigi
+  spa:
+  - - bote
+    - rebote
+  - - botar
+    - rebotar
+search terms:
+  glb:
+  - rutyao
+  eng:
+  - bounce
+  - rebound
+  - spring back
+  - spring
+  - ricochet
+  epo:
+  - resalto
+  - resalti
+  - resaltigi
+  spa:
+  - bote
+  - rebote
+  - botar
+  - rebotar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ru-">ru-</a> + <a href="../lexi/tyao">tyao</a>
+raw data:
+  term: rutyao
+  category: derived
+  word class: n/f.oro.b
+  status: false
+  trans:
+    eng: bounce, rebound, spring (back), ricochet
+    epo: resalto; resalti, resaltigi
+    spa: bote, rebote; botar, rebotar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ru- + tyao
+...

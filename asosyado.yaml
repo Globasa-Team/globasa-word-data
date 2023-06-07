@@ -1,0 +1,50 @@
+---
+term: asosyado
+slug: asosyado
+ipa: "aso\u02C8sjado"
+ipa link: "http://ipa-reader.xyz/?text=aso\u02C8sjado&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - associated
+  epo:
+  - - asociita
+  - - asociite
+  spa:
+  - - asociado (con)
+search terms:
+  glb:
+  - asosyado
+  eng:
+  - associated
+  epo:
+  - asociita
+  - asociite
+  spa:
+  - asociado con
+  - asociado
+etymology_type: DERIVD
+etymology: <a href="../lexi/asosya">asosya</a> + <a href="../lexi/-do">-do</a>, <a
+  href="../lexi/ton">ton</a>
+raw data:
+  term: 'asosyado '
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: associated
+    epo: asociita; asociite
+    spa: asociado (con)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: asosya + -do, ton
+...

@@ -1,0 +1,97 @@
+---
+term: televisi
+slug: televisi
+ipa: "tele\u02C8visi"
+ipa link: "http://ipa-reader.xyz/?text=tele\u02C8visi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - television (_broadcast system or device_)
+  - - televise
+    - be televised
+  epo:
+  - - televido
+  spa:
+  - - "televisi\xF3n"
+    - televisor
+  - - televisar
+    - ser televisado
+search terms:
+  glb:
+  - televisi
+  eng:
+  - television
+  - televise
+  - be televised
+  epo:
+  - televido
+  spa:
+  - "televisi\xF3n"
+  - televisor
+  - televisar
+  - ser televisado
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - television
+    - televise
+  Fransesa:
+  - - "t\xE9l\xE9vision"
+    - "t\xE9l\xE9viser"
+  Rusisa:
+  - - "\u0442\u0435\u043B\u0435\u0432\u0438\u0437\u043E\u0440 \u201Ctelevizor\u201D"
+  Espanisa:
+  - - "televisi\xF3n"
+    - televisar
+  Indonesisa:
+  - - televisi
+  Pilipinasa:
+  - - telebisyon
+  Niponsa:
+  - - "\u30C6\u30EC\u30D3\u30B8\u30E7\u30F3 \u201Cterebijon\u201D"
+  Hangusa:
+  - - "\uD154\uB808\uBE44\uC804 \u201Ctelebijon\u201D"
+  Hindisa:
+  - - "\u091F\u0947\u0932\u0940\u0935\u093F\u095B\u0928 \u201Ctelivizan\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C46\u0C32\u0C3F\u0C35\u0C3F\u0C1C\u0C28\u0C4D \u201Ctelivijan\u201D"
+  Arabisa:
+  - - "\u062A\u0644\u0641\u0632\u064A\u0648\u0646 \u201Ctilifizyun\u201D"
+    - "\u062A\u064E\u0644\u0652\u0641\u064E\u0632\u064E\u200E \u201Ctalfaza\u201D"
+  Swahilisa:
+  - - televisheni
+  Parsisa:
+  - - "\u062A\u0644\u0648\u06CC\u0632\u06CC\u0648\u0646 \u201Ctelevizion\u201D"
+  Turkisa:
+  - - televizyon
+raw data:
+  term: televisi
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: television (_broadcast system or device_); televise, be televised
+    epo: televido
+    spa: "televisi\xF3n, televisor; televisar, ser televisado"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (television, televise), Fransesa (t\xE9l\xE9vision, t\xE9l\xE9viser),
+    Rusisa (\u0442\u0435\u043B\u0435\u0432\u0438\u0437\u043E\u0440 \u201Ctelevizor\u201D),
+    Espanisa (televisi\xF3n, televisar), Indonesisa (televisi), Pilipinasa (telebisyon),
+    Niponsa (\u30C6\u30EC\u30D3\u30B8\u30E7\u30F3 \u201Cterebijon\u201D), Hangusa
+    (\uD154\uB808\uBE44\uC804 \u201Ctelebijon\u201D), Hindisa (\u091F\u0947\u0932\u0940\u0935\u093F\u095B\u0928
+    \u201Ctelivizan\u201D), Telugusa (\u0C1F\u0C46\u0C32\u0C3F\u0C35\u0C3F\u0C1C\u0C28\u0C4D
+    \u201Ctelivijan\u201D), Arabisa (\u062A\u0644\u0641\u0632\u064A\u0648\u0646 \u201Ctilifizyun\u201D,
+    \u062A\u064E\u0644\u0652\u0641\u064E\u0632\u064E\u200E \u201Ctalfaza\u201D), Swahilisa
+    (televisheni), Parsisa (\u062A\u0644\u0648\u06CC\u0632\u06CC\u0648\u0646 \u201Ctelevizion\u201D),
+    Turkisa (televizyon)"
+...

@@ -1,0 +1,49 @@
+---
+term: manipuryen
+slug: manipuryen
+ipa: "manipu\u02C8\u027Ejen"
+ipa link: "http://ipa-reader.xyz/?text=manipu\u02C8\u027Ejen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Meitei
+    - Manipuri (person)
+  epo:
+  - - manipurano
+  spa:
+  - - manipuri (_persona_)
+search terms:
+  glb:
+  - manipuryen
+  eng:
+  - meitei
+  - manipuri person
+  - manipuri
+  epo:
+  - manipurano
+  spa:
+  - manipuri
+etymology_type: DERIVD
+etymology: <a href="../lexi/Manipur">Manipur</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Manipuryen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Meitei, Manipuri (person)
+    epo: manipurano
+    spa: manipuri (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Manipur + -yen
+...

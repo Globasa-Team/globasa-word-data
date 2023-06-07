@@ -1,0 +1,84 @@
+---
+term: papaya
+slug: papaya
+ipa: "pa\u02C8paja"
+ipa link: "http://ipa-reader.xyz/?text=pa\u02C8paja&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - papaya
+  epo:
+  - - papajo
+  spa:
+  - - papaya
+    - _Carica papaya_
+search terms:
+  glb:
+  - papaya
+  eng:
+  - papaya
+  epo:
+  - papajo
+  spa:
+  - papaya
+  - carica papaya
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - papaya
+  Espanisa: ~
+  Doycisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Fransesa:
+  - - papaye
+  Rusisa:
+  - - "\u043F\u0430\u043F\u0430\u0439\u044F \u201Cpapayya\u201D"
+  Indonesisa:
+  - - pepaya
+  Arabisa:
+  - - "\u0628\u064E\u0627\u0628\u064E\u0627\u064A\u064E\u0627 \u201Cbabaya\u201D"
+  Niponsa:
+  - - "\u30D1\u30D1\u30A4\u30E4 \u201Cpapaiya\u201D"
+  Hangusa:
+  - - "\uD30C\uD30C\uC57C \u201Cpapaya\u201D"
+  Parsisa:
+  - - "\u067E\u0627\u067E\u0627\u06CC\u0647 \u201Cpapaye\u201D"
+  Swahilisa:
+  - - mpapai
+  "":
+  - - "\u0C2C\u0C4A\u0C2A\u0C4D\u0C2A\u0C3E\u0C2F\u0C3F \u0C2A\u0C02\u0C21\u0C41 (boppayi
+      pandu"
+  Hindisa:
+  - - "\u092A\u092A\u0940\u0924\u093E \u201Cpapita\u201D"
+tags:
+- fruta
+- yamxey
+raw data:
+  term: papaya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: papaya
+    epo: papajo
+    spa: papaya, _Carica papaya_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Englisa (papaya), Espanisa, Doycisa, Pilipinasa, Turkisa, Fransesa (papaye),
+    Rusisa (\u043F\u0430\u043F\u0430\u0439\u044F \u201Cpapayya\u201D), Indonesisa
+    (pepaya), Arabisa (\u0628\u064E\u0627\u0628\u064E\u0627\u064A\u064E\u0627 \u201Cbabaya\u201D),
+    Niponsa (\u30D1\u30D1\u30A4\u30E4 \u201Cpapaiya\u201D), Hangusa (\uD30C\uD30C\uC57C
+    \u201Cpapaya\u201D), Parsisa (\u067E\u0627\u067E\u0627\u06CC\u0647 \u201Cpapaye\u201D),
+    Swahilisa (mpapai), (\u0C2C\u0C4A\u0C2A\u0C4D\u0C2A\u0C3E\u0C2F\u0C3F \u0C2A\u0C02\u0C21\u0C41
+    (boppayi pandu), Hindisa (\u092A\u092A\u0940\u0924\u093E \u201Cpapita\u201D)"
+...

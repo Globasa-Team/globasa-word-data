@@ -1,0 +1,63 @@
+---
+term: epilepsi
+slug: epilepsi
+ipa: epiˈlepsi
+ipa link: http://ipa-reader.xyz/?text=epiˈlepsi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - epilepsy
+  epo:
+  - - epilepsio
+  spa:
+  - - epilepsia
+search terms:
+  glb:
+  - epilepsi
+  eng:
+  - epilepsy
+  epo:
+  - epilepsio
+  spa:
+  - epilepsia
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Epilepsie
+  Englisa:
+  - - epilepsy
+  Espanisa:
+  - - epilepsia
+  Fransesa:
+  - - épilepsie
+  Rusisa:
+  - - эпилепсия “epilepsiya”
+  Indonesisa:
+  - - epilepsi
+  Turkisa:
+  - - epilepsi
+tags:
+- medis
+raw data:
+  term: epilepsi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: epilepsy
+    epo: epilepsio
+    spa: epilepsia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: Doycisa (Epilepsie), Englisa (epilepsy), Espanisa (epilepsia), Fransesa
+    (épilepsie), Rusisa (эпилепсия “epilepsiya”), Indonesisa (epilepsi), Turkisa (epilepsi)
+...

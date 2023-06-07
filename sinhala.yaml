@@ -1,0 +1,50 @@
+---
+term: sinhala
+slug: sinhala
+ipa: "sin\u02C8xala"
+ipa link: "http://ipa-reader.xyz/?text=sin\u02C8xala&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Sinhalese
+    - Singhalese
+  epo:
+  - - sinhala
+  spa:
+  - - "cingal\xE9s"
+search terms:
+  glb:
+  - sinhala
+  eng:
+  - sinhalese
+  - singhalese
+  epo:
+  - sinhala
+  spa:
+  - "cingal\xE9s"
+etymology_type: NATLNG
+etymology:
+  Sinhalasa:
+  - - "\u0DC3\u0DD2\u0D82\u0DC4\u0DBD \u201Csinhala\u201D"
+raw data:
+  term: Sinhala
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: Sinhalese, Singhalese
+    epo: sinhala
+    spa: "cingal\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Sinhalasa (\u0DC3\u0DD2\u0D82\u0DC4\u0DBD \u201Csinhala\u201D)"
+...

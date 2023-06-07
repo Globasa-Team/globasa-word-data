@@ -1,0 +1,80 @@
+---
+term: salun
+slug: salun
+ipa: "sa\u02C8lun"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8lun&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - salon
+    - hall
+    - lounge
+  epo:
+  - - salono
+  spa:
+  - - "sal\xF3n"
+    - sala
+search terms:
+  glb:
+  - salun
+  eng:
+  - salon
+  - hall
+  - lounge
+  epo:
+  - salono
+  spa:
+  - "sal\xF3n"
+  - sala
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0635\u0627\u0644\u0648\u0646 \u201Csalun\u201D"
+  Hindisa:
+  - - "\u0938\u0948\u0932\u0942\u0928 \u201Csailun\u201D"
+  Indonesisa:
+  - - salon
+  Pilipinasa:
+  - - salon
+  Turkisa:
+  - - salon
+  Parsisa:
+  - - "\u0633\u0627\u0644\u0646 \u201Csalon\u201D"
+  Swahilisa:
+  - - saluni
+  Englisa:
+  - - salon
+  Fransesa:
+  - - salon
+  Doycisa:
+  - - Salon
+  Rusisa:
+  - - "\u0441\u0430\u043B\u043E\u043D \u201Csalon\u201D"
+  Espanisa:
+  - - "sal\xF3n"
+raw data:
+  term: salun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: salon, hall, lounge
+    epo: salono
+    spa: "sal\xF3n, sala"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0635\u0627\u0644\u0648\u0646 \u201Csalun\u201D), Hindisa
+    (\u0938\u0948\u0932\u0942\u0928 \u201Csailun\u201D), Indonesisa (salon), Pilipinasa
+    (salon), Turkisa (salon), Parsisa (\u0633\u0627\u0644\u0646 \u201Csalon\u201D),
+    Swahilisa (saluni), Englisa (salon), Fransesa (salon), Doycisa (Salon), Rusisa
+    (\u0441\u0430\u043B\u043E\u043D \u201Csalon\u201D), Espanisa (sal\xF3n)"
+...

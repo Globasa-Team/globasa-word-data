@@ -1,0 +1,48 @@
+---
+term: sehaya
+slug: sehaya
+ipa: "se\u02C8xaja"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8xaja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - health
+  epo:
+  - - sano
+    - saneco
+  spa:
+  - - salud
+search terms:
+  glb:
+  - sehaya
+  eng:
+  - health
+  epo:
+  - sano
+  - saneco
+  spa:
+  - salud
+etymology_type: DERIVD
+etymology: <a href="../lexi/seha">seha</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: sehaya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: health
+    epo: sano, saneco
+    spa: salud
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: seha + -ya
+...

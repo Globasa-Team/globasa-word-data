@@ -1,0 +1,46 @@
+---
+term: putojusu
+slug: putojusu
+ipa: "puto\u02C8d\u0361\u0292usu"
+ipa link: "http://ipa-reader.xyz/?text=puto\u02C8d\u0361\u0292usu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - grape juice
+  epo:
+  - - vinbersuko
+  spa:
+  - - jugo de uva
+search terms:
+  glb:
+  - putojusu
+  eng:
+  - grape juice
+  epo:
+  - vinbersuko
+  spa:
+  - jugo de uva
+etymology_type: DERIVD
+etymology: <a href="../lexi/puto">puto</a> + <a href="../lexi/jusu">jusu</a>
+raw data:
+  term: putojusu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: grape juice
+    epo: vinbersuko
+    spa: jugo de uva
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: puto + jusu
+...

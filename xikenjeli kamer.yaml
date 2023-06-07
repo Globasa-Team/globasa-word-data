@@ -1,0 +1,49 @@
+---
+term: xikenjeli kamer
+slug: xikenjeli kamer
+ipa: "\u0283iken\u02C8d\u0361\u0292eli ka\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=\u0283iken\u02C8d\u0361\u0292eli ka\u02C8me\u027E&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - torture chamber
+  epo:
+  - - torturejo
+  spa:
+  - - "c\xE1mara de tortura"
+search terms:
+  glb:
+  - xikenjeli kamer
+  - xikenjeli
+  - kamer
+  eng:
+  - torture chamber
+  epo:
+  - torturejo
+  spa:
+  - "c\xE1mara de tortura"
+etymology_type: DERIVD
+etymology: <a href="../lexi/xikenje">xikenje</a> + <a href="../lexi/-li">-li</a>,
+  <a href="../lexi/kamer">kamer</a>
+raw data:
+  term: xikenjeli kamer
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: torture chamber
+    epo: torturejo
+    spa: "c\xE1mara de tortura"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xikenje + -li, kamer
+...

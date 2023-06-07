@@ -1,0 +1,63 @@
+---
+term: xa
+slug: xa
+ipa: "\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=\u0283a&voice=Ewa"
+status: true
+category: root
+word class: par
+trans:
+  eng:
+  - - will
+    - shall (_future tense marker_)
+  epo:
+  - - markilo de estonteca tempo (simile al -os)
+  spa:
+  - - marcador del tiempo futuro
+search terms:
+  glb:
+  - xa
+  eng:
+  - will
+  - shall
+  epo:
+  - markilo de estonteca tempo simile al -os
+  - markilo de estonteca tempo
+  spa:
+  - marcador del tiempo futuro
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0633\u0648\u0641 \u201Csawf\u201D"
+    - "\u0633\u0627 \u201Csa\u201D"
+  Englisa:
+  - - shall
+  Nederisa:
+  - - zal
+  Swahilisa:
+  - - -ta-
+  Vyetnamsa:
+  - - "s\u1EBD"
+antonyms:
+- le
+raw data:
+  term: xa
+  category: root
+  word class: par
+  status: true
+  trans:
+    eng: will, shall (_future tense marker_)
+    epo: markilo de estonteca tempo (simile al -os)
+    spa: marcador del tiempo futuro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: le
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0633\u0648\u0641 \u201Csawf\u201D, \u0633\u0627 \u201Csa\u201D),
+    Englisa (shall), Nederisa (zal), Swahilisa (-ta-), Vyetnamsa (s\u1EBD)"
+...

@@ -1,0 +1,67 @@
+---
+term: atlantiko
+slug: atlantiko
+ipa: "atlan\u02C8tiko"
+ipa link: "http://ipa-reader.xyz/?text=atlan\u02C8tiko&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Atlantic (Ocean)
+  epo:
+  - - Atlantiko
+    - Antlantika Oceano
+  spa:
+  - - "(oc\xE9ano) atl\xE1ntico"
+search terms:
+  glb:
+  - atlantiko
+  eng:
+  - atlantic ocean
+  - atlantic
+  epo:
+  - atlantiko
+  - antlantika oceano
+  spa:
+  - "oc\xE9ano atl\xE1ntico"
+  - "atl\xE1ntico"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Atlantic
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Arabisa: ~
+  Hindisa: ~
+  Telugusa: ~
+  Parsisa: ~
+  Turkisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Swahilisa: ~
+tags:
+- geografi
+raw data:
+  term: Atlantiko
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Atlantic (Ocean)
+    epo: Atlantiko, Antlantika Oceano
+    spa: "(oc\xE9ano) atl\xE1ntico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: Atlantic, Atlantic Ocean
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: Englisa (Atlantic), Fransesa ( ), Doycisa, Rusisa, Espanisa, Arabisa,
+    Hindisa, Telugusa, Parsisa, Turkisa, Indonesisa, Pilipinasa, Swahilisa
+...

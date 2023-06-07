@@ -1,0 +1,45 @@
+---
+term: le du-
+slug: le du-
+ipa: "le \u02C8du-"
+ipa link: "http://ipa-reader.xyz/?text=le \u02C8du-&voice=Ewa"
+status: false
+category: phrase
+word class: f par
+trans:
+  eng:
+  - - used (to)
+  spa:
+  - - "sol\xEDa"
+search terms:
+  glb:
+  - le du-
+  - le
+  - du-
+  eng:
+  - used to
+  - used
+  spa:
+  - "sol\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/le">le</a>, <a href="../lexi/du-">du-</a>
+raw data:
+  term: 'le du- '
+  category: phrase
+  word class: f par
+  status: false
+  trans:
+    eng: used (to)
+    epo: ""
+    spa: "sol\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: le, du-
+...

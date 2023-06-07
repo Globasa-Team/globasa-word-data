@@ -1,0 +1,52 @@
+---
+term: restane
+slug: restane
+ipa: "\u027Ees\u02C8tane"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ees\u02C8tane&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - remaining
+  epo:
+  - - restanta
+    - cetera
+  - - restante
+    - cetere
+  spa:
+  - - restante
+search terms:
+  glb:
+  - restane
+  eng:
+  - remaining
+  epo:
+  - restanta
+  - cetera
+  - restante
+  - cetere
+  spa:
+  - restante
+etymology_type: DERIVD
+etymology: <a href="../lexi/resta">resta</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: restane
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: remaining
+    epo: restanta, cetera; restante, cetere
+    spa: restante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: resta + -ne
+...

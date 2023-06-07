@@ -1,0 +1,50 @@
+---
+term: huruya
+slug: huruya
+ipa: "xu\u02C8\u027Euja"
+ipa link: "http://ipa-reader.xyz/?text=xu\u02C8\u027Euja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - liberty
+    - freedom
+  epo:
+  - - libereco
+    - libero
+  spa:
+  - - libertad
+search terms:
+  glb:
+  - huruya
+  eng:
+  - liberty
+  - freedom
+  epo:
+  - libereco
+  - libero
+  spa:
+  - libertad
+etymology_type: DERIVD
+etymology: <a href="../lexi/huru">huru</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: huruya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: liberty, freedom
+    epo: libereco, libero
+    spa: libertad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: huru + -ya
+...

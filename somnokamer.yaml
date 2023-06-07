@@ -1,0 +1,50 @@
+---
+term: somnokamer
+slug: somnokamer
+ipa: "somnoka\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=somnoka\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - bedroom
+  epo:
+  - - "dormo\u0109ambro"
+  spa:
+  - - cuarto
+    - dormitorio
+search terms:
+  glb:
+  - somnokamer
+  eng:
+  - bedroom
+  epo:
+  - "dormo\u0109ambro"
+  spa:
+  - cuarto
+  - dormitorio
+etymology_type: DERIVD
+etymology: <a href="../lexi/somno">somno</a> + <a href="../lexi/-kamer">-kamer</a>
+tags:
+- kamer
+raw data:
+  term: somnokamer
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: bedroom
+    epo: "dormo\u0109ambro"
+    spa: cuarto, dormitorio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kamer
+  etymology: somno + -kamer
+...

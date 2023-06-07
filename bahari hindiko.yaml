@@ -1,0 +1,54 @@
+---
+term: bahari hindiko
+slug: bahari hindiko
+ipa: "ba\u02C8xa\u027Ei xin\u02C8diko"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8xa\u027Ei xin\u02C8diko&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Indian Ocean
+    - Indic Ocean
+  epo:
+  - - (la) Hinda Oceano
+  spa:
+  - - "oc\xE9ano \xCDndico"
+    - "(el) \xCDndico"
+search terms:
+  glb:
+  - bahari hindiko
+  - bahari
+  - hindiko
+  eng:
+  - indian ocean
+  - indic ocean
+  epo:
+  - la hinda oceano
+  - hinda oceano
+  spa:
+  - "oc\xE9ano \xCDndico"
+  - "el \xCDndico"
+  - "\xCDndico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bahari">bahari</a>, <a href="../lexi/Hindiko">Hindiko</a>
+raw data:
+  term: Bahari Hindiko
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Indian Ocean, Indic Ocean
+    epo: (la) Hinda Oceano
+    spa: "oc\xE9ano \xCDndico, (el) \xCDndico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bahari, Hindiko
+...

@@ -1,0 +1,46 @@
+---
+term: finki
+slug: finki
+ipa: "\u02C8finki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8finki&voice=Ewa"
+status: false
+category: derived
+word class: l
+trans:
+  eng:
+  - - until (_+ sentence_)
+  epo:
+  - - "\u011Dis kiam"
+  spa:
+  - - hasta que
+search terms:
+  glb:
+  - finki
+  eng:
+  - until
+  epo:
+  - "\u011Dis kiam"
+  spa:
+  - hasta que
+etymology_type: DERIVD
+etymology: <a href="../lexi/fin-">fin-</a> + <a href="../lexi/ki">ki</a>
+raw data:
+  term: finki
+  category: derived
+  word class: l
+  status: false
+  trans:
+    eng: until (_+ sentence_)
+    epo: "\u011Dis kiam"
+    spa: hasta que
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fin- + ki
+...

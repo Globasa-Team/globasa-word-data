@@ -1,0 +1,73 @@
+---
+term: warisa
+slug: warisa
+ipa: "wa\u02C8\u027Eisa"
+ipa link: "http://ipa-reader.xyz/?text=wa\u02C8\u027Eisa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - inheritance
+  - - inherit
+  epo:
+  - - heredo
+    - "hereda\u0135o"
+  - - heredi
+  spa:
+  - - herencia
+    - patrimonio
+  - - heredar
+search terms:
+  glb:
+  - warisa
+  eng:
+  - inheritance
+  - inherit
+  epo:
+  - heredo
+  - "hereda\u0135o"
+  - heredi
+  spa:
+  - herencia
+  - patrimonio
+  - heredar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0935\u093E\u0930\u093F\u0938 \u201Cvaaris\u201D"
+    - "\u0935\u093F\u0930\u093E\u0938\u0924 \u201Cviraasat\u201D"
+  Telugusa:
+  - - "\u0C35\u0C3E\u0C30\u0C38\u0C41\u0C21\u0C41 \u201Cv\u0101rasu\u1E0Du\u201D"
+    - "\u0C35\u0C3E\u0C30\u0C38\u0C24\u0C4D\u0C35\u0C02 \u201Cv\u0101rasatva\u1E41\u201D"
+  Arabisa:
+  - - "\u0648\u0631\u064A\u062B \u201Cwarith\u201D"
+  Turkisa:
+  - - varis
+  Indonesisa:
+  - - waris
+    - warisan
+raw data:
+  term: warisa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: inheritance; inherit
+    epo: "heredo, hereda\u0135o; heredi"
+    spa: herencia, patrimonio; heredar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0935\u093E\u0930\u093F\u0938 \u201Cvaaris\u201D, \u0935\u093F\u0930\u093E\u0938\u0924
+    \u201Cviraasat\u201D), Telugusa (\u0C35\u0C3E\u0C30\u0C38\u0C41\u0C21\u0C41 \u201Cv\u0101rasu\u1E0Du\u201D,
+    \u0C35\u0C3E\u0C30\u0C38\u0C24\u0C4D\u0C35\u0C02 \u201Cv\u0101rasatva\u1E41\u201D),
+    Arabisa (\u0648\u0631\u064A\u062B \u201Cwarith\u201D), Turkisa (varis), Indonesisa
+    (waris, warisan)"
+...

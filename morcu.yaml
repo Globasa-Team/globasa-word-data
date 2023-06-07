@@ -1,0 +1,56 @@
+---
+term: morcu
+slug: morcu
+ipa: "\u02C8mo\u027Et\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mo\u027Et\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - death
+  - - die
+  epo:
+  - - morto
+  - - morti
+  spa:
+  - - muerte
+    - fallecimiento
+  - - morir
+search terms:
+  glb:
+  - morcu
+  eng:
+  - death
+  - die
+  epo:
+  - morto
+  - morti
+  spa:
+  - muerte
+  - fallecimiento
+  - morir
+etymology_type: DERIVD
+etymology: <a href="../lexi/mor">mor</a> + <a href="../lexi/-cu">-cu</a>
+antonyms:
+- xencu
+raw data:
+  term: morcu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: death; die
+    epo: morto; morti
+    spa: muerte, fallecimiento; morir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: xencu
+  example: ""
+  tags: ""
+  etymology: mor + -cu
+...

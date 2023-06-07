@@ -1,0 +1,75 @@
+---
+term: risko
+slug: risko
+ipa: "\u02C8\u027Eisko"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eisko&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - risk
+  - - risk
+    - take risks
+    - take a chance
+  epo:
+  - - risko
+  - - riski
+  spa:
+  - - riesgo
+  - - arriesgarse
+search terms:
+  glb:
+  - risko
+  eng:
+    0: risk
+    2: take risks
+    3: take a chance
+  epo:
+  - risko
+  - riski
+  spa:
+  - riesgo
+  - arriesgarse
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Risiko
+    - riskieren
+  Englisa:
+  - - risk
+  Fransesa:
+  - - risque
+  Espanisa:
+  - - riesgo
+  Rusisa:
+  - - "\u0440\u0438\u0441\u043A \u201Crisk\u201D"
+  Indonesisa:
+  - - risiko
+  Turkisa:
+  - - risk
+    - riziko
+  Niponsa:
+  - - "\u30EA\u30B9\u30AF \u201Crisuku\u201D"
+raw data:
+  term: risko
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: risk; risk, take risks, take a chance
+    epo: risko; riski
+    spa: riesgo; arriesgarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Risiko, riskieren), Englisa (risk), Fransesa (risque), Espanisa
+    (riesgo), Rusisa (\u0440\u0438\u0441\u043A \u201Crisk\u201D), Indonesisa (risiko),
+    Turkisa (risk, riziko), Niponsa (\u30EA\u30B9\u30AF \u201Crisuku\u201D)"
+...

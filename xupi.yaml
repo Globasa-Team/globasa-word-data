@@ -1,0 +1,51 @@
+---
+term: xupi
+slug: xupi
+ipa: "\u02C8\u0283upi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283upi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bark (_tree_)
+  epo:
+  - - "arbo\u015Delo"
+  spa:
+  - - corteza
+search terms:
+  glb:
+  - xupi
+  eng:
+  - bark
+  epo:
+  - "arbo\u015Delo"
+  spa:
+  - corteza
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6811\u76AE \u201Csh\xF9p\xED\u201D"
+  Hangusa:
+  - - "\uC218\uD53C \u201Csupi\u201D"
+raw data:
+  term: xupi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bark (_tree_)
+    epo: "arbo\u015Delo"
+    spa: corteza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6811\u76AE \u201Csh\xF9p\xED\u201D), Hangusa (\uC218\uD53C
+    \u201Csupi\u201D)"
+...

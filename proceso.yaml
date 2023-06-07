@@ -1,0 +1,85 @@
+---
+term: proceso
+slug: proceso
+ipa: "p\u027Eo\u02C8t\u0361\u0283eso"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eo\u02C8t\u0361\u0283eso&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - process
+    - deal (with)
+  epo:
+  - - procezo
+    - procedo
+  - - trakti
+    - procedi
+  spa:
+  - - proceso
+    - procedimiento
+  - - procesar
+    - tramitar
+search terms:
+  glb:
+  - proceso
+  eng:
+  - process
+  - deal with
+  - deal
+  epo:
+  - procezo
+  - procedo
+  - trakti
+  - procedi
+  spa:
+  - proceso
+  - procedimiento
+  - procesar
+  - tramitar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - process
+  Fransesa: ~
+  Doycisa:
+  - - Prozess
+  Rusisa:
+  - - "\u043F\u0440\u043E\u0446\u0435\u0441\u0441 \u201Cprotsess\u201D"
+  Espanisa: ~
+  Niponsa:
+  - - "\u30D7\u30ED\u30BB\u30B9 \u201Cpurosesu\u201D"
+  Hangusa:
+  - - "\uD504\uB85C\uC138\uC2A4 \u201Cpeuroseseu\u201D"
+  Turkisa:
+  - - proses
+  Parsisa:
+  - - "\u067E\u0631\u0648\u0633\u0647\u200E \u201Cprose\u201D"
+  Indonesisa:
+  - - proses
+  Pilipinasa:
+  - - proseso
+raw data:
+  term: proceso
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: process, deal (with)
+    epo: procezo, procedo; trakti, procedi
+    spa: proceso, procedimiento; procesar, tramitar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (process), Fransesa, Doycisa (Prozess), Rusisa (\u043F\u0440\u043E\u0446\u0435\u0441\u0441
+    \u201Cprotsess\u201D), Espanisa, Niponsa (\u30D7\u30ED\u30BB\u30B9 \u201Cpurosesu\u201D),
+    Hangusa (\uD504\uB85C\uC138\uC2A4 \u201Cpeuroseseu\u201D), Turkisa (proses), Parsisa
+    (\u067E\u0631\u0648\u0633\u0647\u200E \u201Cprose\u201D), Indonesisa (proses),
+    Pilipinasa (proseso)"
+...

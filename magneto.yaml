@@ -1,0 +1,64 @@
+---
+term: magneto
+slug: magneto
+ipa: "mag\u02C8neto"
+ipa link: "http://ipa-reader.xyz/?text=mag\u02C8neto&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - magnet
+    - (magnetic) pull
+  - - attract
+  epo:
+  - - magneto
+    - (magneta) altiro
+  - - altiri
+  spa:
+  - - "im\xE1n"
+    - "atracci\xF3n magn\xE9tica"
+  - - atraer
+search terms:
+  glb:
+  - magneto
+  eng:
+  - magnet
+  - magnetic pull
+  - pull
+  - attract
+  epo:
+  - magneto
+  - magneta altiro
+  - altiro
+  - altiri
+  spa:
+  - "im\xE1n"
+  - "atracci\xF3n magn\xE9tica"
+  - atraer
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: magneto
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: magnet, (magnetic) pull; attract
+    epo: magneto, (magneta) altiro; altiri
+    spa: "im\xE1n, atracci\xF3n magn\xE9tica; atraer"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (magnet), Fransesa (magn\xE9tique), Doycisa (Magnet), Rusisa
+    (\u043C\u0430\u0433\u043D\u0438\u0442 \u201Cmagnit\u201D), Espanisa (magnete),
+    Arabisa (\u0645\u064E\u063A\u0652\u0646\u064E\u0627\u0637\u0650\u064A\u0633 \u201Cmagnatis\u201D),
+    Parsisa (\u0645\u063A\u0646\u06CC\u0637\u06CC\u0633 \u201Cmagnatis\u201D), Turkisa
+    (m\u0131knat\u0131s), Indonesisa (magnet), Pilipinasa (magnetiko)"
+...

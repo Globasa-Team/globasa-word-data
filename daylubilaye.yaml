@@ -1,0 +1,49 @@
+---
+term: daylubilaye
+slug: daylubilaye
+ipa: "dajlubi\u02C8laje"
+ipa link: "http://ipa-reader.xyz/?text=dajlubi\u02C8laje&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - adorable
+  epo:
+  - - amegenda
+  - - amegende
+  spa:
+  - - adorable
+search terms:
+  glb:
+  - daylubilaye
+  eng:
+  - adorable
+  epo:
+  - amegenda
+  - amegende
+  spa:
+  - adorable
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/lubi">lubi</a> + <a
+  href="../lexi/-laye">-laye</a>
+raw data:
+  term: daylubilaye
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: adorable
+    epo: amegenda; amegende
+    spa: adorable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + lubi + -laye
+...

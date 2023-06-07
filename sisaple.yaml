@@ -1,0 +1,50 @@
+---
+term: sisaple
+slug: sisaple
+ipa: "si\u02C8saple"
+ipa link: "http://ipa-reader.xyz/?text=si\u02C8saple&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - sextuple
+    - sixfold
+  epo:
+  - - sesobla
+  - - sesoble
+  spa:
+  - - "s\xE9xtuplo"
+search terms:
+  glb:
+  - sisaple
+  eng:
+  - sextuple
+  - sixfold
+  epo:
+  - sesobla
+  - sesoble
+  spa:
+  - "s\xE9xtuplo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sisa">sisa</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: sisaple
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: sextuple, sixfold
+    epo: sesobla; sesoble
+    spa: "s\xE9xtuplo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sisa + -ple
+...

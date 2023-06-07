@@ -1,0 +1,52 @@
+---
+term: jularesta
+slug: jularesta
+ipa: "d\u0361\u0292ula\u02C8\u027Eesta"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292ula\u02C8\u027Eesta&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - avoid (_stay apart from_)
+  epo:
+  - - aparteresto
+  - - aparteresti
+    - eviti
+  spa:
+  - - evitar
+    - mantenerse lejos
+search terms:
+  glb:
+  - jularesta
+  eng:
+  - avoid
+  epo:
+  - aparteresto
+  - aparteresti
+  - eviti
+  spa:
+  - evitar
+  - mantenerse lejos
+etymology_type: DERIVD
+etymology: <a href="../lexi/jula">jula</a> + <a href="../lexi/resta">resta</a>
+raw data:
+  term: jularesta
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: avoid (_stay apart from_)
+    epo: aparteresto; aparteresti, eviti
+    spa: evitar, mantenerse lejos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jula + resta
+...

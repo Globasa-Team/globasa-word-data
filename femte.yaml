@@ -1,0 +1,46 @@
+---
+term: femte
+slug: femte
+ipa: "\u02C8femte"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8femte&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - she
+  epo:
+  - - "\u015Di"
+  spa:
+  - - ella
+search terms:
+  glb:
+  - femte
+  eng:
+  - she
+  epo:
+  - "\u015Di"
+  spa:
+  - ella
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem">fem</a> + <a href="../lexi/te">te</a>
+raw data:
+  term: femte
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: she
+    epo: "\u015Di"
+    spa: ella
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem + te
+...

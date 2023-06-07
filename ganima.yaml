@@ -1,0 +1,83 @@
+---
+term: ganima
+slug: ganima
+ipa: "ga\u02C8nima"
+ipa link: "http://ipa-reader.xyz/?text=ga\u02C8nima&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - booty
+    - loot
+    - spoils
+  - - pillage
+    - plunder
+    - ransack
+    - foray
+    - maraud
+  epo:
+  - - predo
+    - "raba\u0135o"
+  - - predi
+    - rabi
+    - marodi
+  spa:
+  - - "bot\xEDn"
+    - despojo
+    - presa
+search terms:
+  glb:
+  - ganima
+  eng:
+  - booty
+  - loot
+  - spoils
+  - pillage
+  - plunder
+  - ransack
+  - foray
+  - maraud
+  epo:
+  - predo
+  - "raba\u0135o"
+  - predi
+  - rabi
+  - marodi
+  spa:
+  - "bot\xEDn"
+  - despojo
+  - presa
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0917\u093C\u0928\u0940\u092E\u0924 \"\u0121animat\""
+  Arabisa:
+  - - "\u063A\u064E\u0646\u0650\u064A\u0645\u064E\u0629 \"\u1E21an\u012Bma\""
+  - - "\u063A\u064E\u0646\u0650\u0645\u064E \"\u1E21anima\""
+  Turkisa:
+  - - ganimet
+  Parsisa:
+  - - "\u063A\u0646\u0627\u0645\u062A \"\u011Fanimat\""
+raw data:
+  term: ganima
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: booty, loot, spoils; pillage, plunder, ransack, foray, maraud
+    epo: "predo, raba\u0135o; predi, rabi, marodi"
+    spa: "bot\xEDn, despojo, presa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0917\u093C\u0928\u0940\u092E\u0924 \"\u0121animat\"), Arabisa
+    (\u063A\u064E\u0646\u0650\u064A\u0645\u064E\u0629 \"\u1E21an\u012Bma\"; \u063A\u064E\u0646\u0650\u0645\u064E
+    \"\u1E21anima\"), Turkisa (ganimet), Parsisa (\u063A\u0646\u0627\u0645\u062A \"\u011Fanimat\")"
+...

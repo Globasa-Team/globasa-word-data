@@ -1,0 +1,48 @@
+---
+term: rusoti
+slug: rusoti
+ipa: "\u027Eu\u02C8soti"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8soti&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - echo
+  epo:
+  - - "e\u0125o"
+    - ekoo
+  spa:
+  - - eco
+search terms:
+  glb:
+  - rusoti
+  eng:
+  - echo
+  epo:
+  - "e\u0125o"
+  - ekoo
+  spa:
+  - eco
+etymology_type: DERIVD
+etymology: <a href="../lexi/ru-">ru-</a> + <a href="../lexi/soti">soti</a>
+raw data:
+  term: rusoti
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: echo
+    epo: "e\u0125o, ekoo"
+    spa: eco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ru- + soti
+...

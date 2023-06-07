@@ -1,0 +1,56 @@
+---
+term: alo kom
+slug: alo kom
+ipa: "\u02C8alo kom"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8alo kom&voice=Ewa"
+status: false
+category: phrase
+word class: jm.t
+trans:
+  eng:
+  - - different from
+    - differ from
+  epo:
+  - - malsama ol
+    - alia ol
+  - - malsame ol
+  spa:
+  - - diferente a
+    - diferir de
+search terms:
+  glb:
+  - alo kom
+  - alo
+  - kom
+  eng:
+  - different from
+  - differ from
+  epo:
+  - malsama ol
+  - alia ol
+  - malsame ol
+  spa:
+  - diferente a
+  - diferir de
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a>, <a href="../lexi/kom">kom</a>
+raw data:
+  term: alo kom
+  category: phrase
+  word class: jm.t
+  status: false
+  trans:
+    eng: different from, differ from
+    epo: malsama ol, alia ol; malsame ol
+    spa: diferente a, diferir de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo, kom
+...

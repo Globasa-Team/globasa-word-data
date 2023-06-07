@@ -1,0 +1,69 @@
+---
+term: akne
+slug: akne
+ipa: ˈakne
+ipa link: http://ipa-reader.xyz/?text=ˈakne&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - acne
+  epo:
+  - - akneo
+    - akno(j)
+  spa:
+  - - acné
+search terms:
+  glb:
+  - akne
+  eng:
+  - acne
+  epo:
+  - akneo
+  - aknoj
+  - akno
+  spa:
+  - acné
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - acne
+  Espanisa:
+  - - acné
+  Fransesa:
+  - - acné
+  Rusisa:
+  - - акне “akne”
+  Doycisa:
+  - - Akne
+  Indonesisa:
+  - - akne
+  Pilipinasa:
+  - - akne
+  Turkisa:
+  - - akne
+  Parsisa:
+  - - آکنه “akne”
+raw data:
+  term: akne
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: acne
+    epo: akneo, akno(j)
+    spa: acné
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (acne), Espanisa (acné), Fransesa (acné), Rusisa (акне “akne”),
+    Doycisa (Akne), Indonesisa (akne), Pilipinasa (akne), Turkisa (akne), Parsisa
+    (آکنه “akne”)
+...

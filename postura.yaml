@@ -1,0 +1,71 @@
+---
+term: postura
+slug: postura
+ipa: "pos\u02C8tu\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=pos\u02C8tu\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - posture
+    - position
+    - pose
+  epo:
+  - - korpopozicio
+    - fizika sintenado
+  spa:
+  - - postura
+    - "posici\xF3n"
+    - pose
+search terms:
+  glb:
+  - postura
+  eng:
+  - posture
+  - position
+  - pose
+  epo:
+  - korpopozicio
+  - fizika sintenado
+  spa:
+  - postura
+  - "posici\xF3n"
+  - pose
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - posture
+  Doycisa:
+  - - Positur
+  Fransesa:
+  - - posture
+  Espanisa:
+  - - postura
+  Rusisa:
+  - - "\u043F\u043E\u0437\u0430 \u201Cpoza\u201D"
+  Tukisa:
+  - - poz
+  Pilipinasa:
+  - - pustura
+raw data:
+  term: postura
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: posture, position, pose
+    epo: korpopozicio, fizika sintenado
+    spa: "postura, posici\xF3n, pose"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (posture), Doycisa (Positur), Fransesa (posture), Espanisa (postura),
+    Rusisa (\u043F\u043E\u0437\u0430 \u201Cpoza\u201D), Tukisa (poz), Pilipinasa (pustura)"
+...

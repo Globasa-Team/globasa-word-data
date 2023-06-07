@@ -1,0 +1,63 @@
+---
+term: fatura
+slug: fatura
+ipa: faˈtuɾa
+ipa link: http://ipa-reader.xyz/?text=faˈtuɾa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - invoice
+    - bill
+    - check
+  epo:
+  - - fakturo
+  spa:
+  - - factura
+search terms:
+  glb:
+  - fatura
+  eng:
+  - invoice
+  - bill
+  - check
+  epo:
+  - fakturo
+  spa:
+  - factura
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - facture
+    - facturer
+  Espanisa:
+  - - factura
+    - facturar
+  Arabisa:
+  - - فاتورة “fatura”
+  Turkisa:
+  - - fatura
+  Indonesisa:
+  - - faktur
+raw data:
+  term: fatura
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: invoice, bill, check
+    epo: fakturo
+    spa: factura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Fransesa (facture, facturer), Espanisa (factura, facturar), Arabisa (فاتورة
+    “fatura”), Turkisa (fatura), Indonesisa (faktur)
+...

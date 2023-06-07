@@ -1,0 +1,56 @@
+---
+term: xilo
+slug: xilo
+ipa: "\u02C8\u0283ilo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283ilo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - yarn
+    - thread
+    - string
+  epo:
+  - - fadeno
+  spa:
+  - - hilo
+search terms:
+  glb:
+  - xilo
+  eng:
+  - yarn
+  - thread
+  - string
+  epo:
+  - fadeno
+  spa:
+  - hilo
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - hilo
+  Fransesa:
+  - - fil
+  Hangusa:
+  - - "\uC2E4 \u201Cxil\u201D"
+raw data:
+  term: xilo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: yarn, thread, string
+    epo: fadeno
+    spa: hilo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (hilo), Fransesa (fil), Hangusa (\uC2E4 \u201Cxil\u201D)"
+...

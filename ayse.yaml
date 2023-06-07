@@ -1,0 +1,71 @@
+---
+term: ayse
+slug: ayse
+ipa: ˈajse
+ipa link: http://ipa-reader.xyz/?text=ˈajse&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ice
+  epo:
+  - - glacio
+  spa:
+  - - hielo
+search terms:
+  glb:
+  - ayse
+  eng:
+  - ice
+  epo:
+  - glacio
+  spa:
+  - hielo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ice
+  Espanisa:
+  - - iceberg
+  Doycisa:
+  - - Eis
+  Indonesisa:
+  - - es krim
+  Hindisa:
+  - - आइसक्रीम “ais-krim”
+  Arabisa:
+  - - آيس كريم “ayis kirim”
+  Swahilisa:
+  - - aiskrimu
+  Niponsa:
+  - - アイス “aisu”
+  Hangusa:
+  - - 아이스 “aiseu”
+  Telugusa:
+  - - ఐస్ క్రీమ్ “ais krīm”
+tags:
+- xey
+- yamxey
+raw data:
+  term: ayse
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ice
+    epo: glacio
+    spa: hielo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: xey, yamxey
+  etymology: Englisa (ice), Espanisa (iceberg), Doycisa (Eis), Indonesisa (es krim),
+    Hindisa (आइसक्रीम “ais-krim”), Arabisa (آيس كريم “ayis kirim”), Swahilisa (aiskrimu),
+    Niponsa (アイス “aisu”), Hangusa (아이스 “aiseu”), Telugusa (ఐస్ క్రీమ్ “ais krīm”)
+...

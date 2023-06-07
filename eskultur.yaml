@@ -1,0 +1,64 @@
+---
+term: eskultur
+slug: eskultur
+ipa: eskulˈtuɾ
+ipa link: http://ipa-reader.xyz/?text=eskulˈtuɾ&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - sculpture
+  - - sculpt
+  epo:
+  - - skulptarto
+  - - skulpti
+  spa:
+  - - escultura
+  - - esculpir
+search terms:
+  glb:
+  - eskultur
+  eng:
+  - sculpture
+  - sculpt
+  epo:
+  - skulptarto
+  - skulpti
+  spa:
+  - escultura
+  - esculpir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sculpture
+  Fransesa: ~
+  Espanisa:
+  - - escultura
+  Rusisa:
+  - - скульптура “skulptura”
+  Doycisa:
+  - - Skulptur
+  Pilipinasa:
+  - - iskultura
+raw data:
+  term: eskultur
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: sculpture; sculpt
+    epo: skulptarto; skulpti
+    spa: escultura; esculpir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (sculpture), Fransesa, Espanisa (escultura), Rusisa (скульптура
+    “skulptura”), Doycisa (Skulptur), Pilipinasa (iskultura)
+...

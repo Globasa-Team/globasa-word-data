@@ -1,0 +1,46 @@
+---
+term: -pel
+slug: -pel
+ipa: "\u02C8-pel"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-pel&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - drive
+  epo:
+  - - -emo
+  spa:
+  - - impulso
+search terms:
+  glb:
+  - -pel
+  eng:
+  - drive
+  epo:
+  - -emo
+  spa:
+  - impulso
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/pel">pel</a>.
+raw data:
+  term: -pel
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: drive
+    epo: -emo
+    spa: impulso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _pel_.
+...

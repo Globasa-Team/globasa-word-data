@@ -1,0 +1,47 @@
+---
+term: mogun
+slug: mogun
+ipa: "mo\u02C8gun"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8gun&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - carpentry
+  epo:
+  - - "\u0109arpentado"
+  spa:
+  - - "carpinter\xEDa"
+search terms:
+  glb:
+  - mogun
+  eng:
+  - carpentry
+  epo:
+  - "\u0109arpentado"
+  spa:
+  - "carpinter\xEDa"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mogun
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: carpentry
+    epo: "\u0109arpentado"
+    spa: "carpinter\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6728\u5DE5 \"mugung\"), Niponsa (\u6728\u5DE5 \"moko, moku\"),
+    Hangusa (\uBAA9\uACF5 \"mokgong\")"
+...

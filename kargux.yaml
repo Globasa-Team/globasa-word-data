@@ -1,0 +1,57 @@
+---
+term: kargux
+slug: kargux
+ipa: "ka\u027E\u02C8gu\u0283"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027E\u02C8gu\u0283&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rabbit
+    - hare
+    - _Leporidae_
+  epo:
+  - - kuniklo
+    - leporo
+  spa:
+  - - conejo
+    - _Leporidae_
+search terms:
+  glb:
+  - kargux
+  eng:
+  - rabbit
+  - hare
+  - leporidae
+  epo:
+  - kuniklo
+  - leporo
+  spa:
+  - conejo
+  - leporidae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kargux
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rabbit, hare, _Leporidae_
+    epo: kuniklo, leporo
+    spa: conejo, _Leporidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Hindisa (\u0916\u0930\u0917\u094B\u0936 \u201Ckhargosh\u201D), Parsisa
+    (\u062E\u0631\u06AF\u0648\u0634 \u201Chargux\u201D)"
+...

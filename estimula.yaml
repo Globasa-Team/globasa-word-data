@@ -1,0 +1,88 @@
+---
+term: estimula
+slug: estimula
+ipa: estiˈmula
+ipa link: http://ipa-reader.xyz/?text=estiˈmula&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - stimulus
+    - motivation
+  - - stimulate
+    - motivate
+  epo:
+  - - stimulo
+    - instigo
+    - incito
+    - motivo
+  - - stimuli
+    - instigi
+    - inciti
+    - motivi
+  spa:
+  - - estímulo
+    - motivación
+  - - estimular
+    - motivar
+search terms:
+  glb:
+  - estimula
+  eng:
+  - stimulus
+  - motivation
+  - stimulate
+  - motivate
+  epo:
+  - stimulo
+  - instigo
+  - incito
+  - motivo
+  - stimuli
+  - instigi
+  - inciti
+  - motivi
+  spa:
+  - estímulo
+  - motivación
+  - estimular
+  - motivar
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Stimulation
+  Englisa:
+  - - stimulation
+  Espanisa:
+  - - estimulación
+  Fransesa:
+  - - stimulation
+  Rusisa:
+  - - стимул “stimul”
+    - стимуляция “stimulyatsiya”
+  Indonesisa:
+  - - stimulans
+    - stimulasi
+raw data:
+  term: estimula
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: stimulus, motivation; stimulate, motivate
+    epo: stimulo, instigo, incito, motivo; stimuli, instigi, inciti, motivi
+    spa: estímulo, motivación; estimular, motivar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Stimulation), Englisa (stimulation), Espanisa (estimulación),
+    Fransesa (stimulation), Rusisa (стимул “stimul”, стимуляция “stimulyatsiya”),
+    Indonesisa (stimulans, stimulasi)
+...

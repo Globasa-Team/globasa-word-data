@@ -1,0 +1,63 @@
+---
+term: hwepi
+slug: hwepi
+ipa: "\u02C8xwepi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xwepi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - avoidance
+    - evasion
+  - - avoid
+    - evade
+    - dodge
+  epo:
+  - - evito
+  - - eviti
+  spa:
+  - - "evitaci\xF3n"
+    - "evasi\xF3n"
+  - - evitar
+    - evadir
+search terms:
+  glb:
+  - hwepi
+  eng:
+  - avoidance
+  - evasion
+  - avoid
+  - evade
+  - dodge
+  epo:
+  - evito
+  - eviti
+  spa:
+  - "evitaci\xF3n"
+  - "evasi\xF3n"
+  - evitar
+  - evadir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hwepi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: avoidance, evasion; avoid, evade, dodge
+    epo: evito; eviti
+    spa: "evitaci\xF3n, evasi\xF3n; evitar, evadir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u8FF4\u907F \"hweybi\"), Hangusa (\uD68C\uD53C \"hwepi\"),
+    Swahilisa (-kwepa)"
+...

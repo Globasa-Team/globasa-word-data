@@ -1,0 +1,53 @@
+---
+term: afsane
+slug: afsane
+ipa: "af\u02C8sane"
+ipa link: "http://ipa-reader.xyz/?text=af\u02C8sane&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - legend
+  epo:
+  - - legendo
+  spa:
+  - - leyenda
+search terms:
+  glb:
+  - afsane
+  eng:
+  - legend
+  epo:
+  - legendo
+  spa:
+  - leyenda
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0905\u092B\u093C\u094D\u0938\u093E\u0928\u093E \"afsana\""
+  Turkisa:
+  - - efsane
+  Parsisa:
+  - - "\u0627\u0641\u0633\u0627\u0646\u0647 \"afs\xE2ne\""
+raw data:
+  term: afsane
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: legend
+    epo: legendo
+    spa: leyenda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0905\u092B\u093C\u094D\u0938\u093E\u0928\u093E \"afsana\"),
+    Turkisa (efsane), Parsisa (\u0627\u0641\u0633\u0627\u0646\u0647 \"afs\xE2ne\")"
+...

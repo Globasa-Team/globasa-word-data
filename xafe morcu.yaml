@@ -1,0 +1,50 @@
+---
+term: xafe morcu
+slug: xafe morcu
+ipa: "\u02C8\u0283afe \u02C8mo\u027Et\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283afe \u02C8mo\u027Et\u0361\u0283u&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - postmortem
+    - posthumous
+  epo:
+  - - post morto
+  spa:
+  - - "despu\xE9s de la muerte"
+search terms:
+  glb:
+  - xafe morcu
+  - xafe
+  - morcu
+  eng:
+  - postmortem
+  - posthumous
+  epo:
+  - post morto
+  spa:
+  - "despu\xE9s de la muerte"
+etymology_type: DERIVD
+etymology: <a href="../lexi/xafe">xafe</a>, <a href="../lexi/morcu">morcu</a>
+raw data:
+  term: xafe morcu
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: postmortem, posthumous
+    epo: post morto
+    spa: "despu\xE9s de la muerte"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xafe, morcu
+...

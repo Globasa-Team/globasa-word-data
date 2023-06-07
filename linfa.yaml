@@ -1,0 +1,55 @@
+---
+term: linfa
+slug: linfa
+ipa: "\u02C8linfa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8linfa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lymph
+  epo:
+  - - limfo
+  spa:
+  - - linfa
+  deu:
+  - - Lymphe
+search terms:
+  glb:
+  - linfa
+  eng:
+  - lymph
+  epo:
+  - limfo
+  spa:
+  - linfa
+  deu:
+  - lymphe
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: linfa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lymph
+    epo: limfo
+    spa: linfa
+    deu: Lymphe
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lymph; lymphatic), Espanisa (linfa), Fransesa (lymphe; lymphatique),
+    Rusisa (\u043B\u0438\u043C\u0444\u0430 \u201Climfa\u201D), Doycisa (Lymphe), Portugalsa
+    (linfa), Italisa (linfa), Indonesisa (limfa), Pilipinasa (limpa), Putunhwa (\u6DCB\u5DF4
+    \u201Clinba\u201D), Arabisa (\u0644\u0645\u0641 \u201Clmf\u201D), Niponsa (\u30EA\u30F3\u30D1
+    \u201Crinpa\u201D), Turkisa (lenf; lenfatik), Hangusa (\uB9BC\uD504 \u201Crimpu\u201D),
+    Parsisa (\u0644\u0646\u0641 \u201Clnf\u201D), Swahilisa (limfu)"
+...

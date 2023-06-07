@@ -1,0 +1,58 @@
+---
+term: layeya
+slug: layeya
+ipa: "la\u02C8jeja"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8jeja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - worth
+    - worthiness
+    - merit
+  - - deserve
+  epo:
+  - - indeco
+    - indo
+    - merito
+  spa:
+  - - "m\xE9rito"
+  - - merecer
+search terms:
+  glb:
+  - layeya
+  eng:
+  - worth
+  - worthiness
+  - merit
+  - deserve
+  epo:
+  - indeco
+  - indo
+  - merito
+  spa:
+  - "m\xE9rito"
+  - merecer
+etymology_type: DERIVD
+etymology: <a href="../lexi/laye">laye</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: layeya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: worth, worthiness, merit; deserve
+    epo: indeco, indo, merito
+    spa: "m\xE9rito; merecer"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: laye + -ya
+...

@@ -1,0 +1,67 @@
+---
+term: susu
+slug: susu
+ipa: "\u02C8susu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8susu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - suck
+  epo:
+  - - "su\u0109ado"
+  - - "su\u0109i"
+  spa:
+  - - chupar
+    - sorber
+    - succionar
+search terms:
+  glb:
+  - susu
+  eng:
+  - suck
+  epo:
+  - "su\u0109ado"
+  - "su\u0109i"
+  spa:
+  - chupar
+  - sorber
+  - succionar
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - sucer
+  Rusisa:
+  - - "\u0441\u043E\u0441\u0430\u0301\u0442\u044C \u201Csos\xE1t\u02B9\u201D"
+  Putunhwa:
+  - - "\u5438\u542E \u201Cx\u012Bsh\u01D4n\u201D"
+  Niponsa:
+  - - "\u5438\u3046 \u201Csuu\u201D"
+  Hindisa:
+  - - "\u091A\u0942\u0938\u0928\u093E \u201Cc\u016Bsn\u0101\u201D"
+  Pilipinasa:
+  - - susuin
+raw data:
+  term: susu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: suck
+    epo: "su\u0109ado; su\u0109i"
+    spa: chupar, sorber, succionar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (sucer), Rusisa (\u0441\u043E\u0441\u0430\u0301\u0442\u044C
+    \u201Csos\xE1t\u02B9\u201D), Putunhwa (\u5438\u542E \u201Cx\u012Bsh\u01D4n\u201D),
+    Niponsa (\u5438\u3046 \u201Csuu\u201D), Hindisa (\u091A\u0942\u0938\u0928\u093E
+    \u201Cc\u016Bsn\u0101\u201D), Pilipinasa (susuin)"
+...

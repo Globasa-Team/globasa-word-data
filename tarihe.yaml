@@ -1,0 +1,58 @@
+---
+term: tarihe
+slug: tarihe
+ipa: "ta\u02C8\u027Eixe"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8\u027Eixe&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - date
+  epo:
+  - - dato
+  spa:
+  - - fecha
+search terms:
+  glb:
+  - tarihe
+  eng:
+  - date
+  epo:
+  - dato
+  spa:
+  - fecha
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u0627\u0631\u064A\u062E \u201Ctarikh\u201D"
+  Hindisa:
+  - - "\u0924\u093E\u0930\u0940\u0916 \u201Ctarikh\u201D"
+  Turkisa:
+  - - tarih
+  Swahilisa:
+  - - tarehe
+  Parsisa:
+  - - "\u062A\u0627\u0631\u06CC\u062E \u201Ctarikh\u201D"
+raw data:
+  term: tarihe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: date
+    epo: dato
+    spa: fecha
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u0627\u0631\u064A\u062E \u201Ctarikh\u201D), Hindisa
+    (\u0924\u093E\u0930\u0940\u0916 \u201Ctarikh\u201D), Turkisa (tarih), Swahilisa
+    (tarehe), Parsisa (\u062A\u0627\u0631\u06CC\u062E \u201Ctarikh\u201D)"
+...

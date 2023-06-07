@@ -1,0 +1,50 @@
+---
+term: xogyoli
+slug: xogyoli
+ipa: "\u0283o\u02C8gjoli"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u02C8gjoli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - commercial
+  epo:
+  - - negoca
+  - - negoce
+  spa:
+  - - comercial
+  - - comercialmente
+search terms:
+  glb:
+  - xogyoli
+  eng:
+  - commercial
+  epo:
+  - negoca
+  - negoce
+  spa:
+  - comercial
+  - comercialmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/xogyo">xogyo</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: xogyoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: commercial
+    epo: negoca; negoce
+    spa: comercial; comercialmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xogyo + -li
+...

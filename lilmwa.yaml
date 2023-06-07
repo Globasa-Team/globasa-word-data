@@ -1,0 +1,50 @@
+---
+term: lilmwa
+slug: lilmwa
+ipa: "\u02C8lilmwa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lilmwa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - peck
+  epo:
+  - - kiseto
+  - - kiseti
+  spa:
+  - - besito
+  - - dar un besito
+search terms:
+  glb:
+  - lilmwa
+  eng:
+  - peck
+  epo:
+  - kiseto
+  - kiseti
+  spa:
+  - besito
+  - dar un besito
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/mwa">mwa</a>
+raw data:
+  term: lilmwa
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: peck
+    epo: kiseto; kiseti
+    spa: besito; dar un besito
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + mwa
+...

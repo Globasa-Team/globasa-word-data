@@ -1,0 +1,86 @@
+---
+term: axolotle
+slug: axolotle
+ipa: aʃoˈlotle
+ipa link: http://ipa-reader.xyz/?text=aʃoˈlotle&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - axolotl
+  epo:
+  - - aksolotlo
+  spa:
+  - - ajolote
+    - _Ambystoma mexicanum_
+search terms:
+  glb:
+  - axolotle
+  eng:
+  - axolotl
+  epo:
+  - aksolotlo
+  spa:
+  - ajolote
+  - ambystoma mexicanum
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - axolotl
+  Espanisa:
+  - - ajolote
+  Fransesa:
+  - - axolotl
+  Rusisa:
+  - - аксолотль "aksolotl"
+  Doycisa:
+  - - Axolotl
+  Portugalsa:
+  - - axolote
+  Italisa:
+  - - axolotl
+    - assolotto
+  Indonesisa:
+  - - axolotl
+  Pilipinasa:
+  - - aholote
+    - axolotl
+  Hindisa:
+  - - एक्सोलोटल "eksolotal"
+  Niponsa:
+  - - アホロートル "ahorotoru"
+  Turkisa:
+  - - aksolotl
+  Vyetnamsa:
+  - - axolotl
+  Hangusa:
+  - - 아홀로틀 "aholotul"
+  Parsisa:
+  - - اکسولوتل "akesolotal"
+tags:
+- hewan
+raw data:
+  term: axolotle
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: axolotl
+    epo: aksolotlo
+    spa: ajolote, _Ambystoma mexicanum_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (axolotl), Espanisa (ajolote), Fransesa (axolotl), Rusisa (аксолотль
+    "aksolotl"), Doycisa (Axolotl), Portugalsa (axolote), Italisa (axolotl, assolotto),
+    Indonesisa (axolotl), Pilipinasa (aholote, axolotl), Hindisa (एक्सोलोटल "eksolotal"),
+    Niponsa (アホロートル "ahorotoru"), Turkisa (aksolotl), Vyetnamsa (axolotl), Hangusa
+    (아홀로틀 "aholotul"), Parsisa (اکسولوتل "akesolotal")
+...

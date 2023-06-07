@@ -1,0 +1,46 @@
+---
+term: jazairli
+slug: jazairli
+ipa: "d\u0361\u0292aza\u02C8i\u027Eli"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292aza\u02C8i\u027Eli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Algerian
+  epo:
+  - - "al\u011Deria"
+  spa:
+  - - argelino
+search terms:
+  glb:
+  - jazairli
+  eng:
+  - algerian
+  epo:
+  - "al\u011Deria"
+  spa:
+  - argelino
+etymology_type: DERIVD
+etymology: <a href="../lexi/Jazair">Jazair</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: 'Jazairli '
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Algerian
+    epo: "al\u011Deria"
+    spa: argelino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Jazair + -li
+...

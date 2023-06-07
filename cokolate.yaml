@@ -1,0 +1,94 @@
+---
+term: cokolate
+slug: cokolate
+ipa: t͡ʃokoˈlate
+ipa link: http://ipa-reader.xyz/?text=t͡ʃokoˈlate&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chocolate
+  epo:
+  - - ĉokolado
+  spa:
+  - - chocolate
+  deu:
+  - - Schokolade
+search terms:
+  glb:
+  - cokolate
+  eng:
+  - chocolate
+  epo:
+  - ĉokolado
+  spa:
+  - chocolate
+  deu:
+  - schokolade
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - chocolate
+  Fransesa:
+  - - chocolat
+  Doycisa:
+  - - Schokolade
+  Rusisa:
+  - - шоколад “šokolad”
+  Espanisa:
+  - - chocolate
+  Arabisa:
+  - - شُوكُولَاتَة “šukūlāta
+    - šokolāta”
+  Hindisa:
+  - - चॉकलेट “cŏkleṭ”
+    - चाकलेट “cākleṭ”
+  Telugusa:
+  - - చాకొలెట్ “cākoleṭ”
+  Parsisa:
+  - - شکلات “šokolât”
+  Turkisa:
+  - - çikolata
+  Indonesisa:
+  - - cokelat
+  Pilipinasa:
+  - - tsokolate
+  Swahilisa:
+  - - chokoleti
+  Putunhwa:
+  - - 巧克力 “qiǎokèlì”
+  Hangusa:
+  - - 초콜렛 “chokollet”
+    - 초콜릿 “chokollit”
+  Niponsa:
+  - - チョコレート “chokorēto”
+  Vyetnamsa:
+  - - sô-cô-la
+tags:
+- yamxey
+raw data:
+  term: cokolate
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chocolate
+    epo: ĉokolado
+    spa: chocolate
+    deu: Schokolade
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Englisa (chocolate), Fransesa (chocolat), Doycisa (Schokolade), Rusisa
+    (шоколад “šokolad”), Espanisa (chocolate), Arabisa (شُوكُولَاتَة “šukūlāta, šokolāta”),
+    Hindisa (चॉकलेट “cŏkleṭ”, चाकलेट “cākleṭ”), Telugusa (చాకొలెట్ “cākoleṭ”), Parsisa
+    (شکلات “šokolât”), Turkisa (çikolata), Indonesisa (cokelat), Pilipinasa (tsokolate),
+    Swahilisa (chokoleti), Putunhwa (巧克力 “qiǎokèlì”), Hangusa (초콜렛 “chokollet”, 초콜릿
+    “chokollit”), Niponsa (チョコレート “chokorēto”), Vyetnamsa (sô-cô-la)
+...

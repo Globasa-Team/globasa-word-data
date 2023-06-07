@@ -1,0 +1,54 @@
+---
+term: globabasa
+slug: globabasa
+ipa: "globa\u02C8basa"
+ipa link: "http://ipa-reader.xyz/?text=globa\u02C8basa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - world language
+    - international language
+    - worldlang
+  epo:
+  - - mondlingvo
+    - internacia lingvo
+  spa:
+  - - lengua mundial
+    - idioma internacional
+search terms:
+  glb:
+  - globabasa
+  eng:
+  - world language
+  - international language
+  - worldlang
+  epo:
+  - mondlingvo
+  - internacia lingvo
+  spa:
+  - lengua mundial
+  - idioma internacional
+etymology_type: DERIVD
+etymology: <a href="../lexi/globa">globa</a> + <a href="../lexi/basa">basa</a>
+raw data:
+  term: globabasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: world language, international language, worldlang
+    epo: mondlingvo, internacia lingvo
+    spa: lengua mundial, idioma internacional
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: globa + basa
+...

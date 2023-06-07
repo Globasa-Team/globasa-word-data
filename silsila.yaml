@@ -1,0 +1,58 @@
+---
+term: silsila
+slug: silsila
+ipa: "sil\u02C8sila"
+ipa link: "http://ipa-reader.xyz/?text=sil\u02C8sila&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chain
+  epo:
+  - - "\u0109eno"
+    - kateno
+  spa:
+  - - cadena
+search terms:
+  glb:
+  - silsila
+  eng:
+  - chain
+  epo:
+  - "\u0109eno"
+  - kateno
+  spa:
+  - cadena
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u093F\u0932\u0938\u093F\u0932\u093E \u201Csilsila\u201D"
+  Arabisa:
+  - - "\u0633\u0650\u0644\u0652\u0633\u0650\u0644\u064E\u0629 \u201Csilsila\u201D"
+  Turkisa:
+  - - silsile
+  Parsisa:
+  - - "\u0633\u0644\u0633\u0644\u0647 \u201Cselsele\u201D"
+raw data:
+  term: silsila
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chain
+    epo: "\u0109eno, kateno"
+    spa: cadena
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0938\u093F\u0932\u0938\u093F\u0932\u093E \u201Csilsila\u201D),
+    Arabisa (\u0633\u0650\u0644\u0652\u0633\u0650\u0644\u064E\u0629 \u201Csilsila\u201D),
+    Turkisa (silsile), Parsisa (\u0633\u0644\u0633\u0644\u0647 \u201Cselsele\u201D)"
+...

@@ -1,0 +1,50 @@
+---
+term: serbisa
+slug: serbisa
+ipa: "se\u027E\u02C8bisa"
+ipa link: "http://ipa-reader.xyz/?text=se\u027E\u02C8bisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Serbian (language)
+  epo:
+  - - la serba (lingvo)
+  spa:
+  - - serbio (_idioma_)
+search terms:
+  glb:
+  - serbisa
+  eng:
+  - serbian language
+  - serbian
+  epo:
+  - la serba lingvo
+  - la serba
+  spa:
+  - serbio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Serbi">Serbi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Serbisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Serbian (language)
+    epo: la serba (lingvo)
+    spa: serbio (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Serbi + -sa
+...

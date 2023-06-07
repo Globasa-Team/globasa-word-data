@@ -1,0 +1,64 @@
+---
+term: delusi
+slug: delusi
+ipa: deˈlusi
+ipa link: http://ipa-reader.xyz/?text=deˈlusi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - delusion
+  epo:
+  - - deluzio
+    - (psikopatologia) miskredo
+    - deliraĵo
+    - sintrompa iluzio
+    - falsa ideo
+  spa:
+  - - delusión
+search terms:
+  glb:
+  - delusi
+  eng:
+  - delusion
+  epo:
+  - deluzio
+  - psikopatologia miskredo
+  - miskredo
+  - deliraĵo
+  - sintrompa iluzio
+  - falsa ideo
+  spa:
+  - delusión
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - delusion
+  Portugalsa:
+  - - delusão
+  Indonesisa:
+  - - delusi
+  Turkisa:
+  - - delüzyon
+raw data:
+  term: delusi
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: delusion
+    epo: deluzio, (psikopatologia) miskredo, deliraĵo, sintrompa iluzio, falsa ideo
+    spa: delusión
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (delusion), Portugalsa (delusão), Indonesisa (delusi), Turkisa
+    (delüzyon)
+...

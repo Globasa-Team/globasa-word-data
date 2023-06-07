@@ -1,0 +1,52 @@
+---
+term: komedi
+slug: komedi
+ipa: "ko\u02C8medi"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8medi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - comedy
+  epo:
+  - - komedio
+  spa:
+  - - comedia
+search terms:
+  glb:
+  - komedi
+  eng:
+  - comedy
+  epo:
+  - komedio
+  spa:
+  - comedia
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: komedi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: comedy
+    epo: komedio
+    spa: comedia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (comedy), Espanisa (comedia), Fransesa (com\xE9die), Rusisa
+    (\u043A\u043E\u043C\u0435\u0434\u0438\u044F \u201Ckomediya\u201D), Doycisa (Kom\xF6die),
+    Indonesisa (komedi), Pilipinasa (komedya), Arabisa (\u0643\u064F\u0648\u0645\u0650\u064A\u062F\u0650\u064A\u064E\u0627
+    \u201Ckomidiya\u201D, \u0643\u064F\u0648\u0645\u0650\u064A\u062F\u0650\u064A\u064E\u0627
+    \u201Ckomediya\u201D), Niponsa (\u30B3\u30E1\u30C7\u30A3 \u201Ckomedi\u201D),
+    Turkisa (komedi), Hangusa (\uCF54\uBBF8\uB514 \u201Ckomidi\u201D), Parsisa (\u06A9\u0645\u062F\u06CC
+    \u201Ckomedi\u201D)"
+...

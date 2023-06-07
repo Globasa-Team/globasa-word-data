@@ -1,0 +1,83 @@
+---
+term: bromin
+slug: bromin
+ipa: bɾoˈmin
+ipa link: http://ipa-reader.xyz/?text=bɾoˈmin&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bromine
+  epo:
+  - - bromo
+  spa:
+  - - bromo
+    - Br
+search terms:
+  glb:
+  - bromin
+  eng:
+  - bromine
+  epo:
+  - bromo
+  spa:
+  - bromo
+  - br
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bromine “bromin”
+  Espanisa:
+  - - bromo
+  Arabisa:
+  - - بُرُوم “burum”
+  Fransesa:
+  - - brome
+  Rusisa:
+  - - бром “brom”
+  Indonesisa:
+  - - bromin
+    - brom
+  Doycisa:
+  - - Brom
+  Telugusa:
+  - - బ్రోమిన్ “bromin”
+  Turkisa:
+  - - brom
+  Hangusa:
+  - - 브롬 “burom”
+  Vyetnamsa:
+  - - brom
+  Parsisa:
+  - - برم “brom”
+  Swahilisa:
+  - - bromi
+  Pilipinasa:
+  - - bromo
+    - bromina
+tags:
+- kimikali monlari
+raw data:
+  term: bromin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bromine
+    epo: bromo
+    spa: bromo, Br
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (bromine “bromin”), Espanisa (bromo), Arabisa (بُرُوم “burum”),
+    Fransesa (brome), Rusisa (бром “brom”), Indonesisa (bromin, brom), Doycisa (Brom),
+    Telugusa (బ్రోమిన్ “bromin”), Turkisa (brom), Hangusa (브롬 “burom”), Vyetnamsa
+    (brom), Parsisa (برم “brom”), Swahilisa (bromi), Pilipinasa (bromo, bromina)
+...

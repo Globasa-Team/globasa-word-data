@@ -1,0 +1,69 @@
+---
+term: estoka
+slug: estoka
+ipa: "es\u02C8toka"
+ipa link: "http://ipa-reader.xyz/?text=es\u02C8toka&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - stock
+    - stockage
+    - inventory
+  epo:
+  - - stoko
+    - inventaro
+  spa:
+  - - inventario
+search terms:
+  glb:
+  - estoka
+  eng:
+  - stock
+  - stockage
+  - inventory
+  epo:
+  - stoko
+  - inventaro
+  spa:
+  - inventario
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - stock
+    - stockage
+  Espanisa:
+  - - stock
+  Fransesa:
+  - - stock
+  Indonesisa:
+  - - stok
+  Hindisa:
+  - - "\u0938\u094D\u091F\u093E\u0915 \"stak\""
+  Turkisa:
+  - - stok
+  Swahilisa:
+  - - stoa
+raw data:
+  term: estoka
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: stock, stockage, inventory
+    epo: stoko, inventaro
+    spa: inventario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (stock, stockage), Espanisa (stock), Fransesa (stock), Indonesisa
+    (stok), Hindisa (\u0938\u094D\u091F\u093E\u0915 \"stak\"), Turkisa (stok), Swahilisa
+    (stoa)"
+...

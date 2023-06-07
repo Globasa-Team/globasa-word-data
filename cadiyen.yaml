@@ -1,0 +1,48 @@
+---
+term: cadiyen
+slug: cadiyen
+ipa: "t\u0361\u0283adi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283adi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Chadian
+  epo:
+  - - "\u0109adiano"
+    - "\u0109adano"
+  spa:
+  - - chadiano (_persona_)
+search terms:
+  glb:
+  - cadiyen
+  eng:
+  - chadian
+  epo:
+  - "\u0109adiano"
+  - "\u0109adano"
+  spa:
+  - chadiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Cadi">Cadi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Cadiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Chadian
+    epo: "\u0109adiano, \u0109adano"
+    spa: chadiano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Cadi + -yen
+...

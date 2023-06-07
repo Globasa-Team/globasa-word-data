@@ -1,0 +1,49 @@
+---
+term: pifumedisyen
+slug: pifumedisyen
+ipa: "pifumedi\u02C8sjen"
+ipa link: "http://ipa-reader.xyz/?text=pifumedi\u02C8sjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - dermatologist
+  epo:
+  - - dermatologo
+    - "ha\u016Dtkuracisto"
+  spa:
+  - - "dermat\xF3logo"
+search terms:
+  glb:
+  - pifumedisyen
+  eng:
+  - dermatologist
+  epo:
+  - dermatologo
+  - "ha\u016Dtkuracisto"
+  spa:
+  - "dermat\xF3logo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/pifu">pifu</a> + <a href="../lexi/-medis">-medis</a> +
+  <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: pifumedisyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: dermatologist
+    epo: "dermatologo, ha\u016Dtkuracisto"
+    spa: "dermat\xF3logo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pifu + -medis + -yen
+...

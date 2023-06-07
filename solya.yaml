@@ -1,0 +1,46 @@
+---
+term: solya
+slug: solya
+ipa: "\u02C8solja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8solja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - mereness
+  epo:
+  - - nureco
+  spa:
+  - - sencillez
+search terms:
+  glb:
+  - solya
+  eng:
+  - mereness
+  epo:
+  - nureco
+  spa:
+  - sencillez
+etymology_type: DERIVD
+etymology: <a href="../lexi/sol">sol</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: solya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: mereness
+    epo: nureco
+    spa: sencillez
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sol + -ya
+...

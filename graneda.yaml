@@ -1,0 +1,66 @@
+---
+term: graneda
+slug: graneda
+ipa: gɾaˈneda
+ipa link: http://ipa-reader.xyz/?text=gɾaˈneda&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - grenade
+  epo:
+  - - grenado
+  spa:
+  - - granada (_explosiva_)
+search terms:
+  glb:
+  - graneda
+  eng:
+  - grenade
+  epo:
+  - grenado
+  spa:
+  - granada
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - grenade
+  Fransesa: ~
+  Espanisa:
+  - - granada
+  Pilipinasa: ~
+  Rusisa:
+  - - граната “granata”
+  Doycisa:
+  - - Granate
+  Indonesisa:
+  - - granat
+  Niponsa:
+  - - グレネード “gurenedo”
+  Telugusa:
+  - - గ్రెనేడ్ “grened”
+  Swahilisa:
+  - - gruneti
+raw data:
+  term: graneda
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: grenade
+    epo: grenado
+    spa: granada (_explosiva_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (grenade), Fransesa, Espanisa (granada), Pilipinasa, Rusisa (граната
+    “granata”), Doycisa (Granate), Indonesisa (granat), Niponsa (グレネード “gurenedo”),
+    Telugusa (గ్రెనేడ్ “grened”), Swahilisa (gruneti)
+...

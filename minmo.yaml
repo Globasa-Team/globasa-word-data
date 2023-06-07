@@ -1,0 +1,46 @@
+---
+term: minmo
+slug: minmo
+ipa: "\u02C8minmo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8minmo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - less (_to a lesser degree_)
+  epo:
+  - - malpli
+  spa:
+  - - menos (_a menor grado_)
+search terms:
+  glb:
+  - minmo
+  eng:
+  - less
+  epo:
+  - malpli
+  spa:
+  - menos
+etymology_type: DERIVD
+etymology: <a href="../lexi/min">min</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: minmo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: less (_to a lesser degree_)
+    epo: malpli
+    spa: menos (_a menor grado_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: min + -mo
+...

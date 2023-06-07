@@ -1,0 +1,82 @@
+---
+term: avokato
+slug: avokato
+ipa: avoˈkato
+ipa link: http://ipa-reader.xyz/?text=avoˈkato&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - avocado
+  epo:
+  - - avokado
+  spa:
+  - - aguacate
+    - palta
+    - _Persea americana_
+search terms:
+  glb:
+  - avokato
+  eng:
+  - avocado
+  epo:
+  - avokado
+  spa:
+  - aguacate
+  - palta
+  - persea americana
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - avocado
+  Fransesa:
+  - - avocat
+  Doycisa:
+  - - Avokado
+  Rusisa:
+  - - авокадо “avokado”
+  Indonesisa:
+  - - apokat
+  Pilipinasa:
+  - - abokado
+  Niponsa:
+  - - アボカド “abokado”
+  Hangusa:
+  - - 아보카도 “abokado”
+  Hindisa:
+  - - अवोकाडो “avokāḍo”
+  Telugusa:
+  - - అవకాడో “avakāḍō”
+  Arabisa:
+  - - أفوكادو “ʾafukādū”
+  Parsisa:
+  - - آووکادو “âvokâdo”
+  Turkisa:
+  - - avokado
+tags:
+- yamxey
+- fruta
+raw data:
+  term: avokato
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: avocado
+    epo: avokado
+    spa: aguacate, palta, _Persea americana_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey, fruta
+  etymology: Englisa (avocado), Fransesa (avocat), Doycisa (Avokado), Rusisa (авокадо
+    “avokado”), Indonesisa (apokat), Pilipinasa (abokado), Niponsa (アボカド “abokado”),
+    Hangusa (아보카도 “abokado”), Hindisa (अवोकाडो “avokāḍo”), Telugusa (అవకాడో “avakāḍō”),
+    Arabisa (أفوكادو “ʾafukādū”), Parsisa (آووکادو “âvokâdo”), Turkisa (avokado)
+...

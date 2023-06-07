@@ -1,0 +1,48 @@
+---
+term: unteoismo
+slug: unteoismo
+ipa: "unteo\u02C8ismo"
+ipa link: "http://ipa-reader.xyz/?text=unteo\u02C8ismo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - monotheism
+  epo:
+  - - monoteismo
+    - unudiismo
+  spa:
+  - - "monote\xEDsmo"
+search terms:
+  glb:
+  - unteoismo
+  eng:
+  - monotheism
+  epo:
+  - monoteismo
+  - unudiismo
+  spa:
+  - "monote\xEDsmo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a> + <a href="../lexi/teo">teo</a> + <a href="../lexi/-ismo">-ismo</a>
+raw data:
+  term: unteoismo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: monotheism
+    epo: monoteismo, unudiismo
+    spa: "monote\xEDsmo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un + teo + -ismo
+...

@@ -1,0 +1,60 @@
+---
+term: sola
+slug: sola
+ipa: "\u02C8sola"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sola&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Sol
+    - Sun (_in our planetary system_)
+  epo:
+  - - Suno (_en nia planeda sistemo_)
+  spa:
+  - - sol
+search terms:
+  glb:
+  - sola
+  eng:
+  - sol
+  - sun
+  epo:
+  - suno
+  spa:
+  - sol
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - solar
+    - sun
+  Swerisa:
+  - - sol
+  Espanisa:
+  - - sol
+  Fransesa:
+  - - soleil
+  Rusisa:
+  - - "\u0441\u043E\u043B\u043D\u0446\u0435 \u201Csolntse\u201D"
+raw data:
+  term: Sola
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Sol, Sun (_in our planetary system_)
+    epo: Suno (_en nia planeda sistemo_)
+    spa: sol
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (solar, sun), Swerisa (sol), Espanisa (sol), Fransesa (soleil),
+    Rusisa (\u0441\u043E\u043B\u043D\u0446\u0435 \u201Csolntse\u201D)"
+...

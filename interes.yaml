@@ -1,0 +1,52 @@
+---
+term: interes
+slug: interes
+ipa: "inte\u02C8\u027Ees"
+ipa link: "http://ipa-reader.xyz/?text=inte\u02C8\u027Ees&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - interest
+  epo:
+  - - intereso
+  - - interesi
+  spa:
+  - - "inter\xE9s"
+  - - interesar
+search terms:
+  glb:
+  - interes
+  eng:
+  - interest
+  epo:
+  - intereso
+  - interesi
+  spa:
+  - "inter\xE9s"
+  - interesar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: interes
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: interest
+    epo: intereso; interesi
+    spa: "inter\xE9s; interesar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (interest), Doycisa (Interesse), Fransesa (int\xE9r\xEAt, int\xE9resser),
+    Espanisa (inter\xE9s), Rusisa (\u0438\u043D\u0442\u0435\u0440\u0435\u0441 \u201Cinteres\u201D),
+    Turkisa (enteresan - interesne)"
+...

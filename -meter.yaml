@@ -1,0 +1,50 @@
+---
+term: -meter
+slug: -meter
+ipa: "-me\u02C8te\u027E"
+ipa link: "http://ipa-reader.xyz/?text=-me\u02C8te\u027E&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - measuring device
+    - tool
+  epo:
+  - - -mezurilo
+    - -metro
+  spa:
+  - - dispositivo para medir
+search terms:
+  glb:
+  - -meter
+  eng:
+  - measuring device
+  - tool
+  epo:
+  - -mezurilo
+  - -metro
+  spa:
+  - dispositivo para medir
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/meter">meter</a>.
+raw data:
+  term: -meter
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: measuring device, tool
+    epo: -mezurilo, -metro
+    spa: dispositivo para medir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _meter_.
+...

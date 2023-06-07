@@ -1,0 +1,49 @@
+---
+term: xafexengili
+slug: xafexengili
+ipa: "\u0283afe\u0283en\u02C8gili"
+ipa link: "http://ipa-reader.xyz/?text=\u0283afe\u0283en\u02C8gili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - postpartum
+  epo:
+  - - postnaska
+  - - postnaske
+  spa:
+  - - posparto
+search terms:
+  glb:
+  - xafexengili
+  eng:
+  - postpartum
+  epo:
+  - postnaska
+  - postnaske
+  spa:
+  - posparto
+etymology_type: DERIVD
+etymology: <a href="../lexi/xafe-">xafe-</a> + <a href="../lexi/xengi">xengi</a> +
+  <a href="../lexi/-li">-li</a>
+raw data:
+  term: xafexengili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: postpartum
+    epo: postnaska; postnaske
+    spa: posparto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xafe- + xengi + -li
+...

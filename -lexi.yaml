@@ -1,0 +1,46 @@
+---
+term: -lexi
+slug: -lexi
+ipa: "-\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8le\u0283i&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - word
+  epo:
+  - - vorto
+  spa:
+  - - palabra
+search terms:
+  glb:
+  - -lexi
+  eng:
+  - word
+  epo:
+  - vorto
+  spa:
+  - palabra
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/lexi">lexi</a>.<a href="../lexi/ "> </a>
+raw data:
+  term: -lexi
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: word
+    epo: vorto
+    spa: palabra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'Am oko _lexi_. '
+...

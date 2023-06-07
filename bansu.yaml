@@ -1,0 +1,48 @@
+---
+term: bansu
+slug: bansu
+ipa: "\u02C8bansu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8bansu&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - somebody's
+    - someone's
+  epo:
+  - - ies
+  spa:
+  - - de alguno
+search terms:
+  glb:
+  - bansu
+  eng:
+  - somebody's
+  - someone's
+  epo:
+  - ies
+  spa:
+  - de alguno
+etymology_type: DERIVD
+etymology: <a href="../lexi/ban">ban</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: bansu
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: somebody's, someone's
+    epo: ies
+    spa: de alguno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ban + -su
+...

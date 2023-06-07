@@ -1,0 +1,50 @@
+---
+term: kampuci
+slug: kampuci
+ipa: "kam\u02C8put\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=kam\u02C8put\u0361\u0283i&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Cambodia
+  epo:
+  - - "Kambo\u011Do"
+  spa:
+  - - Camboya
+search terms:
+  glb:
+  - kampuci
+  eng:
+  - cambodia
+  epo:
+  - "kambo\u011Do"
+  spa:
+  - camboya
+etymology_type: NATLNG
+etymology:
+  Kampucisa:
+  - - "\u1780\u1798\u17D2\u1796\u17BB\u1787\u17B6 \u201Ckampouchea\u201D"
+tags:
+- dexa
+raw data:
+  term: Kampuci
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Cambodia
+    epo: "Kambo\u011Do"
+    spa: Camboya
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Kampucisa (\u1780\u1798\u17D2\u1796\u17BB\u1787\u17B6 \u201Ckampouchea\u201D)"
+...

@@ -1,0 +1,50 @@
+---
+term: fobido
+slug: fobido
+ipa: "fo\u02C8bido"
+ipa link: "http://ipa-reader.xyz/?text=fo\u02C8bido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - frightened
+    - scared
+  epo:
+  - - timigita
+  - - timigite
+  spa:
+  - - asustado
+search terms:
+  glb:
+  - fobido
+  eng:
+  - frightened
+  - scared
+  epo:
+  - timigita
+  - timigite
+  spa:
+  - asustado
+etymology_type: DERIVD
+etymology: <a href="../lexi/fobi">fobi</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: fobido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: frightened, scared
+    epo: timigita; timigite
+    spa: asustado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fobi + -do
+...

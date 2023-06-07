@@ -1,0 +1,60 @@
+---
+term: pala
+slug: pala
+ipa: "\u02C8pala"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pala&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - speech
+  - - speak
+    - talk
+  epo:
+  - - parolo
+  - - paroli
+  spa:
+  - - habla
+  - - hablar
+search terms:
+  glb:
+  - pala
+  eng:
+  - speech
+  - speak
+  - talk
+  epo:
+  - parolo
+  - paroli
+  spa:
+  - habla
+  - hablar
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - parler
+  Portugalsa:
+  - - fala
+  Banglasa:
+  - - "\u09AC\u09B2\u09BE \u201Cbal\u0101\u201D"
+raw data:
+  term: pala
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: speech; speak, talk
+    epo: parolo; paroli
+    spa: habla; hablar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (parler), Portugalsa (fala), Banglasa (\u09AC\u09B2\u09BE \u201Cbal\u0101\u201D)"
+...

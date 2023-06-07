@@ -1,0 +1,58 @@
+---
+term: nentem
+slug: nentem
+ipa: "nen\u02C8tem"
+ipa link: "http://ipa-reader.xyz/?text=nen\u02C8tem&voice=Ewa"
+status: false
+category: derived
+word class: p
+trans:
+  eng:
+  - - regardless of
+    - irrespective of
+    - no matter
+  epo:
+  - - senrespekte al
+    - senkonsidere de
+    - sendepende de
+  spa:
+  - - sin importar
+    - independientemente de
+    - sin hacer caso de
+search terms:
+  glb:
+  - nentem
+  eng:
+  - regardless of
+  - irrespective of
+  - no matter
+  epo:
+  - senrespekte al
+  - senkonsidere de
+  - sendepende de
+  spa:
+  - sin importar
+  - independientemente de
+  - sin hacer caso de
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/tem">tem</a>
+raw data:
+  term: nentem
+  category: derived
+  word class: p
+  status: false
+  trans:
+    eng: regardless of, irrespective of, no matter
+    epo: senrespekte al, senkonsidere de, sendepende de
+    spa: sin importar, independientemente de, sin hacer caso de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + tem
+...

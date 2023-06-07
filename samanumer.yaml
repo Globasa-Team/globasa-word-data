@@ -1,0 +1,49 @@
+---
+term: samanumer
+slug: samanumer
+ipa: "samanu\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=samanu\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - the same number (of)
+  epo:
+  - - la sama nombro (de)
+  spa:
+  - - "mismo n\xFAmero (de)"
+search terms:
+  glb:
+  - samanumer
+  eng:
+  - the same number of
+  - the same number
+  epo:
+  - la sama nombro de
+  - la sama nombro
+  spa:
+  - "mismo n\xFAmero de"
+  - "mismo n\xFAmero"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sama">sama</a> + <a href="../lexi/numer">numer</a>
+raw data:
+  term: 'samanumer '
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: the same number (of)
+    epo: la sama nombro (de)
+    spa: "mismo n\xFAmero (de)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sama + numer
+...

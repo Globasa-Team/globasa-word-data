@@ -1,0 +1,50 @@
+---
+term: fron-
+slug: fron-
+ipa: "\u02C8f\u027Eon-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8f\u027Eon-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - forward
+    - forwards
+  epo:
+  - - "anta\u016D-"
+    - "anta\u016Den-"
+  spa:
+  - - adelante
+search terms:
+  glb:
+  - fron-
+  eng:
+  - forward
+  - forwards
+  epo:
+  - "anta\u016D-"
+  - "anta\u016Den-"
+  spa:
+  - adelante
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/fronta">fronta</a>.
+raw data:
+  term: fron-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: forward, forwards
+    epo: "anta\u016D-, anta\u016Den-"
+    spa: adelante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _fronta_.
+...

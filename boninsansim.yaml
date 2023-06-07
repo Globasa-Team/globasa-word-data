@@ -1,0 +1,53 @@
+---
+term: boninsansim
+slug: boninsansim
+ipa: "boninsan\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=boninsan\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - humane
+  - - humanely
+  epo:
+  - - humana
+  - - humane
+  spa:
+  - - humano
+  - - humanamente
+search terms:
+  glb:
+  - boninsansim
+  eng:
+  - humane
+  - humanely
+  epo:
+  - humana
+  - humane
+  spa:
+  - humano
+  - humanamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/insan">insan</a> + <a
+  href="../lexi/-sim">-sim</a>
+raw data:
+  term: boninsansim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: humane; humanely
+    epo: humana; humane
+    spa: humano; humanamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bon- + insan + -sim
+...

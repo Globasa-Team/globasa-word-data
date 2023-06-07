@@ -1,0 +1,79 @@
+---
+term: tanke
+slug: tanke
+ipa: "\u02C8tanke"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tanke&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tank (_military_)
+  epo:
+  - - tanko
+  spa:
+  - - tanque (de guerra)
+    - carro de combate
+search terms:
+  glb:
+  - tanke
+  eng:
+  - tank
+  epo:
+  - tanko
+  spa:
+  - tanque de guerra
+  - tanque
+  - carro de combate
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tank
+  Espanisa:
+  - - tanque
+  Fransesa:
+  - - tank
+  Rusisa:
+  - - "\u0442\u0430\u043D\u043A \"tank\""
+  Doycisa:
+  - - Tank
+  Indonesisa:
+  - - tank
+  Pilipinasa:
+  - - tangke
+  Putunhwa:
+  - - "\u5766\u514B \"tanke\""
+  Hindisa:
+  - - "\u091F\u0948\u0902\u0915 \"tenk\""
+  Turkisa:
+  - - tank
+  Vyetnamsa:
+  - - "xe t\u0103ng"
+  Hangusa:
+  - - "\uD0F1\uD06C \"tengku\""
+  Parsisa:
+  - - "\u062A\u0627\u0646\u06A9 \"t\xE2nk\""
+raw data:
+  term: tanke
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tank (_military_)
+    epo: tanko
+    spa: tanque (de guerra), carro de combate
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tank), Espanisa (tanque), Fransesa (tank), Rusisa (\u0442\u0430\u043D\u043A
+    \"tank\"), Doycisa (Tank), Indonesisa (tank), Pilipinasa (tangke), Putunhwa (\u5766\u514B
+    \"tanke\"), Hindisa (\u091F\u0948\u0902\u0915 \"tenk\"), Turkisa (tank), Vyetnamsa
+    (xe t\u0103ng), Hangusa (\uD0F1\uD06C \"tengku\"), Parsisa (\u062A\u0627\u0646\u06A9
+    \"t\xE2nk\")"
+...

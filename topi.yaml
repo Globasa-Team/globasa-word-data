@@ -1,0 +1,57 @@
+---
+term: topi
+slug: topi
+ipa: "\u02C8topi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8topi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hat
+    - cap
+  epo:
+  - - "\u0109apelo"
+  spa:
+  - - sombrero
+search terms:
+  glb:
+  - topi
+  eng:
+  - hat
+  - cap
+  epo:
+  - "\u0109apelo"
+  spa:
+  - sombrero
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u091F\u094B\u092A\u0940 \u201Ctopi\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C4B\u0C2A\u0C40 \u201C\u1E6C\u014Dp\u012B\u201D"
+  Indonesisa:
+  - - topi
+tags:
+- labas
+raw data:
+  term: topi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hat, cap
+    epo: "\u0109apelo"
+    spa: sombrero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Hindisa (\u091F\u094B\u092A\u0940 \u201Ctopi\u201D), Telugusa (\u0C1F\u0C4B\u0C2A\u0C40
+    \u201C\u1E6C\u014Dp\u012B\u201D), Indonesisa (topi)"
+...

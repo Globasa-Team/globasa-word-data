@@ -1,0 +1,52 @@
+---
+term: maxmo sahi
+slug: maxmo sahi
+ipa: "\u02C8ma\u0283mo \u02C8saxi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u0283mo \u02C8saxi&voice=Ewa"
+status: false
+category: phrase
+word class: t jm
+trans:
+  eng:
+  - - rather (_more accurately_)
+  epo:
+  - - "pli \u011Dusta"
+  - - "pli \u011Duste"
+  spa:
+  - - "m\xE1s bien"
+    - "m\xE1s correctamente"
+search terms:
+  glb:
+  - maxmo sahi
+  - maxmo
+  - sahi
+  eng:
+  - rather
+  epo:
+  - "pli \u011Dusta"
+  - "pli \u011Duste"
+  spa:
+  - "m\xE1s bien"
+  - "m\xE1s correctamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/max">max</a> + <a href="../lexi/-mo">-mo</a>, <a href="../lexi/sahi">sahi</a>
+raw data:
+  term: maxmo sahi
+  category: phrase
+  word class: t jm
+  status: false
+  trans:
+    eng: rather (_more accurately_)
+    epo: "pli \u011Dusta; pli \u011Duste"
+    spa: "m\xE1s bien, m\xE1s correctamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: max + -mo, sahi
+...

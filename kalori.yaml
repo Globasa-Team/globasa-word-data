@@ -1,0 +1,55 @@
+---
+term: kalori
+slug: kalori
+ipa: "ka\u02C8lo\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8lo\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - calorie
+  epo:
+  - - kalorio
+  spa:
+  - - "calor\xEDa"
+    - cal
+search terms:
+  glb:
+  - kalori
+  eng:
+  - calorie
+  epo:
+  - kalorio
+  spa:
+  - "calor\xEDa"
+  - cal
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kalori
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: calorie
+    epo: kalorio
+    spa: "calor\xEDa, cal"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (calorie), Fransesa, Espanisa (calor\xEDa), Rusisa (\u043A\u0430\u043B\u043E\u0440\u0438\u044F
+    \u201Ckaloriya\u201D), Doycisa (Kalorie), Indonesisa (kalori), Pilipinasa, Swahilisa,
+    Putunhwa (\u5361\u8DEF\u91CC \u201Ckaluli\u201D), Hindisa (\u0915\u0948\u0932\u094B\u0930\u0940
+    \u201Ckelori\u201D), Arabisa (\u0643\u064E\u0627\u0644\u064F\u0648\u0631\u0650\u064A
+    \u201Ckaluri\u201D), Niponsa (\u30AB\u30ED\u30EA\u30FC \u201Ckarori\u201D), Telugusa
+    (\u0C15\u0C46\u0C32\u0C4B\u0C30\u0C3F \u201Ckelori\u201D), Turkisa (kalori), Hangusa
+    (\uCE7C\uB85C\uB9AC \u201Ckalori\u201D), Vyetnamsa (calo), Parsisa (\u06A9\u0627\u0644\u0631\u06CC
+    \u201Ckalori\u201D)"
+...

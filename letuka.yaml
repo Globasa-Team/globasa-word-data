@@ -1,0 +1,52 @@
+---
+term: letuka
+slug: letuka
+ipa: "le\u02C8tuka"
+ipa link: "http://ipa-reader.xyz/?text=le\u02C8tuka&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lettuce
+  epo:
+  - - laktuko
+  spa:
+  - - lechuga
+    - _Lactuca sativa_
+search terms:
+  glb:
+  - letuka
+  eng:
+  - lettuce
+  epo:
+  - laktuko
+  spa:
+  - lechuga
+  - lactuca sativa
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: letuka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lettuce
+    epo: laktuko
+    spa: lechuga, _Lactuca sativa_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Espanisa (lechuga), Fransesa (laitue), Rumanisa (l\u0103ptuc\u0103),
+    Rusisa (\u043B\u0430\u0442\u0443\u043A \u201Clatuk\u201D), Englisa (lettuce),
+    Doycisa (Lattich)"
+...

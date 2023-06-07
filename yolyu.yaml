@@ -1,0 +1,70 @@
+---
+term: yolyu
+slug: yolyu
+ipa: "\u02C8jolju"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jolju&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - worry
+    - concern
+    - care
+    - preoccupation
+  - - worry
+    - care
+    - fret
+  epo:
+  - - zorgo
+  - - zorgi
+    - prizorgi
+  spa:
+  - - "preocupaci\xF3n"
+    - inquietud
+  - - preocupar
+    - preocuparse
+search terms:
+  glb:
+  - yolyu
+  eng:
+    0: worry
+    1: concern
+    2: care
+    3: preoccupation
+    6: fret
+  epo:
+  - zorgo
+  - zorgi
+  - prizorgi
+  spa:
+  - "preocupaci\xF3n"
+  - inquietud
+  - preocupar
+  - preocuparse
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5FE7\u8651 \u201Cyowlyu\u201D"
+  Niponsa:
+  - - "\u6182\u616E \u201Cyuryo\u201D"
+raw data:
+  term: yolyu
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: worry, concern, care, preoccupation; worry, care, fret
+    epo: zorgo; zorgi, prizorgi
+    spa: "preocupaci\xF3n, inquietud; preocupar, preocuparse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5FE7\u8651 \u201Cyowlyu\u201D), Niponsa (\u6182\u616E \u201Cyuryo\u201D)"
+...

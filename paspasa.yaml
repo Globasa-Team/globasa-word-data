@@ -1,0 +1,52 @@
+---
+term: paspasa
+slug: paspasa
+ipa: "pas\u02C8pasa"
+ipa link: "http://ipa-reader.xyz/?text=pas\u02C8pasa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - traverse
+    - pass through
+  epo:
+  - - trapaso
+  - - trapasi
+  spa:
+  - - pasar por
+    - atravesar
+search terms:
+  glb:
+  - paspasa
+  eng:
+  - traverse
+  - pass through
+  epo:
+  - trapaso
+  - trapasi
+  spa:
+  - pasar por
+  - atravesar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pas-">pas-</a> + <a href="../lexi/pasa">pasa</a>
+raw data:
+  term: paspasa
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: traverse, pass through
+    epo: trapaso; trapasi
+    spa: pasar por, atravesar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pas- + pasa
+...

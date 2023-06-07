@@ -1,0 +1,59 @@
+---
+term: nor
+slug: nor
+ipa: "no\u027E"
+ipa link: "http://ipa-reader.xyz/?text=no\u027E&voice=Ewa"
+status: true
+category: root
+word class: l
+trans:
+  eng:
+  - - nor
+  epo:
+  - - nek (_nek...**nek**..._)
+  spa:
+  - - ni
+search terms:
+  glb:
+  - nor
+  eng:
+  - nor
+  epo:
+  - nek
+  spa:
+  - ni
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nor
+  Doycisa:
+  - - noch
+  Espanisa:
+  - - ni
+  Fransesa:
+  - - ni
+  Rusisa:
+  - - "\u043D\u0438 \u201Cni\u201D"
+  Hindisa:
+  - - "\u0928 \u201Cna\u201D"
+raw data:
+  term: nor
+  category: root
+  word class: l
+  status: true
+  trans:
+    eng: nor
+    epo: nek (_nek...**nek**..._)
+    spa: ni
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (nor), Doycisa (noch), Espanisa (ni), Fransesa (ni), Rusisa
+    (\u043D\u0438 \u201Cni\u201D), Hindisa (\u0928 \u201Cna\u201D)"
+...

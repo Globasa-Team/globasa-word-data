@@ -1,0 +1,48 @@
+---
+term: coteya
+slug: coteya
+ipa: "t\u0361\u0283o\u02C8teja"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283o\u02C8teja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - shortness
+  epo:
+  - - malalteco
+  spa:
+  - - "peque\xF1ez"
+search terms:
+  glb:
+  - coteya
+  eng:
+  - shortness
+  epo:
+  - malalteco
+  spa:
+  - "peque\xF1ez"
+etymology_type: DERIVD
+etymology: <a href="../lexi/cote">cote</a> + <a href="../lexi/-ya">-ya</a>
+antonyms:
+- gaoya
+raw data:
+  term: coteya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: shortness
+    epo: malalteco
+    spa: "peque\xF1ez"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: gaoya
+  example: ""
+  tags: ""
+  etymology: cote + -ya
+...

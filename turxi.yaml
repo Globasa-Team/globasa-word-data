@@ -1,0 +1,77 @@
+---
+term: turxi
+slug: turxi
+ipa: "\u02C8tu\u027E\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tu\u027E\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - pickle
+    - pickled food
+  - - pickle
+    - preserve (in salt
+    - in vinegar)
+  epo:
+  - - "pekla\u0135o"
+  - - pekli
+  spa:
+  - - encurtido
+    - escabeche
+  - - encurtir
+    - avinagrar
+search terms:
+  glb:
+  - turxi
+  eng:
+    0: pickle
+    1: pickled food
+    3: preserve in salt
+    4: preserve (in salt
+    5: in vinegar
+  epo:
+  - "pekla\u0135o"
+  - pekli
+  spa:
+  - encurtido
+  - escabeche
+  - encurtir
+  - avinagrar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0637\u064F\u0631\u0652\u0634\u0650\u064A\u0651 \u201Cturxiy\u201D"
+  Turkisa:
+  - - "tur\u015Fu"
+  Parsisa:
+  - - "\u062A\u0631\u0634\u06CC \u201Ctorxi\u201D"
+  Elenisa:
+  - - "\u03C4\u03BF\u03C5\u03C1\u03C3\u03AF \u201Ctoursi\u201D"
+  Makedonisa:
+  - - "\u0442\u0443\u0440\u0448\u0438\u0458\u0430 \u201Cturxiya\u201D"
+tags:
+- yamxey
+raw data:
+  term: turxi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: pickle, pickled food; pickle, preserve (in salt, in vinegar)
+    epo: "pekla\u0135o; pekli"
+    spa: encurtido, escabeche; encurtir, avinagrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Arabisa (\u0637\u064F\u0631\u0652\u0634\u0650\u064A\u0651 \u201Cturxiy\u201D),
+    Turkisa (tur\u015Fu), Parsisa (\u062A\u0631\u0634\u06CC \u201Ctorxi\u201D), Elenisa
+    (\u03C4\u03BF\u03C5\u03C1\u03C3\u03AF \u201Ctoursi\u201D), Makedonisa (\u0442\u0443\u0440\u0448\u0438\u0458\u0430
+    \u201Cturxiya\u201D)"
+...

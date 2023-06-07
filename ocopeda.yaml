@@ -1,0 +1,60 @@
+---
+term: ocopeda
+slug: ocopeda
+ipa: "ot\u0361\u0283o\u02C8peda"
+ipa link: "http://ipa-reader.xyz/?text=ot\u0361\u0283o\u02C8peda&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - octopus
+    - _Octopoda_
+  epo:
+  - - polpo
+    - oktopiedulo
+  spa:
+  - - pulpo
+    - _Octopoda_
+  deu:
+  - - Krake
+    - Oktopus
+search terms:
+  glb:
+  - ocopeda
+  eng:
+  - octopus
+  - octopoda
+  epo:
+  - polpo
+  - oktopiedulo
+  spa:
+  - pulpo
+  - octopoda
+  deu:
+  - krake
+  - oktopus
+etymology_type: DERIVD
+etymology: <a href="../lexi/oco">oco</a> + <a href="../lexi/peda">peda</a>
+tags:
+- hewan
+raw data:
+  term: ocopeda
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: octopus, _Octopoda_
+    epo: polpo, oktopiedulo
+    spa: pulpo, _Octopoda_
+    deu: Krake, Oktopus
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: oco + peda
+...

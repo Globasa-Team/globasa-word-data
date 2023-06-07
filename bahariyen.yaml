@@ -1,0 +1,48 @@
+---
+term: bahariyen
+slug: bahariyen
+ipa: "baxa\u027Ei\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=baxa\u027Ei\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - sailor
+  epo:
+  - - maristo
+  spa:
+  - - marinero (_persona_)
+search terms:
+  glb:
+  - bahariyen
+  eng:
+  - sailor
+  epo:
+  - maristo
+  spa:
+  - marinero
+etymology_type: DERIVD
+etymology: <a href="../lexi/bahari">bahari</a> + <a href="../lexi/-yen">-yen</a>
+synonyms:
+- naviyen
+raw data:
+  term: bahariyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: sailor
+    epo: maristo
+    spa: marinero (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: naviyen
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bahari + -yen
+...

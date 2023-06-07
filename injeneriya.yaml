@@ -1,0 +1,46 @@
+---
+term: injeneriya
+slug: injeneriya
+ipa: "ind\u0361\u0292ene\u02C8\u027Eija"
+ipa link: "http://ipa-reader.xyz/?text=ind\u0361\u0292ene\u02C8\u027Eija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - engineering
+  epo:
+  - - "in\u011Denierio"
+  spa:
+  - - "ingenier\xEDa"
+search terms:
+  glb:
+  - injeneriya
+  eng:
+  - engineering
+  epo:
+  - "in\u011Denierio"
+  spa:
+  - "ingenier\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/injeneri">injeneri</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: injeneriya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: engineering
+    epo: "in\u011Denierio"
+    spa: "ingenier\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: injeneri + -ya
+...

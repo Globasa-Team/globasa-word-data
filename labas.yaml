@@ -1,0 +1,61 @@
+---
+term: labas
+slug: labas
+ipa: "la\u02C8bas"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8bas&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - clothing
+    - clothes
+  - - wear
+  epo:
+  - - vesto
+    - "vesta\u0135o"
+  - - porti
+    - surhavi
+    - "vesti\u011Di per"
+  spa:
+  - - ropa
+  - - llevar puesto
+search terms:
+  glb:
+  - labas
+  eng:
+  - clothing
+  - clothes
+  - wear
+  epo:
+  - vesto
+  - "vesta\u0135o"
+  - porti
+  - surhavi
+  - "vesti\u011Di per"
+  spa:
+  - ropa
+  - llevar puesto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: labas
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: clothing, clothes; wear
+    epo: "vesto, vesta\u0135o; porti, surhavi, vesti\u011Di per"
+    spa: ropa; llevar puesto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0644\u0628\u0633 \u201Clabas\u201D), Parsisa (\u0644\u0628\u0627\u0633
+    \u201Clabas\u201D)"
+...

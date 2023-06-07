@@ -1,0 +1,70 @@
+---
+term: bitu
+slug: bitu
+ipa: ˈbitu
+ipa link: http://ipa-reader.xyz/?text=ˈbitu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - beet
+  epo:
+  - - beto
+  spa:
+  - - remolacha
+    - betabel
+    - betarraga
+    - _Beta vulgaris_
+search terms:
+  glb:
+  - bitu
+  eng:
+  - beet
+  epo:
+  - beto
+  spa:
+  - remolacha
+  - betabel
+  - betarraga
+  - beta vulgaris
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - beet
+  Espanisa:
+  - - betabel
+  Fransesa:
+  - - beterave
+    - bette
+  Doycisa:
+  - - Bete
+  Indonesisa:
+  - - bit
+  Niponsa:
+  - - テーブルビート “teburubito”
+  Telugusa:
+  - - బీటుదుంప “bitudumpa”
+tags:
+- yamxey
+raw data:
+  term: bitu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: beet
+    epo: beto
+    spa: remolacha, betabel, betarraga, _Beta vulgaris_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Englisa (beet), Espanisa (betabel), Fransesa (beterave, bette), Doycisa
+    (Bete), Indonesisa (bit), Niponsa (テーブルビート “teburubito”), Telugusa (బీటుదుంప “bitudumpa”)
+...

@@ -1,0 +1,46 @@
+---
+term: mante
+slug: mante
+ipa: "\u02C8mante"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mante&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - he
+  epo:
+  - - li
+  spa:
+  - - "\xE9l"
+search terms:
+  glb:
+  - mante
+  eng:
+  - he
+  epo:
+  - li
+  spa:
+  - "\xE9l"
+etymology_type: DERIVD
+etymology: <a href="../lexi/man">man</a> + <a href="../lexi/te">te</a>
+raw data:
+  term: mante
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: he
+    epo: li
+    spa: "\xE9l"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man + te
+...

@@ -1,0 +1,55 @@
+---
+term: voluntirli
+slug: voluntirli
+ipa: "volun\u02C8ti\u027Eli"
+ipa link: "http://ipa-reader.xyz/?text=volun\u02C8ti\u027Eli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - voluntary
+    - voluntarily
+  epo:
+  - - volonta
+    - "la\u016Dvola"
+  - - volonta
+    - "la\u016Dvole"
+  spa:
+  - - voluntario
+  - - voluntariamente
+search terms:
+  glb:
+  - voluntirli
+  eng:
+  - voluntary
+  - voluntarily
+  epo:
+    0: volonta
+    1: "la\u016Dvola"
+    3: "la\u016Dvole"
+  spa:
+  - voluntario
+  - voluntariamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/voluntir">voluntir</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: voluntirli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: voluntary, voluntarily
+    epo: "volonta, la\u016Dvola; volonta, la\u016Dvole"
+    spa: voluntario; voluntariamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: voluntir + -li
+...

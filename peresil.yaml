@@ -1,0 +1,68 @@
+---
+term: peresil
+slug: peresil
+ipa: "pe\u027Ee\u02C8sil"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027Ee\u02C8sil&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - parsley
+  epo:
+  - - petroselo
+  spa:
+  - - perejil
+    - _Petroselinum crispum_
+search terms:
+  glb:
+  - peresil
+  eng:
+  - parsley
+  epo:
+  - petroselo
+  spa:
+  - perejil
+  - petroselinum crispum
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - parsley
+  Espanisa:
+  - - perejil
+  Fransesa:
+  - - persil
+  Doycisa:
+  - - Petersilie
+  Indonesisa:
+  - - peterseli
+  Pilipinasa:
+  - - perehil
+  Niponsa:
+  - - "\u30D1\u30BB\u30EA \"paseri\""
+  Hangusa:
+  - - "\uD30C\uC2AC\uB9AC \"paselli\""
+tags:
+- yamxey
+raw data:
+  term: peresil
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: 'parsley '
+    epo: petroselo
+    spa: perejil, _Petroselinum crispum_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (parsley), Espanisa (perejil), Fransesa (persil), Doycisa (Petersilie),
+    Indonesisa (peterseli), Pilipinasa (perehil), Niponsa (\u30D1\u30BB\u30EA \"paseri\")
+    Hangusa (\uD30C\uC2AC\uB9AC \"paselli\")"
+...

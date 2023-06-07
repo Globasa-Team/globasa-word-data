@@ -1,0 +1,80 @@
+---
+term: rewmati
+slug: rewmati
+ipa: "\u027Eew\u02C8mati"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eew\u02C8mati&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rheumatism
+    - rheum
+  epo:
+  - - "re\u016Dmatismo"
+  spa:
+  - - reumatismo
+    - reuma
+search terms:
+  glb:
+  - rewmati
+  eng:
+  - rheumatism
+  - rheum
+  epo:
+  - "re\u016Dmatismo"
+  spa:
+  - reumatismo
+  - reuma
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rheumatism
+  Espanisa:
+  - - reumatismo
+  Fransesa:
+  - - rhumatisme
+  Rusisa:
+  - - "\u0440\u0435\u0432\u043C\u0430\u0442\u0438\u0437\u043C \"revmatizm\""
+  Doycisa:
+  - - Rheuma
+    - Rheumatismus
+  Indonesisa:
+  - - rematik
+  Pilipinasa:
+  - - rayuma
+    - reuma
+  Niponsa:
+  - - "\u30EA\u30A6\u30DE\u30C1 \"riumaci\""
+    - "\u30EA\u30E5\u30FC\u30DE\u30C1 \"ryumaci\""
+  Turkisa:
+  - - romatizma
+  Hangusa:
+  - - "\uB958\uBA38\uD2F0\uC998 \"ryumotijum\""
+  Parsisa:
+  - - "\u0631\u0648\u0645\u0627\u062A\u064A\u0633\u0645 \"rum\xE2tism\""
+raw data:
+  term: rewmati
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rheumatism, rheum
+    epo: "re\u016Dmatismo"
+    spa: reumatismo, reuma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (rheumatism), Espanisa (reumatismo), Fransesa (rhumatisme),
+    Rusisa (\u0440\u0435\u0432\u043C\u0430\u0442\u0438\u0437\u043C \"revmatizm\"),
+    Doycisa (Rheuma, Rheumatismus), Indonesisa (rematik), Pilipinasa (rayuma, reuma),
+    Niponsa (\u30EA\u30A6\u30DE\u30C1 \"riumaci\", \u30EA\u30E5\u30FC\u30DE\u30C1
+    \"ryumaci\"), Turkisa (romatizma), Hangusa (\uB958\uBA38\uD2F0\uC998 \"ryumotijum\"),
+    Parsisa (\u0631\u0648\u0645\u0627\u062A\u064A\u0633\u0645 \"rum\xE2tism\")"
+...

@@ -1,0 +1,53 @@
+---
+term: xani
+slug: xani
+ipa: "\u02C8\u0283ani"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283ani&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Saturn (_planet_)
+  epo:
+  - - Saturno (_planedo_)
+  spa:
+  - - Saturno (_planeta_)
+search terms:
+  glb:
+  - xani
+  eng:
+  - saturn
+  epo:
+  - saturno
+  spa:
+  - saturno
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0936\u0928\u093F \u201C\u015Bani\u201D"
+  Telugusa:
+  - - "\u0C36\u0C28\u0C3F \u201C\u015Bani\u201D"
+tags:
+- planeta
+raw data:
+  term: Xani
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Saturn (_planet_)
+    epo: Saturno (_planedo_)
+    spa: Saturno (_planeta_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planeta
+  etymology: "Hindisa (\u0936\u0928\u093F \u201C\u015Bani\u201D), Telugusa (\u0C36\u0C28\u0C3F
+    \u201C\u015Bani\u201D)"
+...

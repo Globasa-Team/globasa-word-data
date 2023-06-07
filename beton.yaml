@@ -1,0 +1,70 @@
+---
+term: beton
+slug: beton
+ipa: beˈton
+ipa link: http://ipa-reader.xyz/?text=beˈton&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - concrete (_material_)
+  epo:
+  - - betono
+  spa:
+  - - hormigón
+    - concreto
+search terms:
+  glb:
+  - beton
+  eng:
+  - concrete
+  epo:
+  - betono
+  spa:
+  - hormigón
+  - concreto
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - béton
+  Rusisa:
+  - - бетон “beton”
+  Doycisa:
+  - - Beton
+  Portugalsa:
+  - - betão
+  Italisa:
+  - - beton
+  Indonesisa:
+  - - beton
+  Putunhwa:
+  - - 砼 “tong”
+  Turkisa:
+  - - beton
+  Vyetnamsa:
+  - - bê tông
+  Parsisa:
+  - - بتن “beton”
+raw data:
+  term: beton
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: concrete (_material_)
+    epo: betono
+    spa: hormigón, concreto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Fransesa (béton), Rusisa (бетон “beton”), Doycisa (Beton), Portugalsa
+    (betão), Italisa (beton), Indonesisa (beton), Putunhwa (砼 “tong”), Turkisa (beton),
+    Vyetnamsa (bê tông), Parsisa (بتن “beton”)
+...

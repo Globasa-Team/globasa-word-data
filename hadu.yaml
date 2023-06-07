@@ -1,0 +1,56 @@
+---
+term: hadu
+slug: hadu
+ipa: ˈxadu
+ipa link: http://ipa-reader.xyz/?text=ˈxadu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cheek
+  epo:
+  - - vango
+  spa:
+  - - mejilla
+    - cachete
+search terms:
+  glb:
+  - hadu
+  eng:
+  - cheek
+  epo:
+  - vango
+  spa:
+  - mejilla
+  - cachete
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - خد “khadd”
+  Osmanili Turkisa:
+  - - خد “hadd”
+  Maltasa:
+  - - ħadd
+tags:
+- jismulogi
+raw data:
+  term: hadu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cheek
+    epo: vango
+    spa: mejilla, cachete
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Arabisa (خد “khadd”), Osmanili Turkisa (خد “hadd”), Maltasa (ħadd)
+...

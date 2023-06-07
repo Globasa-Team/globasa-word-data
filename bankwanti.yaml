@@ -1,0 +1,56 @@
+---
+term: bankwanti
+slug: bankwanti
+ipa: "ban\u02C8kwanti"
+ipa link: "http://ipa-reader.xyz/?text=ban\u02C8kwanti&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - some amount (of)
+    - some quantify (of)
+    - some
+    - a bit (of)
+  epo:
+  - - iom
+  spa:
+  - - alguna cantidad de
+search terms:
+  glb:
+  - bankwanti
+  eng:
+  - some amount of
+  - some amount
+  - some quantify of
+  - some quantify
+  - some
+  - a bit of
+  - a bit
+  epo:
+  - iom
+  spa:
+  - alguna cantidad de
+etymology_type: DERIVD
+etymology: <a href="../lexi/ban">ban</a> + <a href="../lexi/kwanti">kwanti</a>
+raw data:
+  term: 'bankwanti '
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: some amount (of), some quantify (of), some, a bit (of)
+    epo: iom
+    spa: alguna cantidad de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: some amount, some amount of, some quantity, some quantity of,
+    some, bit, a bit, a bit of
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ban + kwanti
+...

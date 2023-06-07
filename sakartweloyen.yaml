@@ -1,0 +1,47 @@
+---
+term: sakartweloyen
+slug: sakartweloyen
+ipa: "saka\u027Etwelo\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=saka\u027Etwelo\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Georgian (person)
+  epo:
+  - - kartvelo
+  spa:
+  - - georgiano (_persona_)
+search terms:
+  glb:
+  - sakartweloyen
+  eng:
+  - georgian person
+  - georgian
+  epo:
+  - kartvelo
+  spa:
+  - georgiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Sakartwelo">Sakartwelo</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Sakartweloyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Georgian (person)
+    epo: kartvelo
+    spa: georgiano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Sakartwelo + -yen
+...

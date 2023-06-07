@@ -1,0 +1,58 @@
+---
+term: mamutu
+slug: mamutu
+ipa: "ma\u02C8mutu"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8mutu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mammoth
+    - _Mammuthus_
+  epo:
+  - - mamuto
+  spa:
+  - - mamut
+    - _Mammuthus_
+search terms:
+  glb:
+  - mamutu
+  eng:
+  - mammoth
+  - mammuthus
+  epo:
+  - mamuto
+  spa:
+  - mamut
+  - mammuthus
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: mamutu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mammoth, _Mammuthus_
+    epo: mamuto
+    spa: mamut, _Mammuthus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (mammoth), Espanisa (mamut), Fransesa (mammouth), Rusisa (\u043C\u0430\u043C\u043E\u043D\u0442
+    \"mamont\"), Doycisa (Mammut), Indonesisa (mamut), Pilipinasa (mamot), Putunhwa
+    (\u731B\u72B8 \"mengma\"), Arabisa (\u0645\u064E\u0627\u0645\u064F\u0648\u062B
+    \"mamu\u1E6F\"), Niponsa (\u30DE\u30F3\u30E2\u30B9 \"mammosu\"), Karnatakasa (\u0CAE\u0CCD\u0CAF\u0CBE\u0CAE\u0CA4\u0CCD
+    \"myamut\"), Tamilsa (\u0BAE\u0BBE\u0BAE\u0BC2\u0BA4\u0BCD \"mamut\"), Turkisa
+    (mamut), Vyetnamsa (ma m\xFAt), Hangusa (\uB9E4\uBA38\uB4DC \"memodu\"), Parsisa
+    (\u0645\u0627\u0645\u0648\u062A \"m\xE2mut\")"
+...

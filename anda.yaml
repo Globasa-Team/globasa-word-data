@@ -1,0 +1,63 @@
+---
+term: anda
+slug: anda
+ipa: ˈanda
+ipa link: http://ipa-reader.xyz/?text=ˈanda&voice=Ewa
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - walk
+  epo:
+  - - marŝo
+    - piediro
+  - - marŝi
+    - piediri
+  spa:
+  - - caminata
+  - - caminar
+    - andar
+search terms:
+  glb:
+  - anda
+  eng:
+  - walk
+  epo:
+  - marŝo
+  - piediro
+  - marŝi
+  - piediri
+  spa:
+  - caminata
+  - caminar
+  - andar
+etymology_type: NATLNG
+etymology:
+  Portugalsa:
+  - - anda
+  Espanisa:
+  - - anda
+  Swahilisa:
+  - - -enda
+    - -anda
+raw data:
+  term: anda
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: walk
+    epo: marŝo, piediro; marŝi, piediri
+    spa: caminata; caminar, andar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Portugalsa (anda), Espanisa (anda), Swahilisa (-enda, -anda)
+...

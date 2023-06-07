@@ -1,0 +1,52 @@
+---
+term: doste ci
+slug: doste ci
+ipa: "\u02C8doste t\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8doste t\u0361\u0283i&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - buddy
+    - pal
+  epo:
+  - - "ami\u0109jo"
+    - aminjo
+  spa:
+  - - "compa\xF1ero"
+search terms:
+  glb:
+  - doste ci
+  - doste
+  - ci
+  eng:
+  - buddy
+  - pal
+  epo:
+  - "ami\u0109jo"
+  - aminjo
+  spa:
+  - "compa\xF1ero"
+etymology_type: DERIVD
+etymology: <a href="../lexi/doste">doste</a> + <a href="../lexi/ci">ci</a>
+raw data:
+  term: doste ci
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: buddy, pal
+    epo: "ami\u0109jo, aminjo"
+    spa: "compa\xF1ero"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: doste + ci
+...

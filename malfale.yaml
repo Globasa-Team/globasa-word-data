@@ -1,0 +1,50 @@
+---
+term: malfale
+slug: malfale
+ipa: "mal\u02C8fale"
+ipa link: "http://ipa-reader.xyz/?text=mal\u02C8fale&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - misdeed
+  epo:
+  - - misfaro
+  - - misfari
+  spa:
+  - - "fechor\xEDa"
+    - "felon\xEDa"
+search terms:
+  glb:
+  - malfale
+  eng:
+  - misdeed
+  epo:
+  - misfaro
+  - misfari
+  spa:
+  - "fechor\xEDa"
+  - "felon\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal-">mal-</a> + <a href="../lexi/fale">fale</a>
+raw data:
+  term: malfale
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: misdeed
+    epo: misfaro; misfari
+    spa: "fechor\xEDa, felon\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal- + fale
+...

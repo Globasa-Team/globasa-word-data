@@ -1,0 +1,58 @@
+---
+term: puto
+slug: puto
+ipa: "\u02C8puto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8puto&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - grape
+  epo:
+  - - vinbero
+  spa:
+  - - uva
+    - _Vitis_
+search terms:
+  glb:
+  - puto
+  eng:
+  - grape
+  epo:
+  - vinbero
+  spa:
+  - uva
+  - vitis
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u8461\u8404 \u201Cp\xFAt\xE1o\u201D"
+  Niponsa:
+  - - "\u8461\u8404 \u201Cbud\u014D\u201D"
+  Hangusa:
+  - - "\uD3EC\uB3C4 \u201Cpodo\u201D"
+tags:
+- fruta
+- yamxey
+raw data:
+  term: puto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: grape
+    epo: vinbero
+    spa: uva, _Vitis_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Putunhwa (\u8461\u8404 \u201Cp\xFAt\xE1o\u201D), Niponsa (\u8461\u8404
+    \u201Cbud\u014D\u201D), Hangusa (\uD3EC\uB3C4 \u201Cpodo\u201D)"
+...

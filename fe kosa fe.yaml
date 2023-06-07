@@ -1,0 +1,56 @@
+---
+term: fe kosa fe
+slug: fe kosa fe
+ipa: "fe \u02C8kosa fe"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8kosa fe&voice=Ewa"
+status: false
+category: phrase
+word class: p
+trans:
+  eng:
+  - - because of
+    - due to
+  epo:
+  - - pro
+    - "ka\u016Dze de"
+  spa:
+  - - por
+    - a causa de
+search terms:
+  glb:
+  - fe kosa fe
+  - fe
+  - kosa
+  eng:
+  - because of
+  - due to
+  epo:
+  - pro
+  - "ka\u016Dze de"
+  spa:
+  - por
+  - a causa de
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/kosa">kosa</a>, <a href="../lexi/fe">fe</a>
+synonyms:
+- kos
+raw data:
+  term: fe kosa fe
+  category: phrase
+  word class: p
+  status: false
+  trans:
+    eng: because of, due to
+    epo: "pro, ka\u016Dze de"
+    spa: por, a causa de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: kos
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, kosa, fe
+...

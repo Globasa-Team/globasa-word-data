@@ -1,0 +1,58 @@
+---
+term: finsen
+slug: finsen
+ipa: "fin\u02C8sen"
+ipa link: "http://ipa-reader.xyz/?text=fin\u02C8sen&voice=Ewa"
+status: false
+category: derived
+word class: n/f.lin
+trans:
+  eng:
+  - - end up being
+    - turn out to be
+    - prove
+  epo:
+  - - "montri\u011Di esti"
+    - rezulti esti
+    - "evidenti\u011Di esti"
+    - fine esti
+  spa:
+  - - resultar
+    - resultar ser
+search terms:
+  glb:
+  - finsen
+  eng:
+  - end up being
+  - turn out to be
+  - prove
+  epo:
+  - "montri\u011Di esti"
+  - rezulti esti
+  - "evidenti\u011Di esti"
+  - fine esti
+  spa:
+  - resultar
+  - resultar ser
+etymology_type: DERIVD
+etymology: <a href="../lexi/fin-">fin-</a> + <a href="../lexi/sen">sen</a>
+raw data:
+  term: finsen
+  category: derived
+  word class: n/f.lin
+  status: false
+  trans:
+    eng: end up being, turn out to be, prove
+    epo: "montri\u011Di esti, rezulti esti, evidenti\u011Di esti, fine esti"
+    spa: resultar, resultar ser
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fin- + sen
+...

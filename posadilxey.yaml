@@ -1,0 +1,49 @@
+---
+term: posadilxey
+slug: posadilxey
+ipa: "posadil\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=posadil\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - injustice
+    - injustices
+  epo:
+  - - "maljusta\u0135o"
+  spa:
+  - - injusticia
+search terms:
+  glb:
+  - posadilxey
+  eng:
+  - injustice
+  - injustices
+  epo:
+  - "maljusta\u0135o"
+  spa:
+  - injusticia
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/adil">adil</a> + <a
+  href="../lexi/-xey">-xey</a>
+raw data:
+  term: posadilxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: injustice, injustices
+    epo: "maljusta\u0135o"
+    spa: injusticia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + adil + -xey
+...

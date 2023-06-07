@@ -1,0 +1,81 @@
+---
+term: esto
+slug: esto
+ipa: ˈesto
+ipa link: http://ipa-reader.xyz/?text=ˈesto&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - stop (_come or bring to a stop_)
+    - halt (_come or bring to a halt_)
+    - cease
+  epo:
+  - - ĉeso
+    - halto
+  - - ĉesi(gi)
+    - halti(gi)
+  spa:
+  - - parada
+  - - detener
+    - detenerse
+    - parar
+    - cesar
+search terms:
+  glb:
+  - esto
+  eng:
+  - stop
+  - halt
+  - cease
+  epo:
+  - ĉeso
+  - halto
+  - ĉesigi
+  - ĉesi
+  - haltigi
+  - halti
+  spa:
+  - parada
+  - detener
+  - detenerse
+  - parar
+  - cesar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - stop
+  Spanish:
+  - - stop
+  French:
+  - - stop
+  Rusisa:
+  - - стоп “stop”
+  Doycisa:
+  - - stoppen
+  Parsisa:
+  - - ایست “ist”
+  Magribili Arabisa:
+  - - سطوب “stup”
+raw data:
+  term: esto
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: stop (_come or bring to a stop_), halt (_come or bring to a halt_), cease
+    epo: ĉeso, halto; ĉesi(gi), halti(gi)
+    spa: parada; detener, detenerse, parar, cesar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (stop), Spanish (stop), French (stop), Rusisa (стоп “stop”),
+    Doycisa (stoppen), Parsisa (ایست “ist”), Magribili Arabisa (سطوب “stup”)
+...

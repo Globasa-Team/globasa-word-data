@@ -1,0 +1,48 @@
+---
+term: xetoya
+slug: xetoya
+ipa: "\u0283e\u02C8toja"
+ipa link: "http://ipa-reader.xyz/?text=\u0283e\u02C8toja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (sense of) taste
+  epo:
+  - - gustumo
+  spa:
+  - - (sentido del) gusto
+search terms:
+  glb:
+  - xetoya
+  eng:
+  - sense of taste
+  - taste
+  epo:
+  - gustumo
+  spa:
+  - sentido del gusto
+  - gusto
+etymology_type: DERIVD
+etymology: <a href="../lexi/xeto">xeto</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: xetoya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (sense of) taste
+    epo: gustumo
+    spa: (sentido del) gusto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xeto + -ya
+...

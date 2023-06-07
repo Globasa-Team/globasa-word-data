@@ -1,0 +1,58 @@
+---
+term: limon
+slug: limon
+ipa: "li\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=li\u02C8mon&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lemon
+  epo:
+  - - limono
+    - citrono
+  spa:
+  - - "lim\xF3n (amarillo)"
+    - _Citrus limon_
+search terms:
+  glb:
+  - limon
+  eng:
+  - lemon
+  epo:
+  - limono
+  - citrono
+  spa:
+  - "lim\xF3n amarillo"
+  - "lim\xF3n"
+  - citrus limon
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- fruta
+- yamxey
+raw data:
+  term: limon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lemon
+    epo: limono, citrono
+    spa: "lim\xF3n (amarillo), _Citrus limon_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Englisa (lemon), Rusisa (\u043B\u0438\u043C\u043E\u043D \u201Climon\u201D),
+    Espanisa (lim\xF3n), Indonesisa (lemon, limun), Pilipinasa (limon), Niponsa (\u30EC\u30E2\u30F3
+    \u201Cremon\u201D), Hangusa (\uB808\uBAAC \u201Cremon\u201D), Arabisa (\u0644\u064A\u0645\u0648\u0646
+    \u201Claym\u016Bn\u201D), Swahilisa (limau), Parsisa (\u0644\u06CC\u0645\u0648\u0646\u200E
+    \u201Climun\u201D), Turkisa (limon)"
+...

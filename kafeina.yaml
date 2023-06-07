@@ -1,0 +1,46 @@
+---
+term: kafeina
+slug: kafeina
+ipa: "kafe\u02C8ina"
+ipa link: "http://ipa-reader.xyz/?text=kafe\u02C8ina&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - caffeine
+  epo:
+  - - kafeino
+  spa:
+  - - "cafe\xEDna"
+search terms:
+  glb:
+  - kafeina
+  eng:
+  - caffeine
+  epo:
+  - kafeino
+  spa:
+  - "cafe\xEDna"
+etymology_type: DERIVD
+etymology: <a href="../lexi/kafe">kafe</a> + <a href="../lexi/-ina">-ina</a>
+raw data:
+  term: kafeina
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: caffeine
+    epo: kafeino
+    spa: "cafe\xEDna"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kafe + -ina
+...

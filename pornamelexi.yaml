@@ -1,0 +1,47 @@
+---
+term: pornamelexi
+slug: pornamelexi
+ipa: "po\u027Ename\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=po\u027Ename\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pronoun
+  epo:
+  - - pronomo
+  spa:
+  - - pronombre
+search terms:
+  glb:
+  - pornamelexi
+  eng:
+  - pronoun
+  epo:
+  - pronomo
+  spa:
+  - pronombre
+etymology_type: DERIVD
+etymology: <a href="../lexi/por-">por-</a> + <a href="../lexi/name">name</a> + <a
+  href="../lexi/-lexi">-lexi</a>
+raw data:
+  term: pornamelexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pronoun
+    epo: pronomo
+    spa: pronombre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: por- + name + -lexi
+...

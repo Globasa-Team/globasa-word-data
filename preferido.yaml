@@ -1,0 +1,52 @@
+---
+term: preferido
+slug: preferido
+ipa: "p\u027Eefe\u02C8\u027Eido"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eefe\u02C8\u027Eido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - favorite
+  epo:
+  - - "\u015Datata"
+    - perferata
+  - - "\u015Datate"
+    - preferate
+  spa:
+  - - favorito
+search terms:
+  glb:
+  - preferido
+  eng:
+  - favorite
+  epo:
+  - "\u015Datata"
+  - perferata
+  - "\u015Datate"
+  - preferate
+  spa:
+  - favorito
+etymology_type: DERIVD
+etymology: <a href="../lexi/preferi">preferi</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: preferido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: favorite
+    epo: "\u015Datata, perferata; \u015Datate, preferate"
+    spa: favorito
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: preferi + -do
+...

@@ -1,0 +1,64 @@
+---
+term: armoni
+slug: armoni
+ipa: aɾˈmoni
+ipa link: http://ipa-reader.xyz/?text=aɾˈmoni&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - harmony
+  epo:
+  - - harmonio
+  spa:
+  - - armonía
+search terms:
+  glb:
+  - armoni
+  eng:
+  - harmony
+  epo:
+  - harmonio
+  spa:
+  - armonía
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Harmonie
+  Englisa:
+  - - harmony
+  Espanisa:
+  - - armonía
+  Fransesa:
+  - - harmonie
+  Rusisa:
+  - - гармония “garmoniya”
+  Indonesisa:
+  - - harmoni
+  Turkisa:
+  - - armoni
+  Pilipinasa:
+  - - armonya
+raw data:
+  term: armoni
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: harmony
+    epo: harmonio
+    spa: armonía
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Harmonie), Englisa (harmony), Espanisa (armonía), Fransesa (harmonie),
+    Rusisa (гармония “garmoniya”), Indonesisa (harmoni), Turkisa (armoni), Pilipinasa
+    (armonya)
+...

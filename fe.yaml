@@ -1,0 +1,98 @@
+---
+term: fe
+slug: fe
+ipa: fe
+ipa link: http://ipa-reader.xyz/?text=fe&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - at (_time or place_)
+    - in (_time_)
+    - for (_for the first time
+    - etc._)
+    - of (_relating to
+    - number
+    - quantity
+    - amount_)
+  epo:
+  - - je
+    - en (tempo aŭ loko)
+    - por (por la unua fojo
+    - ktp)
+    - da... (Indikas rilaton kun la substantivo post ĝi. Simila al “-li” pri la substantivo
+      antaŭ ĝi.)
+  spa:
+  - - en (un lugar)
+    - a (una hora)
+    - por (_por primera vez
+    - etc._)
+    - de (_relación
+    - número
+    - cantidad_)
+search terms:
+  glb:
+  - fe
+  eng:
+  - at
+  - in
+  - for for the first time
+  - for (_for the first time
+  - etc.
+  - of relating to
+  - of (_relating to
+  - number
+  - quantity
+  - amount
+  epo:
+  - je
+  - en tempo aŭ loko
+  - en
+  - por por la unua fojo
+  - por (por la unua fojo
+  - ktp
+  - da... indikas rilaton kun la substantivo post ĝi. simila al “-li” pri la substantivo
+    antaŭ ĝi.
+  - da...
+  spa:
+  - en un lugar
+  - en
+  - a una hora
+  - a
+  - por por primera vez
+  - por (_por primera vez
+  - etc.
+  - de relación
+  - de (_relación
+  - número
+  - cantidad
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - في “fi”
+  Rusisa:
+  - - в “v/f”
+raw data:
+  term: fe
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: at (_time or place_), in (_time_), for (_for the first time, etc._), of (_relating
+      to, number, quantity, amount_)
+    epo: je, en (tempo aŭ loko), por (por la unua fojo, ktp), da... (Indikas rilaton
+      kun la substantivo post ĝi. Simila al “-li” pri la substantivo antaŭ ĝi.)
+    spa: en (un lugar), a (una hora), por (_por primera vez, etc._), de (_relación,
+      número, cantidad_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (في “fi”), Rusisa (в “v/f”)
+...

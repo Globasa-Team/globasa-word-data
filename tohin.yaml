@@ -1,0 +1,57 @@
+---
+term: tohin
+slug: tohin
+ipa: "to\u02C8xin"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8xin&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - insult
+  epo:
+  - - insutlto
+  - - insulti
+  spa:
+  - - insulto
+  - - insultar
+search terms:
+  glb:
+  - tohin
+  eng:
+  - insult
+  epo:
+  - insutlto
+  - insulti
+  spa:
+  - insulto
+  - insultar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0924\u094C\u0939\u0940\u0928 \"tauhin\""
+  Arabisa:
+  - - "\u062A\u064E\u0648\u0652\u0647\u0650\u064A\u0646 \"tawhin\""
+  Parsisa:
+  - - "\u062A\u0648\u0647\u06CC\u0646 \"tohin\""
+raw data:
+  term: tohin
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: insult
+    epo: insutlto; insulti
+    spa: insulto; insultar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0924\u094C\u0939\u0940\u0928 \"tauhin\"), Arabisa (\u062A\u064E\u0648\u0652\u0647\u0650\u064A\u0646
+    \"tawhin\"), Parsisa (\u062A\u0648\u0647\u06CC\u0646 \"tohin\")"
+...

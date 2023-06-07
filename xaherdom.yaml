@@ -1,0 +1,48 @@
+---
+term: xaherdom
+slug: xaherdom
+ipa: "\u0283axe\u027E\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=\u0283axe\u027E\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - town hall
+    - city hall
+  epo:
+  - - urbodomo
+  spa:
+  - - ayuntamiento
+search terms:
+  glb:
+  - xaherdom
+  eng:
+  - town hall
+  - city hall
+  epo:
+  - urbodomo
+  spa:
+  - ayuntamiento
+etymology_type: DERIVD
+etymology: <a href="../lexi/xaher">xaher</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: xaherdom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: town hall, city hall
+    epo: urbodomo
+    spa: ayuntamiento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xaher + -dom
+...

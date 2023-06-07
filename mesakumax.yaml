@@ -1,0 +1,46 @@
+---
+term: mesakumax
+slug: mesakumax
+ipa: "mesaku\u02C8ma\u0283"
+ipa link: "http://ipa-reader.xyz/?text=mesaku\u02C8ma\u0283&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - tablecloth
+  epo:
+  - - tablotuko
+  spa:
+  - - mantel
+search terms:
+  glb:
+  - mesakumax
+  eng:
+  - tablecloth
+  epo:
+  - tablotuko
+  spa:
+  - mantel
+etymology_type: DERIVD
+etymology: <a href="../lexi/mesa">mesa</a> + <a href="../lexi/-kumax">-kumax</a>
+raw data:
+  term: mesakumax
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: tablecloth
+    epo: tablotuko
+    spa: mantel
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mesa + -kumax
+...

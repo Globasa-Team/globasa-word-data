@@ -1,0 +1,47 @@
+---
+term: daydenkwanti
+slug: daydenkwanti
+ipa: "dajden\u02C8kwanti"
+ipa link: "http://ipa-reader.xyz/?text=dajden\u02C8kwanti&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - so much
+  epo:
+  - - tiom (da)
+  spa:
+  - - tanto
+search terms:
+  glb:
+  - daydenkwanti
+  eng:
+  - so much
+  epo:
+  - tiom da
+  - tiom
+  spa:
+  - tanto
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/den">den</a> + <a href="../lexi/kwanti">kwanti</a>
+raw data:
+  term: daydenkwanti
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: so much
+    epo: tiom (da)
+    spa: tanto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + den + kwanti
+...

@@ -1,0 +1,67 @@
+---
+term: estudi
+slug: estudi
+ipa: esˈtudi
+ipa link: http://ipa-reader.xyz/?text=esˈtudi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - study
+  epo:
+  - - studo
+  - - studi
+  spa:
+  - - estudio
+  - - estudiar
+search terms:
+  glb:
+  - estudi
+  eng:
+  - study
+  epo:
+  - studo
+  - studi
+  spa:
+  - estudio
+  - estudiar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - study
+  Fransesa:
+  - - étudier
+  Doycisa:
+  - - studieren
+  Rusisa:
+  - - студент “student”
+  Espanisa:
+  - - estudiar
+  Hindisa:
+  - - स्टूडेंट “student”
+  Pilipinasa:
+  - - estudyante
+tags:
+- eskolya
+raw data:
+  term: estudi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: study
+    epo: studo; studi
+    spa: estudio; estudiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: eskolya
+  etymology: Englisa (study), Fransesa (étudier), Doycisa (studieren), Rusisa (студент
+    “student”), Espanisa (estudiar), Hindisa (स्टूडेंट “student”) Pilipinasa (estudyante)
+...

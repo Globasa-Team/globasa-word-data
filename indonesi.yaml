@@ -1,0 +1,50 @@
+---
+term: indonesi
+slug: indonesi
+ipa: "indo\u02C8nesi"
+ipa link: "http://ipa-reader.xyz/?text=indo\u02C8nesi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Indonesia
+  epo:
+  - - Indonezio
+  spa:
+  - - Indonesia
+search terms:
+  glb:
+  - indonesi
+  eng:
+  - indonesia
+  epo:
+  - indonezio
+  spa:
+  - indonesia
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - Indonesia
+tags:
+- dexa
+raw data:
+  term: Indonesi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Indonesia
+    epo: Indonezio
+    spa: Indonesia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Indonesisa (Indonesia)
+...

@@ -1,0 +1,51 @@
+---
+term: daykwantipul
+slug: daykwantipul
+ipa: "dajkwanti\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=dajkwanti\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - abundant
+    - plentiful
+  epo:
+  - - abunda
+  - - abunde
+  spa:
+  - - abundante
+search terms:
+  glb:
+  - daykwantipul
+  eng:
+  - abundant
+  - plentiful
+  epo:
+  - abunda
+  - abunde
+  spa:
+  - abundante
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/kwanti">kwanti</a> +
+  <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: daykwantipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: abundant, plentiful
+    epo: abunda; abunde
+    spa: abundante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + kwanti + -pul
+...

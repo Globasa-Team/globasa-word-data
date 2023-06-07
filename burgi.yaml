@@ -1,0 +1,52 @@
+---
+term: burgi
+slug: burgi
+ipa: "\u02C8bu\u027Egi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8bu\u027Egi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - worsen
+    - make worse
+  epo:
+  - - malbonigo
+  - - malbonigi
+  spa:
+  - - empeorar
+    - hacer peor
+search terms:
+  glb:
+  - burgi
+  eng:
+  - worsen
+  - make worse
+  epo:
+  - malbonigo
+  - malbonigi
+  spa:
+  - empeorar
+  - hacer peor
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur">bur</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: burgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: worsen, make worse
+    epo: malbonigo; malbonigi
+    spa: empeorar, hacer peor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur + -gi
+...

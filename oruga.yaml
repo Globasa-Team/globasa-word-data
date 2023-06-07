@@ -1,0 +1,73 @@
+---
+term: oruga
+slug: oruga
+ipa: "o\u02C8\u027Euga"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8\u027Euga&voice=Ewa"
+status: false
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - wrinkle
+    - furrow
+  epo:
+  - - falto
+    - sulko
+  - - "falti\u011Di"
+    - "sulki\u011Di"
+    - falti
+    - sulki
+  spa:
+  - - arruga
+  - - arrugar
+    - arrugarse
+search terms:
+  glb:
+  - oruga
+  eng:
+  - wrinkle
+  - furrow
+  epo:
+  - falto
+  - sulko
+  - "falti\u011Di"
+  - "sulki\u011Di"
+  - falti
+  - sulki
+  spa:
+  - arruga
+  - arrugar
+  - arrugarse
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - arruga
+  Portugalsa:
+  - - ruga
+  Italisa:
+  - - ruga
+  Parsisa:
+  - - "\u0686\u0631\u0648\u06A9 \"coruk\""
+  Swahilisa:
+  - - -vuruga
+raw data:
+  term: oruga
+  category: root
+  word class: n/f.oro.b
+  status: false
+  trans:
+    eng: wrinkle, furrow
+    epo: "falto, sulko; falti\u011Di, sulki\u011Di, falti, sulki"
+    spa: arruga; arrugar, arrugarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (arruga), Portugalsa (ruga), Italisa (ruga), Parsisa (\u0686\u0631\u0648\u06A9
+    \"coruk\"), Swahilisa (-vuruga)"
+...

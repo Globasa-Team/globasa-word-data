@@ -1,0 +1,58 @@
+---
+term: sahigi
+slug: sahigi
+ipa: "sa\u02C8xigi"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8xigi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - correction
+    - correcting
+  - - correct
+  epo:
+  - - korektado
+    - "\u011Dustigado"
+  - - korekti
+    - "\u011Dustigi"
+  spa:
+  - - "correcci\xF3n"
+  - - corregir
+search terms:
+  glb:
+  - sahigi
+  eng:
+  - correction
+  - correcting
+  - correct
+  epo:
+  - korektado
+  - "\u011Dustigado"
+  - korekti
+  - "\u011Dustigi"
+  spa:
+  - "correcci\xF3n"
+  - corregir
+etymology_type: DERIVD
+etymology: <a href="../lexi/sahi">sahi</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: sahigi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: correction, correcting; correct
+    epo: "korektado, \u011Dustigado; korekti, \u011Dustigi"
+    spa: "correcci\xF3n; corregir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sahi + -gi
+...

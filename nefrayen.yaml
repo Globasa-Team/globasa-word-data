@@ -1,0 +1,48 @@
+---
+term: nefrayen
+slug: nefrayen
+ipa: "nef\u027Ea\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=nef\u027Ea\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hater
+  epo:
+  - - malamanto
+  spa:
+  - - odiador
+    - "cr\xEDtico"
+search terms:
+  glb:
+  - nefrayen
+  eng:
+  - hater
+  epo:
+  - malamanto
+  spa:
+  - odiador
+  - "cr\xEDtico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/nefra">nefra</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: nefrayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hater
+    epo: malamanto
+    spa: "odiador, cr\xEDtico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nefra + -yen
+...

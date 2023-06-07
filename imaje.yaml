@@ -1,0 +1,59 @@
+---
+term: imaje
+slug: imaje
+ipa: "i\u02C8mad\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8mad\u0361\u0292e&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - image
+    - picture
+  - - imagine
+  epo:
+  - - bildo
+    - imago
+  - - imagi
+  spa:
+  - - imagen
+  - - imaginar
+search terms:
+  glb:
+  - imaje
+  eng:
+  - image
+  - picture
+  - imagine
+  epo:
+  - bildo
+  - imago
+  - imagi
+  spa:
+  - imagen
+  - imaginar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: imaje
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: image, picture; imagine
+    epo: bildo, imago; imagi
+    spa: imagen; imaginar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (image), Fransesa (image), Doycisa (Image), Espanisa (imagen),
+    Rusisa (\u0438\u043C\u0438\u0434\u0436 \u201Cimidj\u201D), Pilipinasa (imahen),
+    Turkisa (imaj), Niponsa (\u30A4\u30E1\u30FC\u30B8 \u201Cimeji\u201D), Hangusa
+    (\uC774\uBBF8\uC9C0 \u201Cimiji\u201D)"
+...

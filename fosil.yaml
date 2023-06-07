@@ -1,0 +1,62 @@
+---
+term: fosil
+slug: fosil
+ipa: foˈsil
+ipa link: http://ipa-reader.xyz/?text=foˈsil&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fossil
+  epo:
+  - - fosilio
+  spa:
+  - - fósil
+search terms:
+  glb:
+  - fosil
+  eng:
+  - fossil
+  epo:
+  - fosilio
+  spa:
+  - fósil
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Fossil
+  Englisa: ~
+  Espanisa:
+  - - fósil
+  Fransesa:
+  - - fossile
+  Indonesisa:
+  - - fosil
+  Pilipinasa:
+  - - posil
+  Turkisa:
+  - - fosil
+  Parsisa:
+  - - فسیل “fosil”
+raw data:
+  term: fosil
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fossil
+    epo: fosilio
+    spa: fósil
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Fossil), Englisa, Espanisa (fósil), Fransesa (fossile), Indonesisa
+    (fosil), Pilipinasa (posil), Turkisa (fosil), Parsisa (فسیل “fosil”)
+...

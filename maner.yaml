@@ -1,0 +1,52 @@
+---
+term: maner
+slug: maner
+ipa: "ma\u02C8ne\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8ne\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - manner
+    - way
+  epo:
+  - - maniero
+  spa:
+  - - manera
+    - modo
+search terms:
+  glb:
+  - maner
+  eng:
+  - manner
+  - way
+  epo:
+  - maniero
+  spa:
+  - manera
+  - modo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: maner
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: manner, way
+    epo: maniero
+    spa: manera, modo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (manner), Doycisa (Manier), Fransesa (mani\xE8re), Espanisa
+    (manera), Rusisa (\u043C\u0430\u043D\u0435\u0440\u0430 \u201Cmanera\u201D), Niponsa
+    (\u30DE\u30CA\u30FC \u201Cmana\u201D)"
+...

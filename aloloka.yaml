@@ -1,0 +1,48 @@
+---
+term: aloloka
+slug: aloloka
+ipa: "alo\u02C8loka"
+ipa link: "http://ipa-reader.xyz/?text=alo\u02C8loka&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - elsewhere
+    - somewhere else
+  epo:
+  - - aliloke
+  spa:
+  - - en otro lugar
+search terms:
+  glb:
+  - aloloka
+  eng:
+  - elsewhere
+  - somewhere else
+  epo:
+  - aliloke
+  spa:
+  - en otro lugar
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/loka">loka</a>
+raw data:
+  term: aloloka
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: elsewhere, somewhere else
+    epo: aliloke
+    spa: en otro lugar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + loka
+...

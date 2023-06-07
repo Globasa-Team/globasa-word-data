@@ -1,0 +1,66 @@
+---
+term: hataya
+slug: hataya
+ipa: "xa\u02C8taja"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8taja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - See [fe hataya](/eng/lexi/fe+hataya)
+    - '[fe hataya fe](/eng/lexi/fe+hataya+fe)'
+    - '[fe hataya ki](/eng/lexi/fe+hataya+ki)'
+  epo:
+  - - Vidu [fe hataya](/epo/lexi/fe+hataya)
+    - '[fe hataya fe](/epo/lexi/fe+hataya+fe)'
+    - '[fe hataya ki](/epo/lexi/fe+hataya+ki)'
+  spa:
+  - - "V\xE9ase **fe hataya**"
+    - '**fe hataya de**'
+    - '**fe hataya ki**'
+search terms:
+  glb:
+  - hataya
+  eng:
+  - see [fe hataya]/eng/lexi/fe+hataya
+  - see [fe hataya]
+  - '[fe hataya fe]/eng/lexi/fe+hataya+fe'
+  - '[fe hataya fe]'
+  - '[fe hataya ki]/eng/lexi/fe+hataya+ki'
+  - '[fe hataya ki]'
+  epo:
+  - vidu [fe hataya]/epo/lexi/fe+hataya
+  - vidu [fe hataya]
+  - '[fe hataya fe]/epo/lexi/fe+hataya+fe'
+  - '[fe hataya fe]'
+  - '[fe hataya ki]/epo/lexi/fe+hataya+ki'
+  - '[fe hataya ki]'
+  spa:
+  - "v\xE9ase **fe hataya**"
+  - '**fe hataya de**'
+  - '**fe hataya ki**'
+etymology_type: DERIVD
+etymology: <a href="../lexi/hata">hata</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: hataya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'See [fe hataya](/eng/lexi/fe+hataya), [fe hataya fe](/eng/lexi/fe+hataya+fe),
+      [fe hataya ki](/eng/lexi/fe+hataya+ki) '
+    epo: 'Vidu [fe hataya](/epo/lexi/fe+hataya), [fe hataya fe](/epo/lexi/fe+hataya+fe),
+      [fe hataya ki](/epo/lexi/fe+hataya+ki) '
+    spa: "V\xE9ase **fe hataya**, **fe hataya de**, **fe hataya ki**"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hata + -ya
+...

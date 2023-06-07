@@ -1,0 +1,84 @@
+---
+term: pistacyo
+slug: pistacyo
+ipa: "pis\u02C8tat\u0361\u0283jo"
+ipa link: "http://ipa-reader.xyz/?text=pis\u02C8tat\u0361\u0283jo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pistachio (_Pistacia vera_)
+  epo:
+  - - pistako
+  spa:
+  - - pistache
+    - _Pistacia vera_
+search terms:
+  glb:
+  - pistacyo
+  eng:
+  - pistachio
+  epo:
+  - pistako
+  spa:
+  - pistache
+  - pistacia vera
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pistachio
+  Espanisa:
+  - - pistacho
+  Fransesa:
+  - - pistache
+  Rusisa:
+  - - "\u0444\u0438\u0441\u0442\u0430\u0448\u043A\u0430 \u201Cfistaxka\u201D"
+  Doycisa:
+  - - Pistazie
+  Indonesisa:
+  - - pistacio
+  Pilipinasa:
+  - - pistatso
+  Hindisa:
+  - - "\u092A\u093F\u0938\u094D\u0924\u093E \u201Cpista\u201D"
+  Arabisa:
+  - - "\u0641\u064F\u0633\u0652\u062A\u064F\u0642 \u201Cfustuk\u201D"
+  Niponsa:
+  - - "\u30D4\u30B9\u30BF\u30C1\u30AA \u201Cpisutacio\u201D"
+  Turkisa:
+  - - "f\u0131st\u0131k"
+  Hangusa:
+  - - "\uD53C\uC2A4\uD0C0\uCE58\uC624 \u201Cpisutacio\u201D"
+  Parsisa:
+  - - "\u067E\u0633\u062A\u0647 \u201Cpeste\u201D"
+  Swahilisa:
+  - - fistiki
+tags:
+- yamxey
+raw data:
+  term: pistacyo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pistachio (_Pistacia vera_)
+    epo: pistako
+    spa: pistache, _Pistacia vera_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (pistachio), Espanisa (pistacho), Fransesa (pistache), Rusisa
+    (\u0444\u0438\u0441\u0442\u0430\u0448\u043A\u0430 \u201Cfistaxka\u201D), Doycisa
+    (Pistazie), Indonesisa (pistacio), Pilipinasa (pistatso), Hindisa (\u092A\u093F\u0938\u094D\u0924\u093E
+    \u201Cpista\u201D), Arabisa (\u0641\u064F\u0633\u0652\u062A\u064F\u0642 \u201Cfustuk\u201D),
+    Niponsa (\u30D4\u30B9\u30BF\u30C1\u30AA \u201Cpisutacio\u201D), Turkisa (f\u0131st\u0131k),
+    Hangusa (\uD53C\uC2A4\uD0C0\uCE58\uC624 \u201Cpisutacio\u201D), Parsisa (\u067E\u0633\u062A\u0647
+    \u201Cpeste\u201D), Swahilisa (fistiki)"
+...

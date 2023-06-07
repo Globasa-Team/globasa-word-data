@@ -1,0 +1,84 @@
+---
+term: turi
+slug: turi
+ipa: "\u02C8tu\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tu\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - trip
+    - tour
+  - - travel
+  epo:
+  - - vizito
+  - - viziti
+    - turismi
+  spa:
+  - - viaje
+    - _tour_
+  - - viajar
+search terms:
+  glb:
+  - turi
+  eng:
+  - trip
+  - tour
+  - travel
+  epo:
+  - vizito
+  - viziti
+  - turismi
+  spa:
+  - viaje
+  - tour
+  - viajar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tourism
+  Doycisa:
+  - - Tourismus
+  Fransesa:
+  - - tourisme
+  Espanisa:
+  - - turismo
+  Rusisa:
+  - - "\u0442\u0443\u0440\u0438\u0437\u043C \u201Cturizm\u201D"
+  Indonesisa:
+  - - turis
+  Pilipinasa:
+  - - turista
+  Hindisa:
+  - - "\u091F\u0942\u0930\u093F\u0938\u094D\u091F \u201Cturist\u201D"
+  Niponsa:
+  - - "\u30C4\u30FC\u30EA\u30B9\u30C8 \u201Ctsurisuto\u201D"
+  Turkisa:
+  - - turizm
+  Parsisa:
+  - - "\u062A\u0648\u0631\u06CC\u0633\u062A \u201Cturist\u201D"
+raw data:
+  term: turi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: trip, tour; travel
+    epo: vizito; viziti, turismi
+    spa: viaje, _tour_; viajar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tourism), Doycisa (Tourismus), Fransesa (tourisme), Espanisa
+    (turismo), Rusisa (\u0442\u0443\u0440\u0438\u0437\u043C \u201Cturizm\u201D), Indonesisa
+    (turis), Pilipinasa (turista), Hindisa (\u091F\u0942\u0930\u093F\u0938\u094D\u091F
+    \u201Cturist\u201D), Niponsa (\u30C4\u30FC\u30EA\u30B9\u30C8 \u201Ctsurisuto\u201D),
+    Turkisa (turizm), Parsisa (\u062A\u0648\u0631\u06CC\u0633\u062A \u201Cturist\u201D)"
+...

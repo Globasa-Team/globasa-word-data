@@ -1,0 +1,72 @@
+---
+term: rekordi
+slug: rekordi
+ipa: "\u027Ee\u02C8ko\u027Edi"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8ko\u027Edi&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - (world) record
+  epo:
+  - - rekordo
+  spa:
+  - - "r\xE9cord"
+    - marca
+search terms:
+  glb:
+  - rekordi
+  eng:
+  - world record
+  - record
+  epo:
+  - rekordo
+  spa:
+  - "r\xE9cord"
+  - marca
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - record
+  Espanisa:
+  - - "r\xE9cord"
+  Fransesa:
+  - - record
+  Rusisa:
+  - - "\u0440\u0435\u043A\u043E\u0440\u0434 \"rekord\""
+  Doycisa:
+  - - Record
+  Indonesisa:
+  - - rekor
+  Pilipinasa:
+  - - rekord
+  Turkisa:
+  - - rekor
+  Parsisa:
+  - - "\u0631\u0650\u06A9\u064F\u0648\u0631\u062F \"rekowrd\""
+  Swahilisa:
+  - - rekodi
+raw data:
+  term: rekordi
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: (world) record
+    epo: rekordo
+    spa: "r\xE9cord, marca"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (record), Espanisa (r\xE9cord), Fransesa (record), Rusisa (\u0440\u0435\u043A\u043E\u0440\u0434
+    \"rekord\"), Doycisa (Record), Indonesisa (rekor), Pilipinasa (rekord), Turkisa
+    (rekor), Parsisa (\u0631\u0650\u06A9\u064F\u0648\u0631\u062F \"rekowrd\"), Swahilisa
+    (rekodi)"
+...

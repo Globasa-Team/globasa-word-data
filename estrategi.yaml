@@ -1,0 +1,66 @@
+---
+term: estrategi
+slug: estrategi
+ipa: estɾaˈtegi
+ipa link: http://ipa-reader.xyz/?text=estɾaˈtegi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - strategy
+  epo:
+  - - strategio
+  spa:
+  - - estrategia
+search terms:
+  glb:
+  - estrategi
+  eng:
+  - strategy
+  epo:
+  - strategio
+  spa:
+  - estrategia
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Strategie
+  Englisa:
+  - - strategy
+  Espanisa:
+  - - estrategia
+  Fransesa:
+  - - stratégie
+  Rusisa:
+  - - стратегия “estrategya”
+  Indonesisa:
+  - - strategi
+  Arabisa:
+  - - إستراتيجية “istiratijya”
+  Parsisa:
+  - - استراتژی “estrateji”
+  Turkisa:
+  - - strateji
+raw data:
+  term: estrategi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: strategy
+    epo: strategio
+    spa: estrategia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Strategie), Englisa (strategy), Espanisa (estrategia), Fransesa
+    (stratégie), Rusisa (стратегия “estrategya”), Indonesisa (strategi), Arabisa (إستراتيجية
+    “istiratijya”), Parsisa (استراتژی “estrateji”), Turkisa (strateji)
+...

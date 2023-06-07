@@ -1,0 +1,57 @@
+---
+term: nahir
+slug: nahir
+ipa: "na\u02C8xi\u027E"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8xi\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - river
+  epo:
+  - - rivero
+  spa:
+  - - "r\xEDo"
+search terms:
+  glb:
+  - nahir
+  eng:
+  - river
+  epo:
+  - rivero
+  spa:
+  - "r\xEDo"
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0928\u0939\u0930 \u201Cnahar\u201D"
+  Arabisa:
+  - - "\u0646\u0647\u0631 \u201Cnahr\u201D"
+  Turkisa:
+  - - nehir
+  Parsisa:
+  - - "\u0646\u0647\u0631 \u201Cnahr\u201D"
+tags:
+- geografi
+raw data:
+  term: nahir
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: river
+    epo: rivero
+    spa: "r\xEDo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: "Hindisa (\u0928\u0939\u0930 \u201Cnahar\u201D), Arabisa (\u0646\u0647\u0631
+    \u201Cnahr\u201D), Turkisa (nehir), Parsisa (\u0646\u0647\u0631 \u201Cnahr\u201D)"
+...

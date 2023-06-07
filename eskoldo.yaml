@@ -1,0 +1,81 @@
+---
+term: eskoldo
+slug: eskoldo
+ipa: "es\u02C8koldo"
+ipa link: "http://ipa-reader.xyz/?text=es\u02C8koldo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - educated
+    - scholarly
+    - erudite
+    - learned
+  epo:
+  - - edukita
+    - klera
+    - instruita
+    - erudicia
+    - dokta
+    - lernigita
+  - - edukite
+    - klere
+    - instruite
+    - erudicie
+    - dokte
+    - lernigite
+  spa:
+  - - educado
+    - docto
+    - erudito
+    - culto
+search terms:
+  glb:
+  - eskoldo
+  eng:
+  - educated
+  - scholarly
+  - erudite
+  - learned
+  epo:
+  - edukita
+  - klera
+  - instruita
+  - erudicia
+  - dokta
+  - lernigita
+  - edukite
+  - klere
+  - instruite
+  - erudicie
+  - dokte
+  - lernigite
+  spa:
+  - educado
+  - docto
+  - erudito
+  - culto
+etymology_type: DERIVD
+etymology: <a href="../lexi/eskol">eskol</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: eskoldo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: educated, scholarly, erudite, learned
+    epo: edukita, klera, instruita, erudicia, dokta, lernigita; edukite, klere, instruite,
+      erudicie, dokte, lernigite
+    spa: educado, docto, erudito, culto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: eskol + -do
+...

@@ -1,0 +1,50 @@
+---
+term: latvisa
+slug: latvisa
+ipa: "lat\u02C8visa"
+ipa link: "http://ipa-reader.xyz/?text=lat\u02C8visa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Latvian (language)
+  epo:
+  - - la latva (lingvo)
+  spa:
+  - - "let\xF3n (_idioma_)"
+search terms:
+  glb:
+  - latvisa
+  eng:
+  - latvian language
+  - latvian
+  epo:
+  - la latva lingvo
+  - la latva
+  spa:
+  - "let\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Latvi">Latvi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Latvisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Latvian (language)
+    epo: la latva (lingvo)
+    spa: "let\xF3n (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Latvi + -sa
+...

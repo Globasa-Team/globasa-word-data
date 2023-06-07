@@ -1,0 +1,65 @@
+---
+term: kola
+slug: kola
+ipa: "\u02C8kola"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kola&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cola (_drink
+    - tree
+    - nut_)
+  epo:
+  - - "kolatrinka\u0135o"
+    - "kolaa\u0135o"
+    - kolao
+    - kolanukso
+  spa:
+  - - bebida de cola
+    - nuez de kola
+search terms:
+  glb:
+  - kola
+  eng:
+  - cola drink
+  - cola (_drink
+  - tree
+  - nut
+  epo:
+  - "kolatrinka\u0135o"
+  - "kolaa\u0135o"
+  - kolao
+  - kolanukso
+  spa:
+  - bebida de cola
+  - nuez de kola
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kola
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cola (_drink, tree, nut_)
+    epo: "kolatrinka\u0135o, kolaa\u0135o, kolao, kolanukso"
+    spa: bebida de cola, nuez de kola
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cola), Espanisa, Doycisa, Vyetnamsa, Rusisa (\u043A\u043E\u043B\u0430
+    \u201Ckola\u201D), Indonesisa (kola), Pilipinasa, Turkisa, Putunhwa (\u53EF\u4E50
+    \u201Ckele\u201D), Hindisa (\u0915\u094B\u0932\u093E \u201Ckola\u201D), Arabisa
+    (\u0643\u064F\u0648\u0644\u064E\u0627 \u201Ckula\u201D), Niponsa (\u30B3\u30FC\u30E9
+    \u201Ckora\u201D), Telugusa (\u0C15\u0C4B\u0C32\u0C3E \u201Ckola\u201D), Hangusa
+    (\uCF5C\uB77C \u201Ckola\u201D), Parsisa (\u06A9\u0648\u0644\u0627 \u201Ckola\u201D),
+    Swahilisa (mkola)"
+...

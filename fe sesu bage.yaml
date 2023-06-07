@@ -1,0 +1,50 @@
+---
+term: fe sesu bage
+slug: fe sesu bage
+ipa: "fe \u02C8sesu \u02C8bage"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8sesu \u02C8bage&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - for one's part
+  epo:
+  - - oniaparte
+  spa:
+  - - por su parte
+search terms:
+  glb:
+  - fe sesu bage
+  - fe
+  - sesu
+  - bage
+  eng:
+  - for one's part
+  epo:
+  - oniaparte
+  spa:
+  - por su parte
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/se">se</a> + <a href="../lexi/-su">-su</a>,
+  <a href="../lexi/bage">bage</a>
+raw data:
+  term: fe sesu bage
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: for one's part
+    epo: oniaparte
+    spa: por su parte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, se + -su, bage
+...

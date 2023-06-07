@@ -1,0 +1,63 @@
+---
+term: elefan
+slug: elefan
+ipa: eleˈfan
+ipa link: http://ipa-reader.xyz/?text=eleˈfan&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - elephant
+  epo:
+  - - elefanto
+  spa:
+  - - elefante
+    - _Elephantiformes_
+search terms:
+  glb:
+  - elefan
+  eng:
+  - elephant
+  epo:
+  - elefanto
+  spa:
+  - elefante
+  - elephantiformes
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - elephant
+  Fransesa:
+  - - éléphant
+  Espanisa:
+  - - elefante
+  Doycisa:
+  - - Elefant
+  Pilipinasa:
+  - - elepante
+  Haytikreol:
+  - - elefan
+tags:
+- hewan
+raw data:
+  term: elefan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: elephant
+    epo: elefanto
+    spa: elefante, _Elephantiformes_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (elephant), Fransesa (éléphant), Espanisa (elefante), Doycisa
+    (Elefant), Pilipinasa (elepante), Haytikreol (elefan)
+...

@@ -1,0 +1,50 @@
+---
+term: minus eger
+slug: minus eger
+ipa: "mi\u02C8nus e\u02C8ge\u027E"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8nus e\u02C8ge\u027E&voice=Ewa"
+status: false
+category: phrase
+word class: l jm
+trans:
+  eng:
+  - - unless
+  epo:
+  - - krom se
+  spa:
+  - - a menos que
+    - menos si
+search terms:
+  glb:
+  - minus eger
+  - minus
+  - eger
+  eng:
+  - unless
+  epo:
+  - krom se
+  spa:
+  - a menos que
+  - menos si
+etymology_type: DERIVD
+etymology: <a href="../lexi/minus">minus</a>, <a href="../lexi/eger">eger</a>
+raw data:
+  term: minus eger
+  category: phrase
+  word class: l jm
+  status: false
+  trans:
+    eng: unless
+    epo: krom se
+    spa: a menos que, menos si
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: minus, eger
+...

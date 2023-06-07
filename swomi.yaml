@@ -1,0 +1,50 @@
+---
+term: swomi
+slug: swomi
+ipa: "\u02C8swomi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8swomi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Finland
+  epo:
+  - - Finnlando
+  spa:
+  - - Finlandia
+search terms:
+  glb:
+  - swomi
+  eng:
+  - finland
+  epo:
+  - finnlando
+  spa:
+  - finlandia
+etymology_type: NATLNG
+etymology:
+  Swomisa:
+  - - Suomi
+tags:
+- dexa
+raw data:
+  term: Swomi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Finland
+    epo: Finnlando
+    spa: Finlandia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Swomisa (Suomi)
+...

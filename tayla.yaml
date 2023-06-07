@@ -1,0 +1,69 @@
+---
+term: tayla
+slug: tayla
+ipa: "\u02C8tajla"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tajla&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tile
+  epo:
+  - - kahelo
+  spa:
+  - - azulejo
+    - alicatado
+    - baldosa
+    - teja
+search terms:
+  glb:
+  - tayla
+  eng:
+  - tile
+  epo:
+  - kahelo
+  spa:
+  - azulejo
+  - alicatado
+  - baldosa
+  - teja
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - "tile \u201Ctayl\u201D"
+  Espanisa:
+  - - "teja \u201Cteha\u201D"
+  Fransesa:
+  - - "tuile \u201Ctwil\u201D"
+  Portugalsa:
+  - - "telha \u201Ctelya\u201D"
+  Hindisa:
+  - - "\u091F\u093E\u0907\u0932 \u201Ctail\u201D"
+  Niponsa:
+  - - "\u30BF\u30A4\u30EB \u201Ctayru\u201D"
+  Hangusa:
+  - - "\uD0C0\uC77C \u201Ctail\u201D"
+raw data:
+  term: tayla
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tile
+    epo: kahelo
+    spa: azulejo, alicatado, baldosa, teja
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tile \u201Ctayl\u201D), Espanisa (teja \u201Cteha\u201D), Fransesa
+    (tuile \u201Ctwil\u201D), Portugalsa (telha \u201Ctelya\u201D), Hindisa (\u091F\u093E\u0907\u0932
+    \u201Ctail\u201D), Niponsa (\u30BF\u30A4\u30EB \u201Ctayru\u201D), Hangusa (\uD0C0\uC77C
+    \u201Ctail\u201D)"
+...

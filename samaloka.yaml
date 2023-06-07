@@ -1,0 +1,46 @@
+---
+term: samaloka
+slug: samaloka
+ipa: "sama\u02C8loka"
+ipa link: "http://ipa-reader.xyz/?text=sama\u02C8loka&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - in the same place
+  epo:
+  - - samloke
+  spa:
+  - - en el mismo lugar
+search terms:
+  glb:
+  - samaloka
+  eng:
+  - in the same place
+  epo:
+  - samloke
+  spa:
+  - en el mismo lugar
+etymology_type: DERIVD
+etymology: <a href="../lexi/sama">sama</a> + <a href="../lexi/loka">loka</a>
+raw data:
+  term: samaloka
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: in the same place
+    epo: samloke
+    spa: en el mismo lugar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sama + loka
+...

@@ -1,0 +1,50 @@
+---
+term: azerbayjan
+slug: azerbayjan
+ipa: "aze\u027Ebaj\u02C8d\u0361\u0292an"
+ipa link: "http://ipa-reader.xyz/?text=aze\u027Ebaj\u02C8d\u0361\u0292an&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Azerbaijan
+  epo:
+  - - "Azerbaj\u011Dano"
+  spa:
+  - - "Azerbaiy\xE1n"
+search terms:
+  glb:
+  - azerbayjan
+  eng:
+  - azerbaijan
+  epo:
+  - "azerbaj\u011Dano"
+  spa:
+  - "azerbaiy\xE1n"
+etymology_type: NATLNG
+etymology:
+  Azerbayjansa:
+  - - "Az\u0259rbaycan"
+tags:
+- dexa
+raw data:
+  term: Azerbayjan
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Azerbaijan
+    epo: "Azerbaj\u011Dano"
+    spa: "Azerbaiy\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Azerbayjansa (Az\u0259rbaycan)"
+...

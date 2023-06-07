@@ -1,0 +1,65 @@
+---
+term: gambari
+slug: gambari
+ipa: gamˈbaɾi
+ipa link: http://ipa-reader.xyz/?text=gamˈbaɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - shrimp
+    - prawn
+  epo:
+  - - salikoko
+  spa:
+  - - camarón
+    - langostino
+    - _Caridea_
+search terms:
+  glb:
+  - gambari
+  eng:
+  - shrimp
+  - prawn
+  epo:
+  - salikoko
+  spa:
+  - camarón
+  - langostino
+  - caridea
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - gamba
+    - camarón
+  Arabisa:
+  - - جَمْبَرِيّ “jambari”
+  Italisa:
+  - - gamberi
+  Swahlisa:
+  - - kamba-mti
+    - samaka-gamba
+tags:
+- hewan
+raw data:
+  term: gambari
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: shrimp, prawn
+    epo: salikoko
+    spa: camarón, langostino, _Caridea_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Espanisa (gamba, camarón), Arabisa (جَمْبَرِيّ “jambari”), Italisa (gamberi),
+    Swahlisa (kamba-mti, samaka-gamba)
+...

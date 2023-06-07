@@ -1,0 +1,56 @@
+---
+term: kemaner
+slug: kemaner
+ipa: "kema\u02C8ne\u027E"
+ipa link: "http://ipa-reader.xyz/?text=kema\u02C8ne\u027E&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - how
+    - done by what manner
+    - |-
+      done in
+      what manner
+  epo:
+  - - kiel
+  spa:
+  - - "\xBFc\xF3mo? \xBFde qu\xE9 manera?"
+search terms:
+  glb:
+  - kemaner
+  eng:
+  - how
+  - done by what manner
+  - |-
+    done in
+    what manner
+  epo:
+  - kiel
+  spa:
+  - "\xBFc\xF3mo? \xBFde qu\xE9 manera?"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ke">ke</a> + <a href="../lexi/maner">maner</a>
+raw data:
+  term: kemaner
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: |-
+      how, done by what manner, done in
+      what manner
+    epo: kiel
+    spa: "\xBFc\xF3mo? \xBFde qu\xE9 manera?"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ke + maner
+...

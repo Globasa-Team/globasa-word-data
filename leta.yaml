@@ -1,0 +1,59 @@
+---
+term: leta
+slug: leta
+ipa: "\u02C8leta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8leta&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - lie
+    - be lying
+    - lay
+  epo:
+  - - "ku\u015Dado"
+  - - "ku\u015Di"
+    - "ku\u015Digi"
+  spa:
+  - - estar acostado
+    - yacer
+    - acostarse
+search terms:
+  glb:
+  - leta
+  eng:
+  - lie
+  - be lying
+  - lay
+  epo:
+  - "ku\u015Dado"
+  - "ku\u015Di"
+  - "ku\u015Digi"
+  spa:
+  - estar acostado
+  - yacer
+  - acostarse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: leta
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: lie, be lying, lay
+    epo: "ku\u015Dado; ku\u015Di, ku\u015Digi"
+    spa: estar acostado, yacer, acostarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Rusisa (\u043B\u0435\u0436\u0430\u0442\u044C \u201Clezhat\u201D), Hindisa
+    (\u0932\u0947\u091F\u0928\u093E \u201Cletana\u201D)"
+...

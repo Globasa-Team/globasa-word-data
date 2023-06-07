@@ -1,0 +1,53 @@
+---
+term: guti
+slug: guti
+ipa: ˈguti
+ipa link: http://ipa-reader.xyz/?text=ˈguti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - solid
+  epo:
+  - - solido
+  spa:
+  - - sólido
+search terms:
+  glb:
+  - guti
+  eng:
+  - solid
+  epo:
+  - solido
+  spa:
+  - sólido
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 固体 “guti”
+  Niponsa:
+  - - 固体 “kotai”
+  Hangusa:
+  - - 고체 “goce”
+    - 굳다 “gutda”
+raw data:
+  term: guti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: solid
+    epo: solido
+    spa: sólido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (固体 “guti”), Niponsa (固体 “kotai”), Hangusa (고체 “goce”, 굳다 “gutda”)
+...

@@ -1,0 +1,55 @@
+---
+term: klover
+slug: klover
+ipa: "klo\u02C8ve\u027E"
+ipa link: "http://ipa-reader.xyz/?text=klo\u02C8ve\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - clover
+  epo:
+  - - trifolio
+  spa:
+  - - "tr\xE9bol"
+    - _Trifolium_
+  deu:
+  - - Klee
+search terms:
+  glb:
+  - klover
+  eng:
+  - clover
+  epo:
+  - trifolio
+  spa:
+  - "tr\xE9bol"
+  - trifolium
+  deu:
+  - klee
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: klover
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: clover
+    epo: trifolio
+    spa: "tr\xE9bol, _Trifolium_"
+    deu: Klee
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (clover), Rusisa (\u043A\u043B\u0435\u0432\u0435\u0440 \u201Cklever\u201D),
+    Pilipinasa (klober), Niponsa (\u30AF\u30ED\u30FC\u30D0\u30FC \u201Ckur\u014Db\u0101\u201D),
+    Hangusa (\uD074\uB85C\uBC84 \u201Ckeullobeo\u201D), Telugusa (\u0C15\u0C4D\u0C32\u0C4B\u0C35\u0C30\u0C4D
+    \u201Ckl\u014Dvar\u201D), Swahilisa (klova)"
+...

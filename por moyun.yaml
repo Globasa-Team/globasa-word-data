@@ -1,0 +1,47 @@
+---
+term: por moyun
+slug: por moyun
+ipa: "po\u027E mo\u02C8jun"
+ipa link: "http://ipa-reader.xyz/?text=po\u027E mo\u02C8jun&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - per
+    - for (each)
+  spa:
+  - - por cada
+search terms:
+  glb:
+  - por moyun
+  - por
+  - moyun
+  eng:
+  - per
+  - for each
+  - for
+  spa:
+  - por cada
+etymology_type: DERIVD
+etymology: <a href="../lexi/por">por</a>, <a href="../lexi/moy">moy</a> + <a href="../lexi/un">un</a>
+raw data:
+  term: por moyun
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: per, for (each)
+    epo: ""
+    spa: por cada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: por, moy + un
+...

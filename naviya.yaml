@@ -1,0 +1,52 @@
+---
+term: naviya
+slug: naviya
+ipa: "na\u02C8vija"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8vija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - navigation
+  epo:
+  - - "\u015Dipiro"
+    - navigado
+    - navigacio
+    - navigaciado
+  spa:
+  - - "navegaci\xF3n"
+search terms:
+  glb:
+  - naviya
+  eng:
+  - navigation
+  epo:
+  - "\u015Dipiro"
+  - navigado
+  - navigacio
+  - navigaciado
+  spa:
+  - "navegaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/navi">navi</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: naviya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: navigation
+    epo: "\u015Dipiro, navigado, navigacio, navigaciado"
+    spa: "navegaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: navi + -ya
+...

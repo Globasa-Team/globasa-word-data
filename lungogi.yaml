@@ -1,0 +1,48 @@
+---
+term: lungogi
+slug: lungogi
+ipa: "lun\u02C8gogi"
+ipa link: "http://ipa-reader.xyz/?text=lun\u02C8gogi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - lengthen
+  epo:
+  - - longigo
+  - - longigi
+  spa:
+  - - alargar
+search terms:
+  glb:
+  - lungogi
+  eng:
+  - lengthen
+  epo:
+  - longigo
+  - longigi
+  spa:
+  - alargar
+etymology_type: DERIVD
+etymology: <a href="../lexi/lungo">lungo</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: lungogi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: lengthen
+    epo: longigo; longigi
+    spa: alargar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lungo + -gi
+...

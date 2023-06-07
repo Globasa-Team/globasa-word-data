@@ -1,0 +1,53 @@
+---
+term: fe alo loga
+slug: fe alo loga
+ipa: "fe \u02C8alo \u02C8loga"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8alo \u02C8loga&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - in other words
+  epo:
+  - - alivorte
+    - alidire
+  spa:
+  - - en otras palabras
+    - es decir
+search terms:
+  glb:
+  - fe alo loga
+  - fe
+  - alo
+  - loga
+  eng:
+  - in other words
+  epo:
+  - alivorte
+  - alidire
+  spa:
+  - en otras palabras
+  - es decir
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/alo">alo</a>, <a href="../lexi/loga">loga</a>
+raw data:
+  term: fe alo loga
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: in other words
+    epo: alivorte, alidire
+    spa: en otras palabras, es decir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, alo, loga
+...

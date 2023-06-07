@@ -1,0 +1,77 @@
+---
+term: enketa
+slug: enketa
+ipa: enˈketa
+ipa link: http://ipa-reader.xyz/?text=enˈketa&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - survey
+    - questionnaire
+    - inquiry
+  - - inquire
+  epo:
+  - - enketo
+  - - enketi
+  spa:
+  - - encuesta
+  - - encuestar
+search terms:
+  glb:
+  - enketa
+  eng:
+  - survey
+  - questionnaire
+  - inquiry
+  - inquire
+  epo:
+  - enketo
+  - enketi
+  spa:
+  - encuesta
+  - encuestar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - inquest
+    - inquire
+  Espanisa:
+  - - encuesta
+  Fransesa:
+  - - enquête
+  Rusisa:
+  - - анкета “anketa”
+  Doycisa:
+  - - Enquete
+  Indonesisa:
+  - - angket
+  Niponsa:
+  - - アンケート “anketo”
+  Turkisa:
+  - - anket
+  Hangusa:
+  - - 앙케트 “angketu”
+raw data:
+  term: enketa
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: survey, questionnaire, inquiry; inquire
+    epo: enketo; enketi
+    spa: encuesta; encuestar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (inquest, inquire), Espanisa (encuesta), Fransesa (enquête),
+    Rusisa (анкета “anketa”), Doycisa (Enquete), Indonesisa (angket), Niponsa (アンケート
+    “anketo”), Turkisa (anket), Hangusa (앙케트 “angketu”)
+...

@@ -1,0 +1,78 @@
+---
+term: nil
+slug: nil
+ipa: "\u02C8nil"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nil&voice=Ewa"
+status: true
+category: root
+word class: num; d
+trans:
+  eng:
+  - - zero
+    - "no"
+    - no- (_nothing
+    - nobody
+    - etc._) [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+  epo:
+  - - nul
+  - - nenio
+    - neni- (korelativa parto)
+  spa:
+  - - cero
+    - ninguno
+search terms:
+  glb:
+  - nil
+  eng:
+  - zero
+  - "no"
+  - no- nothing
+  - no- (_nothing
+  - nobody
+  - etc.
+  epo:
+  - nul
+  - nenio
+  - neni- korelativa parto
+  - neni-
+  spa:
+  - cero
+  - ninguno
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nil
+  Rusisa:
+  - - "\u043D\u0438- \u201Cni-\u201D"
+    - "\u043D\u0443\u043B\u044C \u201Cnul\u201D"
+  Doycisa:
+  - - ni-
+    - "Null"
+  Espanisa:
+  - - "ning\xFAn"
+    - nulo
+  Fransesa:
+  - - nul
+    - nulle
+raw data:
+  term: nil
+  category: root
+  word class: num; d
+  status: true
+  trans:
+    eng: zero, no, no- (_nothing, nobody, etc._) [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+    epo: nul; nenio, neni- (korelativa parto)
+    spa: cero, ninguno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (nil), Rusisa (\u043D\u0438- \u201Cni-\u201D, \u043D\u0443\u043B\u044C
+    \u201Cnul\u201D), Doycisa (ni-, Null), Espanisa (ning\xFAn, nulo), Fransesa (nul,
+    nulle)"
+...

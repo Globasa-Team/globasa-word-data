@@ -1,0 +1,49 @@
+---
+term: klubu
+slug: klubu
+ipa: "\u02C8klubu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8klubu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - club
+  epo:
+  - - klubo
+  spa:
+  - - club
+search terms:
+  glb:
+  - klubu
+  eng:
+  - club
+  epo:
+  - klubo
+  spa:
+  - club
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: klubu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: club
+    epo: klubo
+    spa: club
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (club), Fransesa (club), Doycisa (Klub), Rusisa (\u043A\u043B\u0443\u0431
+    \u201Cklub\u201D), Espanisa (club), Hindisa (\u0915\u094D\u0932\u092C \u201Cklab\u201D),
+    Indonesisa (klub, klab), Turkisa (kul\xFCp), Swahilisa (klabu), Niponsa (\u30AF\u30E9\u30D6
+    \u201Ckurabu\u201D), Vyetnamsa (c\xE2u l\u1EA1c b\u1ED9)"
+...

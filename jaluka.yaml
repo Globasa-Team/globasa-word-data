@@ -1,0 +1,55 @@
+---
+term: jaluka
+slug: jaluka
+ipa: "d\u0361\u0292a\u02C8luka"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8luka&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - leech
+    - _Hirudinea_
+  epo:
+  - - hirudo
+  spa:
+  - - sanguijuela
+    - _Hirudinea_
+search terms:
+  glb:
+  - jaluka
+  eng:
+  - leech
+  - hirudinea
+  epo:
+  - hirudo
+  spa:
+  - sanguijuela
+  - hirudinea
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: jaluka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: leech, _Hirudinea_
+    epo: hirudo
+    spa: sanguijuela, _Hirudinea_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Hindisa (\u091C\u0932\u0942\u0915\u093E \u201Cjal\u016Bk\u0101\u201D),
+    Telugusa (\u0C1C\u0C32\u0C4C\u0C15\u0C38\u0C2E\u0C41 \u201Cjalaukasamu\u201D),
+    Arabisa (\u0639\u0644\u0642\u0629 \u201C\u02BFalaqa\u201D), Parsisa (\u0632\u0631\u0648\u06A9\u200E
+    \u201Czoruk\u201D), Turkisa (s\xFCl\xFCk)"
+...

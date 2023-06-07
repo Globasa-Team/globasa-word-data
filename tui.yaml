@@ -1,0 +1,52 @@
+---
+term: tui
+slug: tui
+ipa: "\u02C8tui"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tui&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - leg
+  epo:
+  - - kruro
+  spa:
+  - - pierna
+search terms:
+  glb:
+  - tui
+  eng:
+  - leg
+  epo:
+  - kruro
+  spa:
+  - pierna
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u817F \u201Ctu\u01D0\u201D"
+  Niponsa:
+  - - "\u5927\u817F \"daitai\""
+tags:
+- jismulogi
+raw data:
+  term: tui
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: leg
+    epo: kruro
+    spa: pierna
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa  (\u817F \u201Ctu\u01D0\u201D), Niponsa (\u5927\u817F \"daitai\")"
+...

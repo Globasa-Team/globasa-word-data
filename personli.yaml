@@ -1,0 +1,58 @@
+---
+term: personli
+slug: personli
+ipa: "pe\u027E\u02C8sonli"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027E\u02C8sonli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - personal
+    - personally
+    - individual
+    - individually
+  epo:
+  - - persona
+    - individua
+  - - persone
+    - individue
+  spa:
+  - - personal
+search terms:
+  glb:
+  - personli
+  eng:
+  - personal
+  - personally
+  - individual
+  - individually
+  epo:
+  - persona
+  - individua
+  - persone
+  - individue
+  spa:
+  - personal
+etymology_type: DERIVD
+etymology: <a href="../lexi/person">person</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: personli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: personal, personally, individual, individually
+    epo: persona, individua; persone, individue
+    spa: personal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: person + -li
+...

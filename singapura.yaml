@@ -1,0 +1,50 @@
+---
+term: singapura
+slug: singapura
+ipa: "singa\u02C8pu\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=singa\u02C8pu\u027Ea&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Singapore
+  epo:
+  - - Singapuro
+  spa:
+  - - Singapur
+search terms:
+  glb:
+  - singapura
+  eng:
+  - singapore
+  epo:
+  - singapuro
+  spa:
+  - singapur
+etymology_type: NATLNG
+etymology:
+  Malaysisa:
+  - - Singapura
+tags:
+- dexa
+raw data:
+  term: Singapura
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Singapore
+    epo: Singapuro
+    spa: Singapur
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Malaysisa (Singapura)
+...

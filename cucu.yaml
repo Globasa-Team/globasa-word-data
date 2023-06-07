@@ -1,0 +1,65 @@
+---
+term: cucu
+slug: cucu
+ipa: ˈt͡ʃut͡ʃu
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃut͡ʃu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nipple
+  epo:
+  - - cico
+  spa:
+  - - pezón
+    - teta
+search terms:
+  glb:
+  - cucu
+  eng:
+  - nipple
+  epo:
+  - cico
+  spa:
+  - pezón
+  - teta
+etymology_type: NATLNG
+etymology:
+  Swahilisa:
+  - - chuchu
+  Hindisa:
+  - - चुचुक “cucuk”
+  Indonesisa:
+  - - puting susu
+  Pilipinasa:
+  - - suso
+  Rusisa:
+  - - сосок “sosok”
+  Turkisa:
+  - - meme ucu
+  Niponsa:
+  - - 乳首 “cicikubi”
+tags:
+- jismulogi
+raw data:
+  term: cucu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nipple
+    epo: cico
+    spa: pezón, teta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Swahilisa (chuchu), Hindisa (चुचुक “cucuk”), Indonesisa (puting susu),
+    Pilipinasa (suso), Rusisa (сосок “sosok”), Turkisa (meme ucu), Niponsa (乳首 “cicikubi”)
+...

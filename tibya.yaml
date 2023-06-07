@@ -1,0 +1,63 @@
+---
+term: tibya
+slug: tibya
+ipa: "\u02C8tibja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tibja&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - shin
+    - tibia
+  epo:
+  - - tibio
+  spa:
+  - - tibia
+search terms:
+  glb:
+  - tibya
+  eng:
+  - shin
+  - tibia
+  epo:
+  - tibio
+  spa:
+  - tibia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tibia
+  Espanisa:
+  - - tibia
+  Fransesa:
+  - - tibia
+  Doycisa:
+  - - Tibia
+  Indonesisa:
+  - - tibia
+  Parsisa:
+  - - "\u062A\u06CC\u0628\u06CC\u0627 \"tibiya\""
+tags:
+- jismulogi
+raw data:
+  term: tibya
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: shin, tibia
+    epo: tibio
+    spa: tibia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (tibia), Espanisa (tibia), Fransesa (tibia), Doycisa (Tibia),
+    Indonesisa (tibia), Parsisa (\u062A\u06CC\u0628\u06CC\u0627 \"tibiya\")"
+...

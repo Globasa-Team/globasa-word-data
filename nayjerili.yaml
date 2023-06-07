@@ -1,0 +1,46 @@
+---
+term: nayjerili
+slug: nayjerili
+ipa: "najd\u0361\u0292e\u02C8\u027Eili"
+ipa link: "http://ipa-reader.xyz/?text=najd\u0361\u0292e\u02C8\u027Eili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Nigerian
+  epo:
+  - - "ni\u011Deriano"
+  spa:
+  - - nigeriano
+search terms:
+  glb:
+  - nayjerili
+  eng:
+  - nigerian
+  epo:
+  - "ni\u011Deriano"
+  spa:
+  - nigeriano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Nayjeri">Nayjeri</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Nayjerili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Nigerian
+    epo: "ni\u011Deriano"
+    spa: nigeriano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Nayjeri + -li
+...

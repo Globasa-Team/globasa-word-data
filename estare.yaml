@@ -1,0 +1,59 @@
+---
+term: estare
+slug: estare
+ipa: esˈtaɾe
+ipa link: http://ipa-reader.xyz/?text=esˈtaɾe&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - star
+  epo:
+  - - stelo
+  spa:
+  - - estrella
+search terms:
+  glb:
+  - estare
+  eng:
+  - star
+  epo:
+  - stelo
+  spa:
+  - estrella
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - star
+  Doycisa:
+  - - Star
+  Espanisa:
+  - - estrella
+  Hindisa:
+  - - सितारा “sitara”
+  Parsisa:
+  - - ستاره “setare”
+tags:
+- kosmo
+raw data:
+  term: estare
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: star
+    epo: stelo
+    spa: estrella
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kosmo
+  etymology: Englisa (star), Doycisa (Star), Espanisa (estrella), Hindisa (सितारा
+    “sitara”), Parsisa (ستاره “setare”)
+...

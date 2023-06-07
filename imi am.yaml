@@ -1,0 +1,48 @@
+---
+term: imi am
+slug: imi am
+ipa: "\u02C8imi am"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8imi am&voice=Ewa"
+status: false
+category: phrase
+word class: jm
+trans:
+  eng:
+  - - let's
+  epo:
+  - - ni ____u
+  spa:
+  - - que nosotros
+search terms:
+  glb:
+  - imi am
+  - imi
+  - am
+  eng:
+  - let's
+  epo:
+  - ni u
+  spa:
+  - que nosotros
+etymology_type: DERIVD
+etymology: <a href="../lexi/imi">imi</a>, <a href="../lexi/am">am</a>
+raw data:
+  term: imi am
+  category: phrase
+  word class: jm
+  status: false
+  trans:
+    eng: let's
+    epo: ni ____u
+    spa: que nosotros
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: imi, am
+...

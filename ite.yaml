@@ -1,0 +1,46 @@
+---
+term: ite
+slug: ite
+ipa: "\u02C8ite"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ite&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter t
+  epo:
+  - - litero t
+  spa:
+  - - letra t
+search terms:
+  glb:
+  - ite
+  eng:
+  - letter t
+  epo:
+  - litero t
+  spa:
+  - letra t
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ite
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter t
+    epo: litero t
+    spa: letra t
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

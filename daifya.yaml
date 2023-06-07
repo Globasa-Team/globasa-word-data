@@ -1,0 +1,48 @@
+---
+term: daifya
+slug: daifya
+ipa: "da\u02C8ifja"
+ipa link: "http://ipa-reader.xyz/?text=da\u02C8ifja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - weakness
+  epo:
+  - - febleco
+  - - malforteco
+  spa:
+  - - debilidad
+search terms:
+  glb:
+  - daifya
+  eng:
+  - weakness
+  epo:
+  - febleco
+  - malforteco
+  spa:
+  - debilidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/daif">daif</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: daifya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: weakness
+    epo: febleco; malforteco
+    spa: debilidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: daif + -ya
+...

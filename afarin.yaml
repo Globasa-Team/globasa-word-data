@@ -1,0 +1,81 @@
+---
+term: afarin
+slug: afarin
+ipa: afaˈɾin
+ipa link: http://ipa-reader.xyz/?text=afaˈɾin&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a; il
+trans:
+  eng:
+  - - applause
+  - - applaud
+    - clap
+  - - well done
+    - good job
+    - bravo
+  epo:
+  - - aplaŭdo
+  - - aplaŭdi
+  - - bone farita
+    - brave
+  spa:
+  - - aplauso
+  - - aplaudir
+  - - bien hecho
+    - bravo
+search terms:
+  glb:
+  - afarin
+  eng:
+  - applause
+  - applaud
+  - clap
+  - well done
+  - good job
+  - bravo
+  epo:
+  - aplaŭdo
+  - aplaŭdi
+  - bone farita
+  - brave
+  spa:
+  - aplauso
+  - aplaudir
+  - bien hecho
+  - bravo
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - आफ़रीन “āfrīn”
+  Arabisa:
+  - - عَفَارِم “ʿafārim”
+  Niponsa:
+  - - あっぱれ “appare”
+  Turkisa:
+  - - aferin
+  Parsisa:
+  - - آفرین “âfarin”
+tags:
+- intrelogalexi
+raw data:
+  term: afarin
+  category: root
+  word class: n/f.oro.a; il
+  status: true
+  trans:
+    eng: applause; applaud, clap; well done, good job, bravo
+    epo: aplaŭdo; aplaŭdi; bone farita, brave
+    spa: aplauso; aplaudir; bien hecho, bravo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: Hindisa (आफ़रीन “āfrīn”), Arabisa (عَفَارِم “ʿafārim”), Niponsa (あっぱれ
+    “appare”), Turkisa (aferin), Parsisa (آفرین “âfarin”)
+...

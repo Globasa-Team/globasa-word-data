@@ -1,0 +1,54 @@
+---
+term: gupan
+slug: gupan
+ipa: guˈpan
+ipa link: http://ipa-reader.xyz/?text=guˈpan&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pelvis
+  epo:
+  - - pelvo (_anatomia_)
+  spa:
+  - - pelvis
+search terms:
+  glb:
+  - gupan
+  eng:
+  - pelvis
+  epo:
+  - pelvo
+  spa:
+  - pelvis
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 骨盘 "gupan"
+  Hangusa:
+  - - 골반 "golban"
+  Niponsa:
+  - - 骨盤 "kotsuban"
+tags:
+- jismulogi
+raw data:
+  term: gupan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pelvis
+    epo: pelvo (_anatomia_)
+    spa: pelvis
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Putunhwa (骨盘 "gupan"), Hangusa (골반 "golban"), Niponsa (骨盤 "kotsuban")
+...

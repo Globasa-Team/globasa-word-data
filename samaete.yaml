@@ -1,0 +1,46 @@
+---
+term: samaete
+slug: samaete
+ipa: "sama\u02C8ete"
+ipa link: "http://ipa-reader.xyz/?text=sama\u02C8ete&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - the same ones
+  epo:
+  - - la samaj
+  spa:
+  - - los mismos
+search terms:
+  glb:
+  - samaete
+  eng:
+  - the same ones
+  epo:
+  - la samaj
+  spa:
+  - los mismos
+etymology_type: DERIVD
+etymology: <a href="../lexi/sama">sama</a> + <a href="../lexi/ete">ete</a>
+raw data:
+  term: samaete
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: the same ones
+    epo: la samaj
+    spa: los mismos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sama + ete
+...

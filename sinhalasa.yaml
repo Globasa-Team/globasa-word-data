@@ -1,0 +1,53 @@
+---
+term: sinhalasa
+slug: sinhalasa
+ipa: "sinxa\u02C8lasa"
+ipa link: "http://ipa-reader.xyz/?text=sinxa\u02C8lasa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Sinhala
+    - Sinhalese
+    - Singhalese (language)
+  epo:
+  - - sinhalo
+  spa:
+  - - "idioma cingal\xE9s"
+search terms:
+  glb:
+  - sinhalasa
+  eng:
+  - sinhala
+  - sinhalese
+  - singhalese language
+  - singhalese
+  epo:
+  - sinhalo
+  spa:
+  - "idioma cingal\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Sinhala">Sinhala</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Sinhalasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Sinhala, Sinhalese, Singhalese (language)
+    epo: sinhalo
+    spa: "idioma cingal\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Sinhala + -sa
+...

@@ -1,0 +1,48 @@
+---
+term: informeli
+slug: informeli
+ipa: "info\u027E\u02C8meli"
+ipa link: "http://ipa-reader.xyz/?text=info\u027E\u02C8meli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - informational
+  epo:
+  - - informa
+  - - informe
+  spa:
+  - - "de informaci\xF3n"
+search terms:
+  glb:
+  - informeli
+  eng:
+  - informational
+  epo:
+  - informa
+  - informe
+  spa:
+  - "de informaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/informe">informe</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: 'informeli '
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: informational
+    epo: informa; informe
+    spa: "de informaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: informe + -li
+...

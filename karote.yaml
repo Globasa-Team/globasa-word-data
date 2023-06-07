@@ -1,0 +1,50 @@
+---
+term: karote
+slug: karote
+ipa: "ka\u02C8\u027Eote"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8\u027Eote&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - carrot
+  epo:
+  - - karoto
+  spa:
+  - - zanahoria
+search terms:
+  glb:
+  - karote
+  eng:
+  - carrot
+  epo:
+  - karoto
+  spa:
+  - zanahoria
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: karote
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: carrot
+    epo: karoto
+    spa: zanahoria
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (carrot), Fransesa (carrote), Doycisa (Karotte), Vyetnamsa (c\xE0
+    r\u1ED1t), Swahilisa (karoti), Pilipinasa (karot), Telugusa (\u0C15\u0C3E\u0C30\u0C46\u0C1F\u0C4D
+    \u201Ckaret\u201D)"
+...

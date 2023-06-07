@@ -1,0 +1,47 @@
+---
+term: iji
+slug: iji
+ipa: "\u02C8id\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8id\u0361\u0292i&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - both (_both... and..._)
+  epo:
+  - - kaj (_kaj... kaj..._)
+  spa:
+  - - tanto (... como...)
+search terms:
+  glb:
+  - iji
+  eng:
+  - both
+  epo:
+  - kaj
+  spa:
+  - tanto ... como...
+  - tanto
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: iji
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: both (_both... and..._)
+    epo: kaj (_kaj... kaj..._)
+    spa: tanto (... como...)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _ji_.
+...

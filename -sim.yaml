@@ -1,0 +1,52 @@
+---
+term: -sim
+slug: -sim
+ipa: "\u02C8-sim"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-sim&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - -like
+    - -ish (_added to nouns_)
+  epo:
+  - - -eca
+  - - -ece
+  spa:
+  - - parecido a
+    - -esco (_agregado a sustantivos_)
+search terms:
+  glb:
+  - -sim
+  eng:
+  - -like
+  - -ish
+  epo:
+  - -eca
+  - -ece
+  spa:
+  - parecido a
+  - -esco
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/sim">sim</a>.
+raw data:
+  term: -sim
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: -like, -ish (_added to nouns_)
+    epo: -eca; -ece
+    spa: parecido a, -esco (_agregado a sustantivos_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: -like, like, -ish, ish
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _sim_.
+...

@@ -1,0 +1,55 @@
+---
+term: kadam
+slug: kadam
+ipa: "ka\u02C8dam"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8dam&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - step
+  - - (take a) step
+    - take steps
+  epo:
+  - - "pa\u015Do"
+  - - "pa\u015Di"
+  spa:
+  - - paso
+  - - dar un paso
+search terms:
+  glb:
+  - kadam
+  eng:
+    0: step
+    1: take a step
+    3: take steps
+  epo:
+  - "pa\u015Do"
+  - "pa\u015Di"
+  spa:
+  - paso
+  - dar un paso
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kadam
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: step; (take a) step, take steps
+    epo: "pa\u015Do; pa\u015Di"
+    spa: paso; dar un paso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u062F\u0645 \u201Cqadam\u201D - peda), Hindisa (\u0915\u0926\u092E
+    \u201Ckadam\u201D), Turkisa (adim, kademe), Parsisa (\u0642\u062F\u0645 \u201Ckadam\u201D)"
+...

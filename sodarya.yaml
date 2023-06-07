@@ -1,0 +1,54 @@
+---
+term: sodarya
+slug: sodarya
+ipa: "so\u02C8da\u027Eja"
+ipa link: "http://ipa-reader.xyz/?text=so\u02C8da\u027Eja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - brotherhood
+    - sisterhood
+  epo:
+  - - frateco
+    - fratineco
+    - gefrateco
+  spa:
+  - - fraternidad
+    - hermandad
+search terms:
+  glb:
+  - sodarya
+  eng:
+  - brotherhood
+  - sisterhood
+  epo:
+  - frateco
+  - fratineco
+  - gefrateco
+  spa:
+  - fraternidad
+  - hermandad
+etymology_type: DERIVD
+etymology: <a href="../lexi/sodar">sodar</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: sodarya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: brotherhood, sisterhood
+    epo: frateco, fratineco, gefrateco
+    spa: fraternidad, hermandad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sodar + -ya
+...

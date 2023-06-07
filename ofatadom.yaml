@@ -1,0 +1,42 @@
+---
+term: ofatadom
+slug: ofatadom
+ipa: "ofata\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=ofata\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - source
+  spa:
+  - - origen
+search terms:
+  glb:
+  - ofatadom
+  eng:
+  - source
+  spa:
+  - origen
+etymology_type: DERIVD
+etymology: <a href="../lexi/of-">of-</a> + <a href="../lexi/ata">ata</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: ofatadom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: source
+    epo: ""
+    spa: origen
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: of- + ata + -dom
+...

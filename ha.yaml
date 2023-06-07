@@ -1,0 +1,61 @@
+---
+term: ha
+slug: ha
+ipa: ˈxa
+ipa link: http://ipa-reader.xyz/?text=ˈxa&voice=Ewa
+status: true
+category: root
+word class: il
+trans:
+  eng:
+  - - ha (_denotes surprise
+    - laughter
+    - etc._)
+  epo:
+  - - ha (_montras surprizon
+    - ridadon
+    - ktp._)
+  spa:
+  - - ja (_denota sorpresa
+    - risa
+    - etc._)
+search terms:
+  glb:
+  - ha
+  eng:
+  - ha denotes surprise
+  - ha (_denotes surprise
+  - laughter
+  - etc.
+  epo:
+  - ha montras surprizon
+  - ha (_montras surprizon
+  - ridadon
+  - ktp.
+  spa:
+  - ja denota sorpresa
+  - ja (_denota sorpresa
+  - risa
+  - etc.
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/haha">haha</a>.
+raw data:
+  term: ha
+  category: root
+  word class: il
+  status: true
+  trans:
+    eng: ha (_denotes surprise, laughter, etc._)
+    epo: ha (_montras surprizon, ridadon, ktp._)
+    spa: ja (_denota sorpresa, risa, etc._)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _haha_.
+...

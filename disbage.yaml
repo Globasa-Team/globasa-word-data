@@ -1,0 +1,67 @@
+---
+term: disbage
+slug: disbage
+ipa: "dis\u02C8bage"
+ipa link: "http://ipa-reader.xyz/?text=dis\u02C8bage&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - division
+    - partition
+  - - divide (up)
+    - share (out)
+    - portion (out)
+  epo:
+  - - dispartigo
+  - - dispartigi
+  spa:
+  - - "divisi\xF3n"
+    - "partici\xF3n"
+  - - dividir
+    - racionar
+search terms:
+  glb:
+  - disbage
+  eng:
+  - division
+  - partition
+  - divide up
+  - divide
+  - share out
+  - share
+  - portion out
+  - portion
+  epo:
+  - dispartigo
+  - dispartigi
+  spa:
+  - "divisi\xF3n"
+  - "partici\xF3n"
+  - dividir
+  - racionar
+etymology_type: DERIVD
+etymology: <a href="../lexi/dis-">dis-</a> + <a href="../lexi/bage">bage</a>
+synonyms:
+- vibaja
+raw data:
+  term: disbage
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: division, partition; divide (up), share (out), portion (out)
+    epo: dispartigo; dispartigi
+    spa: "divisi\xF3n, partici\xF3n; dividir, racionar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: vibaja
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dis- + bage
+...

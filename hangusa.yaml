@@ -1,0 +1,50 @@
+---
+term: hangusa
+slug: hangusa
+ipa: "xan\u02C8gusa"
+ipa link: "http://ipa-reader.xyz/?text=xan\u02C8gusa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Korean (language)
+  epo:
+  - - la korea (lingvo)
+  spa:
+  - - coreano (_idioma_)
+search terms:
+  glb:
+  - hangusa
+  eng:
+  - korean language
+  - korean
+  epo:
+  - la korea lingvo
+  - la korea
+  spa:
+  - coreano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Hangu">Hangu</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Hangusa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Korean (language)
+    epo: la korea (lingvo)
+    spa: coreano (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Hangu + -sa
+...

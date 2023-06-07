@@ -1,0 +1,54 @@
+---
+term: estodo
+slug: estodo
+ipa: "es\u02C8todo"
+ipa link: "http://ipa-reader.xyz/?text=es\u02C8todo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - stopped
+  epo:
+  - - "\u0109esigita"
+    - haltigita
+  - - "\u0109esigite"
+    - haltigite
+  spa:
+  - - detenido
+    - parado
+search terms:
+  glb:
+  - estodo
+  eng:
+  - stopped
+  epo:
+  - "\u0109esigita"
+  - haltigita
+  - "\u0109esigite"
+  - haltigite
+  spa:
+  - detenido
+  - parado
+etymology_type: DERIVD
+etymology: <a href="../lexi/esto">esto</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: estodo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: stopped
+    epo: "\u0109esigita, haltigita; \u0109esigite, haltigite"
+    spa: detenido, parado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: esto + -do
+...

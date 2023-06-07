@@ -1,0 +1,58 @@
+---
+term: basa
+slug: basa
+ipa: ˈbasa
+ipa link: http://ipa-reader.xyz/?text=ˈbasa&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - language
+  - - communicate via language
+  epo:
+  - - lingvo
+  - - lingve komuniki
+  spa:
+  - - idioma
+  - - comunicarse por medio del lenguaje
+search terms:
+  glb:
+  - basa
+  eng:
+  - language
+  - communicate via language
+  epo:
+  - lingvo
+  - lingve komuniki
+  spa:
+  - idioma
+  - comunicarse por medio del lenguaje
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - भाषा “bash”
+  Telugusa:
+  - - భాష “bhāṣa”
+  Indonesisa:
+  - - Bahasa
+raw data:
+  term: basa
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: language; communicate via language
+    epo: lingvo; lingve komuniki
+    spa: idioma; comunicarse por medio del lenguaje
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (भाषा “bash”), Telugusa (భాష “bhāṣa”), Indonesisa (Bahasa)
+...

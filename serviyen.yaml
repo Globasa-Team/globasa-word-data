@@ -1,0 +1,48 @@
+---
+term: serviyen
+slug: serviyen
+ipa: "se\u027Evi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=se\u027Evi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - server
+  epo:
+  - - servanto
+    - servisto
+  spa:
+  - - siervo
+search terms:
+  glb:
+  - serviyen
+  eng:
+  - server
+  epo:
+  - servanto
+  - servisto
+  spa:
+  - siervo
+etymology_type: DERIVD
+etymology: <a href="../lexi/servi">servi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: serviyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: server
+    epo: servanto, servisto
+    spa: siervo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: servi + -yen
+...

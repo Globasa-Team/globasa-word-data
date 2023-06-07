@@ -1,0 +1,73 @@
+---
+term: distrito
+slug: distrito
+ipa: disˈtɾito
+ipa link: http://ipa-reader.xyz/?text=disˈtɾito&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - district
+  epo:
+  - - distrikto
+  spa:
+  - - distrito
+search terms:
+  glb:
+  - distrito
+  eng:
+  - district
+  epo:
+  - distrikto
+  spa:
+  - distrito
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - district
+  Espanisa:
+  - - distrito
+  Fransesa:
+  - - district
+  Rusisa:
+  - - дистрикт "distrikt"
+  Doycisa:
+  - - Distrikt
+  Portugalsa:
+  - - distrito
+  Italisa:
+  - - distretto
+  Indonesisa:
+  - - distrik
+  Pilipinasa:
+  - - distrito
+  Hindisa:
+  - - डिस्ट्रिक्ट "distrikt"
+  Niponsa:
+  - - ディストリクト "disutorikuto"
+  Hangusa:
+  - - 디스트릭트 "disuturigtu"
+raw data:
+  term: distrito
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: district
+    epo: distrikto
+    spa: distrito
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (district), Espanisa (distrito), Fransesa (district), Rusisa
+    (дистрикт "distrikt"), Doycisa (Distrikt), Portugalsa (distrito), Italisa (distretto),
+    Indonesisa (distrik), Pilipinasa (distrito), Hindisa (डिस्ट्रिक्ट "distrikt"),
+    Niponsa (ディストリクト "disutorikuto"), Hangusa (디스트릭트 "disuturigtu")
+...

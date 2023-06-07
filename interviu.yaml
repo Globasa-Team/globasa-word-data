@@ -1,0 +1,52 @@
+---
+term: interviu
+slug: interviu
+ipa: "inte\u027E\u02C8viu"
+ipa link: "http://ipa-reader.xyz/?text=inte\u027E\u02C8viu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - interview
+  epo:
+  - - intervjuo
+  spa:
+  - - entrevista
+search terms:
+  glb:
+  - interviu
+  eng:
+  - interview
+  epo:
+  - intervjuo
+  spa:
+  - entrevista
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: interviu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: interview
+    epo: intervjuo
+    spa: entrevista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (interview), Fransesa (interview), Doyvisa (Interview), Indonesisa
+    (interviu), Rusisa (\u0438\u043D\u0442\u0435\u0440\u0432\u044C\u044E \u201Cintervyu\u201D),
+    Niponsa (\u30A4\u30F3\u30BF\u30D3\u30E5\u30FC \u201Cintabyu\u201D), Hangusa (\uC778\uD130\uBDF0
+    \u201Cintobyu\u201D), Hindisa (\u0907\u0902\u091F\u0930\u0935\u094D\u092F\u0942
+    \u201Cintaravyu\u201D), Telugusa (\u0C07\u0C02\u0C1F\u0C30\u0C4D\u0C35\u0C4D\u0C2F\u0C42
+    \u201Cintarvyu\u201D), Parsisa (\u0627\u06CC\u0646\u062A\u0631\u0648\u06CC\u0648\u200E
+    \u201Cintervyu\u201D)"
+...

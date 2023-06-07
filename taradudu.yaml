@@ -1,0 +1,69 @@
+---
+term: taradudu
+slug: taradudu
+ipa: "ta\u027Ea\u02C8dudu"
+ipa link: "http://ipa-reader.xyz/?text=ta\u027Ea\u02C8dudu&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - hesitation
+  - - hesitate
+  epo:
+  - - hezito
+  - - heziti
+  spa:
+  - - "vacilaci\xF3n"
+    - titubeo
+  - - vacilar
+    - dudar
+    - titubear
+search terms:
+  glb:
+  - taradudu
+  eng:
+  - hesitation
+  - hesitate
+  epo:
+  - hezito
+  - heziti
+  spa:
+  - "vacilaci\xF3n"
+  - titubeo
+  - vacilar
+  - dudar
+  - titubear
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u064E\u0631\u064E\u062F\u064F\u0651\u062F \u201Ctaradud\u201D"
+  - - "\u064A\u064E\u062A\u064E\u0631\u064E\u062F\u064E\u0651\u062F\u064F\u200E\u200E
+      \u201Cyataradadu\u201D"
+  Parsisa:
+  - - "\u062A\u0631\u062F\u06CC\u062F \u201Ctaradad\u201D"
+  Turkisa:
+  - - "teredd\xFCt"
+raw data:
+  term: taradudu
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: hesitation; hesitate
+    epo: hezito; heziti
+    spa: "vacilaci\xF3n, titubeo; vacilar, dudar, titubear"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u064E\u0631\u064E\u062F\u064F\u0651\u062F \u201Ctaradud\u201D;
+    \u064A\u064E\u062A\u064E\u0631\u064E\u062F\u064E\u0651\u062F\u064F\u200E\u200E
+    \u201Cyataradadu\u201D), Parsisa (\u062A\u0631\u062F\u06CC\u062F \u201Ctaradad\u201D),
+    Turkisa (teredd\xFCt)"
+...

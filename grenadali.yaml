@@ -1,0 +1,46 @@
+---
+term: grenadali
+slug: grenadali
+ipa: "g\u027Eena\u02C8dali"
+ipa link: "http://ipa-reader.xyz/?text=g\u027Eena\u02C8dali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Grenadian
+  epo:
+  - - grenada
+  spa:
+  - - granadino
+search terms:
+  glb:
+  - grenadali
+  eng:
+  - grenadian
+  epo:
+  - grenada
+  spa:
+  - granadino
+etymology_type: DERIVD
+etymology: <a href="../lexi/Grenada">Grenada</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Grenadali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Grenadian
+    epo: grenada
+    spa: granadino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Grenada + -li
+...

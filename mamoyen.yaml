@@ -1,0 +1,48 @@
+---
+term: mamoyen
+slug: mamoyen
+ipa: "mamo\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=mamo\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - mammal
+  epo:
+  - - mamulo
+    - mambesto
+  spa:
+  - - "mam\xEDfero"
+search terms:
+  glb:
+  - mamoyen
+  eng:
+  - mammal
+  epo:
+  - mamulo
+  - mambesto
+  spa:
+  - "mam\xEDfero"
+etymology_type: DERIVD
+etymology: <a href="../lexi/mamo">mamo</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: mamoyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: mammal
+    epo: mamulo, mambesto
+    spa: "mam\xEDfero"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mamo + -yen
+...

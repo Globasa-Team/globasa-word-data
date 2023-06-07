@@ -1,0 +1,70 @@
+---
+term: perfeto
+slug: perfeto
+ipa: "pe\u027E\u02C8feto"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027E\u02C8feto&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - perfect
+    - perfectly
+  epo:
+  - - perfekta
+  - - perfekte
+  spa:
+  - - perfecto
+search terms:
+  glb:
+  - perfeto
+  eng:
+  - perfect
+  - perfectly
+  epo:
+  - perfekta
+  - perfekte
+  spa:
+  - perfecto
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - perfect
+  Fransesa:
+  - - parfait
+  Doycisa:
+  - - perfekt
+  Rusisa:
+  - - "\u043F\u0435\u0440\u0444\u0435\u043A\u0442 \u201Cperfekt\u201D"
+  Espanisa:
+  - - perfecto
+  Portugalsa:
+  - - perfeito
+  Italisa:
+  - - perfetto
+  Pilipinasa:
+  - - perpekto
+  Parsisa:
+  - - "\u067E\u0631\u0641\u06A9\u062A \u201Cperfekt\u201D"
+raw data:
+  term: perfeto
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: perfect, perfectly
+    epo: perfekta; perfekte
+    spa: perfecto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (perfect), Fransesa (parfait), Doycisa (perfekt), Rusisa (\u043F\u0435\u0440\u0444\u0435\u043A\u0442
+    \u201Cperfekt\u201D), Espanisa (perfecto), Portugalsa (perfeito), Italisa (perfetto),
+    Pilipinasa (perpekto), Parsisa (\u067E\u0631\u0641\u06A9\u062A \u201Cperfekt\u201D)"
+...

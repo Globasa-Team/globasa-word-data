@@ -1,0 +1,46 @@
+---
+term: dentabroxa
+slug: dentabroxa
+ipa: "denta\u02C8b\u027Eo\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=denta\u02C8b\u027Eo\u0283a&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - toothbrush
+  epo:
+  - - dentbroso
+  spa:
+  - - cepillo de dientes
+search terms:
+  glb:
+  - dentabroxa
+  eng:
+  - toothbrush
+  epo:
+  - dentbroso
+  spa:
+  - cepillo de dientes
+etymology_type: DERIVD
+etymology: <a href="../lexi/denta">denta</a> + <a href="../lexi/broxa">broxa</a>
+raw data:
+  term: dentabroxa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: toothbrush
+    epo: dentbroso
+    spa: cepillo de dientes
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: denta + broxa
+...

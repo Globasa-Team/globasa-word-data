@@ -1,0 +1,52 @@
+---
+term: tongoyen
+slug: tongoyen
+ipa: "tongo\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=tongo\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - companion
+    - company
+    - partner
+  epo:
+  - - kunulo
+  spa:
+  - - "compa\xF1ero"
+search terms:
+  glb:
+  - tongoyen
+  eng:
+  - companion
+  - company
+  - partner
+  epo:
+  - kunulo
+  spa:
+  - "compa\xF1ero"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tongo">tongo</a> + <a href="../lexi/-yen">-yen</a>
+synonyms:
+- tonyen
+raw data:
+  term: tongoyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: companion, company, partner
+    epo: kunulo
+    spa: "compa\xF1ero"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: tonyen
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tongo + -yen
+...

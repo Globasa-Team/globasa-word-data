@@ -1,0 +1,56 @@
+---
+term: fiji
+slug: fiji
+ipa: "\u02C8fid\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8fid\u0361\u0292i&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Fiji
+  epo:
+  - - "Fi\u011Dio"
+    - "Fi\u011Dioj"
+  spa:
+  - - Fiji
+search terms:
+  glb:
+  - fiji
+  eng:
+  - fiji
+  epo:
+  - "fi\u011Dio"
+  - "fi\u011Dioj"
+  spa:
+  - fiji
+etymology_type: NATLNG
+etymology:
+  Fijisa:
+  - - Viti
+  Fijili Hindisa:
+  - - "Fij\u012B"
+  Englisa:
+  - - Fiji
+tags:
+- dexa
+raw data:
+  term: Fiji
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Fiji
+    epo: "Fi\u011Dio, Fi\u011Dioj"
+    spa: Fiji
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Fijisa (Viti), Fijili Hindisa (Fij\u012B), Englisa (Fiji)"
+...

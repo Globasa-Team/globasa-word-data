@@ -1,0 +1,63 @@
+---
+term: ojeto
+slug: ojeto
+ipa: "o\u02C8d\u0361\u0292eto"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8d\u0361\u0292eto&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - object (_grammar_)
+  epo:
+  - - objekto (_gramatiko_)
+  spa:
+  - - objeto
+    - "complemento (_gram\xE1tica_)"
+search terms:
+  glb:
+  - ojeto
+  eng:
+  - object
+  epo:
+  - objekto
+  spa:
+  - objeto
+  - complemento
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - object
+  Espanisa:
+  - - objeto
+  Fransesa:
+  - - objet
+  Rusisa:
+  - - "\u043E\u0431\u044A\u0435\u043A\u0442 \u201Cobjekt\u201D"
+  Doycisa:
+  - - Objekt
+  Indonesisa:
+  - - objek
+tags:
+- gramati
+raw data:
+  term: ojeto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: object (_grammar_)
+    epo: objekto (_gramatiko_)
+    spa: "objeto, complemento (_gram\xE1tica_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gramati
+  etymology: "Englisa (object), Espanisa (objeto), Fransesa (objet), Rusisa (\u043E\u0431\u044A\u0435\u043A\u0442
+    \u201Cobjekt\u201D), Doycisa (Objekt), Indonesisa (objek)"
+...

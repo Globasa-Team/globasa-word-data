@@ -1,0 +1,48 @@
+---
+term: eskoldoku
+slug: eskoldoku
+ipa: "eskol\u02C8doku"
+ipa link: "http://ipa-reader.xyz/?text=eskol\u02C8doku&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - diploma
+    - degree
+  epo:
+  - - diplomo
+  spa:
+  - - diploma
+search terms:
+  glb:
+  - eskoldoku
+  eng:
+  - diploma
+  - degree
+  epo:
+  - diplomo
+  spa:
+  - diploma
+etymology_type: DERIVD
+etymology: <a href="../lexi/eskol">eskol</a> + <a href="../lexi/-doku">-doku</a>
+raw data:
+  term: eskoldoku
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: diploma, degree
+    epo: diplomo
+    spa: diploma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: eskol + -doku
+...

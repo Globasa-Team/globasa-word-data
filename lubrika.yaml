@@ -1,0 +1,55 @@
+---
+term: lubrika
+slug: lubrika
+ipa: "lu\u02C8b\u027Eika"
+ipa link: "http://ipa-reader.xyz/?text=lu\u02C8b\u027Eika&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - lubrication
+  - - lubricate
+  epo:
+  - - lubriko
+  - - lubriki
+  spa:
+  - - "lubricaci\xF3n"
+  - - lubricar
+    - lubricarse
+search terms:
+  glb:
+  - lubrika
+  eng:
+  - lubrication
+  - lubricate
+  epo:
+  - lubriko
+  - lubriki
+  spa:
+  - "lubricaci\xF3n"
+  - lubricar
+  - lubricarse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lubrika
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: lubrication; lubricate
+    epo: lubriko; lubriki
+    spa: "lubricaci\xF3n; lubricar, lubricarse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lubrication, lubricate), Espanisa (lubricaci\xF3n), Fransesa
+    (lubrification), Indonesisa (lubrikasi), Pilipinasa (lubrikasyon), Turkisa (lubrikasyon)"
+...

@@ -1,0 +1,51 @@
+---
+term: kwarentin
+slug: kwarentin
+ipa: "kwa\u027Een\u02C8tin"
+ipa link: "http://ipa-reader.xyz/?text=kwa\u027Een\u02C8tin&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - quarantine
+  epo:
+  - - kvaranteno
+  spa:
+  - - cuarentena
+search terms:
+  glb:
+  - kwarentin
+  eng:
+  - quarantine
+  epo:
+  - kvaranteno
+  spa:
+  - cuarentena
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kwarentin
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: quarantine
+    epo: kvaranteno
+    spa: cuarentena
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (quarantine), Espanisa (cuarentena), Fransesa (quarantaine),
+    Rusisa (\u043A\u0430\u0440\u0430\u043D\u0442\u0438\u043D \"karantin\"), Doycisa
+    (Quarant\xE4ne), Indonesisa (karantina), Pilipinasa (kuwarentenas), Hindisa (\u0915\u094D\u0935\u093E\u0930\u0902\u091F\u0940\u0928
+    \"kvarantin\"), Arabisa (\u0643\u064E\u0631\u064E\u0646\u0652\u062A\u0650\u064A\u0646\u064E\u0629
+    \"karantina\"), Turkisa (karantina), Parsisa (\u0642\u0631\u0646\u0637\u06CC\u0646\u0647
+    \"karantine\"), Swahilisa (karantini)"
+...

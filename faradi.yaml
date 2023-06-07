@@ -1,0 +1,102 @@
+---
+term: faradi
+slug: faradi
+ipa: faˈɾadi
+ipa link: http://ipa-reader.xyz/?text=faˈɾadi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - farad
+  epo:
+  - - farado (mezurunuo)
+  spa:
+  - - _farad_
+    - faradio
+    - F
+  deu:
+  - - Farad
+  fra:
+  - - farad
+  rus:
+  - - фарад
+  zho:
+  - - 法拉
+search terms:
+  glb:
+  - faradi
+  eng:
+  - farad
+  epo:
+  - farado mezurunuo
+  - farado
+  spa:
+  - farad
+  - faradio
+  - f
+  deu:
+  - farad
+  fra:
+  - farad
+  rus:
+  - фарад
+  zho:
+  - 法拉
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - farad
+  Espanisa:
+  - - faradio
+  Fransesa:
+  - - farad
+  Rusisa:
+  - - фарад “farad”
+  Doycisa:
+  - - Farad
+  Indonesisa:
+  - - farad
+  Pilipinasa:
+  - - parad
+  Putunhwa:
+  - - 法拉 “fala”
+  Hindisa:
+  - - फैरड “ferad”
+  Arabisa:
+  - - فَارَاد “farad”
+  Niponsa:
+  - - ファラド “farado”
+  Turkisa:
+  - - farad
+  Hangusa:
+  - - 패럿 “perot”
+  Vyetnamsa:
+  - - fara
+    - farad
+  Parsisa:
+  - - فاراد “farad”
+raw data:
+  term: faradi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: farad
+    epo: farado (mezurunuo)
+    spa: _farad_, faradio, F
+    deu: Farad
+    fra: farad
+    rus: фарад
+    zho: 法拉
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (farad), Espanisa (faradio), Fransesa (farad), Rusisa (фарад
+    “farad”), Doycisa (Farad), Indonesisa (farad), Pilipinasa (parad), Putunhwa (法拉
+    “fala”), Hindisa (फैरड “ferad”), Arabisa (فَارَاد “farad”), Niponsa (ファラド “farado”),
+    Turkisa (farad), Hangusa (패럿 “perot”), Vyetnamsa (fara, farad), Parsisa (فاراد
+    “farad”)
+...

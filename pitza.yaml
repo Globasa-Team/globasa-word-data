@@ -1,0 +1,59 @@
+---
+term: pitza
+slug: pitza
+ipa: "\u02C8pitza"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pitza&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pizza
+  epo:
+  - - pico
+  spa:
+  - - _pizza_
+search terms:
+  glb:
+  - pitza
+  eng:
+  - pizza
+  epo:
+  - pico
+  spa:
+  - pizza
+etymology_type: NATLNG
+etymology:
+  Italisa:
+  - - pizza
+  Englisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Putunhwa: ~
+  Arabisa: ~
+  Hindisa: ~
+tags:
+- yamxey
+raw data:
+  term: pitza
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pizza
+    epo: pico
+    spa: _pizza_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Italisa (pizza), Englisa ( ), Fransesa, Doycisa, Rusisa, Espanisa, Putunhwa,
+    Arabisa, Hindisa
+...

@@ -1,0 +1,50 @@
+---
+term: dessabeple
+slug: dessabeple
+ipa: "dessa\u02C8beple"
+ipa link: "http://ipa-reader.xyz/?text=dessa\u02C8beple&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - septendecuple
+    - seventeenfold
+  epo:
+  - - deksepobla
+  - - deksepoble
+  spa:
+  - - "septend\xE9cuple"
+search terms:
+  glb:
+  - dessabeple
+  eng:
+  - septendecuple
+  - seventeenfold
+  epo:
+  - deksepobla
+  - deksepoble
+  spa:
+  - "septend\xE9cuple"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/sabe">sabe</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: dessabeple
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: septendecuple, seventeenfold
+    epo: deksepobla; deksepoble
+    spa: "septend\xE9cuple"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + sabe + -ple
+...

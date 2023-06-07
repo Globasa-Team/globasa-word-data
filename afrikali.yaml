@@ -1,0 +1,46 @@
+---
+term: afrikali
+slug: afrikali
+ipa: "af\u027Ei\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=af\u027Ei\u02C8kali&voice=Ewa"
+status: true
+category: derived
+word class: t
+trans:
+  eng:
+  - - African (_relating to Africa and its people_)
+  epo:
+  - - afrika
+  spa:
+  - - africano
+search terms:
+  glb:
+  - afrikali
+  eng:
+  - african
+  epo:
+  - afrika
+  spa:
+  - africano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Afrika">Afrika</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Afrikali
+  category: derived
+  word class: t
+  status: true
+  trans:
+    eng: African (_relating to Africa and its people_)
+    epo: afrika
+    spa: africano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Afrika + -li
+...

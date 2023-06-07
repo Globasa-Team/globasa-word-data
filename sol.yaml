@@ -1,0 +1,58 @@
+---
+term: sol
+slug: sol
+ipa: "\u02C8sol"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sol&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - only
+    - merely
+    - just
+    - a mere
+  epo:
+  - - nur
+  spa:
+  - - "s\xF3lo"
+    - solamente
+    - simple
+    - mero
+search terms:
+  glb:
+  - sol
+  eng:
+  - only
+  - merely
+  - just
+  - a mere
+  epo:
+  - nur
+  spa:
+  - "s\xF3lo"
+  - solamente
+  - simple
+  - mero
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/solo">solo</a>.
+raw data:
+  term: sol
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: only, merely, just, a mere
+    epo: nur
+    spa: "s\xF3lo, solamente, simple, mero"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: only, merely, just, a mere, mere
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _solo_.
+...

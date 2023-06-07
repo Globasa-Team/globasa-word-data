@@ -1,0 +1,52 @@
+---
+term: syeraleon
+slug: syeraleon
+ipa: "sje\u027Eale\u02C8on"
+ipa link: "http://ipa-reader.xyz/?text=sje\u027Eale\u02C8on&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Sierra Leone
+  epo:
+  - - Sieraleono
+    - Siera-Leono
+  spa:
+  - - Sierra Leona
+search terms:
+  glb:
+  - syeraleon
+  eng:
+  - sierra leone
+  epo:
+  - sieraleono
+  - siera-leono
+  spa:
+  - sierra leona
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Sierra Leone
+tags:
+- dexa
+raw data:
+  term: Syeraleon
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Sierra Leone
+    epo: Sieraleono, Siera-Leono
+    spa: Sierra Leona
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Sierra Leone)
+...

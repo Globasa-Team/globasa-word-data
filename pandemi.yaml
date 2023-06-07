@@ -1,0 +1,76 @@
+---
+term: pandemi
+slug: pandemi
+ipa: "pan\u02C8demi"
+ipa link: "http://ipa-reader.xyz/?text=pan\u02C8demi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pandemic
+  epo:
+  - - pandemio
+  spa:
+  - - pandemia
+search terms:
+  glb:
+  - pandemi
+  eng:
+  - pandemic
+  epo:
+  - pandemio
+  spa:
+  - pandemia
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Pandemie
+  Englisa:
+  - - pandemic
+  Espanisa:
+  - - pandemia
+  Fransesa:
+  - - "pand\xE9mie"
+  Rusisa:
+  - - "\u043F\u0430\u043D\u0434\u0435\u043C\u0438\u044F \u201Cpandemiya\u201D"
+  Turkisa:
+  - - pandemi
+  Indonesisa:
+  - - pendemi
+  Pilipinasa:
+  - - pandemya
+  Niponsa:
+  - - "\u30D1\u30F3\u30C7\u30DF\u30C3\u30AF \u201Cpandemikku\u201D"
+  Hangusa:
+  - - "\uD32C\uB370\uBBF9 \u201Cpendemik\u201D"
+  Parsisa:
+  - - "\u067E\u0627\u0646\u062F\u0645\u06CC \u201Cp\xE2ndemi\u201D"
+  Swahilisa:
+  - - pandemia
+tags:
+- medis
+raw data:
+  term: pandemi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pandemic
+    epo: pandemio
+    spa: pandemia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Doycisa (Pandemie), Englisa (pandemic), Espanisa (pandemia), Fransesa
+    (pand\xE9mie), Rusisa (\u043F\u0430\u043D\u0434\u0435\u043C\u0438\u044F \u201Cpandemiya\u201D),
+    Turkisa (pandemi), Indonesisa (pendemi), Pilipinasa (pandemya), Niponsa (\u30D1\u30F3\u30C7\u30DF\u30C3\u30AF
+    \u201Cpandemikku\u201D), Hangusa (\uD32C\uB370\uBBF9 \u201Cpendemik\u201D), Parsisa
+    (\u067E\u0627\u0646\u062F\u0645\u06CC \u201Cp\xE2ndemi\u201D), Swahilisa (pandemia)"
+...

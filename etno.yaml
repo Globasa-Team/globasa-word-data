@@ -1,0 +1,68 @@
+---
+term: etno
+slug: etno
+ipa: ˈetno
+ipa link: http://ipa-reader.xyz/?text=ˈetno&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ethnicity
+    - ethnic group
+  epo:
+  - - etno
+    - etna grupo
+  spa:
+  - - etnia
+    - grupo étnico
+search terms:
+  glb:
+  - etno
+  eng:
+  - ethnicity
+  - ethnic group
+  epo:
+  - etno
+  - etna grupo
+  spa:
+  - etnia
+  - grupo étnico
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - ethnologie
+  Englisa:
+  - - ethnology
+  Espanisa:
+  - - etnología
+  Fransesa:
+  - - ethnologie
+  Rusisa:
+  - - этнология “etnologiya”
+  Indonesisa:
+  - - etnologi
+  Turkisa:
+  - - etnoloji
+raw data:
+  term: etno
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ethnicity, ethnic group
+    epo: etno, etna grupo
+    spa: etnia, grupo étnico
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (ethnologie), Englisa (ethnology), Espanisa (etnología), Fransesa
+    (ethnologie), Rusisa (этнология “etnologiya”), Indonesisa (etnologi), Turkisa
+    (etnoloji)
+...

@@ -1,0 +1,61 @@
+---
+term: destrui
+slug: destrui
+ipa: desˈtɾui
+ipa link: http://ipa-reader.xyz/?text=desˈtɾui&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - destruction
+  - - destroy
+  epo:
+  - - detruo
+  - - detrui
+  spa:
+  - - destrucción
+  - - destruir
+search terms:
+  glb:
+  - destrui
+  eng:
+  - destruction
+  - destroy
+  epo:
+  - detruo
+  - detrui
+  spa:
+  - destrucción
+  - destruir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - destroy
+  Doycisa:
+  - - destruieren
+  Fransesa:
+  - - détruire
+  Espanisa:
+  - - destruir
+raw data:
+  term: destrui
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: destruction; destroy
+    epo: detruo; detrui
+    spa: destrucción; destruir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (destroy), Doycisa (destruieren), Fransesa (détruire), Espanisa
+    (destruir)
+...

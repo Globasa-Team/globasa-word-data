@@ -1,0 +1,50 @@
+---
+term: sokutugi
+slug: sokutugi
+ipa: "soku\u02C8tugi"
+ipa link: "http://ipa-reader.xyz/?text=soku\u02C8tugi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - drop
+  epo:
+  - - faligo
+  - - faligi
+  spa:
+  - - dejar caer
+    - tirar
+search terms:
+  glb:
+  - sokutugi
+  eng:
+  - drop
+  epo:
+  - faligo
+  - faligi
+  spa:
+  - dejar caer
+  - tirar
+etymology_type: DERIVD
+etymology: <a href="../lexi/sokutu">sokutu</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: sokutugi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: drop
+    epo: faligo; faligi
+    spa: dejar caer, tirar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sokutu + -gi
+...

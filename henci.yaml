@@ -1,0 +1,55 @@
+---
+term: henci
+slug: henci
+ipa: "\u02C8xent\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xent\u0361\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - dedication
+  - - dedicate (_publishing_)
+  epo:
+  - - "dedi\u0109o"
+    - "dedi\u0109a perskribo"
+  - - "dedi\u0109i"
+  spa:
+  - - dedicatoria
+  - - dedicar
+search terms:
+  glb:
+  - henci
+  eng:
+  - dedication
+  - dedicate
+  epo:
+  - "dedi\u0109o"
+  - "dedi\u0109a perskribo"
+  - "dedi\u0109i"
+  spa:
+  - dedicatoria
+  - dedicar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: henci
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: dedication; dedicate (_publishing_)
+    epo: "dedi\u0109o, dedi\u0109a perskribo; dedi\u0109i"
+    spa: dedicatoria; dedicar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u732E\u8BCD \"xyenci\"), Niponsa (\u732E\u8A5E \"kenxi\",
+    \u732E\u8F9E \"kenji\"), Hangusa (\uD5CC\uC0AC \"honsa\")"
+...

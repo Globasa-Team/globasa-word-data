@@ -1,0 +1,53 @@
+---
+term: memorigi
+slug: memorigi
+ipa: "memo\u02C8\u027Eigi"
+ipa link: "http://ipa-reader.xyz/?text=memo\u02C8\u027Eigi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - reminder
+  - - remind
+  epo:
+  - - memorigo
+  - - memorigi
+  spa:
+  - - recordatorio
+  - - (hacer) recordar
+search terms:
+  glb:
+  - memorigi
+  eng:
+  - reminder
+  - remind
+  epo:
+  - memorigo
+  - memorigi
+  spa:
+  - recordatorio
+  - hacer recordar
+  - recordar
+etymology_type: DERIVD
+etymology: <a href="../lexi/memori">memori</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: memorigi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: reminder; remind
+    epo: memorigo; memorigi
+    spa: recordatorio; (hacer) recordar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: memori + -gi
+...

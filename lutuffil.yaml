@@ -1,0 +1,64 @@
+---
+term: lutuffil
+slug: lutuffil
+ipa: "lutuf\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=lutuf\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - kind
+    - nice
+  - - kindly
+    - nicely
+  epo:
+  - - bonvolema
+    - afabla
+    - komplezema
+  - - bonvoleme
+  spa:
+  - - "cort\xE9s"
+    - amable
+  - - "cort\xE9smente"
+    - amablemente
+search terms:
+  glb:
+  - lutuffil
+  eng:
+  - kind
+  - nice
+  - kindly
+  - nicely
+  epo:
+  - bonvolema
+  - afabla
+  - komplezema
+  - bonvoleme
+  spa:
+  - "cort\xE9s"
+  - amable
+  - "cort\xE9smente"
+  - amablemente
+etymology_type: DERIVD
+etymology: <a href="../lexi/lutuf">lutuf</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: lutuffil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: kind, nice; kindly, nicely
+    epo: bonvolema, afabla, komplezema; bonvoleme
+    spa: "cort\xE9s, amable; cort\xE9smente, amablemente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lutuf + -fil
+...

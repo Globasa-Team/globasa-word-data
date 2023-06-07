@@ -1,0 +1,48 @@
+---
+term: labyali
+slug: labyali
+ipa: "la\u02C8bjali"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8bjali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - labial
+  epo:
+  - - lipa
+  - - lipe
+  spa:
+  - - labial
+search terms:
+  glb:
+  - labyali
+  eng:
+  - labial
+  epo:
+  - lipa
+  - lipe
+  spa:
+  - labial
+etymology_type: DERIVD
+etymology: <a href="../lexi/labya">labya</a> + <a href="../lexi/li">li</a>
+raw data:
+  term: labyali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: labial
+    epo: lipa; lipe
+    spa: labial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: labya + li
+...

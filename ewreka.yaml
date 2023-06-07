@@ -1,0 +1,85 @@
+---
+term: ewreka
+slug: ewreka
+ipa: ewˈɾeka
+ipa link: http://ipa-reader.xyz/?text=ewˈɾeka&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - discovery
+    - find
+    - finding
+  - - discover
+    - find
+  epo:
+  - - trovo
+    - malkovro
+  - - trovi
+    - malkovri
+  spa:
+  - - descubrimiento
+    - hallazgo
+  - - descubrir
+    - encontrar
+    - hallar
+search terms:
+  glb:
+  - ewreka
+  eng:
+  - discovery
+  - find
+  - finding
+  - discover
+  epo:
+  - trovo
+  - malkovro
+  - trovi
+  - malkovri
+  spa:
+  - descubrimiento
+  - hallazgo
+  - descubrir
+  - encontrar
+  - hallar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - eureka
+  Espanisa:
+  - - eureka
+  Fransesa:
+  - - eurêka
+  Doycisa:
+  - - heureka
+  Hindisa:
+  - - यूरेका  “yureka”
+  Niponsa:
+  - - ユーレカ “yureka”
+  Rusisa:
+  - - эврика “evrika”
+  Turkisa:
+  - - efreka
+raw data:
+  term: ewreka
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: discovery, find, finding; discover, find
+    epo: trovo, malkovro; trovi, malkovri
+    spa: descubrimiento, hallazgo; descubrir, encontrar, hallar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (eureka), Espanisa (eureka), Fransesa (eurêka), Doycisa (heureka),
+    Hindisa (यूरेका  “yureka”), Niponsa (ユーレカ “yureka”), Rusisa (эврика “evrika”),
+    Turkisa (efreka)
+...

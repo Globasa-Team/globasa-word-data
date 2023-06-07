@@ -1,0 +1,48 @@
+---
+term: mixturamon
+slug: mixturamon
+ipa: "mi\u0283tu\u027Ea\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=mi\u0283tu\u027Ea\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ingredient
+  epo:
+  - - ingredienco
+    - "konsista\u0135o"
+  spa:
+  - - ingrediente
+search terms:
+  glb:
+  - mixturamon
+  eng:
+  - ingredient
+  epo:
+  - ingredienco
+  - "konsista\u0135o"
+  spa:
+  - ingrediente
+etymology_type: DERIVD
+etymology: <a href="../lexi/mixtura">mixtura</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: mixturamon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ingredient
+    epo: "ingredienco, konsista\u0135o"
+    spa: ingrediente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mixtura + -mon
+...

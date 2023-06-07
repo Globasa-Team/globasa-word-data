@@ -1,0 +1,67 @@
+---
+term: pelake
+slug: pelake
+ipa: "pe\u02C8lake"
+ipa link: "http://ipa-reader.xyz/?text=pe\u02C8lake&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - eyelid
+  - - blink
+  epo:
+  - - palpebro
+  - - palpebrumi
+  spa:
+  - - "p\xE1rpado"
+  - - parpadear
+search terms:
+  glb:
+  - pelake
+  eng:
+  - eyelid
+  - blink
+  epo:
+  - palpebro
+  - palpebrumi
+  spa:
+  - "p\xE1rpado"
+  - parpadear
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u092A\u0932\u0915 \u201Cpalak\u201D"
+  Parsisa:
+  - - "\u067E\u0644\u06A9 \u201Cpelk\u201D"
+    - "\u201Cpelak\u201D"
+  Italisa:
+  - - palpebra
+  Portugalsa:
+  - - "p\xE1lpebra"
+  Indonesisa:
+  - - pelupuk
+tags:
+- jismulogi
+raw data:
+  term: pelake
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: eyelid; blink
+    epo: palpebro; palpebrumi
+    spa: "p\xE1rpado; parpadear"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Hindisa (\u092A\u0932\u0915 \u201Cpalak\u201D), Parsisa (\u067E\u0644\u06A9
+    \u201Cpelk\u201D, \u201Cpelak\u201D), Italisa (palpebra), Portugalsa (p\xE1lpebra),
+    Indonesisa (pelupuk)"
+...

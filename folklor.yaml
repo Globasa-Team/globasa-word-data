@@ -1,0 +1,66 @@
+---
+term: folklor
+slug: folklor
+ipa: folˈkloɾ
+ipa link: http://ipa-reader.xyz/?text=folˈkloɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - folklore
+  epo:
+  - - folkloro
+  spa:
+  - - folclor
+search terms:
+  glb:
+  - folklor
+  eng:
+  - folklore
+  epo:
+  - folkloro
+  spa:
+  - folclor
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - folklore
+  Espanisa:
+  - - folclor
+  Fransesa:
+  - - folklore
+  Rusisa:
+  - - фольклор "folklor"
+  Indonesisa:
+  - - folklor
+  Pilipinasa:
+  - - polklor
+  Arabisa:
+  - - فلكلور "folklor"
+  Turkisa:
+  - - folklor
+  Parsisa:
+  - - فولکلور "folkolôr"
+raw data:
+  term: folklor
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: folklore
+    epo: folkloro
+    spa: folclor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (folklore), Espanisa (folclor), Fransesa (folklore), Rusisa (фольклор
+    "folklor"), Indonesisa (folklor), Pilipinasa (polklor), Arabisa (فلكلور "folklor"),
+    Turkisa (folklor), Parsisa (فولکلور "folkolôr")
+...

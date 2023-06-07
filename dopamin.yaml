@@ -1,0 +1,76 @@
+---
+term: dopamin
+slug: dopamin
+ipa: dopaˈmin
+ipa link: http://ipa-reader.xyz/?text=dopaˈmin&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dopamine
+  epo:
+  - - dopamino
+  spa:
+  - - dopamina
+search terms:
+  glb:
+  - dopamin
+  eng:
+  - dopamine
+  epo:
+  - dopamino
+  spa:
+  - dopamina
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - dopamine
+  Fransesa: ~
+  Espanisa:
+  - - dopamina
+  Portugalsa: ~
+  Italisa: ~
+  Rusisa:
+  - - дофамин “dofamin”
+  Doycisa:
+  - - Dopamin
+  Indonesisa: ~
+  Turkisa: ~
+  Putunhwa:
+  - - 多巴胺 “duōbā'àn”
+  Niponsa:
+  - - ドーパミン “dōpamin”
+  Hangusa:
+  - - 도파민 “dopamin”
+  Parsisa:
+  - - دوپامین‎
+  Swahilisa:
+  - - dopamini
+  Pilipinasa:
+  - - dopamino
+tags:
+- medis
+raw data:
+  term: dopamin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dopamine
+    epo: dopamino
+    spa: dopamina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: Englisa (dopamine), Fransesa, Espanisa (dopamina), Portugalsa, Italisa,
+    Rusisa (дофамин “dofamin”), Doycisa (Dopamin), Indonesisa, Turkisa, Putunhwa (多巴胺
+    “duōbā'àn”), Niponsa (ドーパミン “dōpamin”), Hangusa (도파민 “dopamin”), Parsisa (دوپامین‎),
+    Swahilisa (dopamini), Pilipinasa (dopamino)
+...

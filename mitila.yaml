@@ -1,0 +1,57 @@
+---
+term: mitila
+slug: mitila
+ipa: "mi\u02C8tila"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8tila&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Mithila
+    - Tirhut
+    - Tirabhukti (_geographical and cultural region of the Indian subcontinent_)
+  epo:
+  - - Maitilio
+    - Maitilujo
+    - Mithila
+  spa:
+  - - "Mithila (_regi\xF3n dividida entre India y Nepal_)"
+search terms:
+  glb:
+  - mitila
+  eng:
+  - mithila
+  - tirhut
+  - tirabhukti
+  epo:
+  - maitilio
+  - maitilujo
+  - mithila
+  spa:
+  - mithila
+etymology_type: NATLNG
+etymology:
+  Mitilasa:
+  - - "\u092E\u093F\u0925\u093F\u0932\u093E \u201Cmitila\u201D"
+raw data:
+  term: Mitila
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Mithila, Tirhut, Tirabhukti (_geographical and cultural region of the Indian
+      subcontinent_)
+    epo: Maitilio, Maitilujo, Mithila
+    spa: "Mithila (_regi\xF3n dividida entre India y Nepal_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Mitilasa (\u092E\u093F\u0925\u093F\u0932\u093E \u201Cmitila\u201D)"
+...

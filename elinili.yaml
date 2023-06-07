@@ -1,0 +1,46 @@
+---
+term: elinili
+slug: elinili
+ipa: "eli\u02C8nili"
+ipa link: "http://ipa-reader.xyz/?text=eli\u02C8nili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Greek
+  epo:
+  - - greka
+  spa:
+  - - griego
+search terms:
+  glb:
+  - elinili
+  eng:
+  - greek
+  epo:
+  - greka
+  spa:
+  - griego
+etymology_type: DERIVD
+etymology: <a href="../lexi/Elini">Elini</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Elinili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Greek
+    epo: greka
+    spa: griego
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Elini + -li
+...

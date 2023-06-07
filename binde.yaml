@@ -1,0 +1,73 @@
+---
+term: binde
+slug: binde
+ipa: ˈbinde
+ipa link: http://ipa-reader.xyz/?text=ˈbinde&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - binding
+  - - tie
+    - bind
+    - fasten (together)
+  epo:
+  - - bindo
+    - (kun)ligo
+  - - bindi
+    - (kun)ligi
+  spa:
+  - - amarre
+    - atadura
+  - - amarrar
+    - atar
+search terms:
+  glb:
+  - binde
+  eng:
+  - binding
+  - tie
+  - bind
+  - fasten together
+  - fasten
+  epo:
+  - bindo
+  - kunligo
+  - ligo
+  - bindi
+  - kunligi
+  - ligi
+  spa:
+  - amarre
+  - atadura
+  - amarrar
+  - atar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bind
+  Doycisa:
+  - - binden
+  Hindisa:
+  - - बांधना “bandana”
+raw data:
+  term: binde
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: binding; tie, bind, fasten (together)
+    epo: bindo, (kun)ligo; bindi, (kun)ligi
+    spa: amarre, atadura; amarrar, atar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (bind), Doycisa (binden), Hindisa (बांधना “bandana”)
+...

@@ -1,0 +1,51 @@
+---
+term: proya
+slug: proya
+ipa: "\u02C8p\u027Eoja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8p\u027Eoja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - be for
+    - be in favor (of)
+  epo:
+  - - favoro
+  - - favori
+  spa:
+  - - estar a favor de
+search terms:
+  glb:
+  - proya
+  eng:
+  - be for
+  - be in favor of
+  - be in favor
+  epo:
+  - favoro
+  - favori
+  spa:
+  - estar a favor de
+etymology_type: DERIVD
+etymology: <a href="../lexi/pro">pro</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: proya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: be for, be in favor (of)
+    epo: favoro; favori
+    spa: estar a favor de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pro + -ya
+...

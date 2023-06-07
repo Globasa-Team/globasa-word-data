@@ -1,0 +1,50 @@
+---
+term: sunatofa
+slug: sunatofa
+ipa: "suna\u02C8tofa"
+ipa link: "http://ipa-reader.xyz/?text=suna\u02C8tofa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - wig
+    - toupee
+    - hairpiece
+  epo:
+  - - peruko
+  spa:
+  - - peluca
+search terms:
+  glb:
+  - sunatofa
+  eng:
+  - wig
+  - toupee
+  - hairpiece
+  epo:
+  - peruko
+  spa:
+  - peluca
+etymology_type: DERIVD
+etymology: <a href="../lexi/suna">suna</a> + <a href="../lexi/tofa">tofa</a>
+raw data:
+  term: sunatofa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: wig, toupee, hairpiece
+    epo: peruko
+    spa: peluca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: suna + tofa
+...

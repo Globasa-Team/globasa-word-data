@@ -1,0 +1,65 @@
+---
+term: bur
+slug: bur
+ipa: ˈbuɾ
+ipa link: http://ipa-reader.xyz/?text=ˈbuɾ&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - bad
+    - badly
+    - evil
+    - negative
+  epo:
+  - - malbona
+    - aĉa
+    - fia
+  - - malbone
+  spa:
+  - - malo
+  - - mal
+search terms:
+  glb:
+  - bur
+  eng:
+  - bad
+  - badly
+  - evil
+  - negative
+  epo:
+  - malbona
+  - aĉa
+  - fia
+  - malbone
+  spa:
+  - malo
+  - mal
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - बुरा “bura”
+    - बुरी “buri”
+  Indonesisa:
+  - - buruk
+raw data:
+  term: bur
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: bad, badly, evil, negative
+    epo: malbona, aĉa, fia; malbone
+    spa: malo; mal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (बुरा “bura”, बुरी “buri”), Indonesisa (buruk)
+...

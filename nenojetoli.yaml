@@ -1,0 +1,49 @@
+---
+term: nenojetoli
+slug: nenojetoli
+ipa: "nenod\u0361\u0292e\u02C8toli"
+ipa link: "http://ipa-reader.xyz/?text=nenod\u0361\u0292e\u02C8toli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - intransitive
+  epo:
+  - - netransitiva
+  - - netransitive
+  spa:
+  - - intransitivo
+search terms:
+  glb:
+  - nenojetoli
+  eng:
+  - intransitive
+  epo:
+  - netransitiva
+  - netransitive
+  spa:
+  - intransitivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/ojeto">ojeto</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: nenojetoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: intransitive
+    epo: netransitiva; netransitive
+    spa: intransitivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + ojeto + -li
+...

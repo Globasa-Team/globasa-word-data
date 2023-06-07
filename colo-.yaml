@@ -1,0 +1,48 @@
+---
+term: colo-
+slug: colo-
+ipa: "t\u0361\u0283o\u02C8lo-"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283o\u02C8lo-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - ugly
+  epo:
+  - - malbel-
+  spa:
+  - - feo
+search terms:
+  glb:
+  - colo-
+  eng:
+  - ugly
+  epo:
+  - malbel-
+  spa:
+  - feo
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/colo">colo</a>.
+antonyms:
+- meli-
+raw data:
+  term: colo-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: ugly
+    epo: malbel-
+    spa: feo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: meli-
+  example: ""
+  tags: ""
+  etymology: Am oko _colo_.
+...

@@ -1,0 +1,46 @@
+---
+term: termomosem
+slug: termomosem
+ipa: "te\u027Emomo\u02C8sem"
+ipa link: "http://ipa-reader.xyz/?text=te\u027Emomo\u02C8sem&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - summer
+  epo:
+  - - sumero
+  spa:
+  - - verano
+search terms:
+  glb:
+  - termomosem
+  eng:
+  - summer
+  epo:
+  - sumero
+  spa:
+  - verano
+etymology_type: DERIVD
+etymology: <a href="../lexi/termo">termo</a> + <a href="../lexi/-mosem">-mosem</a>
+raw data:
+  term: termomosem
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: summer
+    epo: sumero
+    spa: verano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: termo + -mosem
+...

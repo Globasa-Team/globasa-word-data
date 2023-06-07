@@ -1,0 +1,65 @@
+---
+term: taraf
+slug: taraf
+ipa: "ta\u02C8\u027Eaf"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8\u027Eaf&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - party
+    - side
+  epo:
+  - - partio
+  spa:
+  - - partido
+    - parte
+    - bando
+    - lado
+search terms:
+  glb:
+  - taraf
+  eng:
+  - party
+  - side
+  epo:
+  - partio
+  spa:
+  - partido
+  - parte
+  - bando
+  - lado
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0637\u0631\u0641 \u201Ctaraf\u201D"
+  Parsisa:
+  - - "\u0637\u0631\u0641 \u201Ctaraf\u201D"
+  Turkisa:
+  - - taraf
+  Hindisa:
+  - - "\u0924\u0930\u092B\u093C \u201Ctaraf\u201D"
+tags:
+- politi
+raw data:
+  term: taraf
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: party, side
+    epo: partio
+    spa: partido, parte, bando, lado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: "Arabisa (\u0637\u0631\u0641 \u201Ctaraf\u201D), Parsisa (\u0637\u0631\u0641
+    \u201Ctaraf\u201D), Turkisa (taraf), Hindisa (\u0924\u0930\u092B\u093C \u201Ctaraf\u201D)"
+...

@@ -1,0 +1,64 @@
+---
+term: famil
+slug: famil
+ipa: faˈmil
+ipa link: http://ipa-reader.xyz/?text=faˈmil&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - family
+  epo:
+  - - familio
+  spa:
+  - - familia
+search terms:
+  glb:
+  - famil
+  eng:
+  - family
+  epo:
+  - familio
+  spa:
+  - familia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - family
+  Fransesa:
+  - - famille
+  Doycisa:
+  - - Familie
+  Espanisa:
+  - - familia
+  Swahilisa:
+  - - familia
+  Pilipinasa:
+  - - pamilya
+  Indonesisa:
+  - - famili
+  Parsisa:
+  - - فامیل “fâmil”
+raw data:
+  term: famil
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: family
+    epo: familio
+    spa: familia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (family), Fransesa (famille), Doycisa (Familie), Espanisa (familia),
+    Swahilisa (familia), Pilipinasa (pamilya), Indonesisa (famili), Parsisa (فامیل
+    “fâmil”)
+...

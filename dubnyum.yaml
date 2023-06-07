@@ -1,0 +1,90 @@
+---
+term: dubnyum
+slug: dubnyum
+ipa: dubˈnjum
+ipa link: http://ipa-reader.xyz/?text=dubˈnjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dubnium
+  epo:
+  - - dubnio
+  spa:
+  - - dubnio
+    - Db
+search terms:
+  glb:
+  - dubnyum
+  eng:
+  - dubnium
+  epo:
+  - dubnio
+  spa:
+  - dubnio
+  - db
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - dubnium
+  Putunhwa:
+  - - "\U000289C0 “du”"
+  Hindisa:
+  - - डब्नियम “dabniyam”
+  Espanisa:
+  - - dubnyo
+  Arabisa:
+  - - دُوبْنِيُوم “dubniyum”
+  Fransesa:
+  - - dubnium
+  Rusisa:
+  - - дубний “dubniy”
+  Indonesisa:
+  - - dubnium
+  Doycisa:
+  - - Dubnium
+  Niponsa:
+  - - ドブニウム “dobuniumu”
+  Telugusa:
+  - - డుబ్నియం “dubniyam”
+  Turkisa:
+  - - dubniyum
+  Hangusa:
+  - - 더브늄 “dabunyum”
+    - 두브늄 “dubunyum”
+  Vyetnamsa:
+  - - dubni
+  Parsisa:
+  - - دوبنیم “dubniyom”
+  Swahilisa:
+  - - dubni
+  Pilipinasa:
+  - - dubyo
+tags:
+- kimikali monlari
+raw data:
+  term: dubnyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dubnium
+    epo: dubnio
+    spa: dubnio, Db
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (dubnium), Putunhwa (\U000289C0 “du”), Hindisa (डब्नियम “dabniyam”),
+    Espanisa (dubnyo), Arabisa (دُوبْنِيُوم “dubniyum”), Fransesa (dubnium), Rusisa
+    (дубний “dubniy”), Indonesisa (dubnium), Doycisa (Dubnium), Niponsa (ドブニウム “dobuniumu”),
+    Telugusa (డుబ్నియం “dubniyam”), Turkisa (dubniyum), Hangusa (더브늄 “dabunyum”, 두브늄
+    “dubunyum”), Vyetnamsa (dubni), Parsisa (دوبنیم “dubniyom”), Swahilisa (dubni),
+    Pilipinasa (dubyo)"
+...

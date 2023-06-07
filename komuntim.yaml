@@ -1,0 +1,46 @@
+---
+term: komuntim
+slug: komuntim
+ipa: "komun\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=komun\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - community
+  epo:
+  - - komunumo
+  spa:
+  - - comunidad
+search terms:
+  glb:
+  - komuntim
+  eng:
+  - community
+  epo:
+  - komunumo
+  spa:
+  - comunidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/komun">komun</a> + <a href="../lexi/-tim">-tim</a>
+raw data:
+  term: komuntim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: community
+    epo: komunumo
+    spa: comunidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: komun + -tim
+...

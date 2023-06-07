@@ -1,0 +1,49 @@
+---
+term: homa
+slug: homa
+ipa: "\u02C8xoma"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xoma&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fever
+  epo:
+  - - febro
+  spa:
+  - - fiebre
+search terms:
+  glb:
+  - homa
+  eng:
+  - fever
+  epo:
+  - febro
+  spa:
+  - fiebre
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: homa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fever
+    epo: febro
+    spa: fiebre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Arabisa (\u062D\u064F\u0645\u064E\u0651\u0629, \u062D\u064F\u0645\u064E\u0651\u0649
+    \u201Chuma\u201D), Swahilisa (homa)"
+...

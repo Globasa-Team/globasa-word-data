@@ -1,0 +1,50 @@
+---
+term: seksoli
+slug: seksoli
+ipa: "sek\u02C8soli"
+ipa link: "http://ipa-reader.xyz/?text=sek\u02C8soli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - sexual
+  - - sexually
+  epo:
+  - - seksuma
+  - - seksume
+  spa:
+  - - sexual
+search terms:
+  glb:
+  - seksoli
+  eng:
+  - sexual
+  - sexually
+  epo:
+  - seksuma
+  - seksume
+  spa:
+  - sexual
+etymology_type: DERIVD
+etymology: <a href="../lexi/sekso">sekso</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: seksoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: sexual; sexually
+    epo: seksuma; seksume
+    spa: sexual
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sekso + -li
+...

@@ -1,0 +1,75 @@
+---
+term: vyolin
+slug: vyolin
+ipa: "vjo\u02C8lin"
+ipa link: "http://ipa-reader.xyz/?text=vjo\u02C8lin&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - violin
+    - fiddle
+  epo:
+  - - violono
+  spa:
+  - - "viol\xEDn"
+search terms:
+  glb:
+  - vyolin
+  eng:
+  - violin
+  - fiddle
+  epo:
+  - violono
+  spa:
+  - "viol\xEDn"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - violin
+  Espanisa:
+  - - "viol\xEDn"
+  Fransesa:
+  - - violon
+  Doycisa:
+  - - Violine
+  Indonesisa:
+  - - biola
+  Pilipinasa:
+  - - biyolin
+  Hindisa:
+  - - "\u0935\u093E\u092F\u0932\u093F\u0928 \u201Cvaylin\u201D"
+  Niponsa:
+  - - "\u30D0\u30A4\u30AA\u30EA\u30F3 \u201Cbayorin\u201D"
+  Telugusa:
+  - - "\u0C35\u0C3E\u0C2F\u0C41\u0C32\u0C40\u0C28\u0C2E\u0C41 \u201Cvayulinamu\u201D"
+  Hangusa:
+  - - "\uBC14\uC774\uC62C\uB9B0 \u201Cbayolin\u201D"
+  Parsisa:
+  - - "\u0648\u06CC\u0648\u0644\u0646 \u201Cviyolon\u201D"
+raw data:
+  term: vyolin
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: violin, fiddle
+    epo: violono
+    spa: "viol\xEDn"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (violin), Espanisa (viol\xEDn), Fransesa (violon), Doycisa (Violine),
+    Indonesisa (biola), Pilipinasa (biyolin), Hindisa (\u0935\u093E\u092F\u0932\u093F\u0928
+    \u201Cvaylin\u201D), Niponsa (\u30D0\u30A4\u30AA\u30EA\u30F3 \u201Cbayorin\u201D),
+    Telugusa (\u0C35\u0C3E\u0C2F\u0C41\u0C32\u0C40\u0C28\u0C2E\u0C41 \u201Cvayulinamu\u201D),
+    Hangusa (\uBC14\uC774\uC62C\uB9B0 \u201Cbayolin\u201D), Parsisa (\u0648\u06CC\u0648\u0644\u0646
+    \u201Cviyolon\u201D)"
+...

@@ -1,0 +1,74 @@
+---
+term: voka
+slug: voka
+ipa: "\u02C8voka"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8voka&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - voice
+  - - call
+  epo:
+  - - "vo\u0109o"
+    - voko
+  - - voki
+  spa:
+  - - voz
+  - - llamar
+search terms:
+  glb:
+  - voka
+  eng:
+  - voice
+  - call
+  epo:
+  - "vo\u0109o"
+  - voko
+  - voki
+  spa:
+  - voz
+  - llamar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - vocalist
+    - vocal
+  Fransesa:
+  - - vocaliste
+  Doycisa:
+  - - vokalisch
+  Espanisa:
+  - - vocalista
+  Rusisa:
+  - - "\u0432\u043E\u043A\u0430\u043B\u0438\u0441\u0442 \u201Cvokalist\u201D"
+  Indonesisa:
+  - - vokal
+  Niponsa:
+  - - "\u30DC\u30FC\u30AB\u30EA\u30B9\u30C8 \u201Cbokarisuto\u201D"
+  Turkisa:
+  - - vokal
+raw data:
+  term: voka
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: voice; call
+    epo: "vo\u0109o, voko; voki"
+    spa: voz; llamar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (vocalist, vocal), Fransesa (vocaliste), Doycisa (vokalisch),
+    Espanisa (vocalista), Rusisa (\u0432\u043E\u043A\u0430\u043B\u0438\u0441\u0442
+    \u201Cvokalist\u201D), Indonesisa (vokal), Niponsa (\u30DC\u30FC\u30AB\u30EA\u30B9\u30C8
+    \u201Cbokarisuto\u201D), Turkisa (vokal)"
+...

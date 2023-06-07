@@ -1,0 +1,73 @@
+---
+term: espesyal
+slug: espesyal
+ipa: espeˈsjal
+ipa link: http://ipa-reader.xyz/?text=espeˈsjal&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - special
+    - especially
+    - particular
+    - particularly
+  epo:
+  - - speciala
+    - siaspeca
+  - - speciale
+    - siaspece
+  spa:
+  - - especial
+search terms:
+  glb:
+  - espesyal
+  eng:
+  - special
+  - especially
+  - particular
+  - particularly
+  epo:
+  - speciala
+  - siaspeca
+  - speciale
+  - siaspece
+  spa:
+  - especial
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - special
+  Espanisa:
+  - - especial
+  Fransesa:
+  - - spécial
+  Rusisa:
+  - - специальный “specialni”
+  Doycisa:
+  - - speziell
+  Indonesisa:
+  - - spesial
+  Pilipinasa:
+  - - espesyal
+raw data:
+  term: espesyal
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: special, especially, particular, particularly
+    epo: speciala, siaspeca; speciale, siaspece
+    spa: especial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (special), Espanisa (especial), Fransesa (spécial), Rusisa (специальный
+    “specialni”), Doycisa (speziell), Indonesisa (spesial), Pilipinasa (espesyal)
+...

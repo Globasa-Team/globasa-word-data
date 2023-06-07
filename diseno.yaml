@@ -1,0 +1,78 @@
+---
+term: diseno
+slug: diseno
+ipa: diˈseno
+ipa link: http://ipa-reader.xyz/?text=diˈseno&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - design
+  epo:
+  - - dezajno
+  - - dezajni
+  spa:
+  - - diseño
+  - - diseñar
+search terms:
+  glb:
+  - diseno
+  eng:
+  - design
+  epo:
+  - dezajno
+  - dezajni
+  spa:
+  - diseño
+  - diseñar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - design
+  Fransesa:
+  - - dessin
+    - dessein
+    - design
+  Doycisa:
+  - - Design
+  Rusisa:
+  - - дизайн “dizayn”
+  Espanisa:
+  - - diseño
+  Italisa:
+  - - disegno
+  Hindisa:
+  - - डिज़ाइन “dizayn”
+  Turkisa:
+  - - desen
+    - dizayn
+  Parsisa:
+  - - دیزاین “dizayn”
+  Indonesisa:
+  - - desain
+  Pilipinasa:
+  - - disenyo
+raw data:
+  term: diseno
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: design
+    epo: dezajno; dezajni
+    spa: diseño; diseñar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (design), Fransesa (dessin, dessein, design), Doycisa (Design),
+    Rusisa (дизайн “dizayn”), Espanisa (diseño), Italisa (disegno), Hindisa (डिज़ाइन
+    “dizayn”), Turkisa (desen, dizayn), Parsisa (دیزاین “dizayn”), Indonesisa (desain),
+    Pilipinasa (disenyo)
+...

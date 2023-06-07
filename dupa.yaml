@@ -1,0 +1,55 @@
+---
+term: dupa
+slug: dupa
+ipa: "\u02C8dupa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dupa&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - incense
+  epo:
+  - - incenso
+  spa:
+  - - incienso
+search terms:
+  glb:
+  - dupa
+  eng:
+  - incense
+  epo:
+  - incenso
+  spa:
+  - incienso
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - dupa
+  Pilipinasa:
+  - - dupa
+  Hindisa:
+  - - "\u0927\u0942\u092A \"dup\""
+  Telugusa:
+  - - "\u0C27\u0C42\u0C2A\u0C2E\u0C41 \"dupamu\""
+raw data:
+  term: dupa
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: incense
+    epo: incenso
+    spa: incienso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (dupa), Pilipinasa (dupa), Hindisa (\u0927\u0942\u092A \"dup\"),
+    Telugusa (\u0C27\u0C42\u0C2A\u0C2E\u0C41 \"dupamu\")"
+...

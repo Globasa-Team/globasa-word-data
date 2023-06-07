@@ -1,0 +1,49 @@
+---
+term: lega
+slug: lega
+ipa: "\u02C8lega"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lega&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - law
+  epo:
+  - - "le\u011Do"
+  spa:
+  - - ley
+search terms:
+  glb:
+  - lega
+  eng:
+  - law
+  epo:
+  - "le\u011Do"
+  spa:
+  - ley
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- politi
+raw data:
+  term: lega
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: law
+    epo: "le\u011Do"
+    spa: ley
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: "Englisa (legal), Fransesa (l\xE9gal), Doycisa (legal), Rusisa (\u043B\u0435\u0433\u0430\u043B\u044C\u043D\u044B\u0439
+    \u201Clegalniy\u201D), Espanisa (legal), Pilipinasa (legal), Indonesisa (legal), "
+...

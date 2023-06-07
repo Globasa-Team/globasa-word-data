@@ -1,0 +1,56 @@
+---
+term: kentawro
+slug: kentawro
+ipa: "ken\u02C8taw\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=ken\u02C8taw\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - centaur
+  epo:
+  - - "centa\u016Dro"
+    - "kenta\u016Dro"
+  spa:
+  - - centauro
+search terms:
+  glb:
+  - kentawro
+  eng:
+  - centaur
+  epo:
+  - "centa\u016Dro"
+  - "kenta\u016Dro"
+  spa:
+  - centauro
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kentawro
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: centaur
+    epo: "centa\u016Dro, kenta\u016Dro"
+    spa: centauro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Lamaelinisa (\u03BA\u03AD\u03BD\u03C4\u03B1\u03C5\u03C1\u03BF\u03C2
+    \u201Ckentawros\u201D), Englisa (centaur), Espanisa (centauro), Fransesa (centaure),
+    Rusisa (\u043A\u0435\u043D\u0442\u0430\u0432\u0440 \u201Ckentavr\u201D), Doycisa
+    (Kentaur), Indonesisa, Turkisa, Pilipinasa (sentauro), Hindisa (\u0938\u0947\u0902\u091F\u0942\u0930
+    \u201Csentur\u201D), Arabisa (\u0642\u064F\u0646\u0652\u0637\u064F\u0648\u0631
+    \u201Ckuntur\u201D), Niponsa (\u30B1\u30F3\u30BF\u30A6\u30ED\u30B9 \u201Ckentawrosu\u201D),
+    Telugusa (\u0C38\u0C46\u0C02\u0C1F\u0C3E\u0C30\u0C4D \u201Csentar\u201D), Hangusa
+    (\uCF04\uD0C0\uC6B0\uB85C\uC2A4 \u201Ckentawrosu\u201D), Vyetnamsa (kentauros),
+    Parsisa (\u0642\u0646\u0637\u0648\u0631\u0633), Swahilisa (kentauro)"
+...

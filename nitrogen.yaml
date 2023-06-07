@@ -1,0 +1,76 @@
+---
+term: nitrogen
+slug: nitrogen
+ipa: "nit\u027Eo\u02C8gen"
+ipa link: "http://ipa-reader.xyz/?text=nit\u027Eo\u02C8gen&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nitrogen
+  epo:
+  - - nitrogeno
+  spa:
+  - - "nitr\xF3geno"
+    - "N"
+search terms:
+  glb:
+  - nitrogen
+  eng:
+  - nitrogen
+  epo:
+  - nitrogeno
+  spa:
+  - "nitr\xF3geno"
+  - "n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nitrogen
+  Hindisa:
+  - - "\u0928\u093E\u0907\u091F\u094D\u0930\u094B\u091C\u0928 \u201Cnaytrojan\u201D"
+  Espanisa:
+  - - "nitr\xF3geno"
+  Arabisa:
+  - - "\u0646\u0650\u064A\u062A\u0652\u0631\u064F\u0648\u062C\u0650\u064A\u0646 \u201Cnitrojen\u201D"
+    - "\u0646\u0650\u064A\u062A\u0652\u0631\u064F\u0648\u062C\u0650\u064A\u0646 \u201Cnitrojin\u201D"
+  Indonesisa:
+  - - nitrogen
+  Telugusa:
+  - - "\u0C28\u0C24\u0C4D\u0C30\u0C1C\u0C28\u0C3F \u201Cnatrajani\u201D"
+  Vyetnamsa:
+  - - "nit\u01A1"
+  Parsisa:
+  - - "\u0646\u06CC\u062A\u0631\u0648\u0698\u0646 \u201Cnitrojen\u201D"
+  Swahilisa:
+  - - nitrojeni
+  Pilipinasa:
+  - - nitroheno
+tags:
+- kimikali monlari
+raw data:
+  term: nitrogen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nitrogen
+    epo: nitrogeno
+    spa: "nitr\xF3geno, N"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (nitrogen), Hindisa (\u0928\u093E\u0907\u091F\u094D\u0930\u094B\u091C\u0928
+    \u201Cnaytrojan\u201D), Espanisa (nitr\xF3geno), Arabisa (\u0646\u0650\u064A\u062A\u0652\u0631\u064F\u0648\u062C\u0650\u064A\u0646
+    \u201Cnitrojen\u201D, \u0646\u0650\u064A\u062A\u0652\u0631\u064F\u0648\u062C\u0650\u064A\u0646
+    \u201Cnitrojin\u201D), Indonesisa (nitrogen), Telugusa (\u0C28\u0C24\u0C4D\u0C30\u0C1C\u0C28\u0C3F
+    \u201Cnatrajani\u201D), Vyetnamsa (nit\u01A1), Parsisa (\u0646\u06CC\u062A\u0631\u0648\u0698\u0646
+    \u201Cnitrojen\u201D), Swahilisa (nitrojeni), Pilipinasa (nitroheno)"
+...

@@ -1,0 +1,59 @@
+---
+term: wendu
+slug: wendu
+ipa: "\u02C8wendu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wendu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pea
+  epo:
+  - - pizo
+  spa:
+  - - guisante
+    - "ch\xEDcharo"
+    - _Pisum sativum_
+search terms:
+  glb:
+  - wendu
+  eng:
+  - pea
+  epo:
+  - pizo
+  spa:
+  - guisante
+  - "ch\xEDcharo"
+  - pisum sativum
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u8C4C\u8C46 \u201Cwandow\u201D"
+  Niponsa:
+  - - "\u8C4C\u8C46 \u201Cendo\u201D"
+  Hangusa:
+  - - "\uC644\uB450 \u201Cwandu\u201D"
+tags:
+- yamxey
+raw data:
+  term: wendu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pea
+    epo: pizo
+    spa: "guisante, ch\xEDcharo, _Pisum sativum_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Putunhwa (\u8C4C\u8C46 \u201Cwandow\u201D), Niponsa (\u8C4C\u8C46 \u201Cendo\u201D),
+    Hangusa (\uC644\uB450 \u201Cwandu\u201D)"
+...

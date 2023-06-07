@@ -1,0 +1,55 @@
+---
+term: kanabis
+slug: kanabis
+ipa: "kana\u02C8bis"
+ipa link: "http://ipa-reader.xyz/?text=kana\u02C8bis&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cannabis
+    - marijuana
+  epo:
+  - - kanabo
+    - "mari\u0125uano"
+  spa:
+  - - _cannabis_
+    - mariguana
+search terms:
+  glb:
+  - kanabis
+  eng:
+  - cannabis
+  - marijuana
+  epo:
+  - kanabo
+  - "mari\u0125uano"
+  spa:
+  - cannabis
+  - mariguana
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kanabis
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cannabis, marijuana
+    epo: "kanabo, mari\u0125uano"
+    spa: _cannabis_, mariguana
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (cannabis), Espanisa, Fransesa, Rusisa, Doycisa, Hindisa (\u0915\u0948\u0928\u092C\u093F\u0938
+    \u201Ckenbis\u201D), Arabisa (\u0642\u0650\u0646\u064E\u0651\u0628 \u201Ckinnab\u201D),
+    Turkisa (kenevir), Parsisa (\u06A9\u0646\u0641 \u201Ckanaf\u201D, \u06A9\u0646\u0628
+    \u201Ckanab\u201D)"
+...

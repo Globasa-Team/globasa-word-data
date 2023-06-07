@@ -1,0 +1,76 @@
+---
+term: cipenkal
+slug: cipenkal
+ipa: "t\u0361\u0283ipen\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ipen\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - honest
+    - honestly
+    - sincere
+    - sincerely
+    - frank
+    - frankly
+  epo:
+  - - honesta
+    - sincera
+    - sentrompa
+  - - honeste
+    - sincere
+    - sentrompe
+  spa:
+  - - honesto
+    - sincero
+    - franco
+  - - honestamente
+    - sinceramente
+    - francamente
+search terms:
+  glb:
+  - cipenkal
+  eng:
+  - honest
+  - honestly
+  - sincere
+  - sincerely
+  - frank
+  - frankly
+  epo:
+  - honesta
+  - sincera
+  - sentrompa
+  - honeste
+  - sincere
+  - sentrompe
+  spa:
+  - honesto
+  - sincero
+  - franco
+  - honestamente
+  - sinceramente
+  - francamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/cipen">cipen</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: cipenkal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: honest, honestly, sincere, sincerely, frank, frankly
+    epo: honesta, sincera, sentrompa; honeste, sincere, sentrompe
+    spa: honesto, sincero, franco; honestamente, sinceramente, francamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cipen + -kal
+...

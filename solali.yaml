@@ -1,0 +1,48 @@
+---
+term: solali
+slug: solali
+ipa: "so\u02C8lali"
+ipa link: "http://ipa-reader.xyz/?text=so\u02C8lali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - solar
+  epo:
+  - - suna
+  - - sune
+  spa:
+  - - solar
+search terms:
+  glb:
+  - solali
+  eng:
+  - solar
+  epo:
+  - suna
+  - sune
+  spa:
+  - solar
+etymology_type: DERIVD
+etymology: <a href="../lexi/sola">sola</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: solali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: solar
+    epo: suna; sune
+    spa: solar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sola + -li
+...

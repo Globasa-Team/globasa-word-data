@@ -1,0 +1,51 @@
+---
+term: hewandomyen
+slug: hewandomyen
+ipa: "xewando\u02C8mjen"
+ipa link: "http://ipa-reader.xyz/?text=xewando\u02C8mjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - zookeeper
+  epo:
+  - - "besto\u011Dardenisto"
+    - bestovartisto
+    - zoisto
+  spa:
+  - - "guardi\xE1n de zool\xF3gico"
+search terms:
+  glb:
+  - hewandomyen
+  eng:
+  - zookeeper
+  epo:
+  - "besto\u011Dardenisto"
+  - bestovartisto
+  - zoisto
+  spa:
+  - "guardi\xE1n de zool\xF3gico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/hewan">hewan</a> + <a href="../lexi/-dom">-dom</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: hewandomyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: zookeeper
+    epo: "besto\u011Dardenisto, bestovartisto, zoisto"
+    spa: "guardi\xE1n de zool\xF3gico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hewan + -dom + -yen
+...

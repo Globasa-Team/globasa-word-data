@@ -1,0 +1,58 @@
+---
+term: kabaca
+slug: kabaca
+ipa: "ka\u02C8bat\u0361\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8bat\u0361\u0283a&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - squash
+    - gourd
+    - pumpkin
+    - _Cucurbitaceae_
+  epo:
+  - - kukurbo
+  spa:
+  - - calabaza
+    - _Cucurbita_
+search terms:
+  glb:
+  - kabaca
+  eng:
+  - squash
+  - gourd
+  - pumpkin
+  - cucurbitaceae
+  epo:
+  - kukurbo
+  spa:
+  - calabaza
+  - cucurbita
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- fruta
+- yamxey
+raw data:
+  term: kabaca
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: squash, gourd, pumpkin, _Cucurbitaceae_
+    epo: kukurbo
+    spa: calabaza, _Cucurbita_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Espanisa (calabaza), Pilipinasa (kalabasa), Niponsa (\u5357\u74DC \u201Ckabocha\u201D),
+    Turkisa (kabak)"
+...

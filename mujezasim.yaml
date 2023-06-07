@@ -1,0 +1,50 @@
+---
+term: mujezasim
+slug: mujezasim
+ipa: "mud\u0361\u0292eza\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=mud\u0361\u0292eza\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - miraculous
+  - - miraculously
+  epo:
+  - - mirakleca
+  - - miraklece
+  spa:
+  - - milagroso
+search terms:
+  glb:
+  - mujezasim
+  eng:
+  - miraculous
+  - miraculously
+  epo:
+  - mirakleca
+  - miraklece
+  spa:
+  - milagroso
+etymology_type: DERIVD
+etymology: <a href="../lexi/mujeza">mujeza</a> + <a href="../lexi/-sim">-sim</a>
+raw data:
+  term: mujezasim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: miraculous; miraculously
+    epo: mirakleca; miraklece
+    spa: milagroso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mujeza + -sim
+...

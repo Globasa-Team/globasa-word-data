@@ -1,0 +1,56 @@
+---
+term: tami
+slug: tami
+ipa: "\u02C8tami"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tami&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - sweet
+  epo:
+  - - "dol\u0109a (gusto)"
+    - sukera
+  - - "dol\u0109e (gusto)"
+  spa:
+  - - dulce
+search terms:
+  glb:
+  - tami
+  eng:
+  - sweet
+  epo:
+  - "dol\u0109a gusto"
+  - "dol\u0109a"
+  - sukera
+  - "dol\u0109e gusto"
+  - "dol\u0109e"
+  spa:
+  - dulce
+etymology_type: NATLNG
+etymology:
+  Pilipinasa:
+  - - tamis
+  Swahilisa:
+  - - -tamu
+raw data:
+  term: tami
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: sweet
+    epo: "dol\u0109a (gusto), sukera; dol\u0109e (gusto)"
+    spa: dulce
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Pilipinasa (tamis), Swahilisa (-tamu)
+...

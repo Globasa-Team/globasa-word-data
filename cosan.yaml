@@ -1,0 +1,68 @@
+---
+term: cosan
+slug: cosan
+ipa: t͡ʃoˈsan
+ipa link: http://ipa-reader.xyz/?text=t͡ʃoˈsan&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - praise
+    - compliment
+    - admire
+  epo:
+  - - laŭdo
+    - komplimento
+    - admiro
+  - - laŭdi
+    - komplimenti
+    - admiri
+  spa:
+  - - elogio
+  - - elogiar
+search terms:
+  glb:
+  - cosan
+  eng:
+  - praise
+  - compliment
+  - admire
+  epo:
+  - laŭdo
+  - komplimento
+  - admiro
+  - laŭdi
+  - komplimenti
+  - admiri
+  spa:
+  - elogio
+  - elogiar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 称赞 “chēngzàn”
+  Hangusa:
+  - - 칭찬 “chingchan”
+  Niponsa:
+  - - 賞賛 “shōsan”
+raw data:
+  term: cosan
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: praise, compliment, admire
+    epo: laŭdo, komplimento, admiro; laŭdi, komplimenti, admiri
+    spa: elogio; elogiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (称赞 “chēngzàn”), Hangusa (칭찬 “chingchan”), Niponsa (賞賛 “shōsan”)
+...

@@ -1,0 +1,56 @@
+---
+term: maximum
+slug: maximum
+ipa: "ma\u0283i\u02C8mum"
+ipa link: "http://ipa-reader.xyz/?text=ma\u0283i\u02C8mum&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - maximum
+    - maximal
+  - - at most
+  epo:
+  - - maksimuma
+  - - maksimume
+  spa:
+  - - "m\xE1ximo"
+    - "a lo m\xE1ximo"
+search terms:
+  glb:
+  - maximum
+  eng:
+  - maximum
+  - maximal
+  - at most
+  epo:
+  - maksimuma
+  - maksimume
+  spa:
+  - "m\xE1ximo"
+  - "a lo m\xE1ximo"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: maximum
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: maximum, maximal; at most
+    epo: maksimuma; maksimume
+    spa: "m\xE1ximo, a lo m\xE1ximo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa ( ), Espanisa (mas, maximo), Englisa, Doycisa (maximal), Rusisa
+    (\u043C\u0430\u043A\u0441\u0438\u043C\u0443\u043C \u201Cmaksimum\u201D), Turkisa
+    (maksimum)"
+...

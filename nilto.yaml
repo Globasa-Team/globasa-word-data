@@ -1,0 +1,46 @@
+---
+term: nilto
+slug: nilto
+ipa: "\u02C8nilto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nilto&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - nothing
+  epo:
+  - - nenio
+  spa:
+  - - nada
+search terms:
+  glb:
+  - nilto
+  eng:
+  - nothing
+  epo:
+  - nenio
+  spa:
+  - nada
+etymology_type: DERIVD
+etymology: <a href="../lexi/nil">nil</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: nilto
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: nothing
+    epo: nenio
+    spa: nada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nil + to
+...

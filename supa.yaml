@@ -1,0 +1,69 @@
+---
+term: supa
+slug: supa
+ipa: "\u02C8supa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8supa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - soup
+  epo:
+  - - supo
+  spa:
+  - - sopa
+search terms:
+  glb:
+  - supa
+  eng:
+  - soup
+  epo:
+  - supo
+  spa:
+  - sopa
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u0942\u092A \u201Csup\u201D"
+  Espanisa:
+  - - sopa
+  Doycisa:
+  - - Suppe
+  Rusisa:
+  - - "\u0441\u0443\u043F \u201Csup\u201D"
+  Niponsa:
+  - - "\u30B9\u30FC\u30D7 \u201Cs\u016Bpu\u201D"
+  Hangusa:
+  - - "\uC218\uD504 \u201Csupeu\u201D"
+  Swahilisa:
+  - - supu
+  Indonesisa:
+  - - sup
+  Parsisa:
+  - - "\u0633\u0648\u067E \u201Csup\u201D"
+tags:
+- yamxey
+raw data:
+  term: supa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: soup
+    epo: supo
+    spa: sopa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Hindisa (\u0938\u0942\u092A \u201Csup\u201D), Espanisa (sopa), Doycisa
+    (Suppe), Rusisa (\u0441\u0443\u043F \u201Csup\u201D), Niponsa (\u30B9\u30FC\u30D7
+    \u201Cs\u016Bpu\u201D), Hangusa (\uC218\uD504 \u201Csupeu\u201D), Swahilisa (supu),
+    Indonesisa (sup), Parsisa (\u0633\u0648\u067E \u201Csup\u201D)"
+...

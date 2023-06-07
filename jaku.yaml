@@ -1,0 +1,55 @@
+---
+term: jaku
+slug: jaku
+ipa: "\u02C8d\u0361\u0292aku"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292aku&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - knave
+    - jack (_playing cards_)
+  epo:
+  - - fanto
+    - bubo
+    - "pa\u011Dio"
+  spa:
+  - - paje
+    - sota (_en la baraja_)
+search terms:
+  glb:
+  - jaku
+  eng:
+  - knave
+  - jack
+  epo:
+  - fanto
+  - bubo
+  - "pa\u011Dio"
+  spa:
+  - paje
+  - sota
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jaku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: knave, jack (_playing cards_)
+    epo: "fanto, bubo, pa\u011Dio"
+    spa: paje, sota (_en la baraja_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (jack), Niponsa (\u30B8\u30E3\u30C3\u30AF \"jakku\"), Hangusa
+    (\uC7AD \"jek\"), Telugusa (\u0C1C\u0C3E\u0C15\u0C40 \"jaki\")"
+...

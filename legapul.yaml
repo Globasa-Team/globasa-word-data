@@ -1,0 +1,52 @@
+---
+term: legapul
+slug: legapul
+ipa: "lega\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=lega\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - legal
+    - legally
+  epo:
+  - - "la\u016Dle\u011Da"
+    - "le\u011Da"
+  - - "la\u016Dle\u011De"
+  spa:
+  - - legal
+search terms:
+  glb:
+  - legapul
+  eng:
+  - legal
+  - legally
+  epo:
+  - "la\u016Dle\u011Da"
+  - "le\u011Da"
+  - "la\u016Dle\u011De"
+  spa:
+  - legal
+etymology_type: DERIVD
+etymology: <a href="../lexi/lega">lega</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: legapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: legal, legally
+    epo: "la\u016Dle\u011Da, le\u011Da; la\u016Dle\u011De"
+    spa: legal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lega + -pul
+...

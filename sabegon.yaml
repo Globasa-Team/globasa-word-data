@@ -1,0 +1,50 @@
+---
+term: sabegon
+slug: sabegon
+ipa: "sabe\u02C8gon"
+ipa link: "http://ipa-reader.xyz/?text=sabe\u02C8gon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - heptagon
+    - septagon
+  epo:
+  - - sepangulo
+    - seplatero
+  spa:
+  - - "hept\xE1gono"
+search terms:
+  glb:
+  - sabegon
+  eng:
+  - heptagon
+  - septagon
+  epo:
+  - sepangulo
+  - seplatero
+  spa:
+  - "hept\xE1gono"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sabe">sabe</a> + <a href="../lexi/gon">gon</a>
+raw data:
+  term: sabegon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: heptagon, septagon
+    epo: sepangulo, seplatero
+    spa: "hept\xE1gono"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sabe + gon
+...

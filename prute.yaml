@@ -1,0 +1,59 @@
+---
+term: prute
+slug: prute
+ipa: "\u02C8p\u027Eute"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8p\u027Eute&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - fart
+  epo:
+  - - furzo
+  - - furzi
+  spa:
+  - - pedo
+  - - tirarse un pedo
+search terms:
+  glb:
+  - prute
+  eng:
+  - fart
+  epo:
+  - furzo
+  - furzi
+  spa:
+  - pedo
+  - tirarse un pedo
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Fransesa: ~
+  Indonesisa: ~
+  Espanisa: ~
+  Turkisa: ~
+  Swerisa: ~
+  Pilipinasa: ~
+  Polskasa: ~
+  ji maxya: ~
+raw data:
+  term: prute
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: fart
+    epo: furzo; furzi
+    spa: pedo; tirarse un pedo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwasilexi - Fransesa ( ), Indonesisa, Espanisa, Turkisa, Swerisa, Pilipinasa,
+    Polskasa, ji maxya
+...

@@ -1,0 +1,48 @@
+---
+term: perfleksi
+slug: perfleksi
+ipa: "pe\u027E\u02C8fleksi"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027E\u02C8fleksi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - fold
+  epo:
+  - - faldo
+  - - faldi
+  spa:
+  - - doblar
+search terms:
+  glb:
+  - perfleksi
+  eng:
+  - fold
+  epo:
+  - faldo
+  - faldi
+  spa:
+  - doblar
+etymology_type: DERIVD
+etymology: <a href="../lexi/per-">per-</a> + <a href="../lexi/fleksi">fleksi</a>
+raw data:
+  term: perfleksi
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: fold
+    epo: faldo; faldi
+    spa: doblar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: per- + fleksi
+...

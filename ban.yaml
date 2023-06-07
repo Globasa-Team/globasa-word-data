@@ -1,0 +1,64 @@
+---
+term: ban
+slug: ban
+ipa: ˈban
+ipa link: http://ipa-reader.xyz/?text=ˈban&voice=Ewa
+status: true
+category: root
+word class: d
+trans:
+  eng:
+  - - some
+    - certain [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+  epo:
+  - - iu
+    - i- [korelativa]
+  spa:
+  - - uno
+    - unos
+    - cierto
+    - ciertos
+search terms:
+  glb:
+  - ban
+  eng:
+  - some
+  - certain
+  epo:
+  - iu
+  - i- [korelativa]
+  spa:
+  - uno
+  - unos
+  - cierto
+  - ciertos
+etymology_type: NATLNG
+etymology:
+  Taysa:
+  - - บาง “bang”
+  Laosa:
+  - - ບາງ “bāng”
+  Turkisa:
+  - - bazı
+  Swahilisa:
+  - - badhi
+raw data:
+  term: ban
+  category: root
+  word class: d
+  status: true
+  trans:
+    eng: some, certain [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+    epo: iu, i- [korelativa]
+    spa: uno, unos, cierto, ciertos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Taysa (บาง “bang”), Laosa (ບາງ “bāng”), Turkisa (bazı), Swahilisa (badhi)
+...

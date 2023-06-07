@@ -1,0 +1,46 @@
+---
+term: zeytuniyow
+slug: zeytuniyow
+ipa: "zejtuni\u02C8jow"
+ipa link: "http://ipa-reader.xyz/?text=zejtuni\u02C8jow&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - olive oil
+  epo:
+  - - olivoleo
+  spa:
+  - - aceite de oliva
+search terms:
+  glb:
+  - zeytuniyow
+  eng:
+  - olive oil
+  epo:
+  - olivoleo
+  spa:
+  - aceite de oliva
+etymology_type: DERIVD
+etymology: <a href="../lexi/zeytuni">zeytuni</a> + <a href="../lexi/yow">yow</a>
+raw data:
+  term: zeytuniyow
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: olive oil
+    epo: olivoleo
+    spa: aceite de oliva
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: zeytuni + yow
+...

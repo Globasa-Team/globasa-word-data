@@ -1,0 +1,48 @@
+---
+term: lokamon
+slug: lokamon
+ipa: "loka\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=loka\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - spot
+  epo:
+  - - loko
+  spa:
+  - - lugar
+    - sitio
+search terms:
+  glb:
+  - lokamon
+  eng:
+  - spot
+  epo:
+  - loko
+  spa:
+  - lugar
+  - sitio
+etymology_type: DERIVD
+etymology: <a href="../lexi/loka">loka</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: lokamon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'spot '
+    epo: loko
+    spa: lugar, sitio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: loka + -mon
+...

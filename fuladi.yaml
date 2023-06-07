@@ -1,0 +1,57 @@
+---
+term: fuladi
+slug: fuladi
+ipa: fuˈladi
+ipa link: http://ipa-reader.xyz/?text=fuˈladi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - steel
+  epo:
+  - - ŝtalo
+  spa:
+  - - acero
+search terms:
+  glb:
+  - fuladi
+  eng:
+  - steel
+  epo:
+  - ŝtalo
+  spa:
+  - acero
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - फ़ूलाद "fulad"
+  Arabisa:
+  - - فُولَاذ "fulaḏ"
+  Turkisa:
+  - - polat
+  Parsisa:
+  - - فولاد "fulâd"
+  Swahilisa:
+  - - feleji
+raw data:
+  term: fuladi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: steel
+    epo: ŝtalo
+    spa: acero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (फ़ूलाद "fulad"), Arabisa (فُولَاذ "fulaḏ"), Turkisa (polat),
+    Parsisa (فولاد "fulâd"), Swahilisa (feleji)
+...

@@ -1,0 +1,56 @@
+---
+term: dadalible
+slug: dadalible
+ipa: "dada\u02C8lible"
+ipa link: "http://ipa-reader.xyz/?text=dada\u02C8lible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - attainable
+    - achievable
+    - accessible
+  epo:
+  - - atingebla
+  - - atingeble
+  spa:
+  - - alcanzable
+    - lograble
+    - accesible
+search terms:
+  glb:
+  - dadalible
+  eng:
+  - attainable
+  - achievable
+  - accessible
+  epo:
+  - atingebla
+  - atingeble
+  spa:
+  - alcanzable
+  - lograble
+  - accesible
+etymology_type: DERIVD
+etymology: <a href="../lexi/dadal">dadal</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: dadalible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: attainable, achievable, accessible
+    epo: atingebla; atingeble
+    spa: alcanzable, lograble, accesible
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dadal + -ible
+...

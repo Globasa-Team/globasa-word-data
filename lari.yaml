@@ -1,0 +1,59 @@
+---
+term: lari
+slug: lari
+ipa: "\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8la\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - collective group
+    - collection
+    - set
+    - lot
+  epo:
+  - - aro
+  - - arigi
+  spa:
+  - - grupo colectivo
+    - "colecci\xF3n"
+    - conjunto
+search terms:
+  glb:
+  - lari
+  eng:
+  - collective group
+  - collection
+  - set
+  - lot
+  epo:
+  - aro
+  - arigi
+  spa:
+  - grupo colectivo
+  - "colecci\xF3n"
+  - conjunto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lari
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: collective group, collection, set, lot
+    epo: aro; arigi
+    spa: "grupo colectivo, colecci\xF3n, conjunto"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Turkisa (-lar), Rusisa (-\u0430\u0440\u044C \u201C-ar\u201D), Fransesa
+    (-aire), Espanisa (-ario), Englisa (-ary)"
+...

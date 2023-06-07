@@ -1,0 +1,70 @@
+---
+term: byuro
+slug: byuro
+ipa: ˈbjuɾo
+ipa link: http://ipa-reader.xyz/?text=ˈbjuɾo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bureau
+    - agency
+  epo:
+  - - buroo
+    - agentejo
+  spa:
+  - - departamento
+    - agencia
+search terms:
+  glb:
+  - byuro
+  eng:
+  - bureau
+  - agency
+  epo:
+  - buroo
+  - agentejo
+  spa:
+  - departamento
+  - agencia
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Büro
+  Englisa:
+  - - bureau
+  Fransesa:
+  - - bureau
+  Rusisa:
+  - - бюро “byuro”
+  Hindisa:
+  - - ब्यूरो “byuro”
+  Telugusa:
+  - - బ్యూరో “byuro”
+  Indonesisa:
+  - - biro
+  Turkisa:
+  - - büro
+raw data:
+  term: byuro
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bureau, agency
+    epo: buroo, agentejo
+    spa: departamento, agencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Büro), Englisa (bureau), Fransesa (bureau), Rusisa (бюро “byuro”),
+    Hindisa (ब्यूरो “byuro”), Telugusa (బ్యూరో “byuro”), Indonesisa (biro), Turkisa
+    (büro)
+...

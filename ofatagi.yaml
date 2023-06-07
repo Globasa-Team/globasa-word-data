@@ -1,0 +1,48 @@
+---
+term: ofatagi
+slug: ofatagi
+ipa: "ofa\u02C8tagi"
+ipa link: "http://ipa-reader.xyz/?text=ofa\u02C8tagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - derive
+  epo:
+  - - devenigo
+  - - devenigi
+  spa:
+  - - derivar
+search terms:
+  glb:
+  - ofatagi
+  eng:
+  - derive
+  epo:
+  - devenigo
+  - devenigi
+  spa:
+  - derivar
+etymology_type: DERIVD
+etymology: <a href="../lexi/of-">of-</a> + <a href="../lexi/ata">ata</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: ofatagi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: derive
+    epo: devenigo; devenigi
+    spa: derivar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: of- + ata + -gi
+...

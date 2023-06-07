@@ -1,0 +1,52 @@
+---
+term: cibo
+slug: cibo
+ipa: ˈt͡ʃibo
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃibo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fat
+  epo:
+  - - graso
+  spa:
+  - - grasa
+search terms:
+  glb:
+  - cibo
+  eng:
+  - fat
+  epo:
+  - graso
+  spa:
+  - grasa
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 脂肪 “zhīfáng”
+  Hangusa:
+  - - 지방 “jibang”
+  Niponsa:
+  - - 脂肪 “ shibō”
+raw data:
+  term: cibo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fat
+    epo: graso
+    spa: grasa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (脂肪 “zhīfáng”), Hangusa (지방 “jibang”), Niponsa (脂肪 “ shibō”)
+...

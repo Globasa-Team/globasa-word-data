@@ -1,0 +1,52 @@
+---
+term: boro
+slug: boro
+ipa: "\u02C8bo\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8bo\u027Eo&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Boro
+    - Bodo (_ethnolinguistic group in India_)
+  epo:
+  - - bodoa
+  spa:
+  - - bodo
+    - "boro (_grupo etnoling\xFC\xEDstico en India_)"
+search terms:
+  glb:
+  - boro
+  eng:
+  - boro
+  - bodo
+  epo:
+  - bodoa
+  spa:
+  - bodo
+  - boro
+etymology_type: NATLNG
+etymology:
+  Borosa:
+  - - "\u092C\u0921\u093C\u094B \u201Cboro\u201D"
+raw data:
+  term: Boro
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: Boro, Bodo (_ethnolinguistic group in India_)
+    epo: bodoa
+    spa: "bodo, boro (_grupo etnoling\xFC\xEDstico en India_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Borosa (\u092C\u0921\u093C\u094B \u201Cboro\u201D)"
+...

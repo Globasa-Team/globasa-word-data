@@ -1,0 +1,68 @@
+---
+term: -ista
+slug: -ista
+ipa: "-\u02C8ista"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8ista&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - -ist
+  epo:
+  - - -isto (_nur rilate al -ismo_)
+  spa:
+  - - -ista
+search terms:
+  glb:
+  - -ista
+  eng:
+  - -ist
+  epo:
+  - -isto
+  spa:
+  - -ista
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - -ist
+  Doycisa:
+  - - -ist
+  Fransesa:
+  - - -iste
+  Espanisa:
+  - - -ista
+  Rusisa:
+  - - "-\u0438\u0441\u0442 \u201C-ist\u201D"
+    - "-\u0438\u0441\u0442\u043A\u0430 \u201C-istka\u201D"
+  Indonesisa:
+  - - -is
+  Pilipinasa:
+  - - -ista
+  Turkisa:
+  - - -ist
+  Parsisa:
+  - - "\u06CC\u0633\u062A- \u201C-ist\u201D"
+raw data:
+  term: -ista
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: -ist
+    epo: -isto (_nur rilate al -ismo_)
+    spa: -ista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (-ist), Doycisa (-ist), Fransesa (-iste), Espanisa (-ista),
+    Rusisa (-\u0438\u0441\u0442 \u201C-ist\u201D, -\u0438\u0441\u0442\u043A\u0430
+    \u201C-istka\u201D), Indonesisa (-is), Pilipinasa (-ista), Turkisa (-ist), Parsisa
+    (\u06CC\u0633\u062A- \u201C-ist\u201D)"
+...

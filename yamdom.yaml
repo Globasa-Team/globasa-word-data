@@ -1,0 +1,46 @@
+---
+term: yamdom
+slug: yamdom
+ipa: "jam\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=jam\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - cafeteria
+  epo:
+  - - "man\u011Dejo"
+  spa:
+  - - "cafeter\xEDa"
+search terms:
+  glb:
+  - yamdom
+  eng:
+  - cafeteria
+  epo:
+  - "man\u011Dejo"
+  spa:
+  - "cafeter\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/yam">yam</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: yamdom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: cafeteria
+    epo: "man\u011Dejo"
+    spa: "cafeter\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yam + -dom
+...

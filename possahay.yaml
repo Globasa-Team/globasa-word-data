@@ -1,0 +1,50 @@
+---
+term: possahay
+slug: possahay
+ipa: "possa\u02C8xaj"
+ipa link: "http://ipa-reader.xyz/?text=possa\u02C8xaj&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - hinder
+  epo:
+  - - malhelpo
+  - - malhelpi
+  spa:
+  - - dificultar
+    - estorbar
+search terms:
+  glb:
+  - possahay
+  eng:
+  - hinder
+  epo:
+  - malhelpo
+  - malhelpi
+  spa:
+  - dificultar
+  - estorbar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/sahay">sahay</a>
+raw data:
+  term: possahay
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: hinder
+    epo: malhelpo; malhelpi
+    spa: dificultar, estorbar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + sahay
+...

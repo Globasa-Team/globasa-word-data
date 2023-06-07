@@ -1,0 +1,65 @@
+---
+term: eskri
+slug: eskri
+ipa: ˈeskɾi
+ipa link: http://ipa-reader.xyz/?text=ˈeskɾi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - write
+  epo:
+  - - skribo
+  - - skribi
+  spa:
+  - - escritura
+  - - escribir
+search terms:
+  glb:
+  - eskri
+  eng:
+  - write
+  epo:
+  - skribo
+  - skribi
+  spa:
+  - escritura
+  - escribir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - scripture
+    - scribble
+  Fransesa:
+  - - écri-
+  Doycisa:
+  - - schreib-
+  Swerisa:
+  - - skriva
+  Exkiperisa:
+  - - shkrua-
+  Espanisa:
+  - - escrib-
+    - escrit-
+raw data:
+  term: eskri
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: write
+    epo: skribo; skribi
+    spa: escritura; escribir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (scripture, scribble), Fransesa (écri-), Doycisa (schreib-),
+    Swerisa (skriva), Exkiperisa (shkrua-), Espanisa (escrib-, escrit-)
+...

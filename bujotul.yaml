@@ -1,0 +1,46 @@
+---
+term: bujotul
+slug: bujotul
+ipa: "bud\u0361\u0292o\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=bud\u0361\u0292o\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - trap
+  epo:
+  - - kaptilo
+  spa:
+  - - trampa
+search terms:
+  glb:
+  - bujotul
+  eng:
+  - trap
+  epo:
+  - kaptilo
+  spa:
+  - trampa
+etymology_type: DERIVD
+etymology: <a href="../lexi/bujo">bujo</a> + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: bujotul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: trap
+    epo: kaptilo
+    spa: trampa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bujo + -tul
+...

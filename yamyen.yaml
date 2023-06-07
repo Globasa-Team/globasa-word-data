@@ -1,0 +1,46 @@
+---
+term: yamyen
+slug: yamyen
+ipa: "ja\u02C8mjen"
+ipa link: "http://ipa-reader.xyz/?text=ja\u02C8mjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - eater
+  epo:
+  - - "man\u011Danto"
+  spa:
+  - - comensal
+search terms:
+  glb:
+  - yamyen
+  eng:
+  - eater
+  epo:
+  - "man\u011Danto"
+  spa:
+  - comensal
+etymology_type: DERIVD
+etymology: <a href="../lexi/yam">yam</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: yamyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: eater
+    epo: "man\u011Danto"
+    spa: comensal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yam + -yen
+...

@@ -1,0 +1,58 @@
+---
+term: darsu
+slug: darsu
+ipa: ˈdaɾsu
+ipa link: http://ipa-reader.xyz/?text=ˈdaɾsu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lesson
+    - class
+  epo:
+  - - leciono
+    - klaso
+  spa:
+  - - lección
+    - clase
+search terms:
+  glb:
+  - darsu
+  eng:
+  - lesson
+  - class
+  epo:
+  - leciono
+  - klaso
+  spa:
+  - lección
+  - clase
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - درس “dars”
+  Parsisa:
+  - - درس “dars”
+  Turkisa:
+  - - ders
+raw data:
+  term: darsu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lesson, class
+    epo: leciono, klaso
+    spa: lección, clase
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (درس “dars”), Parsisa (درس “dars”), Turkisa (ders)
+...

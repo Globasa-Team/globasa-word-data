@@ -1,0 +1,56 @@
+---
+term: kabutar
+slug: kabutar
+ipa: "kabu\u02C8ta\u027E"
+ipa link: "http://ipa-reader.xyz/?text=kabu\u02C8ta\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dove
+    - pigeon
+    - _Columbiformes_
+  epo:
+  - - kolombo
+  spa:
+  - - paloma
+    - _Columbiformes_
+search terms:
+  glb:
+  - kabutar
+  eng:
+  - dove
+  - pigeon
+  - columbiformes
+  epo:
+  - kolombo
+  spa:
+  - paloma
+  - columbiformes
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kabutar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dove, pigeon, _Columbiformes_
+    epo: kolombo
+    spa: paloma, _Columbiformes_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Hindisa (\u0915\u092C\u0942\u0924\u0930 \u201Ckabutar\u201D), Telugusa
+    (\u0C15\u0C2A\u0C4B\u0C24\u0C02 \u201Ckapotam\u201D) Parsisa (\u06A9\u0628\u0648\u062A\u0631
+    \u201Ckabutar\u201D)"
+...

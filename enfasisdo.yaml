@@ -1,0 +1,48 @@
+---
+term: enfasisdo
+slug: enfasisdo
+ipa: "enfa\u02C8sisdo"
+ipa link: "http://ipa-reader.xyz/?text=enfa\u02C8sisdo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - emphasized
+  epo:
+  - - emfazita
+  - - emfazite
+  spa:
+  - - enfatizado
+search terms:
+  glb:
+  - enfasisdo
+  eng:
+  - emphasized
+  epo:
+  - emfazita
+  - emfazite
+  spa:
+  - enfatizado
+etymology_type: DERIVD
+etymology: <a href="../lexi/enfasis">enfasis</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: enfasisdo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: emphasized
+    epo: emfazita; emfazite
+    spa: enfatizado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: enfasis + -do
+...

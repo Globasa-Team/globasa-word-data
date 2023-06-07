@@ -1,0 +1,59 @@
+---
+term: beltu
+slug: beltu
+ipa: ˈbeltu
+ipa link: http://ipa-reader.xyz/?text=ˈbeltu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - belt
+  epo:
+  - - zono
+    - rimeno
+  spa:
+  - - cinturón
+search terms:
+  glb:
+  - beltu
+  eng:
+  - belt
+  epo:
+  - zono
+  - rimeno
+  spa:
+  - cinturón
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - belt
+  Hindisa:
+  - - बेल्ट “belt”
+  Niponsa:
+  - - ベルト “beruto”
+  Telugusa:
+  - - బెల్టు “beltu”
+  Hangusa:
+  - - 벨트 “beltu”
+raw data:
+  term: beltu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: belt
+    epo: zono, rimeno
+    spa: cinturón
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (belt), Hindisa (बेल्ट “belt”), Niponsa (ベルト “beruto”), Telugusa
+    (బెల్టు “beltu”), Hangusa (벨트 “beltu”)
+...

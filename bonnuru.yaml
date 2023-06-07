@@ -1,0 +1,48 @@
+---
+term: bonnuru
+slug: bonnuru
+ipa: "bon\u02C8nu\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=bon\u02C8nu\u027Eu&voice=Ewa"
+status: false
+category: derived
+word class: il
+trans:
+  eng:
+  - - good day
+  epo:
+  - - bonan tagon
+  spa:
+  - - "buen d\xEDa"
+search terms:
+  glb:
+  - bonnuru
+  eng:
+  - good day
+  epo:
+  - bonan tagon
+  spa:
+  - "buen d\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/nuru">nuru</a>
+tags:
+- intrelogalexi
+raw data:
+  term: bonnuru
+  category: derived
+  word class: il
+  status: false
+  trans:
+    eng: good day
+    epo: bonan tagon
+    spa: "buen d\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: bon- + nuru
+...

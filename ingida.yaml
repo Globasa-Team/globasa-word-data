@@ -1,0 +1,54 @@
+---
+term: ingida
+slug: ingida
+ipa: "in\u02C8gida"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8gida&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - introduction
+  - - introduce
+  epo:
+  - - engvido
+    - enkonduko
+  - - engvidi
+  spa:
+  - - "introducci\xF3n"
+  - - introducir
+search terms:
+  glb:
+  - ingida
+  eng:
+  - introduction
+  - introduce
+  epo:
+  - engvido
+  - enkonduko
+  - engvidi
+  spa:
+  - "introducci\xF3n"
+  - introducir
+etymology_type: DERIVD
+etymology: <a href="../lexi/in-">in-</a> + <a href="../lexi/gida">gida</a>
+raw data:
+  term: ingida
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: introduction; introduce
+    epo: engvido, enkonduko; engvidi
+    spa: "introducci\xF3n; introducir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in- + gida
+...

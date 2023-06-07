@@ -1,0 +1,48 @@
+---
+term: imisu ete
+slug: imisu ete
+ipa: "i\u02C8misu \u02C8ete"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8misu \u02C8ete&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - ours (_those beings belonging to us_)
+  epo:
+  - - la niaj
+  spa:
+  - - los nuestros (_seres vivientes_)
+search terms:
+  glb:
+  - imisu ete
+  - imisu
+  - ete
+  eng:
+  - ours
+  epo:
+  - la niaj
+  spa:
+  - los nuestros
+etymology_type: DERIVD
+etymology: <a href="../lexi/imi">imi</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/ete">ete</a>
+raw data:
+  term: imisu ete
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: ours (_those beings belonging to us_)
+    epo: la niaj
+    spa: los nuestros (_seres vivientes_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: imi + -su, ete
+...

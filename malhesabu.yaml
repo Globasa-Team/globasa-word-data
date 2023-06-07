@@ -1,0 +1,50 @@
+---
+term: malhesabu
+slug: malhesabu
+ipa: "malxe\u02C8sabu"
+ipa link: "http://ipa-reader.xyz/?text=malxe\u02C8sabu&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - miscount
+  epo:
+  - - miskalkulo
+  - - miskalkuli
+  spa:
+  - - "error en el c\xE1lculo"
+  - - equivocarse en las cuentas
+search terms:
+  glb:
+  - malhesabu
+  eng:
+  - miscount
+  epo:
+  - miskalkulo
+  - miskalkuli
+  spa:
+  - "error en el c\xE1lculo"
+  - equivocarse en las cuentas
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal-">mal-</a> + <a href="../lexi/hesabu">hesabu</a>
+raw data:
+  term: malhesabu
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: miscount
+    epo: miskalkulo; miskalkuli
+    spa: "error en el c\xE1lculo; equivocarse en las cuentas"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal- + hesabu
+...

@@ -1,0 +1,58 @@
+---
+term: guje
+slug: guje
+ipa: ˈgud͡ʒe
+ipa link: http://ipa-reader.xyz/?text=ˈgud͡ʒe&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - fracture (_become fractured or cause to fracture_)
+  epo:
+  - - frakasiĝo
+  - - frakasiĝi
+    - frakasi
+  spa:
+  - - fractura
+  - - fracturar
+    - fracturarse
+search terms:
+  glb:
+  - guje
+  eng:
+  - fracture
+  epo:
+  - frakasiĝo
+  - frakasiĝi
+  - frakasi
+  spa:
+  - fractura
+  - fracturar
+  - fracturarse
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 骨折 “gǔzhé”
+  Hangusa:
+  - - 골절 “goljeol”
+raw data:
+  term: guje
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: fracture (_become fractured or cause to fracture_)
+    epo: frakasiĝo; frakasiĝi, frakasi
+    spa: fractura; fracturar, fracturarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (骨折 “gǔzhé”), Hangusa (골절 “goljeol”)
+...

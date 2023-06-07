@@ -1,0 +1,73 @@
+---
+term: cipresu
+slug: cipresu
+ipa: "t\u0361\u0283i\u02C8p\u027Eesu"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283i\u02C8p\u027Eesu&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cypress
+    - _Cupressaceae_
+  epo:
+  - - cipreso
+  spa:
+  - - "cipr\xE9s"
+    - _Cupressaceae_
+search terms:
+  glb:
+  - cipresu
+  eng:
+  - cypress
+  - cupressaceae
+  epo:
+  - cipreso
+  spa:
+  - "cipr\xE9s"
+  - cupressaceae
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - cypress
+  Espanisa:
+  - - "cipr\xE9s"
+  Fransesa:
+  - - "cypr\xE8s"
+  Rusisa:
+  - - "\u043A\u0438\u043F\u0430\u0440\u0438\u0441 \"kiparis\""
+  Doycisa:
+  - - Zypresse
+  Indonesisa:
+  - - sipres
+  Pilipinasa:
+  - - sipres
+  Niponsa:
+  - - "\u30B5\u30A4\u30D7\u30EC\u30B9 \"saypuresu\""
+  Hangusa:
+  - - "\uC0AC\uC774\uD504\uB7EC\uC2A4 \"saypulosu\""
+tags:
+- planta
+raw data:
+  term: cipresu
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: cypress, _Cupressaceae_
+    epo: cipreso
+    spa: "cipr\xE9s, _Cupressaceae_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta
+  etymology: "Englisa (cypress), Espanisa (cipr\xE9s), Fransesa (cypr\xE8s), Rusisa
+    (\u043A\u0438\u043F\u0430\u0440\u0438\u0441 \"kiparis\"), Doycisa (Zypresse),
+    Indonesisa (sipres), Pilipinasa (sipres), Niponsa (\u30B5\u30A4\u30D7\u30EC\u30B9
+    \"saypuresu\"), Hangusa (\uC0AC\uC774\uD504\uB7EC\uC2A4 \"saypulosu\")"
+...

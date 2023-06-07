@@ -1,0 +1,48 @@
+---
+term: jensikal
+slug: jensikal
+ipa: "d\u0361\u0292ensi\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292ensi\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - agender
+    - genderless
+  epo:
+  - - sengenra
+  spa:
+  - - "sin g\xE9nero"
+search terms:
+  glb:
+  - jensikal
+  eng:
+  - agender
+  - genderless
+  epo:
+  - sengenra
+  spa:
+  - "sin g\xE9nero"
+etymology_type: DERIVD
+etymology: <a href="../lexi/jensi">jensi</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: jensikal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: agender, genderless
+    epo: sengenra
+    spa: "sin g\xE9nero"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jensi + -kal
+...

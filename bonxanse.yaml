@@ -1,0 +1,49 @@
+---
+term: bonxanse
+slug: bonxanse
+ipa: "bon\u02C8\u0283anse"
+ipa link: "http://ipa-reader.xyz/?text=bon\u02C8\u0283anse&voice=Ewa"
+status: false
+category: derived
+word class: n; il
+trans:
+  eng:
+  - - (good) luck
+  epo:
+  - - "bonan \u015Dancon"
+  spa:
+  - - buena suerte
+search terms:
+  glb:
+  - bonxanse
+  eng:
+  - good luck
+  - luck
+  epo:
+  - "bonan \u015Dancon"
+  spa:
+  - buena suerte
+etymology_type: DERIVD
+etymology: <a href="../lexi/bon-">bon-</a> + <a href="../lexi/xanse">xanse</a>
+tags:
+- intrelogalexi
+raw data:
+  term: bonxanse
+  category: derived
+  word class: n; il
+  status: false
+  trans:
+    eng: (good) luck
+    epo: "bonan \u015Dancon"
+    spa: buena suerte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: luck, good luck
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: bon- + xanse
+...

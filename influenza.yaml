@@ -1,0 +1,66 @@
+---
+term: influenza
+slug: influenza
+ipa: "influ\u02C8enza"
+ipa link: "http://ipa-reader.xyz/?text=influ\u02C8enza&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - flu
+    - influenza
+    - grippe
+  epo:
+  - - gripo
+    - influenco
+  spa:
+  - - gripe
+    - gripa
+    - influenza
+search terms:
+  glb:
+  - influenza
+  eng:
+  - flu
+  - influenza
+  - grippe
+  epo:
+  - gripo
+  - influenco
+  spa:
+  - gripe
+  - gripa
+  - influenza
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: influenza
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: flu, influenza, grippe
+    epo: gripo, influenco
+    spa: gripe, gripa, influenza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (flu, influenza, grippe), Espanisa (influenza), Rusisa (\u0438\u043D\u0444\u043B\u044E\u044D\u043D\u0446\u0430
+    \"inflyuentsa\"), Doycisa (Influenza), Italisa (influenza), Indonesisa (influenza),
+    Hindisa (\u0907\u0928\u092B\u093C\u094D\u0932\u0941\u090F\u0902\u091C\u093C\u093E
+    \"influenza\"), Arabisa (\u0625\u0650\u0646\u0652\u0641\u0652\u0644\u064F\u0648\u0650\u0646\u0652\u0632\u064E\u0627
+    \"influwinza\"), Niponsa (\u30A4\u30F3\u30D5\u30EB\u30A8\u30F3\u30B6 \"infuruenza\",
+    \u30F3\u30D5\u30EB \"infuru\"), Telugusa (\u0C2B\u0C4D\u0C32\u0C42 \"flu\"), Tamilsa
+    (\u0B87\u0BA9\u0BCD\u0B83\u0BAA\u0BC1\u0BB3\u0BC1\u0BB5\u0BC6\u0BA9\u0BCD\u0B9A\u0BBE
+    \"infuluvenja\"), Hangusa (\uC778\uD50C\uB8E8\uC5D4\uC790 \"inpulluenja\"), Parsisa
+    (\u0627\u0646\u0641\u0644\u0648\u0627\u0646\u0632\u0627 \"anfulu\xE2nz\xE2\")"
+...

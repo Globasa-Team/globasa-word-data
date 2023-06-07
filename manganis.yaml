@@ -1,0 +1,57 @@
+---
+term: manganis
+slug: manganis
+ipa: "manga\u02C8nis"
+ipa link: "http://ipa-reader.xyz/?text=manga\u02C8nis&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - manganese
+  epo:
+  - - mangano
+  spa:
+  - - manganeso
+    - Mn
+search terms:
+  glb:
+  - manganis
+  eng:
+  - manganese
+  epo:
+  - mangano
+  spa:
+  - manganeso
+  - mn
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: manganis
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: manganese
+    epo: mangano
+    spa: manganeso, Mn
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (manganese), Putunhwa (\u9333 \u201Cmeng\u201D), Hindisa (\u0907\u0902\u0917\u0928\u0940
+    \u201Cingni\u201D), Espanisa (manganeso), Arabisa (\u0645\u064E\u0646\u0652\u062C\u064E\u0646\u0650\u064A\u0632
+    \u201Cmanganiz\u201D), Fransesa (mangan\xE8se), Rusisa (\u043C\u0430\u0440\u0433\u0430\u043D\u0435\u0446
+    \u201Cmanganets\u201D), Indonesisa (mangan), Doycisa (Mangan), Niponsa (\u30DE\u30F3\u30AC\u30F3
+    \u201Cmangan\u201D), Telugusa (\u0C2E\u0C47\u0C02\u0C17\u0C28\u0C40\u0C38\u0C4D
+    \u201Cmenganis\u201D), Turkisa (mangan), Hangusa (\uB9DD\uAC04 \u201Cmangan\u201D,
+    \uB9DD\uAC00\uB2C8\uC988 \u201Cmanganiju\u201D), Vyetnamsa (mangan), Parsisa (\u0645\u0646\u06AF\u0646\u0632
+    \u201Cmangenez\u201D), Swahilisa (manganisi), Pilipinasa (mangganeso, manganese)"
+...

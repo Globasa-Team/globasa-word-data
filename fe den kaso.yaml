@@ -1,0 +1,55 @@
+---
+term: fe den kaso
+slug: fe den kaso
+ipa: "fe \u02C8den \u02C8kaso"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8den \u02C8kaso&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - in that case
+    - then
+  epo:
+  - - en tiu kazo
+    - tiukaze
+  spa:
+  - - en ese caso
+    - entonces
+search terms:
+  glb:
+  - fe den kaso
+  - fe
+  - den
+  - kaso
+  eng:
+  - in that case
+  - then
+  epo:
+  - en tiu kazo
+  - tiukaze
+  spa:
+  - en ese caso
+  - entonces
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/den">den</a>, <a href="../lexi/kaso">kaso</a>
+raw data:
+  term: fe den kaso
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: in that case, then
+    epo: en tiu kazo, tiukaze
+    spa: en ese caso, entonces
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, den, kaso
+...

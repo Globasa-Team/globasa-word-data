@@ -1,0 +1,52 @@
+---
+term: kamerun
+slug: kamerun
+ipa: "kame\u02C8\u027Eun"
+ipa link: "http://ipa-reader.xyz/?text=kame\u02C8\u027Eun&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Cameroon
+  epo:
+  - - Kameruno
+    - Kamerunio
+  spa:
+  - - "Camer\xFAn"
+search terms:
+  glb:
+  - kamerun
+  eng:
+  - cameroon
+  epo:
+  - kameruno
+  - kamerunio
+  spa:
+  - "camer\xFAn"
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - Cameroun
+tags:
+- dexa
+raw data:
+  term: Kamerun
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Cameroon
+    epo: Kameruno, Kamerunio
+    spa: "Camer\xFAn"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Fransesa (Cameroun)
+...

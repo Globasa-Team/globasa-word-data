@@ -1,0 +1,48 @@
+---
+term: celki
+slug: celki
+ipa: "\u02C8t\u0361\u0283elki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u0361\u0283elki&voice=Ewa"
+status: false
+category: derived
+word class: l
+trans:
+  eng:
+  - - so that
+    - in order for
+  epo:
+  - - por ke
+  spa:
+  - - para que
+search terms:
+  glb:
+  - celki
+  eng:
+  - so that
+  - in order for
+  epo:
+  - por ke
+  spa:
+  - para que
+etymology_type: DERIVD
+etymology: <a href="../lexi/cel">cel</a> + <a href="../lexi/ki">ki</a>
+raw data:
+  term: celki
+  category: derived
+  word class: l
+  status: false
+  trans:
+    eng: 'so that, in order for '
+    epo: por ke
+    spa: para que
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cel + ki
+...

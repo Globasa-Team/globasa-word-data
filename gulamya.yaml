@@ -1,0 +1,46 @@
+---
+term: gulamya
+slug: gulamya
+ipa: "gu\u02C8lamja"
+ipa link: "http://ipa-reader.xyz/?text=gu\u02C8lamja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - slavery
+  epo:
+  - - sklaveco
+  spa:
+  - - esclavitud
+search terms:
+  glb:
+  - gulamya
+  eng:
+  - slavery
+  epo:
+  - sklaveco
+  spa:
+  - esclavitud
+etymology_type: DERIVD
+etymology: <a href="../lexi/gulam">gulam</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: gulamya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: slavery
+    epo: sklaveco
+    spa: esclavitud
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gulam + -ya
+...

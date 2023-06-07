@@ -1,0 +1,64 @@
+---
+term: yexim
+slug: yexim
+ipa: "je\u02C8\u0283im"
+ipa link: "http://ipa-reader.xyz/?text=je\u02C8\u0283im&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - jade
+  epo:
+  - - jado
+  spa:
+  - - jade
+  deu:
+  - - Jade
+search terms:
+  glb:
+  - yexim
+  eng:
+  - jade
+  epo:
+  - jado
+  spa:
+  - jade
+  deu:
+  - jade
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u064A\u064E\u0634\u0652\u0645 \"yaxm\""
+  Turkisa:
+  - - "ye\u015Fim"
+  Parsisa:
+  - - "\u06CC\u0634\u0645 \u0633\u0628\u0632 \"yaxm-e sabz\""
+  Putunhwa:
+  - - "\u7389\u77F3 \"yuxi\""
+  Doycisa:
+  - - Jaden
+tags:
+- petra
+raw data:
+  term: yexim
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: jade
+    epo: jado
+    spa: jade
+    deu: Jade
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: "Arabisa (\u064A\u064E\u0634\u0652\u0645 \"yaxm\"), Turkisa (ye\u015Fim),
+    Parsisa (\u06CC\u0634\u0645 \u0633\u0628\u0632 \"yaxm-e sabz\"), Putunhwa (\u7389\u77F3
+    \"yuxi\"), Doycisa (Jaden)"
+...

@@ -1,0 +1,53 @@
+---
+term: maple
+slug: maple
+ipa: "\u02C8maple"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8maple&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - maple
+  epo:
+  - - acero
+  spa:
+  - - arce
+    - _Acer_
+search terms:
+  glb:
+  - maple
+  eng:
+  - maple
+  epo:
+  - acero
+  spa:
+  - arce
+  - acer
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- planta
+raw data:
+  term: maple
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: maple
+    epo: acero
+    spa: arce, _Acer_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta
+  etymology: "Englisa (maple), Indonesisa (maple), Niponsa (\u30E1\u30FC\u30D7\u30EB
+    \"mepuru\"), Maharaxtrasa (\u092E\u0947\u092A\u0932 \"mepala\")\nPanjabisa (\u0A2E\u0A48\u0A2A\u0A32
+    \"mepala\"), Karnatakasa (\u0CAE\u0CCD\u0CAF\u0CBE\u0CAA\u0CB2\u0CCD \"myapal\"),
+    Tamilsa (\u0BAE\u0BC7\u0BAA\u0BCD\u0BAA\u0BBF\u0BB3\u0BCD \"mepil\")"
+...

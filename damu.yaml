@@ -1,0 +1,55 @@
+---
+term: damu
+slug: damu
+ipa: ˈdamu
+ipa link: http://ipa-reader.xyz/?text=ˈdamu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - blood
+  epo:
+  - - sango
+  spa:
+  - - sangre
+search terms:
+  glb:
+  - damu
+  eng:
+  - blood
+  epo:
+  - sango
+  spa:
+  - sangre
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - دم “dam”
+  Swahilisa:
+  - - damu
+  Telugusa:
+  - - రక్తము “raktamu”
+  Ivrisa:
+  - - דָּם “dam”
+raw data:
+  term: damu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: blood
+    epo: sango
+    spa: sangre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (دم “dam”), Swahilisa (damu), Telugusa (రక్తము “raktamu”), Ivrisa
+    (דָּם “dam”)
+...

@@ -1,0 +1,52 @@
+---
+term: dominikana
+slug: dominikana
+ipa: "domini\u02C8kana"
+ipa link: "http://ipa-reader.xyz/?text=domini\u02C8kana&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Dominican Republic
+  epo:
+  - - Dominika Respubliko
+    - Domingo
+  spa:
+  - - "Rep\xFAblica Dominicana"
+search terms:
+  glb:
+  - dominikana
+  eng:
+  - dominican republic
+  epo:
+  - dominika respubliko
+  - domingo
+  spa:
+  - "rep\xFAblica dominicana"
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Dominicana
+tags:
+- dexa
+raw data:
+  term: Dominikana
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Dominican Republic
+    epo: Dominika Respubliko, Domingo
+    spa: "Rep\xFAblica Dominicana"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Dominicana)
+...

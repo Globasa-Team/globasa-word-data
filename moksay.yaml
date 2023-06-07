@@ -1,0 +1,47 @@
+---
+term: moksay
+slug: moksay
+ipa: "mok\u02C8saj"
+ipa link: "http://ipa-reader.xyz/?text=mok\u02C8saj&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wood
+  epo:
+  - - ligno
+  spa:
+  - - madera
+search terms:
+  glb:
+  - moksay
+  eng:
+  - wood
+  epo:
+  - ligno
+  spa:
+  - madera
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: moksay
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wood
+    epo: ligno
+    spa: madera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6728\u6750 \u201Cm\xF9c\xE1i\u201D), Niponsa (\u6728\u6750
+    \u201Cmokuzai\u201D), Hangusa (\uBAA9\uC7AC \u201Cmogjae\u201D)"
+...

@@ -1,0 +1,47 @@
+---
+term: halke
+slug: halke
+ipa: "\u02C8xalke"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xalke&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ring
+  epo:
+  - - ringo
+  spa:
+  - - anillo
+search terms:
+  glb:
+  - halke
+  eng:
+  - ring
+  epo:
+  - ringo
+  spa:
+  - anillo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: halke
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ring
+    epo: ringo
+    spa: anillo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u064E\u0644\u0652\u0642\u064E\u0629 \u201Chalka\u201D),
+    Turkisa (halka), Parsisa (\u062D\u0644\u0642\u0647 \u201Chalke\u201D)"
+...

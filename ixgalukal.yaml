@@ -1,0 +1,58 @@
+---
+term: ixgalukal
+slug: ixgalukal
+ipa: "i\u0283galu\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=i\u0283galu\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - available
+    - vacant
+    - unoccupied
+  epo:
+  - - senokupa
+    - neokupita
+  - - senokupe
+    - neokupite
+  spa:
+  - - disponible
+    - desocupado
+search terms:
+  glb:
+  - ixgalukal
+  eng:
+  - available
+  - vacant
+  - unoccupied
+  epo:
+  - senokupa
+  - neokupita
+  - senokupe
+  - neokupite
+  spa:
+  - disponible
+  - desocupado
+etymology_type: DERIVD
+etymology: <a href="../lexi/ixgalu">ixgalu</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: ixgalukal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: available, vacant, unoccupied
+    epo: senokupa, neokupita; senokupe, neokupite
+    spa: disponible, desocupado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ixgalu + -kal
+...

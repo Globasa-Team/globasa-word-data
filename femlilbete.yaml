@@ -1,0 +1,47 @@
+---
+term: femlilbete
+slug: femlilbete
+ipa: "femlil\u02C8bete"
+ipa link: "http://ipa-reader.xyz/?text=femlil\u02C8bete&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - granddaughter
+  epo:
+  - - nepino
+  spa:
+  - - nieta
+search terms:
+  glb:
+  - femlilbete
+  eng:
+  - granddaughter
+  epo:
+  - nepino
+  spa:
+  - nieta
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/lil-">lil-</a> + <a
+  href="../lexi/bete">bete</a>
+raw data:
+  term: femlilbete
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: granddaughter
+    epo: nepino
+    spa: nieta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem- + lil- + bete
+...

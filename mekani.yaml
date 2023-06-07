@@ -1,0 +1,59 @@
+---
+term: mekani
+slug: mekani
+ipa: "me\u02C8kani"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8kani&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mechanism
+  epo:
+  - - mekanismo
+    - "me\u0125anismo"
+    - "mekanika\u0135o"
+    - "me\u0125anika\u0135o"
+  spa:
+  - - mecanismo
+search terms:
+  glb:
+  - mekani
+  eng:
+  - mechanism
+  epo:
+  - mekanismo
+  - "me\u0125anismo"
+  - "mekanika\u0135o"
+  - "me\u0125anika\u0135o"
+  spa:
+  - mecanismo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mekani
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mechanism
+    epo: "mekanismo, me\u0125anismo, mekanika\u0135o, me\u0125anika\u0135o"
+    spa: mecanismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mechanism, mechanic), Fransesa (m\xE9canisme, m\xE9canique),
+    Doycisa (Mechanismus, Mechanik), Rusisa (\u043C\u0435\u0445\u0430\u043D\u0438\u0437\u043C
+    \u201Cmehanizm\u201D, \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0430 \u201Cmehanika\u201D),
+    Espanisa (mecanismo, mec\xE1nica), Parsisa (\u0645\u06A9\u0627\u0646\u06CC\u0632\u0645
+    \u201Cmek\xE2nizm\u201D, \u0645\u06A9\u0627\u0646\u06CC\u06A9 \u201Cmek\xE2nik\u201D),
+    Turkisa (mekanizma, mekanik), Indonesisa (mekanika), Pilipinasa (mekanismo, mekanika),
+    Niponsa (\u30E1\u30AB\u30CB\u30BA\u30E0 \u201Cmekanizumu\u201D), Hangusa (\uBA54\uCEE4\uB2C8\uC998
+    \u201Cmekonijum\u201D)"
+...

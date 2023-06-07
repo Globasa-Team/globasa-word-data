@@ -1,0 +1,76 @@
+---
+term: nota
+slug: nota
+ipa: "\u02C8nota"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nota&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - note
+  epo:
+  - - noto
+  spa:
+  - - nota
+search terms:
+  glb:
+  - nota
+  eng:
+  - note
+  epo:
+  - noto
+  spa:
+  - nota
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - note
+    - notation
+  Doycisa:
+  - - Note
+    - Notation
+  Fransesa:
+  - - note
+  Espanisa:
+  - - nota
+    - "notaci\xF3n"
+  Rusisa:
+  - - "\u043Do\u0442\u0430 \u201Cnota\u201D"
+  Parsisa:
+  - - "\u0646\u062A \u201Cnot\u201D"
+  Turkisa:
+  - - not
+  Indonesisa:
+  - - notasi
+  Pilipinasa:
+  - - nota
+    - notasyon
+  Niponsa:
+  - - "\u30CE\u30FC\u30C8 \u201Cnoto\u201D"
+  Hangusa:
+  - - "\uB178\uD2B8 \u201Cnotu\u201D"
+raw data:
+  term: nota
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: note
+    epo: noto
+    spa: nota
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (note, notation), Doycisa (Note, Notation), Fransesa (note),
+    Espanisa (nota, notaci\xF3n), Rusisa (\u043Do\u0442\u0430 \u201Cnota\u201D), Parsisa
+    (\u0646\u062A \u201Cnot\u201D), Turkisa (not), Indonesisa (notasi), Pilipinasa
+    (nota, notasyon), Niponsa (\u30CE\u30FC\u30C8 \u201Cnoto\u201D), Hangusa (\uB178\uD2B8
+    \u201Cnotu\u201D)"
+...

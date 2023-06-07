@@ -1,0 +1,52 @@
+---
+term: moydinli
+slug: moydinli
+ipa: "moj\u02C8dinli"
+ipa link: "http://ipa-reader.xyz/?text=moj\u02C8dinli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - daily
+    - everyday
+  epo:
+  - - "\u0109iutaga"
+  - - "\u0109iutage"
+  spa:
+  - - diario
+    - "todos los d\xEDas"
+search terms:
+  glb:
+  - moydinli
+  eng:
+  - daily
+  - everyday
+  epo:
+  - "\u0109iutaga"
+  - "\u0109iutage"
+  spa:
+  - diario
+  - "todos los d\xEDas"
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/din">din</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: moydinli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: daily, everyday
+    epo: "\u0109iutaga; \u0109iutage"
+    spa: "diario, todos los d\xEDas"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + din + -li
+...

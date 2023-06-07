@@ -1,0 +1,46 @@
+---
+term: jumlemon
+slug: jumlemon
+ipa: "d\u0361\u0292umle\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292umle\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - phrase
+  epo:
+  - - frazero
+  spa:
+  - - frase
+search terms:
+  glb:
+  - jumlemon
+  eng:
+  - phrase
+  epo:
+  - frazero
+  spa:
+  - frase
+etymology_type: DERIVD
+etymology: <a href="../lexi/jumle">jumle</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: jumlemon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: phrase
+    epo: frazero
+    spa: frase
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jumle + -mon
+...

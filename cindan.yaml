@@ -1,0 +1,65 @@
+---
+term: cindan
+slug: cindan
+ipa: t͡ʃinˈdan
+ipa link: http://ipa-reader.xyz/?text=t͡ʃinˈdan&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - diagnosis
+  - - diagnose
+  epo:
+  - - diagnozo
+  - - diagnozi
+  spa:
+  - - diagnóstico
+  - - diagnosticar
+search terms:
+  glb:
+  - cindan
+  eng:
+  - diagnosis
+  - diagnose
+  epo:
+  - diagnozo
+  - diagnozi
+  spa:
+  - diagnóstico
+  - diagnosticar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 诊断 "jendwan"
+  Niponsa:
+  - - 診斷 "xindan"
+  Vyetnamsa:
+  - - chẩn đoán
+  Hangusa:
+  - - 진단 "jindan"
+  Hindisa:
+  - - निदान "nidan"
+tags:
+- medis
+raw data:
+  term: cindan
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: diagnosis; diagnose
+    epo: diagnozo; diagnozi
+    spa: diagnóstico; diagnosticar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: Putunhwa (诊断 "jendwan"), Niponsa (診斷 "xindan"), Vyetnamsa (chẩn đoán),
+    Hangusa (진단 "jindan"), Hindisa (निदान "nidan")
+...

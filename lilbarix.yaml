@@ -1,0 +1,50 @@
+---
+term: lilbarix
+slug: lilbarix
+ipa: "lilba\u02C8\u027Ei\u0283"
+ipa link: "http://ipa-reader.xyz/?text=lilba\u02C8\u027Ei\u0283&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - drizzle
+  epo:
+  - - pluveto
+  - - pluveti
+  spa:
+  - - llovizna
+  - - lloviznar
+search terms:
+  glb:
+  - lilbarix
+  eng:
+  - drizzle
+  epo:
+  - pluveto
+  - pluveti
+  spa:
+  - llovizna
+  - lloviznar
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/barix">barix</a>
+raw data:
+  term: lilbarix
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: drizzle
+    epo: pluveto; pluveti
+    spa: llovizna; lloviznar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + barix
+...

@@ -1,0 +1,52 @@
+---
+term: hoyya
+slug: hoyya
+ipa: "\u02C8xojja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xojja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - be toward
+    - be towards
+  epo:
+  - - esti al
+    - "esti la\u016D direkto de"
+    - esti direkte al
+  spa:
+  - - estar hacia
+search terms:
+  glb:
+  - hoyya
+  eng:
+  - be toward
+  - be towards
+  epo:
+  - esti al
+  - "esti la\u016D direkto de"
+  - esti direkte al
+  spa:
+  - estar hacia
+etymology_type: DERIVD
+etymology: <a href="../lexi/hoy">hoy</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: hoyya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: be toward, be towards
+    epo: "esti al, esti la\u016D direkto de, esti direkte al"
+    spa: estar hacia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hoy + -ya
+...

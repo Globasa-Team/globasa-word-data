@@ -1,0 +1,51 @@
+---
+term: he alote
+slug: he alote
+ipa: "\u02C8xe a\u02C8lote"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe a\u02C8lote&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - anybody else
+    - anyone else
+  epo:
+  - - iu ajn alia
+  spa:
+  - - cualquier otra persona
+search terms:
+  glb:
+  - he alote
+  - he
+  - alote
+  eng:
+  - anybody else
+  - anyone else
+  epo:
+  - iu ajn alia
+  spa:
+  - cualquier otra persona
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/alo">alo</a> + <a href="../lexi/te
+  ">te </a>
+raw data:
+  term: he alote
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: anybody else, anyone else
+    epo: iu ajn alia
+    spa: cualquier otra persona
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'he, alo + te '
+...

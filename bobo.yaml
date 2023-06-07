@@ -1,0 +1,67 @@
+---
+term: bobo
+slug: bobo
+ipa: ˈbobo
+ipa link: http://ipa-reader.xyz/?text=ˈbobo&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - dumb
+    - dumbly
+    - stupid
+    - stupidly
+    - fool
+  epo:
+  - - stulta
+  - - stulte
+  spa:
+  - - bobo
+    - tonto
+search terms:
+  glb:
+  - bobo
+  eng:
+  - dumb
+  - dumbly
+  - stupid
+  - stupidly
+  - fool
+  epo:
+  - stulta
+  - stulte
+  spa:
+  - bobo
+  - tonto
+etymology_type: NATLNG
+etymology:
+  Pilipinasa:
+  - - bobo
+  Hangusa:
+  - - 바보 “babo”
+  Swahilisa:
+  - - bubu
+  Indonesisa:
+  - - bodoh
+raw data:
+  term: bobo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: dumb, dumbly, stupid, stupidly, fool
+    epo: stulta; stulte
+    spa: bobo, tonto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Pilipinasa (bobo), Hangusa (바보 “babo”), Swahilisa (bubu), Indonesisa
+    (bodoh)
+...

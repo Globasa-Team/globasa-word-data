@@ -1,0 +1,50 @@
+---
+term: duayum
+slug: duayum
+ipa: "dua\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=dua\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - second
+    - secondly
+  epo:
+  - - dua
+  - - due
+  spa:
+  - - segundo
+search terms:
+  glb:
+  - duayum
+  eng:
+  - second
+  - secondly
+  epo:
+  - dua
+  - due
+  spa:
+  - segundo
+etymology_type: DERIVD
+etymology: <a href="../lexi/dua">dua</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: duayum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: second, secondly
+    epo: dua; due
+    spa: segundo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dua + -yum
+...

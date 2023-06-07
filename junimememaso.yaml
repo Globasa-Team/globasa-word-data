@@ -1,0 +1,47 @@
+---
+term: junimememaso
+slug: junimememaso
+ipa: "d\u0361\u0292unimeme\u02C8maso"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292unimeme\u02C8maso&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - lamb (_meat_)
+  epo:
+  - - "\u015Dafida\u0135o"
+  spa:
+  - - cordero (_carne_)
+search terms:
+  glb:
+  - junimememaso
+  eng:
+  - lamb
+  epo:
+  - "\u015Dafida\u0135o"
+  spa:
+  - cordero
+etymology_type: DERIVD
+etymology: <a href="../lexi/juni-">juni-</a> + <a href="../lexi/meme">meme</a> + <a
+  href="../lexi/maso">maso</a>
+raw data:
+  term: junimememaso
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: lamb (_meat_)
+    epo: "\u015Dafida\u0135o"
+    spa: cordero (_carne_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: juni- + meme + maso
+...

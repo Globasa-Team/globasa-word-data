@@ -1,0 +1,72 @@
+---
+term: ejakula
+slug: ejakula
+ipa: ed͡ʒaˈkula
+ipa link: http://ipa-reader.xyz/?text=ed͡ʒaˈkula&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - ejaculation
+  - - ejaculate
+  epo:
+  - - ejakulo
+    - ĉuro
+  - - ejakuli
+    - ĉuri
+  spa:
+  - - eyaculación
+  - - eyacular
+search terms:
+  glb:
+  - ejakula
+  eng:
+  - ejaculation
+  - ejaculate
+  epo:
+  - ejakulo
+  - ĉuro
+  - ejakuli
+  - ĉuri
+  spa:
+  - eyaculación
+  - eyacular
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ejaculate
+  Fransesa:
+  - - éjaculation
+  Doycisa:
+  - - Ejakulation
+  Rusisa:
+  - - эякуляция “eyakulyatsiya”
+  Espanisa:
+  - - eyakulación
+  Indonesisa:
+  - - ejakulasi
+  Turkisa:
+  - - ejakülasyon
+raw data:
+  term: ejakula
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: ejaculation; ejaculate
+    epo: ejakulo, ĉuro; ejakuli, ĉuri
+    spa: eyaculación; eyacular
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (ejaculate), Fransesa (éjaculation), Doycisa (Ejakulation), Rusisa
+    (эякуляция “eyakulyatsiya”), Espanisa (eyakulación), Indonesisa (ejakulasi), Turkisa
+    (ejakülasyon)
+...

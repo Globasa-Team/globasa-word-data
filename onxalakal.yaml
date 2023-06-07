@@ -1,0 +1,50 @@
+---
+term: onxalakal
+slug: onxalakal
+ipa: "on\u0283ala\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=on\u0283ala\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - hopeless
+  - - hopelessly
+  epo:
+  - - senespera
+  - - senespere
+  spa:
+  - - sin esperanza
+search terms:
+  glb:
+  - onxalakal
+  eng:
+  - hopeless
+  - hopelessly
+  epo:
+  - senespera
+  - senespere
+  spa:
+  - sin esperanza
+etymology_type: DERIVD
+etymology: <a href="../lexi/onxala">onxala</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: onxalakal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: hopeless; hopelessly
+    epo: senespera; senespere
+    spa: sin esperanza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: onxala + -kal
+...

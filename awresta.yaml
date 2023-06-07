@@ -1,0 +1,52 @@
+---
+term: awresta
+slug: awresta
+ipa: "aw\u02C8\u027Eesta"
+ipa link: "http://ipa-reader.xyz/?text=aw\u02C8\u027Eesta&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - abandonment
+  - - abandon
+  epo:
+  - - forlaso
+  - - forlasi
+  spa:
+  - - abandono
+  - - abandonar
+search terms:
+  glb:
+  - awresta
+  eng:
+  - abandonment
+  - abandon
+  epo:
+  - forlaso
+  - forlasi
+  spa:
+  - abandono
+  - abandonar
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw-">aw-</a> + <a href="../lexi/resta">resta</a>
+raw data:
+  term: awresta
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: abandonment; abandon
+    epo: forlaso; forlasi
+    spa: abandono; abandonar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aw- + resta
+...

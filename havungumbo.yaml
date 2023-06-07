@@ -1,0 +1,48 @@
+---
+term: havungumbo
+slug: havungumbo
+ipa: "xavun\u02C8gumbo"
+ipa link: "http://ipa-reader.xyz/?text=xavun\u02C8gumbo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pestle
+  epo:
+  - - pistilo
+  spa:
+  - - pistilo
+    - tejolote
+search terms:
+  glb:
+  - havungumbo
+  eng:
+  - pestle
+  epo:
+  - pistilo
+  spa:
+  - pistilo
+  - tejolote
+etymology_type: DERIVD
+etymology: <a href="../lexi/havun">havun</a> + <a href="../lexi/gumbo">gumbo</a>
+raw data:
+  term: havungumbo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pestle
+    epo: pistilo
+    spa: pistilo, tejolote
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: havun + gumbo
+...

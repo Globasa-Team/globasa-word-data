@@ -1,0 +1,87 @@
+---
+term: fransyum
+slug: fransyum
+ipa: fɾanˈsjum
+ipa link: http://ipa-reader.xyz/?text=fɾanˈsjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - francium
+  epo:
+  - - franciumo
+    - francio
+  spa:
+  - - francio
+    - Fr
+search terms:
+  glb:
+  - fransyum
+  eng:
+  - francium
+  epo:
+  - franciumo
+  - francio
+  spa:
+  - francio
+  - fr
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - francium
+  Espanisa:
+  - - francio
+  Arabisa:
+  - - فَرَنْسِيُوم “faransiyum”
+  Fransesa:
+  - - francium
+  Rusisa:
+  - - франций “frantsiy”
+  Indonesisa:
+  - - fransium
+  Doycisa:
+  - - Francium
+  Niponsa:
+  - - フランシウム “furanxiumu”
+  Telugusa:
+  - - ఫ్రాన్షియం “franxiyam”
+  Turkisa:
+  - - fransiyum
+  Hangusa:
+  - - 프랑슘 “purangxum”
+  Vyetnamsa:
+  - - franxi
+  Parsisa:
+  - - فرانسیم “feransiyom”
+  Swahilisa:
+  - - fransi
+  Pilipinasa:
+  - - pransyo
+    - pransyum
+tags:
+- kimikali monlari
+raw data:
+  term: fransyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: francium
+    epo: franciumo, francio
+    spa: francio, Fr
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (francium), Espanisa (francio), Arabisa (فَرَنْسِيُوم “faransiyum”),
+    Fransesa (francium), Rusisa (франций “frantsiy”), Indonesisa (fransium), Doycisa
+    (Francium), Niponsa (フランシウム “furanxiumu”), Telugusa (ఫ్రాన్షియం “franxiyam”),
+    Turkisa (fransiyum), Hangusa (프랑슘 “purangxum”), Vyetnamsa (franxi), Parsisa (فرانسیم
+    “feransiyom”), Swahilisa (fransi), Pilipinasa (pransyo, pransyum)
+...

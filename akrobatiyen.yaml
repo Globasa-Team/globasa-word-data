@@ -1,0 +1,46 @@
+---
+term: akrobatiyen
+slug: akrobatiyen
+ipa: "ak\u027Eobati\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=ak\u027Eobati\u02C8jen&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - acrobat
+  epo:
+  - - akrobato
+  spa:
+  - - "acr\xF3bata"
+search terms:
+  glb:
+  - akrobatiyen
+  eng:
+  - acrobat
+  epo:
+  - akrobato
+  spa:
+  - "acr\xF3bata"
+etymology_type: DERIVD
+etymology: <a href="../lexi/akrobati">akrobati</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: akrobatiyen
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: 'acrobat '
+    epo: akrobato
+    spa: "acr\xF3bata"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: akrobati + -yen
+...

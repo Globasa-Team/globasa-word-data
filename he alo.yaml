@@ -1,0 +1,52 @@
+---
+term: he alo
+slug: he alo
+ipa: "\u02C8xe \u02C8alo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8alo&voice=Ewa"
+status: false
+category: phrase
+word class: d
+trans:
+  eng:
+  - - any other
+  epo:
+  - - iu ajn alia
+    - "\u0109ia alia"
+    - "\u0109iu alia"
+  spa:
+  - - cualquier otro
+search terms:
+  glb:
+  - he alo
+  - he
+  - alo
+  eng:
+  - any other
+  epo:
+  - iu ajn alia
+  - "\u0109ia alia"
+  - "\u0109iu alia"
+  spa:
+  - cualquier otro
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/alo ">alo </a>
+raw data:
+  term: he alo
+  category: phrase
+  word class: d
+  status: false
+  trans:
+    eng: any other
+    epo: "iu ajn alia, \u0109ia alia, \u0109iu alia"
+    spa: cualquier otro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'he, alo '
+...

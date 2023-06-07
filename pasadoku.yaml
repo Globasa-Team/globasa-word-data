@@ -1,0 +1,46 @@
+---
+term: pasadoku
+slug: pasadoku
+ipa: "pasa\u02C8doku"
+ipa link: "http://ipa-reader.xyz/?text=pasa\u02C8doku&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - passport
+  epo:
+  - - pasporto
+  spa:
+  - - pasaporte
+search terms:
+  glb:
+  - pasadoku
+  eng:
+  - passport
+  epo:
+  - pasporto
+  spa:
+  - pasaporte
+etymology_type: DERIVD
+etymology: <a href="../lexi/pasa">pasa</a> + <a href="../lexi/-doku">-doku</a>
+raw data:
+  term: pasadoku
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: passport
+    epo: pasporto
+    spa: pasaporte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pasa + -doku
+...

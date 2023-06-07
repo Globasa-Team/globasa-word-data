@@ -1,0 +1,50 @@
+---
+term: eskolkef
+slug: eskolkef
+ipa: "eskol\u02C8kef"
+ipa link: "http://ipa-reader.xyz/?text=eskol\u02C8kef&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - schoolmaster
+    - principal
+    - rector
+  epo:
+  - - lernejestro
+  spa:
+  - - director
+search terms:
+  glb:
+  - eskolkef
+  eng:
+  - schoolmaster
+  - principal
+  - rector
+  epo:
+  - lernejestro
+  spa:
+  - director
+etymology_type: DERIVD
+etymology: <a href="../lexi/eskol">eskol</a> + <a href="../lexi/-kef">-kef</a>
+raw data:
+  term: eskolkef
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: schoolmaster, principal, rector
+    epo: lernejestro
+    spa: director
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: eskol + -kef
+...

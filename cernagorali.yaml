@@ -1,0 +1,48 @@
+---
+term: cernagorali
+slug: cernagorali
+ipa: "t\u0361\u0283e\u027Enago\u02C8\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283e\u027Enago\u02C8\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Montenegrin
+  epo:
+  - - montenegra
+  - - montenegre
+  spa:
+  - - montenegrino
+search terms:
+  glb:
+  - cernagorali
+  eng:
+  - montenegrin
+  epo:
+  - montenegra
+  - montenegre
+  spa:
+  - montenegrino
+etymology_type: DERIVD
+etymology: <a href="../lexi/Cernagora">Cernagora</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Cernagorali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Montenegrin
+    epo: montenegra; montenegre
+    spa: montenegrino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Cernagora + -li
+...

@@ -1,0 +1,63 @@
+---
+term: dadal
+slug: dadal
+ipa: daˈdal
+ipa link: http://ipa-reader.xyz/?text=daˈdal&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - achievement
+    - accomplishment
+  - - reach
+    - achieve
+    - accomplish
+  epo:
+  - - atingo
+  - - atingi
+  spa:
+  - - logro
+  - - lograr
+search terms:
+  glb:
+  - dadal
+  eng:
+  - achievement
+  - accomplishment
+  - reach
+  - achieve
+  - accomplish
+  epo:
+  - atingo
+  - atingi
+  spa:
+  - logro
+  - lograr
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 达到 “dadao”
+  Hangusa:
+  - - 닿다 “dahda”
+    - 도달 “dodal”
+raw data:
+  term: dadal
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: achievement, accomplishment; reach, achieve, accomplish
+    epo: atingo; atingi
+    spa: logro; lograr
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa  (达到 “dadao”), Hangusa (닿다 “dahda”, 도달 “dodal”)
+...

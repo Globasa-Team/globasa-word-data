@@ -1,0 +1,106 @@
+---
+term: amperi
+slug: amperi
+ipa: amˈpeɾi
+ipa link: http://ipa-reader.xyz/?text=amˈpeɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ampere
+    - amp
+  epo:
+  - - ampero
+  spa:
+  - - _ampere_
+    - amperio
+    - A
+  deu:
+  - - Ampere
+  fra:
+  - - ampère
+  rus:
+  - - ампер
+  zho:
+  - - 安培
+search terms:
+  glb:
+  - amperi
+  eng:
+  - ampere
+  - amp
+  epo:
+  - ampero
+  spa:
+  - ampere
+  - amperio
+  - a
+  deu:
+  - ampere
+  fra:
+  - ampère
+  rus:
+  - ампер
+  zho:
+  - 安培
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ampere
+  Espanisa:
+  - - amperio
+  Fransesa:
+  - - ampère
+  Rusisa:
+  - - ампер “amper”
+  Doycisa:
+  - - Ampere
+  Indonesisa:
+  - - ampere
+  Pilipinasa:
+  - - amperyo
+  Putunhwa:
+  - - 安培 “anpey”
+  Arabisa:
+  - - أَمْبِير “ambir”
+  Niponsa:
+  - - アンペア “anpea”
+  Telugusa:
+  - - ఆంపియర్ “ampiyar”
+  Turkisa:
+  - - amper
+  Hangusa:
+  - - 암페어 “ampe-o”
+  Vyetnamsa:
+  - - ampe
+  Parsisa:
+  - - آمپر “amper”
+  Swahilisa:
+  - - ampea
+tags:
+- meterya
+raw data:
+  term: amperi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ampere, amp
+    epo: ampero
+    spa: _ampere_, amperio, A
+    deu: Ampere
+    fra: ampère
+    rus: ампер
+    zho: 安培
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: meterya
+  etymology: Englisa (ampere), Espanisa (amperio), Fransesa (ampère), Rusisa (ампер
+    “amper”), Doycisa (Ampere), Indonesisa (ampere), Pilipinasa (amperyo), Putunhwa
+    (安培 “anpey”), Putunhwa (安培 “anpey”), Arabisa (أَمْبِير “ambir”), Niponsa (アンペア
+    “anpea”), Telugusa (ఆంపియర్ “ampiyar”), Turkisa (amper), Hangusa (암페어 “ampe-o”),
+    Vyetnamsa (ampe), Parsisa (آمپر “amper”), Swahilisa (ampea)
+...

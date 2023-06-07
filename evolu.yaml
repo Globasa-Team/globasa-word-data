@@ -1,0 +1,84 @@
+---
+term: evolu
+slug: evolu
+ipa: eˈvolu
+ipa link: http://ipa-reader.xyz/?text=eˈvolu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - evolution
+    - development
+  - - evolve
+    - develop
+  epo:
+  - - evoluo
+    - evolucio
+  - - evolui(gi)
+    - evoluci(gi)
+  spa:
+  - - evolución
+    - desarrollo
+  - - evolucionar
+    - desarrollar
+    - desarrollarse
+search terms:
+  glb:
+  - evolu
+  eng:
+  - evolution
+  - development
+  - evolve
+  - develop
+  epo:
+  - evoluo
+  - evolucio
+  - evoluigi
+  - evolui
+  - evolucigi
+  - evoluci
+  spa:
+  - evolución
+  - desarrollo
+  - evolucionar
+  - desarrollar
+  - desarrollarse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - evolution
+  Fransesa:
+  - - évolution
+  Doycisa:
+  - - Evolution
+  Rusisa:
+  - - эволюция “evolyutsiya”
+  Espanisa:
+  - - evolución
+  Indonesisa:
+  - - evolusi
+  Pilipinasa:
+  - - ebolusyon
+raw data:
+  term: evolu
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: evolution, development; evolve, develop
+    epo: evoluo, evolucio; evolui(gi), evoluci(gi)
+    spa: evolución, desarrollo; evolucionar, desarrollar, desarrollarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (evolution), Fransesa (évolution), Doycisa (Evolution), Rusisa
+    (эволюция “evolyutsiya”), Espanisa (evolución), Indonesisa (evolusi), Pilipinasa
+    (ebolusyon)
+...

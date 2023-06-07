@@ -1,0 +1,54 @@
+---
+term: arkiteturyen
+slug: arkiteturyen
+ipa: "a\u027Ekitetu\u02C8\u027Ejen"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Ekitetu\u02C8\u027Ejen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - architect
+  epo:
+  - - arkitekto
+    - "ar\u0125itekto"
+    - arkitekturisto
+    - "ar\u0125itekturisto"
+  spa:
+  - - arquitecto
+search terms:
+  glb:
+  - arkiteturyen
+  eng:
+  - architect
+  epo:
+  - arkitekto
+  - "ar\u0125itekto"
+  - arkitekturisto
+  - "ar\u0125itekturisto"
+  spa:
+  - arquitecto
+etymology_type: DERIVD
+etymology: <a href="../lexi/arkiteto">arkiteto</a> + <a href="../lexi/-yen">-yen</a>
+tags:
+- profesi
+raw data:
+  term: arkiteturyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: architect
+    epo: "arkitekto, ar\u0125itekto, arkitekturisto, ar\u0125itekturisto"
+    spa: arquitecto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: profesi
+  etymology: arkiteto + -yen
+...

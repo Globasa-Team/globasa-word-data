@@ -1,0 +1,73 @@
+---
+term: prisma
+slug: prisma
+ipa: "\u02C8p\u027Eisma"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8p\u027Eisma&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - prism
+  epo:
+  - - prismo
+  spa:
+  - - prisma
+search terms:
+  glb:
+  - prisma
+  eng:
+  - prism
+  epo:
+  - prismo
+  spa:
+  - prisma
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - prism
+    - prismatic
+  Espanisa:
+  - - prisma
+  Fransesa:
+  - - prisme
+  Rusisa:
+  - - "\u043F\u0440\u0438\u0437\u043C\u0430 \u201Cprizma\u201D"
+  Doycisa:
+  - - Prisma
+  Indonesisa:
+  - - prisma
+  Pilipinasa:
+  - - prisma
+  Hindisa:
+  - - "\u092A\u094D\u0930\u093F\u091C\u094D\u092E \u201Cprijm\u201D"
+  Niponsa:
+  - - "\u30D7\u30EA\u30BA\u30E0 \u201Cpurizumu\u201D"
+  Turkisa:
+  - - prizma
+  Hangusa:
+  - - "\uD504\uB9AC\uC998 \u201Cpurijum\u201D"
+raw data:
+  term: prisma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: prism
+    epo: prismo
+    spa: prisma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (prism, prismatic), Espanisa (prisma), Fransesa (prisme), Rusisa
+    (\u043F\u0440\u0438\u0437\u043C\u0430 \u201Cprizma\u201D), Doycisa (Prisma), Indonesisa
+    (prisma), Pilipinasa (prisma), Hindisa (\u092A\u094D\u0930\u093F\u091C\u094D\u092E
+    \u201Cprijm\u201D), Niponsa (\u30D7\u30EA\u30BA\u30E0 \u201Cpurizumu\u201D), Turkisa
+    (prizma), Hangusa (\uD504\uB9AC\uC998 \u201Cpurijum\u201D)"
+...

@@ -1,0 +1,53 @@
+---
+term: ruoko
+slug: ruoko
+ipa: "\u027Eu\u02C8oko"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8oko&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - look back
+  epo:
+  - - rerigardo
+  - - reigardi
+    - rigardi (reen)
+    - "rigardi (malanta\u016Den)"
+  spa:
+  - - "mirar atr\xE1s"
+search terms:
+  glb:
+  - ruoko
+  eng:
+  - look back
+  epo:
+  - rerigardo
+  - reigardi
+  - rigardi reen
+  - rigardi
+  - "rigardi malanta\u016Den"
+  spa:
+  - "mirar atr\xE1s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ru-">ru-</a> + <a href="../lexi/oko">oko</a>
+raw data:
+  term: ruoko
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: look back
+    epo: "rerigardo; reigardi, rigardi (reen), rigardi (malanta\u016Den)"
+    spa: "mirar atr\xE1s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ru- + oko
+...

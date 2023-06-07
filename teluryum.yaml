@@ -1,0 +1,87 @@
+---
+term: teluryum
+slug: teluryum
+ipa: "telu\u02C8\u027Ejum"
+ipa link: "http://ipa-reader.xyz/?text=telu\u02C8\u027Ejum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tellurium
+  epo:
+  - - teluro
+  spa:
+  - - telurio
+    - Te
+search terms:
+  glb:
+  - teluryum
+  eng:
+  - tellurium
+  epo:
+  - teluro
+  spa:
+  - telurio
+  - te
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tellurium
+  Espanisa:
+  - - teluro
+  Arabisa:
+  - - "\u062A\u0650\u064A\u0644\u064F\u0648\u0631\u0650\u064A\u064F\u0648\u0645 \u201Ctiluriyum\u201D"
+  Fransesa:
+  - - tellure
+  Rusisa:
+  - - "\u0442\u0435\u043B\u043B\u0443\u0440 \u201Ctellur\u201D"
+  Indonesisa:
+  - - telurium
+  Doycisa:
+  - - Tellur
+  Niponsa:
+  - - "\u30C6\u30EB\u30EB \u201Cteruru\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C46\u0C32\u0C42\u0C30\u0C3F\u0C2F\u0C02 \u201Cteluriyam\u201D"
+  Turkisa:
+  - - "tell\xFCr"
+  Hangusa:
+  - - "\uD154\uB8E8\uB974 \u201Cteluru\u201D"
+    - "\uD154\uB8E8\uB968 \u201Cteluryum\u201D"
+  Vyetnamsa:
+  - - telu
+  Parsisa:
+  - - "\u062A\u0644\u0648\u0631\u06CC\u0645 \u201Cteluryom\u201D"
+  Swahilisa:
+  - - teluri
+  Pilipinasa:
+  - - teluryo
+tags:
+- kimikali monlari
+raw data:
+  term: teluryum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tellurium
+    epo: teluro
+    spa: telurio, Te
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (tellurium), Espanisa (teluro), Arabisa (\u062A\u0650\u064A\u0644\u064F\u0648\u0631\u0650\u064A\u064F\u0648\u0645
+    \u201Ctiluriyum\u201D), Fransesa (tellure), Rusisa (\u0442\u0435\u043B\u043B\u0443\u0440
+    \u201Ctellur\u201D), Indonesisa (telurium), Doycisa (Tellur), Niponsa (\u30C6\u30EB\u30EB
+    \u201Cteruru\u201D), Telugusa (\u0C1F\u0C46\u0C32\u0C42\u0C30\u0C3F\u0C2F\u0C02
+    \u201Cteluriyam\u201D), Turkisa (tell\xFCr), Hangusa (\uD154\uB8E8\uB974 \u201Cteluru\u201D,
+    \uD154\uB8E8\uB968 \u201Cteluryum\u201D), Vyetnamsa (telu), Parsisa (\u062A\u0644\u0648\u0631\u06CC\u0645
+    \u201Cteluryom\u201D), Swahilisa (teluri), Pilipinasa (teluryo)"
+...

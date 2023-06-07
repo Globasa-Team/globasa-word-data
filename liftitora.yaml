@@ -1,0 +1,48 @@
+---
+term: liftitora
+slug: liftitora
+ipa: "lifti\u02C8to\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=lifti\u02C8to\u027Ea&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - elevator
+  epo:
+  - - lifto
+  spa:
+  - - elevador
+    - ascensor
+search terms:
+  glb:
+  - liftitora
+  eng:
+  - elevator
+  epo:
+  - lifto
+  spa:
+  - elevador
+  - ascensor
+etymology_type: DERIVD
+etymology: <a href="../lexi/lifti">lifti</a> + <a href="../lexi/-tora">-tora</a>
+raw data:
+  term: liftitora
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: elevator
+    epo: lifto
+    spa: elevador, ascensor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lifti + -tora
+...

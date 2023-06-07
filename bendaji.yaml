@@ -1,0 +1,78 @@
+---
+term: bendaji
+slug: bendaji
+ipa: benˈdad͡ʒi
+ipa link: http://ipa-reader.xyz/?text=benˈdad͡ʒi&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - bandage
+    - dressing
+  - - bandage
+    - dress
+  epo:
+  - - bandaĝo
+    - pansaĵo
+  - - bandaĝi
+    - pansi
+  spa:
+  - - venda
+    - vendaje
+  - - vendar
+search terms:
+  glb:
+  - bendaji
+  eng:
+    0: bandage
+    1: dressing
+    3: dress
+  epo:
+  - bandaĝo
+  - pansaĵo
+  - bandaĝi
+  - pansi
+  spa:
+  - venda
+  - vendaje
+  - vendar
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Bandage
+  Englisa:
+  - - bandage
+  Espanisa:
+  - - vendaje
+  Fransesa:
+  - - bandage
+  Rusisa:
+  - - бандаж “bandaj”
+  Pilipinasa:
+  - - bendahe
+  Turkisa:
+  - - bandaj
+  Swahilisa:
+  - - bendeji
+raw data:
+  term: bendaji
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: bandage, dressing; bandage, dress
+    epo: bandaĝo, pansaĵo; bandaĝi, pansi
+    spa: venda, vendaje; vendar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Bandage), Englisa (bandage), Espanisa (vendaje), Fransesa (bandage),
+    Rusisa (бандаж “bandaj”), Pilipinasa (bendahe), Turkisa (bandaj), Swahilisa (bendeji)
+...

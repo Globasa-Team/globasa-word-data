@@ -1,0 +1,63 @@
+---
+term: fikso
+slug: fikso
+ipa: ˈfikso
+ipa link: http://ipa-reader.xyz/?text=ˈfikso&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - affix
+  epo:
+  - - afikso
+  spa:
+  - - afijo
+search terms:
+  glb:
+  - fikso
+  eng:
+  - affix
+  epo:
+  - afikso
+  spa:
+  - afijo
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Affix
+  Englisa:
+  - - affix
+  Espanisa:
+  - - afijo
+  Fransesa:
+  - - affixe
+  Rusisa:
+  - - аффикс “afiks”
+  Indonesisa:
+  - - affix
+  Pilipinasa:
+  - - apiho
+tags:
+- gramati
+raw data:
+  term: fikso
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: affix
+    epo: afikso
+    spa: afijo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gramati
+  etymology: Doycisa (Affix), Englisa (affix), Espanisa (afijo), Fransesa (affixe),
+    Rusisa (аффикс “afiks”), Indonesisa (affix), Pilipinasa (apiho)
+...

@@ -1,0 +1,52 @@
+---
+term: realcu
+slug: realcu
+ipa: "\u027Ee\u02C8alt\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8alt\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - realization
+  - - realize
+    - become real
+  epo:
+  - - "reali\u011Do"
+  - - "reali\u011Di"
+  spa:
+  - - volverse realidad
+search terms:
+  glb:
+  - realcu
+  eng:
+  - realization
+  - realize
+  - become real
+  epo:
+  - "reali\u011Do"
+  - "reali\u011Di"
+  spa:
+  - volverse realidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/real">real</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: realcu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: realization; realize, become real
+    epo: "reali\u011Do; reali\u011Di"
+    spa: volverse realidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: real + -cu
+...

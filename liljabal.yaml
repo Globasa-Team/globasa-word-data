@@ -1,0 +1,46 @@
+---
+term: liljabal
+slug: liljabal
+ipa: "lild\u0361\u0292a\u02C8bal"
+ipa link: "http://ipa-reader.xyz/?text=lild\u0361\u0292a\u02C8bal&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hill
+  epo:
+  - - monteto
+  spa:
+  - - colina
+search terms:
+  glb:
+  - liljabal
+  eng:
+  - hill
+  epo:
+  - monteto
+  spa:
+  - colina
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/jabal">jabal</a>
+raw data:
+  term: liljabal
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hill
+    epo: monteto
+    spa: colina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + jabal
+...

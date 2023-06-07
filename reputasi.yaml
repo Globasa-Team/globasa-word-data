@@ -1,0 +1,66 @@
+---
+term: reputasi
+slug: reputasi
+ipa: "\u027Eepu\u02C8tasi"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eepu\u02C8tasi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - reputation
+  epo:
+  - - reputacio
+  spa:
+  - - "reputaci\xF3n"
+search terms:
+  glb:
+  - reputasi
+  eng:
+  - reputation
+  epo:
+  - reputacio
+  spa:
+  - "reputaci\xF3n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - repute
+    - reputation
+  Fransesa:
+  - - "r\xE9putation"
+  Doycisa:
+  - - Reputation
+  Rusisa:
+  - - "\u0440\u0435\u043F\u0443\u0442\u0430\u0446\u0438\u044F \u201Creputatsiya\u201D"
+  Espanisa:
+  - - "reputaci\xF3n"
+  Indonesisa:
+  - - reputasi
+  Pilipinasa:
+  - - reputasyon
+  Turkisa:
+  - - "rep\xFCtasyon"
+raw data:
+  term: reputasi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: reputation
+    epo: reputacio
+    spa: "reputaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (repute, reputation), Fransesa (r\xE9putation), Doycisa (Reputation),
+    Rusisa (\u0440\u0435\u043F\u0443\u0442\u0430\u0446\u0438\u044F \u201Creputatsiya\u201D),
+    Espanisa (reputaci\xF3n), Indonesisa (reputasi), Pilipinasa (reputasyon), Turkisa
+    (rep\xFCtasyon)"
+...

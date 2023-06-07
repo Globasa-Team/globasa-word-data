@@ -1,0 +1,50 @@
+---
+term: kenya
+slug: kenya
+ipa: "\u02C8kenja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kenja&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Kenya
+  epo:
+  - - Kenjo
+  spa:
+  - - Kenia
+search terms:
+  glb:
+  - kenya
+  eng:
+  - kenya
+  epo:
+  - kenjo
+  spa:
+  - kenia
+etymology_type: NATLNG
+etymology:
+  Swahilisa:
+  - - Kenya
+tags:
+- dexa
+raw data:
+  term: Kenya
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Kenya
+    epo: Kenjo
+    spa: Kenia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Swahilisa (Kenya)
+...

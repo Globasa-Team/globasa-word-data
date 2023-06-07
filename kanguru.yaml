@@ -1,0 +1,53 @@
+---
+term: kanguru
+slug: kanguru
+ipa: "kan\u02C8gu\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=kan\u02C8gu\u027Eu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - kangaroo
+  epo:
+  - - kanguruo
+  spa:
+  - - canguro
+search terms:
+  glb:
+  - kanguru
+  eng:
+  - kangaroo
+  epo:
+  - kanguruo
+  spa:
+  - canguro
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kanguru
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: kangaroo
+    epo: kanguruo
+    spa: canguro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (kangaroo), Espanisa (canguro), Fransesa (kangourou), Rusisa
+    (\u043A\u0435\u043D\u0433\u0443\u0440\u0443 \u201Ckenguru\u201D), Doycisa (K\xE4nguru),
+    Indonesisa (kanguru), Pilipinasa (kangguru), Hindisa (\u0915\u0902\u0917\u093E\u0930\u0942
+    \u201Ckangaru\u201D), Arabisa (\u0643\u064E\u0646\u0652\u063A\u064E\u0631 \u201Ckangar\u201D),
+    Niponsa (\u30AB\u30F3\u30AC\u30EB\u30FC \u201Ckangaru\u201D), Telugusa (\u0C15\u0C02\u0C17\u0C3E\u0C30\u0C42
+    \u201Ckangaru\u201D), Turkisa (kanguru), Hangusa (\uCEA5\uAC70\uB8E8 \u201Ckengoru\u201D),
+    Vyetnamsa (canguru). Parsisa (\u06A9\u0627\u0646\u06AF\u0648\u0631\u0648 \u201Ckanguru\u201D),
+    Swahilisa (kangaruu), Guguyimitirsa (gangurru)"
+...

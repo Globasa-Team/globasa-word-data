@@ -1,0 +1,50 @@
+---
+term: ultrapasa
+slug: ultrapasa
+ipa: "ult\u027Ea\u02C8pasa"
+ipa link: "http://ipa-reader.xyz/?text=ult\u027Ea\u02C8pasa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - pass by
+    - surpass
+  epo:
+  - - preterpaso
+  - - preterpasi
+  spa:
+  - - superar
+search terms:
+  glb:
+  - ultrapasa
+  eng:
+  - pass by
+  - surpass
+  epo:
+  - preterpaso
+  - preterpasi
+  spa:
+  - superar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ultra-">ultra-</a> + <a href="../lexi/pasa">pasa</a>
+raw data:
+  term: ultrapasa
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: pass by, surpass
+    epo: preterpaso; preterpasi
+    spa: superar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ultra- + pasa
+...

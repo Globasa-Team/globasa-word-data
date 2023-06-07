@@ -1,0 +1,74 @@
+---
+term: cilindro
+slug: cilindro
+ipa: t͡ʃiˈlindɾo
+ipa link: http://ipa-reader.xyz/?text=t͡ʃiˈlindɾo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cylinder
+  epo:
+  - - cilindro
+  spa:
+  - - cilindro
+search terms:
+  glb:
+  - cilindro
+  eng:
+  - cylinder
+  epo:
+  - cilindro
+  spa:
+  - cilindro
+etymology_type: NATLNG
+etymology:
+  Italisa:
+  - - cilindro
+  Espanisa: ~
+  Englisa:
+  - - cylinder
+  Fransesa:
+  - - cylindre
+  Rusisa:
+  - - цилиндр “tsilindr”
+  Doycisa:
+  - - Zylinder
+  Pilipinasa:
+  - - silinder
+  Hindisa:
+  - - सिलिंडर “silindar”
+  Niponsa:
+  - - シリンダー “xirinda”
+  Turkisa:
+  - - silindir
+  Hangusa:
+  - - 실린더 “xillinda”
+  Vyetnamsa:
+  - - xi lanh
+  Parsisa:
+  - - سیلندر “silandr”
+raw data:
+  term: cilindro
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cylinder
+    epo: cilindro
+    spa: cilindro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Italisa (cilindro), Espanisa, Englisa (cylinder), Fransesa (cylindre),
+    Rusisa (цилиндр “tsilindr”), Doycisa (Zylinder), Pilipinasa (silinder), Hindisa
+    (सिलिंडर “silindar”), Niponsa (シリンダー “xirinda”), Turkisa (silindir), Hangusa (실린더
+    “xillinda”), Vyetnamsa (xi lanh), Parsisa (سیلندر “silandr”)
+...

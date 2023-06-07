@@ -1,0 +1,50 @@
+---
+term: hoy
+slug: hoy
+ipa: xoj
+ipa link: http://ipa-reader.xyz/?text=xoj&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - toward
+    - towards (_in the direction of_)
+  epo:
+  - - "al (_la\u016D direkto de_)"
+    - direkte al
+  spa:
+  - - hacia
+search terms:
+  glb:
+  - hoy
+  eng:
+  - toward
+  - towards
+  epo:
+  - al
+  - direkte al
+  spa:
+  - hacia
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hoy
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: toward, towards (_in the direction of_)
+    epo: "al (_la\u016D direkto de_), direkte al"
+    spa: hacia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Niponsa (\u65B9\u4F4D \u201Ch\u014Di\u201D)"
+...

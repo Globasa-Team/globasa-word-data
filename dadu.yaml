@@ -1,0 +1,63 @@
+---
+term: dadu
+slug: dadu
+ipa: ˈdadu
+ipa link: http://ipa-reader.xyz/?text=ˈdadu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - die
+    - dice
+  epo:
+  - - ĵetpluredro
+    - ludkubo
+  spa:
+  - - dado
+search terms:
+  glb:
+  - dadu
+  eng:
+  - die
+  - dice
+  epo:
+  - ĵetpluredro
+  - ludkubo
+  spa:
+  - dado
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - dado
+  Italisa:
+  - - dado
+  Pilipinasa:
+  - - dado
+  Portugalsa:
+  - - dado
+  Indonesisa:
+  - - dadu
+  Swahilisa:
+  - - dadu
+raw data:
+  term: dadu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: die, dice
+    epo: ĵetpluredro, ludkubo
+    spa: dado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (dado), Italisa (dado), Pilipinasa (dado), Portugalsa (dado),
+    Indonesisa (dadu), Swahilisa (dadu)
+...

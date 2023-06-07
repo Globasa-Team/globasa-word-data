@@ -1,0 +1,52 @@
+---
+term: alimyen
+slug: alimyen
+ipa: "ali\u02C8mjen"
+ipa link: "http://ipa-reader.xyz/?text=ali\u02C8mjen&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - teacher
+    - instructor
+  epo:
+  - - instruanto
+  spa:
+  - - maestro
+    - instructor
+search terms:
+  glb:
+  - alimyen
+  eng:
+  - teacher
+  - instructor
+  epo:
+  - instruanto
+  spa:
+  - maestro
+  - instructor
+etymology_type: DERIVD
+etymology: <a href="../lexi/alim">alim</a> + <a href="../lexi/-yen">-yen</a>
+tags:
+- eskolya
+raw data:
+  term: alimyen
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: teacher, instructor
+    epo: instruanto
+    spa: maestro, instructor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: eskolya
+  etymology: alim + -yen
+...

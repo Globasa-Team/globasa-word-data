@@ -1,0 +1,61 @@
+---
+term: -ya
+slug: -ya
+ipa: "\u02C8-ja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-ja&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - _abstract nouns_
+  epo:
+  - - -o
+    - -eco
+    - _abstraktaj substantivoj_
+  spa:
+  - - _sustantivos abstractos_
+search terms:
+  glb:
+  - -ya
+  eng:
+  - abstract nouns
+  epo:
+  - -o
+  - -eco
+  - abstraktaj substantivoj
+  spa:
+  - sustantivos abstractos
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u201C-ya\u201D"
+  Hindisa:
+  - - "\u201C-ya\u201D"
+  Espanisa:
+  - - "-\xEDa"
+  Rusisa:
+  - - "-\u0438\u044F \u201C-iya\u201D"
+  Englisa:
+  - - -y
+raw data:
+  term: -ya
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: _abstract nouns_
+    epo: -o, -eco, _abstraktaj substantivoj_
+    spa: _sustantivos abstractos_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u201C-ya\u201D), Hindisa (\u201C-ya\u201D), Espanisa (-\xEDa),
+    Rusisa (-\u0438\u044F \u201C-iya\u201D), Englisa (-y)"
+...

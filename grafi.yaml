@@ -1,0 +1,69 @@
+---
+term: grafi
+slug: grafi
+ipa: ˈgɾafi
+ipa link: http://ipa-reader.xyz/?text=ˈgɾafi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - recording
+    - record
+  - - record
+  epo:
+  - - registraĵo
+  - - registri
+  spa:
+  - - grabación
+    - registro
+  - - grabar
+    - registrar
+search terms:
+  glb:
+  - grafi
+  eng:
+  - recording
+  - record
+  epo:
+  - registraĵo
+  - registri
+  spa:
+  - grabación
+  - registro
+  - grabar
+  - registrar
+etymology_type: NATLNG
+etymology:
+  Arabisa: ~
+  Swahilisa: ~
+  Turkisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Doycisa: ~
+  Englisa:
+  - - -graph
+  Espanisa: ~
+  Fransesa: ~
+  Rusisa: ~
+raw data:
+  term: grafi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: recording, record; record
+    epo: registraĵo; registri
+    spa: grabación, registro; grabar, registrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa ( ), Swahilisa, Turkisa, Indonesisa, Pilipinasa, Doycisa, Englisa
+    (-graph), Espanisa, Fransesa, Rusisa
+...

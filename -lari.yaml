@@ -1,0 +1,48 @@
+---
+term: -lari
+slug: -lari
+ipa: "-\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8la\u027Ei&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - collective group
+  epo:
+  - - -aro
+  spa:
+  - - grupo colectivo
+search terms:
+  glb:
+  - -lari
+  eng:
+  - collective group
+  epo:
+  - -aro
+  spa:
+  - grupo colectivo
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/lari">lari</a>.
+antonyms:
+- -mon
+raw data:
+  term: -lari
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: collective group
+    epo: -aro
+    spa: grupo colectivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: -mon
+  example: ""
+  tags: ""
+  etymology: Am oko _lari_.
+...

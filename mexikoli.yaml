@@ -1,0 +1,46 @@
+---
+term: mexikoli
+slug: mexikoli
+ipa: "me\u0283i\u02C8koli"
+ipa link: "http://ipa-reader.xyz/?text=me\u0283i\u02C8koli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Mexican
+  epo:
+  - - meksika
+  spa:
+  - - mexicano
+search terms:
+  glb:
+  - mexikoli
+  eng:
+  - mexican
+  epo:
+  - meksika
+  spa:
+  - mexicano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Mexiko">Mexiko</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Mexikoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Mexican
+    epo: meksika
+    spa: mexicano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Mexiko + -li
+...

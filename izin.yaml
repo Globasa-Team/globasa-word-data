@@ -1,0 +1,67 @@
+---
+term: izin
+slug: izin
+ipa: "i\u02C8zin"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8zin&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - permission
+  - - allow
+    - let
+    - permit
+  epo:
+  - - permeso
+    - laso
+  - - permesi
+    - rajtigi
+    - lasi
+  spa:
+  - - permiso
+  - - permitir
+    - dejar
+search terms:
+  glb:
+  - izin
+  eng:
+  - permission
+  - allow
+  - let
+  - permit
+  epo:
+  - permeso
+  - laso
+  - permesi
+  - rajtigi
+  - lasi
+  spa:
+  - permiso
+  - permitir
+  - dejar
+etymology_type: NATLNG
+etymology: BLAH
+antonyms:
+- posizin
+raw data:
+  term: izin
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: permission; allow, let, permit
+    epo: permeso, laso; permesi, rajtigi, lasi
+    spa: permiso; permitir, dejar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: posizin
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0625\u0630\u0646 \u201Cidhn\u201D), Indonesisa (izin), Turkisa
+    (izin)"
+...

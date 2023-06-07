@@ -1,0 +1,52 @@
+---
+term: fleysinjabu
+slug: fleysinjabu
+ipa: "flejsin\u02C8d\u0361\u0292abu"
+ipa link: "http://ipa-reader.xyz/?text=flejsin\u02C8d\u0361\u0292abu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - flying squirrel
+    - _Pteromyini_
+  epo:
+  - - flugsciuro
+  spa:
+  - - ardilla voladora
+    - _Pteromyini_
+search terms:
+  glb:
+  - fleysinjabu
+  eng:
+  - flying squirrel
+  - pteromyini
+  epo:
+  - flugsciuro
+  spa:
+  - ardilla voladora
+  - pteromyini
+etymology_type: DERIVD
+etymology: <a href="../lexi/fley">fley</a> + <a href="../lexi/sinjabu">sinjabu</a>
+tags:
+- hewan
+raw data:
+  term: fleysinjabu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: flying squirrel, _Pteromyini_
+    epo: flugsciuro
+    spa: ardilla voladora, _Pteromyini_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: fley + sinjabu
+...

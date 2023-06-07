@@ -1,0 +1,74 @@
+---
+term: awtorita
+slug: awtorita
+ipa: awtoˈɾita
+ipa link: http://ipa-reader.xyz/?text=awtoˈɾita&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - authority
+  - - authorize
+  epo:
+  - - aŭtoritato
+  - - doni aŭtoritaton
+    - rajtigi
+    - permesi
+  spa:
+  - - autoridad
+  - - autorizar
+search terms:
+  glb:
+  - awtorita
+  eng:
+  - authority
+  - authorize
+  epo:
+  - aŭtoritato
+  - doni aŭtoritaton
+  - rajtigi
+  - permesi
+  spa:
+  - autoridad
+  - autorizar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - authority
+  Fransesa:
+  - - autorité
+  Doycisa:
+  - - Autorität
+  Rusisa:
+  - - авторитет “avtoritet”
+  Espanisa:
+  - - autoridad
+  Turkisa:
+  - - otorite
+  Indonesisa:
+  - - otoritas
+  Pilipinasa:
+  - - awtoridad
+raw data:
+  term: awtorita
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: authority; authorize
+    epo: aŭtoritato; doni aŭtoritaton, rajtigi, permesi
+    spa: autoridad; autorizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (authority), Fransesa (autorité), Doycisa (Autorität), Rusisa
+    (авторитет “avtoritet”), Espanisa (autoridad), Turkisa (otorite), Indonesisa (otoritas),
+    Pilipinasa (awtoridad)
+...

@@ -1,0 +1,61 @@
+---
+term: xerca
+slug: xerca
+ipa: "\u02C8\u0283e\u027Et\u0361\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283e\u027Et\u0361\u0283a&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - search
+    - seek
+    - look for
+  epo:
+  - - "ser\u0109o"
+  - - "ser\u0109i"
+  spa:
+  - - "b\xFAsqueda"
+  - - buscar
+search terms:
+  glb:
+  - xerca
+  eng:
+  - search
+  - seek
+  - look for
+  epo:
+  - "ser\u0109o"
+  - "ser\u0109i"
+  spa:
+  - "b\xFAsqueda"
+  - buscar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - search
+  Fransesa:
+  - - chercher
+  Italisa:
+  - - cerca
+    - cercare
+raw data:
+  term: xerca
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: search, seek, look for
+    epo: "ser\u0109o; ser\u0109i"
+    spa: "b\xFAsqueda; buscar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (search), Fransesa (chercher), Italisa (cerca, cercare)
+...

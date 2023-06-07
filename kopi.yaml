@@ -1,0 +1,54 @@
+---
+term: kopi
+slug: kopi
+ipa: "\u02C8kopi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kopi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - copy
+  epo:
+  - - kopio
+  - - kopii
+  spa:
+  - - copia
+  - - copiar
+search terms:
+  glb:
+  - kopi
+  eng:
+  - copy
+  epo:
+  - kopio
+  - kopii
+  spa:
+  - copia
+  - copiar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kopi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: copy
+    epo: kopio; kopii
+    spa: copia; copiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Kopie), Englisa (copy), Espanisa (copia), Fransesa (copie),
+    Rusisa (\u043A\u043E\u043F\u0438\u044F \u201Ckopiya\u201D), Pilipinasa (kopya),
+    Turkisa (kopya), Telugusa (\u0C15\u0C3E\u0C2A\u0C40 \u201Ck\u0101p\u012B\u201D),
+    Niponsa (\u30B3\u30D4\u30FC \u201Ckop\u012B\u201D), Putunhwa (\u62F7\u8D1D \u201Ck\u01CEob\xE8i\u201D),
+    Parsisa (\u06A9\u067E\u06CC \u201Ckopi\u201D)"
+...

@@ -1,0 +1,64 @@
+---
+term: per
+slug: per
+ipa: "pe\u027E"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027E&voice=Ewa"
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - "on"
+    - upon
+    - over
+    - aboard
+  epo:
+  - - sur
+  spa:
+  - - sobre
+    - encima de
+search terms:
+  glb:
+  - per
+  eng:
+  - "on"
+  - upon
+  - over
+  - aboard
+  epo:
+  - sur
+  spa:
+  - sobre
+  - encima de
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u092A\u0930 \u201Cpar\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C48 \u201Cpai\u201D"
+    - "\u0C2A\u0C48\u0C28 \u201Cpaina\u201D"
+  Swerisa:
+  - - "p\xE5"
+  Rumanisa:
+  - - pe
+raw data:
+  term: per
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: on, upon, over, aboard
+    epo: sur
+    spa: sobre, encima de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u092A\u0930 \u201Cpar\u201D), Telugusa (\u0C2A\u0C48 \u201Cpai\u201D,
+    \u0C2A\u0C48\u0C28 \u201Cpaina\u201D), Swerisa (p\xE5), Rumanisa (pe)"
+...

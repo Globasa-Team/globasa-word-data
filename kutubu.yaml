@@ -1,0 +1,47 @@
+---
+term: kutubu
+slug: kutubu
+ipa: "ku\u02C8tubu"
+ipa link: "http://ipa-reader.xyz/?text=ku\u02C8tubu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pole (_geography_)
+  epo:
+  - - poluso
+  spa:
+  - - "polo (_geograf\xEDa_)"
+search terms:
+  glb:
+  - kutubu
+  eng:
+  - pole
+  epo:
+  - poluso
+  spa:
+  - polo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kutubu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pole (_geography_)
+    epo: poluso
+    spa: "polo (_geograf\xEDa_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u0637\u0628 \u201Cqu\u1E6Db\u201D), Parsisa (\u0642\u0637\u0628
+    \u201Cqotb\u201D), Indonesisa (kutub), Turkisa (kutup, kutbu, kutubu)"
+...

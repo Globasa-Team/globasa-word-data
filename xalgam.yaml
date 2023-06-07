@@ -1,0 +1,61 @@
+---
+term: xalgam
+slug: xalgam
+ipa: "\u0283al\u02C8gam"
+ipa link: "http://ipa-reader.xyz/?text=\u0283al\u02C8gam&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - turnip
+  epo:
+  - - rapo
+  spa:
+  - - nabo
+search terms:
+  glb:
+  - xalgam
+  eng:
+  - turnip
+  epo:
+  - rapo
+  spa:
+  - nabo
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0936\u0932\u091C\u092E \u201Cxalgam\u201D"
+    - "\u0936\u0932\u091C\u092E \u201Cxaljam\u201D"
+  Arabisa:
+  - - "\u0634\u064E\u0644\u0652\u062C\u064E\u0645 \u201Cxaljam\u201D"
+    - "\u0633\u064E\u0644\u0652\u062C\u064E\u0645\u200E \u201Csaljam\u201D"
+  Turkisa:
+  - - "\u015Falgam"
+  Parsisa:
+  - - "\u0634\u0644\u063A\u0645 \u201Cxalgam\u201D"
+tags:
+- yamxey
+raw data:
+  term: xalgam
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: turnip
+    epo: rapo
+    spa: nabo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Hindisa (\u0936\u0932\u091C\u092E \u201Cxalgam\u201D, \u0936\u0932\u091C\u092E
+    \u201Cxaljam\u201D), Arabisa (\u0634\u064E\u0644\u0652\u062C\u064E\u0645 \u201Cxaljam\u201D,
+    \u0633\u064E\u0644\u0652\u062C\u064E\u0645\u200E \u201Csaljam\u201D), Turkisa
+    (\u015Falgam), Parsisa (\u0634\u0644\u063A\u0645 \u201Cxalgam\u201D)"
+...

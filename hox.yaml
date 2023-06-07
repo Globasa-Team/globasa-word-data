@@ -1,0 +1,65 @@
+---
+term: hox
+slug: hox
+ipa: "\u02C8xo\u0283"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xo\u0283&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - happy
+    - happily
+    - joyful
+    - joyfully
+  epo:
+  - - "feli\u0109a"
+    - "\u011Doja"
+    - gaja
+  - - "feli\u0109e"
+    - "\u011Doje"
+    - gaje
+  spa:
+  - - feliz
+    - gozoso
+search terms:
+  glb:
+  - hox
+  eng:
+  - happy
+  - happily
+  - joyful
+  - joyfully
+  epo:
+  - "feli\u0109a"
+  - "\u011Doja"
+  - gaja
+  - "feli\u0109e"
+  - "\u011Doje"
+  - gaje
+  spa:
+  - feliz
+  - gozoso
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hox
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: happy, happily, joyful, joyfully
+    epo: "feli\u0109a, \u011Doja, gaja; feli\u0109e, \u011Doje, gaje"
+    spa: feliz, gozoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0916\u0941\u0936 \u201Ckhush\u201D), Parsisa (\u062E\u0648\u0634
+    \u201Ckhosh\u201D), Panjabisa (\u0A16\u0A41\u0A38\u0A3C \u201Ckhu\u015B\u201D)"
+...

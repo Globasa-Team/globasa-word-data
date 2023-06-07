@@ -1,0 +1,51 @@
+---
+term: lobo
+slug: lobo
+ipa: "\u02C8lobo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lobo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lobe
+    - lobo-
+  epo:
+  - - lobo
+  spa:
+  - - "l\xF3bulo"
+search terms:
+  glb:
+  - lobo
+  eng:
+  - lobe
+  - lobo-
+  epo:
+  - lobo
+  spa:
+  - "l\xF3bulo"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lobo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lobe, lobo-
+    epo: lobo
+    spa: "l\xF3bulo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lobe, lobo-), Fransesa, Espanisa (l\xF3bulo, lobo-), Rusisa
+    (\u043B\u043E\u0431\u043E- \u201Clobo-\u201D), Doycisa (Lappen, lobo-), Indonesisa
+    (lobus, lobo-), Pilipinasa (lobo), Telugusa (\u0C32\u0C4B\u0C2C\u0C4B- \u201Clobo-\u201D),
+    Turkisa (lob, lobo-), Parsisa (\u0644\u0648\u0628 \u201Clob\u201D)"
+...

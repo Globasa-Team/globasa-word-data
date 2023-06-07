@@ -1,0 +1,79 @@
+---
+term: barinjen
+slug: barinjen
+ipa: baɾinˈd͡ʒen
+ipa link: http://ipa-reader.xyz/?text=baɾinˈd͡ʒen&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - eggplant
+    - aubergine
+    - brinjal
+  epo:
+  - - melongeno
+  spa:
+  - - berenjena
+    - _Solanum melongena_
+search terms:
+  glb:
+  - barinjen
+  eng:
+  - eggplant
+  - aubergine
+  - brinjal
+  epo:
+  - melongeno
+  spa:
+  - berenjena
+  - solanum melongena
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - aubergine
+  Fransesa:
+  - - aubergine
+  Doycisa:
+  - - Aubergine
+  Espanisa:
+  - - berenjena
+  Hindisa:
+  - - बैंगन “baiṅgan”
+    - बतिया “batiyā”
+  Arabisa:
+  - - باذنجان “bāḏinjān”
+  Swahilisa:
+  - - mbiringani
+    - bilingani
+  Parsisa:
+  - - بادنجان “bâdenjân”
+  Turkisa:
+  - - patlıcan
+    - badincan
+tags:
+- yamxey
+- fruta
+raw data:
+  term: barinjen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: eggplant, aubergine, brinjal
+    epo: melongeno
+    spa: berenjena, _Solanum melongena_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey, fruta
+  etymology: Englisa (aubergine), Fransesa (aubergine), Doycisa (Aubergine), Espanisa
+    (berenjena), Hindisa (बैंगन “baiṅgan”, बतिया “batiyā”), Arabisa (باذنجان “bāḏinjān”),
+    Swahilisa (mbiringani, bilingani), Parsisa (بادنجان “bâdenjân”), Turkisa (patlıcan,
+    badincan)
+...

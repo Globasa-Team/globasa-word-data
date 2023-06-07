@@ -1,0 +1,55 @@
+---
+term: mingal
+slug: mingal
+ipa: "min\u02C8gal"
+ipa link: "http://ipa-reader.xyz/?text=min\u02C8gal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sickle
+    - scythe
+  epo:
+  - - "fal\u0109ilo"
+    - "fal\u0109ileto"
+  spa:
+  - - hoz
+    - "guada\xF1a"
+search terms:
+  glb:
+  - mingal
+  eng:
+  - sickle
+  - scythe
+  epo:
+  - "fal\u0109ilo"
+  - "fal\u0109ileto"
+  spa:
+  - hoz
+  - "guada\xF1a"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mingal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sickle, scythe
+    epo: "fal\u0109ilo, fal\u0109ileto"
+    spa: "hoz, guada\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u0650\u0646\u0652\u062C\u064E\u0644 \"minjal\"), Ivrisa
+    (\u05DE\u05B7\u05D2\u05B8\u05BC\u05DC \"magal\"), Parsisa (\u0645\u0646\u06AF\u0627\u0644
+    \"mangal\"), Hayasa (\u0574\u0561\u0576\u0563\u0561\u0572 \"manga\u0142\"), Sakartwelosa
+    (\u10DC\u10D0\u10DB\u10D2\u10D0\u10DA\u10D8 \"namgali\")"
+...

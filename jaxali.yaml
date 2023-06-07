@@ -1,0 +1,60 @@
+---
+term: jaxali
+slug: jaxali
+ipa: "d\u0361\u0292a\u02C8\u0283ali"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8\u0283ali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - next
+    - (the) following
+    - (and) then
+  epo:
+  - - tujposta
+  - - tujposte
+  spa:
+  - - siguente
+    - "pr\xF3ximo"
+  - - "a continuaci\xF3n"
+    - luego
+search terms:
+  glb:
+  - jaxali
+  eng:
+  - next
+  - the following
+  - following
+  - and then
+  - then
+  epo:
+  - tujposta
+  - tujposte
+  spa:
+  - siguente
+  - "pr\xF3ximo"
+  - "a continuaci\xF3n"
+  - luego
+etymology_type: DERIVD
+etymology: <a href="../lexi/ja-">ja-</a> + <a href="../lexi/xa">xa</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: jaxali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: next, (the) following, (and) then
+    epo: tujposta; tujposte
+    spa: "siguente, pr\xF3ximo; a continuaci\xF3n, luego"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ja- + xa + -li
+...

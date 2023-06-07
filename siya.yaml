@@ -1,0 +1,58 @@
+---
+term: siya
+slug: siya
+ipa: "\u02C8sija"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sija&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - say yes (to)
+    - approve
+  epo:
+  - - dirado de jes
+    - aprobo
+  - - diri jeson (al)
+    - aprobi
+  spa:
+  - - "decir s\xED a"
+    - aprobar
+search terms:
+  glb:
+  - siya
+  eng:
+  - say yes to
+  - say yes
+  - approve
+  epo:
+  - dirado de jes
+  - aprobo
+  - diri jeson al
+  - diri jeson
+  - aprobi
+  spa:
+  - "decir s\xED a"
+  - aprobar
+etymology_type: DERIVD
+etymology: <a href="../lexi/si">si</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: siya
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: say yes (to), approve
+    epo: dirado de jes, aprobo; diri jeson (al), aprobi
+    spa: "decir s\xED a, aprobar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: si + -ya
+...

@@ -1,0 +1,53 @@
+---
+term: pelipis
+slug: pelipis
+ipa: "peli\u02C8pis"
+ipa link: "http://ipa-reader.xyz/?text=peli\u02C8pis&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - temple (_anatomy_)
+  epo:
+  - - tempio
+  spa:
+  - - sien
+search terms:
+  glb:
+  - pelipis
+  eng:
+  - temple
+  epo:
+  - tempio
+  spa:
+  - sien
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - pelipis
+  Pilipinasa:
+  - - pilipisan
+    - palipisan
+tags:
+- jismulogi
+raw data:
+  term: pelipis
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: temple (_anatomy_)
+    epo: tempio
+    spa: sien
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Indonesisa (pelipis), Pilipinasa (pilipisan, palipisan)
+...

@@ -1,0 +1,52 @@
+---
+term: malharufi
+slug: malharufi
+ipa: "malxa\u02C8\u027Eufi"
+ipa link: "http://ipa-reader.xyz/?text=malxa\u02C8\u027Eufi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - misspelling
+  - - misspell
+  epo:
+  - - misliterumo
+  - - misliterumi
+  spa:
+  - - "mala ortograf\xEDa"
+  - - deletrear mal
+search terms:
+  glb:
+  - malharufi
+  eng:
+  - misspelling
+  - misspell
+  epo:
+  - misliterumo
+  - misliterumi
+  spa:
+  - "mala ortograf\xEDa"
+  - deletrear mal
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal-">mal-</a> + <a href="../lexi/harufi">harufi</a>
+raw data:
+  term: malharufi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: misspelling; misspell
+    epo: misliterumo; misliterumi
+    spa: "mala ortograf\xEDa; deletrear mal"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal- + harufi
+...

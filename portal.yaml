@@ -1,0 +1,74 @@
+---
+term: portal
+slug: portal
+ipa: "po\u027E\u02C8tal"
+ipa link: "http://ipa-reader.xyz/?text=po\u027E\u02C8tal&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - portal
+  epo:
+  - - portalo
+  spa:
+  - - portal
+  deu:
+  - - Portal
+search terms:
+  glb:
+  - portal
+  eng:
+  - portal
+  epo:
+  - portalo
+  spa:
+  - portal
+  deu:
+  - portal
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - portal
+  Espanisa:
+  - - portal
+  Fransesa:
+  - - portail
+  Rusisa:
+  - - "\u043F\u043E\u0440\u0442\u0430\u043B \"portal\""
+  Doycisa:
+  - - Portal
+  Hindisa:
+  - - "\u092A\u094B\u0930\u094D\u091F\u0932 \"portal\""
+  Telugusa:
+  - - "\u0C2A\u0C4B\u0C30\u0C4D\u0C1F\u0C32\u0C4D \"portal\""
+  Parsisa:
+  - - "\u067E\u0648\u0631\u062A\u0627\u0644 \"port\xE2l\""
+  Niponsa:
+  - - "\u30DD\u30FC\u30BF\u30EB \"potaru\""
+  Hangusa:
+  - - "\uD3EC\uD138 \"potol\""
+raw data:
+  term: portal
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: portal
+    epo: portalo
+    spa: portal
+    deu: Portal
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (portal), Espanisa (portal), Fransesa (portail), Rusisa (\u043F\u043E\u0440\u0442\u0430\u043B
+    \"portal\"), Doycisa (Portal), Hindisa (\u092A\u094B\u0930\u094D\u091F\u0932 \"portal\"),
+    Telugusa (\u0C2A\u0C4B\u0C30\u0C4D\u0C1F\u0C32\u0C4D \"portal\"), Parsisa (\u067E\u0648\u0631\u062A\u0627\u0644
+    \"port\xE2l\"), Niponsa (\u30DD\u30FC\u30BF\u30EB \"potaru\"), Hangusa (\uD3EC\uD138
+    \"potol\")"
+...

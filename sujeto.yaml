@@ -1,0 +1,64 @@
+---
+term: sujeto
+slug: sujeto
+ipa: "su\u02C8d\u0361\u0292eto"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8d\u0361\u0292eto&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - subject (_grammar_)
+  epo:
+  - - subjekto (_gramatiko_)
+  spa:
+  - - "sujeto (_gram\xE1tica_)"
+search terms:
+  glb:
+  - sujeto
+  eng:
+  - subject
+  epo:
+  - subjekto
+  spa:
+  - sujeto
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - subject
+  Espanisa:
+  - - sujeto
+  Fransesa:
+  - - sujet
+  Rusisa:
+  - - "\u0441\u0443\u0431\u044A\u0435\u043A\u0442 \u201Csubyekt\u201D"
+  Doycisa:
+  - - Subjekt
+    - Sujet
+  Indonesisa:
+  - - subjek
+    - subyek
+  Parsisa:
+  - - "\u0633\u0648\u0698\u0647\u200E \u201Csuje\u201D"
+raw data:
+  term: sujeto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: subject (_grammar_)
+    epo: subjekto (_gramatiko_)
+    spa: "sujeto (_gram\xE1tica_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (subject), Espanisa (sujeto), Fransesa (sujet), Rusisa (\u0441\u0443\u0431\u044A\u0435\u043A\u0442
+    \u201Csubyekt\u201D), Doycisa (Subjekt, Sujet), Indonesisa (subjek, subyek) Parsisa
+    (\u0633\u0648\u0698\u0647\u200E \u201Csuje\u201D)"
+...

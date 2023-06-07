@@ -1,0 +1,53 @@
+---
+term: kalamu
+slug: kalamu
+ipa: "ka\u02C8lamu"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8lamu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pen
+  epo:
+  - - plumo (skribilo)
+    - kalamo
+  spa:
+  - - pluma
+    - "bol\xEDgrafo"
+search terms:
+  glb:
+  - kalamu
+  eng:
+  - pen
+  epo:
+  - plumo skribilo
+  - plumo
+  - kalamo
+  spa:
+  - pluma
+  - "bol\xEDgrafo"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kalamu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pen
+    epo: plumo (skribilo), kalamo
+    spa: "pluma, bol\xEDgrafo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0915\u0932\u092E  \u201Ckalam\u201D), Parsisa (\u0642\u0644\u0645
+    \u201Ckalam\u201D), Arabisa (\u0642\u0644\u0645 \u201Ckalam\u201D), Turkisa (kalem),
+    Swahilisa (kalamu)"
+...

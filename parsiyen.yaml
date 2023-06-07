@@ -1,0 +1,46 @@
+---
+term: parsiyen
+slug: parsiyen
+ipa: "pa\u027Esi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=pa\u027Esi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Persian
+  epo:
+  - - perso
+  spa:
+  - - persa (_persona_)
+search terms:
+  glb:
+  - parsiyen
+  eng:
+  - persian
+  epo:
+  - perso
+  spa:
+  - persa
+etymology_type: DERIVD
+etymology: <a href="../lexi/Parsi">Parsi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Parsiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Persian
+    epo: perso
+    spa: persa (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Parsi + -yen
+...

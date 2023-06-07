@@ -1,0 +1,50 @@
+---
+term: cenple
+slug: cenple
+ipa: "\u02C8t\u0361\u0283enple"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u0361\u0283enple&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - centuple
+    - hundredfold
+  epo:
+  - - centobla
+  - - centoble
+  spa:
+  - - "c\xE9ntuple"
+search terms:
+  glb:
+  - cenple
+  eng:
+  - centuple
+  - hundredfold
+  epo:
+  - centobla
+  - centoble
+  spa:
+  - "c\xE9ntuple"
+etymology_type: DERIVD
+etymology: <a href="../lexi/cen">cen</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: cenple
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: centuple, hundredfold
+    epo: centobla; centoble
+    spa: "c\xE9ntuple"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cen + -ple
+...

@@ -1,0 +1,47 @@
+---
+term: rusiyen
+slug: rusiyen
+ipa: "\u027Eusi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eusi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Russian (person)
+  epo:
+  - - ruso
+  spa:
+  - - ruso (_persona_)
+search terms:
+  glb:
+  - rusiyen
+  eng:
+  - russian person
+  - russian
+  epo:
+  - ruso
+  spa:
+  - ruso
+etymology_type: DERIVD
+etymology: <a href="../lexi/Rusi">Rusi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Rusiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Russian (person)
+    epo: ruso
+    spa: ruso (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Rusi + -yen
+...

@@ -1,0 +1,52 @@
+---
+term: maximummo
+slug: maximummo
+ipa: "ma\u0283i\u02C8mummo"
+ipa link: "http://ipa-reader.xyz/?text=ma\u0283i\u02C8mummo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - as... as possible
+    - maximally
+  epo:
+  - - kiel eble plej
+    - maksimume
+  spa:
+  - - tan... como se pueda
+    - "m\xE1ximamente"
+search terms:
+  glb:
+  - maximummo
+  eng:
+  - as... as possible
+  - maximally
+  epo:
+  - kiel eble plej
+  - maksimume
+  spa:
+  - tan... como se pueda
+  - "m\xE1ximamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/maximum">maximum</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: maximummo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: as... as possible, maximally
+    epo: kiel eble plej, maksimume
+    spa: "tan... como se pueda, m\xE1ximamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: maximum + -mo
+...

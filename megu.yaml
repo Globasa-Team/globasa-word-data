@@ -1,0 +1,47 @@
+---
+term: megu
+slug: megu
+ipa: "\u02C8megu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8megu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cloud
+  epo:
+  - - nubo
+  spa:
+  - - nube
+search terms:
+  glb:
+  - megu
+  eng:
+  - cloud
+  epo:
+  - nubo
+  spa:
+  - nube
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: megu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cloud
+    epo: nubo
+    spa: nube
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u092E\u0947\u0918 \u201Cmegh\u201D), Telugusa (\u0C2E\u0C47\u0C18\u0C2E\u0C41
+    \u201Cm\u0113ghamu\u201D)"
+...

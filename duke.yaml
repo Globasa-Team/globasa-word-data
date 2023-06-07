@@ -1,0 +1,79 @@
+---
+term: duke
+slug: duke
+ipa: ˈduke
+ipa link: http://ipa-reader.xyz/?text=ˈduke&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - duke
+    - duchess
+  epo:
+  - - duko
+    - dukino
+  spa:
+  - - duque
+search terms:
+  glb:
+  - duke
+  eng:
+  - duke
+  - duchess
+  epo:
+  - duko
+  - dukino
+  spa:
+  - duque
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - duke
+    - duchess
+  Espanisa:
+  - - duque
+    - duquesa
+  Fransesa:
+  - - duc
+    - duchesse
+  Pilipinasa:
+  - - duke
+  - - dukesa
+  Hindisa:
+  - - ड्यूक "dyuk"
+    - डचेस "daces"
+  Arabisa:
+  - - دوق "duq"
+    - دُوقَة "duqa"
+  Turkisa:
+  - - dük
+    - duka
+    - düşes
+    - dukesa
+  Parsisa:
+  - - دوک "duk"
+  - - دوشس "dušes"
+raw data:
+  term: duke
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: duke, duchess
+    epo: duko, dukino
+    spa: duque
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (duke, duchess), Espanisa (duque, duquesa), Fransesa (duc, duchesse),
+    Pilipinasa (duke; dukesa), Hindisa (ड्यूक "dyuk", डचेस "daces"), Arabisa (دوق
+    "duq", دُوقَة "duqa"), Turkisa (dük, duka, düşes, dukesa), Parsisa (دوک "duk";
+    دوشس "dušes")
+...

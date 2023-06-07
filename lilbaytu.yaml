@@ -1,0 +1,48 @@
+---
+term: lilbaytu
+slug: lilbaytu
+ipa: "lil\u02C8bajtu"
+ipa link: "http://ipa-reader.xyz/?text=lil\u02C8bajtu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hut
+    - cottage
+  epo:
+  - - dometo
+  spa:
+  - - "caba\xF1a"
+search terms:
+  glb:
+  - lilbaytu
+  eng:
+  - hut
+  - cottage
+  epo:
+  - dometo
+  spa:
+  - "caba\xF1a"
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/baytu">baytu</a>
+raw data:
+  term: lilbaytu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hut, cottage
+    epo: dometo
+    spa: "caba\xF1a"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + baytu
+...

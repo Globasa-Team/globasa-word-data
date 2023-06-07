@@ -1,0 +1,52 @@
+---
+term: gungu
+slug: gungu
+ipa: ˈgungu
+ipa link: http://ipa-reader.xyz/?text=ˈgungu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bow (_weapon_)
+  epo:
+  - - pafarko
+  spa:
+  - - arco (_arma_)
+search terms:
+  glb:
+  - gungu
+  eng:
+  - bow
+  epo:
+  - pafarko
+  spa:
+  - arco
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 弓 “gōng”
+  Vyetnamsa:
+  - - cung
+  Hangusa:
+  - - 양궁 “yang-gung”
+raw data:
+  term: gungu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bow (_weapon_)
+    epo: pafarko
+    spa: arco (_arma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (弓 “gōng”), Vyetnamsa (cung), Hangusa (양궁 “yang-gung”)
+...

@@ -1,0 +1,70 @@
+---
+term: -gi
+slug: -gi
+ipa: "\u02C8-gi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-gi&voice=Ewa"
+status: true
+category: affix
+word class: n/f.oj xfik
+trans:
+  eng:
+  - - _causative
+    - transitive marker_
+    - make
+    - cause to be
+  epo:
+  - - -igo
+    - igi
+    - "_ka\u016Dza"
+    - transitiva markilo_
+  spa:
+  - - _marcador causativo/transitivo_
+    - volver
+    - hacer ser
+  deu:
+  - - markiert transitive Verben_
+    - machen
+    - "ausl\xF6sen"
+search terms:
+  glb:
+  - -gi
+  eng:
+  - transitive marker
+  - make
+  - cause to be
+  epo:
+  - -igo
+  - igi
+  - transitiva markilo
+  spa:
+  - marcador causativo/transitivo
+  - volver
+  - hacer ser
+  deu:
+  - markiert transitive verben
+  - machen
+  - "ausl\xF6sen"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/gibe">gibe</a>.
+antonyms:
+- -cu
+raw data:
+  term: -gi
+  category: affix
+  word class: n/f.oj xfik
+  status: true
+  trans:
+    eng: _causative, transitive marker_, make, cause to be
+    epo: "-igo, igi, _ka\u016Dza, transitiva markilo_"
+    spa: _marcador causativo/transitivo_, volver, hacer ser
+    deu: "markiert transitive Verben_, machen, ausl\xF6sen"
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: -cu
+  example: ""
+  tags: ""
+  etymology: Am oko _gibe_.
+...

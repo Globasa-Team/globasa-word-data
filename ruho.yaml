@@ -1,0 +1,63 @@
+---
+term: ruho
+slug: ruho
+ipa: "\u02C8\u027Euxo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Euxo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - spirit
+    - soul
+  epo:
+  - - animo
+    - spirito
+  spa:
+  - - "esp\xEDritu"
+    - alma
+search terms:
+  glb:
+  - ruho
+  eng:
+  - spirit
+  - soul
+  epo:
+  - animo
+  - spirito
+  spa:
+  - "esp\xEDritu"
+  - alma
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0631\u0648\u062D \u201Cruh\u201D"
+  Parsisa:
+  - - "\u0631\u0648\u062D \u201Cruh\u201D"
+  Indonesisa:
+  - - roh
+  Turkisa:
+  - - ruh
+  Swahilisa:
+  - - roho
+raw data:
+  term: ruho
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: spirit, soul
+    epo: animo, spirito
+    spa: "esp\xEDritu, alma"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0631\u0648\u062D \u201Cruh\u201D), Parsisa (\u0631\u0648\u062D
+    \u201Cruh\u201D), Indonesisa (roh), Turkisa (ruh), Swahilisa (roho)"
+...

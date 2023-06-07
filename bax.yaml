@@ -1,0 +1,62 @@
+---
+term: bax
+slug: bax
+ipa: baʃ
+ipa link: http://ipa-reader.xyz/?text=baʃ&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - under
+    - beneath
+    - below
+  epo:
+  - - sub (rekte sub io alia) (vidu [bax] se vi volas kompari nur pri la absoluta
+      vertikala koordinato)
+  spa:
+  - - bajo
+    - debajo de
+search terms:
+  glb:
+  - bax
+  eng:
+  - under
+  - beneath
+  - below
+  epo:
+  - sub rekte sub io alia vidu [bax] se vi volas kompari nur pri la absoluta vertikala
+    koordinato
+  - sub
+  spa:
+  - bajo
+  - debajo de
+etymology_type: NATLNG
+etymology:
+  Portugalsa:
+  - - baixo
+  Espanisa:
+  - - bajo
+  Indonesisa:
+  - - bawah
+raw data:
+  term: bax
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: under, beneath, below
+    epo: sub (rekte sub io alia) (vidu [bax] se vi volas kompari nur pri la absoluta
+      vertikala koordinato)
+    spa: bajo, debajo de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Portugalsa (baixo), Espanisa (bajo), Indonesisa (bawah)
+...

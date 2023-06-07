@@ -1,0 +1,46 @@
+---
+term: hirxamaso
+slug: hirxamaso
+ipa: "xi\u027E\u0283a\u02C8maso"
+ipa link: "http://ipa-reader.xyz/?text=xi\u027E\u0283a\u02C8maso&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - venison
+  epo:
+  - - "cerva\u0135o"
+  spa:
+  - - carne de venado
+search terms:
+  glb:
+  - hirxamaso
+  eng:
+  - venison
+  epo:
+  - "cerva\u0135o"
+  spa:
+  - carne de venado
+etymology_type: DERIVD
+etymology: <a href="../lexi/hirxa">hirxa</a> + <a href="../lexi/-maso">-maso</a>
+raw data:
+  term: hirxamaso
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: venison
+    epo: "cerva\u0135o"
+    spa: carne de venado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hirxa + -maso
+...

@@ -1,0 +1,69 @@
+---
+term: ambisi
+slug: ambisi
+ipa: amˈbisi
+ipa link: http://ipa-reader.xyz/?text=amˈbisi&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - ambition
+  - - aspire (to)
+  epo:
+  - - ambicio
+    - aspiro
+  - - ambicii
+    - aspiri
+  spa:
+  - - ambición
+  - - aspirar a
+search terms:
+  glb:
+  - ambisi
+  eng:
+  - ambition
+  - aspire to
+  - aspire
+  epo:
+  - ambicio
+  - aspiro
+  - ambicii
+  - aspiri
+  spa:
+  - ambición
+  - aspirar a
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ambition
+  Fransesa: ~
+  Espanisa:
+  - - ambición
+  "":
+  - - Rusisa амбиция “ambicija”
+  Indonesisa:
+  - - ambisi
+  Magyarsa:
+  - - ambíció
+raw data:
+  term: ambisi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: ambition; aspire (to)
+    epo: ambicio, aspiro; ambicii, aspiri
+    spa: ambición; aspirar a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (ambition), Fransesa, Espanisa (ambición), (Rusisa амбиция “ambicija”),
+    Indonesisa (ambisi), Magyarsa (ambíció)
+...

@@ -1,0 +1,46 @@
+---
+term: bombaya
+slug: bombaya
+ipa: "bom\u02C8baja"
+ipa link: "http://ipa-reader.xyz/?text=bom\u02C8baja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - bombing
+  epo:
+  - - bombado
+  spa:
+  - - bombardeo
+search terms:
+  glb:
+  - bombaya
+  eng:
+  - bombing
+  epo:
+  - bombado
+  spa:
+  - bombardeo
+etymology_type: DERIVD
+etymology: <a href="../lexi/bomba">bomba</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: bombaya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: bombing
+    epo: bombado
+    spa: bombardeo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bomba + -ya
+...

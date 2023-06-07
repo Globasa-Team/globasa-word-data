@@ -1,0 +1,50 @@
+---
+term: nenyon na
+slug: nenyon na
+ipa: "ne\u02C8njon na"
+ipa link: "http://ipa-reader.xyz/?text=ne\u02C8njon na&voice=Ewa"
+status: false
+category: derived
+word class: p jm
+trans:
+  eng:
+  - - without (_+ -ing_)
+  epo:
+  - - ne per ___i
+    - sen ___i
+  spa:
+  - - sin (_+ -r_)
+search terms:
+  glb:
+  - nenyon na
+  - nenyon
+  - na
+  eng:
+  - without
+  epo:
+  - ne per i
+  - sen i
+  spa:
+  - sin
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/yon">yon</a>, <a href="../lexi/na">na</a>
+raw data:
+  term: nenyon na
+  category: derived
+  word class: p jm
+  status: false
+  trans:
+    eng: without (_+ -ing_)
+    epo: ne per ___i, sen ___i
+    spa: sin (_+ -r_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + yon, na
+...

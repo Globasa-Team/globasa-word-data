@@ -1,0 +1,50 @@
+---
+term: tiga
+slug: tiga
+ipa: "\u02C8tiga"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tiga&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - three
+  epo:
+  - - tri
+  spa:
+  - - tres
+search terms:
+  glb:
+  - tiga
+  eng:
+  - three
+  epo:
+  - tri
+  spa:
+  - tres
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0924\u0940\u0928 \u201Ctin\u201D"
+  Indonesisa:
+  - - tiga
+raw data:
+  term: tiga
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: three
+    epo: tri
+    spa: tres
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0924\u0940\u0928 \u201Ctin\u201D), Indonesisa (tiga)"
+...

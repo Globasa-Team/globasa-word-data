@@ -1,0 +1,56 @@
+---
+term: mwin
+slug: mwin
+ipa: "\u02C8mwin"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mwin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vowel
+  epo:
+  - - vokalo
+  spa:
+  - - "vocal (_fon\xE9tica_)"
+search terms:
+  glb:
+  - mwin
+  eng:
+  - vowel
+  epo:
+  - vokalo
+  spa:
+  - vocal
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6BCD\u97F3 \u201Cm\u01D4y\u012Bn\u201D"
+  Hangusa:
+  - - "\uBAA8\uC74C \u201Cmo-eum\u201D"
+  Niponsa:
+  - - "\u6BCD\u97F3 \u201Cboin\u201D"
+  Vyetnamsa:
+  - - "m\u1EABu \xE2m"
+raw data:
+  term: mwin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vowel
+    epo: vokalo
+    spa: "vocal (_fon\xE9tica_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6BCD\u97F3 \u201Cm\u01D4y\u012Bn\u201D), Hangusa (\uBAA8\uC74C
+    \u201Cmo-eum\u201D), Niponsa (\u6BCD\u97F3 \u201Cboin\u201D), Vyetnamsa (m\u1EABu
+    \xE2m)"
+...

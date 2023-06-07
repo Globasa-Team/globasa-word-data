@@ -1,0 +1,60 @@
+---
+term: fukuzagi
+slug: fukuzagi
+ipa: "fuku\u02C8zagi"
+ipa link: "http://ipa-reader.xyz/?text=fuku\u02C8zagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - complication
+  - - complicate
+  epo:
+  - - komplikado
+    - kompleksigo
+    - malsimpligo
+  - - kompliki
+    - kompleksigi
+    - malsimpligi
+  spa:
+  - - "complicaci\xF3n"
+  - - complicar
+search terms:
+  glb:
+  - fukuzagi
+  eng:
+  - complication
+  - complicate
+  epo:
+  - komplikado
+  - kompleksigo
+  - malsimpligo
+  - kompliki
+  - kompleksigi
+  - malsimpligi
+  spa:
+  - "complicaci\xF3n"
+  - complicar
+etymology_type: DERIVD
+etymology: <a href="../lexi/fukuza">fukuza</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: fukuzagi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: complication; complicate
+    epo: komplikado, kompleksigo, malsimpligo; kompliki, kompleksigi, malsimpligi
+    spa: "complicaci\xF3n; complicar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fukuza + -gi
+...

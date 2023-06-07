@@ -1,0 +1,50 @@
+---
+term: taslumyen
+slug: taslumyen
+ipa: "taslu\u02C8mjen"
+ipa link: "http://ipa-reader.xyz/?text=taslu\u02C8mjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - recipient
+    - receiver
+  epo:
+  - - ricevanto
+  spa:
+  - - recipiente
+    - receptor
+search terms:
+  glb:
+  - taslumyen
+  eng:
+  - recipient
+  - receiver
+  epo:
+  - ricevanto
+  spa:
+  - recipiente
+  - receptor
+etymology_type: DERIVD
+etymology: <a href="../lexi/taslum">taslum</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: taslumyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: recipient, receiver
+    epo: ricevanto
+    spa: recipiente, receptor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: taslum + -yen
+...

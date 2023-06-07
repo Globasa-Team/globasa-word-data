@@ -1,0 +1,65 @@
+---
+term: sonxi
+slug: sonxi
+ipa: "\u02C8son\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8son\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - loss
+  - - lose (_opp of ewreka_)
+  epo:
+  - - perdo
+    - maltrovo
+  - - perdi
+    - maltrovi
+  spa:
+  - - "p\xE9rdida"
+  - - perder
+search terms:
+  glb:
+  - sonxi
+  eng:
+  - loss
+  - lose
+  epo:
+  - perdo
+  - maltrovo
+  - perdi
+  - maltrovi
+  spa:
+  - "p\xE9rdida"
+  - perder
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u635F\u5931 \u201Cs\u01D4nsh\u012B\u201D"
+  Hangusa:
+  - - "\uC190\uC2E4 \u201Csonsil\u201D"
+  Niponsa:
+  - - "\u640D\u5931 \u201Csonshitsu\u201D"
+antonyms:
+- ewreka
+raw data:
+  term: sonxi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: loss; lose (_opp of ewreka_)
+    epo: perdo, maltrovo; perdi, maltrovi
+    spa: "p\xE9rdida; perder"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ewreka
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u635F\u5931 \u201Cs\u01D4nsh\u012B\u201D), Hangusa (\uC190\uC2E4
+    \u201Csonsil\u201D), Niponsa (\u640D\u5931 \u201Csonshitsu\u201D)"
+...

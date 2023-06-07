@@ -1,0 +1,47 @@
+---
+term: maliyen
+slug: maliyen
+ipa: "mali\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=mali\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Malian (person)
+  epo:
+  - - maliano
+  spa:
+  - - maliense (_persona_)
+search terms:
+  glb:
+  - maliyen
+  eng:
+  - malian person
+  - malian
+  epo:
+  - maliano
+  spa:
+  - maliense
+etymology_type: DERIVD
+etymology: <a href="../lexi/Mali">Mali</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Maliyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Malian (person)
+    epo: maliano
+    spa: maliense (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Mali + -yen
+...

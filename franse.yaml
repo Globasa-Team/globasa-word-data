@@ -1,0 +1,52 @@
+---
+term: franse
+slug: franse
+ipa: "\u02C8f\u027Eanse"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8f\u027Eanse&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - France
+  epo:
+  - - Francio
+    - Francujo
+  spa:
+  - - Francia
+search terms:
+  glb:
+  - franse
+  eng:
+  - france
+  epo:
+  - francio
+  - francujo
+  spa:
+  - francia
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - France
+tags:
+- dexa
+raw data:
+  term: Franse
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: France
+    epo: Francio, Francujo
+    spa: Francia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Fransesa (France)
+...

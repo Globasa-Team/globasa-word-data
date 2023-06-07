@@ -1,0 +1,48 @@
+---
+term: kokiyen
+slug: kokiyen
+ipa: "koki\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=koki\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - cook
+  epo:
+  - - kuiristo
+    - kuiranto
+  spa:
+  - - cocinero
+search terms:
+  glb:
+  - kokiyen
+  eng:
+  - cook
+  epo:
+  - kuiristo
+  - kuiranto
+  spa:
+  - cocinero
+etymology_type: DERIVD
+etymology: <a href="../lexi/koki">koki</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: kokiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: cook
+    epo: kuiristo, kuiranto
+    spa: cocinero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: koki + -yen
+...

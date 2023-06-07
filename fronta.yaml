@@ -1,0 +1,70 @@
+---
+term: fronta
+slug: fronta
+ipa: ˈfɾonta
+ipa link: http://ipa-reader.xyz/?text=ˈfɾonta&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - forehead
+    - front
+  epo:
+  - - antaŭaĵo
+    - fronto
+    - frunto
+  spa:
+  - - frente
+search terms:
+  glb:
+  - fronta
+  eng:
+  - forehead
+  - front
+  epo:
+  - antaŭaĵo
+  - fronto
+  - frunto
+  spa:
+  - frente
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - front
+    - frontal
+  Fransesa:
+  - - frontal
+  Doycisa:
+  - - Front
+  Rusisa:
+  - - фронт “front”
+  Espanisa:
+  - - frente
+  Indonesisa: ~
+  Niponsa:
+  - - フロント “furonto”
+  Hangusa:
+  - - 프런트 “purontu”
+raw data:
+  term: fronta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: forehead, front
+    epo: antaŭaĵo, fronto, frunto
+    spa: frente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (front, frontal), Fransesa (frontal), Doycisa (Front), Rusisa
+    (фронт “front”), Espanisa (frente), Indonesisa, Niponsa (フロント “furonto”), Hangusa
+    (프런트 “purontu”)
+...

@@ -1,0 +1,46 @@
+---
+term: uya
+slug: uya
+ipa: "\u02C8uja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8uja&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter u
+  epo:
+  - - litero u
+  spa:
+  - - letra u
+search terms:
+  glb:
+  - uya
+  eng:
+  - letter u
+  epo:
+  - litero u
+  spa:
+  - letra u
+etymology_type: DERIVD
+etymology: _a priori_
+raw data:
+  term: uya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter u
+    epo: litero u
+    spa: letra u
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

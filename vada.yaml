@@ -1,0 +1,66 @@
+---
+term: vada
+slug: vada
+ipa: "\u02C8vada"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8vada&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - promise
+    - pledge
+  epo:
+  - - promeso
+  - - promesi
+  spa:
+  - - promesa
+    - compromiso
+  - - prometer
+    - compremeter
+search terms:
+  glb:
+  - vada
+  eng:
+  - promise
+  - pledge
+  epo:
+  - promeso
+  - promesi
+  spa:
+  - promesa
+  - compromiso
+  - prometer
+  - compremeter
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0935\u093E\u0926\u093E \u201Cvaada\u201D"
+  Telugusa:
+  - - "\u0C35\u0C3E\u0C17\u0C4D\u0C26\u0C3E\u0C28\u0C02 \u201Cv\u0101gd\u0101na\u1E41\u201D"
+  Arabisa:
+  - - "\u0648\u0639\u062F \u201Cwaead\u201D"
+  Turkisa:
+  - - "v\xE2\xE2t"
+raw data:
+  term: 'vada '
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: promise, pledge
+    epo: promeso; promesi
+    spa: promesa, compromiso; prometer, compremeter
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0935\u093E\u0926\u093E \u201Cvaada\u201D), Telugusa (\u0C35\u0C3E\u0C17\u0C4D\u0C26\u0C3E\u0C28\u0C02
+    \u201Cv\u0101gd\u0101na\u1E41\u201D), Arabisa (\u0648\u0639\u062F \u201Cwaead\u201D),
+    Turkisa (v\xE2\xE2t)"
+...

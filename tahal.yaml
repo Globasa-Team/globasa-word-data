@@ -1,0 +1,55 @@
+---
+term: tahal
+slug: tahal
+ipa: "ta\u02C8xal"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8xal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - spleen
+    - milt
+  epo:
+  - - lieno
+  spa:
+  - - bazo
+search terms:
+  glb:
+  - tahal
+  eng:
+  - spleen
+  - milt
+  epo:
+  - lieno
+  spa:
+  - bazo
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0637\u0650\u062D\u064E\u0627\u0644 \u201Ctihal\u201D"
+  Parsisa:
+  - - "\u0637\u062D\u0627\u0644 \u201Ctah\xE2l\u201D"
+  Turkisa:
+  - - tahal
+raw data:
+  term: tahal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: spleen, milt
+    epo: lieno
+    spa: bazo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0637\u0650\u062D\u064E\u0627\u0644 \u201Ctihal\u201D), Parsisa
+    (\u0637\u062D\u0627\u0644 \u201Ctah\xE2l\u201D), Turkisa (tahal)"
+...

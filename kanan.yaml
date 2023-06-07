@@ -1,0 +1,50 @@
+---
+term: kanan
+slug: kanan
+ipa: "ka\u02C8nan"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8nan&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - right
+  epo:
+  - - dekstra
+  - - dekstre
+  spa:
+  - - derecho (_opuesto de izquierdo_)
+search terms:
+  glb:
+  - kanan
+  eng:
+  - right
+  epo:
+  - dekstra
+  - dekstre
+  spa:
+  - derecho
+etymology_type: NATLNG
+etymology: BLAH
+antonyms:
+- suo
+raw data:
+  term: kanan
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: right
+    epo: dekstra; dekstre
+    spa: derecho (_opuesto de izquierdo_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: suo
+  example: ""
+  tags: ""
+  etymology: Indonesisa (kanan), Pilipinasa (kanan)
+...

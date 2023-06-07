@@ -1,0 +1,47 @@
+---
+term: linea
+slug: linea
+ipa: "li\u02C8nea"
+ipa link: "http://ipa-reader.xyz/?text=li\u02C8nea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - line
+  epo:
+  - - linio
+  spa:
+  - - "l\xEDnea"
+search terms:
+  glb:
+  - linea
+  eng:
+  - line
+  epo:
+  - linio
+  spa:
+  - "l\xEDnea"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: linea
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: line
+    epo: linio
+    spa: "l\xEDnea"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (linear), Fransesa (lin\xE9aire), Doycisa (linear), Rusisa (\u043B\u0438\u043D\u0438\u044F
+    \u201Cliniya\u201D), Espanisa (l\xEDnea), Pilipinasa (linya), Turkisa (lineer)"
+...

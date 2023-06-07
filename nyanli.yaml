@@ -1,0 +1,52 @@
+---
+term: nyanli
+slug: nyanli
+ipa: "\u02C8njanli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8njanli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - yearly
+    - annual
+  epo:
+  - - jara
+  - - jare
+  spa:
+  - - anual
+  - - anualmente
+search terms:
+  glb:
+  - nyanli
+  eng:
+  - yearly
+  - annual
+  epo:
+  - jara
+  - jare
+  spa:
+  - anual
+  - anualmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/nyan">nyan</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: nyanli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: yearly, annual
+    epo: jara; jare
+    spa: anual; anualmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nyan + -li
+...

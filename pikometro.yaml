@@ -1,0 +1,50 @@
+---
+term: pikometro
+slug: pikometro
+ipa: "piko\u02C8met\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=piko\u02C8met\u027Eo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - picometer
+    - picometre
+  epo:
+  - - pikometro
+  spa:
+  - - "pic\xF3metro"
+    - pm
+search terms:
+  glb:
+  - pikometro
+  eng:
+  - picometer
+  - picometre
+  epo:
+  - pikometro
+  spa:
+  - "pic\xF3metro"
+  - pm
+etymology_type: DERIVD
+etymology: <a href="../lexi/piko">piko</a> + <a href="../lexi/metro">metro</a>
+raw data:
+  term: pikometro
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: picometer, picometre
+    epo: pikometro
+    spa: "pic\xF3metro, pm"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: piko + metro
+...

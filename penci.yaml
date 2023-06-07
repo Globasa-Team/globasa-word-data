@@ -1,0 +1,62 @@
+---
+term: penci
+slug: penci
+ipa: "\u02C8pent\u0361\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pent\u0361\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - edit
+  epo:
+  - - redakto
+  - - redakti
+  spa:
+  - - "edici\xF3n"
+    - "revisi\xF3n"
+  - - editar
+search terms:
+  glb:
+  - penci
+  eng:
+  - edit
+  epo:
+  - redakto
+  - redakti
+  spa:
+  - "edici\xF3n"
+  - "revisi\xF3n"
+  - editar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u7F16\u8F91 \u201Cbi\u0101nj\xED\u201D"
+  Niponsa:
+  - - "\u7DE8\u96C6 \u201Chensh\u016B\u201D"
+  Hangusa:
+  - - "\uD3B8\uC9D1\u201Cpyeonjip\u201D"
+  Vyetnamsa:
+  - - "bi\xEAn t\u1EADp"
+raw data:
+  term: penci
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: edit
+    epo: redakto; redakti
+    spa: "edici\xF3n, revisi\xF3n; editar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7F16\u8F91 \u201Cbi\u0101nj\xED\u201D), Niponsa (\u7DE8\u96C6
+    \u201Chensh\u016B\u201D), Hangusa (\uD3B8\uC9D1\u201Cpyeonjip\u201D), Vyetnamsa
+    (bi\xEAn t\u1EADp)"
+...

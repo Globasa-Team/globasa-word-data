@@ -1,0 +1,46 @@
+---
+term: leximon
+slug: leximon
+ipa: "le\u0283i\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=le\u0283i\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - syllable
+  epo:
+  - - silabo
+  spa:
+  - - "s\xEDlaba"
+search terms:
+  glb:
+  - leximon
+  eng:
+  - syllable
+  epo:
+  - silabo
+  spa:
+  - "s\xEDlaba"
+etymology_type: DERIVD
+etymology: <a href="../lexi/lexi">lexi</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: leximon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: syllable
+    epo: silabo
+    spa: "s\xEDlaba"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lexi + -mon
+...

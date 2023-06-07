@@ -1,0 +1,55 @@
+---
+term: ekwatoragine
+slug: ekwatoragine
+ipa: "ekwato\u027Ea\u02C8gine"
+ipa link: "http://ipa-reader.xyz/?text=ekwato\u027Ea\u02C8gine&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Equatorial Guinea
+  epo:
+  - - Ekvatora Gvineo
+  spa:
+  - - Guinea Ecuatorial
+search terms:
+  glb:
+  - ekwatoragine
+  eng:
+  - equatorial guinea
+  epo:
+  - ekvatora gvineo
+  spa:
+  - guinea ecuatorial
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Guinea Ecuatorial
+  Fransesa:
+  - - "Guin\xE9e \xE9quatoriale"
+  Portugalsa:
+  - - "Guin\xE9 Equatorial"
+tags:
+- dexa
+raw data:
+  term: Ekwatoragine
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Equatorial Guinea
+    epo: Ekvatora Gvineo
+    spa: Guinea Ecuatorial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Espanisa (Guinea Ecuatorial), Fransesa (Guin\xE9e \xE9quatoriale), Portugalsa
+    (Guin\xE9 Equatorial)"
+...

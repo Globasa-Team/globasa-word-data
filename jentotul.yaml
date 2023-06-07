@@ -1,0 +1,58 @@
+---
+term: jentotul
+slug: jentotul
+ipa: "d\u0361\u0292ento\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292ento\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - weapon
+    - arms
+  - - weaponize
+    - arm
+  epo:
+  - - batalilo
+    - armilo
+  - - armi
+  spa:
+  - - arma
+  - - armar
+search terms:
+  glb:
+  - jentotul
+  eng:
+  - weapon
+  - arms
+  - weaponize
+  - arm
+  epo:
+  - batalilo
+  - armilo
+  - armi
+  spa:
+  - arma
+  - armar
+etymology_type: DERIVD
+etymology: <a href="../lexi/jento">jento</a> + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: jentotul
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: weapon, arms; weaponize, arm
+    epo: batalilo, armilo; armi
+    spa: arma; armar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jento + -tul
+...

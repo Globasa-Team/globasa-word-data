@@ -1,0 +1,99 @@
+---
+term: weber
+slug: weber
+ipa: "we\u02C8be\u027E"
+ipa link: "http://ipa-reader.xyz/?text=we\u02C8be\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - weber
+  epo:
+  - - vebero
+  spa:
+  - - _weber_
+    - Wb
+  deu:
+  - - Weber
+  fra:
+  - - weber
+  rus:
+  - - "\u0432\u0435\u0431\u0435\u0440"
+  zho:
+  - - "\u97E6\u4F2F"
+search terms:
+  glb:
+  - weber
+  eng:
+  - weber
+  epo:
+  - vebero
+  spa:
+  - weber
+  - wb
+  deu:
+  - weber
+  fra:
+  - weber
+  rus:
+  - "\u0432\u0435\u0431\u0435\u0440"
+  zho:
+  - "\u97E6\u4F2F"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - weber
+  Espanisa:
+  - - weber
+  Fransesa:
+  - - weber
+  Rusisa:
+  - - "\u0432\u0435\u0431\u0435\u0440 \u201Cveber\u201D"
+  Doycisa:
+  - - Weber
+  Indonesisa:
+  - - weber
+  Pilipinasa:
+  - - weber
+  Putunhwa:
+  - - "\u97E6\u4F2F \u201Cweybo\u201D"
+  Hindisa:
+  - - "\u0935\u0947\u092C\u0930 \u201Cvebar\u201D"
+  Arabisa:
+  - - "\u0648\u064A\u0628\u0631 \u201Cwibar\u201D"
+  Niponsa:
+  - - "\u30A6\u30A7\u30FC\u30D0 \u201Cweba\u201D"
+  Turkisa:
+  - - weber
+  Hangusa:
+  - - "\uC6E8\uBC84 \u201Cwebo\u201D"
+  Vyetnamsa:
+  - - weber
+  Parsisa:
+  - - "\u0648\u0628\u0631 \u201Cweber\u201D"
+raw data:
+  term: weber
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: weber
+    epo: vebero
+    spa: _weber_, Wb
+    deu: Weber
+    fra: weber
+    rus: "\u0432\u0435\u0431\u0435\u0440"
+    zho: "\u97E6\u4F2F"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (weber), Espanisa (weber), Fransesa (weber), Rusisa (\u0432\u0435\u0431\u0435\u0440
+    \u201Cveber\u201D), Doycisa (Weber), Indonesisa (weber), Pilipinasa (weber), Putunhwa
+    (\u97E6\u4F2F \u201Cweybo\u201D), Hindisa (\u0935\u0947\u092C\u0930 \u201Cvebar\u201D),
+    Arabisa (\u0648\u064A\u0628\u0631 \u201Cwibar\u201D), Niponsa (\u30A6\u30A7\u30FC\u30D0
+    \u201Cweba\u201D), Turkisa (weber), Hangusa (\uC6E8\uBC84 \u201Cwebo\u201D), Vyetnamsa
+    (weber), Parsisa (\u0648\u0628\u0631 \u201Cweber\u201D)"
+...

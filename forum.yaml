@@ -1,0 +1,67 @@
+---
+term: forum
+slug: forum
+ipa: foˈɾum
+ipa link: http://ipa-reader.xyz/?text=foˈɾum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - forum
+  epo:
+  - - forumo
+  spa:
+  - - foro
+search terms:
+  glb:
+  - forum
+  eng:
+  - forum
+  epo:
+  - forumo
+  spa:
+  - foro
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - forum
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Espanisa:
+  - - foro
+  Rusisa:
+  - - форум “forum”
+  Niponsa:
+  - - フォーラム “foramu”
+  Telugusa:
+  - - ఫోరమ్ “foram”
+  Hangusa:
+  - - 포럼 “porom”
+  Parsisa:
+  - - فروم “forom”
+raw data:
+  term: forum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: forum
+    epo: forumo
+    spa: foro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (forum), Fransesa, Doycisa, Indonesisa, Pilipinasa, Turkisa,
+    Espanisa (foro), Rusisa (форум “forum”), Niponsa (フォーラム “foramu”), Telugusa (ఫోరమ్
+    “foram”), Hangusa (포럼 “porom”), Parsisa (فروم “forom”)
+...

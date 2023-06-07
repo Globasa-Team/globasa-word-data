@@ -1,0 +1,49 @@
+---
+term: baratili
+slug: baratili
+ipa: "ba\u027Ea\u02C8tili"
+ipa link: "http://ipa-reader.xyz/?text=ba\u027Ea\u02C8tili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Indian
+  epo:
+  - - barata
+  - - barate
+  spa:
+  - - indio (de India)
+search terms:
+  glb:
+  - baratili
+  eng:
+  - indian
+  epo:
+  - barata
+  - barate
+  spa:
+  - indio de india
+  - indio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Barati">Barati</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Baratili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Indian
+    epo: barata; barate
+    spa: indio (de India)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Barati + -li
+...

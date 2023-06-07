@@ -1,0 +1,52 @@
+---
+term: pasgi
+slug: pasgi
+ipa: "\u02C8pasgi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pasgi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - put through
+    - take through
+  epo:
+  - - traigo
+  - - traigi
+    - traporta
+  spa:
+  - - hacer atravesar
+search terms:
+  glb:
+  - pasgi
+  eng:
+  - put through
+  - take through
+  epo:
+  - traigo
+  - traigi
+  - traporta
+  spa:
+  - hacer atravesar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pas">pas</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: pasgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: put through, take through
+    epo: traigo; traigi, traporta
+    spa: hacer atravesar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pas + -gi
+...

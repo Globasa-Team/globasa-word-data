@@ -1,0 +1,77 @@
+---
+term: navi
+slug: navi
+ipa: "\u02C8navi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8navi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - ship
+    - boat
+  - - navigate
+  epo:
+  - - "\u015Dipo"
+    - boato
+  - - "\u015Dipiri"
+    - navigi
+    - navigacii
+  spa:
+  - - nave
+    - barco
+  - - navegar
+search terms:
+  glb:
+  - navi
+  eng:
+  - ship
+  - boat
+  - navigate
+  epo:
+  - "\u015Dipo"
+  - boato
+  - "\u015Dipiri"
+  - navigi
+  - navigacii
+  spa:
+  - nave
+  - barco
+  - navegar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0928\u093E\u0935 \u201Cn\u0101v\u201D"
+  Espanisa:
+  - - nave
+  Fransesa:
+  - - navire
+  Englisa:
+  - - naval
+    - navigate
+  Telugusa:
+  - - "\u0C28\u0C3E\u0C35 \u201Cn\u0101va\u201D"
+  Parsisa:
+  - - "\u0646\u0627\u0648 \u201Cn\xE2v\u201D"
+raw data:
+  term: navi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: ship, boat; navigate
+    epo: "\u015Dipo, boato; \u015Dipiri, navigi, navigacii"
+    spa: nave, barco; navegar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0928\u093E\u0935 \u201Cn\u0101v\u201D), Espanisa (nave),
+    Fransesa (navire), Englisa (naval, navigate), Telugusa (\u0C28\u0C3E\u0C35 \u201Cn\u0101va\u201D),
+    Parsisa (\u0646\u0627\u0648 \u201Cn\xE2v\u201D)"
+...

@@ -1,0 +1,60 @@
+---
+term: cori
+slug: cori
+ipa: ˈt͡ʃoɾi
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃoɾi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - theft
+  - - steal
+  epo:
+  - - ŝtelo
+  - - ŝteli
+  spa:
+  - - robo
+    - hurto
+  - - robar
+    - hurtar
+search terms:
+  glb:
+  - cori
+  eng:
+  - theft
+  - steal
+  epo:
+  - ŝtelo
+  - ŝteli
+  spa:
+  - robo
+  - hurto
+  - robar
+  - hurtar
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - चोरी “cori”
+  Indonesisa:
+  - - curi
+raw data:
+  term: cori
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: theft; steal
+    epo: ŝtelo; ŝteli
+    spa: robo, hurto; robar, hurtar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hindisa (चोरी “cori”), Indonesisa (curi)
+...

@@ -1,0 +1,49 @@
+---
+term: artroitisli
+slug: artroitisli
+ipa: "a\u027Et\u027Eoi\u02C8tisli"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Et\u027Eoi\u02C8tisli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - arthritic
+  epo:
+  - - artrita
+  - - artrite
+  spa:
+  - - "artr\xEDtico"
+search terms:
+  glb:
+  - artroitisli
+  eng:
+  - arthritic
+  epo:
+  - artrita
+  - artrite
+  spa:
+  - "artr\xEDtico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/artro">artro</a> + <a href="../lexi/-itis">-itis</a> +
+  <a href="../lexi/-li">-li</a>
+raw data:
+  term: artroitisli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: arthritic
+    epo: artrita; artrite
+    spa: "artr\xEDtico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: artro + -itis + -li
+...

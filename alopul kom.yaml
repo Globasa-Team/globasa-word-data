@@ -1,0 +1,52 @@
+---
+term: alopul kom
+slug: alopul kom
+ipa: "alo\u02C8pul kom"
+ipa link: "http://ipa-reader.xyz/?text=alo\u02C8pul kom&voice=Ewa"
+status: false
+category: derived
+word class: l
+trans:
+  eng:
+  - - unlike
+  epo:
+  - - malkiel
+    - diference de
+    - nesame de
+  spa:
+  - - diferente de
+search terms:
+  glb:
+  - alopul kom
+  - alopul
+  - kom
+  eng:
+  - unlike
+  epo:
+  - malkiel
+  - diference de
+  - nesame de
+  spa:
+  - diferente de
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/-pul">-pul</a>, <a href="../lexi/kom">kom</a>
+raw data:
+  term: alopul kom
+  category: derived
+  word class: l
+  status: false
+  trans:
+    eng: 'unlike '
+    epo: malkiel, diference de, nesame de
+    spa: diferente de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + -pul, kom
+...

@@ -1,0 +1,66 @@
+---
+term: furno
+slug: furno
+ipa: ˈfuɾno
+ipa link: http://ipa-reader.xyz/?text=ˈfuɾno&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - oven
+  - - bake
+  epo:
+  - - forno
+  - - kuiri (per forno)
+  spa:
+  - - horno
+  - - hornear
+search terms:
+  glb:
+  - furno
+  eng:
+  - oven
+  - bake
+  epo:
+  - forno
+  - kuiri per forno
+  - kuiri
+  spa:
+  - horno
+  - hornear
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فُرْن “furn”
+  Turkisa:
+  - - fırın
+  Englisa:
+  - - furnace
+  Espanisa:
+  - - horno
+  Fransesa:
+  - - four
+  Portugalsa:
+  - - forno
+raw data:
+  term: furno
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: oven; bake
+    epo: forno; kuiri (per forno)
+    spa: horno; hornear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (فُرْن “furn”), Turkisa (fırın), Englisa (furnace), Espanisa
+    (horno), Fransesa (four), Portugalsa (forno)
+...

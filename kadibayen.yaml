@@ -1,0 +1,46 @@
+---
+term: kadibayen
+slug: kadibayen
+ipa: "kadiba\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=kadiba\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - liar
+  epo:
+  - - mensoganto
+  spa:
+  - - mentiroso
+search terms:
+  glb:
+  - kadibayen
+  eng:
+  - liar
+  epo:
+  - mensoganto
+  spa:
+  - mentiroso
+etymology_type: DERIVD
+etymology: <a href="../lexi/kadiba">kadiba</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: kadibayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: liar
+    epo: mensoganto
+    spa: mentiroso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kadiba + -yen
+...

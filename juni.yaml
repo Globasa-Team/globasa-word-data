@@ -1,0 +1,49 @@
+---
+term: juni
+slug: juni
+ipa: "\u02C8d\u0361\u0292uni"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292uni&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - young
+  epo:
+  - - juna
+    - june
+  spa:
+  - - joven
+search terms:
+  glb:
+  - juni
+  eng:
+  - young
+  epo:
+  - juna
+  - june
+  spa:
+  - joven
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: juni
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: young
+    epo: juna, june
+    spa: joven
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (jeune), Doycisa (jung), Englisa (young, juvenile), Espanisa
+    (joven, juvenil), Hindisa (\u091C\u0935\u093E\u0928 \u201Cjavani\u201D)"
+...

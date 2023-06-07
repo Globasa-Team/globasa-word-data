@@ -1,0 +1,52 @@
+---
+term: otimaya
+slug: otimaya
+ipa: "oti\u02C8maja"
+ipa link: "http://ipa-reader.xyz/?text=oti\u02C8maja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (the) best possible
+    - one's best
+  epo:
+  - - optimumeco
+    - plejboneco
+  spa:
+  - - (el) mejor posible
+search terms:
+  glb:
+  - otimaya
+  eng:
+  - the best possible
+  - best possible
+  - one's best
+  epo:
+  - optimumeco
+  - plejboneco
+  spa:
+  - el mejor posible
+  - mejor posible
+etymology_type: DERIVD
+etymology: <a href="../lexi/otima">otima</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: otimaya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (the) best possible, one's best
+    epo: optimumeco, plejboneco
+    spa: (el) mejor posible
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: best, best possible, the best possible, one's best
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: otima + -ya
+...

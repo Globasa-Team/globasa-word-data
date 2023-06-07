@@ -1,0 +1,64 @@
+---
+term: xarke
+slug: xarke
+ipa: "\u02C8\u0283a\u027Eke"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283a\u027Eke&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - shark
+    - _Selachimorpha_
+  epo:
+  - - "\u015Darko"
+  spa:
+  - - "tibur\xF3n"
+    - _Selachimorpha_
+search terms:
+  glb:
+  - xarke
+  eng:
+  - shark
+  - selachimorpha
+  epo:
+  - "\u015Darko"
+  spa:
+  - "tibur\xF3n"
+  - selachimorpha
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - shark
+  Hindi:
+  - - "\u0936\u093E\u0930\u094D\u0915 \u201Cshaark\u201D"
+  Karnatakasa:
+  - - "\u0CB6\u0CBE\u0CB0\u0CCD\u0C95\u0CCD \u201C\u015B\u0101rk\u201D"
+  Putunhwa:
+  - - "\u9BCA \u201Csh\u0101\u201D"
+  Hangusa:
+  - - "\uC0C1\uC5B4 \u201Csang'eo\u201D"
+tags:
+- hewan
+raw data:
+  term: xarke
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: shark, _Selachimorpha_
+    epo: "\u015Darko"
+    spa: "tibur\xF3n, _Selachimorpha_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (shark), Hindi (\u0936\u093E\u0930\u094D\u0915 \u201Cshaark\u201D),
+    Karnatakasa (\u0CB6\u0CBE\u0CB0\u0CCD\u0C95\u0CCD \u201C\u015B\u0101rk\u201D),
+    Putunhwa (\u9BCA \u201Csh\u0101\u201D), Hangusa (\uC0C1\uC5B4 \u201Csang'eo\u201D)"
+...

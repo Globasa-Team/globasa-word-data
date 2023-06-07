@@ -1,0 +1,57 @@
+---
+term: helyum
+slug: helyum
+ipa: "xe\u02C8ljum"
+ipa link: "http://ipa-reader.xyz/?text=xe\u02C8ljum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - helium
+  epo:
+  - - heliumo
+  spa:
+  - - helio
+    - He
+search terms:
+  glb:
+  - helyum
+  eng:
+  - helium
+  epo:
+  - heliumo
+  spa:
+  - helio
+  - he
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: helyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: helium
+    epo: heliumo
+    spa: helio, He
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (helium), Hindisa (\u0939\u093F\u0932\u093F\u092F\u092E \u201Chiliyam\u201D),
+    Espanisa (helio), Arabisa (\u0647\u0650\u064A\u0644\u0652\u064A\u064F\u0648\u0645
+    \u201Chilyum\u201D), Fransesa (h\xE9lium), Rusisa (\u0433\u0435\u043B\u0438\u0439
+    \u201Cgeli\u201D), Indonesisa (helium), Doycisa (Helium), Niponsa (\u30D8\u30EA\u30A6\u30E0
+    \u201Cheriumu\u201D), Telugusa (\u0C39\u0C40\u0C32\u0C3F\u0C2F\u0C02 \u201Chilyam\u201D),
+    Turkisa (helyum), Hangusa (\uD5EC\uB968 \u201Chelyum\u201D), Vyetnamsa (h\xEAli),
+    Parsisa (\u0647\u0644\u06CC\u0645 \u201Cheliyom\u201D), Swahilisa (heliamu), Pilipinasa
+    (elyo, helyum)"
+...

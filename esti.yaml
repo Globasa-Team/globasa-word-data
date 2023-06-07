@@ -1,0 +1,52 @@
+---
+term: esti
+slug: esti
+ipa: "\u02C8esti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8esti&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Estonia
+  epo:
+  - - Estonio
+    - Estonujo
+  spa:
+  - - Estonia
+search terms:
+  glb:
+  - esti
+  eng:
+  - estonia
+  epo:
+  - estonio
+  - estonujo
+  spa:
+  - estonia
+etymology_type: NATLNG
+etymology:
+  Estisa:
+  - - Eesti
+tags:
+- dexa
+raw data:
+  term: Esti
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Estonia
+    epo: Estonio, Estonujo
+    spa: Estonia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Estisa (Eesti)
+...

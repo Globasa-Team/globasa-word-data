@@ -1,0 +1,50 @@
+---
+term: syensili
+slug: syensili
+ipa: "sjen\u02C8sili"
+ipa link: "http://ipa-reader.xyz/?text=sjen\u02C8sili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - scientific
+    - scientifically
+  epo:
+  - - scienca
+  - - science
+  spa:
+  - - "cient\xEDfico"
+search terms:
+  glb:
+  - syensili
+  eng:
+  - scientific
+  - scientifically
+  epo:
+  - scienca
+  - science
+  spa:
+  - "cient\xEDfico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/syensi">syensi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: syensili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: scientific, scientifically
+    epo: scienca; science
+    spa: "cient\xEDfico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: syensi + -li
+...

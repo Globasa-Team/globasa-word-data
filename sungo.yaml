@@ -1,0 +1,59 @@
+---
+term: sungo
+slug: sungo
+ipa: "\u02C8sungo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sungo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - horn
+    - antler
+  epo:
+  - - korno
+  spa:
+  - - cuerno
+search terms:
+  glb:
+  - sungo
+  eng:
+  - horn
+  - antler
+  epo:
+  - korno
+  spa:
+  - cuerno
+etymology_type: NATLNG
+etymology:
+  Pilipinasa:
+  - - sungay
+  Niponsa:
+  - - "\u89D2 \u201Ctsuno\u201D"
+  Vyetnamsa:
+  - - "s\u1EEBng"
+  Hindisa:
+  - - "\u0938\u0940\u0902\u0917 \u201Cs\u012B\u1E45g\u201D"
+tags:
+- jismulogi
+raw data:
+  term: sungo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: horn, antler
+    epo: korno
+    spa: cuerno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Pilipinasa (sungay), Niponsa (\u89D2 \u201Ctsuno\u201D), Vyetnamsa (s\u1EEBng),
+    Hindisa (\u0938\u0940\u0902\u0917 \u201Cs\u012B\u1E45g\u201D)"
+...

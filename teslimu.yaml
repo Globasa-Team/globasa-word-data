@@ -1,0 +1,78 @@
+---
+term: teslimu
+slug: teslimu
+ipa: "tes\u02C8limu"
+ipa link: "http://ipa-reader.xyz/?text=tes\u02C8limu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - surrender (to)
+    - succumb (to)
+    - give up
+    - give in (to)
+  epo:
+  - - rezigno
+    - kapitulacio
+  - - rezigni (al)
+    - kapitulacii (pro)
+  spa:
+  - - "rendici\xF3n"
+  - - rendirse
+    - sucumbir a
+    - darse por vencido
+search terms:
+  glb:
+  - teslimu
+  eng:
+  - surrender to
+  - surrender
+  - succumb to
+  - succumb
+  - give up
+  - give in to
+  - give in
+  epo:
+  - rezigno
+  - kapitulacio
+  - rezigni al
+  - rezigni
+  - kapitulacii pro
+  - kapitulacii
+  spa:
+  - "rendici\xF3n"
+  - rendirse
+  - sucumbir a
+  - darse por vencido
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u064E\u0633\u0652\u0644\u0650\u064A\u0645 \u201Ctaslim\u201D"
+    - "\u064A\u064F\u0633\u064E\u0644\u0650\u0651\u0645\u064F\u200E\u200E \u201Cyusallimu\u201D"
+  Parsisa:
+  - - "\u062A\u0633\u0644\u06CC\u0645 \u201Ctaslim\u201D"
+  Turkisa:
+  - - teslim
+raw data:
+  term: teslimu
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: surrender (to), succumb (to), give up, give in (to)
+    epo: rezigno, kapitulacio; rezigni (al), kapitulacii (pro)
+    spa: "rendici\xF3n; rendirse, sucumbir a, darse por vencido"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u064E\u0633\u0652\u0644\u0650\u064A\u0645 \u201Ctaslim\u201D,
+    \u064A\u064F\u0633\u064E\u0644\u0650\u0651\u0645\u064F\u200E\u200E \u201Cyusallimu\u201D),
+    Parsisa (\u062A\u0633\u0644\u06CC\u0645 \u201Ctaslim\u201D), Turkisa (teslim)"
+...

@@ -1,0 +1,46 @@
+---
+term: sisades
+slug: sisades
+ipa: "sisa\u02C8des"
+ipa link: "http://ipa-reader.xyz/?text=sisa\u02C8des&voice=Ewa"
+status: false
+category: derived
+word class: num
+trans:
+  eng:
+  - - sixty
+  epo:
+  - - sesdek
+  spa:
+  - - sesenta
+search terms:
+  glb:
+  - sisades
+  eng:
+  - sixty
+  epo:
+  - sesdek
+  spa:
+  - sesenta
+etymology_type: DERIVD
+etymology: <a href="../lexi/sisa">sisa</a> + <a href="../lexi/des">des</a>
+raw data:
+  term: sisades
+  category: derived
+  word class: num
+  status: false
+  trans:
+    eng: sixty
+    epo: sesdek
+    spa: sesenta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sisa + des
+...

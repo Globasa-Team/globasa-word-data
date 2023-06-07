@@ -1,0 +1,72 @@
+---
+term: parti
+slug: parti
+ipa: "\u02C8pa\u027Eti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pa\u027Eti&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - party
+    - feast
+  epo:
+  - - festo
+    - festeno
+  spa:
+  - - fiesta
+    - banquete
+search terms:
+  glb:
+  - parti
+  eng:
+  - party
+  - feast
+  epo:
+  - festo
+  - festeno
+  spa:
+  - fiesta
+  - banquete
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - party
+  Doycisa:
+  - - Party
+  Putunhwa:
+  - - "\u6D3E\u5BF9 \u201Cp\xE0idu\xEC\u201D"
+  Hindisa:
+  - - "\u092A\u093E\u0930\u094D\u091F\u0940 \u201Cp\u0101rti\u201D"
+  Niponsa:
+  - - "\u30D1\u30FC\u30C6\u30A3\u30FC \u201Cp\u0101t\u012B\u201D"
+  Hangusa:
+  - - "\uD30C\uD2F0 \u201Cpati\u201D"
+  Parsisa:
+  - - "\u067E\u0627\u0631\u062A\u06CC \u201Cparti\u201D"
+  Turkisa:
+  - - parti
+raw data:
+  term: parti
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: party, feast
+    epo: festo, festeno
+    spa: fiesta, banquete
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (party), Doycisa (Party), Putunhwa (\u6D3E\u5BF9 \u201Cp\xE0idu\xEC\u201D),
+    Hindisa (\u092A\u093E\u0930\u094D\u091F\u0940 \u201Cp\u0101rti\u201D), Niponsa
+    (\u30D1\u30FC\u30C6\u30A3\u30FC \u201Cp\u0101t\u012B\u201D), Hangusa (\uD30C\uD2F0
+    \u201Cpati\u201D), Parsisa (\u067E\u0627\u0631\u062A\u06CC \u201Cparti\u201D),
+    Turkisa (parti)"
+...

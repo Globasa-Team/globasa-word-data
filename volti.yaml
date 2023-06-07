@@ -1,0 +1,109 @@
+---
+term: volti
+slug: volti
+ipa: "\u02C8volti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8volti&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - volt
+  epo:
+  - - volto
+  spa:
+  - - _volt_
+    - voltio
+    - V
+  deu:
+  - - Volt
+  fra:
+  - - volt
+  rus:
+  - - "\u0432\u043E\u043B\u044C\u0442"
+  zho:
+  - - "\u4F0F\u7279"
+search terms:
+  glb:
+  - volti
+  eng:
+  - volt
+  epo:
+  - volto
+  spa:
+  - volt
+  - voltio
+  - v
+  deu:
+  - volt
+  fra:
+  - volt
+  rus:
+  - "\u0432\u043E\u043B\u044C\u0442"
+  zho:
+  - "\u4F0F\u7279"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - volt
+  Espanisa:
+  - - voltio
+  Fransesa:
+  - - volt
+  Rusisa:
+  - - "\u0432\u043E\u043B\u044C\u0442 \u201Cvolt\u201D"
+  Doycisa:
+  - - Volt
+  Indonesisa:
+  - - volt
+  Pilipinasa:
+  - - bolt
+    - boltiyo
+  Putunhwa:
+  - - "\u4F0F\u7279 \u201Cfute\u201D"
+  Hindisa:
+  - - "\u0935\u094B\u0932\u094D\u091F \u201Cvolt\u201D"
+  Arabisa:
+  - - "\u0641\u064F\u0648\u0644\u0652\u062A \u201Cfult\u201D"
+  Niponsa:
+  - - "\u30DC\u30EB\u30C8 \u201Cboruto\u201D"
+  Telugusa:
+  - - "\u0C35\u0C4B\u0C32\u0C4D\u0C1F\u0C41 \u201Cvoltu\u201D"
+  Turkisa:
+  - - volt
+  Hangusa:
+  - - "\uBCFC\uD2B8 \u201Cboltu\u201D"
+  Vyetnamsa:
+  - - "v\xF4n"
+    - volt
+  Parsisa:
+  - - "\u0648\u0644\u062A \u201Cvolt\u201D"
+  Swahilisa:
+  - - volti
+raw data:
+  term: volti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: volt
+    epo: volto
+    spa: _volt_, voltio, V
+    deu: Volt
+    fra: volt
+    rus: "\u0432\u043E\u043B\u044C\u0442"
+    zho: "\u4F0F\u7279"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (volt), Espanisa (voltio), Fransesa (volt), Rusisa (\u0432\u043E\u043B\u044C\u0442
+    \u201Cvolt\u201D), Doycisa (Volt), Indonesisa (volt), Pilipinasa (bolt, boltiyo),
+    Putunhwa (\u4F0F\u7279 \u201Cfute\u201D), Hindisa (\u0935\u094B\u0932\u094D\u091F
+    \u201Cvolt\u201D), Arabisa (\u0641\u064F\u0648\u0644\u0652\u062A \u201Cfult\u201D),
+    Niponsa (\u30DC\u30EB\u30C8 \u201Cboruto\u201D), Telugusa (\u0C35\u0C4B\u0C32\u0C4D\u0C1F\u0C41
+    \u201Cvoltu\u201D), Turkisa (volt), Hangusa (\uBCFC\uD2B8 \u201Cboltu\u201D),
+    Vyetnamsa (v\xF4n, volt), Parsisa (\u0648\u0644\u062A \u201Cvolt\u201D), Swahilisa
+    (volti)"
+...

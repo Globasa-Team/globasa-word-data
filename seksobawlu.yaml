@@ -1,0 +1,52 @@
+---
+term: seksobawlu
+slug: seksobawlu
+ipa: "sekso\u02C8bawlu"
+ipa link: "http://ipa-reader.xyz/?text=sekso\u02C8bawlu&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - rape
+  epo:
+  - - seksperforto
+    - seksatenco
+  - - seksperforti
+    - seksatenci
+  spa:
+  - - "violaci\xF3n"
+search terms:
+  glb:
+  - seksobawlu
+  eng:
+  - rape
+  epo:
+  - seksperforto
+  - seksatenco
+  - seksperforti
+  - seksatenci
+  spa:
+  - "violaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sekso">sekso</a> + <a href="../lexi/bawlu">bawlu</a>
+raw data:
+  term: seksobawlu
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: rape
+    epo: seksperforto, seksatenco; seksperforti, seksatenci
+    spa: "violaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sekso + bawlu
+...

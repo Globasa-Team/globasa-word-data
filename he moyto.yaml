@@ -1,0 +1,48 @@
+---
+term: he moyto
+slug: he moyto
+ipa: "\u02C8xe \u02C8mojto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe \u02C8mojto&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - everything and anything
+  epo:
+  - - "\u0109io ajn"
+  spa:
+  - - todo y cualquiera
+search terms:
+  glb:
+  - he moyto
+  - he
+  - moyto
+  eng:
+  - everything and anything
+  epo:
+  - "\u0109io ajn"
+  spa:
+  - todo y cualquiera
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/moy">moy</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: he moyto
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: everything and anything
+    epo: "\u0109io ajn"
+    spa: todo y cualquiera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, moy + to
+...

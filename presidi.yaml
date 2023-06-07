@@ -1,0 +1,70 @@
+---
+term: presidi
+slug: presidi
+ipa: "p\u027Ee\u02C8sidi"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Ee\u02C8sidi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - preside (over)
+  epo:
+  - - prezido
+  - - prezidi
+  spa:
+  - - presidir
+search terms:
+  glb:
+  - presidi
+  eng:
+  - preside over
+  - preside
+  epo:
+  - prezido
+  - prezidi
+  spa:
+  - presidir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - preside
+  Fransesa:
+  - - "pr\xE9sider"
+  Doycisa:
+  - - "pr\xE4sidieren"
+  Rusisa:
+  - - "\u043F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442 \u201Cprezident\u201D
+      - presidiyen"
+  Espanisa:
+  - - presidir
+  Indonesisa:
+  - - presiden - presidiyen
+  Pilipinasa:
+  - - presidente - presidiyen
+  Parsisa:
+  - - "\u067E\u0631\u0632\u06CC\u062F\u0646\u062A \u201Cperezident\u201D - presidiyen"
+raw data:
+  term: presidi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: preside (over)
+    epo: prezido; prezidi
+    spa: presidir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (preside), Fransesa (pr\xE9sider), Doycisa (pr\xE4sidieren),
+    Rusisa (\u043F\u0440\u0435\u0437\u0438\u0434\u0435\u043D\u0442 \u201Cprezident\u201D
+    - presidiyen), Espanisa (presidir), Indonesisa (presiden - presidiyen), Pilipinasa
+    (presidente - presidiyen), Parsisa (\u067E\u0631\u0632\u06CC\u062F\u0646\u062A
+    \u201Cperezident\u201D - presidiyen)"
+...

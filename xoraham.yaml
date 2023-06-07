@@ -1,0 +1,54 @@
+---
+term: xoraham
+slug: xoraham
+ipa: "\u0283o\u027Ea\u02C8xam"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u027Ea\u02C8xam&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - realization
+  - - realize
+  epo:
+  - - ekkompreno
+  - - ekkonscii
+    - ekkompreni
+  spa:
+  - - "comprensi\xF3n"
+  - - darse cuenta
+search terms:
+  glb:
+  - xoraham
+  eng:
+  - realization
+  - realize
+  epo:
+  - ekkompreno
+  - ekkonscii
+  - ekkompreni
+  spa:
+  - "comprensi\xF3n"
+  - darse cuenta
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor-">xor-</a> + <a href="../lexi/aham">aham</a>
+raw data:
+  term: xoraham
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: realization; realize
+    epo: ekkompreno; ekkonscii, ekkompreni
+    spa: "comprensi\xF3n; darse cuenta"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xor- + aham
+...

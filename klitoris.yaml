@@ -1,0 +1,54 @@
+---
+term: klitoris
+slug: klitoris
+ipa: "klito\u02C8\u027Eis"
+ipa link: "http://ipa-reader.xyz/?text=klito\u02C8\u027Eis&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - clitoris
+  epo:
+  - - klitoro
+  spa:
+  - - "cl\xEDtoris"
+  deu:
+  - - Klitoris
+search terms:
+  glb:
+  - klitoris
+  eng:
+  - clitoris
+  epo:
+  - klitoro
+  spa:
+  - "cl\xEDtoris"
+  deu:
+  - klitoris
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: klitoris
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: clitoris
+    epo: klitoro
+    spa: "cl\xEDtoris"
+    deu: Klitoris
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (clitoris), Fransesa, Espanisa (cl\xEDtoris), Rusisa (\u043A\u043B\u0438\u0442\u043E\u0440
+    \u201Cklitor\u201D), Doycisa (Klitoris), Indonesisa, Turkisa, Niponsa (\u30AF\u30EA\u30C8\u30EA\u30B9
+    \u201Ckuritorisu\u201D), Hangusa (\uD074\uB9AC\uD1A0\uB9AC\uC2A4 \u201Ckulitorisu\u201D)"
+...

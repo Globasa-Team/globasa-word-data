@@ -1,0 +1,49 @@
+---
+term: dentamedisyen
+slug: dentamedisyen
+ipa: "dentamedi\u02C8sjen"
+ipa link: "http://ipa-reader.xyz/?text=dentamedi\u02C8sjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - dentist
+  epo:
+  - - dentisto
+    - dentokuracisto
+  spa:
+  - - dentista
+search terms:
+  glb:
+  - dentamedisyen
+  eng:
+  - dentist
+  epo:
+  - dentisto
+  - dentokuracisto
+  spa:
+  - dentista
+etymology_type: DERIVD
+etymology: <a href="../lexi/denta">denta</a> + <a href="../lexi/-medis">-medis</a>
+  + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: dentamedisyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: dentist
+    epo: dentisto, dentokuracisto
+    spa: dentista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: denta + -medis + -yen
+...

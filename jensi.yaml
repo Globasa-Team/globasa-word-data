@@ -1,0 +1,51 @@
+---
+term: jensi
+slug: jensi
+ipa: "\u02C8d\u0361\u0292ensi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ensi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gender
+    - sex
+  epo:
+  - - sekso
+  spa:
+  - - "g\xE9nero (_masculino o femenino_)"
+    - sexo
+search terms:
+  glb:
+  - jensi
+  eng:
+  - gender
+  - sex
+  epo:
+  - sekso
+  spa:
+  - "g\xE9nero"
+  - sexo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jensi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gender, sex
+    epo: sekso
+    spa: "g\xE9nero (_masculino o femenino_), sexo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u0646\u0633 \u201Cjins\u201D), Parsisa (\u062C\u0646\u0633
+    \u201Cjens\u201D), Turkisa (cins), Swahilisa (jinsia), Indonesisa (jenis)"
+...

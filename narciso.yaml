@@ -1,0 +1,54 @@
+---
+term: narciso
+slug: narciso
+ipa: "na\u027E\u02C8t\u0361\u0283iso"
+ipa link: "http://ipa-reader.xyz/?text=na\u027E\u02C8t\u0361\u0283iso&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Narcissus (name)
+  epo:
+  - - Narciso
+  spa:
+  - - Narciso
+search terms:
+  glb:
+  - narciso
+  eng:
+  - narcissus name
+  - narcissus
+  epo:
+  - narciso
+  spa:
+  - narciso
+etymology_type: NATLNG
+etymology:
+  Elinisa:
+  - - "\u039D\u03AC\u03C1\u03BA\u03B9\u03C3\u03C3\u03BF\u03C2 \u201CNarkissos\u201D"
+  Latinsa:
+  - - Narcisus
+tags:
+- insan
+raw data:
+  term: Narciso
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Narcissus (name)
+    epo: Narciso
+    spa: Narciso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: "Elinisa (\u039D\u03AC\u03C1\u03BA\u03B9\u03C3\u03C3\u03BF\u03C2 \u201CNarkissos\u201D),
+    Latinsa (Narcisus)"
+...

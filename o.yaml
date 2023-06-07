@@ -1,0 +1,70 @@
+---
+term: o
+slug: o
+ipa: "\u02C8o"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8o&voice=Ewa"
+status: true
+category: root
+word class: il
+trans:
+  eng:
+  - - oh
+  epo:
+  - - ho
+  spa:
+  - - oh
+search terms:
+  glb:
+  - o
+  eng:
+  - oh
+  epo:
+  - ho
+  spa:
+  - oh
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - oh
+  Fransesa:
+  - - oh
+  Doycisa:
+  - - oh
+  Rusisa:
+  - - "\u043E \u201Co\u201D"
+  Espanisa:
+  - - oh
+  Hindisa:
+  - - "\u0913 \u201Co\u201D"
+  Putunhwa:
+  - - "\u54E6 \u201Co\u201D"
+  Niponsa:
+  - - "\u304A \u201Co\u201D"
+  Hangusa:
+  - - "\uC624 \u201Co\u201D"
+    - "\uC5B4 \u201Co\u201D"
+  Parsisa:
+  - - "\u0627\u0647 \u201Co\u201D"
+raw data:
+  term: o
+  category: root
+  word class: il
+  status: true
+  trans:
+    eng: oh
+    epo: ho
+    spa: oh
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (oh), Fransesa (oh), Doycisa (oh), Rusisa (\u043E \u201Co\u201D),
+    Espanisa (oh), Hindisa (\u0913 \u201Co\u201D), Putunhwa (\u54E6 \u201Co\u201D),
+    Niponsa (\u304A \u201Co\u201D), Hangusa (\uC624 \u201Co\u201D, \uC5B4 \u201Co\u201D),
+    Parsisa (\u0627\u0647 \u201Co\u201D)"
+...

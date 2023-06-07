@@ -1,0 +1,55 @@
+---
+term: karnatakayen
+slug: karnatakayen
+ipa: "ka\u027Enataka\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027Enataka\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Kannadiga
+    - Kannadati (person)
+  epo:
+  - - karnatakano
+    - kanaro
+    - karnato
+    - kannado
+  spa:
+  - - "canar\xE9s (_persona_)"
+search terms:
+  glb:
+  - karnatakayen
+  eng:
+  - kannadiga
+  - kannadati person
+  - kannadati
+  epo:
+  - karnatakano
+  - kanaro
+  - karnato
+  - kannado
+  spa:
+  - "canar\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Karnataka">Karnataka</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Karnatakayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Kannadiga, Kannadati (person)
+    epo: karnatakano, kanaro, karnato, kannado
+    spa: "canar\xE9s (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Karnataka + -yen
+...

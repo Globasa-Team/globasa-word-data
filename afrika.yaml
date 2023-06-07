@@ -1,0 +1,85 @@
+---
+term: afrika
+slug: afrika
+ipa: "a\u02C8f\u027Eika"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8f\u027Eika&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Africa
+  epo:
+  - - Afriko
+  spa:
+  - - "\xC1frica"
+  deu:
+  - - Afrika
+search terms:
+  glb:
+  - afrika
+  eng:
+  - africa
+  epo:
+  - afriko
+  spa:
+  - "\xC1frica"
+  deu:
+  - afrika
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Africa
+  Fransesa:
+  - - Afrique
+  Doycisa:
+  - - Afrika
+  Rusisa:
+  - - "\u0410\u0444\u0440\u0438\u043A\u0430 \u201CAfrika\u201D"
+  Espanisa:
+  - - Africa
+  Arabisa:
+  - - "\u0623\u064E\u0641\u0652\u0631\u0650\u064A\u0642\u0650\u064A\u064E\u0627 \u201C\u02BEafr\u012Bqiy\u0101\u201D"
+  Hindisa:
+  - - "\u0905\u092B\u093C\u094D\u0930\u0940\u0915\u093E \u201Cafr\u012Bk\u0101\u201D"
+  Telugusa:
+  - - "\u0C06\u0C2B\u0C4D\u0C30\u0C3F\u0C15\u0C3E \u201C\u0101phrik\u0101\u201D"
+  Swahilisa:
+  - - Afrika
+  Turkisa: ~
+  Indonesisa: ~
+  Pilipinasa:
+  - - Aprika
+  Hangusa:
+  - - "\uC544\uD504\uB9AC\uCE74 \u201Capeurika\u201D"
+  Niponsa:
+  - - "\u30A2\u30D5\u30EA\u30AB \u201Cafufrika\u201D"
+tags:
+- geografi
+- daygeo
+raw data:
+  term: Afrika
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Africa
+    epo: Afriko
+    spa: "\xC1frica"
+    deu: Afrika
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi, daygeo
+  etymology: "Englisa (Africa), Fransesa (Afrique), Doycisa (Afrika), Rusisa (\u0410\u0444\u0440\u0438\u043A\u0430
+    \u201CAfrika\u201D), Espanisa (Africa), Arabisa (\u0623\u064E\u0641\u0652\u0631\u0650\u064A\u0642\u0650\u064A\u064E\u0627
+    \u201C\u02BEafr\u012Bqiy\u0101\u201D), Hindisa (\u0905\u092B\u093C\u094D\u0930\u0940\u0915\u093E
+    \u201Cafr\u012Bk\u0101\u201D), Telugusa (\u0C06\u0C2B\u0C4D\u0C30\u0C3F\u0C15\u0C3E
+    \u201C\u0101phrik\u0101\u201D), Swahilisa (Afrika), Turkisa, Indonesisa, Pilipinasa
+    (Aprika), Hangusa (\uC544\uD504\uB9AC\uCE74 \u201Capeurika\u201D), Niponsa (\u30A2\u30D5\u30EA\u30AB
+    \u201Cafufrika\u201D)"
+...

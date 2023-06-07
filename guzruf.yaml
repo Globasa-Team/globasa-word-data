@@ -1,0 +1,52 @@
+---
+term: guzruf
+slug: guzruf
+ipa: guzˈɾuf
+ipa link: http://ipa-reader.xyz/?text=guzˈɾuf&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cartilage
+    - gristle
+  epo:
+  - - kartilago
+  spa:
+  - - cartílago
+search terms:
+  glb:
+  - guzruf
+  eng:
+  - cartilage
+  - gristle
+  epo:
+  - kartilago
+  spa:
+  - cartílago
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - غُضْرُوف "ḡuḍruf"
+  Parsisa:
+  - - غضروف "ğozruf"
+raw data:
+  term: guzruf
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cartilage, gristle
+    epo: kartilago
+    spa: cartílago
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (غُضْرُوف "ḡuḍruf"), Parsisa (غضروف "ğozruf")
+...

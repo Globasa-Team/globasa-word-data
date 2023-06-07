@@ -1,0 +1,56 @@
+---
+term: tem
+slug: tem
+ipa: tem
+ipa link: http://ipa-reader.xyz/?text=tem&voice=Ewa
+status: true
+category: root
+word class: p
+trans:
+  eng:
+  - - about
+    - "on"
+    - regarding
+    - with regard(s) to
+  epo:
+  - - pri
+  spa:
+  - - acerca de
+    - con respecto a
+search terms:
+  glb:
+  - tem
+  eng:
+  - about
+  - "on"
+  - regarding
+  - with regards to
+  - with regard to
+  epo:
+  - pri
+  spa:
+  - acerca de
+  - con respecto a
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/tema">tema</a>.
+raw data:
+  term: tem
+  category: root
+  word class: p
+  status: true
+  trans:
+    eng: about, on, regarding, with regard(s) to
+    epo: pri
+    spa: acerca de, con respecto a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: about, on, regarding, regard, regards, with regard to, with regards
+    to
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _tema_.
+...

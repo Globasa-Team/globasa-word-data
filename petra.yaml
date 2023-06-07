@@ -1,0 +1,59 @@
+---
+term: petra
+slug: petra
+ipa: "\u02C8pet\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pet\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rock
+    - stone
+  epo:
+  - - roko
+    - "\u015Dtono"
+  spa:
+  - - piedra
+    - roca
+search terms:
+  glb:
+  - petra
+  eng:
+  - rock
+  - stone
+  epo:
+  - roko
+  - "\u015Dtono"
+  spa:
+  - piedra
+  - roca
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u092A\u0924\u094D\u0925\u0930 \u201Cpatthar\u201D"
+  Espanisa:
+  - - piedra
+  Italisa:
+  - - pietra
+raw data:
+  term: petra
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rock, stone
+    epo: "roko, \u015Dtono"
+    spa: piedra, roca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u092A\u0924\u094D\u0925\u0930 \u201Cpatthar\u201D), Espanisa
+    (piedra), Italisa (pietra)"
+...

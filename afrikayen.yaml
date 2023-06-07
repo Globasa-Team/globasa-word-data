@@ -1,0 +1,46 @@
+---
+term: afrikayen
+slug: afrikayen
+ipa: "af\u027Eika\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=af\u027Eika\u02C8jen&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - African (_a native or inhabitant of Africa_)
+  epo:
+  - - afrikano
+  spa:
+  - - africano (_persona_)
+search terms:
+  glb:
+  - afrikayen
+  eng:
+  - african
+  epo:
+  - afrikano
+  spa:
+  - africano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Afrika">Afrika</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Afrikayen
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: African (_a native or inhabitant of Africa_)
+    epo: afrikano
+    spa: africano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Afrika + -yen
+...

@@ -1,0 +1,49 @@
+---
+term: uyusu ete
+slug: uyusu ete
+ipa: "u\u02C8jusu \u02C8ete"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8jusu \u02C8ete&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - yours (_those beings belonging to you all_)
+  epo:
+  - - la viaj
+  spa:
+  - - los de ustedes
+    - (_seres vivientes_)
+search terms:
+  glb:
+  - uyusu ete
+  - uyusu
+  - ete
+  eng:
+  - yours
+  epo:
+  - la viaj
+  spa:
+  - los de ustedes
+etymology_type: DERIVD
+etymology: <a href="../lexi/uyu">uyu</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/ete">ete</a>
+raw data:
+  term: uyusu ete
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: yours (_those beings belonging to you all_)
+    epo: la viaj
+    spa: los de ustedes, (_seres vivientes_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: uyu + -su, ete
+...

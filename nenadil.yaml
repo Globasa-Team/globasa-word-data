@@ -1,0 +1,54 @@
+---
+term: nenadil
+slug: nenadil
+ipa: "nena\u02C8dil"
+ipa link: "http://ipa-reader.xyz/?text=nena\u02C8dil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unfair
+    - unjust
+  - - unfairly
+    - unjustly
+  epo:
+  - - maljusta
+  - - maljuste
+  spa:
+  - - injusto
+search terms:
+  glb:
+  - nenadil
+  eng:
+  - unfair
+  - unjust
+  - unfairly
+  - unjustly
+  epo:
+  - maljusta
+  - maljuste
+  spa:
+  - injusto
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/adil">adil</a>
+raw data:
+  term: nenadil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unfair, unjust; unfairly, unjustly
+    epo: maljusta; maljuste
+    spa: injusto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + adil
+...

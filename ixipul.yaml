@@ -1,0 +1,50 @@
+---
+term: ixipul
+slug: ixipul
+ipa: "i\u0283i\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=i\u0283i\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - conscious
+    - aware
+  epo:
+  - - konscia
+  - - konscie
+  spa:
+  - - consciente
+search terms:
+  glb:
+  - ixipul
+  eng:
+  - conscious
+  - aware
+  epo:
+  - konscia
+  - konscie
+  spa:
+  - consciente
+etymology_type: DERIVD
+etymology: <a href="../lexi/ixi">ixi</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: ixipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: conscious, aware
+    epo: konscia; konscie
+    spa: consciente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ixi + -pul
+...

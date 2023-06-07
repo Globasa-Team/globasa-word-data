@@ -1,0 +1,79 @@
+---
+term: setin
+slug: setin
+ipa: "se\u02C8tin"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8tin&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - setting
+    - adjustment
+  - - set
+    - adjust
+  epo:
+  - - agordo
+  - - agordi
+  spa:
+  - - "posici\xF3n"
+    - ajuste
+    - "configuraci\xF3n"
+  - - poner
+    - ajustar
+    - configurar
+search terms:
+  glb:
+  - setin
+  eng:
+  - setting
+  - adjustment
+  - set
+  - adjust
+  epo:
+  - agordo
+  - agordi
+  spa:
+  - "posici\xF3n"
+  - ajuste
+  - "configuraci\xF3n"
+  - poner
+  - ajustar
+  - configurar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - setting
+    - set
+  Pilipinasa:
+  - - setting
+  Putunhwa: ~
+  "":
+  - - "\u8A2D\u5B9A \u201Csheding\u201D"
+  Niponsa:
+  - - "\u8A2D\u5B9A \u201Csetchi\u201D"
+    - "\u8A2D\u5B9A \u201Cseitei"
+  Hindisa:
+  - - "\u0938\u0947\u091F\u093F\u0902\u0917 \u201Cseting\u201D"
+raw data:
+  term: setin
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: setting, adjustment; set, adjust
+    epo: agordo; agordi
+    spa: "posici\xF3n, ajuste, configuraci\xF3n; poner, ajustar, configurar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (setting, set), Pilipinasa (setting), Putunhwa, (\u8A2D\u5B9A
+    \u201Csheding\u201D), Niponsa (\u8A2D\u5B9A \u201Csetchi\u201D, \u8A2D\u5B9A \u201Cseitei),
+    Hindisa (\u0938\u0947\u091F\u093F\u0902\u0917 \u201Cseting\u201D)"
+...

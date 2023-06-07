@@ -1,0 +1,51 @@
+---
+term: -krasi
+slug: -krasi
+ipa: "-\u02C8k\u027Easi"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8k\u027Easi&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - (type of) government
+  epo:
+  - - (tipo de) registraro
+    - -kratio
+  spa:
+  - - (tipo de) gobierno
+search terms:
+  glb:
+  - -krasi
+  eng:
+  - type of government
+  - government
+  epo:
+  - tipo de registraro
+  - registraro
+  - -kratio
+  spa:
+  - tipo de gobierno
+  - gobierno
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/krasi">krasi</a>.
+raw data:
+  term: -krasi
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: (type of) government
+    epo: (tipo de) registraro, -kratio
+    spa: (tipo de) gobierno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _krasi_.
+...

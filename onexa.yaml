@@ -1,0 +1,93 @@
+---
+term: onexa
+slug: onexa
+ipa: "o\u02C8ne\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8ne\u0283a&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - showing
+    - demonstration
+    - display
+    - demo
+  - - show
+    - demonstrate
+    - display
+  epo:
+  - - montro
+    - elmontro
+    - vidigo
+    - demonstro
+  - - montri
+    - elmontri
+    - vidi
+    - demonstri (vidu [presenta] por enkonduki/konigi ion)
+  spa:
+  - - "demostraci\xF3n"
+    - "exposici\xF3n"
+    - despliegue
+    - demo
+  - - mostrar
+    - demostrar
+    - exponer
+    - presentar
+search terms:
+  glb:
+  - onexa
+  eng:
+  - showing
+  - demonstration
+  - display
+  - demo
+  - show
+  - demonstrate
+  epo:
+  - montro
+  - elmontro
+  - vidigo
+  - demonstro
+  - montri
+  - elmontri
+  - vidi
+  - demonstri vidu [presenta] por enkonduki/konigi ion
+  - demonstri
+  spa:
+  - "demostraci\xF3n"
+  - "exposici\xF3n"
+  - despliegue
+  - demo
+  - mostrar
+  - demostrar
+  - exponer
+  - presentar
+etymology_type: NATLNG
+etymology:
+  Swahilisa:
+  - - -onyesha
+  Parsisa:
+  - - "\u0646\u0634\u0627\u0646 \u062F\u0627\u062F\u0646 \u201Cneshan dadan\u201D"
+raw data:
+  term: onexa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: showing, demonstration, display, demo; show, demonstrate, display
+    epo: montro, elmontro, vidigo, demonstro; montri, elmontri, vidi, demonstri (vidu
+      [presenta] por enkonduki/konigi ion)
+    spa: "demostraci\xF3n, exposici\xF3n, despliegue, demo; mostrar, demostrar, exponer,
+      presentar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Swahilisa (-onyesha), Parsisa (\u0646\u0634\u0627\u0646 \u062F\u0627\u062F\u0646
+    \u201Cneshan dadan\u201D)"
+...

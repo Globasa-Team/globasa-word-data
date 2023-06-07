@@ -1,0 +1,48 @@
+---
+term: moksayli
+slug: moksayli
+ipa: "mok\u02C8sajli"
+ipa link: "http://ipa-reader.xyz/?text=mok\u02C8sajli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - wooden
+  epo:
+  - - ligna
+  - - ligne
+  spa:
+  - - de madera
+search terms:
+  glb:
+  - moksayli
+  eng:
+  - wooden
+  epo:
+  - ligna
+  - ligne
+  spa:
+  - de madera
+etymology_type: DERIVD
+etymology: <a href="../lexi/moksay">moksay</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: 'moksayli '
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: wooden
+    epo: ligna; ligne
+    spa: de madera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moksay + -li
+...

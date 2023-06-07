@@ -1,0 +1,56 @@
+---
+term: kipa
+slug: kipa
+ipa: "\u02C8kipa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kipa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - heap
+    - pile
+  epo:
+  - - amaso
+    - stako
+    - staplo
+  spa:
+  - - "mont\xF3n"
+    - pila
+search terms:
+  glb:
+  - kipa
+  eng:
+  - heap
+  - pile
+  epo:
+  - amaso
+  - stako
+  - staplo
+  spa:
+  - "mont\xF3n"
+  - pila
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kipa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: heap, pile
+    epo: amaso, stako, staplo
+    spa: "mont\xF3n, pila"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (heap), Doycesa (Haufen), Rusisa (\u043A\u0438\u043F\u0430 \u201Ckipa\u201D),
+    Telugusa (\u0C15\u0C41\u0C2A\u0C4D\u0C2A \u201Ckuppa\u201D), Parsisa (\u06A9\u067E\u0647\u200E
+    \u201Ckoppe\u201D)"
+...

@@ -1,0 +1,54 @@
+---
+term: disgi
+slug: disgi
+ipa: "\u02C8disgi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8disgi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - dispersion
+  - - disperse
+    - spread
+  epo:
+  - - disigo
+  - - disigi
+  spa:
+  - - "dispersi\xF3n"
+  - - dispersar
+search terms:
+  glb:
+  - disgi
+  eng:
+  - dispersion
+  - disperse
+  - spread
+  epo:
+  - disigo
+  - disigi
+  spa:
+  - "dispersi\xF3n"
+  - dispersar
+etymology_type: DERIVD
+etymology: <a href="../lexi/dis">dis</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: disgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: dispersion; disperse, spread
+    epo: disigo; disigi
+    spa: "dispersi\xF3n; dispersar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dis + -gi
+...

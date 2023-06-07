@@ -1,0 +1,75 @@
+---
+term: senato
+slug: senato
+ipa: "se\u02C8nato"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8nato&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - senate
+  epo:
+  - - senato
+  spa:
+  - - senado
+search terms:
+  glb:
+  - senato
+  eng:
+  - senate
+  epo:
+  - senato
+  spa:
+  - senado
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - senate
+  Espanisa:
+  - - senado
+  Fransesa:
+  - - "s\xE9nat"
+  Rusisa:
+  - - "\u0441\u0435\u043D\u0430\u0442 \"senat\""
+  Doycisa:
+  - - Senat
+  Portugalsa:
+  - - senado
+  Italisa:
+  - - senato
+  Indonesisa:
+  - - senat
+  Pilipinasa:
+  - - senado
+  Hindisa:
+  - - "\u0938\u0940\u0928\u0947\u091F \"sinet\""
+  Turkisa:
+  - - senato
+  Parsisa:
+  - - "\u0633\u0646\u0627 \"sen\xE2\""
+  Swahilisa:
+  - - seneti
+raw data:
+  term: senato
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: senate
+    epo: senato
+    spa: senado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (senate), Espanisa (senado), Fransesa (s\xE9nat), Rusisa (\u0441\u0435\u043D\u0430\u0442
+    \"senat\"), Doycisa (Senat), Portugalsa (senado), Italisa (senato), Indonesisa
+    (senat), Pilipinasa (senado), Hindisa (\u0938\u0940\u0928\u0947\u091F \"sinet\"),
+    Turkisa (senato), Parsisa (\u0633\u0646\u0627 \"sen\xE2\"), Swahilisa (seneti)"
+...

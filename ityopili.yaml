@@ -1,0 +1,46 @@
+---
+term: ityopili
+slug: ityopili
+ipa: "itjo\u02C8pili"
+ipa link: "http://ipa-reader.xyz/?text=itjo\u02C8pili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Ethiopian
+  epo:
+  - - etiopa
+  spa:
+  - - "et\xEDope"
+search terms:
+  glb:
+  - ityopili
+  eng:
+  - ethiopian
+  epo:
+  - etiopa
+  spa:
+  - "et\xEDope"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Ityopi">Ityopi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Ityopili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Ethiopian
+    epo: etiopa
+    spa: "et\xEDope"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Ityopi + -li
+...

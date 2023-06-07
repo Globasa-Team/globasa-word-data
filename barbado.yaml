@@ -1,0 +1,50 @@
+---
+term: barbado
+slug: barbado
+ipa: "ba\u027E\u02C8bado"
+ipa link: "http://ipa-reader.xyz/?text=ba\u027E\u02C8bado&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Barbados
+  epo:
+  - - Barbado
+  spa:
+  - - Barbados
+search terms:
+  glb:
+  - barbado
+  eng:
+  - barbados
+  epo:
+  - barbado
+  spa:
+  - barbados
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Barbados
+tags:
+- dexa
+raw data:
+  term: Barbado
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Barbados
+    epo: Barbado
+    spa: Barbados
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Barbados)
+...

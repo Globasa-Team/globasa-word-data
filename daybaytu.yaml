@@ -1,0 +1,46 @@
+---
+term: daybaytu
+slug: daybaytu
+ipa: "daj\u02C8bajtu"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8bajtu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - mansion
+  epo:
+  - - domego
+  spa:
+  - - "mansi\xF3n"
+search terms:
+  glb:
+  - daybaytu
+  eng:
+  - mansion
+  epo:
+  - domego
+  spa:
+  - "mansi\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/baytu">baytu</a>
+raw data:
+  term: daybaytu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: mansion
+    epo: domego
+    spa: "mansi\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + baytu
+...

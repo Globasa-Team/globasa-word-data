@@ -1,0 +1,77 @@
+---
+term: dinosor
+slug: dinosor
+ipa: dinoˈsoɾ
+ipa link: http://ipa-reader.xyz/?text=dinoˈsoɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dinosaur
+  epo:
+  - - dinosaŭro
+  spa:
+  - - dinosaurio
+    - _Dinosauria_
+search terms:
+  glb:
+  - dinosor
+  eng:
+  - dinosaur
+  epo:
+  - dinosaŭro
+  spa:
+  - dinosaurio
+  - dinosauria
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - dinosaur
+  Espanisa:
+  - - dinosaurio
+  Fransesa:
+  - - dinosaure
+  Rusisa:
+  - - динозавр “dinozavr”
+  Doycisa:
+  - - Dinosaurier
+  Indonesisa:
+  - - dinosaurus
+  Pilipinasa:
+  - - dinosawriyo
+  Hindisa:
+  - - डायनासोर “daynasor”
+  Arabisa:
+  - - دِينَاصَوْر “dinasawr”
+  Turkisa:
+  - - dinozor
+  Parsisa:
+  - - دایناسور “daynasor”
+  Swahilisa:
+  - - dinosauri
+tags:
+- hewan
+raw data:
+  term: dinosor
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dinosaur
+    epo: dinosaŭro
+    spa: dinosaurio, _Dinosauria_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (dinosaur), Espanisa (dinosaurio), Fransesa (dinosaure), Rusisa
+    (динозавр “dinozavr”), Doycisa (Dinosaurier), Indonesisa (dinosaurus), Pilipinasa
+    (dinosawriyo), Hindisa (डायनासोर “daynasor”), Arabisa (دِينَاصَوْر “dinasawr”),
+    Turkisa (dinozor), Parsisa (دایناسور “daynasor”), Swahilisa (dinosauri)
+...

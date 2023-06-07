@@ -1,0 +1,52 @@
+---
+term: minxili
+slug: minxili
+ipa: "min\u02C8\u0283ili"
+ipa link: "http://ipa-reader.xyz/?text=min\u02C8\u0283ili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - civil
+    - civic
+  epo:
+  - - civita
+  - - civite
+  spa:
+  - - civil
+    - "c\xEDvico"
+search terms:
+  glb:
+  - minxili
+  eng:
+  - civil
+  - civic
+  epo:
+  - civita
+  - civite
+  spa:
+  - civil
+  - "c\xEDvico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/minxi">minxi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: minxili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: civil, civic
+    epo: civita; civite
+    spa: "civil, c\xEDvico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: minxi + -li
+...

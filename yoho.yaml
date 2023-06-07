@@ -1,0 +1,59 @@
+---
+term: yoho
+slug: yoho
+ipa: "\u02C8joxo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8joxo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - temptation
+  - - tempt
+  epo:
+  - - tento
+    - tentado
+  - - tenti
+  spa:
+  - - "tentaci\xF3n"
+  - - tentar
+search terms:
+  glb:
+  - yoho
+  eng:
+  - temptation
+  - tempt
+  epo:
+  - tento
+  - tentado
+  - tenti
+  spa:
+  - "tentaci\xF3n"
+  - tentar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u8BF1\u60D1 \u201Cy\xF2uhu\xF2\u201D"
+  Hangusa:
+  - - "\uC720\uD639 \u201Cyuhog\u201D"
+raw data:
+  term: yoho
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: temptation; tempt
+    epo: tento, tentado; tenti
+    spa: "tentaci\xF3n; tentar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u8BF1\u60D1 \u201Cy\xF2uhu\xF2\u201D), Hangusa (\uC720\uD639
+    \u201Cyuhog\u201D)"
+...

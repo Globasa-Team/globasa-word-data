@@ -1,0 +1,51 @@
+---
+term: kigan
+slug: kigan
+ipa: "ki\u02C8gan"
+ipa link: "http://ipa-reader.xyz/?text=ki\u02C8gan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - trachea
+    - windpipe
+  epo:
+  - - "tra\u0125eo"
+  spa:
+  - - "tr\xE1quea"
+search terms:
+  glb:
+  - kigan
+  eng:
+  - trachea
+  - windpipe
+  epo:
+  - "tra\u0125eo"
+  spa:
+  - "tr\xE1quea"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: kigan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: trachea, windpipe
+    epo: "tra\u0125eo"
+    spa: "tr\xE1quea"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa (\u6C14\u7BA1 \"cigwan\"), Niponsa (\u6C17\u7BA1 \"kikan\"),
+    Vyetnamsa (kh\xED qu\u1EA3n), Hangusa (\uAE30\uAD00 \"gigwan\")"
+...

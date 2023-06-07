@@ -1,0 +1,52 @@
+---
+term: itali
+slug: itali
+ipa: "i\u02C8tali"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8tali&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Italy
+  epo:
+  - - Italio
+    - Italujo
+  spa:
+  - - Italia
+search terms:
+  glb:
+  - itali
+  eng:
+  - italy
+  epo:
+  - italio
+  - italujo
+  spa:
+  - italia
+etymology_type: NATLNG
+etymology:
+  Italisa:
+  - - Italia
+tags:
+- dexa
+raw data:
+  term: Itali
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Italy
+    epo: Italio, Italujo
+    spa: Italia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Italisa (Italia)
+...

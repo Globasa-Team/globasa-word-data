@@ -1,0 +1,58 @@
+---
+term: basili
+slug: basili
+ipa: "ba\u02C8sili"
+ipa link: "http://ipa-reader.xyz/?text=ba\u02C8sili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - basic
+    - fundamental
+  - - basically
+    - fundamentally
+  epo:
+  - - baza
+    - fundamenta
+  - - baze
+    - fundamente
+  spa:
+  - - "b\xE1sico"
+search terms:
+  glb:
+  - basili
+  eng:
+  - basic
+  - fundamental
+  - basically
+  - fundamentally
+  epo:
+  - baza
+  - fundamenta
+  - baze
+  - fundamente
+  spa:
+  - "b\xE1sico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/basi">basi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: basili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: basic, fundamental; basically, fundamentally
+    epo: baza, fundamenta; baze, fundamente
+    spa: "b\xE1sico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: basi + -li
+...

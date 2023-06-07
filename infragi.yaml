@@ -1,0 +1,70 @@
+---
+term: infragi
+slug: infragi
+ipa: "in\u02C8f\u027Eagi"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8f\u027Eagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - oppression
+    - subjugation
+  - - oppress
+    - subdue
+    - put below
+    - lower
+  epo:
+  - - subpremo
+  - - subpremi
+    - subigi
+    - subjugigi
+  spa:
+  - - "opresi\xF3n"
+    - "subyugaci\xF3n"
+  - - oprimir
+    - subyugar
+    - bajar
+search terms:
+  glb:
+  - infragi
+  eng:
+  - oppression
+  - subjugation
+  - oppress
+  - subdue
+  - put below
+  - lower
+  epo:
+  - subpremo
+  - subpremi
+  - subigi
+  - subjugigi
+  spa:
+  - "opresi\xF3n"
+  - "subyugaci\xF3n"
+  - oprimir
+  - subyugar
+  - bajar
+etymology_type: DERIVD
+etymology: <a href="../lexi/infra">infra</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: infragi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: oppression, subjugation; oppress, subdue, put below, lower
+    epo: subpremo; subpremi, subigi, subjugigi
+    spa: "opresi\xF3n, subyugaci\xF3n; oprimir, subyugar, bajar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: infra + -gi
+...

@@ -1,0 +1,48 @@
+---
+term: triunfamusi
+slug: triunfamusi
+ipa: "t\u027Eiunfa\u02C8musi"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Eiunfa\u02C8musi&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - who must win
+  epo:
+  - - venkdeva
+    - kiu devas venki
+  spa:
+  - - que debe ganar
+search terms:
+  glb:
+  - triunfamusi
+  eng:
+  - who must win
+  epo:
+  - venkdeva
+  - kiu devas venki
+  spa:
+  - que debe ganar
+etymology_type: DERIVD
+etymology: <a href="../lexi/triunfa">triunfa</a> + <a href="../lexi/-musi">-musi</a>
+raw data:
+  term: triunfamusi
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: who must win
+    epo: venkdeva, kiu devas venki
+    spa: que debe ganar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: triunfa + -musi
+...

@@ -1,0 +1,56 @@
+---
+term: gamikal
+slug: gamikal
+ipa: "gami\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=gami\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - single
+  epo:
+  - - senedza
+    - senedzina
+    - "fra\u016Dla"
+    - "fra\u016Dlina"
+  - - senedze
+    - "fra\u016Dle"
+  spa:
+  - - soltero
+search terms:
+  glb:
+  - gamikal
+  eng:
+  - single
+  epo:
+  - senedza
+  - senedzina
+  - "fra\u016Dla"
+  - "fra\u016Dlina"
+  - senedze
+  - "fra\u016Dle"
+  spa:
+  - soltero
+etymology_type: DERIVD
+etymology: <a href="../lexi/gami">gami</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: gamikal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: single
+    epo: "senedza, senedzina, fra\u016Dla, fra\u016Dlina; senedze, fra\u016Dle"
+    spa: soltero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gami + -kal
+...

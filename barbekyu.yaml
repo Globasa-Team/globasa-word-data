@@ -1,0 +1,90 @@
+---
+term: barbekyu
+slug: barbekyu
+ipa: baɾˈbekju
+ipa link: http://ipa-reader.xyz/?text=baɾˈbekju&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - barbecue
+    - grill
+  epo:
+  - - rostokrado
+    - kradrostilo
+  - - kradrosti
+  spa:
+  - - barbacoa
+    - parrilla
+  - - hacer a la parrilla
+search terms:
+  glb:
+  - barbekyu
+  eng:
+  - barbecue
+  - grill
+  epo:
+  - rostokrado
+  - kradrostilo
+  - kradrosti
+  spa:
+  - barbacoa
+  - parrilla
+  - hacer a la parrilla
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - barbecue
+  Espanisa:
+  - - barbacoa
+  Fransesa:
+  - - barbecue
+  Rusisa:
+  - - барбекю “barbekyu”
+  Doycisa:
+  - - Barbecue
+  Indonesisa:
+  - - barbeku
+    - barbekyu
+  Pilipinasa:
+  - - barbekyu
+  Arabisa:
+  - - بَارْبِيكْيُو “barbikyu”
+  Niponsa:
+  - - バーベキュー “babekyu”
+  Telugusa:
+  - - బార్బెక్యూ “barbekyu”
+  Turkisa:
+  - - barbekü
+  Vyetnamsa:
+  - - barbecue
+    - ba-bê-kiu
+  Hangusa:
+  - - 바비큐 “babikyu”
+  Parsisa:
+  - - باربیکیو “barbekyu”
+raw data:
+  term: barbekyu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: barbecue, grill
+    epo: rostokrado, kradrostilo; kradrosti
+    spa: barbacoa, parrilla; hacer a la parrilla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (barbecue), Espanisa (barbacoa), Fransesa (barbecue), Rusisa
+    (барбекю “barbekyu”), Doycisa (Barbecue), Indonesisa (barbeku, barbekyu), Pilipinasa
+    (barbekyu), Arabisa (بَارْبِيكْيُو “barbikyu”), Niponsa (バーベキュー “babekyu”), Telugusa
+    (బార్బెక్యూ “barbekyu”), Turkisa (barbekü), Vyetnamsa (barbecue, ba-bê-kiu), Hangusa
+    (바비큐 “babikyu”), Parsisa (باربیکیو “barbekyu”)
+...

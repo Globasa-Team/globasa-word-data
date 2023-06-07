@@ -1,0 +1,47 @@
+---
+term: kenumer
+slug: kenumer
+ipa: "kenu\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=kenu\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - how many
+  epo:
+  - - kiu nombro (da)
+  spa:
+  - - "\xBFcu\xE1ntos?"
+search terms:
+  glb:
+  - kenumer
+  eng:
+  - how many
+  epo:
+  - kiu nombro da
+  - kiu nombro
+  spa:
+  - "\xBFcu\xE1ntos?"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ke">ke</a> + <a href="../lexi/numer">numer</a>
+raw data:
+  term: 'kenumer '
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: how many
+    epo: kiu nombro (da)
+    spa: "\xBFcu\xE1ntos?"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ke + numer
+...

@@ -1,0 +1,72 @@
+---
+term: ativo
+slug: ativo
+ipa: aˈtivo
+ipa link: http://ipa-reader.xyz/?text=aˈtivo&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - active
+    - actively
+  epo:
+  - - aktiva
+  - - aktive
+  spa:
+  - - activo
+search terms:
+  glb:
+  - ativo
+  eng:
+  - active
+  - actively
+  epo:
+  - aktiva
+  - aktive
+  spa:
+  - activo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - active
+  Fransesa:
+  - - actif
+  Pilipinasa:
+  - - aktibo
+  Indonesisa:
+  - - aktif
+  Doycisa:
+  - - aktiv
+  Rusisa:
+  - - активный “aktivni”
+  Espanisa:
+  - - activo
+  Turkisa:
+  - - aktif
+  Parsisa:
+  - - آکتیو “âktiv”
+antonyms:
+- pasivo
+raw data:
+  term: ativo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: active, actively
+    epo: aktiva; aktive
+    spa: activo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: pasivo
+  example: ""
+  tags: ""
+  etymology: Englisa (active), Fransesa (actif), Pilipinasa (aktibo), Indonesisa (aktif),
+    Doycisa (aktiv), Rusisa (активный “aktivni”), Espanisa (activo), Turkisa (aktif),
+    Parsisa (آکتیو “âktiv”)
+...

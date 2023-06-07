@@ -1,0 +1,79 @@
+---
+term: fobi
+slug: fobi
+ipa: ˈfobi
+ipa link: http://ipa-reader.xyz/?text=ˈfobi&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - fear
+  - - frighten
+    - scare
+  epo:
+  - - timo
+    - fobio
+  - - timigi
+  spa:
+  - - miedo
+    - temor
+  - - asustar
+    - espantar
+search terms:
+  glb:
+  - fobi
+  eng:
+  - fear
+  - frighten
+  - scare
+  epo:
+  - timo
+  - fobio
+  - timigi
+  spa:
+  - miedo
+  - temor
+  - asustar
+  - espantar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - phobia
+  Fransesa:
+  - - -phobie
+  Doycisa:
+  - - -phobie
+  Rusisa:
+  - - -фобия “-fobiya”
+  Espanisa:
+  - - -fobia
+  Indonesisa:
+  - - -fobia
+  Parsisa:
+  - - فوبیا- “-fubiya”
+    - فوبی “-fobi”
+  Turkisa:
+  - - -fobi
+raw data:
+  term: fobi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: fear; frighten, scare
+    epo: timo, fobio; timigi
+    spa: miedo, temor; asustar, espantar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (phobia), Fransesa (-phobie), Doycisa (-phobie), Rusisa (-фобия
+    “-fobiya”), Espanisa (-fobia), Indonesisa (-fobia), Parsisa (فوبیا- “-fubiya”,
+    فوبی “-fobi”), Turkisa (-fobi)
+...

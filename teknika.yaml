@@ -1,0 +1,72 @@
+---
+term: teknika
+slug: teknika
+ipa: "tek\u02C8nika"
+ipa link: "http://ipa-reader.xyz/?text=tek\u02C8nika&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - technique
+  epo:
+  - - tekniko
+  spa:
+  - - "t\xE9cnica"
+search terms:
+  glb:
+  - teknika
+  eng:
+  - technique
+  epo:
+  - tekniko
+  spa:
+  - "t\xE9cnica"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - technique
+  Fransesa:
+  - - technique
+  Doycisa:
+  - - Technik
+  Rusisa:
+  - - "\u0442\u0435\u0445\u043D\u0438\u043A\u0430 \u201Ctehnika\u201D"
+  Espanisa:
+  - - "t\xE9cnica"
+  Indonesisa:
+  - - teknik
+  Pilipinasa:
+  - - teknik
+  Arabisa:
+  - - "\u062A\u064E\u0643\u0652\u0646\u0650\u064A\u0643 \u201Ctaknik\u201D"
+  Hindisa:
+  - - "\u0924\u0915\u0928\u0940\u0915 \u201Ctaknik\u201D"
+  Turkisa:
+  - - teknik
+  Parsisa:
+  - - "\u062A\u06A9\u0646\u06CC\u06A9\u200E \u201Cteknik\u201D"
+raw data:
+  term: teknika
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: technique
+    epo: tekniko
+    spa: "t\xE9cnica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (technique), Fransesa (technique), Doycisa (Technik), Rusisa
+    (\u0442\u0435\u0445\u043D\u0438\u043A\u0430 \u201Ctehnika\u201D), Espanisa (t\xE9cnica),
+    Indonesisa (teknik), Pilipinasa (teknik), Arabisa (\u062A\u064E\u0643\u0652\u0646\u0650\u064A\u0643
+    \u201Ctaknik\u201D), Hindisa (\u0924\u0915\u0928\u0940\u0915 \u201Ctaknik\u201D),
+    Turkisa (teknik), Parsisa (\u062A\u06A9\u0646\u06CC\u06A9\u200E \u201Cteknik\u201D)"
+...

@@ -1,0 +1,56 @@
+---
+term: jali
+slug: jali
+ipa: "\u02C8d\u0361\u0292ali"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - adjacent
+  epo:
+  - - apuda
+    - borda
+    - najbara
+  - - apude
+    - borde
+    - najbare
+  spa:
+  - - adyacente
+search terms:
+  glb:
+  - jali
+  eng:
+  - adjacent
+  epo:
+  - apuda
+  - borda
+  - najbara
+  - apude
+  - borde
+  - najbare
+  spa:
+  - adyacente
+etymology_type: DERIVD
+etymology: <a href="../lexi/ja">ja</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: jali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: adjacent
+    epo: apuda, borda, najbara; apude, borde, najbare
+    spa: adyacente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ja + -li
+...

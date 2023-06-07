@@ -1,0 +1,49 @@
+---
+term: manhirxa
+slug: manhirxa
+ipa: "man\u02C8xi\u027E\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=man\u02C8xi\u027E\u0283a&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - stag
+    - buck
+  epo:
+  - - vircervo
+  spa:
+  - - ciervo (macho)
+search terms:
+  glb:
+  - manhirxa
+  eng:
+  - stag
+  - buck
+  epo:
+  - vircervo
+  spa:
+  - ciervo macho
+  - ciervo
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/hirxa">hirxa</a>
+raw data:
+  term: manhirxa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: stag, buck
+    epo: vircervo
+    spa: ciervo (macho)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + hirxa
+...

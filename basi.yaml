@@ -1,0 +1,80 @@
+---
+term: basi
+slug: basi
+ipa: ˈbasi
+ipa link: http://ipa-reader.xyz/?text=ˈbasi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - basis
+    - base
+    - foundation
+  - - base
+  epo:
+  - - bazo
+  - - bazi
+  spa:
+  - - base
+    - fundamento
+    - cimientos
+  - - basar
+    - basarse
+search terms:
+  glb:
+  - basi
+  eng:
+  - basis
+  - base
+  - foundation
+  epo:
+  - bazo
+  - bazi
+  spa:
+  - base
+  - fundamento
+  - cimientos
+  - basar
+  - basarse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - base
+  Fransesa:
+  - - base
+  Doycisa:
+  - - Basis
+  Rusisa:
+  - - база “baza”
+    - базис “bazis”
+  Espanisa:
+  - - base
+  Italisa:
+  - - basi
+  Indonesisa:
+  - - basis
+  Pilipinasa:
+  - - base
+raw data:
+  term: basi
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: basis, base, foundation; base
+    epo: bazo; bazi
+    spa: base, fundamento, cimientos; basar, basarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (base), Fransesa (base), Doycisa (Basis), Rusisa (база “baza”,
+    базис “bazis”), Espanisa (base), Italisa (basi), Indonesisa (basis), Pilipinasa
+    (base)
+...

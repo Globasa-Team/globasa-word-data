@@ -1,0 +1,81 @@
+---
+term: basalto
+slug: basalto
+ipa: baˈsalto
+ipa link: http://ipa-reader.xyz/?text=baˈsalto&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - basalt
+  epo:
+  - - bazalto
+  spa:
+  - - basalto
+  deu:
+  - - Basalt
+search terms:
+  glb:
+  - basalto
+  eng:
+  - basalt
+  epo:
+  - bazalto
+  spa:
+  - basalto
+  deu:
+  - basalt
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - basalt
+  Espanisa:
+  - - basalto
+  Fransesa:
+  - - basalte
+  Rusisa:
+  - - базальт "bazalt"
+  Doycisa:
+  - - Basalt
+  Indonesisa:
+  - - basalt
+    - basal
+  Pilipinasa:
+  - - basalto
+  Hindisa:
+  - - बेसाल्ट "besalt"
+    - बसाल्ट "basalt"
+  Arabisa:
+  - - بَازَلْت "bāzalt"
+  Turkisa:
+  - - bazalt
+  Vyetnamsa:
+  - - ba-zan
+  Parsisa:
+  - - بازالت "bâzâlt"
+tags:
+- petra
+raw data:
+  term: basalto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: basalt
+    epo: bazalto
+    spa: basalto
+    deu: Basalt
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: Englisa (basalt), Espanisa (basalto), Fransesa (basalte), Rusisa (базальт
+    "bazalt"), Doycisa (Basalt), Indonesisa (basalt, basal), Pilipinasa (basalto),
+    Hindisa (बेसाल्ट "besalt", बसाल्ट "basalt"), Arabisa (بَازَلْت "bāzalt"), Turkisa
+    (bazalt), Vyetnamsa (ba-zan), Parsisa (بازالت "bâzâlt")
+...

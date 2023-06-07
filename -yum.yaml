@@ -1,0 +1,52 @@
+---
+term: -yum
+slug: -yum
+ipa: "\u02C8-jum"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-jum&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - _ordinal number_
+  epo:
+  - - _vicnomtra numeralo_
+    - -a
+  spa:
+  - - "_n\xFAmero ordinal_"
+search terms:
+  glb:
+  - -yum
+  eng:
+  - ordinal number
+  epo:
+  - vicnomtra numeralo
+  - -a
+  spa:
+  - "n\xFAmero ordinal"
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - "i\xE8me"
+  Parsisa:
+  - - "\u0640\u0645\u200E \u201C-um\u201D"
+raw data:
+  term: -yum
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: _ordinal number_
+    epo: _vicnomtra numeralo_, -a
+    spa: "_n\xFAmero ordinal_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (i\xE8me), Parsisa (\u0640\u0645\u200E \u201C-um\u201D)"
+...

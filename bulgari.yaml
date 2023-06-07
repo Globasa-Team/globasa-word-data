@@ -1,0 +1,52 @@
+---
+term: bulgari
+slug: bulgari
+ipa: "bul\u02C8ga\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=bul\u02C8ga\u027Ei&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Bulgaria
+  epo:
+  - - Bulgario
+    - Bulgarujo
+  spa:
+  - - Bulgaria
+search terms:
+  glb:
+  - bulgari
+  eng:
+  - bulgaria
+  epo:
+  - bulgario
+  - bulgarujo
+  spa:
+  - bulgaria
+etymology_type: NATLNG
+etymology:
+  Bulgarisa:
+  - - "\u0411\u044A\u043B\u0433\u0430\u0440\u0438\u044F \u201CBalgariya\u201D"
+tags:
+- dexa
+raw data:
+  term: Bulgari
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Bulgaria
+    epo: Bulgario, Bulgarujo
+    spa: Bulgaria
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Bulgarisa (\u0411\u044A\u043B\u0433\u0430\u0440\u0438\u044F \u201CBalgariya\u201D)"
+...

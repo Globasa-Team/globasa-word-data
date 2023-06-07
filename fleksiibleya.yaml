@@ -1,0 +1,49 @@
+---
+term: fleksiibleya
+slug: fleksiibleya
+ipa: "fleksii\u02C8bleja"
+ipa link: "http://ipa-reader.xyz/?text=fleksii\u02C8bleja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - flexibility
+  epo:
+  - - fleksebleco
+    - kurbigebleco
+  spa:
+  - - flexibilidad
+search terms:
+  glb:
+  - fleksiibleya
+  eng:
+  - flexibility
+  epo:
+  - fleksebleco
+  - kurbigebleco
+  spa:
+  - flexibilidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/fleksi">fleksi</a> + <a href="../lexi/-ible">-ible</a>
+  + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fleksiibleya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: flexibility
+    epo: fleksebleco, kurbigebleco
+    spa: flexibilidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fleksi + -ible + -ya
+...

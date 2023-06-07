@@ -1,0 +1,67 @@
+---
+term: -fil
+slug: -fil
+ipa: "\u02C8-fil"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-fil&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - inclined (to)
+    - prone (to)
+    - tending (to
+    - towards)
+  epo:
+  - - -ema
+    - -eme
+    - inklina
+    - inkline (al)
+  spa:
+  - - inclinado a
+    - propenso a
+    - tendiente a
+search terms:
+  glb:
+  - -fil
+  eng:
+  - inclined to
+  - inclined
+  - prone to
+  - prone
+  - tending to
+  - tending (to
+  - towards
+  epo:
+  - -ema
+  - -eme
+  - inklina
+  - inkline al
+  - inkline
+  spa:
+  - inclinado a
+  - propenso a
+  - tendiente a
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/fil">fil</a>.
+raw data:
+  term: -fil
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: inclined (to), prone (to), tending (to, towards)
+    epo: -ema, -eme, inklina, inkline (al)
+    spa: inclinado a, propenso a, tendiente a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: inclined, inclined to, prone, prone to, tending, tending to, tending
+    towards
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _fil_.
+...

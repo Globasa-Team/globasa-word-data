@@ -1,0 +1,52 @@
+---
+term: lavenda
+slug: lavenda
+ipa: "la\u02C8venda"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8venda&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lavender (flower)
+  epo:
+  - - lavendo
+  spa:
+  - - lavanda
+    - _Lavandula_
+search terms:
+  glb:
+  - lavenda
+  eng:
+  - lavender flower
+  - lavender
+  epo:
+  - lavendo
+  spa:
+  - lavanda
+  - lavandula
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lavenda
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lavender (flower)
+    epo: lavendo
+    spa: lavanda, _Lavandula_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lavender), Espanisa (lavanda), Fransesa (lavande), Rusisa (\u043B\u0430\u0432\u0430\u043D\u0434\u0430
+    \u201Clavanda\u201D), Doycisa (Lavadel), Indonesisa (lavander), Pilipinasa (labender),
+    Niponsa (\u30E9\u30D9\u30F3\u30C0\u30FC \u201Crabenda\u201D), Turkisa (lavanta),
+    Hangusa (\uB77C\uBCA4\uB354 \u201Crabendo\u201D)"
+...

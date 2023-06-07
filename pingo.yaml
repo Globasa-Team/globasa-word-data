@@ -1,0 +1,56 @@
+---
+term: pingo
+slug: pingo
+ipa: "\u02C8pingo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pingo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - apple
+  epo:
+  - - pomo
+  spa:
+  - - manzana
+    - _Malus domestica_
+search terms:
+  glb:
+  - pingo
+  eng:
+  - apple
+  epo:
+  - pomo
+  spa:
+  - manzana
+  - malus domestica
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u82F9\u679C \u201Cp\xEDnggu\u01D2\u201D"
+  Niponsa:
+  - - "\u6797\u6A8E \u201Cringo\u201D"
+tags:
+- fruta
+- yamxey
+raw data:
+  term: pingo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: apple
+    epo: pomo
+    spa: manzana, _Malus domestica_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Putunhwa (\u82F9\u679C \u201Cp\xEDnggu\u01D2\u201D), Niponsa (\u6797\u6A8E
+    \u201Cringo\u201D)"
+...

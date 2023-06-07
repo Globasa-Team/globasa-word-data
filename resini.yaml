@@ -1,0 +1,62 @@
+---
+term: resini
+slug: resini
+ipa: "\u027Ee\u02C8sini"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8sini&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - resin
+  epo:
+  - - rezino
+  spa:
+  - - resina
+search terms:
+  glb:
+  - resini
+  eng:
+  - resin
+  epo:
+  - rezino
+  spa:
+  - resina
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - resin
+  Indonesisa: ~
+  Espanisa:
+  - - resina
+  Pilipinasa: ~
+  Fransesa:
+  - - "r\xE9sine"
+  Turkisa:
+  - - "re\xE7ine"
+  Parsisa:
+  - - "\u0631\u0632\u06CC\u0646 \u201Crezin\u201D"
+  Swahilisa:
+  - - rezini
+raw data:
+  term: resini
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: resin
+    epo: rezino
+    spa: resina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (resin), Indonesisa, Espanisa (resina), Pilipinasa, Fransesa
+    (r\xE9sine), Turkisa (re\xE7ine), Parsisa (\u0631\u0632\u06CC\u0646 \u201Crezin\u201D),
+    Swahilisa (rezini)"
+...

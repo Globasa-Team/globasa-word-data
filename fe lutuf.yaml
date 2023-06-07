@@ -1,0 +1,50 @@
+---
+term: fe lutuf
+slug: fe lutuf
+ipa: "fe lu\u02C8tuf"
+ipa link: "http://ipa-reader.xyz/?text=fe lu\u02C8tuf&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - please
+  epo:
+  - - bonvolu
+    - mi petas
+  spa:
+  - - por favor
+search terms:
+  glb:
+  - fe lutuf
+  - fe
+  - lutuf
+  eng:
+  - please
+  epo:
+  - bonvolu
+  - mi petas
+  spa:
+  - por favor
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/lutuf">lutuf</a>
+raw data:
+  term: fe lutuf
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: please
+    epo: bonvolu, mi petas
+    spa: por favor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, lutuf
+...

@@ -1,0 +1,52 @@
+---
+term: lefeoko
+slug: lefeoko
+ipa: "lefe\u02C8oko"
+ipa link: "http://ipa-reader.xyz/?text=lefe\u02C8oko&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - foresight
+  - - foresee
+  epo:
+  - - "anta\u016Dvido"
+  - - "anta\u016Dvidi"
+  spa:
+  - - "previsi\xF3n"
+  - - prever
+search terms:
+  glb:
+  - lefeoko
+  eng:
+  - foresight
+  - foresee
+  epo:
+  - "anta\u016Dvido"
+  - "anta\u016Dvidi"
+  spa:
+  - "previsi\xF3n"
+  - prever
+etymology_type: DERIVD
+etymology: <a href="../lexi/lefe-">lefe-</a> + <a href="../lexi/oko">oko</a>
+raw data:
+  term: lefeoko
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: foresight; foresee
+    epo: "anta\u016Dvido; anta\u016Dvidi"
+    spa: "previsi\xF3n; prever"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lefe- + oko
+...

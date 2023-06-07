@@ -1,0 +1,50 @@
+---
+term: hahagi
+slug: hahagi
+ipa: "xa\u02C8xagi"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8xagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - make laugh
+    - cause to laugh
+  epo:
+  - - ridigo
+  - - ridigi
+  spa:
+  - - "hacer re\xEDr"
+search terms:
+  glb:
+  - hahagi
+  eng:
+  - make laugh
+  - cause to laugh
+  epo:
+  - ridigo
+  - ridigi
+  spa:
+  - "hacer re\xEDr"
+etymology_type: DERIVD
+etymology: <a href="../lexi/haha">haha</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: hahagi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: make laugh, cause to laugh
+    epo: ridigo; ridigi
+    spa: "hacer re\xEDr"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: haha + -gi
+...

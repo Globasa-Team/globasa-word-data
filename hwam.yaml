@@ -1,0 +1,59 @@
+---
+term: hwam
+slug: hwam
+ipa: "\u02C8xwam"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xwam&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - yawn
+    - oscitation
+  - - yawn
+    - oscitate
+  epo:
+  - - oscedo
+  - - oscedi
+  spa:
+  - - bostezo
+  - - bostezar
+search terms:
+  glb:
+  - hwam
+  eng:
+    0: yawn
+    1: oscitation
+    3: oscitate
+  epo:
+  - oscedo
+  - oscedi
+  spa:
+  - bostezo
+  - bostezar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hwam
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: yawn, oscitation; yawn, oscitate
+    epo: oscedo; oscedi
+    spa: bostezo; bostezar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "kwasilexi - Englisa (ho-hum, yawn), Fransesa (ouaaah), Doycisa (g\xE4hn),
+    Portugalsa (uah), Indonesisa (hoam), Putunhwa (\u54C8\u6B20 \"hacyan\"), Niponsa
+    (\u30D5\u30EF\u30A2\u30FC\u30A2 \"fuwaaa\"), Hangusa (\uD558\uD488 \"hapum\",
+    \uD558\uC554 \"haam\"), Parsisa (\u062E\u0645\u06CC\u0627\u0632\u0647 \"hamiyaze\"),
+    Swahilisa (mwayo)"
+...

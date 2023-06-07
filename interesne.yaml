@@ -1,0 +1,48 @@
+---
+term: interesne
+slug: interesne
+ipa: "inte\u02C8\u027Eesne"
+ipa link: "http://ipa-reader.xyz/?text=inte\u02C8\u027Eesne&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - interesting
+  epo:
+  - - interesa
+  - - interese
+  spa:
+  - - interesante
+search terms:
+  glb:
+  - interesne
+  eng:
+  - interesting
+  epo:
+  - interesa
+  - interese
+  spa:
+  - interesante
+etymology_type: DERIVD
+etymology: <a href="../lexi/interes">interes</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: interesne
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: interesting
+    epo: interesa; interese
+    spa: interesante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: interes + -ne
+...

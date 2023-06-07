@@ -1,0 +1,52 @@
+---
+term: sudeli
+slug: sudeli
+ipa: "su\u02C8deli"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8deli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - south
+    - southern
+  epo:
+  - - suda
+  - - sude
+  spa:
+  - - del sur
+    - "sure\xF1o"
+search terms:
+  glb:
+  - sudeli
+  eng:
+  - south
+  - southern
+  epo:
+  - suda
+  - sude
+  spa:
+  - del sur
+  - "sure\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sude">sude</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: sudeli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: south, southern
+    epo: suda; sude
+    spa: "del sur, sure\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sude + -li
+...

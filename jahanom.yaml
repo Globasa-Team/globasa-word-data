@@ -1,0 +1,51 @@
+---
+term: jahanom
+slug: jahanom
+ipa: "d\u0361\u0292axa\u02C8nom"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292axa\u02C8nom&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hell
+  epo:
+  - - infero
+  spa:
+  - - "infierno (_religi\xF3n_)"
+search terms:
+  glb:
+  - jahanom
+  eng:
+  - hell
+  epo:
+  - infero
+  spa:
+  - infierno
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- dini
+raw data:
+  term: jahanom
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: hell
+    epo: infero
+    spa: "infierno (_religi\xF3n_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: "Hindisa (\u091C\u0939\u0928\u094D\u0928\u092E \"jahannam\"), Arabisa
+    (\u062C\u064E\u0647\u064E\u0646\u064E\u0651\u0645 \"jahannam\"), Ivrisa (\u05D2\u05B5\u05BC\u05D9\u05D4\u05B4\u05E0\u05BC\u05D5\u05B9\u05DD
+    \"gehinom\"), Turkisa (cehennem), Parsisa (\u062C\u0647\u0646\u0645 \"jahannam\"),
+    Swahilisa (jahanam, jahanumu)"
+...

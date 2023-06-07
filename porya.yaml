@@ -1,0 +1,46 @@
+---
+term: porya
+slug: porya
+ipa: "\u02C8po\u027Eja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8po\u027Eja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - be in exchange for
+  epo:
+  - - "inter\u015Dan\u011Di\u011Di por"
+  spa:
+  - - ser en intercambio por
+search terms:
+  glb:
+  - porya
+  eng:
+  - be in exchange for
+  epo:
+  - "inter\u015Dan\u011Di\u011Di por"
+  spa:
+  - ser en intercambio por
+etymology_type: DERIVD
+etymology: <a href="../lexi/por">por</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: porya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: be in exchange for
+    epo: "inter\u015Dan\u011Di\u011Di por"
+    spa: ser en intercambio por
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: por + -ya
+...

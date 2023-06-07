@@ -1,0 +1,48 @@
+---
+term: printitora
+slug: printitora
+ipa: "p\u027Einti\u02C8to\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Einti\u02C8to\u027Ea&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - printer
+  epo:
+  - - presilo
+    - printilo
+  spa:
+  - - impresora
+search terms:
+  glb:
+  - printitora
+  eng:
+  - printer
+  epo:
+  - presilo
+  - printilo
+  spa:
+  - impresora
+etymology_type: DERIVD
+etymology: <a href="../lexi/printi">printi</a> + <a href="../lexi/tora">tora</a>
+raw data:
+  term: printitora
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: printer
+    epo: presilo, printilo
+    spa: impresora
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: printi + tora
+...

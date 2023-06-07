@@ -1,0 +1,63 @@
+---
+term: gawni
+slug: gawni
+ipa: ˈgawni
+ipa link: http://ipa-reader.xyz/?text=ˈgawni&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gown
+    - robe
+  epo:
+  - - robo
+    - talaro
+  spa:
+  - - bata
+search terms:
+  glb:
+  - gawni
+  eng:
+  - gown
+  - robe
+  epo:
+  - robo
+  - talaro
+  spa:
+  - bata
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gown
+  Indonesisa:
+  - - gaun
+  Niponsa:
+  - - ガウン "gaun"
+  Hangusa:
+  - - 가운 "gaun"
+  Swahilisa:
+  - - gauni
+tags:
+- labas
+raw data:
+  term: gawni
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gown, robe
+    epo: robo, talaro
+    spa: bata
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: Englisa (gown), Indonesisa (gaun), Niponsa (ガウン "gaun"), Hangusa (가운
+    "gaun"), Swahilisa (gauni)
+...

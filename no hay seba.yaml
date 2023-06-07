@@ -1,0 +1,53 @@
+---
+term: no hay seba
+slug: no hay seba
+ipa: "\u02C8no \u02C8xaj \u02C8seba"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8no \u02C8xaj \u02C8seba&voice=Ewa"
+status: false
+category: phrase
+word class: jm
+trans:
+  eng:
+  - - you're welcome
+  epo:
+  - - nedankinde
+  spa:
+  - - de nada
+    - "no hay de qu\xE9"
+search terms:
+  glb:
+  - no hay seba
+  - "no"
+  - hay
+  - seba
+  eng:
+  - you're welcome
+  epo:
+  - nedankinde
+  spa:
+  - de nada
+  - "no hay de qu\xE9"
+etymology_type: DERIVD
+etymology: <a href="../lexi/no">no</a>, <a href="../lexi/hay">hay</a>, <a href="../lexi/seba">seba</a>
+tags:
+- intrelogalexi
+raw data:
+  term: no hay seba
+  category: phrase
+  word class: jm
+  status: false
+  trans:
+    eng: you're welcome
+    epo: nedankinde
+    spa: "de nada, no hay de qu\xE9"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: no, hay, seba
+...

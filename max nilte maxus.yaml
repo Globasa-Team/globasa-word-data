@@ -1,0 +1,46 @@
+---
+term: max nilte maxus
+slug: max nilte maxus
+ipa: "\u02C8ma\u0283 \u02C8nilte ma\u02C8\u0283us"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u0283 \u02C8nilte ma\u02C8\u0283us&voice=Ewa"
+status: false
+category: phrase
+word class: jm
+trans:
+  eng:
+  - - nobody else other than
+  spa:
+  - - "nadie m\xE1s que"
+search terms:
+  glb:
+  - max nilte maxus
+  - max
+  - nilte
+  - maxus
+  eng:
+  - nobody else other than
+  spa:
+  - "nadie m\xE1s que"
+etymology_type: DERIVD
+etymology: <a href="../lexi/max">max</a>, <a href="../lexi/nil">nil</a> + <a href="../lexi/te">te</a>,
+  <a href="../lexi/maxus">maxus</a>
+raw data:
+  term: max nilte maxus
+  category: phrase
+  word class: jm
+  status: false
+  trans:
+    eng: nobody else other than
+    epo: ""
+    spa: "nadie m\xE1s que"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: max, nil + te, maxus
+...

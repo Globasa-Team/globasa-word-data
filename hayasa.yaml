@@ -1,0 +1,50 @@
+---
+term: hayasa
+slug: hayasa
+ipa: "xa\u02C8jasa"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8jasa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Armenian (language)
+  epo:
+  - - la armena (lingvo)
+  spa:
+  - - armenio (_idioma_)
+search terms:
+  glb:
+  - hayasa
+  eng:
+  - armenian language
+  - armenian
+  epo:
+  - la armena lingvo
+  - la armena
+  spa:
+  - armenio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Haya">Haya</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Hayasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Armenian (language)
+    epo: la armena (lingvo)
+    spa: armenio (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Haya + -sa
+...

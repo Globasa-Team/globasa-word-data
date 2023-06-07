@@ -1,0 +1,53 @@
+---
+term: koyote
+slug: koyote
+ipa: "ko\u02C8jote"
+ipa link: "http://ipa-reader.xyz/?text=ko\u02C8jote&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coyote
+  epo:
+  - - kojoto
+  spa:
+  - - coyote
+    - _Canis latrans_
+search terms:
+  glb:
+  - koyote
+  eng:
+  - coyote
+  epo:
+  - kojoto
+  spa:
+  - coyote
+  - canis latrans
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: koyote
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coyote
+    epo: kojoto
+    spa: coyote, _Canis latrans_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (coyote), Espanisa, Fransesa, Rusisa (\u043A\u043E\u0439\u043E\u0442
+    \u201Ckoyot\u201D), Doycisa (Kojote), Indonesisa (koyote), Pilipinasa, Hindisa
+    (\u0915\u093E\u092F\u094B\u091F\u0940 \u201Ckayoti\u201D), Arabisa (\u0642\u064E\u064A\u064F\u0651\u0648\u0637
+    \u201Ckayyut\u201D), Niponsa (\u30B3\u30E8\u30FC\u30C6 \u201Ckoyote\u201D), Keralasa
+    (\u0D15\u0D2F\u0D4B\u0D1F\u0D4D\u0D1F\u0D3F \u201Ckayeati\u201D), Hangusa (\uCF54\uC694\uD14C
+    \u201Ckoyote\u201D), Parsisa (\u06A9\u0627\u06CC\u0648\u062A \u201Ck\xE2yot\u201D)"
+...

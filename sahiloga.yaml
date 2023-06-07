@@ -1,0 +1,50 @@
+---
+term: sahiloga
+slug: sahiloga
+ipa: "saxi\u02C8loga"
+ipa link: "http://ipa-reader.xyz/?text=saxi\u02C8loga&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - be right
+    - be in the right
+  epo:
+  - - praveco
+  - - pravi
+  spa:
+  - - "tener raz\xF3n"
+search terms:
+  glb:
+  - sahiloga
+  eng:
+  - be right
+  - be in the right
+  epo:
+  - praveco
+  - pravi
+  spa:
+  - "tener raz\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sahi">sahi</a> + <a href="../lexi/-loga">-loga</a>
+raw data:
+  term: sahiloga
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: be right, be in the right
+    epo: praveco; pravi
+    spa: "tener raz\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: right, be right, be in the right, in the right
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sahi + -loga
+...

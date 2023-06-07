@@ -1,0 +1,63 @@
+---
+term: darcini
+slug: darcini
+ipa: daɾˈt͡ʃini
+ipa link: http://ipa-reader.xyz/?text=daɾˈt͡ʃini&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cinnamon
+  epo:
+  - - cinamo
+  spa:
+  - - canela
+    - _Cinnamomum_
+search terms:
+  glb:
+  - darcini
+  eng:
+  - cinnamon
+  epo:
+  - cinamo
+  spa:
+  - canela
+  - cinnamomum
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - दारचीनी “darcini”
+  Arabisa:
+  - - دَارْصِينِيّ “darsini”
+  Telugusa:
+  - - దాల్చిన “dalcina”
+  Turkisa:
+  - - tarçın
+  Parsisa:
+  - - دارچین “darcin”
+  Swahilisa:
+  - - dalasini
+tags:
+- yamxey
+raw data:
+  term: darcini
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cinnamon
+    epo: cinamo
+    spa: canela, _Cinnamomum_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Hindisa (दारचीनी “darcini”), Arabisa (دَارْصِينِيّ “darsini”), Telugusa
+    (దాల్చిన “dalcina”), Turkisa (tarçın), Parsisa (دارچین “darcin”), Swahilisa (dalasini)
+...

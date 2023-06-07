@@ -1,0 +1,82 @@
+---
+term: weda
+slug: weda
+ipa: "\u02C8weda"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8weda&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - farewell
+    - bye
+    - goodbye
+  - - bid farewell (to)
+    - say bye (to)
+    - say goodbye (to)
+  epo:
+  - - "adia\u016Do"
+  - - "adia\u016Di"
+  - - "adia\u016D"
+    - "\u011Dis"
+  spa:
+  - - despedida
+  - - despedirse (de)
+  - - "adi\xF3s"
+search terms:
+  glb:
+  - weda
+  eng:
+  - farewell
+  - bye
+  - goodbye
+  - bid farewell to
+  - bid farewell
+  - say bye to
+  - say bye
+  - say goodbye to
+  - say goodbye
+  epo:
+  - "adia\u016Do"
+  - "adia\u016Di"
+  - "adia\u016D"
+  - "\u011Dis"
+  spa:
+  - despedida
+  - despedirse de
+  - despedirse
+  - "adi\xF3s"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0648\u062F\u0627\u0639\u0627 \u201Cwadaan\u201D"
+  Turkisa:
+  - - veda
+  Hindisa:
+  - - "\u092C\u093F\u0926\u093E\u0908 \u201Cbiday\u201D"
+  Karnatakasa:
+  - - "\u0CB5\u0CBF\u0CA6\u0CBE\u0CAF \u201Cvid\u0101ya\u201D"
+tags:
+- intrelogalexi
+raw data:
+  term: weda
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: farewell, bye, goodbye; bid farewell (to), say bye (to), say goodbye (to)
+    epo: "adia\u016Do; adia\u016Di; adia\u016D, \u011Dis"
+    spa: "despedida; despedirse (de); adi\xF3s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: "Arabisa (\u0648\u062F\u0627\u0639\u0627 \u201Cwadaan\u201D), Turkisa
+    (veda), Hindisa (\u092C\u093F\u0926\u093E\u0908 \u201Cbiday\u201D), Karnatakasa
+    (\u0CB5\u0CBF\u0CA6\u0CBE\u0CAF \u201Cvid\u0101ya\u201D)"
+...

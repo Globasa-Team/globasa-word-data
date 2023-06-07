@@ -1,0 +1,59 @@
+---
+term: kardu
+slug: kardu
+ipa: "\u02C8ka\u027Edu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ka\u027Edu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - loan
+  - - lend
+    - borrow
+  epo:
+  - - prunto
+  - - prunti (al/de)
+  spa:
+  - - "pr\xE9stamo"
+  - - prestar
+    - tomar prestado
+search terms:
+  glb:
+  - kardu
+  eng:
+  - loan
+  - lend
+  - borrow
+  epo:
+  - prunto
+  - prunti al/de
+  - prunti
+  spa:
+  - "pr\xE9stamo"
+  - prestar
+  - tomar prestado
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kardu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: loan; lend, borrow
+    epo: prunto; prunti (al/de)
+    spa: "pr\xE9stamo; prestar, tomar prestado"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u0631\u0636 \u201Cqar\u1E0D\u201D), Parsisa (\u0642\u0631\u0636
+    \u06AF\u0631\u0641\u062A\u0646 \u201Cqarz gereftan\u201D, \u0642\u0631\u0636 \u062F\u0627\u062F\u0646
+    \u201Cqarz d\xE2dan\u201D) "
+...

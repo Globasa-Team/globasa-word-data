@@ -1,0 +1,48 @@
+---
+term: -dukan
+slug: -dukan
+ipa: "-du\u02C8kan"
+ipa link: "http://ipa-reader.xyz/?text=-du\u02C8kan&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - store
+  epo:
+  - - -butiko
+    - -vendejo
+  spa:
+  - - tienda
+search terms:
+  glb:
+  - -dukan
+  eng:
+  - store
+  epo:
+  - -butiko
+  - -vendejo
+  spa:
+  - tienda
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/dukan">dukan</a>.
+raw data:
+  term: -dukan
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: store
+    epo: -butiko, -vendejo
+    spa: tienda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _dukan_.
+...

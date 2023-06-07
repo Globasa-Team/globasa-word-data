@@ -1,0 +1,65 @@
+---
+term: xigudo
+slug: xigudo
+ipa: "\u0283i\u02C8gudo"
+ipa link: "http://ipa-reader.xyz/?text=\u0283i\u02C8gudo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - esophagus
+    - oesophagus
+    - gullet
+    - weasand
+  epo:
+  - - ezofago
+  spa:
+  - - "es\xF3fago"
+search terms:
+  glb:
+  - xigudo
+  eng:
+  - esophagus
+  - oesophagus
+  - gullet
+  - weasand
+  epo:
+  - ezofago
+  spa:
+  - "es\xF3fago"
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u98DF\u9053 \"xidaw\""
+    - "\u98DF\u7BA1 \"xigwan\""
+  Niponsa:
+  - - "\u98DF\u9053 \"xokudo\""
+  Vyetnamsa:
+  - - "th\u1EF1c qu\u1EA3n"
+  Hangusa:
+  - - "\uC2DD\uB3C4 \"xigdo\""
+tags:
+- jismulogi
+raw data:
+  term: xigudo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: esophagus, oesophagus, gullet, weasand
+    epo: ezofago
+    spa: "es\xF3fago"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa (\u98DF\u9053 \"xidaw\", \u98DF\u7BA1 \"xigwan\"), Niponsa
+    (\u98DF\u9053 \"xokudo\"), Vyetnamsa (th\u1EF1c qu\u1EA3n), Hangusa (\uC2DD\uB3C4
+    \"xigdo\")"
+...

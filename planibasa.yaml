@@ -1,0 +1,48 @@
+---
+term: planibasa
+slug: planibasa
+ipa: "plani\u02C8basa"
+ipa link: "http://ipa-reader.xyz/?text=plani\u02C8basa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - planned language
+  epo:
+  - - planlingvo
+  spa:
+  - - idioma planeado
+search terms:
+  glb:
+  - planibasa
+  eng:
+  - planned language
+  epo:
+  - planlingvo
+  spa:
+  - idioma planeado
+etymology_type: DERIVD
+etymology: <a href="../lexi/plani">plani</a> + <a href="../lexi/basa">basa</a>
+synonyms:
+- sahaybasa
+raw data:
+  term: planibasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: planned language
+    epo: planlingvo
+    spa: idioma planeado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: sahaybasa
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: plani + basa
+...

@@ -1,0 +1,52 @@
+---
+term: wanguya
+slug: wanguya
+ipa: "wan\u02C8guja"
+ipa link: "http://ipa-reader.xyz/?text=wan\u02C8guja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - kinghood
+    - queenhood
+    - reign
+  epo:
+  - - "re\u011Deco"
+    - "re\u011Dineco"
+  spa:
+  - - reinado
+search terms:
+  glb:
+  - wanguya
+  eng:
+  - kinghood
+  - queenhood
+  - reign
+  epo:
+  - "re\u011Deco"
+  - "re\u011Dineco"
+  spa:
+  - reinado
+etymology_type: DERIVD
+etymology: <a href="../lexi/wangu">wangu</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: wanguya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: kinghood, queenhood, reign
+    epo: "re\u011Deco, re\u011Dineco"
+    spa: reinado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wangu + -ya
+...

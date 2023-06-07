@@ -1,0 +1,55 @@
+---
+term: axam
+slug: axam
+ipa: aˈʃam
+ipa link: http://ipa-reader.xyz/?text=aˈʃam&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - evening
+  epo:
+  - - vespero
+  spa:
+  - - (la) tarde
+search terms:
+  glb:
+  - axam
+  eng:
+  - evening
+  epo:
+  - vespero
+  spa:
+  - la tarde
+  - tarde
+etymology_type: NATLNG
+etymology:
+  Turkisa:
+  - - akşam
+  Hindisa:
+  - - शाम “sham”
+  Parsisa:
+  - - شب “shab”
+tags:
+- din
+raw data:
+  term: axam
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: evening
+    epo: vespero
+    spa: (la) tarde
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: din
+  etymology: Turkisa (akşam), Hindisa (शाम “sham”), Parsisa (شب “shab”)
+...

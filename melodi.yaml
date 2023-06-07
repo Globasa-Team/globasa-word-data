@@ -1,0 +1,49 @@
+---
+term: melodi
+slug: melodi
+ipa: "me\u02C8lodi"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8lodi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - melody
+  epo:
+  - - melodio
+  spa:
+  - - "melod\xEDa"
+search terms:
+  glb:
+  - melodi
+  eng:
+  - melody
+  epo:
+  - melodio
+  spa:
+  - "melod\xEDa"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: melodi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: melody
+    epo: melodio
+    spa: "melod\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (melody), Fransesa (m\xE9lodie), Doycisa (Melodie), Rusisa (\u043C\u0435\u043B\u043E\u0434\u0438\u044F
+    \u201Cmelodiya\u201D), Espanisa (melod\xEDa), Indonesisa (melodi), Pilipinasa
+    (melodiya), Turkisa (melodi), Niponsa (\u30E1\u30ED\u30C7\u30A3\u30FC \u201Cmerod\u012B\u201D),
+    Hangusa (\uBA5C\uB85C\uB514 \u201Cmellodi\u201D)"
+...

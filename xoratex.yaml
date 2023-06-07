@@ -1,0 +1,58 @@
+---
+term: xoratex
+slug: xoratex
+ipa: "\u0283o\u027Ea\u02C8te\u0283"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u027Ea\u02C8te\u0283&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.b
+trans:
+  eng:
+  - - set on fire
+    - catch fire
+  epo:
+  - - "flami\u011Dado"
+    - flamigado
+  - - ekflami
+    - ekflamigi
+    - "flami\u011Di"
+    - flamigi
+  spa:
+  - - empezar a quemarse
+search terms:
+  glb:
+  - xoratex
+  eng:
+  - set on fire
+  - catch fire
+  epo:
+  - "flami\u011Dado"
+  - flamigado
+  - ekflami
+  - ekflamigi
+  - "flami\u011Di"
+  - flamigi
+  spa:
+  - empezar a quemarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor-">xor-</a> + <a href="../lexi/atex">atex</a>
+raw data:
+  term: xoratex
+  category: derived
+  word class: n/f.oro.b
+  status: false
+  trans:
+    eng: set on fire, catch fire
+    epo: "flami\u011Dado, flamigado; ekflami, ekflamigi, flami\u011Di, flamigi"
+    spa: empezar a quemarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xor- + atex
+...

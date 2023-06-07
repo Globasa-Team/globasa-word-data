@@ -1,0 +1,59 @@
+---
+term: cawdar
+slug: cawdar
+ipa: t͡ʃawˈdaɾ
+ipa link: http://ipa-reader.xyz/?text=t͡ʃawˈdaɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rye
+  epo:
+  - - sekalo
+  spa:
+  - - centeno
+    - _Secale cereale_
+search terms:
+  glb:
+  - cawdar
+  eng:
+  - rye
+  epo:
+  - sekalo
+  spa:
+  - centeno
+  - secale cereale
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - جَاوْدَار “jawdar”
+  Turkisa:
+  - - çavdar
+  Parsisa:
+  - - چاودار “cavdar”
+    - جودر “jowdar”
+    - “jawdar”
+tags:
+- yamxey
+raw data:
+  term: cawdar
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rye
+    epo: sekalo
+    spa: centeno, _Secale cereale_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Arabisa (جَاوْدَار “jawdar”), Turkisa (çavdar), Parsisa (چاودار “cavdar”,
+    جودر “jowdar”, “jawdar”)
+...

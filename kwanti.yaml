@@ -1,0 +1,49 @@
+---
+term: kwanti
+slug: kwanti
+ipa: "\u02C8kwanti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kwanti&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - quantity
+    - amount
+  epo:
+  - - kvanto
+  spa:
+  - - cantidad
+search terms:
+  glb:
+  - kwanti
+  eng:
+  - quantity
+  - amount
+  epo:
+  - kvanto
+  spa:
+  - cantidad
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kwanti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: quantity, amount
+    epo: kvanto
+    spa: cantidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (quantity), Doycisa (Quantit\xE4t), Fransesa (quantit\xE9),
+    Espanisa (cantidad), Indonesisa (kuantitas), Hervatskasa (kvantitet)"
+...

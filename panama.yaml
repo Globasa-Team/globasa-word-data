@@ -1,0 +1,50 @@
+---
+term: panama
+slug: panama
+ipa: "pa\u02C8nama"
+ipa link: "http://ipa-reader.xyz/?text=pa\u02C8nama&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Panama
+  epo:
+  - - Panamo
+  spa:
+  - - "Panam\xE1"
+search terms:
+  glb:
+  - panama
+  eng:
+  - panama
+  epo:
+  - panamo
+  spa:
+  - "panam\xE1"
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - "Panam\xE1"
+tags:
+- dexa
+raw data:
+  term: Panama
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Panama
+    epo: Panamo
+    spa: "Panam\xE1"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Espanisa (Panam\xE1)"
+...

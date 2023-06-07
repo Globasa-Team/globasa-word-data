@@ -1,0 +1,100 @@
+---
+term: tesla
+slug: tesla
+ipa: "\u02C8tesla"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tesla&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tesla (unit)
+  epo:
+  - - telso
+  spa:
+  - - tesla
+    - T
+  deu:
+  - - Tesla
+  fra:
+  - - tesla
+  rus:
+  - - "\u0442\u0435\u0441\u043B\u0430"
+  zho:
+  - - "\u7279\u65AF\u62C9"
+search terms:
+  glb:
+  - tesla
+  eng:
+  - tesla unit
+  - tesla
+  epo:
+  - telso
+  spa:
+  - tesla
+  - t
+  deu:
+  - tesla
+  fra:
+  - tesla
+  rus:
+  - "\u0442\u0435\u0441\u043B\u0430"
+  zho:
+  - "\u7279\u65AF\u62C9"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tesla
+  Espanisa:
+  - - tesla
+  Fransesa:
+  - - tesla
+  Rusisa:
+  - - "\u0442\u0435\u0441\u043B\u0430 \u201Ctesla\u201D"
+  Doycisa:
+  - - Tesla
+  Indonesisa:
+  - - tesla
+  Pilipinasa:
+  - - tesla
+  Putunhwa:
+  - - "\u7279\u65AF\u62C9 \u201Ctesila\u201D"
+  Hindisa:
+  - - "\u091F\u0947\u0938\u094D\u0932\u093E \u201Ctesla\u201D"
+  Arabisa:
+  - - "\u062A\u0650\u0633\u0652\u0644\u064E\u0627 \u201Ctisla\u201D"
+  Niponsa:
+  - - "\u30C6\u30B9\u30E9 \u201Ctesura\u201D"
+  Turkisa:
+  - - tesla
+  Hangusa:
+  - - "\uD14C\uC2AC\uB77C \u201Ctesulla\u201D"
+  Vyetnamsa:
+  - - tesla
+  Parsisa:
+  - - "\u062A\u0633\u0644\u0627 \u201Ctesla\u201D"
+raw data:
+  term: tesla
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tesla (unit)
+    epo: telso
+    spa: tesla, T
+    deu: Tesla
+    fra: tesla
+    rus: "\u0442\u0435\u0441\u043B\u0430"
+    zho: "\u7279\u65AF\u62C9"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tesla), Espanisa (tesla), Fransesa (tesla), Rusisa (\u0442\u0435\u0441\u043B\u0430
+    \u201Ctesla\u201D), Doycisa (Tesla), Indonesisa (tesla), Pilipinasa (tesla), Putunhwa
+    (\u7279\u65AF\u62C9 \u201Ctesila\u201D), Hindisa (\u091F\u0947\u0938\u094D\u0932\u093E
+    \u201Ctesla\u201D), Arabisa (\u062A\u0650\u0633\u0652\u0644\u064E\u0627 \u201Ctisla\u201D),
+    Niponsa (\u30C6\u30B9\u30E9 \u201Ctesura\u201D), Turkisa (tesla), Hangusa (\uD14C\uC2AC\uB77C
+    \u201Ctesulla\u201D), Vyetnamsa (tesla), Parsisa (\u062A\u0633\u0644\u0627 \u201Ctesla\u201D)"
+...

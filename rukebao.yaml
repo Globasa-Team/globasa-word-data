@@ -1,0 +1,48 @@
+---
+term: rukebao
+slug: rukebao
+ipa: "\u027Euke\u02C8bao"
+ipa link: "http://ipa-reader.xyz/?text=\u027Euke\u02C8bao&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - backpack
+  epo:
+  - - dorsosako
+    - tornistro
+  spa:
+  - - mochila
+search terms:
+  glb:
+  - rukebao
+  eng:
+  - backpack
+  epo:
+  - dorsosako
+  - tornistro
+  spa:
+  - mochila
+etymology_type: DERIVD
+etymology: <a href="../lexi/ruke">ruke</a> + <a href="../lexi/bao">bao</a>
+raw data:
+  term: rukebao
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: backpack
+    epo: dorsosako, tornistro
+    spa: mochila
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ruke + bao
+...

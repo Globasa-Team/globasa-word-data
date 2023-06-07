@@ -1,0 +1,82 @@
+---
+term: fil
+slug: fil
+ipa: ˈfil
+ipa link: http://ipa-reader.xyz/?text=ˈfil&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - inclined (to)
+    - prone (to)
+    - tending (to
+    - towards)
+  epo:
+  - - -ema
+    - -eme
+    - inklina
+    - inkline (al)
+  spa:
+  - - inclinado a
+    - propenso a
+    - tendiente a
+search terms:
+  glb:
+  - fil
+  eng:
+  - inclined to
+  - inclined
+  - prone to
+  - prone
+  - tending to
+  - tending (to
+  - towards
+  epo:
+  - -ema
+  - -eme
+  - inklina
+  - inkline al
+  - inkline
+  spa:
+  - inclinado a
+  - propenso a
+  - tendiente a
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - -philie
+  Englisa:
+  - - -philia
+  Fransesa:
+  - - -philie
+  Rusisa:
+  - - -филия "-filya"
+  Espanisa:
+  - - -filia
+  Turkisa:
+  - - -fili
+  Pilipinasa:
+  - - -pilya
+raw data:
+  term: fil
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: inclined (to), prone (to), tending (to, towards)
+    epo: -ema, -eme, inklina, inkline (al)
+    spa: inclinado a, propenso a, tendiente a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: inclined, inclined to, prone, prone to, tending, tending to, tending
+    towards
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (-philie), Englisa (-philia), Fransesa (-philie), Rusisa (-филия
+    "-filya"), Espanisa (-filia), Turkisa (-fili), Pilipinasa (-pilya)
+...

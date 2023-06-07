@@ -1,0 +1,48 @@
+---
+term: fekali
+slug: fekali
+ipa: "fe\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=fe\u02C8kali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - fecal
+  epo:
+  - - feka
+  - - feke
+  spa:
+  - - fecal
+search terms:
+  glb:
+  - fekali
+  eng:
+  - fecal
+  epo:
+  - feka
+  - feke
+  spa:
+  - fecal
+etymology_type: DERIVD
+etymology: <a href="../lexi/feka">feka</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: fekali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: fecal
+    epo: feka; feke
+    spa: fecal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: feka + -li
+...

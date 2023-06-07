@@ -1,0 +1,63 @@
+---
+term: soyo
+slug: soyo
+ipa: "\u02C8sojo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sojo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - itch
+  epo:
+  - - juko
+  - - juki
+  spa:
+  - - "comez\xF3n"
+    - picor
+    - escozor
+  - - "dar comez\xF3n"
+    - picar
+    - irritar
+search terms:
+  glb:
+  - soyo
+  eng:
+  - itch
+  epo:
+  - juko
+  - juki
+  spa:
+  - "comez\xF3n"
+  - picor
+  - escozor
+  - "dar comez\xF3n"
+  - picar
+  - irritar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u7619\u75D2 \u201Cs\xE0oy\u01CEng\u201D"
+  Niponsa:
+  - - "\u6414\u75D2 \u201Csoyo\u201D"
+raw data:
+  term: soyo
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: 'itch '
+    epo: juko; juki
+    spa: "comez\xF3n, picor, escozor; dar comez\xF3n, picar, irritar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7619\u75D2 \u201Cs\xE0oy\u01CEng\u201D), Niponsa (\u6414\u75D2
+    \u201Csoyo\u201D)"
+...

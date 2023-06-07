@@ -1,0 +1,49 @@
+---
+term: jame
+slug: jame
+ipa: "\u02C8d\u0361\u0292ame"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ame&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - frozen
+  epo:
+  - - frostigita
+  - - frostigite
+  spa:
+  - - congelado
+search terms:
+  glb:
+  - jame
+  eng:
+  - frozen
+  epo:
+  - frostigita
+  - frostigite
+  spa:
+  - congelado
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jame
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: frozen
+    epo: frostigita; frostigite
+    spa: congelado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u091C\u092E\u0947 \u201Cjame\u201D), Arabisa (\u062C\u064E\u0645\u064E\u062F\u064E\u200E
+    \u201Cjamada\u201D)"
+...

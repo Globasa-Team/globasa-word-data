@@ -1,0 +1,52 @@
+---
+term: hantatul
+slug: hantatul
+ipa: "xanta\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=xanta\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - handle
+  epo:
+  - - manilo
+  spa:
+  - - asa
+    - mango
+    - manija
+    - manilla
+search terms:
+  glb:
+  - hantatul
+  eng:
+  - handle
+  epo:
+  - manilo
+  spa:
+  - asa
+  - mango
+  - manija
+  - manilla
+etymology_type: DERIVD
+etymology: <a href="../lexi/hanta">hanta</a> + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: hantatul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: handle
+    epo: manilo
+    spa: asa, mango, manija, manilla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hanta + -tul
+...

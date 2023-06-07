@@ -1,0 +1,47 @@
+---
+term: latviyen
+slug: latviyen
+ipa: "latvi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=latvi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Latvian (person)
+  epo:
+  - - latvo
+  spa:
+  - - "let\xF3n (_persona_)"
+search terms:
+  glb:
+  - latviyen
+  eng:
+  - latvian person
+  - latvian
+  epo:
+  - latvo
+  spa:
+  - "let\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Latvi">Latvi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Latviyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Latvian (person)
+    epo: latvo
+    spa: "let\xF3n (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Latvi + -yen
+...

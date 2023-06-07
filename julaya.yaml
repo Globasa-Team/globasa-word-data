@@ -1,0 +1,46 @@
+---
+term: julaya
+slug: julaya
+ipa: "d\u0361\u0292u\u02C8laja"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292u\u02C8laja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - separation
+  epo:
+  - - aparteco
+  spa:
+  - - "separaci\xF3n"
+search terms:
+  glb:
+  - julaya
+  eng:
+  - separation
+  epo:
+  - aparteco
+  spa:
+  - "separaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/jula">jula</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: julaya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: separation
+    epo: aparteco
+    spa: "separaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jula + -ya
+...

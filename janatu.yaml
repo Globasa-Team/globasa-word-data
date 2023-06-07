@@ -1,0 +1,53 @@
+---
+term: janatu
+slug: janatu
+ipa: "d\u0361\u0292a\u02C8natu"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8natu&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - heaven
+  epo:
+  - - "(dia) \u0109ielo"
+  spa:
+  - - "cielo (_religi\xF3n_)"
+    - "para\xEDso"
+search terms:
+  glb:
+  - janatu
+  eng:
+  - heaven
+  epo:
+  - "dia \u0109ielo"
+  - "\u0109ielo"
+  spa:
+  - cielo
+  - "para\xEDso"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- dini
+raw data:
+  term: janatu
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: heaven
+    epo: "(dia) \u0109ielo"
+    spa: "cielo (_religi\xF3n_), para\xEDso"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: "Indonesisa (jannah), Hindisa (\u091C\u0928\u094D\u0928\u0924 \"jannat\"),
+    Arabisa (\u062C\u064E\u0646\u064E\u0651\u0629 \"janna\"), Turkisa (cennet), Parsisa
+    (\u062C\u0646\u062A \"jannat\")"
+...

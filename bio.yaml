@@ -1,0 +1,68 @@
+---
+term: bio
+slug: bio
+ipa: ˈbio
+ipa link: http://ipa-reader.xyz/?text=ˈbio&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - life (_organisms_)
+  epo:
+  - - vivo (_organisma_)
+  spa:
+  - - vida (_organismos_)
+search terms:
+  glb:
+  - bio
+  eng:
+  - life
+  epo:
+  - vivo
+  spa:
+  - vida
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - biology
+  Fransesa:
+  - - biologie
+  Doycisa:
+  - - Biologie
+  Rusisa:
+  - - биология “biologiya”
+  Espanisa:
+  - - biología
+  Turkisa:
+  - - biyoloji
+  Indonesisa:
+  - - biologi
+  Pilipinasa:
+  - - biyolohiya
+  Parsisa:
+  - - بیولوژی “bioloži”
+  Swahilisa:
+  - - biolojia
+raw data:
+  term: bio
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: life (_organisms_)
+    epo: vivo (_organisma_)
+    spa: vida (_organismos_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (biology), Fransesa (biologie), Doycisa (Biologie), Rusisa (биология
+    “biologiya”), Espanisa (biología), Turkisa (biyoloji), Indonesisa (biologi), Pilipinasa
+    (biyolohiya), Parsisa (بیولوژی “bioloži”), Swahilisa (biolojia)
+...

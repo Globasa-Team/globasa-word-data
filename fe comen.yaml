@@ -1,0 +1,48 @@
+---
+term: fe comen
+slug: fe comen
+ipa: "fe t\u0361\u0283o\u02C8men"
+ipa link: "http://ipa-reader.xyz/?text=fe t\u0361\u0283o\u02C8men&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - on the side
+  epo:
+  - - "\u0109e la flanko"
+  spa:
+  - - al lado
+search terms:
+  glb:
+  - fe comen
+  - fe
+  - comen
+  eng:
+  - on the side
+  epo:
+  - "\u0109e la flanko"
+  spa:
+  - al lado
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/comen">comen</a>
+raw data:
+  term: fe comen
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: on the side
+    epo: "\u0109e la flanko"
+    spa: al lado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, comen
+...

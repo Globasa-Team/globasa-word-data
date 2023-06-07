@@ -1,0 +1,65 @@
+---
+term: ata
+slug: ata
+ipa: ˈata
+ipa link: http://ipa-reader.xyz/?text=ˈata&voice=Ewa
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - coming
+  - - come
+  epo:
+  - - veno
+  - - veni
+  spa:
+  - - venida
+  - - venir
+search terms:
+  glb:
+  - ata
+  eng:
+  - coming
+  - come
+  epo:
+  - veno
+  - veni
+  spa:
+  - venida
+  - venir
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - أتى “ataa”
+  Hindisa:
+  - - आना “ānā”
+  Indonesisa:
+  - - datang
+  Parsisa:
+  - - آمدن “âmadan”
+  Lyetuvasa:
+  - - ateiti
+antonyms:
+- idi
+raw data:
+  term: ata
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: coming; come
+    epo: veno; veni
+    spa: venida; venir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: idi
+  example: ""
+  tags: ""
+  etymology: Arabisa (أتى “ataa”), Hindisa (आना “ānā”), Indonesisa (datang), Parsisa
+    (آمدن “âmadan”), Lyetuvasa (ateiti)
+...

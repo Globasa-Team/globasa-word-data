@@ -1,0 +1,60 @@
+---
+term: etiraf
+slug: etiraf
+ipa: etiˈɾaf
+ipa link: http://ipa-reader.xyz/?text=etiˈɾaf&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - confession
+  - - confess
+    - admit
+  epo:
+  - - konfeso
+  - - konfesi
+  spa:
+  - - confesión
+  - - confesar
+search terms:
+  glb:
+  - etiraf
+  eng:
+  - confession
+  - confess
+  - admit
+  epo:
+  - konfeso
+  - konfesi
+  spa:
+  - confesión
+  - confesar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - اعترف “aietiraf”
+  Parsisa:
+  - - اعتراف “eteraf”
+  Turkisa:
+  - - itiraf
+raw data:
+  term: etiraf
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: confession; confess, admit
+    epo: konfeso; konfesi
+    spa: confesión; confesar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (اعترف “aietiraf”), Parsisa (اعتراف “eteraf”), Turkisa (itiraf)
+...

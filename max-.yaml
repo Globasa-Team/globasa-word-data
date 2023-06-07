@@ -1,0 +1,48 @@
+---
+term: max-
+slug: max-
+ipa: "\u02C8ma\u0283-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u0283-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - more
+  epo:
+  - - pli-
+  spa:
+  - - "m\xE1s"
+search terms:
+  glb:
+  - max-
+  eng:
+  - more
+  epo:
+  - pli-
+  spa:
+  - "m\xE1s"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/max">max</a>.
+antonyms:
+- min-
+raw data:
+  term: max-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: more
+    epo: pli-
+    spa: "m\xE1s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: min-
+  example: ""
+  tags: ""
+  etymology: Am oko _max_.
+...

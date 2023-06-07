@@ -1,0 +1,74 @@
+---
+term: pendulo
+slug: pendulo
+ipa: "pen\u02C8dulo"
+ipa link: "http://ipa-reader.xyz/?text=pen\u02C8dulo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pendulum
+  epo:
+  - - pendolo
+  spa:
+  - - "p\xE9ndulo"
+search terms:
+  glb:
+  - pendulo
+  eng:
+  - pendulum
+  epo:
+  - pendolo
+  spa:
+  - "p\xE9ndulo"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pendulum
+  Espanisa:
+  - - "p\xE9ndulo"
+  Fransesa:
+  - - pendule
+  Doycisa:
+  - - Pendel
+  Portugalsa:
+  - - "p\xEAndulo"
+  Italisa:
+  - - pendolo
+  Indonesisa:
+  - - bandul
+  Pilipinasa:
+  - - pendulo
+  Arabisa:
+  - - "\u0628\u064E\u0646\u0652\u062F\u064F\u0648\u0644 \"band\u016Bl\""
+  Turkisa:
+  - - "pand\xFCl"
+  Parsisa:
+  - - "\u067E\u0627\u0646\u062F\u0648\u0644 \"p\xE2ndul\""
+  Swahilisa:
+  - - pinduli
+raw data:
+  term: pendulo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pendulum
+    epo: pendolo
+    spa: "p\xE9ndulo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (pendulum), Espanisa (p\xE9ndulo), Fransesa (pendule), Doycisa
+    (Pendel), Portugalsa (p\xEAndulo), Italisa (pendolo), Indonesisa (bandul), Pilipinasa
+    (pendulo), Arabisa (\u0628\u064E\u0646\u0652\u062F\u064F\u0648\u0644 \"band\u016Bl\"),
+    Turkisa (pand\xFCl), Parsisa (\u067E\u0627\u0646\u062F\u0648\u0644 \"p\xE2ndul\"),
+    Swahilisa (pinduli)"
+...

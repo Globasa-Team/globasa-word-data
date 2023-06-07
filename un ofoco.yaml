@@ -1,0 +1,52 @@
+---
+term: un ofoco
+slug: un ofoco
+ipa: "\u02C8un o\u02C8fot\u0361\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8un o\u02C8fot\u0361\u0283o&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - one eighth
+    - an eighth
+  epo:
+  - - okono
+  spa:
+  - - un octavo
+    - una octava parte
+search terms:
+  glb:
+  - un ofoco
+  - un
+  - ofoco
+  eng:
+  - one eighth
+  - an eighth
+  epo:
+  - okono
+  spa:
+  - un octavo
+  - una octava parte
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a>, <a href="../lexi/of-">of-</a> + <a href="../lexi/oco">oco</a>
+raw data:
+  term: un ofoco
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: one eighth, an eighth
+    epo: okono
+    spa: un octavo, una octava parte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un, of- + oco
+...

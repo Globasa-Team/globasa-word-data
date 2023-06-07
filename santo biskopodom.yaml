@@ -1,0 +1,53 @@
+---
+term: santo biskopodom
+slug: santo biskopodom
+ipa: "\u02C8santo biskopo\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8santo biskopo\u02C8dom&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - Holy See
+  epo:
+  - - "Apostola Se\u011Do"
+    - "Sankta Se\u011Do"
+  spa:
+  - - Santa Sede
+search terms:
+  glb:
+  - santo biskopodom
+  - santo
+  - biskopodom
+  eng:
+  - holy see
+  epo:
+  - "apostola se\u011Do"
+  - "sankta se\u011Do"
+  spa:
+  - santa sede
+etymology_type: DERIVD
+etymology: <a href="../lexi/santo">santo</a>, <a href="../lexi/biskopo">biskopo</a>
+  + <a href="../lexi/-dom">-dom</a>
+tags:
+- dexa
+raw data:
+  term: Santo Biskopodom
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: Holy See
+    epo: "Apostola Se\u011Do, Sankta Se\u011Do"
+    spa: Santa Sede
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: santo, biskopo + -dom
+...

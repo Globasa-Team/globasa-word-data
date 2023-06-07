@@ -1,0 +1,52 @@
+---
+term: tonaksyon
+slug: tonaksyon
+ipa: "tonak\u02C8sjon"
+ipa link: "http://ipa-reader.xyz/?text=tonak\u02C8sjon&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - cooperation
+  - - cooperate
+  epo:
+  - - kunago
+  - - kunagi
+  spa:
+  - - "cooperaci\xF3n"
+  - - cooperar
+search terms:
+  glb:
+  - tonaksyon
+  eng:
+  - cooperation
+  - cooperate
+  epo:
+  - kunago
+  - kunagi
+  spa:
+  - "cooperaci\xF3n"
+  - cooperar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton">ton</a> + <a href="../lexi/aksyon">aksyon</a>
+raw data:
+  term: tonaksyon
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: cooperation; cooperate
+    epo: kunago; kunagi
+    spa: "cooperaci\xF3n; cooperar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton + aksyon
+...

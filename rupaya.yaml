@@ -1,0 +1,52 @@
+---
+term: rupaya
+slug: rupaya
+ipa: "\u027Eu\u02C8paja"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8paja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - repayment
+  - - repay
+  epo:
+  - - repago
+  - - repagi
+  spa:
+  - - reembolso
+  - - reembolsar
+search terms:
+  glb:
+  - rupaya
+  eng:
+  - repayment
+  - repay
+  epo:
+  - repago
+  - repagi
+  spa:
+  - reembolso
+  - reembolsar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ru-">ru-</a> + <a href="../lexi/paya">paya</a>
+raw data:
+  term: rupaya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: repayment; repay
+    epo: repago; repagi
+    spa: reembolso; reembolsar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ru- + paya
+...

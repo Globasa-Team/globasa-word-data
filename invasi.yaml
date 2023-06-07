@@ -1,0 +1,54 @@
+---
+term: invasi
+slug: invasi
+ipa: "in\u02C8vasi"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8vasi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - invasion
+  - - invade
+  epo:
+  - - invado
+  - - invadi
+  spa:
+  - - "invasi\xF3n"
+  - - invadir
+search terms:
+  glb:
+  - invasi
+  eng:
+  - invasion
+  - invade
+  epo:
+  - invado
+  - invadi
+  spa:
+  - "invasi\xF3n"
+  - invadir
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: invasi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: invasion; invade
+    epo: invado; invadi
+    spa: "invasi\xF3n; invadir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (invasi), Englisa (invasion), Fransesa (invasion), Doycisa
+    (Invasion), Espanisa (invasi\xF3n), Rusisa (\u0438\u043D\u0432\u0430\u0437\u0438\u044F
+    \u201Cinvaziya\u201D), Indonesisa (invasi), Pilipinasa (imbasyon)"
+...

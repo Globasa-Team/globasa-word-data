@@ -1,0 +1,48 @@
+---
+term: xuxcu
+slug: xuxcu
+ipa: "\u02C8\u0283u\u0283t\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283u\u0283t\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - shush
+  epo:
+  - - "silenti\u011Do"
+  - - "silenti\u011Di"
+  spa:
+  - - callarse
+search terms:
+  glb:
+  - xuxcu
+  eng:
+  - shush
+  epo:
+  - "silenti\u011Do"
+  - "silenti\u011Di"
+  spa:
+  - callarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/xux">xux</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: xuxcu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: shush
+    epo: "silenti\u011Do; silenti\u011Di"
+    spa: callarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xux + -cu
+...

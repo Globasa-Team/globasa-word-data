@@ -1,0 +1,54 @@
+---
+term: hikayeyen
+slug: hikayeyen
+ipa: "xikaje\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=xikaje\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - story teller
+    - storyteller
+    - narrator
+  epo:
+  - - rakonanto
+    - rakontisto
+  spa:
+  - - cuentacuentos
+    - narrador
+search terms:
+  glb:
+  - hikayeyen
+  eng:
+  - story teller
+  - storyteller
+  - narrator
+  epo:
+  - rakonanto
+  - rakontisto
+  spa:
+  - cuentacuentos
+  - narrador
+etymology_type: DERIVD
+etymology: <a href="../lexi/hikaye">hikaye</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: hikayeyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: story teller, storyteller, narrator
+    epo: rakonanto, rakontisto
+    spa: cuentacuentos, narrador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hikaye + -yen
+...

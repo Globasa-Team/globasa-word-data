@@ -1,0 +1,48 @@
+---
+term: yamdukan
+slug: yamdukan
+ipa: "jamdu\u02C8kan"
+ipa link: "http://ipa-reader.xyz/?text=jamdu\u02C8kan&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - grocery store
+  epo:
+  - - nutrovarejo
+  spa:
+  - - tienda de comestibles
+    - mercado
+search terms:
+  glb:
+  - yamdukan
+  eng:
+  - grocery store
+  epo:
+  - nutrovarejo
+  spa:
+  - tienda de comestibles
+  - mercado
+etymology_type: DERIVD
+etymology: <a href="../lexi/yam">yam</a> + <a href="../lexi/-dukan">-dukan</a>
+raw data:
+  term: yamdukan
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: grocery store
+    epo: nutrovarejo
+    spa: tienda de comestibles, mercado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yam + -dukan
+...

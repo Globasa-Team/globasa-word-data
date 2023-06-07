@@ -1,0 +1,57 @@
+---
+term: taluji
+slug: taluji
+ipa: "ta\u02C8lud\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8lud\u0361\u0292i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - snow
+  epo:
+  - - "ne\u011Do"
+  - - "ne\u011Di"
+  spa:
+  - - nieve
+  - - nevar
+search terms:
+  glb:
+  - taluji
+  eng:
+  - snow
+  epo:
+  - "ne\u011Do"
+  - "ne\u011Di"
+  spa:
+  - nieve
+  - nevar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062B\u0644\u062C \u201Cthalj\u201D"
+  Indonesisa:
+  - - salju
+  Swahilisa:
+  - - theluji
+raw data:
+  term: taluji
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: snow
+    epo: "ne\u011Do; ne\u011Di"
+    spa: nieve; nevar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062B\u0644\u062C \u201Cthalj\u201D), Indonesisa (salju),
+    Swahilisa (theluji)"
+...

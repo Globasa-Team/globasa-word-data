@@ -1,0 +1,89 @@
+---
+term: ameba
+slug: ameba
+ipa: aˈmeba
+ipa link: http://ipa-reader.xyz/?text=aˈmeba&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - amoeba
+  epo:
+  - - amebo
+  spa:
+  - - ameba
+    - amiba
+search terms:
+  glb:
+  - ameba
+  eng:
+  - amoeba
+  epo:
+  - amebo
+  spa:
+  - ameba
+  - amiba
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Amöbe
+  Englisa:
+  - - amoeba
+  Espanisa:
+  - - ameba
+  Fransesa:
+  - - amibe
+  Rusisa:
+  - - амёба “amyoba”
+  Putunhwa:
+  - - 阿米巴 “āmǐbā”
+  Niponsa:
+  - - アメーバ “amēba”
+  Hangusa:
+  - - 아메바 “ameba”
+  Vyetnamsa:
+  - - amip
+  Hindisa:
+  - - अमीबा “amībā”
+  Arabisa:
+  - - أَمِيبَا “ʾamībā”
+  Swahilisa:
+  - - amiba
+  Parsisa:
+  - - امیب “amib”
+  Turkisa:
+  - - amip
+  Indonesisa:
+  - - ameba
+    - amuba
+    - amoeba
+  Pilipinasa:
+  - - amoeba
+    - ameba
+tags:
+- bio
+raw data:
+  term: ameba
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: amoeba
+    epo: amebo
+    spa: ameba, amiba
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: bio
+  etymology: Doycisa (Amöbe), Englisa (amoeba), Espanisa (ameba), Fransesa (amibe),
+    Rusisa (амёба “amyoba”), Putunhwa (阿米巴 “āmǐbā”), Niponsa (アメーバ “amēba”), Hangusa
+    (아메바 “ameba”), Vyetnamsa (amip), Hindisa (अमीबा “amībā”), Arabisa (أَمِيبَا “ʾamībā”),
+    Swahilisa (amiba), Parsisa (امیب “amib”), Turkisa (amip), Indonesisa (ameba, amuba,
+    amoeba), Pilipinasa (amoeba, ameba)
+...

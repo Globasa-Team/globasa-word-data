@@ -1,0 +1,46 @@
+---
+term: infraxanse
+slug: infraxanse
+ipa: "inf\u027Ea\u02C8\u0283anse"
+ipa link: "http://ipa-reader.xyz/?text=inf\u027Ea\u02C8\u0283anse&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - disadvantage
+  epo:
+  - - "malavanta\u011Do"
+  spa:
+  - - desventaja
+search terms:
+  glb:
+  - infraxanse
+  eng:
+  - disadvantage
+  epo:
+  - "malavanta\u011Do"
+  spa:
+  - desventaja
+etymology_type: DERIVD
+etymology: <a href="../lexi/infra-">infra-</a> + <a href="../lexi/xanse">xanse</a>
+raw data:
+  term: infraxanse
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: disadvantage
+    epo: "malavanta\u011Do"
+    spa: desventaja
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: infra- + xanse
+...

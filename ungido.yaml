@@ -1,0 +1,50 @@
+---
+term: ungido
+slug: ungido
+ipa: "un\u02C8gido"
+ipa link: "http://ipa-reader.xyz/?text=un\u02C8gido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unified (_in a state of unification_)
+  epo:
+  - - unugita
+  - - unuigite
+  spa:
+  - - "unido (_en un estado de unificaci\xF3n_)"
+    - unificado
+search terms:
+  glb:
+  - ungido
+  eng:
+  - unified
+  epo:
+  - unugita
+  - unuigite
+  spa:
+  - unido
+  - unificado
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a> + <a href="../lexi/-gi">-gi</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: ungido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unified (_in a state of unification_)
+    epo: unugita; unuigite
+    spa: "unido (_en un estado de unificaci\xF3n_), unificado"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un + -gi + -do
+...

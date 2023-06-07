@@ -1,0 +1,47 @@
+---
+term: kaxoke
+slug: kaxoke
+ipa: "ka\u02C8\u0283oke"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8\u0283oke&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - spoon
+  epo:
+  - - kulero
+  spa:
+  - - cuchara
+search terms:
+  glb:
+  - kaxoke
+  eng:
+  - spoon
+  epo:
+  - kulero
+  spa:
+  - cuchara
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kaxoke
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: spoon
+    epo: kulero
+    spa: cuchara
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Turkisa (ka\u015F\u0131k), Parsisa (\u0642\u0627\u0634\u0642 \u201Cqaxoq\u201D),
+    Swahilisa (kijiko)"
+...

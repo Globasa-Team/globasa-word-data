@@ -1,0 +1,51 @@
+---
+term: rahatugi
+slug: rahatugi
+ipa: "\u027Eaxa\u02C8tugi"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eaxa\u02C8tugi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - (cause to) rest
+    - (make) rest
+  epo:
+  - - "pa\u016Dzigo"
+  - - "pa\u016Dzigi"
+  spa:
+  - - poner a descansar
+search terms:
+  glb:
+  - rahatugi
+  eng:
+  - cause to rest
+  - rest
+  - make rest
+  epo:
+  - "pa\u016Dzigo"
+  - "pa\u016Dzigi"
+  spa:
+  - poner a descansar
+etymology_type: DERIVD
+etymology: <a href="../lexi/rahatu">rahatu</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: rahatugi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: (cause to) rest, (make) rest
+    epo: "pa\u016Dzigo; pa\u016Dzigi"
+    spa: poner a descansar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: rahatu + -gi
+...

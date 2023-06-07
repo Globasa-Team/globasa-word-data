@@ -1,0 +1,71 @@
+---
+term: lumen
+slug: lumen
+ipa: "lu\u02C8men"
+ipa link: "http://ipa-reader.xyz/?text=lu\u02C8men&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lumen (unit)
+  epo:
+  - - lumeno
+  spa:
+  - - lumen
+    - lm
+  deu:
+  - - Lumen
+  fra:
+  - - lumen
+  rus:
+  - - "\u043B\u044E\u043C\u0435\u043D"
+  zho:
+  - - "\u6D41\u660E"
+search terms:
+  glb:
+  - lumen
+  eng:
+  - lumen unit
+  - lumen
+  epo:
+  - lumeno
+  spa:
+  - lumen
+  - lm
+  deu:
+  - lumen
+  fra:
+  - lumen
+  rus:
+  - "\u043B\u044E\u043C\u0435\u043D"
+  zho:
+  - "\u6D41\u660E"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lumen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lumen (unit)
+    epo: lumeno
+    spa: lumen, lm
+    deu: Lumen
+    fra: lumen
+    rus: "\u043B\u044E\u043C\u0435\u043D"
+    zho: "\u6D41\u660E"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lumen), Espanisa (lumen), Fransesa (lumen), Rusisa (\u043B\u044E\u043C\u0435\u043D
+    \u201Clyumen\u201D), Doycisa (Lumen), Indonesisa (lumen), Pilipinasa (lumen),
+    Putunhwa (\u6D41\u660E \u201Clyuming\u201D), Hindisa (\u0932\u094D\u092F\u0942\u092E\u0947\u0928
+    \u201Clyumen\u201D), Arabisa (\u0644\u064F\u0648\u0645\u0650\u0646 \u201Clumin\u201D),
+    Niponsa (\u30EB\u30FC\u30E1\u30F3 \u201Crumen\u201D), Turkisa (lumen, l\xFCmen),
+    Hangusa (\uB8E8\uBA58 \u201Crumen\u201D), Vyetnamsa (lumen), Parsisa (\u0644\u0648\u0645\u0646
+    \u201Clumen\u201D)"
+...

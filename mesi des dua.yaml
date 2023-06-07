@@ -1,0 +1,49 @@
+---
+term: mesi des dua
+slug: mesi des dua
+ipa: "\u02C8mesi \u02C8des \u02C8dua"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mesi \u02C8des \u02C8dua&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - December
+  epo:
+  - - Decembro
+  spa:
+  - - diciembre
+search terms:
+  glb:
+  - mesi des dua
+  - mesi
+  - des
+  - dua
+  eng:
+  - december
+  epo:
+  - decembro
+  spa:
+  - diciembre
+etymology_type: DERIVD
+etymology: <a href="../lexi/mesi">mesi</a>, <a href="../lexi/des">des</a>, <a href="../lexi/dua">dua</a>
+raw data:
+  term: mesi des dua
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: December
+    epo: Decembro
+    spa: diciembre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mesi, des, dua
+...

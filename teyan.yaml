@@ -1,0 +1,66 @@
+---
+term: teyan
+slug: teyan
+ipa: "te\u02C8jan"
+ipa link: "http://ipa-reader.xyz/?text=te\u02C8jan&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - offer
+    - proposal
+  - - offer
+    - propose
+    - bid (_in an auction_)
+  epo:
+  - - oferto
+  - - oferti
+  spa:
+  - - oferta
+    - propuesta
+  - - ofrecer
+    - proponer
+search terms:
+  glb:
+  - teyan
+  eng:
+    0: offer
+    1: proposal
+    3: propose
+    4: bid
+  epo:
+  - oferto
+  - oferti
+  spa:
+  - oferta
+  - propuesta
+  - ofrecer
+  - proponer
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u63D0\u6848 \u201Ct\xED'\xE0n\u201D"
+  Niponsa:
+  - - "\u63D0\u6848 \u201Cteian\u201D"
+raw data:
+  term: teyan
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: offer, proposal; offer, propose, bid (_in an auction_)
+    epo: oferto; oferti
+    spa: oferta, propuesta; ofrecer, proponer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u63D0\u6848 \u201Ct\xED'\xE0n\u201D), Niponsa (\u63D0\u6848
+    \u201Cteian\u201D)"
+...

@@ -1,0 +1,47 @@
+---
+term: kolombiyen
+slug: kolombiyen
+ipa: "kolombi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=kolombi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Colombian (person)
+  epo:
+  - - kolombiano
+  spa:
+  - - colombiano (_persona_)
+search terms:
+  glb:
+  - kolombiyen
+  eng:
+  - colombian person
+  - colombian
+  epo:
+  - kolombiano
+  spa:
+  - colombiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kolombi">Kolombi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Kolombiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Colombian (person)
+    epo: kolombiano
+    spa: colombiano (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kolombi + -yen
+...

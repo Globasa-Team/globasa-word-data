@@ -1,0 +1,54 @@
+---
+term: ibada
+slug: ibada
+ipa: "i\u02C8bada"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8bada&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - worship
+  epo:
+  - - adoro
+  - - adori
+  spa:
+  - - "adoraci\xF3n"
+  - - adorar
+search terms:
+  glb:
+  - ibada
+  eng:
+  - worship
+  epo:
+  - adoro
+  - adori
+  spa:
+  - "adoraci\xF3n"
+  - adorar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- dini
+raw data:
+  term: ibada
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: worship
+    epo: adoro; adori
+    spa: "adoraci\xF3n; adorar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: "Arabisa (\u0639\u0628\u0627\u062F\u0629 \u201Cibada\u201D), Parsisa
+    (\u0639\u0628\u0627\u062F\u062A \u201Cebadat\u201D), Indonesisa (ibadah, ibadat),
+    Swahilisa (ibada), Turkisa (ibadet)"
+...

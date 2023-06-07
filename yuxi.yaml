@@ -1,0 +1,64 @@
+---
+term: yuxi
+slug: yuxi
+ipa: "\u02C8ju\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ju\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - game
+    - match (_game
+    - sports_)
+  - - play
+  epo:
+  - - ludo
+  - - ludi
+  spa:
+  - - juego
+  - - jugar
+search terms:
+  glb:
+  - yuxi
+  eng:
+  - game
+  - match game
+  - match (_game
+  - sports
+  - play
+  epo:
+  - ludo
+  - ludi
+  spa:
+  - juego
+  - jugar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6E38\u620F \u201Cy\xF3ux\xEC\u201D"
+  Niponsa:
+  - - "\u904A\u622F \u201Cyugi\u201D"
+  Hangusa:
+  - - "\uC720\uD76C \u201Cyuhui\u201D"
+raw data:
+  term: yuxi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: game, match (_game, sports_); play
+    epo: ludo; ludi
+    spa: juego; jugar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6E38\u620F \u201Cy\xF3ux\xEC\u201D), Niponsa (\u904A\u622F
+    \u201Cyugi\u201D), Hangusa (\uC720\uD76C \u201Cyuhui\u201D)"
+...

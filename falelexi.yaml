@@ -1,0 +1,50 @@
+---
+term: falelexi
+slug: falelexi
+ipa: "fale\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=fale\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - verb
+  epo:
+  - - verbo
+    - i-vorto
+  spa:
+  - - verbo
+search terms:
+  glb:
+  - falelexi
+  eng:
+  - verb
+  epo:
+  - verbo
+  - i-vorto
+  spa:
+  - verbo
+etymology_type: DERIVD
+etymology: <a href="../lexi/fale">fale</a> + <a href="../lexi/-lexi">-lexi</a>
+tags:
+- gramati
+raw data:
+  term: falelexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: verb
+    epo: verbo, i-vorto
+    spa: verbo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gramati
+  etymology: fale + -lexi
+...

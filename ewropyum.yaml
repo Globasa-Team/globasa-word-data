@@ -1,0 +1,82 @@
+---
+term: ewropyum
+slug: ewropyum
+ipa: ewɾoˈpjum
+ipa link: http://ipa-reader.xyz/?text=ewɾoˈpjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - europium
+  epo:
+  - - eŭropio
+  spa:
+  - - europio
+search terms:
+  glb:
+  - ewropyum
+  eng:
+  - europium
+  epo:
+  - eŭropio
+  spa:
+  - europio
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - europium
+  Espanisa:
+  - - europio
+  Arabisa:
+  - - يُرُوبْيُوم “yurubyum”
+  Fransesa:
+  - - europium
+  Rusisa:
+  - - европий “evropiy”
+  Indonesisa:
+  - - europium
+  Doycisa:
+  - - Europium
+  Niponsa:
+  - - ユウロピウム “yuropiumu”
+  Telugusa:
+  - - యూరోపియం “yuropiyam”
+  Turkisa:
+  - - europyum
+  Hangusa:
+  - - 유로퓸 “yuropyum”
+  Vyetnamsa:
+  - - europi
+  Parsisa:
+  - - یوروپیم “yoropyom”
+  Swahilisa:
+  - - europi
+  Pilipinasa:
+  - - eropyo
+tags:
+- kimikali monlari
+raw data:
+  term: ewropyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: europium
+    epo: eŭropio
+    spa: europio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (europium), Espanisa (europio), Arabisa (يُرُوبْيُوم “yurubyum”),
+    Fransesa (europium), Rusisa (европий “evropiy”), Indonesisa (europium), Doycisa
+    (Europium), Niponsa (ユウロピウム “yuropiumu”), Telugusa (యూరోపియం “yuropiyam”), Turkisa
+    (europyum), Hangusa (유로퓸 “yuropyum”), Vyetnamsa (europi), Parsisa (یوروپیم “yoropyom”),
+    Swahilisa (europi), Pilipinasa (eropyo)
+...

@@ -1,0 +1,60 @@
+---
+term: monkrea
+slug: monkrea
+ipa: "mon\u02C8k\u027Eea"
+ipa link: "http://ipa-reader.xyz/?text=mon\u02C8k\u027Eea&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - constitute
+    - compose
+    - form
+    - make up
+  epo:
+  - - konstitui
+    - fari
+    - konsistigi
+  spa:
+  - - constituir
+    - componer
+    - formar
+search terms:
+  glb:
+  - monkrea
+  eng:
+  - constitute
+  - compose
+  - form
+  - make up
+  epo:
+  - konstitui
+  - fari
+  - konsistigi
+  spa:
+  - constituir
+  - componer
+  - formar
+etymology_type: DERIVD
+etymology: <a href="../lexi/mon">mon</a> + <a href="../lexi/krea">krea</a>
+raw data:
+  term: monkrea
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: constitute, compose, form, make up
+    epo: konstitui, fari, konsistigi
+    spa: constituir, componer, formar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mon + krea
+...

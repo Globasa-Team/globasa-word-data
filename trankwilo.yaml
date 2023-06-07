@@ -1,0 +1,67 @@
+---
+term: trankwilo
+slug: trankwilo
+ipa: "t\u027Ean\u02C8kwilo"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Ean\u02C8kwilo&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - calm
+    - calmly
+  epo:
+  - - trankvila
+  - - trankvile
+  spa:
+  - - tranquilo
+search terms:
+  glb:
+  - trankwilo
+  eng:
+  - calm
+  - calmly
+  epo:
+  - trankvila
+  - trankvile
+  spa:
+  - tranquilo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tranquil
+  Fransesa:
+  - - tranquille
+  Nederisa:
+  - - tranquillizer
+  Rusisa:
+  - - "\u0442\u0440\u0430\u043D\u043A\u0432\u0438\u043B\u044C\u043D\u044B\u0439 \u201Ctrankvilniy\u201D"
+  Espanisa:
+  - - tranquilo
+  Azerbayjansa:
+  - - trankvilizatorlar
+  Hindisa: ~
+  Parsisa: ~
+raw data:
+  term: trankwilo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: calm, calmly
+    epo: trankvila; trankvile
+    spa: tranquilo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tranquil), Fransesa (tranquille), Nederisa (tranquillizer),
+    Rusisa (\u0442\u0440\u0430\u043D\u043A\u0432\u0438\u043B\u044C\u043D\u044B\u0439
+    \u201Ctrankvilniy\u201D), Espanisa (tranquilo), Azerbayjansa (trankvilizatorlar),
+    Hindisa, Parsisa"
+...

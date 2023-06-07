@@ -1,0 +1,46 @@
+---
+term: zimbabweyen
+slug: zimbabweyen
+ipa: "zimbabwe\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=zimbabwe\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Zimbabwean
+  epo:
+  - - zimbabvano
+  spa:
+  - - zimbabuense (_persona_)
+search terms:
+  glb:
+  - zimbabweyen
+  eng:
+  - zimbabwean
+  epo:
+  - zimbabvano
+  spa:
+  - zimbabuense
+etymology_type: DERIVD
+etymology: <a href="../lexi/Zimbabwe">Zimbabwe</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Zimbabweyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Zimbabwean
+    epo: zimbabvano
+    spa: zimbabuense (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Zimbabwe + -yen
+...

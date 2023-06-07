@@ -1,0 +1,55 @@
+---
+term: cote
+slug: cote
+ipa: ˈt͡ʃote
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃote&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - short
+    - low
+  epo:
+  - - malalta
+  - - malalte
+  spa:
+  - - bajo
+search terms:
+  glb:
+  - cote
+  eng:
+  - short
+  - low
+  epo:
+  - malalta
+  - malalte
+  spa:
+  - bajo
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - छोटा “cota”
+    - छोटी “coti”
+antonyms:
+- gao
+raw data:
+  term: cote
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: short, low
+    epo: malalta; malalte
+    spa: bajo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: gao
+  example: ""
+  tags: ""
+  etymology: Hindisa (छोटा “cota”, छोटी “coti”)
+...

@@ -1,0 +1,77 @@
+---
+term: nasa
+slug: nasa
+ipa: "\u02C8nasa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nasa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - nose
+  - - smell
+  epo:
+  - - nazo
+  - - flari
+  spa:
+  - - nariz
+  - - oler
+    - olfatear
+search terms:
+  glb:
+  - nasa
+  eng:
+  - nose
+  - smell
+  epo:
+  - nazo
+  - flari
+  spa:
+  - nariz
+  - oler
+  - olfatear
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nose
+    - nasal
+  Fransesa:
+  - - nasal
+  Doycisa:
+  - - nase
+    - nasal
+  Rusisa:
+  - - "\u043D\u0430\u0437\u0430\u043B\u044C\u043D\u044B\u0439 \u201Cnazalny\u201D"
+  Espanisa:
+  - - nasal
+  Swahilisa:
+  - - -nusa
+  Hindisa:
+  - - "\u0928\u093E\u0915 \u201Cnak\u201D"
+  Sinhalasa:
+  - - nasaya
+tags:
+- jismulogi
+raw data:
+  term: nasa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: nose; smell
+    epo: nazo; flari
+    spa: nariz; oler, olfatear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (nose, nasal), Fransesa (nasal), Doycisa (nase, nasal), Rusisa
+    (\u043D\u0430\u0437\u0430\u043B\u044C\u043D\u044B\u0439 \u201Cnazalny\u201D),
+    Espanisa (nasal), Swahilisa (-nusa), Hindisa (\u0928\u093E\u0915 \u201Cnak\u201D),
+    Sinhalasa (nasaya)"
+...

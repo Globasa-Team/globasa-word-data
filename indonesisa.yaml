@@ -1,0 +1,50 @@
+---
+term: indonesisa
+slug: indonesisa
+ipa: "indone\u02C8sisa"
+ipa link: "http://ipa-reader.xyz/?text=indone\u02C8sisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Indonesian (language)
+  epo:
+  - - la indonezia (lingvo)
+  spa:
+  - - indonesio (_idioma_)
+search terms:
+  glb:
+  - indonesisa
+  eng:
+  - indonesian language
+  - indonesian
+  epo:
+  - la indonezia lingvo
+  - la indonezia
+  spa:
+  - indonesio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Indonesi">Indonesi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Indonesisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Indonesian (language)
+    epo: la indonezia (lingvo)
+    spa: indonesio (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Indonesi + -sa
+...

@@ -1,0 +1,48 @@
+---
+term: jubin
+slug: jubin
+ipa: "d\u0361\u0292u\u02C8bin"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292u\u02C8bin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cheese
+  epo:
+  - - "froma\u011Do"
+  spa:
+  - - queso
+search terms:
+  glb:
+  - jubin
+  eng:
+  - cheese
+  epo:
+  - "froma\u011Do"
+  spa:
+  - queso
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: jubin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cheese
+    epo: "froma\u011Do"
+    spa: queso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Arabisa (\u062C\u0628\u0646 \u201Cjubn\u201D), Swahilisa (jibin)"
+...

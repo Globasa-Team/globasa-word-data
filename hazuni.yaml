@@ -1,0 +1,59 @@
+---
+term: hazuni
+slug: hazuni
+ipa: "xa\u02C8zuni"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8zuni&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - sad
+    - sadly
+  epo:
+  - - "malfeli\u0109a"
+    - "mal\u011Doja"
+    - malgaja
+  - - "malfeli\u0109e"
+    - "mal\u011Doje"
+    - malgaje
+  spa:
+  - - triste
+search terms:
+  glb:
+  - hazuni
+  eng:
+  - sad
+  - sadly
+  epo:
+  - "malfeli\u0109a"
+  - "mal\u011Doja"
+  - malgaja
+  - "malfeli\u0109e"
+  - "mal\u011Doje"
+  - malgaje
+  spa:
+  - triste
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hazuni
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: sad, sadly
+    epo: "malfeli\u0109a, mal\u011Doja, malgaja; malfeli\u0109e, mal\u011Doje, malgaje"
+    spa: triste
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u0632\u064A\u0646 \u201Chazin\u201D), Turkisa (hazin),
+    Swahilisa (huzuni)"
+...

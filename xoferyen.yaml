@@ -1,0 +1,59 @@
+---
+term: xoferyen
+slug: xoferyen
+ipa: "\u0283ofe\u02C8\u027Ejen"
+ipa link: "http://ipa-reader.xyz/?text=\u0283ofe\u02C8\u027Ejen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - driver
+  epo:
+  - - kondukanto
+    - kondukisto
+    - veturigisto
+    - stiranto
+    - stiristo
+    - "\u015Doforo"
+    - "a\u016Dtisto ko\u0109ero"
+  spa:
+  - - conductor
+search terms:
+  glb:
+  - xoferyen
+  eng:
+  - driver
+  epo:
+  - kondukanto
+  - kondukisto
+  - veturigisto
+  - stiranto
+  - stiristo
+  - "\u015Doforo"
+  - "a\u016Dtisto ko\u0109ero"
+  spa:
+  - conductor
+etymology_type: DERIVD
+etymology: <a href="../lexi/xofer">xofer</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: xoferyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: driver
+    epo: "kondukanto, kondukisto, veturigisto, stiranto, stiristo, \u015Doforo, a\u016Dtisto
+      ko\u0109ero"
+    spa: conductor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xofer + -yen
+...

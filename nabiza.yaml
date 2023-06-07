@@ -1,0 +1,79 @@
+---
+term: nabiza
+slug: nabiza
+ipa: "na\u02C8biza"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8biza&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - pulse
+    - pulsate
+    - beat
+    - throb
+  epo:
+  - - bato
+    - pulso
+  - - bati
+    - pulsi
+  spa:
+  - - pulso
+    - "palpitaci\xF3n"
+  - - pulsar
+    - palpitar
+search terms:
+  glb:
+  - nabiza
+  eng:
+  - pulse
+  - pulsate
+  - beat
+  - throb
+  epo:
+  - bato
+  - pulso
+  - bati
+  - pulsi
+  spa:
+  - pulso
+  - "palpitaci\xF3n"
+  - pulsar
+  - palpitar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0646\u064E\u0628\u0652\u0636 \"nab\u1E0D\""
+    - "\u0646\u064E\u0628\u064E\u0636\u064E \"naba\u1E0Da\""
+  Turkisa:
+  - - "nab\u0131z"
+  Parsisa:
+  - - "\u0646\u0628\u0636 \"nabz\""
+  Hindisa:
+  - - "\u0928\u092C\u094D\u091C\u093C \"nabz\""
+    - "\u0928\u093E\u0921\u093C\u0940 \"nadi\""
+  Indonesisa:
+  - - nadi
+raw data:
+  term: nabiza
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: pulse, pulsate, beat, throb
+    epo: bato, pulso; bati, pulsi
+    spa: "pulso, palpitaci\xF3n; pulsar, palpitar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0646\u064E\u0628\u0652\u0636 \"nab\u1E0D\", \u0646\u064E\u0628\u064E\u0636\u064E
+    \"naba\u1E0Da\"), Turkisa (nab\u0131z), Parsisa (\u0646\u0628\u0636 \"nabz\"),
+    Hindisa (\u0928\u092C\u094D\u091C\u093C \"nabz\", \u0928\u093E\u0921\u093C\u0940
+    \"nadi\")\nIndonesisa (nadi)"
+...

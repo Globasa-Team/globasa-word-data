@@ -1,0 +1,60 @@
+---
+term: itis
+slug: itis
+ipa: "i\u02C8tis"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8tis&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - inflammation
+  - - inflame
+  epo:
+  - - inflamo
+  - - inflami
+    - inflamigi
+  spa:
+  - - "inflamaci\xF3n"
+  - - inflamar
+    - inflamarse
+search terms:
+  glb:
+  - itis
+  eng:
+  - inflammation
+  - inflame
+  epo:
+  - inflamo
+  - inflami
+  - inflamigi
+  spa:
+  - "inflamaci\xF3n"
+  - inflamar
+  - inflamarse
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: itis
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: inflammation; inflame
+    epo: inflamo; inflami, inflamigi
+    spa: "inflamaci\xF3n; inflamar, inflamarse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (-itis, arthritis), Fransesa (arthrite), Doycisa (Arthritis),
+    Rusisa (\u0430\u0440\u0442\u0440\u0438\u0442 \u201Cartrit\u201D), Espanisa (artritis),
+    Indonesisa (artritis), Turkisa (artrit), Pilipinasa (artritis)"
+...

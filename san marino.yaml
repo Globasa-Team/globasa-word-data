@@ -1,0 +1,54 @@
+---
+term: san marino
+slug: san marino
+ipa: "\u02C8san ma\u02C8\u027Eino"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8san ma\u02C8\u027Eino&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - San Marino
+  epo:
+  - - San-Marino
+    - Sanmarino
+  spa:
+  - - San Marino
+search terms:
+  glb:
+  - san marino
+  - san
+  - marino
+  eng:
+  - san marino
+  epo:
+  - san-marino
+  - sanmarino
+  spa:
+  - san marino
+etymology_type: NATLNG
+etymology:
+  Italisa:
+  - - San Marino
+tags:
+- dexa
+raw data:
+  term: San Marino
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: San Marino
+    epo: San-Marino, Sanmarino
+    spa: San Marino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Italisa (San Marino)
+...

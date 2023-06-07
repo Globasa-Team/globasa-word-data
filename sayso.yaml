@@ -1,0 +1,57 @@
+---
+term: sayso
+slug: sayso
+ipa: "\u02C8sajso"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sajso&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - guess
+  epo:
+  - - konjekto
+    - diveno
+  - - konjekti
+    - diveni
+  spa:
+  - - adivinar
+search terms:
+  glb:
+  - sayso
+  eng:
+  - guess
+  epo:
+  - konjekto
+  - diveno
+  - konjekti
+  - diveni
+  spa:
+  - adivinar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u731C\u6D4B \u201Cc\u0101ic\xE8\u201D"
+  Niponsa:
+  - - "\u63A8\u6E2C \u201Csuisoku\u201D"
+raw data:
+  term: sayso
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: guess
+    epo: konjekto, diveno; konjekti, diveni
+    spa: adivinar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u731C\u6D4B \u201Cc\u0101ic\xE8\u201D), Niponsa (\u63A8\u6E2C
+    \u201Csuisoku\u201D)"
+...

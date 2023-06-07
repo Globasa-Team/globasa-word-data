@@ -1,0 +1,62 @@
+---
+term: yatima
+slug: yatima
+ipa: "ja\u02C8tima"
+ipa link: "http://ipa-reader.xyz/?text=ja\u02C8tima&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - orphan
+  epo:
+  - - orfo
+  spa:
+  - - "hu\xE9rfano"
+search terms:
+  glb:
+  - yatima
+  eng:
+  - orphan
+  epo:
+  - orfo
+  spa:
+  - "hu\xE9rfano"
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - yatim
+  Hindisa:
+  - - "\u092F\u0924\u0940\u092E \u201Cyatim\u201D"
+  Arabisa:
+  - - "\u064A\u064E\u062A\u0650\u064A\u0645 \u201Cyatim\u201D"
+  Turkisa:
+  - - yetim
+  Parsisa:
+  - - "\u06CC\u062A\u06CC\u0645 \u201Cyatim\u201D"
+  Swahilisa:
+  - - yatima
+tags:
+- insan
+raw data:
+  term: yatima
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: orphan
+    epo: orfo
+    spa: "hu\xE9rfano"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: insan
+  etymology: "Indonesisa (yatim), Hindisa (\u092F\u0924\u0940\u092E \u201Cyatim\u201D),
+    Arabisa (\u064A\u064E\u062A\u0650\u064A\u0645 \u201Cyatim\u201D), Turkisa (yetim),
+    Parsisa (\u06CC\u062A\u06CC\u0645 \u201Cyatim\u201D), Swahilisa (yatima)"
+...

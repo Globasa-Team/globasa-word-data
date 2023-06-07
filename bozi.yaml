@@ -1,0 +1,58 @@
+---
+term: bozi
+slug: bozi
+ipa: ˈbozi
+ipa link: http://ipa-reader.xyz/?text=ˈbozi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - goat
+    - _Capra hircus_
+  epo:
+  - - kapro
+  spa:
+  - - cabra
+    - _Capra hircus_
+search terms:
+  glb:
+  - bozi
+  eng:
+  - goat
+  - capra hircus
+  epo:
+  - kapro
+  spa:
+  - cabra
+  - capra hircus
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - بز “boz”
+  Swahilisa:
+  - - mbuzi
+  Portugalsa:
+  - - bode
+tags:
+- hewan
+raw data:
+  term: bozi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: goat, _Capra hircus_
+    epo: kapro
+    spa: cabra, _Capra hircus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Parsisa (بز “boz”), Swahilisa (mbuzi), Portugalsa (bode)
+...

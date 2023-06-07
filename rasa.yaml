@@ -1,0 +1,62 @@
+---
+term: rasa
+slug: rasa
+ipa: "\u02C8\u027Easa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Easa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - race
+  epo:
+  - - raso
+  spa:
+  - - raza
+search terms:
+  glb:
+  - rasa
+  eng:
+  - race
+  epo:
+  - raso
+  spa:
+  - raza
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - race
+  Fransesa:
+  - - race
+  Doycisa:
+  - - Rasse
+  Rusisa:
+  - - "\u0440\u0430\u0441\u0430 \u201Crasa\u201D"
+  Espanisa:
+  - - raza
+  Indonesisa:
+  - - ras
+  Pilipinasa:
+  - - rasismo
+  "": ~
+raw data:
+  term: rasa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: race
+    epo: raso
+    spa: raza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (race), Fransesa (race), Doycisa (Rasse), Rusisa (\u0440\u0430\u0441\u0430
+    \u201Crasa\u201D), Espanisa (raza), Indonesisa (ras), Pilipinasa (rasismo), "
+...

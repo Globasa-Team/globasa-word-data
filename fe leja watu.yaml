@@ -1,0 +1,54 @@
+---
+term: fe leja watu
+slug: fe leja watu
+ipa: "fe \u02C8led\u0361\u0292a \u02C8watu"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8led\u0361\u0292a \u02C8watu&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - lately
+  epo:
+  - - lastatempe
+    - "anta\u016D nelonge"
+    - "fre\u015Ddate"
+  spa:
+  - - "\xFAltimamente"
+search terms:
+  glb:
+  - fe leja watu
+  - fe
+  - leja
+  - watu
+  eng:
+  - lately
+  epo:
+  - lastatempe
+  - "anta\u016D nelonge"
+  - "fre\u015Ddate"
+  spa:
+  - "\xFAltimamente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/le">le</a> + <a href="../lexi/ja">ja</a>,
+  <a href="../lexi/watu">watu</a>
+raw data:
+  term: fe leja watu
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: lately
+    epo: "lastatempe, anta\u016D nelonge, fre\u015Ddate"
+    spa: "\xFAltimamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, le + ja, watu
+...

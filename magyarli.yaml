@@ -1,0 +1,46 @@
+---
+term: magyarli
+slug: magyarli
+ipa: "ma\u02C8gja\u027Eli"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8gja\u027Eli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Hungarian
+  epo:
+  - - hungara
+  spa:
+  - - "h\xFAngaro"
+search terms:
+  glb:
+  - magyarli
+  eng:
+  - hungarian
+  epo:
+  - hungara
+  spa:
+  - "h\xFAngaro"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Magyar">Magyar</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Magyarli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Hungarian
+    epo: hungara
+    spa: "h\xFAngaro"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Magyar + -li
+...

@@ -1,0 +1,53 @@
+---
+term: motor
+slug: motor
+ipa: "mo\u02C8to\u027E"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8to\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - engine
+    - motor
+  epo:
+  - - motoro
+  spa:
+  - - motor
+search terms:
+  glb:
+  - motor
+  eng:
+  - engine
+  - motor
+  epo:
+  - motoro
+  spa:
+  - motor
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: motor
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: engine, motor
+    epo: motoro
+    spa: motor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (motor), Fransesa (moteur), Doycisa (Motor), Rusisa (\u043C\u043E\u0442\u043E\u0440
+    \u201Cmotor\u201D), Espanisa (motor), Arabisa (\u0645\u064F\u0648\u062A\u064F\u0648\u0631
+    \u201Cmutur\u201D), Hindisa (\u092E\u094B\u091F\u0930 \u201Cmotar\u201D), Niponsa
+    (\u30E2\u30FC\u30BF\u30FC \u201Cmota\u201D), Turkisa (motor), Parsisa (\u0645\u0648\u062A\u0648\u0631
+    \u201Cmotor\u201D), Vyetnamsa (m\xF4-t\u01A1), Indonesisa (motor), Pilipinasa
+    (motor)"
+...

@@ -1,0 +1,54 @@
+---
+term: donji
+slug: donji
+ipa: ˈdond͡ʒi
+ipa link: http://ipa-reader.xyz/?text=ˈdond͡ʒi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pupil (_anatomy_)
+  epo:
+  - - pupilo
+  spa:
+  - - pupila
+search terms:
+  glb:
+  - donji
+  eng:
+  - pupil
+  epo:
+  - pupilo
+  spa:
+  - pupila
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 瞳子 "tongdzi"
+  Vyetnamsa:
+  - - đồng tử
+  Hangusa:
+  - - 동자 "dongja"
+tags:
+- jismulogi
+raw data:
+  term: donji
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pupil (_anatomy_)
+    epo: pupilo
+    spa: pupila
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Putunhwa (瞳子 "tongdzi"), Vyetnamsa (đồng tử), Hangusa (동자 "dongja")
+...

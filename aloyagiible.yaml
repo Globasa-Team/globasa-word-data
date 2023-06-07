@@ -1,0 +1,51 @@
+---
+term: aloyagiible
+slug: aloyagiible
+ipa: "alojagi\u02C8ible"
+ipa link: "http://ipa-reader.xyz/?text=alojagi\u02C8ible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - distinguishable
+  epo:
+  - - distingebla
+  - - distingeble
+  spa:
+  - - distinguible
+    - diferenciable
+search terms:
+  glb:
+  - aloyagiible
+  eng:
+  - distinguishable
+  epo:
+  - distingebla
+  - distingeble
+  spa:
+  - distinguible
+  - diferenciable
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/-ya">-ya</a> + <a href="../lexi/-gi">-gi</a>
+  + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: aloyagiible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: distinguishable
+    epo: distingebla; distingeble
+    spa: distinguible, diferenciable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + -ya + -gi + -ible
+...

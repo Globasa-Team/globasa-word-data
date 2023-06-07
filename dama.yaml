@@ -1,0 +1,70 @@
+---
+term: dama
+slug: dama
+ipa: ˈdama
+ipa link: http://ipa-reader.xyz/?text=ˈdama&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - checkers
+    - draughts
+  epo:
+  - - damludo
+    - damoj
+  spa:
+  - - damas (_juego_)
+search terms:
+  glb:
+  - dama
+  eng:
+  - checkers
+  - draughts
+  epo:
+  - damludo
+  - damoj
+  spa:
+  - damas
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - damas
+  Fransesa:
+  - - dames
+  Doycisa:
+  - - Dame
+  Indonesisa:
+  - - dam
+  Pilipinasa:
+  - - dama
+  Turkisa: ~
+  Swahilisa: ~
+  Arabisa:
+  - - دَامَا‎
+    - دَامَة‎
+    - ضَامَة “dama”
+  Parsisa:
+  - - دام “dam”
+raw data:
+  term: dama
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: checkers, draughts
+    epo: damludo, damoj
+    spa: damas (_juego_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (damas), Fransesa (dames), Doycisa (Dame), Indonesisa (dam),
+    Pilipinasa (dama), Turkisa, Swahilisa, Arabisa (دَامَا‎, دَامَة‎, ضَامَة “dama”),
+    Parsisa (دام “dam”)
+...

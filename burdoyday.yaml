@@ -1,0 +1,48 @@
+---
+term: burdoyday
+slug: burdoyday
+ipa: "bu\u027Edoj\u02C8daj"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027Edoj\u02C8daj&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - abuse
+  epo:
+  - - fitrakto
+  - - fitrakti
+  spa:
+  - - abuso
+search terms:
+  glb:
+  - burdoyday
+  eng:
+  - abuse
+  epo:
+  - fitrakto
+  - fitrakti
+  spa:
+  - abuso
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/doyday">doyday</a>
+raw data:
+  term: burdoyday
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: abuse
+    epo: fitrakto; fitrakti
+    spa: abuso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + doyday
+...

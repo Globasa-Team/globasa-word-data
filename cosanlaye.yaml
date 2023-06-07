@@ -1,0 +1,69 @@
+---
+term: cosanlaye
+slug: cosanlaye
+ipa: "t\u0361\u0283osan\u02C8laje"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283osan\u02C8laje&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - commendable
+    - laudable
+    - praiseworthy
+  epo:
+  - - "la\u016Ddinda"
+    - komplimentinda
+    - admirinda
+  - - "la\u016Ddinde"
+    - komplimentinde
+    - admirinde
+  spa:
+  - - admirable
+    - encomiable
+    - laudable
+    - loable
+    - meritorio
+search terms:
+  glb:
+  - cosanlaye
+  eng:
+  - commendable
+  - laudable
+  - praiseworthy
+  epo:
+  - "la\u016Ddinda"
+  - komplimentinda
+  - admirinda
+  - "la\u016Ddinde"
+  - komplimentinde
+  - admirinde
+  spa:
+  - admirable
+  - encomiable
+  - laudable
+  - loable
+  - meritorio
+etymology_type: DERIVD
+etymology: <a href="../lexi/cosan">cosan</a> + <a href="../lexi/-laye">-laye</a>
+raw data:
+  term: cosanlaye
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: commendable, laudable, praiseworthy
+    epo: "la\u016Ddinda, komplimentinda, admirinda; la\u016Ddinde, komplimentinde,
+      admirinde"
+    spa: admirable, encomiable, laudable, loable, meritorio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cosan + -laye
+...

@@ -1,0 +1,58 @@
+---
+term: bumbi
+slug: bumbi
+ipa: ˈbumbi
+ipa link: http://ipa-reader.xyz/?text=ˈbumbi&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - secretion
+  - - secrete
+  epo:
+  - - sekrecio
+  - - sekrecii
+  spa:
+  - - secreción
+  - - secretar
+search terms:
+  glb:
+  - bumbi
+  eng:
+  - secretion
+  - secrete
+  epo:
+  - sekrecio
+  - sekrecii
+  spa:
+  - secreción
+  - secretar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 分泌 “fenmi”
+  Niponsa:
+  - - 分泌 “bumpi”
+  Hangusa:
+  - - 분비하다 “bunbi”
+raw data:
+  term: bumbi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: secretion; secrete
+    epo: sekrecio; sekrecii
+    spa: secreción; secretar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (分泌 “fenmi”), Niponsa (分泌 “bumpi”), Hangusa (분비하다 “bunbi”)
+...

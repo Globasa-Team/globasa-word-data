@@ -1,0 +1,47 @@
+---
+term: bukaxey
+slug: bukaxey
+ipa: "buka\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=buka\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (an) opening
+  epo:
+  - - "malferma\u0135o"
+  spa:
+  - - abertura
+search terms:
+  glb:
+  - bukaxey
+  eng:
+  - an opening
+  - opening
+  epo:
+  - "malferma\u0135o"
+  spa:
+  - abertura
+etymology_type: DERIVD
+etymology: <a href="../lexi/buka">buka</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: bukaxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (an) opening
+    epo: "malferma\u0135o"
+    spa: abertura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: buka + -xey
+...

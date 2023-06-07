@@ -1,0 +1,64 @@
+---
+term: rahema
+slug: rahema
+ipa: "\u027Ea\u02C8xema"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8xema&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mercy
+  epo:
+  - - mizerikordo
+    - korfavoro
+    - kompato
+  spa:
+  - - misericordia
+search terms:
+  glb:
+  - rahema
+  eng:
+  - mercy
+  epo:
+  - mizerikordo
+  - korfavoro
+  - kompato
+  spa:
+  - misericordia
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0631\u064E\u062D\u0652\u0645\u064E\u0629 \u201Crahma\u201D"
+  Indonesisa:
+  - - rahmat
+  Turkisa:
+  - - merhamet
+  Parsisa:
+  - - "\u0631\u062D\u0645 \u201Crahm\u201D"
+  Swahilisa:
+  - - rehema
+  Hindisa:
+  - - "\u0930\u0939\u092E \u201Craham\u201D"
+raw data:
+  term: rahema
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mercy
+    epo: mizerikordo, korfavoro, kompato
+    spa: misericordia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0631\u064E\u062D\u0652\u0645\u064E\u0629 \u201Crahma\u201D),
+    Indonesisa (rahmat), Turkisa (merhamet), Parsisa (\u0631\u062D\u0645 \u201Crahm\u201D),
+    Swahilisa (rehema), Hindisa (\u0930\u0939\u092E \u201Craham\u201D)"
+...

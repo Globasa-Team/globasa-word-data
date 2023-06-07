@@ -1,0 +1,63 @@
+---
+term: pinku
+slug: pinku
+ipa: "\u02C8pinku"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pinku&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - pink
+  epo:
+  - - rozkolora
+    - "palru\u011Da"
+  - - rozkolore
+    - "palru\u011De"
+  spa:
+  - - rosa
+    - rosado
+search terms:
+  glb:
+  - pinku
+  eng:
+  - pink
+  epo:
+  - rozkolora
+  - "palru\u011Da"
+  - rozkolore
+  - "palru\u011De"
+  spa:
+  - rosa
+  - rosado
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pink
+  Niponsa:
+  - - "\u30D4\u30F3\u30AF \u201Cpinku\u201D"
+  Hangusa:
+  - - "\uD551\uD06C\_\u201Cpingku\u201D"
+tags:
+- kolor
+raw data:
+  term: pinku
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: pink
+    epo: "rozkolora, palru\u011Da; rozkolore, palru\u011De"
+    spa: rosa, rosado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: "Englisa (pink), Niponsa (\u30D4\u30F3\u30AF \u201Cpinku\u201D), Hangusa
+    (\uD551\uD06C\_\u201Cpingku\u201D)"
+...

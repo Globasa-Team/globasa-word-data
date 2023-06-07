@@ -1,0 +1,52 @@
+---
+term: exergogi
+slug: exergogi
+ipa: "e\u0283e\u027E\u02C8gogi"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283e\u027E\u02C8gogi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - fire
+    - oust
+  epo:
+  - - maldungado
+  - - maldungi
+    - eksigi
+  spa:
+  - - despedir
+search terms:
+  glb:
+  - exergogi
+  eng:
+  - fire
+  - oust
+  epo:
+  - maldungado
+  - maldungi
+  - eksigi
+  spa:
+  - despedir
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/ergo">ergo</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: exergogi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: fire, oust
+    epo: maldungado; maldungi, eksigi
+    spa: despedir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex- + ergo + -gi
+...

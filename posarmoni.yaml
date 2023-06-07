@@ -1,0 +1,50 @@
+---
+term: posarmoni
+slug: posarmoni
+ipa: "posa\u027E\u02C8moni"
+ipa link: "http://ipa-reader.xyz/?text=posa\u027E\u02C8moni&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - disharmony
+    - conflict
+  epo:
+  - - malharmonio
+  spa:
+  - - "desarmon\xEDa"
+    - conflicto
+search terms:
+  glb:
+  - posarmoni
+  eng:
+  - disharmony
+  - conflict
+  epo:
+  - malharmonio
+  spa:
+  - "desarmon\xEDa"
+  - conflicto
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/armoni">armoni</a>
+raw data:
+  term: posarmoni
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: disharmony, conflict
+    epo: malharmonio
+    spa: "desarmon\xEDa, conflicto"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + armoni
+...

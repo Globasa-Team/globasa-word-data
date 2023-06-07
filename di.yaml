@@ -1,0 +1,53 @@
+---
+term: di
+slug: di
+ipa: di
+ipa link: http://ipa-reader.xyz/?text=di&voice=Ewa
+status: true
+category: root
+word class: par
+trans:
+  eng:
+  - - (_optional) proper noun marker_
+  epo:
+  - - (_nedeviga) markilo de propra nomo_
+  spa:
+  - - _marcador (opcional) de nombre proprio_
+search terms:
+  glb:
+  - di
+  eng:
+  - optional proper noun marker
+  - proper noun marker_
+  epo:
+  - nedeviga markilo de propra nomo
+  - markilo de propra nomo_
+  spa:
+  - marcador opcional de nombre proprio
+  - _marcador de nombre proprio_
+etymology_type: NATLNG
+etymology:
+  Am oko _den_ ji _hin_. Doycisa:
+  - - die
+  Englisa:
+  - - the
+raw data:
+  term: di
+  category: root
+  word class: par
+  status: true
+  trans:
+    eng: (_optional) proper noun marker_
+    epo: (_nedeviga) markilo de propra nomo_
+    spa: _marcador (opcional) de nombre proprio_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _den_ ji _hin_. Doycisa (die), Englisa (the)
+...

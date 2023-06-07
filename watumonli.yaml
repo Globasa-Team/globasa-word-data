@@ -1,0 +1,48 @@
+---
+term: watumonli
+slug: watumonli
+ipa: "watu\u02C8monli"
+ipa link: "http://ipa-reader.xyz/?text=watu\u02C8monli&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - periodic
+  epo:
+  - - perioda
+  - - periode
+  spa:
+  - - "peri\xF3dico"
+search terms:
+  glb:
+  - watumonli
+  eng:
+  - periodic
+  epo:
+  - perioda
+  - periode
+  spa:
+  - "peri\xF3dico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/watumon">watumon</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: watumonli
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: periodic
+    epo: perioda; periode
+    spa: "peri\xF3dico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: watumon + -li
+...

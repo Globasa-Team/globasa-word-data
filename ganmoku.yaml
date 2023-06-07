@@ -1,0 +1,58 @@
+---
+term: ganmoku
+slug: ganmoku
+ipa: ganˈmoku
+ipa link: http://ipa-reader.xyz/?text=ganˈmoku&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bush
+    - shrub
+  epo:
+  - - arbedo
+    - trunkarbusto
+  spa:
+  - - arbusto
+search terms:
+  glb:
+  - ganmoku
+  eng:
+  - bush
+  - shrub
+  epo:
+  - arbedo
+  - trunkarbusto
+  spa:
+  - arbusto
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 灌木 “gwanmu”
+  Niponsa:
+  - - 灌木 “kanboku”
+  Hangusa:
+  - - 관목 “gwanmok”
+tags:
+- planta
+raw data:
+  term: ganmoku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bush, shrub
+    epo: arbedo, trunkarbusto
+    spa: arbusto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta
+  etymology: Putunhwa (灌木 “gwanmu”), Niponsa (灌木 “kanboku”), Hangusa (관목 “gwanmok”)
+...

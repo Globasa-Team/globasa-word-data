@@ -1,0 +1,52 @@
+---
+term: konfortane
+slug: konfortane
+ipa: "konfo\u027E\u02C8tane"
+ipa link: "http://ipa-reader.xyz/?text=konfo\u027E\u02C8tane&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - comfortable (_which comforts_)
+    - comfortably
+  epo:
+  - - komfortanta
+    - komforta
+  - - komfortante
+  spa:
+  - - "c\xF3modo (_que produce comodidad_)"
+search terms:
+  glb:
+  - konfortane
+  eng:
+  - comfortable
+  - comfortably
+  epo:
+  - komfortanta
+  - komforta
+  - komfortante
+  spa:
+  - "c\xF3modo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/konforta">konforta</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: konfortane
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: comfortable (_which comforts_), comfortably
+    epo: komfortanta, komforta; komfortante
+    spa: "c\xF3modo (_que produce comodidad_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: 'Mi haja konfortane sofa. '
+  tags: ""
+  etymology: konforta + -ne
+...

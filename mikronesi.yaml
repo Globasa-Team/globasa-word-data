@@ -1,0 +1,50 @@
+---
+term: mikronesi
+slug: mikronesi
+ipa: "mik\u027Eo\u02C8nesi"
+ipa link: "http://ipa-reader.xyz/?text=mik\u027Eo\u02C8nesi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Micronesia
+  epo:
+  - - Mikronezio
+  spa:
+  - - Micronesia
+search terms:
+  glb:
+  - mikronesi
+  eng:
+  - micronesia
+  epo:
+  - mikronezio
+  spa:
+  - micronesia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Micronesia
+tags:
+- dexa
+raw data:
+  term: Mikronesi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Micronesia
+    epo: Mikronezio
+    spa: Micronesia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Micronesia)
+...

@@ -1,0 +1,56 @@
+---
+term: kom
+slug: kom
+ipa: kom
+ipa link: http://ipa-reader.xyz/?text=kom&voice=Ewa
+status: true
+category: root
+word class: l
+trans:
+  eng:
+  - - as (_comparable to_)
+    - than (_as compared with_)
+  epo:
+  - - ol
+    - kiel
+    - en komparo kun
+  spa:
+  - - que
+    - como
+    - "en comparaci\xF3n con"
+search terms:
+  glb:
+  - kom
+  eng:
+  - as
+  - than
+  epo:
+  - ol
+  - kiel
+  - en komparo kun
+  spa:
+  - que
+  - como
+  - "en comparaci\xF3n con"
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: kom
+  category: root
+  word class: l
+  status: true
+  trans:
+    eng: as (_comparable to_), than (_as compared with_)
+    epo: ol, kiel, en komparo kun
+    spa: "que, como, en comparaci\xF3n con"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _kompara_.
+...

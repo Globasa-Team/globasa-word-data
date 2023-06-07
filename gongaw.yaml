@@ -1,0 +1,65 @@
+---
+term: gongaw
+slug: gongaw
+ipa: gonˈgaw
+ipa link: http://ipa-reader.xyz/?text=gonˈgaw&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - announcement
+    - proclamation
+  - - announce
+    - proclaim
+  epo:
+  - - anonco
+  - - anonci
+  spa:
+  - - anuncio
+    - proclamación
+  - - anunciar
+    - proclamar
+search terms:
+  glb:
+  - gongaw
+  eng:
+  - announcement
+  - proclamation
+  - announce
+  - proclaim
+  epo:
+  - anonco
+  - anonci
+  spa:
+  - anuncio
+  - proclamación
+  - anunciar
+  - proclamar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 公告 “gōnggào”
+    - 通告 “tōnggào”
+  Hangusa:
+  - - 공고 “gong-go”
+raw data:
+  term: gongaw
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: announcement, proclamation; announce, proclaim
+    epo: anonco; anonci
+    spa: anuncio, proclamación; anunciar, proclamar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (公告 “gōnggào”, 通告 “tōnggào”), Hangusa (공고 “gong-go”)
+...

@@ -1,0 +1,48 @@
+---
+term: dayvento
+slug: dayvento
+ipa: "daj\u02C8vento"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8vento&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - gust
+  epo:
+  - - ventego
+  - - ventegi
+  spa:
+  - - "r\xE1faga"
+search terms:
+  glb:
+  - dayvento
+  eng:
+  - gust
+  epo:
+  - ventego
+  - ventegi
+  spa:
+  - "r\xE1faga"
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/vento">vento</a>
+raw data:
+  term: dayvento
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: gust
+    epo: ventego; ventegi
+    spa: "r\xE1faga"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + vento
+...

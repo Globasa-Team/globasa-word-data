@@ -1,0 +1,48 @@
+---
+term: kolombili
+slug: kolombili
+ipa: "kolom\u02C8bili"
+ipa link: "http://ipa-reader.xyz/?text=kolom\u02C8bili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Colombian
+  epo:
+  - - kolombia
+  - - kolombie
+  spa:
+  - - colombiano
+search terms:
+  glb:
+  - kolombili
+  eng:
+  - colombian
+  epo:
+  - kolombia
+  - kolombie
+  spa:
+  - colombiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kolombi">Kolombi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Kolombili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Colombian
+    epo: kolombia; kolombie
+    spa: colombiano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kolombi + -li
+...

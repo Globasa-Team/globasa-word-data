@@ -1,0 +1,58 @@
+---
+term: sekundo
+slug: sekundo
+ipa: "se\u02C8kundo"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8kundo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - second
+  epo:
+  - - sekundo
+  spa:
+  - - segundo
+    - s
+search terms:
+  glb:
+  - sekundo
+  eng:
+  - second
+  epo:
+  - sekundo
+  spa:
+  - segundo
+  - s
+etymology_type: NATLNG
+etymology:
+  Englisa: ~
+  Doycisa: ~
+  Fransesa: ~
+  Espanisa: ~
+  Rusisa: ~
+  Swahilisa:
+  - - sekunde
+  Hindisa:
+  - - "\u0938\u0947\u0915\u0902\u0921 \u201Csekand\u201D"
+raw data:
+  term: sekundo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: second
+    epo: sekundo
+    spa: segundo, s
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa, Doycisa, Fransesa, Espanisa, Rusisa, Swahilisa (sekunde), Hindisa
+    (\u0938\u0947\u0915\u0902\u0921 \u201Csekand\u201D)"
+...

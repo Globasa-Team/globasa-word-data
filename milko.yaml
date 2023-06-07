@@ -1,0 +1,48 @@
+---
+term: milko
+slug: milko
+ipa: "\u02C8milko"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8milko&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - milk
+  epo:
+  - - lakto
+  spa:
+  - - leche
+search terms:
+  glb:
+  - milko
+  eng:
+  - milk
+  epo:
+  - lakto
+  spa:
+  - leche
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: milko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: milk
+    epo: lakto
+    spa: leche
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (milk), Doycisa (Milch), Rusisa (\u043C\u043E\u043B\u043E\u043A\u043E
+    \u201Cmalako\u201D), Niponsa (\u30DF\u30EB\u30AF \u201Cmiruku\u201D), Hangusa
+    (\uBC00\uD06C \u201Cmilkeu\u201D)"
+...

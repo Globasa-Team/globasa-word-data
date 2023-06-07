@@ -1,0 +1,58 @@
+---
+term: switze
+slug: switze
+ipa: "\u02C8switze"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8switze&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Switzerland
+  epo:
+  - - Svislando
+    - Svisio
+    - Svisujo
+  spa:
+  - - Suiza
+search terms:
+  glb:
+  - switze
+  eng:
+  - switzerland
+  epo:
+  - svislando
+  - svisio
+  - svisujo
+  spa:
+  - suiza
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Schweiz
+  Italisa:
+  - - Svizzera
+  Fransesa:
+  - - Suisse
+tags:
+- dexa
+raw data:
+  term: Switze
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Switzerland
+    epo: Svislando, Svisio, Svisujo
+    spa: Suiza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Doycisa (Schweiz), Italisa (Svizzera), Fransesa (Suisse)
+...

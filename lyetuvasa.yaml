@@ -1,0 +1,50 @@
+---
+term: lyetuvasa
+slug: lyetuvasa
+ipa: "ljetu\u02C8vasa"
+ipa link: "http://ipa-reader.xyz/?text=ljetu\u02C8vasa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Lithuanian (language)
+  epo:
+  - - la litova (lingvo)
+  spa:
+  - - lituano (_idioma_)
+search terms:
+  glb:
+  - lyetuvasa
+  eng:
+  - lithuanian language
+  - lithuanian
+  epo:
+  - la litova lingvo
+  - la litova
+  spa:
+  - lituano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Lyetuva">Lyetuva</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Lyetuvasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Lithuanian (language)
+    epo: la litova (lingvo)
+    spa: lituano (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Lyetuva + -sa
+...

@@ -1,0 +1,52 @@
+---
+term: xorjixi
+slug: xorjixi
+ipa: "\u0283o\u027E\u02C8d\u0361\u0292i\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u027E\u02C8d\u0361\u0292i\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - find out
+  epo:
+  - - eksciado
+    - "scii\u011Do"
+  - - ekscii
+    - "scii\u011Di"
+  spa:
+  - - enterarse
+search terms:
+  glb:
+  - xorjixi
+  eng:
+  - find out
+  epo:
+  - eksciado
+  - "scii\u011Do"
+  - ekscii
+  - "scii\u011Di"
+  spa:
+  - enterarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor">xor</a> + <a href="../lexi/jixi">jixi</a>
+raw data:
+  term: xorjixi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: find out
+    epo: "eksciado, scii\u011Do; ekscii, scii\u011Di"
+    spa: enterarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xor + jixi
+...

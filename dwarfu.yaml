@@ -1,0 +1,57 @@
+---
+term: dwarfu
+slug: dwarfu
+ipa: ˈdwaɾfu
+ipa link: http://ipa-reader.xyz/?text=ˈdwaɾfu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - dwarf (_mythology_)
+  epo:
+  - - nano (_mitologio_)
+  spa:
+  - - enano (_mitología_)
+search terms:
+  glb:
+  - dwarfu
+  eng:
+  - dwarf
+  epo:
+  - nano
+  spa:
+  - enano
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - dwarf
+  Doycisa:
+  - - Zwerg
+  Niponsa:
+  - - ドワーフ "dowāfu"
+  Hangusa:
+  - - 드베르그 "duberugu"
+  Parsisa:
+  - - دورف "dwrf"
+raw data:
+  term: dwarfu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: dwarf (_mythology_)
+    epo: nano (_mitologio_)
+    spa: enano (_mitología_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (dwarf), Doycisa (Zwerg), Niponsa (ドワーフ "dowāfu"), Hangusa (드베르그
+    "duberugu"), Parsisa (دورف "dwrf")
+...

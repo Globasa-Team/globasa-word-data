@@ -1,0 +1,66 @@
+---
+term: ibadadom
+slug: ibadadom
+ipa: "ibada\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=ibada\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - church
+    - temple
+    - sanctuary
+    - shrine
+  epo:
+  - - adorejo
+    - "pre\u011Dejo"
+    - kirko
+    - sanktejo
+    - templo
+  spa:
+  - - iglesia
+    - templo
+    - santuario
+search terms:
+  glb:
+  - ibadadom
+  eng:
+  - church
+  - temple
+  - sanctuary
+  - shrine
+  epo:
+  - adorejo
+  - "pre\u011Dejo"
+  - kirko
+  - sanktejo
+  - templo
+  spa:
+  - iglesia
+  - templo
+  - santuario
+etymology_type: DERIVD
+etymology: <a href="../lexi/ibada">ibada</a> + <a href="../lexi/-dom">-dom</a>
+tags:
+- dini
+raw data:
+  term: ibadadom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: church, temple, sanctuary, shrine
+    epo: "adorejo, pre\u011Dejo, kirko, sanktejo, templo"
+    spa: iglesia, templo, santuario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: ibada + -dom
+...

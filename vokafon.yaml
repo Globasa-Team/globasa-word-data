@@ -1,0 +1,46 @@
+---
+term: vokafon
+slug: vokafon
+ipa: "voka\u02C8fon"
+ipa link: "http://ipa-reader.xyz/?text=voka\u02C8fon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - microphone
+  epo:
+  - - mikrofono
+  spa:
+  - - "micr\xF3fono"
+search terms:
+  glb:
+  - vokafon
+  eng:
+  - microphone
+  epo:
+  - mikrofono
+  spa:
+  - "micr\xF3fono"
+etymology_type: DERIVD
+etymology: <a href="../lexi/voka">voka</a> + <a href="../lexi/-fon">-fon</a>
+raw data:
+  term: vokafon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: microphone
+    epo: mikrofono
+    spa: "micr\xF3fono"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: voka + -fon
+...

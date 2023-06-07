@@ -1,0 +1,48 @@
+---
+term: fe tema fe
+slug: fe tema fe
+ipa: "fe \u02C8tema fe"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8tema fe&voice=Ewa"
+status: false
+category: phrase
+word class: jm p
+trans:
+  eng:
+  - - with regards to
+  epo:
+  - - rilate al
+  spa:
+  - - en cuanto a
+search terms:
+  glb:
+  - fe tema fe
+  - fe
+  - tema
+  eng:
+  - with regards to
+  epo:
+  - rilate al
+  spa:
+  - en cuanto a
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/tema">tema</a>, <a href="../lexi/fe">fe</a>
+raw data:
+  term: fe tema fe
+  category: phrase
+  word class: jm p
+  status: false
+  trans:
+    eng: with regards to
+    epo: rilate al
+    spa: en cuanto a
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, tema, fe
+...

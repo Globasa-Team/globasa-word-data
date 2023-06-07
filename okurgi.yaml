@@ -1,0 +1,51 @@
+---
+term: okurgi
+slug: okurgi
+ipa: "o\u02C8ku\u027Egi"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8ku\u027Egi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - commit (_cause to happen
+    - make happen_)
+  epo:
+  - - okazigo
+  - - okazigi
+  spa:
+  - - cometer (_hacer que pase_)
+search terms:
+  glb:
+  - okurgi
+  eng:
+  - commit cause to happen
+  - commit (_cause to happen
+  - make happen
+  epo:
+  - okazigo
+  - okazigi
+  spa:
+  - cometer
+etymology_type: DERIVD
+etymology: <a href="../lexi/okur">okur</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: okurgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: commit (_cause to happen, make happen_)
+    epo: okazigo; okazigi
+    spa: cometer (_hacer que pase_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: okur + -gi
+...

@@ -1,0 +1,50 @@
+---
+term: suprali
+slug: suprali
+ipa: "su\u02C8p\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=su\u02C8p\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - superior
+    - upper
+  epo:
+  - - supra
+  - - supre
+  spa:
+  - - superior
+search terms:
+  glb:
+  - suprali
+  eng:
+  - superior
+  - upper
+  epo:
+  - supra
+  - supre
+  spa:
+  - superior
+etymology_type: DERIVD
+etymology: <a href="../lexi/supra">supra</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: suprali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: superior, upper
+    epo: supra; supre
+    spa: superior
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: supra + -li
+...

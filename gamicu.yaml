@@ -1,0 +1,62 @@
+---
+term: gamicu
+slug: gamicu
+ipa: "ga\u02C8mit\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=ga\u02C8mit\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - wedding
+  - - get married
+    - marry
+  epo:
+  - - "geediz\u011Do"
+    - "edzi\u011Do"
+    - "edzini\u011Do"
+  - - "geediz\u011Di"
+    - "edzi\u011Di"
+    - "edzini\u011Di"
+  spa:
+  - - boda
+  - - casarse
+search terms:
+  glb:
+  - gamicu
+  eng:
+  - wedding
+  - get married
+  - marry
+  epo:
+  - "geediz\u011Do"
+  - "edzi\u011Do"
+  - "edzini\u011Do"
+  - "geediz\u011Di"
+  - "edzi\u011Di"
+  - "edzini\u011Di"
+  spa:
+  - boda
+  - casarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/gami">gami</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: gamicu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: wedding; get married, marry
+    epo: "geediz\u011Do, edzi\u011Do, edzini\u011Do; geediz\u011Di, edzi\u011Di, edzini\u011Di"
+    spa: boda; casarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gami + -cu
+...

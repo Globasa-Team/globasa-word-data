@@ -1,0 +1,50 @@
+---
+term: hawa-
+slug: hawa-
+ipa: "xa\u02C8wa-"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8wa-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - aero-
+    - air-
+  epo:
+  - - aer-
+    - aero-
+  spa:
+  - - aero-
+search terms:
+  glb:
+  - hawa-
+  eng:
+  - aero-
+  - air-
+  epo:
+  - aer-
+  - aero-
+  spa:
+  - aero-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/hawa">hawa</a>.
+raw data:
+  term: hawa-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: aero-, air-
+    epo: aer-, aero-
+    spa: aero-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _hawa_.
+...

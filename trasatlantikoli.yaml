@@ -1,0 +1,49 @@
+---
+term: trasatlantikoli
+slug: trasatlantikoli
+ipa: "t\u027Easatlanti\u02C8koli"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Easatlanti\u02C8koli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - transatlantic
+  epo:
+  - - transatlantika
+  - - transatlantike
+  spa:
+  - - "transatl\xE1ntico"
+search terms:
+  glb:
+  - trasatlantikoli
+  eng:
+  - transatlantic
+  epo:
+  - transatlantika
+  - transatlantike
+  spa:
+  - "transatl\xE1ntico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tras-">tras-</a> + <a href="../lexi/atlantiko">atlantiko</a>
+  + <a href="../lexi/-li">-li</a>
+raw data:
+  term: trasatlantikoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: transatlantic
+    epo: transatlantika; transatlantike
+    spa: "transatl\xE1ntico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tras- + atlantiko + -li
+...

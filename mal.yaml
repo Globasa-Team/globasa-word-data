@@ -1,0 +1,66 @@
+---
+term: mal
+slug: mal
+ipa: "\u02C8mal"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mal&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - wrong
+    - incorrect
+    - mistaken
+  epo:
+  - - misa
+    - "mal\u011Dusta"
+    - erara
+  - - mise
+    - "mal\u011Duste"
+    - erare
+  spa:
+  - - mal
+    - incorrecto
+    - equivocado
+    - "err\xF3neo"
+search terms:
+  glb:
+  - mal
+  eng:
+  - wrong
+  - incorrect
+  - mistaken
+  epo:
+  - misa
+  - "mal\u011Dusta"
+  - erara
+  - mise
+  - "mal\u011Duste"
+  - erare
+  spa:
+  - mal
+  - incorrecto
+  - equivocado
+  - "err\xF3neo"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mal
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: wrong, incorrect, mistaken
+    epo: "misa, mal\u011Dusta, erara; mise, mal\u011Duste, erare"
+    spa: "mal, incorrecto, equivocado, err\xF3neo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (mal), Indonesisa (mali)
+...

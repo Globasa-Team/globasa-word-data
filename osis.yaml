@@ -1,0 +1,68 @@
+---
+term: osis
+slug: osis
+ipa: "o\u02C8sis"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8sis&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pathology
+  epo:
+  - - patologio
+  spa:
+  - - "patolog\xEDa"
+search terms:
+  glb:
+  - osis
+  eng:
+  - pathology
+  epo:
+  - patologio
+  spa:
+  - "patolog\xEDa"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - -osis
+  Espanisa:
+  - - -osis
+  Fransesa:
+  - - -ose
+  Rusisa:
+  - - "-\u043E\u0437 \u201C-oz\u201D"
+  Doycisa:
+  - - -ose
+  Indonesisa:
+  - - -osis
+  Pilipinasa:
+  - - -osis
+  Turkisa:
+  - - -oz
+  Parsisa:
+  - - "-\u0648\u0632 \u201C-oz\u201D"
+tags:
+- medis
+raw data:
+  term: osis
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pathology
+    epo: patologio
+    spa: "patolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (-osis), Espanisa (-osis), Fransesa (-ose), Rusisa (-\u043E\u0437
+    \u201C-oz\u201D), Doycisa (-ose), Indonesisa (-osis), Pilipinasa (-osis), Turkisa
+    (-oz), Parsisa (-\u0648\u0632 \u201C-oz\u201D)"
+...

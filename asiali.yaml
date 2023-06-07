@@ -1,0 +1,48 @@
+---
+term: asiali
+slug: asiali
+ipa: "asi\u02C8ali"
+ipa link: "http://ipa-reader.xyz/?text=asi\u02C8ali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Asian
+  epo:
+  - - azia
+  - - azie
+  spa:
+  - - "asi\xE1tico"
+search terms:
+  glb:
+  - asiali
+  eng:
+  - asian
+  epo:
+  - azia
+  - azie
+  spa:
+  - "asi\xE1tico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Asia">Asia</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Asiali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Asian
+    epo: azia; azie
+    spa: "asi\xE1tico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Asia + -li
+...

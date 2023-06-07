@@ -1,0 +1,48 @@
+---
+term: moyun
+slug: moyun
+ipa: "mo\u02C8jun"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8jun&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - each (one)
+  epo:
+  - - "\u0109iu (unu)"
+  spa:
+  - - cada uno
+search terms:
+  glb:
+  - moyun
+  eng:
+  - each one
+  - each
+  epo:
+  - "\u0109iu unu"
+  - "\u0109iu"
+  spa:
+  - cada uno
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/un">un</a>
+raw data:
+  term: moyun
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: each (one)
+    epo: "\u0109iu (unu)"
+    spa: cada uno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + un
+...

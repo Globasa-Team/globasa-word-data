@@ -1,0 +1,50 @@
+---
+term: argentina
+slug: argentina
+ipa: "a\u027Egen\u02C8tina"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Egen\u02C8tina&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Argentina
+  epo:
+  - - Argentino
+  spa:
+  - - Argentina
+search terms:
+  glb:
+  - argentina
+  eng:
+  - argentina
+  epo:
+  - argentino
+  spa:
+  - argentina
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Argentina
+tags:
+- dexa
+raw data:
+  term: Argentina
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Argentina
+    epo: Argentino
+    spa: Argentina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Argentina)
+...

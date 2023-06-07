@@ -1,0 +1,76 @@
+---
+term: gwaba
+slug: gwaba
+ipa: ˈgwaba
+ipa link: http://ipa-reader.xyz/?text=ˈgwaba&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - guava
+  epo:
+  - - gujavo
+  spa:
+  - - guayaba
+    - _Psidium_
+search terms:
+  glb:
+  - gwaba
+  eng:
+  - guava
+  epo:
+  - gujavo
+  spa:
+  - guayaba
+  - psidium
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - guayaba
+  Niponsa:
+  - - グアバ “guaba”
+  Hangusa:
+  - - 구아바 “guaba”
+  Englisa:
+  - - guava
+  Turkisa:
+  - - guava
+  Fransesa:
+  - - goyave
+  Rusisa:
+  - - гуава “guava”
+  Doycisa:
+  - - Guave
+  Pilipinasa:
+  - - bayabas
+  Arabisa:
+  - - جوافة “juwafa”
+  Parsisa:
+  - - گواوا “gwava”
+tags:
+- fruta
+- yamxey
+raw data:
+  term: gwaba
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: guava
+    epo: gujavo
+    spa: guayaba, _Psidium_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: Espanisa (guayaba), Niponsa (グアバ “guaba”), Hangusa (구아바 “guaba”), Englisa
+    (guava), Turkisa, Fransesa (goyave), Rusisa (гуава “guava”), Doycisa (Guave),
+    Pilipinasa (bayabas), Arabisa (جوافة “juwafa”), Turkisa (guava), Parsisa (گواوا
+    “gwava”)
+...

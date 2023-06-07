@@ -1,0 +1,58 @@
+---
+term: beri
+slug: beri
+ipa: ˈbeɾi
+ipa link: http://ipa-reader.xyz/?text=ˈbeɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - berry
+  epo:
+  - - bero
+  spa:
+  - - baya
+search terms:
+  glb:
+  - beri
+  eng:
+  - berry
+  epo:
+  - bero
+  spa:
+  - baya
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Beere
+  Englisa:
+  - - berry
+  Hindisa:
+  - - बेरी “beri”
+  Telugusa:
+  - - బెర్రీ “berrī”
+tags:
+- fruta
+- yamxey
+raw data:
+  term: beri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: berry
+    epo: bero
+    spa: baya
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: Doycisa (Beere), Englisa (berry), Hindisa (बेरी “beri”), Telugusa (బెర్రీ
+    “berrī”)
+...

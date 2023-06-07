@@ -1,0 +1,52 @@
+---
+term: hambo
+slug: hambo
+ipa: "\u02C8xambo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xambo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ham
+  epo:
+  - - "\u015Dinko"
+  spa:
+  - - "jam\xF3n"
+search terms:
+  glb:
+  - hambo
+  eng:
+  - ham
+  epo:
+  - "\u015Dinko"
+  spa:
+  - "jam\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: hambo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ham
+    epo: "\u015Dinko"
+    spa: "jam\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (ham), Espanisa (jam\xF3n), Fransesa (jambon), Rusisa (\u0445\u0430\u043C\u043E\u043D
+    \"hamon\"), Indonesisa (ham), Pilipinasa (hamon), Hindisa (\u0939\u0948\u092E
+    \"hem\"), Arabisa (\u0647\u064E\u0627\u0645 \"ham\"), Niponsa (\u30CF\u30E0 \"hamu\"),
+    Turkisa (jambon), Vyetnamsa (gi\u0103m-b\xF4ng), Hangusa (\uD584 \"hem\"), Parsisa
+    (\u0698\u0627\u0645\u0628\u0648\u0646 \"jambon\"), Swahilisa (hemu)"
+...

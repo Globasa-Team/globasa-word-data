@@ -1,0 +1,61 @@
+---
+term: esey
+slug: esey
+ipa: eˈsej
+ipa link: http://ipa-reader.xyz/?text=eˈsej&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - essay
+  epo:
+  - - eseo
+  spa:
+  - - ensayo (_texto_)
+search terms:
+  glb:
+  - esey
+  eng:
+  - essay
+  epo:
+  - eseo
+  spa:
+  - ensayo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - essay
+  Doycesa:
+  - - Essay
+  Espanisa:
+  - - ensayo
+  Francesa:
+  - - essai
+  Rusisa:
+  - - эссе “ese”
+  Indonesisa:
+  - - esai
+  'Niponsa: エッセイ':
+  - - essei
+raw data:
+  term: esey
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: essay
+    epo: eseo
+    spa: ensayo (_texto_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'Englisa (essay), Doycesa (Essay), Espanisa (ensayo), Francesa (essai),
+    Rusisa (эссе “ese”), Indonesisa (esai), Niponsa: エッセイ (essei)'
+...

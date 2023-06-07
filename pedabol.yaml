@@ -1,0 +1,50 @@
+---
+term: pedabol
+slug: pedabol
+ipa: "peda\u02C8bol"
+ipa link: "http://ipa-reader.xyz/?text=peda\u02C8bol&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - soccer
+    - football
+  epo:
+  - - piedpilko
+  spa:
+  - - "f\xFAtbol (_soccer_)"
+    - "balompi\xE9"
+search terms:
+  glb:
+  - pedabol
+  eng:
+  - soccer
+  - football
+  epo:
+  - piedpilko
+  spa:
+  - "f\xFAtbol"
+  - "balompi\xE9"
+etymology_type: DERIVD
+etymology: <a href="../lexi/peda">peda</a> + <a href="../lexi/-bol">-bol</a>
+raw data:
+  term: pedabol
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: soccer, football
+    epo: piedpilko
+    spa: "f\xFAtbol (_soccer_), balompi\xE9"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: peda + -bol
+...

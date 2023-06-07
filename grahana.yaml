@@ -1,0 +1,52 @@
+---
+term: grahana
+slug: grahana
+ipa: gɾaˈxana
+ipa link: http://ipa-reader.xyz/?text=gɾaˈxana&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - eclipse
+  epo:
+  - - eklipso
+  spa:
+  - - eclipse
+search terms:
+  glb:
+  - grahana
+  eng:
+  - eclipse
+  epo:
+  - eklipso
+  spa:
+  - eclipse
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - gerhana
+  Hindisa:
+  - - ग्रहण "grahan"
+  Telugusa:
+  - - గ్రహణము "grahanamu"
+raw data:
+  term: grahana
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: eclipse
+    epo: eklipso
+    spa: eclipse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Indonesisa (gerhana), Hindisa (ग्रहण "grahan"), Telugusa (గ్రహణము "grahanamu")
+...

@@ -1,0 +1,51 @@
+---
+term: lalatim
+slug: lalatim
+ipa: "lala\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=lala\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - boy band
+    - girlgroup
+  epo:
+  - - knaba muzikgrupo
+    - knabina muzikgrupo
+  spa:
+  - - "banda (m\xFAsica)"
+search terms:
+  glb:
+  - lalatim
+  eng:
+  - boy band
+  - girlgroup
+  epo:
+  - knaba muzikgrupo
+  - knabina muzikgrupo
+  spa:
+  - "banda m\xFAsica"
+  - banda
+etymology_type: DERIVD
+etymology: <a href="../lexi/lala">lala</a> + <a href="../lexi/-tim">-tim</a>
+raw data:
+  term: lalatim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: boy band, girlgroup
+    epo: knaba muzikgrupo, knabina muzikgrupo
+    spa: "banda (m\xFAsica)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lala + -tim
+...

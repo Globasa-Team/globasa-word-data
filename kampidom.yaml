@@ -1,0 +1,46 @@
+---
+term: kampidom
+slug: kampidom
+ipa: "kampi\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=kampi\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - camp
+  epo:
+  - - kampejo
+  spa:
+  - - campamento
+search terms:
+  glb:
+  - kampidom
+  eng:
+  - camp
+  epo:
+  - kampejo
+  spa:
+  - campamento
+etymology_type: DERIVD
+etymology: <a href="../lexi/kampi">kampi</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: kampidom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: camp
+    epo: kampejo
+    spa: campamento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kampi + -dom
+...

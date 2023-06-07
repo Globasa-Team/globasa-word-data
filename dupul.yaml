@@ -1,0 +1,48 @@
+---
+term: dupul
+slug: dupul
+ipa: "du\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=du\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - _continuative aspect_
+  epo:
+  - - "_da\u016Dra aspekto_"
+  spa:
+  - - _aspecto continuativo_
+    - haber + -do
+search terms:
+  glb:
+  - dupul
+  eng:
+  - continuative aspect
+  epo:
+  - "da\u016Dra aspekto"
+  spa:
+  - aspecto continuativo
+  - haber + -do
+etymology_type: DERIVD
+etymology: <a href="../lexi/du-">du-</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: dupul
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: _continuative aspect_
+    epo: "_da\u016Dra aspekto_"
+    spa: _aspecto continuativo_, haber + -do
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: du- + -pul
+...

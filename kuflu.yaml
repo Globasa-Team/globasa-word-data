@@ -1,0 +1,53 @@
+---
+term: kuflu
+slug: kuflu
+ipa: "\u02C8kuflu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kuflu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - lock
+  epo:
+  - - "\u015Dloso"
+  - - "\u015Dlosi"
+  spa:
+  - - cerradura
+    - candado
+  - - cerrar con llave
+search terms:
+  glb:
+  - kuflu
+  eng:
+  - lock
+  epo:
+  - "\u015Dloso"
+  - "\u015Dlosi"
+  spa:
+  - cerradura
+  - candado
+  - cerrar con llave
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kuflu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: lock
+    epo: "\u015Dloso; \u015Dlosi"
+    spa: cerradura, candado; cerrar con llave
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u064F\u0641\u0652\u0644 \u201Ckufl\u201D), Parsisa (\u0642\u0641\u0644
+    \u201Ckofl\u201D), Swahilisa (kufuli, kifuli)"
+...

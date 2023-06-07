@@ -1,0 +1,59 @@
+---
+term: cipen
+slug: cipen
+ipa: t͡ʃiˈpen
+ipa link: http://ipa-reader.xyz/?text=t͡ʃiˈpen&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - deception
+    - deceit
+  - - deceive
+    - cheat (on somebody)
+  epo:
+  - - trompo
+  - - trompi
+  spa:
+  - - engaño
+  - - engañar
+search terms:
+  glb:
+  - cipen
+  eng:
+  - deception
+  - deceit
+  - deceive
+  - cheat on somebody
+  - cheat
+  epo:
+  - trompo
+  - trompi
+  spa:
+  - engaño
+  - engañar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 欺骗 “qīpiàn”
+raw data:
+  term: cipen
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: deception, deceit; deceive, cheat (on somebody)
+    epo: trompo; trompi
+    spa: engaño; engañar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (欺骗 “qīpiàn”)
+...

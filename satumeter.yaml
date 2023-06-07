@@ -1,0 +1,50 @@
+---
+term: satumeter
+slug: satumeter
+ipa: "satume\u02C8te\u027E"
+ipa link: "http://ipa-reader.xyz/?text=satume\u02C8te\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - clock
+    - watch
+  epo:
+  - - "horlo\u011Do"
+    - "brakhorlo\u011Do"
+  spa:
+  - - reloj
+search terms:
+  glb:
+  - satumeter
+  eng:
+  - clock
+  - watch
+  epo:
+  - "horlo\u011Do"
+  - "brakhorlo\u011Do"
+  spa:
+  - reloj
+etymology_type: DERIVD
+etymology: <a href="../lexi/satu">satu</a> + <a href="../lexi/-meter">-meter</a>
+raw data:
+  term: satumeter
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: clock, watch
+    epo: "horlo\u011Do, brakhorlo\u011Do"
+    spa: reloj
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: satu + -meter
+...

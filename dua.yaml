@@ -1,0 +1,63 @@
+---
+term: dua
+slug: dua
+ipa: ˈdua
+ipa link: http://ipa-reader.xyz/?text=ˈdua&voice=Ewa
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - two
+  epo:
+  - - du
+  spa:
+  - - dos
+search terms:
+  glb:
+  - dua
+  eng:
+  - two
+  epo:
+  - du
+  spa:
+  - dos
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - dual
+  Espanisa:
+  - - dos
+  Rusisa:
+  - - два “dva”
+  Banglasa:
+  - - দুই “du'i”
+  Hindisa:
+  - - दो “do”
+  Parsisa:
+  - - دو “do”
+  Indonesisa:
+  - - dua
+  Hangusa:
+  - - 두 “du”
+raw data:
+  term: dua
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: two
+    epo: du
+    spa: dos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (dual), Espanisa (dos), Rusisa (два “dva”), Banglasa (দুই “du'i”),
+    Hindisa (दो “do”), Parsisa (دو “do”), Indonesisa (dua), Hangusa (두 “du”)
+...

@@ -1,0 +1,55 @@
+---
+term: meme
+slug: meme
+ipa: "\u02C8meme"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8meme&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sheep
+    - _Ovis aries_
+  epo:
+  - - "\u015Dafo"
+  spa:
+  - - oveja
+    - _Ovis aries_
+search terms:
+  glb:
+  - meme
+  eng:
+  - sheep
+  - ovis aries
+  epo:
+  - "\u015Dafo"
+  spa:
+  - oveja
+  - ovis aries
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: meme
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sheep, _Ovis aries_
+    epo: "\u015Dafo"
+    spa: oveja, _Ovis aries_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "kwasilexi - Niponsa (\u30E1\u30FC\u30E1\u30FC \"m\u0113 m\u0113\"),
+    Hangusa (\uB9E4 \"mae\"), Turkisa (me, mee, melemek), Pilipinasa (mee, me, mumee),
+    Doycisa (m\xE4h), Arabisa (\u0645\u0623\u0645\u0623\u0629 \"ma'ma'a\"), Putunhwa
+    (\u54A9 \"mi\u0113\"), Indonesisa (mbee)"
+...

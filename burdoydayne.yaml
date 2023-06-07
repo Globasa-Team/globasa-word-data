@@ -1,0 +1,51 @@
+---
+term: burdoydayne
+slug: burdoydayne
+ipa: "bu\u027Edoj\u02C8dajne"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027Edoj\u02C8dajne&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - abusive
+  epo:
+  - - fitraktanta
+    - fitrakta
+  - - fitraktante
+  spa:
+  - - abusivo
+search terms:
+  glb:
+  - burdoydayne
+  eng:
+  - abusive
+  epo:
+  - fitraktanta
+  - fitrakta
+  - fitraktante
+  spa:
+  - abusivo
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/doyday">doyday</a> +
+  <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: burdoydayne
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: abusive
+    epo: fitraktanta, fitrakta; fitraktante
+    spa: abusivo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + doyday + -ne
+...

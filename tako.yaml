@@ -1,0 +1,50 @@
+---
+term: tako
+slug: tako
+ipa: "\u02C8tako"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tako&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - taco
+  epo:
+  - - tako
+  spa:
+  - - taco
+search terms:
+  glb:
+  - tako
+  eng:
+  - taco
+  epo:
+  - tako
+  spa:
+  - taco
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - taco
+tags:
+- yamxey
+raw data:
+  term: tako
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: taco
+    epo: tako
+    spa: taco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Espanisa (taco)
+...

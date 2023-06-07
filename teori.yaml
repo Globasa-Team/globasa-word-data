@@ -1,0 +1,66 @@
+---
+term: teori
+slug: teori
+ipa: "te\u02C8o\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=te\u02C8o\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - theory
+  epo:
+  - - teorio
+  spa:
+  - - "teor\xEDa"
+search terms:
+  glb:
+  - teori
+  eng:
+  - theory
+  epo:
+  - teorio
+  spa:
+  - "teor\xEDa"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - theory
+  Fransesa:
+  - - "th\xE9orie"
+  Doycisa:
+  - - Theorie
+  Rusisa:
+  - - "\u0442\u0435\u043E\u0440\u0438\u044F \u201Cteoriya\u201D"
+  Espanisa:
+  - - "teor\xEDa"
+  Turkisa:
+  - - teori
+  Indonesisa:
+  - - teori
+  Pilipinasa:
+  - - teorya
+  Parsisa:
+  - - "\u062A\u0626\u0648\u0631\u06CC \u201Cteori\u201D"
+raw data:
+  term: teori
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: theory
+    epo: teorio
+    spa: "teor\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (theory), Fransesa (th\xE9orie), Doycisa (Theorie), Rusisa (\u0442\u0435\u043E\u0440\u0438\u044F
+    \u201Cteoriya\u201D), Espanisa (teor\xEDa), Turkisa (teori), Indonesisa (teori),
+    Pilipinasa (teorya), Parsisa (\u062A\u0626\u0648\u0631\u06CC \u201Cteori\u201D)"
+...

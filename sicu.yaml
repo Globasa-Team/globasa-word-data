@@ -1,0 +1,48 @@
+---
+term: sicu
+slug: sicu
+ipa: "\u02C8sit\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sit\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - become yes
+  epo:
+  - - "jesi\u011Dado"
+  - - "jesi\u011Di"
+  spa:
+  - - "volverse s\xED"
+search terms:
+  glb:
+  - sicu
+  eng:
+  - become yes
+  epo:
+  - "jesi\u011Dado"
+  - "jesi\u011Di"
+  spa:
+  - "volverse s\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/si">si</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: sicu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: become yes
+    epo: "jesi\u011Dado; jesi\u011Di"
+    spa: "volverse s\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: si + -cu
+...

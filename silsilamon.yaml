@@ -1,0 +1,48 @@
+---
+term: silsilamon
+slug: silsilamon
+ipa: "silsila\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=silsila\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - link (_of chain_)
+  epo:
+  - - "\u0109enero"
+    - katenero
+  spa:
+  - - "eslab\xF3n (_de cadena_)"
+search terms:
+  glb:
+  - silsilamon
+  eng:
+  - link
+  epo:
+  - "\u0109enero"
+  - katenero
+  spa:
+  - "eslab\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/silsila">silsila</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: silsilamon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: link (_of chain_)
+    epo: "\u0109enero, katenero"
+    spa: "eslab\xF3n (_de cadena_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: silsila + -mon
+...

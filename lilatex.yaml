@@ -1,0 +1,46 @@
+---
+term: lilatex
+slug: lilatex
+ipa: "lila\u02C8te\u0283"
+ipa link: "http://ipa-reader.xyz/?text=lila\u02C8te\u0283&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - spark
+  epo:
+  - - fajrero
+  spa:
+  - - chispa
+search terms:
+  glb:
+  - lilatex
+  eng:
+  - spark
+  epo:
+  - fajrero
+  spa:
+  - chispa
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/atex">atex</a>
+raw data:
+  term: lilatex
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: spark
+    epo: fajrero
+    spa: chispa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + atex
+...

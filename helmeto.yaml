@@ -1,0 +1,56 @@
+---
+term: helmeto
+slug: helmeto
+ipa: "xel\u02C8meto"
+ipa link: "http://ipa-reader.xyz/?text=xel\u02C8meto&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - helmet
+    - casque
+  epo:
+  - - kasko
+  spa:
+  - - casco
+    - yelmo
+search terms:
+  glb:
+  - helmeto
+  eng:
+  - helmet
+  - casque
+  epo:
+  - kasko
+  spa:
+  - casco
+  - yelmo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- labas
+raw data:
+  term: helmeto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: helmet, casque
+    epo: kasko
+    spa: casco, yelmo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Englisa (helmet), Espanisa (yelmo), Rusisa (\u0448\u043B\u0435\u043C
+    \"xlem\"), Doycisa (Helm), Portugalsa (elmo), Italisa (elmetto, elmetti), Indonesisa
+    (helm), Pilipinasa (helmet), Hindisa (\u0939\u0947\u0932\u092E\u0947\u091F \"helmet\"),
+    Niponsa (\u30D8\u30EB\u30E1\u30C3\u30C8 \"herumeto\"), Hangusa (\uD5EC\uBA67 \"helmet\"),
+    Swahilisa (helmeti)"
+...

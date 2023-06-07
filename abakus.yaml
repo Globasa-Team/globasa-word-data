@@ -1,0 +1,68 @@
+---
+term: abakus
+slug: abakus
+ipa: abaˈkus
+ipa link: http://ipa-reader.xyz/?text=abaˈkus&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - abacus
+  epo:
+  - - abako
+  spa:
+  - - ábaco
+search terms:
+  glb:
+  - abakus
+  eng:
+  - abacus
+  epo:
+  - abako
+  spa:
+  - ábaco
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - abacus
+  Espanisa:
+  - - abaco
+  Fransesa:
+  - - abaque
+  Rusisa:
+  - - абак “abak”
+  Doycisa:
+  - - Abakus
+  Indonesisa:
+  - - abakus
+  Pilipinasa:
+  - - abako
+  Telugusa:
+  - - అబాకస్ “abakas”
+  Turkisa:
+  - - abaküs
+tags:
+- tul
+raw data:
+  term: abakus
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: abacus
+    epo: abako
+    spa: ábaco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: tul
+  etymology: Englisa (abacus), Espanisa (abaco), Fransesa (abaque), Rusisa (абак “abak”),
+    Doycisa (Abakus), Indonesisa (abakus), Pilipinasa (abako), Telugusa (అబాకస్ “abakas”),
+    Turkisa (abaküs)
+...

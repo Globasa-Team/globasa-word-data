@@ -1,0 +1,48 @@
+---
+term: duabasali
+slug: duabasali
+ipa: "duaba\u02C8sali"
+ipa link: "http://ipa-reader.xyz/?text=duaba\u02C8sali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - bilingual
+  epo:
+  - - dulingva
+  - - dulingve
+  spa:
+  - - "biling\xFCe"
+search terms:
+  glb:
+  - duabasali
+  eng:
+  - bilingual
+  epo:
+  - dulingva
+  - dulingve
+  spa:
+  - "biling\xFCe"
+etymology_type: DERIVD
+etymology: <a href="../lexi/dua">dua</a> + <a href="../lexi/basa">basa</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: duabasali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: 'bilingual '
+    epo: dulingva; dulingve
+    spa: "biling\xFCe"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dua + basa + -li
+...

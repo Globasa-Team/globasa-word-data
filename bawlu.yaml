@@ -1,0 +1,60 @@
+---
+term: bawlu
+slug: bawlu
+ipa: ˈbawlu
+ipa link: http://ipa-reader.xyz/?text=ˈbawlu&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - violence
+  - - violate
+  epo:
+  - - perforto
+    - violento
+  - - perforti
+    - violenti
+  spa:
+  - - violencia
+  - - violar
+search terms:
+  glb:
+  - bawlu
+  eng:
+  - violence
+  - violate
+  epo:
+  - perforto
+  - violento
+  - perforti
+  - violenti
+  spa:
+  - violencia
+  - violar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 暴力 “bàolì”
+  Vyetnamsa:
+  - - bạo lực
+raw data:
+  term: bawlu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: violence; violate
+    epo: perforto, violento; perforti, violenti
+    spa: violencia; violar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (暴力 “bàolì”), Vyetnamsa (bạo lực)
+...

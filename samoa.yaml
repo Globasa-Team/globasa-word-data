@@ -1,0 +1,50 @@
+---
+term: samoa
+slug: samoa
+ipa: "sa\u02C8moa"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8moa&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Samoa
+  epo:
+  - - Samoo
+  spa:
+  - - Samoa
+search terms:
+  glb:
+  - samoa
+  eng:
+  - samoa
+  epo:
+  - samoo
+  spa:
+  - samoa
+etymology_type: NATLNG
+etymology:
+  Samoasa:
+  - - "S\u0101moa"
+tags:
+- dexa
+raw data:
+  term: Samoa
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Samoa
+    epo: Samoo
+    spa: Samoa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Samoasa (S\u0101moa)"
+...

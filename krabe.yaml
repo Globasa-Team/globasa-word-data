@@ -1,0 +1,54 @@
+---
+term: krabe
+slug: krabe
+ipa: "\u02C8k\u027Eabe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8k\u027Eabe&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - crab
+    - _Brachyura_
+  epo:
+  - - krabo
+  spa:
+  - - cangrejo
+    - _Brachyura_
+search terms:
+  glb:
+  - krabe
+  eng:
+  - crab
+  - brachyura
+  epo:
+  - krabo
+  spa:
+  - cangrejo
+  - brachyura
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: krabe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: crab, _Brachyura_
+    epo: krabo
+    spa: cangrejo, _Brachyura_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (crab), Fransesa (crabe), Doycisa (Krebs), Rusisa (\u043A\u0440\u0430\u0431
+    \u201Ckrab\u201D), Hindisa (\u0915\u0947\u0915\u0921\u093C\u093E \u201Ckek\u1E5B\u0101\u201D),
+    Swahilisa (kaa), Vyetnamsa (cua)"
+...

@@ -1,0 +1,63 @@
+---
+term: sencu
+slug: sencu
+ipa: "\u02C8sent\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sent\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.lin
+trans:
+  eng:
+  - - becoming
+  - - become
+    - get
+    - turn (into)
+  epo:
+  - - "fari\u011Do"
+    - "i\u011Do"
+  - - "fari\u011Di"
+    - "i\u011Di"
+  spa:
+  - - hacerse
+    - volverse
+    - transformarse en
+search terms:
+  glb:
+  - sencu
+  eng:
+  - becoming
+  - become
+  - get
+  - turn into
+  - turn
+  epo:
+  - "fari\u011Do"
+  - "i\u011Do"
+  - "fari\u011Di"
+  - "i\u011Di"
+  spa:
+  - hacerse
+  - volverse
+  - transformarse en
+etymology_type: DERIVD
+etymology: <a href="../lexi/sen">sen</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: sencu
+  category: derived
+  word class: n/f.lin
+  status: false
+  trans:
+    eng: becoming; become, get, turn (into)
+    epo: "fari\u011Do, i\u011Do; fari\u011Di, i\u011Di"
+    spa: hacerse, volverse, transformarse en
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sen + -cu
+...

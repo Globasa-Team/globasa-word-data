@@ -1,0 +1,56 @@
+---
+term: jixi
+slug: jixi
+ipa: "\u02C8d\u0361\u0292i\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292i\u0283i&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - knowledge
+  - - know
+    - know how (to) [_**compare with**:_ [kone](/eng/lexi/kone)]
+  epo:
+  - - scio
+  - - scii
+  spa:
+  - - conocimiento
+  - - saber
+search terms:
+  glb:
+  - jixi
+  eng:
+  - knowledge
+  - know
+  - know how to
+  - know how
+  epo:
+  - scio
+  - scii
+  spa:
+  - conocimiento
+  - saber
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jixi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: knowledge; know, know how (to) [_**compare with**:_ [kone](/eng/lexi/kone)]
+    epo: scio; scii
+    spa: conocimiento; saber
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u77E5\u8BC6 \u201Czh\u012Bsh\xEC\u201D), Hangusa (\uC9C0\uC2DD
+    \u201Cjishig\u201D), Niponsa (\u77E5\u8B58 \u201Cchishiiki\u201D)"
+...

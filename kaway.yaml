@@ -1,0 +1,57 @@
+---
+term: kaway
+slug: kaway
+ipa: "ka\u02C8waj"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8waj&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - cute
+  epo:
+  - - "\u0109arma"
+    - beleta
+  - - "\u0109arme"
+    - belete
+  spa:
+  - - tierno
+    - lindo
+    - mono
+search terms:
+  glb:
+  - kaway
+  eng:
+  - cute
+  epo:
+  - "\u0109arma"
+  - beleta
+  - "\u0109arme"
+  - belete
+  spa:
+  - tierno
+  - lindo
+  - mono
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kaway
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: cute
+    epo: "\u0109arma, beleta; \u0109arme, belete"
+    spa: tierno, lindo, mono
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u53EF\u7231 \u201Ck\u011B'\xE0i\u201D), Niponsa (\u53EF\u611B\u3044
+    \u201Ckawaii\u201D)"
+...

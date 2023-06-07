@@ -1,0 +1,55 @@
+---
+term: hwanjin
+slug: hwanjin
+ipa: "xwan\u02C8d\u0361\u0292in"
+ipa link: "http://ipa-reader.xyz/?text=xwan\u02C8d\u0361\u0292in&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - environment
+    - ambience
+    - ambiance
+  epo:
+  - - etoso
+    - atmosfero
+  spa:
+  - - ambiente
+    - "atm\xF3sfera"
+search terms:
+  glb:
+  - hwanjin
+  eng:
+  - environment
+  - ambience
+  - ambiance
+  epo:
+  - etoso
+  - atmosfero
+  spa:
+  - ambiente
+  - "atm\xF3sfera"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hwanjin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: environment, ambience, ambiance
+    epo: etoso, atmosfero
+    spa: "ambiente, atm\xF3sfera"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u73AF\u5883 \u201Chu\xE1nj\xECng\u201D), Hangusa (\uD658\uACBD
+    \u201Chwangyeong\u201D)"
+...

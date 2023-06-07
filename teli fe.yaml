@@ -1,0 +1,48 @@
+---
+term: teli fe
+slug: teli fe
+ipa: "\u02C8teli fe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8teli fe&voice=Ewa"
+status: false
+category: phrase
+word class: p
+trans:
+  eng:
+  - - far from
+  epo:
+  - - malproksime de
+  spa:
+  - - lejos de
+search terms:
+  glb:
+  - teli fe
+  - teli
+  - fe
+  eng:
+  - far from
+  epo:
+  - malproksime de
+  spa:
+  - lejos de
+etymology_type: DERIVD
+etymology: <a href="../lexi/teli">teli</a>, <a href="../lexi/fe">fe</a>
+raw data:
+  term: teli fe
+  category: phrase
+  word class: p
+  status: false
+  trans:
+    eng: far from
+    epo: malproksime de
+    spa: lejos de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: teli, fe
+...

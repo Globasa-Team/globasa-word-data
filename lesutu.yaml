@@ -1,0 +1,68 @@
+---
+term: lesutu
+slug: lesutu
+ipa: "le\u02C8sutu"
+ipa link: "http://ipa-reader.xyz/?text=le\u02C8sutu&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Lesotho
+  epo:
+  - - Lesoto
+  spa:
+  - - Lesoto
+  deu:
+  - - Lesotho
+  fra:
+  - - Lesotho
+  rus:
+  - - "\u041B\u0435\u0441\u043E\u0442\u043E"
+  zho:
+  - - "\u83B1\u7D22\u6258"
+search terms:
+  glb:
+  - lesutu
+  eng:
+  - lesotho
+  epo:
+  - lesoto
+  spa:
+  - lesoto
+  deu:
+  - lesotho
+  fra:
+  - lesotho
+  rus:
+  - "\u041B\u0435\u0441\u043E\u0442\u043E"
+  zho:
+  - "\u83B1\u7D22\u6258"
+etymology_type: NATLNG
+etymology:
+  Lesutusa:
+  - - Lesotho
+  Englisa:
+  - - Lesotho
+tags:
+- dexa
+raw data:
+  term: Lesutu
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Lesotho
+    epo: Lesoto
+    spa: Lesoto
+    deu: Lesotho
+    fra: Lesotho
+    rus: "\u041B\u0435\u0441\u043E\u0442\u043E"
+    zho: "\u83B1\u7D22\u6258"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Lesutusa (Lesotho), Englisa (Lesotho)
+...

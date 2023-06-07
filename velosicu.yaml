@@ -1,0 +1,56 @@
+---
+term: velosicu
+slug: velosicu
+ipa: "velo\u02C8sit\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=velo\u02C8sit\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - acceleration
+  - - accelerate
+    - speed up
+    - hurry
+  epo:
+  - - "rapidi\u011Do"
+  - - "rapidi\u011Di"
+  spa:
+  - - "aceleraci\xF3n"
+  - - acelerarse
+search terms:
+  glb:
+  - velosicu
+  eng:
+  - acceleration
+  - accelerate
+  - speed up
+  - hurry
+  epo:
+  - "rapidi\u011Do"
+  - "rapidi\u011Di"
+  spa:
+  - "aceleraci\xF3n"
+  - acelerarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/velosi">velosi</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: velosicu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: acceleration; accelerate, speed up, hurry
+    epo: "rapidi\u011Do; rapidi\u011Di"
+    spa: "aceleraci\xF3n; acelerarse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: velosi + -cu
+...

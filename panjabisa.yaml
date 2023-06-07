@@ -1,0 +1,50 @@
+---
+term: panjabisa
+slug: panjabisa
+ipa: "pand\u0361\u0292a\u02C8bisa"
+ipa link: "http://ipa-reader.xyz/?text=pand\u0361\u0292a\u02C8bisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Punjabi (language)
+  epo:
+  - - "la pan\u011Daba (lingvo)"
+  spa:
+  - - "panyab\xED (_idioma_)"
+search terms:
+  glb:
+  - panjabisa
+  eng:
+  - punjabi language
+  - punjabi
+  epo:
+  - "la pan\u011Daba lingvo"
+  - "la pan\u011Daba"
+  spa:
+  - "panyab\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Panjabi">Panjabi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Panjabisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Punjabi (language)
+    epo: "la pan\u011Daba (lingvo)"
+    spa: "panyab\xED (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Panjabi + -sa
+...

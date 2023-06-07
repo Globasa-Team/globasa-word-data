@@ -1,0 +1,50 @@
+---
+term: risehacu
+slug: risehacu
+ipa: "\u027Eise\u02C8xat\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eise\u02C8xat\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - recover
+    - get well again
+  epo:
+  - - "resani\u011Do"
+  - - "resani\u011Di"
+  spa:
+  - - recuperarse
+search terms:
+  glb:
+  - risehacu
+  eng:
+  - recover
+  - get well again
+  epo:
+  - "resani\u011Do"
+  - "resani\u011Di"
+  spa:
+  - recuperarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/ri-">ri-</a> + <a href="../lexi/seha">seha</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: risehacu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: recover, get well again
+    epo: "resani\u011Do; resani\u011Di"
+    spa: recuperarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ri- + seha + -cu
+...

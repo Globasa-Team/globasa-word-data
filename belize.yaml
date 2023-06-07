@@ -1,0 +1,52 @@
+---
+term: belize
+slug: belize
+ipa: "be\u02C8lize"
+ipa link: "http://ipa-reader.xyz/?text=be\u02C8lize&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Belize
+  epo:
+  - - Belizo
+  spa:
+  - - Belice
+search terms:
+  glb:
+  - belize
+  eng:
+  - belize
+  epo:
+  - belizo
+  spa:
+  - belice
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Belize
+  Espanisa:
+  - - Belice
+tags:
+- dexa
+raw data:
+  term: Belize
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Belize
+    epo: Belizo
+    spa: Belice
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Belize), Espanisa (Belice)
+...

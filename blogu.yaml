@@ -1,0 +1,74 @@
+---
+term: blogu
+slug: blogu
+ipa: ˈblogu
+ipa link: http://ipa-reader.xyz/?text=ˈblogu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - blog
+  epo:
+  - - blogo
+  spa:
+  - - _blog_
+search terms:
+  glb:
+  - blogu
+  eng:
+  - blog
+  epo:
+  - blogo
+  spa:
+  - blog
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - blog
+  Fransesa: ~
+  Doycisa: ~
+  Espanisa: ~
+  Vyetnamsa: ~
+  Turkisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Rusisa:
+  - - блог “blog”
+  Putunhwa:
+  - - 博客 “bókè”
+  Niponsa:
+  - - ブログ “burogu”
+  Hangusa:
+  - - 블로그 “beullogeu”
+  Hindisa:
+  - - ब्लॉग “blog”
+  Telugusa:
+  - - బ్లాగు “blāgu”
+  Swahilisa:
+  - - blogu
+  Parsisa:
+  - - وبلاگ
+raw data:
+  term: blogu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: blog
+    epo: blogo
+    spa: _blog_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (blog), Fransesa, Doycisa, Espanisa, Vyetnamsa, Turkisa, Indonesisa,
+    Pilipinasa, Rusisa (блог “blog”), Putunhwa (博客 “bókè”), Niponsa (ブログ “burogu”),
+    Hangusa (블로그 “beullogeu”), Hindisa (ब्लॉग “blog”), Telugusa (బ్లాగు “blāgu”),
+    Swahilisa (blogu), Parsisa (وبلاگ)
+...

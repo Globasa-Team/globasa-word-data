@@ -1,0 +1,50 @@
+---
+term: -hole
+slug: -hole
+ipa: "-\u02C8xole"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8xole&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - sheath
+    - holder
+  epo:
+  - - -ingo
+  spa:
+  - - vaina
+    - portador
+search terms:
+  glb:
+  - -hole
+  eng:
+  - sheath
+  - holder
+  epo:
+  - -ingo
+  spa:
+  - vaina
+  - portador
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/hole">hole</a>.
+raw data:
+  term: -hole
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: sheath, holder
+    epo: -ingo
+    spa: vaina, portador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _hole_.
+...

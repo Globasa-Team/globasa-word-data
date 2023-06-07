@@ -1,0 +1,56 @@
+---
+term: ruata
+slug: ruata
+ipa: "\u027Eu\u02C8ata"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8ata&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - return
+    - come back
+  epo:
+  - - reveno
+  - - reveni
+  spa:
+  - - regreso
+    - vuelta
+  - - regresar
+    - volver
+search terms:
+  glb:
+  - ruata
+  eng:
+  - return
+  - come back
+  epo:
+  - reveno
+  - reveni
+  spa:
+  - regreso
+  - vuelta
+  - regresar
+  - volver
+etymology_type: DERIVD
+etymology: <a href="../lexi/ru-">ru-</a> + <a href="../lexi/ata">ata</a>
+raw data:
+  term: ruata
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: return, come back
+    epo: reveno; reveni
+    spa: regreso, vuelta; regresar, volver
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ru- + ata
+...

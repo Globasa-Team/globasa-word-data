@@ -1,0 +1,90 @@
+---
+term: platinum
+slug: platinum
+ipa: "plati\u02C8num"
+ipa link: "http://ipa-reader.xyz/?text=plati\u02C8num&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - platinum
+  epo:
+  - - plateno
+  spa:
+  - - platino
+    - Pt
+search terms:
+  glb:
+  - platinum
+  eng:
+  - platinum
+  epo:
+  - plateno
+  spa:
+  - platino
+  - pt
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - platinum
+  Hindisa:
+  - - "\u092A\u094D\u0932\u0948\u091F\u093F\u0928\u092E \u201Cpletinam\u201D"
+  Espanisa:
+  - - platino
+  Arabisa:
+  - - "\u0628\u0652\u0644\u064E\u0627\u062A\u0650\u064A\u0646 \u201Cblatin\u201D"
+  Fransesa:
+  - - platine
+  Rusisa:
+  - - "\u043F\u043B\u0430\u0442\u0438\u043D\u0430 \u201Cplatina\u201D"
+  Indonesisa:
+  - - platina
+  Doycisa:
+  - - Platin
+  Niponsa:
+  - - "\u30D7\u30E9\u30C1\u30CA \u201Cpuracina\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C4D\u0C32\u0C3E\u0C1F\u0C3F\u0C28\u0C02 \u201Cplatinam\u201D"
+  Turkisa:
+  - - platin
+  Hangusa:
+  - - "\uD50C\uB798\uD2F0\uB098 \u201Cpuletina\u201D"
+  Vyetnamsa:
+  - - platin
+  Parsisa:
+  - - "\u067E\u0644\u0627\u062A\u06CC\u0646 \u201Cplatin\u201D"
+  Swahilisa:
+  - - platini
+  Pilipinasa:
+  - - platino
+    - platinum
+tags:
+- kimikali monlari
+raw data:
+  term: platinum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: platinum
+    epo: plateno
+    spa: platino, Pt
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (platinum), Hindisa (\u092A\u094D\u0932\u0948\u091F\u093F\u0928\u092E
+    \u201Cpletinam\u201D), Espanisa (platino), Arabisa (\u0628\u0652\u0644\u064E\u0627\u062A\u0650\u064A\u0646
+    \u201Cblatin\u201D), Fransesa (platine), Rusisa (\u043F\u043B\u0430\u0442\u0438\u043D\u0430
+    \u201Cplatina\u201D), Indonesisa (platina), Doycisa (Platin), Niponsa (\u30D7\u30E9\u30C1\u30CA
+    \u201Cpuracina\u201D), Telugusa (\u0C2A\u0C4D\u0C32\u0C3E\u0C1F\u0C3F\u0C28\u0C02
+    \u201Cplatinam\u201D), Turkisa (platin), Hangusa (\uD50C\uB798\uD2F0\uB098 \u201Cpuletina\u201D),
+    Vyetnamsa (platin), Parsisa (\u067E\u0644\u0627\u062A\u06CC\u0646 \u201Cplatin\u201D),
+    Swahilisa (platini), Pilipinasa (platino, platinum)"
+...

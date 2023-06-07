@@ -1,0 +1,46 @@
+---
+term: termoje
+slug: termoje
+ipa: "te\u027E\u02C8mod\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=te\u027E\u02C8mod\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - temperature
+  epo:
+  - - temperaturo
+  spa:
+  - - temperatura
+search terms:
+  glb:
+  - termoje
+  eng:
+  - temperature
+  epo:
+  - temperaturo
+  spa:
+  - temperatura
+etymology_type: DERIVD
+etymology: <a href="../lexi/termo">termo</a> + <a href="../lexi/-je">-je</a>
+raw data:
+  term: termoje
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: temperature
+    epo: temperaturo
+    spa: temperatura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: termo + -je
+...

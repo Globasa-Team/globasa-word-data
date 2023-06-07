@@ -1,0 +1,50 @@
+---
+term: swerisa
+slug: swerisa
+ipa: "swe\u02C8\u027Eisa"
+ipa link: "http://ipa-reader.xyz/?text=swe\u02C8\u027Eisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Swedish (language)
+  epo:
+  - - la sveda (lingvo)
+  spa:
+  - - sueco (_idioma_)
+search terms:
+  glb:
+  - swerisa
+  eng:
+  - swedish language
+  - swedish
+  epo:
+  - la sveda lingvo
+  - la sveda
+  spa:
+  - sueco
+etymology_type: DERIVD
+etymology: <a href="../lexi/Sweri">Sweri</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Swerisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Swedish (language)
+    epo: la sveda (lingvo)
+    spa: sueco (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Sweri + -sa
+...

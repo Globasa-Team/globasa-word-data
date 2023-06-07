@@ -1,0 +1,67 @@
+---
+term: garu
+slug: garu
+ipa: ˈgaɾu
+ipa link: http://ipa-reader.xyz/?text=ˈgaɾu&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - scratch
+  epo:
+  - - grato
+  - - grati
+  spa:
+  - - arañazo
+    - rasguño
+  - - arañar
+    - rasguñar
+search terms:
+  glb:
+  - garu
+  eng:
+  - scratch
+  epo:
+  - grato
+  - grati
+  spa:
+  - arañazo
+  - rasguño
+  - arañar
+  - rasguñar
+etymology_type: NATLNG
+etymology:
+  Vyetnamsa:
+  - - gãi
+    - cạo
+    - cào
+  Hindisa:
+  - - खरोंचना “kharoñcnā”
+  Telugusa:
+  - - గీరు “gīru”
+  Swahilisa:
+  - - -parua
+  Parsisa:
+  - - خاریدن‎ “xāridan”
+raw data:
+  term: garu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: scratch
+    epo: grato; grati
+    spa: arañazo, rasguño; arañar, rasguñar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Vyetnamsa (gãi, cạo, cào), Hindisa (खरोंचना “kharoñcnā”), Telugusa (గీరు
+    “gīru”), Swahilisa (-parua), Parsisa (خاریدن‎ “xāridan”)
+...

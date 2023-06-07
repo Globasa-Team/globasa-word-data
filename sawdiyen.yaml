@@ -1,0 +1,52 @@
+---
+term: sawdiyen
+slug: sawdiyen
+ipa: "sawdi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=sawdi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Saudi
+    - Saudi Arabian
+  epo:
+  - - "sa\u016Ddo"
+    - "sa\u016Ddulo"
+    - "Sa\u016Dda Arabo"
+  spa:
+  - - "saud\xED (_persona_)"
+search terms:
+  glb:
+  - sawdiyen
+  eng:
+  - saudi
+  - saudi arabian
+  epo:
+  - "sa\u016Ddo"
+  - "sa\u016Ddulo"
+  - "sa\u016Dda arabo"
+  spa:
+  - "saud\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Sawdi">Sawdi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Sawdiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Saudi, Saudi Arabian
+    epo: "sa\u016Ddo, sa\u016Ddulo, Sa\u016Dda Arabo"
+    spa: "saud\xED (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Sawdi + -yen
+...

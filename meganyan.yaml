@@ -1,0 +1,48 @@
+---
+term: meganyan
+slug: meganyan
+ipa: "mega\u02C8njan"
+ipa link: "http://ipa-reader.xyz/?text=mega\u02C8njan&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - megayear
+  epo:
+  - - jarmiliono
+  spa:
+  - - "mill\xF3n de a\xF1os"
+    - cron
+search terms:
+  glb:
+  - meganyan
+  eng:
+  - megayear
+  epo:
+  - jarmiliono
+  spa:
+  - "mill\xF3n de a\xF1os"
+  - cron
+etymology_type: DERIVD
+etymology: <a href="../lexi/mega">mega</a> + <a href="../lexi/nyan">nyan</a>
+raw data:
+  term: meganyan
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: megayear
+    epo: jarmiliono
+    spa: "mill\xF3n de a\xF1os, cron"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mega + nyan
+...

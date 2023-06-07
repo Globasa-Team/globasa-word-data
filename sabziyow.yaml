@@ -1,0 +1,48 @@
+---
+term: sabziyow
+slug: sabziyow
+ipa: "sabzi\u02C8jow"
+ipa link: "http://ipa-reader.xyz/?text=sabzi\u02C8jow&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - vegetable oil
+  epo:
+  - - "vegeta\u0135a oleo"
+    - legoma oleo
+  spa:
+  - - aceite vegetal
+search terms:
+  glb:
+  - sabziyow
+  eng:
+  - vegetable oil
+  epo:
+  - "vegeta\u0135a oleo"
+  - legoma oleo
+  spa:
+  - aceite vegetal
+etymology_type: DERIVD
+etymology: <a href="../lexi/sabzi">sabzi</a> + <a href="../lexi/yow">yow</a>
+raw data:
+  term: sabziyow
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: vegetable oil
+    epo: "vegeta\u0135a oleo, legoma oleo"
+    spa: aceite vegetal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sabzi + yow
+...

@@ -1,0 +1,83 @@
+---
+term: bateri
+slug: bateri
+ipa: baˈteɾi
+ipa link: http://ipa-reader.xyz/?text=baˈteɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bacteria
+  epo:
+  - - bakterio(j)
+  spa:
+  - - bacteria
+    - _Bacteria_
+search terms:
+  glb:
+  - bateri
+  eng:
+  - bacteria
+  epo:
+  - bakterioj
+  - bakterio
+  spa:
+  - bacteria
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bacteria
+  Espanisa:
+  - - bacteria
+  Fransesa:
+  - - bactérie
+  Doycisa:
+  - - Bakterie
+  Italisa:
+  - - batterio
+    - batteri
+  Indonesisa:
+  - - bakteri
+  Pilipinasa:
+  - - bakterya
+  Hindisa:
+  - - बैक्टीरिया “bektiriya”
+  Niponsa:
+  - - バクテリア “bakuteria”
+  Telugusa:
+  - - బాక్టీరియా “baktiriya”
+  Turkisa:
+  - - bakteri
+  Hangusa:
+  - - 박테리아 “bakteria”
+  Parsisa:
+  - - باکتری “bakteri”
+  Swahilisa:
+  - - bakteria
+tags:
+- bio
+raw data:
+  term: bateri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bacteria
+    epo: bakterio(j)
+    spa: bacteria, _Bacteria_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: bio
+  etymology: Englisa (bacteria), Espanisa (bacteria), Fransesa (bactérie), Doycisa
+    (Bakterie), Italisa (batterio, batteri), Indonesisa (bakteri), Pilipinasa (bakterya),
+    Hindisa (बैक्टीरिया “bektiriya”), Niponsa (バクテリア “bakuteria”), Telugusa (బాక్టీరియా
+    “baktiriya”), Turkisa (bakteri), Hangusa (박테리아 “bakteria”), Parsisa (باکتری “bakteri”),
+    Swahilisa (bakteria)
+...

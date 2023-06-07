@@ -1,0 +1,50 @@
+---
+term: daysoti
+slug: daysoti
+ipa: "daj\u02C8soti"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8soti&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - noise
+    - loud sound
+    - bang
+  epo:
+  - - sonego
+  spa:
+  - - ruido sonoro
+search terms:
+  glb:
+  - daysoti
+  eng:
+  - noise
+  - loud sound
+  - bang
+  epo:
+  - sonego
+  spa:
+  - ruido sonoro
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/soti">soti</a>
+raw data:
+  term: daysoti
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: noise, loud sound, bang
+    epo: sonego
+    spa: ruido sonoro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + soti
+...

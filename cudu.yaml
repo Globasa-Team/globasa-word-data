@@ -1,0 +1,83 @@
+---
+term: cudu
+slug: cudu
+ipa: ˈt͡ʃudu
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃudu&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - acquisition
+    - gain
+  - - obtain
+    - acquire
+    - take
+    - get
+    - gain
+  epo:
+  - - akiro
+    - ekhavo
+    - preno
+  - - akiri
+    - ekhavi
+    - preni
+  spa:
+  - - adquisición
+    - obtención
+  - - obtener
+    - adquirir
+    - tomar
+    - conseguir
+    - ganar
+search terms:
+  glb:
+  - cudu
+  eng:
+  - acquisition
+  - gain
+  - obtain
+  - acquire
+  - take
+  - get
+  epo:
+  - akiro
+  - ekhavo
+  - preno
+  - akiri
+  - ekhavi
+  - preni
+  spa:
+  - adquisición
+  - obtención
+  - obtener
+  - adquirir
+  - tomar
+  - conseguir
+  - ganar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 取得 “qǔdé”
+  Hangusa:
+  - - 취득 “chwideug”
+raw data:
+  term: cudu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: acquisition, gain; obtain, acquire, take, get, gain
+    epo: akiro, ekhavo, preno; akiri, ekhavi, preni
+    spa: adquisición, obtención; obtener, adquirir, tomar, conseguir, ganar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (取得 “qǔdé”), Hangusa (취득 “chwideug”)
+...

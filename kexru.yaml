@@ -1,0 +1,69 @@
+---
+term: kexru
+slug: kexru
+ipa: "\u02C8ke\u0283\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ke\u0283\u027Eu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - shell (of a nut)
+    - crust
+    - bark
+    - peel
+    - rind
+    - hull
+    - husk
+    - cortex
+  epo:
+  - - "\u015Delo"
+    - krusto
+    - kortiko
+  spa:
+  - - corteza
+    - "c\xE1scara"
+search terms:
+  glb:
+  - kexru
+  eng:
+  - shell of a nut
+  - shell
+  - crust
+  - bark
+  - peel
+  - rind
+  - hull
+  - husk
+  - cortex
+  epo:
+  - "\u015Delo"
+  - krusto
+  - kortiko
+  spa:
+  - corteza
+  - "c\xE1scara"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kexru
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: shell (of a nut), crust, bark, peel, rind, hull, husk, cortex
+    epo: "\u015Delo, krusto, kortiko"
+    spa: "corteza, c\xE1scara"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u0650\u0634\u0652\u0631 \"kixr\"), Parsisa (\u0642\u0634\u0631
+    \"kexr\"), Putunhwa (\u58F3 \"ke, ker\"), Indonesisa (kerak), Niponsa (\u6BBB
+    \"kaku\"), Turkisa (kabuk)"
+...

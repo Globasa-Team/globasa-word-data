@@ -1,0 +1,46 @@
+---
+term: caredes
+slug: caredes
+ipa: "t\u0361\u0283a\u027Ee\u02C8des"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283a\u027Ee\u02C8des&voice=Ewa"
+status: false
+category: derived
+word class: num
+trans:
+  eng:
+  - - forty
+  epo:
+  - - kvardek
+  spa:
+  - - cuarenta
+search terms:
+  glb:
+  - caredes
+  eng:
+  - forty
+  epo:
+  - kvardek
+  spa:
+  - cuarenta
+etymology_type: DERIVD
+etymology: <a href="../lexi/care">care</a> + <a href="../lexi/-des">-des</a>
+raw data:
+  term: caredes
+  category: derived
+  word class: num
+  status: false
+  trans:
+    eng: forty
+    epo: kvardek
+    spa: cuarenta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: care + -des
+...

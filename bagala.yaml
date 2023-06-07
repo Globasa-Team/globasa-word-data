@@ -1,0 +1,58 @@
+---
+term: bagala
+slug: bagala
+ipa: baˈgala
+ipa link: http://ipa-reader.xyz/?text=baˈgala&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mule
+    - _Equus mulus_
+  epo:
+  - - mulo
+  spa:
+  - - mula
+    - _Equus africanus asinus♂ × Equus ferus caballus♀_
+search terms:
+  glb:
+  - bagala
+  eng:
+  - mule
+  - equus mulus
+  epo:
+  - mulo
+  spa:
+  - mula
+  - equus africanus asinus♂ × equus ferus caballus♀
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - bagal
+  Arabisa:
+  - - بغل “bagl”
+  Swahilisa:
+  - - baghala
+tags:
+- hewan
+raw data:
+  term: bagala
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mule, _Equus mulus_
+    epo: mulo
+    spa: mula, _Equus africanus asinus♂ × Equus ferus caballus♀_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Indonesisa (bagal), Arabisa (بغل “bagl”), Swahilisa (baghala)
+...

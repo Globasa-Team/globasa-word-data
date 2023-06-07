@@ -1,0 +1,46 @@
+---
+term: -kumax
+slug: -kumax
+ipa: "-ku\u02C8ma\u0283"
+ipa link: "http://ipa-reader.xyz/?text=-ku\u02C8ma\u0283&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - piece of cloth (_for specific purpose_)
+  epo:
+  - - tuko (_por specifa celo_)
+  spa:
+  - - "tela (_con prop\xF3sito espec\xEDfico_)"
+search terms:
+  glb:
+  - -kumax
+  eng:
+  - piece of cloth
+  epo:
+  - tuko
+  spa:
+  - tela
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/kumax">kumax</a>.
+raw data:
+  term: -kumax
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: piece of cloth (_for specific purpose_)
+    epo: tuko (_por specifa celo_)
+    spa: "tela (_con prop\xF3sito espec\xEDfico_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _kumax_.
+...

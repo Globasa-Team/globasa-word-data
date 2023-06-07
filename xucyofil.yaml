@@ -1,0 +1,58 @@
+---
+term: xucyofil
+slug: xucyofil
+ipa: "\u0283ut\u0361\u0283jo\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=\u0283ut\u0361\u0283jo\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - strict
+    - strictly
+  epo:
+  - - postulema
+    - severa
+  - - postuleme
+  spa:
+  - - estricto
+    - exigente
+  - - estrictamente
+    - exigentemente
+search terms:
+  glb:
+  - xucyofil
+  eng:
+  - strict
+  - strictly
+  epo:
+  - postulema
+  - severa
+  - postuleme
+  spa:
+  - estricto
+  - exigente
+  - estrictamente
+  - exigentemente
+etymology_type: DERIVD
+etymology: <a href="../lexi/xucyo">xucyo</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: xucyofil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: strict, strictly
+    epo: postulema, severa; postuleme
+    spa: estricto, exigente; estrictamente, exigentemente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xucyo + -fil
+...

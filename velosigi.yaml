@@ -1,0 +1,48 @@
+---
+term: velosigi
+slug: velosigi
+ipa: "velo\u02C8sigi"
+ipa link: "http://ipa-reader.xyz/?text=velo\u02C8sigi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - speed up
+  epo:
+  - - rapidigo
+  - - rapidigi
+  spa:
+  - - acelerar
+search terms:
+  glb:
+  - velosigi
+  eng:
+  - speed up
+  epo:
+  - rapidigo
+  - rapidigi
+  spa:
+  - acelerar
+etymology_type: DERIVD
+etymology: <a href="../lexi/velosi">velosi</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: velosigi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: speed up
+    epo: rapidigo; rapidigi
+    spa: acelerar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: velosi + -gi
+...

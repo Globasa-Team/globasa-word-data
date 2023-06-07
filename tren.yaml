@@ -1,0 +1,87 @@
+---
+term: tren
+slug: tren
+ipa: "\u02C8t\u027Een"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u027Een&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - train
+  epo:
+  - - trajno
+  spa:
+  - - tren
+  deu:
+  - - Zug
+    - Bahn
+  fra:
+  - - train
+  rus:
+  - - "\u043F\u043E\u0435\u0437\u0434"
+  zho:
+  - - "\u5217\u8F66"
+    - "\u706B\u8F66"
+search terms:
+  glb:
+  - tren
+  eng:
+  - train
+  epo:
+  - trajno
+  spa:
+  - tren
+  deu:
+  - zug
+  - bahn
+  fra:
+  - train
+  rus:
+  - "\u043F\u043E\u0435\u0437\u0434"
+  zho:
+  - "\u5217\u8F66"
+  - "\u706B\u8F66"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - train
+  Hindisa:
+  - - "\u091F\u094D\u0930\u0947\u0928 \u201Ctren\u201D"
+  Espanisa:
+  - - tren
+  Fransesa:
+  - - train
+  Niponsa:
+  - - "\u30C8\u30EC\u30FC\u30F3 \u201Ctoren\u201D"
+  Turkisa:
+  - - tren
+  Parsisa:
+  - - "\u062A\u0631\u0646 \u201Ctran\u201D"
+  Swahilisa:
+  - - treni
+  Pilipinasa:
+  - - tren
+raw data:
+  term: tren
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: train
+    epo: trajno
+    spa: tren
+    deu: Zug, Bahn
+    fra: train
+    rus: "\u043F\u043E\u0435\u0437\u0434"
+    zho: "\u5217\u8F66, \u706B\u8F66"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (train), Hindisa (\u091F\u094D\u0930\u0947\u0928 \u201Ctren\u201D),
+    Espanisa (tren), Fransesa (train), Niponsa (\u30C8\u30EC\u30FC\u30F3 \u201Ctoren\u201D),
+    Turkisa (tren), Parsisa (\u062A\u0631\u0646 \u201Ctran\u201D), Swahilisa (treni),
+    Pilipinasa (tren)"
+...

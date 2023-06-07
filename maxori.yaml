@@ -1,0 +1,64 @@
+---
+term: maxori
+slug: maxori
+ipa: "ma\u02C8\u0283o\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8\u0283o\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - most
+    - mostly
+    - the majority of
+    - largely
+    - for the most part
+  epo:
+  - - plejmulta
+    - majoritata
+    - plejmulte
+    - majoritate
+  spa:
+  - - mayormente
+    - por la mayor parte
+search terms:
+  glb:
+  - maxori
+  eng:
+  - most
+  - mostly
+  - the majority of
+  - largely
+  - for the most part
+  epo:
+  - plejmulta
+  - majoritata
+  - plejmulte
+  - majoritate
+  spa:
+  - mayormente
+  - por la mayor parte
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: maxori
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: most, mostly, the majority of, largely, for the most part
+    epo: plejmulta, majoritata, plejmulte, majoritate
+    spa: mayormente, por la mayor parte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa ( ), Espanisa (mas, maximo, mayor\xEDa), Englisa (maximum,
+    majority), Doycisa (maximal, Majorit\xE4t), Rusisa (\u043C\u0430\u043A\u0441\u0438\u043C\u0443\u043C
+    \u201Cmaksimum\u201D)"
+...

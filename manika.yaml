@@ -1,0 +1,50 @@
+---
+term: manika
+slug: manika
+ipa: "ma\u02C8nika"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8nika&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mania
+  epo:
+  - - manio
+  spa:
+  - - "man\xEDa"
+search terms:
+  glb:
+  - manika
+  eng:
+  - mania
+  epo:
+  - manio
+  spa:
+  - "man\xEDa"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: manika
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mania
+    epo: manio
+    spa: "man\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mania, manic), Espanisa (man\xEDa, mani\xE1tico), Fransesa
+    (manie, maniaque), Rusisa (\u043C\u0430\u043D\u0438\u0430\u043A\u0430\u043B\u044C\u043D\u044B\u0439
+    \"maniakalniy\"), Doycisa (Manie), Portugalsa (mania), Italisa (mania), Indonesisa
+    (mania), Turkisa (mani), Vyetnamsa (mania), Parsisa (\u0645\u0650\u06CC\u0646\u06CC\u0627
+    \"maniya\")"
+...

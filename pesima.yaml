@@ -1,0 +1,70 @@
+---
+term: pesima
+slug: pesima
+ipa: "pe\u02C8sima"
+ipa link: "http://ipa-reader.xyz/?text=pe\u02C8sima&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - worst possible
+  epo:
+  - - maloptimuma
+    - "pleja\u0109a"
+  - - maloptimume
+    - "pleja\u0109e"
+  spa:
+  - - "p\xE9simo"
+search terms:
+  glb:
+  - pesima
+  eng:
+  - worst possible
+  epo:
+  - maloptimuma
+  - "pleja\u0109a"
+  - maloptimume
+  - "pleja\u0109e"
+  spa:
+  - "p\xE9simo"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pessimism
+  Fransesa:
+  - - pessimisme
+  Doycisa:
+  - - Pessimismus
+  Rusisa:
+  - - "\u043F\u0435\u0441\u0441\u0438\u043C\u0438\u0437\u043C \u201Cpessimizm\u201D"
+  Espanisa:
+  - - pesimismo
+  Turkisa:
+  - - pesimizm
+  Indonesisa:
+  - - pesimisme
+  Pilipinasa:
+  - - pesimismo
+raw data:
+  term: pesima
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: worst possible
+    epo: "maloptimuma, pleja\u0109a; maloptimume, pleja\u0109e"
+    spa: "p\xE9simo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (pessimism), Fransesa (pessimisme), Doycisa (Pessimismus), Rusisa
+    (\u043F\u0435\u0441\u0441\u0438\u043C\u0438\u0437\u043C \u201Cpessimizm\u201D),
+    Espanisa (pesimismo), Turkisa (pesimizm), Indonesisa (pesimisme), Pilipinasa (pesimismo)"
+...

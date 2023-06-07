@@ -1,0 +1,48 @@
+---
+term: mesi sabe
+slug: mesi sabe
+ipa: "\u02C8mesi \u02C8sabe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mesi \u02C8sabe&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - July
+  epo:
+  - - Julio
+  spa:
+  - - julio
+search terms:
+  glb:
+  - mesi sabe
+  - mesi
+  - sabe
+  eng:
+  - july
+  epo:
+  - julio
+  spa:
+  - julio
+etymology_type: DERIVD
+etymology: <a href="../lexi/mesi">mesi</a>, <a href="../lexi/sabe">sabe</a>
+raw data:
+  term: mesi sabe
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: July
+    epo: Julio
+    spa: julio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mesi, sabe
+...

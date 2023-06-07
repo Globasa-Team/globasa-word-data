@@ -1,0 +1,83 @@
+---
+term: granito
+slug: granito
+ipa: gɾaˈnito
+ipa link: http://ipa-reader.xyz/?text=gɾaˈnito&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - granite
+  epo:
+  - - granito
+  spa:
+  - - granito
+search terms:
+  glb:
+  - granito
+  eng:
+  - granite
+  epo:
+  - granito
+  spa:
+  - granito
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - granite
+  Espanisa:
+  - - granito
+  Fransesa:
+  - - granite
+    - granit
+  Rusisa:
+  - - гранит “granit”
+  Doycisa:
+  - - Granit
+  Portugalsa:
+  - - granito
+  Italisa:
+  - - granito
+  Indonesisa:
+  - - granit
+  Pilipinasa:
+  - - granito
+  Hindisa:
+  - - ग्रेनाइट “grenayt”
+  Arabisa:
+  - - جرانيت “jaranit”
+  Telugusa:
+  - - గ్రానైటు “granayt”
+  Turkisa:
+  - - granit
+  Vyetnamsa:
+  - - granit
+  Parsisa:
+  - - گرانیت “gerânit”
+tags:
+- petra
+raw data:
+  term: granito
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: granite
+    epo: granito
+    spa: granito
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: Englisa (granite), Espanisa (granito), Fransesa (granite, granit), Rusisa
+    (гранит “granit”), Doycisa (Granit), Portugalsa (granito), Italisa (granito),
+    Indonesisa (granit), Pilipinasa (granito), Hindisa (ग्रेनाइट “grenayt”), Arabisa
+    (جرانيت “jaranit”), Telugusa (గ్రానైటు “granayt”), Turkisa (granit), Vyetnamsa
+    (granit), Parsisa (گرانیت “gerânit”)
+...

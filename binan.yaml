@@ -1,0 +1,65 @@
+---
+term: binan
+slug: binan
+ipa: biˈnan
+ipa link: http://ipa-reader.xyz/?text=biˈnan&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - refuge
+    - shelter
+  - - give refuge
+    - shelter
+  epo:
+  - - rifuĝo
+  - - rifuĝigi
+    - rifuĝi
+  spa:
+  - - refugio
+  - - refugiar
+    - refugiarse
+search terms:
+  glb:
+  - binan
+  eng:
+  - refuge
+  - shelter
+  - give refuge
+  epo:
+  - rifuĝo
+  - rifuĝigi
+  - rifuĝi
+  spa:
+  - refugio
+  - refugiar
+  - refugiarse
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 避难 “bìnàn”
+  Hangusa:
+  - - 피난 “pinan”
+  Niponsa:
+  - - 避難 “hinan”
+raw data:
+  term: binan
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: refuge, shelter; give refuge, shelter
+    epo: rifuĝo; rifuĝigi, rifuĝi
+    spa: refugio; refugiar, refugiarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (避难 “bìnàn”), Hangusa (피난 “pinan”), Niponsa (避難 “hinan”)
+...

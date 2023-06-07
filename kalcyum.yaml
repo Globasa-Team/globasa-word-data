@@ -1,0 +1,56 @@
+---
+term: kalcyum
+slug: kalcyum
+ipa: "kal\u02C8t\u0361\u0283jum"
+ipa link: "http://ipa-reader.xyz/?text=kal\u02C8t\u0361\u0283jum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - calcium
+  epo:
+  - - kalcio
+  spa:
+  - - calcio
+    - Ca
+search terms:
+  glb:
+  - kalcyum
+  eng:
+  - calcium
+  epo:
+  - kalcio
+  spa:
+  - calcio
+  - ca
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: kalcyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: calcium
+    epo: kalcio
+    spa: calcio, Ca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (calcium), Espanisa (calcio), Arabisa (\u0643\u064E\u0644\u0652\u0633\u0650\u064A\u064F\u0648\u0645
+    \u201Ckalsiyum\u201D), Fransesa (calcium), Rusisa (\u043A\u0430\u043B\u044C\u0446\u0438\u0439
+    \u201Ckaltsiy\u201D), Indonesisa (kalsium), Doycisa (Kalzium, Calcium), Niponsa
+    (\u30AB\u30EB\u30B7\u30A6\u30E0 \u201Ckaruxiumu\u201D), Telugusa (\u0C15\u0C3E\u0C32\u0C4D\u0C37\u0C3F\u0C2F\u0C02
+    \u201Ckalxiyam\u201D), Turkisa (kalsiyum), Hangusa (\uCE7C\uC298 \u201Ckalxyum\u201D),
+    Vyetnamsa (canxi), Parsisa (\u06A9\u0644\u0633\u06CC\u0645 \u201Ckalsiom\u201D),
+    Swahilisa (kalisi), Pilipinasa (kalsyo, kalsyumi)"
+...

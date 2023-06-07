@@ -1,0 +1,51 @@
+---
+term: trutigine
+slug: trutigine
+ipa: "t\u027Euti\u02C8gine"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Euti\u02C8gine&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - satisfying
+    - satisfactory
+  epo:
+  - - kontentiganta
+  - - kontentigante
+  spa:
+  - - satisfactorio
+search terms:
+  glb:
+  - trutigine
+  eng:
+  - satisfying
+  - satisfactory
+  epo:
+  - kontentiganta
+  - kontentigante
+  spa:
+  - satisfactorio
+etymology_type: DERIVD
+etymology: <a href="../lexi/truti">truti</a> + <a href="../lexi/-gi">-gi</a> + <a
+  href="../lexi/-ne">-ne</a>
+raw data:
+  term: trutigine
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: satisfying, satisfactory
+    epo: kontentiganta; kontentigante
+    spa: satisfactorio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: truti + -gi + -ne
+...

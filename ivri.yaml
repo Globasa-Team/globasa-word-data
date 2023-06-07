@@ -1,0 +1,50 @@
+---
+term: ivri
+slug: ivri
+ipa: "\u02C8iv\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8iv\u027Ei&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Hebrew
+  epo:
+  - - hebrea
+  - - hebree
+  spa:
+  - - hebreo
+search terms:
+  glb:
+  - ivri
+  eng:
+  - hebrew
+  epo:
+  - hebrea
+  - hebree
+  spa:
+  - hebreo
+etymology_type: NATLNG
+etymology:
+  Ivrisa:
+  - - "\u05E2\u05B4\u05D1\u05E8\u05B4\u05D9 \u201Civri\u201D"
+raw data:
+  term: Ivri
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: Hebrew
+    epo: hebrea; hebree
+    spa: hebreo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Ivrisa (\u05E2\u05B4\u05D1\u05E8\u05B4\u05D9 \u201Civri\u201D)"
+...

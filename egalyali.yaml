@@ -1,0 +1,50 @@
+---
+term: egalyali
+slug: egalyali
+ipa: "ega\u02C8ljali"
+ipa link: "http://ipa-reader.xyz/?text=ega\u02C8ljali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - egalitarian
+  epo:
+  - - de egaleco
+    - egalisma
+  - - egalisme
+  spa:
+  - - igualitario
+search terms:
+  glb:
+  - egalyali
+  eng:
+  - egalitarian
+  epo:
+  - de egaleco
+  - egalisma
+  - egalisme
+  spa:
+  - igualitario
+etymology_type: DERIVD
+etymology: <a href="../lexi/egal">egal</a> + <a href="../lexi/-ya">-ya</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: egalyali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: egalitarian
+    epo: de egaleco, egalisma; egalisme
+    spa: igualitario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: egal + -ya + -li
+...

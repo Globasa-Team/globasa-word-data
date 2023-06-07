@@ -1,0 +1,97 @@
+---
+term: penicilin
+slug: penicilin
+ipa: "penit\u0361\u0283i\u02C8lin"
+ipa link: "http://ipa-reader.xyz/?text=penit\u0361\u0283i\u02C8lin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - penicillin
+  epo:
+  - - penicilino
+  spa:
+  - - penicilina
+search terms:
+  glb:
+  - penicilin
+  eng:
+  - penicillin
+  epo:
+  - penicilino
+  spa:
+  - penicilina
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - penicillin
+  Putunhwa:
+  - - "\u76D8\u5C3C\u897F\u6797 \u201Cpanixilin\u201D"
+  Hindisa:
+  - - "\u092A\u0947\u0928\u093F\u0938\u093F\u0932\u093F\u0928 \u201Cpenisilin\u201D"
+  Espanisa:
+  - - penicilina
+  Arabisa:
+  - - "\u0628\u0650\u0646\u0650\u0633\u0650\u0644\u0650\u064A\u0646 \u201Cbinisilin\u201D"
+  Fransesa:
+  - - "p\xE9nicilline"
+  Rusisa:
+  - - "\u043F\u0435\u043D\u0438\u0446\u0438\u043B\u043B\u0438\u043D \u201Cpenitsilin\u201D"
+  Portugalsa:
+  - - penicilina
+  Indonesisa:
+  - - penisilin
+  Doycisa:
+  - - Penicilline
+    - Penizilline
+  Niponsa:
+  - - "\u30DA\u30CB\u30B7\u30EA\u30F3 \u201Cpenixirin\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C46\u0C28\u0C4D\u0C38\u0C3F\u0C32\u0C3F\u0C28\u0C4D \u201Cpensilin\u201D"
+  Turkisa:
+  - - penisilin
+  Hangusa:
+  - - "\uD398\uB2C8\uC2E4\uB9B0 \u201Cpenixillin\u201D"
+  Vyetnamsa:
+  - - penicillin
+  Parsisa:
+  - - "\u067E\u0646\u06CC\u0633\u06CC\u0644\u06CC\u0646 \u201Cpenisilin\u201D"
+  Swahilisa:
+  - - penisilini
+  Italisa:
+  - - penicilline
+  Pilipinasa:
+  - - penisilin
+tags:
+- medis
+raw data:
+  term: penicilin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: penicillin
+    epo: penicilino
+    spa: penicilina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (penicillin), Putunhwa (\u76D8\u5C3C\u897F\u6797 \u201Cpanixilin\u201D),
+    Hindisa (\u092A\u0947\u0928\u093F\u0938\u093F\u0932\u093F\u0928 \u201Cpenisilin\u201D),
+    Espanisa (penicilina), Arabisa (\u0628\u0650\u0646\u0650\u0633\u0650\u0644\u0650\u064A\u0646
+    \u201Cbinisilin\u201D), Fransesa (p\xE9nicilline), Rusisa (\u043F\u0435\u043D\u0438\u0446\u0438\u043B\u043B\u0438\u043D
+    \u201Cpenitsilin\u201D), Portugalsa (penicilina), Indonesisa (penisilin), Doycisa
+    (Penicilline, Penizilline), Niponsa (\u30DA\u30CB\u30B7\u30EA\u30F3 \u201Cpenixirin\u201D),
+    Telugusa (\u0C2A\u0C46\u0C28\u0C4D\u0C38\u0C3F\u0C32\u0C3F\u0C28\u0C4D \u201Cpensilin\u201D),
+    Turkisa (penisilin), Hangusa (\uD398\uB2C8\uC2E4\uB9B0 \u201Cpenixillin\u201D),
+    Vyetnamsa (penicillin), Parsisa (\u067E\u0646\u06CC\u0633\u06CC\u0644\u06CC\u0646
+    \u201Cpenisilin\u201D), Swahilisa (penisilini), Italisa (penicilline), Pilipinasa
+    (penisilin)"
+...

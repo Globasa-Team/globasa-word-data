@@ -1,0 +1,55 @@
+---
+term: swe
+slug: swe
+ipa: "\u02C8swe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8swe&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - tax
+  epo:
+  - - imposto
+  spa:
+  - - impuesto
+search terms:
+  glb:
+  - swe
+  eng:
+  - tax
+  epo:
+  - imposto
+  spa:
+  - impuesto
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u7A0E \u201Cxwe\u201D"
+  Niponsa:
+  - - "\u7A0E \u201Cze\u201D"
+  Hangusa:
+  - - "\uC138 \u201Cse\u201D"
+  Vyetnamsa:
+  - - "thu\u1EBF"
+raw data:
+  term: swe
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: tax
+    epo: imposto
+    spa: impuesto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7A0E \u201Cxwe\u201D), Niponsa (\u7A0E \u201Cze\u201D),
+    Hangusa (\uC138 \u201Cse\u201D), Vyetnamsa (thu\u1EBF)"
+...

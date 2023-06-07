@@ -1,0 +1,49 @@
+---
+term: jawheri
+slug: jawheri
+ipa: "d\u0361\u0292aw\u02C8xe\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292aw\u02C8xe\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - jewel
+    - gem
+  epo:
+  - - juvelo
+  spa:
+  - - joya
+search terms:
+  glb:
+  - jawheri
+  eng:
+  - jewel
+  - gem
+  epo:
+  - juvelo
+  spa:
+  - joya
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jawheri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: jewel, gem
+    epo: juvelo
+    spa: joya
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u0648\u0647\u0631\u0629 \u201Cjauhara\u201D), Swahilisa
+    (johari), Indonesisa (jauhar), Turkisa (cevher)"
+...

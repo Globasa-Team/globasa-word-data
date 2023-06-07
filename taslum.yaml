@@ -1,0 +1,52 @@
+---
+term: taslum
+slug: taslum
+ipa: "tas\u02C8lum"
+ipa link: "http://ipa-reader.xyz/?text=tas\u02C8lum&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - receive
+    - get
+  epo:
+  - - ricevo
+  - - ricevi
+  spa:
+  - - recibir
+search terms:
+  glb:
+  - taslum
+  eng:
+  - receive
+  - get
+  epo:
+  - ricevo
+  - ricevi
+  spa:
+  - recibir
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u064E\u0633\u064E\u0644\u064F\u0651\u0645 \u201Ctasalum\u201D"
+raw data:
+  term: taslum
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: receive, get
+    epo: ricevo; ricevi
+    spa: recibir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u064E\u0633\u064E\u0644\u064F\u0651\u0645 \u201Ctasalum\u201D)"
+...

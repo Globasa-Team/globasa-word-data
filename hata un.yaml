@@ -1,0 +1,50 @@
+---
+term: hata un
+slug: hata un
+ipa: "\u02C8xata \u02C8un"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xata \u02C8un&voice=Ewa"
+status: false
+category: phrase
+word class: jm
+trans:
+  eng:
+  - - even one
+    - a single
+  epo:
+  - - "e\u0109 unu"
+  spa:
+  - - hasta un
+search terms:
+  glb:
+  - hata un
+  - hata
+  - un
+  eng:
+  - even one
+  - a single
+  epo:
+  - "e\u0109 unu"
+  spa:
+  - hasta un
+etymology_type: DERIVD
+etymology: <a href="../lexi/hata">hata</a>, <a href="../lexi/un">un</a>
+raw data:
+  term: hata un
+  category: phrase
+  word class: jm
+  status: false
+  trans:
+    eng: even one, a single
+    epo: "e\u0109 unu"
+    spa: hasta un
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: even one, single, a single
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hata, un
+...

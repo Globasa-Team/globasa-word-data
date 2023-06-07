@@ -1,0 +1,46 @@
+---
+term: manmeme
+slug: manmeme
+ipa: "man\u02C8meme"
+ipa link: "http://ipa-reader.xyz/?text=man\u02C8meme&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ram
+  epo:
+  - - "vir\u015Dafo"
+  spa:
+  - - carnero
+search terms:
+  glb:
+  - manmeme
+  eng:
+  - ram
+  epo:
+  - "vir\u015Dafo"
+  spa:
+  - carnero
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/meme">meme</a>
+raw data:
+  term: manmeme
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ram
+    epo: "vir\u015Dafo"
+    spa: carnero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + meme
+...

@@ -1,0 +1,50 @@
+---
+term: pesamon
+slug: pesamon
+ipa: "pesa\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=pesa\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - coin
+    - bill
+  epo:
+  - - monero
+  spa:
+  - - moneda
+    - billete
+search terms:
+  glb:
+  - pesamon
+  eng:
+  - coin
+  - bill
+  epo:
+  - monero
+  spa:
+  - moneda
+  - billete
+etymology_type: DERIVD
+etymology: <a href="../lexi/pesa">pesa</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: pesamon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: coin, bill
+    epo: monero
+    spa: moneda, billete
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pesa + -mon
+...

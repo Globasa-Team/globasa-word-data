@@ -1,0 +1,60 @@
+---
+term: em
+slug: em
+ipa: em
+ipa link: http://ipa-reader.xyz/?text=em&voice=Ewa
+status: true
+category: root
+word class: il
+trans:
+  eng:
+  - - hmm
+    - uh
+    - um
+  epo:
+  - - hmm
+  spa:
+  - - este (_interjección_)
+search terms:
+  glb:
+  - em
+  eng:
+  - hmm
+  - uh
+  - um
+  epo:
+  - hmm
+  spa:
+  - este
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Putunhwa:
+  - - um
+  Englisa: ~
+  Doycisa: ~
+  Hangusa: ~
+  Rusisa: ~
+  ji maxya: ~
+tags:
+- intrelogalexi
+raw data:
+  term: em
+  category: root
+  word class: il
+  status: true
+  trans:
+    eng: hmm, uh, um
+    epo: hmm
+    spa: este (_interjección_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: kwasilexi - Putunhwa (um), Englisa ( ), Doycisa, Hangusa, Rusisa, ji
+    maxya
+...

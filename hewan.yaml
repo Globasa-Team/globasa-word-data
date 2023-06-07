@@ -1,0 +1,50 @@
+---
+term: hewan
+slug: hewan
+ipa: "xe\u02C8wan"
+ipa link: "http://ipa-reader.xyz/?text=xe\u02C8wan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - animal
+  epo:
+  - - besto
+  spa:
+  - - animal (_Animalia_)
+search terms:
+  glb:
+  - hewan
+  eng:
+  - animal
+  epo:
+  - besto
+  spa:
+  - animal
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- bio
+raw data:
+  term: hewan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: animal
+    epo: besto
+    spa: animal (_Animalia_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: bio
+  etymology: "Arabisa (\u062D\u064A\u0648\u0627\u0646 \u201Chayawan\u201D), Parsisa
+    (\u062D\u06CC\u0648\u0627\u0646 \u201Cheyvan\u201D), Turkisa (hayvan), Indonesisa
+    (hewan), Hindisa (\u0939\u0948\u0935\u093E\u0928 \u201Chevan\u201D)"
+...

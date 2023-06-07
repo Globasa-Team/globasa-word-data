@@ -1,0 +1,48 @@
+---
+term: minuto
+slug: minuto
+ipa: "mi\u02C8nuto"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8nuto&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - minute
+  epo:
+  - - minuto
+  spa:
+  - - minuto
+search terms:
+  glb:
+  - minuto
+  eng:
+  - minute
+  epo:
+  - minuto
+  spa:
+  - minuto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: minuto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: minute
+    epo: minuto
+    spa: minuto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (minute), Doycisa (Minute), Fransesa (minute), Espanisa (minuto),
+    Rusisa (\u043C\u0438\u043D\u0443\u0442\u0430 \u201Cminuta\u201D), Hindisa (\u092E\u093F\u0928\u091F
+    \u201Cminat\u201D), Indonesisa (menit), Pilipinasa (minuto)"
+...

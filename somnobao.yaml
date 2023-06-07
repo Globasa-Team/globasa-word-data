@@ -1,0 +1,46 @@
+---
+term: somnobao
+slug: somnobao
+ipa: "somno\u02C8bao"
+ipa link: "http://ipa-reader.xyz/?text=somno\u02C8bao&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - sleeping bag
+  epo:
+  - - dormosako
+  spa:
+  - - saco de dormir
+search terms:
+  glb:
+  - somnobao
+  eng:
+  - sleeping bag
+  epo:
+  - dormosako
+  spa:
+  - saco de dormir
+etymology_type: DERIVD
+etymology: <a href="../lexi/somno">somno</a> + <a href="../lexi/bao">bao</a>
+raw data:
+  term: somnobao
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: sleeping bag
+    epo: dormosako
+    spa: saco de dormir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: somno + bao
+...

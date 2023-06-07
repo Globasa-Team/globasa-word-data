@@ -1,0 +1,56 @@
+---
+term: dyuca
+slug: dyuca
+ipa: ˈdjut͡ʃa
+ipa link: http://ipa-reader.xyz/?text=ˈdjut͡ʃa&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - investigation
+  - - investigate
+  epo:
+  - - esploro
+  - - esplori
+  spa:
+  - - investigación
+  - - investigar
+search terms:
+  glb:
+  - dyuca
+  eng:
+  - investigation
+  - investigate
+  epo:
+  - esploro
+  - esplori
+  spa:
+  - investigación
+  - investigar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 调查 “dyawca”
+  Vyetnamsa:
+  - - điều tra “dyuca”
+raw data:
+  term: dyuca
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: investigation; investigate
+    epo: esploro; esplori
+    spa: investigación; investigar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (调查 “dyawca”), Vyetnamsa (điều tra “dyuca”)
+...

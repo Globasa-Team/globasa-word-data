@@ -1,0 +1,52 @@
+---
+term: gambi
+slug: gambi
+ipa: "\u02C8gambi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8gambi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - The Gambia
+  epo:
+  - - Gambio
+    - Gambilando
+  spa:
+  - - Gambia
+search terms:
+  glb:
+  - gambi
+  eng:
+  - the gambia
+  epo:
+  - gambio
+  - gambilando
+  spa:
+  - gambia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - The Gambia
+tags:
+- dexa
+raw data:
+  term: Gambi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: The Gambia
+    epo: Gambio, Gambilando
+    spa: Gambia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (The Gambia)
+...

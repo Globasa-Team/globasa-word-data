@@ -1,0 +1,46 @@
+---
+term: indonesiyen
+slug: indonesiyen
+ipa: "indonesi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=indonesi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Indonesian
+  epo:
+  - - indoneziano
+  spa:
+  - - indonesio (_persona_)
+search terms:
+  glb:
+  - indonesiyen
+  eng:
+  - indonesian
+  epo:
+  - indoneziano
+  spa:
+  - indonesio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Indonesi">Indonesi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Indonesiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'Indonesian '
+    epo: indoneziano
+    spa: indonesio (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Indonesi + -yen
+...

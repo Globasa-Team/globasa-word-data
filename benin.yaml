@@ -1,0 +1,50 @@
+---
+term: benin
+slug: benin
+ipa: "be\u02C8nin"
+ipa link: "http://ipa-reader.xyz/?text=be\u02C8nin&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Benin
+  epo:
+  - - Benino
+  spa:
+  - - "Ben\xEDn"
+search terms:
+  glb:
+  - benin
+  eng:
+  - benin
+  epo:
+  - benino
+  spa:
+  - "ben\xEDn"
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - "B\xE9nin"
+tags:
+- dexa
+raw data:
+  term: Benin
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Benin
+    epo: Benino
+    spa: "Ben\xEDn"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Fransesa (B\xE9nin)"
+...

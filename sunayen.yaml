@@ -1,0 +1,46 @@
+---
+term: sunayen
+slug: sunayen
+ipa: "suna\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=suna\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - android
+  epo:
+  - - androido
+  spa:
+  - - androide
+search terms:
+  glb:
+  - sunayen
+  eng:
+  - android
+  epo:
+  - androido
+  spa:
+  - androide
+etymology_type: DERIVD
+etymology: <a href="../lexi/suna">suna</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: sunayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: android
+    epo: androido
+    spa: androide
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: suna + -yen
+...

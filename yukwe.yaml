@@ -1,0 +1,61 @@
+---
+term: yukwe
+slug: yukwe
+ipa: "\u02C8jukwe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jukwe&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - pleasant
+    - pleasantly
+    - pleasing
+    - nice
+    - nicely
+  epo:
+  - - "pla\u0109a"
+  - - "pla\u0109e"
+  spa:
+  - - agradable
+search terms:
+  glb:
+  - yukwe
+  eng:
+  - pleasant
+  - pleasantly
+  - pleasing
+  - nice
+  - nicely
+  epo:
+  - "pla\u0109a"
+  - "pla\u0109e"
+  spa:
+  - agradable
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6109\u5FEB \u201Cy\xFAku\xE0i\u201D"
+  Hangusa:
+  - - "\uC720\uCF8C\uD55C \u201Cyukwehan\u201D"
+raw data:
+  term: yukwe
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: pleasant, pleasantly, pleasing, nice, nicely
+    epo: "pla\u0109a; pla\u0109e"
+    spa: agradable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: Yukwe na xorkone yu.
+  tags: ""
+  etymology: "Putunhwa (\u6109\u5FEB \u201Cy\xFAku\xE0i\u201D), Hangusa (\uC720\uCF8C\uD55C
+    \u201Cyukwehan\u201D)"
+...

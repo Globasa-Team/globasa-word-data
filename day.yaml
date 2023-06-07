@@ -1,0 +1,66 @@
+---
+term: day
+slug: day
+ipa: ˈdaj
+ipa link: http://ipa-reader.xyz/?text=ˈdaj&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - big
+    - large
+    - great
+    - major
+    - greatly
+  epo:
+  - - granda
+    - ega
+  - - grande
+    - ege
+  spa:
+  - - grande
+search terms:
+  glb:
+  - day
+  eng:
+  - big
+  - large
+  - great
+  - major
+  - greatly
+  epo:
+  - granda
+  - ega
+  - grande
+  - ege
+  spa:
+  - grande
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 大 “dà”
+  Niponsa:
+  - - 大 “dai-”
+antonyms:
+- lil
+raw data:
+  term: day
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: big, large, great, major, greatly
+    epo: granda, ega; grande, ege
+    spa: grande
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: lil
+  example: ""
+  tags: ""
+  etymology: Putunhwa (大 “dà”), Niponsa (大 “dai-”)
+...

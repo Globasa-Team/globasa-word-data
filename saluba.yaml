@@ -1,0 +1,63 @@
+---
+term: saluba
+slug: saluba
+ipa: "sa\u02C8luba"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8luba&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cross
+  epo:
+  - - kruco
+  spa:
+  - - cruz
+search terms:
+  glb:
+  - saluba
+  eng:
+  - cross
+  epo:
+  - kruco
+  spa:
+  - cruz
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u0932\u0940\u092C \u201Csal\u012Bba\u201D"
+  Arabisa:
+  - - "\u0635\u064E\u0644\u0650\u064A\u0628 \u201C\u1E63al\u012Bb\u201D"
+  Indonesisa:
+  - - salib
+  Swahilisa:
+  - - msalaba
+  Parsisa:
+  - - "\u0686\u0644\u06CC\u067E\u0627 \u201C\u010Dalip\xE2\u201D"
+    - "\u0635\u0644\u06CC\u0628 \u201Csalib\u201D"
+  Telugusa:
+  - - "\u0C36\u0C3F\u0C32\u0C41\u0C35 \u201C\u015Biluva\u201D"
+raw data:
+  term: saluba
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cross
+    epo: kruco
+    spa: cruz
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0938\u0932\u0940\u092C \u201Csal\u012Bba\u201D), Arabisa
+    (\u0635\u064E\u0644\u0650\u064A\u0628 \u201C\u1E63al\u012Bb\u201D), Indonesisa
+    (salib), Swahilisa (msalaba), Parsisa (\u0686\u0644\u06CC\u067E\u0627 \u201C\u010Dalip\xE2\u201D,
+    \u0635\u0644\u06CC\u0628 \u201Csalib\u201D), Telugusa (\u0C36\u0C3F\u0C32\u0C41\u0C35
+    \u201C\u015Biluva\u201D)"
+...

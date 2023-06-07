@@ -1,0 +1,46 @@
+---
+term: samawatu
+slug: samawatu
+ipa: "sama\u02C8watu"
+ipa link: "http://ipa-reader.xyz/?text=sama\u02C8watu&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - at the same time
+  epo:
+  - - samtempe
+  spa:
+  - - al mismo tiempo
+search terms:
+  glb:
+  - samawatu
+  eng:
+  - at the same time
+  epo:
+  - samtempe
+  spa:
+  - al mismo tiempo
+etymology_type: DERIVD
+etymology: <a href="../lexi/sama">sama</a> + <a href="../lexi/watu">watu</a>
+raw data:
+  term: samawatu
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: 'at the same time '
+    epo: samtempe
+    spa: al mismo tiempo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sama + watu
+...

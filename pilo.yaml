@@ -1,0 +1,68 @@
+---
+term: pilo
+slug: pilo
+ipa: "\u02C8pilo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pilo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - fatigue
+  - - tire
+    - fatigue
+  epo:
+  - - laceco
+  - - "laci\u011Di"
+    - lacigi
+  spa:
+  - - fatiga
+    - cansancio
+  - - fatigarse
+    - cansarse
+    - fatigar
+    - cansar
+search terms:
+  glb:
+  - pilo
+  eng:
+  - fatigue
+  - tire
+  epo:
+  - laceco
+  - "laci\u011Di"
+  - lacigi
+  spa:
+  - fatiga
+  - cansancio
+  - fatigarse
+  - cansarse
+  - fatigar
+  - cansar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u75B2\u52B3 \u201Cp\xEDl\xE1o\u201D"
+  Hangusa:
+  - - "\uD53C\uB85C \u201Cpilo\u201D"
+raw data:
+  term: pilo
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: fatigue; tire, fatigue
+    epo: "laceco; laci\u011Di, lacigi"
+    spa: fatiga, cansancio; fatigarse, cansarse, fatigar, cansar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u75B2\u52B3 \u201Cp\xEDl\xE1o\u201D), Hangusa (\uD53C\uB85C
+    \u201Cpilo\u201D)"
+...

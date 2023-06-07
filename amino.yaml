@@ -1,0 +1,82 @@
+---
+term: amino
+slug: amino
+ipa: aˈmino
+ipa link: http://ipa-reader.xyz/?text=aˈmino&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - amino
+    - amine
+  epo:
+  - - amino
+  spa:
+  - - amino
+    - amina
+search terms:
+  glb:
+  - amino
+  eng:
+  - amino
+  - amine
+  epo:
+  - amino
+  spa:
+  - amino
+  - amina
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - amino
+  Indonesisa: ~
+  Pilipinasa: ~
+  Swahilisa: ~
+  Espanisa:
+  - - amino-
+  Doycisa: ~
+  Turkisa: ~
+  Fransesa:
+  - - aminé
+  Rusisa:
+  - - амино- “amino-”
+  Hindisa:
+  - - अमीनो “amino”
+  Arabisa:
+  - - أميني “amini”
+  Niponsa:
+  - - アミノ “amino”
+  Telugusa:
+  - - ఎమైనో “emeno”
+  Hangusa:
+  - - 아미노 “amino”
+  Vyetnamsa:
+  - - amino
+    - amin
+  Parsisa:
+  - - آمینه
+    - -آمین
+raw data:
+  term: amino
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: amino, amine
+    epo: amino
+    spa: amino, amina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (amino), Indonesisa, Pilipinasa, Swahilisa, Espanisa (amino-),
+    Doycisa, Turkisa, Fransesa (aminé), Rusisa (амино- “amino-”), Hindisa (अमीनो “amino”),
+    Arabisa (أميني “amini”), Niponsa (アミノ “amino”), Telugusa (ఎమైనో “emeno”), Hangusa
+    (아미노 “amino”), Vyetnamsa (amino, amin), Parsisa (آمینه, -آمین)
+...

@@ -1,0 +1,48 @@
+---
+term: wakilyen
+slug: wakilyen
+ipa: "waki\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=waki\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - representative
+    - agent
+  epo:
+  - - reprezentanto
+  spa:
+  - - representante
+search terms:
+  glb:
+  - wakilyen
+  eng:
+  - representative
+  - agent
+  epo:
+  - reprezentanto
+  spa:
+  - representante
+etymology_type: DERIVD
+etymology: <a href="../lexi/wakil">wakil</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: wakilyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: representative, agent
+    epo: reprezentanto
+    spa: representante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wakil + -yen
+...

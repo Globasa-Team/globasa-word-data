@@ -1,0 +1,50 @@
+---
+term: nenikaw
+slug: nenikaw
+ipa: "neni\u02C8kaw"
+ipa link: "http://ipa-reader.xyz/?text=neni\u02C8kaw&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - independence
+  epo:
+  - - nedependeco
+    - sendependeco
+  spa:
+  - - independencia
+search terms:
+  glb:
+  - nenikaw
+  eng:
+  - independence
+  epo:
+  - nedependeco
+  - sendependeco
+  spa:
+  - independencia
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/ikaw">ikaw</a>
+synonyms:
+- ikawkalya
+raw data:
+  term: nenikaw
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: independence
+    epo: nedependeco, sendependeco
+    spa: independencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ikawkalya
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + ikaw
+...

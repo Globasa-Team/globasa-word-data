@@ -1,0 +1,48 @@
+---
+term: uyusu to
+slug: uyusu to
+ipa: "u\u02C8jusu \u02C8to"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8jusu \u02C8to&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - yours (_that thing belonging to you all_)
+  epo:
+  - - la via
+  spa:
+  - - el de ustedes (_cosa_)
+search terms:
+  glb:
+  - uyusu to
+  - uyusu
+  - to
+  eng:
+  - yours
+  epo:
+  - la via
+  spa:
+  - el de ustedes
+etymology_type: DERIVD
+etymology: <a href="../lexi/uyu">uyu</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/te">te</a>
+raw data:
+  term: uyusu to
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: yours (_that thing belonging to you all_)
+    epo: la via
+    spa: el de ustedes (_cosa_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: uyu + -su, te
+...

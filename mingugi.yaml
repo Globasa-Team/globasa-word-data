@@ -1,0 +1,52 @@
+---
+term: mingugi
+slug: mingugi
+ipa: "min\u02C8gugi"
+ipa link: "http://ipa-reader.xyz/?text=min\u02C8gugi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - clarification
+  - - clarify
+  epo:
+  - - klarigo
+  - - klarigi
+  spa:
+  - - "aclaraci\xF3n"
+  - - aclarar
+search terms:
+  glb:
+  - mingugi
+  eng:
+  - clarification
+  - clarify
+  epo:
+  - klarigo
+  - klarigi
+  spa:
+  - "aclaraci\xF3n"
+  - aclarar
+etymology_type: DERIVD
+etymology: <a href="../lexi/mingu">mingu</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: mingugi
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: clarification; clarify
+    epo: klarigo; klarigi
+    spa: "aclaraci\xF3n; aclarar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mingu + -gi
+...

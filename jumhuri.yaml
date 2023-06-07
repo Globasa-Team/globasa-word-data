@@ -1,0 +1,49 @@
+---
+term: jumhuri
+slug: jumhuri
+ipa: "d\u0361\u0292um\u02C8xu\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292um\u02C8xu\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - republic
+  epo:
+  - - respubliko
+  spa:
+  - - "rep\xFAblica"
+search terms:
+  glb:
+  - jumhuri
+  eng:
+  - republic
+  epo:
+  - respubliko
+  spa:
+  - "rep\xFAblica"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jumhuri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: republic
+    epo: respubliko
+    spa: "rep\xFAblica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u201Cjumhuria\u201D),
+    Parsisa (\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u201Cjomhuri\u201D), Swahilisa
+    (jamhuri), Turkisa (cumhuriyet), Hindisa (\u091C\u092E\u094D\u0939\u0942\u0930\u093F\u092F\u0924
+    \u201Cjamhuriyat\u201D)"
+...

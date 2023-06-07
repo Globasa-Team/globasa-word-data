@@ -1,0 +1,85 @@
+---
+term: fokus
+slug: fokus
+ipa: foˈkus
+ipa link: http://ipa-reader.xyz/?text=foˈkus&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - focus
+    - concentration
+  - - focus
+    - concentrate
+  epo:
+  - - fokuso
+    - koncentrado
+  - - fokusiĝi
+    - koncentriĝi
+    - fokusi
+    - koncentri
+  spa:
+  - - enfoque
+    - concentración
+  - - enfocarse
+    - concentrarse
+search terms:
+  glb:
+  - fokus
+  eng:
+    0: focus
+    1: concentration
+    3: concentrate
+  epo:
+  - fokuso
+  - koncentrado
+  - fokusiĝi
+  - koncentriĝi
+  - fokusi
+  - koncentri
+  spa:
+  - enfoque
+  - concentración
+  - enfocarse
+  - concentrarse
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Fokus
+  Englisa:
+  - - focus
+  Espanisa:
+  - - foco
+  Fransesa:
+  - - focal
+  Rusisa:
+  - - фокус “fokus”
+  Indonesisa:
+  - - fokus
+  Pilipinasa:
+  - - pokus
+  Hindisa:
+  - - फोकस “fokas”
+raw data:
+  term: fokus
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: focus, concentration; focus, concentrate
+    epo: fokuso, koncentrado; fokusiĝi, koncentriĝi, fokusi, koncentri
+    spa: enfoque, concentración; enfocarse, concentrarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Fokus), Englisa (focus), Espanisa (foco), Fransesa (focal),
+    Rusisa (фокус “fokus”), Indonesisa (fokus), Pilipinasa (pokus), Hindisa (फोकस
+    “fokas”)
+...

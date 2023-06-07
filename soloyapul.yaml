@@ -1,0 +1,48 @@
+---
+term: soloyapul
+slug: soloyapul
+ipa: "soloja\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=soloja\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - solitary
+  epo:
+  - - soleca
+  - - solece
+  spa:
+  - - solitario
+search terms:
+  glb:
+  - soloyapul
+  eng:
+  - solitary
+  epo:
+  - soleca
+  - solece
+  spa:
+  - solitario
+etymology_type: DERIVD
+etymology: <a href="../lexi/solo">solo</a> + <a href="../lexi/-ya">-ya</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: soloyapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: solitary
+    epo: soleca; solece
+    spa: solitario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: solo + -ya + -pul
+...

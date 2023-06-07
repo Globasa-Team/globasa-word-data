@@ -1,0 +1,71 @@
+---
+term: fatmin
+slug: fatmin
+ipa: fatˈmin
+ipa link: http://ipa-reader.xyz/?text=fatˈmin&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - invention
+  - - invent
+  epo:
+  - - invento
+    - eltrovo
+    - elpenso
+  - - inventi
+    - eltrovi
+    - elpensi
+  spa:
+  - - invento
+    - invención
+  - - inventar
+search terms:
+  glb:
+  - fatmin
+  eng:
+  - invention
+  - invent
+  epo:
+  - invento
+  - eltrovo
+  - elpenso
+  - inventi
+  - eltrovi
+  - elpensi
+  spa:
+  - invento
+  - invención
+  - inventar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 发明 “faming”
+  Hangusa:
+  - - 발명 “balmyang”
+  Niponsa:
+  - - 発明 “hatsumey”
+  Vyetnamsa:
+  - - phát minh “fatmin”
+raw data:
+  term: fatmin
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: invention; invent
+    epo: invento, eltrovo, elpenso; inventi, eltrovi, elpensi
+    spa: invento, invención; inventar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (发明 “faming”), Hangusa (발명 “balmyang”), Niponsa (発明 “hatsumey”),
+    Vyetnamsa (phát minh “fatmin”)
+...

@@ -1,0 +1,61 @@
+---
+term: sengi
+slug: sengi
+ipa: "\u02C8sengi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sengi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - cause to be
+    - cause to become
+    - turn (into)
+    - make (_+ adj_)
+  epo:
+  - - farigo
+    - igo
+  - - farigi
+    - igi
+  spa:
+  - - hacer que sea
+    - volver
+search terms:
+  glb:
+  - sengi
+  eng:
+  - cause to be
+  - cause to become
+  - turn into
+  - turn
+  - make
+  epo:
+  - farigo
+  - igo
+  - farigi
+  - igi
+  spa:
+  - hacer que sea
+  - volver
+etymology_type: DERIVD
+etymology: <a href="../lexi/sen">sen</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: sengi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: cause to be, cause to become, turn (into), make (_+ adj_)
+    epo: farigo, igo; farigi, igi
+    spa: hacer que sea, volver
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sen + -gi
+...

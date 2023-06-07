@@ -1,0 +1,70 @@
+---
+term: ente
+slug: ente
+ipa: ˈente
+ipa link: http://ipa-reader.xyz/?text=ˈente&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (inanimate) agent
+  epo:
+  - - (neviva) aganto
+  spa:
+  - - agente (inanimado)
+search terms:
+  glb:
+  - ente
+  eng:
+  - inanimate agent
+  - agent
+  epo:
+  - neviva aganto
+  - aganto
+  spa:
+  - agente inanimado
+  - agente
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - -ent
+    - -ant
+    - agent
+  Espanisa:
+  - - -ente
+    - agente
+  Fransesa:
+  - - agent
+  Rusisa:
+  - - агент “agent”
+  Indonesisa:
+  - - agen
+  Doycisa:
+  - - Agent
+  Turkisa:
+  - - acente
+  Pilipinasa:
+  - - ahente
+raw data:
+  term: ente
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (inanimate) agent
+    epo: (neviva) aganto
+    spa: agente (inanimado)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (-ent, -ant, agent), Espanisa (-ente, agente), Fransesa (agent),
+    Rusisa (агент “agent”), Indonesisa (agen), Doycisa (Agent), Turkisa (acente),
+    Pilipinasa (ahente)
+...

@@ -1,0 +1,51 @@
+---
+term: -su
+slug: -su
+ipa: "\u02C8-su"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-su&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - _possessive adjective marker_
+  epo:
+  - - _markilo de podesa adjektivo_
+    - -a
+  spa:
+  - - _marcador de adjetivo posesivo_
+search terms:
+  glb:
+  - -su
+  eng:
+  - possessive adjective marker
+  epo:
+  - markilo de podesa adjektivo
+  - -a
+  spa:
+  - marcador de adjetivo posesivo
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/su">su</a>.
+synonyms:
+- su
+- de
+raw data:
+  term: -su
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: _possessive adjective marker_
+    epo: _markilo de podesa adjektivo_, -a
+    spa: _marcador de adjetivo posesivo_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: su, de
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _su_.
+...

@@ -1,0 +1,48 @@
+---
+term: bananadrevo
+slug: bananadrevo
+ipa: "banana\u02C8d\u027Eevo"
+ipa link: "http://ipa-reader.xyz/?text=banana\u02C8d\u027Eevo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - banana tree
+  epo:
+  - - bananujo
+  spa:
+  - - bananero
+    - platanero
+search terms:
+  glb:
+  - bananadrevo
+  eng:
+  - banana tree
+  epo:
+  - bananujo
+  spa:
+  - bananero
+  - platanero
+etymology_type: DERIVD
+etymology: <a href="../lexi/banana">banana</a> + <a href="../lexi/drevo">drevo</a>
+raw data:
+  term: bananadrevo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: banana tree
+    epo: bananujo
+    spa: bananero, platanero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: banana + drevo
+...

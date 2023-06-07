@@ -1,0 +1,48 @@
+---
+term: poslifti
+slug: poslifti
+ipa: "pos\u02C8lifti"
+ipa link: "http://ipa-reader.xyz/?text=pos\u02C8lifti&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - lower
+  epo:
+  - - mallevo
+  - - mallevi
+  spa:
+  - - bajar
+search terms:
+  glb:
+  - poslifti
+  eng:
+  - lower
+  epo:
+  - mallevo
+  - mallevi
+  spa:
+  - bajar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/lifti">lifti</a>
+raw data:
+  term: poslifti
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: lower
+    epo: mallevo; mallevi
+    spa: bajar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + lifti
+...

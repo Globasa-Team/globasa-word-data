@@ -1,0 +1,83 @@
+---
+term: awstralia
+slug: awstralia
+ipa: "awst\u027Ea\u02C8lia"
+ipa link: "http://ipa-reader.xyz/?text=awst\u027Ea\u02C8lia&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Australia (_continent_)
+    - Sahul
+  epo:
+  - - "A\u016Dstralia Kontinento"
+    - Sahulo
+  spa:
+  - - Australia (continente)
+    - Sahul
+search terms:
+  glb:
+  - awstralia
+  eng:
+  - australia
+  - sahul
+  epo:
+  - "a\u016Dstralia kontinento"
+  - sahulo
+  spa:
+  - australia continente
+  - australia
+  - sahul
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Australia
+  Fransesa:
+  - - Australie
+  Doycisa:
+  - - Australien
+  Rusisa:
+  - - "\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F \u201CAvstralija\u201D"
+  Niponsa:
+  - - "\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2 \u201C\u014Csutoraria\u201D"
+  Hangusa:
+  - - "\uC624\uC2A4\uD2B8\uB808\uC77C\uB9AC\uC544 \u201COseuteureillia\u201D"
+  Telugusa:
+  - - "\u0C06\u0C38\u0C4D\u0C1F\u0C4D\u0C30\u0C47\u0C32\u0C3F\u0C2F\u0C3E \u201C\u0100s\u1E6Dr\u0113liy\u0101\u201D"
+  Arabisa:
+  - - "\u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u201C\u02BEUstur\u0101liy\u0101\u201D"
+  Parsisa:
+  - - "\u0627\u0633\u062A\u0631\u0627\u0644\u06CC\u0627 \u201COstor\xE2liy\xE2\u201D"
+  Turkisa:
+  - - Avustralya
+tags:
+- geografi
+- daygeo
+raw data:
+  term: Awstralia
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Australia (_continent_), Sahul
+    epo: "A\u016Dstralia Kontinento, Sahulo"
+    spa: Australia (continente), Sahul
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi, daygeo
+  etymology: "Englisa (Australia), Fransesa (Australie), Doycisa (Australien), Rusisa
+    (\u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u044F \u201CAvstralija\u201D),
+    Niponsa (\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2 \u201C\u014Csutoraria\u201D),
+    Hangusa (\uC624\uC2A4\uD2B8\uB808\uC77C\uB9AC\uC544 \u201COseuteureillia\u201D),
+    Telugusa (\u0C06\u0C38\u0C4D\u0C1F\u0C4D\u0C30\u0C47\u0C32\u0C3F\u0C2F\u0C3E \u201C\u0100s\u1E6Dr\u0113liy\u0101\u201D),
+    Arabisa (\u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u201C\u02BEUstur\u0101liy\u0101\u201D),
+    Parsisa (\u0627\u0633\u062A\u0631\u0627\u0644\u06CC\u0627 \u201COstor\xE2liy\xE2\u201D),
+    Turkisa (Avustralya)"
+...

@@ -1,0 +1,58 @@
+---
+term: dayhox
+slug: dayhox
+ipa: "daj\u02C8xo\u0283"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8xo\u0283&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - ecstatic
+    - blissful
+  epo:
+  - - "feli\u0109ega"
+    - ekstaza
+    - beata
+  - - "feli\u0109ege"
+    - ekstaze
+    - beate
+  spa:
+  - - "ext\xE1tico"
+search terms:
+  glb:
+  - dayhox
+  eng:
+  - ecstatic
+  - blissful
+  epo:
+  - "feli\u0109ega"
+  - ekstaza
+  - beata
+  - "feli\u0109ege"
+  - ekstaze
+  - beate
+  spa:
+  - "ext\xE1tico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/hox">hox</a>
+raw data:
+  term: dayhox
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: ecstatic, blissful
+    epo: "feli\u0109ega, ekstaza, beata; feli\u0109ege, ekstaze, beate"
+    spa: "ext\xE1tico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + hox
+...

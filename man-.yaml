@@ -1,0 +1,48 @@
+---
+term: man-
+slug: man-
+ipa: "\u02C8man-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8man-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - male
+  epo:
+  - - vir-
+    - "-i\u0109-"
+  spa:
+  - - masculino
+search terms:
+  glb:
+  - man-
+  eng:
+  - male
+  epo:
+  - vir-
+  - "-i\u0109-"
+  spa:
+  - masculino
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/man">man</a>.
+raw data:
+  term: man-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: male
+    epo: "vir-, -i\u0109-"
+    spa: masculino
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _man_.
+...

@@ -1,0 +1,65 @@
+---
+term: donmen
+slug: donmen
+ipa: donˈmen
+ipa link: http://ipa-reader.xyz/?text=donˈmen&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - alliance
+  - - ally (_become allied with_)
+  epo:
+  - - alianco
+  - - alianciĝi
+    - aliancigi
+  spa:
+  - - alianza
+  - - aliar
+    - aliarse
+search terms:
+  glb:
+  - donmen
+  eng:
+  - alliance
+  - ally
+  epo:
+  - alianco
+  - alianciĝi
+  - aliancigi
+  spa:
+  - alianza
+  - aliar
+  - aliarse
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 同盟 “tongmeng”
+  Niponsa:
+  - - 同盟 “domei”
+  Hangusa:
+  - - 동맹 “dongmeng”
+  Vyetnamsa:
+  - - đồng minh
+raw data:
+  term: donmen
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: alliance; ally (_become allied with_)
+    epo: alianco; alianciĝi, aliancigi
+    spa: alianza; aliar, aliarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (同盟 “tongmeng”), Niponsa (同盟 “domei”), Hangusa (동맹 “dongmeng”),
+    Vyetnamsa (đồng minh)
+...

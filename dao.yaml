@@ -1,0 +1,66 @@
+---
+term: dao
+slug: dao
+ipa: ˈdao
+ipa link: http://ipa-reader.xyz/?text=ˈdao&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - path
+    - way
+  - - travel
+  epo:
+  - - vojo
+    - irejo
+  - - vojaĝi
+    - laŭiri
+    - veturi
+  spa:
+  - - camino
+    - senda
+    - vía
+  - - viajar
+search terms:
+  glb:
+  - dao
+  eng:
+  - path
+  - way
+  - travel
+  epo:
+  - vojo
+  - irejo
+  - vojaĝi
+  - laŭiri
+  - veturi
+  spa:
+  - camino
+  - senda
+  - vía
+  - viajar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 道 “dào”
+raw data:
+  term: dao
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: 'path, way; travel '
+    epo: vojo, irejo; vojaĝi, laŭiri, veturi
+    spa: camino, senda, vía; viajar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (道 “dào”)
+...

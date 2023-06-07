@@ -1,0 +1,71 @@
+---
+term: supraidi
+slug: supraidi
+ipa: "sup\u027Ea\u02C8idi"
+ipa link: "http://ipa-reader.xyz/?text=sup\u027Ea\u02C8idi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - ascent
+    - ascension
+    - climb
+  - - ascend
+    - go up
+    - climb
+  epo:
+  - - supreniro
+  - - supreniri
+    - grimpi
+  spa:
+  - - ascenso
+    - subida
+    - escalada
+    - "ascensi\xF3n"
+  - - ascender
+    - subir
+    - escalar
+search terms:
+  glb:
+  - supraidi
+  eng:
+  - ascent
+  - ascension
+  - climb
+  - ascend
+  - go up
+  epo:
+  - supreniro
+  - supreniri
+  - grimpi
+  spa:
+  - ascenso
+  - subida
+  - escalada
+  - "ascensi\xF3n"
+  - ascender
+  - subir
+  - escalar
+etymology_type: DERIVD
+etymology: <a href="../lexi/supra-">supra-</a> + <a href="../lexi/idi">idi</a>
+raw data:
+  term: supraidi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: ascent, ascension, climb; ascend, go up, climb
+    epo: supreniro; supreniri, grimpi
+    spa: "ascenso, subida, escalada, ascensi\xF3n; ascender, subir, escalar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: supra- + idi
+...

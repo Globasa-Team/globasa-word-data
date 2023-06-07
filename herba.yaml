@@ -1,0 +1,56 @@
+---
+term: herba
+slug: herba
+ipa: "\u02C8xe\u027Eba"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe\u027Eba&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - herb
+  epo:
+  - - (kuireja) herbo
+    - spicherbo
+  spa:
+  - - hierba
+    - yerba
+search terms:
+  glb:
+  - herba
+  eng:
+  - herb
+  epo:
+  - kuireja herbo
+  - herbo
+  - spicherbo
+  spa:
+  - hierba
+  - yerba
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- planta
+- yamxey
+raw data:
+  term: herba
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: herb
+    epo: (kuireja) herbo, spicherbo
+    spa: hierba, yerba
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta, yamxey
+  etymology: "Englisa (herb), Espanisa (hierba), Fransesa (herbe), Indonesisa (herba),
+    Pilipinasa (yerba), Niponsa (\u30CF\u30FC\u30D6 \"habu\"), Hangusa (\uD5C8\uBE0C
+    \"hebu\")"
+...

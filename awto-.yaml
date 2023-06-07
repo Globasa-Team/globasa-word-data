@@ -1,0 +1,50 @@
+---
+term: awto-
+slug: awto-
+ipa: "aw\u02C8to-"
+ipa link: "http://ipa-reader.xyz/?text=aw\u02C8to-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - auto-
+    - automatic
+  epo:
+  - - "a\u016Dtomata"
+    - "a\u016Dtomate"
+  spa:
+  - - "autom\xE1tico"
+search terms:
+  glb:
+  - awto-
+  eng:
+  - auto-
+  - automatic
+  epo:
+  - "a\u016Dtomata"
+  - "a\u016Dtomate"
+  spa:
+  - "autom\xE1tico"
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/awtomati">awtomati</a>.
+raw data:
+  term: awto-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: auto-, automatic
+    epo: "a\u016Dtomata, a\u016Dtomate"
+    spa: "autom\xE1tico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _awtomati_.
+...

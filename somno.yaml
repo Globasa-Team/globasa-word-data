@@ -1,0 +1,68 @@
+---
+term: somno
+slug: somno
+ipa: "\u02C8somno"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8somno&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - sleep
+  epo:
+  - - dormo
+  - - dormi
+  spa:
+  - - "sue\xF1o"
+  - - dormir
+search terms:
+  glb:
+  - somno
+  eng:
+  - sleep
+  epo:
+  - dormo
+  - dormi
+  spa:
+  - "sue\xF1o"
+  - dormir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - insomnia
+  Fransesa:
+  - - insomnie
+    - sommeil
+  Portugalsa:
+  - - sono
+  Espanisa:
+  - - "sue\xF1o"
+    - insomnio
+  Rusisa:
+  - - "\u0441\u043E\u043D \u201Cson\u201D"
+  Swerisa:
+  - - "s\xF6mn"
+  Niponsa:
+  - - "\u7761\u7720 \u201Csuimin\u201D"
+raw data:
+  term: somno
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: sleep
+    epo: dormo; dormi
+    spa: "sue\xF1o; dormir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (insomnia), Fransesa (insomnie, sommeil), Portugalsa (sono),
+    Espanisa (sue\xF1o, insomnio), Rusisa (\u0441\u043E\u043D \u201Cson\u201D), Swerisa
+    (s\xF6mn), Niponsa (\u7761\u7720 \u201Csuimin\u201D)"
+...

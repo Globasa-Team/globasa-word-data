@@ -1,0 +1,74 @@
+---
+term: a
+slug: a
+ipa: ˈa
+ipa link: http://ipa-reader.xyz/?text=ˈa&voice=Ewa
+status: true
+category: root
+word class: il
+trans:
+  eng:
+  - - ah (_denotes surprise or wonder_)
+  epo:
+  - - ha
+  spa:
+  - - ah
+  deu:
+  - - ah (_Ausdruck der Überraschung oder der Verwunderung_)
+  fra:
+  - - ah
+  rus:
+  - - а
+  zho:
+  - - 啊
+search terms:
+  glb:
+  - a
+  eng:
+  - ah
+  epo:
+  - ha
+  spa:
+  - ah
+  deu:
+  - ah
+  fra:
+  - ah
+  rus:
+  - а
+  zho:
+  - 啊
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 啊 “a”
+  Englisa:
+  - - ah
+  Doycisa:
+  - - ah
+  Espanisa:
+  - - ah
+  Rusisa:
+  - - ах “akh”
+    - a “a”
+raw data:
+  term: a
+  category: root
+  word class: il
+  status: true
+  trans:
+    eng: ah (_denotes surprise or wonder_)
+    epo: ha
+    spa: ah
+    deu: ah (_Ausdruck der Überraschung oder der Verwunderung_)
+    fra: ah
+    rus: а
+    zho: 啊
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (啊 “a”), Englisa (ah), Doycisa (ah), Espanisa (ah), Rusisa (ах
+    “akh”, a “a”)
+...

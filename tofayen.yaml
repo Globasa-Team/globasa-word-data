@@ -1,0 +1,60 @@
+---
+term: tofayen
+slug: tofayen
+ipa: "tofa\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=tofa\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hairdresser
+    - hairstylist
+    - barber
+  epo:
+  - - frizisto
+    - hartondisto
+    - barbiro
+    - barbisto
+    - razisto
+    - kombisto
+  spa:
+  - - peluquero
+search terms:
+  glb:
+  - tofayen
+  eng:
+  - hairdresser
+  - hairstylist
+  - barber
+  epo:
+  - frizisto
+  - hartondisto
+  - barbiro
+  - barbisto
+  - razisto
+  - kombisto
+  spa:
+  - peluquero
+etymology_type: DERIVD
+etymology: <a href="../lexi/tofa">tofa</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: tofayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hairdresser, hairstylist, barber
+    epo: frizisto, hartondisto, barbiro, barbisto, razisto, kombisto
+    spa: peluquero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tofa + -yen
+...

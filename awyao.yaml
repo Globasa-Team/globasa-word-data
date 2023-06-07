@@ -1,0 +1,50 @@
+---
+term: awyao
+slug: awyao
+ipa: "aw\u02C8jao"
+ipa link: "http://ipa-reader.xyz/?text=aw\u02C8jao&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - biting away
+  - - bite away
+  epo:
+  - - formordo
+  - - formordi
+  spa:
+  - - roer
+search terms:
+  glb:
+  - awyao
+  eng:
+  - biting away
+  - bite away
+  epo:
+  - formordo
+  - formordi
+  spa:
+  - roer
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw-">aw-</a> + <a href="../lexi/yao">yao</a>
+raw data:
+  term: awyao
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: biting away; bite away
+    epo: formordo; formordi
+    spa: roer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aw- + yao
+...

@@ -1,0 +1,56 @@
+---
+term: ixikal
+slug: ixikal
+ipa: "i\u0283i\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=i\u0283i\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - unconscious
+    - unconsciously
+  epo:
+  - - senscia
+    - senkonscia
+  - - senscie
+    - senkonscie
+  spa:
+  - - inconsciente
+  - - inconscientemente
+search terms:
+  glb:
+  - ixikal
+  eng:
+  - unconscious
+  - unconsciously
+  epo:
+  - senscia
+  - senkonscia
+  - senscie
+  - senkonscie
+  spa:
+  - inconsciente
+  - inconscientemente
+etymology_type: DERIVD
+etymology: <a href="../lexi/ixi">ixi</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: ixikal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: unconscious, unconsciously
+    epo: senscia, senkonscia; senscie, senkonscie
+    spa: inconsciente; inconscientemente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ixi + -kal
+...

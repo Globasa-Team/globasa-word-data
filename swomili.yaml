@@ -1,0 +1,48 @@
+---
+term: swomili
+slug: swomili
+ipa: "swo\u02C8mili"
+ipa link: "http://ipa-reader.xyz/?text=swo\u02C8mili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Finnish
+  epo:
+  - - finna
+  spa:
+  - - "fin\xE9s"
+    - "finland\xE9s"
+search terms:
+  glb:
+  - swomili
+  eng:
+  - finnish
+  epo:
+  - finna
+  spa:
+  - "fin\xE9s"
+  - "finland\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Swomi">Swomi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Swomili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Finnish
+    epo: finna
+    spa: "fin\xE9s, finland\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Swomi + -li
+...

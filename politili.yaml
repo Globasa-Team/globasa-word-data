@@ -1,0 +1,50 @@
+---
+term: politili
+slug: politili
+ipa: "poli\u02C8tili"
+ipa link: "http://ipa-reader.xyz/?text=poli\u02C8tili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - political
+  - - politically
+  epo:
+  - - politika
+  - - politike
+  spa:
+  - - "pol\xEDtico"
+search terms:
+  glb:
+  - politili
+  eng:
+  - political
+  - politically
+  epo:
+  - politika
+  - politike
+  spa:
+  - "pol\xEDtico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/politi">politi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: politili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: political; politically
+    epo: politika; politike
+    spa: "pol\xEDtico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: politi + -li
+...

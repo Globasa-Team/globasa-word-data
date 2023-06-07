@@ -1,0 +1,65 @@
+---
+term: visita
+slug: visita
+ipa: "vi\u02C8sita"
+ipa link: "http://ipa-reader.xyz/?text=vi\u02C8sita&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - visit
+  epo:
+  - - vizito
+  - - viziti
+  spa:
+  - - visita
+  - - visitar
+search terms:
+  glb:
+  - visita
+  eng:
+  - visit
+  epo:
+  - vizito
+  - viziti
+  spa:
+  - visita
+  - visitar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - visit
+  Fransesa:
+  - - visite
+  Doycisa:
+  - - Visite
+  Rusisa:
+  - - "\u0432\u0438\u0437\u0438\u0442 \u201Cvizit\u201D"
+  Espanisa:
+  - - visita
+  Pilipinasa:
+  - - bisita
+  Turkisa:
+  - - vizite
+raw data:
+  term: visita
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: visit
+    epo: vizito; viziti
+    spa: visita; visitar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (visit), Fransesa (visite), Doycisa (Visite), Rusisa (\u0432\u0438\u0437\u0438\u0442
+    \u201Cvizit\u201D), Espanisa (visita), Pilipinasa (bisita), Turkisa (vizite)"
+...

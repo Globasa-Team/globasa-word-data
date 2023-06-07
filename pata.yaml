@@ -1,0 +1,62 @@
+---
+term: pata
+slug: pata
+ipa: "\u02C8pata"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pata&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - kick
+  epo:
+  - - piedbato
+    - piedfrapo
+  - - piedbati
+    - piedfrapi
+  spa:
+  - - patada
+  - - patear
+search terms:
+  glb:
+  - pata
+  eng:
+  - kick
+  epo:
+  - piedbato
+  - piedfrapo
+  - piedbati
+  - piedfrapi
+  spa:
+  - patada
+  - patear
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - patada
+    - patear
+  Hindisa:
+  - - "\u092A\u0926\u093E\u0918\u093E\u0924 \u201Cpadaghata\u201D"
+  Arabisa:
+  - - "\u0644\u064E\u0628\u064E\u0637\u064E \u201Clabata\u201D"
+raw data:
+  term: pata
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: kick
+    epo: piedbato, piedfrapo; piedbati, piedfrapi
+    spa: patada; patear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (patada, patear), Hindisa (\u092A\u0926\u093E\u0918\u093E\u0924
+    \u201Cpadaghata\u201D), Arabisa (\u0644\u064E\u0628\u064E\u0637\u064E \u201Clabata\u201D)"
+...

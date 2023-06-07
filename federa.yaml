@@ -1,0 +1,75 @@
+---
+term: federa
+slug: federa
+ipa: feˈdeɾa
+ipa link: http://ipa-reader.xyz/?text=feˈdeɾa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - federation
+  epo:
+  - - federacio
+    - federo
+  spa:
+  - - federación
+search terms:
+  glb:
+  - federa
+  eng:
+  - federation
+  epo:
+  - federacio
+  - federo
+  spa:
+  - federación
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Föderation
+  Englisa:
+  - - federation
+  Espanisa:
+  - - federación
+  Fransesa:
+  - - fédération
+  Rusisa:
+  - - федерация “federatsiya”
+  Arabisa:
+  - - فِدِرَالِيَّة “fidirāliyya”
+  Hindisa:
+  - - फ़ेडरेशन “fedrexan”
+  Indonesisa:
+  - - federasi
+  Pilipinasa:
+  - - pederasyon
+  Turkisa:
+  - - federasyon
+  Parsisa:
+  - - فدراسیون “federâsyun”
+tags:
+- politi
+raw data:
+  term: federa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: federation
+    epo: federacio, federo
+    spa: federación
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: Doycisa (Föderation), Englisa (federation), Espanisa (federación), Fransesa
+    (fédération), Rusisa (федерация “federatsiya”), Arabisa (فِدِرَالِيَّة “fidirāliyya”),
+    Hindisa (फ़ेडरेशन “fedrexan”), Indonesisa (federasi), Pilipinasa (pederasyon),
+    Turkisa (federasyon), Parsisa (فدراسیون “federâsyun”)
+...

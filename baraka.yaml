@@ -1,0 +1,75 @@
+---
+term: baraka
+slug: baraka
+ipa: baˈɾaka
+ipa link: http://ipa-reader.xyz/?text=baˈɾaka&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - blessing
+  - - bless
+  epo:
+  - - beno
+  - - beni
+  spa:
+  - - bendición
+  - - bendecir
+search terms:
+  glb:
+  - baraka
+  eng:
+  - blessing
+  - bless
+  epo:
+  - beno
+  - beni
+  spa:
+  - bendición
+  - bendecir
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - بَرَكَة “baraka"
+  - - بَارَكَ “baraka"
+  - - مُبَارَك “mubarak”
+  Hindisa:
+  - - मुबारक “mubarak”
+  Turkisa:
+  - - bereket
+    - mübarek
+  Parsisa:
+  - - برکت “barekat"
+  - - مبارک “mobarak”
+  Swahilisa:
+  - - baraka
+    - bariki
+  Indonesisa:
+  - - berkat
+    - mubarak
+  Espanisa:
+  - - baraka
+raw data:
+  term: baraka
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: blessing; bless
+    epo: beno; beni
+    spa: bendición; bendecir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (بَرَكَة “baraka";بَارَكَ “baraka";مُبَارَك “mubarak”), Hindisa
+    (मुबारक “mubarak”), Turkisa (bereket, mübarek), Parsisa (برکت “barekat";مبارک
+    “mobarak”), Swahilisa (baraka, bariki), Indonesisa (berkat, mubarak), Espanisa
+    (baraka)
+...

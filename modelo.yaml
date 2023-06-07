@@ -1,0 +1,50 @@
+---
+term: modelo
+slug: modelo
+ipa: "mo\u02C8delo"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8delo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - model
+  epo:
+  - - modelo
+  spa:
+  - - modelo
+search terms:
+  glb:
+  - modelo
+  eng:
+  - model
+  epo:
+  - modelo
+  spa:
+  - modelo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: modelo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: model
+    epo: modelo
+    spa: modelo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (model), Fransesa (mod\xE8le), Doycesa (Modell), Rusisa (\u043C\u043E\u0434\u0435\u043B\u044C
+    \u201Cmodel\u201D), Espanisa (modelo), Niponsa (\u30E2\u30C7\u30EB \u201Cmoderu\u201D),
+    Hangusa (\uBAA8\uB378 \u201Cmodel\u201D), Hindisa (\u092E\u0949\u0921\u0932 \u201Cmodal\u201D),
+    Telugusa (\u0C2E\u0C4B\u0C21\u0C32\u0C4D \u201Cm\u014D\u1E0Dal\u201D), Parsisa
+    (\u0645\u062F\u0644), Turkisa (model), Indonesisa (model), Pilipinasa (modelo)"
+...

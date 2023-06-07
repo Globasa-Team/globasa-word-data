@@ -1,0 +1,52 @@
+---
+term: afrikansesa
+slug: afrikansesa
+ipa: "af\u027Eikan\u02C8sesa"
+ipa link: "http://ipa-reader.xyz/?text=af\u027Eikan\u02C8sesa&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Afrikaans (language)
+  epo:
+  - - la afrikansa (lingvo)
+    - afrikanso
+  spa:
+  - - "afrik\xE1ans"
+search terms:
+  glb:
+  - afrikansesa
+  eng:
+  - afrikaans language
+  - afrikaans
+  epo:
+  - la afrikansa lingvo
+  - la afrikansa
+  - afrikanso
+  spa:
+  - "afrik\xE1ans"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Afrikanse">Afrikanse</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Afrikansesa
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: Afrikaans (language)
+    epo: la afrikansa (lingvo), afrikanso
+    spa: "afrik\xE1ans"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Afrikanse + -sa
+...

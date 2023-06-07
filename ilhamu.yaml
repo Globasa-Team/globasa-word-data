@@ -1,0 +1,54 @@
+---
+term: ilhamu
+slug: ilhamu
+ipa: "il\u02C8xamu"
+ipa link: "http://ipa-reader.xyz/?text=il\u02C8xamu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - inspiration
+  - - inspire
+  epo:
+  - - inspiro
+  - - inspiri
+  spa:
+  - - "inspiraci\xF3n"
+  - - inspirar
+search terms:
+  glb:
+  - ilhamu
+  eng:
+  - inspiration
+  - inspire
+  epo:
+  - inspiro
+  - inspiri
+  spa:
+  - "inspiraci\xF3n"
+  - inspirar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ilhamu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: inspiration; inspire
+    epo: inspiro; inspiri
+    spa: "inspiraci\xF3n; inspirar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0907\u0932\u0939\u093E\u092E \u201Cilham\u201D), Arabisa
+    (\u0625\u0650\u0644\u0652\u0647\u064E\u0627\u0645 \u201Cilham\u201D), Turkisa
+    (ilham vermek), Parsisa (\u0627\u0644\u0647\u0627\u0645 \u201Celham\u201D)"
+...

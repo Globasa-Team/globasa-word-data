@@ -1,0 +1,62 @@
+---
+term: teritori
+slug: teritori
+ipa: "te\u027Ei\u02C8to\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=te\u027Ei\u02C8to\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - territory
+  epo:
+  - - teritorio
+  spa:
+  - - territorio
+search terms:
+  glb:
+  - teritori
+  eng:
+  - territory
+  epo:
+  - teritorio
+  spa:
+  - territorio
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - territory
+  Fransesa:
+  - - territoire
+  Doycisa:
+  - - Territorium
+  Rusisa:
+  - - "\u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u044F \u201Cterritoriya\u201D"
+  Espanisa:
+  - - territorio
+  Indonesisa:
+  - - teritori
+  Pilipinasa:
+  - - teritoryo
+raw data:
+  term: teritori
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: territory
+    epo: teritorio
+    spa: territorio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (territory), Fransesa (territoire), Doycisa (Territorium), Rusisa
+    (\u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u044F \u201Cterritoriya\u201D),
+    Espanisa (territorio), Indonesisa (teritori), Pilipinasa (teritoryo)"
+...

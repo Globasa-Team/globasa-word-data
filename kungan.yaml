@@ -1,0 +1,50 @@
+---
+term: kungan
+slug: kungan
+ipa: "kun\u02C8gan"
+ipa link: "http://ipa-reader.xyz/?text=kun\u02C8gan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - space
+    - room
+  epo:
+  - - spaco
+  spa:
+  - - espacio
+search terms:
+  glb:
+  - kungan
+  eng:
+  - space
+  - room
+  epo:
+  - spaco
+  spa:
+  - espacio
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kungan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: space, room
+    epo: spaco
+    spa: espacio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7A7A\u95F4 \u201Ck\u014Dngji\u0101n\u201D), Niponsa (\u7A7A\u9593
+    \u201Ck\u016Bkan\u201D), Hangusa (\uACF5\uAC04 \u201Cgong-gan\u201D), Vyetnamsa
+    (kh\xF4ng gian)"
+...

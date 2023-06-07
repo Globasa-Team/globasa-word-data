@@ -1,0 +1,47 @@
+---
+term: minim
+slug: minim
+ipa: "mi\u02C8nim"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8nim&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - (the) least
+  epo:
+  - - malplej
+  spa:
+  - - el menos...
+search terms:
+  glb:
+  - minim
+  eng:
+  - the least
+  - least
+  epo:
+  - malplej
+  spa:
+  - el menos...
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: minim
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: (the) least
+    epo: malplej
+    spa: el menos...
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Fransesa, Espanisa, Englisa, Doycisa, Rusisa, Turkisa (minimum)
+...

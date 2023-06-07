@@ -1,0 +1,52 @@
+---
+term: cel-
+slug: cel-
+ipa: "\u02C8t\u0361\u0283el-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u0361\u0283el-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - to
+  epo:
+  - - al
+    - -n
+    - -en
+  spa:
+  - - a
+    - hacia
+search terms:
+  glb:
+  - cel-
+  eng:
+  - to
+  epo:
+  - al
+  - -n
+  - -en
+  spa:
+  - a
+  - hacia
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/cel">cel</a>.
+raw data:
+  term: cel-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: to
+    epo: al, -n, -en
+    spa: a, hacia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _cel_.
+...

@@ -1,0 +1,50 @@
+---
+term: magribi
+slug: magribi
+ipa: "ma\u02C8g\u027Eibi"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8g\u027Eibi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Morocco
+  epo:
+  - - Moroko
+  spa:
+  - - Marruecos
+search terms:
+  glb:
+  - magribi
+  eng:
+  - morocco
+  epo:
+  - moroko
+  spa:
+  - marruecos
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0627\u0644\u0645\u063A\u0631\u0628 \u201Cal-ma\u0121hrib\u201D"
+tags:
+- dexa
+raw data:
+  term: Magribi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Morocco
+    epo: Moroko
+    spa: Marruecos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u0627\u0644\u0645\u063A\u0631\u0628 \u201Cal-ma\u0121hrib\u201D)"
+...

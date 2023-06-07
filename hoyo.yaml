@@ -1,0 +1,58 @@
+---
+term: hoyo
+slug: hoyo
+ipa: "\u02C8xojo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xojo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - direction
+    - orientation
+  - - orient
+  epo:
+  - - direkto
+    - "oritenti\u011Do"
+  - - orienti
+  spa:
+  - - "direcci\xF3n"
+    - "orientaci\xF3n"
+  - - orientar
+search terms:
+  glb:
+  - hoyo
+  eng:
+  - direction
+  - orientation
+  - orient
+  epo:
+  - direkto
+  - "oritenti\u011Do"
+  - orienti
+  spa:
+  - "direcci\xF3n"
+  - "orientaci\xF3n"
+  - orientar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hoyo
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: direction, orientation; orient
+    epo: "direkto, oritenti\u011Do; orienti"
+    spa: "direcci\xF3n, orientaci\xF3n; orientar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Niponsa (\u65B9\u4F4D \u201Ch\u014Di\u201D, \u65B9\u5411 \u201Ch\u014Dk\u014D\u201D)"
+...

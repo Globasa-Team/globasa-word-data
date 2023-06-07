@@ -1,0 +1,66 @@
+---
+term: estilo
+slug: estilo
+ipa: esˈtilo
+ipa link: http://ipa-reader.xyz/?text=esˈtilo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - style
+  epo:
+  - - stilo
+  spa:
+  - - estilo
+search terms:
+  glb:
+  - estilo
+  eng:
+  - style
+  epo:
+  - stilo
+  spa:
+  - estilo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - style
+  Fransesa:
+  - - style
+  Doycisa:
+  - - Stil
+  Rusisa:
+  - - стиль “stil”
+  Espanisa:
+  - - estilo
+  Turkisa:
+  - - stil
+  Parsisa:
+  - - استیل “estil”
+  Indonesisa:
+  - - stail
+  Pilipinasa:
+  - - estilo
+raw data:
+  term: estilo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: style
+    epo: stilo
+    spa: estilo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (style), Fransesa (style), Doycisa (Stil), Rusisa (стиль “stil”),
+    Espanisa (estilo), Turkisa (stil), Parsisa (استیل “estil”) Indonesisa (stail),
+    Pilipinasa (estilo)
+...

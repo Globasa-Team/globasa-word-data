@@ -1,0 +1,58 @@
+---
+term: celidiible
+slug: celidiible
+ipa: "t\u0361\u0283elidi\u02C8ible"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283elidi\u02C8ible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - reachable
+    - attainable
+    - accessible
+  epo:
+  - - alirebla
+    - atingebla
+  - - alireble
+    - atingeble
+  spa:
+  - - alcanzable
+    - accesible
+search terms:
+  glb:
+  - celidiible
+  eng:
+  - reachable
+  - attainable
+  - accessible
+  epo:
+  - alirebla
+  - atingebla
+  - alireble
+  - atingeble
+  spa:
+  - alcanzable
+  - accesible
+etymology_type: DERIVD
+etymology: <a href="../lexi/cel-">cel-</a> + <a href="../lexi/idi">idi</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: celidiible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: reachable, attainable, accessible
+    epo: alirebla, atingebla; alireble, atingeble
+    spa: alcanzable, accesible
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cel- + idi + -ible
+...

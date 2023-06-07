@@ -1,0 +1,50 @@
+---
+term: kostarika
+slug: kostarika
+ipa: "kosta\u02C8\u027Eika"
+ipa link: "http://ipa-reader.xyz/?text=kosta\u02C8\u027Eika&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Costa Rica
+  epo:
+  - - Kostariko
+  spa:
+  - - Costa Rica
+search terms:
+  glb:
+  - kostarika
+  eng:
+  - costa rica
+  epo:
+  - kostariko
+  spa:
+  - costa rica
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - Costa Rica
+tags:
+- dexa
+raw data:
+  term: Kostarika
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Costa Rica
+    epo: Kostariko
+    spa: Costa Rica
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Espanisa (Costa Rica)
+...

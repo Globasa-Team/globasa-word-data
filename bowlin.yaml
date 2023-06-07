@@ -1,0 +1,79 @@
+---
+term: bowlin
+slug: bowlin
+ipa: bowˈlin
+ipa link: http://ipa-reader.xyz/?text=bowˈlin&voice=Ewa
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - bowling
+  - - bowl
+  epo:
+  - - kegloludo
+  spa:
+  - - bolos
+    - boliche
+search terms:
+  glb:
+  - bowlin
+  eng:
+  - bowling
+  - bowl
+  epo:
+  - kegloludo
+  spa:
+  - bolos
+  - boliche
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bowling
+  Espanisa:
+  - - boliche
+  Fransesa:
+  - - bowling
+  Rusisa:
+  - - боулинг “bowling”
+  Doycisa:
+  - - Bowling
+  Indonesisa:
+  - - boling
+  Putunhwa:
+  - - 保龄球 “bawlingcyow”
+  Arabisa:
+  - - بُولِينْج “buling”
+  Niponsa:
+  - - ボウリング “bouringu”
+  Turkisa:
+  - - bovling
+  Hangusa:
+  - - 볼링 “bolling”
+  Vyetnamsa:
+  - - trò chơi bowling
+  Parsisa:
+  - - بولینگ “bowling”
+raw data:
+  term: bowlin
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: bowling; bowl
+    epo: kegloludo
+    spa: bolos, boliche
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (bowling), Espanisa (boliche), Fransesa (bowling), Rusisa (боулинг
+    “bowling”), Doycisa (Bowling), Indonesisa (boling), Putunhwa (保龄球 “bawlingcyow”),
+    Arabisa (بُولِينْج “buling”), Niponsa (ボウリング “bouringu”), Turkisa (bovling), Hangusa
+    (볼링 “bolling”), Vyetnamsa (trò chơi bowling), Parsisa (بولینگ “bowling”)
+...

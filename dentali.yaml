@@ -1,0 +1,48 @@
+---
+term: dentali
+slug: dentali
+ipa: "den\u02C8tali"
+ipa link: "http://ipa-reader.xyz/?text=den\u02C8tali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - dental
+  epo:
+  - - denta
+  - - dente
+  spa:
+  - - dental
+search terms:
+  glb:
+  - dentali
+  eng:
+  - dental
+  epo:
+  - denta
+  - dente
+  spa:
+  - dental
+etymology_type: DERIVD
+etymology: <a href="../lexi/denta">denta</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: dentali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: dental
+    epo: denta; dente
+    spa: dental
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: denta + -li
+...

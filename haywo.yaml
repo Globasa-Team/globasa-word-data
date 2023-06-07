@@ -1,0 +1,58 @@
+---
+term: haywo
+slug: haywo
+ipa: "\u02C8xajwo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xajwo&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Neptune (_planet_)
+  epo:
+  - - Neptuno (_planedo_)
+  spa:
+  - - Neptuno (_planeta_)
+search terms:
+  glb:
+  - haywo
+  eng:
+  - neptune
+  epo:
+  - neptuno
+  spa:
+  - neptuno
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6D77\u738B\u661F \u201Ch\u01CEiw\xE1ngx\u012Bng\u201D"
+  Hangusa:
+  - - "\uD574\uC655\uC131 \u201Chaewangseong\u201D"
+  Niponsa:
+  - - "\u6D77\u738B\u661F \u201Ckai\u014Dsei\u201D"
+  Vyetnamsa:
+  - - "sao H\u1EA3i v\u01B0\u01A1ng"
+tags:
+- planeta
+raw data:
+  term: Haywo
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Neptune (_planet_)
+    epo: Neptuno (_planedo_)
+    spa: Neptuno (_planeta_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planeta
+  etymology: "Putunhwa (\u6D77\u738B\u661F \u201Ch\u01CEiw\xE1ngx\u012Bng\u201D),
+    Hangusa (\uD574\uC655\uC131 \u201Chaewangseong\u201D), Niponsa (\u6D77\u738B\u661F
+    \u201Ckai\u014Dsei\u201D), Vyetnamsa (sao H\u1EA3i v\u01B0\u01A1ng)"
+...

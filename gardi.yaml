@@ -1,0 +1,86 @@
+---
+term: gardi
+slug: gardi
+ipa: ˈgaɾdi
+ipa link: http://ipa-reader.xyz/?text=ˈgaɾdi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - protection
+  - - guard
+    - protect
+  epo:
+  - - gardo
+    - protekto
+  - - gardi
+    - protekti
+  spa:
+  - - guardia
+    - protección
+  - - vigilar
+    - proteger
+search terms:
+  glb:
+  - gardi
+  eng:
+  - protection
+  - guard
+  - protect
+  epo:
+  - gardo
+  - protekto
+  - gardi
+  - protekti
+  spa:
+  - guardia
+  - protección
+  - vigilar
+  - proteger
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - guard
+    - guardian
+  Fransesa:
+  - - gardien
+    - garde
+  Doycisa:
+  - - Guardian
+  Rusisa:
+  - - гвардия “gvardiya”
+  Espanisa:
+  - - guardia
+    - guarda
+  Indonesisa:
+  - - garda
+  Pilipinasa:
+  - - guwardiya
+  Turkisa:
+  - - gardiyan
+  Hindisa: ~
+  Niponsa:
+  - - ガーディアン “gādian”
+raw data:
+  term: gardi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: protection; guard, protect
+    epo: gardo, protekto; gardi, protekti
+    spa: guardia, protección; vigilar, proteger
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (guard, guardian), Fransesa (gardien, garde), Doycisa (Guardian),
+    Rusisa (гвардия “gvardiya”), Espanisa (guardia, guarda), Indonesisa (garda), Pilipinasa
+    (guwardiya), Turkisa (gardiyan), Hindisa, Niponsa (ガーディアン “gādian”)
+...

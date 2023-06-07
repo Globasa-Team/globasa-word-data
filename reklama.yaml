@@ -1,0 +1,74 @@
+---
+term: reklama
+slug: reklama
+ipa: "\u027Ee\u02C8klama"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8klama&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - ad
+    - advertisement
+    - commercial
+  - - advertise
+  epo:
+  - - anonco
+  - - anonci
+  spa:
+  - - anuncio
+    - comercial
+  - - anunciar
+search terms:
+  glb:
+  - reklama
+  eng:
+  - ad
+  - advertisement
+  - commercial
+  - advertise
+  epo:
+  - anonco
+  - anonci
+  spa:
+  - anuncio
+  - comercial
+  - anunciar
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - reclamo
+  Rusisa:
+  - - "\u0440\u0435\u043A\u043B\u0430\u043C\u0430 \u201Creklama\u201D"
+  Doycisa:
+  - - Reklame
+  Nederisa:
+  - - reclame
+  Turkisa:
+  - - treklam
+  Indonesisa:
+  - - reklame
+  Estisa:
+  - - reklaam
+raw data:
+  term: reklama
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: ad, advertisement, commercial; advertise
+    epo: anonco; anonci
+    spa: anuncio, comercial; anunciar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (reclamo), Rusisa (\u0440\u0435\u043A\u043B\u0430\u043C\u0430
+    \u201Creklama\u201D), Doycisa (Reklame), Nederisa (reclame), Turkisa (treklam),
+    Indonesisa (reklame), Estisa (reklaam)"
+...

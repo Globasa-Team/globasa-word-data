@@ -1,0 +1,50 @@
+---
+term: tongasa
+slug: tongasa
+ipa: "ton\u02C8gasa"
+ipa link: "http://ipa-reader.xyz/?text=ton\u02C8gasa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Tongan (language)
+  epo:
+  - - la tongana (lingvo)
+  spa:
+  - - tongano (_idioma_)
+search terms:
+  glb:
+  - tongasa
+  eng:
+  - tongan language
+  - tongan
+  epo:
+  - la tongana lingvo
+  - la tongana
+  spa:
+  - tongano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Tonga">Tonga</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Tongasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Tongan (language)
+    epo: la tongana (lingvo)
+    spa: tongano (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Tonga + -sa
+...

@@ -1,0 +1,46 @@
+---
+term: burdava
+slug: burdava
+ipa: "bu\u027E\u02C8dava"
+ipa link: "http://ipa-reader.xyz/?text=bu\u027E\u02C8dava&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - narcotic
+  epo:
+  - - "droga\u0109o"
+  spa:
+  - - droga
+search terms:
+  glb:
+  - burdava
+  eng:
+  - narcotic
+  epo:
+  - "droga\u0109o"
+  spa:
+  - droga
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur-">bur-</a> + <a href="../lexi/dava">dava</a>
+raw data:
+  term: burdava
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: narcotic
+    epo: "droga\u0109o"
+    spa: droga
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur- + dava
+...

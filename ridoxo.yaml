@@ -1,0 +1,48 @@
+---
+term: ridoxo
+slug: ridoxo
+ipa: "\u027Ei\u02C8do\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ei\u02C8do\u0283o&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - reread
+  epo:
+  - - relego
+  - - relegi
+  spa:
+  - - releer
+search terms:
+  glb:
+  - ridoxo
+  eng:
+  - reread
+  epo:
+  - relego
+  - relegi
+  spa:
+  - releer
+etymology_type: DERIVD
+etymology: <a href="../lexi/ri-">ri-</a> + <a href="../lexi/doxo">doxo</a>
+raw data:
+  term: ridoxo
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: reread
+    epo: relego; relegi
+    spa: releer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ri- + doxo
+...

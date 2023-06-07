@@ -1,0 +1,60 @@
+---
+term: roti
+slug: roti
+ipa: "\u02C8\u027Eoti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eoti&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bread
+  epo:
+  - - pano
+  spa:
+  - - pan
+search terms:
+  glb:
+  - roti
+  eng:
+  - bread
+  epo:
+  - pano
+  spa:
+  - pan
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0930\u094B\u091F\u0940 \u201Croti\u201D"
+  Indonesisa:
+  - - roti
+  Telugusa:
+  - - "\u0C30\u0C4A\u0C1F\u0C4D\u0C1F\u0C46 \u201Crotte\u201D"
+  Doycisa:
+  - - Brote
+  Somalisa:
+  - - rooti
+tags:
+- yamxey
+raw data:
+  term: roti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bread
+    epo: pano
+    spa: pan
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Hindisa (\u0930\u094B\u091F\u0940 \u201Croti\u201D), Indonesisa (roti),
+    Telugusa (\u0C30\u0C4A\u0C1F\u0C4D\u0C1F\u0C46 \u201Crotte\u201D), Doycisa (Brote),
+    Somalisa (rooti)"
+...

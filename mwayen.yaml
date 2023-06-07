@@ -1,0 +1,46 @@
+---
+term: mwayen
+slug: mwayen
+ipa: "mwa\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=mwa\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - kisser
+  epo:
+  - - kisanto
+  spa:
+  - - besador
+search terms:
+  glb:
+  - mwayen
+  eng:
+  - kisser
+  epo:
+  - kisanto
+  spa:
+  - besador
+etymology_type: DERIVD
+etymology: <a href="../lexi/mwa">mwa</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: mwayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: kisser
+    epo: kisanto
+    spa: besador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mwa + -yen
+...

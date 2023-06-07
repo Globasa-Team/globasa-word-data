@@ -1,0 +1,94 @@
+---
+term: abruto
+slug: abruto
+ipa: aˈbɾuto
+ipa link: http://ipa-reader.xyz/?text=aˈbɾuto&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - abrupt
+    - abruptly
+    - sudden
+    - suddenly
+    - all of a sudden
+  epo:
+  - - abrupta
+    - subita
+  - - abrupte
+    - subite
+  spa:
+  - - abrupto
+    - repentino
+  - - abruptamente
+    - repentinamente
+  deu:
+  - - plötzlich
+    - auf einmal
+    - jäh
+  fra:
+  - - soudainement
+  rus:
+  - - вдруг
+  zho:
+  - - 突然
+search terms:
+  glb:
+  - abruto
+  eng:
+  - abrupt
+  - abruptly
+  - sudden
+  - suddenly
+  - all of a sudden
+  epo:
+  - abrupta
+  - subita
+  - abrupte
+  - subite
+  spa:
+  - abrupto
+  - repentino
+  - abruptamente
+  - repentinamente
+  deu:
+  - plötzlich
+  - auf einmal
+  - jäh
+  fra:
+  - soudainement
+  rus:
+  - вдруг
+  zho:
+  - 突然
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - abrupt
+  Fransesa:
+  - - abrupt
+  Doycisa:
+  - - abrupt
+  Espanisa:
+  - - abrupto
+raw data:
+  term: abruto
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: abrupt, abruptly, sudden, suddenly, all of a sudden
+    epo: abrupta, subita; abrupte, subite
+    spa: abrupto, repentino; abruptamente, repentinamente
+    deu: plötzlich, auf einmal, jäh
+    fra: soudainement
+    rus: вдруг
+    zho: 突然
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (abrupt), Fransesa (abrupt), Doycisa (abrupt), Espanisa (abrupto)
+...

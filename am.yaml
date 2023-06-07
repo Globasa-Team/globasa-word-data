@@ -1,0 +1,48 @@
+---
+term: am
+slug: am
+ipa: am
+ipa link: http://ipa-reader.xyz/?text=am&voice=Ewa
+status: true
+category: root
+word class: par
+trans:
+  eng:
+  - - _imperative verb marker_
+  epo:
+  - - -u
+    - _markilo de imperativa verbo_
+  spa:
+  - - _marcador del verbo imperativo_
+search terms:
+  glb:
+  - am
+  eng:
+  - imperative verb marker
+  epo:
+  - -u
+  - markilo de imperativa verbo
+  spa:
+  - marcador del verbo imperativo
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/amiru">amiru</a>.
+raw data:
+  term: am
+  category: root
+  word class: par
+  status: true
+  trans:
+    eng: _imperative verb marker_
+    epo: -u, _markilo de imperativa verbo_
+    spa: _marcador del verbo imperativo_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _amiru_.
+...

@@ -1,0 +1,67 @@
+---
+term: fase
+slug: fase
+ipa: ˈfase
+ipa link: http://ipa-reader.xyz/?text=ˈfase&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - phase
+    - stage
+  epo:
+  - - fazo
+  spa:
+  - - fase
+    - etapa
+search terms:
+  glb:
+  - fase
+  eng:
+  - phase
+  - stage
+  epo:
+  - fazo
+  spa:
+  - fase
+  - etapa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - phase
+  Fransesa:
+  - - phase
+  Doycisa:
+  - - Phase
+  Rusisa:
+  - - фаза “faza”
+  Espanisa:
+  - - fase
+  Indonesisa:
+  - - fase
+  Turkisa:
+  - - faz
+  Parsisa:
+  - - فاز‎ “fâz”
+raw data:
+  term: fase
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: phase, stage
+    epo: fazo
+    spa: fase, etapa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (phase), Fransesa (phase), Doycisa (Phase), Rusisa (фаза “faza”),
+    Espanisa (fase), Indonesisa (fase), Turkisa (faz), Parsisa (فاز‎ “fâz”)
+...

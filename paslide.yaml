@@ -1,0 +1,52 @@
+---
+term: paslide
+slug: paslide
+ipa: "pas\u02C8lide"
+ipa link: "http://ipa-reader.xyz/?text=pas\u02C8lide&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - conduction
+  - - conduct
+  epo:
+  - - konduko
+  - - konduki
+  spa:
+  - - "conducci\xF3n"
+  - - conducir
+search terms:
+  glb:
+  - paslide
+  eng:
+  - conduction
+  - conduct
+  epo:
+  - konduko
+  - konduki
+  spa:
+  - "conducci\xF3n"
+  - conducir
+etymology_type: DERIVD
+etymology: <a href="../lexi/pas-">pas-</a> + <a href="../lexi/lide">lide</a>
+raw data:
+  term: paslide
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: conduction; conduct
+    epo: konduko; konduki
+    spa: "conducci\xF3n; conducir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pas- + lide
+...

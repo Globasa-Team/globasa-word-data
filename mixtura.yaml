@@ -1,0 +1,58 @@
+---
+term: mixtura
+slug: mixtura
+ipa: "mi\u0283\u02C8tu\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=mi\u0283\u02C8tu\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - mixture
+    - blend
+  - - mix
+    - blend
+  epo:
+  - - "miksa\u0135o"
+  - - miksi
+  spa:
+  - - mezcla
+  - - mezclar
+search terms:
+  glb:
+  - mixtura
+  eng:
+  - mixture
+  - blend
+  - mix
+  epo:
+  - "miksa\u0135o"
+  - miksi
+  spa:
+  - mezcla
+  - mezclar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mixtura
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: mixture, blend; mix, blend
+    epo: "miksa\u0135o; miksi"
+    spa: mezcla; mezclar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mixture), Doycisa (MIschung), Fransesa (mixture), Espanisa
+    (mixtura), Rusisa (\u043C\u0438\u043A\u0441\u0442\u0443\u0440\u0430 \u201Cmikstura\u201D),
+    Hindisa (\u092E\u093F\u0936\u094D\u0930\u0923 \u201Cmixran\u201D), Telugusa (\u0C2E\u0C3F\u0C36\u0C4D\u0C30\u0C2E\u0C02
+    \u201Cmixramam\u201D)"
+...

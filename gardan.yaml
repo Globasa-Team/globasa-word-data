@@ -1,0 +1,52 @@
+---
+term: gardan
+slug: gardan
+ipa: gaɾˈdan
+ipa link: http://ipa-reader.xyz/?text=gaɾˈdan&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - neck
+  epo:
+  - - kolo
+  spa:
+  - - cuello
+search terms:
+  glb:
+  - gardan
+  eng:
+  - neck
+  epo:
+  - kolo
+  spa:
+  - cuello
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - गरदन “garadan”
+  Parsisa:
+  - - گردن “gardan”
+tags:
+- jismulogi
+raw data:
+  term: gardan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: neck
+    epo: kolo
+    spa: cuello
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Hindisa (गरदन “garadan”), Parsisa (گردن “gardan”)
+...

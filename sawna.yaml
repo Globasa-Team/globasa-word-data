@@ -1,0 +1,77 @@
+---
+term: sawna
+slug: sawna
+ipa: "\u02C8sawna"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sawna&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sauna
+  epo:
+  - - "sa\u016Dno"
+  spa:
+  - - sauna
+search terms:
+  glb:
+  - sawna
+  eng:
+  - sauna
+  epo:
+  - "sa\u016Dno"
+  spa:
+  - sauna
+etymology_type: NATLNG
+etymology:
+  Swomisa:
+  - - sauna
+  Englisa: ~
+  Espanisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Turkisa: ~
+  Swahalisa: ~
+  Rusisa:
+  - - "\u0441\u0430\u0443\u043D\u0430 \u201Csawna\u201D"
+  Putunhwa:
+  - - "\u6851\u62FF \u201Csangna\u201D"
+  Hindisa:
+  - - "\u0938\u0949\u0928\u093E \u201Csona\u201D"
+  Arabisa:
+  - - "\u0633\u064E\u0627\u0648\u0652\u0646\u064E\u0627 \u201Csawna\u201D"
+  Niponsa:
+  - - "\u30B5\u30A6\u30CA \u201Csauna\u201D"
+  Hangusa:
+  - - "\uC0AC\uC6B0\uB098 \u201Csauna\u201D"
+  Parsisa:
+  - - "\u0633\u0648\u0646\u0627 \u201Csona\u201D"
+tags:
+- dom
+raw data:
+  term: sawna
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sauna
+    epo: "sa\u016Dno"
+    spa: sauna
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dom
+  etymology: "Swomisa (sauna), Englisa, Espanisa, Fransesa, Doycisa, Indonesisa, Pilipinasa,
+    Turkisa, Swahalisa, Rusisa (\u0441\u0430\u0443\u043D\u0430 \u201Csawna\u201D),
+    Putunhwa (\u6851\u62FF \u201Csangna\u201D), Hindisa (\u0938\u0949\u0928\u093E
+    \u201Csona\u201D), Arabisa (\u0633\u064E\u0627\u0648\u0652\u0646\u064E\u0627 \u201Csawna\u201D),
+    Niponsa (\u30B5\u30A6\u30CA \u201Csauna\u201D), Hangusa (\uC0AC\uC6B0\uB098 \u201Csauna\u201D),
+    Parsisa (\u0633\u0648\u0646\u0627 \u201Csona\u201D)"
+...

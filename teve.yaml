@@ -1,0 +1,48 @@
+---
+term: teve
+slug: teve
+ipa: "\u02C8teve"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8teve&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - television set
+    - TV
+  epo:
+  - - televidilo
+  spa:
+  - - televisor
+search terms:
+  glb:
+  - teve
+  eng:
+  - television set
+  - tv
+  epo:
+  - televidilo
+  spa:
+  - televisor
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/televisi">televisi</a>.
+raw data:
+  term: teve
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: television set, TV
+    epo: televidilo
+    spa: televisor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: television, television set, TV
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _televisi_.
+...

@@ -1,0 +1,78 @@
+---
+term: sistema
+slug: sistema
+ipa: "sis\u02C8tema"
+ipa link: "http://ipa-reader.xyz/?text=sis\u02C8tema&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - system
+  epo:
+  - - sistemo
+  spa:
+  - - sistema
+search terms:
+  glb:
+  - sistema
+  eng:
+  - system
+  epo:
+  - sistemo
+  spa:
+  - sistema
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - system
+    - systematic
+  Fransesa:
+  - - "syst\xE8me"
+    - "syst\xE9matique"
+  Doycisa:
+  - - System
+    - systematisch
+  Rusisa:
+  - - "\u0441\u0438\u0441\u0442\u0435\u043C\u0430 \"sistema\""
+  Espanisa:
+  - - sistema
+  Indonesisa:
+  - - sistem
+    - sistematis
+  Pilipinasa:
+  - - sistema
+  Hindisa:
+  - - "\u0938\u093F\u0938\u094D\u091F\u092E \"sistam\""
+  Turkisa:
+  - - sistema
+  Parsisa:
+  - - "\u0633\u06CC\u0633\u062A\u0645 \"sistem\""
+    - "\u0633\u06CC\u0633\u062A\u0645\u0627\u062A\u06CC\u06A9 \"sistem\xE1tik\""
+  Niponsa:
+  - - "\u30B7\u30B9\u30C6\u30E0 \"sisutemu\""
+raw data:
+  term: sistema
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: system
+    epo: sistemo
+    spa: sistema
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (system, systematic), Fransesa (syst\xE8me, syst\xE9matique),
+    Doycisa (System, systematisch), Rusisa (\u0441\u0438\u0441\u0442\u0435\u043C\u0430
+    \"sistema\"), Espanisa (sistema), Indonesisa (sistem, sistematis), Pilipinasa
+    (sistema), Hindisa (\u0938\u093F\u0938\u094D\u091F\u092E \"sistam\"), Turkisa
+    (sistema), Parsisa (\u0633\u06CC\u0633\u062A\u0645 \"sistem\", \u0633\u06CC\u0633\u062A\u0645\u0627\u062A\u06CC\u06A9
+    \"sistem\xE1tik\"), Niponsa (\u30B7\u30B9\u30C6\u30E0 \"sisutemu\")"
+...

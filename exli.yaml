@@ -1,0 +1,50 @@
+---
+term: exli
+slug: exli
+ipa: "\u02C8e\u0283li"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8e\u0283li&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - exterior
+    - external
+  epo:
+  - - ekstera
+  - - ekstere
+  spa:
+  - - externo
+search terms:
+  glb:
+  - exli
+  eng:
+  - exterior
+  - external
+  epo:
+  - ekstera
+  - ekstere
+  spa:
+  - externo
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex">ex</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: exli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: exterior, external
+    epo: ekstera; ekstere
+    spa: externo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex + -li
+...

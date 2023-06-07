@@ -1,0 +1,56 @@
+---
+term: kreol
+slug: kreol
+ipa: "k\u027Ee\u02C8ol"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Ee\u02C8ol&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - creole (language)
+  epo:
+  - - kreolo
+    - kreola lingvo
+  spa:
+  - - criollo (_idioma_)
+search terms:
+  glb:
+  - kreol
+  eng:
+  - creole language
+  - creole
+  epo:
+  - kreolo
+  - kreola lingvo
+  spa:
+  - criollo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kreol
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: creole (language)
+    epo: kreolo, kreola lingvo
+    spa: criollo (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (creole), Vyetnamsa, Espanisa (criollo), Fransesa (cr\xE9ole),
+    Rusisa (\u043A\u0440\u0435\u043E\u043B \u201Ckreol\u201D), Doycsia (Kreol), Indonesisa,
+    Pilipinasa (kreola), Putunhwa (\u514B\u91CC\u5965\u8BED \u201Ckeliawyu\u201D),
+    Hindisa (\u0915\u094D\u0930\u093F\u092F\u094B\u0932 \u201Ckriyol\u201D), Arabisa
+    (\u0643\u0631\u064A\u0648\u0644\u064A\u0629), Niponsa (\u30AF\u30EC\u30AA\u30FC\u30EB
+    \u201Ckureoru\u201D), Telugusa (\u0C15\u0C4D\u0C30\u0C3F\u0C2F\u0C4B\u0C32\u0C4D
+    \u201Ckriyol\u201D), Turkisa (kreol, kreyol), Hangusa (\uD06C\uB9AC\uC62C \u201Ckuriol\u201D),
+    Parsisa (\u06A9\u0631\u06CC\u0648\u0644), Swahilisa (krioli)"
+...

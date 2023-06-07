@@ -1,0 +1,48 @@
+---
+term: jawherilari
+slug: jawherilari
+ipa: "d\u0361\u0292awxe\u027Ei\u02C8la\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292awxe\u027Ei\u02C8la\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - jewelry
+    - jewellery
+  epo:
+  - - juvelaro
+  spa:
+  - - "joyer\xEDa"
+search terms:
+  glb:
+  - jawherilari
+  eng:
+  - jewelry
+  - jewellery
+  epo:
+  - juvelaro
+  spa:
+  - "joyer\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/jawheri">jawheri</a> + <a href="../lexi/-lari">-lari</a>
+raw data:
+  term: jawherilari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: jewelry, jewellery
+    epo: juvelaro
+    spa: "joyer\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: jawheri + -lari
+...

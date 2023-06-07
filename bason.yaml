@@ -1,0 +1,70 @@
+---
+term: bason
+slug: bason
+ipa: baˈson
+ipa link: http://ipa-reader.xyz/?text=baˈson&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bassoon
+  epo:
+  - - fagoto
+    - hobojego
+  spa:
+  - - fagot
+search terms:
+  glb:
+  - bason
+  eng:
+  - bassoon
+  epo:
+  - fagoto
+  - hobojego
+  spa:
+  - fagot
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bassoon
+  Espanisa:
+  - - bajón
+  Fransesa:
+  - - basson
+  Pilipinasa:
+  - - bahon
+  Putunhwa:
+  - - 巴松 “basung”
+  Hindisa:
+  - - बासून “basun”
+  Niponsa:
+  - - バスーン “basun”
+  Telugusa:
+  - - బాసూన్ “basun”
+  Hangusa:
+  - - 바순 “basun”
+  Swahilisa:
+  - - basuni
+raw data:
+  term: bason
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bassoon
+    epo: fagoto, hobojego
+    spa: fagot
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (bassoon), Espanisa (bajón), Fransesa (basson), Pilipinasa (bahon),
+    Putunhwa (巴松 “basung”), Hindisa (बासून “basun”), Niponsa (バスーン “basun”), Telugusa
+    (బాసూన్ “basun”), Hangusa (바순 “basun”), Swahilisa (basuni)
+...

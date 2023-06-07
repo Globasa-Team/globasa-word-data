@@ -1,0 +1,67 @@
+---
+term: obsidyan
+slug: obsidyan
+ipa: "obsi\u02C8djan"
+ipa link: "http://ipa-reader.xyz/?text=obsi\u02C8djan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - obsidian
+  epo:
+  - - obsidiano
+  spa:
+  - - obsidiana
+search terms:
+  glb:
+  - obsidyan
+  eng:
+  - obsidian
+  epo:
+  - obsidiano
+  spa:
+  - obsidiana
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - obsidian
+  Doycisa: ~
+  Indonesisa: ~
+  Espanisa:
+  - - obsidiana
+  Fransesa:
+  - - obsidienne
+  Rusisa:
+  - - "\u043E\u0431\u0441\u0438\u0434\u0438\u0430\u043D \u201Cobsidyan\u201D"
+  Pilipinasa:
+  - - obsidiyano
+  Hindisa:
+  - - "\u0911\u092C\u094D\u0938\u093F\u0921\u093F\u092F\u0928 \u201Cobsidiyan\u201D"
+  Turkisa:
+  - - obsidyen
+  Parsisa:
+  - - "\u0622\u0628\u0633\u064A\u062F\u064A\u0627\u0646"
+raw data:
+  term: obsidyan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: obsidian
+    epo: obsidiano
+    spa: obsidiana
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (obsidian), Doycisa, Indonesisa, Espanisa (obsidiana), Fransesa
+    (obsidienne), Rusisa (\u043E\u0431\u0441\u0438\u0434\u0438\u0430\u043D \u201Cobsidyan\u201D),
+    Pilipinasa (obsidiyano), Hindisa (\u0911\u092C\u094D\u0938\u093F\u0921\u093F\u092F\u0928
+    \u201Cobsidiyan\u201D), Turkisa (obsidyen), Parsisa (\u0622\u0628\u0633\u064A\u062F\u064A\u0627\u0646)"
+...

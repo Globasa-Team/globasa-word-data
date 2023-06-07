@@ -1,0 +1,67 @@
+---
+term: aventur
+slug: aventur
+ipa: avenˈtuɾ
+ipa link: http://ipa-reader.xyz/?text=avenˈtuɾ&voice=Ewa
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - adventure
+  epo:
+  - - aventuro
+  spa:
+  - - aventura
+search terms:
+  glb:
+  - aventur
+  eng:
+  - adventure
+  epo:
+  - aventuro
+  spa:
+  - aventura
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - adventure
+  Espanisa:
+  - - aventura
+  Fransesa:
+  - - aventure
+  Rusisa:
+  - - авантюра “avantyura”
+  Doycisa:
+  - - Abenteuer
+  Indonesisa:
+  - - avonturir
+    - avonturisme
+  Niponsa:
+  - - アドベンチャー “adobenca”
+  Turkisa:
+  - - avantür
+  Hangusa:
+  - - 어드벤처 “adubenca”
+raw data:
+  term: aventur
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: adventure
+    epo: aventuro
+    spa: aventura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (adventure), Espanisa (aventura) Fransesa (aventure), Rusisa
+    (авантюра “avantyura”), Doycisa (Abenteuer), Indonesisa (avonturir, avonturisme),
+    Niponsa (アドベンチャー “adobenca”), Turkisa (avantür), Hangusa (어드벤처 “adubenca”)
+...

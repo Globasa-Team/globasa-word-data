@@ -1,0 +1,52 @@
+---
+term: portugal
+slug: portugal
+ipa: "po\u027Etu\u02C8gal"
+ipa link: "http://ipa-reader.xyz/?text=po\u027Etu\u02C8gal&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Portugal
+  epo:
+  - - Portugalio
+  - - Portugalujo
+  spa:
+  - - Portugal
+search terms:
+  glb:
+  - portugal
+  eng:
+  - portugal
+  epo:
+  - portugalio
+  - portugalujo
+  spa:
+  - portugal
+etymology_type: NATLNG
+etymology:
+  Portugalsa:
+  - - Portugal
+tags:
+- dexa
+raw data:
+  term: Portugal
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Portugal
+    epo: Portugalio; Portugalujo
+    spa: Portugal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Portugalsa (Portugal)
+...

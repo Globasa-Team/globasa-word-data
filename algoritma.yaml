@@ -1,0 +1,80 @@
+---
+term: algoritma
+slug: algoritma
+ipa: algoˈɾitma
+ipa link: http://ipa-reader.xyz/?text=algoˈɾitma&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - algorithm
+  epo:
+  - - algoritmo
+  spa:
+  - - algoritmo
+search terms:
+  glb:
+  - algoritma
+  eng:
+  - algorithm
+  epo:
+  - algoritmo
+  spa:
+  - algoritmo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - algorithm
+  Espanisa:
+  - - algoritmo
+  Fransesa:
+  - - algorithme
+  Rusisa:
+  - - алгоритм “algoritm”
+  Doycisa:
+  - - Algorithmus
+  Indonesisa:
+  - - algoritme
+  Pilipinasa:
+  - - algoritmo
+  Hindisa:
+  - - अल्गोरिद्म “algoridma”
+  Arabisa:
+  - - خُوَارِزْمِيَّة “huwarizmiya”
+  Niponsa:
+  - - アルゴリズム “arugorizumu”
+  Telugusa:
+  - - అల్గోరిథం “algoritam”
+  Hangusa:
+  - - 알고리즘 “algorijum”
+  Turkisa:
+  - - algoritma
+  Parsisa:
+  - - الگوریتم “algoritm”
+  Swahilisa:
+  - - algorithimu
+raw data:
+  term: algoritma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: algorithm
+    epo: algoritmo
+    spa: algoritmo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (algorithm), Espanisa (algoritmo), Fransesa (algorithme), Rusisa
+    (алгоритм “algoritm”), Doycisa (Algorithmus), Indonesisa (algoritme), Pilipinasa
+    (algoritmo), Hindisa (अल्गोरिद्म “algoridma”), Arabisa (خُوَارِزْمِيَّة “huwarizmiya”),
+    Niponsa (アルゴリズム “arugorizumu”), Telugusa (అల్గోరిథం “algoritam”), Hangusa (알고리즘
+    “algorijum”), Turkisa (algoritma), Parsisa (الگوریتم “algoritm”), Swahilisa (algorithimu)
+...

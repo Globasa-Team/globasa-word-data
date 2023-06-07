@@ -1,0 +1,78 @@
+---
+term: cidra
+slug: cidra
+ipa: ˈt͡ʃidɾa
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃidɾa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cider
+    - apple wine
+  epo:
+  - - cidro
+    - pomvino
+  spa:
+  - - sidra
+search terms:
+  glb:
+  - cidra
+  eng:
+  - cider
+  - apple wine
+  epo:
+  - cidro
+  - pomvino
+  spa:
+  - sidra
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - cider
+  Espanisa:
+  - - sidra
+  Fransesa:
+  - - cidre
+  Rusisa:
+  - - сидр “sidr”
+  Doycisa:
+  - - Cidre
+  Indonesisa:
+  - - sider
+  Pilipinasa:
+  - - sidra
+  Arabisa:
+  - - سِيدَر “sidar”
+  Niponsa:
+  - - シードル “xidoru”
+  Vyetnamsa:
+  - - cider
+  Parsisa:
+  - - سیدر “sidar”
+  Swahilisa:
+  - - sida
+    - saida
+raw data:
+  term: cidra
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cider, apple wine
+    epo: cidro, pomvino
+    spa: sidra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (cider), Espanisa (sidra), Fransesa (cidre), Rusisa (сидр “sidr”),
+    Doycisa (Cidre), Indonesisa (sider), Pilipinasa (sidra), Arabisa (سِيدَر “sidar”),
+    Niponsa (シードル “xidoru”), Vyetnamsa (cider), Parsisa (سیدر “sidar”), Swahilisa
+    (sida, saida)
+...

@@ -1,0 +1,68 @@
+---
+term: betula
+slug: betula
+ipa: beˈtula
+ipa link: http://ipa-reader.xyz/?text=beˈtula&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - birch (tree)
+  epo:
+  - - betulo
+  spa:
+  - - abedul
+    - _Betula_
+  deu:
+  - - Birke
+search terms:
+  glb:
+  - betula
+  eng:
+  - birch tree
+  - birch
+  epo:
+  - betulo
+  spa:
+  - abedul
+  - betula
+  deu:
+  - birke
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - abedul
+  Indonesisa:
+  - - betula
+  Pilipinasa:
+  - - abedul
+  Arabisa:
+  - - بَتُولَا “batula”
+  Swahilisa:
+  - - mbetula
+  Syensilatinsa:
+  - - Betula
+tags:
+- planta
+raw data:
+  term: betula
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: birch (tree)
+    epo: betulo
+    spa: abedul, _Betula_
+    deu: Birke
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta
+  etymology: Espanisa (abedul), Indonesisa (betula), Pilipinasa (abedul), Arabisa
+    (بَتُولَا “batula”), Swahilisa (mbetula), Syensilatinsa (Betula)
+...

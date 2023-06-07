@@ -1,0 +1,47 @@
+---
+term: kostarikayen
+slug: kostarikayen
+ipa: "kosta\u027Eika\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=kosta\u027Eika\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Costa Rican (person)
+  epo:
+  - - kostarikano
+  spa:
+  - - costarricense (_persona_)
+search terms:
+  glb:
+  - kostarikayen
+  eng:
+  - costa rican person
+  - costa rican
+  epo:
+  - kostarikano
+  spa:
+  - costarricense
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kostarika">Kostarika</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Kostarikayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Costa Rican (person)
+    epo: kostarikano
+    spa: costarricense (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kostarika + -yen
+...

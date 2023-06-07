@@ -1,0 +1,46 @@
+---
+term: -gon
+slug: -gon
+ipa: "\u02C8-gon"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-gon&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - -agon
+  epo:
+  - - -angulo
+  spa:
+  - - "-gono (_pol\xEDgono_)"
+search terms:
+  glb:
+  - -gon
+  eng:
+  - -agon
+  epo:
+  - -angulo
+  spa:
+  - -gono
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/gono">gono</a>.
+raw data:
+  term: -gon
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: -agon
+    epo: -angulo
+    spa: "-gono (_pol\xEDgono_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _gono_.
+...

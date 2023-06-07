@@ -1,0 +1,57 @@
+---
+term: tahta
+slug: tahta
+ipa: "\u02C8taxta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8taxta&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - plank
+    - board
+  epo:
+  - - planko
+  spa:
+  - - tabla
+    - "tabl\xF3n"
+search terms:
+  glb:
+  - tahta
+  eng:
+  - plank
+  - board
+  epo:
+  - planko
+  spa:
+  - tabla
+  - "tabl\xF3n"
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0924\u0916\u094D\u0924\u093E \u201Ctakhta\u201D"
+  Parsisa:
+  - - "\u062A\u062E\u062A\u0647 \u201Ctakhte\u201D"
+  Turkisa:
+  - - tahta
+raw data:
+  term: tahta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: plank, board
+    epo: planko
+    spa: "tabla, tabl\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0924\u0916\u094D\u0924\u093E \u201Ctakhta\u201D), Parsisa
+    (\u062A\u062E\u062A\u0647 \u201Ctakhte\u201D), Turkisa (tahta)"
+...

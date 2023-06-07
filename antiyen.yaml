@@ -1,0 +1,56 @@
+---
+term: antiyen
+slug: antiyen
+ipa: "anti\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=anti\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - adversary
+    - opponent
+  epo:
+  - - "kontra\u016Dulo"
+    - "kontra\u016Danto"
+    - oponanto
+  spa:
+  - - adversario
+    - oponente
+    - antagonista
+search terms:
+  glb:
+  - antiyen
+  eng:
+  - adversary
+  - opponent
+  epo:
+  - "kontra\u016Dulo"
+  - "kontra\u016Danto"
+  - oponanto
+  spa:
+  - adversario
+  - oponente
+  - antagonista
+etymology_type: DERIVD
+etymology: <a href="../lexi/anti">anti</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: antiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: adversary, opponent
+    epo: "kontra\u016Dulo, kontra\u016Danto, oponanto"
+    spa: adversario, oponente, antagonista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: anti + -yen
+...

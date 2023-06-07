@@ -1,0 +1,60 @@
+---
+term: bocan
+slug: bocan
+ipa: boˈt͡ʃan
+ipa link: http://ipa-reader.xyz/?text=boˈt͡ʃan&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - compensation
+  - - compensate
+  epo:
+  - - kompenso
+  - - kompensi
+  spa:
+  - - compensación
+    - remuneración
+  - - compensar
+search terms:
+  glb:
+  - bocan
+  eng:
+  - compensation
+  - compensate
+  epo:
+  - kompenso
+  - kompensi
+  spa:
+  - compensación
+  - remuneración
+  - compensar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 补偿 “bǔcháng”
+  Hangusa:
+  - - 보상 “bosan”
+  Vyetnamsa:
+  - - bổ chính
+raw data:
+  term: bocan
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: compensation; compensate
+    epo: kompenso; kompensi
+    spa: compensación, remuneración; compensar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (补偿 “bǔcháng”), Hangusa (보상 “bosan”), Vyetnamsa (bổ chính)
+...

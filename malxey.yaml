@@ -1,0 +1,62 @@
+---
+term: malxey
+slug: malxey
+ipa: "mal\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=mal\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - error
+    - mistake
+  - - err
+    - make a mistake
+    - be mistaken
+  epo:
+  - - eraro
+  - - erari
+  spa:
+  - - error
+  - - cometer un error
+    - equivocarse
+    - errar
+search terms:
+  glb:
+  - malxey
+  eng:
+  - error
+  - mistake
+  - err
+  - make a mistake
+  - be mistaken
+  epo:
+  - eraro
+  - erari
+  spa:
+  - error
+  - cometer un error
+  - equivocarse
+  - errar
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal">mal</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: malxey
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: error, mistake; err, make a mistake, be mistaken
+    epo: eraro; erari
+    spa: error; cometer un error, equivocarse, errar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal + -xey
+...

@@ -1,0 +1,51 @@
+---
+term: latinsa
+slug: latinsa
+ipa: "la\u02C8tinsa"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8tinsa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Latin (language)
+  epo:
+  - - latino
+    - la latina lingvo
+  spa:
+  - - "lat\xEDn (_idioma_)"
+search terms:
+  glb:
+  - latinsa
+  eng:
+  - latin language
+  - latin
+  epo:
+  - latino
+  - la latina lingvo
+  spa:
+  - "lat\xEDn"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Latin">Latin</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Latinsa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Latin (language)
+    epo: latino, la latina lingvo
+    spa: "lat\xEDn (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Latin + -sa
+...

@@ -1,0 +1,63 @@
+---
+term: gazeta
+slug: gazeta
+ipa: gaˈzeta
+ipa link: http://ipa-reader.xyz/?text=gaˈzeta&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - newspaper
+  epo:
+  - - gazeto
+    - ĵurnalo
+  spa:
+  - - periódico
+search terms:
+  glb:
+  - gazeta
+  eng:
+  - newspaper
+  epo:
+  - gazeto
+  - ĵurnalo
+  spa:
+  - periódico
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gazette
+  Espanisa:
+  - - gaceta
+  Fransesa:
+  - - gazette
+  Italisa:
+  - - gazzetta
+  Rusisa:
+  - - газета “gazyeta”
+  Turkisa:
+  - - gazete
+  Swahilisa:
+  - - gazeti
+raw data:
+  term: gazeta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: newspaper
+    epo: gazeto, ĵurnalo
+    spa: periódico
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (gazette), Espanisa (gaceta), Fransesa (gazette), Italisa (gazzetta),
+    Rusisa (газета “gazyeta”), Turkisa (gazete), Swahilisa (gazeti)
+...

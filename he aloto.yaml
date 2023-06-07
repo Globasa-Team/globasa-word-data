@@ -1,0 +1,50 @@
+---
+term: he aloto
+slug: he aloto
+ipa: "\u02C8xe a\u02C8loto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe a\u02C8loto&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - any other thing
+    - anything else
+  epo:
+  - - io ajn alia
+  spa:
+  - - cualquier otra cosa
+search terms:
+  glb:
+  - he aloto
+  - he
+  - aloto
+  eng:
+  - any other thing
+  - anything else
+  epo:
+  - io ajn alia
+  spa:
+  - cualquier otra cosa
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/alo">alo</a> + <a href="../lexi/to">to</a>
+raw data:
+  term: he aloto
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: any other thing, anything else
+    epo: io ajn alia
+    spa: cualquier otra cosa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, alo + to
+...

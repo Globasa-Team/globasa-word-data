@@ -1,0 +1,62 @@
+---
+term: jento
+slug: jento
+ipa: "\u02C8d\u0361\u0292ento"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ento&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - battle
+    - combat
+  - - fight
+  epo:
+  - - batalo
+  - - batali
+  spa:
+  - - batalla
+    - combate
+    - pelea
+  - - pelear
+    - luchar
+search terms:
+  glb:
+  - jento
+  eng:
+  - battle
+  - combat
+  - fight
+  epo:
+  - batalo
+  - batali
+  spa:
+  - batalla
+  - combate
+  - pelea
+  - pelear
+  - luchar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jento
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: battle, combat; fight
+    epo: batalo; batali
+    spa: batalla, combate, pelea; pelear, luchar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u6218\u6597 \u201Czh\xE0nd\xF2u\u201D), Vyetnamsa (chi\u1EBFn
+    \u0111\u1EA5u), Hangusa (\uC804\uD22C \u201Cjeontu\u201D), Niponsa (\u6226\u95D8
+    \u201Csent\u014D\u201D)"
+...

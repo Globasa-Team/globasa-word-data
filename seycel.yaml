@@ -1,0 +1,54 @@
+---
+term: seycel
+slug: seycel
+ipa: "sej\u02C8t\u0361\u0283el"
+ipa link: "http://ipa-reader.xyz/?text=sej\u02C8t\u0361\u0283el&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Seychelles
+  epo:
+  - - "Sej\u015Deloj"
+  spa:
+  - - Seychelles
+search terms:
+  glb:
+  - seycel
+  eng:
+  - seychelles
+  epo:
+  - "sej\u015Deloj"
+  spa:
+  - seychelles
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Seychelles
+  Fransesa:
+  - - Seychelles
+  Seycelsa:
+  - - Sesel
+tags:
+- dexa
+raw data:
+  term: Seycel
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Seychelles
+    epo: "Sej\u015Deloj"
+    spa: Seychelles
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Seychelles), Fransesa (Seychelles), Seycelsa (Sesel)
+...

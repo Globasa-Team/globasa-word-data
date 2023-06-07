@@ -1,0 +1,56 @@
+---
+term: dongwigi
+slug: dongwigi
+ipa: "don\u02C8gwigi"
+ipa link: "http://ipa-reader.xyz/?text=don\u02C8gwigi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - convince
+    - persuade
+  epo:
+  - - konvinkado
+    - persvado
+  - - konvinki
+    - persvadi
+  spa:
+  - - convencer
+    - persuadir
+search terms:
+  glb:
+  - dongwigi
+  eng:
+  - convince
+  - persuade
+  epo:
+  - konvinkado
+  - persvado
+  - konvinki
+  - persvadi
+  spa:
+  - convencer
+  - persuadir
+etymology_type: DERIVD
+etymology: <a href="../lexi/dongwi">dongwi</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: dongwigi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: convince, persuade
+    epo: konvinkado, persvado; konvinki, persvadi
+    spa: convencer, persuadir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dongwi + -gi
+...

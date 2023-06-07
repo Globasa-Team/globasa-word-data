@@ -1,0 +1,59 @@
+---
+term: kobra
+slug: kobra
+ipa: "\u02C8kob\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kob\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cobra
+  epo:
+  - - kobro
+  spa:
+  - - cobra
+    - _Elapidae_
+  deu:
+  - - Kobra
+search terms:
+  glb:
+  - kobra
+  eng:
+  - cobra
+  epo:
+  - kobro
+  spa:
+  - cobra
+  - elapidae
+  deu:
+  - kobra
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kobra
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cobra
+    epo: kobro
+    spa: cobra, _Elapidae_
+    deu: Kobra
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (cobra), Hindisa (\u0915\u094B\u092C\u0930\u093E \u201Ckobra\u201D),
+    Espanisa (cobra), Arabisa (\u0643\u064F\u0648\u0628\u0652\u0631\u064E\u0627 \u201Ckubra\u201D),
+    Fransesa (cobra), Rusisa (\u043A\u043E\u0431\u0440\u0430 \u201Ckobra\u201D), Indonesisa
+    (kobra), Doycisa (Kobra), Niponsa (\u30B3\u30D6\u30E9 \u201Ckobura\u201D), Turkisa
+    (kobra), Hangusa (\uCF54\uBE0C\uB77C \u201Ckobura\u201D), Parsisa (\u06A9\u0628\u0631\u0627
+    \u201Ckobra\u201D), Pilipinasa (kobra)"
+...

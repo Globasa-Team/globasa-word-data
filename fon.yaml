@@ -1,0 +1,75 @@
+---
+term: fon
+slug: fon
+ipa: ˈfon
+ipa link: http://ipa-reader.xyz/?text=ˈfon&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - -phone
+    - sound tool
+  epo:
+  - - -ilo (_por sonoj_)
+    - -fono
+  spa:
+  - - -fono
+    - herramienta para sonidos
+  deu:
+  - - -fon (-phon)
+    - Gerät oder Instrument
+    - das Laute oder Klänge erzeugt
+search terms:
+  glb:
+  - fon
+  eng:
+  - -phone
+  - sound tool
+  epo:
+  - -ilo
+  - -fono
+  spa:
+  - -fono
+  - herramienta para sonidos
+  deu:
+  - -fon -phon
+  - -fon
+  - gerät oder instrument
+  - das laute oder klänge erzeugt
+etymology_type: NATLNG
+etymology:
+  Doycisa: ~
+  Englisa:
+  - - telephone
+  Espanisa: ~
+  Fransesa: ~
+  Rusisa: ~
+  Arabisa: ~
+  Parsisa: ~
+  Hindisa: ~
+  Telugusa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Niponsa: ~
+raw data:
+  term: fon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: '-phone, sound tool '
+    epo: -ilo (_por sonoj_), -fono
+    spa: -fono, herramienta para sonidos
+    deu: -fon (-phon), Gerät oder Instrument, das Laute oder Klänge erzeugt
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa, Englisa (telephone), Espanisa, Fransesa, Rusisa, Arabisa, Parsisa,
+    Hindisa, Telugusa, Indonesisa, Pilipinasa, Niponsa
+...

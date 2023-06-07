@@ -1,0 +1,56 @@
+---
+term: cufam
+slug: cufam
+ipa: t͡ʃuˈfam
+ipa link: http://ipa-reader.xyz/?text=t͡ʃuˈfam&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - offense
+    - offend
+  epo:
+  - - ofendo
+  - - ofendi
+  spa:
+  - - ofensa
+  - - ofender
+search terms:
+  glb:
+  - cufam
+  eng:
+  - offense
+  - offend
+  epo:
+  - ofendo
+  - ofendi
+  spa:
+  - ofensa
+  - ofender
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 触犯 “chùfàn”
+  Vyetnamsa:
+  - - xúc phạm
+raw data:
+  term: cufam
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: offense, offend
+    epo: ofendo; ofendi
+    spa: ofensa; ofender
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (触犯 “chùfàn”), Vyetnamsa (xúc phạm)
+...

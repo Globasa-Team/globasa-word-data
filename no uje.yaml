@@ -1,0 +1,51 @@
+---
+term: no uje
+slug: no uje
+ipa: "\u02C8no \u02C8ud\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8no \u02C8ud\u0361\u0292e&voice=Ewa"
+status: false
+category: phrase
+word class: m
+trans:
+  eng:
+  - - not yet
+    - have yet (to)
+  epo:
+  - - "ankora\u016D ne"
+  spa:
+  - - "todav\xEDa no"
+search terms:
+  glb:
+  - no uje
+  - "no"
+  - uje
+  eng:
+  - not yet
+  - have yet to
+  - have yet
+  epo:
+  - "ankora\u016D ne"
+  spa:
+  - "todav\xEDa no"
+etymology_type: DERIVD
+etymology: <a href="../lexi/no">no</a>, <a href="../lexi/uje">uje</a>
+raw data:
+  term: no uje
+  category: phrase
+  word class: m
+  status: false
+  trans:
+    eng: not yet, have yet (to)
+    epo: "ankora\u016D ne"
+    spa: "todav\xEDa no"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: yet, have yet to
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: no, uje
+...

@@ -1,0 +1,50 @@
+---
+term: ustayen
+slug: ustayen
+ipa: "usta\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=usta\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - expert
+    - master
+  epo:
+  - - spertulo
+  spa:
+  - - experto
+    - maestro
+search terms:
+  glb:
+  - ustayen
+  eng:
+  - expert
+  - master
+  epo:
+  - spertulo
+  spa:
+  - experto
+  - maestro
+etymology_type: DERIVD
+etymology: <a href="../lexi/usta">usta</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: ustayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: expert, master
+    epo: spertulo
+    spa: experto, maestro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: usta + -yen
+...

@@ -1,0 +1,46 @@
+---
+term: tigayen
+slug: tigayen
+ipa: "tiga\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=tiga\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - trio
+  epo:
+  - - trio
+  spa:
+  - - "tr\xEDo"
+search terms:
+  glb:
+  - tigayen
+  eng:
+  - trio
+  epo:
+  - trio
+  spa:
+  - "tr\xEDo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tiga">tiga</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: tigayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: trio
+    epo: trio
+    spa: "tr\xEDo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tiga + -yen
+...

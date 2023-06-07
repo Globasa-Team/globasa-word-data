@@ -1,0 +1,91 @@
+---
+term: tubihu
+slug: tubihu
+ipa: "tu\u02C8bixu"
+ipa link: "http://ipa-reader.xyz/?text=tu\u02C8bixu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - scolding
+    - admonishment
+  - - rebuke
+    - scold
+    - reprimand
+    - admonish
+  epo:
+  - - admono
+    - "ripro\u0109o"
+    - skoldo
+    - "malla\u016Ddo"
+  - - admoni
+    - "ripro\u0109i"
+    - skoldi
+    - "malla\u016Ddi"
+  spa:
+  - - reprimenda
+    - "rega\xF1ina"
+    - reproche
+  - - "rega\xF1ar"
+    - "re\xF1ir"
+    - amonestar
+    - reprender
+    - reprochar
+search terms:
+  glb:
+  - tubihu
+  eng:
+  - scolding
+  - admonishment
+  - rebuke
+  - scold
+  - reprimand
+  - admonish
+  epo:
+  - admono
+  - "ripro\u0109o"
+  - skoldo
+  - "malla\u016Ddo"
+  - admoni
+  - "ripro\u0109i"
+  - skoldi
+  - "malla\u016Ddi"
+  spa:
+  - reprimenda
+  - "rega\xF1ina"
+  - reproche
+  - "rega\xF1ar"
+  - "re\xF1ir"
+  - amonestar
+  - reprender
+  - reprochar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u0648\u0628\u064A\u062E \u201Ctubih\u201D"
+  Parsisa:
+  - - "\u062A\u0648\u0628\u06CC\u062E \u201Ctobih\u201D"
+raw data:
+  term: tubihu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: scolding, admonishment; rebuke, scold, reprimand, admonish
+    epo: "admono, ripro\u0109o, skoldo, malla\u016Ddo; admoni, ripro\u0109i, skoldi,
+      malla\u016Ddi"
+    spa: "reprimenda, rega\xF1ina, reproche; rega\xF1ar, re\xF1ir, amonestar, reprender,
+      reprochar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u0648\u0628\u064A\u062E \u201Ctubih\u201D), Parsisa
+    (\u062A\u0648\u0628\u06CC\u062E \u201Ctobih\u201D)"
+...

@@ -1,0 +1,80 @@
+---
+term: ceramika
+slug: ceramika
+ipa: t͡ʃeɾaˈmika
+ipa link: http://ipa-reader.xyz/?text=t͡ʃeɾaˈmika&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ceramic
+  epo:
+  - - ceramiko
+  spa:
+  - - cerámica
+search terms:
+  glb:
+  - ceramika
+  eng:
+  - ceramic
+  epo:
+  - ceramiko
+  spa:
+  - cerámica
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ceramic
+  Espanisa:
+  - - cerámica
+  Fransesa:
+  - - céramique
+  Rusisa:
+  - - керамика “keramika”
+  Doycisa:
+  - - Keramik
+  Portugalsa:
+  - - cerâmica
+  Italisa:
+  - - ceramica
+  Indonesisa:
+  - - keramik
+  Pilipinasa:
+  - - seramik
+  Arabisa:
+  - - سيراميك “siramik”
+  Niponsa:
+  - - セラミックス “seramikusu”
+  Telugusa:
+  - - సిరామిక్ “siramik”
+  Turkisa:
+  - - seramik
+  Hangusa:
+  - - 세라믹스 “seramiksu”
+  Parsisa:
+  - - سرامیک “serâmik”
+raw data:
+  term: ceramika
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ceramic
+    epo: ceramiko
+    spa: cerámica
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (ceramic), Espanisa (cerámica), Fransesa (céramique), Rusisa
+    (керамика “keramika”), Doycisa (Keramik), Portugalsa (cerâmica), Italisa (ceramica),
+    Indonesisa (keramik), Pilipinasa (seramik), Arabisa (سيراميك “siramik”), Niponsa
+    (セラミックス “seramikusu”), Telugusa (సిరామిక్ “siramik”), Turkisa (seramik), Hangusa
+    (세라믹스 “seramiksu”), Parsisa (سرامیک “serâmik”)
+...

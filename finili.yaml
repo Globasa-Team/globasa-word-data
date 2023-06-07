@@ -1,0 +1,56 @@
+---
+term: finili
+slug: finili
+ipa: "fi\u02C8nili"
+ipa link: "http://ipa-reader.xyz/?text=fi\u02C8nili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - last
+    - lastly
+    - final
+    - finally
+  epo:
+  - - fina
+  - - fine
+  spa:
+  - - "\xFAltimo"
+    - final
+search terms:
+  glb:
+  - finili
+  eng:
+  - last
+  - lastly
+  - final
+  - finally
+  epo:
+  - fina
+  - fine
+  spa:
+  - "\xFAltimo"
+  - final
+etymology_type: DERIVD
+etymology: <a href="../lexi/fini">fini</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: finili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: last, lastly, final, finally
+    epo: fina; fine
+    spa: "\xFAltimo, final"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fini + -li
+...

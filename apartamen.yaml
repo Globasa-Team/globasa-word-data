@@ -1,0 +1,77 @@
+---
+term: apartamen
+slug: apartamen
+ipa: apaɾtaˈmen
+ipa link: http://ipa-reader.xyz/?text=apaɾtaˈmen&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - apartment
+    - flat
+  epo:
+  - - apartamento
+  spa:
+  - - apartamento
+search terms:
+  glb:
+  - apartamen
+  eng:
+  - apartment
+  - flat
+  epo:
+  - apartamento
+  spa:
+  - apartamento
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - apartment
+  Fransesa:
+  - - appartement
+  Doycisa:
+  - - Appartement
+  Rusisa:
+  - - апартамент “apartament”
+  Espanisa:
+  - - apartament
+  Turkisa:
+  - - apartman
+  Indonesisa:
+  - - apartemen
+  Pilipinasa:
+  - - apartment
+  Niponsa:
+  - - アパート “apato”
+  Hangusa:
+  - - 아파트 “apatu”
+  Hindisa:
+  - - अपार्टमेंट “apartament”
+  Parsisa:
+  - - آپارتمان “âpârtemân”
+tags:
+- kostruixey
+raw data:
+  term: apartamen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: apartment, flat
+    epo: apartamento
+    spa: apartamento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kostruixey
+  etymology: Englisa (apartment), Fransesa (appartement), Doycisa (Appartement), Rusisa
+    (апартамент “apartament”), Espanisa (apartament), Turkisa (apartman), Indonesisa
+    (apartemen), Pilipinasa (apartment), Niponsa (アパート “apato”), Hangusa (아파트 “apatu”),
+    Hindisa (अपार्टमेंट “apartament”), Parsisa (آپارتمان “âpârtemân”)
+...

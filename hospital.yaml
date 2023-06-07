@@ -1,0 +1,55 @@
+---
+term: hospital
+slug: hospital
+ipa: "xospi\u02C8tal"
+ipa link: "http://ipa-reader.xyz/?text=xospi\u02C8tal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hospital
+  epo:
+  - - malsanulejo
+    - hospitalo
+  spa:
+  - - hospital
+search terms:
+  glb:
+  - hospital
+  eng:
+  - hospital
+  epo:
+  - malsanulejo
+  - hospitalo
+  spa:
+  - hospital
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+synonyms:
+- bimaryendom
+raw data:
+  term: hospital
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hospital
+    epo: malsanulejo, hospitalo
+    spa: hospital
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: bimaryendom
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (hospital), Fransesa (h\xF4pital), Espanisa (hospital), Hindisa
+    (\u0905\u0938\u094D\u092A\u0924\u093E\u0932 \u201Caspat\u0101l\u201D), Telugusa
+    (\u0C06\u0C38\u0C41\u0C2A\u0C24\u0C4D\u0C30\u0C3F \u201C\u0101supatri\u201D),
+    Swahilisa (hospitali)"
+...

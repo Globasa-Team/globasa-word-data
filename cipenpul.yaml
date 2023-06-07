@@ -1,0 +1,52 @@
+---
+term: cipenpul
+slug: cipenpul
+ipa: "t\u0361\u0283ipen\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ipen\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - dishonest
+  epo:
+  - - malhonesta
+    - trompa
+  - - malhoneste
+    - trompe
+  spa:
+  - - deshonesto
+search terms:
+  glb:
+  - cipenpul
+  eng:
+  - dishonest
+  epo:
+  - malhonesta
+  - trompa
+  - malhoneste
+  - trompe
+  spa:
+  - deshonesto
+etymology_type: DERIVD
+etymology: <a href="../lexi/cipen">cipen</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: cipenpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: dishonest
+    epo: malhonesta, trompa; malhoneste, trompe
+    spa: deshonesto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cipen + -pul
+...

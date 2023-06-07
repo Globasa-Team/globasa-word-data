@@ -1,0 +1,50 @@
+---
+term: konkan
+slug: konkan
+ipa: "kon\u02C8kan"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8kan&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Konkan (_western coastal region in India_)
+  epo:
+  - - Konkanio
+    - Konkanujo
+  spa:
+  - - "Konkan (_regi\xF3n costera occidental en India_)"
+search terms:
+  glb:
+  - konkan
+  eng:
+  - konkan
+  epo:
+  - konkanio
+  - konkanujo
+  spa:
+  - konkan
+etymology_type: NATLNG
+etymology:
+  Konkansa:
+  - - "\u0915\u094B\u0902\u0915\u0923 \u201Ckonkan\u201D"
+raw data:
+  term: Konkan
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Konkan (_western coastal region in India_)
+    epo: Konkanio, Konkanujo
+    spa: "Konkan (_regi\xF3n costera occidental en India_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Konkansa (\u0915\u094B\u0902\u0915\u0923 \u201Ckonkan\u201D)"
+...

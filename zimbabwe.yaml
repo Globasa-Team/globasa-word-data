@@ -1,0 +1,63 @@
+---
+term: zimbabwe
+slug: zimbabwe
+ipa: "zim\u02C8babwe"
+ipa link: "http://ipa-reader.xyz/?text=zim\u02C8babwe&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Zimbabwe
+  epo:
+  - - Zimbabvo
+  spa:
+  - - Zimbabue
+search terms:
+  glb:
+  - zimbabwe
+  eng:
+  - zimbabwe
+  epo:
+  - zimbabvo
+  spa:
+  - zimbabue
+etymology_type: NATLNG
+etymology:
+  Xonasa: ~
+  Endebelesa: ~
+  Cewasa: ~
+  Senasa: ~
+  Kalangasa: ~
+  Koysan: ~
+  Nambyasa: ~
+  Endaw: ~
+  Etsongasa: ~
+  Lesutusa: ~
+  Batongasa: ~
+  Vendasa: ~
+  Kosasa:
+  - - Zimbabwe
+tags:
+- dexa
+raw data:
+  term: Zimbabwe
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Zimbabwe
+    epo: Zimbabvo
+    spa: Zimbabue
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Xonasa, Endebelesa, Cewasa, Senasa, Kalangasa, Koysan, Nambyasa, Endaw,
+    Etsongasa, Lesutusa, Batongasa, Vendasa, Kosasa (Zimbabwe)
+...

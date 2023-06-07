@@ -1,0 +1,65 @@
+---
+term: real
+slug: real
+ipa: "\u027Ee\u02C8al"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8al&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - real
+    - really
+  epo:
+  - - reala
+  - - reale
+  spa:
+  - - real
+search terms:
+  glb:
+  - real
+  eng:
+  - real
+  - really
+  epo:
+  - reala
+  - reale
+  spa:
+  - real
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - real
+  Fransesa:
+  - - "r\xE9el"
+  Doycisa:
+  - - reell
+  Rusisa:
+  - - "\u0440\u0435\u0430\u043B\u044C\u043D\u044B\u0439 \u201Crealniy\u201D"
+  Espanisa:
+  - - real
+  Indonesisa:
+  - - realitas
+  Turkisa:
+  - - reel
+raw data:
+  term: real
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: real, really
+    epo: reala; reale
+    spa: real
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (real), Fransesa (r\xE9el), Doycisa (reell), Rusisa (\u0440\u0435\u0430\u043B\u044C\u043D\u044B\u0439
+    \u201Crealniy\u201D), Espanisa (real), Indonesisa (realitas), Turkisa (reel)"
+...

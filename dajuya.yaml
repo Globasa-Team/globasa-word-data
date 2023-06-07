@@ -1,0 +1,59 @@
+---
+term: dajuya
+slug: dajuya
+ipa: "da\u02C8d\u0361\u0292uja"
+ipa link: "http://ipa-reader.xyz/?text=da\u02C8d\u0361\u0292uja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - approximation
+    - estimate
+  - - approximate
+    - estimate
+  epo:
+  - - aproksimo
+  - - aproksimi
+  spa:
+  - - "aproximaci\xF3n"
+    - estimado
+  - - aproximar
+    - estimar
+search terms:
+  glb:
+  - dajuya
+  eng:
+  - approximation
+  - estimate
+  - approximate
+  epo:
+  - aproksimo
+  - aproksimi
+  spa:
+  - "aproximaci\xF3n"
+  - estimado
+  - aproximar
+  - estimar
+etymology_type: DERIVD
+etymology: <a href="../lexi/daju">daju</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: dajuya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: approximation, estimate; approximate, estimate
+    epo: aproksimo; aproksimi
+    spa: "aproximaci\xF3n, estimado; aproximar, estimar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: daju + -ya
+...

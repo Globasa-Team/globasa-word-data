@@ -1,0 +1,72 @@
+---
+term: nun
+slug: nun
+ipa: "\u02C8nun"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nun&voice=Ewa"
+status: true
+category: root
+word class: par
+trans:
+  eng:
+  - - _present tense marker_
+  - - well
+    - now
+    - so
+  epo:
+  - - nun
+    - -as _presenca markilo_
+  - - nu
+  spa:
+  - - _marcador del tiempo presente_
+  - - bueno
+    - pues
+search terms:
+  glb:
+  - nun
+  eng:
+  - present tense marker
+  - well
+  - now
+  - so
+  epo:
+  - nun
+  - -as presenca markilo
+  - nu
+  spa:
+  - marcador del tiempo presente
+  - bueno
+  - pues
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - "\u043D\u044B\u043D\u0435 \u201Cnyne\u201D"
+    - "\u043D\u0443 \u201Cnu\u201D"
+  Doycisa:
+  - - nun
+    - nu
+  Hangusa:
+  - - "\uB294 \u201C-nun-\u201D"
+  Ivrisa:
+  - - "\u05E0\u05D5\u05BC \u201Cnu\u201D"
+raw data:
+  term: nun
+  category: root
+  word class: par
+  status: true
+  trans:
+    eng: '_present tense marker_; well, now, so '
+    epo: nun, -as _presenca markilo_; nu
+    spa: _marcador del tiempo presente_; bueno, pues
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Rusisa (\u043D\u044B\u043D\u0435 \u201Cnyne\u201D, \u043D\u0443 \u201Cnu\u201D),
+    Doycisa (nun, nu), Hangusa (\uB294 \u201C-nun-\u201D), Ivrisa (\u05E0\u05D5\u05BC
+    \u201Cnu\u201D)"
+...

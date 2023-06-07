@@ -1,0 +1,52 @@
+---
+term: ganzoitis
+slug: ganzoitis
+ipa: "ganzoi\u02C8tis"
+ipa link: "http://ipa-reader.xyz/?text=ganzoi\u02C8tis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hepatitis
+  epo:
+  - - hepatito
+    - hepatoinflamo
+    - hepatobrulumo
+  spa:
+  - - hepatitis
+search terms:
+  glb:
+  - ganzoitis
+  eng:
+  - hepatitis
+  epo:
+  - hepatito
+  - hepatoinflamo
+  - hepatobrulumo
+  spa:
+  - hepatitis
+etymology_type: DERIVD
+etymology: <a href="../lexi/ganzo">ganzo</a> + <a href="../lexi/-itis">-itis</a>
+tags:
+- medis
+raw data:
+  term: ganzoitis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hepatitis
+    epo: hepatito, hepatoinflamo, hepatobrulumo
+    spa: hepatitis
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: ganzo + -itis
+...

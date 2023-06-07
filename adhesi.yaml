@@ -1,0 +1,77 @@
+---
+term: adhesi
+slug: adhesi
+ipa: adˈxesi
+ipa link: http://ipa-reader.xyz/?text=adˈxesi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - adhesion
+  - - adhere
+    - stick
+  epo:
+  - - adhero
+  - - adheri
+    - (al)gluiĝi
+    - (al)glui
+  spa:
+  - - adhesión
+  - - adherir
+    - pegar
+search terms:
+  glb:
+  - adhesi
+  eng:
+  - adhesion
+  - adhere
+  - stick
+  epo:
+  - adhero
+  - adheri
+  - algluiĝi
+  - gluiĝi
+  - alglui
+  - glui
+  spa:
+  - adhesión
+  - adherir
+  - pegar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - adhesion
+  Espanisa:
+  - - adhesión
+  Fransesa:
+  - - adhésion
+  Rusisa:
+  - - адгезия "adgeziya"
+  Doycisa:
+  - - Adhäsion
+  Indonesisa:
+  - - adesi
+  Turkisa:
+  - - adezyon
+raw data:
+  term: adhesi
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: adhesion; adhere, stick
+    epo: adhero; adheri, (al)gluiĝi, (al)glui
+    spa: adhesión; adherir, pegar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (adhesion), Espanisa (adhesión), Fransesa (adhésion), Rusisa
+    (адгезия "adgeziya"), Doycisa (Adhäsion), Indonesisa (adesi), Turkisa (adezyon)
+...

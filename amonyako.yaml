@@ -1,0 +1,84 @@
+---
+term: amonyako
+slug: amonyako
+ipa: amoˈnjako
+ipa link: http://ipa-reader.xyz/?text=amoˈnjako&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ammonia
+  epo:
+  - - amoniako
+  spa:
+  - - amoníaco
+search terms:
+  glb:
+  - amonyako
+  eng:
+  - ammonia
+  epo:
+  - amoniako
+  spa:
+  - amoníaco
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ammonia
+  Espanisa:
+  - - amoníaco
+  Fransesa:
+  - - ammoniac
+  Rusisa:
+  - - аммиак “amyak”
+  Doycisa:
+  - - Ammoniak
+  Indonesisa:
+  - - amonia
+  Swahilisa: ~
+  Pilipinasa:
+  - - amonya
+  Putunhwa:
+  - - 阿摩尼亚 “amoniya”
+  Hindisa:
+  - - अमोनिया “amoniya”
+  Arabisa:
+  - - أمونيا “amunya”
+  Niponsa:
+  - - アンモニア “anmonia”
+  Telugusa:
+  - - మ్మోనియా “amoniya”
+  Turkisa:
+  - - amonyak
+  Hanugsa:
+  - - 암모니아 “ammonia”
+  Vyetnamsa:
+  - - amoniac
+  Parsisa:
+  - - آمونیاک‎ “amuniyak”
+  "": ~
+raw data:
+  term: amonyako
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ammonia
+    epo: amoniako
+    spa: amoníaco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'Englisa (ammonia), Espanisa (amoníaco), Fransesa (ammoniac), Rusisa
+    (аммиак “amyak”), Doycisa (Ammoniak), Indonesisa (amonia), Swahilisa, Pilipinasa
+    (amonya), Putunhwa (阿摩尼亚 “amoniya”), Hindisa (अमोनिया “amoniya”), Arabisa (أمونيا
+    “amunya”), Niponsa (アンモニア “anmonia”), Telugusa (మ్మోనియా “amoniya”), Turkisa (amonyak),
+    Hanugsa (암모니아 “ammonia”), Vyetnamsa (amoniac), Parsisa (آمونیاک‎ “amuniyak”), '
+...

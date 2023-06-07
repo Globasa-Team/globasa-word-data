@@ -1,0 +1,50 @@
+---
+term: exkiperisa
+slug: exkiperisa
+ipa: "e\u0283kipe\u02C8\u027Eisa"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283kipe\u02C8\u027Eisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Albanian (language)
+  epo:
+  - - la albana (lingvo)
+  spa:
+  - - "alban\xE9s (_idioma_)"
+search terms:
+  glb:
+  - exkiperisa
+  eng:
+  - albanian language
+  - albanian
+  epo:
+  - la albana lingvo
+  - la albana
+  spa:
+  - "alban\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Exkiperi">Exkiperi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Exkiperisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Albanian (language)
+    epo: la albana (lingvo)
+    spa: "alban\xE9s (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Exkiperi + -sa
+...

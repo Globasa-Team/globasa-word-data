@@ -1,0 +1,60 @@
+---
+term: cine
+slug: cine
+ipa: ˈt͡ʃine
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃine&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chin
+  epo:
+  - - mentono
+  spa:
+  - - barbilla
+  deu:
+  - - Kinn
+search terms:
+  glb:
+  - cine
+  eng:
+  - chin
+  epo:
+  - mentono
+  spa:
+  - barbilla
+  deu:
+  - kinn
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - chin
+  Doycisa:
+  - - Kinn
+  Turkisa:
+  - - çene
+  Parsisa:
+  - - چانه‎ “čâne”
+tags:
+- jismulogi
+raw data:
+  term: cine
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chin
+    epo: mentono
+    spa: barbilla
+    deu: Kinn
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Englisa (chin), Doycisa (Kinn), Turkisa (çene), Parsisa (چانه‎ “čâne”)
+...

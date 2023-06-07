@@ -1,0 +1,54 @@
+---
+term: opos
+slug: opos
+ipa: "o\u02C8pos"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8pos&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - opposite
+  epo:
+  - - mala
+  - - male
+  spa:
+  - - opuesto
+search terms:
+  glb:
+  - opos
+  eng:
+  - opposite
+  epo:
+  - mala
+  - male
+  spa:
+  - opuesto
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - opposite
+  Fransesa:
+  - - "oppos\xE9"
+  Espanisa:
+  - - opuesto
+raw data:
+  term: opos
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: opposite
+    epo: mala; male
+    spa: opuesto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (opposite), Fransesa (oppos\xE9), Espanisa (opuesto)"
+...

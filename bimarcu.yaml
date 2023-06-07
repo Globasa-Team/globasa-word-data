@@ -1,0 +1,50 @@
+---
+term: bimarcu
+slug: bimarcu
+ipa: "bi\u02C8ma\u027Et\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=bi\u02C8ma\u027Et\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - get sick
+    - fall ill
+  epo:
+  - - "malsani\u011Do"
+  - - "malsani\u011Di"
+  spa:
+  - - enfermarse
+search terms:
+  glb:
+  - bimarcu
+  eng:
+  - get sick
+  - fall ill
+  epo:
+  - "malsani\u011Do"
+  - "malsani\u011Di"
+  spa:
+  - enfermarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/bimar">bimar</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: bimarcu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: get sick, fall ill
+    epo: "malsani\u011Do; malsani\u011Di"
+    spa: enfermarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bimar + -cu
+...

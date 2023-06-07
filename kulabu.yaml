@@ -1,0 +1,52 @@
+---
+term: kulabu
+slug: kulabu
+ipa: "ku\u02C8labu"
+ipa link: "http://ipa-reader.xyz/?text=ku\u02C8labu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - hook
+  epo:
+  - - hoko
+  spa:
+  - - anzuelo
+    - garfio
+    - gancho
+search terms:
+  glb:
+  - kulabu
+  eng:
+  - hook
+  epo:
+  - hoko
+  spa:
+  - anzuelo
+  - garfio
+  - gancho
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kulabu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: hook
+    epo: hoko
+    spa: anzuelo, garfio, gancho
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0643\u064F\u0644\u064E\u0651\u0627\u0628 \u201Ckulab\u201D),
+    Parsisa (\u0642\u0644\u0627\u0628 \u201Ckolab\u201D), Swahilisa (kulabu), Telugusa
+    (\u0C17\u0C3E\u0C32\u0C2E\u0C41 \u201Cgalamu\u201D)"
+...

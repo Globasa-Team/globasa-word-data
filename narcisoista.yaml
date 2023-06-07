@@ -1,0 +1,46 @@
+---
+term: narcisoista
+slug: narcisoista
+ipa: "na\u027Et\u0361\u0283iso\u02C8ista"
+ipa link: "http://ipa-reader.xyz/?text=na\u027Et\u0361\u0283iso\u02C8ista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - narcissist
+  epo:
+  - - narcisisto
+  spa:
+  - - narcisista
+search terms:
+  glb:
+  - narcisoista
+  eng:
+  - narcissist
+  epo:
+  - narcisisto
+  spa:
+  - narcisista
+etymology_type: DERIVD
+etymology: <a href="../lexi/Narciso">Narciso</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: narcisoista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'narcissist '
+    epo: narcisisto
+    spa: narcisista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Narciso + -ista
+...

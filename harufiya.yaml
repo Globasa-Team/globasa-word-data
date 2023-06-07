@@ -1,0 +1,50 @@
+---
+term: harufiya
+slug: harufiya
+ipa: "xa\u027Eu\u02C8fija"
+ipa link: "http://ipa-reader.xyz/?text=xa\u027Eu\u02C8fija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - spelling
+  epo:
+  - - literumo
+    - literumado
+  spa:
+  - - deletreo
+    - "ortograf\xEDa"
+search terms:
+  glb:
+  - harufiya
+  eng:
+  - spelling
+  epo:
+  - literumo
+  - literumado
+  spa:
+  - deletreo
+  - "ortograf\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/harufi">harufi</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: harufiya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: spelling
+    epo: literumo, literumado
+    spa: "deletreo, ortograf\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: harufi + -ya
+...

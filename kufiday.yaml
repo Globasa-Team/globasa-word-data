@@ -1,0 +1,58 @@
+---
+term: kufiday
+slug: kufiday
+ipa: "kufi\u02C8daj"
+ipa link: "http://ipa-reader.xyz/?text=kufi\u02C8daj&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - significant
+    - substantial
+    - sufficiently large
+  epo:
+  - - signifa
+    - substanca
+    - "sufi\u0109e granda"
+  - - signife
+  spa:
+  - - significativo
+    - sustancial
+search terms:
+  glb:
+  - kufiday
+  eng:
+  - significant
+  - substantial
+  - sufficiently large
+  epo:
+  - signifa
+  - substanca
+  - "sufi\u0109e granda"
+  - signife
+  spa:
+  - significativo
+  - sustancial
+etymology_type: DERIVD
+etymology: <a href="../lexi/kufi">kufi</a> + <a href="../lexi/day">day</a>
+raw data:
+  term: kufiday
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: significant, substantial, sufficiently large
+    epo: "signifa, substanca, sufi\u0109e granda; signife"
+    spa: significativo, sustancial
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kufi + day
+...

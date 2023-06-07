@@ -1,0 +1,48 @@
+---
+term: neo-
+slug: neo-
+ipa: "ne\u02C8o-"
+ipa link: "http://ipa-reader.xyz/?text=ne\u02C8o-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - neo-
+  epo:
+  - - nov-
+  spa:
+  - - neo-
+search terms:
+  glb:
+  - neo-
+  eng:
+  - neo-
+  epo:
+  - nov-
+  spa:
+  - neo-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/neo">neo</a>.
+antonyms:
+- lama-
+raw data:
+  term: neo-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: neo-
+    epo: nov-
+    spa: neo-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: lama-
+  example: ""
+  tags: ""
+  etymology: Am oko _neo_.
+...

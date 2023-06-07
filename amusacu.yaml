@@ -1,0 +1,56 @@
+---
+term: amusacu
+slug: amusacu
+ipa: "amu\u02C8sat\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=amu\u02C8sat\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - fun
+  - - have fun
+  epo:
+  - - "amuzi\u011Do"
+    - amuzo
+  - - "amuzi\u011Di"
+    - amuzi sin
+  spa:
+  - - "diversi\xF3n"
+  - - divertirse
+search terms:
+  glb:
+  - amusacu
+  eng:
+  - fun
+  - have fun
+  epo:
+  - "amuzi\u011Do"
+  - amuzo
+  - "amuzi\u011Di"
+  - amuzi sin
+  spa:
+  - "diversi\xF3n"
+  - divertirse
+etymology_type: DERIVD
+etymology: <a href="../lexi/amusa">amusa</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: amusacu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: fun; have fun
+    epo: "amuzi\u011Do, amuzo; amuzi\u011Di, amuzi sin"
+    spa: "diversi\xF3n; divertirse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: amusa + -cu
+...

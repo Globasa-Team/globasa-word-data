@@ -1,0 +1,54 @@
+---
+term: axamyam
+slug: axamyam
+ipa: "a\u0283a\u02C8mjam"
+ipa link: "http://ipa-reader.xyz/?text=a\u0283a\u02C8mjam&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - dinner
+  - - eat dinner
+    - have dinner
+  epo:
+  - - "versperman\u011Do"
+  - - "vesperman\u011Di"
+  spa:
+  - - cena
+  - - cenar
+search terms:
+  glb:
+  - axamyam
+  eng:
+  - dinner
+  - eat dinner
+  - have dinner
+  epo:
+  - "versperman\u011Do"
+  - "vesperman\u011Di"
+  spa:
+  - cena
+  - cenar
+etymology_type: DERIVD
+etymology: <a href="../lexi/axam">axam</a> + <a href="../lexi/yam">yam</a>
+raw data:
+  term: axamyam
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: dinner; eat dinner, have dinner
+    epo: "versperman\u011Do; vesperman\u011Di"
+    spa: cena; cenar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: axam + yam
+...

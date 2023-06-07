@@ -1,0 +1,50 @@
+---
+term: nil alote kom
+slug: nil alote kom
+ipa: "\u02C8nil a\u02C8lote kom"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nil a\u02C8lote kom&voice=Ewa"
+status: false
+category: phrase
+word class: jm
+trans:
+  eng:
+  - - none other than
+  epo:
+  - - neniu alia ol
+  spa:
+  - - "ning\xFAn otro que"
+search terms:
+  glb:
+  - nil alote kom
+  - nil
+  - alote
+  - kom
+  eng:
+  - none other than
+  epo:
+  - neniu alia ol
+  spa:
+  - "ning\xFAn otro que"
+etymology_type: DERIVD
+etymology: <a href="../lexi/nil">nil</a>, <a href="../lexi/alo">alo</a> + <a href="../lexi/te">te</a>,
+  <a href="../lexi/kom">kom</a>
+raw data:
+  term: nil alote kom
+  category: phrase
+  word class: jm
+  status: false
+  trans:
+    eng: none other than
+    epo: neniu alia ol
+    spa: "ning\xFAn otro que"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nil, alo + te, kom
+...

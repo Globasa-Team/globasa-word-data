@@ -1,0 +1,57 @@
+---
+term: rumani
+slug: rumani
+ipa: "\u027Eu\u02C8mani"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8mani&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Romania
+  epo:
+  - - Rumanio
+    - Rumanujo
+  spa:
+  - - Rumania
+search terms:
+  glb:
+  - rumani
+  eng:
+  - romania
+  epo:
+  - rumanio
+  - rumanujo
+  spa:
+  - rumania
+etymology_type: NATLNG
+etymology:
+  Rumanisa:
+  - - Romania
+  Espanisa:
+  - - Rumania
+  Rusisa:
+  - - "\u0420\u0443\u043C\u044B\u043D\u0438\u044F \u201CRumyniya\u201D"
+tags:
+- dexa
+raw data:
+  term: Rumani
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Romania
+    epo: Rumanio, Rumanujo
+    spa: Rumania
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Rumanisa (Romania), Espanisa (Rumania), Rusisa (\u0420\u0443\u043C\u044B\u043D\u0438\u044F
+    \u201CRumyniya\u201D)"
+...

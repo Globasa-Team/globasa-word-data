@@ -1,0 +1,46 @@
+---
+term: yehudiismo
+slug: yehudiismo
+ipa: "jexudi\u02C8ismo"
+ipa link: "http://ipa-reader.xyz/?text=jexudi\u02C8ismo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Judaism
+  epo:
+  - - judismo
+  spa:
+  - - "Juda\xEDsmo"
+search terms:
+  glb:
+  - yehudiismo
+  eng:
+  - judaism
+  epo:
+  - judismo
+  spa:
+  - "juda\xEDsmo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Yehudi">Yehudi</a> + <a href="../lexi/-ismo">-ismo</a>
+raw data:
+  term: Yehudiismo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Judaism
+    epo: judismo
+    spa: "Juda\xEDsmo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Yehudi + -ismo
+...

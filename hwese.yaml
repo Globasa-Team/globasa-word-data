@@ -1,0 +1,53 @@
+---
+term: hwese
+slug: hwese
+ipa: "\u02C8xwese"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xwese&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - gray
+    - grey
+  epo:
+  - - griza
+  - - grize
+  spa:
+  - - gris
+search terms:
+  glb:
+  - hwese
+  eng:
+  - gray
+  - grey
+  epo:
+  - griza
+  - grize
+  spa:
+  - gris
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kolor
+raw data:
+  term: hwese
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: gray, grey
+    epo: griza; grize
+    spa: gris
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: "Putunhwa (\u7070\u8272 \u201Chu\u012Bs\xE8\u201D), Hangusa (\uD68C\uC0C9
+    \u201Choesaeg\u201D)"
+...

@@ -1,0 +1,55 @@
+---
+term: fe alo kaso
+slug: fe alo kaso
+ipa: "fe \u02C8alo \u02C8kaso"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8alo \u02C8kaso&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - otherwise
+    - or else
+  epo:
+  - - aliokaze
+    - alie
+  spa:
+  - - de otra manera
+    - de otro modo
+search terms:
+  glb:
+  - fe alo kaso
+  - fe
+  - alo
+  - kaso
+  eng:
+  - otherwise
+  - or else
+  epo:
+  - aliokaze
+  - alie
+  spa:
+  - de otra manera
+  - de otro modo
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/alo">alo</a>, <a href="../lexi/kaso">kaso</a>
+raw data:
+  term: fe alo kaso
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: otherwise, or else
+    epo: aliokaze, alie
+    spa: de otra manera, de otro modo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: otherwise, or else, else
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, alo, kaso
+...

@@ -1,0 +1,48 @@
+---
+term: sahayli
+slug: sahayli
+ipa: "sa\u02C8xajli"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8xajli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - auxiliary
+  epo:
+  - - helpa
+  - - helpe
+  spa:
+  - - auxiliar
+search terms:
+  glb:
+  - sahayli
+  eng:
+  - auxiliary
+  epo:
+  - helpa
+  - helpe
+  spa:
+  - auxiliar
+etymology_type: DERIVD
+etymology: <a href="../lexi/sahay">sahay</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: sahayli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: auxiliary
+    epo: helpa; helpe
+    spa: auxiliar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sahay + -li
+...

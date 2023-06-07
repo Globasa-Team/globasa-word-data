@@ -1,0 +1,48 @@
+---
+term: meyubelo
+slug: meyubelo
+ipa: "meju\u02C8belo"
+ipa link: "http://ipa-reader.xyz/?text=meju\u02C8belo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - eyebrow
+  epo:
+  - - brovo
+    - fruntharo
+  spa:
+  - - ceja
+search terms:
+  glb:
+  - meyubelo
+  eng:
+  - eyebrow
+  epo:
+  - brovo
+  - fruntharo
+  spa:
+  - ceja
+etymology_type: DERIVD
+etymology: <a href="../lexi/meyu">meyu</a> + <a href="../lexi/belo">belo</a>
+raw data:
+  term: meyubelo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: eyebrow
+    epo: brovo, fruntharo
+    spa: ceja
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: meyu + belo
+...

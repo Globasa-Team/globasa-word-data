@@ -1,0 +1,46 @@
+---
+term: ger
+slug: ger
+ipa: geɾ
+ipa link: http://ipa-reader.xyz/?text=geɾ&voice=Ewa
+status: true
+category: root
+word class: par
+trans:
+  eng:
+  - - would (_conditional mood marker_)
+  epo:
+  - - -us (_markilo de kondicionalo_)
+  spa:
+  - - _marcador del modo condicional_
+search terms:
+  glb:
+  - ger
+  eng:
+  - would
+  epo:
+  - -us
+  spa:
+  - marcador del modo condicional
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/eger">eger</a>.
+raw data:
+  term: ger
+  category: root
+  word class: par
+  status: true
+  trans:
+    eng: would (_conditional mood marker_)
+    epo: -us (_markilo de kondicionalo_)
+    spa: _marcador del modo condicional_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _eger_.
+...

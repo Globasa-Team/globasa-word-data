@@ -1,0 +1,47 @@
+---
+term: biologiyen
+slug: biologiyen
+ipa: "biologi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=biologi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - biologist
+  epo:
+  - - biologiisto
+  spa:
+  - - "bi\xF3logo"
+search terms:
+  glb:
+  - biologiyen
+  eng:
+  - biologist
+  epo:
+  - biologiisto
+  spa:
+  - "bi\xF3logo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/bio">bio</a> + <a href="../lexi/-logi">-logi</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: biologiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: biologist
+    epo: biologiisto
+    spa: "bi\xF3logo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bio + -logi + -yen
+...

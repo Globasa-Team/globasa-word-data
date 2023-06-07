@@ -1,0 +1,56 @@
+---
+term: amikugi
+slug: amikugi
+ipa: "ami\u02C8kugi"
+ipa link: "http://ipa-reader.xyz/?text=ami\u02C8kugi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - deepen
+    - make deep
+    - make deeper
+  epo:
+  - - profundigo
+  - - profundigi
+  spa:
+  - - profundizar
+    - ahondar
+    - "hacer m\xE1s profundo"
+search terms:
+  glb:
+  - amikugi
+  eng:
+  - deepen
+  - make deep
+  - make deeper
+  epo:
+  - profundigo
+  - profundigi
+  spa:
+  - profundizar
+  - ahondar
+  - "hacer m\xE1s profundo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/amiku">amiku</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: amikugi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: deepen, make deep, make deeper
+    epo: profundigo; profundigi
+    spa: "profundizar, ahondar, hacer m\xE1s profundo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: amiku + -gi
+...

@@ -1,0 +1,74 @@
+---
+term: daju
+slug: daju
+ipa: ˈdad͡ʒu
+ipa link: http://ipa-reader.xyz/?text=ˈdad͡ʒu&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - approximate
+    - approximately
+    - around
+    - about
+    - rough
+    - roughly
+  epo:
+  - - aproksima
+    - proksimuma
+  - - aproksime
+    - proksimume
+  spa:
+  - - aproximado
+  - - aproximadamente
+    - alrededor de
+    - más o menos
+search terms:
+  glb:
+  - daju
+  eng:
+  - approximate
+  - approximately
+  - around
+  - about
+  - rough
+  - roughly
+  epo:
+  - aproksima
+  - proksimuma
+  - aproksime
+  - proksimume
+  spa:
+  - aproximado
+  - aproximadamente
+  - alrededor de
+  - más o menos
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 大致 “daji”
+  Hangusa:
+  - - 대충 “decung”
+antonyms:
+- preciso
+raw data:
+  term: daju
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: approximate, approximately, around, about, rough, roughly
+    epo: aproksima, proksimuma; aproksime, proksimume
+    spa: aproximado; aproximadamente, alrededor de, más o menos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: preciso
+  example: ""
+  tags: ""
+  etymology: Putunhwa (大致 “daji”), Hangusa (대충 “decung”)
+...

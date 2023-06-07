@@ -1,0 +1,48 @@
+---
+term: dessisayum
+slug: dessisayum
+ipa: "dessisa\u02C8jum"
+ipa link: "http://ipa-reader.xyz/?text=dessisa\u02C8jum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - sixteenth
+  epo:
+  - - deksesa
+  - - deksese
+  spa:
+  - - "d\xE9cimo sexto"
+search terms:
+  glb:
+  - dessisayum
+  eng:
+  - sixteenth
+  epo:
+  - deksesa
+  - deksese
+  spa:
+  - "d\xE9cimo sexto"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/sisa">sisa</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: dessisayum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: sixteenth
+    epo: deksesa; deksese
+    spa: "d\xE9cimo sexto"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + sisa + -yum
+...

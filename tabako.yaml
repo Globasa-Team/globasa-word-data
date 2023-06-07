@@ -1,0 +1,80 @@
+---
+term: tabako
+slug: tabako
+ipa: "ta\u02C8bako"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8bako&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tobacco
+  epo:
+  - - tabako
+  spa:
+  - - tabaco
+search terms:
+  glb:
+  - tabako
+  eng:
+  - tobacco
+  epo:
+  - tabako
+  spa:
+  - tabaco
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tobacco
+  Doycisa:
+  - - Tabak
+  Fransesa:
+  - - tabac
+  Espanisa:
+  - - tabaco
+  Rusisa:
+  - - "\u0442\u0430\u0431\u0430\u043A \u201Ctabk\u201D"
+  Arabisa:
+  - - "\u062A\u064E\u0628\u064E\u063A \u201Ctabag\u201D"
+    - "\u062A\u064F\u0645\u0652\u0628\u064E\u0643 \u201Ctumbak\u201D"
+  Hindisa:
+  - - "\u0924\u092E\u094D\u092C\u093E\u0915\u0942 \u201Ctambaku\u201D"
+  Indonesisa:
+  - - tembakau
+  Pilipinasa:
+  - - tabako
+  Parsisa:
+  - - "\u062A\u0646\u0628\u0627\u06A9\u0648\u200E \u201Ctanbako\u201D"
+  Swahilisa:
+  - - tumbaku
+  Niponsa:
+  - - "\u30BF\u30D0\u30B3"
+    - "\u305F\u3070\u3053 \u201Ctabako\u201D"
+  Hangusa:
+  - - "\uB2F4\uBC30 \u201Cdambe\u201D"
+raw data:
+  term: tabako
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tobacco
+    epo: tabako
+    spa: tabaco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tobacco), Doycisa (Tabak), Fransesa (tabac), Espanisa (tabaco),
+    Rusisa (\u0442\u0430\u0431\u0430\u043A \u201Ctabk\u201D), Arabisa (\u062A\u064E\u0628\u064E\u063A
+    \u201Ctabag\u201D, \u062A\u064F\u0645\u0652\u0628\u064E\u0643 \u201Ctumbak\u201D),
+    Hindisa (\u0924\u092E\u094D\u092C\u093E\u0915\u0942 \u201Ctambaku\u201D), Indonesisa
+    (tembakau), Pilipinasa (tabako), Parsisa (\u062A\u0646\u0628\u0627\u06A9\u0648\u200E
+    \u201Ctanbako\u201D), Swahilisa (tumbaku), Niponsa (\u30BF\u30D0\u30B3, \u305F\u3070\u3053
+    \u201Ctabako\u201D), Hangusa (\uB2F4\uBC30 \u201Cdambe\u201D)"
+...

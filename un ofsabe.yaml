@@ -1,0 +1,52 @@
+---
+term: un ofsabe
+slug: un ofsabe
+ipa: "\u02C8un of\u02C8sabe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8un of\u02C8sabe&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - one seventh
+    - a seventh
+  epo:
+  - - sepono
+  spa:
+  - - "un s\xE9ptimo"
+    - "una s\xE9ptima parte"
+search terms:
+  glb:
+  - un ofsabe
+  - un
+  - ofsabe
+  eng:
+  - one seventh
+  - a seventh
+  epo:
+  - sepono
+  spa:
+  - "un s\xE9ptimo"
+  - "una s\xE9ptima parte"
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a>, <a href="../lexi/of-">of-</a> + <a href="../lexi/sabe">sabe</a>
+raw data:
+  term: un ofsabe
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: one seventh, a seventh
+    epo: sepono
+    spa: "un s\xE9ptimo, una s\xE9ptima parte"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un, of- + sabe
+...

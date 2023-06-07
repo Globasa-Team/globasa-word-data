@@ -1,0 +1,52 @@
+---
+term: realgi
+slug: realgi
+ipa: "\u027Ee\u02C8algi"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8algi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - realization
+  - - realize
+    - make real
+  epo:
+  - - realigo
+  - - realigi
+  spa:
+  - - volver realidad
+search terms:
+  glb:
+  - realgi
+  eng:
+  - realization
+  - realize
+  - make real
+  epo:
+  - realigo
+  - realigi
+  spa:
+  - volver realidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/real">real</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: realgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: realization; realize, make real
+    epo: realigo; realigi
+    spa: volver realidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: real + -gi
+...

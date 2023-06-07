@@ -1,0 +1,88 @@
+---
+term: talyum
+slug: talyum
+ipa: "ta\u02C8ljum"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8ljum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - thallium
+  epo:
+  - - taliumo
+  spa:
+  - - talio
+    - Tl
+search terms:
+  glb:
+  - talyum
+  eng:
+  - thallium
+  epo:
+  - taliumo
+  spa:
+  - talio
+  - tl
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - thallium
+  Putunhwa:
+  - - "\u94CA \u201Cta\u201D"
+  Espanisa:
+  - - talio
+  Arabisa:
+  - - "\u062B\u064E\u0627\u0644\u0652\u064A\u064F\u0648\u0645 \u201Ctalyum\u201D"
+  Fransesa:
+  - - thallium
+  Rusisa:
+  - - "\u0442\u0430\u043B\u043B\u0438\u0439 \u201Ctalliy\u201D"
+  Indonesisa:
+  - - talium
+  Doycisa:
+  - - Thallium
+  Niponsa:
+  - - "\u30BF\u30EA\u30A6\u30E0 \u201Ctariumu\u201D"
+  Telugusa:
+  - - "\u0C25\u0C3E\u0C32\u0C3F\u0C2F\u0C02 \u201Ctaliyam\u201D"
+  Turkisa:
+  - - talyum
+  Hangusa:
+  - - "\uD0C8\uB968 \u201Ctalyum\u201D"
+  Vyetnamsa:
+  - - tali
+  Parsisa:
+  - - "\u062A\u0627\u0644\u06CC\u0648\u0645 \u201Ctalyom\u201D"
+  Swahilisa:
+  - - tali
+  Pilipinasa:
+  - - taliyo
+tags:
+- kimikali monlari
+raw data:
+  term: talyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: thallium
+    epo: taliumo
+    spa: talio, Tl
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (thallium), Putunhwa (\u94CA \u201Cta\u201D), Espanisa (talio),
+    Arabisa (\u062B\u064E\u0627\u0644\u0652\u064A\u064F\u0648\u0645 \u201Ctalyum\u201D),
+    Fransesa (thallium), Rusisa (\u0442\u0430\u043B\u043B\u0438\u0439 \u201Ctalliy\u201D),
+    Indonesisa (talium), Doycisa (Thallium), Niponsa (\u30BF\u30EA\u30A6\u30E0 \u201Ctariumu\u201D),
+    Telugusa (\u0C25\u0C3E\u0C32\u0C3F\u0C2F\u0C02 \u201Ctaliyam\u201D), Turkisa (talyum),
+    Hangusa (\uD0C8\uB968 \u201Ctalyum\u201D), Vyetnamsa (tali), Parsisa (\u062A\u0627\u0644\u06CC\u0648\u0645
+    \u201Ctalyom\u201D), Swahilisa (tali), Pilipinasa (taliyo)"
+...

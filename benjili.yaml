@@ -1,0 +1,62 @@
+---
+term: benjili
+slug: benjili
+ipa: "ben\u02C8d\u0361\u0292ili"
+ipa link: "http://ipa-reader.xyz/?text=ben\u02C8d\u0361\u0292ili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - essential
+    - inherent
+  - - essentially
+    - inherently
+  epo:
+  - - esenca
+    - imanenta
+  - - esence
+  spa:
+  - - esencial
+    - inherente
+  - - esencialmente
+    - inherentemente
+search terms:
+  glb:
+  - benjili
+  eng:
+  - essential
+  - inherent
+  - essentially
+  - inherently
+  epo:
+  - esenca
+  - imanenta
+  - esence
+  spa:
+  - esencial
+  - inherente
+  - esencialmente
+  - inherentemente
+etymology_type: DERIVD
+etymology: <a href="../lexi/benji">benji</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: benjili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: essential, inherent; essentially, inherently
+    epo: esenca, imanenta; esence
+    spa: esencial, inherente; esencialmente, inherentemente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: benji + -li
+...

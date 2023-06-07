@@ -1,0 +1,66 @@
+---
+term: eksame
+slug: eksame
+ipa: ekˈsame
+ipa link: http://ipa-reader.xyz/?text=ekˈsame&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - exam
+    - test
+  epo:
+  - - ekzameno
+  spa:
+  - - examen
+    - prueba
+  - - examinar
+    - probar
+search terms:
+  glb:
+  - eksame
+  eng:
+  - exam
+  - test
+  epo:
+  - ekzameno
+  spa:
+  - examen
+  - prueba
+  - examinar
+  - probar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - exam
+  Fransesa:
+  - - examen
+  Doycisa:
+  - - Examen
+  Rusisa: ~
+  Espanisa:
+  - - examen
+  Pilipinasa:
+  - - eksamen
+raw data:
+  term: eksame
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: exam, test
+    epo: ekzameno
+    spa: examen, prueba; examinar, probar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (exam), Fransesa (examen), Doycisa (Examen), Rusisa, Espanisa
+    (examen), Pilipinasa (eksamen)
+...

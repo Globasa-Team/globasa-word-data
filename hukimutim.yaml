@@ -1,0 +1,52 @@
+---
+term: hukimutim
+slug: hukimutim
+ipa: "xukimu\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=xukimu\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - tribunal
+    - court of law
+  epo:
+  - - "ju\u011Distaro"
+  spa:
+  - - juzgado
+    - corte de justicia
+    - tribunal
+search terms:
+  glb:
+  - hukimutim
+  eng:
+  - tribunal
+  - court of law
+  epo:
+  - "ju\u011Distaro"
+  spa:
+  - juzgado
+  - corte de justicia
+  - tribunal
+etymology_type: DERIVD
+etymology: <a href="../lexi/hukimu">hukimu</a> + <a href="../lexi/-tim">-tim</a>
+raw data:
+  term: hukimutim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: tribunal, court of law
+    epo: "ju\u011Distaro"
+    spa: juzgado, corte de justicia, tribunal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hukimu + -tim
+...

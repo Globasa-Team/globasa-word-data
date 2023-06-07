@@ -1,0 +1,52 @@
+---
+term: adabupul
+slug: adabupul
+ipa: "adabu\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=adabu\u02C8pul&voice=Ewa"
+status: true
+category: derived
+word class: t
+trans:
+  eng:
+  - - polite
+    - politely
+  epo:
+  - - "\u011Dentila"
+  - - "\u011Dentile"
+  spa:
+  - - "cort\xE9s"
+  - - "cort\xE9smente"
+search terms:
+  glb:
+  - adabupul
+  eng:
+  - polite
+  - politely
+  epo:
+  - "\u011Dentila"
+  - "\u011Dentile"
+  spa:
+  - "cort\xE9s"
+  - "cort\xE9smente"
+etymology_type: DERIVD
+etymology: <a href="../lexi/adabu">adabu</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: adabupul
+  category: derived
+  word class: t
+  status: true
+  trans:
+    eng: polite, politely
+    epo: "\u011Dentila; \u011Dentile"
+    spa: "cort\xE9s; cort\xE9smente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: adabu + -pul
+...

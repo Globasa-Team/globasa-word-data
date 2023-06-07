@@ -1,0 +1,46 @@
+---
+term: atexmon
+slug: atexmon
+ipa: "ate\u0283\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=ate\u0283\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - flame
+  epo:
+  - - flamo
+  spa:
+  - - flama
+search terms:
+  glb:
+  - atexmon
+  eng:
+  - flame
+  epo:
+  - flamo
+  spa:
+  - flama
+etymology_type: DERIVD
+etymology: <a href="../lexi/atex">atex</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: atexmon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: flame
+    epo: flamo
+    spa: flama
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: atex + -mon
+...

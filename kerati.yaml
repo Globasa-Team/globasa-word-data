@@ -1,0 +1,62 @@
+---
+term: kerati
+slug: kerati
+ipa: "ke\u02C8\u027Eati"
+ipa link: "http://ipa-reader.xyz/?text=ke\u02C8\u027Eati&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - carat
+    - karat
+  epo:
+  - - karato
+  spa:
+  - - quilate
+    - ct
+  deu:
+  - - Karat
+search terms:
+  glb:
+  - kerati
+  eng:
+  - carat
+  - karat
+  epo:
+  - karato
+  spa:
+  - quilate
+  - ct
+  deu:
+  - karat
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kerati
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: carat, karat
+    epo: karato
+    spa: quilate, ct
+    deu: Karat
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (carat, karat), Espanisa (quilate), Fransesa (carat), Rusisa
+    (\u043A\u0430\u0440\u0430\u0442 \u201Ckarat\u201D), Doycisa (Karat), Portugalsa
+    (quilate), Italisa (carato, carati), Indonesisa (karat), Pilipinasa (kilatis),
+    Putunhwa (\u514B\u62C9 \u201Ckela\u201D), Hindisa (\u0915\u0948\u0930\u091F \u201Ckerat\u201D),
+    Arabisa (\u0642\u0650\u064A\u0631\u064E\u0627\u0637 \u201Ckirat\u201D), Niponsa
+    (\u30AB\u30E9\u30C3\u30C8 \u201Ckaratto\u201D), Telugusa (\u0C15\u0C4D\u0C2F\u0C3E\u0C30\u0C46\u0C1F\u0C4D
+    \u201Ckyaret\u201D), Turkisa (karat), Vyetnamsa (cara), Hangusa (\uCE90\uB7FF
+    \u201Ckerot\u201D), Parsisa (\u0642\u06CC\u0631\u0627\u0637 \u201Ckirat\u201D),
+    Swahilisa (karati)"
+...

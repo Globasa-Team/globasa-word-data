@@ -1,0 +1,56 @@
+---
+term: kuo
+slug: kuo
+ipa: "\u02C8kuo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kuo&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - hoe
+  epo:
+  - - rastro
+    - sarkilo
+    - hojo
+  - - sarki
+  spa:
+  - - azada
+    - "azad\xF3n"
+search terms:
+  glb:
+  - kuo
+  eng:
+  - hoe
+  epo:
+  - rastro
+  - sarkilo
+  - hojo
+  - sarki
+  spa:
+  - azada
+  - "azad\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kuo
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: hoe
+    epo: rastro, sarkilo, hojo; sarki
+    spa: "azada, azad\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Vyetnamsa (cu\u1ED1c), Niponsa (\u936C \"kuwa\"), Putunhwa (\u9504 \"cu\"),
+    Hangusa (\uC11C \"so\"), Hindisa (\u0915\u0941\u0926\u093E\u0932 \"kudal\"), Tamilsa
+    (\u0B95\u0BCA\u0BB4\u0BC1 \"kolu\"), Englisa (hoe), Fransesa (houe)"
+...

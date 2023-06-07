@@ -1,0 +1,61 @@
+---
+term: estatus
+slug: estatus
+ipa: estaˈtus
+ipa link: http://ipa-reader.xyz/?text=estaˈtus&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - status
+  epo:
+  - - stato
+  spa:
+  - - estatus
+search terms:
+  glb:
+  - estatus
+  eng:
+  - status
+  epo:
+  - stato
+  spa:
+  - estatus
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Status
+  Englisa:
+  - - status
+  Espanisa:
+  - - estado
+  Fransesa:
+  - - statut
+  Rusisa:
+  - - статус “status”
+  Indonesisa:
+  - - status
+  Turkisa:
+  - - statü
+raw data:
+  term: estatus
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: status
+    epo: stato
+    spa: estatus
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'Doycisa (Status), Englisa (status), Espanisa (estado), Fransesa (statut),
+    Rusisa (статус “status”), Indonesisa (status), Turkisa (statü) '
+...

@@ -1,0 +1,52 @@
+---
+term: membrocu
+slug: membrocu
+ipa: "mem\u02C8b\u027Eot\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=mem\u02C8b\u027Eot\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - become a member
+    - join
+  epo:
+  - - "membri\u011Do"
+  - - "membri\u011Di"
+  spa:
+  - - hacerse miembro
+    - unirse
+search terms:
+  glb:
+  - membrocu
+  eng:
+  - become a member
+  - join
+  epo:
+  - "membri\u011Do"
+  - "membri\u011Di"
+  spa:
+  - hacerse miembro
+  - unirse
+etymology_type: DERIVD
+etymology: <a href="../lexi/membro">membro</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: membrocu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: become a member, join
+    epo: "membri\u011Do; membri\u011Di"
+    spa: hacerse miembro, unirse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: membro + -cu
+...

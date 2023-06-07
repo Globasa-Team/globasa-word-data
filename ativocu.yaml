@@ -1,0 +1,48 @@
+---
+term: ativocu
+slug: ativocu
+ipa: "ati\u02C8vot\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=ati\u02C8vot\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - become active
+  epo:
+  - - "aktivi\u011Dado"
+  - - "aktivi\u011Di"
+  spa:
+  - - activarse
+search terms:
+  glb:
+  - ativocu
+  eng:
+  - become active
+  epo:
+  - "aktivi\u011Dado"
+  - "aktivi\u011Di"
+  spa:
+  - activarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/ativo">ativo</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: ativocu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: become active
+    epo: "aktivi\u011Dado; aktivi\u011Di"
+    spa: activarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ativo + -cu
+...

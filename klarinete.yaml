@@ -1,0 +1,57 @@
+---
+term: klarinete
+slug: klarinete
+ipa: "kla\u027Ei\u02C8nete"
+ipa link: "http://ipa-reader.xyz/?text=kla\u027Ei\u02C8nete&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - clarinet
+  epo:
+  - - klarineto
+  spa:
+  - - clarinete
+  deu:
+  - - Klarinette
+search terms:
+  glb:
+  - klarinete
+  eng:
+  - clarinet
+  epo:
+  - klarineto
+  spa:
+  - clarinete
+  deu:
+  - klarinette
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: klarinete
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: clarinet
+    epo: klarineto
+    spa: clarinete
+    deu: Klarinette
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (clarinet), Espanisa (clarinete), Fransesa (clarinette), Rusisa
+    (\u043A\u043B\u0430\u0440\u043D\u0435\u0442 \u201Cklarnet\u201D), Doycisa (Klarinette),
+    Indonesisa (klarinet), Pilipinasa (klarinete), Arabisa (\u0643\u0652\u0644\u064E\u0627\u0631\u0650\u064A\u0646\u0650\u064A\u062A
+    \u201Cklarinit\u201D), Niponsa (\u30AF\u30E9\u30EA\u30CD\u30C3\u30C8 \u201Ckurarineto\u201D),
+    Telugusa (\u0C15\u0C4D\u0C32\u0C3E\u0C30\u0C3F\u0C28\u0C46\u0C1F\u0C4D \u201Cklarinet\u201D),
+    Turkisa (klarnet), Hangusa (\uD074\uB77C\uB9AC\uB137 \u201Ckularinet\u201D), Vyetnamsa
+    (cla-ri-n\xE9t), Parsisa (\u06A9\u0644\u0627\u0631\u06CC\u0646\u062A \u201Ckel\xE2rinet\u201D),
+    Swahilisa (klarineti)"
+...

@@ -1,0 +1,50 @@
+---
+term: konkansa
+slug: konkansa
+ipa: "kon\u02C8kansa"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8kansa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Konkani (language)
+  epo:
+  - - la konkana (lingvo)
+  spa:
+  - - konkani (_idioma_)
+search terms:
+  glb:
+  - konkansa
+  eng:
+  - konkani language
+  - konkani
+  epo:
+  - la konkana lingvo
+  - la konkana
+  spa:
+  - konkani
+etymology_type: DERIVD
+etymology: <a href="../lexi/Konkan">Konkan</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Konkansa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Konkani (language)
+    epo: la konkana (lingvo)
+    spa: konkani (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Konkan + -sa
+...

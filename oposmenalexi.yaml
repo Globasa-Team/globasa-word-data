@@ -1,0 +1,49 @@
+---
+term: oposmenalexi
+slug: oposmenalexi
+ipa: "oposmena\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=oposmena\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - antonym
+  epo:
+  - - antonimo
+    - malvorto
+  spa:
+  - - "ant\xF3nimo"
+search terms:
+  glb:
+  - oposmenalexi
+  eng:
+  - antonym
+  epo:
+  - antonimo
+  - malvorto
+  spa:
+  - "ant\xF3nimo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/opos">opos</a> + <a href="../lexi/mena">mena</a> + <a
+  href="../lexi/-lexi">-lexi</a>
+raw data:
+  term: oposmenalexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: antonym
+    epo: antonimo, malvorto
+    spa: "ant\xF3nimo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: opos + mena + -lexi
+...

@@ -1,0 +1,68 @@
+---
+term: glandu
+slug: glandu
+ipa: ˈglandu
+ipa link: http://ipa-reader.xyz/?text=ˈglandu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gland
+    - adeno-
+  epo:
+  - - glando
+  spa:
+  - - glándula
+search terms:
+  glb:
+  - glandu
+  eng:
+  - gland
+  - adeno-
+  epo:
+  - glando
+  spa:
+  - glándula
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gland
+  Espanisa:
+  - - glándula
+  Fransesa:
+  - - glande
+  Indonesisa:
+  - - glandula
+  Pilipinasa:
+  - - glandula
+  Niponsa:
+  - - グランド "gurando"
+  Telugusa:
+  - - గ్రంధి "grandi"
+  Hindisa:
+  - - ग्रंथि "granti"
+tags:
+- jismulogi
+raw data:
+  term: glandu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gland, adeno-
+    epo: glando
+    spa: glándula
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Englisa (gland), Espanisa (glándula), Fransesa (glande), Indonesisa (glandula),
+    Pilipinasa (glandula), Niponsa (グランド "gurando"), Telugusa (గ్రంధి "grandi"), Hindisa
+    (ग्रंथि "granti")
+...

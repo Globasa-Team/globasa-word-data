@@ -1,0 +1,46 @@
+---
+term: sabarya
+slug: sabarya
+ipa: "sa\u02C8ba\u027Eja"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8ba\u027Eja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - patience
+  epo:
+  - - pacienco
+  spa:
+  - - paciencia
+search terms:
+  glb:
+  - sabarya
+  eng:
+  - patience
+  epo:
+  - pacienco
+  spa:
+  - paciencia
+etymology_type: DERIVD
+etymology: <a href="../lexi/sabar">sabar</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: sabarya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: patience
+    epo: pacienco
+    spa: paciencia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sabar + -ya
+...

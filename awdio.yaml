@@ -1,0 +1,69 @@
+---
+term: awdio
+slug: awdio
+ipa: awˈdio
+ipa link: http://ipa-reader.xyz/?text=awˈdio&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - audio
+  epo:
+  - - aŭdio
+  spa:
+  - - audio
+search terms:
+  glb:
+  - awdio
+  eng:
+  - audio
+  epo:
+  - aŭdio
+  spa:
+  - audio
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Audio
+  Englisa:
+  - - audio
+  Espanisa:
+  - - audio
+  Fransesa: ~
+  Rusisa:
+  - - аудио "audio"
+  Indonesisa:
+  - - audio
+  Pilipinasa:
+  - - audio
+  Hindisa:
+  - - ऑडियो "odyo"
+  Telugusa:
+  - - ఆడియో "adyo"
+  Niponsa:
+  - - オーディオ "odyo"
+  Hangusa:
+  - - 오디오 "odyo"
+raw data:
+  term: awdio
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: audio
+    epo: aŭdio
+    spa: audio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Audio), Englisa (audio), Espanisa (audio), Fransesa, Rusisa
+    (аудио "audio"), Indonesisa (audio), Pilipinasa (audio), Hindisa (ऑडियो "odyo"),
+    Telugusa (ఆడియో "adyo"), Niponsa ( オーディオ "odyo"), Hangusa (오디오 "odyo")
+...

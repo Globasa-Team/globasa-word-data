@@ -1,0 +1,63 @@
+---
+term: truti
+slug: truti
+ipa: "\u02C8t\u027Euti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8t\u027Euti&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - satisfied
+    - content
+  epo:
+  - - kontenta
+  - - kontente
+  spa:
+  - - satisfecho
+    - contento
+search terms:
+  glb:
+  - truti
+  eng:
+  - satisfied
+  - content
+  epo:
+  - kontenta
+  - kontente
+  spa:
+  - satisfecho
+  - contento
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0924\u0943\u092A\u094D\u0924 \u201Ctrpt\u201D"
+  Telugusa:
+  - - "\u0C24\u0C43\u0C2A\u0C4D\u0C24\u0C3F\u0C2A\u0C21\u0C3F\u0C28 \u201Ctrptipadina\u201D"
+  Tamilsa:
+  - - "\u0BA4\u0BBF\u0BB0\u0BC1\u0BAA\u0BCD\u0BA4\u0BBF \u201CTirupti\u201D"
+  Karnatakasa:
+  - - "\u0CA4\u0CC3\u0CAA\u0CCD\u0CA4\u0CBF \u201Ctr\u0325pti\u201D"
+raw data:
+  term: truti
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: satisfied, content
+    epo: kontenta; kontente
+    spa: satisfecho, contento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0924\u0943\u092A\u094D\u0924 \u201Ctrpt\u201D), Telugusa
+    (\u0C24\u0C43\u0C2A\u0C4D\u0C24\u0C3F\u0C2A\u0C21\u0C3F\u0C28 \u201Ctrptipadina\u201D),
+    Tamilsa (\u0BA4\u0BBF\u0BB0\u0BC1\u0BAA\u0BCD\u0BA4\u0BBF \u201CTirupti\u201D),
+    Karnatakasa (\u0CA4\u0CC3\u0CAA\u0CCD\u0CA4\u0CBF \u201Ctr\u0325pti\u201D)"
+...

@@ -1,0 +1,60 @@
+---
+term: san kristofer ji nevis
+slug: san kristofer ji nevis
+ipa: "\u02C8san k\u027Eisto\u02C8fe\u027E d\u0361\u0292i ne\u02C8vis"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8san k\u027Eisto\u02C8fe\u027E d\u0361\u0292i
+  ne\u02C8vis&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - Saint Kitts and Nevis
+  epo:
+  - - Sankta-Kito kaj Neviso
+    - Sankta Kristoforo kaj Neviso
+    - Sankta Kristofo kaj Neviso
+  spa:
+  - - "San Crist\xF3bal y Nieves"
+search terms:
+  glb:
+  - san kristofer ji nevis
+  - san
+  - kristofer
+  - ji
+  - nevis
+  eng:
+  - saint kitts and nevis
+  epo:
+  - sankta-kito kaj neviso
+  - sankta kristoforo kaj neviso
+  - sankta kristofo kaj neviso
+  spa:
+  - "san crist\xF3bal y nieves"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Saint Christopher and Nevis
+tags:
+- dexa
+raw data:
+  term: San Kristofer ji Nevis
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: Saint Kitts and Nevis
+    epo: Sankta-Kito kaj Neviso, Sankta Kristoforo kaj Neviso, Sankta Kristofo kaj
+      Neviso
+    spa: "San Crist\xF3bal y Nieves"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Saint Christopher and Nevis)
+...

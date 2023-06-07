@@ -1,0 +1,84 @@
+---
+term: anakonda
+slug: anakonda
+ipa: anaˈkonda
+ipa link: http://ipa-reader.xyz/?text=anaˈkonda&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - anaconda
+    - _Eunectes_
+  epo:
+  - - anakondo
+  spa:
+  - - anaconda
+    - _Eunectes_
+search terms:
+  glb:
+  - anakonda
+  eng:
+  - anaconda
+  - eunectes
+  epo:
+  - anakondo
+  spa:
+  - anaconda
+  - eunectes
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - anaconda
+  Espanisa:
+  - - anaconda
+  Fransesa:
+  - - anaconda
+  Rusisa:
+  - - анаконда “anakonda”
+  Doycisa:
+  - - Anakonda
+  Indonesisa:
+  - - anakonda
+  Pilipinasa:
+  - - anakonda
+  Arabisa:
+  - - أَنَاكُنْدَة “anakonda”
+  Niponsa:
+  - - アナコンダ “anakonda”
+  Tamilsa:
+  - - ஆனக்கொண்டா “anakonta”
+  Turkisa:
+  - - anakonda
+  Vyetnamsa:
+  - - trăn anaconda
+  Hangusa:
+  - - 아나콘다 “anakonda”
+  Parsisa:
+  - - آناکوندا “anakonda”
+tags:
+- hewan
+raw data:
+  term: anakonda
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: anaconda, _Eunectes_
+    epo: anakondo
+    spa: anaconda, _Eunectes_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (anaconda), Espanisa (anaconda), Fransesa (anaconda), Rusisa
+    (анаконда “anakonda”), Doycisa (Anakonda), Indonesisa (anakonda), Pilipinasa (anakonda),
+    Arabisa (أَنَاكُنْدَة “anakonda”), Niponsa (アナコンダ “anakonda”), Tamilsa (ஆனக்கொண்டா
+    “anakonta”), Turkisa (anakonda), Vyetnamsa (trăn anaconda), Hangusa (아나콘다 “anakonda”),
+    Parsisa (آناکوندا “anakonda”)
+...

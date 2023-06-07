@@ -1,0 +1,54 @@
+---
+term: nensomno
+slug: nensomno
+ipa: "nen\u02C8somno"
+ipa link: "http://ipa-reader.xyz/?text=nen\u02C8somno&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - insomnia
+  epo:
+  - - sendormeco
+    - nedormemeco
+    - sendormo
+    - nedormemo
+    - insomnio
+  spa:
+  - - insomnio
+search terms:
+  glb:
+  - nensomno
+  eng:
+  - insomnia
+  epo:
+  - sendormeco
+  - nedormemeco
+  - sendormo
+  - nedormemo
+  - insomnio
+  spa:
+  - insomnio
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/somno">somno</a>
+raw data:
+  term: nensomno
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: insomnia
+    epo: sendormeco, nedormemeco, sendormo, nedormemo, insomnio
+    spa: insomnio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + somno
+...

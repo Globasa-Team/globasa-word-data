@@ -1,0 +1,46 @@
+---
+term: kreditokarta
+slug: kreditokarta
+ipa: "k\u027Eedito\u02C8ka\u027Eta"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Eedito\u02C8ka\u027Eta&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - credit card
+  epo:
+  - - kreditkarto
+  spa:
+  - - "tarjeta de cr\xE9dito"
+search terms:
+  glb:
+  - kreditokarta
+  eng:
+  - credit card
+  epo:
+  - kreditkarto
+  spa:
+  - "tarjeta de cr\xE9dito"
+etymology_type: DERIVD
+etymology: <a href="../lexi/kredito">kredito</a> + <a href="../lexi/karta">karta</a>
+raw data:
+  term: kreditokarta
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: credit card
+    epo: kreditkarto
+    spa: "tarjeta de cr\xE9dito"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kredito + karta
+...

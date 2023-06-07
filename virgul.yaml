@@ -1,0 +1,53 @@
+---
+term: virgul
+slug: virgul
+ipa: "vi\u027E\u02C8gul"
+ipa link: "http://ipa-reader.xyz/?text=vi\u027E\u02C8gul&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - comma
+  epo:
+  - - virgulo
+  spa:
+  - - "coma (_puntuaci\xF3n_)"
+search terms:
+  glb:
+  - virgul
+  eng:
+  - comma
+  epo:
+  - virgulo
+  spa:
+  - coma
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - virgule
+  Turkisa:
+  - - "virg\xFCl"
+  Parsisa:
+  - - "\u0648\u06CC\u0631\u06AF\u0648\u0644 \u201Cvirgul\u201D"
+raw data:
+  term: virgul
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: comma
+    epo: virgulo
+    spa: "coma (_puntuaci\xF3n_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (virgule), Turkisa (virg\xFCl), Parsisa (\u0648\u06CC\u0631\u06AF\u0648\u0644
+    \u201Cvirgul\u201D)"
+...

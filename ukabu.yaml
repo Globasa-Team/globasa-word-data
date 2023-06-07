@@ -1,0 +1,56 @@
+---
+term: ukabu
+slug: ukabu
+ipa: "u\u02C8kabu"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8kabu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - eagle
+  epo:
+  - - aglo
+  spa:
+  - - "\xE1guila"
+search terms:
+  glb:
+  - ukabu
+  eng:
+  - eagle
+  epo:
+  - aglo
+  spa:
+  - "\xE1guila"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0639\u0642\u0627\u0628 \u201C\u02BFuq\u0101b\u201D"
+  Parsisa:
+  - - "\u0639\u0642\u0627\u0628 \u201Coq\xE2b\u201D"
+  Hindisa:
+  - - "\u0909\u0915\u093C\u093E\u092C \u201Cuq\u0101b\u201D"
+tags:
+- hewan
+raw data:
+  term: ukabu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: eagle
+    epo: aglo
+    spa: "\xE1guila"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Arabisa (\u0639\u0642\u0627\u0628 \u201C\u02BFuq\u0101b\u201D), Parsisa
+    (\u0639\u0642\u0627\u0628 \u201Coq\xE2b\u201D), Hindisa (\u0909\u0915\u093C\u093E\u092C
+    \u201Cuq\u0101b\u201D)"
+...

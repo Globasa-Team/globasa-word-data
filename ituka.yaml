@@ -1,0 +1,48 @@
+---
+term: ituka
+slug: ituka
+ipa: "i\u02C8tuka"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8tuka&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - brick
+  epo:
+  - - briko
+  spa:
+  - - ladrillo
+search terms:
+  glb:
+  - ituka
+  eng:
+  - brick
+  epo:
+  - briko
+  spa:
+  - ladrillo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ituka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: brick
+    epo: briko
+    spa: ladrillo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Telugusa (\u0C07\u0C1F\u0C41\u0C15 \u201Ci\u1E6Duka\u201D), Hindisa
+    (\u0908\u0902\u091F \u201C\u012B\u1E47\u1E6D\u201D), Banglasa (\u0987\u099F \u201Cit\u201D),
+    Turkisa (tu\u011Fla)"
+...

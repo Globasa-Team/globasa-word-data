@@ -1,0 +1,48 @@
+---
+term: nuedesyum
+slug: nuedesyum
+ipa: "nuede\u02C8sjum"
+ipa link: "http://ipa-reader.xyz/?text=nuede\u02C8sjum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - ninetieth
+  epo:
+  - - "na\u016Ddeka"
+  - - "na\u016Ddeke"
+  spa:
+  - - "nonag\xE9simo"
+search terms:
+  glb:
+  - nuedesyum
+  eng:
+  - ninetieth
+  epo:
+  - "na\u016Ddeka"
+  - "na\u016Ddeke"
+  spa:
+  - "nonag\xE9simo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/nue">nue</a> + <a href="../lexi/des">des</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: nuedesyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: ninetieth
+    epo: "na\u016Ddeka; na\u016Ddeke"
+    spa: "nonag\xE9simo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nue + des + -yum
+...

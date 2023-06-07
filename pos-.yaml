@@ -1,0 +1,46 @@
+---
+term: pos-
+slug: pos-
+ipa: "\u02C8pos-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pos-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - opposite
+  epo:
+  - - mal-
+  spa:
+  - - opuesto
+search terms:
+  glb:
+  - pos-
+  eng:
+  - opposite
+  epo:
+  - mal-
+  spa:
+  - opuesto
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/opos">opos</a>.
+raw data:
+  term: pos-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: opposite
+    epo: mal-
+    spa: opuesto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _opos_.
+...

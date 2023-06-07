@@ -1,0 +1,66 @@
+---
+term: nadir
+slug: nadir
+ipa: "na\u02C8di\u027E"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8di\u027E&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - rare
+    - rarely
+    - seldom
+  epo:
+  - - malofta
+  - - malofte
+  spa:
+  - - rara vez
+    - casi nunca
+search terms:
+  glb:
+  - nadir
+  eng:
+  - rare
+  - rarely
+  - seldom
+  epo:
+  - malofta
+  - malofte
+  spa:
+  - rara vez
+  - casi nunca
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0646\u0627\u062F\u0631 \u201Cnadir\u201D"
+  Turkisa:
+  - - nadir
+  Parsisa:
+  - - "\u0646\u0627\u062F\u0631 \u201Cnader\u201D"
+  Swahilisa:
+  - - nadra
+  Ivrisa:
+  - - "\u05E0\u05D3\u05D9\u05E8 \u201Cnadir\u201D"
+raw data:
+  term: nadir
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: rare, rarely, seldom
+    epo: malofta; malofte
+    spa: rara vez, casi nunca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0646\u0627\u062F\u0631 \u201Cnadir\u201D), Turkisa (nadir),
+    Parsisa (\u0646\u0627\u062F\u0631 \u201Cnader\u201D), Swahilisa (nadra), Ivrisa
+    (\u05E0\u05D3\u05D9\u05E8 \u201Cnadir\u201D)"
+...

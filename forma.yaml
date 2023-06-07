@@ -1,0 +1,65 @@
+---
+term: forma
+slug: forma
+ipa: ˈfoɾma
+ipa link: http://ipa-reader.xyz/?text=ˈfoɾma&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - form
+  epo:
+  - - formo
+  - - formiĝi
+    - formi
+  spa:
+  - - forma
+search terms:
+  glb:
+  - forma
+  eng:
+  - form
+  epo:
+  - formo
+  - formiĝi
+  - formi
+  spa:
+  - forma
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - form
+  Espanisa:
+  - - forma
+  Fransesa:
+  - - forme
+  Doycisa:
+  - - Form
+  Rusisa:
+  - - форма "forma"
+  Turkisa:
+  - - form
+  Parsisa:
+  - - فرم "form"
+raw data:
+  term: forma
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: form
+    epo: formo; formiĝi, formi
+    spa: forma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (form), Espanisa (forma), Fransesa (forme), Doycisa (Form), Rusisa
+    (форма "forma"), Turkisa (form), Parsisa (فرم "form")
+...

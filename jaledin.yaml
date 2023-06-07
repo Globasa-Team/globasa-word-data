@@ -1,0 +1,46 @@
+---
+term: jaledin
+slug: jaledin
+ipa: "d\u0361\u0292ale\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292ale\u02C8din&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - yesterday
+  epo:
+  - - "hiera\u016D"
+  spa:
+  - - ayer
+search terms:
+  glb:
+  - jaledin
+  eng:
+  - yesterday
+  epo:
+  - "hiera\u016D"
+  spa:
+  - ayer
+etymology_type: DERIVD
+etymology: <a href="../lexi/ja-">ja-</a> + <a href="../lexi/le-">le-</a> + <a href="../lexi/din">din</a>
+raw data:
+  term: jaledin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: yesterday
+    epo: "hiera\u016D"
+    spa: ayer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ja- + le- + din
+...

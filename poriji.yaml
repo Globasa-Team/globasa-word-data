@@ -1,0 +1,65 @@
+---
+term: poriji
+slug: poriji
+ipa: "po\u02C8\u027Eid\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=po\u02C8\u027Eid\u0361\u0292i&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - porridge
+    - oatmeal
+    - gruel
+  epo:
+  - - "ka\u0109o"
+  spa:
+  - - crema de avena
+    - gachas
+search terms:
+  glb:
+  - poriji
+  eng:
+  - porridge
+  - oatmeal
+  - gruel
+  epo:
+  - "ka\u0109o"
+  spa:
+  - crema de avena
+  - gachas
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - porridge
+  Fransesa:
+  - - porridge
+  Niponsa:
+  - - "\u30DD\u30EA\u30C3\u30B8 \"porijji\""
+  Hangusa:
+  - - "\uD3EC\uB9AC\uC9C0 \"poriji\""
+  Swahilisa:
+  - - uji
+tags:
+- yamxey
+raw data:
+  term: poriji
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: porridge, oatmeal, gruel
+    epo: "ka\u0109o"
+    spa: crema de avena, gachas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (porridge), Fransesa (porridge), Niponsa (\u30DD\u30EA\u30C3\u30B8
+    \"porijji\"), Hangusa (\uD3EC\uB9AC\uC9C0 \"poriji\"), Swahilisa (uji)"
+...

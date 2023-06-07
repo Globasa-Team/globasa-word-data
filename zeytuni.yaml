@@ -1,0 +1,70 @@
+---
+term: zeytuni
+slug: zeytuni
+ipa: "zej\u02C8tuni"
+ipa link: "http://ipa-reader.xyz/?text=zej\u02C8tuni&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - olive
+  epo:
+  - - olivo
+  spa:
+  - - aceituna
+    - oliva
+    - _Olea europaea_
+search terms:
+  glb:
+  - zeytuni
+  eng:
+  - olive
+  epo:
+  - olivo
+  spa:
+  - aceituna
+  - oliva
+  - olea europaea
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - aceituna
+  Indonesisa:
+  - - zaitun
+  Hindisa:
+  - - "\u091C\u093C\u0948\u0924\u0942\u0928 \u201Czait\u016Bn\u201D"
+  Arabisa:
+  - - "\u0632\u064A\u062A\u0648\u0646 \u201Czayt\u016Bn\u201D"
+  Swahilisa:
+  - - zeituni
+  Parsisa:
+  - - "\u0632\u06CC\u062A\u0648\u0646 \u200E\u201Czeytun\u201D"
+  Turkisa:
+  - - zeytin
+tags:
+- fruta
+- yamxey
+raw data:
+  term: zeytuni
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: olive
+    epo: olivo
+    spa: aceituna, oliva, _Olea europaea_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Espanisa (aceituna), Indonesisa (zaitun), Hindisa (\u091C\u093C\u0948\u0924\u0942\u0928
+    \u201Czait\u016Bn\u201D), Arabisa (\u0632\u064A\u062A\u0648\u0646 \u201Czayt\u016Bn\u201D),
+    Swahilisa (zeituni), Parsisa (\u0632\u06CC\u062A\u0648\u0646 \u200E\u201Czeytun\u201D),
+    Turkisa (zeytin)"
+...

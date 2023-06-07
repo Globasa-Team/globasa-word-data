@@ -1,0 +1,52 @@
+---
+term: antipul
+slug: antipul
+ipa: "anti\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=anti\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - contrary
+  - - contrarily
+  epo:
+  - - "kontra\u016Da"
+  - - "kontra\u016De"
+  spa:
+  - - contrario
+search terms:
+  glb:
+  - antipul
+  eng:
+  - contrary
+  - contrarily
+  epo:
+  - "kontra\u016Da"
+  - "kontra\u016De"
+  spa:
+  - contrario
+etymology_type: DERIVD
+etymology: <a href="../lexi/anti">anti</a> + <a href="../lexi/-pul">-pul</a>
+antonyms:
+- propul
+raw data:
+  term: antipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: contrary; contrarily
+    epo: "kontra\u016Da; kontra\u016De"
+    spa: contrario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: propul
+  example: ""
+  tags: ""
+  etymology: anti + -pul
+...

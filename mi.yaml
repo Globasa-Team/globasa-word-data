@@ -1,0 +1,50 @@
+---
+term: mi
+slug: mi
+ipa: "\u02C8mi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mi&voice=Ewa"
+status: true
+category: root
+word class: pn
+trans:
+  eng:
+  - - I
+    - me
+  epo:
+  - - mi
+  spa:
+  - - yo
+search terms:
+  glb:
+  - mi
+  eng:
+  - i
+  - me
+  epo:
+  - mi
+  spa:
+  - yo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mi
+  category: root
+  word class: pn
+  status: true
+  trans:
+    eng: I, me
+    epo: mi
+    spa: yo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (me), Fransesa (me), Doycisa (mich), Rusisa (\u043C\u0435\u043D\u044F
+    \u201Cmenya\u201D), Hindisa (\u092E\u0948\u0902 \u201Cmain\u201D), Parsisa (\u0645\u0646
+    \u201Cman\u201D), Swahilisa (mimi)"
+...

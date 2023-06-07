@@ -1,0 +1,50 @@
+---
+term: kosa
+slug: kosa
+ipa: "\u02C8kosa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kosa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - cause
+  epo:
+  - - "ka\u016Dzo"
+  - - "ka\u016Dzi"
+  spa:
+  - - causa
+  - - causar
+search terms:
+  glb:
+  - kosa
+  eng:
+  - cause
+  epo:
+  - "ka\u016Dzo"
+  - "ka\u016Dzi"
+  spa:
+  - causa
+  - causar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kosa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: cause
+    epo: "ka\u016Dzo; ka\u016Dzi"
+    spa: causa; causar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (cause), Fransesa (cause), Espanisa (causa)
+...

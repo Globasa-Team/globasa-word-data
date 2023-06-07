@@ -1,0 +1,51 @@
+---
+term: muritani
+slug: muritani
+ipa: "mu\u027Ei\u02C8tani"
+ipa link: "http://ipa-reader.xyz/?text=mu\u027Ei\u02C8tani&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Mauritania
+  epo:
+  - - "Ma\u016Dritanio"
+  spa:
+  - - Mauritania
+search terms:
+  glb:
+  - muritani
+  eng:
+  - mauritania
+  epo:
+  - "ma\u016Dritanio"
+  spa:
+  - mauritania
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0645\u0648\u0631\u064A\u062A\u0627\u0646\u064A\u0627\u200E \u201CM\u016Br\u012Bt\u0101ny\u0101\u201D"
+tags:
+- dexa
+raw data:
+  term: Muritani
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Mauritania
+    epo: "Ma\u016Dritanio"
+    spa: Mauritania
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u0645\u0648\u0631\u064A\u062A\u0627\u0646\u064A\u0627\u200E
+    \u201CM\u016Br\u012Bt\u0101ny\u0101\u201D)"
+...

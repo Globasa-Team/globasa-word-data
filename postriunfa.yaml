@@ -1,0 +1,56 @@
+---
+term: postriunfa
+slug: postriunfa
+ipa: "post\u027Ei\u02C8unfa"
+ipa link: "http://ipa-reader.xyz/?text=post\u027Ei\u02C8unfa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - defeat
+    - loss
+  - - lose
+  epo:
+  - - malvenko
+  - - malvenki
+  spa:
+  - - derrota
+    - "p\xE9rdida"
+  - - perder
+search terms:
+  glb:
+  - postriunfa
+  eng:
+  - defeat
+  - loss
+  - lose
+  epo:
+  - malvenko
+  - malvenki
+  spa:
+  - derrota
+  - "p\xE9rdida"
+  - perder
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/triunfa">triunfa</a>
+raw data:
+  term: postriunfa
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: defeat, loss; lose
+    epo: malvenko; malvenki
+    spa: "derrota, p\xE9rdida; perder"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + triunfa
+...

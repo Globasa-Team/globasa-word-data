@@ -1,0 +1,63 @@
+---
+term: legakal
+slug: legakal
+ipa: "lega\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=lega\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - illegal
+    - illegally
+    - lawless
+    - lawlessly
+  epo:
+  - - "senle\u011Da"
+    - "nele\u011Da"
+    - "kontra\u016Dle\u011Da"
+  - - "senle\u011De"
+    - "nele\u011De"
+    - "kontra\u016Dle\u011De"
+  spa:
+  - - ilegal
+search terms:
+  glb:
+  - legakal
+  eng:
+  - illegal
+  - illegally
+  - lawless
+  - lawlessly
+  epo:
+  - "senle\u011Da"
+  - "nele\u011Da"
+  - "kontra\u016Dle\u011Da"
+  - "senle\u011De"
+  - "nele\u011De"
+  - "kontra\u016Dle\u011De"
+  spa:
+  - ilegal
+etymology_type: DERIVD
+etymology: <a href="../lexi/lega">lega</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: legakal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: illegal, illegally, lawless, lawlessly
+    epo: "senle\u011Da, nele\u011Da, kontra\u016Dle\u011Da; senle\u011De, nele\u011De,
+      kontra\u016Dle\u011De"
+    spa: ilegal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lega + -kal
+...

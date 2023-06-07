@@ -1,0 +1,73 @@
+---
+term: daymuhim
+slug: daymuhim
+ipa: "dajmu\u02C8xim"
+ipa link: "http://ipa-reader.xyz/?text=dajmu\u02C8xim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - essential
+    - crucial
+    - critical
+    - imperative
+    - gravely important
+    - greatly important
+    - (of) grave importance
+    - (of) great importance
+  epo:
+  - - gravega
+  - - gravege
+  spa:
+  - - esencial
+    - crucial
+    - "cr\xEDtico"
+    - decisivo
+    - de gran importancia
+search terms:
+  glb:
+  - daymuhim
+  eng:
+  - essential
+  - crucial
+  - critical
+  - imperative
+  - gravely important
+  - greatly important
+  - of grave importance
+  - grave importance
+  - of great importance
+  - great importance
+  epo:
+  - gravega
+  - gravege
+  spa:
+  - esencial
+  - crucial
+  - "cr\xEDtico"
+  - decisivo
+  - de gran importancia
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/muhim">muhim</a>
+raw data:
+  term: daymuhim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: essential, crucial, critical, imperative, gravely important, greatly important,
+      (of) grave importance, (of) great importance
+    epo: gravega; gravege
+    spa: "esencial, crucial, cr\xEDtico, decisivo, de gran importancia"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + muhim
+...

@@ -1,0 +1,46 @@
+---
+term: islandiyen
+slug: islandiyen
+ipa: "islandi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=islandi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Icelander
+  epo:
+  - - islandano
+  spa:
+  - - "island\xE9s (_persona_)"
+search terms:
+  glb:
+  - islandiyen
+  eng:
+  - icelander
+  epo:
+  - islandano
+  spa:
+  - "island\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Islandi">Islandi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Islandiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Icelander
+    epo: islandano
+    spa: "island\xE9s (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Islandi + -yen
+...

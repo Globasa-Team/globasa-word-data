@@ -1,0 +1,50 @@
+---
+term: pendedo
+slug: pendedo
+ipa: "pen\u02C8dedo"
+ipa link: "http://ipa-reader.xyz/?text=pen\u02C8dedo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - hung
+    - hanged
+  epo:
+  - - pendita
+  - - pendite
+  spa:
+  - - colgado
+search terms:
+  glb:
+  - pendedo
+  eng:
+  - hung
+  - hanged
+  epo:
+  - pendita
+  - pendite
+  spa:
+  - colgado
+etymology_type: DERIVD
+etymology: <a href="../lexi/pende">pende</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: pendedo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: hung, hanged
+    epo: pendita; pendite
+    spa: colgado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pende + -do
+...

@@ -1,0 +1,48 @@
+---
+term: krimen
+slug: krimen
+ipa: "k\u027Ei\u02C8men"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Ei\u02C8men&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - crime
+  epo:
+  - - krimo
+  spa:
+  - - crimen
+search terms:
+  glb:
+  - krimen
+  eng:
+  - crime
+  epo:
+  - krimo
+  spa:
+  - crimen
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: krimen
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: crime
+    epo: krimo
+    spa: crimen
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (criminal), Fransesa (criminel), Doycisa (kriminell), Rusisa
+    (\u043A\u0440\u0438\u043C\u0438\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u201Ckriminalniy\u201D),
+    Espanisa (crimen, criminal), Pilipinasa (krimen, kriminal), Indonesisa (kriminal)"
+...

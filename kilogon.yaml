@@ -1,0 +1,54 @@
+---
+term: kilogon
+slug: kilogon
+ipa: "kilo\u02C8gon"
+ipa link: "http://ipa-reader.xyz/?text=kilo\u02C8gon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - chiliagon
+    - 1000-gon
+    - "1"
+    - 000-gon
+  epo:
+  - - milangulo
+    - millatero
+  spa:
+  - - "quili\xE1gono"
+search terms:
+  glb:
+  - kilogon
+  eng:
+  - chiliagon
+  - 1000-gon
+  - "1"
+  - 000-gon
+  epo:
+  - milangulo
+  - millatero
+  spa:
+  - "quili\xE1gono"
+etymology_type: DERIVD
+etymology: <a href="../lexi/kilo">kilo</a> + <a href="../lexi/gon">gon</a>
+raw data:
+  term: kilogon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: chiliagon, 1000-gon, 1,000-gon
+    epo: milangulo, millatero
+    spa: "quili\xE1gono"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kilo + gon
+...

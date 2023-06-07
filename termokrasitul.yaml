@@ -1,0 +1,49 @@
+---
+term: termokrasitul
+slug: termokrasitul
+ipa: "te\u027Emok\u027Easi\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=te\u027Emok\u027Easi\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - thermostat
+  epo:
+  - - termostato
+    - termoreguligilo
+  spa:
+  - - termostato
+search terms:
+  glb:
+  - termokrasitul
+  eng:
+  - thermostat
+  epo:
+  - termostato
+  - termoreguligilo
+  spa:
+  - termostato
+etymology_type: DERIVD
+etymology: <a href="../lexi/termo">termo</a> + <a href="../lexi/-krasi">-krasi</a>
+  + <a href="../lexi/-tul">-tul</a>
+raw data:
+  term: termokrasitul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: thermostat
+    epo: termostato, termoreguligilo
+    spa: termostato
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: termo + -krasi + -tul
+...

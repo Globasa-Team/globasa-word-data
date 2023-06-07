@@ -1,0 +1,57 @@
+---
+term: metro
+slug: metro
+ipa: "\u02C8met\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8met\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - meter
+    - metre
+  epo:
+  - - metro
+  spa:
+  - - metro
+    - m
+search terms:
+  glb:
+  - metro
+  eng:
+  - meter
+  - metre
+  epo:
+  - metro
+  spa:
+  - metro
+  - m
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: metro
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: meter, metre
+    epo: metro
+    spa: metro, m
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (meter, metre), Fransesa (m\xE8tre), Doycisa (Meter), Rusisa
+    (\u043C\u0435\u0442\u0440 \u201Cmetr\u201D), Espanisa (metro), Putunhwa (\u7C73
+    \u201Cmi\u201D, \u7C73\u7A81 \u201Cmitu\u201D), Hindisa (\u092E\u0940\u091F\u0930
+    \u201Cmitar\u201D), Arabisa (\u0645\u0650\u062A\u0652\u0631 \u201Cmitr\u201D),
+    Indonesisa (meter), Niponsa (\u30E1\u30FC\u30C8\u30EB, \u334D, \u7C73 \u201Cm\u0113toru\u201D),
+    Telugusa (\u0C2E\u0C40\u0C1F\u0C30\u0C41 \u201Cmitaru\u201D), Turkisa (metre),
+    Hangusa (\uBBF8\uD130 \u201Cmito\u201D), Vyetnamsa (m\xE9t), Parsisa (\u0645\u062A\u0631
+    metr\u201D), Swahilisa (mita), Pilipinasa (metro)"
+...

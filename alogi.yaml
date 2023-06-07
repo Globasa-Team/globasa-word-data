@@ -1,0 +1,64 @@
+---
+term: alogi
+slug: alogi
+ipa: "a\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8logi&voice=Ewa"
+status: true
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - change
+  - - alter
+    - (cause to) change
+    - make different
+  epo:
+  - - aligo
+    - "\u015Dan\u011Do"
+  - - aligi
+    - "\u015Dan\u011Di"
+  spa:
+  - - cambio
+    - "alteraci\xF3n"
+  - - cambiar
+    - alterar
+search terms:
+  glb:
+  - alogi
+  eng:
+    0: change
+    1: alter
+    2: cause to change
+    4: make different
+  epo:
+  - aligo
+  - "\u015Dan\u011Do"
+  - aligi
+  - "\u015Dan\u011Di"
+  spa:
+  - cambio
+  - "alteraci\xF3n"
+  - cambiar
+  - alterar
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: alogi
+  category: derived
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: change; alter, (cause to) change, make different
+    epo: "aligo, \u015Dan\u011Do; aligi, \u015Dan\u011Di"
+    spa: "cambio, alteraci\xF3n; cambiar, alterar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + -gi
+...

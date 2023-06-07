@@ -1,0 +1,54 @@
+---
+term: na
+slug: na
+ipa: na
+ipa link: http://ipa-reader.xyz/?text=na&voice=Ewa
+status: true
+category: root
+word class: par
+trans:
+  eng:
+  - - to (_infinitive marker_)
+  epo:
+  - - -i (_infinitiva markilo_)
+  spa:
+  - - _marcador del infinitivo_
+search terms:
+  glb:
+  - na
+  eng:
+  - to
+  epo:
+  - -i
+  spa:
+  - marcador del infinitivo
+etymology_type: NATLNG
+etymology:
+  Elinisa:
+  - - "\u03BD\u03B1 \u201Cna\u201D"
+  Hindisa:
+  - - "-\u0928\u093E \u201C-na\u201D"
+  Englisa:
+  - - wanna
+    - gonna
+raw data:
+  term: na
+  category: root
+  word class: par
+  status: true
+  trans:
+    eng: to (_infinitive marker_)
+    epo: -i (_infinitiva markilo_)
+    spa: _marcador del infinitivo_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Elinisa (\u03BD\u03B1 \u201Cna\u201D), Hindisa (-\u0928\u093E \u201C-na\u201D).
+    Englisa (wanna, gonna)"
+...

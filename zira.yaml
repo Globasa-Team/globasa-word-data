@@ -1,0 +1,67 @@
+---
+term: zira
+slug: zira
+ipa: "\u02C8zi\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8zi\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cumin
+  epo:
+  - - kumino
+  spa:
+  - - comino
+    - _Cuminum cyminum_
+search terms:
+  glb:
+  - zira
+  eng:
+  - cumin
+  epo:
+  - kumino
+  spa:
+  - comino
+  - cuminum cyminum
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - "\u0437\u0438\u0440\u0430 \"zira\""
+  Hindisa:
+  - - "\u091C\u093C\u0940\u0930\u093E \"zira\""
+    - "\u091C\u0940\u0930\u093E \"jira\""
+  Telugusa:
+  - - "\u0C1C\u0C40\u0C32\u0C15\u0C30\u0C4D\u0C30 \"jirakara\""
+  Vyetnamsa:
+  - - "th\xEC l\xE0"
+  Parsisa:
+  - - "\u0632\u06CC\u0631\u0647 \"zire\""
+  Swahilisa:
+  - - jira
+tags:
+- yamxey
+- hoxinlyo
+raw data:
+  term: zira
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cumin
+    epo: kumino
+    spa: comino, _Cuminum cyminum_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey, hoxinlyo
+  etymology: "Rusisa (\u0437\u0438\u0440\u0430 \"zira\"), Hindisa (\u091C\u093C\u0940\u0930\u093E
+    \"zira\", \u091C\u0940\u0930\u093E \"jira\"), Telugusa (\u0C1C\u0C40\u0C32\u0C15\u0C30\u0C4D\u0C30
+    \"jirakara\"), Vyetnamsa (th\xEC l\xE0), Parsisa (\u0632\u06CC\u0631\u0647 \"zire\"),
+    Swahilisa (jira)"
+...

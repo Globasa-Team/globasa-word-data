@@ -1,0 +1,72 @@
+---
+term: loka
+slug: loka
+ipa: "\u02C8loka"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8loka&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - location
+    - place
+    - site
+    - position
+  - - be located
+    - be found
+    - be situated
+  epo:
+  - - loko
+  spa:
+  - - "ubicaci\xF3n"
+    - lugar
+    - sitio
+    - "posici\xF3n"
+  - - encontrarse
+    - ubicarse
+    - situarse
+search terms:
+  glb:
+  - loka
+  eng:
+  - location
+  - place
+  - site
+  - position
+  - be located
+  - be found
+  - be situated
+  epo:
+  - loko
+  spa:
+  - "ubicaci\xF3n"
+  - lugar
+  - sitio
+  - "posici\xF3n"
+  - encontrarse
+  - ubicarse
+  - situarse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: loka
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: location, place, site, position; be located, be found, be situated
+    epo: loko
+    spa: "ubicaci\xF3n, lugar, sitio, posici\xF3n; encontrarse, ubicarse, situarse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (location), Fransesa (local), Doycisa (Lokalisierung), Espanisa
+    (local), Rusisa (\u043B\u043E\u043A\u0430\u043B\u044C\u043D\u044B\u0439 \u201Clokalniy\u201D),
+    Indonesisa (lokasi), Turkisa (lokal)"
+...

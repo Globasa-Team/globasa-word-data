@@ -1,0 +1,88 @@
+---
+term: estrimi
+slug: estrimi
+ipa: esˈtɾimi
+ipa link: http://ipa-reader.xyz/?text=esˈtɾimi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - (live)stream (_internet_)
+  epo:
+  - - datumfluo
+    - elsendfluo
+    - fluo
+  - - flui
+  spa:
+  - - transmisión (de internet)
+search terms:
+  glb:
+  - estrimi
+  eng:
+  - livestream
+  - stream
+  epo:
+  - datumfluo
+  - elsendfluo
+  - fluo
+  - flui
+  spa:
+  - transmisión de internet
+  - transmisión
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - stream
+    - streaming
+  Hindisa:
+  - - स्ट्रीम "strim"
+    - स्ट्रीमिंग "striming"
+  Fransesa:
+  - - stream
+  Rusisa:
+  - - стрим "strim"
+  Indonesisa:
+  - - stream
+    - streaming
+  Doycisa:
+  - - Stream
+    - Streaming
+    - Datenstrom
+  - - streamen
+  Niponsa:
+  - - ストリーム "sutorimu"
+    - ストリーミング "sutorimingu"
+  Telugusa:
+  - - స్ట్రీమ్ "strim"
+    - స్ట్రీమర్ "strimar"
+  Pilipinasa:
+  - - stream
+    - i-stream
+  Hangusa:
+  - - 스트림 "suturim"
+    - 스트리밍 "suturiming"
+raw data:
+  term: estrimi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: (live)stream (_internet_)
+    epo: datumfluo, elsendfluo, fluo; flui
+    spa: transmisión (de internet)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (stream, streaming), Hindisa (स्ट्रीम "strim", स्ट्रीमिंग "striming"),
+    Fransesa (stream), Rusisa (стрим "strim"), Indonesisa (stream, streaming), Doycisa
+    (Stream, Streaming, Datenstrom; streamen), Niponsa (ストリーム "sutorimu", ストリーミング
+    "sutorimingu"), Telugusa (స్ట్రీమ్ "strim", స్ట్రీమర్ "strimar"), Pilipinasa (stream,
+    i-stream), Hangusa (스트림 "suturim", 스트리밍 "suturiming")
+...

@@ -1,0 +1,48 @@
+---
+term: seli uyu
+slug: seli uyu
+ipa: "\u02C8seli \u02C8uju"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8seli \u02C8uju&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - you yourselves
+  epo:
+  - - vi mem
+  spa:
+  - - ustedes mismos
+search terms:
+  glb:
+  - seli uyu
+  - seli
+  - uyu
+  eng:
+  - you yourselves
+  epo:
+  - vi mem
+  spa:
+  - ustedes mismos
+etymology_type: DERIVD
+etymology: <a href="../lexi/se">se</a> + <a href="../lexi/-li">-li</a>, <a href="../lexi/uyu">uyu</a>
+raw data:
+  term: seli uyu
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: you yourselves
+    epo: vi mem
+    spa: ustedes mismos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se + -li, uyu
+...

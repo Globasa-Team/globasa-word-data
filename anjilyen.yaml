@@ -1,0 +1,48 @@
+---
+term: anjilyen
+slug: anjilyen
+ipa: "and\u0361\u0292i\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=and\u0361\u0292i\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - angel
+  epo:
+  - - "an\u011Delo"
+  spa:
+  - - "\xE1ngel"
+search terms:
+  glb:
+  - anjilyen
+  eng:
+  - angel
+  epo:
+  - "an\u011Delo"
+  spa:
+  - "\xE1ngel"
+etymology_type: DERIVD
+etymology: <a href="../lexi/anjil">anjil</a> + <a href="../lexi/-yen">-yen</a>
+tags:
+- dini
+raw data:
+  term: anjilyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: angel
+    epo: "an\u011Delo"
+    spa: "\xE1ngel"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: anjil + -yen
+...

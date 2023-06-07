@@ -1,0 +1,50 @@
+---
+term: okurxey
+slug: okurxey
+ipa: "oku\u027E\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=oku\u027E\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - event
+    - occurrence
+    - incident
+  epo:
+  - - "okaza\u0135o"
+  spa:
+  - - evento
+search terms:
+  glb:
+  - okurxey
+  eng:
+  - event
+  - occurrence
+  - incident
+  epo:
+  - "okaza\u0135o"
+  spa:
+  - evento
+etymology_type: DERIVD
+etymology: <a href="../lexi/okur">okur</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: okurxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: event, occurrence, incident
+    epo: "okaza\u0135o "
+    spa: evento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: okur + -xey
+...

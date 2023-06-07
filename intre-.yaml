@@ -1,0 +1,50 @@
+---
+term: intre-
+slug: intre-
+ipa: "in\u02C8t\u027Ee-"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8t\u027Ee-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - inter-
+    - between
+  epo:
+  - - inter-
+  spa:
+  - - inter-
+    - entre-
+search terms:
+  glb:
+  - intre-
+  eng:
+  - inter-
+  - between
+  epo:
+  - inter-
+  spa:
+  - inter-
+  - entre-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/intre">intre</a>.
+raw data:
+  term: intre-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: inter-, between
+    epo: inter-
+    spa: inter-, entre-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _intre_.
+...

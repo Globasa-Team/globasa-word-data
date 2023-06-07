@@ -1,0 +1,56 @@
+---
+term: mikro
+slug: mikro
+ipa: "\u02C8mik\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mik\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - "1 \xD7 10^-6"
+    - one millionth of
+  epo:
+  - - milionono
+  spa:
+  - - micro-
+    - "1 \xD7 10^-6"
+    - "millon\xE9sima parte de"
+    - "\xB5"
+search terms:
+  glb:
+  - mikro
+  eng:
+  - "1 \xD7 10^-6"
+  - one millionth of
+  epo:
+  - milionono
+  spa:
+  - micro-
+  - "1 \xD7 10^-6"
+  - "millon\xE9sima parte de"
+  - "\xB5"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mikro
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: "1 \xD7 10^-6, one millionth of"
+    epo: milionono
+    spa: "micro-, 1 \xD7 10^-6, millon\xE9sima parte de, \xB5"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (micro-), Fransesa ( ), Doycisa, Rusisa, Espanisa, Arabisa, Hindisa,
+    Telugusa, Parsisa, Turkisa, Indonesisa, Pilipinasa, Swahilisa, Vyetnamsa, Niponsa,
+    Hangusa
+...

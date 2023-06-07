@@ -1,0 +1,53 @@
+---
+term: xuji
+slug: xuji
+ipa: "\u02C8\u0283ud\u0361\u0292i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283ud\u0361\u0292i&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - finger
+  epo:
+  - - fingro
+  spa:
+  - - dedo
+search terms:
+  glb:
+  - xuji
+  eng:
+  - finger
+  epo:
+  - fingro
+  spa:
+  - dedo
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u624B\u6307 \u201Csh\u01D2uzh\u01D0\u201D"
+  Niponsa:
+  - - "\u624B\u6307 \u201Cshushi\u201D"
+tags:
+- jismulogi
+raw data:
+  term: xuji
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: finger
+    epo: fingro
+    spa: dedo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa (\u624B\u6307 \u201Csh\u01D2uzh\u01D0\u201D), Niponsa (\u624B\u6307
+    \u201Cshushi\u201D)"
+...

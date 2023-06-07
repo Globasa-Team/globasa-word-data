@@ -1,0 +1,58 @@
+---
+term: geotreme
+slug: geotreme
+ipa: "geo\u02C8t\u027Eeme"
+ipa link: "http://ipa-reader.xyz/?text=geo\u02C8t\u027Eeme&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - earthquake
+  epo:
+  - - tertremo
+    - seismo
+    - sismo
+  spa:
+  - - terremoto
+    - sismo
+    - "se\xEDsmo"
+  deu:
+  - - Erdbeben
+search terms:
+  glb:
+  - geotreme
+  eng:
+  - earthquake
+  epo:
+  - tertremo
+  - seismo
+  - sismo
+  spa:
+  - terremoto
+  - sismo
+  - "se\xEDsmo"
+  deu:
+  - erdbeben
+etymology_type: DERIVD
+etymology: <a href="../lexi/geo">geo</a> + <a href="../lexi/treme">treme</a>
+raw data:
+  term: geotreme
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: earthquake
+    epo: tertremo, seismo, sismo
+    spa: "terremoto, sismo, se\xEDsmo"
+    deu: Erdbeben
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: geo + treme
+...

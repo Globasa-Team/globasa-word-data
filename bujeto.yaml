@@ -1,0 +1,66 @@
+---
+term: bujeto
+slug: bujeto
+ipa: buˈd͡ʒeto
+ipa link: http://ipa-reader.xyz/?text=buˈd͡ʒeto&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - budget
+  epo:
+  - - buĝeto
+  spa:
+  - - presupuesto
+search terms:
+  glb:
+  - bujeto
+  eng:
+  - budget
+  epo:
+  - buĝeto
+  spa:
+  - presupuesto
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - budget
+  Fransesa:
+  - - budget
+  Rusisa:
+  - - бюджет “byujet”
+  Turkisa:
+  - - bütçe
+  Swahilisa:
+  - - bajeti
+  Hindisa:
+  - - बजट “bajat”
+  Telugusa:
+  - - బడ్జెట్ “bajet”
+  Niponsa:
+  - - バジェット “bajeto”
+  Pilipinasa:
+  - - badyet
+raw data:
+  term: bujeto
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: budget
+    epo: buĝeto
+    spa: presupuesto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (budget), Fransesa (budget), Rusisa (бюджет “byujet”), Turkisa
+    (bütçe), Swahilisa (bajeti), Hindisa (बजट “bajat”), Telugusa (బడ్జెట్ “bajet”),
+    Niponsa (バジェット “bajeto”), Pilipinasa (badyet)
+...

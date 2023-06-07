@@ -1,0 +1,46 @@
+---
+term: hanguli
+slug: hanguli
+ipa: "xan\u02C8guli"
+ipa link: "http://ipa-reader.xyz/?text=xan\u02C8guli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Korean
+  epo:
+  - - korea
+  spa:
+  - - coreano
+search terms:
+  glb:
+  - hanguli
+  eng:
+  - korean
+  epo:
+  - korea
+  spa:
+  - coreano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Hangu">Hangu</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Hanguli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Korean
+    epo: korea
+    spa: coreano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Hangu + -li
+...

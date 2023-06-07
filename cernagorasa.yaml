@@ -1,0 +1,50 @@
+---
+term: cernagorasa
+slug: cernagorasa
+ipa: "t\u0361\u0283e\u027Enago\u02C8\u027Easa"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283e\u027Enago\u02C8\u027Easa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Montenegrin (language)
+  epo:
+  - - la montenegra (lingvo)
+  spa:
+  - - montenegrino (_idioma_)
+search terms:
+  glb:
+  - cernagorasa
+  eng:
+  - montenegrin language
+  - montenegrin
+  epo:
+  - la montenegra lingvo
+  - la montenegra
+  spa:
+  - montenegrino
+etymology_type: DERIVD
+etymology: <a href="../lexi/Cernagora">Cernagora</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Cernagorasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Montenegrin (language)
+    epo: la montenegra (lingvo)
+    spa: montenegrino (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Cernagora + -sa
+...

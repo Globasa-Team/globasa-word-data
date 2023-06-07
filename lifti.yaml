@@ -1,0 +1,54 @@
+---
+term: lifti
+slug: lifti
+ipa: "\u02C8lifti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lifti&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - lift
+    - raise
+  epo:
+  - - levo
+  - - levi
+  spa:
+  - - levantar
+    - alzar
+search terms:
+  glb:
+  - lifti
+  eng:
+  - lift
+  - raise
+  epo:
+  - levo
+  - levi
+  spa:
+  - levantar
+  - alzar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lifti
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: lift, raise
+    epo: levo; levi
+    spa: levantar, alzar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lift, lifting), Doycisa (Lift - elevator), Rusisa (\u043B\u0438\u0444\u0442
+    \u201Clift\u201D - elevator), Hindisa (\u0932\u093F\u092B\u093C\u094D\u091F \u201Clift\u201D
+    - liftitora)"
+...

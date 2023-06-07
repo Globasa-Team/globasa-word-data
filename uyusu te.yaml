@@ -1,0 +1,47 @@
+---
+term: uyusu te
+slug: uyusu te
+ipa: "u\u02C8jusu \u02C8te"
+ipa link: "http://ipa-reader.xyz/?text=u\u02C8jusu \u02C8te&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - (_that being belonging to you all_)
+  epo:
+  - - la via
+  spa:
+  - - su (_ser viviente que pertenece a ustedes_)
+search terms:
+  glb:
+  - uyusu te
+  - uyusu
+  - te
+  eng: []
+  epo:
+  - la via
+  spa:
+  - su
+etymology_type: DERIVD
+etymology: <a href="../lexi/uyu">uyu</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/to">to</a>
+raw data:
+  term: 'uyusu te '
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: (_that being belonging to you all_)
+    epo: la via
+    spa: su (_ser viviente que pertenece a ustedes_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: uyu + -su, to
+...

@@ -1,0 +1,61 @@
+---
+term: lamese
+slug: lamese
+ipa: "la\u02C8mese"
+ipa link: "http://ipa-reader.xyz/?text=la\u02C8mese&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - touch
+  epo:
+  - - "tu\u015Do"
+  - - "tu\u015Di"
+  spa:
+  - - toque
+  - - tocar
+search terms:
+  glb:
+  - lamese
+  eng:
+  - touch
+  epo:
+  - "tu\u015Do"
+  - "tu\u015Di"
+  spa:
+  - toque
+  - tocar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0644\u064E\u0645\u0652\u0633 \"lams\""
+    - "\u0644\u064E\u0645\u0652\u0633\u064E\u0629 \"lamsa\""
+    - "\u0644\u064E\u0645\u064E\u0633\u064E \"lamasa\""
+  Parsisa:
+  - - "\u0644\u0627\u0645\u0633\u0647 \"l\xE2mese\""
+  - - "\u0644\u0645\u0633 \"lams\""
+  Turkisa:
+  - - lamise
+raw data:
+  term: lamese
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: touch
+    epo: "tu\u015Do; tu\u015Di"
+    spa: toque; tocar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0644\u064E\u0645\u0652\u0633 \"lams\", \u0644\u064E\u0645\u0652\u0633\u064E\u0629
+    \"lamsa\", \u0644\u064E\u0645\u064E\u0633\u064E \"lamasa\"), Parsisa (\u0644\u0627\u0645\u0633\u0647
+    \"l\xE2mese\"; \u0644\u0645\u0633 \"lams\"), Turkisa (lamise)"
+...

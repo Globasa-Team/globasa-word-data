@@ -1,0 +1,51 @@
+---
+term: metode
+slug: metode
+ipa: "me\u02C8tode"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8tode&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - method
+    - approach
+  epo:
+  - - metodo
+  spa:
+  - - "m\xE9todo"
+search terms:
+  glb:
+  - metode
+  eng:
+  - method
+  - approach
+  epo:
+  - metodo
+  spa:
+  - "m\xE9todo"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: metode
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: method, approach
+    epo: metodo
+    spa: "m\xE9todo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Methode), Englisa (method), Espanisa (m\xE9todo), Fransesa
+    (m\xE9thode), Rusisa (\u043C\u0435\u0442\u043E\u0434 \u201Cmetod\u201D), Indonesisa
+    (metode), Hangusa (\uBA54\uC11C\uB4DC or \uBA54\uC18C\uB4DC \u201Cmesodu\u201D),
+    Turkisa (metod), Parsisa (\u0645\u062A\u062F \u201Cmetod\u201D)"
+...

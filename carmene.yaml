@@ -1,0 +1,50 @@
+---
+term: carmene
+slug: carmene
+ipa: "t\u0361\u0283a\u027E\u02C8mene"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283a\u027E\u02C8mene&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - charming
+    - enchanting
+  epo:
+  - - "\u0109armanta"
+  - - "\u0109armante"
+  spa:
+  - - encantador
+search terms:
+  glb:
+  - carmene
+  eng:
+  - charming
+  - enchanting
+  epo:
+  - "\u0109armanta"
+  - "\u0109armante"
+  spa:
+  - encantador
+etymology_type: DERIVD
+etymology: <a href="../lexi/carme">carme</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: carmene
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: charming, enchanting
+    epo: "\u0109armanta; \u0109armante"
+    spa: encantador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: carme + -ne
+...

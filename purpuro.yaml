@@ -1,0 +1,64 @@
+---
+term: purpuro
+slug: purpuro
+ipa: "pu\u027E\u02C8pu\u027Eo"
+ipa link: "http://ipa-reader.xyz/?text=pu\u027E\u02C8pu\u027Eo&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - purple
+  epo:
+  - - purpura
+  - - purpure
+  spa:
+  - - morado
+search terms:
+  glb:
+  - purpuro
+  eng:
+  - purple
+  epo:
+  - purpura
+  - purpure
+  spa:
+  - morado
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - purple
+  Fransesa:
+  - - pourpre
+  Doycisa:
+  - - Purpur
+  Rusisa:
+  - - "\u043F\u0443\u0440\u043F\u0443\u0440 \u201Cpurpur\u201D"
+  Espanisa:
+  - - "p\xFArpura"
+  Niponsa:
+  - - "\u30D1\u30FC\u30D7\u30EB \u201Cpapuru\u201D"
+tags:
+- kolor
+raw data:
+  term: purpuro
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: purple
+    epo: purpura; purpure
+    spa: morado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: "Englisa (purple), Fransesa (pourpre), Doycisa (Purpur), Rusisa (\u043F\u0443\u0440\u043F\u0443\u0440
+    \u201Cpurpur\u201D), Espanisa (p\xFArpura), Niponsa (\u30D1\u30FC\u30D7\u30EB
+    \u201Cpapuru\u201D)"
+...

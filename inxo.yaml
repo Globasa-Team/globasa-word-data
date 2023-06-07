@@ -1,0 +1,54 @@
+---
+term: inxo
+slug: inxo
+ipa: "\u02C8in\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8in\u0283o&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - impress
+  epo:
+  - - impreso
+    - efekto
+  - - impresi
+    - efekti
+  spa:
+  - - impresionar
+search terms:
+  glb:
+  - inxo
+  eng:
+  - impress
+  epo:
+  - impreso
+  - efekto
+  - impresi
+  - efekti
+  spa:
+  - impresionar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: inxo
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: impress
+    epo: impreso, efekto; impresi, efekti
+    spa: impresionar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5370\u8C61 \u201Cy\xECnxi\xE0ng\u201D), Niponsa ( \u5370\u8C61
+    \u201Cinsh\u014D\u201D), Hangusa (\uC778\uC0C1 \u201Cinsang\u201D), Vyetnamsa
+    (\u1EA5n t\u01B0\u1EE3ng)"
+...

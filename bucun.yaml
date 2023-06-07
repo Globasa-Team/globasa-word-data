@@ -1,0 +1,58 @@
+---
+term: bucun
+slug: bucun
+ipa: buˈt͡ʃun
+ipa link: http://ipa-reader.xyz/?text=buˈt͡ʃun&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - supplement
+  epo:
+  - - suplemento
+    - kompletigo
+  - - suplementi
+  - - kompletigi
+  spa:
+  - - suplemento
+  - - suplementar
+search terms:
+  glb:
+  - bucun
+  eng:
+  - supplement
+  epo:
+  - suplemento
+  - kompletigo
+  - suplementi
+  - kompletigi
+  spa:
+  - suplemento
+  - suplementar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 补充 “bǔchōng”
+  Hangusa:
+  - - 보충 “bochung”
+raw data:
+  term: bucun
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: supplement
+    epo: suplemento, kompletigo; suplementi; kompletigi
+    spa: suplemento; suplementar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (补充 “bǔchōng”), Hangusa (보충 “bochung”)
+...

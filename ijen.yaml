@@ -1,0 +1,55 @@
+---
+term: ijen
+slug: ijen
+ipa: "i\u02C8d\u0361\u0292en"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8d\u0361\u0292en&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - opinion
+    - position
+  - - opine
+  epo:
+  - - opinio
+  - - opinii
+  spa:
+  - - "opini\xF3n"
+  - - opinar
+search terms:
+  glb:
+  - ijen
+  eng:
+  - opinion
+  - position
+  - opine
+  epo:
+  - opinio
+  - opinii
+  spa:
+  - "opini\xF3n"
+  - opinar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ijen
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: opinion, position; opine
+    epo: opinio; opinii
+    spa: "opini\xF3n; opinar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u610F\u89C1 \u201Cy\xECji\xE0n\u201D), Hangusa (\uC758\uACAC
+    \u201Cuigyeon\u201D), Niponsa (\u610F\u898B \u201Ciken\u201D)"
+...

@@ -1,0 +1,52 @@
+---
+term: malxanse
+slug: malxanse
+ipa: "mal\u02C8\u0283anse"
+ipa link: "http://ipa-reader.xyz/?text=mal\u02C8\u0283anse&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - misfortune
+  epo:
+  - - "malbon\u015Danco"
+  spa:
+  - - mala fortuna
+    - mala suerte
+    - infortunio
+    - desgracia
+search terms:
+  glb:
+  - malxanse
+  eng:
+  - misfortune
+  epo:
+  - "malbon\u015Danco"
+  spa:
+  - mala fortuna
+  - mala suerte
+  - infortunio
+  - desgracia
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal-">mal-</a> + <a href="../lexi/xanse">xanse</a>
+raw data:
+  term: malxanse
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: misfortune
+    epo: "malbon\u015Danco"
+    spa: mala fortuna, mala suerte, infortunio, desgracia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal- + xanse
+...

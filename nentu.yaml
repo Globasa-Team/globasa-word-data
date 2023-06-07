@@ -1,0 +1,52 @@
+---
+term: nentu
+slug: nentu
+ipa: "\u02C8nentu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nentu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - clay
+  epo:
+  - - argilo
+  spa:
+  - - arcilla
+    - barro
+search terms:
+  glb:
+  - nentu
+  eng:
+  - clay
+  epo:
+  - argilo
+  spa:
+  - arcilla
+  - barro
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u9ECF\u571F \u201Cnyantu\u201D"
+  Niponsa:
+  - - "\u7C98\u571F \u201Cnendo\u201D"
+raw data:
+  term: nentu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: clay
+    epo: argilo
+    spa: arcilla, barro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u9ECF\u571F \u201Cnyantu\u201D), Niponsa (\u7C98\u571F \u201Cnendo\u201D)"
+...

@@ -1,0 +1,46 @@
+---
+term: hamileya
+slug: hamileya
+ipa: "xami\u02C8leja"
+ipa link: "http://ipa-reader.xyz/?text=xami\u02C8leja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pregnancy
+  epo:
+  - - gravedeco
+  spa:
+  - - embarazo
+search terms:
+  glb:
+  - hamileya
+  eng:
+  - pregnancy
+  epo:
+  - gravedeco
+  spa:
+  - embarazo
+etymology_type: DERIVD
+etymology: <a href="../lexi/hamile">hamile</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: hamileya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pregnancy
+    epo: gravedeco
+    spa: embarazo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: hamile + -ya
+...

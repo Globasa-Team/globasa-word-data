@@ -1,0 +1,52 @@
+---
+term: moy-
+slug: moy-
+ipa: "\u02C8moj-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8moj-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - every
+    - each
+    - all [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+  epo:
+  - - "\u0109iu-"
+  spa:
+  - - todo
+    - cada
+search terms:
+  glb:
+  - moy-
+  eng:
+  - every
+  - each
+  - all
+  epo:
+  - "\u0109iu-"
+  spa:
+  - todo
+  - cada
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/moy">moy</a>.
+raw data:
+  term: moy-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: every, each, all [see [Correlatives](https://xwexi.globasa.net/eng/gramati/tabellexi)]
+    epo: "\u0109iu-"
+    spa: todo, cada
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _moy_.
+...

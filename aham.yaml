@@ -1,0 +1,82 @@
+---
+term: aham
+slug: aham
+ipa: aˈxam
+ipa link: http://ipa-reader.xyz/?text=aˈxam&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a; il
+trans:
+  eng:
+  - - comprehension
+    - understanding
+  - - understand
+    - comprehend
+  - - I see
+    - understood
+  epo:
+  - - kompreno
+  - - kompreni
+  - - mi komprenas
+    - komprenita
+  spa:
+  - - entendimiento
+    - comprensión
+  - - entender
+    - comprender
+search terms:
+  glb:
+  - aham
+  eng:
+  - comprehension
+  - understanding
+  - understand
+  - comprehend
+  - i see
+  - understood
+  epo:
+  - kompreno
+  - kompreni
+  - mi komprenas
+  - komprenita
+  spa:
+  - entendimiento
+  - comprensión
+  - entender
+  - comprender
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - فهم “fahum”
+  Swahilisa:
+  - - -fahamu
+  Indonesisa:
+  - - paham
+    - memahami
+  Parsisa:
+  - - فهم “fahm”
+  Englisa:
+  - - aha moment
+tags:
+- intrelogalexi
+raw data:
+  term: aham
+  category: root
+  word class: n/f.oro.a; il
+  status: true
+  trans:
+    eng: comprehension, understanding; understand, comprehend; I see, understood
+    epo: kompreno; kompreni; mi komprenas, komprenita
+    spa: entendimiento, comprensión; entender, comprender
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: Arabisa (فهم “fahum”), Swahilisa (-fahamu), Indonesisa (paham, memahami),
+    Parsisa (فهم “fahm”), Englisa (aha moment)
+...

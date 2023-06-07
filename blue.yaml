@@ -1,0 +1,64 @@
+---
+term: blue
+slug: blue
+ipa: ˈblue
+ipa link: http://ipa-reader.xyz/?text=ˈblue&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - blue
+  epo:
+  - - blua
+  - - blue
+  spa:
+  - - azul
+search terms:
+  glb:
+  - blue
+  eng:
+  - blue
+  epo:
+  - blua
+  - blue
+  spa:
+  - azul
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - blue
+  Fransesa:
+  - - bleu
+  Doycisa:
+  - - blau
+  Indonesisa:
+  - - biru
+  Hangusa:
+  - - 푸르다 “puruda”
+  Swahilisa:
+  - - bluu
+    - buluu
+tags:
+- kolor
+raw data:
+  term: blue
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: blue
+    epo: blua; blue
+    spa: azul
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: Englisa (blue), Fransesa (bleu), Doycisa (blau), Indonesisa (biru), Hangusa
+    (푸르다 “puruda”), Swahilisa (bluu, buluu)
+...

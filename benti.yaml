@@ -1,0 +1,61 @@
+---
+term: benti
+slug: benti
+ipa: ˈbenti
+ipa link: http://ipa-reader.xyz/?text=ˈbenti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - calf (_anatomy_)
+  epo:
+  - - suro
+    - tibikarno
+  spa:
+  - - gemelos
+    - pantorrillas
+search terms:
+  glb:
+  - benti
+  eng:
+  - calf
+  epo:
+  - suro
+  - tibikarno
+  spa:
+  - gemelos
+  - pantorrillas
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - betis
+  Pilipinasa:
+  - - binti
+  Hindisa:
+  - - पिंडली "pindali"
+  Turkisa:
+  - - baldır
+tags:
+- jismulogi
+raw data:
+  term: benti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: calf (_anatomy_)
+    epo: suro, tibikarno
+    spa: gemelos, pantorrillas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Indonesisa (betis), Pilipinasa (binti), Hindisa (पिंडली "pindali"), Turkisa
+    (baldır)
+...

@@ -1,0 +1,48 @@
+---
+term: ehtiramfil
+slug: ehtiramfil
+ipa: "exti\u027Eam\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=exti\u027Eam\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - respectful
+  epo:
+  - - respektema
+  - - respekteme
+  spa:
+  - - respetuoso
+search terms:
+  glb:
+  - ehtiramfil
+  eng:
+  - respectful
+  epo:
+  - respektema
+  - respekteme
+  spa:
+  - respetuoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/ehtiram">ehtiram</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: ehtiramfil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: respectful
+    epo: respektema; respekteme
+    spa: respetuoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ehtiram + -fil
+...

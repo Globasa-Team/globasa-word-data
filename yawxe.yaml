@@ -1,0 +1,51 @@
+---
+term: yawxe
+slug: yawxe
+ipa: "\u02C8jaw\u0283e"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jaw\u0283e&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - key
+  epo:
+  - - "\u015Dlosilo"
+  spa:
+  - - llave
+search terms:
+  glb:
+  - yawxe
+  eng:
+  - key
+  epo:
+  - "\u015Dlosilo"
+  spa:
+  - llave
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u94A5\u5319 \u201Cy\xE0oshi\u201D"
+  Hangusa:
+  - - "\uC5F4\uC1E0 \u201Cyeolsoe\u201D"
+raw data:
+  term: yawxe
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: key
+    epo: "\u015Dlosilo"
+    spa: llave
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u94A5\u5319 \u201Cy\xE0oshi\u201D), Hangusa (\uC5F4\uC1E0
+    \u201Cyeolsoe\u201D)"
+...

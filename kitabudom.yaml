@@ -1,0 +1,52 @@
+---
+term: kitabudom
+slug: kitabudom
+ipa: "kitabu\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=kitabu\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - library
+  epo:
+  - - biblioteko
+    - librejo
+    - librarejo
+    - librokolektejo
+  spa:
+  - - biblioteca
+search terms:
+  glb:
+  - kitabudom
+  eng:
+  - library
+  epo:
+  - biblioteko
+  - librejo
+  - librarejo
+  - librokolektejo
+  spa:
+  - biblioteca
+etymology_type: DERIVD
+etymology: <a href="../lexi/kitabu">kitabu</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: kitabudom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: library
+    epo: biblioteko, librejo, librarejo, librokolektejo
+    spa: biblioteca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kitabu + -dom
+...

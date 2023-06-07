@@ -1,0 +1,52 @@
+---
+term: denseba hu
+slug: denseba hu
+ipa: "den\u02C8seba xu"
+ipa link: "http://ipa-reader.xyz/?text=den\u02C8seba xu&voice=Ewa"
+status: false
+category: phrase
+word class: m
+trans:
+  eng:
+  - - _subordinate clause:_ why
+    - how come
+  epo:
+  - - (tial
+    - ) kial
+  spa:
+  - - porque
+search terms:
+  glb:
+  - denseba hu
+  - denseba
+  - hu
+  eng:
+  - how come
+  epo:
+  - tial
+  - (tial
+  - kial
+  spa:
+  - porque
+etymology_type: DERIVD
+etymology: <a href="../lexi/den">den</a> + <a href="../lexi/seba">seba</a>, <a href="../lexi/hu">hu</a>
+raw data:
+  term: denseba hu
+  category: phrase
+  word class: m
+  status: false
+  trans:
+    eng: _subordinate clause:_ why, how come
+    epo: (tial,) kial
+    spa: porque
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: den + seba, hu
+...

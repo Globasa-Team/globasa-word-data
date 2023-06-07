@@ -1,0 +1,54 @@
+---
+term: discu
+slug: discu
+ipa: "\u02C8dist\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dist\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - dispersion
+  - - disperse
+    - spread
+  epo:
+  - - "disi\u011Do"
+  - - "disi\u011Di"
+  spa:
+  - - "dispersi\xF3n"
+  - - dispersarse
+search terms:
+  glb:
+  - discu
+  eng:
+  - dispersion
+  - disperse
+  - spread
+  epo:
+  - "disi\u011Do"
+  - "disi\u011Di"
+  spa:
+  - "dispersi\xF3n"
+  - dispersarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/dis">dis</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: discu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: dispersion; disperse, spread
+    epo: "disi\u011Do; disi\u011Di"
+    spa: "dispersi\xF3n; dispersarse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dis + -cu
+...

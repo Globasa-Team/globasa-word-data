@@ -1,0 +1,57 @@
+---
+term: xomin
+slug: xomin
+ipa: "\u0283o\u02C8min"
+ipa link: "http://ipa-reader.xyz/?text=\u0283o\u02C8min&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - explanation
+  - - explain
+  epo:
+  - - klarigo
+  - - klarigi
+  spa:
+  - - "explicaci\xF3n"
+  - - explicar
+search terms:
+  glb:
+  - xomin
+  eng:
+  - explanation
+  - explain
+  epo:
+  - klarigo
+  - klarigi
+  spa:
+  - "explicaci\xF3n"
+  - explicar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u8BF4\u660E \u201Cshu\u014Dm\xEDng\u201D"
+  Hangusa:
+  - - "\uC124\uBA85 \u201Cseolmyeong\u201D"
+raw data:
+  term: xomin
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: explanation; explain
+    epo: klarigo; klarigi
+    spa: "explicaci\xF3n; explicar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u8BF4\u660E \u201Cshu\u014Dm\xEDng\u201D), Hangusa (\uC124\uBA85
+    \u201Cseolmyeong\u201D)"
+...

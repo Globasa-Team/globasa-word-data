@@ -1,0 +1,46 @@
+---
+term: cadili
+slug: cadili
+ipa: "t\u0361\u0283a\u02C8dili"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283a\u02C8dili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Chadian
+  epo:
+  - - "\u0109ada"
+  spa:
+  - - chadiano
+search terms:
+  glb:
+  - cadili
+  eng:
+  - chadian
+  epo:
+  - "\u0109ada"
+  spa:
+  - chadiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Cadi">Cadi</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Cadili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Chadian
+    epo: "\u0109ada"
+    spa: chadiano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Cadi + -li
+...

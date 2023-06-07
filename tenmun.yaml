@@ -1,0 +1,75 @@
+---
+term: tenmun
+slug: tenmun
+ipa: "ten\u02C8mun"
+ipa link: "http://ipa-reader.xyz/?text=ten\u02C8mun&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - celestial body
+    - celestial object
+    - astro-
+  epo:
+  - - astro
+    - "\u0109iela korpo"
+  spa:
+  - - cuerpo celestial
+    - objeto celestial
+    - astro
+  deu:
+  - - "Himmelsk\xF6rper"
+    - astronomisches Objekt
+    - Himmelsobjekt
+search terms:
+  glb:
+  - tenmun
+  eng:
+  - celestial body
+  - celestial object
+  - astro-
+  epo:
+  - astro
+  - "\u0109iela korpo"
+  spa:
+  - cuerpo celestial
+  - objeto celestial
+  - astro
+  deu:
+  - "himmelsk\xF6rper"
+  - astronomisches objekt
+  - himmelsobjekt
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5929\u6587 \u201Ctyenwan\u201D"
+  Niponsa:
+  - - "\u5929\u6587 \u201Ctenmon\u201D"
+  Hangusa:
+  - - "\uCC9C\uBB38 \u201Ccanmun\u201D"
+  Vyetnamsa:
+  - - "thi\xEAn v\u0103n"
+tags:
+- kosmo
+raw data:
+  term: tenmun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: celestial body, celestial object, astro-
+    epo: "astro, \u0109iela korpo"
+    spa: cuerpo celestial, objeto celestial, astro
+    deu: "Himmelsk\xF6rper, astronomisches Objekt, Himmelsobjekt"
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kosmo
+  etymology: "Putunhwa (\u5929\u6587 \u201Ctyenwan\u201D), Niponsa (\u5929\u6587 \u201Ctenmon\u201D),
+    Hangusa (\uCC9C\uBB38 \u201Ccanmun\u201D), Vyetnamsa (thi\xEAn v\u0103n)"
+...

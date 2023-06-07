@@ -1,0 +1,52 @@
+---
+term: samakwanti
+slug: samakwanti
+ipa: "sama\u02C8kwanti"
+ipa link: "http://ipa-reader.xyz/?text=sama\u02C8kwanti&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - the same quantity (of)
+    - the same amount (of)
+  epo:
+  - - sama kvanto (da)
+  spa:
+  - - misma cantidad (de)
+search terms:
+  glb:
+  - samakwanti
+  eng:
+  - the same quantity of
+  - the same quantity
+  - the same amount of
+  - the same amount
+  epo:
+  - sama kvanto da
+  - sama kvanto
+  spa:
+  - misma cantidad de
+  - misma cantidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/sama">sama</a> + <a href="../lexi/kwanti">kwanti</a>
+raw data:
+  term: 'samakwanti '
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: the same quantity (of), the same amount (of)
+    epo: sama kvanto (da)
+    spa: misma cantidad (de)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sama + kwanti
+...

@@ -1,0 +1,75 @@
+---
+term: sekretari
+slug: sekretari
+ipa: "sek\u027Ee\u02C8ta\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=sek\u027Ee\u02C8ta\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - secretary
+  epo:
+  - - sekretario
+    - sekretariino
+  spa:
+  - - secretario
+search terms:
+  glb:
+  - sekretari
+  eng:
+  - secretary
+  epo:
+  - sekretario
+  - sekretariino
+  spa:
+  - secretario
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - secretary
+  Espanisa:
+  - - secretario
+  Fransesa:
+  - - "secr\xE9taire"
+  Rusisa:
+  - - "\u0441\u0435\u043A\u0440\u0435\u0442\u0430\u0440\u044C"
+  Doycisa:
+  - - "Sekret\xE4r"
+  Indonesisa:
+  - - sekretaris
+  Pilipinasa:
+  - - sekretarya
+  Hindisa:
+  - - "\u0938\u0947\u0915\u094D\u0930\u0947\u091F\u0930\u0940 \u201Csekretri\u201D"
+  Arabisa:
+  - - "\u0633\u0650\u0643\u0652\u0631\u0650\u062A\u0650\u064A\u0631 \u201Csekreter\u201D"
+  Turkisa:
+  - - sekreter
+  Parsisa:
+  - - "\u0633\u06A9\u0631\u062A\u0631 \u201Csekreter\u201D"
+raw data:
+  term: sekretari
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: secretary
+    epo: sekretario, sekretariino
+    spa: secretario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (secretary), Espanisa (secretario), Fransesa (secr\xE9taire),
+    Rusisa (\u0441\u0435\u043A\u0440\u0435\u0442\u0430\u0440\u044C), Doycisa (Sekret\xE4r),
+    Indonesisa (sekretaris), Pilipinasa (sekretarya), Hindisa (\u0938\u0947\u0915\u094D\u0930\u0947\u091F\u0930\u0940
+    \u201Csekretri\u201D), Arabisa (\u0633\u0650\u0643\u0652\u0631\u0650\u062A\u0650\u064A\u0631
+    \u201Csekreter\u201D), Turkisa (sekreter), Parsisa (\u0633\u06A9\u0631\u062A\u0631
+    \u201Csekreter\u201D)"
+...

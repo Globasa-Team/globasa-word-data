@@ -1,0 +1,44 @@
+---
+term: trasidi
+slug: trasidi
+ipa: "t\u027Ea\u02C8sidi"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Ea\u02C8sidi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - cross
+    - go across
+  spa:
+  - - cruzar
+search terms:
+  glb:
+  - trasidi
+  eng:
+  - cross
+  - go across
+  spa:
+  - cruzar
+etymology_type: DERIVD
+etymology: <a href="../lexi/tras-">tras-</a> + <a href="../lexi/idi">idi</a>
+raw data:
+  term: trasidi
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: cross, go across
+    epo: ""
+    spa: cruzar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tras- + idi
+...

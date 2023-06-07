@@ -1,0 +1,50 @@
+---
+term: somalisa
+slug: somalisa
+ipa: "soma\u02C8lisa"
+ipa link: "http://ipa-reader.xyz/?text=soma\u02C8lisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Somali (language)
+  epo:
+  - - la somala (lingvo)
+  spa:
+  - - "somal\xED (_idioma_)"
+search terms:
+  glb:
+  - somalisa
+  eng:
+  - somali language
+  - somali
+  epo:
+  - la somala lingvo
+  - la somala
+  spa:
+  - "somal\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Somali">Somali</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Somalisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Somali (language)
+    epo: la somala (lingvo)
+    spa: "somal\xED (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Somali + -sa
+...

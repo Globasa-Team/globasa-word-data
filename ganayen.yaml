@@ -1,0 +1,48 @@
+---
+term: ganayen
+slug: ganayen
+ipa: "gana\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=gana\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Ghanaian
+    - Ghanan
+  epo:
+  - - ganaano
+  spa:
+  - - "ghan\xE9s (_persona_)"
+search terms:
+  glb:
+  - ganayen
+  eng:
+  - ghanaian
+  - ghanan
+  epo:
+  - ganaano
+  spa:
+  - "ghan\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Gana">Gana</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Ganayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Ghanaian, Ghanan
+    epo: ganaano
+    spa: "ghan\xE9s (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Gana + -yen
+...

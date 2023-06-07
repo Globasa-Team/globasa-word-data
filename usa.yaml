@@ -1,0 +1,57 @@
+---
+term: usa
+slug: usa
+ipa: "\u02C8usa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8usa&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - United States (of America)
+    - U.S.A.
+    - USA
+  epo:
+  - - Usono
+  spa:
+  - - "Estados Unidos de Am\xE9rica"
+    - EE. UU.
+search terms:
+  glb:
+  - usa
+  eng:
+  - united states of america
+  - united states
+  - u.s.a.
+  - usa
+  epo:
+  - usono
+  spa:
+  - "estados unidos de am\xE9rica"
+  - ee. uu.
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - U.S.A.
+tags:
+- dexa
+raw data:
+  term: Usa
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: United States (of America), U.S.A., USA
+    epo: Usono
+    spa: "Estados Unidos de Am\xE9rica, EE. UU."
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (U.S.A.)
+...

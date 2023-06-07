@@ -1,0 +1,83 @@
+---
+term: tema
+slug: tema
+ipa: "\u02C8tema"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tema&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - topic
+    - theme
+    - subject
+  - - be about
+    - be regarding
+  epo:
+  - - temo
+  - - temi pri
+  spa:
+  - - tema
+  - - tratarse de
+search terms:
+  glb:
+  - tema
+  eng:
+  - topic
+  - theme
+  - subject
+  - be about
+  - be regarding
+  epo:
+  - temo
+  - temi pri
+  spa:
+  - tema
+  - tratarse de
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - theme
+  Doycisa:
+  - - Thema
+  Fransesa:
+  - - "th\xE8me"
+  Espanisa:
+  - - tema
+  Rusisa:
+  - - "\u0442\u0435\u043C\u0430 \u201Ctema\u201D"
+  Indonesisa:
+  - - tema
+  Pilipinasa:
+  - - tema
+  Niponsa:
+  - - "\u30C6\u30FC\u30DE \u201Ctema\u201D"
+  Hangusa:
+  - - "\uD14C\uB9C8 \u201Ctema\u201D"
+  Turkisa:
+  - - tema
+  Parsisa:
+  - - "\u062A\u0645 \u201Ctem\u201D"
+raw data:
+  term: tema
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: topic, theme, subject; be about, be regarding
+    epo: temo; temi pri
+    spa: tema; tratarse de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (theme), Doycisa (Thema), Fransesa (th\xE8me), Espanisa (tema),
+    Rusisa (\u0442\u0435\u043C\u0430 \u201Ctema\u201D), Indonesisa (tema), Pilipinasa
+    (tema), Niponsa (\u30C6\u30FC\u30DE \u201Ctema\u201D), Hangusa (\uD14C\uB9C8 \u201Ctema\u201D),
+    Turkisa (tema), Parsisa (\u062A\u0645 \u201Ctem\u201D)"
+...

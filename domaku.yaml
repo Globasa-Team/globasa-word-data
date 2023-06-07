@@ -1,0 +1,61 @@
+---
+term: domaku
+slug: domaku
+ipa: doˈmaku
+ipa link: http://ipa-reader.xyz/?text=doˈmaku&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - artery
+  epo:
+  - - arterio
+  spa:
+  - - arteria
+search terms:
+  glb:
+  - domaku
+  eng:
+  - artery
+  epo:
+  - arterio
+  spa:
+  - arteria
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 动脉 “dongmay”
+  Niponsa:
+  - - 動脈 “domyaku”
+  Hangusa:
+  - - 동맥 “dongmek”
+  Vyetnamsa:
+  - - động mạch
+  Hindisa:
+  - - धमनी “damni”
+  Telugusa:
+  - - ధమని “damani”
+tags:
+- jismulogi
+raw data:
+  term: domaku
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: artery
+    epo: arterio
+    spa: arteria
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Putunhwa (动脉 “dongmay”), Niponsa (動脈 “domyaku”), Hangusa (동맥 “dongmek”),
+    Vyetnamsa (động mạch), Hindisa (धमनी “damni”), Telugusa (ధమని “damani”)
+...

@@ -1,0 +1,46 @@
+---
+term: daniyen
+slug: daniyen
+ipa: "dani\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=dani\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Dane
+  epo:
+  - - dano
+  spa:
+  - - "dan\xE9s (_persona_)"
+search terms:
+  glb:
+  - daniyen
+  eng:
+  - dane
+  epo:
+  - dano
+  spa:
+  - "dan\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Dani">Dani</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Daniyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Dane
+    epo: dano
+    spa: "dan\xE9s (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Dani + -yen
+...

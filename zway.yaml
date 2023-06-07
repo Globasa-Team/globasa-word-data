@@ -1,0 +1,60 @@
+---
+term: zway
+slug: zway
+ipa: "\u02C8zwaj"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8zwaj&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fly (_insect_)
+    - _Diptera_
+  epo:
+  - - "mu\u015Do"
+  spa:
+  - - mosca
+    - _Diptera_
+search terms:
+  glb:
+  - zway
+  eng:
+  - fly
+  - diptera
+  epo:
+  - "mu\u015Do"
+  spa:
+  - mosca
+  - diptera
+etymology_type: NATLNG
+etymology:
+  Vyetnamsa:
+  - - "ru\u1ED3i"
+  Arabisa:
+  - - "\u0630\u0628\u0627\u0628\u0629\u200E \u201C\u1E0Fub\u0101ba\u201D"
+  Swahilisa:
+  - - nzi
+tags:
+- hewan
+- koncun
+raw data:
+  term: zway
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fly (_insect_), _Diptera_
+    epo: "mu\u015Do"
+    spa: mosca, _Diptera_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan, koncun
+  etymology: "Vyetnamsa (ru\u1ED3i), Arabisa (\u0630\u0628\u0627\u0628\u0629\u200E
+    \u201C\u1E0Fub\u0101ba\u201D), Swahilisa (nzi)"
+...

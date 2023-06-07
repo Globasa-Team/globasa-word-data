@@ -1,0 +1,52 @@
+---
+term: hoki
+slug: hoki
+ipa: "\u02C8xoki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xoki&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hockey
+  epo:
+  - - hokeo
+  spa:
+  - - _hockey_
+search terms:
+  glb:
+  - hoki
+  eng:
+  - hockey
+  epo:
+  - hokeo
+  spa:
+  - hockey
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hoki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hockey
+    epo: hokeo
+    spa: _hockey_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (hockey), Espanisa (hockey), Fransesa (hockey), Rusisa (\u0445\u043E\u043A\u043A\u0435\u0439
+    \u201Chokey\u201D), Doycisa (Hockey), Indonesisa (hoki), Pilipinasa (haki), Hindisa
+    (\u0939\u0949\u0915\u0940 \u201Choki\u201D), Arabisa (\u0647\u064F\u0648\u0643\u0650\u064A
+    \u201Chuki\u201D), Niponsa (\u30DB\u30C3\u30B1\u30FC \u201Chokey\u201D), Telugusa
+    (\u0C39\u0C3E\u0C15\u0C40 \u201Chaki\u201D), Turkisa (hokey), Hangusa (\uD558\uD0A4
+    \u201Chaki\u201D), Parsisa (\u0647\u0627\u06A9\u06CC \u201Ch\xE2ki\u201D), Swahilisa
+    (hoki)"
+...

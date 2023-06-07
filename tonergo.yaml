@@ -1,0 +1,52 @@
+---
+term: tonergo
+slug: tonergo
+ipa: "to\u02C8ne\u027Ego"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8ne\u027Ego&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - collaboration
+  - - collaborate
+  epo:
+  - - kunlaboro
+  - - kunlabori
+  spa:
+  - - "colaboraci\xF3n"
+  - - colaborar
+search terms:
+  glb:
+  - tonergo
+  eng:
+  - collaboration
+  - collaborate
+  epo:
+  - kunlaboro
+  - kunlabori
+  spa:
+  - "colaboraci\xF3n"
+  - colaborar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton-">ton-</a> + <a href="../lexi/ergo">ergo</a>
+raw data:
+  term: tonergo
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: collaboration; collaborate
+    epo: kunlaboro; kunlabori
+    spa: "colaboraci\xF3n; colaborar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton- + ergo
+...

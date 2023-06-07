@@ -1,0 +1,48 @@
+---
+term: meyu
+slug: meyu
+ipa: "\u02C8meju"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8meju&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - brow
+  epo:
+  - - brova kresto
+    - frunto
+  spa:
+  - - "ce\xF1o"
+search terms:
+  glb:
+  - meyu
+  eng:
+  - brow
+  epo:
+  - brova kresto
+  - frunto
+  spa:
+  - "ce\xF1o"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: meyu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: brow
+    epo: brova kresto, frunto
+    spa: "ce\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7709 \"mey\"), Niponsa (\u7709 \"mayu\"), Vyetnamsa (m\xE0y) "
+...

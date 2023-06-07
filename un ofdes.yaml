@@ -1,0 +1,52 @@
+---
+term: un ofdes
+slug: un ofdes
+ipa: "\u02C8un of\u02C8des"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8un of\u02C8des&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - one tenth
+    - a tenth
+  epo:
+  - - dekono
+  spa:
+  - - "un d\xE9cimo"
+    - "una d\xE9cima parte"
+search terms:
+  glb:
+  - un ofdes
+  - un
+  - ofdes
+  eng:
+  - one tenth
+  - a tenth
+  epo:
+  - dekono
+  spa:
+  - "un d\xE9cimo"
+  - "una d\xE9cima parte"
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a>, <a href="../lexi/of-">of-</a> + <a href="../lexi/des">des</a>
+raw data:
+  term: un ofdes
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: one tenth, a tenth
+    epo: dekono
+    spa: "un d\xE9cimo, una d\xE9cima parte"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un, of- + des
+...

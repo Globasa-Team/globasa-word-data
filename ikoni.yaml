@@ -1,0 +1,58 @@
+---
+term: ikoni
+slug: ikoni
+ipa: "i\u02C8koni"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8koni&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (computer) icon
+  epo:
+  - - bildsimbolo
+    - piktogramo
+    - bildeto
+  spa:
+  - - icono
+    - "\xEDcono (_inform\xE1tica_)"
+search terms:
+  glb:
+  - ikoni
+  eng:
+  - computer icon
+  - icon
+  epo:
+  - bildsimbolo
+  - piktogramo
+  - bildeto
+  spa:
+  - icono
+  - "\xEDcono"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: ikoni
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (computer) icon
+    epo: bildsimbolo, piktogramo, bildeto
+    spa: "icono, \xEDcono (_inform\xE1tica_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Swahilisa (ikoni), Englisa (icon), Espanisa (icono), Fransesa (ic\xF4ne),
+    Rusisa (\u0438\u043A\u043E\u043D\u0430 \"ikona\"), Doycisa (Icon), Indonesisa
+    (ikon), Pilipinasa (icon), Hindisa (\u0906\u0907\u0915\u0928 \"aykan\"), Arabisa
+    (\u0623\u064E\u064A\u0652\u0642\u064F\u0648\u0646\u064E\u0629 \"ayquna\"), Niponsa
+    (\u30A2\u30A4\u30B3\u30F3 \"aykon\"), Turkisa (ikon), Hangusa (\uC544\uC774\uCF58
+    \"aikon\"), Parsisa (\u0622\u06CC\u06A9\u0646 \"aykon\")"
+...

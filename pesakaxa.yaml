@@ -1,0 +1,48 @@
+---
+term: pesakaxa
+slug: pesakaxa
+ipa: "pesa\u02C8ka\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=pesa\u02C8ka\u0283a&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - purse
+  epo:
+  - - monujo
+  spa:
+  - - bolso
+    - cartera
+search terms:
+  glb:
+  - pesakaxa
+  eng:
+  - purse
+  epo:
+  - monujo
+  spa:
+  - bolso
+  - cartera
+etymology_type: DERIVD
+etymology: <a href="../lexi/pesa">pesa</a> + <a href="../lexi/-kaxa">-kaxa</a>
+raw data:
+  term: pesakaxa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: purse
+    epo: monujo
+    spa: bolso, cartera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pesa + -kaxa
+...

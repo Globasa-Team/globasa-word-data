@@ -1,0 +1,53 @@
+---
+term: kastani
+slug: kastani
+ipa: "kas\u02C8tani"
+ipa link: "http://ipa-reader.xyz/?text=kas\u02C8tani&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chestnut
+  epo:
+  - - "ka\u015Dtano"
+  spa:
+  - - "casta\xF1a"
+    - _Castanea_
+search terms:
+  glb:
+  - kastani
+  eng:
+  - chestnut
+  epo:
+  - "ka\u015Dtano"
+  spa:
+  - "casta\xF1a"
+  - castanea
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: kastani
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chestnut
+    epo: "ka\u015Dtano"
+    spa: "casta\xF1a, _Castanea_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Doycisa (Kastanie), Espanisa (casta\xF1a), Fransesa (ch\xE2taigne),
+    Rusisa (\u043A\u0430\u0448\u0442\u0430\u043D \u201Ckaxtan\u201D), Indonesisa (kastanye),
+    Pilipinasa (kastanyas), Arabisa (\u0643\u064E\u0633\u0652\u062A\u064E\u0646\u064E\u0627\u0621
+    \u201Ckastana\u201D), Turkisa (kestane)"
+...

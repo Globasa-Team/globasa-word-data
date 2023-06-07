@@ -1,0 +1,48 @@
+---
+term: semikijawi
+slug: semikijawi
+ipa: "semiki\u02C8d\u0361\u0292awi"
+ipa link: "http://ipa-reader.xyz/?text=semiki\u02C8d\u0361\u0292awi&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - greenish
+  epo:
+  - - verdeca
+  - - verdece
+  spa:
+  - - verdoso
+search terms:
+  glb:
+  - semikijawi
+  eng:
+  - greenish
+  epo:
+  - verdeca
+  - verdece
+  spa:
+  - verdoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/semi">semi</a> + <a href="../lexi/kijawi">kijawi</a>
+raw data:
+  term: semikijawi
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: greenish
+    epo: verdeca; verdece
+    spa: verdoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: semi + kijawi
+...

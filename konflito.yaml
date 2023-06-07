@@ -1,0 +1,58 @@
+---
+term: konflito
+slug: konflito
+ipa: "kon\u02C8flito"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8flito&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - conflict (with)
+    - clash (with)
+  epo:
+  - - konflikto
+  - - konflikti
+  spa:
+  - - conflicto
+  - - discrepar
+    - estar en conflicto
+search terms:
+  glb:
+  - konflito
+  eng:
+  - conflict with
+  - conflict
+  - clash with
+  - clash
+  epo:
+  - konflikto
+  - konflikti
+  spa:
+  - conflicto
+  - discrepar
+  - estar en conflicto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: konflito
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: conflict (with), clash (with)
+    epo: konflikto; konflikti
+    spa: conflicto; discrepar, estar en conflicto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Konflikt), Englisa (conflict), Espanisa (conflicto), Fransesa
+    (conflit), Rusisa (\u043A\u043E\u043D\u0444\u043B\u0438\u043A\u0442 \u201Ckonflikt\u201D),
+    Indonesisa (conflik), Niponsa (\u30B3\u30F3\u30D5\u30EA\u30AF\u30C8 \u201Ckonfurikuto\u201D)"
+...

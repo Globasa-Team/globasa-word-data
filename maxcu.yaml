@@ -1,0 +1,52 @@
+---
+term: maxcu
+slug: maxcu
+ipa: "\u02C8ma\u0283t\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u0283t\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - increase
+    - rise
+  epo:
+  - - "plii\u011Do"
+  - - "plii\u011Di"
+  spa:
+  - - incrementarse
+    - elevarse
+search terms:
+  glb:
+  - maxcu
+  eng:
+  - increase
+  - rise
+  epo:
+  - "plii\u011Do"
+  - "plii\u011Di"
+  spa:
+  - incrementarse
+  - elevarse
+etymology_type: DERIVD
+etymology: <a href="../lexi/max">max</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: maxcu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: increase, rise
+    epo: "plii\u011Do; plii\u011Di"
+    spa: incrementarse, elevarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: max + -cu
+...

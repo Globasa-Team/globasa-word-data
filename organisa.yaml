@@ -1,0 +1,71 @@
+---
+term: organisa
+slug: organisa
+ipa: "o\u027Ega\u02C8nisa"
+ipa link: "http://ipa-reader.xyz/?text=o\u027Ega\u02C8nisa&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - organize
+  epo:
+  - - organizo
+  - - organizi
+  spa:
+  - - "organizaci\xF3n"
+  - - organizar
+search terms:
+  glb:
+  - organisa
+  eng:
+  - organize
+  epo:
+  - organizo
+  - organizi
+  spa:
+  - "organizaci\xF3n"
+  - organizar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - organization
+    - organisation
+  Doycisa:
+  - - Organisation
+  Fransesa:
+  - - organisation
+  Espanisa:
+  - - "organizaci\xF3n"
+    - organizar
+  Rusisa:
+  - - "\u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F \u201Corganizatsiya\u201D"
+  Indonesisa:
+  - - organisasi
+  Turkisa:
+  - - organizasyon
+  Pilipinasa:
+  - - organisasyon
+raw data:
+  term: organisa
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: organize
+    epo: organizo; organizi
+    spa: "organizaci\xF3n; organizar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (organization, organisation), Doycisa (Organisation), Fransesa
+    (organisation), Espanisa (organizaci\xF3n, organizar), Rusisa (\u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F
+    \u201Corganizatsiya\u201D), Indonesisa (organisasi), Turkisa (organizasyon), Pilipinasa
+    (organisasyon)"
+...

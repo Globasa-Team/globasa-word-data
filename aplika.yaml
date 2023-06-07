@@ -1,0 +1,65 @@
+---
+term: aplika
+slug: aplika
+ipa: aˈplika
+ipa link: http://ipa-reader.xyz/?text=aˈplika&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - application
+  - - apply (_bring or put into operation or practical use_)
+    - be applicable (to)
+  epo:
+  - - apliko
+  - - apliki
+  spa:
+  - - aplicación
+  - - aplicar (_poner en operación o uso práctico_)
+    - aplicarse
+search terms:
+  glb:
+  - aplika
+  eng:
+  - application
+  - apply
+  - be applicable to
+  - be applicable
+  epo:
+  - apliko
+  - apliki
+  spa:
+  - aplicación
+  - aplicar
+  - aplicarse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - apply
+    - application
+  Fransesa:
+  - - appliquer
+  Espanisa:
+  - - aplicar
+raw data:
+  term: aplika
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: application; apply (_bring or put into operation or practical use_), be applicable
+      (to)
+    epo: apliko; apliki
+    spa: aplicación; aplicar (_poner en operación o uso práctico_), aplicarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (apply, application), Fransesa (appliquer), Espanisa (aplicar)
+...

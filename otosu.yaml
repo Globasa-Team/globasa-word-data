@@ -1,0 +1,46 @@
+---
+term: otosu
+slug: otosu
+ipa: "o\u02C8tosu"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8tosu&voice=Ewa"
+status: false
+category: derived
+word class: su s
+trans:
+  eng:
+  - - their
+  epo:
+  - - ilia (_neviva_)
+  spa:
+  - - su (_de cosas_)
+search terms:
+  glb:
+  - otosu
+  eng:
+  - their
+  epo:
+  - ilia
+  spa:
+  - su
+etymology_type: DERIVD
+etymology: <a href="../lexi/oto">oto</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: otosu
+  category: derived
+  word class: su s
+  status: false
+  trans:
+    eng: 'their '
+    epo: ilia (_neviva_)
+    spa: su (_de cosas_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: oto + -su
+...

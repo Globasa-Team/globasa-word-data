@@ -1,0 +1,49 @@
+---
+term: literatur
+slug: literatur
+ipa: "lite\u027Ea\u02C8tu\u027E"
+ipa link: "http://ipa-reader.xyz/?text=lite\u027Ea\u02C8tu\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - literature
+  epo:
+  - - literaturo
+  spa:
+  - - literatura
+search terms:
+  glb:
+  - literatur
+  eng:
+  - literature
+  epo:
+  - literaturo
+  spa:
+  - literatura
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: literatur
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: literature
+    epo: literaturo
+    spa: literatura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (literature), Fransesa (litt\xE9rature), Doycisa (Literatur),
+    Rusisa (\u043B\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430 \u201Cliteratura\u201D),
+    Espanisa (literatura), Turkisa (literat\xFCr), Indonesisa (literatur), Pilipinasa
+    (literatura)"
+...

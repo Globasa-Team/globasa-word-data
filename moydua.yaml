@@ -1,0 +1,46 @@
+---
+term: moydua
+slug: moydua
+ipa: "moj\u02C8dua"
+ipa link: "http://ipa-reader.xyz/?text=moj\u02C8dua&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - both
+  epo:
+  - - "amba\u016D"
+  spa:
+  - - ambos
+search terms:
+  glb:
+  - moydua
+  eng:
+  - both
+  epo:
+  - "amba\u016D"
+  spa:
+  - ambos
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/dua">dua</a>
+raw data:
+  term: moydua
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: both
+    epo: "amba\u016D"
+    spa: ambos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + dua
+...

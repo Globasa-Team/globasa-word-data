@@ -1,0 +1,59 @@
+---
+term: -do
+slug: -do
+ipa: "\u02C8-do"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-do&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - _in an inactive state of_
+  epo:
+  - - _in neaktiva stato de_
+    - -ita
+    - -ite
+  spa:
+  - - _en estado inactivo de_
+  deu:
+  - - _in einem inaktiven Zustand befindend_
+search terms:
+  glb:
+  - -do
+  eng:
+  - in an inactive state of
+  epo:
+  - in neaktiva stato de
+  - -ita
+  - -ite
+  spa:
+  - en estado inactivo de
+  deu:
+  - in einem inaktiven zustand befindend
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - -ed
+  Espanisa:
+  - - -ado
+    - -ido
+raw data:
+  term: -do
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: _in an inactive state of_
+    epo: _in neaktiva stato de_, -ita, -ite
+    spa: _en estado inactivo de_
+    deu: _in einem inaktiven Zustand befindend_
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (-ed), Espanisa (-ado, -ido)
+...

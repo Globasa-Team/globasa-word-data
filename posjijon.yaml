@@ -1,0 +1,51 @@
+---
+term: posjijon
+slug: posjijon
+ipa: "posd\u0361\u0292i\u02C8d\u0361\u0292on"
+ipa link: "http://ipa-reader.xyz/?text=posd\u0361\u0292i\u02C8d\u0361\u0292on&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - miss (_target
+    - etc._)
+  epo:
+  - - maltrafo
+  - - maltrafi
+  spa:
+  - - fallar
+search terms:
+  glb:
+  - posjijon
+  eng:
+  - miss target
+  - miss (_target
+  - etc.
+  epo:
+  - maltrafo
+  - maltrafi
+  spa:
+  - fallar
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/jijon">jijon</a>
+raw data:
+  term: posjijon
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: miss (_target, etc._)
+    epo: maltrafo; maltrafi
+    spa: fallar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + jijon
+...

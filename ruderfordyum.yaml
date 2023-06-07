@@ -1,0 +1,94 @@
+---
+term: ruderfordyum
+slug: ruderfordyum
+ipa: "\u027Eude\u027Efo\u027E\u02C8djum"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eude\u027Efo\u027E\u02C8djum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rutherfordium
+  epo:
+  - - ruterfordio
+  spa:
+  - - rutherfordio
+    - Rf
+search terms:
+  glb:
+  - ruderfordyum
+  eng:
+  - rutherfordium
+  epo:
+  - ruterfordio
+  spa:
+  - rutherfordio
+  - rf
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rutherfordium
+  Putunhwa:
+  - - "\u946A \u201Clu\u201D"
+  Hindisa:
+  - - "\u0930\u0926\u0930\u092B\u094B\u0930\u094D\u0921\u093F\u092F\u092E \u201Cradarfordiyam\u201D"
+  Espanisa:
+  - - rutherfordio
+  Arabisa:
+  - - "\u0631\u064F\u0648\u0630\u064E\u0631\u0652\u0641\u064F\u0648\u0631\u0652\u062F\u0650\u064A\u064F\u0648\u0645
+      \u201Crodarfordiyum\u201D"
+  Fransesa:
+  - - rutherfordium
+  Rusisa:
+  - - "\u0440\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434\u0438\u0439 \u201Crezerfordiy\u201D"
+  Indonesisa:
+  - - ruterfordium
+  Doycisa:
+  - - Rutherfordium
+  Niponsa:
+  - - "\u30E9\u30B6\u30DB\u30FC\u30B8\u30A6\u30E0 \u201Crazahojiumu\u201D"
+  Telugusa:
+  - - "\u0C30\u0C42\u0C26\u0C30\u0C4D\u200C\u0C2B\u0C4B\u0C30\u0C4D\u0C21\u0C3F\u0C2F\u0C02
+      \u201Crudarfordiyam\u201D"
+  Turkisa:
+  - - rutherfordiyum
+  Hangusa:
+  - - "\uB7EC\uB354\uD3EC\uB4D0 \u201Cradapodyum\u201D"
+  Vyetnamsa:
+  - - rutherfordi
+  Parsisa:
+  - - "\u0631\u0627\u062F\u0631\u0641\u0648\u0631\u062F\u06CC\u0645 \u201Craderfordiyom\u201D"
+  Swahilisa:
+  - - rutherfordi
+  Pilipinasa:
+  - - ruterpordyo
+tags:
+- kimikali monlari
+raw data:
+  term: ruderfordyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rutherfordium
+    epo: ruterfordio
+    spa: rutherfordio, Rf
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (rutherfordium), Putunhwa (\u946A \u201Clu\u201D), Hindisa (\u0930\u0926\u0930\u092B\u094B\u0930\u094D\u0921\u093F\u092F\u092E
+    \u201Cradarfordiyam\u201D), Espanisa (rutherfordio), Arabisa (\u0631\u064F\u0648\u0630\u064E\u0631\u0652\u0641\u064F\u0648\u0631\u0652\u062F\u0650\u064A\u064F\u0648\u0645
+    \u201Crodarfordiyum\u201D), Fransesa (rutherfordium), Rusisa (\u0440\u0435\u0437\u0435\u0440\u0444\u043E\u0440\u0434\u0438\u0439
+    \u201Crezerfordiy\u201D), Indonesisa (ruterfordium), Doycisa (Rutherfordium),
+    Niponsa (\u30E9\u30B6\u30DB\u30FC\u30B8\u30A6\u30E0 \u201Crazahojiumu\u201D),
+    Telugusa (\u0C30\u0C42\u0C26\u0C30\u0C4D\u200C\u0C2B\u0C4B\u0C30\u0C4D\u0C21\u0C3F\u0C2F\u0C02
+    \u201Crudarfordiyam\u201D), Turkisa (rutherfordiyum), Hangusa (\uB7EC\uB354\uD3EC\uB4D0
+    \u201Cradapodyum\u201D), Vyetnamsa (rutherfordi), Parsisa (\u0631\u0627\u062F\u0631\u0641\u0648\u0631\u062F\u06CC\u0645
+    \u201Craderfordiyom\u201D), Swahilisa (rutherfordi), Pilipinasa (ruterpordyo)"
+...

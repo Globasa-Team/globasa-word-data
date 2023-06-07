@@ -1,0 +1,51 @@
+---
+term: awstrali
+slug: awstrali
+ipa: "aws\u02C8t\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=aws\u02C8t\u027Eali&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Australia
+  epo:
+  - - "A\u016Dstralio"
+  spa:
+  - - "Australia (naci\xF3n)"
+search terms:
+  glb:
+  - awstrali
+  eng:
+  - australia
+  epo:
+  - "a\u016Dstralio"
+  spa:
+  - "australia naci\xF3n"
+  - australia
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Australia
+tags:
+- dexa
+raw data:
+  term: Awstrali
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Australia
+    epo: "A\u016Dstralio"
+    spa: "Australia (naci\xF3n)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Australia)
+...

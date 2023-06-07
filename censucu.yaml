@@ -1,0 +1,49 @@
+---
+term: censucu
+slug: censucu
+ipa: "t\u0361\u0283en\u02C8sut\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283en\u02C8sut\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - (become) mature
+  epo:
+  - - "maturi\u011Do"
+  - - "maturi\u011Di"
+  spa:
+  - - madurar
+search terms:
+  glb:
+  - censucu
+  eng:
+  - become mature
+  - mature
+  epo:
+  - "maturi\u011Do"
+  - "maturi\u011Di"
+  spa:
+  - madurar
+etymology_type: DERIVD
+etymology: <a href="../lexi/censu">censu</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: censucu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: (become) mature
+    epo: "maturi\u011Do; maturi\u011Di"
+    spa: madurar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: censu + -cu
+...

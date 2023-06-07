@@ -1,0 +1,55 @@
+---
+term: koko
+slug: koko
+ipa: "\u02C8koko"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8koko&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - coconut
+    - _Cocos_
+  epo:
+  - - kokoso
+  spa:
+  - - coco
+    - _Cocos_
+search terms:
+  glb:
+  - koko
+  eng:
+  - coconut
+  - cocos
+  epo:
+  - kokoso
+  spa:
+  - coco
+  - cocos
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: koko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: coconut, _Cocos_
+    epo: kokoso
+    spa: coco, _Cocos_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (coconut), Fransesa (noix de coco), Doycisa (Kokosnuss), Rusisa
+    (\u043A\u043E\u043A\u043E\u0441\u043E\u0432\u044B\u0439 \u043E\u0440\u0435\u0445
+    \u201Ckokosovyj orex\u201D), Espanisa (coco), Niponsa (\u30B3\u30B3\u30CA\u30C4
+    \u201Ckokonatsu\u201D), Hangusa (\uCF54\uCF54\uB11B \u201Ckokoneot\u201D)"
+...

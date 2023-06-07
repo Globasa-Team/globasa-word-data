@@ -1,0 +1,63 @@
+---
+term: disordenu
+slug: disordenu
+ipa: "diso\u027E\u02C8denu"
+ipa link: "http://ipa-reader.xyz/?text=diso\u027E\u02C8denu&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - confusion
+    - disorder
+  - - confuse
+    - disorder
+    - disarrange
+  epo:
+  - - malordo
+    - konfuzo
+  - - konfuzi
+    - malordigi
+    - "malaran\u011Di"
+  spa:
+  - - desorden
+  - - desordenar
+search terms:
+  glb:
+  - disordenu
+  eng:
+    0: confusion
+    1: disorder
+    2: confuse
+    4: disarrange
+  epo:
+  - malordo
+  - konfuzo
+  - konfuzi
+  - malordigi
+  - "malaran\u011Di"
+  spa:
+  - desorden
+  - desordenar
+etymology_type: DERIVD
+etymology: <a href="../lexi/dis-">dis-</a> + <a href="../lexi/ordenu">ordenu</a>
+raw data:
+  term: disordenu
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: confusion, disorder; confuse, disorder, disarrange
+    epo: "malordo, konfuzo; konfuzi, malordigi, malaran\u011Di"
+    spa: desorden; desordenar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dis- + ordenu
+...

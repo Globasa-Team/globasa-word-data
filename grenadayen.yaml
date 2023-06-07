@@ -1,0 +1,48 @@
+---
+term: grenadayen
+slug: grenadayen
+ipa: "g\u027Eenada\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=g\u027Eenada\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Grenadian
+  epo:
+  - - grenadano
+  spa:
+  - - granadino
+    - (_persona_) granadina
+search terms:
+  glb:
+  - grenadayen
+  eng:
+  - grenadian
+  epo:
+  - grenadano
+  spa:
+  - granadino
+  - granadina
+etymology_type: DERIVD
+etymology: <a href="../lexi/Grenada">Grenada</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Grenadayen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Grenadian
+    epo: grenadano
+    spa: granadino, (_persona_) granadina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Grenada + -yen
+...

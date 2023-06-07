@@ -1,0 +1,52 @@
+---
+term: kaburi
+slug: kaburi
+ipa: "ka\u02C8bu\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8bu\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - grave
+    - tomb
+  epo:
+  - - tombo
+  spa:
+  - - tumba
+    - sepultura
+search terms:
+  glb:
+  - kaburi
+  eng:
+  - grave
+  - tomb
+  epo:
+  - tombo
+  spa:
+  - tumba
+  - sepultura
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kaburi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: grave, tomb
+    epo: tombo
+    spa: tumba, sepultura
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0915\u093C\u092C\u094D\u0930 \u201Ckabra\u201D), Arabisa
+    (\u0642\u064E\u0628\u0652\u0631 \u201Ckabr\u201D), Indonesisa (kubur), Turkisa
+    (kabir), Parsisa (\u0642\u0628\u0631 \u201Ckabr\u201D), Swahilisa (kaburi)"
+...

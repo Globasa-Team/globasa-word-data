@@ -1,0 +1,56 @@
+---
+term: gadibu
+slug: gadibu
+ipa: gaˈdibu
+ipa link: http://ipa-reader.xyz/?text=gaˈdibu&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - angry
+    - angrily
+  epo:
+  - - kolera
+  - - kolere
+  spa:
+  - - enojado
+  - - enojadamente
+search terms:
+  glb:
+  - gadibu
+  eng:
+  - angry
+  - angrily
+  epo:
+  - kolera
+  - kolere
+  spa:
+  - enojado
+  - enojadamente
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - غاضب “ghadib”
+  Swahilisa:
+  - - ghadhabu
+raw data:
+  term: gadibu
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: angry, angrily
+    epo: kolera; kolere
+    spa: enojado; enojadamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (غاضب “ghadib”), Swahilisa (ghadhabu)
+...

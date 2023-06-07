@@ -1,0 +1,54 @@
+---
+term: desnuegon
+slug: desnuegon
+ipa: "desnue\u02C8gon"
+ipa link: "http://ipa-reader.xyz/?text=desnue\u02C8gon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - enneadecagon
+    - enneakaidecagon
+    - nonadecagon
+    - 19-gon
+  epo:
+  - - "dekna\u016Dangulo"
+    - "dekna\u016Dlatero"
+  spa:
+  - - "eneadec\xE1gono"
+search terms:
+  glb:
+  - desnuegon
+  eng:
+  - enneadecagon
+  - enneakaidecagon
+  - nonadecagon
+  - 19-gon
+  epo:
+  - "dekna\u016Dangulo"
+  - "dekna\u016Dlatero"
+  spa:
+  - "eneadec\xE1gono"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/nue">nue</a> + <a href="../lexi/gon">gon</a>
+raw data:
+  term: desnuegon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: enneadecagon, enneakaidecagon, nonadecagon, 19-gon
+    epo: "dekna\u016Dangulo, dekna\u016Dlatero"
+    spa: "eneadec\xE1gono"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + nue + gon
+...

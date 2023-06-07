@@ -1,0 +1,52 @@
+---
+term: yuxifil
+slug: yuxifil
+ipa: "ju\u0283i\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=ju\u0283i\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - playful
+    - playfully
+  epo:
+  - - ludema
+  - - ludeme
+  spa:
+  - - "juguet\xF3n"
+  - - juguetonamente
+search terms:
+  glb:
+  - yuxifil
+  eng:
+  - playful
+  - playfully
+  epo:
+  - ludema
+  - ludeme
+  spa:
+  - "juguet\xF3n"
+  - juguetonamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/yuxi">yuxi</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: yuxifil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: playful, playfully
+    epo: ludema; ludeme
+    spa: "juguet\xF3n; juguetonamente"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yuxi + -fil
+...

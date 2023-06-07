@@ -1,0 +1,57 @@
+---
+term: hey
+slug: hey
+ipa: "\u02C8xej"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xej&voice=Ewa"
+status: true
+category: root
+word class: il
+trans:
+  eng:
+  - - hey
+  epo:
+  - - he
+    - hej
+  spa:
+  - - oye
+    - eh
+    - hey
+search terms:
+  glb:
+  - hey
+  eng:
+  - hey
+  epo:
+  - he
+  - hej
+  spa:
+  - oye
+  - eh
+  - hey
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- intrelogalexi
+raw data:
+  term: hey
+  category: root
+  word class: il
+  status: true
+  trans:
+    eng: hey
+    epo: he, hej
+    spa: oye, eh, hey
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: "Englisa (hey), Fransesa (h\xE9), Rusisa (\u044D\u0439 \u201Cey\u201D),
+    Espanisa (hey, ey), Hindisa (\u0939\u0947 \u201Che\u201D), Indonesisa (hei), Parsisa
+    (\u0647\u06CC \u201Chey\u201D), Turkisa (hey), Pilipinasa (hoy), Putunhwa (\u563F
+    \u201Chey\u201D), Vyetnamsa (\xEA), Magyarsa (hej), Swerisa (hej)"
+...

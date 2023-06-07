@@ -1,0 +1,53 @@
+---
+term: xigo
+slug: xigo
+ipa: "\u02C8\u0283igo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283igo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - accident
+  epo:
+  - - akcidento
+  spa:
+  - - accidente
+search terms:
+  glb:
+  - xigo
+  eng:
+  - accident
+  epo:
+  - akcidento
+  spa:
+  - accidente
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u4E8B\u6545 \u201Csh\xECg\xF9\u201D"
+  Niponsa:
+  - - "\u4E8B\u6545 \u201Cjiko\u201D"
+  Hangusa:
+  - - "\uC0AC\uACE0 \u201Csago\u201D"
+raw data:
+  term: xigo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: accident
+    epo: akcidento
+    spa: accidente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u4E8B\u6545 \u201Csh\xECg\xF9\u201D), Niponsa (\u4E8B\u6545
+    \u201Cjiko\u201D), Hangusa (\uC0AC\uACE0 \u201Csago\u201D)"
+...

@@ -1,0 +1,52 @@
+---
+term: benji
+slug: benji
+ipa: ˈbend͡ʒi
+ipa link: http://ipa-reader.xyz/?text=ˈbend͡ʒi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - essence (_intrinsic quality_)
+  epo:
+  - - esenco (_apriora/imanenta eco/kvalito_)
+  spa:
+  - - esencia (_cualidad intrínseca_)
+search terms:
+  glb:
+  - benji
+  eng:
+  - essence
+  epo:
+  - esenco
+  spa:
+  - esencia
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 本质 “běnzhí”
+  Hangusa:
+  - - 본질 “bonjil”
+  Vyetnamsa:
+  - - bản chất
+raw data:
+  term: benji
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: essence (_intrinsic quality_)
+    epo: esenco (_apriora/imanenta eco/kvalito_)
+    spa: esencia (_cualidad intrínseca_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (本质 “běnzhí”), Hangusa (본질 “bonjil”), Vyetnamsa (bản chất)
+...

@@ -1,0 +1,68 @@
+---
+term: gaga
+slug: gaga
+ipa: ˈgaga
+ipa link: http://ipa-reader.xyz/?text=ˈgaga&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - stutter
+    - stammer
+  epo:
+  - - balbuto
+  - - balbuti
+  spa:
+  - - tartamudeo
+  - - tartamudear
+search terms:
+  glb:
+  - gaga
+  eng:
+  - stutter
+  - stammer
+  epo:
+  - balbuto
+  - balbuti
+  spa:
+  - tartamudeo
+  - tartamudear
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - gagear
+  Fransesa:
+  - - bégayer
+  Indonesisa:
+  - - gagap
+  Pilipinasa:
+  - - magago
+  Turkisa:
+  - - kekemelik
+    - kekeleme
+    - kekelemek
+  Swahilisa:
+  - - kigugumizi
+    - kugugumia
+raw data:
+  term: gaga
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: stutter, stammer
+    epo: balbuto; balbuti
+    spa: tartamudeo; tartamudear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (gagear), Fransesa (bégayer), Indonesisa (gagap), Pilipinasa
+    (magago), Turkisa (kekemelik, kekeleme, kekelemek), Swahilisa (kigugumizi, kugugumia)
+...

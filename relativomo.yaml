@@ -1,0 +1,56 @@
+---
+term: relativomo
+slug: relativomo
+ipa: "\u027Eelati\u02C8vomo"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eelati\u02C8vomo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - relatively
+    - quite
+    - rather
+    - fairly
+    - pretty
+  epo:
+  - - relative
+  spa:
+  - - relativamente
+    - bastante
+search terms:
+  glb:
+  - relativomo
+  eng:
+  - relatively
+  - quite
+  - rather
+  - fairly
+  - pretty
+  epo:
+  - relative
+  spa:
+  - relativamente
+  - bastante
+etymology_type: DERIVD
+etymology: <a href="../lexi/relativo">relativo</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: relativomo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: relatively, quite, rather, fairly, pretty
+    epo: relative
+    spa: relativamente, bastante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: relativo + -mo
+...

@@ -1,0 +1,57 @@
+---
+term: ganzo
+slug: ganzo
+ipa: ˈganzo
+ipa link: http://ipa-reader.xyz/?text=ˈganzo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - liver
+  epo:
+  - - hepato
+  spa:
+  - - hígado
+search terms:
+  glb:
+  - ganzo
+  eng:
+  - liver
+  epo:
+  - hepato
+  spa:
+  - hígado
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 肝脏 “gānzàng”
+  Niponsa:
+  - - 肝臓 “kanzō”
+  Hangusa:
+  - - 간장 “ganjang”
+  Vyetnamsa:
+  - - gan
+tags:
+- jismulogi
+raw data:
+  term: ganzo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: liver
+    epo: hepato
+    spa: hígado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Putunhwa (肝脏 “gānzàng”), Niponsa (肝臓 “kanzō”), Hangusa (간장 “ganjang”),
+    Vyetnamsa (gan)
+...

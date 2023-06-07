@@ -1,0 +1,50 @@
+---
+term: fabrikadom
+slug: fabrikadom
+ipa: "fab\u027Eika\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=fab\u027Eika\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - factory
+    - plant
+  epo:
+  - - fabriko
+  spa:
+  - - "f\xE1brica"
+    - planta
+search terms:
+  glb:
+  - fabrikadom
+  eng:
+  - factory
+  - plant
+  epo:
+  - fabriko
+  spa:
+  - "f\xE1brica"
+  - planta
+etymology_type: DERIVD
+etymology: <a href="../lexi/fabrika">fabrika</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: fabrikadom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: factory, plant
+    epo: fabriko
+    spa: "f\xE1brica, planta"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fabrika + -dom
+...

@@ -1,0 +1,48 @@
+---
+term: misal
+slug: misal
+ipa: "mi\u02C8sal"
+ipa link: "http://ipa-reader.xyz/?text=mi\u02C8sal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - example
+  epo:
+  - - ekzemplo
+  spa:
+  - - ejemplo
+search terms:
+  glb:
+  - misal
+  eng:
+  - example
+  epo:
+  - ekzemplo
+  spa:
+  - ejemplo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: misal
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: example
+    epo: ekzemplo
+    spa: ejemplo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u062B\u0627\u0644 \u201Cmithal\u201D), Parsisa (\u0645\u062B\u0627\u0644
+    \u201Cmesal\u201D), Turkisa (missal), Hindisa (\u092E\u093F\u0938\u093E\u0932
+    \u201Cmisal\u201D), Indonesisa (misalnya), Swahilisa (mithalani)"
+...

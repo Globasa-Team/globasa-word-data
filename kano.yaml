@@ -1,0 +1,54 @@
+---
+term: kano
+slug: kano
+ipa: "\u02C8kano"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kano&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - stem
+    - stalk
+    - trunk (_tree_)
+  epo:
+  - - tigo
+    - trunko
+  spa:
+  - - tallo
+    - tronco
+search terms:
+  glb:
+  - kano
+  eng:
+  - stem
+  - stalk
+  - trunk
+  epo:
+  - tigo
+  - trunko
+  spa:
+  - tallo
+  - tronco
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kano
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: stem, stalk, trunk (_tree_)
+    epo: tigo, trunko
+    spa: tallo, tronco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5E72 \u201Cg\xE0n\u201D) Niponsa (\u5E79 \u201Ckan\u201D)"
+...

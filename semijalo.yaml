@@ -1,0 +1,48 @@
+---
+term: semijalo
+slug: semijalo
+ipa: "semi\u02C8d\u0361\u0292alo"
+ipa link: "http://ipa-reader.xyz/?text=semi\u02C8d\u0361\u0292alo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - yellowish
+  epo:
+  - - flaveca
+  - - flavece
+  spa:
+  - - amarillento
+search terms:
+  glb:
+  - semijalo
+  eng:
+  - yellowish
+  epo:
+  - flaveca
+  - flavece
+  spa:
+  - amarillento
+etymology_type: DERIVD
+etymology: <a href="../lexi/semi">semi</a> + <a href="../lexi/yalo">yalo</a>
+raw data:
+  term: semijalo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: yellowish
+    epo: flaveca; flavece
+    spa: amarillento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: semi + yalo
+...

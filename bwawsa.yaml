@@ -1,0 +1,54 @@
+---
+term: bwawsa
+slug: bwawsa
+ipa: "\u02C8bwawsa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8bwawsa&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - bark
+  epo:
+  - - bojo
+    - hundbleko
+  - - boji
+    - hundbleki
+  spa:
+  - - ladrido
+  - - ladrar
+search terms:
+  glb:
+  - bwawsa
+  eng:
+  - bark
+  epo:
+  - bojo
+  - hundbleko
+  - boji
+  - hundbleki
+  spa:
+  - ladrido
+  - ladrar
+etymology_type: DERIVD
+etymology: <a href="../lexi/bwaw">bwaw</a> + <a href="../lexi/-sa">-sa</a>
+raw data:
+  term: bwawsa
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: bark
+    epo: bojo, hundbleko; boji, hundbleki
+    spa: ladrido; ladrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bwaw + -sa
+...

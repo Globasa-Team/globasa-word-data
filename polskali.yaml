@@ -1,0 +1,46 @@
+---
+term: polskali
+slug: polskali
+ipa: "pols\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=pols\u02C8kali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Polish
+  epo:
+  - - pola
+  spa:
+  - - polaco
+search terms:
+  glb:
+  - polskali
+  eng:
+  - polish
+  epo:
+  - pola
+  spa:
+  - polaco
+etymology_type: DERIVD
+etymology: <a href="../lexi/Polska">Polska</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Polskali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Polish
+    epo: pola
+    spa: polaco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Polska + -li
+...

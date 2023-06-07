@@ -1,0 +1,46 @@
+---
+term: datasayfa
+slug: datasayfa
+ipa: "data\u02C8sajfa"
+ipa link: "http://ipa-reader.xyz/?text=data\u02C8sajfa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - spreadsheet
+  epo:
+  - - kalkultabelo
+  spa:
+  - - "hoja de c\xE1lculo"
+search terms:
+  glb:
+  - datasayfa
+  eng:
+  - spreadsheet
+  epo:
+  - kalkultabelo
+  spa:
+  - "hoja de c\xE1lculo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/data">data</a> + <a href="../lexi/sayfa">sayfa</a>
+raw data:
+  term: datasayfa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: spreadsheet
+    epo: kalkultabelo
+    spa: "hoja de c\xE1lculo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: data + sayfa
+...

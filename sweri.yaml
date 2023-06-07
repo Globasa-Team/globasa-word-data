@@ -1,0 +1,52 @@
+---
+term: sweri
+slug: sweri
+ipa: "\u02C8swe\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8swe\u027Ei&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Sweden
+  epo:
+  - - Svedio
+    - Svedujo
+  spa:
+  - - Suecia
+search terms:
+  glb:
+  - sweri
+  eng:
+  - sweden
+  epo:
+  - svedio
+  - svedujo
+  spa:
+  - suecia
+etymology_type: NATLNG
+etymology:
+  Swerisa:
+  - - Sverige
+tags:
+- dexa
+raw data:
+  term: Sweri
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Sweden
+    epo: Svedio, Svedujo
+    spa: Suecia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Swerisa (Sverige)
+...

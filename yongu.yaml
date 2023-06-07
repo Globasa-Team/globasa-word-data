@@ -1,0 +1,65 @@
+---
+term: yongu
+slug: yongu
+ipa: "\u02C8jongu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jongu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - use
+    - usage
+  - - use
+  epo:
+  - - uzo
+    - uzado
+  - - uzi
+  spa:
+  - - uso
+  - - usar
+    - utilizar
+search terms:
+  glb:
+  - yongu
+  eng:
+  - use
+  - usage
+  epo:
+  - uzo
+  - uzado
+  - uzi
+  spa:
+  - uso
+  - usar
+  - utilizar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u7528 \u201Cy\xF2ng\u201D"
+  Hangusa:
+  - - "\uC6A9\uB3C4 \u201Cyongdo\u201D"
+    - "\uC0AC\uC6A9 \u201Csayong\u201D"
+  Niponsa:
+  - - "\u7528 \u201Cyo\u201D"
+raw data:
+  term: yongu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: use, usage; use
+    epo: uzo, uzado; uzi
+    spa: uso; usar, utilizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u7528 \u201Cy\xF2ng\u201D), Hangusa (\uC6A9\uB3C4 \u201Cyongdo\u201D,
+    \uC0AC\uC6A9 \u201Csayong\u201D), Niponsa (\u7528 \u201Cyo\u201D)"
+...

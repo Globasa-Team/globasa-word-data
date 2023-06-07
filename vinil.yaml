@@ -1,0 +1,83 @@
+---
+term: vinil
+slug: vinil
+ipa: "vi\u02C8nil"
+ipa link: "http://ipa-reader.xyz/?text=vi\u02C8nil&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vinyl
+  epo:
+  - - vinilo
+  spa:
+  - - vinilo
+search terms:
+  glb:
+  - vinil
+  eng:
+  - vinyl
+  epo:
+  - vinilo
+  spa:
+  - vinilo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - vinyl
+  Espanisa:
+  - - vinilo
+  Fransesa:
+  - - vinyle
+  Rusisa:
+  - - "\u0432\u0438\u043D\u0438\u043B \u201Cvinil\u201D"
+  Doycisa:
+  - - Vinyl
+  Indonesisa:
+  - - vinil
+  Pilipinasa:
+  - - vinyl
+  Hindisa:
+  - - "\u0935\u093F\u0928\u093E\u0907\u0932 \u201Cvinayl\u201D"
+  Arabisa:
+  - - "\u0641\u0627\u064A\u0646\u064A\u0644 \u201Cf\u0101ynel"
+    - "v\u0101ynel\u201D"
+  Niponsa:
+  - - "\u30D3\u30CB\u30EB \u201Cbiniru\u201D"
+  Telugusa:
+  - - "\u0C35\u0C3F\u0C28\u0C48\u0C32\u0C4D \u201Cvinayl\u201D"
+  Turkisa:
+  - - vinil
+  Hangusa:
+  - - "\uBE44\uB2D0 \u201Cbinil\u201D"
+  Vyetnamsa:
+  - - vinyl
+  Parsisa:
+  - - "\u0648\u06CC\u0646\u06CC\u0644 \u201Cvinil\u201D"
+raw data:
+  term: vinil
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vinyl
+    epo: vinilo
+    spa: vinilo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (vinyl), Espanisa (vinilo), Fransesa (vinyle), Rusisa (\u0432\u0438\u043D\u0438\u043B
+    \u201Cvinil\u201D), Doycisa (Vinyl), Indonesisa (vinil), Pilipinasa (vinyl), Hindisa
+    (\u0935\u093F\u0928\u093E\u0907\u0932 \u201Cvinayl\u201D), Arabisa (\u0641\u0627\u064A\u0646\u064A\u0644
+    \u201Cf\u0101ynel, v\u0101ynel\u201D), Niponsa (\u30D3\u30CB\u30EB \u201Cbiniru\u201D),
+    Telugusa (\u0C35\u0C3F\u0C28\u0C48\u0C32\u0C4D \u201Cvinayl\u201D), Turkisa (vinil),
+    Hangusa (\uBE44\uB2D0 \u201Cbinil\u201D), Vyetnamsa (vinyl), Parsisa (\u0648\u06CC\u0646\u06CC\u0644
+    \u201Cvinil\u201D)"
+...

@@ -1,0 +1,52 @@
+---
+term: rupel
+slug: rupel
+ipa: "\u027Eu\u02C8pel"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eu\u02C8pel&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - push back
+  epo:
+  - - repelo
+    - "repu\u015Do"
+  - - repeli
+    - "repu\u015Di"
+  spa:
+  - - hacer retroceder
+search terms:
+  glb:
+  - rupel
+  eng:
+  - push back
+  epo:
+  - repelo
+  - "repu\u015Do"
+  - repeli
+  - "repu\u015Di"
+  spa:
+  - hacer retroceder
+etymology_type: DERIVD
+etymology: <a href="../lexi/ru-">ru-</a> + <a href="../lexi/pel">pel</a>
+raw data:
+  term: rupel
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: push back
+    epo: "repelo, repu\u015Do; repeli, repu\u015Di"
+    spa: hacer retroceder
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ru- + pel
+...

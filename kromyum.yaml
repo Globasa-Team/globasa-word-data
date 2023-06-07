@@ -1,0 +1,59 @@
+---
+term: kromyum
+slug: kromyum
+ipa: "k\u027Eo\u02C8mjum"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Eo\u02C8mjum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chromium
+  epo:
+  - - kromio
+    - "\u0125romo"
+    - kromo
+  spa:
+  - - cromo
+search terms:
+  glb:
+  - kromyum
+  eng:
+  - chromium
+  epo:
+  - kromio
+  - "\u0125romo"
+  - kromo
+  spa:
+  - cromo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: kromyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chromium
+    epo: "kromio, \u0125romo, kromo"
+    spa: cromo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (chromium), Hindisa (\u0915\u094D\u0930\u094B\u092E\u093F\u092F\u092E
+    \u201Ckromiyam\u201D), Espanisa (cromo), Arabisa (\u0643\u0652\u0631\u064F\u0648\u0645
+    \u201Ckrum\u201D), Fransesa (chrome), Rusisa (\u0445\u0440\u043E\u043C \u201Chrom\u201D),
+    Indonesisa (kromium), Doycisa (Chrom), Niponsa (\u30AF\u30ED\u30E0 \u201Ckuromu\u201D),
+    Telugusa (\u0C15\u0C4D\u0C30\u0C4B\u0C2E\u0C3F\u0C2F\u0C02 \u201Ckromiyam\u201D),
+    Turkisa (krom), Hangusa (\uD06C\uB86C \u201Ckurom\u201D, \uD06C\uB85C\uBBB4 \u201Ckuromyum\u201D),
+    Vyetnamsa (cr\xF4m), Parsisa (\u06A9\u0631\u0648\u0645 \u201Ckorom\u201D), Swahilisa
+    (chromi), Pilipinasa (kromyo, kromyum)"
+...

@@ -1,0 +1,57 @@
+---
+term: kraw
+slug: kraw
+ipa: "\u02C8k\u027Eaw"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8k\u027Eaw&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - crow
+  epo:
+  - - korvo
+  spa:
+  - - cuervo
+    - _Corvus_
+search terms:
+  glb:
+  - kraw
+  eng:
+  - crow
+  epo:
+  - korvo
+  spa:
+  - cuervo
+  - corvus
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: kraw
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: crow
+    epo: korvo
+    spa: cuervo, _Corvus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "kwasilexi - Hindisa (\u0915\u094C\u0906 \"kawa\", \u0915\u093E\u0915
+    \"kak\"), Englisa (crow, caw caw), Doycisa (Kr\xE4he, krah krah), Indonesisa (gagak,
+    kaa kaa, kak kak), Vyetnamsa (qu\u1EA1, qu\u1EA1 qu\u1EA1), Telugusa (\u0C15\u0C3E\u0C15\u0C2E\u0C41
+    \"kakamu\"), Rusisa (\u043A\u0430\u0440-\u043A\u0430\u0440 \"kar kar\"), Espanisa
+    (cuaa cuaaa), Fransesa (cr\xF4a cr\xF4a), Parsisa (\u06A9\u0644\u0627\u063A \"kal\xE2\u011F\",
+    \u0642\u0627\u0631\u0642\u0627\u0631 \"q\u0101r-q\u0101r\"), Turkisa (karga),
+    Niponsa (\u30AB\u30A2\u30AB\u30A2 \"kaa kaa\"), Hangusa (\uAE4C\uC545\uAE4C\uC545
+    \"kkaak kkaak\")"
+...

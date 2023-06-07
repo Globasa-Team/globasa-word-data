@@ -1,0 +1,46 @@
+---
+term: pesimaista
+slug: pesimaista
+ipa: "pesima\u02C8ista"
+ipa link: "http://ipa-reader.xyz/?text=pesima\u02C8ista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pessimist
+  epo:
+  - - pesimisto
+  spa:
+  - - pesimista
+search terms:
+  glb:
+  - pesimaista
+  eng:
+  - pessimist
+  epo:
+  - pesimisto
+  spa:
+  - pesimista
+etymology_type: DERIVD
+etymology: <a href="../lexi/pesima">pesima</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: pesimaista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pessimist
+    epo: pesimisto
+    spa: pesimista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pesima + -ista
+...

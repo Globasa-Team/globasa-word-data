@@ -1,0 +1,52 @@
+---
+term: lilloga
+slug: lilloga
+ipa: "lil\u02C8loga"
+ipa link: "http://ipa-reader.xyz/?text=lil\u02C8loga&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - whisper
+  epo:
+  - - flustro
+    - direto
+  - - flustri
+    - direti
+  spa:
+  - - susurrar
+search terms:
+  glb:
+  - lilloga
+  eng:
+  - whisper
+  epo:
+  - flustro
+  - direto
+  - flustri
+  - direti
+  spa:
+  - susurrar
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/loga">loga</a>
+raw data:
+  term: lilloga
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: whisper
+    epo: flustro, direto; flustri, direti
+    spa: susurrar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + loga
+...

@@ -1,0 +1,52 @@
+---
+term: sangucu
+slug: sangucu
+ipa: "san\u02C8gut\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=san\u02C8gut\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - hide
+    - go into hiding
+  epo:
+  - - "ka\u015Di\u011Do"
+  - - "ka\u015Di\u011Di"
+    - "ka\u015Di sin"
+  spa:
+  - - esconderse
+search terms:
+  glb:
+  - sangucu
+  eng:
+  - hide
+  - go into hiding
+  epo:
+  - "ka\u015Di\u011Do"
+  - "ka\u015Di\u011Di"
+  - "ka\u015Di sin"
+  spa:
+  - esconderse
+etymology_type: DERIVD
+etymology: <a href="../lexi/sangu">sangu</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: sangucu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: hide, go into hiding
+    epo: "ka\u015Di\u011Do; ka\u015Di\u011Di, ka\u015Di sin"
+    spa: esconderse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sangu + -cu
+...

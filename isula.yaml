@@ -1,0 +1,51 @@
+---
+term: isula
+slug: isula
+ipa: "i\u02C8sula"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8sula&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - island
+  epo:
+  - - insulo
+  spa:
+  - - isla
+search terms:
+  glb:
+  - isula
+  eng:
+  - island
+  epo:
+  - insulo
+  spa:
+  - isla
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- geografi
+raw data:
+  term: isula
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: island
+    epo: insulo
+    spa: isla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: "Englisa (island, isolate, insulate), Fransesa (insulaire, isolation),
+    Doycisa (Insel, Isolation), Rusisa (\u0438\u0437\u043E\u043B\u044F\u0446\u0438\u044F
+    \u201Cizolyatsiya\u201D), Espanisa (\xEDnsula, \xEDsla), Pilipinasa (\xEDsla),
+    Turkisa (izolasyon)"
+...

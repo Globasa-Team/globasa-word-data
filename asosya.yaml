@@ -1,0 +1,66 @@
+---
+term: asosya
+slug: asosya
+ipa: aˈsosja
+ipa link: http://ipa-reader.xyz/?text=aˈsosja&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - association
+  - - associate
+  epo:
+  - - asocio
+  - - asocii
+  spa:
+  - - asociación
+  - - asociar
+    - asociarse
+search terms:
+  glb:
+  - asosya
+  eng:
+  - association
+  - associate
+  epo:
+  - asocio
+  - asocii
+  spa:
+  - asociación
+  - asociar
+  - asociarse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - association
+  Fransesa: ~
+  Doycisa:
+  - - Assoziation
+  Rusisa:
+  - - ассоциация “asotsiatsiya”
+  Espanisa:
+  - - asociación
+  Indonesisa:
+  - - asosiasi
+raw data:
+  term: asosya
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: association; associate
+    epo: asocio; asocii
+    spa: asociación; asociar, asociarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (association), Fransesa, Doycisa (Assoziation), Rusisa (ассоциация
+    “asotsiatsiya”), Espanisa (asociación), Indonesisa (asosiasi)
+...

@@ -1,0 +1,49 @@
+---
+term: liltermopul
+slug: liltermopul
+ipa: "lilte\u027Emo\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=lilte\u027Emo\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - lukewarm
+  epo:
+  - - varmeta
+  - - varmete
+  spa:
+  - - tibio
+search terms:
+  glb:
+  - liltermopul
+  eng:
+  - lukewarm
+  epo:
+  - varmeta
+  - varmete
+  spa:
+  - tibio
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/termo">termo</a> + <a
+  href="../lexi/-pul">-pul</a>
+raw data:
+  term: liltermopul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: lukewarm
+    epo: varmeta; varmete
+    spa: tibio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + termo + -pul
+...

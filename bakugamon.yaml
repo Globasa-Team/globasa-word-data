@@ -1,0 +1,62 @@
+---
+term: bakugamon
+slug: bakugamon
+ipa: bakugaˈmon
+ipa link: http://ipa-reader.xyz/?text=bakugaˈmon&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - backgammon
+  epo:
+  - - triktrako
+    - bakgamono
+  spa:
+  - - _backgammon_
+search terms:
+  glb:
+  - bakugamon
+  eng:
+  - backgammon
+  epo:
+  - triktrako
+  - bakgamono
+  spa:
+  - backgammon
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - backgammon
+  Espanisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Vyetnamsa: ~
+  Swahilisa: ~
+  Hindisa:
+  - - बैकगैमौन “bekgemon”
+  Niponsa:
+  - - バックギャモン “bakugyamon”
+raw data:
+  term: bakugamon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: backgammon
+    epo: triktrako, bakgamono
+    spa: _backgammon_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (backgammon), Espanisa, Fransesa, Doycisa, Indonesisa, Pilipinasa,
+    Vyetnamsa, Swahilisa, Hindisa (बैकगैमौन “bekgemon”), Niponsa (バックギャモン “bakugyamon”)
+...

@@ -1,0 +1,79 @@
+---
+term: tramway
+slug: tramway
+ipa: "t\u027Ea\u02C8mwaj"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Ea\u02C8mwaj&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tramway
+    - tram
+  epo:
+  - - tramo
+  spa:
+  - - "tranv\xEDa"
+search terms:
+  glb:
+  - tramway
+  eng:
+  - tramway
+  - tram
+  epo:
+  - tramo
+  spa:
+  - "tranv\xEDa"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tramway
+  Espanisa:
+  - - "tranv\xEDa"
+  Fransesa:
+  - - tram
+  Rusisa:
+  - - "\u0442\u0440\u0430\u043C\u0432\u0430\u0439 \u201Ctramvay\u201D"
+  Doycisa:
+  - - Tram
+  Indonesisa:
+  - - trem
+  Pilipinasa:
+  - - trambiya
+  Hindisa:
+  - - "\u091F\u094D\u0930\u093E\u092E \u201Ctram\u201D"
+  Arabisa:
+  - - "\u062A\u0652\u0631\u064E\u0627\u0645\u0652\u0648\u064E\u0627\u064A \u201Ctramway\u201D"
+  Niponsa:
+  - - "\u30C8\u30E9\u30E0 \u201Ctoramu\u201D"
+  Turkisa:
+  - - tramvay
+  Hangusa:
+  - - "\uD2B8\uB7A8 \u201Cturem\u201D"
+  Parsisa:
+  - - "\u062A\u0631\u0627\u0645\u0648\u0627\u06CC \u201Ctramvay\u201D"
+raw data:
+  term: tramway
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tramway, tram
+    epo: tramo
+    spa: "tranv\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tramway), Espanisa (tranv\xEDa), Fransesa (tram), Rusisa (\u0442\u0440\u0430\u043C\u0432\u0430\u0439
+    \u201Ctramvay\u201D), Doycisa (Tram), Indonesisa (trem), Pilipinasa (trambiya),
+    Hindisa (\u091F\u094D\u0930\u093E\u092E \u201Ctram\u201D), Arabisa (\u062A\u0652\u0631\u064E\u0627\u0645\u0652\u0648\u064E\u0627\u064A
+    \u201Ctramway\u201D), Niponsa (\u30C8\u30E9\u30E0 \u201Ctoramu\u201D), Turkisa
+    (tramvay), Hangusa (\uD2B8\uB7A8 \u201Cturem\u201D), Parsisa (\u062A\u0631\u0627\u0645\u0648\u0627\u06CC
+    \u201Ctramvay\u201D)"
+...

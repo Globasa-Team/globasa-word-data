@@ -1,0 +1,50 @@
+---
+term: kirgizisa
+slug: kirgizisa
+ipa: "ki\u027Egi\u02C8zisa"
+ipa link: "http://ipa-reader.xyz/?text=ki\u027Egi\u02C8zisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Kyrgyz (language)
+  epo:
+  - - la kirgiza (lingvo)
+  spa:
+  - - "kirgu\xEDs (_idioma_)"
+search terms:
+  glb:
+  - kirgizisa
+  eng:
+  - kyrgyz language
+  - kyrgyz
+  epo:
+  - la kirgiza lingvo
+  - la kirgiza
+  spa:
+  - "kirgu\xEDs"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kirgizi">Kirgizi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Kirgizisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Kyrgyz (language)
+    epo: la kirgiza (lingvo)
+    spa: "kirgu\xEDs (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Kirgizi + -sa
+...

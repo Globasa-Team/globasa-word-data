@@ -1,0 +1,52 @@
+---
+term: kiraygi
+slug: kiraygi
+ipa: "ki\u02C8\u027Eajgi"
+ipa link: "http://ipa-reader.xyz/?text=ki\u02C8\u027Eajgi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - rent (out)
+  epo:
+  - - luigo
+  - - luigi
+  spa:
+  - - poner en renta
+    - (hacer) alquilar
+search terms:
+  glb:
+  - kiraygi
+  eng:
+  - rent out
+  - rent
+  epo:
+  - luigo
+  - luigi
+  spa:
+  - poner en renta
+  - hacer alquilar
+  - alquilar
+etymology_type: DERIVD
+etymology: <a href="../lexi/kiray">kiray</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: kiraygi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: rent (out)
+    epo: luigo; luigi
+    spa: poner en renta, (hacer) alquilar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kiray + -gi
+...

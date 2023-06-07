@@ -1,0 +1,54 @@
+---
+term: awcu
+slug: awcu
+ipa: "\u02C8awt\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8awt\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - disappearance
+  - - disappear
+  epo:
+  - - malapero
+  - - malaperi
+  spa:
+  - - "desaparici\xF3n"
+  - - desaparecer
+search terms:
+  glb:
+  - awcu
+  eng:
+  - disappearance
+  - disappear
+  epo:
+  - malapero
+  - malaperi
+  spa:
+  - "desaparici\xF3n"
+  - desaparecer
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw">aw</a> + <a href="../lexi/-cu">-cu</a>
+antonyms:
+- precu
+raw data:
+  term: awcu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: disappearance; disappear
+    epo: malapero; malaperi
+    spa: "desaparici\xF3n; desaparecer"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: precu
+  example: ""
+  tags: ""
+  etymology: aw + -cu
+...

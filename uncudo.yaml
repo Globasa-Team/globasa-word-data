@@ -1,0 +1,48 @@
+---
+term: uncudo
+slug: uncudo
+ipa: "un\u02C8t\u0361\u0283udo"
+ipa link: "http://ipa-reader.xyz/?text=un\u02C8t\u0361\u0283udo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - united (_in a state of union_)
+  epo:
+  - - "unui\u011Dinta"
+  - - "uni\u011Dinte"
+  spa:
+  - - "unido (_en un estado de uni\xF3n_)"
+search terms:
+  glb:
+  - uncudo
+  eng:
+  - united
+  epo:
+  - "unui\u011Dinta"
+  - "uni\u011Dinte"
+  spa:
+  - unido
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a> + <a href="../lexi/-cu">-cu</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: uncudo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: united (_in a state of union_)
+    epo: "unui\u011Dinta; uni\u011Dinte"
+    spa: "unido (_en un estado de uni\xF3n_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un + -cu + -do
+...

@@ -1,0 +1,62 @@
+---
+term: hanjer
+slug: hanjer
+ipa: "xan\u02C8d\u0361\u0292e\u027E"
+ipa link: "http://ipa-reader.xyz/?text=xan\u02C8d\u0361\u0292e\u027E&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - dagger
+  - - stab
+  epo:
+  - - ponardo
+  - - ponardi
+    - piki
+  spa:
+  - - "pu\xF1al"
+    - daga
+  - - "apu\xF1alar"
+    - acuchillar
+search terms:
+  glb:
+  - hanjer
+  eng:
+  - dagger
+  - stab
+  epo:
+  - ponardo
+  - ponardi
+  - piki
+  spa:
+  - "pu\xF1al"
+  - daga
+  - "apu\xF1alar"
+  - acuchillar
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- tul
+raw data:
+  term: hanjer
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: dagger; stab
+    epo: ponardo; ponardi, piki
+    spa: "pu\xF1al, daga; apu\xF1alar, acuchillar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: tul
+  etymology: "Arabisa (\u062E\u0646\u062C\u0631 \u201Ckhanjar\u201D), Parsisa (\u062E\u0646\u062C\u0631
+    \u201Ckhanjar\u201D), Hindisa (\u0916\u093C\u0902\u091C\u0930 \u201Ckhanjar\u201D),
+    Turkisa (han\xE7er)"
+...

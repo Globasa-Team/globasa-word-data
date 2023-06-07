@@ -1,0 +1,49 @@
+---
+term: mineral
+slug: mineral
+ipa: "mine\u02C8\u027Eal"
+ipa link: "http://ipa-reader.xyz/?text=mine\u02C8\u027Eal&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mineral
+  epo:
+  - - mineralo
+  spa:
+  - - mineral
+search terms:
+  glb:
+  - mineral
+  eng:
+  - mineral
+  epo:
+  - mineralo
+  spa:
+  - mineral
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mineral
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mineral
+    epo: mineralo
+    spa: mineral
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mineral), Espanisa, Portugalsa, Indonesisa, Turkisa, Pilipinasa,
+    Fransesa (min\xE9ral), Rusisa (\u043C\u0438\u043D\u0435\u0440\u0430\u043B \u201Cmineral\u201D),
+    Doycisa (Mineral), Telugusa (\u0C2E\u0C3F\u0C28\u0C30\u0C32\u0C4D \u201Cminaral\u201D),
+    Italisa (minerale)"
+...

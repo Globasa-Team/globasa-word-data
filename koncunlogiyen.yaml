@@ -1,0 +1,49 @@
+---
+term: koncunlogiyen
+slug: koncunlogiyen
+ipa: "kont\u0361\u0283unlogi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=kont\u0361\u0283unlogi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - entomologist
+  epo:
+  - - entomologo
+    - insektosciencisto
+  spa:
+  - - "entom\xF3logo"
+search terms:
+  glb:
+  - koncunlogiyen
+  eng:
+  - entomologist
+  epo:
+  - entomologo
+  - insektosciencisto
+  spa:
+  - "entom\xF3logo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/koncun">koncun</a> + <a href="../lexi/-logi">-logi</a>
+  + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: koncunlogiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: entomologist
+    epo: entomologo, insektosciencisto
+    spa: "entom\xF3logo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: koncun + -logi + -yen
+...

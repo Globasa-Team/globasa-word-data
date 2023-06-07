@@ -1,0 +1,50 @@
+---
+term: tamilsa
+slug: tamilsa
+ipa: "ta\u02C8milsa"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8milsa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Tamil (language)
+  epo:
+  - - la tamila (lingvo)
+  spa:
+  - - tamil (_idioma_)
+search terms:
+  glb:
+  - tamilsa
+  eng:
+  - tamil language
+  - tamil
+  epo:
+  - la tamila lingvo
+  - la tamila
+  spa:
+  - tamil
+etymology_type: DERIVD
+etymology: <a href="../lexi/Tamil">Tamil</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Tamilsa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Tamil (language)
+    epo: la tamila (lingvo)
+    spa: tamil (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Tamil + -sa
+...

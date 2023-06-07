@@ -1,0 +1,52 @@
+---
+term: rasali
+slug: rasali
+ipa: "\u027Ea\u02C8sali"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8sali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - racial
+  - - racially
+  epo:
+  - - rasa
+  - - rase
+  spa:
+  - - racial
+  - - racialmente
+search terms:
+  glb:
+  - rasali
+  eng:
+  - racial
+  - racially
+  epo:
+  - rasa
+  - rase
+  spa:
+  - racial
+  - racialmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/rasa">rasa</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: 'rasali '
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: racial; racially
+    epo: rasa; rase
+    spa: racial; racialmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: rasa + -li
+...

@@ -1,0 +1,46 @@
+---
+term: makedonili
+slug: makedonili
+ipa: "makedo\u02C8nili"
+ipa link: "http://ipa-reader.xyz/?text=makedo\u02C8nili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Macedonian
+  epo:
+  - - makedona
+  spa:
+  - - macedonio
+search terms:
+  glb:
+  - makedonili
+  eng:
+  - macedonian
+  epo:
+  - makedona
+  spa:
+  - macedonio
+etymology_type: DERIVD
+etymology: <a href="../lexi/Makedoni">Makedoni</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Makedonili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Macedonian
+    epo: makedona
+    spa: macedonio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Makedoni + -li
+...

@@ -1,0 +1,54 @@
+---
+term: perplasi
+slug: perplasi
+ipa: "pe\u027E\u02C8plasi"
+ipa link: "http://ipa-reader.xyz/?text=pe\u027E\u02C8plasi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - put on (_clothes
+    - etc._)
+  epo:
+  - - surmeto
+  - - surmeti
+  spa:
+  - - ponerse (_ropa
+    - etc._)
+search terms:
+  glb:
+  - perplasi
+  eng:
+  - put on clothes
+  - put on (_clothes
+  - etc.
+  epo:
+  - surmeto
+  - surmeti
+  spa:
+  - ponerse ropa
+  - ponerse (_ropa
+  - etc.
+etymology_type: DERIVD
+etymology: <a href="../lexi/per-">per-</a> + <a href="../lexi/plasi">plasi</a>
+raw data:
+  term: perplasi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: put on (_clothes, etc._)
+    epo: surmeto; surmeti
+    spa: ponerse (_ropa, etc._)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: per- + plasi
+...

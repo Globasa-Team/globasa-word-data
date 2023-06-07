@@ -1,0 +1,56 @@
+---
+term: ansyafil
+slug: ansyafil
+ipa: "ansja\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=ansja\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - anxiety-prone
+    - worrisome
+  epo:
+  - - zorgema
+    - anksiema
+  - - zorgeme
+    - anksieme
+  spa:
+  - - ansioso
+    - "preocup\xF3n"
+search terms:
+  glb:
+  - ansyafil
+  eng:
+  - anxiety-prone
+  - worrisome
+  epo:
+  - zorgema
+  - anksiema
+  - zorgeme
+  - anksieme
+  spa:
+  - ansioso
+  - "preocup\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ansya">ansya</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: ansyafil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: anxiety-prone, worrisome
+    epo: zorgema, anksiema; zorgeme, anksieme
+    spa: "ansioso, preocup\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ansya + -fil
+...

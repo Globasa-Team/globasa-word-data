@@ -1,0 +1,54 @@
+---
+term: klorin
+slug: klorin
+ipa: "klo\u02C8\u027Ein"
+ipa link: "http://ipa-reader.xyz/?text=klo\u02C8\u027Ein&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chlorine
+  epo:
+  - - kloro
+    - "\u0125loro"
+  spa:
+  - - cloro
+search terms:
+  glb:
+  - klorin
+  eng:
+  - chlorine
+  epo:
+  - kloro
+  - "\u0125loro"
+  spa:
+  - cloro
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: klorin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chlorine
+    epo: "kloro, \u0125loro"
+    spa: cloro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (chlorine), Espanisa (cloro), Arabisa (\u0643\u064F\u0644\u064F\u0648\u0631
+    \u201Ckulur\u201D), Fransesa (chlore), Rusisa (\u0445\u043B\u043E\u0440 \u201Chlor\u201D),
+    Indonesisa (klorin), Doycisa (Chlor), Telugusa (\u0C15\u0C4D\u0C32\u0C4B\u0C30\u0C3F\u0C28\u0C4D
+    \u201Cklorin\u201D), Turkisa (klor), Vyetnamsa (clo), Parsisa (\u06A9\u0644\u0631
+    \u201Ckolor\u201D), Swahilisa (klorini), Pilipinasa (kloro, klorina, kluroro)"
+...

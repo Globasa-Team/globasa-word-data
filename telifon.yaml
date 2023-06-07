@@ -1,0 +1,57 @@
+---
+term: telifon
+slug: telifon
+ipa: "teli\u02C8fon"
+ipa link: "http://ipa-reader.xyz/?text=teli\u02C8fon&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - telephone
+    - phone
+  - - phone
+    - call
+  epo:
+  - - telefono
+  - - telefoni
+  spa:
+  - - "tel\xE9fono"
+  - - llamar
+    - telefonear
+search terms:
+  glb:
+  - telifon
+  eng:
+    0: telephone
+    1: phone
+    3: call
+  epo:
+  - telefono
+  - telefoni
+  spa:
+  - "tel\xE9fono"
+  - llamar
+  - telefonear
+etymology_type: DERIVD
+etymology: <a href="../lexi/teli">teli</a> + <a href="../lexi/-fon">-fon</a>
+raw data:
+  term: telifon
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: telephone, phone; phone, call
+    epo: telefono; telefoni
+    spa: "tel\xE9fono; llamar, telefonear"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: teli + -fon
+...

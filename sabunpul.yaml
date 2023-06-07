@@ -1,0 +1,48 @@
+---
+term: sabunpul
+slug: sabunpul
+ipa: "sabun\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=sabun\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - soapy
+  epo:
+  - - sapa
+  - - sape
+  spa:
+  - - jabonoso
+search terms:
+  glb:
+  - sabunpul
+  eng:
+  - soapy
+  epo:
+  - sapa
+  - sape
+  spa:
+  - jabonoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/sabun">sabun</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: sabunpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: soapy
+    epo: sapa; sape
+    spa: jabonoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sabun + -pul
+...

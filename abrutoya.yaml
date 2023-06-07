@@ -1,0 +1,58 @@
+---
+term: abrutoya
+slug: abrutoya
+ipa: "ab\u027Eu\u02C8toja"
+ipa link: "http://ipa-reader.xyz/?text=ab\u027Eu\u02C8toja&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - suddenness
+    - abruptness
+  epo:
+  - - subiteco
+    - abrupteco
+  spa:
+  - - lo repentino
+    - brusquedad
+  deu:
+  - - "Pl\xF6tzlichkeit"
+    - Abruptheit
+search terms:
+  glb:
+  - abrutoya
+  eng:
+  - suddenness
+  - abruptness
+  epo:
+  - subiteco
+  - abrupteco
+  spa:
+  - lo repentino
+  - brusquedad
+  deu:
+  - "pl\xF6tzlichkeit"
+  - abruptheit
+etymology_type: DERIVD
+etymology: <a href="../lexi/abruto">abruto</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: abrutoya
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: suddenness, abruptness
+    epo: subiteco, abrupteco
+    spa: lo repentino, brusquedad
+    deu: "Pl\xF6tzlichkeit, Abruptheit"
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: abruto + -ya
+...

@@ -1,0 +1,70 @@
+---
+term: ananas
+slug: ananas
+ipa: anaˈnas
+ipa link: http://ipa-reader.xyz/?text=anaˈnas&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pineapple
+  epo:
+  - - ananaso
+  spa:
+  - - piña
+    - ananá
+    - _Ananas comosus_
+search terms:
+  glb:
+  - ananas
+  eng:
+  - pineapple
+  epo:
+  - ananaso
+  spa:
+  - piña
+  - ananá
+  - ananas comosus
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - أناناس “ananas”
+  Turkisa:
+  - - ananas
+  Parsisa:
+  - - آناناس “ananas”
+  Hindisa:
+  - - अनानास “ananas”
+  Indonesisa:
+  - - nanas
+  Swahilisa:
+  - - nanasi
+  Fransesa:
+  - - ananas
+  Doycisa:
+  - - Ananas
+  Espanisa:
+  - - ananá
+raw data:
+  term: ananas
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pineapple
+    epo: ananaso
+    spa: piña, ananá, _Ananas comosus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'Arabisa (أناناس “ananas”), Turkisa (ananas), Parsisa (آناناس “ananas”),
+    Hindisa (अनानास “ananas”), Indonesisa (nanas), Swahilisa (nanasi), Fransesa (ananas),
+    Doycisa (Ananas), Espanisa (ananá) '
+...

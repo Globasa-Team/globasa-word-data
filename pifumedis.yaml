@@ -1,0 +1,48 @@
+---
+term: pifumedis
+slug: pifumedis
+ipa: "pifume\u02C8dis"
+ipa link: "http://ipa-reader.xyz/?text=pifume\u02C8dis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - dermatology
+  epo:
+  - - dermatologio
+    - "ha\u016Dtmedicino"
+  spa:
+  - - "dermatolog\xEDa"
+search terms:
+  glb:
+  - pifumedis
+  eng:
+  - dermatology
+  epo:
+  - dermatologio
+  - "ha\u016Dtmedicino"
+  spa:
+  - "dermatolog\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/pifu">pifu</a> + <a href="../lexi/-medis">-medis</a>
+raw data:
+  term: pifumedis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: dermatology
+    epo: "dermatologio, ha\u016Dtmedicino"
+    spa: "dermatolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pifu + -medis
+...

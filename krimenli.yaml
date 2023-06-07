@@ -1,0 +1,50 @@
+---
+term: krimenli
+slug: krimenli
+ipa: "k\u027Ei\u02C8menli"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Ei\u02C8menli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - criminal
+  - - criminally
+  epo:
+  - - krima
+  - - krime
+  spa:
+  - - criminal
+search terms:
+  glb:
+  - krimenli
+  eng:
+  - criminal
+  - criminally
+  epo:
+  - krima
+  - krime
+  spa:
+  - criminal
+etymology_type: DERIVD
+etymology: <a href="../lexi/krimen">krimen</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: krimenli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: criminal; criminally
+    epo: krima; krime
+    spa: criminal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: krimen + -li
+...

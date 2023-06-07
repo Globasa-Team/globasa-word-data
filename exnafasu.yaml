@@ -1,0 +1,52 @@
+---
+term: exnafasu
+slug: exnafasu
+ipa: "e\u0283na\u02C8fasu"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283na\u02C8fasu&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - exhalation
+  - - exhale
+  epo:
+  - - elspiro
+  - - elspiri
+  spa:
+  - - "exhalaci\xF3n"
+  - - exhalar
+search terms:
+  glb:
+  - exnafasu
+  eng:
+  - exhalation
+  - exhale
+  epo:
+  - elspiro
+  - elspiri
+  spa:
+  - "exhalaci\xF3n"
+  - exhalar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/nafasu">nafasu</a>
+raw data:
+  term: exnafasu
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: exhalation; exhale
+    epo: elspiro; elspiri
+    spa: "exhalaci\xF3n; exhalar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex- + nafasu
+...

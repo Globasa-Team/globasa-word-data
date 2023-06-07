@@ -1,0 +1,62 @@
+---
+term: soberen
+slug: soberen
+ipa: "sobe\u02C8\u027Een"
+ipa link: "http://ipa-reader.xyz/?text=sobe\u02C8\u027Een&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - sovereign
+  epo:
+  - - suverena
+  - - suverene
+  spa:
+  - - soberano
+search terms:
+  glb:
+  - soberen
+  eng:
+  - sovereign
+  epo:
+  - suverena
+  - suverene
+  spa:
+  - soberano
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sovereign
+  Fransesa:
+  - - souverain
+  Doycisa:
+  - - "souver\xE4n"
+  Rusisa:
+  - - "\u0441\u0443\u0432\u0435\u0440\u0435\u043D\u043D\u044B\u0439 \u201Csuvereniy\u201D"
+  Espanisa:
+  - - soberano
+  Pilipinasa:
+  - - soberano
+raw data:
+  term: soberen
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: sovereign
+    epo: suverena; suverene
+    spa: soberano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (sovereign), Fransesa (souverain), Doycisa (souver\xE4n), Rusisa
+    (\u0441\u0443\u0432\u0435\u0440\u0435\u043D\u043D\u044B\u0439 \u201Csuvereniy\u201D),
+    Espanisa (soberano), Pilipinasa (soberano)"
+...

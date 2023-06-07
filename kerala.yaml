@@ -1,0 +1,48 @@
+---
+term: kerala
+slug: kerala
+ipa: "ke\u02C8\u027Eala"
+ipa link: "http://ipa-reader.xyz/?text=ke\u02C8\u027Eala&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Kerala (_state in India_)
+  epo:
+  - - Keralo
+  spa:
+  - - Kerala (_estado de India_)
+search terms:
+  glb:
+  - kerala
+  eng:
+  - kerala
+  epo:
+  - keralo
+  spa:
+  - kerala
+etymology_type: NATLNG
+etymology:
+  Keralasa:
+  - - "\u0D15\u0D47\u0D30\u0D33\u0D02 \u201Ckerala\u201D"
+raw data:
+  term: Kerala
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Kerala (_state in India_)
+    epo: Keralo
+    spa: Kerala (_estado de India_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Keralasa (\u0D15\u0D47\u0D30\u0D33\u0D02 \u201Ckerala\u201D)"
+...

@@ -1,0 +1,58 @@
+---
+term: arabi
+slug: arabi
+ipa: "a\u02C8\u027Eabi"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8\u027Eabi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Arabia
+    - Arabian Peninsula
+  epo:
+  - - Arabio
+    - Arabujo
+    - Araba Duoninsulo
+  spa:
+  - - Arabia
+    - "Pen\xEDnsula Ar\xE1biga"
+search terms:
+  glb:
+  - arabi
+  eng:
+  - arabia
+  - arabian peninsula
+  epo:
+  - arabio
+  - arabujo
+  - araba duoninsulo
+  spa:
+  - arabia
+  - "pen\xEDnsula ar\xE1biga"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u201Calearabia\u201D"
+tags:
+- geografi
+raw data:
+  term: Arabi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Arabia, Arabian Peninsula
+    epo: Arabio, Arabujo, Araba Duoninsulo
+    spa: "Arabia, Pen\xEDnsula Ar\xE1biga"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: "Arabisa (\u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u201Calearabia\u201D)"
+...

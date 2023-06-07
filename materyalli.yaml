@@ -1,0 +1,48 @@
+---
+term: materyalli
+slug: materyalli
+ipa: "mate\u02C8\u027Ejalli"
+ipa link: "http://ipa-reader.xyz/?text=mate\u02C8\u027Ejalli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - material (_of material_)
+  epo:
+  - - materiala
+  - - materiale
+  spa:
+  - - material (_de material_)
+search terms:
+  glb:
+  - materyalli
+  eng:
+  - material
+  epo:
+  - materiala
+  - materiale
+  spa:
+  - material
+etymology_type: DERIVD
+etymology: <a href="../lexi/materyal">materyal</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: materyalli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: material (_of material_)
+    epo: materiala; materiale
+    spa: material (_de material_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: materyal + -li
+...

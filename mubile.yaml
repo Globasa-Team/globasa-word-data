@@ -1,0 +1,49 @@
+---
+term: mubile
+slug: mubile
+ipa: "mu\u02C8bile"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8bile&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (piece of) furniture
+  epo:
+  - - meblo
+  spa:
+  - - mueble
+search terms:
+  glb:
+  - mubile
+  eng:
+  - piece of furniture
+  - furniture
+  epo:
+  - meblo
+  spa:
+  - mueble
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mubile
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (piece of) furniture
+    epo: meblo
+    spa: mueble
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (M\xF6bel), Fransesa (meuble), Espanisa (mueble), Rusisa (\u043C\u0435\u0431\u0435\u043B\u044C
+    \u201Cmebel\u201D), Indonesisa (mebel), Pilipinasa (muwebles), Turkisa (mobilya),
+    Parsisa (\u0645\u0628\u0644 \u201Cmobl\u201D)"
+...

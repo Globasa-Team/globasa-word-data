@@ -1,0 +1,51 @@
+---
+term: posfolya
+slug: posfolya
+ipa: "pos\u02C8folja"
+ipa link: "http://ipa-reader.xyz/?text=pos\u02C8folja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - be against
+    - be in the opposite direction (of)
+  epo:
+  - - "kontra\u016Do"
+  - - "kontra\u016Di"
+  spa:
+  - - ir en contra de
+search terms:
+  glb:
+  - posfolya
+  eng:
+  - be against
+  - be in the opposite direction of
+  - be in the opposite direction
+  epo:
+  - "kontra\u016Do"
+  - "kontra\u016Di"
+  spa:
+  - ir en contra de
+etymology_type: DERIVD
+etymology: <a href="../lexi/posfol -ya">posfol -ya</a>
+raw data:
+  term: posfolya
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: be against, be in the opposite direction (of)
+    epo: "kontra\u016Do; kontra\u016Di"
+    spa: ir en contra de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: posfol +-ya
+...

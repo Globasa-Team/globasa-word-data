@@ -1,0 +1,49 @@
+---
+term: nudiismodom
+slug: nudiismodom
+ipa: "nudiismo\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=nudiismo\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - nudist resort
+    - naturist resort
+  epo:
+  - - nudismejo
+  spa:
+  - - centro nudista
+search terms:
+  glb:
+  - nudiismodom
+  eng:
+  - nudist resort
+  - naturist resort
+  epo:
+  - nudismejo
+  spa:
+  - centro nudista
+etymology_type: DERIVD
+etymology: <a href="../lexi/nudi">nudi</a> + <a href="../lexi/-ismo">-ismo</a> + <a
+  href="../lexi/-dom">-dom</a>
+raw data:
+  term: nudiismodom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: nudist resort, naturist resort
+    epo: nudismejo
+    spa: centro nudista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nudi + -ismo + -dom
+...

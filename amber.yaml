@@ -1,0 +1,76 @@
+---
+term: amber
+slug: amber
+ipa: amˈbeɾ
+ipa link: http://ipa-reader.xyz/?text=amˈbeɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ambergris
+  epo:
+  - - ambro
+  spa:
+  - - ámbar gris
+    - ámbar pardillo
+search terms:
+  glb:
+  - amber
+  eng:
+  - ambergris
+  epo:
+  - ambro
+  spa:
+  - ámbar gris
+  - ámbar pardillo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ambergris
+  Espanisa:
+  - - ámbar gris
+  Fransesa:
+  - - ambre gris
+  Rusisa:
+  - - амбра “ambra”
+  Doycisa:
+  - - Ambra
+    - Amber
+  Indonesisa:
+  - - ambergris
+  Arabisa:
+  - - عَنْبَر “anbar”
+  Niponisa:
+  - - アンバーグリス “ambagurisu”
+  Telugusa:
+  - - అంబరు “ambaru”
+  Turkisa:
+  - - amber
+  Parsisa:
+  - - عنبر “anbar”
+  Swahilisa:
+  - - ambari
+raw data:
+  term: amber
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ambergris
+    epo: ambro
+    spa: ámbar gris, ámbar pardillo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (ambergris), Espanisa (ámbar gris), Fransesa (ambre gris), Rusisa
+    (амбра “ambra”), Doycisa (Ambra, Amber), Indonesisa (ambergris), Arabisa (عَنْبَر
+    “anbar”), Niponisa (アンバーグリス “ambagurisu”), Telugusa (అంబరు “ambaru”), Turkisa
+    (amber), Parsisa (عنبر “anbar”), Swahilisa (ambari)
+...

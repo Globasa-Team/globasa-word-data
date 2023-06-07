@@ -1,0 +1,54 @@
+---
+term: adola
+slug: adola
+ipa: aˈdola
+ipa link: http://ipa-reader.xyz/?text=aˈdola&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - muscle
+  epo:
+  - - muskolo
+  spa:
+  - - músculo
+search terms:
+  glb:
+  - adola
+  eng:
+  - muscle
+  epo:
+  - muskolo
+  spa:
+  - músculo
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - عضلة “adala”
+  Parsisa:
+  - - عضله “azole”
+  Turkisa:
+  - - adale
+tags:
+- jismulogi
+raw data:
+  term: adola
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: muscle
+    epo: muskolo
+    spa: músculo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Arabisa (عضلة “adala”), Parsisa (عضله “azole”), Turkisa (adale)
+...

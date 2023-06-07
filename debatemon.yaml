@@ -1,0 +1,56 @@
+---
+term: debatemon
+slug: debatemon
+ipa: "debate\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=debate\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - argument
+    - point
+  - - argue
+  epo:
+  - - argumento
+  - - argumenti
+  spa:
+  - - argumento
+    - punto
+  - - argumentar
+search terms:
+  glb:
+  - debatemon
+  eng:
+  - argument
+  - point
+  - argue
+  epo:
+  - argumento
+  - argumenti
+  spa:
+  - argumento
+  - punto
+  - argumentar
+etymology_type: DERIVD
+etymology: <a href="../lexi/debate">debate</a> + <a href="../lexi/-mon">-mon</a>
+raw data:
+  term: debatemon
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: argument, point; argue
+    epo: argumento; argumenti
+    spa: argumento, punto; argumentar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: debate + -mon
+...

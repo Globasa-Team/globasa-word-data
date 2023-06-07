@@ -1,0 +1,50 @@
+---
+term: fe totalya
+slug: fe totalya
+ipa: "fe to\u02C8talja"
+ipa link: "http://ipa-reader.xyz/?text=fe to\u02C8talja&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - in total
+    - in all
+  epo:
+  - - entute
+  spa:
+  - - en total
+search terms:
+  glb:
+  - fe totalya
+  - fe
+  - totalya
+  eng:
+  - in total
+  - in all
+  epo:
+  - entute
+  spa:
+  - en total
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/total">total</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fe totalya
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: in total, in all
+    epo: entute
+    spa: en total
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, total + -ya
+...

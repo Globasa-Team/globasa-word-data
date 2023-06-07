@@ -1,0 +1,50 @@
+---
+term: swahili
+slug: swahili
+ipa: "swa\u02C8xili"
+ipa link: "http://ipa-reader.xyz/?text=swa\u02C8xili&voice=Ewa"
+status: true
+category: proper noun
+word class: t
+trans:
+  eng:
+  - - Swahili
+  epo:
+  - - svahila
+  - - svahile
+  spa:
+  - - suajili
+search terms:
+  glb:
+  - swahili
+  eng:
+  - swahili
+  epo:
+  - svahila
+  - svahile
+  spa:
+  - suajili
+etymology_type: NATLNG
+etymology:
+  Swahilisa:
+  - - Swahili
+raw data:
+  term: Swahili
+  category: proper noun
+  word class: t
+  status: true
+  trans:
+    eng: 'Swahili '
+    epo: svahila; svahile
+    spa: suajili
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Swahilisa (Swahili)
+...

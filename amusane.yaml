@@ -1,0 +1,54 @@
+---
+term: amusane
+slug: amusane
+ipa: "amu\u02C8sane"
+ipa link: "http://ipa-reader.xyz/?text=amu\u02C8sane&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - amusing
+    - amusingly
+    - entertaining
+    - fun
+  epo:
+  - - amuza
+  - - amuze
+  spa:
+  - - divertido
+search terms:
+  glb:
+  - amusane
+  eng:
+  - amusing
+  - amusingly
+  - entertaining
+  - fun
+  epo:
+  - amuza
+  - amuze
+  spa:
+  - divertido
+etymology_type: DERIVD
+etymology: <a href="../lexi/amusa">amusa</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: amusane
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: amusing, amusingly, entertaining, fun
+    epo: amuza; amuze
+    spa: divertido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: amusa + -ne
+...

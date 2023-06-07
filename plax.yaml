@@ -1,0 +1,63 @@
+---
+term: plax
+slug: plax
+ipa: "\u02C8pla\u0283"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pla\u0283&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - splash
+    - splatter
+  epo:
+  - - "pla\u016Ddo"
+  - - "pla\u016Ddi"
+  spa:
+  - - salpicadura
+    - chapoteo
+  - - salpicar
+    - chapotear
+search terms:
+  glb:
+  - plax
+  eng:
+  - splash
+  - splatter
+  epo:
+  - "pla\u016Ddo"
+  - "pla\u016Ddi"
+  spa:
+  - salpicadura
+  - chapoteo
+  - salpicar
+  - chapotear
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - splash
+  Doycisa:
+  - - Platsch
+  Rusisa:
+  - - "\u043F\u043B\u0435\u0441\u043A \u201Cplesk\u201D"
+raw data:
+  term: plax
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: splash, splatter
+    epo: "pla\u016Ddo; pla\u016Ddi"
+    spa: salpicadura, chapoteo; salpicar, chapotear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (splash), Doycisa (Platsch), Rusisa (\u043F\u043B\u0435\u0441\u043A
+    \u201Cplesk\u201D)"
+...

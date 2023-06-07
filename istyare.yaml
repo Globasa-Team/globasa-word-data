@@ -1,0 +1,60 @@
+---
+term: istyare
+slug: istyare
+ipa: "is\u02C8tja\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=is\u02C8tja\u027Ee&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - metaphor
+    - trope
+    - figure of speech
+  epo:
+  - - metaforo
+    - tropo
+    - figura esprimo
+  spa:
+  - - "met\xE1fora"
+    - tropo
+    - "figura ret\xF3rica"
+search terms:
+  glb:
+  - istyare
+  eng:
+  - metaphor
+  - trope
+  - figure of speech
+  epo:
+  - metaforo
+  - tropo
+  - figura esprimo
+  spa:
+  - "met\xE1fora"
+  - tropo
+  - "figura ret\xF3rica"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: istyare
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: metaphor, trope, figure of speech
+    epo: metaforo, tropo, figura esprimo
+    spa: "met\xE1fora, tropo, figura ret\xF3rica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0627\u0650\u0633\u0652\u062A\u0650\u0639\u064E\u0627\u0631\u064E\u0629
+    \"istiara\"), Turkisa (istiare), Parsisa (\u0627\u0633\u062A\u0639\u0627\u0631\u0647
+    \"esteare\"), Swahilisa (sitiari)"
+...

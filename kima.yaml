@@ -1,0 +1,63 @@
+---
+term: kima
+slug: kima
+ipa: "\u02C8kima"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kima&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - price
+    - fee
+    - cost
+    - rate
+  - - cost
+  epo:
+  - - kosto
+    - prezo
+  - - kosti
+  spa:
+  - - costo
+    - precio
+  - - costar
+search terms:
+  glb:
+  - kima
+  eng:
+  - price
+  - fee
+  - cost
+  - rate
+  epo:
+  - kosto
+  - prezo
+  - kosti
+  spa:
+  - costo
+  - precio
+  - costar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kima
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: price, fee, cost, rate; cost
+    epo: kosto, prezo; kosti
+    spa: costo, precio; costar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0642\u064A\u0645\u0629 \u201Ckayima\u201D), Hindisa (\u0915\u093C\u0940\u092E\u0924
+    \u201Ckimat\u201D), Indonesisa (kimat), Parsisa (\u0642\u06CC\u0645\u062A \u201Cqeymat\u201D),
+    Turkisa (k\u0131ymet)"
+...

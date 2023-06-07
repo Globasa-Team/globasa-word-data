@@ -1,0 +1,52 @@
+---
+term: vyayamagi
+slug: vyayamagi
+ipa: "vjaja\u02C8magi"
+ipa link: "http://ipa-reader.xyz/?text=vjaja\u02C8magi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - exercise (_physical movement_)
+  epo:
+  - - (fizika) ekzerco
+  - - (fizike) ekzerci
+  spa:
+  - - ejercicio
+  - - ejercitar
+search terms:
+  glb:
+  - vyayamagi
+  eng:
+  - exercise
+  epo:
+  - fizika ekzerco
+  - ekzerco
+  - fizike ekzerci
+  - ekzerci
+  spa:
+  - ejercicio
+  - ejercitar
+etymology_type: DERIVD
+etymology: <a href="../lexi/vyayama">vyayama</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: vyayamagi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: exercise (_physical movement_)
+    epo: (fizika) ekzerco; (fizike) ekzerci
+    spa: ejercicio; ejercitar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: vyayama + -gi
+...

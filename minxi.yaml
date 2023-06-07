@@ -1,0 +1,49 @@
+---
+term: minxi
+slug: minxi
+ipa: "\u02C8min\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8min\u0283i&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - civil affairs
+  epo:
+  - - civitaj aferoj
+  spa:
+  - - asuntos civiles
+search terms:
+  glb:
+  - minxi
+  eng:
+  - civil affairs
+  epo:
+  - civitaj aferoj
+  spa:
+  - asuntos civiles
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- politi
+raw data:
+  term: minxi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: civil affairs
+    epo: civitaj aferoj
+    spa: asuntos civiles
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: civil, civil affairs
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: "Putunhwa (\u6C11\u4E8B \u201Cminxi\u201D), Hangusa (\uBBFC\uC0AC \u201Cminsa\u201D),
+    Niponsa (\u6C11\u4E8B \u201Cminji\u201D), Vyetnamsa (d\xE2n s\u1EF1)"
+...

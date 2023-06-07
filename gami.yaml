@@ -1,0 +1,80 @@
+---
+term: gami
+slug: gami
+ipa: ˈgami
+ipa link: http://ipa-reader.xyz/?text=ˈgami&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - spouse
+    - husband
+    - wife
+  - - _v.ambi.p_ marry
+  epo:
+  - - edzo
+    - edzino
+  - - edziĝi
+    - edziniĝi
+    - geedziĝi
+    - edzigi
+    - edzinigi
+    - geedzigi
+  spa:
+  - - esposo
+  - - casar
+    - casarse
+search terms:
+  glb:
+  - gami
+  eng:
+  - spouse
+  - husband
+  - wife
+  epo:
+  - edzo
+  - edzino
+  - edziĝi
+  - edziniĝi
+  - geedziĝi
+  - edzigi
+  - edzinigi
+  - geedzigi
+  spa:
+  - esposo
+  - casar
+  - casarse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - monogamy
+  Espanisa:
+  - - monogamia
+  Fransesa:
+  - - monogamie
+  Doycisa:
+  - - Monogamie
+  Rusisa:
+  - - моногамия “monogamiya”
+raw data:
+  term: gami
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: spouse, husband, wife; _v.ambi.p_ marry
+    epo: edzo, edzino; edziĝi, edziniĝi, geedziĝi, edzigi, edzinigi, geedzigi
+    spa: esposo; casar, casarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (monogamy), Espanisa (monogamia), Fransesa (monogamie), Doycisa
+    (Monogamie), Rusisa (моногамия “monogamiya”)
+...

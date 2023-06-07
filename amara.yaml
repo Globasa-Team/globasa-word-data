@@ -1,0 +1,50 @@
+---
+term: amara
+slug: amara
+ipa: "a\u02C8ma\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=a\u02C8ma\u027Ea&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Amhara region
+  epo:
+  - - Amhara Regiono
+  spa:
+  - - "Amhara (_estado regional de Etiop\xEDa_)"
+search terms:
+  glb:
+  - amara
+  eng:
+  - amhara region
+  epo:
+  - amhara regiono
+  spa:
+  - amhara
+etymology_type: NATLNG
+etymology:
+  Amarasa:
+  - - "\u12A0\u121B\u122B \u201C\u0100mara\u201D"
+tags:
+- geografi
+raw data:
+  term: Amara
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Amhara region
+    epo: Amhara Regiono
+    spa: "Amhara (_estado regional de Etiop\xEDa_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: "Amarasa (\u12A0\u121B\u122B \u201C\u0100mara\u201D)"
+...

@@ -1,0 +1,57 @@
+---
+term: oco
+slug: oco
+ipa: "\u02C8ot\u0361\u0283o"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ot\u0361\u0283o&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - eight
+  epo:
+  - - ok
+  spa:
+  - - ocho
+search terms:
+  glb:
+  - oco
+  eng:
+  - eight
+  epo:
+  - ok
+  spa:
+  - ocho
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - octo-
+  Fransesa: ~
+  Doycisa:
+  - - okto-
+    - acht
+  Espanisa:
+  - - ocho
+  Hindisa:
+  - - "\u0905\u0937\u094D\u091F \u201Caxt\u201D"
+raw data:
+  term: oco
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: eight
+    epo: ok
+    spa: ocho
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (octo-), Fransesa, Doycisa (okto-, acht), Espanisa (ocho), Hindisa
+    (\u0905\u0937\u094D\u091F \u201Caxt\u201D)"
+...

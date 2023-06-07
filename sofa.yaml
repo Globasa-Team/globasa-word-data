@@ -1,0 +1,79 @@
+---
+term: sofa
+slug: sofa
+ipa: "\u02C8sofa"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sofa&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - sofa
+    - couch
+  epo:
+  - - sofo
+    - kanapo
+    - divano
+    - sofolito
+  spa:
+  - - "sof\xE1"
+search terms:
+  glb:
+  - sofa
+  eng:
+  - sofa
+  - couch
+  epo:
+  - sofo
+  - kanapo
+  - divano
+  - sofolito
+  spa:
+  - "sof\xE1"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - sofa
+  Fransesa: ~
+  Doycisa: ~
+  Espanisa: ~
+  Rusisa:
+  - - "\u0441\u043E\u0444\u0430 \u201Csofa\u201D"
+  Hindisa:
+  - - "\u0938\u094B\u092B\u093C\u093E \u201Csof\u0101\u201D"
+  Telugusa:
+  - - "\u0C38\u0C4B\u0C2B\u0C3E \u201Cs\u014Dph\u0101\u201D"
+  Indonesisa:
+  - - sofa
+  Pilipinasa:
+  - - sopa
+  Niponsa:
+  - - "\u30BD\u30D5\u30A1 \u201Csofa\u201D"
+  Hangusa:
+  - - "\uC18C\uD30C \u201Csopa\u201D"
+  Vyetnamsa:
+  - - "x\xF4-pha"
+raw data:
+  term: sofa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: sofa, couch
+    epo: sofo, kanapo, divano, sofolito
+    spa: "sof\xE1"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (sofa), Fransesa, Doycisa, Espanisa, Rusisa (\u0441\u043E\u0444\u0430
+    \u201Csofa\u201D), Hindisa (\u0938\u094B\u092B\u093C\u093E \u201Csof\u0101\u201D),
+    Telugusa (\u0C38\u0C4B\u0C2B\u0C3E \u201Cs\u014Dph\u0101\u201D), Indonesisa (sofa),
+    Pilipinasa (sopa), Niponsa (\u30BD\u30D5\u30A1 \u201Csofa\u201D), Hangusa (\uC18C\uD30C
+    \u201Csopa\u201D), Vyetnamsa (x\xF4-pha)"
+...

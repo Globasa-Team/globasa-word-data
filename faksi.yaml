@@ -1,0 +1,92 @@
+---
+term: faksi
+slug: faksi
+ipa: ˈfaksi
+ipa link: http://ipa-reader.xyz/?text=ˈfaksi&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - fax
+  epo:
+  - - fakso
+    - telekopio
+  - - faksi
+    - telekopii
+  spa:
+  - - fax
+  - - mandar por fax
+search terms:
+  glb:
+  - faksi
+  eng:
+  - fax
+  epo:
+  - fakso
+  - telekopio
+  - faksi
+  - telekopii
+  spa:
+  - fax
+  - mandar por fax
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fax
+    - faxing
+  Espanisa:
+  - - fax
+  Fransesa: ~
+  Doycisa: ~
+  Vyetnamsa: ~
+  Rusisa:
+  - - факс “faks”
+    - факсимиле “faksimile”
+  Indonesisa:
+  - - faks
+  Turkisa: ~
+  Pilipinasa:
+  - - paksimilador
+    - paksador
+  Hindisa:
+  - - फ़ैक्स
+    - फैक्स “feks”
+  Arabisa:
+  - - فَاكْس “faks”
+  Niponsa:
+  - - ファックス “fakusu”
+    - ファクシミリ “fakuximiri”
+  Telugusa:
+  - - ఫ్యాక్స్ “fyaks”
+  Hangusa:
+  - - 팩스 “peksu”
+    - 팩시밀리 “peksimili”
+  Parsisa:
+  - - فاکس “faks”
+  Swahilisa:
+  - - faksi
+raw data:
+  term: faksi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: fax
+    epo: fakso, telekopio; faksi, telekopii
+    spa: fax; mandar por fax
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (fax, faxing), Espanisa (fax), Fransesa, Doycisa, Vyetnamsa,
+    Rusisa (факс “faks”, факсимиле “faksimile”), Indonesisa (faks), Turkisa, Pilipinasa
+    (paksimilador, paksador), Hindisa (फ़ैक्स, फैक्स “feks”), Arabisa (فَاكْس “faks”),
+    Niponsa (ファックス “fakusu”, ファクシミリ “fakuximiri”), Telugusa (ఫ్యాక్స్ “fyaks”), Hangusa
+    (팩스 “peksu”, 팩시밀리 “peksimili”), Parsisa (فاکس “faks”), Swahilisa (faksi)
+...

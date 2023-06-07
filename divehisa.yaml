@@ -1,0 +1,58 @@
+---
+term: divehisa
+slug: divehisa
+ipa: "dive\u02C8xisa"
+ipa link: "http://ipa-reader.xyz/?text=dive\u02C8xisa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Dhivehi
+    - Divehi
+    - Maldivian (language)
+  epo:
+  - - la maldiva (lingvo)
+  - - la diveha
+  spa:
+  - - maldivo (_idioma_)
+    - divehi
+search terms:
+  glb:
+  - divehisa
+  eng:
+  - dhivehi
+  - divehi
+  - maldivian language
+  - maldivian
+  epo:
+  - la maldiva lingvo
+  - la maldiva
+  - la diveha
+  spa:
+  - maldivo
+  - divehi
+etymology_type: DERIVD
+etymology: <a href="../lexi/Divehi">Divehi</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Divehisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Dhivehi, Divehi, Maldivian (language)
+    epo: la maldiva (lingvo); la diveha
+    spa: maldivo (_idioma_), divehi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Divehi + -sa
+...

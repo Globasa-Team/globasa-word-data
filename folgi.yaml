@@ -1,0 +1,52 @@
+---
+term: folgi
+slug: folgi
+ipa: "\u02C8folgi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8folgi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - put alongside (of)
+  epo:
+  - - apudigo
+  - - apudigi
+    - meti apud
+  spa:
+  - - poner al lado (de)
+search terms:
+  glb:
+  - folgi
+  eng:
+  - put alongside of
+  - put alongside
+  epo:
+  - apudigo
+  - apudigi
+  - meti apud
+  spa:
+  - poner al lado de
+  - poner al lado
+etymology_type: DERIVD
+etymology: <a href="../lexi/fol">fol</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: folgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: put alongside (of)
+    epo: apudigo; apudigi, meti apud
+    spa: poner al lado (de)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fol + -gi
+...

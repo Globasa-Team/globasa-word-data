@@ -1,0 +1,48 @@
+---
+term: supratui
+slug: supratui
+ipa: "sup\u027Ea\u02C8tui"
+ipa link: "http://ipa-reader.xyz/?text=sup\u027Ea\u02C8tui&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - thigh
+  epo:
+  - - femuro
+  spa:
+  - - muslo
+search terms:
+  glb:
+  - supratui
+  eng:
+  - thigh
+  epo:
+  - femuro
+  spa:
+  - muslo
+etymology_type: DERIVD
+etymology: <a href="../lexi/supra-">supra-</a> + <a href="../lexi/tui">tui</a>
+tags:
+- jismulogi
+raw data:
+  term: 'supratui '
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: thigh
+    epo: femuro
+    spa: muslo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: supra- + tui
+...

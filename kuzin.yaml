@@ -1,0 +1,50 @@
+---
+term: kuzin
+slug: kuzin
+ipa: "ku\u02C8zin"
+ipa link: "http://ipa-reader.xyz/?text=ku\u02C8zin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cousin
+  epo:
+  - - kuzo
+    - kuzino
+  spa:
+  - - primo
+search terms:
+  glb:
+  - kuzin
+  eng:
+  - cousin
+  epo:
+  - kuzo
+  - kuzino
+  spa:
+  - primo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- famil
+raw data:
+  term: kuzin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cousin
+    epo: kuzo, kuzino
+    spa: primo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: famil
+  etymology: Englisa (cousin), Fransesa (cousin), Doycisa (Cousin), Turkisa (kuzin)
+...

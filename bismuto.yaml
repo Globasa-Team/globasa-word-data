@@ -1,0 +1,88 @@
+---
+term: bismuto
+slug: bismuto
+ipa: bisˈmuto
+ipa link: http://ipa-reader.xyz/?text=bisˈmuto&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bismuth
+  epo:
+  - - bismuto
+  spa:
+  - - bismuto
+    - Bi
+search terms:
+  glb:
+  - bismuto
+  eng:
+  - bismuth
+  epo:
+  - bismuto
+  spa:
+  - bismuto
+  - bi
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bismuth
+  Putunhwa:
+  - - 鉍 “bi”
+  Espanisa:
+  - - bismuto
+  Arabisa:
+  - - بِزْمُوث “bizmut”
+  Fransesa:
+  - - bismuth
+  Rusisa:
+  - - висмут “vismut”
+  Indonesisa:
+  - - bismut
+  Doycisa:
+  - - Wismut
+  Niponsa:
+  - - ビスマス “bisumusu”
+  Telugusa:
+  - - బిస్మత్ “bismat”
+  Turkisa:
+  - - bizmut
+  Hangusa:
+  - - 비스무트 “bisumutu”
+  Vyetnamsa:
+  - - bitmut
+    - bismut
+  Parsisa:
+  - - بیسموت “bismut”
+  Swahilisa:
+  - - bismuthi
+  Pilipinasa:
+  - - bismuto
+    - bismut
+tags:
+- kimikali monlari
+raw data:
+  term: bismuto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bismuth
+    epo: bismuto
+    spa: bismuto, Bi
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (bismuth), Putunhwa (鉍 “bi”), Espanisa (bismuto), Arabisa (بِزْمُوث
+    “bizmut”), Fransesa (bismuth), Rusisa (висмут “vismut”), Indonesisa (bismut),
+    Doycisa (Wismut), Niponsa (ビスマス “bisumusu”), Telugusa (బిస్మత్ “bismat”), Turkisa
+    (bizmut), Hangusa (비스무트 “bisumutu”), Vyetnamsa (bitmut, bismut), Parsisa (بیسموت
+    “bismut”), Swahilisa (bismuthi), Pilipinasa (bismuto, bismut)
+...

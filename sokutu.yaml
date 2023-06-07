@@ -1,0 +1,65 @@
+---
+term: sokutu
+slug: sokutu
+ipa: "so\u02C8kutu"
+ipa link: "http://ipa-reader.xyz/?text=so\u02C8kutu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - fall
+    - drop
+  - - fall
+    - drop
+  epo:
+  - - falo
+  - - fali
+    - faligi
+  spa:
+  - - "ca\xEDda"
+  - - caer
+    - caerse
+search terms:
+  glb:
+  - sokutu
+  eng:
+  - fall
+  - drop
+  epo:
+  - falo
+  - fali
+  - faligi
+  spa:
+  - "ca\xEDda"
+  - caer
+  - caerse
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0633\u0642\u0648\u0637 \u201Csukut\u201D"
+  Parsisa:
+  - - "\u0633\u0642\u0648\u0637 \u201Csokut\u201D"
+  Turkisa:
+  - - sukut
+raw data:
+  term: sokutu
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: fall, drop; fall, drop
+    epo: falo; fali, faligi
+    spa: "ca\xEDda; caer, caerse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0633\u0642\u0648\u0637 \u201Csukut\u201D), Parsisa (\u0633\u0642\u0648\u0637
+    \u201Csokut\u201D), Turkisa (sukut)"
+...

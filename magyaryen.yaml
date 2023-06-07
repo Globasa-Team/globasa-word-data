@@ -1,0 +1,47 @@
+---
+term: magyaryen
+slug: magyaryen
+ipa: "magja\u02C8\u027Ejen"
+ipa link: "http://ipa-reader.xyz/?text=magja\u02C8\u027Ejen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Hungarian (person)
+  epo:
+  - - hungaro
+  spa:
+  - - "h\xFAngaro (_persona_)"
+search terms:
+  glb:
+  - magyaryen
+  eng:
+  - hungarian person
+  - hungarian
+  epo:
+  - hungaro
+  spa:
+  - "h\xFAngaro"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Magyar">Magyar</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Magyaryen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Hungarian (person)
+    epo: hungaro
+    spa: "h\xFAngaro (_persona_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Magyar + -yen
+...

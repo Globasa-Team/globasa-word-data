@@ -1,0 +1,83 @@
+---
+term: biskiti
+slug: biskiti
+ipa: bisˈkiti
+ipa link: http://ipa-reader.xyz/?text=bisˈkiti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cookie
+    - biscuit
+  epo:
+  - - biskvito
+  spa:
+  - - galleta
+search terms:
+  glb:
+  - biskiti
+  eng:
+  - cookie
+  - biscuit
+  epo:
+  - biskvito
+  spa:
+  - galleta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - biscuit
+    - biscotti
+  Fransesa: ~
+  Italisa: ~
+  Rusisa:
+  - - бисквит “biskvit”
+  Indonesisa:
+  - - biskit
+    - biskuit
+  Pilipinasa:
+  - - biskuwit
+  Hindisa:
+  - - बिस्कुट “biskut”
+  Arabisa:
+  - - بَسْكَوِيت “baskawit”
+  Niponsa:
+  - - ビスケット “bisuketo”
+  Telegusa:
+  - - బిస్కట్ “biskat”
+  Turkisa:
+  - - bisküvi
+  Hangusa:
+  - - 비스킷 “bisukit”
+  Vyetnamsa:
+  - - bánh quy
+    - bích quy
+  Swahilisa:
+  - - biskuti
+tags:
+- yamxey
+raw data:
+  term: biskiti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cookie, biscuit
+    epo: biskvito
+    spa: galleta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Englisa (biscuit, biscotti), Fransesa, Italisa, Rusisa (бисквит “biskvit”),
+    Indonesisa (biskit, biskuit), Pilipinasa (biskuwit), Hindisa (बिस्कुट “biskut”),
+    Arabisa (بَسْكَوِيت “baskawit”), Niponsa (ビスケット “bisuketo”), Telegusa (బిస్కట్
+    “biskat”), Turkisa (bisküvi), Hangusa (비스킷 “bisukit”), Vyetnamsa (bánh quy, bích
+    quy), Swahilisa (biskuti)
+...

@@ -1,0 +1,76 @@
+---
+term: plasi
+slug: plasi
+ipa: "\u02C8plasi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8plasi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - placement
+    - position
+  - - put
+    - place
+    - position
+    - set
+  epo:
+  - - loko (definita por resti
+    - "kiel \u201Csidloko\u201D)"
+    - lokigi
+  spa:
+  - - "colocaci\xF3n"
+    - "posici\xF3n"
+  - - poner
+    - colocar
+    - posicionar
+    - situar
+search terms:
+  glb:
+  - plasi
+  eng:
+    0: placement
+    1: position
+    2: put
+    3: place
+    5: set
+  epo:
+  - loko definita por resti
+  - loko (definita por resti
+  - "kiel \u201Csidloko\u201D"
+  - lokigi
+  spa:
+  - "colocaci\xF3n"
+  - "posici\xF3n"
+  - poner
+  - colocar
+  - posicionar
+  - situar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - place
+  Fransesa:
+  - - placer
+  Doycisa:
+  - - platzieren
+raw data:
+  term: plasi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: placement, position; put, place, position, set
+    epo: "loko (definita por resti, kiel \u201Csidloko\u201D), lokigi"
+    spa: "colocaci\xF3n, posici\xF3n; poner, colocar, posicionar, situar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (place), Fransesa (placer), Doycisa (platzieren)
+...

@@ -1,0 +1,48 @@
+---
+term: ozbekili
+slug: ozbekili
+ipa: "ozbe\u02C8kili"
+ipa link: "http://ipa-reader.xyz/?text=ozbe\u02C8kili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Uzbek
+  epo:
+  - - uzbeka
+  - - uzbeke
+  spa:
+  - - uzbeko
+search terms:
+  glb:
+  - ozbekili
+  eng:
+  - uzbek
+  epo:
+  - uzbeka
+  - uzbeke
+  spa:
+  - uzbeko
+etymology_type: DERIVD
+etymology: <a href="../lexi/Ozbeki">Ozbeki</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Ozbekili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Uzbek
+    epo: uzbeka; uzbeke
+    spa: uzbeko
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Ozbeki + -li
+...

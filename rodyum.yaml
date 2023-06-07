@@ -1,0 +1,87 @@
+---
+term: rodyum
+slug: rodyum
+ipa: "\u027Eo\u02C8djum"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eo\u02C8djum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - rodium
+  epo:
+  - - rodio
+  spa:
+  - - rodio
+    - Rh
+search terms:
+  glb:
+  - rodyum
+  eng:
+  - rodium
+  epo:
+  - rodio
+  spa:
+  - rodio
+  - rh
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - rodium
+  Espanisa:
+  - - rodio
+  Arabisa:
+  - - "\u0631\u064F\u0648\u062F\u0652\u064A\u064F\u0648\u0645 \u201Crudyum\u201D"
+  Fransesa:
+  - - rhodium
+  Rusisa:
+  - - "\u0440\u043E\u0434\u0438\u0439 \u201Crodiy\u201D"
+  Indonesisa:
+  - - rodium
+  Doycisa:
+  - - Rhodium
+  Niponsa:
+  - - "\u30ED\u30B8\u30A6\u30E0 \u201Crojiumu\u201D"
+  Telugusa:
+  - - "\u0C30\u0C4B\u0C21\u0C3F\u0C2F\u0C02 \u201Crodiyam\u201D"
+  Turkisa:
+  - - rodyum
+  Hangusa:
+  - - "\uB85C\uB4D0 \u201Crodyum\u201D"
+  Vyetnamsa:
+  - - rhodi
+  Parsisa:
+  - - "\u0631\u0648\u062F\u06CC\u0645 \u201Crodyom\u201D"
+  Swahilisa:
+  - - rhodi
+  Pilipinasa:
+  - - rodyo
+    - rhodium
+tags:
+- kimikali monlari
+raw data:
+  term: rodyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: rodium
+    epo: rodio
+    spa: rodio, Rh
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (rodium), Espanisa (rodio), Arabisa (\u0631\u064F\u0648\u062F\u0652\u064A\u064F\u0648\u0645
+    \u201Crudyum\u201D), Fransesa (rhodium), Rusisa (\u0440\u043E\u0434\u0438\u0439
+    \u201Crodiy\u201D), Indonesisa (rodium), Doycisa (Rhodium), Niponsa (\u30ED\u30B8\u30A6\u30E0
+    \u201Crojiumu\u201D), Telugusa (\u0C30\u0C4B\u0C21\u0C3F\u0C2F\u0C02 \u201Crodiyam\u201D),
+    Turkisa (rodyum), Hangusa (\uB85C\uB4D0 \u201Crodyum\u201D), Vyetnamsa (rhodi),
+    Parsisa (\u0631\u0648\u062F\u06CC\u0645 \u201Crodyom\u201D), Swahilisa (rhodi),
+    Pilipinasa (rodyo, rhodium)"
+...

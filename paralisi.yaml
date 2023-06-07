@@ -1,0 +1,82 @@
+---
+term: paralisi
+slug: paralisi
+ipa: "pa\u027Ea\u02C8lisi"
+ipa link: "http://ipa-reader.xyz/?text=pa\u027Ea\u02C8lisi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - paralysis
+    - palsy
+  - - paralyze
+  epo:
+  - - paralizo
+  - - paralizi
+  spa:
+  - - "par\xE1lisis"
+  - - paralizar
+search terms:
+  glb:
+  - paralisi
+  eng:
+  - paralysis
+  - palsy
+  - paralyze
+  epo:
+  - paralizo
+  - paralizi
+  spa:
+  - "par\xE1lisis"
+  - paralizar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - paralysis
+    - paralyze
+  Espanisa:
+  - - "par\xE1lisis"
+    - paralizar
+  Fransesa:
+  - - paralysie
+    - paralyser
+  Rusisa:
+  - - "\u043F\u0430\u0440\u0430\u043B\u0438\u0447 \u201Cparalic\u201D"
+    - "\u043F\u0430\u0440\u0430\u043B\u0438\u0437\u043E\u0432\u0430\u0442\u044C \u201Cparalizovat\u201D"
+  Doycisa:
+  - - Paralyse
+    - paralysieren
+  Indonesisa:
+  - - paralisis
+  Pilipinasa: ~
+  Turkisa:
+  - - paralizi
+  Parsisa:
+  - - "\u067E\u0627\u0631\u0627\u0644\u06CC\u0632"
+tags:
+- medis
+raw data:
+  term: paralisi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: paralysis, palsy; paralyze
+    epo: paralizo; paralizi
+    spa: "par\xE1lisis; paralizar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (paralysis, paralyze), Espanisa (par\xE1lisis, paralizar), Fransesa
+    (paralysie, paralyser), Rusisa (\u043F\u0430\u0440\u0430\u043B\u0438\u0447 \u201Cparalic\u201D,
+    \u043F\u0430\u0440\u0430\u043B\u0438\u0437\u043E\u0432\u0430\u0442\u044C \u201Cparalizovat\u201D),
+    Doycisa (Paralyse, paralysieren), Indonesisa (paralisis), Pilipinasa, Turkisa
+    (paralizi), Parsisa (\u067E\u0627\u0631\u0627\u0644\u06CC\u0632)"
+...

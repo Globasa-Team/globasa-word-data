@@ -1,0 +1,50 @@
+---
+term: nepal
+slug: nepal
+ipa: "ne\u02C8pal"
+ipa link: "http://ipa-reader.xyz/?text=ne\u02C8pal&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Nepal
+  epo:
+  - - Napalo
+  spa:
+  - - Nepal
+search terms:
+  glb:
+  - nepal
+  eng:
+  - nepal
+  epo:
+  - napalo
+  spa:
+  - nepal
+etymology_type: NATLNG
+etymology:
+  Nepalsa:
+  - - "\u0928\u0947\u092A\u093E\u0932 \u201Cnepal\u201D"
+tags:
+- dexa
+raw data:
+  term: Nepal
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Nepal
+    epo: Napalo
+    spa: Nepal
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Nepalsa (\u0928\u0947\u092A\u093E\u0932 \u201Cnepal\u201D)"
+...

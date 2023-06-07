@@ -1,0 +1,58 @@
+---
+term: vinamra
+slug: vinamra
+ipa: "vi\u02C8nam\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=vi\u02C8nam\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - humble
+  epo:
+  - - humila
+  - - humile
+  spa:
+  - - humilde
+search terms:
+  glb:
+  - vinamra
+  eng:
+  - humble
+  epo:
+  - humila
+  - humile
+  spa:
+  - humilde
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0935\u093F\u0928\u092E\u094D\u0930\u0924\u093E \u201Cvinamrata\u201D"
+  Banglasa:
+  - - "\u09A8\u09AE\u09CD\u09B0 \u201Cnamra\u201D"
+  Telugusa:
+  - - "\u0C35\u0C3F\u0C28\u0C2F\u0C02 \u201Cvinaya\u1E41\u201D"
+  Karnatakasa:
+  - - "\u0CB5\u0CBF\u0CA8\u0CAE\u0CCD\u0CB0 \u201Cvinamra\u201D"
+raw data:
+  term: vinamra
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: humble
+    epo: humila; humile
+    spa: humilde
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0935\u093F\u0928\u092E\u094D\u0930\u0924\u093E \u201Cvinamrata\u201D),
+    Banglasa (\u09A8\u09AE\u09CD\u09B0 \u201Cnamra\u201D), Telugusa (\u0C35\u0C3F\u0C28\u0C2F\u0C02
+    \u201Cvinaya\u1E41\u201D), Karnatakasa (\u0CB5\u0CBF\u0CA8\u0CAE\u0CCD\u0CB0 \u201Cvinamra\u201D)"
+...

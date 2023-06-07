@@ -1,0 +1,84 @@
+---
+term: dekora
+slug: dekora
+ipa: deˈkoɾa
+ipa link: http://ipa-reader.xyz/?text=deˈkoɾa&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - decoration
+    - ornament
+  - - decorate
+  epo:
+  - - dekoracio
+    - dekoro
+    - ornamo
+  - - dekoracii
+    - dekori
+    - ornami
+  spa:
+  - - decoración
+    - adorno
+  - - decorar
+    - adornar
+search terms:
+  glb:
+  - dekora
+  eng:
+  - decoration
+  - ornament
+  - decorate
+  epo:
+  - dekoracio
+  - dekoro
+  - ornamo
+  - dekoracii
+  - dekori
+  - ornami
+  spa:
+  - decoración
+  - adorno
+  - decorar
+  - adornar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - decoration
+  Fransesa:
+  - - décoration
+  Doycesa:
+  - - Dekoration
+  Espanisa:
+  - - decoración
+  Niponsa:
+  - - デコレーション “dekorēshon”
+  Turkisa:
+  - - dekorasyon
+  Indonesisa:
+  - - dekorasi
+  Pilipinasa:
+  - - dekorasyon
+raw data:
+  term: dekora
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: decoration, ornament; decorate
+    epo: dekoracio, dekoro, ornamo; dekoracii, dekori, ornami
+    spa: decoración, adorno; decorar, adornar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (decoration), Fransesa (décoration), Doycesa (Dekoration), Espanisa
+    (decoración), Niponsa (デコレーション “dekorēshon”), Turkisa (dekorasyon), Indonesisa
+    (dekorasi), Pilipinasa (dekorasyon)
+...

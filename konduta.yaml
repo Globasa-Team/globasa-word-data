@@ -1,0 +1,58 @@
+---
+term: konduta
+slug: konduta
+ipa: "kon\u02C8duta"
+ipa link: "http://ipa-reader.xyz/?text=kon\u02C8duta&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - behavior
+    - conduct
+  - - behave
+    - act
+  epo:
+  - - konduto
+  - - konduti
+  spa:
+  - - conducta
+    - comportamiento
+  - - comportarse
+search terms:
+  glb:
+  - konduta
+  eng:
+  - behavior
+  - conduct
+  - behave
+  - act
+  epo:
+  - konduto
+  - konduti
+  spa:
+  - conducta
+  - comportamiento
+  - comportarse
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: konduta
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: behavior, conduct; behave, act
+    epo: konduto; konduti
+    spa: conducta, comportamiento; comportarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (conduct), Fransesa (conduite), Espanisa (conducta)
+...

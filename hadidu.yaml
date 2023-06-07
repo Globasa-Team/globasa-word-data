@@ -1,0 +1,54 @@
+---
+term: hadidu
+slug: hadidu
+ipa: xaˈdidu
+ipa link: http://ipa-reader.xyz/?text=xaˈdidu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - iron
+  epo:
+  - - fero
+  spa:
+  - - hierro
+    - Fe
+search terms:
+  glb:
+  - hadidu
+  eng:
+  - iron
+  epo:
+  - fero
+  spa:
+  - hierro
+  - fe
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - حديد “ḥadīd”
+  Maltasa:
+  - - ħadid
+tags:
+- kimikali monlari
+raw data:
+  term: hadidu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: iron
+    epo: fero
+    spa: hierro, Fe
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Arabisa (حديد “ḥadīd”), Maltasa (ħadid)
+...

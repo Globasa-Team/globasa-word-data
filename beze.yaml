@@ -1,0 +1,62 @@
+---
+term: beze
+slug: beze
+ipa: ˈbeze
+ipa link: http://ipa-reader.xyz/?text=ˈbeze&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bee
+    - _Anthophila_
+  epo:
+  - - abelo
+  spa:
+  - - abeja
+    - _Anthophila_
+search terms:
+  glb:
+  - beze
+  eng:
+  - bee
+  - anthophila
+  epo:
+  - abelo
+  spa:
+  - abeja
+  - anthophila
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Fransesa:
+  - - bzzz
+  Englisa:
+  - - buzz
+  Polskasa:
+  - - bzzz
+    - bzyk
+  Turkisa:
+  - - vız
+tags:
+- hewan
+raw data:
+  term: beze
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bee, _Anthophila_
+    epo: abelo
+    spa: abeja, _Anthophila_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: kwasilexi - Fransesa (bzzz), Englisa (buzz), Polskasa (bzzz, bzyk), Turkisa
+    (vız)
+...

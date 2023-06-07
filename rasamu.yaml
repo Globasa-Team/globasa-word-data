@@ -1,0 +1,67 @@
+---
+term: rasamu
+slug: rasamu
+ipa: "\u027Ea\u02C8samu"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8samu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - drawing
+    - illustration
+  - - draw
+    - illustrate
+  epo:
+  - - desegno
+  - - desegni
+  spa:
+  - - dibujo
+  - - dibujar
+search terms:
+  glb:
+  - rasamu
+  eng:
+  - drawing
+  - illustration
+  - draw
+  - illustrate
+  epo:
+  - desegno
+  - desegni
+  spa:
+  - dibujo
+  - dibujar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0631\u0633\u0645 \u201Crasama\u201D"
+    - "\u064A\u064E\u0631\u0652\u0633\u064F\u0645\u064F\u200E\u200E \u201Cyarsumu\u201D"
+    - "\u0631\u064E\u0633\u0652\u0645 \u201Crasm\u201D"
+  Parsisa:
+  - - "\u0631\u0633\u0645 \u06A9\u0631\u062F\u0646\u200E \u201Crasm kardan\u201D"
+  Turkisa:
+  - - resim
+raw data:
+  term: rasamu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: drawing, illustration; draw, illustrate
+    epo: desegno; desegni
+    spa: dibujo; dibujar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0631\u0633\u0645 \u201Crasama\u201D, \u064A\u064E\u0631\u0652\u0633\u064F\u0645\u064F\u200E\u200E
+    \u201Cyarsumu\u201D, \u0631\u064E\u0633\u0652\u0645 \u201Crasm\u201D), Parsisa
+    (\u0631\u0633\u0645 \u06A9\u0631\u062F\u0646\u200E \u201Crasm kardan\u201D), Turkisa
+    (resim)"
+...

@@ -1,0 +1,73 @@
+---
+term: ay
+slug: ay
+ipa: ˈaj
+ipa link: http://ipa-reader.xyz/?text=ˈaj&voice=Ewa
+status: true
+category: root
+word class: il
+trans:
+  eng:
+  - - ouch
+    - ah (_denotes pain or fear_)
+  epo:
+  - - aj
+  spa:
+  - - ay
+search terms:
+  glb:
+  - ay
+  eng:
+  - ouch
+  - ah
+  epo:
+  - aj
+  spa:
+  - ay
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Arabisa: ~
+  Putunhwa:
+  - - 哎哟 “ayyo”
+  Fransesa:
+  - - aïe
+    - ahi
+  Indonesisa: ~
+  Hangusa:
+  - - 아야 “aya”
+  Rusisa:
+  - - ай “ay”
+  Espanisa:
+  - - ay
+  Pilipinasa:
+  - - ay
+    - aray
+  Vyetnamsa:
+  - - ai da
+  Parsisa:
+  - - آی “ay”
+  ji maxya: ~
+tags:
+- intrelogalexi
+raw data:
+  term: ay
+  category: root
+  word class: il
+  status: true
+  trans:
+    eng: ouch, ah (_denotes pain or fear_)
+    epo: aj
+    spa: ay
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: kwasilexi - Arabisa, Putunhwa (哎哟 “ayyo”), Fransesa (aïe, ahi), Indonesisa,
+    Hangusa (아야 “aya”), Rusisa (ай “ay”), Espanisa (ay), Pilipinasa (ay, aray), Vyetnamsa
+    (ai da), Parsisa (آی “ay”), ji maxya
+...

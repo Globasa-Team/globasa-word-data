@@ -1,0 +1,72 @@
+---
+term: awjeti
+slug: awjeti
+ipa: "aw\u02C8d\u0361\u0292eti"
+ipa link: "http://ipa-reader.xyz/?text=aw\u02C8d\u0361\u0292eti&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - elimination
+    - deletion
+  - - throw out
+    - throw away
+    - eliminate
+    - delete
+    - discard
+  epo:
+  - - "for\u0135eto"
+    - forigo
+  - - "for\u0135eti"
+    - forigi
+  spa:
+  - - "eliminaci\xF3n"
+    - "supresi\xF3n"
+  - - descartar
+    - eliminar
+    - suprimir
+search terms:
+  glb:
+  - awjeti
+  eng:
+  - elimination
+  - deletion
+  - throw out
+  - throw away
+  - eliminate
+  - delete
+  - discard
+  epo:
+  - "for\u0135eto"
+  - forigo
+  - "for\u0135eti"
+  - forigi
+  spa:
+  - "eliminaci\xF3n"
+  - "supresi\xF3n"
+  - descartar
+  - eliminar
+  - suprimir
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw-">aw-</a> + <a href="../lexi/jeti">jeti</a>
+raw data:
+  term: awjeti
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: elimination, deletion; throw out, throw away, eliminate, delete, discard
+    epo: "for\u0135eto, forigo; for\u0135eti, forigi"
+    spa: "eliminaci\xF3n, supresi\xF3n; descartar, eliminar, suprimir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aw- + jeti
+...

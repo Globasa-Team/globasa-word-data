@@ -1,0 +1,52 @@
+---
+term: lokali
+slug: lokali
+ipa: "lo\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=lo\u02C8kali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - local
+  - - locally
+  epo:
+  - - loka
+  - - loke
+  spa:
+  - - local
+  - - localmente
+search terms:
+  glb:
+  - lokali
+  eng:
+  - local
+  - locally
+  epo:
+  - loka
+  - loke
+  spa:
+  - local
+  - localmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/loka">loka</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: lokali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: local; locally
+    epo: loka; loke
+    spa: local; localmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: loka + -li
+...

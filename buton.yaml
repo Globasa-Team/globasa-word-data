@@ -1,0 +1,65 @@
+---
+term: buton
+slug: buton
+ipa: buˈton
+ipa link: http://ipa-reader.xyz/?text=buˈton&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - button
+  epo:
+  - - butono
+  - - butoni
+  spa:
+  - - botón
+search terms:
+  glb:
+  - buton
+  eng:
+  - button
+  epo:
+  - butono
+  - butoni
+  spa:
+  - botón
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - button
+  Fransesa:
+  - - bouton
+  Espanisa:
+  - - botón
+  Pilipinasa:
+  - - buton
+  Turkisa:
+  - - buton
+  Hindisa:
+  - - बटन “batan”
+  Niponsa:
+  - - ボタン “botan”
+  Hangusa:
+  - - 버튼 “botun”
+raw data:
+  term: buton
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: button
+    epo: butono; butoni
+    spa: botón
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (button), Fransesa (bouton), Espanisa (botón), Pilipinasa (buton),
+    Turkisa (buton), Hindisa (बटन “batan”), Niponsa (ボタン “botan”), Hangusa (버튼 “botun”)
+...

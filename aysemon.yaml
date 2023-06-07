@@ -1,0 +1,52 @@
+---
+term: aysemon
+slug: aysemon
+ipa: "ajse\u02C8mon"
+ipa link: "http://ipa-reader.xyz/?text=ajse\u02C8mon&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - piece of ice
+  epo:
+  - - glacibloketo
+    - glacikubo
+    - glaciero
+  spa:
+  - - pedazo de hielo
+search terms:
+  glb:
+  - aysemon
+  eng:
+  - piece of ice
+  epo:
+  - glacibloketo
+  - glacikubo
+  - glaciero
+  spa:
+  - pedazo de hielo
+etymology_type: DERIVD
+etymology: <a href="../lexi/ayse">ayse</a> + <a href="../lexi/-mon">-mon</a>
+tags:
+- xey
+raw data:
+  term: aysemon
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: piece of ice
+    epo: glacibloketo, glacikubo, glaciero
+    spa: pedazo de hielo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: xey
+  etymology: ayse + -mon
+...

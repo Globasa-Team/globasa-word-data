@@ -1,0 +1,52 @@
+---
+term: daylil
+slug: daylil
+ipa: "daj\u02C8lil"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8lil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - tiny
+  epo:
+  - - eta
+    - malgrandega
+  - - ete
+    - malgrandege
+  spa:
+  - - diminuto
+search terms:
+  glb:
+  - daylil
+  eng:
+  - tiny
+  epo:
+  - eta
+  - malgrandega
+  - ete
+  - malgrandege
+  spa:
+  - diminuto
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/lil">lil</a>
+raw data:
+  term: daylil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: tiny
+    epo: eta, malgrandega; ete, malgrandege
+    spa: diminuto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + lil
+...

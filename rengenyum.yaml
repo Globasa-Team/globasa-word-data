@@ -1,0 +1,93 @@
+---
+term: rengenyum
+slug: rengenyum
+ipa: "\u027Eenge\u02C8njum"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eenge\u02C8njum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - roentgenium
+  epo:
+  - - rentgenio
+  spa:
+  - - roentgenio
+    - Rg
+search terms:
+  glb:
+  - rengenyum
+  eng:
+  - roentgenium
+  epo:
+  - rentgenio
+  spa:
+  - roentgenio
+  - rg
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - roentgenium
+  Hindisa:
+  - - "\u0930\u0947\u0928\u094D\u091F\u091C\u0947\u0928\u093F\u092F\u092E \u201Crentjeniyam\u201D"
+  Espanisa:
+  - - roentgenio
+  Arabisa:
+  - - "\u0631\u064F\u0648\u0646\u0652\u062A\u0652\u062C\u0650\u064A\u0646\u0652\u064A\u064F\u0648\u0645
+      \u201Crontginyum\u201D"
+  Fransesa:
+  - - roentgenium
+  Rusisa:
+  - - "\u0440\u0435\u043D\u0442\u0433\u0435\u043D\u0438\u0439 \u201Crentgeniy\u201D"
+  Indonesisa:
+  - - roentgenium
+  Doycisa:
+  - - Roentgenium
+    - "R\xF6ntgenium"
+  Niponsa:
+  - - "\u30EC\u30F3\u30C8\u30B2\u30CB\u30A6\u30E0 \u201Crentogeniumu\u201D"
+  Telugusa:
+  - - "\u0C30\u0C4B\u0C2F\u0C46\u0C02\u0C1F\u0C4D\u200C\u0C1C\u0C40\u0C28\u0C3F\u0C2F\u0C02
+      \u201Croyenjiniyam\u201D"
+  Turkisa:
+  - - "r\xF6ntgenyum"
+  Hangusa:
+  - - "\uB8B4\uD2B8\uAC8C\uB284 \u201Crwentugenyum\u201D"
+  Vyetnamsa:
+  - - roengeni
+  Parsisa:
+  - - "\u0631\u0648\u0646\u062A\u06AF\u0646\u06CC\u0648\u0645 \u201Crontgeniyom\u201D"
+  Swahilisa:
+  - - roentgeni
+  Pilipinasa:
+  - - roentgenyo
+tags:
+- kimikali monlari
+raw data:
+  term: rengenyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: roentgenium
+    epo: rentgenio
+    spa: roentgenio, Rg
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (roentgenium), Hindisa (\u0930\u0947\u0928\u094D\u091F\u091C\u0947\u0928\u093F\u092F\u092E
+    \u201Crentjeniyam\u201D), Espanisa (roentgenio), Arabisa (\u0631\u064F\u0648\u0646\u0652\u062A\u0652\u062C\u0650\u064A\u0646\u0652\u064A\u064F\u0648\u0645
+    \u201Crontginyum\u201D), Fransesa (roentgenium), Rusisa (\u0440\u0435\u043D\u0442\u0433\u0435\u043D\u0438\u0439
+    \u201Crentgeniy\u201D), Indonesisa (roentgenium), Doycisa (Roentgenium, R\xF6ntgenium),
+    Niponsa (\u30EC\u30F3\u30C8\u30B2\u30CB\u30A6\u30E0 \u201Crentogeniumu\u201D),
+    Telugusa (\u0C30\u0C4B\u0C2F\u0C46\u0C02\u0C1F\u0C4D\u200C\u0C1C\u0C40\u0C28\u0C3F\u0C2F\u0C02
+    \u201Croyenjiniyam\u201D), Turkisa (r\xF6ntgenyum), Hangusa (\uB8B4\uD2B8\uAC8C\uB284
+    \u201Crwentugenyum\u201D), Vyetnamsa (roengeni), Parsisa (\u0631\u0648\u0646\u062A\u06AF\u0646\u06CC\u0648\u0645
+    \u201Crontgeniyom\u201D), Swahilisa (roentgeni), Pilipinasa (roentgenyo)"
+...

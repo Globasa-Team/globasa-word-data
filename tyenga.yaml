@@ -1,0 +1,57 @@
+---
+term: tyenga
+slug: tyenga
+ipa: "\u02C8tjenga"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tjenga&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - swan
+    - _Cygnus_
+  epo:
+  - - cigno
+  spa:
+  - - cisne
+    - _Cygnus_
+search terms:
+  glb:
+  - tyenga
+  eng:
+  - swan
+  - cygnus
+  epo:
+  - cigno
+  spa:
+  - cisne
+  - cygnus
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5929\u9E45 \u201Cti\u0101n'\xE9\u201D"
+  Vyetnamsa:
+  - - "thi\xEAn nga"
+tags:
+- hewan
+raw data:
+  term: tyenga
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: swan, _Cygnus_
+    epo: cigno
+    spa: cisne, _Cygnus_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Putunhwa (\u5929\u9E45 \u201Cti\u0101n'\xE9\u201D), Vyetnamsa (thi\xEAn
+    nga)"
+...

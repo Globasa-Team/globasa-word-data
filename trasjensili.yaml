@@ -1,0 +1,53 @@
+---
+term: trasjensili
+slug: trasjensili
+ipa: "t\u027Easd\u0361\u0292en\u02C8sili"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Easd\u0361\u0292en\u02C8sili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - transgender
+    - transsexual
+  epo:
+  - - transseksa
+    - transgenra
+  spa:
+  - - "transg\xE9nero"
+search terms:
+  glb:
+  - trasjensili
+  eng:
+  - transgender
+  - transsexual
+  epo:
+  - transseksa
+  - transgenra
+  spa:
+  - "transg\xE9nero"
+etymology_type: DERIVD
+etymology: <a href="../lexi/tras-">tras-</a> + <a href="../lexi/jensi">jensi</a> +
+  <a href="../lexi/-li">-li</a>
+synonyms:
+- trasli
+raw data:
+  term: trasjensili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: transgender, transsexual
+    epo: transseksa, transgenra
+    spa: "transg\xE9nero"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: trasli
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tras- + jensi + -li
+...

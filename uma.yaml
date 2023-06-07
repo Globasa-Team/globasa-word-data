@@ -1,0 +1,56 @@
+---
+term: uma
+slug: uma
+ipa: "\u02C8uma"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8uma&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - horse
+    - _Equidae_
+  epo:
+  - - "\u0109evalo"
+  spa:
+  - - caballo
+    - _Equidae_
+search terms:
+  glb:
+  - uma
+  eng:
+  - horse
+  - equidae
+  epo:
+  - "\u0109evalo"
+  spa:
+  - caballo
+  - equidae
+etymology_type: NATLNG
+etymology:
+  Niponsa:
+  - - "\u99AC \u201Cuma\u201D"
+  Putunhwa:
+  - - "\u9A6C \u201Cm\u01CE\u201D"
+tags:
+- hewan
+raw data:
+  term: uma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: horse, _Equidae_
+    epo: "\u0109evalo"
+    spa: caballo, _Equidae_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Niponsa (\u99AC \u201Cuma\u201D), Putunhwa (\u9A6C \u201Cm\u01CE\u201D)"
+...

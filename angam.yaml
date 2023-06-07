@@ -1,0 +1,61 @@
+---
+term: angam
+slug: angam
+ipa: anˈgam
+ipa link: http://ipa-reader.xyz/?text=anˈgam&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - limb
+  epo:
+  - - membro (de korpo)
+  spa:
+  - - extremidad
+    - miembro (del cuerpo)
+search terms:
+  glb:
+  - angam
+  eng:
+  - limb
+  epo:
+  - membro de korpo
+  - membro
+  spa:
+  - extremidad
+  - miembro del cuerpo
+  - miembro
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - anggota
+  Hindisa:
+  - - अंग “ang”
+  Telugusa:
+  - - అంగము “angamu”
+  Parsisa:
+  - - اندام “andam”
+tags:
+- jismulogi
+raw data:
+  term: angam
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: limb
+    epo: membro (de korpo)
+    spa: extremidad, miembro (del cuerpo)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Indonesisa (anggota), Hindisa (अंग “ang”), Telugusa (అంగము “angamu”),
+    Parsisa (اندام “andam”)
+...

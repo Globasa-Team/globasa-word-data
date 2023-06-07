@@ -1,0 +1,51 @@
+---
+term: halazun
+slug: halazun
+ipa: "xala\u02C8zun"
+ipa link: "http://ipa-reader.xyz/?text=xala\u02C8zun&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - snail
+  epo:
+  - - heliko
+    - limako
+  spa:
+  - - caracol
+search terms:
+  glb:
+  - halazun
+  eng:
+  - snail
+  epo:
+  - heliko
+  - limako
+  spa:
+  - caracol
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- hewan
+raw data:
+  term: halazun
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: snail
+    epo: heliko, limako
+    spa: caracol
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Arabisa (\u062D\u064E\u0644\u064E\u0632\u064F\u0648\u0646 \u201C\u1E25alaz\u016Bn\u201D),
+    Parsisa (\u062D\u0644\u0632\u0648\u0646 \u201Chalazun\u201D)"
+...

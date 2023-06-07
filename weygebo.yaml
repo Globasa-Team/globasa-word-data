@@ -1,0 +1,52 @@
+---
+term: weygebo
+slug: weygebo
+ipa: "wej\u02C8gebo"
+ipa link: "http://ipa-reader.xyz/?text=wej\u02C8gebo&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - hug
+    - embrace
+  epo:
+  - - brakumo
+  - - brakumi
+  spa:
+  - - abrazo
+  - - abrazar
+search terms:
+  glb:
+  - weygebo
+  eng:
+  - hug
+  - embrace
+  epo:
+  - brakumo
+  - brakumi
+  spa:
+  - abrazo
+  - abrazar
+etymology_type: DERIVD
+etymology: <a href="../lexi/wey">wey</a> + <a href="../lexi/gebo">gebo</a>
+raw data:
+  term: weygebo
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: hug, embrace
+    epo: brakumo; brakumi
+    spa: abrazo; abrazar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: wey + gebo
+...

@@ -1,0 +1,54 @@
+---
+term: kamer
+slug: kamer
+ipa: "ka\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8me\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - room
+    - chamber
+  epo:
+  - - "\u0109ambro"
+  spa:
+  - - "habitaci\xF3n"
+    - cuarto
+    - sala
+search terms:
+  glb:
+  - kamer
+  eng:
+  - room
+  - chamber
+  epo:
+  - "\u0109ambro"
+  spa:
+  - "habitaci\xF3n"
+  - cuarto
+  - sala
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kamer
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: room, chamber
+    epo: "\u0109ambro"
+    spa: "habitaci\xF3n, cuarto, sala"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Espanisa (c\xE1mara), Doycisa (Kammer), Hindisa (\u0915\u092E\u0930\u093E
+    \u201Ckamra\u201D), Indonesisa (kamar), Turkisa (kamara), Arabisa (\u0642\u064E\u0645\u064E\u0631\u064E\u0629
+    \u201Cqamara\u201D)"
+...

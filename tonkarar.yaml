@@ -1,0 +1,50 @@
+---
+term: tonkarar
+slug: tonkarar
+ipa: "tonka\u02C8\u027Ea\u027E"
+ipa link: "http://ipa-reader.xyz/?text=tonka\u02C8\u027Ea\u027E&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - agreement (_decision_)
+    - consent
+  - - agree (to)
+    - consent
+  spa:
+  - - "decisi\xF3n en conjunto"
+  - - decidir
+search terms:
+  glb:
+  - tonkarar
+  eng:
+  - agreement
+  - consent
+  - agree to
+  - agree
+  spa:
+  - "decisi\xF3n en conjunto"
+  - decidir
+etymology_type: DERIVD
+etymology: <a href="../lexi/ton-">ton-</a> + <a href="../lexi/karar">karar</a>
+raw data:
+  term: tonkarar
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: agreement (_decision_), consent; agree (to), consent
+    epo: ""
+    spa: "decisi\xF3n en conjunto; decidir"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ton- + karar
+...

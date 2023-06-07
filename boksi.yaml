@@ -1,0 +1,85 @@
+---
+term: boksi
+slug: boksi
+ipa: ˈboksi
+ipa link: http://ipa-reader.xyz/?text=ˈboksi&voice=Ewa
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - boxing
+  - - box (combat sport)
+  epo:
+  - - bokso
+    - boksado
+  - - boksi
+  spa:
+  - - boxeo
+    - pugilismo
+  - - boxear
+  deu:
+  - - Boxen
+  - - boxen
+search terms:
+  glb:
+  - boksi
+  eng:
+  - boxing
+  - box combat sport
+  - box
+  epo:
+  - bokso
+  - boksado
+  - boksi
+  spa:
+  - boxeo
+  - pugilismo
+  - boxear
+  deu:
+  - boxen
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - boxing
+  Espanisa:
+  - - boxeo
+  Fransesa:
+  - - boxe
+  Rusisa:
+  - - бокс “boks”
+  Doycisa:
+  - - Boxen
+  Pilipinasa:
+  - - boksing
+  'Hindisa: बॉक्सिंग “bŏksiṅg”)': ~
+  Niponsa:
+  - - ボクシング “bokuxingu”
+  Turkisa:
+  - - boks
+  Hangusa:
+  - - 복싱 “boksing”
+  Parsisa:
+  - - بوکس‎ “boks”
+raw data:
+  term: boksi
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: boxing; box (combat sport)
+    epo: bokso, boksado; boksi
+    spa: boxeo, pugilismo; boxear
+    deu: Boxen; boxen
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'Englisa (boxing), Espanisa (boxeo), Fransesa (boxe), Rusisa (бокс “boks”),
+    Doycisa (Boxen), Pilipinasa (boksing), Hindisa: बॉक्सिंग “bŏksiṅg”), Niponsa (ボクシング
+    “bokuxingu”), Turkisa (boks), Hangusa (복싱 “boksing”), Parsisa (بوکس‎ “boks”)'
+...

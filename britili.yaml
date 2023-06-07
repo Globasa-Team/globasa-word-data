@@ -1,0 +1,48 @@
+---
+term: britili
+slug: britili
+ipa: "b\u027Ei\u02C8tili"
+ipa link: "http://ipa-reader.xyz/?text=b\u027Ei\u02C8tili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - British
+  epo:
+  - - brita
+  - - brite
+  spa:
+  - - "brit\xE1nico"
+search terms:
+  glb:
+  - britili
+  eng:
+  - british
+  epo:
+  - brita
+  - brite
+  spa:
+  - "brit\xE1nico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Briti">Briti</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Britili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: British
+    epo: brita; brite
+    spa: "brit\xE1nico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Briti + -li
+...

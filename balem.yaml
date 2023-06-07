@@ -1,0 +1,54 @@
+---
+term: balem
+slug: balem
+ipa: baˈlem
+ipa link: http://ipa-reader.xyz/?text=baˈlem&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - spear
+    - lance
+  epo:
+  - - lanco
+  spa:
+  - - lanza
+search terms:
+  glb:
+  - balem
+  eng:
+  - spear
+  - lance
+  epo:
+  - lanco
+  spa:
+  - lanza
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - भाला "bala"
+  Telugusa:
+  - - బల్లెము "balemu"
+tags:
+- tul
+raw data:
+  term: balem
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: spear, lance
+    epo: lanco
+    spa: lanza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: tul
+  etymology: Hindisa (भाला "bala"), Telugusa (బల్లెము "balemu")
+...

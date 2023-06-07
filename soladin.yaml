@@ -1,0 +1,48 @@
+---
+term: soladin
+slug: soladin
+ipa: "sola\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=sola\u02C8din&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Sunday
+  epo:
+  - - "diman\u0109o"
+  spa:
+  - - domingo
+search terms:
+  glb:
+  - soladin
+  eng:
+  - sunday
+  epo:
+  - "diman\u0109o"
+  spa:
+  - domingo
+etymology_type: DERIVD
+etymology: <a href="../lexi/Sola">Sola</a> + <a href="../lexi/-din">-din</a>
+tags:
+- din
+raw data:
+  term: soladin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Sunday
+    epo: "diman\u0109o"
+    spa: domingo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: din
+  etymology: Sola + -din
+...

@@ -1,0 +1,48 @@
+---
+term: har-
+slug: har-
+ipa: "\u02C8xa\u027E-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xa\u027E-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - with (having)
+  epo:
+  - - kun- (havante)
+  spa:
+  - - con
+search terms:
+  glb:
+  - har-
+  eng:
+  - with having
+  - with
+  epo:
+  - kun- havante
+  - kun-
+  spa:
+  - con
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/hare">hare</a>.
+raw data:
+  term: har-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: with (having)
+    epo: kun- (havante)
+    spa: con
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _hare_.
+...

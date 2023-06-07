@@ -1,0 +1,47 @@
+---
+term: hariri
+slug: hariri
+ipa: "xa\u02C8\u027Ei\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8\u027Ei\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - silk
+  epo:
+  - - silko
+  spa:
+  - - seda
+search terms:
+  glb:
+  - hariri
+  eng:
+  - silk
+  epo:
+  - silko
+  spa:
+  - seda
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hariri
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: silk
+    epo: silko
+    spa: seda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u064E\u0631\u0650\u064A\u0631 \u201Charir\u201D), Parsisa
+    (\u062D\u0631\u06CC\u0631 \u201Charir\u201D), Swahilisa (hariri)"
+...

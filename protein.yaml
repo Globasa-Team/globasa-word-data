@@ -1,0 +1,72 @@
+---
+term: protein
+slug: protein
+ipa: "p\u027Eote\u02C8in"
+ipa link: "http://ipa-reader.xyz/?text=p\u027Eote\u02C8in&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - protein
+  epo:
+  - - proteino
+  spa:
+  - - "prote\xEDna"
+search terms:
+  glb:
+  - protein
+  eng:
+  - protein
+  epo:
+  - proteino
+  spa:
+  - "prote\xEDna"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - protein
+  Indonesisa: ~
+  Doycisa: ~
+  Turkisa: ~
+  Vyetnamese: ~
+  Arabisa:
+  - - "\u0628\u0631\u0648\u062A\u064A\u0646 \u201Cbrutin\u201D"
+  Espanisa:
+  - - "prote\xEDna"
+  Fransesa:
+  - - "prot\xE9ine"
+  Hindisa:
+  - - "\u092A\u094D\u0930\u094B\u091F\u0940\u0928 \u201Cprotin\u201D"
+  Niponsa:
+  - - "\u30D7\u30ED\u30C6\u30A4\u30F3 \u201Cpurotein\u201D"
+  Parsisa:
+  - - "\u067E\u0631\u0648\u062A\u0626\u06CC\u0646\u200E \u201Cporotein\u201D"
+  Swahilisa:
+  - - protini
+  Pilipinasa:
+  - - protina
+raw data:
+  term: protein
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: protein
+    epo: proteino
+    spa: "prote\xEDna"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (protein), Indonesisa, Doycisa, Turkisa, Vyetnamese, Arabisa
+    (\u0628\u0631\u0648\u062A\u064A\u0646 \u201Cbrutin\u201D), Espanisa (prote\xEDna),
+    Fransesa (prot\xE9ine), Hindisa (\u092A\u094D\u0930\u094B\u091F\u0940\u0928 \u201Cprotin\u201D),
+    Niponsa (\u30D7\u30ED\u30C6\u30A4\u30F3 \u201Cpurotein\u201D), Parsisa (\u067E\u0631\u0648\u062A\u0626\u06CC\u0646\u200E
+    \u201Cporotein\u201D), Swahilisa (protini), Pilipinasa (protina)"
+...

@@ -1,0 +1,55 @@
+---
+term: lefe dento
+slug: lefe dento
+ipa: "\u02C8lefe \u02C8dento"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lefe \u02C8dento&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - beforehand
+    - previously
+  epo:
+  - - "anta\u016D tio"
+    - "anta\u016De"
+  spa:
+  - - previamente
+    - antes de eso
+search terms:
+  glb:
+  - lefe dento
+  - lefe
+  - dento
+  eng:
+  - beforehand
+  - previously
+  epo:
+  - "anta\u016D tio"
+  - "anta\u016De"
+  spa:
+  - previamente
+  - antes de eso
+etymology_type: DERIVD
+etymology: <a href="../lexi/le-">le-</a> + <a href="../lexi/fe">fe</a>, <a href="../lexi/den">den</a>
+  + <a href="../lexi/to">to</a>
+raw data:
+  term: lefe dento
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: beforehand, previously
+    epo: "anta\u016D tio, anta\u016De"
+    spa: previamente, antes de eso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: le- + fe, den + to
+...

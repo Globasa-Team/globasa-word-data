@@ -1,0 +1,61 @@
+---
+term: pifu
+slug: pifu
+ipa: "\u02C8pifu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pifu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - skin
+  - - touch
+  epo:
+  - - "ha\u016Dto"
+  - - "tu\u015Di"
+  spa:
+  - - piel
+  - - tocar
+search terms:
+  glb:
+  - pifu
+  eng:
+  - skin
+  - touch
+  epo:
+  - "ha\u016Dto"
+  - "tu\u015Di"
+  spa:
+  - piel
+  - tocar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u76AE\u80A4 \u201Cp\xEDf\u016B\u201D"
+  Hangusa:
+  - - "\uD53C\uBD80 \u201Cpibu\u201D"
+  Niponsa:
+  - - "\u76AE\u819A \u201Chifu\u201D"
+tags:
+- jismulogi
+raw data:
+  term: pifu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: skin; touch
+    epo: "ha\u016Dto; tu\u015Di"
+    spa: piel; tocar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Putunhwa  (\u76AE\u80A4 \u201Cp\xEDf\u016B\u201D), Hangusa (\uD53C\uBD80
+    \u201Cpibu\u201D), Niponsa (\u76AE\u819A \u201Chifu\u201D)"
+...

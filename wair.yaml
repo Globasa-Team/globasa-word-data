@@ -1,0 +1,58 @@
+---
+term: wair
+slug: wair
+ipa: "wa\u02C8i\u027E"
+ipa link: "http://ipa-reader.xyz/?text=wa\u02C8i\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - wire
+  epo:
+  - - drato
+  spa:
+  - - alambre
+search terms:
+  glb:
+  - wair
+  eng:
+  - wire
+  epo:
+  - drato
+  spa:
+  - alambre
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - wire
+  Hindisa:
+  - - "\u0935\u093E\u092F\u0930 \u201Cvayar\u201D"
+  Telugusa:
+  - - "\u0C35\u0C48\u0C30\u0C4D \u201Cvair\u201D"
+  Niponsa:
+  - - "\u30EF\u30A4\u30E4\u30FC \u201Cwaiya\u201D"
+  Swahilisa:
+  - - waya
+raw data:
+  term: wair
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: wire
+    epo: drato
+    spa: alambre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (wire), Hindisa (\u0935\u093E\u092F\u0930 \u201Cvayar\u201D),
+    Telugusa (\u0C35\u0C48\u0C30\u0C4D \u201Cvair\u201D), Niponsa (\u30EF\u30A4\u30E4\u30FC
+    \u201Cwaiya\u201D), Swahilisa (waya)"
+...

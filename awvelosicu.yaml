@@ -1,0 +1,51 @@
+---
+term: awvelosicu
+slug: awvelosicu
+ipa: "awvelo\u02C8sit\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=awvelo\u02C8sit\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - hurry away
+    - hurry off
+  epo:
+  - - "forrapidi\u011Do"
+  - - "forrapidi\u011Di"
+  spa:
+  - - darse prisa para irse
+search terms:
+  glb:
+  - awvelosicu
+  eng:
+  - hurry away
+  - hurry off
+  epo:
+  - "forrapidi\u011Do"
+  - "forrapidi\u011Di"
+  spa:
+  - darse prisa para irse
+etymology_type: DERIVD
+etymology: <a href="../lexi/aw-">aw-</a> + <a href="../lexi/velosi">velosi</a> + <a
+  href="../lexi/-cu">-cu</a>
+raw data:
+  term: awvelosicu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: hurry away, hurry off
+    epo: "forrapidi\u011Do; forrapidi\u011Di"
+    spa: darse prisa para irse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: hurry away, hurry, hurry off
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aw- + velosi + -cu
+...

@@ -1,0 +1,46 @@
+---
+term: doycili
+slug: doycili
+ipa: "doj\u02C8t\u0361\u0283ili"
+ipa link: "http://ipa-reader.xyz/?text=doj\u02C8t\u0361\u0283ili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - German
+  epo:
+  - - germana
+  spa:
+  - - "alem\xE1n"
+search terms:
+  glb:
+  - doycili
+  eng:
+  - german
+  epo:
+  - germana
+  spa:
+  - "alem\xE1n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Doyci">Doyci</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Doycili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: German
+    epo: germana
+    spa: "alem\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doyci + -li
+...

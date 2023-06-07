@@ -1,0 +1,54 @@
+---
+term: nenjixi
+slug: nenjixi
+ipa: "nen\u02C8d\u0361\u0292i\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=nen\u02C8d\u0361\u0292i\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - ignorance
+  - - be ignorant of
+    - not know
+  epo:
+  - - nescio
+  - - nescii
+  spa:
+  - - ignorancia
+  - - no saber
+search terms:
+  glb:
+  - nenjixi
+  eng:
+  - ignorance
+  - be ignorant of
+  - not know
+  epo:
+  - nescio
+  - nescii
+  spa:
+  - ignorancia
+  - no saber
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/jixi">jixi</a>
+raw data:
+  term: nenjixi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: ignorance; be ignorant of, not know
+    epo: nescio; nescii
+    spa: ignorancia; no saber
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + jixi
+...

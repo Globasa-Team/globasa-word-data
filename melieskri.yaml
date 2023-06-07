@@ -1,0 +1,50 @@
+---
+term: melieskri
+slug: melieskri
+ipa: "meli\u02C8esk\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=meli\u02C8esk\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - calligraphy
+  epo:
+  - - kaligrafio
+    - belskribo
+  - - belskribi
+  spa:
+  - - "caligraf\xEDa"
+search terms:
+  glb:
+  - melieskri
+  eng:
+  - calligraphy
+  epo:
+  - kaligrafio
+  - belskribo
+  - belskribi
+  spa:
+  - "caligraf\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/meli-">meli-</a> + <a href="../lexi/eskri">eskri</a>
+raw data:
+  term: melieskri
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: calligraphy
+    epo: kaligrafio, belskribo; belskribi
+    spa: "caligraf\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: meli- + eskri
+...

@@ -1,0 +1,89 @@
+---
+term: pijama
+slug: pijama
+ipa: "pi\u02C8d\u0361\u0292ama"
+ipa link: "http://ipa-reader.xyz/?text=pi\u02C8d\u0361\u0292ama&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pyjamas
+    - pajamas
+  epo:
+  - - "pi\u0135amo"
+  spa:
+  - - pijama
+    - piyama
+search terms:
+  glb:
+  - pijama
+  eng:
+  - pyjamas
+  - pajamas
+  epo:
+  - "pi\u0135amo"
+  spa:
+  - pijama
+  - piyama
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pyjama
+  Fransesa: ~
+  Doycisa: ~
+  Espanisa:
+  - - pijama
+  Rusisa:
+  - - "\u043F\u0438\u0436\u0430\u043C\u0430 \u201Cpijama\u201D"
+  Indonesisa:
+  - - piyama
+  Pilipinasa:
+  - - padyama
+  Hindisa:
+  - - "\u092A\u093E\u092F\u091C\u093E\u092E\u093E \u201Cpayjama\u201D"
+  Arabisa:
+  - - "\u0628\u0650\u062C\u064E\u0627\u0645\u064E\u0629 \u201Cbijama\u201D"
+  Niponsa:
+  - - "\u30D1\u30B8\u30E3\u30DE \u201Cpajama\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C48\u0C1C\u0C3E\u0C2E\u0C3E \u201Cpayjama\u201D"
+  Turkisa:
+  - - pijama
+  Vyetnamsa: ~
+  Hangusa:
+  - - "\uD30C\uC790\uB9C8 \u201Cpajama\u201D"
+  Parsisa:
+  - - "\u067E\u0627\u06CC\u062C\u0627\u0645\u0647 \u201Cpayjame\u201D"
+    - "\u067E\u06CC\u0698\u0627\u0645\u0647 \u201Cpijame\u201D"
+  Swahilisa:
+  - - panjama
+tags:
+- labas
+raw data:
+  term: pijama
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pyjamas, pajamas
+    epo: "pi\u0135amo"
+    spa: pijama, piyama
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Englisa (pyjama), Fransesa, Doycisa, Espanisa (pijama), Rusisa (\u043F\u0438\u0436\u0430\u043C\u0430
+    \u201Cpijama\u201D), Indonesisa (piyama), Pilipinasa (padyama), Hindisa (\u092A\u093E\u092F\u091C\u093E\u092E\u093E
+    \u201Cpayjama\u201D), Arabisa (\u0628\u0650\u062C\u064E\u0627\u0645\u064E\u0629
+    \u201Cbijama\u201D), Niponsa (\u30D1\u30B8\u30E3\u30DE \u201Cpajama\u201D), Telugusa
+    (\u0C2A\u0C48\u0C1C\u0C3E\u0C2E\u0C3E \u201Cpayjama\u201D), Turkisa (pijama),
+    Vyetnamsa, Hangusa (\uD30C\uC790\uB9C8 \u201Cpajama\u201D), Parsisa (\u067E\u0627\u06CC\u062C\u0627\u0645\u0647
+    \u201Cpayjame\u201D, \u067E\u06CC\u0698\u0627\u0645\u0647 \u201Cpijame\u201D),
+    Swahilisa (panjama)"
+...

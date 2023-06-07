@@ -1,0 +1,48 @@
+---
+term: filmedom
+slug: filmedom
+ipa: "filme\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=filme\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - movie theater
+    - cinema
+  epo:
+  - - kinejo
+  spa:
+  - - cine
+search terms:
+  glb:
+  - filmedom
+  eng:
+  - movie theater
+  - cinema
+  epo:
+  - kinejo
+  spa:
+  - cine
+etymology_type: DERIVD
+etymology: <a href="../lexi/filme">filme</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: filmedom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: movie theater, cinema
+    epo: kinejo
+    spa: cine
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: filme + -dom
+...

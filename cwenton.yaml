@@ -1,0 +1,55 @@
+---
+term: cwenton
+slug: cwenton
+ipa: t͡ʃwenˈton
+ipa link: http://ipa-reader.xyz/?text=t͡ʃwenˈton&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tradition
+  epo:
+  - - tradicio
+  spa:
+  - - tradición
+search terms:
+  glb:
+  - cwenton
+  eng:
+  - tradition
+  epo:
+  - tradicio
+  spa:
+  - tradición
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 传统 “chuántǒng”
+  Hangusa:
+  - - 전통 “jeontong”
+  Vyetnamsa:
+  - - truyền thống
+  Niponsa:
+  - - 伝統 “dentō”
+raw data:
+  term: cwenton
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tradition
+    epo: tradicio
+    spa: tradición
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (传统 “chuántǒng”), Hangusa (전통 “jeontong”), Vyetnamsa (truyền
+    thống), Niponsa (伝統 “dentō”)
+...

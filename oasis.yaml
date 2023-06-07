@@ -1,0 +1,87 @@
+---
+term: oasis
+slug: oasis
+ipa: "oa\u02C8sis"
+ipa link: "http://ipa-reader.xyz/?text=oa\u02C8sis&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - oasis
+  epo:
+  - - oazo
+  spa:
+  - - oasis
+  deu:
+  - - Oase
+  fra:
+  - - oasis
+  rus:
+  - - "\u043E\u0430\u0437\u0438\u0441"
+  zho:
+  - - "\u7EFF\u6D32"
+search terms:
+  glb:
+  - oasis
+  eng:
+  - oasis
+  epo:
+  - oazo
+  spa:
+  - oasis
+  deu:
+  - oase
+  fra:
+  - oasis
+  rus:
+  - "\u043E\u0430\u0437\u0438\u0441"
+  zho:
+  - "\u7EFF\u6D32"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - oasis
+  Espanisa:
+  - - oasis
+  Fransesa:
+  - - oasis
+  Rusisa:
+  - - "\u043E\u0430\u0437\u0438\u0441 \u201Coazis\u201D"
+  Doycisa:
+  - - Oase
+  Pilipinasa:
+  - - owasis
+    - oasis
+  Niponsa:
+  - - "\u30AA\u30A2\u30B7\u30B9 \u201Coaxisu\u201D"
+  Telugusa:
+  - - "\u0C12\u0C2F\u0C3E\u0C38\u0C3F\u0C38\u0C4D\u0C38\u0C41 \u201Coyasisu\u201D"
+  Hangusa:
+  - - "\uC624\uC544\uC2DC\uC2A4 \u201Coasisu\u201D"
+  Swahilisa:
+  - - oasisi
+raw data:
+  term: oasis
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: oasis
+    epo: oazo
+    spa: oasis
+    deu: Oase
+    fra: oasis
+    rus: "\u043E\u0430\u0437\u0438\u0441"
+    zho: "\u7EFF\u6D32"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (oasis), Espanisa (oasis), Fransesa (oasis), Rusisa (\u043E\u0430\u0437\u0438\u0441
+    \u201Coazis\u201D), Doycisa (Oase), Pilipinasa (owasis, oasis), Niponsa (\u30AA\u30A2\u30B7\u30B9
+    \u201Coaxisu\u201D), Telugusa (\u0C12\u0C2F\u0C3E\u0C38\u0C3F\u0C38\u0C4D\u0C38\u0C41
+    \u201Coyasisu\u201D), Hangusa (\uC624\uC544\uC2DC\uC2A4 \u201Coasisu\u201D), Swahilisa
+    (oasisi)"
+...

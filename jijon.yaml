@@ -1,0 +1,53 @@
+---
+term: jijon
+slug: jijon
+ipa: "d\u0361\u0292i\u02C8d\u0361\u0292on"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292i\u02C8d\u0361\u0292on&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - hit (_target
+    - etc._)
+  epo:
+  - - trafo
+  - - trafi
+  spa:
+  - - blanco
+  - - dar en el blanco
+search terms:
+  glb:
+  - jijon
+  eng:
+  - hit target
+  - hit (_target
+  - etc.
+  epo:
+  - trafo
+  - trafi
+  spa:
+  - blanco
+  - dar en el blanco
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jijon
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: hit (_target, etc._)
+    epo: trafo; trafi
+    spa: blanco; dar en el blanco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa  (\u51FB\u4E2D \u201Cj\xED zh\xF2ng\u201D)"
+...

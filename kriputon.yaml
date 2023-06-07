@@ -1,0 +1,56 @@
+---
+term: kriputon
+slug: kriputon
+ipa: "k\u027Eipu\u02C8ton"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Eipu\u02C8ton&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - krypton
+  epo:
+  - - kriptono
+  spa:
+  - - "cript\xF3n"
+    - Kr
+search terms:
+  glb:
+  - kriputon
+  eng:
+  - krypton
+  epo:
+  - kriptono
+  spa:
+  - "cript\xF3n"
+  - kr
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- kimikali monlari
+raw data:
+  term: kriputon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: krypton
+    epo: kriptono
+    spa: "cript\xF3n, Kr"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (krypton), Espanisa (cript\xF3n), Arabisa (\u0643\u0652\u0631\u0650\u0628\u0652\u062A\u064F\u0648\u0646
+    \u201Ckribton\u201D), Fransesa (krypton), Rusisa (\u043A\u0440\u0438\u043F\u0442\u043E\u043D
+    \u201Ckripton\u201D), Indonesisa (kripton), Doycisa (Krypton), Niponsa (\u30AF\u30EA\u30D7\u30C8\u30F3
+    \u201Ckuriputon\u201D), Telugusa (\u0C15\u0C4D\u0C30\u0C3F\u0C2A\u0C4D\u0C1F\u0C3E\u0C28\u0C4D
+    \u201Ckriptan\u201D), Turkisa (kripton), Hangusa (\uD06C\uB9BD\uD1A4 \u201Ckuripton\u201D),
+    Vyetnamsa (krypton), Parsisa (\u06A9\u0631\u06CC\u067E\u062A\u0648\u0646 \u201Ckripton\u201D),
+    Swahilisa (kriptoni), Pilipinasa (kripton)"
+...

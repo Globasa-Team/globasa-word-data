@@ -1,0 +1,48 @@
+---
+term: awtentiya
+slug: awtentiya
+ipa: "awten\u02C8tija"
+ipa link: "http://ipa-reader.xyz/?text=awten\u02C8tija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - authenticity
+  epo:
+  - - "a\u016Dtentikeco"
+    - "a\u016Dtenteco"
+  spa:
+  - - autenticidad
+search terms:
+  glb:
+  - awtentiya
+  eng:
+  - authenticity
+  epo:
+  - "a\u016Dtentikeco"
+  - "a\u016Dtenteco"
+  spa:
+  - autenticidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/awtenti">awtenti</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: awtentiya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: authenticity
+    epo: "a\u016Dtentikeco, a\u016Dtenteco"
+    spa: autenticidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: awtenti + -ya
+...

@@ -1,0 +1,66 @@
+---
+term: molekul
+slug: molekul
+ipa: "mole\u02C8kul"
+ipa link: "http://ipa-reader.xyz/?text=mole\u02C8kul&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - molecule
+  epo:
+  - - molekulo
+  spa:
+  - - "mol\xE9cula"
+  deu:
+  - - "Molek\xFCl"
+  fra:
+  - - "mol\xE9cule"
+  rus:
+  - - "\u043C\u043E\u043B\u0435\u043A\u0443\u043B\u0430"
+  zho:
+  - - "\u5206\u5B50"
+search terms:
+  glb:
+  - molekul
+  eng:
+  - molecule
+  epo:
+  - molekulo
+  spa:
+  - "mol\xE9cula"
+  deu:
+  - "molek\xFCl"
+  fra:
+  - "mol\xE9cule"
+  rus:
+  - "\u043C\u043E\u043B\u0435\u043A\u0443\u043B\u0430"
+  zho:
+  - "\u5206\u5B50"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: molekul
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: molecule
+    epo: molekulo
+    spa: "mol\xE9cula"
+    deu: "Molek\xFCl"
+    fra: "mol\xE9cule"
+    rus: "\u043C\u043E\u043B\u0435\u043A\u0443\u043B\u0430"
+    zho: "\u5206\u5B50"
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (molecule \u201Cmolekyul\u201D), Espanisa (mol\xE9cula), Fransesa
+    (mol\xE9cule), Rusisa (\u043C\u043E\u043B\u0435\u043A\u0443\u043B\u0430 \u201Cmolekula\u201D),
+    Doycisa (Molek\xFCl), Indonesisa (molekul), Pilipinasa (molekula), Turkisa (molek\xFCl),
+    Parsisa (\u0645\u0648\u0644\u06A9\u0648\u0644 \u201Cmolekul\u201D), Swahilisa
+    (molekuli)"
+...

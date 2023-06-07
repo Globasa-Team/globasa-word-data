@@ -1,0 +1,56 @@
+---
+term: lutsemburgi
+slug: lutsemburgi
+ipa: "lutsem\u02C8bu\u027Egi"
+ipa link: "http://ipa-reader.xyz/?text=lutsem\u02C8bu\u027Egi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Luxembourg
+  epo:
+  - - Luksemburgo
+    - Luksemburgio
+  spa:
+  - - Luxemburgo
+search terms:
+  glb:
+  - lutsemburgi
+  eng:
+  - luxembourg
+  epo:
+  - luksemburgo
+  - luksemburgio
+  spa:
+  - luxemburgo
+etymology_type: NATLNG
+etymology:
+  Lutsemburgisa:
+  - - "L\xEBtzebuerg"
+  Fransesa:
+  - - Luxembourg
+  Doycisa:
+  - - Luxemburg
+tags:
+- dexa
+raw data:
+  term: Lutsemburgi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Luxembourg
+    epo: Luksemburgo, Luksemburgio
+    spa: Luxemburgo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Lutsemburgisa (L\xEBtzebuerg), Fransesa (Luxembourg), Doycisa (Luxemburg)"
+...

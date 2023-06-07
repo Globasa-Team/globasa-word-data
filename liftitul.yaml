@@ -1,0 +1,46 @@
+---
+term: liftitul
+slug: liftitul
+ipa: "lifti\u02C8tul"
+ipa link: "http://ipa-reader.xyz/?text=lifti\u02C8tul&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - lever
+  epo:
+  - - levilo
+  spa:
+  - - palanca
+search terms:
+  glb:
+  - liftitul
+  eng:
+  - lever
+  epo:
+  - levilo
+  spa:
+  - palanca
+etymology_type: DERIVD
+etymology: <a href="../lexi/lifti">lifti</a> + <a href="../lexi/tul">tul</a>
+raw data:
+  term: liftitul
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: lever
+    epo: levilo
+    spa: palanca
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lifti + tul
+...

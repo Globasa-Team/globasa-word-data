@@ -1,0 +1,55 @@
+---
+term: sahel
+slug: sahel
+ipa: "sa\u02C8xel"
+ipa link: "http://ipa-reader.xyz/?text=sa\u02C8xel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - beach
+  epo:
+  - - "pla\u011Do"
+  spa:
+  - - playa
+search terms:
+  glb:
+  - sahel
+  eng:
+  - beach
+  epo:
+  - "pla\u011Do"
+  spa:
+  - playa
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0633\u0627\u062D\u0644 \u201Csahil\u201D"
+  Parsisa:
+  - - "\u0633\u0627\u062D\u0644 \u201Csahel\u201D"
+  Turkisa:
+  - - sahil
+  Hindisa:
+  - - "\u0938\u093E\u0939\u093F\u0932 \u201Csahil\u201D"
+raw data:
+  term: sahel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: beach
+    epo: "pla\u011Do"
+    spa: playa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0633\u0627\u062D\u0644 \u201Csahil\u201D), Parsisa (\u0633\u0627\u062D\u0644
+    \u201Csahel\u201D), Turkisa (sahil), Hindisa (\u0938\u093E\u0939\u093F\u0932 \u201Csahil\u201D)"
+...

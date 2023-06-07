@@ -1,0 +1,55 @@
+---
+term: kiwifruta
+slug: kiwifruta
+ipa: "kiwi\u02C8f\u027Euta"
+ipa link: "http://ipa-reader.xyz/?text=kiwi\u02C8f\u027Euta&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - kiwifruit
+    - kiwi
+  epo:
+  - - kivifrukto
+    - kivo
+  spa:
+  - - kiwi (_fruta_)
+    - _Actinidia_
+search terms:
+  glb:
+  - kiwifruta
+  eng:
+  - kiwifruit
+  - kiwi
+  epo:
+  - kivifrukto
+  - kivo
+  spa:
+  - kiwi
+  - actinidia
+etymology_type: DERIVD
+etymology: <a href="../lexi/kiwi">kiwi</a> + <a href="../lexi/fruta">fruta</a>
+tags:
+- fruta
+- yamxey
+raw data:
+  term: kiwifruta
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: kiwifruit, kiwi
+    epo: kivifrukto, kivo
+    spa: kiwi (_fruta_), _Actinidia_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: kiwi + fruta
+...

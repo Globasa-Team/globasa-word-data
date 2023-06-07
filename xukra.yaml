@@ -1,0 +1,79 @@
+---
+term: xukra
+slug: xukra
+ipa: "\u02C8\u0283uk\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283uk\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - gratitude
+    - thanks
+  - - thank
+    - give thanks
+  epo:
+  - - danko
+  - - danki
+  - - dankon
+  spa:
+  - - gratitud
+  - - dar gracias
+    - agradecer
+  - - gracias
+search terms:
+  glb:
+  - xukra
+  eng:
+  - gratitude
+  - thanks
+  - thank
+  - give thanks
+  epo:
+  - danko
+  - danki
+  - dankon
+  spa:
+  - gratitud
+  - dar gracias
+  - agradecer
+  - gracias
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0634\u0643\u0631\u0627 \u201Cshukraan\u201D"
+    - "\u0634\u0643\u0631 \u201Cshakar\u201D - gratitude"
+  Turkisa:
+  - - "\u015F\xFCkran"
+    - "te\u015Fekk\xFCr"
+  Swahilisa:
+  - - shukrani
+  Parsisa:
+  - - "\u062A\u0634\u06A9\u0631 \u201Ctashakor\u201D"
+  Hindisa:
+  - - "\u0936\u0941\u0915\u094D\u0930\u093F\u092F\u093E \u201Cshukriya\u201D"
+tags:
+- intrelogalexi
+raw data:
+  term: xukra
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: gratitude, thanks; thank, give thanks
+    epo: danko; danki; dankon
+    spa: gratitud; dar gracias, agradecer; gracias
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: intrelogalexi
+  etymology: "Arabisa (\u0634\u0643\u0631\u0627 \u201Cshukraan\u201D, \u0634\u0643\u0631
+    \u201Cshakar\u201D - gratitude), Turkisa (\u015F\xFCkran, te\u015Fekk\xFCr), Swahilisa
+    (shukrani), Parsisa (\u062A\u0634\u06A9\u0631 \u201Ctashakor\u201D), Hindisa (\u0936\u0941\u0915\u094D\u0930\u093F\u092F\u093E
+    \u201Cshukriya\u201D)"
+...

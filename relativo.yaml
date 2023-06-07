@@ -1,0 +1,64 @@
+---
+term: relativo
+slug: relativo
+ipa: "\u027Eela\u02C8tivo"
+ipa link: "http://ipa-reader.xyz/?text=\u027Eela\u02C8tivo&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - relative
+  epo:
+  - - relativa
+  - - relative
+  spa:
+  - - relativo
+search terms:
+  glb:
+  - relativo
+  eng:
+  - relative
+  epo:
+  - relativa
+  - relative
+  spa:
+  - relativo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - relative
+  Doycisa:
+  - - relativ
+  Fransesa:
+  - - relatif
+  Espanisa:
+  - - relativo
+  Rusisa:
+  - - "\u0440\u0435\u043B\u044F\u0442\u0438\u0432\u043D\u044B\u0439 \u201Crelyativniy\u201D"
+  Indonesisa:
+  - - relatif
+  Pilipinasa:
+  - - relatibo
+raw data:
+  term: relativo
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: relative
+    epo: relativa; relative
+    spa: relativo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (relative), Doycisa (relativ), Fransesa (relatif), Espanisa
+    (relativo), Rusisa (\u0440\u0435\u043B\u044F\u0442\u0438\u0432\u043D\u044B\u0439
+    \u201Crelyativniy\u201D), Indonesisa (relatif), Pilipinasa (relatibo)"
+...

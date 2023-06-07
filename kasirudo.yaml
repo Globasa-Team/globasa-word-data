@@ -1,0 +1,48 @@
+---
+term: kasirudo
+slug: kasirudo
+ipa: "kasi\u02C8\u027Eudo"
+ipa link: "http://ipa-reader.xyz/?text=kasi\u02C8\u027Eudo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - broken
+  epo:
+  - - rompita
+  - - rompite
+  spa:
+  - - roto
+search terms:
+  glb:
+  - kasirudo
+  eng:
+  - broken
+  epo:
+  - rompita
+  - rompite
+  spa:
+  - roto
+etymology_type: DERIVD
+etymology: <a href="../lexi/kasiru">kasiru</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: kasirudo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: broken
+    epo: rompita; rompite
+    spa: roto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kasiru + -do
+...

@@ -1,0 +1,75 @@
+---
+term: ergo
+slug: ergo
+ipa: ˈeɾgo
+ipa link: http://ipa-reader.xyz/?text=ˈeɾgo&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - work
+    - labor
+    - job
+  - - work
+  epo:
+  - - laboro
+  - - labori
+  spa:
+  - - trabajo
+    - labor
+  - - trabajar
+search terms:
+  glb:
+  - ergo
+  eng:
+  - work
+  - labor
+  - job
+  epo:
+  - laboro
+  - labori
+  spa:
+  - trabajo
+  - labor
+  - trabajar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ergonomics
+  Fransesa:
+  - - ergonomie
+  Rusisa:
+  - - эргономика “ergonomika”
+  Espanisa:
+  - - ergonomía
+  Indonesisa:
+  - - ergonomi
+  Pilipinasa:
+  - - ergonomiya
+  Turkisa:
+  - - ergonomi
+  Doycisa:
+  - - werk
+raw data:
+  term: ergo
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: work, labor, job; work
+    epo: laboro; labori
+    spa: trabajo, labor; trabajar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (ergonomics), Fransesa (ergonomie), Rusisa (эргономика “ergonomika”),
+    Espanisa (ergonomía), Indonesisa (ergonomi), Pilipinasa (ergonomiya), Turkisa
+    (ergonomi), Doycisa (werk)
+...

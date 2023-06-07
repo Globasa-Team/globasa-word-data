@@ -1,0 +1,47 @@
+---
+term: sudeafrikali
+slug: sudeafrikali
+ipa: "sudeaf\u027Ei\u02C8kali"
+ipa link: "http://ipa-reader.xyz/?text=sudeaf\u027Ei\u02C8kali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - South African
+  epo:
+  - - sud-afrika
+  spa:
+  - - sudafricano
+search terms:
+  glb:
+  - sudeafrikali
+  eng:
+  - south african
+  epo:
+  - sud-afrika
+  spa:
+  - sudafricano
+etymology_type: DERIVD
+etymology: <a href="../lexi/sude">sude</a> + <a href="../lexi/Afrika">Afrika</a> +
+  <a href="../lexi/-li">-li</a>
+raw data:
+  term: Sudeafrikali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: South African
+    epo: sud-afrika
+    spa: sudafricano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sude + Afrika + -li
+...

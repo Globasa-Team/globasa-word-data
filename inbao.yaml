@@ -1,0 +1,52 @@
+---
+term: inbao
+slug: inbao
+ipa: "in\u02C8bao"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8bao&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - bag (_put inside a bag_)
+  epo:
+  - - ensakigo
+  - - ensakigi
+  spa:
+  - - embolsar
+    - meter a una bolsa
+search terms:
+  glb:
+  - inbao
+  eng:
+  - bag
+  epo:
+  - ensakigo
+  - ensakigi
+  spa:
+  - embolsar
+  - meter a una bolsa
+etymology_type: DERIVD
+etymology: <a href="../lexi/in-">in-</a> + <a href="../lexi/bao">bao</a>
+antonyms:
+- exbao
+raw data:
+  term: inbao
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: bag (_put inside a bag_)
+    epo: ensakigo; ensakigi
+    spa: embolsar, meter a una bolsa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: exbao
+  example: ""
+  tags: ""
+  etymology: in- + bao
+...

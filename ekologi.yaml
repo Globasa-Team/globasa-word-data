@@ -1,0 +1,48 @@
+---
+term: ekologi
+slug: ekologi
+ipa: "eko\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=eko\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ecology
+  epo:
+  - - ekologio
+    - ekoscienco
+  spa:
+  - - "ecolog\xEDa"
+search terms:
+  glb:
+  - ekologi
+  eng:
+  - ecology
+  epo:
+  - ekologio
+  - ekoscienco
+  spa:
+  - "ecolog\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/eko-">eko-</a> + <a href="../lexi/-logi">-logi</a>
+raw data:
+  term: ekologi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ecology
+    epo: ekologio, ekoscienco
+    spa: "ecolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: eko- + -logi
+...

@@ -1,0 +1,58 @@
+---
+term: vaysu
+slug: vaysu
+ipa: "\u02C8vajsu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8vajsu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vise
+    - vice (_tool_)
+  epo:
+  - - vajco
+  spa:
+  - - tornillo de banco
+    - morsa
+search terms:
+  glb:
+  - vaysu
+  eng:
+  - vise
+  - vice
+  epo:
+  - vajco
+  spa:
+  - tornillo de banco
+  - morsa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - vise
+    - vice
+  Niponsa:
+  - - "\u30D0\u30A4\u30B9 \"baysu\""
+  Hangusa:
+  - - "\uBC14\uC774\uC2A4 \"baysu\""
+raw data:
+  term: vaysu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vise, vice (_tool_)
+    epo: vajco
+    spa: tornillo de banco, morsa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (vise, vice), Niponsa (\u30D0\u30A4\u30B9 \"baysu\"), Hangusa
+    (\uBC14\uC774\uC2A4 \"baysu\")"
+...

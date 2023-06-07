@@ -1,0 +1,69 @@
+---
+term: vyoleta
+slug: vyoleta
+ipa: "vjo\u02C8leta"
+ipa link: "http://ipa-reader.xyz/?text=vjo\u02C8leta&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - violet
+  epo:
+  - - purpura
+  - - purpure
+  spa:
+  - - violeta
+search terms:
+  glb:
+  - vyoleta
+  eng:
+  - violet
+  epo:
+  - purpura
+  - purpure
+  spa:
+  - violeta
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - viotlett
+  Englisa:
+  - - violet
+  Espanisa:
+  - - violeta
+  Fransesa:
+  - - violet
+  Rusisa:
+  - - "\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439 \u201Cfyoletoviy\u201D"
+  Indonesisa:
+  - - violet
+  Pilipinasa:
+  - - byoleta
+  Telugusa:
+  - - "\u0C35\u0C48\u0C32\u0C46\u0C1F\u0C4D \u201Cvaile\u1E6D\u201D"
+tags:
+- kolor
+raw data:
+  term: vyoleta
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: violet
+    epo: purpura; purpure
+    spa: violeta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: "Doycisa (viotlett), Englisa (violet), Espanisa (violeta), Fransesa (violet),
+    Rusisa (\u0444\u0438\u043E\u043B\u0435\u0442\u043E\u0432\u044B\u0439 \u201Cfyoletoviy\u201D),
+    Indonesisa (violet), Pilipinasa (byoleta), Telugusa (\u0C35\u0C48\u0C32\u0C46\u0C1F\u0C4D
+    \u201Cvaile\u1E6D\u201D)"
+...

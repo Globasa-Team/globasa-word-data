@@ -1,0 +1,53 @@
+---
+term: infarto
+slug: infarto
+ipa: "in\u02C8fa\u027Eto"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8fa\u027Eto&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - infarction
+    - infarct
+  epo:
+  - - infarkto
+  spa:
+  - - infarto
+search terms:
+  glb:
+  - infarto
+  eng:
+  - infarction
+  - infarct
+  epo:
+  - infarkto
+  spa:
+  - infarto
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: infarto
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: infarction, infarct
+    epo: infarkto
+    spa: infarto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (infarct), Espanisa (infarto), Fransesa (infractus), Rusisa
+    (\u0438\u043D\u0444\u0430\u0440\u043A\u0442 \"infarkt\"), Doycisa (Infarkt), Indonesisa
+    (infarsi, infark), Turkisa (enfarkt\xFCs), Parsisa (\u0627\u0646\u0641\u0627\u0631\u06A9\u062A\u0648\u0633
+    \"anfarktus\")"
+...

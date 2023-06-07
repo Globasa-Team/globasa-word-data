@@ -1,0 +1,52 @@
+---
+term: haya
+slug: haya
+ipa: "\u02C8xaja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xaja&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Armenia
+  epo:
+  - - Armenio
+    - Armenujo
+  spa:
+  - - Armenia
+search terms:
+  glb:
+  - haya
+  eng:
+  - armenia
+  epo:
+  - armenio
+  - armenujo
+  spa:
+  - armenia
+etymology_type: NATLNG
+etymology:
+  Hayasa:
+  - - "\u0540\u0561\u0575\u0561\u057D\u057F\u0561\u0576 \u201CHayastan\u201D"
+tags:
+- dexa
+raw data:
+  term: Haya
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Armenia
+    epo: Armenio, Armenujo
+    spa: Armenia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Hayasa (\u0540\u0561\u0575\u0561\u057D\u057F\u0561\u0576 \u201CHayastan\u201D)"
+...

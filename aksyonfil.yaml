@@ -1,0 +1,58 @@
+---
+term: aksyonfil
+slug: aksyonfil
+ipa: "aksjon\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=aksjon\u02C8fil&voice=Ewa"
+status: true
+category: derived
+word class: t
+trans:
+  eng:
+  - - active
+    - actively
+    - energetic
+    - energetically
+  epo:
+  - - agema
+    - energia
+  - - ageme
+  spa:
+  - - activo
+    - activamente
+search terms:
+  glb:
+  - aksyonfil
+  eng:
+  - active
+  - actively
+  - energetic
+  - energetically
+  epo:
+  - agema
+  - energia
+  - ageme
+  spa:
+  - activo
+  - activamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/aksyon">aksyon</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: aksyonfil
+  category: derived
+  word class: t
+  status: true
+  trans:
+    eng: active, actively, energetic, energetically
+    epo: agema, energia; ageme
+    spa: activo, activamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: aksyon + -fil
+...

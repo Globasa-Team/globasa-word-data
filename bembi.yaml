@@ -1,0 +1,58 @@
+---
+term: bembi
+slug: bembi
+ipa: ˈbembi
+ipa link: http://ipa-reader.xyz/?text=ˈbembi&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - constipation
+  - - constipate
+  epo:
+  - - konstipo
+    - mallakso
+  spa:
+  - - estreñimiento
+    - constipación de vientre
+search terms:
+  glb:
+  - bembi
+  eng:
+  - constipation
+  - constipate
+  epo:
+  - konstipo
+  - mallakso
+  spa:
+  - estreñimiento
+  - constipación de vientre
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 便秘 “byenbi”
+  Niponsa:
+  - - 便秘 “benpi”
+  Hangusa:
+  - - 변비 “byonbi”
+raw data:
+  term: bembi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: constipation; constipate
+    epo: konstipo, mallakso
+    spa: estreñimiento, constipación de vientre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (便秘 “byenbi”), Niponsa (便秘 “benpi”), Hangusa (변비 “byonbi”)
+...

@@ -1,0 +1,66 @@
+---
+term: wasyatu
+slug: wasyatu
+ipa: "wa\u02C8sjatu"
+ipa link: "http://ipa-reader.xyz/?text=wa\u02C8sjatu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - will
+    - testament
+    - bequest
+  epo:
+  - - testamento
+  - - testamenti
+  spa:
+  - - testamento
+search terms:
+  glb:
+  - wasyatu
+  eng:
+  - will
+  - testament
+  - bequest
+  epo:
+  - testamento
+  - testamenti
+  spa:
+  - testamento
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - wasiat
+  Hindisa:
+  - - "\u0935\u0938\u0940\u092F\u0924 \"vasiyat\""
+  Arabisa:
+  - - "\u0648\u064E\u0635\u0650\u064A\u064E\u0651\u0629 \"wasiya\""
+  Turkisa:
+  - - vasiyet
+  Parsisa:
+  - - "\u0648\u0635\u06CC\u062A \"vasiyat\""
+  Swahilisa:
+  - - wosia
+raw data:
+  term: wasyatu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: will, testament, bequest
+    epo: testamento; testamenti
+    spa: testamento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (wasiat), Hindisa (\u0935\u0938\u0940\u092F\u0924 \"vasiyat\"),
+    Arabisa (\u0648\u064E\u0635\u0650\u064A\u064E\u0651\u0629 \"wasiya\"), Turkisa
+    (vasiyet), Parsisa (\u0648\u0635\u06CC\u062A \"vasiyat\"), Swahilisa (wosia)"
+...

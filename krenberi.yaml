@@ -1,0 +1,62 @@
+---
+term: krenberi
+slug: krenberi
+ipa: "k\u027Een\u02C8be\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Een\u02C8be\u027Ei&voice=Ewa"
+status: true
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - cranberry
+    - _Oxycoccus_
+  epo:
+  - - oksikoko
+  spa:
+  - - "ar\xE1ndano (rojo)"
+    - _Vaccinium_
+  fra:
+  - - canneberge
+search terms:
+  glb:
+  - krenberi
+  eng:
+  - cranberry
+  - oxycoccus
+  epo:
+  - oksikoko
+  spa:
+  - "ar\xE1ndano rojo"
+  - "ar\xE1ndano"
+  - vaccinium
+  fra:
+  - canneberge
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- fruta
+- yamxey
+raw data:
+  term: krenberi
+  category: derived
+  word class: "n"
+  status: true
+  trans:
+    eng: cranberry, _Oxycoccus_
+    epo: oksikoko
+    spa: "ar\xE1ndano (rojo), _Vaccinium_"
+    deu: ""
+    fra: canneberge
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "kren + beri; Englisa (cranberry), Fransesa (canneberge), Doycisa (Cranberry),
+    Indonesisa (kranberi), Pilipinasa (kranberya, kranberi), Hindisa (\u0915\u094D\u0930\u0947\u0928\u092C\u0947\u0930\u0940
+    \u201Ckrenberi\u201D), Niponsa (\u30AF\u30E9\u30F3\u30D9\u30EA\u30FC \u201Ckuranberi\u201D),
+    Hangusa (\uD06C\uB79C\uBCA0\uB9AC \u201Ckurenberi\u201D), Parsisa (\u06A9\u0631\u0646\u0628\u0631\u06CC
+    \u201Ckrenberi\u201D), Swahilisa (kranberi)"
+...

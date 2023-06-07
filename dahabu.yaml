@@ -1,0 +1,56 @@
+---
+term: dahabu
+slug: dahabu
+ipa: daˈxabu
+ipa link: http://ipa-reader.xyz/?text=daˈxabu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gold
+  epo:
+  - - oro
+  spa:
+  - - oro
+    - Au
+search terms:
+  glb:
+  - dahabu
+  eng:
+  - gold
+  epo:
+  - oro
+  spa:
+  - oro
+  - au
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - ذهب “dahab”
+  Swahilisa:
+  - - dhahabu
+  Parsisa:
+  - - ذهب “zahab”
+tags:
+- kimikali monlari
+raw data:
+  term: dahabu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gold
+    epo: oro
+    spa: oro, Au
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Arabisa (ذهب “dahab”), Swahilisa (dhahabu), Parsisa (ذهب “zahab”)
+...

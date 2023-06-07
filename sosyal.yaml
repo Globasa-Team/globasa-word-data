@@ -1,0 +1,71 @@
+---
+term: sosyal
+slug: sosyal
+ipa: "so\u02C8sjal"
+ipa link: "http://ipa-reader.xyz/?text=so\u02C8sjal&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - social
+    - socially
+  epo:
+  - - socia
+  - - socie
+  spa:
+  - - social
+search terms:
+  glb:
+  - sosyal
+  eng:
+  - social
+  - socially
+  epo:
+  - socia
+  - socie
+  spa:
+  - social
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - social
+  Doycisa:
+  - - sozial
+  Fransesa:
+  - - social
+  Espanisa:
+  - - social
+  Rusisa:
+  - - "\u0441\u043E\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u201Csotsialniy\u201D"
+  Turkisa:
+  - - sosyal
+  Indonesisa:
+  - - sosial
+  Pilipinasa:
+  - - sosyal
+  Parsisa:
+  - - "\u0633\u0648\u0633\u06CC\u0627\u0644 \u201Csosy\xE2l\u201D"
+raw data:
+  term: sosyal
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: social, socially
+    epo: socia; socie
+    spa: social
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (social), Doycisa (sozial), Fransesa (social), Espanisa (social),
+    Rusisa (\u0441\u043E\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u201Csotsialniy\u201D),
+    Turkisa (sosyal), Indonesisa (sosial), Pilipinasa (sosyal), Parsisa (\u0633\u0648\u0633\u06CC\u0627\u0644
+    \u201Csosy\xE2l\u201D)"
+...

@@ -1,0 +1,51 @@
+---
+term: kaydan
+slug: kaydan
+ipa: "kaj\u02C8dan"
+ipa link: "http://ipa-reader.xyz/?text=kaj\u02C8dan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - stairs
+    - stairway
+    - staircase
+  epo:
+  - - "\u015Dtuparo"
+  spa:
+  - - escalera
+search terms:
+  glb:
+  - kaydan
+  eng:
+  - stairs
+  - stairway
+  - staircase
+  epo:
+  - "\u015Dtuparo"
+  spa:
+  - escalera
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kaydan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: stairs, stairway, staircase
+    epo: "\u015Dtuparo"
+    spa: escalera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: stair. stairs, stairway, staircase
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Niponsa (\u968E\u6BB5 \u201Ckaydan\u201D), Hangusa (\uACC4\uB2E8 \u201Cgyedan\u201D),
+    Vyetnamsa (c\u1EA7u thang \u201Ck\u0259wtang\u201D), Pilipinasa (baitang, hagdan)"
+...

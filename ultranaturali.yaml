@@ -1,0 +1,49 @@
+---
+term: ultranaturali
+slug: ultranaturali
+ipa: "ult\u027Eanatu\u02C8\u027Eali"
+ipa link: "http://ipa-reader.xyz/?text=ult\u027Eanatu\u02C8\u027Eali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - supernatural
+  epo:
+  - - supernatura
+  - - supernature
+  spa:
+  - - sobrenatural
+search terms:
+  glb:
+  - ultranaturali
+  eng:
+  - supernatural
+  epo:
+  - supernatura
+  - supernature
+  spa:
+  - sobrenatural
+etymology_type: DERIVD
+etymology: <a href="../lexi/ultra-">ultra-</a> + <a href="../lexi/natura">natura</a>
+  + <a href="../lexi/-li">-li</a>
+raw data:
+  term: ultranaturali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: supernatural
+    epo: supernatura; supernature
+    spa: sobrenatural
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ultra- + natura + -li
+...

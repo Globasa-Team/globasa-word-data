@@ -1,0 +1,55 @@
+---
+term: lildexa
+slug: lildexa
+ipa: "lil\u02C8de\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=lil\u02C8de\u0283a&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - micronation
+  epo:
+  - - mikronacio
+    - cibernetika nacio
+    - fantazia lando
+    - modela lando
+    - projekto de nova lando
+  spa:
+  - - "micronaci\xF3n"
+search terms:
+  glb:
+  - lildexa
+  eng:
+  - micronation
+  epo:
+  - mikronacio
+  - cibernetika nacio
+  - fantazia lando
+  - modela lando
+  - projekto de nova lando
+  spa:
+  - "micronaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/lil-">lil-</a> + <a href="../lexi/dexa">dexa</a>
+raw data:
+  term: lildexa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: micronation
+    epo: mikronacio, cibernetika nacio, fantazia lando, modela lando, projekto de
+      nova lando
+    spa: "micronaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lil- + dexa
+...

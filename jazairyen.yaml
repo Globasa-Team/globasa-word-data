@@ -1,0 +1,46 @@
+---
+term: jazairyen
+slug: jazairyen
+ipa: "d\u0361\u0292azai\u02C8\u027Ejen"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292azai\u02C8\u027Ejen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Algerian
+  epo:
+  - - "al\u011Deriano"
+  spa:
+  - - argelino (_persona_)
+search terms:
+  glb:
+  - jazairyen
+  eng:
+  - algerian
+  epo:
+  - "al\u011Deriano"
+  spa:
+  - argelino
+etymology_type: DERIVD
+etymology: <a href="../lexi/Jazair">Jazair</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Jazairyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Algerian
+    epo: "al\u011Deriano"
+    spa: argelino (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Jazair + -yen
+...

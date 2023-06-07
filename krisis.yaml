@@ -1,0 +1,48 @@
+---
+term: krisis
+slug: krisis
+ipa: "k\u027Ei\u02C8sis"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Ei\u02C8sis&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - crisis
+  epo:
+  - - krizo
+  spa:
+  - - crisis
+search terms:
+  glb:
+  - krisis
+  eng:
+  - crisis
+  epo:
+  - krizo
+  spa:
+  - crisis
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: krisis
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: crisis
+    epo: krizo
+    spa: crisis
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (crisis), Fransesa (crise), Doycisa (Krise), Rusisa (\u043A\u0440\u0438\u0437\u0438\u0441
+    \u201Ckrizis\u201D), Espanisa (crisis), Turkisa (kriz), Indonesisa (krisis), Pilipinasa
+    (krisis), Niponsa (\u30AF\u30E9\u30A4\u30B7\u30B9 \u201Ckuraixisu\u201D)"
+...

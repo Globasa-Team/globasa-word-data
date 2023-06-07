@@ -1,0 +1,86 @@
+---
+term: absorbi
+slug: absorbi
+ipa: abˈsoɾbi
+ipa link: http://ipa-reader.xyz/?text=abˈsoɾbi&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - absorption
+  - - absorb
+  epo:
+  - - sorbo
+    - absorbo
+  - - sorbi
+    - absorbi
+  spa:
+  - - absorción
+  - - absorber
+search terms:
+  glb:
+  - absorbi
+  eng:
+  - absorption
+  - absorb
+  epo:
+  - sorbo
+  - absorbo
+  - sorbi
+  - absorbi
+  spa:
+  - absorción
+  - absorber
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - absorption
+    - absorbing
+  - - absorb
+  Espanisa:
+  - - absorción
+  - - absorber
+  Fransesa:
+  - - absorption
+  - - absorber
+  Rusisa:
+  - - абсорбция “absorbtsya”
+  Doycisa:
+  - - Absorption
+  - - absorbieren
+  Portugalsa:
+  - - absorção
+  - - absorver
+  Italisa:
+  - - assorbimento
+  - - assorbire
+  Indonesisa:
+  - - absorpsi
+  Pilipinasa:
+  - - absorpsiyon
+  Turkisa:
+  - - absorpsiyon
+raw data:
+  term: absorbi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: absorption; absorb
+    epo: sorbo, absorbo; sorbi, absorbi
+    spa: absorción; absorber
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (absorption, absorbing; absorb), Espanisa (absorción; absorber),
+    Fransesa (absorption; absorber), Rusisa (абсорбция “absorbtsya”), Doycisa (Absorption;
+    absorbieren), Portugalsa (absorção; absorver), Italisa (assorbimento; assorbire),
+    Indonesisa (absorpsi), Pilipinasa (absorpsiyon), Turkisa (absorpsiyon)
+...

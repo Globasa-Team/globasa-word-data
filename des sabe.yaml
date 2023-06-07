@@ -1,0 +1,48 @@
+---
+term: des sabe
+slug: des sabe
+ipa: "\u02C8des \u02C8sabe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8des \u02C8sabe&voice=Ewa"
+status: false
+category: phrase
+word class: num
+trans:
+  eng:
+  - - seventeen
+  epo:
+  - - dek sep
+  spa:
+  - - diecisiete
+search terms:
+  glb:
+  - des sabe
+  - des
+  - sabe
+  eng:
+  - seventeen
+  epo:
+  - dek sep
+  spa:
+  - diecisiete
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a>, <a href="../lexi/sabe">sabe</a>
+raw data:
+  term: des sabe
+  category: phrase
+  word class: num
+  status: false
+  trans:
+    eng: seventeen
+    epo: dek sep
+    spa: diecisiete
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des, sabe
+...

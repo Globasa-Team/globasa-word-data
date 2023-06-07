@@ -1,0 +1,72 @@
+---
+term: ofisi
+slug: ofisi
+ipa: "o\u02C8fisi"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8fisi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - office
+    - position
+    - post
+  epo:
+  - - posteno
+  spa:
+  - - cargo
+    - puesto
+search terms:
+  glb:
+  - ofisi
+  eng:
+  - office
+  - position
+  - post
+  epo:
+  - posteno
+  spa:
+  - cargo
+  - puesto
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - office
+  Fransesa: ~
+  Rusisa:
+  - - "\u043E\u0444\u0438\u0441 \u201Cofis\u201D"
+  Espanisa:
+  - - "\u043E\u0444\u0438\u0441 \u201Cofis\u201D"
+  Hindisa:
+  - - "\u0911\u092B\u093C\u093F\u0938 \u201Cofis\u201D"
+  Turkisa:
+  - - ofis
+  Swahilisa:
+  - - afisi
+  Pilipinasa:
+  - - opisina
+  Parsisa:
+  - - "\u0622\u0641\u06CC\u0633 \u201C\xE2fis\u201D"
+raw data:
+  term: ofisi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: office, position, post
+    epo: posteno
+    spa: cargo, puesto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (office), Fransesa, Rusisa (\u043E\u0444\u0438\u0441 \u201Cofis\u201D),
+    Espanisa (\u043E\u0444\u0438\u0441 \u201Cofis\u201D), Hindisa (\u0911\u092B\u093C\u093F\u0938
+    \u201Cofis\u201D), Turkisa (ofis), Swahilisa (afisi), Pilipinasa (opisina), Parsisa
+    (\u0622\u0641\u06CC\u0633 \u201C\xE2fis\u201D)"
+...

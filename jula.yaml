@@ -1,0 +1,53 @@
+---
+term: jula
+slug: jula
+ipa: "\u02C8d\u0361\u0292ula"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292ula&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - apart
+    - separate
+  epo:
+  - - aparta
+  - - aparte
+  spa:
+  - - separado
+    - aparte
+search terms:
+  glb:
+  - jula
+  eng:
+  - apart
+  - separate
+  epo:
+  - aparta
+  - aparte
+  spa:
+  - separado
+  - aparte
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jula
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: apart, separate
+    epo: aparta; aparte
+    spa: separado, aparte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u8DDD\u79BB \u201Cj\xF9l\xED\u201D), Hindisa (\u091C\u0941\u0926\u093E
+    \u201Cjuda\u201D)"
+...

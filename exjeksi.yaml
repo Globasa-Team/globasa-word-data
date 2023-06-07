@@ -1,0 +1,51 @@
+---
+term: exjeksi
+slug: exjeksi
+ipa: "e\u0283\u02C8d\u0361\u0292eksi"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283\u02C8d\u0361\u0292eksi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - draw
+  epo:
+  - - "\u0109erpo"
+  - - "\u0109erpi (per injektilo)"
+  spa:
+  - - "extracci\xF3n"
+  - - extraer
+search terms:
+  glb:
+  - exjeksi
+  eng:
+  - draw
+  epo:
+  - "\u0109erpo"
+  - "\u0109erpi per injektilo"
+  - "\u0109erpi"
+  spa:
+  - "extracci\xF3n"
+  - extraer
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/jeksi">jeksi</a>
+raw data:
+  term: exjeksi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: draw
+    epo: "\u0109erpo; \u0109erpi (per injektilo)"
+    spa: "extracci\xF3n; extraer"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex- + jeksi
+...

@@ -1,0 +1,99 @@
+---
+term: teli
+slug: teli
+ipa: "\u02C8teli"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8teli&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - far
+    - remote
+    - distant
+  epo:
+  - - malproksima
+    - fora
+  - - malproksime
+    - fore
+  spa:
+  - - lejos
+    - lejano
+    - remoto
+    - distante
+search terms:
+  glb:
+  - teli
+  eng:
+  - far
+  - remote
+  - distant
+  epo:
+  - malproksima
+  - fora
+  - malproksime
+  - fore
+  spa:
+  - lejos
+  - lejano
+  - remoto
+  - distante
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tele-
+  Fransesa:
+  - - "t\xE9l\xE9-"
+  Doycisa:
+  - - Telefon
+  Rusisa:
+  - - "\u0442\u0435\u043B\u0435\u0444\u043E\u043D \u201Ctelefon\u201D"
+  Espanisa:
+  - - "tel\xE9fono"
+  Hindisa:
+  - - "\u091F\u0947\u0932\u093F\u092B\u094B\u0928 \u201Ctelifon\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C46\u0C32\u0C40\u0C2B\u0C4B\u0C28\u0C41 \u201Ctelifonu\u201D"
+  Arabisa:
+  - - "\u062A\u0650\u0644\u0650\u0641\u0650\u0632\u0652\u064A\u064F\u0648\u0646 \u201Ctilifizyun\u201D"
+  Parsisa:
+  - - "\u062A\u0644\u0641\u0646  \u201Ctelefon\u201D"
+  Swahilisa:
+  - - televisheni
+  Turkisa:
+  - - telefon
+  Indonesisa:
+  - - telepon
+  Pilipinasa:
+  - - telepono
+  Niponsa:
+  - - "\u30C6\u30EC\u30D3\u30B8\u30E7\u30F3 \u201Cterebijon\u201D"
+  Hangusa:
+  - - "\uD154\uB808\uBE44\uC804 \u201Ctellebijon\u201D"
+raw data:
+  term: teli
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: far, remote, distant
+    epo: malproksima, fora; malproksime, fore
+    spa: lejos, lejano, remoto, distante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tele-), Fransesa (t\xE9l\xE9-), Doycisa (Telefon), Rusisa (\u0442\u0435\u043B\u0435\u0444\u043E\u043D
+    \u201Ctelefon\u201D), Espanisa (tel\xE9fono), Hindisa (\u091F\u0947\u0932\u093F\u092B\u094B\u0928
+    \u201Ctelifon\u201D), Telugusa (\u0C1F\u0C46\u0C32\u0C40\u0C2B\u0C4B\u0C28\u0C41
+    \u201Ctelifonu\u201D), Arabisa (\u062A\u0650\u0644\u0650\u0641\u0650\u0632\u0652\u064A\u064F\u0648\u0646
+    \u201Ctilifizyun\u201D), Parsisa (\u062A\u0644\u0641\u0646  \u201Ctelefon\u201D),
+    Swahilisa (televisheni), Turkisa (telefon), Indonesisa (telepon), Pilipinasa (telepono),
+    Niponsa (\u30C6\u30EC\u30D3\u30B8\u30E7\u30F3 \u201Cterebijon\u201D), Hangusa
+    (\uD154\uB808\uBE44\uC804 \u201Ctellebijon\u201D)"
+...

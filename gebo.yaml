@@ -1,0 +1,50 @@
+---
+term: gebo
+slug: gebo
+ipa: ˈgebo
+ipa link: http://ipa-reader.xyz/?text=ˈgebo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - arm
+  epo:
+  - - brako
+  spa:
+  - - brazo
+search terms:
+  glb:
+  - gebo
+  eng:
+  - arm
+  epo:
+  - brako
+  spa:
+  - brazo
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 胳膊 “gēbó”
+tags:
+- jismulogi
+raw data:
+  term: gebo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: arm
+    epo: brako
+    spa: brazo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Putunhwa  (胳膊 “gēbó”)
+...

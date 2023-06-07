@@ -1,0 +1,55 @@
+---
+term: cuki
+slug: cuki
+ipa: ˈt͡ʃuki
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃuki&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cycle
+  epo:
+  - - ciklo
+  spa:
+  - - ciclo
+search terms:
+  glb:
+  - cuki
+  eng:
+  - cycle
+  epo:
+  - ciklo
+  spa:
+  - ciclo
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 周期 “jowci”
+  Hangusa:
+  - - 주기 “jugi”
+  Niponsa:
+  - - 周期 “xuki”
+  Vyetnamsa:
+  - - chu kỳ “cuki”
+raw data:
+  term: cuki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cycle
+    epo: ciklo
+    spa: ciclo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (周期 “jowci”), Hangusa (주기 “jugi”), Niponsa (周期 “xuki”), Vyetnamsa
+    (chu kỳ “cuki”)
+...

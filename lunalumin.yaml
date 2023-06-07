@@ -1,0 +1,46 @@
+---
+term: lunalumin
+slug: lunalumin
+ipa: "lunalu\u02C8min"
+ipa link: "http://ipa-reader.xyz/?text=lunalu\u02C8min&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - moonlight
+  epo:
+  - - lunlumo
+  spa:
+  - - luz de luna
+search terms:
+  glb:
+  - lunalumin
+  eng:
+  - moonlight
+  epo:
+  - lunlumo
+  spa:
+  - luz de luna
+etymology_type: DERIVD
+etymology: <a href="../lexi/luna">luna</a> + <a href="../lexi/lumin">lumin</a>
+raw data:
+  term: lunalumin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: moonlight
+    epo: lunlumo
+    spa: luz de luna
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: luna + lumin
+...

@@ -1,0 +1,50 @@
+---
+term: posehtiram
+slug: posehtiram
+ipa: "posexti\u02C8\u027Eam"
+ipa link: "http://ipa-reader.xyz/?text=posexti\u02C8\u027Eam&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - disrespect
+  epo:
+  - - malrespekto
+  - - malrespekti
+  spa:
+  - - falta de respeto
+  - - faltar al respeto
+search terms:
+  glb:
+  - posehtiram
+  eng:
+  - disrespect
+  epo:
+  - malrespekto
+  - malrespekti
+  spa:
+  - falta de respeto
+  - faltar al respeto
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/ehtiram">ehtiram</a>
+raw data:
+  term: posehtiram
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: disrespect
+    epo: malrespekto; malrespekti
+    spa: falta de respeto; faltar al respeto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + ehtiram
+...

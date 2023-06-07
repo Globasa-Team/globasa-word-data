@@ -1,0 +1,56 @@
+---
+term: kwir
+slug: kwir
+ipa: "\u02C8kwi\u027E"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kwi\u027E&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - queer
+  epo:
+  - - kvira
+    - GLAT-a
+  - - kvire
+    - GLAT-e
+  spa:
+  - - _queer_
+search terms:
+  glb:
+  - kwir
+  eng:
+  - queer
+  epo:
+  - kvira
+  - glat-a
+  - kvire
+  - glat-e
+  spa:
+  - queer
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kwir
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: queer
+    epo: kvira, GLAT-a; kvire, GLAT-e
+    spa: _queer_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (queer), Espanisa, Fransesa, Rusisa, Portugalsa, Indonesisa,
+    Putunhwa (\u9177\u5152 \u201Ckuer\u201D), Arabisa (\u0643\u064F\u0648\u064A\u0631
+    \u201Ckuyr\u201D), Niponsa (\u30AF\u30A3\u30A2 \u201Ckwia\u201D), Telugusa (\u0C15\u0C4D\u0C35\u0C40\u0C30\u0C4D
+    \u201Ckvir\u201D), Turkisa (kuir), Hangusa (\uD034\uC5B4 \u201Ckwie\u201D), Parsisa
+    (\u06A9\u0648\u0626\u06CC\u0631 \u201Ckwi'ir\u201D)"
+...

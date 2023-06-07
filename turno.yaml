@@ -1,0 +1,56 @@
+---
+term: turno
+slug: turno
+ipa: "\u02C8tu\u027Eno"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tu\u027Eno&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - turn
+  - - be one's turn
+  epo:
+  - - (onia) vico
+  spa:
+  - - turno
+  - - ser su turno
+search terms:
+  glb:
+  - turno
+  eng:
+  - turn
+  - be one's turn
+  epo:
+  - onia vico
+  - vico
+  spa:
+  - turno
+  - ser su turno
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - turn
+  Fransesa: ~
+  Espanisa:
+  - - turno
+raw data:
+  term: turno
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: turn; be one's turn
+    epo: (onia) vico
+    spa: turno; ser su turno
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (turn), Fransesa, Espanisa (turno)
+...

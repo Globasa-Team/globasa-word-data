@@ -1,0 +1,51 @@
+---
+term: fe alo lexi
+slug: fe alo lexi
+ipa: "fe \u02C8alo \u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8alo \u02C8le\u0283i&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - in other words
+  epo:
+  - - alivorte
+    - en aliaj vortoj
+  spa:
+  - - en otras palabras
+search terms:
+  glb:
+  - fe alo lexi
+  - fe
+  - alo
+  - lexi
+  eng:
+  - in other words
+  epo:
+  - alivorte
+  - en aliaj vortoj
+  spa:
+  - en otras palabras
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/alo">alo</a>, <a href="../lexi/lexi">lexi</a>
+raw data:
+  term: fe alo lexi
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: in other words
+    epo: alivorte, en aliaj vortoj
+    spa: en otras palabras
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, alo, lexi
+...

@@ -1,0 +1,50 @@
+---
+term: dominika
+slug: dominika
+ipa: "domi\u02C8nika"
+ipa link: "http://ipa-reader.xyz/?text=domi\u02C8nika&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Dominica
+  epo:
+  - - Dominiko
+  spa:
+  - - Dominica
+search terms:
+  glb:
+  - dominika
+  eng:
+  - dominica
+  epo:
+  - dominiko
+  spa:
+  - dominica
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Dominica
+tags:
+- dexa
+raw data:
+  term: Dominika
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Dominica
+    epo: Dominiko
+    spa: Dominica
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Dominica)
+...

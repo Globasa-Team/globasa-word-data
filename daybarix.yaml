@@ -1,0 +1,54 @@
+---
+term: daybarix
+slug: daybarix
+ipa: "dajba\u02C8\u027Ei\u0283"
+ipa link: "http://ipa-reader.xyz/?text=dajba\u02C8\u027Ei\u0283&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - downpour
+  - - pour
+    - be pouring
+  epo:
+  - - pluvego
+  - - pluvegi
+  spa:
+  - - aguacero
+  - - "llover a c\xE1ntaros"
+search terms:
+  glb:
+  - daybarix
+  eng:
+  - downpour
+  - pour
+  - be pouring
+  epo:
+  - pluvego
+  - pluvegi
+  spa:
+  - aguacero
+  - "llover a c\xE1ntaros"
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/barix">barix</a>
+raw data:
+  term: daybarix
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: downpour; pour, be pouring
+    epo: pluvego; pluvegi
+    spa: "aguacero; llover a c\xE1ntaros"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + barix
+...

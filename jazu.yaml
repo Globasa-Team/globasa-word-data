@@ -1,0 +1,53 @@
+---
+term: jazu
+slug: jazu
+ipa: "\u02C8d\u0361\u0292azu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292azu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - jazz
+  epo:
+  - - "\u0135azo"
+    - "\u011Dazo"
+  spa:
+  - - _jazz_
+search terms:
+  glb:
+  - jazu
+  eng:
+  - jazz
+  epo:
+  - "\u0135azo"
+  - "\u011Dazo"
+  spa:
+  - jazz
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jazu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ' jazz'
+    epo: "\u0135azo, \u011Dazo"
+    spa: _jazz_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (jazz), Fransesa (jazz), Doycisa (Jazz), Rusisa (\u0434\u0436\u0430\u0437
+    \u201Cdjaz\u201D), Espanisa (jazz), Arabisa (\u062C\u064E\u0627\u0632 \u201Cjaz\",
+    Hindisa (\u091C\u093E\u091C\u093C \u201Cjaz\u201D), Parsisa (\u062C\u0627\u0632
+    \u201Cj\xE2z\u201D), Turkisa (caz), Indonesisa (jazz), Pilipinasa (dyas, diyas,
+    jazz), Swahilisa (jazz), Niponsa (\u30B8\u30E3\u30BA \u201Cjazu\u201D), Hangusa
+    (\uC7AC\uC988 \u201Cjeju\u201D)"
+...

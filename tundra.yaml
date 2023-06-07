@@ -1,0 +1,82 @@
+---
+term: tundra
+slug: tundra
+ipa: "\u02C8tund\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tund\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tundra
+  epo:
+  - - tundro
+  spa:
+  - - tundra
+search terms:
+  glb:
+  - tundra
+  eng:
+  - tundra
+  epo:
+  - tundro
+  spa:
+  - tundra
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tundra
+  Espanisa:
+  - - tundra
+  Fransesa:
+  - - toundra
+  Rusisa:
+  - - "\u0442\u0443\u043D\u0434\u0440\u0430 \u201Ctundra\u201D"
+  Doycisa:
+  - - Tundra
+  Indonesisa:
+  - - tundra
+  Pilipinasa:
+  - - tundra
+  Hindisa:
+  - - "\u091F\u0941\u0902\u0921\u094D\u0930\u093E \u201Ctundra\u201D"
+  Arabisa:
+  - - "\u062A\u0646\u062F\u0631\u0627 \u201Ctundra\u201D"
+  Niponsa:
+  - - "\u30C4\u30F3\u30C9\u30E9 \u201Ctsundora\u201D"
+  Tamilsa:
+  - - "\u0BA4\u0BC2\u0BA8\u0BCD\u0BA4\u0BBF\u0BB0\u0BAE\u0BCD \u201Ctuntiram\u201D"
+  Turkisa:
+  - - tundra
+  Hangusa:
+  - - "\uD230\uB4DC\uB77C \u201Ctundura\u201D"
+  Parsisa:
+  - - "\u062A\u0648\u0646\u062F\u0631\u0627 \u201Ctundra\u201D"
+  Swahilisa:
+  - - tundra
+raw data:
+  term: tundra
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tundra
+    epo: tundro
+    spa: tundra
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (tundra), Espanisa (tundra), Fransesa (toundra), Rusisa (\u0442\u0443\u043D\u0434\u0440\u0430
+    \u201Ctundra\u201D), Doycisa (Tundra), Indonesisa (tundra), Pilipinasa (tundra),
+    Hindisa (\u091F\u0941\u0902\u0921\u094D\u0930\u093E \u201Ctundra\u201D), Arabisa
+    (\u062A\u0646\u062F\u0631\u0627 \u201Ctundra\u201D), Niponsa (\u30C4\u30F3\u30C9\u30E9
+    \u201Ctsundora\u201D), Tamilsa (\u0BA4\u0BC2\u0BA8\u0BCD\u0BA4\u0BBF\u0BB0\u0BAE\u0BCD
+    \u201Ctuntiram\u201D), Turkisa (tundra), Hangusa (\uD230\uB4DC\uB77C \u201Ctundura\u201D),
+    Parsisa (\u062A\u0648\u0646\u062F\u0631\u0627 \u201Ctundra\u201D), Swahilisa (tundra)"
+...

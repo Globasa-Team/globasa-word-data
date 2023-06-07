@@ -1,0 +1,47 @@
+---
+term: kreaxey
+slug: kreaxey
+ipa: "k\u027Eea\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Eea\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (a) creation
+  epo:
+  - - "krea\u0135o"
+  spa:
+  - - "creaci\xF3n"
+search terms:
+  glb:
+  - kreaxey
+  eng:
+  - a creation
+  - creation
+  epo:
+  - "krea\u0135o"
+  spa:
+  - "creaci\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/krea">krea</a> + <a href="../lexi/-xey">-xey</a>
+raw data:
+  term: kreaxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (a) creation
+    epo: "krea\u0135o"
+    spa: "creaci\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: krea + -xey
+...

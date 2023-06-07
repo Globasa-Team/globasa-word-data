@@ -1,0 +1,90 @@
+---
+term: xiropu
+slug: xiropu
+ipa: "\u0283i\u02C8\u027Eopu"
+ipa link: "http://ipa-reader.xyz/?text=\u0283i\u02C8\u027Eopu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - syrup
+  epo:
+  - - siropo
+  spa:
+  - - jarabe
+    - "alm\xEDbar"
+    - sirope
+search terms:
+  glb:
+  - xiropu
+  eng:
+  - syrup
+  epo:
+  - siropo
+  spa:
+  - jarabe
+  - "alm\xEDbar"
+  - sirope
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - syrup
+  Espanisa:
+  - - sirope
+  Fransesa:
+  - - sirop
+  Indonesisa: ~
+  Rusisa:
+  - - "\u0441\u0438\u0440\u043E\u043F \u201Csirop\u201D"
+  Doycisa:
+  - - Sirup
+  Pilipinasa: ~
+  Portugalsa:
+  - - xarope
+  Italisa:
+  - - sciroppo
+  Hindisa:
+  - - "\u0936\u0930\u094D\u092C\u0924 \u201Cxarbat\u201D"
+  Niponsa:
+  - - "\u30B7\u30ED\u30C3\u30D7 \u201Cxiropu\u201D"
+  Telugusa:
+  - - "\u0C37\u0C30\u0C4D\u0C2C\u0C24\u0C4D\u0C24\u0C41 \u201Cxarbatu\u201D"
+  Turkisa:
+  - - "\u015Furup"
+  Vyetnamsa:
+  - - "si-r\xF4"
+    - "xi-r\xF4"
+  Parsisa:
+  - - "\u0634\u06CC\u0631\u0647 \u201Cxire\u201D"
+    - "\u0634\u0631\u0628\u062A \u201Cxarbat\u201D"
+  Swahilisa:
+  - - shira
+tags:
+- yamxey
+raw data:
+  term: xiropu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: syrup
+    epo: siropo
+    spa: "jarabe, alm\xEDbar, sirope"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (syrup), Espanisa (sirope), Fransesa (sirop), Indonesisa, Rusisa
+    (\u0441\u0438\u0440\u043E\u043F \u201Csirop\u201D), Doycisa (Sirup), Pilipinasa,
+    Portugalsa (xarope), Italisa (sciroppo), Hindisa (\u0936\u0930\u094D\u092C\u0924
+    \u201Cxarbat\u201D), Niponsa (\u30B7\u30ED\u30C3\u30D7 \u201Cxiropu\u201D), Telugusa
+    (\u0C37\u0C30\u0C4D\u0C2C\u0C24\u0C4D\u0C24\u0C41 \u201Cxarbatu\u201D), Turkisa
+    (\u015Furup), Vyetnamsa (si-r\xF4, xi-r\xF4), Parsisa (\u0634\u06CC\u0631\u0647
+    \u201Cxire\u201D, \u0634\u0631\u0628\u062A \u201Cxarbat\u201D), Swahilisa (shira)"
+...

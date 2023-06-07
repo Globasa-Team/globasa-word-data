@@ -1,0 +1,56 @@
+---
+term: kilo
+slug: kilo
+ipa: "\u02C8kilo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kilo&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - thousand
+    - one thousand
+  epo:
+  - - mil
+  spa:
+  - - kilo-
+    - "1 \xD7 10^3"
+    - mil
+    - k
+search terms:
+  glb:
+  - kilo
+  eng:
+  - thousand
+  - one thousand
+  epo:
+  - mil
+  spa:
+  - kilo-
+  - "1 \xD7 10^3"
+  - mil
+  - k
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kilo
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: thousand, one thousand
+    epo: mil
+    spa: "kilo-, 1 \xD7 10^3, mil, k"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (kilo-), Fransesa ( ), Doycisa, Rusisa, Espanisa, Arabisa, Hindisa,
+    Telugusa, Parsisa, Turkisa, Indonesisa, Pilipinasa, Swahilisa, Vyetnamsa, Niponsa,
+    Hangusa
+...

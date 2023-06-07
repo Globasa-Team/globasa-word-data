@@ -1,0 +1,48 @@
+---
+term: max
+slug: max
+ipa: "\u02C8ma\u0283"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u0283&voice=Ewa"
+status: true
+category: root
+word class: d
+trans:
+  eng:
+  - - more
+  epo:
+  - - pli
+  spa:
+  - - "m\xE1s"
+search terms:
+  glb:
+  - max
+  eng:
+  - more
+  epo:
+  - pli
+  spa:
+  - "m\xE1s"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: max
+  category: root
+  word class: d
+  status: true
+  trans:
+    eng: more
+    epo: pli
+    spa: "m\xE1s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa, Espanisa (mas, maximo), Englisa, Doycisa (maximal), Rusisa
+    (\u043C\u0430\u043A\u0441\u0438\u043C\u0443\u043C \u201Cmaksimum\u201D), Turkisa
+    (maksimum)"
+...

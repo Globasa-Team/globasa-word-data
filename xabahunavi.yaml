@@ -1,0 +1,46 @@
+---
+term: xabahunavi
+slug: xabahunavi
+ipa: "\u0283abaxu\u02C8navi"
+ipa link: "http://ipa-reader.xyz/?text=\u0283abaxu\u02C8navi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - ghost ship
+  epo:
+  - - "fantoma \u015Dipo"
+  spa:
+  - - barco fantasma
+search terms:
+  glb:
+  - xabahunavi
+  eng:
+  - ghost ship
+  epo:
+  - "fantoma \u015Dipo"
+  spa:
+  - barco fantasma
+etymology_type: DERIVD
+etymology: <a href="../lexi/xabahu">xabahu</a> + <a href="../lexi/navi">navi</a>
+raw data:
+  term: xabahunavi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: ghost ship
+    epo: "fantoma \u015Dipo"
+    spa: barco fantasma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xabahu + navi
+...

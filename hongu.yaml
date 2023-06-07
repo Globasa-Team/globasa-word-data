@@ -1,0 +1,59 @@
+---
+term: hongu
+slug: hongu
+ipa: "\u02C8xongu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xongu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - hole
+    - cavity
+  - - bore
+  epo:
+  - - truo
+    - "kava\u0135o"
+  spa:
+  - - agujero
+    - hoyo
+    - cavidad
+  - - perforar
+search terms:
+  glb:
+  - hongu
+  eng:
+  - hole
+  - cavity
+  - bore
+  epo:
+  - truo
+  - "kava\u0135o"
+  spa:
+  - agujero
+  - hoyo
+  - cavidad
+  - perforar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hongu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: hole, cavity; bore
+    epo: "truo, kava\u0135o"
+    spa: agujero, hoyo, cavidad; perforar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5B54 \u201Ck\u01D2ng\u201D), Niponsa (\u5B54 \u201Ck\u014D\u201D),
+    Hangusa (\uACF5 \u201Cgong\u201D), Vyetnamsa (h\u1ED5ng)"
+...

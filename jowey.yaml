@@ -1,0 +1,55 @@
+---
+term: jowey
+slug: jowey
+ipa: "d\u0361\u0292o\u02C8wej"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292o\u02C8wej&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - surroundings
+    - environment
+  epo:
+  - - "\u0109irka\u016Da\u0135oj"
+    - "\u0109irka\u016Dejo"
+    - medio
+  spa:
+  - - entorno
+    - alrededor
+search terms:
+  glb:
+  - jowey
+  eng:
+  - surroundings
+  - environment
+  epo:
+  - "\u0109irka\u016Da\u0135oj"
+  - "\u0109irka\u016Dejo"
+  - medio
+  spa:
+  - entorno
+  - alrededor
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jowey
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: surroundings, environment
+    epo: "\u0109irka\u016Da\u0135oj, \u0109irka\u016Dejo, medio"
+    spa: entorno, alrededor
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5468\u56F4 \u201Czh\u014Duw\xE9i\u201D), Hangusa (\uC8FC\uC704
+    \u201Cjuwi\u201D)"
+...

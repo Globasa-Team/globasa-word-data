@@ -1,0 +1,76 @@
+---
+term: trompeta
+slug: trompeta
+ipa: "t\u027Eom\u02C8peta"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Eom\u02C8peta&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - trumpet
+  epo:
+  - - trumpeto
+  spa:
+  - - trompeta
+search terms:
+  glb:
+  - trompeta
+  eng:
+  - trumpet
+  epo:
+  - trumpeto
+  spa:
+  - trompeta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - trumpet
+  Espanisa:
+  - - trompeta
+  Fransesa:
+  - - trompette
+  Doycisa:
+  - - Trompete
+  Indonesisa:
+  - - terompet
+  Pilipinasa:
+  - - trumpeta
+  Niponsa:
+  - - "\u30C8\u30E9\u30F3\u30DA\u30C3\u30C8 \u201Ctorampeto\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C4D\u0C30\u0C02\u0C2A\u0C46\u0C1F\u0C4D \u201Ctrampet\u201D"
+  Turkisa:
+  - - trompet
+  Hangusa:
+  - - "\uD2B8\uB7FC\uD3AB \u201Cturampet\u201D"
+  Parsisa:
+  - - "\u062A\u0631\u0648\u0645\u067E\u062A \u201Ctrompet"
+    - trumpet'
+  Swahilisa:
+  - - tarumbeta
+raw data:
+  term: trompeta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: trumpet
+    epo: trumpeto
+    spa: trompeta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (trumpet), Espanisa (trompeta), Fransesa (trompette), Doycisa
+    (Trompete), Indonesisa (terompet), Pilipinasa (trumpeta), Niponsa (\u30C8\u30E9\u30F3\u30DA\u30C3\u30C8
+    \u201Ctorampeto\u201D), Telugusa (\u0C1F\u0C4D\u0C30\u0C02\u0C2A\u0C46\u0C1F\u0C4D
+    \u201Ctrampet\u201D), Turkisa (trompet), Hangusa (\uD2B8\uB7FC\uD3AB \u201Cturampet\u201D),
+    Parsisa (\u062A\u0631\u0648\u0645\u067E\u062A \u201Ctrompet, trumpet'), Swahilisa
+    (tarumbeta)"
+...

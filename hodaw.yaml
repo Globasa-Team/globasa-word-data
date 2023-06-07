@@ -1,0 +1,59 @@
+---
+term: hodaw
+slug: hodaw
+ipa: "xo\u02C8daw"
+ipa link: "http://ipa-reader.xyz/?text=xo\u02C8daw&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - walnut
+    - _Juglans_
+  epo:
+  - - juglando
+  spa:
+  - - nuez
+    - _Juglans_
+search terms:
+  glb:
+  - hodaw
+  eng:
+  - walnut
+  - juglans
+  epo:
+  - juglando
+  spa:
+  - nuez
+  - juglans
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6838\u6843 \"hetaw\""
+  Vyetnamsa:
+  - - "h\u1ED3 \u0111\xE0o"
+  Hangusa:
+  - - "\uD638\uB450 \"hodu\""
+tags:
+- planta
+raw data:
+  term: hodaw
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: walnut, _Juglans_
+    epo: juglando
+    spa: nuez, _Juglans_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planta
+  etymology: "Putunhwa (\u6838\u6843 \"hetaw\"), Vyetnamsa (h\u1ED3 \u0111\xE0o),
+    Hangusa (\uD638\uB450 \"hodu\")"
+...

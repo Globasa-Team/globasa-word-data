@@ -1,0 +1,49 @@
+---
+term: kursi
+slug: kursi
+ipa: "\u02C8ku\u027Esi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ku\u027Esi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chair
+  epo:
+  - - "se\u011Do"
+  spa:
+  - - silla
+search terms:
+  glb:
+  - kursi
+  eng:
+  - chair
+  epo:
+  - "se\u011Do"
+  spa:
+  - silla
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kursi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chair
+    epo: "se\u011Do"
+    spa: silla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0643\u0631\u0633\u064A \u201Ckursi\u201D), Parsisa (\u06A9\u0631\u0633\u06CC
+    \u201Ckorsi\u201D), Hindisa (\u0915\u0941\u0930\u0938\u0940 \u201Ckursi\u201D),
+    Telugusa (\u0C15\u0C41\u0C30\u0C4D\u0C1A\u0C40 \u201Ckurc\u012B\u201D) Indonesisa
+    (kursi), Swahilisa (kiti)"
+...

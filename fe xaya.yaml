@@ -1,0 +1,61 @@
+---
+term: fe xaya
+slug: fe xaya
+ipa: "fe \u02C8\u0283aja"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8\u0283aja&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - in the future
+    - afterwards
+    - later (on)
+  epo:
+  - - estonte
+    - estontece
+    - poste
+  spa:
+  - - en el futuro
+    - luego
+    - "despu\xE9s"
+search terms:
+  glb:
+  - fe xaya
+  - fe
+  - xaya
+  eng:
+  - in the future
+  - afterwards
+  - later on
+  - later
+  epo:
+  - estonte
+  - estontece
+  - poste
+  spa:
+  - en el futuro
+  - luego
+  - "despu\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/xa">xa</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fe xaya
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: in the future, afterwards, later (on)
+    epo: estonte, estontece, poste
+    spa: "en el futuro, luego, despu\xE9s"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, xa + -ya
+...

@@ -1,0 +1,48 @@
+---
+term: katinagi
+slug: katinagi
+ipa: "kati\u02C8nagi"
+ipa link: "http://ipa-reader.xyz/?text=kati\u02C8nagi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - make difficult
+    - hinder
+  epo:
+  - - malfaciligi
+  spa:
+  - - dificultar
+search terms:
+  glb:
+  - katinagi
+  eng:
+  - make difficult
+  - hinder
+  epo:
+  - malfaciligi
+  spa:
+  - dificultar
+etymology_type: DERIVD
+etymology: <a href="../lexi/katina">katina</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: katinagi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: make difficult, hinder
+    epo: malfaciligi
+    spa: dificultar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: katina + -gi
+...

@@ -1,0 +1,53 @@
+---
+term: unpersonli
+slug: unpersonli
+ipa: "unpe\u027E\u02C8sonli"
+ipa link: "http://ipa-reader.xyz/?text=unpe\u027E\u02C8sonli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - individual
+    - individually
+  epo:
+  - - individua
+  - - individue
+  spa:
+  - - individual
+  - - individualmente
+search terms:
+  glb:
+  - unpersonli
+  eng:
+  - individual
+  - individually
+  epo:
+  - individua
+  - individue
+  spa:
+  - individual
+  - individualmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/un-">un-</a> + <a href="../lexi/person">person</a> + <a
+  href="../lexi/-li">-li</a>
+raw data:
+  term: unpersonli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: individual, individually
+    epo: individua; individue
+    spa: individual; individualmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un- + person + -li
+...

@@ -1,0 +1,49 @@
+---
+term: mahamel
+slug: mahamel
+ipa: "maxa\u02C8mel"
+ipa link: "http://ipa-reader.xyz/?text=maxa\u02C8mel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - velvet
+  epo:
+  - - veluro
+  spa:
+  - - terciopelo
+search terms:
+  glb:
+  - mahamel
+  eng:
+  - velvet
+  epo:
+  - veluro
+  spa:
+  - terciopelo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mahamel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: velvet
+    epo: veluro
+    spa: terciopelo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u092E\u0916\u093C\u092E\u0932 \u201Cmahmal\u201D), Arabisa
+    (\u0645\u064F\u062E\u0652\u0645\u064E\u0644 \u201Cmuhmal\u201D), Telugusa (\u0C2E\u0C4A\u0C39\u0C2E\u0C32\u0C41
+    \u201Cmohamalu\u201D), Parsisa (\u0645\u062E\u0645\u0644 \u201Cmahmal\u201D),
+    Swahilisa (mahameli)"
+...

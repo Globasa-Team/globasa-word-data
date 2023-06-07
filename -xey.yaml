@@ -1,0 +1,57 @@
+---
+term: -xey
+slug: -xey
+ipa: "\u02C8-\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8-\u0283ej&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - thing
+    - substance
+  epo:
+  - - "-a\u0135o"
+  spa:
+  - - cosa
+    - sustancia
+search terms:
+  glb:
+  - -xey
+  eng:
+  - thing
+  - substance
+  epo:
+  - "-a\u0135o"
+  spa:
+  - cosa
+  - sustancia
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0634\u064A\u0621 \u201Cshay\u201D"
+  Putunhwa:
+  - - "\u4E8B \u201Csh\xEC\u201D"
+  Turkisa:
+  - - "\u015Fey"
+raw data:
+  term: -xey
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: thing, substance
+    epo: "-a\u0135o"
+    spa: cosa, sustancia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0634\u064A\u0621 \u201Cshay\u201D), Putunhwa (\u4E8B \u201Csh\xEC\u201D),
+    Turkisa (\u015Fey)"
+...

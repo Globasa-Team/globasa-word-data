@@ -1,0 +1,47 @@
+---
+term: sofilogiyen
+slug: sofilogiyen
+ipa: "sofilogi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=sofilogi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - philosopher
+  epo:
+  - - filozofo
+  spa:
+  - - "fil\xF3sofo"
+search terms:
+  glb:
+  - sofilogiyen
+  eng:
+  - philosopher
+  epo:
+  - filozofo
+  spa:
+  - "fil\xF3sofo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sofi">sofi</a> + <a href="../lexi/-logi">-logi</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: sofilogiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: philosopher
+    epo: filozofo
+    spa: "fil\xF3sofo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sofi + -logi + -yen
+...

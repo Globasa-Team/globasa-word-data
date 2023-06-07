@@ -1,0 +1,54 @@
+---
+term: san vinsent ji grenadin
+slug: san vinsent ji grenadin
+ipa: "\u02C8san vin\u02C8sent d\u0361\u0292i g\u027Eena\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8san vin\u02C8sent d\u0361\u0292i g\u027Eena\u02C8din&voice=Ewa"
+status: false
+category: phrase
+word class: "n"
+trans:
+  eng:
+  - - Saint Vincent and the Grenadines
+  epo:
+  - - Sankta Vincento kaj Grenadinoj
+  spa:
+  - - San Vicente y las Granadinas
+search terms:
+  glb:
+  - san vinsent ji grenadin
+  - san
+  - vinsent
+  - ji
+  - grenadin
+  eng:
+  - saint vincent and the grenadines
+  epo:
+  - sankta vincento kaj grenadinoj
+  spa:
+  - san vicente y las granadinas
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Saint Vincent and the Grenadines
+tags:
+- dexa
+raw data:
+  term: San Vinsent ji Grenadin
+  category: phrase
+  word class: "n"
+  status: false
+  trans:
+    eng: Saint Vincent and the Grenadines
+    epo: Sankta Vincento kaj Grenadinoj
+    spa: San Vicente y las Granadinas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Englisa (Saint Vincent and the Grenadines)
+...

@@ -1,0 +1,48 @@
+---
+term: mekanilogi
+slug: mekanilogi
+ipa: "mekani\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=mekani\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - mechanics
+  epo:
+  - - "me\u0125aniko"
+    - mekaniko
+  spa:
+  - - "mec\xE1nica (_ciencia_)"
+search terms:
+  glb:
+  - mekanilogi
+  eng:
+  - mechanics
+  epo:
+  - "me\u0125aniko"
+  - mekaniko
+  spa:
+  - "mec\xE1nica"
+etymology_type: DERIVD
+etymology: <a href="../lexi/mekani">mekani</a> + <a href="../lexi/-logi">-logi</a>
+raw data:
+  term: mekanilogi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: mechanics
+    epo: "me\u0125aniko, mekaniko"
+    spa: "mec\xE1nica (_ciencia_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mekani + -logi
+...

@@ -1,0 +1,86 @@
+---
+term: bus
+slug: bus
+ipa: ˈbus
+ipa link: http://ipa-reader.xyz/?text=ˈbus&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bus
+  epo:
+  - - (aŭto)buso
+  spa:
+  - - autobús
+search terms:
+  glb:
+  - bus
+  eng:
+  - bus
+  epo:
+  - aŭtobuso
+  - buso
+  spa:
+  - autobús
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - bus
+  Fransesa:
+  - - autobus
+  Doycisa:
+  - - Bus
+  Rusisa:
+  - - автобус “avtobus”
+  Espanisa:
+  - - autobús
+    - bus
+  Putunhwa:
+  - - 巴士 “bāshì”
+  Niponsa:
+  - - バス “basu”
+  Hangusa:
+  - - 버스 “basu”
+  Vyetnamsa:
+  - - buýt
+  Hindisa:
+  - - बस “bas”
+  Telugusa:
+  - - బస్సు “busu”
+  Arabisa:
+  - - بَاص “bas”
+  Parsisa:
+  - - اتوبوس “otobus”
+  Turkisa:
+  - - otobüs
+  Swahilisa:
+  - - basi
+  Pilipinasa:
+  - - bus
+  Indonesisa:
+  - - bus
+raw data:
+  term: bus
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bus
+    epo: (aŭto)buso
+    spa: autobús
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (bus), Fransesa (autobus), Doycisa (Bus), Rusisa (автобус “avtobus”),
+    Espanisa (autobús, bus), Putunhwa (巴士 “bāshì”) Niponsa (バス “basu”), Hangusa (버스
+    “basu”), Vyetnamsa (buýt), Hindisa (बस “bas”), Telugusa (బస్సు “busu”), Arabisa
+    (بَاص “bas”), Parsisa (اتوبوس “otobus”), Turkisa (otobüs), Swahilisa (basi), Pilipinasa
+    (bus), Indonesisa (bus)
+...

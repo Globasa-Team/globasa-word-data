@@ -1,0 +1,71 @@
+---
+term: rahibu
+slug: rahibu
+ipa: "\u027Ea\u02C8xibu"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ea\u02C8xibu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - monk
+    - nun
+    - brother
+    - sister
+    - cloisterer
+  epo:
+  - - "mona\u0125o"
+    - "mona\u0125ino"
+  spa:
+  - - monje
+search terms:
+  glb:
+  - rahibu
+  eng:
+  - monk
+  - nun
+  - brother
+  - sister
+  - cloisterer
+  epo:
+  - "mona\u0125o"
+  - "mona\u0125ino"
+  spa:
+  - monje
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0631\u064E\u0627\u0647\u0650\u0628 \u201Crahib\u201D"
+    - "\u0631\u064E\u0627\u0647\u0650\u0628\u064E\u0629 \u201Crahiba\u201D"
+  Indonesisa:
+  - - rahib
+  Turkisa:
+  - - rahip
+    - rahibe
+  Parsisa:
+  - - "\u0631\u0627\u0647\u0628 \u201Craheb\u201D"
+    - "\u0631\u0627\u0647\u0628\u0647 \u201Crahebe\u201D"
+tags:
+- dini
+raw data:
+  term: rahibu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: monk, nun, brother, sister, cloisterer
+    epo: "mona\u0125o, mona\u0125ino"
+    spa: monje
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: "Arabisa (\u0631\u064E\u0627\u0647\u0650\u0628 \u201Crahib\u201D, \u0631\u064E\u0627\u0647\u0650\u0628\u064E\u0629
+    \u201Crahiba\u201D), Indonesisa (rahib), Turkisa (rahip, rahibe), Parsisa (\u0631\u0627\u0647\u0628
+    \u201Craheb\u201D, \u0631\u0627\u0647\u0628\u0647 \u201Crahebe\u201D)"
+...

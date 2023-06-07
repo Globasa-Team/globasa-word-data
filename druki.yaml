@@ -1,0 +1,51 @@
+---
+term: druki
+slug: druki
+ipa: "\u02C8d\u027Euki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u027Euki&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Bhutan
+  epo:
+  - - Butano
+  spa:
+  - - "But\xE1n"
+search terms:
+  glb:
+  - druki
+  eng:
+  - bhutan
+  epo:
+  - butano
+  spa:
+  - "but\xE1n"
+etymology_type: NATLNG
+etymology:
+  Drukisa:
+  - - "\u0F60\u0F56\u0FB2\u0F74\u0F42\u0F0B\u0F61\u0F74\u0F63 \u201CDruk Yul\u201D"
+tags:
+- dexa
+raw data:
+  term: Druki
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Bhutan
+    epo: Butano
+    spa: "But\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Drukisa (\u0F60\u0F56\u0FB2\u0F74\u0F42\u0F0B\u0F61\u0F74\u0F63 \u201CDruk
+    Yul\u201D)"
+...

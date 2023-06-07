@@ -1,0 +1,46 @@
+---
+term: energikaxa
+slug: energikaxa
+ipa: "ene\u027Egi\u02C8ka\u0283a"
+ipa link: "http://ipa-reader.xyz/?text=ene\u027Egi\u02C8ka\u0283a&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - battery
+  epo:
+  - - baterio
+  spa:
+  - - "bater\xEDa"
+search terms:
+  glb:
+  - energikaxa
+  eng:
+  - battery
+  epo:
+  - baterio
+  spa:
+  - "bater\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/energi">energi</a> + <a href="../lexi/-kaxa">-kaxa</a>
+raw data:
+  term: energikaxa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: battery
+    epo: baterio
+    spa: "bater\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: energi + -kaxa
+...

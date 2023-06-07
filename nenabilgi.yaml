@@ -1,0 +1,51 @@
+---
+term: nenabilgi
+slug: nenabilgi
+ipa: "nena\u02C8bilgi"
+ipa link: "http://ipa-reader.xyz/?text=nena\u02C8bilgi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - disable
+  epo:
+  - - nekapabligo
+  - - nekapabligi
+  spa:
+  - - deshabilitar
+    - inutilizar
+search terms:
+  glb:
+  - nenabilgi
+  eng:
+  - disable
+  epo:
+  - nekapabligo
+  - nekapabligi
+  spa:
+  - deshabilitar
+  - inutilizar
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/abil">abil</a> + <a
+  href="../lexi/-gi">-gi</a>
+raw data:
+  term: nenabilgi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: disable
+    epo: nekapabligo; nekapabligi
+    spa: deshabilitar, inutilizar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + abil + -gi
+...

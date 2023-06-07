@@ -1,0 +1,68 @@
+---
+term: tyojan
+slug: tyojan
+ipa: "tjo\u02C8d\u0361\u0292an"
+ipa link: "http://ipa-reader.xyz/?text=tjo\u02C8d\u0361\u0292an&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - challenge
+    - dare
+    - defiance
+  - - challenge
+    - dare
+    - defy
+    - question
+  epo:
+  - - defio
+  - - defii
+  spa:
+  - - reto
+    - "desaf\xEDo"
+  - - retar
+    - desafiar
+search terms:
+  glb:
+  - tyojan
+  eng:
+    0: challenge
+    1: dare
+    2: defiance
+    5: defy
+    6: question
+  epo:
+  - defio
+  - defii
+  spa:
+  - reto
+  - "desaf\xEDo"
+  - retar
+  - desafiar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u6311\u6218 \u201Ctyawjan\u201D"
+  Hangusa:
+  - - "\uB3C4\uC804 \u201Ctojan\u201D"
+raw data:
+  term: tyojan
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: challenge, dare, defiance; challenge, dare, defy, question
+    epo: defio; defii
+    spa: "reto, desaf\xEDo; retar, desafiar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u6311\u6218 \u201Ctyawjan\u201D), Hangusa (\uB3C4\uC804 \u201Ctojan\u201D)"
+...

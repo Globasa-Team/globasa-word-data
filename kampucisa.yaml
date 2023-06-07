@@ -1,0 +1,55 @@
+---
+term: kampucisa
+slug: kampucisa
+ipa: "kampu\u02C8t\u0361\u0283isa"
+ipa link: "http://ipa-reader.xyz/?text=kampu\u02C8t\u0361\u0283isa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Khmer
+    - Cambodian (language)
+  epo:
+  - - la kmera (lingvo)
+    - "la kambo\u011Da (lingvo)"
+  spa:
+  - - camboyano (_idioma_)
+search terms:
+  glb:
+  - kampucisa
+  eng:
+  - khmer
+  - cambodian language
+  - cambodian
+  epo:
+  - la kmera lingvo
+  - la kmera
+  - "la kambo\u011Da lingvo"
+  - "la kambo\u011Da"
+  spa:
+  - camboyano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kampuci">Kampuci</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Kampucisa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Khmer, Cambodian (language)
+    epo: "la kmera (lingvo), la kambo\u011Da (lingvo)"
+    spa: camboyano (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Kampuci + -sa
+...

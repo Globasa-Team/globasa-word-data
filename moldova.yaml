@@ -1,0 +1,52 @@
+---
+term: moldova
+slug: moldova
+ipa: "mol\u02C8dova"
+ipa link: "http://ipa-reader.xyz/?text=mol\u02C8dova&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Moldova
+  epo:
+  - - Moldavio
+  - - Moldavujo
+  spa:
+  - - Moldavia
+search terms:
+  glb:
+  - moldova
+  eng:
+  - moldova
+  epo:
+  - moldavio
+  - moldavujo
+  spa:
+  - moldavia
+etymology_type: NATLNG
+etymology:
+  Rumanisa:
+  - - Moldova
+tags:
+- dexa
+raw data:
+  term: Moldova
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Moldova
+    epo: Moldavio; Moldavujo
+    spa: Moldavia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Rumanisa (Moldova)
+...

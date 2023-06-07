@@ -1,0 +1,81 @@
+---
+term: porta
+slug: porta
+ipa: "\u02C8po\u027Eta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8po\u027Eta&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - carry
+    - take
+  epo:
+  - - portado
+    - prenado
+  - - porti
+    - preni
+  spa:
+  - - llevar
+search terms:
+  glb:
+  - porta
+  eng:
+  - carry
+  - take
+  epo:
+  - portado
+  - prenado
+  - porti
+  - preni
+  spa:
+  - llevar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - transportation
+    - portable
+  Fransesa:
+  - - transportation
+    - portable
+    - portatif
+  Doycisa:
+  - - Transport
+    - portabel
+  Rusisa:
+  - - "\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442 \u201Ctransport\u201D"
+    - "\u043F\u043E\u0440\u0442\u0430\u0442\u0438\u0432\u043D\u044B\u0439 \u201Cportativniy\u201D"
+  Espanisa:
+  - - portar
+    - "port\xE1til"
+  Indonesisa:
+  - - transportasi
+  Parsisa:
+  - - "\u062A\u0631\u0627\u0646\u0633\u067E\u0648\u0631\u062A \u201Ctransport\u201D"
+  Turkisa:
+  - - portatif
+raw data:
+  term: porta
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: carry, take
+    epo: portado, prenado; porti, preni
+    spa: llevar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (transportation, portable), Fransesa (transportation, portable,
+    portatif), Doycisa (Transport, portabel), Rusisa (\u0442\u0440\u0430\u043D\u0441\u043F\u043E\u0440\u0442
+    \u201Ctransport\u201D, \u043F\u043E\u0440\u0442\u0430\u0442\u0438\u0432\u043D\u044B\u0439
+    \u201Cportativniy\u201D), Espanisa (portar, port\xE1til), Indonesisa (transportasi),
+    Parsisa (\u062A\u0631\u0627\u0646\u0633\u067E\u0648\u0631\u062A \u201Ctransport\u201D),
+    Turkisa (portatif)"
+...

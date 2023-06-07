@@ -1,0 +1,56 @@
+---
+term: trasporta
+slug: trasporta
+ipa: "t\u027Eas\u02C8po\u027Eta"
+ipa link: "http://ipa-reader.xyz/?text=t\u027Eas\u02C8po\u027Eta&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - transportation
+  - - transport
+  epo:
+  - - transporto
+    - transportado
+  - - transporti
+  spa:
+  - - "transportaci\xF3n"
+    - transporte
+  - - transportar
+search terms:
+  glb:
+  - trasporta
+  eng:
+  - transportation
+  - transport
+  epo:
+  - transporto
+  - transportado
+  - transporti
+  spa:
+  - "transportaci\xF3n"
+  - transporte
+  - transportar
+etymology_type: DERIVD
+etymology: <a href="../lexi/tras-">tras-</a> + <a href="../lexi/porta">porta</a>
+raw data:
+  term: trasporta
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: transportation; transport
+    epo: transporto, transportado; transporti
+    spa: "transportaci\xF3n, transporte; transportar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tras- + porta
+...

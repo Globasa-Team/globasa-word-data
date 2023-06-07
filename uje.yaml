@@ -1,0 +1,55 @@
+---
+term: uje
+slug: uje
+ipa: "\u02C8ud\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ud\u0361\u0292e&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - already
+  epo:
+  - - jam
+  spa:
+  - - ya
+search terms:
+  glb:
+  - uje
+  eng:
+  - already
+  epo:
+  - jam
+  spa:
+  - ya
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - "\u0443\u0436\u0435 \u201Cuzhe\u201D"
+  Englisa:
+  - - yet
+  Espanisa:
+  - - ya
+  Portugalsa:
+  - - "j\xE1"
+raw data:
+  term: uje
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: already
+    epo: jam
+    spa: ya
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Rusisa (\u0443\u0436\u0435 \u201Cuzhe\u201D), Englisa (yet), Espanisa
+    (ya), Portugalsa (j\xE1)"
+...

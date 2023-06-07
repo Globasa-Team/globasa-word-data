@@ -1,0 +1,76 @@
+---
+term: pasta
+slug: pasta
+ipa: "\u02C8pasta"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pasta&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pasta
+  epo:
+  - - "pasta\u0135o(j)"
+  spa:
+  - - pasta (_comida_)
+search terms:
+  glb:
+  - pasta
+  eng:
+  - pasta
+  epo:
+  - "pasta\u0135oj"
+  - "pasta\u0135o"
+  spa:
+  - pasta
+etymology_type: NATLNG
+etymology:
+  Italisa:
+  - - pasta
+  Englisa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Vyetnamsa: ~
+  Swahilisa: ~
+  Fransesa:
+  - - "p\xE2tes"
+  Rusisa:
+  - - "\u043F\u0430\u0441\u0442\u0430 \u201Cpasta\u201D"
+  Hindisa:
+  - - "\u092A\u093E\u0938\u094D\u0924\u093E \u201Cpasta\u201D"
+  Niponsa:
+  - - "\u30D1\u30B9\u30BF \u201Cpasuta\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C3E\u0C38\u0C4D\u0C24\u0C3E \u201Cpasta\u201D"
+  Hangusa:
+  - - "\uD30C\uC2A4\uD0C0 \u201Cpasuta\u201D"
+  Parsisa:
+  - - "\u067E\u0627\u0633\u062A\u0627 \u201Cpasta\u201D"
+tags:
+- yamxey
+raw data:
+  term: pasta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pasta
+    epo: "pasta\u0135o(j)"
+    spa: pasta (_comida_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Italisa (pasta), Englisa, Doycisa, Indonesisa, Pilipinasa, Vyetnamsa,
+    Swahilisa, Fransesa (p\xE2tes), Rusisa (\u043F\u0430\u0441\u0442\u0430 \u201Cpasta\u201D),
+    Hindisa (\u092A\u093E\u0938\u094D\u0924\u093E \u201Cpasta\u201D), Niponsa (\u30D1\u30B9\u30BF
+    \u201Cpasuta\u201D), Telugusa (\u0C2A\u0C3E\u0C38\u0C4D\u0C24\u0C3E \u201Cpasta\u201D),
+    Hangusa (\uD30C\uC2A4\uD0C0 \u201Cpasuta\u201D), Parsisa (\u067E\u0627\u0633\u062A\u0627
+    \u201Cpasta\u201D)"
+...

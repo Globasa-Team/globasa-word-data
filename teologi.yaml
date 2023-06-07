@@ -1,0 +1,48 @@
+---
+term: teologi
+slug: teologi
+ipa: "teo\u02C8logi"
+ipa link: "http://ipa-reader.xyz/?text=teo\u02C8logi&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - theology
+  epo:
+  - - teologio
+    - discienco
+  spa:
+  - - "teolog\xEDa"
+search terms:
+  glb:
+  - teologi
+  eng:
+  - theology
+  epo:
+  - teologio
+  - discienco
+  spa:
+  - "teolog\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/teo">teo</a> + <a href="../lexi/-logi">-logi</a>
+raw data:
+  term: teologi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: theology
+    epo: teologio, discienco
+    spa: "teolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: teo + -logi
+...

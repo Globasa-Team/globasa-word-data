@@ -1,0 +1,70 @@
+---
+term: dyabetes
+slug: dyabetes
+ipa: djabeˈtes
+ipa link: http://ipa-reader.xyz/?text=djabeˈtes&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - diabetes
+  epo:
+  - - diabeto
+  spa:
+  - - diabetes
+search terms:
+  glb:
+  - dyabetes
+  eng:
+  - diabetes
+  epo:
+  - diabeto
+  spa:
+  - diabetes
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - diabetes
+  Espanisa:
+  - - diabetes
+  Fransesa:
+  - - diabète
+  Rusisa:
+  - - диабет "diabet"
+  Doycisa:
+  - - Diabetes
+  Indonesisa:
+  - - diabetes
+  Pilipinasa:
+  - - diyabetes
+  Arabisa:
+  - - دِيَابِيطَا "diyabita"
+  Turkisa:
+  - - diyabet
+  Parsisa:
+  - - دیابت "diyâbet"
+tags:
+- medis
+raw data:
+  term: dyabetes
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: diabetes
+    epo: diabeto
+    spa: diabetes
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: Englisa (diabetes), Espanisa (diabetes), Fransesa (diabète), Rusisa (диабет
+    "diabet"), Doycisa (Diabetes), Indonesisa (diabetes), Pilipinasa (diyabetes),
+    Arabisa (دِيَابِيطَا "diyabita"), Turkisa (diyabet), Parsisa (دیابت "diyâbet")
+...

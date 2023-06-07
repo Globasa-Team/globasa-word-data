@@ -1,0 +1,57 @@
+---
+term: pinatu
+slug: pinatu
+ipa: "pi\u02C8natu"
+ipa link: "http://ipa-reader.xyz/?text=pi\u02C8natu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - peanut
+  epo:
+  - - arakido
+  spa:
+  - - "man\xED"
+    - cacahuate
+search terms:
+  glb:
+  - pinatu
+  eng:
+  - peanut
+  epo:
+  - arakido
+  spa:
+  - "man\xED"
+  - cacahuate
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - peanut
+  Fransesa:
+  - - pinotte
+  Niponsa:
+  - - "\u30D4\u30FC\u30CA\u30C4 \u201Cpinatsu\u201D"
+tags:
+- yamxey
+raw data:
+  term: pinatu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: peanut
+    epo: arakido
+    spa: "man\xED, cacahuate"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (peanut), Fransesa (pinotte), Niponsa (\u30D4\u30FC\u30CA\u30C4
+    \u201Cpinatsu\u201D)"
+...

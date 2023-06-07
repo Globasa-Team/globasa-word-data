@@ -1,0 +1,63 @@
+---
+term: hajul
+slug: hajul
+ipa: xaˈd͡ʒul
+ipa link: http://ipa-reader.xyz/?text=xaˈd͡ʒul&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - shy
+    - bashful
+    - timid
+    - coy
+  epo:
+  - - rezerva
+    - hontema
+  - - rezerve
+    - honteme
+  spa:
+  - - tímido
+search terms:
+  glb:
+  - hajul
+  eng:
+  - shy
+  - bashful
+  - timid
+  - coy
+  epo:
+  - rezerva
+  - hontema
+  - rezerve
+  - honteme
+  spa:
+  - tímido
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - خجول “hajul”
+  Parsisa:
+  - - خجول “hajul”
+    - خجالتی “hejalati”
+raw data:
+  term: hajul
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: shy, bashful, timid, coy
+    epo: rezerva, hontema; rezerve, honteme
+    spa: tímido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Arabisa (خجول “hajul”), Parsisa (خجول “hajul”, خجالتی “hejalati”)
+...

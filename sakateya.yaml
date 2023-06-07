@@ -1,0 +1,52 @@
+---
+term: sakateya
+slug: sakateya
+ipa: "saka\u02C8teja"
+ipa link: "http://ipa-reader.xyz/?text=saka\u02C8teja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hardness
+    - stiffness
+    - rigidity
+  epo:
+  - - malmoleco
+  spa:
+  - - dureza
+    - rigidez
+search terms:
+  glb:
+  - sakateya
+  eng:
+  - hardness
+  - stiffness
+  - rigidity
+  epo:
+  - malmoleco
+  spa:
+  - dureza
+  - rigidez
+etymology_type: DERIVD
+etymology: <a href="../lexi/sakate">sakate</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: sakateya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hardness, stiffness, rigidity
+    epo: malmoleco
+    spa: dureza, rigidez
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sakate + -ya
+...

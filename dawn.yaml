@@ -1,0 +1,52 @@
+---
+term: dawn
+slug: dawn
+ipa: "\u02C8dawn"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dawn&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Down (name)
+  epo:
+  - - Down
+    - "Da\u016Dn (nomo)"
+  spa:
+  - - Down (_nombre_)
+search terms:
+  glb:
+  - dawn
+  eng:
+  - down name
+  - down
+  epo:
+  - down
+  - "da\u016Dn nomo"
+  - "da\u016Dn"
+  spa:
+  - down
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - Down
+raw data:
+  term: Dawn
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Down (name)
+    epo: "Down, Da\u016Dn (nomo)"
+    spa: Down (_nombre_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (Down)
+...

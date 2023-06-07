@@ -1,0 +1,52 @@
+---
+term: togo
+slug: togo
+ipa: "\u02C8togo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8togo&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Togo
+  epo:
+  - - Togolando
+    - Togolo
+  spa:
+  - - Togo
+search terms:
+  glb:
+  - togo
+  eng:
+  - togo
+  epo:
+  - togolando
+  - togolo
+  spa:
+  - togo
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - Togo
+tags:
+- dexa
+raw data:
+  term: Togo
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Togo
+    epo: Togolando, Togolo
+    spa: Togo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Fransesa (Togo)
+...

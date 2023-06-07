@@ -1,0 +1,52 @@
+---
+term: cati
+slug: cati
+ipa: ˈt͡ʃati
+ipa link: http://ipa-reader.xyz/?text=ˈt͡ʃati&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chest (_anatomy_)
+  epo:
+  - - brusto
+  spa:
+  - - pecho
+search terms:
+  glb:
+  - cati
+  eng:
+  - chest
+  epo:
+  - brusto
+  spa:
+  - pecho
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - छाती “cati”
+  Telugusa:
+  - - ఛాతి “chāti”
+tags:
+- jismulogi
+raw data:
+  term: cati
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chest (_anatomy_)
+    epo: brusto
+    spa: pecho
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Hindisa (छाती “cati”), Telugusa (ఛాతి “chāti”)
+...

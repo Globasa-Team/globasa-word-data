@@ -1,0 +1,58 @@
+---
+term: tenwo
+slug: tenwo
+ipa: "\u02C8tenwo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tenwo&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Uranus (_planet_)
+  epo:
+  - - Urano (_planedo_)
+  spa:
+  - - Urano (_planeta_)
+search terms:
+  glb:
+  - tenwo
+  eng:
+  - uranus
+  epo:
+  - urano
+  spa:
+  - urano
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5929\u738B\u661F \u201Cti\u0101nw\xE1ngx\u012Bng\u201D"
+  Hangusa:
+  - - "\uCC9C\uC655\uC131 \u201Ccheon-wangseong\u201D"
+  Niponsa:
+  - - "\u5929\u738B\u661F \u201Cten'n\u014Dsei"
+  Vyetnamsa:
+  - - "Sao Thi\xEAn V\u01B0\u01A1ng"
+tags:
+- planeta
+raw data:
+  term: Tenwo
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Uranus (_planet_)
+    epo: Urano (_planedo_)
+    spa: Urano (_planeta_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: planeta
+  etymology: "Putunhwa (\u5929\u738B\u661F \u201Cti\u0101nw\xE1ngx\u012Bng\u201D),
+    Hangusa (\uCC9C\uC655\uC131 \u201Ccheon-wangseong\u201D), Niponsa (\u5929\u738B\u661F
+    \u201Cten'n\u014Dsei), Vyetnamsa (Sao Thi\xEAn V\u01B0\u01A1ng)"
+...

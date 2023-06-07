@@ -1,0 +1,46 @@
+---
+term: -kolordo
+slug: -kolordo
+ipa: "-ko\u02C8lo\u027Edo"
+ipa link: "http://ipa-reader.xyz/?text=-ko\u02C8lo\u027Edo&voice=Ewa"
+status: true
+category: affix
+word class: t xfik
+trans:
+  eng:
+  - - shade of color
+  epo:
+  - - nuanco de kolor
+  spa:
+  - - tono de color
+search terms:
+  glb:
+  - -kolordo
+  eng:
+  - shade of color
+  epo:
+  - nuanco de kolor
+  spa:
+  - tono de color
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/kolor">kolor</a>.
+raw data:
+  term: -kolordo
+  category: affix
+  word class: t xfik
+  status: true
+  trans:
+    eng: shade of color
+    epo: nuanco de kolor
+    spa: tono de color
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _kolor_.
+...

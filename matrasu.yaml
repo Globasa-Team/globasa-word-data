@@ -1,0 +1,49 @@
+---
+term: matrasu
+slug: matrasu
+ipa: "ma\u02C8t\u027Easu"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8t\u027Easu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - mattress
+  epo:
+  - - matraco
+  spa:
+  - - "colch\xF3n"
+search terms:
+  glb:
+  - matrasu
+  eng:
+  - mattress
+  epo:
+  - matraco
+  spa:
+  - "colch\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: matrasu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: mattress
+    epo: matraco
+    spa: "colch\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mattress), Fransesa (matelas), Rusisa (\u043C\u0430\u0442\u0440\u0430\u0441
+    \u201Cmatras\u201D, \u043C\u0430\u0442\u0440\u0430\u0446 \u201Cmatrats\u201D),
+    Doycisa (Matratze), Indonesisa (matras), Niponsa (\u30DE\u30C3\u30C8\u30EC\u30B9
+    \u201Cmatoresu\u201D), Hangusa (\uB9E4\uD2B8\uB9AC\uC2A4 \u201Cmeturisu\u201D)"
+...

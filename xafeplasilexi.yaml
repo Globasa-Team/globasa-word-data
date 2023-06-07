@@ -1,0 +1,49 @@
+---
+term: xafeplasilexi
+slug: xafeplasilexi
+ipa: "\u0283afeplasi\u02C8le\u0283i"
+ipa link: "http://ipa-reader.xyz/?text=\u0283afeplasi\u02C8le\u0283i&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - postposition
+  epo:
+  - - postpozicio
+  spa:
+  - - "posposici\xF3n"
+search terms:
+  glb:
+  - xafeplasilexi
+  eng:
+  - postposition
+  epo:
+  - postpozicio
+  spa:
+  - "posposici\xF3n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/xafe-">xafe-</a> + <a href="../lexi/plasi">plasi</a> +
+  <a href="../lexi/-lexi">-lexi</a>
+tags:
+- gramati
+raw data:
+  term: xafeplasilexi
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: postposition
+    epo: postpozicio
+    spa: "posposici\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gramati
+  etymology: xafe- + plasi + -lexi
+...

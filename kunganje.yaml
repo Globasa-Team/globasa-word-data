@@ -1,0 +1,47 @@
+---
+term: kunganje
+slug: kunganje
+ipa: "kun\u02C8gand\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=kun\u02C8gand\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - volume (_of space_)
+  epo:
+  - - volumeno
+  spa:
+  - - volumen (espacio)
+search terms:
+  glb:
+  - kunganje
+  eng:
+  - volume
+  epo:
+  - volumeno
+  spa:
+  - volumen espacio
+  - volumen
+etymology_type: DERIVD
+etymology: <a href="../lexi/kungan">kungan</a> + <a href="../lexi/-je">-je</a>
+raw data:
+  term: kunganje
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: volume (_of space_)
+    epo: volumeno
+    spa: volumen (espacio)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kungan + -je
+...

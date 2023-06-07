@@ -1,0 +1,46 @@
+---
+term: nudiista
+slug: nudiista
+ipa: "nudi\u02C8ista"
+ipa link: "http://ipa-reader.xyz/?text=nudi\u02C8ista&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - nudist
+  epo:
+  - - nudisto
+  spa:
+  - - nudista
+search terms:
+  glb:
+  - nudiista
+  eng:
+  - nudist
+  epo:
+  - nudisto
+  spa:
+  - nudista
+etymology_type: DERIVD
+etymology: <a href="../lexi/nudi">nudi</a> + <a href="../lexi/-ista">-ista</a>
+raw data:
+  term: nudiista
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: nudist
+    epo: nudisto
+    spa: nudista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nudi + -ista
+...

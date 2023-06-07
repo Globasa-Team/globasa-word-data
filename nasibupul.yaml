@@ -1,0 +1,56 @@
+---
+term: nasibupul
+slug: nasibupul
+ipa: "nasibu\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=nasibu\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - appropriate
+    - suitable
+    - proper
+  epo:
+  - - "ta\u016Dga"
+    - "ta\u016Dgoplena"
+  - - "ta\u016Dge"
+    - "ta\u016Dgoplene"
+  spa:
+  - - apropiado
+search terms:
+  glb:
+  - nasibupul
+  eng:
+  - appropriate
+  - suitable
+  - proper
+  epo:
+  - "ta\u016Dga"
+  - "ta\u016Dgoplena"
+  - "ta\u016Dge"
+  - "ta\u016Dgoplene"
+  spa:
+  - apropiado
+etymology_type: DERIVD
+etymology: <a href="../lexi/nasibu">nasibu</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: nasibupul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: appropriate, suitable, proper
+    epo: "ta\u016Dga, ta\u016Dgoplena; ta\u016Dge, ta\u016Dgoplene"
+    spa: apropiado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nasibu + -pul
+...

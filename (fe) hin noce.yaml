@@ -1,0 +1,52 @@
+---
+term: (fe) hin noce
+slug: (fe) hin noce
+ipa: "\u02C8(fe) \u02C8xin \u02C8not\u0361\u0283e"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8(fe) \u02C8xin \u02C8not\u0361\u0283e&voice=Ewa"
+status: false
+category: phrase
+word class: jm.p
+trans:
+  eng:
+  - - tonight
+  epo:
+  - - "\u0109inokte"
+    - "\u0109i tiu nokton"
+  spa:
+  - - esta noche
+search terms:
+  glb:
+  - (fe) hin noce
+  - fe hin noce
+  - hin noce
+  - hin
+  - noce
+  eng:
+  - tonight
+  epo:
+  - "\u0109inokte"
+  - "\u0109i tiu nokton"
+  spa:
+  - esta noche
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/hin">hin</a>, <a href="../lexi/noce">noce</a>
+raw data:
+  term: (fe) hin noce
+  category: phrase
+  word class: jm.p
+  status: false
+  trans:
+    eng: tonight
+    epo: "\u0109inokte, \u0109i tiu nokton"
+    spa: esta noche
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, hin, noce
+...

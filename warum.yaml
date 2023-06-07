@@ -1,0 +1,58 @@
+---
+term: warum
+slug: warum
+ipa: "wa\u02C8\u027Eum"
+ipa link: "http://ipa-reader.xyz/?text=wa\u02C8\u027Eum&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - swell
+  epo:
+  - - "\u015Dvelo"
+  - - "\u015Dveli"
+  spa:
+  - - "hinchaz\xF3n"
+  - - hinchar
+    - hincharse
+search terms:
+  glb:
+  - warum
+  eng:
+  - swell
+  epo:
+  - "\u015Dvelo"
+  - "\u015Dveli"
+  spa:
+  - "hinchaz\xF3n"
+  - hinchar
+  - hincharse
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u0648\u0631\u0645 \"tawarum\""
+  Parsisa:
+  - - "\u062A\u0648\u0631\u0645 \"tavarom\""
+    - "\u0648\u0631\u0645 \"varam\""
+raw data:
+  term: warum
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: swell
+    epo: "\u015Dvelo; \u015Dveli"
+    spa: "hinchaz\xF3n; hinchar, hincharse"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u0648\u0631\u0645 \"tawarum\"), Parsisa (\u062A\u0648\u0631\u0645
+    \"tavarom\", \u0648\u0631\u0645 \"varam\")"
+...

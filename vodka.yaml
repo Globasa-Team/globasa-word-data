@@ -1,0 +1,50 @@
+---
+term: vodka
+slug: vodka
+ipa: "\u02C8vodka"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8vodka&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - vodka
+  epo:
+  - - vodko
+  spa:
+  - - vodka
+search terms:
+  glb:
+  - vodka
+  eng:
+  - vodka
+  epo:
+  - vodko
+  spa:
+  - vodka
+etymology_type: NATLNG
+etymology:
+  Rusisa:
+  - - "\u0432\u043E\u0434\u043A\u0430 \u201Cvodka\u201D"
+tags:
+- gluxey
+raw data:
+  term: vodka
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: vodka
+    epo: vodko
+    spa: vodka
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gluxey
+  etymology: "Rusisa (\u0432\u043E\u0434\u043A\u0430 \u201Cvodka\u201D)"
+...

@@ -1,0 +1,56 @@
+---
+term: bujo
+slug: bujo
+ipa: ˈbud͡ʒo
+ipa link: http://ipa-reader.xyz/?text=ˈbud͡ʒo&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - capture
+    - catch
+  epo:
+  - - kapto
+  - - kapti
+  spa:
+  - - captura
+  - - capturar
+    - atrapar
+search terms:
+  glb:
+  - bujo
+  eng:
+  - capture
+  - catch
+  epo:
+  - kapto
+  - kapti
+  spa:
+  - captura
+  - capturar
+  - atrapar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 捕捉 “bǔzhuō”
+raw data:
+  term: bujo
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: capture, catch
+    epo: kapto; kapti
+    spa: captura; capturar, atrapar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (捕捉 “bǔzhuō”)
+...

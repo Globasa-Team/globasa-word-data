@@ -1,0 +1,48 @@
+---
+term: des lima
+slug: des lima
+ipa: "\u02C8des \u02C8lima"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8des \u02C8lima&voice=Ewa"
+status: false
+category: phrase
+word class: num
+trans:
+  eng:
+  - - fifteen
+  epo:
+  - - dek kvin
+  spa:
+  - - quince
+search terms:
+  glb:
+  - des lima
+  - des
+  - lima
+  eng:
+  - fifteen
+  epo:
+  - dek kvin
+  spa:
+  - quince
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a>, <a href="../lexi/lima">lima</a>
+raw data:
+  term: des lima
+  category: phrase
+  word class: num
+  status: false
+  trans:
+    eng: fifteen
+    epo: dek kvin
+    spa: quince
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des, lima
+...

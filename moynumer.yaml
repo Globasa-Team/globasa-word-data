@@ -1,0 +1,46 @@
+---
+term: moynumer
+slug: moynumer
+ipa: "mojnu\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=mojnu\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - all of the
+  epo:
+  - - "\u0109iu nombro"
+  spa:
+  - - todos los...
+search terms:
+  glb:
+  - moynumer
+  eng:
+  - all of the
+  epo:
+  - "\u0109iu nombro"
+  spa:
+  - todos los...
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/numer">numer</a>
+raw data:
+  term: 'moynumer '
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: all of the
+    epo: "\u0109iu nombro"
+    spa: todos los...
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + numer
+...

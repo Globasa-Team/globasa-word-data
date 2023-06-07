@@ -1,0 +1,50 @@
+---
+term: -ente
+slug: -ente
+ipa: "-\u02C8ente"
+ipa link: "http://ipa-reader.xyz/?text=-\u02C8ente&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - (inanimate) agent
+  epo:
+  - - (neviva) agento
+    - -ilo
+  spa:
+  - - agente (_inanimado_)
+search terms:
+  glb:
+  - -ente
+  eng:
+  - inanimate agent
+  - agent
+  epo:
+  - neviva agento
+  - agento
+  - -ilo
+  spa:
+  - agente
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/ente">ente</a>.<a href="../lexi/ "> </a>
+raw data:
+  term: -ente
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: (inanimate) agent
+    epo: (neviva) agento, -ilo
+    spa: agente (_inanimado_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: 'Am oko _ente_. '
+...

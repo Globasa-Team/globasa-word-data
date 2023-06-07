@@ -1,0 +1,55 @@
+---
+term: templato
+slug: templato
+ipa: "tem\u02C8plato"
+ipa link: "http://ipa-reader.xyz/?text=tem\u02C8plato&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - template
+  epo:
+  - - "\u015Dablono"
+  spa:
+  - - plantilla
+search terms:
+  glb:
+  - templato
+  eng:
+  - template
+  epo:
+  - "\u015Dablono"
+  spa:
+  - plantilla
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - template
+  Indonesisa:
+  - - templat
+  Niponsa:
+  - - "\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8 \u201Ctempureto\u201D"
+  Hangusa:
+  - - "\uD15C\uD50C\uB81B \u201Ctempulet\u201D"
+raw data:
+  term: templato
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: template
+    epo: "\u015Dablono"
+    spa: plantilla
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (template), Indonesisa (templat), Niponsa (\u30C6\u30F3\u30D7\u30EC\u30FC\u30C8
+    \u201Ctempureto\u201D), Hangusa (\uD15C\uD50C\uB81B \u201Ctempulet\u201D)"
+...

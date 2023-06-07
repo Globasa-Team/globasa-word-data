@@ -1,0 +1,51 @@
+---
+term: mara
+slug: mara
+ipa: "\u02C8ma\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ma\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - time
+    - occasion
+  epo:
+  - - fojo
+  spa:
+  - - vez
+    - "ocasi\xF3n"
+search terms:
+  glb:
+  - mara
+  eng:
+  - time
+  - occasion
+  epo:
+  - fojo
+  spa:
+  - vez
+  - "ocasi\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mara
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: time, occasion
+    epo: fojo
+    spa: "vez, ocasi\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Mal), Arabisa (\u0645\u0631\u0629 \u201Cmara\u201D), Swahilisa
+    (mara)"
+...

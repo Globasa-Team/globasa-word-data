@@ -1,0 +1,48 @@
+---
+term: dayje
+slug: dayje
+ipa: "\u02C8dajd\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8dajd\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - size
+  epo:
+  - - grando
+    - grandeco
+  spa:
+  - - "tama\xF1o"
+search terms:
+  glb:
+  - dayje
+  eng:
+  - size
+  epo:
+  - grando
+  - grandeco
+  spa:
+  - "tama\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/day">day</a> + <a href="../lexi/-je">-je</a>
+raw data:
+  term: dayje
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: size
+    epo: grando, grandeco
+    spa: "tama\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day + -je
+...

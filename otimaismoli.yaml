@@ -1,0 +1,53 @@
+---
+term: otimaismoli
+slug: otimaismoli
+ipa: "otimais\u02C8moli"
+ipa link: "http://ipa-reader.xyz/?text=otimais\u02C8moli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - optimistic
+    - positive
+  epo:
+  - - optimisma
+  - - optimisme
+  spa:
+  - - optimista
+search terms:
+  glb:
+  - otimaismoli
+  eng:
+  - optimistic
+  - positive
+  epo:
+  - optimisma
+  - optimisme
+  spa:
+  - optimista
+etymology_type: DERIVD
+etymology: <a href="../lexi/otima">otima</a> + <a href="../lexi/-ismo">-ismo</a> +
+  <a href="../lexi/-li">-li</a>
+antonyms:
+- pesimasimoli
+raw data:
+  term: otimaismoli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: optimistic, positive
+    epo: optimisma; optimisme
+    spa: optimista
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: pesimasimoli
+  example: ""
+  tags: ""
+  etymology: otima + -ismo + -li
+...

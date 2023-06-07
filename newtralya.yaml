@@ -1,0 +1,46 @@
+---
+term: newtralya
+slug: newtralya
+ipa: "new\u02C8t\u027Ealja"
+ipa link: "http://ipa-reader.xyz/?text=new\u02C8t\u027Ealja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - neutrality
+  epo:
+  - - "na\u016Dtraleco"
+  spa:
+  - - neutralidad
+search terms:
+  glb:
+  - newtralya
+  eng:
+  - neutrality
+  epo:
+  - "na\u016Dtraleco"
+  spa:
+  - neutralidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/newtral">newtral</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: newtralya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: neutrality
+    epo: "na\u016Dtraleco"
+    spa: neutralidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: newtral + -ya
+...

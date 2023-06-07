@@ -1,0 +1,65 @@
+---
+term: etika
+slug: etika
+ipa: eˈtika
+ipa link: http://ipa-reader.xyz/?text=eˈtika&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ethics
+  epo:
+  - - etiko
+  spa:
+  - - ética
+search terms:
+  glb:
+  - etika
+  eng:
+  - ethics
+  epo:
+  - etiko
+  spa:
+  - ética
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ethics
+    - ethical
+  Espanisa:
+  - - ética
+  Fransesa:
+  - - éthique
+  Rusisa:
+  - - этика "etika"
+  Doycisa:
+  - - Ethik
+  Indonesisa:
+  - - etika
+  Pilipinasa:
+  - - etika
+  Turkisa:
+  - - etik
+raw data:
+  term: etika
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ethics
+    epo: etiko
+    spa: ética
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (ethics, ethical), Espanisa (ética), Fransesa (éthique), Rusisa
+    (этика "etika"), Doycisa (Ethik), Indonesisa (etika), Pilipinasa (etika), Turkisa
+    (etik)
+...

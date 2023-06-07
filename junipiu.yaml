@@ -1,0 +1,46 @@
+---
+term: junipiu
+slug: junipiu
+ipa: "d\u0361\u0292uni\u02C8piu"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292uni\u02C8piu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - hatchling
+  epo:
+  - - birdido
+  spa:
+  - - polluelo
+search terms:
+  glb:
+  - junipiu
+  eng:
+  - hatchling
+  epo:
+  - birdido
+  spa:
+  - polluelo
+etymology_type: DERIVD
+etymology: <a href="../lexi/juni-">juni-</a> + <a href="../lexi/piu">piu</a>
+raw data:
+  term: junipiu
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: hatchling
+    epo: birdido
+    spa: polluelo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: juni- + piu
+...

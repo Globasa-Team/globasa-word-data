@@ -1,0 +1,48 @@
+---
+term: tuvaluli
+slug: tuvaluli
+ipa: "tuva\u02C8luli"
+ipa link: "http://ipa-reader.xyz/?text=tuva\u02C8luli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Tuvaluan
+  epo:
+  - - tuvala
+  - - tuvale
+  spa:
+  - - tuvaluano
+search terms:
+  glb:
+  - tuvaluli
+  eng:
+  - tuvaluan
+  epo:
+  - tuvala
+  - tuvale
+  spa:
+  - tuvaluano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Tuvalu">Tuvalu</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Tuvaluli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Tuvaluan
+    epo: tuvala; tuvale
+    spa: tuvaluano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Tuvalu + -li
+...

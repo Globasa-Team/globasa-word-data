@@ -1,0 +1,52 @@
+---
+term: ityopi
+slug: ityopi
+ipa: "i\u02C8tjopi"
+ipa link: "http://ipa-reader.xyz/?text=i\u02C8tjopi&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Ethiopia
+  epo:
+  - - Etiopio
+    - Etiopujo
+  spa:
+  - - "Etiop\xEDa"
+search terms:
+  glb:
+  - ityopi
+  eng:
+  - ethiopia
+  epo:
+  - etiopio
+  - etiopujo
+  spa:
+  - "etiop\xEDa"
+etymology_type: NATLNG
+etymology:
+  Amarasa:
+  - - "\u12A2\u1275\u12EE\u1335\u12EB \u201C\u012Btiyop\u2019iya\u201D"
+tags:
+- dexa
+raw data:
+  term: Ityopi
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Ethiopia
+    epo: Etiopio, Etiopujo
+    spa: "Etiop\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Amarasa (\u12A2\u1275\u12EE\u1335\u12EB \u201C\u012Btiyop\u2019iya\u201D)"
+...

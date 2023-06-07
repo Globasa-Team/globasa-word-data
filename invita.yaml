@@ -1,0 +1,53 @@
+---
+term: invita
+slug: invita
+ipa: "in\u02C8vita"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8vita&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - invitation
+  - - invite
+  epo:
+  - - invito
+  - - inviti
+  spa:
+  - - "invitaci\xF3n"
+  - - invitar
+search terms:
+  glb:
+  - invita
+  eng:
+  - invitation
+  - invite
+  epo:
+  - invito
+  - inviti
+  spa:
+  - "invitaci\xF3n"
+  - invitar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: invita
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: invitation; invite
+    epo: invito; inviti
+    spa: "invitaci\xF3n; invitar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (invite), Fransesa (invitation), Espanisa (invitaci\xF3n), Pilipinasa
+    (imbitasyon)"
+...

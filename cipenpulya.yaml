@@ -1,0 +1,49 @@
+---
+term: cipenpulya
+slug: cipenpulya
+ipa: "t\u0361\u0283ipen\u02C8pulja"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ipen\u02C8pulja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - dishonesty
+  epo:
+  - - malhonesteco
+    - trompeco
+  spa:
+  - - deshonestidad
+search terms:
+  glb:
+  - cipenpulya
+  eng:
+  - dishonesty
+  epo:
+  - malhonesteco
+  - trompeco
+  spa:
+  - deshonestidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/cipen">cipen</a> + <a href="../lexi/-pul">-pul</a> + <a
+  href="../lexi/-ya">-ya</a>
+raw data:
+  term: cipenpulya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: dishonesty
+    epo: malhonesteco, trompeco
+    spa: deshonestidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cipen + -pul + -ya
+...

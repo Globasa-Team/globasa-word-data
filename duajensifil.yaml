@@ -1,0 +1,49 @@
+---
+term: duajensifil
+slug: duajensifil
+ipa: "duad\u0361\u0292ensi\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=duad\u0361\u0292ensi\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - bisexual
+  epo:
+  - - "amba\u016Dseksema"
+  - - "amba\u016Dsekseme"
+  spa:
+  - - bisexual
+search terms:
+  glb:
+  - duajensifil
+  eng:
+  - bisexual
+  epo:
+  - "amba\u016Dseksema"
+  - "amba\u016Dsekseme"
+  spa:
+  - bisexual
+etymology_type: DERIVD
+etymology: <a href="../lexi/dua">dua</a> + <a href="../lexi/jensi">jensi</a> + <a
+  href="../lexi/-fil">-fil</a>
+raw data:
+  term: duajensifil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: bisexual
+    epo: "amba\u016Dseksema; amba\u016Dsekseme"
+    spa: bisexual
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dua + jensi + -fil
+...

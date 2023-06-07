@@ -1,0 +1,56 @@
+---
+term: adasi
+slug: adasi
+ipa: aˈdasi
+ipa link: http://ipa-reader.xyz/?text=aˈdasi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - lentil
+  epo:
+  - - lento
+  spa:
+  - - lenteja
+    - _Lens culinaris_
+search terms:
+  glb:
+  - adasi
+  eng:
+  - lentil
+  epo:
+  - lento
+  spa:
+  - lenteja
+  - lens culinaris
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - عَدَس “adas”
+  Parsisa:
+  - - عدس “adas”
+  Swahilisa:
+  - - adesi
+tags:
+- yamxey
+raw data:
+  term: adasi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: lentil
+    epo: lento
+    spa: lenteja, _Lens culinaris_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Arabisa (عَدَس “adas”), Parsisa (عدس “adas”), Swahilisa (adesi)
+...

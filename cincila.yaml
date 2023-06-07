@@ -1,0 +1,76 @@
+---
+term: cincila
+slug: cincila
+ipa: t͡ʃinˈt͡ʃila
+ipa link: http://ipa-reader.xyz/?text=t͡ʃinˈt͡ʃila&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - chinchilla
+  epo:
+  - - ĉinĉilo
+  spa:
+  - - chinchilla
+    - _Chinchilla_
+search terms:
+  glb:
+  - cincila
+  eng:
+  - chinchilla
+  epo:
+  - ĉinĉilo
+  spa:
+  - chinchilla
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - chinchilla
+  Espanisa:
+  - - chinchilla
+  Fransesa:
+  - - chinchilla
+  Rusisa:
+  - - шиншилла "xinxilla"
+  Doycisa:
+  - - Chinchilla
+  Indonesisa:
+  - - chinchilla
+  Arabisa:
+  - - شنشيلة "xinxila"
+  Niponsa:
+  - - チンチラ "cincira"
+  Turkisa:
+  - - çinçilya
+  Vyetnamsa:
+  - - chinchila
+  Hangusa:
+  - - 친칠라 "cincila"
+  Parsisa:
+  - - چینچیلا "cincila"
+tags:
+- hewan
+raw data:
+  term: cincila
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: chinchilla
+    epo: ĉinĉilo
+    spa: chinchilla, _Chinchilla_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: Englisa (chinchilla), Espanisa (chinchilla), Fransesa (chinchilla), Rusisa
+    (шиншилла "xinxilla"), Doycisa (Chinchilla), Indonesisa (chinchilla), Arabisa
+    (شنشيلة "xinxila"), Niponsa (チンチラ "cincira"), Turkisa (çinçilya) Vyetnamsa (chinchila),
+    Hangusa (친칠라 "cincila"), Parsisa (چینچیلا "cincila")
+...

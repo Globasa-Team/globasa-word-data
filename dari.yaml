@@ -1,0 +1,52 @@
+---
+term: dari
+slug: dari
+ipa: ˈdaɾi
+ipa link: http://ipa-reader.xyz/?text=ˈdaɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - digit (_finger or toe_)
+  epo:
+  - - fingro (_mana aŭ pieda_)
+  spa:
+  - - dedo (_de la mano o del pie_)
+search terms:
+  glb:
+  - dari
+  eng:
+  - digit
+  epo:
+  - fingro
+  spa:
+  - dedo
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - jari
+  Pilipinasa:
+  - - daliri
+tags:
+- jismulogi
+raw data:
+  term: dari
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: digit (_finger or toe_)
+    epo: fingro (_mana aŭ pieda_)
+    spa: dedo (_de la mano o del pie_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: digit, finger, toe
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Indonesisa (jari), Pilipinasa (daliri)
+...

@@ -1,0 +1,75 @@
+---
+term: plasma
+slug: plasma
+ipa: "\u02C8plasma"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8plasma&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - plasma
+  epo:
+  - - plasmo
+  spa:
+  - - plasma
+search terms:
+  glb:
+  - plasma
+  eng:
+  - plasma
+  epo:
+  - plasmo
+  spa:
+  - plasma
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - plasma
+  Espanisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+  Vyetnamsa: ~
+  Swahilisa: ~
+  Rusisa:
+  - - "\u043F\u043B\u0430\u0437\u043C\u0430 \u201Cplazma\u201D"
+  Hindisa:
+  - - "\u092A\u094D\u0932\u093E\u091C\u093C\u094D\u092E\u093E \u201Cplazma\u201D"
+  Arabisa:
+  - - "\u0628\u0644\u0627\u0632\u0645\u0627 \u201Cblazma\u201D"
+  Niponsa:
+  - - "\u30D7\u30E9\u30BA\u30DE \u201Cpurazuma\u201D"
+  Turkisa:
+  - - plazma
+  Hangusa:
+  - - "\uD50C\uB77C\uC2A4\uB9C8 \u201Cpulasuma\u201D"
+  Parsisa:
+  - - "\u067E\u0644\u0627\u0633\u0645\u0627 \u201Cplasma\u201D"
+raw data:
+  term: plasma
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: plasma
+    epo: plasmo
+    spa: plasma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (plasma), Espanisa, Fransesa, Doycisa, Indonesisa, Pilipinasa,
+    Vyetnamsa, Swahilisa, Rusisa (\u043F\u043B\u0430\u0437\u043C\u0430 \u201Cplazma\u201D),
+    Hindisa (\u092A\u094D\u0932\u093E\u091C\u093C\u094D\u092E\u093E \u201Cplazma\u201D),
+    Arabisa (\u0628\u0644\u0627\u0632\u0645\u0627 \u201Cblazma\u201D), Niponsa (\u30D7\u30E9\u30BA\u30DE
+    \u201Cpurazuma\u201D), Turkisa (\u0C2A\u0C4D\u0C32\u0C3E\u0C38\u0C4D\u0C2E\u0C3E
+    \u201Cplasma\u201D), Turkisa (plazma), Hangusa (\uD50C\uB77C\uC2A4\uB9C8 \u201Cpulasuma\u201D),
+    Parsisa (\u067E\u0644\u0627\u0633\u0645\u0627 \u201Cplasma\u201D)"
+...

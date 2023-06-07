@@ -1,0 +1,69 @@
+---
+term: tenjire
+slug: tenjire
+ipa: "ten\u02C8d\u0361\u0292i\u027Ee"
+ipa link: "http://ipa-reader.xyz/?text=ten\u02C8d\u0361\u0292i\u027Ee&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (cooking) pot
+    - saucepan
+    - casserole (dish)
+  epo:
+  - - kuirpoto
+    - bolpoto
+    - kaserolo
+  spa:
+  - - olla
+    - cacerola
+    - cazo
+search terms:
+  glb:
+  - tenjire
+  eng:
+  - cooking pot
+  - pot
+  - saucepan
+  - casserole dish
+  - casserole
+  epo:
+  - kuirpoto
+  - bolpoto
+  - kaserolo
+  spa:
+  - olla
+  - cacerola
+  - cazo
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0637\u064E\u0646\u0652\u062C\u0650\u064A\u0631 \"\u1E6Danjir\""
+    - "\u0637\u064E\u0646\u0652\u062C\u064E\u0631\u064E\u0629 \"\u1E6Danjara\""
+  Turkisa:
+  - - tencere
+  Parsisa:
+  - - "\u0637\u0646\u062C\u06CC\u0631 \"t\u0324injir\""
+raw data:
+  term: tenjire
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (cooking) pot, saucepan, casserole (dish)
+    epo: kuirpoto, bolpoto, kaserolo
+    spa: olla, cacerola, cazo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0637\u064E\u0646\u0652\u062C\u0650\u064A\u0631 \"\u1E6Danjir\",
+    \u0637\u064E\u0646\u0652\u062C\u064E\u0631\u064E\u0629 \"\u1E6Danjara\"), Turkisa
+    (tencere), Parsisa (\u0637\u0646\u062C\u06CC\u0631 \"t\u0324injir\")"
+...

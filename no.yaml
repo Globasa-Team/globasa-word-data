@@ -1,0 +1,76 @@
+---
+term: "no"
+slug: "no"
+ipa: "\u02C8no"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8no&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - "no"
+    - not
+    - don't
+    - do not
+    - doesn't
+    - does not
+  epo:
+  - - ne
+  spa:
+  - - "no"
+search terms:
+  glb:
+  - "no"
+  eng:
+  - "no"
+  - not
+  - don't
+  - do not
+  - doesn't
+  - does not
+  epo:
+  - ne
+  spa:
+  - "no"
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - non
+  Espanisa:
+  - - "no"
+  Englisa:
+  - - "no"
+  Doycisa:
+  - - nein
+  Rusisa:
+  - - "\u043D\u0435 \u201Cne\u201D"
+  Hindisa:
+  - - "\u0928\u093E \u201Cna\u201D"
+    - "\u0928\u0939\u0940\u0902  \u201Cnahin\u201D"
+  Parsisa:
+  - - "\u0646\u0647 \u201Cna\u201D"
+  Niponsa:
+  - - "-\u306A\u3044 \u201C-nai\u201D"
+raw data:
+  term: "no"
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: no, not, don't, do not, doesn't, does not
+    epo: ne
+    spa: "no"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Fransesa (non), Espanisa (no), Englisa (no), Doycisa (nein), Rusisa
+    (\u043D\u0435 \u201Cne\u201D), Hindisa (\u0928\u093E \u201Cna\u201D, \u0928\u0939\u0940\u0902
+    \ \u201Cnahin\u201D), Parsisa (\u0646\u0647 \u201Cna\u201D), Niponsa (-\u306A\u3044
+    \u201C-nai\u201D)"
+...

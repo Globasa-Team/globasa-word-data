@@ -1,0 +1,46 @@
+---
+term: eletroniya
+slug: eletroniya
+ipa: "elet\u027Eo\u02C8nija"
+ipa link: "http://ipa-reader.xyz/?text=elet\u027Eo\u02C8nija&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - electronics
+  epo:
+  - - elektroniko
+  spa:
+  - - "electr\xF3nica (_ciencia_)"
+search terms:
+  glb:
+  - eletroniya
+  eng:
+  - electronics
+  epo:
+  - elektroniko
+  spa:
+  - "electr\xF3nica"
+etymology_type: DERIVD
+etymology: <a href="../lexi/eletroni">eletroni</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: eletroniya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: electronics
+    epo: elektroniko
+    spa: "electr\xF3nica (_ciencia_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: eletroni + -ya
+...

@@ -1,0 +1,48 @@
+---
+term: dexabyen
+slug: dexabyen
+ipa: "de\u0283a\u02C8bjen"
+ipa link: "http://ipa-reader.xyz/?text=de\u0283a\u02C8bjen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - border
+  epo:
+  - - landlimo
+    - limo
+  spa:
+  - - frontera
+search terms:
+  glb:
+  - dexabyen
+  eng:
+  - border
+  epo:
+  - landlimo
+  - limo
+  spa:
+  - frontera
+etymology_type: DERIVD
+etymology: <a href="../lexi/dexa">dexa</a> + <a href="../lexi/byen">byen</a>
+raw data:
+  term: dexabyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: border
+    epo: landlimo, limo
+    spa: frontera
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dexa + byen
+...

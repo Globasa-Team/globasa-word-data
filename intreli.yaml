@@ -1,0 +1,50 @@
+---
+term: intreli
+slug: intreli
+ipa: "in\u02C8t\u027Eeli"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8t\u027Eeli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - in-between
+    - inbetween
+  epo:
+  - - intera
+  - - intere
+  spa:
+  - - de enmedio
+search terms:
+  glb:
+  - intreli
+  eng:
+  - in-between
+  - inbetween
+  epo:
+  - intera
+  - intere
+  spa:
+  - de enmedio
+etymology_type: DERIVD
+etymology: <a href="../lexi/intre">intre</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: intreli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: in-between, inbetween
+    epo: intera; intere
+    spa: de enmedio
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: intre + -li
+...

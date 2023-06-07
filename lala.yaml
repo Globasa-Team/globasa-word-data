@@ -1,0 +1,53 @@
+---
+term: lala
+slug: lala
+ipa: "\u02C8lala"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8lala&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - song
+  - - sing
+  epo:
+  - - kanto
+  - - kanti
+  spa:
+  - - "canci\xF3n"
+  - - cantar
+search terms:
+  glb:
+  - lala
+  eng:
+  - song
+  - sing
+  epo:
+  - kanto
+  - kanti
+  spa:
+  - "canci\xF3n"
+  - cantar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: lala
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: song; sing
+    epo: kanto; kanti
+    spa: "canci\xF3n; cantar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (lullaby, la la la), Espanisa (la la la), Parsisa (\u0644\u0627\u0644\u0627\u06CC\u06CC
+    \u201Clalayi\u201D - somnolala)"
+...

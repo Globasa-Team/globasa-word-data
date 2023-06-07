@@ -1,0 +1,54 @@
+---
+term: eskirti
+slug: eskirti
+ipa: esˈkiɾti
+ipa link: http://ipa-reader.xyz/?text=esˈkiɾti&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - skirt
+  epo:
+  - - jupo
+  spa:
+  - - falda
+search terms:
+  glb:
+  - eskirti
+  eng:
+  - skirt
+  epo:
+  - jupo
+  spa:
+  - falda
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - skirt
+  Swahilisa:
+  - - sketi
+  Hindisa:
+  - - स्कर्ट “skart”
+tags:
+- labas
+raw data:
+  term: eskirti
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: skirt
+    epo: jupo
+    spa: falda
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: Englisa (skirt), Swahilisa (sketi), Hindisa (स्कर्ट “skart”)
+...

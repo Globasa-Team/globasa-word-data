@@ -1,0 +1,64 @@
+---
+term: estrayki
+slug: estrayki
+ipa: "es\u02C8t\u027Eajki"
+ipa link: "http://ipa-reader.xyz/?text=es\u02C8t\u027Eajki&voice=Ewa"
+status: false
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - (labor) strike
+  epo:
+  - - striko
+  - - striki
+  spa:
+  - - huelga
+    - paro
+  - - hacer huelga
+search terms:
+  glb:
+  - estrayki
+  eng:
+  - labor strike
+  - strike
+  epo:
+  - striko
+  - striki
+  spa:
+  - huelga
+  - paro
+  - hacer huelga
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - strike
+    - striking
+  Doycisa:
+  - - Streik
+    - streiken
+  Niponsa:
+  - - "\u30B9\u30C8\u30E9\u30A4\u30AD \"sutorayki\""
+tags:
+- politi
+raw data:
+  term: estrayki
+  category: root
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: (labor) strike
+    epo: striko; striki
+    spa: huelga, paro; hacer huelga
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: "Englisa (strike, striking), Doycisa (Streik, streiken), Niponsa (\u30B9\u30C8\u30E9\u30A4\u30AD
+    \"sutorayki\")"
+...

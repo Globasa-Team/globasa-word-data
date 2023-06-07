@@ -1,0 +1,46 @@
+---
+term: tasya
+slug: tasya
+ipa: "\u02C8tasja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tasja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - is for
+  epo:
+  - - esti al
+  spa:
+  - - ser para
+search terms:
+  glb:
+  - tasya
+  eng:
+  - is for
+  epo:
+  - esti al
+  spa:
+  - ser para
+etymology_type: DERIVD
+etymology: <a href="../lexi/tas">tas</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: tasya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: is for
+    epo: esti al
+    spa: ser para
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: tas + -ya
+...

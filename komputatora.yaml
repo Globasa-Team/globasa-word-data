@@ -1,0 +1,46 @@
+---
+term: komputatora
+slug: komputatora
+ipa: "komputa\u02C8to\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=komputa\u02C8to\u027Ea&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - computer
+  epo:
+  - - komputilo
+  spa:
+  - - computadora
+search terms:
+  glb:
+  - komputatora
+  eng:
+  - computer
+  epo:
+  - komputilo
+  spa:
+  - computadora
+etymology_type: DERIVD
+etymology: <a href="../lexi/komputa">komputa</a> + <a href="../lexi/-tora">-tora</a>
+raw data:
+  term: komputatora
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: computer
+    epo: komputilo
+    spa: computadora
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: komputa + -tora
+...

@@ -1,0 +1,47 @@
+---
+term: kaxmiryen
+slug: kaxmiryen
+ipa: "ka\u0283mi\u02C8\u027Ejen"
+ipa link: "http://ipa-reader.xyz/?text=ka\u0283mi\u02C8\u027Ejen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Kashmiri (person)
+  epo:
+  - - "ka\u015Dmirano"
+  spa:
+  - - cachemir (_persona_)
+search terms:
+  glb:
+  - kaxmiryen
+  eng:
+  - kashmiri person
+  - kashmiri
+  epo:
+  - "ka\u015Dmirano"
+  spa:
+  - cachemir
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kaxmir">Kaxmir</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: Kaxmiryen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Kashmiri (person)
+    epo: "ka\u015Dmirano"
+    spa: cachemir (_persona_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Kaxmir + -yen
+...

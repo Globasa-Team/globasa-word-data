@@ -1,0 +1,46 @@
+---
+term: ize
+slug: ize
+ipa: "\u02C8ize"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ize&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - letter z
+  epo:
+  - - litero z
+  spa:
+  - - letra z
+search terms:
+  glb:
+  - ize
+  eng:
+  - letter z
+  epo:
+  - litero z
+  spa:
+  - letra z
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: ize
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: letter z
+    epo: litero z
+    spa: letra z
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: _a priori_
+...

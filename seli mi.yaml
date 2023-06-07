@@ -1,0 +1,48 @@
+---
+term: seli mi
+slug: seli mi
+ipa: "\u02C8seli \u02C8mi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8seli \u02C8mi&voice=Ewa"
+status: false
+category: phrase
+word class: pn
+trans:
+  eng:
+  - - I myself
+  epo:
+  - - mi mem
+  spa:
+  - - yo mismo
+search terms:
+  glb:
+  - seli mi
+  - seli
+  - mi
+  eng:
+  - i myself
+  epo:
+  - mi mem
+  spa:
+  - yo mismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/se">se</a> + <a href="../lexi/-li">-li</a>, <a href="../lexi/mi">mi</a>
+raw data:
+  term: seli mi
+  category: phrase
+  word class: pn
+  status: false
+  trans:
+    eng: I myself
+    epo: mi mem
+    spa: yo mismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se + -li, mi
+...

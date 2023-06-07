@@ -1,0 +1,46 @@
+---
+term: medisdom
+slug: medisdom
+ipa: "medis\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=medis\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - clinic
+  epo:
+  - - kliniko
+  spa:
+  - - "cl\xEDnica"
+search terms:
+  glb:
+  - medisdom
+  eng:
+  - clinic
+  epo:
+  - kliniko
+  spa:
+  - "cl\xEDnica"
+etymology_type: DERIVD
+etymology: <a href="../lexi/medis">medis</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: medisdom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: clinic
+    epo: kliniko
+    spa: "cl\xEDnica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: medis + -dom
+...

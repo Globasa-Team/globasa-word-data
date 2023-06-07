@@ -1,0 +1,67 @@
+---
+term: yakin
+slug: yakin
+ipa: "ja\u02C8kin"
+ipa link: "http://ipa-reader.xyz/?text=ja\u02C8kin&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - sure
+    - surely
+    - certain
+    - certainly
+  epo:
+  - - certa
+  - - certe
+  spa:
+  - - seguro (de)
+  - - seguramente
+search terms:
+  glb:
+  - yakin
+  eng:
+  - sure
+  - surely
+  - certain
+  - certainly
+  epo:
+  - certa
+  - certe
+  spa:
+  - seguro de
+  - seguro
+  - seguramente
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u064A\u064E\u0642\u0650\u064A\u0646 \u201Cyaqin\u201D"
+  Parsisa:
+  - - "\u06CC\u0642\u06CC\u0646 \u201Cyaqin\u201D"
+  Indonesisa:
+  - - yakin
+  Hindisa:
+  - - "\u092F\u0915\u0940\u0928 \u201Cyakin\u201D"
+raw data:
+  term: yakin
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: sure, surely, certain, certainly
+    epo: certa; certe
+    spa: seguro (de); seguramente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u064A\u064E\u0642\u0650\u064A\u0646 \u201Cyaqin\u201D), Parsisa
+    (\u06CC\u0642\u06CC\u0646 \u201Cyaqin\u201D), Indonesisa (yakin), Hindisa (\u092F\u0915\u0940\u0928
+    \u201Cyakin\u201D)"
+...

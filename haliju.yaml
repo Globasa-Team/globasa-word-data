@@ -1,0 +1,50 @@
+---
+term: haliju
+slug: haliju
+ipa: "xa\u02C8lid\u0361\u0292u"
+ipa link: "http://ipa-reader.xyz/?text=xa\u02C8lid\u0361\u0292u&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gulf
+  epo:
+  - - golfo
+  spa:
+  - - golfo
+search terms:
+  glb:
+  - haliju
+  eng:
+  - gulf
+  epo:
+  - golfo
+  spa:
+  - golfo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- geografi
+raw data:
+  term: haliju
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gulf
+    epo: golfo
+    spa: golfo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: "Hindisa (\u0916\u093E\u0921\u093C\u0940 \u201Ckhari\u201D), Arabisa
+    (\u062E\u064E\u0644\u0650\u064A\u062C \u201Chalij\u201D), Parsisa (\u062E\u0644\u06CC\u062C
+    \u201Chalij\u201D)"
+...

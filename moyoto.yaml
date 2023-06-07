@@ -1,0 +1,46 @@
+---
+term: moyoto
+slug: moyoto
+ipa: "mo\u02C8joto"
+ipa link: "http://ipa-reader.xyz/?text=mo\u02C8joto&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - all things
+  epo:
+  - - "\u0109ioj"
+  spa:
+  - - todas las cosas
+search terms:
+  glb:
+  - moyoto
+  eng:
+  - all things
+  epo:
+  - "\u0109ioj"
+  spa:
+  - todas las cosas
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/oto">oto</a>
+raw data:
+  term: moyoto
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: all things
+    epo: "\u0109ioj"
+    spa: todas las cosas
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + oto
+...

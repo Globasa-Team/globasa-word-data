@@ -1,0 +1,54 @@
+---
+term: kuxti
+slug: kuxti
+ipa: "\u02C8ku\u0283ti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ku\u0283ti&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - wrestling
+  - - wrestle
+  epo:
+  - - luktado
+  - - lukti
+  spa:
+  - - lucha
+  - - luchar
+search terms:
+  glb:
+  - kuxti
+  eng:
+  - wrestling
+  - wrestle
+  epo:
+  - luktado
+  - lukti
+  spa:
+  - lucha
+  - luchar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kuxti
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: wrestling; wrestle
+    epo: luktado; lukti
+    spa: lucha; luchar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0915\u0941\u0936\u094D\u0924\u0940 \u201Ckuxti\u201D), Telugusa
+    (\u0C15\u0C41\u0C38\u0C4D\u0C24\u0C40 \u201Ckusti\u201D), Parsisa (\u06A9\u0634\u062A\u06CC
+    \u201Ckoxti\u201D)"
+...

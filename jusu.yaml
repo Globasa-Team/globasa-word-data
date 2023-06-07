@@ -1,0 +1,49 @@
+---
+term: jusu
+slug: jusu
+ipa: "\u02C8d\u0361\u0292usu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8d\u0361\u0292usu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - juice
+  epo:
+  - - suko
+  spa:
+  - - jugo
+search terms:
+  glb:
+  - jusu
+  eng:
+  - juice
+  epo:
+  - suko
+  spa:
+  - jugo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- gluxey
+raw data:
+  term: jusu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: juice
+    epo: suko
+    spa: jugo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: gluxey
+  etymology: "Englisa (juice), Niponsa (\u30B8\u30E5\u30FC\u30B9 \u201Cjusu\u201D),
+    Hangusa (\uC8FC\uC2A4 \u201Cjusu\u201D), Indonesisa (jus)"
+...

@@ -1,0 +1,55 @@
+---
+term: sefide
+slug: sefide
+ipa: "se\u02C8fide"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8fide&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - white
+  epo:
+  - - blanka
+  - - blanke
+  spa:
+  - - blanco
+search terms:
+  glb:
+  - sefide
+  eng:
+  - white
+  epo:
+  - blanka
+  - blanke
+  spa:
+  - blanco
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u092B\u0947\u0926 \u201Csaphed\u201D"
+  Parsisa:
+  - - "\u0633\u0641\u06CC\u062F \u201Csefid\u201D"
+tags:
+- kolor
+raw data:
+  term: sefide
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: white
+    epo: blanka; blanke
+    spa: blanco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: "Hindisa (\u0938\u092B\u0947\u0926 \u201Csaphed\u201D), Parsisa (\u0633\u0641\u06CC\u062F
+    \u201Csefid\u201D)"
+...

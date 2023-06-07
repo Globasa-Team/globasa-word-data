@@ -1,0 +1,89 @@
+---
+term: tufan
+slug: tufan
+ipa: "tu\u02C8fan"
+ipa link: "http://ipa-reader.xyz/?text=tu\u02C8fan&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - hurricane
+    - typhoon
+    - cyclone
+  epo:
+  - - uragano
+    - ciklono
+  spa:
+  - - "hurac\xE1n"
+    - "tif\xF3n"
+    - "cicl\xF3n"
+search terms:
+  glb:
+  - tufan
+  eng:
+  - hurricane
+  - typhoon
+  - cyclone
+  epo:
+  - uragano
+  - ciklono
+  spa:
+  - "hurac\xE1n"
+  - "tif\xF3n"
+  - "cicl\xF3n"
+etymology_type: NATLNG
+etymology:
+  Indonesisa:
+  - - topan
+    - tofan
+  Putunhwa:
+  - - "\u53F0\u98CE \u201Ct\xE1if\u0113ng\u201D"
+  Niponsa:
+  - - "\u53F0\u98A8 \u201Ctaif\u016B\u201D"
+  Hangusa:
+  - - "\uD0DC\uD48D \u201Ctaepung\u201D"
+  Hindisa:
+  - - "\u0924\u0942\u092B\u093C\u093E\u0928 \u201Ct\u016Bf\u0101n\u201D"
+  Persisa:
+  - - "\u0637\u0648\u0641\u0627\u0646 \u201Ctuf\xE2n\u201D"
+  Telugusa:
+  - - "\u0C24\u0C41\u0C2B\u0C3E\u0C28\u0C41 \u201Ctuph\u0101nu\u201D"
+  Swahilisa:
+  - - tufani
+  Doycisa:
+  - - Taifun
+  Englisa:
+  - - typhoon
+  Espanisa:
+  - - "tif\xF3n"
+  Fransesa:
+  - - typhon
+  Rusisa:
+  - - "\u0442\u0430\u0439\u0444\u0443\u043D \u201Ctayfun\u201D"
+raw data:
+  term: tufan
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: hurricane, typhoon, cyclone
+    epo: uragano, ciklono
+    spa: "hurac\xE1n, tif\xF3n, cicl\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Indonesisa (topan, tofan), Putunhwa (\u53F0\u98CE \u201Ct\xE1if\u0113ng\u201D),
+    Niponsa (\u53F0\u98A8 \u201Ctaif\u016B\u201D), Hangusa (\uD0DC\uD48D \u201Ctaepung\u201D),
+    Hindisa (\u0924\u0942\u092B\u093C\u093E\u0928 \u201Ct\u016Bf\u0101n\u201D), Persisa
+    (\u0637\u0648\u0641\u0627\u0646 \u201Ctuf\xE2n\u201D), Telugusa ( \u0C24\u0C41\u0C2B\u0C3E\u0C28\u0C41
+    \u201Ctuph\u0101nu\u201D), Swahilisa (tufani), Doycisa (Taifun), Englisa (typhoon),
+    Espanisa (tif\xF3n), Fransesa (typhon), Rusisa (\u0442\u0430\u0439\u0444\u0443\u043D
+    \u201Ctayfun\u201D)"
+...

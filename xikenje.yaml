@@ -1,0 +1,55 @@
+---
+term: xikenje
+slug: xikenje
+ipa: "\u0283i\u02C8kend\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=\u0283i\u02C8kend\u0361\u0292e&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - torture
+  epo:
+  - - torturo
+  - - torturi
+  spa:
+  - - tortura
+  - - torturar
+search terms:
+  glb:
+  - xikenje
+  eng:
+  - torture
+  epo:
+  - torturo
+  - torturi
+  spa:
+  - tortura
+  - torturar
+etymology_type: NATLNG
+etymology:
+  Parsisa:
+  - - "\u0634\u06A9\u0646\u062C\u0647 \u201Cshekanje\u201D"
+  Turkisa:
+  - - "i\u015Fkence"
+raw data:
+  term: xikenje
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: torture
+    epo: torturo; torturi
+    spa: tortura; torturar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Parsisa (\u0634\u06A9\u0646\u062C\u0647 \u201Cshekanje\u201D), Turkisa
+    (i\u015Fkence)"
+...

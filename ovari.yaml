@@ -1,0 +1,63 @@
+---
+term: ovari
+slug: ovari
+ipa: "o\u02C8va\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=o\u02C8va\u027Ei&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - ovary
+  epo:
+  - - ovario
+  spa:
+  - - ovario
+search terms:
+  glb:
+  - ovari
+  eng:
+  - ovary
+  epo:
+  - ovario
+  spa:
+  - ovario
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ovary
+  Espanisa:
+  - - ovario
+  Fransesa:
+  - - ovaire
+  Doycisa:
+  - - Ovar
+  Indonesisa:
+  - - ovarium
+  Turkisa:
+  - - ovaryum
+  Swahilisa:
+  - - ovari
+tags:
+- jismulogi
+raw data:
+  term: ovari
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: ovary
+    epo: ovario
+    spa: ovario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Englisa (ovary), Espanisa (ovario), Fransesa (ovaire), Doycisa (Ovar),
+    Indonesisa (ovarium), Turkisa (ovaryum), Swahilisa (ovari)
+...

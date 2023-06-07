@@ -1,0 +1,49 @@
+---
+term: ner-
+slug: ner-
+ipa: "\u02C8ne\u027E-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ne\u027E-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - near (_used only with _[le-](/eng/lexi/le-_) and _[xa-](/eng/lexi/xa-)_ _)
+  epo:
+  - - proksima
+  spa:
+  - - "cercano (_usado s\xF3lo con **le-** y **xa-**_)"
+search terms:
+  glb:
+  - ner-
+  eng:
+  - near  and [xa-]/eng/lexi/xa-
+  - near and _[xa-]_ _)
+  epo:
+  - proksima
+  spa:
+  - cercano
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/ner">ner</a>.
+antonyms:
+- teli-
+raw data:
+  term: ner-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: near (_used only with _[le-](/eng/lexi/le-_) and _[xa-](/eng/lexi/xa-)_ _)
+    epo: proksima
+    spa: "cercano (_usado s\xF3lo con **le-** y **xa-**_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: teli-
+  example: ""
+  tags: ""
+  etymology: Am oko _ner_.
+...

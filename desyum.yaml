@@ -1,0 +1,48 @@
+---
+term: desyum
+slug: desyum
+ipa: "de\u02C8sjum"
+ipa link: "http://ipa-reader.xyz/?text=de\u02C8sjum&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - tenth
+  epo:
+  - - deka
+  - - deke
+  spa:
+  - - "d\xE9cimo"
+search terms:
+  glb:
+  - desyum
+  eng:
+  - tenth
+  epo:
+  - deka
+  - deke
+  spa:
+  - "d\xE9cimo"
+etymology_type: DERIVD
+etymology: <a href="../lexi/des">des</a> + <a href="../lexi/-yum">-yum</a>
+raw data:
+  term: desyum
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: tenth
+    epo: deka; deke
+    spa: "d\xE9cimo"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: des + -yum
+...

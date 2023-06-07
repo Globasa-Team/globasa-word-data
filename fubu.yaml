@@ -1,0 +1,62 @@
+---
+term: fubu
+slug: fubu
+ipa: ˈfubu
+ipa link: http://ipa-reader.xyz/?text=ˈfubu&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - abdomen
+    - belly
+    - gut
+  epo:
+  - - abdomeno
+    - ventro
+  spa:
+  - - abdomen
+    - vientre
+    - barriga
+search terms:
+  glb:
+  - fubu
+  eng:
+  - abdomen
+  - belly
+  - gut
+  epo:
+  - abdomeno
+  - ventro
+  spa:
+  - abdomen
+  - vientre
+  - barriga
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 腹部 “fùbù”
+  Niponsa:
+  - - 腹部 “fukubu”
+tags:
+- jismulogi
+raw data:
+  term: fubu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: abdomen, belly, gut
+    epo: abdomeno, ventro
+    spa: abdomen, vientre, barriga
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: Putunhwa (腹部 “fùbù”), Niponsa (腹部 “fukubu”)
+...

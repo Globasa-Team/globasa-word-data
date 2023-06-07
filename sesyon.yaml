@@ -1,0 +1,64 @@
+---
+term: sesyon
+slug: sesyon
+ipa: "se\u02C8sjon"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8sjon&voice=Ewa"
+status: false
+category: root
+word class: ""
+trans:
+  eng:
+  - - session
+  epo:
+  - - sesio
+    - seanco
+  spa:
+  - - "sesi\xF3n"
+search terms:
+  glb:
+  - sesyon
+  eng:
+  - session
+  epo:
+  - sesio
+  - seanco
+  spa:
+  - "sesi\xF3n"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - session
+  Espanisa:
+  - - "sesi\xF3n"
+  Rusisa:
+  - - "\u0441\u0435\u0441\u0441\u0438\u044F \"sessiya\""
+  Doycisa:
+  - - Session
+  Pilipinasa:
+  - - sesyon
+  Niponsa:
+  - - "\u30BB\u30C3\u30B7\u30E7\u30F3 \"sexon\""
+  Hangusa:
+  - - "\uC138\uC158 \"sexyon\""
+raw data:
+  term: sesyon
+  category: root
+  word class: ""
+  status: false
+  trans:
+    eng: session
+    epo: sesio, seanco
+    spa: "sesi\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (session), Espanisa (sesi\xF3n), Rusisa (\u0441\u0435\u0441\u0441\u0438\u044F
+    \"sessiya\"), Doycisa (Session), Pilipinasa (sesyon), Niponsa (\u30BB\u30C3\u30B7\u30E7\u30F3
+    \"sexon\"), Hangusa (\uC138\uC158 \"sexyon\")"
+...

@@ -1,0 +1,49 @@
+---
+term: kapo
+slug: kapo
+ipa: "\u02C8kapo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kapo&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cape (_geography_)
+  epo:
+  - - kabo
+  spa:
+  - - cabo
+search terms:
+  glb:
+  - kapo
+  eng:
+  - cape
+  epo:
+  - kabo
+  spa:
+  - cabo
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- geografi
+raw data:
+  term: kapo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cape (_geography_)
+    epo: kabo
+    spa: cabo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: "Englisa (cape), Epsanisa (kabo), Fransesa (cap), Hangusa (\uAC11 \u201Cgap\u201D),
+    Cantonese (\u5CAC \u201Cgaap\u201D)"
+...

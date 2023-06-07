@@ -1,0 +1,49 @@
+---
+term: etesu oto
+slug: etesu oto
+ipa: "e\u02C8tesu \u02C8oto"
+ipa link: "http://ipa-reader.xyz/?text=e\u02C8tesu \u02C8oto&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - theirs (_those things belonging to those beings_)
+  epo:
+  - - la iliaj (_tioj de ili_)
+  spa:
+  - - suyos (cosas pertenecientes a esos seres)
+search terms:
+  glb:
+  - etesu oto
+  - etesu
+  - oto
+  eng:
+  - theirs
+  epo:
+  - la iliaj
+  spa:
+  - suyos cosas pertenecientes a esos seres
+  - suyos
+etymology_type: DERIVD
+etymology: <a href="../lexi/ete">ete</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/oto">oto</a>
+raw data:
+  term: etesu oto
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: theirs (_those things belonging to those beings_)
+    epo: la iliaj (_tioj de ili_)
+    spa: suyos (cosas pertenecientes a esos seres)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ete + -su, oto
+...

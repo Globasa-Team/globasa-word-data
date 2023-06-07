@@ -1,0 +1,48 @@
+---
+term: -mosem
+slug: -mosem
+ipa: "-mo\u02C8sem"
+ipa link: "http://ipa-reader.xyz/?text=-mo\u02C8sem&voice=Ewa"
+status: true
+category: affix
+word class: n xfik
+trans:
+  eng:
+  - - season
+  epo:
+  - - sezono
+  spa:
+  - - "estaci\xF3n"
+    - temporada
+search terms:
+  glb:
+  - -mosem
+  eng:
+  - season
+  epo:
+  - sezono
+  spa:
+  - "estaci\xF3n"
+  - temporada
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/mosem">mosem</a>.
+raw data:
+  term: -mosem
+  category: affix
+  word class: n xfik
+  status: true
+  trans:
+    eng: season
+    epo: sezono
+    spa: "estaci\xF3n, temporada"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _mosem_.
+...

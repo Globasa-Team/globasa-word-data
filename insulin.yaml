@@ -1,0 +1,55 @@
+---
+term: insulin
+slug: insulin
+ipa: "insu\u02C8lin"
+ipa link: "http://ipa-reader.xyz/?text=insu\u02C8lin&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - insulin
+  epo:
+  - - insulino
+  spa:
+  - - insulina
+search terms:
+  glb:
+  - insulin
+  eng:
+  - insulin
+  epo:
+  - insulino
+  spa:
+  - insulina
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- medis
+raw data:
+  term: insulin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: insulin
+    epo: insulino
+    spa: insulina
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: "Englisa (insulin), Hindisa (\u0907\u0928\u094D\u0938\u0941\u0932\u093F\u0928
+    \u201Cinsulin\u201D), Espanisa (insulina), Arabisa (\u0625\u0650\u0646\u0652\u0633\u064F\u0648\u0644\u0650\u064A\u0646
+    \u201Cinsulin\u201D), Fransesa (insuline), Rusisa (\u0438\u043D\u0441\u0443\u043B\u0438\u043D
+    \u201Cinsulin\u201D), Indonesisa (insulin), Doycisa (Insulin), Niponsa (\u30A4\u30F3\u30B9\u30EA\u30F3
+    \u201Cinsurin\u201D), Telugusa (\u0C07\u0C28\u0C4D\u0C38\u0C41\u0C32\u0C3F\u0C28\u0C4D
+    \u201Cinsulin\u201D), Turkisa (ins\xFClin), Hangusa (\uC778\uC290\uB9B0 \u201Cinxyullin\u201D),
+    Vyetnamsa (insulin), Parsisa (\u0627\u0646\u0633\u0648\u0644\u06CC\u0646 \u201Cansolin\u201D),
+    Swahilisa (insulini), Pilipinasa (insulin)"
+...

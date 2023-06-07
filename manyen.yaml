@@ -1,0 +1,57 @@
+---
+term: manyen
+slug: manyen
+ipa: "ma\u02C8njen"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8njen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - male
+    - man
+    - young man
+    - guy
+    - boy
+  epo:
+  - - (vir)ulo
+  spa:
+  - - hombre
+    - "ni\xF1o"
+search terms:
+  glb:
+  - manyen
+  eng:
+  - male
+  - man
+  - young man
+  - guy
+  - boy
+  epo:
+  - virulo
+  - ulo
+  spa:
+  - hombre
+  - "ni\xF1o"
+etymology_type: DERIVD
+etymology: <a href="../lexi/man">man</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: manyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: male, man, young man, guy, boy
+    epo: (vir)ulo
+    spa: "hombre, ni\xF1o"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man + -yen
+...

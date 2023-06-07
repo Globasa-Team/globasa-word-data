@@ -1,0 +1,73 @@
+---
+term: fenix
+slug: fenix
+ipa: feˈniʃ
+ipa link: http://ipa-reader.xyz/?text=feˈniʃ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - phoenix
+  epo:
+  - - fenikso
+  spa:
+  - - fénix
+search terms:
+  glb:
+  - fenix
+  eng:
+  - phoenix
+  epo:
+  - fenikso
+  spa:
+  - fénix
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Phönix
+  Englisa:
+  - - phoenix
+  Espanisa:
+  - - fénix
+  Fransesa:
+  - - phénix
+  Rusisa:
+  - - феникс “feniks”
+  Arabisa:
+  - - الفينيق “alfyniq”
+  Hindisa:
+  - - फीनिक्स “pheeniks”
+  Telugusa:
+  - - ఫీనిక్స్ “phīniks”
+  Indonesisa:
+  - - foniks
+  Pilipinasa:
+  - - piniks
+  Turkisa:
+  - - feniks
+  Niponsa:
+  - - フェニックス “fenikkusu”
+raw data:
+  term: fenix
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: phoenix
+    epo: fenikso
+    spa: fénix
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Phönix), Englisa (phoenix), Espanisa (fénix), Fransesa (phénix),
+    Rusisa (феникс “feniks”), Arabisa (الفينيق “alfyniq”), Hindisa (फीनिक्स “pheeniks”),
+    Telugusa (ఫీనిక్స్ “phīniks”), Indonesisa (foniks), Pilipinasa (piniks), Turkisa
+    (feniks), Niponsa ( フェニックス “fenikkusu”)
+...

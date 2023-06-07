@@ -1,0 +1,63 @@
+---
+term: sukses
+slug: sukses
+ipa: "suk\u02C8ses"
+ipa link: "http://ipa-reader.xyz/?text=suk\u02C8ses&voice=Ewa"
+status: true
+category: root
+word class: n/f.nenoj
+trans:
+  eng:
+  - - success
+  - - succeed
+  epo:
+  - - sukceso
+  - - sukcesi
+  spa:
+  - - "\xE9xito"
+  - - "tener \xE9xito"
+search terms:
+  glb:
+  - sukses
+  eng:
+  - success
+  - succeed
+  epo:
+  - sukceso
+  - sukcesi
+  spa:
+  - "\xE9xito"
+  - "tener \xE9xito"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - success
+  Fransesa:
+  - - "succ\xE8s"
+  Indonesisa:
+  - - sukses
+  Turkisa:
+  - - "s\xFCkse"
+  Portugalsa:
+  - - sucesso
+raw data:
+  term: sukses
+  category: root
+  word class: n/f.nenoj
+  status: true
+  trans:
+    eng: success; succeed
+    epo: sukceso; sukcesi
+    spa: "\xE9xito; tener \xE9xito"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (success), Fransesa (succ\xE8s), Indonesisa (sukses), Turkisa
+    (s\xFCkse), Portugalsa (sucesso)"
+...

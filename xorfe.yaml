@@ -1,0 +1,53 @@
+---
+term: xorfe
+slug: xorfe
+ipa: "\u02C8\u0283o\u027Efe"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283o\u027Efe&voice=Ewa"
+status: false
+category: derived
+word class: p
+trans:
+  eng:
+  - - from
+    - as of
+    - since (_+ noun_)
+  epo:
+  - - ekde
+  spa:
+  - - de (a partir de)
+    - desde
+search terms:
+  glb:
+  - xorfe
+  eng:
+  - from
+  - as of
+  - since
+  epo:
+  - ekde
+  spa:
+  - de a partir de
+  - de
+  - desde
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor-">xor-</a> + <a href="../lexi/fe">fe</a>
+raw data:
+  term: xorfe
+  category: derived
+  word class: p
+  status: false
+  trans:
+    eng: from, as of, since (_+ noun_)
+    epo: ekde
+    spa: de (a partir de), desde
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xor- + fe
+...

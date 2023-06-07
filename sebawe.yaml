@@ -1,0 +1,50 @@
+---
+term: sebawe
+slug: sebawe
+ipa: "se\u02C8bawe"
+ipa link: "http://ipa-reader.xyz/?text=se\u02C8bawe&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - self-defence
+    - self-defense
+  epo:
+  - - memdefendo
+  - - memdefendi
+  spa:
+  - - autodefensa
+search terms:
+  glb:
+  - sebawe
+  eng:
+  - self-defence
+  - self-defense
+  epo:
+  - memdefendo
+  - memdefendi
+  spa:
+  - autodefensa
+etymology_type: DERIVD
+etymology: <a href="../lexi/se-">se-</a> + <a href="../lexi/bawe">bawe</a>
+raw data:
+  term: sebawe
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: self-defence, self-defense
+    epo: memdefendo; memdefendi
+    spa: autodefensa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: se- + bawe
+...

@@ -1,0 +1,54 @@
+---
+term: melon
+slug: melon
+ipa: "me\u02C8lon"
+ipa link: "http://ipa-reader.xyz/?text=me\u02C8lon&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - melon
+  epo:
+  - - melono
+  spa:
+  - - "mel\xF3n"
+    - _Cucurbitaceae_
+search terms:
+  glb:
+  - melon
+  eng:
+  - melon
+  epo:
+  - melono
+  spa:
+  - "mel\xF3n"
+  - cucurbitaceae
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- fruta
+- yamxey
+raw data:
+  term: melon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: melon
+    epo: melono
+    spa: "mel\xF3n, _Cucurbitaceae_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: fruta, yamxey
+  etymology: "Englisa (melon), Fransesa (melon), Indonesisa (melon), Espanisa (mel\xF3n),
+    Doycisa (Melone), Pilipinasa (milon, melon), Hindisa (\u092E\u0947\u0932\u0928
+    \u201Cmelan\u201D), Niponsa (\u30E1\u30ED\u30F3 \u201Cmeron\u201D), Hangusa (\uBA5C\uB860
+    \u201Cmelon\u201D, \uBA54\uB860 \u201Cmeron\u201D)"
+...

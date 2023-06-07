@@ -1,0 +1,46 @@
+---
+term: tosu
+slug: tosu
+ipa: "\u02C8tosu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tosu&voice=Ewa"
+status: false
+category: derived
+word class: su s
+trans:
+  eng:
+  - - its (_belonging to it_)
+  epo:
+  - - "\u011Dia"
+  spa:
+  - - su (_de una cosa_)
+search terms:
+  glb:
+  - tosu
+  eng:
+  - its
+  epo:
+  - "\u011Dia"
+  spa:
+  - su
+etymology_type: DERIVD
+etymology: <a href="../lexi/to">to</a> + <a href="../lexi/-su">-su</a>
+raw data:
+  term: tosu
+  category: derived
+  word class: su s
+  status: false
+  trans:
+    eng: its (_belonging to it_)
+    epo: "\u011Dia"
+    spa: su (_de una cosa_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: to + -su
+...

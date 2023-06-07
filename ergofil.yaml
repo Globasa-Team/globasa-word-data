@@ -1,0 +1,54 @@
+---
+term: ergofil
+slug: ergofil
+ipa: "e\u027Ego\u02C8fil"
+ipa link: "http://ipa-reader.xyz/?text=e\u027Ego\u02C8fil&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - diligent
+    - diligently
+    - hard-working
+  epo:
+  - - laborema
+  - - laboreme
+  spa:
+  - - diligente
+    - trabajador
+search terms:
+  glb:
+  - ergofil
+  eng:
+  - diligent
+  - diligently
+  - hard-working
+  epo:
+  - laborema
+  - laboreme
+  spa:
+  - diligente
+  - trabajador
+etymology_type: DERIVD
+etymology: <a href="../lexi/ergo">ergo</a> + <a href="../lexi/-fil">-fil</a>
+raw data:
+  term: ergofil
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: diligent, diligently, hard-working
+    epo: laborema; laboreme
+    spa: diligente, trabajador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ergo + -fil
+...

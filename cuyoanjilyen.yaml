@@ -1,0 +1,51 @@
+---
+term: cuyoanjilyen
+slug: cuyoanjilyen
+ipa: "t\u0361\u0283ujoand\u0361\u0292i\u02C8ljen"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ujoand\u0361\u0292i\u02C8ljen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - archangel
+  epo:
+  - - "\u0109efan\u011Delo"
+    - "arkian\u011Delo"
+    - "ar\u0125ian\u011Delo"
+  spa:
+  - - "arc\xE1ngel"
+search terms:
+  glb:
+  - cuyoanjilyen
+  eng:
+  - archangel
+  epo:
+  - "\u0109efan\u011Delo"
+  - "arkian\u011Delo"
+  - "ar\u0125ian\u011Delo"
+  spa:
+  - "arc\xE1ngel"
+etymology_type: DERIVD
+etymology: <a href="../lexi/cuyo">cuyo</a> + <a href="../lexi/anjil">anjil</a> + <a
+  href="../lexi/-yen">-yen</a>
+raw data:
+  term: cuyoanjilyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: archangel
+    epo: "\u0109efan\u011Delo, arkian\u011Delo, ar\u0125ian\u011Delo"
+    spa: "arc\xE1ngel"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: cuyo + anjil + -yen
+...

@@ -1,0 +1,53 @@
+---
+term: ultraya
+slug: ultraya
+ipa: "ul\u02C8t\u027Eaja"
+ipa link: "http://ipa-reader.xyz/?text=ul\u02C8t\u027Eaja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - beyondness
+  - - be beyond
+  epo:
+  - - pretereco
+  - - esti preter
+  spa:
+  - - "(el) m\xE1s all\xE1"
+  - - "estar m\xE1s all\xE1"
+search terms:
+  glb:
+  - ultraya
+  eng:
+  - beyondness
+  - be beyond
+  epo:
+  - pretereco
+  - esti preter
+  spa:
+  - "el m\xE1s all\xE1"
+  - "m\xE1s all\xE1"
+  - "estar m\xE1s all\xE1"
+etymology_type: DERIVD
+etymology: <a href="../lexi/ultra">ultra</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: ultraya
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: beyondness; be beyond
+    epo: pretereco; esti preter
+    spa: "(el) m\xE1s all\xE1; estar m\xE1s all\xE1"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ultra + -ya
+...

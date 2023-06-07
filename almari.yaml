@@ -1,0 +1,58 @@
+---
+term: almari
+slug: almari
+ipa: alˈmaɾi
+ipa link: http://ipa-reader.xyz/?text=alˈmaɾi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cabinet
+    - cupboard
+  epo:
+  - - ŝranko
+  spa:
+  - - gabinete
+    - alacena
+    - armario
+search terms:
+  glb:
+  - almari
+  eng:
+  - cabinet
+  - cupboard
+  epo:
+  - ŝranko
+  spa:
+  - gabinete
+  - alacena
+  - armario
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - armario
+  Indonesisa:
+  - - lemari
+  Hindisa:
+  - - अलमारी "almari"
+raw data:
+  term: almari
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cabinet, cupboard
+    epo: ŝranko
+    spa: gabinete, alacena, armario
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Espanisa (armario), Indonesisa (lemari), Hindisa (अलमारी "almari")
+...

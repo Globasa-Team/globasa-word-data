@@ -1,0 +1,53 @@
+---
+term: hin
+slug: hin
+ipa: "\u02C8xin"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xin&voice=Ewa"
+status: true
+category: root
+word class: d
+trans:
+  eng:
+  - - this
+    - these
+    - the [see [Correlatives](https://www.xwexi.globasa.net/eng/gramato/tabellexi)]
+  epo:
+  - - "\u0109i tiu"
+    - "\u0109i ti- [korelativa]"
+  spa:
+  - - este
+search terms:
+  glb:
+  - hin
+  eng:
+  - this
+  - these
+  - the
+  epo:
+  - "\u0109i tiu"
+  - "\u0109i ti- [korelativa]"
+  spa:
+  - este
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hin
+  category: root
+  word class: d
+  status: true
+  trans:
+    eng: this, these, the [see [Correlatives](https://www.xwexi.globasa.net/eng/gramato/tabellexi)]
+    epo: "\u0109i tiu, \u0109i ti- [korelativa]"
+    spa: este
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Swahilisa (hii, hiki), Indonesisa (ini), Parsisa (\u0627\u06CC\u0646
+    \u201Cin\u201D)"
+...

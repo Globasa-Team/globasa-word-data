@@ -1,0 +1,58 @@
+---
+term: majnuni
+slug: majnuni
+ipa: "mad\u0361\u0292\u02C8nuni"
+ipa link: "http://ipa-reader.xyz/?text=mad\u0361\u0292\u02C8nuni&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - crazy
+    - mad
+    - nuts
+    - insane
+  epo:
+  - - freneza
+  - - freneze
+  spa:
+  - - loco
+    - demente
+search terms:
+  glb:
+  - majnuni
+  eng:
+  - crazy
+  - mad
+  - nuts
+  - insane
+  epo:
+  - freneza
+  - freneze
+  spa:
+  - loco
+  - demente
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: majnuni
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: crazy, mad, nuts, insane
+    epo: freneza; freneze
+    spa: loco, demente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0645\u064E\u062C\u0652\u0646\u064F\u0648\u0646 \"majnun\"),
+    Turkisa (mecnun), Parsisa (\u0645\u062C\u0646\u0648\u0646 \"majnun\"), Swahilisa
+    (majinuni, majununi)"
+...

@@ -1,0 +1,97 @@
+---
+term: grey
+slug: grey
+ipa: ˈgɾej
+ipa link: http://ipa-reader.xyz/?text=ˈgɾej&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - gray (_unit_)
+  epo:
+  - - grajo
+  spa:
+  - - _gray_
+    - Gy
+  deu:
+  - - Gray
+  fra:
+  - - gray
+  rus:
+  - - грей
+  zho:
+  - - 戈瑞
+search terms:
+  glb:
+  - grey
+  eng:
+  - gray
+  epo:
+  - grajo
+  spa:
+  - gray
+  - gy
+  deu:
+  - gray
+  fra:
+  - gray
+  rus:
+  - грей
+  zho:
+  - 戈瑞
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - gray
+  Espanisa:
+  - - gray
+  Fransesa:
+  - - gray
+  Rusisa:
+  - - грей “grey”
+  Doycisa:
+  - - Gray
+  Indonesisa:
+  - - gray
+  Pilipinasa:
+  - - gray
+  Putunhwa:
+  - - 戈瑞 “gerwey”
+  Hindisa:
+  - - ग्रे “gre”
+  Arabisa:
+  - - غراي “gray”
+  Niponsa:
+  - - グレイ “gurei”
+  Turkisa:
+  - - gray
+  Hangusa:
+  - - 그레이 “gulei”
+  Vyetnamsa:
+  - - gray
+  Parsisa:
+  - - گری “grey”
+raw data:
+  term: grey
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: gray (_unit_)
+    epo: grajo
+    spa: _gray_, Gy
+    deu: Gray
+    fra: gray
+    rus: грей
+    zho: 戈瑞
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (gray), Espanisa (gray), Fransesa (gray), Rusisa (грей “grey”),
+    Doycisa (Gray), Indonesisa (gray), Pilipinasa (gray), Putunhwa (戈瑞 “gerwey”),
+    Hindisa (ग्रे “gre”), Arabisa (غراي “gray”), Niponsa (グレイ “gurei”), Turkisa (gray),
+    Hangusa (그레이 “gulei”), Vyetnamsa (gray), Parsisa (گری “grey”)
+...

@@ -1,0 +1,54 @@
+---
+term: ungi
+slug: ungi
+ipa: "\u02C8ungi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ungi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - unification
+  - - unify
+    - unite
+  epo:
+  - - unuigo
+  - - unuigi
+  spa:
+  - - "unificaci\xF3n"
+  - - unificar
+search terms:
+  glb:
+  - ungi
+  eng:
+  - unification
+  - unify
+  - unite
+  epo:
+  - unuigo
+  - unuigi
+  spa:
+  - "unificaci\xF3n"
+  - unificar
+etymology_type: DERIVD
+etymology: <a href="../lexi/un">un</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: ungi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: unification; unify, unite
+    epo: unuigo; unuigi
+    spa: "unificaci\xF3n; unificar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: un + -gi
+...

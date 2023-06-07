@@ -1,0 +1,46 @@
+---
+term: atletiyen
+slug: atletiyen
+ipa: "atleti\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=atleti\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - athlete
+  epo:
+  - - atleto
+  spa:
+  - - atleta
+search terms:
+  glb:
+  - atletiyen
+  eng:
+  - athlete
+  epo:
+  - atleto
+  spa:
+  - atleta
+etymology_type: DERIVD
+etymology: <a href="../lexi/atleti">atleti</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: atletiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: athlete
+    epo: atleto
+    spa: atleta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: atleti + -yen
+...

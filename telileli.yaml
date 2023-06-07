@@ -1,0 +1,53 @@
+---
+term: telileli
+slug: telileli
+ipa: "teli\u02C8leli"
+ipa link: "http://ipa-reader.xyz/?text=teli\u02C8leli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - old (_from a long time ago_)
+    - (a) long ago
+  epo:
+  - - "anta\u016Dlonge"
+    - "anta\u016D longa tempo"
+  spa:
+  - - de hace mucho tiempo
+    - viejo
+search terms:
+  glb:
+  - telileli
+  eng:
+  - old
+  - a long ago
+  - long ago
+  epo:
+  - "anta\u016Dlonge"
+  - "anta\u016D longa tempo"
+  spa:
+  - de hace mucho tiempo
+  - viejo
+etymology_type: DERIVD
+etymology: <a href="../lexi/teli">teli</a> + <a href="../lexi/le">le</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: telileli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: old (_from a long time ago_), (a) long ago
+    epo: "anta\u016Dlonge, anta\u016D longa tempo"
+    spa: de hace mucho tiempo, viejo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: teli + le + -li
+...

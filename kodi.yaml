@@ -1,0 +1,57 @@
+---
+term: kodi
+slug: kodi
+ipa: "\u02C8kodi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kodi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - code
+  - - codify
+  epo:
+  - - kodo
+  - - kodi(gi)
+  spa:
+  - - "c\xF3digo"
+  - - codificar
+search terms:
+  glb:
+  - kodi
+  eng:
+  - code
+  - codify
+  epo:
+  - kodo
+  - kodigi
+  - kodi
+  spa:
+  - "c\xF3digo"
+  - codificar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kodi
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: code; codify
+    epo: kodo; kodi(gi)
+    spa: "c\xF3digo; codificar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (code, coding), Putunhwa, Hindisa (\u0915\u094B\u0921 \u201Ckod\u201D),
+    Espanisa (c\xF3digo), Fransesa (code), Rusisa (\u043A\u043E\u0434 \u201Ckod\u201D),
+    Indonesisa (kode), Doycisa (Kode), Niponsa (\u30B3\u30FC\u30C9 \u201Ckodo\u201D),
+    Telugusa, Turkisa (kod), Hangusa (\uCF54\uB4DC \u201Ckodu\u201D), Parsisa (\u06A9\u062F\u200E
+    \u201Ckod\u201D)"
+...

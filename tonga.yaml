@@ -1,0 +1,52 @@
+---
+term: tonga
+slug: tonga
+ipa: "\u02C8tonga"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tonga&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Tonga
+  epo:
+  - - Tongo
+  spa:
+  - - Tonga
+search terms:
+  glb:
+  - tonga
+  eng:
+  - tonga
+  epo:
+  - tongo
+  spa:
+  - tonga
+etymology_type: NATLNG
+etymology:
+  Tongasa:
+  - - Tonga
+  Englisa:
+  - - Tonga
+tags:
+- dexa
+raw data:
+  term: Tonga
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Tonga
+    epo: Tongo
+    spa: Tonga
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Tongasa (Tonga), Englisa (Tonga)
+...

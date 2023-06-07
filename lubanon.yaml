@@ -1,0 +1,50 @@
+---
+term: lubanon
+slug: lubanon
+ipa: "luba\u02C8non"
+ipa link: "http://ipa-reader.xyz/?text=luba\u02C8non&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Lebanon
+  epo:
+  - - Libano
+  spa:
+  - - "L\xEDbano"
+search terms:
+  glb:
+  - lubanon
+  eng:
+  - lebanon
+  epo:
+  - libano
+  spa:
+  - "l\xEDbano"
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0644\u0628\u0646\u0627\u0646\u200E \u201CLubn\u0101n\u201D"
+tags:
+- dexa
+raw data:
+  term: Lubanon
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Lebanon
+    epo: Libano
+    spa: "L\xEDbano"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Arabisa (\u0644\u0628\u0646\u0627\u0646\u200E \u201CLubn\u0101n\u201D)"
+...

@@ -1,0 +1,74 @@
+---
+term: nasibu
+slug: nasibu
+ipa: "na\u02C8sibu"
+ipa link: "http://ipa-reader.xyz/?text=na\u02C8sibu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - fit
+    - be fitting (for)
+    - suit
+    - be suitable (for)
+  epo:
+  - - "ta\u016Dgo"
+  - - "ta\u016Dgi"
+  spa:
+  - - ser apto
+    - ser adecuado
+    - ser apropriado
+search terms:
+  glb:
+  - nasibu
+  eng:
+  - fit
+  - be fitting for
+  - be fitting
+  - suit
+  - be suitable for
+  - be suitable
+  epo:
+  - "ta\u016Dgo"
+  - "ta\u016Dgi"
+  spa:
+  - ser apto
+  - ser adecuado
+  - ser apropriado
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0646\u064E\u0627\u0633\u064E\u0628\u064E \u201Cnasaba\u201D"
+  - - "\u064A\u064F\u0646\u064E\u0627\u0633\u0650\u0628\u064F\u200E\u200E \u201Cyunasibu\u201D"
+  - - "\u0645\u064F\u0646\u064E\u0627\u0633\u0650\u0628 \u201Cmunasib\u201D"
+  Parsisa:
+  - - "\u0645\u064F\u0646\u0627\u0633\u0650\u0628 \u201Cmonaseb\u201D"
+  Turkisa:
+  - - "m\xFCnasip"
+  Hindisa:
+  - - "\u092E\u0941\u0928\u093E\u0938\u093F\u092C \u201Cmunasib\u201D"
+raw data:
+  term: nasibu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: fit, be fitting (for), suit, be suitable (for)
+    epo: "ta\u016Dgo; ta\u016Dgi"
+    spa: ser apto, ser adecuado, ser apropriado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0646\u064E\u0627\u0633\u064E\u0628\u064E \u201Cnasaba\u201D;
+    \u064A\u064F\u0646\u064E\u0627\u0633\u0650\u0628\u064F\u200E\u200E \u201Cyunasibu\u201D;
+    \u0645\u064F\u0646\u064E\u0627\u0633\u0650\u0628 \u201Cmunasib\u201D); Parsisa
+    (\u0645\u064F\u0646\u0627\u0633\u0650\u0628 \u201Cmonaseb\u201D), Turkisa (m\xFCnasip),
+    Hindisa (\u092E\u0941\u0928\u093E\u0938\u093F\u092C \u201Cmunasib\u201D)"
+...

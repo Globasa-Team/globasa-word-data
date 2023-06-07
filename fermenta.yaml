@@ -1,0 +1,66 @@
+---
+term: fermenta
+slug: fermenta
+ipa: feɾˈmenta
+ipa link: http://ipa-reader.xyz/?text=feɾˈmenta&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - ferment
+  epo:
+  - - fermenti
+  spa:
+  - - fermento
+  - - fermentar
+search terms:
+  glb:
+  - fermenta
+  eng:
+  - ferment
+  epo:
+  - fermenti
+  spa:
+  - fermento
+  - fermentar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fermentation
+  - - ferment
+  Espanisa:
+  - - fermentación
+  - - fermentar
+  Fransesa:
+  - - fermentation
+  Rusisa:
+  - - ферментация "fermentatsiya"
+  Doycisa:
+  - - Fermentation
+  Indonesisa:
+  - - fermentasi
+  Turkisa:
+  - - fermantasyon
+raw data:
+  term: fermenta
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: ferment
+    epo: fermenti
+    spa: fermento; fermentar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (fermentation; ferment), Espanisa (fermentación; fermentar),
+    Fransesa (fermentation), Rusisa (ферментация "fermentatsiya"), Doycisa (Fermentation),
+    Indonesisa (fermentasi), Turkisa (fermantasyon)
+...

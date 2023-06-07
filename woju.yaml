@@ -1,0 +1,55 @@
+---
+term: woju
+slug: woju
+ipa: "\u02C8wod\u0361\u0292u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8wod\u0361\u0292u&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - hold (_in hands
+    - etc._)
+  epo:
+  - - mantenado
+  - - manteni
+  spa:
+  - - sostener
+    - sujetar
+search terms:
+  glb:
+  - woju
+  eng:
+  - hold in hands
+  - hold (_in hands
+  - etc.
+  epo:
+  - mantenado
+  - manteni
+  spa:
+  - sostener
+  - sujetar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u63E1\u4F4F \u201Cw\xF2 zh\xF9\u201D"
+raw data:
+  term: woju
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: hold (_in hands, etc._)
+    epo: mantenado; manteni
+    spa: sostener, sujetar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u63E1\u4F4F \u201Cw\xF2 zh\xF9\u201D)"
+...

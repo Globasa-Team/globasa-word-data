@@ -1,0 +1,50 @@
+---
+term: mandoste
+slug: mandoste
+ipa: "man\u02C8doste"
+ipa link: "http://ipa-reader.xyz/?text=man\u02C8doste&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - boyfriend
+    - guy friend
+    - male friend
+  epo:
+  - - koramiko
+  spa:
+  - - amigo
+search terms:
+  glb:
+  - mandoste
+  eng:
+  - boyfriend
+  - guy friend
+  - male friend
+  epo:
+  - koramiko
+  spa:
+  - amigo
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/doste">doste</a>
+raw data:
+  term: mandoste
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: boyfriend, guy friend, male friend
+    epo: koramiko
+    spa: amigo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + doste
+...

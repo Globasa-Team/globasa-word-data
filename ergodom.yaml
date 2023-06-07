@@ -1,0 +1,48 @@
+---
+term: ergodom
+slug: ergodom
+ipa: "e\u027Ego\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=e\u027Ego\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - workplace
+    - place of work
+  epo:
+  - - laborejo
+  spa:
+  - - lugar de trabajo
+search terms:
+  glb:
+  - ergodom
+  eng:
+  - workplace
+  - place of work
+  epo:
+  - laborejo
+  spa:
+  - lugar de trabajo
+etymology_type: DERIVD
+etymology: <a href="../lexi/ergo">ergo</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: ergodom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: workplace, place of work
+    epo: laborejo
+    spa: lugar de trabajo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ergo + -dom
+...

@@ -1,0 +1,88 @@
+---
+term: aluminyum
+slug: aluminyum
+ipa: alumiˈnjum
+ipa link: http://ipa-reader.xyz/?text=alumiˈnjum&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - aluminum
+    - aluminium
+  epo:
+  - - aluminio
+  spa:
+  - - aluminio
+    - Al
+search terms:
+  glb:
+  - aluminyum
+  eng:
+  - aluminum
+  - aluminium
+  epo:
+  - aluminio
+  spa:
+  - aluminio
+  - al
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - aluminium
+    - aluminum
+  Espanisa:
+  - - aluminio
+  Fransesa:
+  - - aluminium
+  Rusisa:
+  - - алюминий “aljumíni”
+  Doycisa:
+  - - Aluminium
+  Hindisa:
+  - - एल्युमिनियम “elyuminiyam”
+  Arabisa:
+  - - أَلُومِنْيُوم “aluminyum”
+  Indonesisa:
+  - - aluminium
+  Niponsa:
+  - - アルミニウム “aruminiumu”
+  Telugusa:
+  - - అల్యూమినియం “alyuminyam”
+  Turkisa:
+  - - alüminyum
+  Hangusa:
+  - - 알루미늄 “aluminyum”
+  Parsisa:
+  - - آلومینیم “âluminiyom”
+  Swahilisa:
+  - - alumini
+  Pilipinasa:
+  - - aluminyo
+    - aluminum
+tags:
+- kimikali monlari
+raw data:
+  term: aluminyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: aluminum, aluminium
+    epo: aluminio
+    spa: aluminio, Al
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: Englisa (aluminium, aluminum), Espanisa (aluminio), Fransesa (aluminium),
+    Rusisa (алюминий “aljumíni”), Doycisa (Aluminium), Hindisa (एल्युमिनियम “elyuminiyam”),
+    Arabisa (أَلُومِنْيُوم “aluminyum”), Indonesisa (aluminium), Niponsa (アルミニウム “aruminiumu”),
+    Telugusa (అల్యూమినియం “alyuminyam”), Turkisa (alüminyum), Hangusa (알루미늄 “aluminyum”),
+    Parsisa (آلومینیم “âluminiyom”), Swahilisa (alumini), Pilipinasa (aluminyo, aluminum)
+...

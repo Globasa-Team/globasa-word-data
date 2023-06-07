@@ -1,0 +1,50 @@
+---
+term: fe bonxanse
+slug: fe bonxanse
+ipa: "fe bon\u02C8\u0283anse"
+ipa link: "http://ipa-reader.xyz/?text=fe bon\u02C8\u0283anse&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - luckily
+    - fortunately
+  epo:
+  - - "bon\u015Dance"
+  spa:
+  - - afortunadamente
+search terms:
+  glb:
+  - fe bonxanse
+  - fe
+  - bonxanse
+  eng:
+  - luckily
+  - fortunately
+  epo:
+  - "bon\u015Dance"
+  spa:
+  - afortunadamente
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/bon-">bon-</a> + <a href="../lexi/xanse">xanse</a>
+raw data:
+  term: fe bonxanse
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: luckily, fortunately
+    epo: "bon\u015Dance"
+    spa: afortunadamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, bon- + xanse
+...

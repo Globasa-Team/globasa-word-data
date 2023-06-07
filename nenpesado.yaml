@@ -1,0 +1,55 @@
+---
+term: nenpesado
+slug: nenpesado
+ipa: "nenpe\u02C8sado"
+ipa link: "http://ipa-reader.xyz/?text=nenpe\u02C8sado&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - broke
+    - penniless
+  epo:
+  - - senmona
+  - - senmone
+  spa:
+  - - arruinado
+    - quebrado
+    - en bancarrota
+search terms:
+  glb:
+  - nenpesado
+  eng:
+  - broke
+  - penniless
+  epo:
+  - senmona
+  - senmone
+  spa:
+  - arruinado
+  - quebrado
+  - en bancarrota
+etymology_type: DERIVD
+etymology: <a href="../lexi/nen-">nen-</a> + <a href="../lexi/pesa">pesa</a> + <a
+  href="../lexi/-do">-do</a>
+raw data:
+  term: nenpesado
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: broke, penniless
+    epo: senmona; senmone
+    spa: arruinado, quebrado, en bancarrota
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nen- + pesa + -do
+...

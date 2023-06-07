@@ -1,0 +1,50 @@
+---
+term: mopu
+slug: mopu
+ipa: "\u02C8mopu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mopu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - mop
+  epo:
+  - - "\u015Dvabrilo"
+  - - "\u015Dvabri"
+  spa:
+  - - mopa
+    - trapeador
+search terms:
+  glb:
+  - mopu
+  eng:
+  - mop
+  epo:
+  - "\u015Dvabrilo"
+  - "\u015Dvabri"
+  spa:
+  - mopa
+  - trapeador
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: mopu
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: mop
+    epo: "\u015Dvabrilo; \u015Dvabri"
+    spa: mopa, trapeador
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (mop), Doycisa (Mopp), Niponsa (\u30E2\u30C3\u30D7 \u201Cmopu\u201D)"
+...

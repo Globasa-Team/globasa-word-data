@@ -1,0 +1,52 @@
+---
+term: brilapul
+slug: brilapul
+ipa: "b\u027Eila\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=b\u027Eila\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - shiny
+    - brilliant
+    - brilliantly
+  epo:
+  - - brila
+  - - brile
+  spa:
+  - - brillante
+search terms:
+  glb:
+  - brilapul
+  eng:
+  - shiny
+  - brilliant
+  - brilliantly
+  epo:
+  - brila
+  - brile
+  spa:
+  - brillante
+etymology_type: DERIVD
+etymology: <a href="../lexi/brila">brila</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: brilapul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: shiny, brilliant, brilliantly
+    epo: brila; brile
+    spa: brillante
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: brila + -pul
+...

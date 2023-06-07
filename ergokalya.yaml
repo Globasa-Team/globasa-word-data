@@ -1,0 +1,47 @@
+---
+term: ergokalya
+slug: ergokalya
+ipa: "e\u027Ego\u02C8kalja"
+ipa link: "http://ipa-reader.xyz/?text=e\u027Ego\u02C8kalja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - unemployment
+  epo:
+  - - senlaboreco
+  spa:
+  - - desempleo
+search terms:
+  glb:
+  - ergokalya
+  eng:
+  - unemployment
+  epo:
+  - senlaboreco
+  spa:
+  - desempleo
+etymology_type: DERIVD
+etymology: <a href="../lexi/ergo">ergo</a> + <a href="../lexi/-kal">-kal</a> + <a
+  href="../lexi/-ya">-ya</a>
+raw data:
+  term: ergokalya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: unemployment
+    epo: senlaboreco
+    spa: desempleo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ergo + -kal + -ya
+...

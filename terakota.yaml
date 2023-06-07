@@ -1,0 +1,78 @@
+---
+term: terakota
+slug: terakota
+ipa: "te\u027Ea\u02C8kota"
+ipa link: "http://ipa-reader.xyz/?text=te\u027Ea\u02C8kota&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - terracotta
+  epo:
+  - - terakoto
+  spa:
+  - - terracota
+search terms:
+  glb:
+  - terakota
+  eng:
+  - terracotta
+  epo:
+  - terakoto
+  spa:
+  - terracota
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - terracotta
+  Espanisa:
+  - - terracota
+  Fransesa:
+  - - terre cuite
+    - terracotta
+  Rusisa:
+  - - "t\u0435\u0440\u0440\u0430\u043A\u043E\u0442\u0430 \u201Cterakota\u201D"
+  Doycisa:
+  - - Terrakotta
+  Indonesisa:
+  - - terakota
+  Pilipinasa: ~
+  Turkisa: ~
+  Swahilisa: ~
+  Hindisa:
+  - - "\u091F\u0947\u0930\u093E\u0915\u094B\u091F\u093E \u201Cterakota\u201D"
+  Niponsa:
+  - - "\u30C6\u30E9\u30B3\u30C3\u30BF \u201Cterakota\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C46\u0C30\u0C4D\u0C30\u0C15\u0C4B\u0C1F \u201Cterakota\u201D"
+  Hangusa:
+  - - "\uD14C\uB77C\uCF54\uD0C0 \u201Ctelakota\u201D"
+  Parsisa:
+  - - "\u062A\u0631\u0627\u06A9\u0648\u062A\u0627 \u201Cterakota\u201D"
+raw data:
+  term: terakota
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: terracotta
+    epo: terakoto
+    spa: terracota
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (terracotta). Espanisa (terracota), Fransesa (terre cuite, terracotta),
+    Rusisa (t\u0435\u0440\u0440\u0430\u043A\u043E\u0442\u0430 \u201Cterakota\u201D),
+    Doycisa (Terrakotta), Indonesisa (terakota), Pilipinasa, Turkisa, Swahilisa, Hindisa
+    (\u091F\u0947\u0930\u093E\u0915\u094B\u091F\u093E \u201Cterakota\u201D), Niponsa
+    (\u30C6\u30E9\u30B3\u30C3\u30BF \u201Cterakota\u201D), Telugusa (\u0C1F\u0C46\u0C30\u0C4D\u0C30\u0C15\u0C4B\u0C1F
+    \u201Cterakota\u201D), Hangusa (\uD14C\uB77C\uCF54\uD0C0 \u201Ctelakota\u201D),
+    Parsisa (\u062A\u0631\u0627\u06A9\u0648\u062A\u0627 \u201Cterakota\u201D)"
+...

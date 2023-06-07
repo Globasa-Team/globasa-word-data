@@ -1,0 +1,53 @@
+---
+term: xanxwi
+slug: xanxwi
+ipa: "\u02C8\u0283an\u0283wi"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283an\u0283wi&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - landscape
+  epo:
+  - - "pejza\u011Do"
+  spa:
+  - - paisaje
+search terms:
+  glb:
+  - xanxwi
+  eng:
+  - landscape
+  epo:
+  - "pejza\u011Do"
+  spa:
+  - paisaje
+etymology_type: NATLNG
+etymology:
+  Puntunhwa:
+  - - "\u5C71\u6C34 \u201Csh\u0101nshu\u01D0\u201D"
+  Niponsa:
+  - - "\u5C71\u6C34 \u201Csansui\u201D"
+  Vyetnamsa:
+  - - "s\u01A1n thu\u1EF7"
+raw data:
+  term: xanxwi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: landscape
+    epo: "pejza\u011Do"
+    spa: paisaje
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Puntunhwa (\u5C71\u6C34 \u201Csh\u0101nshu\u01D0\u201D), Niponsa (\u5C71\u6C34
+    \u201Csansui\u201D), Vyetnamsa (s\u01A1n thu\u1EF7)"
+...

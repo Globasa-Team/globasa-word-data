@@ -1,0 +1,52 @@
+---
+term: kazaki
+slug: kazaki
+ipa: "ka\u02C8zaki"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8zaki&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Kazakhstan
+  epo:
+  - - "Kaza\u0125io"
+    - "Kaza\u0125ujo"
+  spa:
+  - - "Kazajist\xE1n"
+search terms:
+  glb:
+  - kazaki
+  eng:
+  - kazakhstan
+  epo:
+  - "kaza\u0125io"
+  - "kaza\u0125ujo"
+  spa:
+  - "kazajist\xE1n"
+etymology_type: NATLNG
+etymology:
+  Kazakisa:
+  - - "\u049A\u0430\u0437\u0430\u049B\u0441\u0442\u0430\u043D \u201CQazaqstan\u201D"
+tags:
+- dexa
+raw data:
+  term: Kazaki
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Kazakhstan
+    epo: "Kaza\u0125io, Kaza\u0125ujo"
+    spa: "Kazajist\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Kazakisa (\u049A\u0430\u0437\u0430\u049B\u0441\u0442\u0430\u043D \u201CQazaqstan\u201D)"
+...

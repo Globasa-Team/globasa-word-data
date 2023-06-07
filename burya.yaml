@@ -1,0 +1,48 @@
+---
+term: burya
+slug: burya
+ipa: "\u02C8bu\u027Eja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8bu\u027Eja&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - evil
+    - badness
+  epo:
+  - - malboneco
+  spa:
+  - - maldad
+search terms:
+  glb:
+  - burya
+  eng:
+  - evil
+  - badness
+  epo:
+  - malboneco
+  spa:
+  - maldad
+etymology_type: DERIVD
+etymology: <a href="../lexi/bur">bur</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: burya
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: evil, badness
+    epo: malboneco
+    spa: maldad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: bur + -ya
+...

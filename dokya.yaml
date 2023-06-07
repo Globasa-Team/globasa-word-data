@@ -1,0 +1,61 @@
+---
+term: dokya
+slug: dokya
+ipa: ˈdokja
+ipa link: http://ipa-reader.xyz/?text=ˈdokja&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - poison
+    - venom
+  epo:
+  - - veneno
+  - - veneni
+  spa:
+  - - veneno
+  - - envenenar
+search terms:
+  glb:
+  - dokya
+  eng:
+  - poison
+  - venom
+  epo:
+  - veneno
+  - veneni
+  spa:
+  - veneno
+  - envenenar
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 毒药 “dúyào”
+  Niponsa:
+  - - 毒薬 “dokuyaku”
+  Hangusa:
+  - - 독약 “dog-yag”
+  Vyetnamsa:
+  - - độc
+raw data:
+  term: dokya
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: poison, venom
+    epo: veneno; veneni
+    spa: veneno; envenenar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (毒药 “dúyào”), Niponsa (毒薬 “dokuyaku”), Hangusa (독약 “dog-yag”),
+    Vyetnamsa (độc)
+...

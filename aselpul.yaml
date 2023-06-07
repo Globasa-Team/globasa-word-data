@@ -1,0 +1,52 @@
+---
+term: aselpul
+slug: aselpul
+ipa: "asel\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=asel\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - original
+  - - originally
+  epo:
+  - - devena
+  - - devene
+  spa:
+  - - original
+  - - originalmente
+search terms:
+  glb:
+  - aselpul
+  eng:
+  - original
+  - originally
+  epo:
+  - devena
+  - devene
+  spa:
+  - original
+  - originalmente
+etymology_type: DERIVD
+etymology: <a href="../lexi/asel">asel</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: aselpul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: original; originally
+    epo: devena; devene
+    spa: original; originalmente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: asel + -pul
+...

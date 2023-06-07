@@ -1,0 +1,47 @@
+---
+term: kaso
+slug: kaso
+ipa: "\u02C8kaso"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kaso&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - case
+  epo:
+  - - kazo
+  spa:
+  - - caso
+search terms:
+  glb:
+  - kaso
+  eng:
+  - case
+  epo:
+  - kazo
+  spa:
+  - caso
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kaso
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: case
+    epo: kazo
+    spa: caso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (case), Fransesa (cas), Espanisa (caso), Rusisa (\u043A\u0430\u0437\u0443\u0441
+    \u201Ckazus\u201D), Doycisa (Kasus), Indonesisa (kasus), Pilipinasa (kaso)"
+...

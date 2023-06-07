@@ -1,0 +1,59 @@
+---
+term: ardwazi
+slug: ardwazi
+ipa: aɾˈdwazi
+ipa link: http://ipa-reader.xyz/?text=aɾˈdwazi&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - slate
+  epo:
+  - - ardezo
+  spa:
+  - - pizarra (_roca_)
+search terms:
+  glb:
+  - ardwazi
+  eng:
+  - slate
+  epo:
+  - ardezo
+  spa:
+  - pizarra
+etymology_type: NATLNG
+etymology:
+  Fransesa:
+  - - ardoise
+  Portugalsa:
+  - - ardósia
+  Italisa:
+  - - ardesia
+  Arabisa:
+  - - أَرْدْوَاز “ardwaz”
+  Turkisa:
+  - - arduvaz
+tags:
+- petra
+raw data:
+  term: ardwazi
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: slate
+    epo: ardezo
+    spa: pizarra (_roca_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: petra
+  etymology: Fransesa (ardoise), Portugalsa (ardósia), Italisa (ardesia), Arabisa
+    (أَرْدْوَاز “ardwaz”), Turkisa (arduvaz)
+...

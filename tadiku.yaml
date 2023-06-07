@@ -1,0 +1,67 @@
+---
+term: tadiku
+slug: tadiku
+ipa: "ta\u02C8diku"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8diku&voice=Ewa"
+status: false
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - confirmation
+  - - confirm
+  epo:
+  - - konfirmo
+  - - konfirmi
+  spa:
+  - - "confirmaci\xF3n"
+  - - confirmar
+search terms:
+  glb:
+  - tadiku
+  eng:
+  - confirmation
+  - confirm
+  epo:
+  - konfirmo
+  - konfirmi
+  spa:
+  - "confirmaci\xF3n"
+  - confirmar
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u062A\u064E\u0635\u0652\u062F\u0650\u064A\u0642 \"tasdik\""
+    - "\u062A\u064E\u0623\u0652\u0643\u0650\u064A\u062F \"takid\""
+    - "\u062A\u064E\u0623\u0652\u064A\u0650\u064A\u062F \"tayid\""
+  Turkisa:
+  - - tasdik
+    - teyit
+  Parsisa:
+  - - "\u062A\u0635\u062F\u064A\u0642 \"tasdik\""
+    - "\u062A\u0627\u0674\u06A9\u06CC\u062F \"takid\""
+    - "\u062A\u0627\u06CC\u06CC\u062F \"tayid\""
+raw data:
+  term: tadiku
+  category: root
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: confirmation; confirm
+    epo: konfirmo; konfirmi
+    spa: "confirmaci\xF3n; confirmar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062A\u064E\u0635\u0652\u062F\u0650\u064A\u0642 \"tasdik\",
+    \u062A\u064E\u0623\u0652\u0643\u0650\u064A\u062F \"takid\", \u062A\u064E\u0623\u0652\u064A\u0650\u064A\u062F
+    \"tayid\"), Turkisa (tasdik, teyit), Parsisa (\u062A\u0635\u062F\u064A\u0642 \"tasdik\",
+    \u062A\u0627\u0674\u06A9\u06CC\u062F \"takid\", \u062A\u0627\u06CC\u06CC\u062F
+    \"tayid\")"
+...

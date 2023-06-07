@@ -1,0 +1,68 @@
+---
+term: digita
+slug: digita
+ipa: diˈgita
+ipa link: http://ipa-reader.xyz/?text=diˈgita&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - digit
+  epo:
+  - - cifero
+  spa:
+  - - dígito
+search terms:
+  glb:
+  - digita
+  eng:
+  - digit
+  epo:
+  - cifero
+  spa:
+  - dígito
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - digital
+  Fransesa:
+  - - digital
+  Doycisa:
+  - - digital
+  Espanisa:
+  - - digital
+  Hindisa:
+  - - डिजिटल “ḍijiṭal”
+  Turkisa:
+  - - dijital
+  Indonesisa:
+  - - digital
+  Parsisa:
+  - - دیجیتال‎ “dijitâl”
+  Niponsa:
+  - - デジタル “dejitaru”
+  Hangusa:
+  - - 디지털 “dijitol”
+raw data:
+  term: digita
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: digit
+    epo: cifero
+    spa: dígito
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (digital), Fransesa (digital), Doycisa (digital), Espanisa (digital),
+    Hindisa (डिजिटल “ḍijiṭal”), Turkisa (dijital), Indonesisa (digital), Parsisa (دیجیتال‎
+    “dijitâl”), Niponsa (デジタル “dejitaru”), Hangusa (디지털 “dijitol”)
+...

@@ -1,0 +1,65 @@
+---
+term: tabel
+slug: tabel
+ipa: "ta\u02C8bel"
+ipa link: "http://ipa-reader.xyz/?text=ta\u02C8bel&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - (matrix) table
+  epo:
+  - - tabelo
+  spa:
+  - - tabla
+    - matriz
+search terms:
+  glb:
+  - tabel
+  eng:
+  - matrix table
+  - table
+  epo:
+  - tabelo
+  spa:
+  - tabla
+  - matriz
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - table
+  Doycisa:
+  - - Tabelle
+  Fransesa:
+  - - tableau
+  Espanisa:
+  - - tabla
+  Rusisa:
+  - - "\u0442\u0430\u0431\u043B\u0438\u0446\u0430 \u201Ctablitsa\u201D"
+  Indonesisa:
+  - - tabel
+  Niponsa:
+  - - "\u30C6\u30FC\u30D6\u30EB \u201Cteburu\u201D"
+raw data:
+  term: tabel
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: (matrix) table
+    epo: tabelo
+    spa: tabla, matriz
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (table), Doycisa (Tabelle), Fransesa (tableau), Espanisa (tabla),
+    Rusisa (\u0442\u0430\u0431\u043B\u0438\u0446\u0430 \u201Ctablitsa\u201D), Indonesisa
+    (tabel), Niponsa (\u30C6\u30FC\u30D6\u30EB \u201Cteburu\u201D)"
+...

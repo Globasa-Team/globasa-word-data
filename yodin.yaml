@@ -1,0 +1,94 @@
+---
+term: yodin
+slug: yodin
+ipa: "jo\u02C8din"
+ipa link: "http://ipa-reader.xyz/?text=jo\u02C8din&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - iodine
+  epo:
+  - - jodo
+  spa:
+  - - yodo
+search terms:
+  glb:
+  - yodin
+  eng:
+  - iodine
+  epo:
+  - jodo
+  spa:
+  - yodo
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - iodine
+  Espanisa:
+  - - yodo
+  Arabisa:
+  - - "\u064A\u064F\u0648\u062F \u201Cyud\u201D"
+  Fransesa:
+  - - iode
+  Rusisa:
+  - - "\u0439\u043E\u0434 \u201Cyod\u201D"
+    - "\u0438\u043E\u0434 \u201Ciod\u201D"
+  Indonesisa:
+  - - iodin
+    - yodium
+  Doycisa:
+  - - Iod
+    - Jod
+  Niponsa:
+  - - "\u6C83\u7D20 \u201Cyoso\u201D"
+    - "\u30E8\u30FC\u30C9 \u201Cyodo\u201D"
+  Telugusa:
+  - - "\u0C05\u0C2F\u0C4B\u0C21\u0C3F\u0C28\u0C4D \u201Cayodin\u201D"
+  Turkisa:
+  - - iyot
+  Hangusa:
+  - - "\uC694\uC624\uB4DC \u201Cyodu\u201D"
+    - "\uC694\uC624\uB4D0 \u201Cyodyum\u201D"
+    - "\uC544\uC774\uC624\uB518 \u201Caiodin\u201D"
+  Vyetnamsa:
+  - - "i\u1ED1t"
+    - "io\u0111"
+  Parsisa:
+  - - "\u06CC\u062F \u201Cyod\u201D"
+  Swahilisa:
+  - - iodini
+  Pilipinasa:
+  - - yodo
+    - iodine
+tags:
+- kimikali monlari
+raw data:
+  term: yodin
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: iodine
+    epo: jodo
+    spa: yodo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (iodine), Espanisa (yodo), Arabisa (\u064A\u064F\u0648\u062F
+    \u201Cyud\u201D), Fransesa (iode), Rusisa (\u0439\u043E\u0434 \u201Cyod\u201D,
+    \u0438\u043E\u0434 \u201Ciod\u201D), Indonesisa (iodin, yodium), Doycisa (Iod,
+    Jod), Niponsa (\u6C83\u7D20 \u201Cyoso\u201D, \u30E8\u30FC\u30C9 \u201Cyodo\u201D),
+    Telugusa (\u0C05\u0C2F\u0C4B\u0C21\u0C3F\u0C28\u0C4D \u201Cayodin\u201D), Turkisa
+    (iyot), Hangusa (\uC694\uC624\uB4DC \u201Cyodu\u201D, \uC694\uC624\uB4D0 \u201Cyodyum\u201D,
+    \uC544\uC774\uC624\uB518 \u201Caiodin\u201D), Vyetnamsa (i\u1ED1t, io\u0111),
+    Parsisa (\u06CC\u062F \u201Cyod\u201D), Swahilisa (iodini), Pilipinasa (yodo,
+    iodine)"
+...

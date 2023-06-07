@@ -1,0 +1,52 @@
+---
+term: keralasa
+slug: keralasa
+ipa: "ke\u027Ea\u02C8lasa"
+ipa link: "http://ipa-reader.xyz/?text=ke\u027Ea\u02C8lasa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Malayalam (language)
+  epo:
+  - - la malajala (lingvo)
+  spa:
+  - - "malay\xE1lam"
+    - malabar (_idioma_)
+search terms:
+  glb:
+  - keralasa
+  eng:
+  - malayalam language
+  - malayalam
+  epo:
+  - la malajala lingvo
+  - la malajala
+  spa:
+  - "malay\xE1lam"
+  - malabar
+etymology_type: DERIVD
+etymology: <a href="../lexi/Kerala">Kerala</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Keralasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Malayalam (language)
+    epo: la malajala (lingvo)
+    spa: "malay\xE1lam, malabar (_idioma_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Kerala + -sa
+...

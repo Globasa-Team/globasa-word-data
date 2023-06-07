@@ -1,0 +1,61 @@
+---
+term: kompleto
+slug: kompleto
+ipa: "kom\u02C8pleto"
+ipa link: "http://ipa-reader.xyz/?text=kom\u02C8pleto&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - complete
+    - completely
+    - absolute
+    - absolutely
+  epo:
+  - - kompleta
+    - absoluta
+  - - komplete
+    - absolute
+  spa:
+  - - completo
+    - absoluto
+search terms:
+  glb:
+  - kompleto
+  eng:
+  - complete
+  - completely
+  - absolute
+  - absolutely
+  epo:
+  - kompleta
+  - absoluta
+  - komplete
+  - absolute
+  spa:
+  - completo
+  - absoluto
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kompleto
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: complete, completely, absolute, absolutely
+    epo: kompleta, absoluta; komplete, absolute
+    spa: completo, absoluto
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (complete), Fransesa (complet), Doycisa (komplett), Espanisa
+    (completo), Indonesisa (komplit), Pilipinasa (kumpleto)
+...

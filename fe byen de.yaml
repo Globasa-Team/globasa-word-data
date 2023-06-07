@@ -1,0 +1,49 @@
+---
+term: fe byen de
+slug: fe byen de
+ipa: "fe \u02C8bjen de"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8bjen de&voice=Ewa"
+status: false
+category: phrase
+word class: jm p
+trans:
+  eng:
+  - - at the edge of
+  epo:
+  - - "\u0109e la rando de"
+  spa:
+  - - en la orilla de
+search terms:
+  glb:
+  - fe byen de
+  - fe
+  - byen
+  - de
+  eng:
+  - at the edge of
+  epo:
+  - "\u0109e la rando de"
+  spa:
+  - en la orilla de
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/byen">byen</a>, <a href="../lexi/de">de</a>
+raw data:
+  term: fe byen de
+  category: phrase
+  word class: jm p
+  status: false
+  trans:
+    eng: at the edge of
+    epo: "\u0109e la rando de"
+    spa: en la orilla de
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, byen, de
+...

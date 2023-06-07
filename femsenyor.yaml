@@ -1,0 +1,50 @@
+---
+term: femsenyor
+slug: femsenyor
+ipa: "femse\u02C8njo\u027E"
+ipa link: "http://ipa-reader.xyz/?text=femse\u02C8njo\u027E&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - lady
+    - ma'am
+    - Mrs.
+  epo:
+  - - sinjorino
+  spa:
+  - - "se\xF1ora"
+search terms:
+  glb:
+  - femsenyor
+  eng:
+  - lady
+  - ma'am
+  - mrs.
+  epo:
+  - sinjorino
+  spa:
+  - "se\xF1ora"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fem-">fem-</a> + <a href="../lexi/senyor">senyor</a>
+raw data:
+  term: femsenyor
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: lady, ma'am, Mrs.
+    epo: sinjorino
+    spa: "se\xF1ora"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fem- + senyor
+...

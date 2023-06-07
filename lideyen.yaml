@@ -1,0 +1,60 @@
+---
+term: lideyen
+slug: lideyen
+ipa: "lide\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=lide\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - leader
+    - director
+    - conductor
+  epo:
+  - - kondukanto
+    - direktanto
+    - direktisto
+    - direktoro
+    - gvidanto
+  spa:
+  - - "l\xEDder"
+    - director
+search terms:
+  glb:
+  - lideyen
+  eng:
+  - leader
+  - director
+  - conductor
+  epo:
+  - kondukanto
+  - direktanto
+  - direktisto
+  - direktoro
+  - gvidanto
+  spa:
+  - "l\xEDder"
+  - director
+etymology_type: DERIVD
+etymology: <a href="../lexi/lide">lide</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: lideyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: leader, director, conductor
+    epo: kondukanto, direktanto, direktisto, direktoro, gvidanto
+    spa: "l\xEDder, director"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lide + -yen
+...

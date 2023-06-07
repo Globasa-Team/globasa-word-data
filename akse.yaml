@@ -1,0 +1,71 @@
+---
+term: akse
+slug: akse
+ipa: ˈakse
+ipa link: http://ipa-reader.xyz/?text=ˈakse&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - axis
+  epo:
+  - - akso
+  spa:
+  - - eje
+search terms:
+  glb:
+  - akse
+  eng:
+  - axis
+  epo:
+  - akso
+  spa:
+  - eje
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - axis
+  Espanisa:
+  - - eje
+  Fransesa:
+  - - axe
+  Rusisa:
+  - - ось “os”
+  Doycisa:
+  - - Achse
+  Italisa:
+  - - asse
+  Pilipinasa:
+  - - axis
+    - ehe
+  Hindisa:
+  - - अक्ष “akx”
+  Telugusa:
+  - - అక్షము “akxamu”
+  Turkisa:
+  - - eksen
+  Parsisa:
+  - - آسه “ase”
+raw data:
+  term: akse
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: axis
+    epo: akso
+    spa: eje
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (axis), Espanisa (eje), Fransesa (axe), Rusisa (ось “os”), Doycisa
+    (Achse), Italisa (asse), Pilipinasa (axis, ehe), Hindisa (अक्ष “akx”), Telugusa
+    (అక్షము “akxamu”), Turkisa (eksen), Parsisa (آسه “ase”)
+...

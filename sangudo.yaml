@@ -1,0 +1,52 @@
+---
+term: sangudo
+slug: sangudo
+ipa: "san\u02C8gudo"
+ipa link: "http://ipa-reader.xyz/?text=san\u02C8gudo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - hidden
+  epo:
+  - - "ka\u015Dita"
+  - - "ka\u015Dite"
+  spa:
+  - - escondido
+  fra:
+  - - "cach\xE9"
+search terms:
+  glb:
+  - sangudo
+  eng:
+  - hidden
+  epo:
+  - "ka\u015Dita"
+  - "ka\u015Dite"
+  spa:
+  - escondido
+  fra:
+  - "cach\xE9"
+etymology_type: DERIVD
+etymology: <a href="../lexi/sangu">sangu</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: sangudo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: hidden
+    epo: "ka\u015Dita; ka\u015Dite"
+    spa: escondido
+    deu: ""
+    fra: "cach\xE9"
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sangu + -do
+...

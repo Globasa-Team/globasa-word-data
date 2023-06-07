@@ -1,0 +1,54 @@
+---
+term: kardugibe
+slug: kardugibe
+ipa: "ka\u027Edu\u02C8gibe"
+ipa link: "http://ipa-reader.xyz/?text=ka\u027Edu\u02C8gibe&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - loan
+  - - lend
+  epo:
+  - - alprunto
+  - - alprunti
+    - pruntetoni
+    - prunti
+  spa:
+  - - prestar
+search terms:
+  glb:
+  - kardugibe
+  eng:
+  - loan
+  - lend
+  epo:
+  - alprunto
+  - alprunti
+  - pruntetoni
+  - prunti
+  spa:
+  - prestar
+etymology_type: DERIVD
+etymology: <a href="../lexi/kardu">kardu</a> + <a href="../lexi/gibe">gibe</a>
+raw data:
+  term: kardugibe
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: loan; lend
+    epo: alprunto; alprunti, pruntetoni, prunti
+    spa: prestar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kardu + gibe
+...

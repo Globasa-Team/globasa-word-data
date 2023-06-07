@@ -1,0 +1,65 @@
+---
+term: pangu
+slug: pangu
+ipa: "\u02C8pangu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pangu&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - flat
+    - even
+  epo:
+  - - plata
+    - ebena
+  - - plate
+    - ebene
+  spa:
+  - - plano
+    - llano
+search terms:
+  glb:
+  - pangu
+  eng:
+  - flat
+  - even
+  epo:
+  - plata
+  - ebena
+  - plate
+  - ebene
+  spa:
+  - plano
+  - llano
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - "\u5E73 \u201Cp\xEDng\u201D"
+  Hangusa:
+  - - "\uD3C9\uD3C9\uD55C \u201Cpyeonghaenghan\u201D"
+    - "\uD310\uD310\uD558\uB2E4 \u201Cpanpanhada\u201D"
+  Vyetnamsa:
+  - - "b\u1EB1ng"
+    - "ph\u1EB3ng"
+raw data:
+  term: pangu
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: flat, even
+    epo: plata, ebena; plate, ebene
+    spa: plano, llano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Putunhwa (\u5E73 \u201Cp\xEDng\u201D), Hangusa (\uD3C9\uD3C9\uD55C \u201Cpyeonghaenghan\u201D,
+    \uD310\uD310\uD558\uB2E4 \u201Cpanpanhada\u201D), Vyetnamsa (b\u1EB1ng, ph\u1EB3ng)"
+...

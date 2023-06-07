@@ -1,0 +1,61 @@
+---
+term: maxusli
+slug: maxusli
+ipa: "ma\u02C8\u0283usli"
+ipa link: "http://ipa-reader.xyz/?text=ma\u02C8\u0283usli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - positive (_+1
+    - "+2"
+    - etc_)
+  epo:
+  - - pozitiva (_+1
+    - "+2"
+    - ktp_)
+  spa:
+  - - positivo (_+1
+    - "+2"
+    - etc._)
+search terms:
+  glb:
+  - maxusli
+  eng:
+  - positive +1
+  - positive (_+1
+  - "+2"
+  - etc
+  epo:
+  - pozitiva +1
+  - pozitiva (_+1
+  - "+2"
+  - ktp
+  spa:
+  - positivo +1
+  - positivo (_+1
+  - "+2"
+  - etc.
+etymology_type: DERIVD
+etymology: <a href="../lexi/maxus">maxus</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: maxusli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: positive (_+1, +2, etc_)
+    epo: pozitiva (_+1, +2, ktp_)
+    spa: positivo (_+1, +2, etc._)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: maxus + -li
+...

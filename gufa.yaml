@@ -1,0 +1,60 @@
+---
+term: gufa
+slug: gufa
+ipa: ˈgufa
+ipa link: http://ipa-reader.xyz/?text=ˈgufa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cave
+    - cavern
+  epo:
+  - - kavo
+    - kaverno
+  spa:
+  - - cueva
+    - caverna
+search terms:
+  glb:
+  - gufa
+  eng:
+  - cave
+  - cavern
+  epo:
+  - kavo
+  - kaverno
+  spa:
+  - cueva
+  - caverna
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - गुफा “gupha”
+  Telugusa:
+  - - గుహ “guha”
+  Indonesisa:
+  - - gua
+tags:
+- geografi
+raw data:
+  term: gufa
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cave, cavern
+    epo: kavo, kaverno
+    spa: cueva, caverna
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: geografi
+  etymology: Hindisa (गुफा “gupha”), Telugusa (గుహ “guha”), Indonesisa (gua)
+...

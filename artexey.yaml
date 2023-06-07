@@ -1,0 +1,50 @@
+---
+term: artexey
+slug: artexey
+ipa: "a\u027Ete\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=a\u027Ete\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - work of art
+  epo:
+  - - "arta\u0135o"
+    - artverko
+  spa:
+  - - obra de arte
+search terms:
+  glb:
+  - artexey
+  eng:
+  - work of art
+  epo:
+  - "arta\u0135o"
+  - artverko
+  spa:
+  - obra de arte
+etymology_type: DERIVD
+etymology: <a href="../lexi/arte">arte</a> + <a href="../lexi/-xey">-xey</a>
+tags:
+- arte
+raw data:
+  term: artexey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: work of art
+    epo: "arta\u0135o, artverko"
+    spa: obra de arte
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: work of art, art, work
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: arte
+  etymology: arte + -xey
+...

@@ -1,0 +1,48 @@
+---
+term: exkopi
+slug: exkopi
+ipa: "e\u0283\u02C8kopi"
+ipa link: "http://ipa-reader.xyz/?text=e\u0283\u02C8kopi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - download
+  epo:
+  - - "el\u015Duto"
+  - - "el\u015Duti"
+  spa:
+  - - descargar
+search terms:
+  glb:
+  - exkopi
+  eng:
+  - download
+  epo:
+  - "el\u015Duto"
+  - "el\u015Duti"
+  spa:
+  - descargar
+etymology_type: DERIVD
+etymology: <a href="../lexi/ex-">ex-</a> + <a href="../lexi/kopi">kopi</a>
+raw data:
+  term: exkopi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: download
+    epo: "el\u015Duto; el\u015Duti"
+    spa: descargar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ex- + kopi
+...

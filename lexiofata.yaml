@@ -1,0 +1,48 @@
+---
+term: lexiofata
+slug: lexiofata
+ipa: "le\u0283io\u02C8fata"
+ipa link: "http://ipa-reader.xyz/?text=le\u0283io\u02C8fata&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - etymology
+  epo:
+  - - vortdeveno
+    - etimologio
+  spa:
+  - - "etimolog\xEDa"
+search terms:
+  glb:
+  - lexiofata
+  eng:
+  - etymology
+  epo:
+  - vortdeveno
+  - etimologio
+  spa:
+  - "etimolog\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/lexi">lexi</a> + <a href="../lexi/ofata">ofata</a>
+raw data:
+  term: lexiofata
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: etymology
+    epo: vortdeveno, etimologio
+    spa: "etimolog\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lexi + ofata
+...

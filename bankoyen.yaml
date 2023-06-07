@@ -1,0 +1,46 @@
+---
+term: bankoyen
+slug: bankoyen
+ipa: "banko\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=banko\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - banker
+  epo:
+  - - bankisto
+  spa:
+  - - banquero
+search terms:
+  glb:
+  - bankoyen
+  eng:
+  - banker
+  epo:
+  - bankisto
+  spa:
+  - banquero
+etymology_type: DERIVD
+etymology: <a href="../lexi/banko">banko</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: bankoyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: banker
+    epo: bankisto
+    spa: banquero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: banko + -yen
+...

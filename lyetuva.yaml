@@ -1,0 +1,52 @@
+---
+term: lyetuva
+slug: lyetuva
+ipa: "lje\u02C8tuva"
+ipa link: "http://ipa-reader.xyz/?text=lje\u02C8tuva&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Lithuania
+  epo:
+  - - Litovio
+    - Litovujo
+  spa:
+  - - Lituania
+search terms:
+  glb:
+  - lyetuva
+  eng:
+  - lithuania
+  epo:
+  - litovio
+  - litovujo
+  spa:
+  - lituania
+etymology_type: NATLNG
+etymology:
+  Lyetuvasa:
+  - - Lietuva
+tags:
+- dexa
+raw data:
+  term: Lyetuva
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Lithuania
+    epo: Litovio, Litovujo
+    spa: Lituania
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: Lyetuvasa (Lietuva)
+...

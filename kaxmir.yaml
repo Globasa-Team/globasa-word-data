@@ -1,0 +1,49 @@
+---
+term: kaxmir
+slug: kaxmir
+ipa: "ka\u0283\u02C8mi\u027E"
+ipa link: "http://ipa-reader.xyz/?text=ka\u0283\u02C8mi\u027E&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Kashmir (_region in the Indian subcontinent_)
+  epo:
+  - - "Ka\u015Dmiro"
+  spa:
+  - - Cachemira
+search terms:
+  glb:
+  - kaxmir
+  eng:
+  - kashmir
+  epo:
+  - "ka\u015Dmiro"
+  spa:
+  - cachemira
+etymology_type: NATLNG
+etymology:
+  Kaxmirsa:
+  - - "\u06A9\u0654\u0634\u06CC\u0656\u0631/\u06A9\u064E\u0634\u06CC\u0656\u0631 \u201Ckaxir\u201D"
+raw data:
+  term: Kaxmir
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Kashmir (_region in the Indian subcontinent_)
+    epo: "Ka\u015Dmiro"
+    spa: Cachemira
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Kaxmirsa (\u06A9\u0654\u0634\u06CC\u0656\u0631/\u06A9\u064E\u0634\u06CC\u0656\u0631
+    \u201Ckaxir\u201D)"
+...

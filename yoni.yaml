@@ -1,0 +1,78 @@
+---
+term: yoni
+slug: yoni
+ipa: "\u02C8joni"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8joni&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - ion
+  - - ionize
+  epo:
+  - - jono
+  - - "joni\u011Di"
+    - jonigi
+  spa:
+  - - ion
+  - - ionizar
+    - ionizarse
+search terms:
+  glb:
+  - yoni
+  eng:
+  - ion
+  - ionize
+  epo:
+  - jono
+  - "joni\u011Di"
+  - jonigi
+  spa:
+  - ion
+  - ionizar
+  - ionizarse
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - ion
+    - ionic
+  Espanisa:
+  - - "i\xF3n"
+    - "i\xF3nico"
+  Fransesa:
+  - - ion
+    - ionique
+  Rusisa:
+  - - "\u0438\u043E\u043D \u201Cion\u201D"
+  Doycisa:
+  - - Ion
+  Indonesisa: ~
+  Pilipinasa: ~
+  Hindisa:
+  - - "\u0906\u092F\u0928 \u201Cayan\u201D"
+  Arabisa:
+  - - "\u0623\u064E\u064A\u064F\u0648\u0646 \u201Cayun\u201D"
+raw data:
+  term: yoni
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: ion; ionize
+    epo: "jono; joni\u011Di, jonigi"
+    spa: ion; ionizar, ionizarse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (ion, ionic), Espanisa (i\xF3n, i\xF3nico), Fransesa (ion, ionique),
+    Rusisa (\u0438\u043E\u043D \u201Cion\u201D), Doycisa (Ion), Indonesisa, Pilipinasa,
+    Hindisa (\u0906\u092F\u0928 \u201Cayan\u201D), Arabisa (\u0623\u064E\u064A\u064F\u0648\u0646
+    \u201Cayun\u201D)"
+...

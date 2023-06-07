@@ -1,0 +1,67 @@
+---
+term: gwanxi
+slug: gwanxi
+ipa: ˈgwanʃi
+ipa link: http://ipa-reader.xyz/?text=ˈgwanʃi&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - relationship
+  - - relate (to)
+    - concern
+    - involve
+    - have to do with
+  epo:
+  - - rilato
+  - - rilati
+  spa:
+  - - relación
+  - - relacionarse
+    - involucrar
+    - tener que ver con
+search terms:
+  glb:
+  - gwanxi
+  eng:
+  - relationship
+  - relate to
+  - relate
+  - concern
+  - involve
+  - have to do with
+  epo:
+  - rilato
+  - rilati
+  spa:
+  - relación
+  - relacionarse
+  - involucrar
+  - tener que ver con
+etymology_type: NATLNG
+etymology:
+  Putunhwa:
+  - - 关系 “guānxì”
+  Hangusa:
+  - - 관계 “gwangye”
+raw data:
+  term: gwanxi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: relationship; relate (to), concern, involve, have to do with
+    epo: rilato; rilati
+    spa: relación; relacionarse, involucrar, tener que ver con
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Putunhwa (关系 “guānxì”), Hangusa (관계 “gwangye”)
+...

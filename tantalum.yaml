@@ -1,0 +1,92 @@
+---
+term: tantalum
+slug: tantalum
+ipa: "tanta\u02C8lum"
+ipa link: "http://ipa-reader.xyz/?text=tanta\u02C8lum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - tantalum
+  epo:
+  - - tantalo
+  spa:
+  - - "t\xE1ntalo"
+    - Ta
+search terms:
+  glb:
+  - tantalum
+  eng:
+  - tantalum
+  epo:
+  - tantalo
+  spa:
+  - "t\xE1ntalo"
+  - ta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tantalum
+  Putunhwa:
+  - - "\u926D \u201Cdan\u201D"
+  Espanisa:
+  - - "t\xE1ntalo"
+  Arabisa:
+  - - "\u062A\u064E\u0646\u0652\u062A\u064E\u0627\u0644\u064F\u0645 \u201Ctantalum\u201D"
+  Fransesa:
+  - - tantale
+  Rusisa:
+  - - "\u0442\u0430\u043D\u0442\u0430\u043B \u201Ctantal\u201D"
+  Indonesisa:
+  - - tantalum
+  Doycisa:
+  - - Tantal
+  Niponsa:
+  - - "\u30BF\u30F3\u30BF\u30EB \u201Ctantaru\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C47\u0C02\u0C1F\u0C32\u0C02 \u201Ctentalam\u201D"
+  Turkisa:
+  - - tantal
+  Hangusa:
+  - - "\uD0C4\uD0C8 \u201Ctantal\u201D"
+    - "\uD0C4\uD0C8\uB8F8 \u201Ctantalum\u201D"
+    - "\uD0C4\uD0C8\uB7FC \u201Ctantalam\u201D"
+  Vyetnamsa:
+  - - tantan
+  Parsisa:
+  - - "\u062A\u0627\u0646\u062A\u0627\u0644 \u201Ctantal\u201D"
+  Swahilisa:
+  - - tantali
+  Pilipinasa:
+  - - tantalo
+    - tantalyo
+tags:
+- kimikali monlari
+raw data:
+  term: tantalum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: tantalum
+    epo: tantalo
+    spa: "t\xE1ntalo, Ta"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (tantalum), Putunhwa (\u926D \u201Cdan\u201D), Espanisa (t\xE1ntalo),
+    Arabisa (\u062A\u064E\u0646\u0652\u062A\u064E\u0627\u0644\u064F\u0645 \u201Ctantalum\u201D),
+    Fransesa (tantale), Rusisa (\u0442\u0430\u043D\u0442\u0430\u043B \u201Ctantal\u201D),
+    Indonesisa (tantalum), Doycisa (Tantal), Niponsa (\u30BF\u30F3\u30BF\u30EB \u201Ctantaru\u201D),
+    Telugusa (\u0C1F\u0C47\u0C02\u0C1F\u0C32\u0C02 \u201Ctentalam\u201D), Turkisa
+    (tantal), Hangusa (\uD0C4\uD0C8 \u201Ctantal\u201D, \uD0C4\uD0C8\uB8F8 \u201Ctantalum\u201D,
+    \uD0C4\uD0C8\uB7FC \u201Ctantalam\u201D), Vyetnamsa (tantan), Parsisa (\u062A\u0627\u0646\u062A\u0627\u0644
+    \u201Ctantal\u201D), Swahilisa (tantali), Pilipinasa (tantalo, tantalyo)"
+...

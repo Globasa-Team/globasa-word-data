@@ -1,0 +1,78 @@
+---
+term: rota
+slug: rota
+ipa: "\u02C8\u027Eota"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u027Eota&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.b
+trans:
+  eng:
+  - - rotation
+  - - rotate
+    - turn (around)
+  epo:
+  - - rotacio
+    - turno
+  - - rotacii
+    - "turni\u011Di"
+    - turni
+  spa:
+  - - "rotaci\xF3n"
+  - - girar
+    - rotar
+search terms:
+  glb:
+  - rota
+  eng:
+  - rotation
+  - rotate
+  - turn around
+  - turn
+  epo:
+  - rotacio
+  - turno
+  - rotacii
+  - "turni\u011Di"
+  - turni
+  spa:
+  - "rotaci\xF3n"
+  - girar
+  - rotar
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Rotation
+  Englisa:
+  - - rotate
+  Espanisa:
+  - - rotar
+  Fransesa:
+  - - rotation
+  Polskasa:
+  - - rotacja
+  Indonesisa:
+  - - rotasi
+  Turkisa:
+  - - rotasyon
+raw data:
+  term: rota
+  category: root
+  word class: n/f.oro.b
+  status: true
+  trans:
+    eng: rotation; rotate, turn (around)
+    epo: "rotacio, turno; rotacii, turni\u011Di, turni"
+    spa: "rotaci\xF3n; girar, rotar"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Doycisa (Rotation), Englisa (rotate), Espanisa (rotar), Fransesa (rotation),
+    Polskasa (rotacja), Indonesisa (rotasi), Turkisa (rotasyon)
+...

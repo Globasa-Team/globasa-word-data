@@ -1,0 +1,48 @@
+---
+term: legali
+slug: legali
+ipa: "le\u02C8gali"
+ipa link: "http://ipa-reader.xyz/?text=le\u02C8gali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - legal (_of or relating to the law_)
+  epo:
+  - - "le\u011Da (_pri a\u016D koncernanta le\u011Don_)"
+  - - "le\u011De"
+  spa:
+  - - legal (_relativo a la ley_)
+search terms:
+  glb:
+  - legali
+  eng:
+  - legal
+  epo:
+  - "le\u011Da"
+  - "le\u011De"
+  spa:
+  - legal
+etymology_type: DERIVD
+etymology: <a href="../lexi/lega">lega</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: legali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: legal (_of or relating to the law_)
+    epo: "le\u011Da (_pri a\u016D koncernanta le\u011Don_); le\u011De"
+    spa: legal (_relativo a la ley_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lega + -li
+...

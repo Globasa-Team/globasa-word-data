@@ -1,0 +1,69 @@
+---
+term: resulta
+slug: resulta
+ipa: "\u027Ee\u02C8sulta"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ee\u02C8sulta&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - result
+    - outcome
+  - - result (in)
+  epo:
+  - - rezulto
+  - - rezulti
+  spa:
+  - - resultado
+  - - resultar (en)
+search terms:
+  glb:
+  - resulta
+  eng:
+  - result
+  - outcome
+  - result in
+  epo:
+  - rezulto
+  - rezulti
+  spa:
+  - resultado
+  - resultar en
+  - resultar
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - result
+  Fransesa:
+  - - "r\xE9sultat"
+  Doycisa:
+  - - Resultat
+  Rusisa:
+  - - "\u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442 \u201Crezultat\u201D"
+  Espanisa:
+  - - resultado
+  Pilipinasa:
+  - - resulta
+raw data:
+  term: resulta
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: result, outcome; result (in)
+    epo: rezulto; rezulti
+    spa: resultado; resultar (en)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (result), Fransesa (r\xE9sultat), Doycisa (Resultat), Rusisa
+    (\u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442 \u201Crezultat\u201D),
+    Espanisa (resultado), Pilipinasa (resulta)"
+...

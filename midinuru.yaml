@@ -1,0 +1,48 @@
+---
+term: midinuru
+slug: midinuru
+ipa: "midi\u02C8nu\u027Eu"
+ipa link: "http://ipa-reader.xyz/?text=midi\u02C8nu\u027Eu&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - noon
+  epo:
+  - - tagmezo
+  spa:
+  - - "mediod\xEDa"
+search terms:
+  glb:
+  - midinuru
+  eng:
+  - noon
+  epo:
+  - tagmezo
+  spa:
+  - "mediod\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/midi">midi</a> + <a href="../lexi/nuru">nuru</a>
+tags:
+- din
+raw data:
+  term: midinuru
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: noon
+    epo: tagmezo
+    spa: "mediod\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: din
+  etymology: midi + nuru
+...

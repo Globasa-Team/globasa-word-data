@@ -1,0 +1,56 @@
+---
+term: kaka
+slug: kaka
+ipa: "\u02C8kaka"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8kaka&voice=Ewa"
+status: false
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - poop
+    - crap (_non-vulgar_)
+  epo:
+  - - merdo
+  - - merdi
+  spa:
+  - - caca
+    - "pop\xF3"
+  - - cagar
+    - "hacer pop\xF3 (_no obsceno_)"
+search terms:
+  glb:
+  - kaka
+  eng:
+  - poop
+  - crap
+  epo:
+  - merdo
+  - merdi
+  spa:
+  - caca
+  - "pop\xF3"
+  - cagar
+  - "hacer pop\xF3"
+etymology_type: DERIVD
+etymology: BLAH
+raw data:
+  term: kaka
+  category: root
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: poop, crap (_non-vulgar_)
+    epo: merdo; merdi
+    spa: "caca, pop\xF3; cagar, hacer pop\xF3 (_no obsceno_) "
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _feka_.
+...

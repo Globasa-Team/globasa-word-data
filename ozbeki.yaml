@@ -1,0 +1,54 @@
+---
+term: ozbeki
+slug: ozbeki
+ipa: "oz\u02C8beki"
+ipa link: "http://ipa-reader.xyz/?text=oz\u02C8beki&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Uzbekistan
+  epo:
+  - - Uzbekio
+    - Uzbekujo
+    - Uzbekistano
+  spa:
+  - - "Uzbekist\xE1n"
+search terms:
+  glb:
+  - ozbeki
+  eng:
+  - uzbekistan
+  epo:
+  - uzbekio
+  - uzbekujo
+  - uzbekistano
+  spa:
+  - "uzbekist\xE1n"
+etymology_type: NATLNG
+etymology:
+  Ozbekisa:
+  - - "O\u02BBzbekiston"
+tags:
+- dexa
+raw data:
+  term: Ozbeki
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Uzbekistan
+    epo: Uzbekio, Uzbekujo, Uzbekistano
+    spa: "Uzbekist\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Ozbekisa (O\u02BBzbekiston)"
+...

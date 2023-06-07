@@ -1,0 +1,89 @@
+---
+term: cemento
+slug: cemento
+ipa: t͡ʃeˈmento
+ipa link: http://ipa-reader.xyz/?text=t͡ʃeˈmento&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cement
+  epo:
+  - - cemento
+  spa:
+  - - cemento
+search terms:
+  glb:
+  - cemento
+  eng:
+  - cement
+  epo:
+  - cemento
+  spa:
+  - cemento
+etymology_type: NATLNG
+etymology:
+  Italisa:
+  - - cemento
+  Espanisa: ~
+  Englisa:
+  - - cement
+  Fransesa:
+  - - ciment
+  Rusisa:
+  - - цемент “tsement”
+  Doycisa:
+  - - Zement
+  Indonesisa:
+  - - semen
+  Pilipinasa:
+  - - simento
+    - semento
+  Putunhwa:
+  - - 士敏土 “ximintu”
+  Hindisa:
+  - - सीमेंट “siment”
+  Arabisa:
+  - - أَسْمَنْت “asmant”
+  Niponsa:
+  - - セメント “semento”
+  Telugusa:
+  - - సిమెంట్ “siment”
+    - సిమెంటు “simentu”
+  Turkisa:
+  - - çimento
+  Hangusa:
+  - - 시멘트 “ximentu”
+  Vyetnamsa:
+  - - xi măng
+  Parsisa:
+  - - سیمان “simân”
+  Swahilisa:
+  - - simiti
+    - sementi
+raw data:
+  term: cemento
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cement
+    epo: cemento
+    spa: cemento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Italisa (cemento), Espanisa, Englisa (cement), Fransesa (ciment), Rusisa
+    (цемент “tsement”), Doycisa (Zement), Indonesisa (semen), Pilipinasa (simento,
+    semento), Putunhwa (士敏土 “ximintu”), Hindisa (सीमेंट “siment”), Arabisa (أَسْمَنْت
+    “asmant”), Niponsa (セメント “semento”), Telugusa (సిమెంట్ “siment”, సిమెంటు “simentu”),
+    Turkisa (çimento), Hangusa (시멘트 “ximentu”), Vyetnamsa (xi măng), Parsisa (سیمان
+    “simân”), Swahilisa (simiti, sementi)
+...

@@ -1,0 +1,49 @@
+---
+term: peryaje
+slug: peryaje
+ipa: "pe\u02C8\u027Ejad\u0361\u0292e"
+ipa link: "http://ipa-reader.xyz/?text=pe\u02C8\u027Ejad\u0361\u0292e&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (surface) area
+  epo:
+  - - (surfaca) areo
+  spa:
+  - - "\xE1rea (superficial)"
+search terms:
+  glb:
+  - peryaje
+  eng:
+  - surface area
+  - area
+  epo:
+  - surfaca areo
+  - areo
+  spa:
+  - "\xE1rea superficial"
+  - "\xE1rea"
+etymology_type: DERIVD
+etymology: <a href="../lexi/perya">perya</a> + <a href="../lexi/-gi">-gi</a>
+raw data:
+  term: peryaje
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (surface) area
+    epo: (surfaca) areo
+    spa: "\xE1rea (superficial)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: perya + -gi
+...

@@ -1,0 +1,48 @@
+---
+term: kapitalismo
+slug: kapitalismo
+ipa: "kapita\u02C8lismo"
+ipa link: "http://ipa-reader.xyz/?text=kapita\u02C8lismo&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - capitalism
+  epo:
+  - - kapitalismo
+  spa:
+  - - capitalismo
+search terms:
+  glb:
+  - kapitalismo
+  eng:
+  - capitalism
+  epo:
+  - kapitalismo
+  spa:
+  - capitalismo
+etymology_type: DERIVD
+etymology: <a href="../lexi/kapital">kapital</a> + <a href="../lexi/-ismo">-ismo</a>
+tags:
+- politi
+raw data:
+  term: kapitalismo
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: capitalism
+    epo: kapitalismo
+    spa: capitalismo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: kapital + -ismo
+...

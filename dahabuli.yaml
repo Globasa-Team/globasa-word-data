@@ -1,0 +1,51 @@
+---
+term: dahabuli
+slug: dahabuli
+ipa: "daxa\u02C8buli"
+ipa link: "http://ipa-reader.xyz/?text=daxa\u02C8buli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - golden
+    - (of) gold
+  epo:
+  - - ora
+  - - ore
+  spa:
+  - - de oro
+search terms:
+  glb:
+  - dahabuli
+  eng:
+  - golden
+  - of gold
+  - gold
+  epo:
+  - ora
+  - ore
+  spa:
+  - de oro
+etymology_type: DERIVD
+etymology: <a href="../lexi/dahabu">dahabu</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: dahabuli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: golden, (of) gold
+    epo: ora; ore
+    spa: de oro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dahabu + -li
+...

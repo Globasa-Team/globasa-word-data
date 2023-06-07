@@ -1,0 +1,46 @@
+---
+term: nilete
+slug: nilete
+ipa: "ni\u02C8lete"
+ipa link: "http://ipa-reader.xyz/?text=ni\u02C8lete&voice=Ewa"
+status: false
+category: derived
+word class: pn
+trans:
+  eng:
+  - - none of them
+  epo:
+  - - neniuj
+  spa:
+  - - ninguno de ellos
+search terms:
+  glb:
+  - nilete
+  eng:
+  - none of them
+  epo:
+  - neniuj
+  spa:
+  - ninguno de ellos
+etymology_type: DERIVD
+etymology: <a href="../lexi/nil">nil</a> + <a href="../lexi/ete">ete</a>
+raw data:
+  term: nilete
+  category: derived
+  word class: pn
+  status: false
+  trans:
+    eng: none of them
+    epo: neniuj
+    spa: ninguno de ellos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nil + ete
+...

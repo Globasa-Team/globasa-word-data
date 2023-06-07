@@ -1,0 +1,48 @@
+---
+term: gaobahari
+slug: gaobahari
+ipa: "gaoba\u02C8xa\u027Ei"
+ipa link: "http://ipa-reader.xyz/?text=gaoba\u02C8xa\u027Ei&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - high tide
+  epo:
+  - - alta tajdo
+  spa:
+  - - marea alta
+search terms:
+  glb:
+  - gaobahari
+  eng:
+  - high tide
+  epo:
+  - alta tajdo
+  spa:
+  - marea alta
+etymology_type: DERIVD
+etymology: <a href="../lexi/gao">gao</a> + <a href="../lexi/bahari">bahari</a>
+antonyms:
+- cotebahari
+raw data:
+  term: gaobahari
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: high tide
+    epo: alta tajdo
+    spa: marea alta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: cotebahari
+  example: ""
+  tags: ""
+  etymology: gao + bahari
+...

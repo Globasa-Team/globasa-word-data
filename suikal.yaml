@@ -1,0 +1,48 @@
+---
+term: suikal
+slug: suikal
+ipa: "sui\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=sui\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - thirsty
+  epo:
+  - - soifa
+  - - soife
+  spa:
+  - - sediento
+search terms:
+  glb:
+  - suikal
+  eng:
+  - thirsty
+  epo:
+  - soifa
+  - soife
+  spa:
+  - sediento
+etymology_type: DERIVD
+etymology: <a href="../lexi/sui">sui</a> + <a href="../lexi/-kal">-kal</a>
+raw data:
+  term: suikal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: thirsty
+    epo: soifa; soife
+    spa: sediento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: sui + -kal
+...

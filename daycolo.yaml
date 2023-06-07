@@ -1,0 +1,50 @@
+---
+term: daycolo
+slug: daycolo
+ipa: "daj\u02C8t\u0361\u0283olo"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8t\u0361\u0283olo&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - hideous
+    - hideously
+  epo:
+  - - malbelega
+  - - malbelege
+  spa:
+  - - espantoso
+search terms:
+  glb:
+  - daycolo
+  eng:
+  - hideous
+  - hideously
+  epo:
+  - malbelega
+  - malbelege
+  spa:
+  - espantoso
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/colo">colo</a>
+raw data:
+  term: daycolo
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: hideous, hideously
+    epo: malbelega; malbelege
+    spa: espantoso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + colo
+...

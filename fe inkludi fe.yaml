@@ -1,0 +1,49 @@
+---
+term: fe inkludi fe
+slug: fe inkludi fe
+ipa: "fe in\u02C8kludi fe"
+ipa link: "http://ipa-reader.xyz/?text=fe in\u02C8kludi fe&voice=Ewa"
+status: false
+category: phrase
+word class: jm p
+trans:
+  eng:
+  - - including
+  epo:
+  - - inkluzive de
+  spa:
+  - - incluyendo
+search terms:
+  glb:
+  - fe inkludi fe
+  - fe
+  - inkludi
+  eng:
+  - including
+  epo:
+  - inkluzive de
+  spa:
+  - incluyendo
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/inkludi">inkludi</a>, <a
+  href="../lexi/fe">fe</a>
+raw data:
+  term: fe inkludi fe
+  category: phrase
+  word class: jm p
+  status: false
+  trans:
+    eng: including
+    epo: inkluzive de
+    spa: incluyendo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, inkludi, fe
+...

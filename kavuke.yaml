@@ -1,0 +1,49 @@
+---
+term: kavuke
+slug: kavuke
+ipa: "ka\u02C8vuke"
+ipa link: "http://ipa-reader.xyz/?text=ka\u02C8vuke&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - hollow
+  epo:
+  - - kava
+  - - kave
+  spa:
+  - - hueco
+search terms:
+  glb:
+  - kavuke
+  eng:
+  - hollow
+  epo:
+  - kava
+  - kave
+  spa:
+  - hueco
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kavuke
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: hollow
+    epo: kava; kave
+    spa: hueco
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Turkisa (kovuk), Parsisa (\u06A9\u0627\u0648\u0627\u06A9 \u201Ckavak\u201D),
+    Italisa (cavo)"
+...

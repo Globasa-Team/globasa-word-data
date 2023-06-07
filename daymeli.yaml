@@ -1,0 +1,48 @@
+---
+term: daymeli
+slug: daymeli
+ipa: "daj\u02C8meli"
+ipa link: "http://ipa-reader.xyz/?text=daj\u02C8meli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - gorgeous
+  epo:
+  - - belega
+  - - belege
+  spa:
+  - - precioso
+search terms:
+  glb:
+  - daymeli
+  eng:
+  - gorgeous
+  epo:
+  - belega
+  - belege
+  spa:
+  - precioso
+etymology_type: DERIVD
+etymology: <a href="../lexi/day-">day-</a> + <a href="../lexi/meli">meli</a>
+raw data:
+  term: daymeli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: gorgeous
+    epo: belega; belege
+    spa: precioso
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: day- + meli
+...

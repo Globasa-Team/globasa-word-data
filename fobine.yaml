@@ -1,0 +1,58 @@
+---
+term: fobine
+slug: fobine
+ipa: "fo\u02C8bine"
+ipa link: "http://ipa-reader.xyz/?text=fo\u02C8bine&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - scary
+    - frightening
+    - feared
+  epo:
+  - - timiganta
+    - timiga
+  - - timige
+  spa:
+  - - escalofriante
+    - espeluznante
+    - temido
+search terms:
+  glb:
+  - fobine
+  eng:
+  - scary
+  - frightening
+  - feared
+  epo:
+  - timiganta
+  - timiga
+  - timige
+  spa:
+  - escalofriante
+  - espeluznante
+  - temido
+etymology_type: DERIVD
+etymology: <a href="../lexi/fobi">fobi</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: fobine
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: scary, frightening, feared
+    epo: timiganta, timiga; timige
+    spa: escalofriante, espeluznante, temido
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fobi + -ne
+...

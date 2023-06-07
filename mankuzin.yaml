@@ -1,0 +1,47 @@
+---
+term: mankuzin
+slug: mankuzin
+ipa: "manku\u02C8zin"
+ipa link: "http://ipa-reader.xyz/?text=manku\u02C8zin&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (male) cousin
+  epo:
+  - - kuzo
+  spa:
+  - - primo
+search terms:
+  glb:
+  - mankuzin
+  eng:
+  - male cousin
+  - cousin
+  epo:
+  - kuzo
+  spa:
+  - primo
+etymology_type: DERIVD
+etymology: <a href="../lexi/man-">man-</a> + <a href="../lexi/kuzin">kuzin</a>
+raw data:
+  term: mankuzin
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (male) cousin
+    epo: kuzo
+    spa: primo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: man- + kuzin
+...

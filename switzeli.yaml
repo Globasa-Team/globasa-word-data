@@ -1,0 +1,46 @@
+---
+term: switzeli
+slug: switzeli
+ipa: "swit\u02C8zeli"
+ipa link: "http://ipa-reader.xyz/?text=swit\u02C8zeli&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Swiss
+  epo:
+  - - svisa
+  spa:
+  - - suizo
+search terms:
+  glb:
+  - switzeli
+  eng:
+  - swiss
+  epo:
+  - svisa
+  spa:
+  - suizo
+etymology_type: DERIVD
+etymology: <a href="../lexi/Switze">Switze</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Switzeli
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Swiss
+    epo: svisa
+    spa: suizo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Switze + -li
+...

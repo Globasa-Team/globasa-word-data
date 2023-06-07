@@ -1,0 +1,49 @@
+---
+term: taraftim
+slug: taraftim
+ipa: "ta\u027Eaf\u02C8tim"
+ipa link: "http://ipa-reader.xyz/?text=ta\u027Eaf\u02C8tim&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (political) party
+  epo:
+  - - partio
+  spa:
+  - - "partido pol\xEDtico"
+search terms:
+  glb:
+  - taraftim
+  eng:
+  - political party
+  - party
+  epo:
+  - partio
+  spa:
+  - "partido pol\xEDtico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/taraf">taraf</a> + <a href="../lexi/-tim">-tim</a>
+tags:
+- politi
+raw data:
+  term: taraftim
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (political) party
+    epo: partio
+    spa: "partido pol\xEDtico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: politi
+  etymology: taraf + -tim
+...

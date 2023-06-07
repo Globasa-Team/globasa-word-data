@@ -1,0 +1,56 @@
+---
+term: (fe) ner or teli xaya
+slug: (fe) ner or teli xaya
+ipa: "\u02C8(fe) \u02C8ne\u027E o\u027E \u02C8teli \u02C8\u0283aja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8(fe) \u02C8ne\u027E o\u027E \u02C8teli
+  \u02C8\u0283aja&voice=Ewa"
+status: false
+category: phrase
+word class: jm.p
+trans:
+  eng:
+  - - sooner or later
+    - eventually
+  epo:
+  - - "pli a\u016D malpli balda\u016D"
+  spa:
+  - - tarde o temprano
+search terms:
+  glb:
+  - (fe) ner or teli xaya
+  - fe ner or teli xaya
+  - ner or teli xaya
+  - ner
+  - or
+  - teli
+  - xaya
+  eng:
+  - sooner or later
+  - eventually
+  epo:
+  - "pli a\u016D malpli balda\u016D"
+  spa:
+  - tarde o temprano
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/ner">ner</a>, <a href="../lexi/or">or</a>,
+  <a href="../lexi/teli">teli</a>, <a href="../lexi/xa">xa</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: (fe) ner or teli xaya
+  category: phrase
+  word class: jm.p
+  status: false
+  trans:
+    eng: sooner or later, eventually
+    epo: "pli a\u016D malpli balda\u016D"
+    spa: tarde o temprano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, ner, or, teli, xa + -ya
+...

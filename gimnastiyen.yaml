@@ -1,0 +1,50 @@
+---
+term: gimnastiyen
+slug: gimnastiyen
+ipa: "gimnasti\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=gimnasti\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - gymnast
+  epo:
+  - - gimnastikisto
+    - gimnastikulo
+    - gimnasto
+  spa:
+  - - gimnasta
+search terms:
+  glb:
+  - gimnastiyen
+  eng:
+  - gymnast
+  epo:
+  - gimnastikisto
+  - gimnastikulo
+  - gimnasto
+  spa:
+  - gimnasta
+etymology_type: DERIVD
+etymology: <a href="../lexi/gimnasti">gimnasti</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: gimnastiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'gymnast '
+    epo: gimnastikisto, gimnastikulo, gimnasto
+    spa: gimnasta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gimnasti + -yen
+...

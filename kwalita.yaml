@@ -1,0 +1,56 @@
+---
+term: kwalita
+slug: kwalita
+ipa: "kwa\u02C8lita"
+ipa link: "http://ipa-reader.xyz/?text=kwa\u02C8lita&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - quality
+    - calibre [_**compare with**:_ [sifa](/eng/lexi/sifa)]
+  epo:
+  - - kvalito (bona
+    - malbona) (vidu [sifa] por eco)
+  spa:
+  - - calidad
+    - calibre
+search terms:
+  glb:
+  - kwalita
+  eng:
+  - quality
+  - calibre
+  epo:
+  - kvalito bona
+  - kvalito (bona
+  - malbona vidu [sifa] por eco
+  - malbona)
+  spa:
+  - calidad
+  - calibre
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: kwalita
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: quality, calibre [_**compare with**:_ [sifa](/eng/lexi/sifa)]
+    epo: kvalito (bona, malbona) (vidu [sifa] por eco)
+    spa: calidad, calibre
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (quality, qualitative), Doycisa (Qualit\xE4t), Fransesa (qualit\xE9),
+    Espanisa (calidad), Rusisa, Indonesisa (kualitas), Turkisa (kalite), Parsisa (\u06A9\u0648\u0627\u0644\u06CC\u062A\u0647
+    \u201Cku\xE2lite\u201D)"
+...

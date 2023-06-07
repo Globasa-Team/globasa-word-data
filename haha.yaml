@@ -1,0 +1,76 @@
+---
+term: haha
+slug: haha
+ipa: ˈxaxa
+ipa link: http://ipa-reader.xyz/?text=ˈxaxa&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - laugh
+    - laughter
+  - - laugh
+  epo:
+  - - rido
+    - ridado
+  - - ridi(gi)
+  spa:
+  - - risa
+  - - reír
+    - reírse
+search terms:
+  glb:
+  - haha
+  eng:
+  - laugh
+  - laughter
+  epo:
+  - rido
+  - ridado
+  - ridigi
+  - ridi
+  spa:
+  - risa
+  - reír
+  - reírse
+etymology_type: NATLNG
+etymology:
+  kwasilexi - Arabisa: ~
+  Banglasa: ~
+  Englisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa: ~
+  Niponsa: ~
+  Hangusa: ~
+  Putunhwa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Pilipinasa: ~
+  Telugusa: ~
+  Turkisa: ~
+  Vyetnamsa: ~
+  ji maxya: ~
+raw data:
+  term: haha
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: laugh, laughter; laugh
+    epo: rido, ridado; ridi(gi)
+    spa: risa; reír, reírse
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: kwasilexi - Arabisa ( ), Banglasa, Englisa, Fransesa, Doycisa, Indonesisa,
+    Niponsa, Hangusa, Putunhwa, Rusisa, Espanisa, Pilipinasa, Telugusa, Turkisa, Vyetnamsa,
+    ji maxya
+...

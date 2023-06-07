@@ -1,0 +1,54 @@
+---
+term: orisasa
+slug: orisasa
+ipa: "o\u027Ei\u02C8sasa"
+ipa link: "http://ipa-reader.xyz/?text=o\u027Ei\u02C8sasa&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - Odia
+    - Oriya
+  epo:
+  - - la odia (lingvo)
+    - la orisa (lingvo)
+  spa:
+  - - oriya (_idioma_)
+search terms:
+  glb:
+  - orisasa
+  eng:
+  - odia
+  - oriya
+  epo:
+  - la odia lingvo
+  - la odia
+  - la orisa lingvo
+  - la orisa
+  spa:
+  - oriya
+etymology_type: DERIVD
+etymology: <a href="../lexi/Orisa">Orisa</a> + <a href="../lexi/-sa">-sa</a>
+tags:
+- basa
+raw data:
+  term: Orisasa
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: Odia, Oriya
+    epo: la odia (lingvo), la orisa (lingvo)
+    spa: oriya (_idioma_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: basa
+  etymology: Orisa + -sa
+...

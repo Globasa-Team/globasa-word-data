@@ -1,0 +1,75 @@
+---
+term: biskopo
+slug: biskopo
+ipa: bisˈkopo
+ipa link: http://ipa-reader.xyz/?text=bisˈkopo&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bishop
+  epo:
+  - - episkopo
+  spa:
+  - - obispo
+search terms:
+  glb:
+  - biskopo
+  eng:
+  - bishop
+  epo:
+  - episkopo
+  spa:
+  - obispo
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Bischof
+  Englisa:
+  - - bishop
+  Espanisa:
+  - - obispo
+  Rusisa:
+  - - епископ “yepiskop”
+  Hindisa:
+  - - बिशप “bixap”
+  Telugusa:
+  - - బిషప్ “bixap”
+  Arabisa:
+  - - أسقف “'usquf”
+  Parsisa:
+  - - اسقف “osqof”
+  Swahilisa:
+  - - askofu
+  Turkisa:
+  - - piskopos
+  Indonesisa:
+  - - uskup
+  Pilipinasa:
+  - - obispo
+tags:
+- dini
+raw data:
+  term: biskopo
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bishop
+    epo: episkopo
+    spa: obispo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dini
+  etymology: Doycisa (Bischof), Englisa (bishop), Espanisa (obispo), Rusisa (епископ
+    “yepiskop”), Hindisa (बिशप “bixap”), Telugusa (బిషప్ “bixap”), Arabisa (أسقف “'usquf”),
+    Parsisa (اسقف “osqof”), Swahilisa (askofu), Turkisa (piskopos), Indonesisa (uskup),
+    Pilipinasa (obispo)
+...

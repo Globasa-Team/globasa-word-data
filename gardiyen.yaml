@@ -1,0 +1,52 @@
+---
+term: gardiyen
+slug: gardiyen
+ipa: "ga\u027Edi\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=ga\u027Edi\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - protector
+    - guard
+  epo:
+  - - gardisto
+    - gardanto
+  spa:
+  - - protector
+    - "guardi\xE1n"
+search terms:
+  glb:
+  - gardiyen
+  eng:
+  - protector
+  - guard
+  epo:
+  - gardisto
+  - gardanto
+  spa:
+  - protector
+  - "guardi\xE1n"
+etymology_type: DERIVD
+etymology: <a href="../lexi/gardi">gardi</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: gardiyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: protector, guard
+    epo: gardisto, gardanto
+    spa: "protector, guardi\xE1n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: gardi + -yen
+...

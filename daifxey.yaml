@@ -1,0 +1,51 @@
+---
+term: daifxey
+slug: daifxey
+ipa: "daif\u02C8\u0283ej"
+ipa link: "http://ipa-reader.xyz/?text=daif\u02C8\u0283ej&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (a) weakness
+  epo:
+  - - febleco
+    - malforteco
+  spa:
+  - - debilidad
+search terms:
+  glb:
+  - daifxey
+  eng:
+  - a weakness
+  - weakness
+  epo:
+  - febleco
+  - malforteco
+  spa:
+  - debilidad
+etymology_type: DERIVD
+etymology: <a href="../lexi/daif">daif</a> + <a href="../lexi/-xey">-xey</a>
+antonyms:
+- balaxey
+raw data:
+  term: daifxey
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (a) weakness
+    epo: febleco, malforteco
+    spa: debilidad
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: balaxey
+  example: ""
+  tags: ""
+  etymology: daif + -xey
+...

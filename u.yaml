@@ -1,0 +1,52 @@
+---
+term: u
+slug: u
+ipa: "\u02C8u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8u&voice=Ewa"
+status: true
+category: root
+word class: par
+trans:
+  eng:
+  - - general present tense marker
+  epo:
+  - - "(nedeviga verba partikulo kun la signifo de [nun] a\u016D [du] por eviti riskon
+      de konfuzi la sinsekvo _substantivo_  _verbo_ kun kumeta\u0135o _substantivo-substantivo_
+      dum formala parolado)"
+  spa:
+  - - _marcador general del presente_
+search terms:
+  glb:
+  - u
+  eng:
+  - general present tense marker
+  epo:
+  - "nedeviga verba partikulo kun la signifo de  por eviti riskon de konfuzi la sinsekvo
+    substantivo  verbo kun kumeta\u0135o substantivo-substantivo dum formala parolado"
+  - ""
+  spa:
+  - marcador general del presente
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/nun">nun</a>, <a href="../lexi/du-">du-</a>
+raw data:
+  term: u
+  category: root
+  word class: par
+  status: true
+  trans:
+    eng: general present tense marker
+    epo: "(nedeviga verba partikulo kun la signifo de [nun] a\u016D [du] por eviti
+      riskon de konfuzi la sinsekvo _substantivo_  _verbo_ kun kumeta\u0135o _substantivo-substantivo_
+      dum formala parolado)"
+    spa: _marcador general del presente_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _nun_, _du-_
+...

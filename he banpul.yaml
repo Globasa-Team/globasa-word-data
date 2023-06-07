@@ -1,0 +1,52 @@
+---
+term: he banpul
+slug: he banpul
+ipa: "\u02C8xe ban\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xe ban\u02C8pul&voice=Ewa"
+status: false
+category: phrase
+word class: t
+trans:
+  eng:
+  - - any kind of
+    - in any way
+  epo:
+  - - ia ajn
+  spa:
+  - - cualquier tipo de
+    - de cualquier forma
+search terms:
+  glb:
+  - he banpul
+  - he
+  - banpul
+  eng:
+  - any kind of
+  - in any way
+  epo:
+  - ia ajn
+  spa:
+  - cualquier tipo de
+  - de cualquier forma
+etymology_type: DERIVD
+etymology: <a href="../lexi/he">he</a>, <a href="../lexi/ban">ban</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: he banpul
+  category: phrase
+  word class: t
+  status: false
+  trans:
+    eng: any kind of, in any way
+    epo: ia ajn
+    spa: cualquier tipo de, de cualquier forma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: he, ban + -pul
+...

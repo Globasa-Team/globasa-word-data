@@ -1,0 +1,79 @@
+---
+term: ci
+slug: ci
+ipa: t͡ʃi
+ipa link: http://ipa-reader.xyz/?text=t͡ʃi&voice=Ewa
+status: true
+category: root
+word class: par
+trans:
+  eng:
+  - - denotes endearment or affection
+  epo:
+  - - -ĉjo
+    - -njo (por karese nomi)
+  spa:
+  - - (_denota cariño o afecto_)
+search terms:
+  glb:
+  - ci
+  eng:
+  - denotes endearment or affection
+  epo:
+  - -ĉjo
+  - -njo por karese nomi
+  - -njo
+  spa: []
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - -y
+  Espanisa:
+  - - -cita
+    - -cito
+  Fransesa:
+  - - -in
+    - -ine
+  Rusisa:
+  - - -ша “-xa”
+    - -ичка “-icka”
+    - -ик “-ik”
+  Doycisa:
+  - - -i
+    - -chen
+  Putunhwa:
+  - - 小 “xyaw”
+  Hindisa:
+  - - -ई “-i”
+  Niponsa:
+  - - ちゃん “cyan”
+  Turkisa:
+  - - -cık
+    - -cik
+    - -çık
+    - -çik
+  Parsisa:
+  - - چه- “-ce”
+raw data:
+  term: ci
+  category: root
+  word class: par
+  status: true
+  trans:
+    eng: denotes endearment or affection
+    epo: -ĉjo, -njo (por karese nomi)
+    spa: (_denota cariño o afecto_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (-y), Espanisa (-cita, -cito), Fransesa (-in, -ine), Rusisa (-ша
+    “-xa”, -ичка “-icka”, -ик “-ik”), Doycisa (-i, -chen), Putunhwa (小 “xyaw”), Hindisa
+    (-ई “-i”), Niponsa (ちゃん “cyan”), Turkisa (-cık, -cik, -çık, -çik), Parsisa (چه-
+    “-ce”)
+...

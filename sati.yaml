@@ -1,0 +1,65 @@
+---
+term: sati
+slug: sati
+ipa: "\u02C8sati"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sati&voice=Ewa"
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - "true"
+    - truly
+    - indeed
+  epo:
+  - - vera
+  - - vere
+  spa:
+  - - verdadero
+    - de veras
+  - - verdaderamente
+search terms:
+  glb:
+  - sati
+  eng:
+  - "true"
+  - truly
+  - indeed
+  epo:
+  - vera
+  - vere
+  spa:
+  - verdadero
+  - de veras
+  - verdaderamente
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0938\u091A \u201Csac\u201D"
+    - "\u0938\u0924\u094D\u092F \u201Csatya\u201D - satiya"
+  Vyetnamsa:
+  - - "th\u1EADt"
+  Telugusa:
+  - - "\u0C38\u0C24\u0C4D\u0C2F\u0C02 \u201Csatya\u1E41\u201D - satiya"
+raw data:
+  term: sati
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: true, truly, indeed
+    epo: vera; vere
+    spa: verdadero, de veras; verdaderamente
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0938\u091A \u201Csac\u201D, \u0938\u0924\u094D\u092F \u201Csatya\u201D
+    - satiya), Vyetnamsa (th\u1EADt), Telugusa (\u0C38\u0C24\u0C4D\u0C2F\u0C02 \u201Csatya\u1E41\u201D
+    - satiya)"
+...

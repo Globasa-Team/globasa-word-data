@@ -1,0 +1,51 @@
+---
+term: musika
+slug: musika
+ipa: "mu\u02C8sika"
+ipa link: "http://ipa-reader.xyz/?text=mu\u02C8sika&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - music
+  epo:
+  - - muziko
+  spa:
+  - - "m\xFAsica"
+search terms:
+  glb:
+  - musika
+  eng:
+  - music
+  epo:
+  - muziko
+  spa:
+  - "m\xFAsica"
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: musika
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: music
+    epo: muziko
+    spa: "m\xFAsica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (music), Fransesa (musique), Doycisa (Musik), Rusisa (\u043C\u0443\u0437\u044B\u043A\u0430
+    \u201Cmuzika\u201D), Espanisa (m\xFAsica), Arabisa (\u0645\u0648\u0633\u064A\u0642\u0649
+    \u201Cmusiqa\u201D), Parsisa (\u0645\u0648\u0633\u06CC\u0642\u06CC \u201Cmusiqi\u201D,
+    \u0645\u0648\u0632\u06CC\u06A9 \u201Cmuzik\u201D), Turkisa (m\xFCzik), Indonesisa
+    (musik), Niponsa (\u30DF\u30E5\u30FC\u30B8\u30C3\u30AF \u201Cmyujiku\u201D), Pilipinasa
+    (musika), Swahilisa (muziki)"
+...

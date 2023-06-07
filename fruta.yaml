@@ -1,0 +1,63 @@
+---
+term: fruta
+slug: fruta
+ipa: ˈfɾuta
+ipa link: http://ipa-reader.xyz/?text=ˈfɾuta&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fruit
+  epo:
+  - - frukto
+  spa:
+  - - fruta
+search terms:
+  glb:
+  - fruta
+  eng:
+  - fruit
+  epo:
+  - frukto
+  spa:
+  - fruta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - fruit
+  Fransesa:
+  - - fruit
+  Doycisa:
+  - - Frucht
+  Rusisa:
+  - - фрукт “frukt”
+  Espanisa:
+  - - fruta
+  Pilipinasa:
+  - - prutas
+  Niponsa:
+  - - フルーツ “furutsu”
+tags:
+- yamxey
+raw data:
+  term: fruta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fruit
+    epo: frukto
+    spa: fruta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Englisa (fruit), Fransesa (fruit), Doycisa (Frucht), Rusisa (фрукт “frukt”),
+    Espanisa (fruta), Pilipinasa (prutas), Niponsa (フルーツ “furutsu”)
+...

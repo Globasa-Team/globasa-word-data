@@ -1,0 +1,54 @@
+---
+term: tesu oto
+slug: tesu oto
+ipa: "\u02C8tesu \u02C8oto"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tesu \u02C8oto&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - hers
+    - his (_those things belonging to her/him_)
+  epo:
+  - - la liaj
+    - "la \u015Diaj"
+    - la riaj
+  spa:
+  - - "suyos (_cosas que pertenecen a \xE9l_)"
+search terms:
+  glb:
+  - tesu oto
+  - tesu
+  - oto
+  eng:
+  - hers
+  - his
+  epo:
+  - la liaj
+  - "la \u015Diaj"
+  - la riaj
+  spa:
+  - suyos
+etymology_type: DERIVD
+etymology: <a href="../lexi/te">te</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/oto">oto</a>
+raw data:
+  term: tesu oto
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: hers, his (_those things belonging to her/him_)
+    epo: "la liaj, la \u015Diaj, la riaj"
+    spa: "suyos (_cosas que pertenecen a \xE9l_)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: te + -su, oto
+...

@@ -1,0 +1,46 @@
+---
+term: fijili
+slug: fijili
+ipa: "fi\u02C8d\u0361\u0292ili"
+ipa link: "http://ipa-reader.xyz/?text=fi\u02C8d\u0361\u0292ili&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - Fijian
+  epo:
+  - - "fi\u011Dia"
+  spa:
+  - - fiyiano
+search terms:
+  glb:
+  - fijili
+  eng:
+  - fijian
+  epo:
+  - "fi\u011Dia"
+  spa:
+  - fiyiano
+etymology_type: DERIVD
+etymology: <a href="../lexi/Fiji">Fiji</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Fijili
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: Fijian
+    epo: "fi\u011Dia"
+    spa: fiyiano
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Fiji + -li
+...

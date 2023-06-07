@@ -1,0 +1,52 @@
+---
+term: ripul
+slug: ripul
+ipa: "\u027Ei\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=\u027Ei\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - again
+  epo:
+  - - denova
+  - - denove
+    - ree
+  spa:
+  - - otra vez
+    - de nuevo
+search terms:
+  glb:
+  - ripul
+  eng:
+  - again
+  epo:
+  - denova
+  - denove
+  - ree
+  spa:
+  - otra vez
+  - de nuevo
+etymology_type: DERIVD
+etymology: <a href="../lexi/ri-">ri-</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: ripul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: again
+    epo: denova; denove, ree
+    spa: otra vez, de nuevo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: ri- + -pul
+...

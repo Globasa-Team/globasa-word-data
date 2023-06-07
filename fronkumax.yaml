@@ -1,0 +1,48 @@
+---
+term: fronkumax
+slug: fronkumax
+ipa: "f\u027Eonku\u02C8ma\u0283"
+ipa link: "http://ipa-reader.xyz/?text=f\u027Eonku\u02C8ma\u0283&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - apron
+  epo:
+  - - "anta\u016Dtuko"
+  spa:
+  - - delantal
+    - mandil
+search terms:
+  glb:
+  - fronkumax
+  eng:
+  - apron
+  epo:
+  - "anta\u016Dtuko"
+  spa:
+  - delantal
+  - mandil
+etymology_type: DERIVD
+etymology: <a href="../lexi/fron-">fron-</a> + <a href="../lexi/kumax">kumax</a>
+raw data:
+  term: fronkumax
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: apron
+    epo: "anta\u016Dtuko"
+    spa: delantal, mandil
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fron- + kumax
+...

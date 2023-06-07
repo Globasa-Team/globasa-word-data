@@ -1,0 +1,59 @@
+---
+term: xafe to
+slug: xafe to
+ipa: "\u02C8\u0283afe \u02C8to"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283afe \u02C8to&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - later (_after that_)
+    - afterwards
+    - (and) then
+  epo:
+  - - post tio
+    - poste
+    - (kaj) tiam
+  spa:
+  - - "despu\xE9s (de ello)"
+search terms:
+  glb:
+  - xafe to
+  - xafe
+  - to
+  eng:
+  - later
+  - afterwards
+  - and then
+  - then
+  epo:
+  - post tio
+  - poste
+  - kaj tiam
+  - tiam
+  spa:
+  - "despu\xE9s de ello"
+  - "despu\xE9s"
+etymology_type: DERIVD
+etymology: <a href="../lexi/xa">xa</a> + <a href="../lexi/-fe">-fe</a>, <a href="../lexi/to">to</a>
+raw data:
+  term: xafe to
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: later (_after that_), afterwards, (and) then
+    epo: post tio, poste, (kaj) tiam
+    spa: "despu\xE9s (de ello)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xa + -fe, to
+...

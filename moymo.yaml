@@ -1,0 +1,46 @@
+---
+term: moymo
+slug: moymo
+ipa: "\u02C8mojmo"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8mojmo&voice=Ewa"
+status: false
+category: derived
+word class: m
+trans:
+  eng:
+  - - in every way
+  epo:
+  - - "\u0109iel"
+  spa:
+  - - en toda forma
+search terms:
+  glb:
+  - moymo
+  eng:
+  - in every way
+  epo:
+  - "\u0109iel"
+  spa:
+  - en toda forma
+etymology_type: DERIVD
+etymology: <a href="../lexi/moy">moy</a> + <a href="../lexi/-mo">-mo</a>
+raw data:
+  term: moymo
+  category: derived
+  word class: m
+  status: false
+  trans:
+    eng: in every way
+    epo: "\u0109iel"
+    spa: en toda forma
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: moy + -mo
+...

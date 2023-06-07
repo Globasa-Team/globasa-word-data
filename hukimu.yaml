@@ -1,0 +1,53 @@
+---
+term: hukimu
+slug: hukimu
+ipa: "xu\u02C8kimu"
+ipa link: "http://ipa-reader.xyz/?text=xu\u02C8kimu&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - judgment
+  - - judge
+  epo:
+  - - "ju\u011Do"
+  - - "ju\u011Di"
+  spa:
+  - - juicio
+  - - juzgar
+search terms:
+  glb:
+  - hukimu
+  eng:
+  - judgment
+  - judge
+  epo:
+  - "ju\u011Do"
+  - "ju\u011Di"
+  spa:
+  - juicio
+  - juzgar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: hukimu
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: judgment; judge
+    epo: "ju\u011Do; ju\u011Di"
+    spa: juicio; juzgar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062D\u0643\u0645 \u201Chukm\u201D), Turkisa (h\xFCk\xFCm),
+    Swahilisa (hukumu), Indonesisa (hakim - hukimuyen), Pilipinasa (hukom)"
+...

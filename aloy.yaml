@@ -1,0 +1,63 @@
+---
+term: aloy
+slug: aloy
+ipa: aˈloj
+ipa link: http://ipa-reader.xyz/?text=aˈloj&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - alloy
+  epo:
+  - - alojo
+  spa:
+  - - aleación
+  - - alear
+search terms:
+  glb:
+  - aloy
+  eng:
+  - alloy
+  epo:
+  - alojo
+  spa:
+  - aleación
+  - alear
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - alloy
+  Indonesisa:
+  - - aloi
+  Swahilisa:
+  - - aloi
+  Espanisa:
+  - - aleacíon
+  Fransesa:
+  - - alliage
+  Turkisa:
+  - - alaşım
+  Parsisa:
+  - - آلیاژ “alyaj”
+raw data:
+  term: aloy
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: alloy
+    epo: alojo
+    spa: aleación; alear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (alloy), Indonesisa (aloi), Swahilisa (aloi); Espanisa (aleacíon),
+    Fransesa (alliage), Turkisa (alaşım), Parsisa (آلیاژ “alyaj”)
+...

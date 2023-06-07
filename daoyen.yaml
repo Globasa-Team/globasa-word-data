@@ -1,0 +1,48 @@
+---
+term: daoyen
+slug: daoyen
+ipa: "dao\u02C8jen"
+ipa link: "http://ipa-reader.xyz/?text=dao\u02C8jen&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - traveler
+  epo:
+  - - veturanto
+    - "voja\u011Danto"
+  spa:
+  - - viajero
+search terms:
+  glb:
+  - daoyen
+  eng:
+  - traveler
+  epo:
+  - veturanto
+  - "voja\u011Danto"
+  spa:
+  - viajero
+etymology_type: DERIVD
+etymology: <a href="../lexi/dao">dao</a> + <a href="../lexi/-yen">-yen</a>
+raw data:
+  term: daoyen
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: 'traveler '
+    epo: "veturanto, voja\u011Danto"
+    spa: viajero
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: dao + -yen
+...

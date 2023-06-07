@@ -1,0 +1,59 @@
+---
+term: kaxu
+slug: kaxu
+ipa: "\u02C8ka\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ka\u0283u&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - cashew
+  epo:
+  - - "aka\u0135uo"
+  spa:
+  - - "casta\xF1a de caj\xFA"
+    - cajuil
+    - "nuez de mara\xF1\xF3n"
+    - _Anacardium occidentale_
+search terms:
+  glb:
+  - kaxu
+  eng:
+  - cashew
+  epo:
+  - "aka\u0135uo"
+  spa:
+  - "casta\xF1a de caj\xFA"
+  - cajuil
+  - "nuez de mara\xF1\xF3n"
+  - anacardium occidentale
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- yamxey
+raw data:
+  term: kaxu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: cashew
+    epo: "aka\u0135uo"
+    spa: "casta\xF1a de caj\xFA, cajuil, nuez de mara\xF1\xF3n, _Anacardium occidentale_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: "Englisa (cashew), Espanisa (cay\xFA), Fransesa (cajou), Rusisa (\u043A\u0435\u0448\u044C\u044E
+    \u201Ckexyu\u201D),  Doycisa (Cashew, Kaschu), Pilipinasa (kasoy, kasuy), Arabisa
+    (\u0643\u064E\u0627\u062C\u064F\u0648 \u201Ckaju\u201D), Niponsa (\u30AB\u30B7\u30E5\u30FC
+    \u201Ckaxu\u201D), Turkisa (ka\u015Fu), Hangusa (\uCE90\uC288 \u201Ckexu\u201D),
+    Swahilisa (korosho), Hindisa (\u0915\u093E\u091C\u0942 \u201Ckaja\u201D), Indonesisa
+    (kacang mede)"
+...

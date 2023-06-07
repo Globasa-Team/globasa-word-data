@@ -1,0 +1,50 @@
+---
+term: yusu te
+slug: yusu te
+ipa: "\u02C8jusu \u02C8te"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8jusu \u02C8te&voice=Ewa"
+status: false
+category: phrase
+word class: su pn
+trans:
+  eng:
+  - - yours (_that being belonging to you_)
+  epo:
+  - - la via
+  spa:
+  - - el tuyo
+    - la tuya (_ser viviente_)
+search terms:
+  glb:
+  - yusu te
+  - yusu
+  - te
+  eng:
+  - yours
+  epo:
+  - la via
+  spa:
+  - el tuyo
+  - la tuya
+etymology_type: DERIVD
+etymology: <a href="../lexi/yu">yu</a> + <a href="../lexi/-su">-su</a>, <a href="../lexi/te">te</a>
+raw data:
+  term: yusu te
+  category: phrase
+  word class: su pn
+  status: false
+  trans:
+    eng: yours (_that being belonging to you_)
+    epo: la via
+    spa: el tuyo, la tuya (_ser viviente_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: yu + -su, te
+...

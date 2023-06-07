@@ -1,0 +1,53 @@
+---
+term: infer
+slug: infer
+ipa: "in\u02C8fe\u027E"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8fe\u027E&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - _short for [infraya](/eng/lexi/infraya):_ inferiority
+    - belowness
+  epo:
+  - - 'mallongigo de [infraya]: subo'
+    - subeco
+  spa:
+  - - _forma corta de **infraya**:_ inferioridad
+    - el estado de estar debajo
+  - - estar abajo
+search terms:
+  glb:
+  - infer
+  eng:
+  - belowness
+  epo:
+  - 'mallongigo de [infraya]: subo'
+  - subeco
+  spa:
+  - el estado de estar debajo
+  - estar abajo
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: infer
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: _short for [infraya](/eng/lexi/infraya):_ inferiority, belowness
+    epo: 'mallongigo de [infraya]: subo, subeco'
+    spa: _forma corta de **infraya**:_ inferioridad, el estado de estar debajo; estar
+      abajo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (inferior), Fransesa (inf\xE9rieur), Espanisa (inferior)"
+...

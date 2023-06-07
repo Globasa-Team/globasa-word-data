@@ -1,0 +1,52 @@
+---
+term: inporta
+slug: inporta
+ipa: "in\u02C8po\u027Eta"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8po\u027Eta&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - import
+  epo:
+  - - importo
+    - enporto
+  - - importi
+    - enporti
+  spa:
+  - - importar
+search terms:
+  glb:
+  - inporta
+  eng:
+  - import
+  epo:
+  - importo
+  - enporto
+  - importi
+  - enporti
+  spa:
+  - importar
+etymology_type: DERIVD
+etymology: <a href="../lexi/in-">in-</a> + <a href="../lexi/porta">porta</a>
+raw data:
+  term: inporta
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: import
+    epo: importo, enporto; importi, enporti
+    spa: importar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: in- + porta
+...

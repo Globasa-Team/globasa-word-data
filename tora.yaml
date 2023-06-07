@@ -1,0 +1,75 @@
+---
+term: tora
+slug: tora
+ipa: "\u02C8to\u027Ea"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8to\u027Ea&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - device
+    - apparatus
+    - appliance
+    - machine
+  epo:
+  - - "ma\u015Dino"
+    - aparato
+  spa:
+  - - dispositivo
+    - aparato
+    - "m\xE1quina"
+search terms:
+  glb:
+  - tora
+  eng:
+  - device
+  - apparatus
+  - appliance
+  - machine
+  epo:
+  - "ma\u015Dino"
+  - aparato
+  spa:
+  - dispositivo
+  - aparato
+  - "m\xE1quina"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - generator
+  Espanisa:
+  - - computadora
+    - generador
+  Fransesa:
+  - - "g\xE9n\xE9rateur"
+  Rusisa:
+  - - "\u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440 \u201Cgenerator\u201D"
+  Doycisa:
+  - - Generator
+  Turkisa:
+  - - "jenerat\xF6r"
+  Pilipinasa:
+  - - henerador
+raw data:
+  term: tora
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: device, apparatus, appliance, machine
+    epo: "ma\u015Dino, aparato"
+    spa: "dispositivo, aparato, m\xE1quina"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (generator), Espanisa (computadora, generador), Fransesa (g\xE9n\xE9rateur),
+    Rusisa (\u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440 \u201Cgenerator\u201D),
+    Doycisa (Generator), Turkisa (jenerat\xF6r), Pilipinasa (henerador)"
+...

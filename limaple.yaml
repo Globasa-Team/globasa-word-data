@@ -1,0 +1,50 @@
+---
+term: limaple
+slug: limaple
+ipa: "li\u02C8maple"
+ipa link: "http://ipa-reader.xyz/?text=li\u02C8maple&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - quintuple
+    - fivefold
+  epo:
+  - - kvinobla
+  - - kvinoble
+  spa:
+  - - "qu\xEDntuple"
+search terms:
+  glb:
+  - limaple
+  eng:
+  - quintuple
+  - fivefold
+  epo:
+  - kvinobla
+  - kvinoble
+  spa:
+  - "qu\xEDntuple"
+etymology_type: DERIVD
+etymology: <a href="../lexi/lima">lima</a> + <a href="../lexi/-ple">-ple</a>
+raw data:
+  term: limaple
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: quintuple, fivefold
+    epo: kvinobla; kvinoble
+    spa: "qu\xEDntuple"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: lima + -ple
+...

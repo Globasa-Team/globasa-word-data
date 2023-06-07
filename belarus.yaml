@@ -1,0 +1,52 @@
+---
+term: belarus
+slug: belarus
+ipa: "bela\u02C8\u027Eus"
+ipa link: "http://ipa-reader.xyz/?text=bela\u02C8\u027Eus&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Belarus
+  epo:
+  - - Belorusio
+    - Belorusujo
+  spa:
+  - - Bielorrusia
+search terms:
+  glb:
+  - belarus
+  eng:
+  - belarus
+  epo:
+  - belorusio
+  - belorusujo
+  spa:
+  - bielorrusia
+etymology_type: NATLNG
+etymology:
+  Belarussa:
+  - - "\u0411\u0435\u043B\u0430\u0440\u0443\u0441\u044C \u201CBelarus\u02B9\u201D"
+tags:
+- dexa
+raw data:
+  term: Belarus
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Belarus
+    epo: Belorusio, Belorusujo
+    spa: Bielorrusia
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Belarussa (\u0411\u0435\u043B\u0430\u0440\u0443\u0441\u044C \u201CBelarus\u02B9\u201D)"
+...

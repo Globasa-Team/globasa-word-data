@@ -1,0 +1,85 @@
+---
+term: dotor
+slug: dotor
+ipa: doˈtoɾ
+ipa link: http://ipa-reader.xyz/?text=doˈtoɾ&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - doctor (_PhD_)
+    - physician
+  epo:
+  - - doktoro
+    - kuracisto
+  spa:
+  - - doctor (_doctorado_)
+    - médico
+search terms:
+  glb:
+  - dotor
+  eng:
+  - doctor
+  - physician
+  epo:
+  - doktoro
+  - kuracisto
+  spa:
+  - doctor
+  - médico
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - doctor
+  Fransesa:
+  - - docteur
+  Doycisa:
+  - - Doktor
+  Rusisa:
+  - - доктор “doktor”
+  Espanisa:
+  - - doctor
+  Indonesisa:
+  - - doktor
+  Hindisa:
+  - - डॉक्टर “ḍŏkṭar”
+  Arabisa:
+  - - دُكْتُور “duktūr”
+  Telugusa:
+  - - డాక్టర్ “ḍākṭar”
+    - డాక్టరు “ḍākṭaru”
+  Turkisa:
+  - - doktor
+  Parsisa:
+  - - دکتر “doktor”
+  Swahilisa:
+  - - daktari
+    - dokta
+tags:
+- medis
+synonyms:
+- medisyen
+raw data:
+  term: dotor
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: doctor (_PhD_), physician
+    epo: doktoro, kuracisto
+    spa: doctor (_doctorado_), médico
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: medisyen
+  antonyms: ""
+  example: ""
+  tags: medis
+  etymology: Englisa (doctor), Fransesa (docteur), Doycisa (Doktor), Rusisa (доктор
+    “doktor”), Espanisa (doctor), Indonesisa (doktor), Hindisa (डॉक्टर “ḍŏkṭar”),
+    Arabisa (دُكْتُور “duktūr”), Telugusa (డాక్టర్ “ḍākṭar”, డాక్టరు “ḍākṭaru”), Turkisa
+    (doktor), Parsisa (دکتر “doktor”), Swahilisa (daktari, dokta)
+...

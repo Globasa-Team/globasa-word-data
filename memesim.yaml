@@ -1,0 +1,50 @@
+---
+term: memesim
+slug: memesim
+ipa: "meme\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=meme\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - sheepish
+  - - sheepishly
+  epo:
+  - - "\u015Dafeca"
+  - - "\u015Dafece"
+  spa:
+  - - como borrego
+search terms:
+  glb:
+  - memesim
+  eng:
+  - sheepish
+  - sheepishly
+  epo:
+  - "\u015Dafeca"
+  - "\u015Dafece"
+  spa:
+  - como borrego
+etymology_type: DERIVD
+etymology: <a href="../lexi/meme">meme</a> + <a href="../lexi/-sim">-sim</a>
+raw data:
+  term: memesim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: sheepish; sheepishly
+    epo: "\u015Dafeca; \u015Dafece"
+    spa: como borrego
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: meme + -sim
+...

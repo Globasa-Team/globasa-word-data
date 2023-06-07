@@ -1,0 +1,63 @@
+---
+term: bira
+slug: bira
+ipa: ˈbiɾa
+ipa link: http://ipa-reader.xyz/?text=ˈbiɾa&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - beer
+  epo:
+  - - biero
+  spa:
+  - - cerveza
+search terms:
+  glb:
+  - bira
+  eng:
+  - beer
+  epo:
+  - biero
+  spa:
+  - cerveza
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - beer
+  Fransesa:
+  - - bière
+  Doycisa:
+  - - Bier
+  Hindisa:
+  - - बीयर “biyar”
+  Indonesisa:
+  - - bir
+  Turkisa:
+  - - bira
+  Arabisa:
+  - - بيرة “bayra”
+  Swahilisa:
+  - - bia
+raw data:
+  term: bira
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: beer
+    epo: biero
+    spa: cerveza
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (beer), Fransesa (bière), Doycisa (Bier), Hindisa (बीयर “biyar”),
+    Indonesisa (bir), Turkisa (bira), Arabisa (بيرة “bayra”), Swahilisa (bia)
+...

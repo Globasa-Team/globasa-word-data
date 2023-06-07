@@ -1,0 +1,50 @@
+---
+term: pia
+slug: pia
+ipa: "\u02C8pia"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8pia&voice=Ewa"
+status: true
+category: root
+word class: m
+trans:
+  eng:
+  - - also
+    - too
+  epo:
+  - - "anka\u016D"
+  spa:
+  - - "tambi\xE9n"
+search terms:
+  glb:
+  - pia
+  eng:
+  - also
+  - too
+  epo:
+  - "anka\u016D"
+  spa:
+  - "tambi\xE9n"
+etymology_type: NATLNG
+etymology:
+  Swahilisa:
+  - - pia
+raw data:
+  term: pia
+  category: root
+  word class: m
+  status: true
+  trans:
+    eng: also, too
+    epo: "anka\u016D"
+    spa: "tambi\xE9n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Swahilisa (pia)
+...

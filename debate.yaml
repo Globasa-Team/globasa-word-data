@@ -1,0 +1,66 @@
+---
+term: debate
+slug: debate
+ipa: deˈbate
+ipa link: http://ipa-reader.xyz/?text=deˈbate&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - debate
+  - - debate
+  epo:
+  - - debato
+  - - debati
+  spa:
+  - - debate
+  - - debatir
+search terms:
+  glb:
+  - debate
+  eng:
+  - debate
+  epo:
+  - debato
+  - debati
+  spa:
+  - debate
+  - debatir
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - debate
+  Fransesa:
+  - - débat
+  Doycisa:
+  - - Debatte
+  Rusisa:
+  - - дебаты “debati”
+  Espanisa:
+  - - debate
+  Indonesisa:
+  - - debate
+  Niponsa:
+  - - ディベート “dibeto”
+raw data:
+  term: debate
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: debate; debate
+    epo: debato; debati
+    spa: debate; debatir
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (debate), Fransesa (débat), Doycisa (Debatte), Rusisa (дебаты
+    “debati”), Espanisa (debate), Indonesisa (debate), Niponsa (ディベート “dibeto”)
+...

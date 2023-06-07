@@ -1,0 +1,50 @@
+---
+term: xafeplasi
+slug: xafeplasi
+ipa: "\u0283afe\u02C8plasi"
+ipa link: "http://ipa-reader.xyz/?text=\u0283afe\u02C8plasi&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - postponement
+  - - postpone
+  epo:
+  - - prokrasto
+  - - prokrasti
+  spa:
+  - - posponer
+search terms:
+  glb:
+  - xafeplasi
+  eng:
+  - postponement
+  - postpone
+  epo:
+  - prokrasto
+  - prokrasti
+  spa:
+  - posponer
+etymology_type: DERIVD
+etymology: <a href="../lexi/xafe-">xafe-</a> + <a href="../lexi/plasi">plasi</a>
+raw data:
+  term: xafeplasi
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: postponement; postpone
+    epo: prokrasto; prokrasti
+    spa: posponer
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xafe- + plasi
+...

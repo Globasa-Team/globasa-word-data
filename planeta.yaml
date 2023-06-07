@@ -1,0 +1,58 @@
+---
+term: planeta
+slug: planeta
+ipa: "pla\u02C8neta"
+ipa link: "http://ipa-reader.xyz/?text=pla\u02C8neta&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - planet
+  epo:
+  - - planedo
+  spa:
+  - - planeta
+search terms:
+  glb:
+  - planeta
+  eng:
+  - planet
+  epo:
+  - planedo
+  spa:
+  - planeta
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - planet
+  Fransesa: ~
+  Doycisa: ~
+  Rusisa: ~
+  Espanisa: ~
+  Turkisa: ~
+  Indonesisa: ~
+  Pilipinasa: ~
+tags:
+- kosmo
+raw data:
+  term: planeta
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: planet
+    epo: planedo
+    spa: planeta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kosmo
+  etymology: Englisa (planet), Fransesa ( ), Doycisa, Rusisa, Espanisa, Turkisa, Indonesisa,
+    Pilipinasa
+...

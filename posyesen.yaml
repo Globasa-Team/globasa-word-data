@@ -1,0 +1,50 @@
+---
+term: posyesen
+slug: posyesen
+ipa: "posje\u02C8sen"
+ipa link: "http://ipa-reader.xyz/?text=posje\u02C8sen&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - tame
+  epo:
+  - - "malsova\u011Da"
+  - - "malsova\u011De"
+  spa:
+  - - domado
+    - "dom\xE9stico"
+search terms:
+  glb:
+  - posyesen
+  eng:
+  - tame
+  epo:
+  - "malsova\u011Da"
+  - "malsova\u011De"
+  spa:
+  - domado
+  - "dom\xE9stico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/pos-">pos-</a> + <a href="../lexi/yesen">yesen</a>
+raw data:
+  term: posyesen
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: tame
+    epo: "malsova\u011Da; malsova\u011De"
+    spa: "domado, dom\xE9stico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: pos- + yesen
+...

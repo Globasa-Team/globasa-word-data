@@ -1,0 +1,62 @@
+---
+term: malya
+slug: malya
+ipa: "\u02C8malja"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8malja&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - wrongness
+  - - be mistaken
+    - be in the wrong
+  epo:
+  - - miseco
+    - "mal\u011Dusteco"
+    - erareco
+  - - esti misa
+    - "esti mal\u011Dusa"
+    - esti erara
+  spa:
+  - - error
+  - - estar equivocado
+search terms:
+  glb:
+  - malya
+  eng:
+  - wrongness
+  - be mistaken
+  - be in the wrong
+  epo:
+  - miseco
+  - "mal\u011Dusteco"
+  - erareco
+  - esti misa
+  - "esti mal\u011Dusa"
+  - esti erara
+  spa:
+  - error
+  - estar equivocado
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal">mal</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: malya
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: wrongness; be mistaken, be in the wrong
+    epo: "miseco, mal\u011Dusteco, erareco; esti misa, esti mal\u011Dusa, esti erara"
+    spa: error; estar equivocado
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: be mistaken, mistaken, be in the wrong, wrong
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal + -ya
+...

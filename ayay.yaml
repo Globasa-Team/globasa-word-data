@@ -1,0 +1,56 @@
+---
+term: ayay
+slug: ayay
+ipa: aˈjaj
+ipa link: http://ipa-reader.xyz/?text=aˈjaj&voice=Ewa
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - scream
+    - shout (_in pain or fear_)
+  - - scream
+    - yell
+    - shout
+  epo:
+  - - krio
+  - - krii
+  spa:
+  - - grito
+  - - gritar (_de dolor o miedo_)
+search terms:
+  glb:
+  - ayay
+  eng:
+    0: scream
+    1: shout
+    3: yell
+  epo:
+  - krio
+  - krii
+  spa:
+  - grito
+  - gritar
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/ay">ay</a>.
+raw data:
+  term: ayay
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: scream, shout (_in pain or fear_); scream, yell, shout
+    epo: krio; krii
+    spa: grito; gritar (_de dolor o miedo_)
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _ay_.
+...

@@ -1,0 +1,46 @@
+---
+term: xorki
+slug: xorki
+ipa: "\u02C8\u0283o\u027Eki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8\u0283o\u027Eki&voice=Ewa"
+status: false
+category: derived
+word class: l
+trans:
+  eng:
+  - - since (_+ sentence_)
+  epo:
+  - - ekde tio ke
+  spa:
+  - - desde que
+search terms:
+  glb:
+  - xorki
+  eng:
+  - since
+  epo:
+  - ekde tio ke
+  spa:
+  - desde que
+etymology_type: DERIVD
+etymology: <a href="../lexi/xor-">xor-</a> + <a href="../lexi/ki">ki</a>
+raw data:
+  term: xorki
+  category: derived
+  word class: l
+  status: false
+  trans:
+    eng: since (_+ sentence_)
+    epo: ekde tio ke
+    spa: desde que
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: xor- + ki
+...

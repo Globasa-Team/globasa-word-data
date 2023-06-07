@@ -1,0 +1,64 @@
+---
+term: tarki
+slug: tarki
+ipa: "\u02C8ta\u027Eki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8ta\u027Eki&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - turkey (_bird_)
+    - _Meleagris_
+  epo:
+  - - meleagro
+  spa:
+  - - pavo
+    - _Meleagris_
+search terms:
+  glb:
+  - tarki
+  eng:
+  - turkey
+  - meleagris
+  epo:
+  - meleagro
+  spa:
+  - pavo
+  - meleagris
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - turkey
+  Niponsa:
+  - - "\u30BF\u30FC\u30AD\u30FC \u201Ct\u0101k\u012B\u201D"
+  Hangusa:
+  - - "\uD130\uD0A4 \u201Cteoki\u201D"
+  Hindisa:
+  - - "\u091F\u0930\u094D\u0915\u0940 \u201C\u1E6Dark\u012B\u201D"
+  Telugusa:
+  - - "\u0C1F\u0C30\u0C4D\u0C15\u0C40 \u201C\u1E6Dark\u012B\u201D"
+tags:
+- hewan
+raw data:
+  term: tarki
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: turkey (_bird_), _Meleagris_
+    epo: meleagro
+    spa: pavo, _Meleagris_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (turkey), Niponsa (\u30BF\u30FC\u30AD\u30FC \u201Ct\u0101k\u012B\u201D),
+    Hangusa (\uD130\uD0A4 \u201Cteoki\u201D), Hindisa (\u091F\u0930\u094D\u0915\u0940
+    \u201C\u1E6Dark\u012B\u201D), Telugusa (\u0C1F\u0C30\u0C4D\u0C15\u0C40 \u201C\u1E6Dark\u012B\u201D)"
+...

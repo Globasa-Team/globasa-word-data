@@ -1,0 +1,48 @@
+---
+term: ninimedis
+slug: ninimedis
+ipa: "ninime\u02C8dis"
+ipa link: "http://ipa-reader.xyz/?text=ninime\u02C8dis&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - pediatrics
+  epo:
+  - - pediatrio
+    - infanmedicino
+  spa:
+  - - "pediatr\xEDa"
+search terms:
+  glb:
+  - ninimedis
+  eng:
+  - pediatrics
+  epo:
+  - pediatrio
+  - infanmedicino
+  spa:
+  - "pediatr\xEDa"
+etymology_type: DERIVD
+etymology: <a href="../lexi/nini">nini</a> + <a href="../lexi/-medis">-medis</a>
+raw data:
+  term: ninimedis
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: pediatrics
+    epo: pediatrio, infanmedicino
+    spa: "pediatr\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: nini + -medis
+...

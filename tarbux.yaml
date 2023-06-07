@@ -1,0 +1,70 @@
+---
+term: tarbux
+slug: tarbux
+ipa: "ta\u027E\u02C8bu\u0283"
+ipa link: "http://ipa-reader.xyz/?text=ta\u027E\u02C8bu\u0283&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - fez
+    - tarboosh
+  epo:
+  - - fezo
+  spa:
+  - - fez
+search terms:
+  glb:
+  - tarbux
+  eng:
+  - fez
+  - tarboosh
+  epo:
+  - fezo
+  spa:
+  - fez
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - tarboosh
+  Fransesa:
+  - - tarbouche
+  Rusisa:
+  - - "\u0442\u0430\u0440\u0431\u0443\u0448 \u201Ctarbux\u201D"
+  Doycisa:
+  - - Tarbusch
+  Indonesisa:
+  - - tarbus
+  Arabisa:
+  - - "\u0637\u064E\u0631\u0652\u0628\u064F\u0648\u0634 \u201Ctarbux\u201D"
+  Parsisa: ~
+  Telugusa:
+  - - "\u0C1F\u0C3E\u0C30\u0C4D\u0C2C\u0C42\u0C37\u0C4D \u201Ctarbus\u201D"
+  Swahilisa:
+  - - tarbushi
+tags:
+- labas
+raw data:
+  term: tarbux
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: fez, tarboosh
+    epo: fezo
+    spa: fez
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: labas
+  etymology: "Englisa (tarboosh), Fransesa (tarbouche), Rusisa (\u0442\u0430\u0440\u0431\u0443\u0448
+    \u201Ctarbux\u201D), Doycisa (Tarbusch), Indonesisa (tarbus), Arabisa (\u0637\u064E\u0631\u0652\u0628\u064F\u0648\u0634
+    \u201Ctarbux\u201D), Parsisa, Telugusa (\u0C1F\u0C3E\u0C30\u0C4D\u0C2C\u0C42\u0C37\u0C4D
+    \u201Ctarbus\u201D), Swahilisa (tarbushi)"
+...

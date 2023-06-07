@@ -1,0 +1,83 @@
+---
+term: moni
+slug: moni
+ipa: "\u02C8moni"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8moni&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - check
+    - monitor
+    - examine
+    - inspect
+  epo:
+  - - kontrolo
+    - inspekto
+    - ekzameno
+  - - kontroli
+    - inspekti
+    - revizii
+    - ekzameni
+  spa:
+  - - "revisi\xF3n"
+    - chequeo
+    - "inspecci\xF3n"
+    - monitoreo
+  - - revisar
+    - chequear
+    - inspeccionar
+    - monitorear
+search terms:
+  glb:
+  - moni
+  eng:
+  - check
+  - monitor
+  - examine
+  - inspect
+  epo:
+  - kontrolo
+  - inspekto
+  - ekzameno
+  - kontroli
+  - inspekti
+  - revizii
+  - ekzameni
+  spa:
+  - "revisi\xF3n"
+  - chequeo
+  - "inspecci\xF3n"
+  - monitoreo
+  - revisar
+  - chequear
+  - inspeccionar
+  - monitorear
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: moni
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: check, monitor, examine, inspect
+    epo: kontrolo, inspekto, ekzameno; kontroli, inspekti, revizii, ekzameni
+    spa: "revisi\xF3n, chequeo, inspecci\xF3n, monitoreo; revisar, chequear, inspeccionar,
+      monitorear"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (monitor), Fransesa (moniteur), Doycisa (Monitor), Rusisa (\u043C\u043E\u043D\u0438\u0442\u043E\u0440
+    \u201Cmonitor\u201D), Espanisa (monitor), Turkisa (monit\xF6r), Indonesisa (monitor),
+    Pilipinasa (monitor), Niponsa (\u30E2\u30CB\u30BF\u30FC \u201Cmonit\u0101\u201D),
+    Hangusa (\uBAA8\uB2C8\uD130 \u201Cmonito\u201D), Parsisa (\u0645\u0627\u0646\u06CC\u062A\u0648\u0631
+    \u201Cm\xE2nitor\u201D)"
+...

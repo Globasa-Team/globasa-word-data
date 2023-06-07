@@ -1,0 +1,48 @@
+---
+term: glunenible
+slug: glunenible
+ipa: "glune\u02C8nible"
+ipa link: "http://ipa-reader.xyz/?text=glune\u02C8nible&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - undrinkable
+  epo:
+  - - netrinkebla
+  - - netrinkeble
+  spa:
+  - - imbebible
+search terms:
+  glb:
+  - glunenible
+  eng:
+  - undrinkable
+  epo:
+  - netrinkebla
+  - netrinkeble
+  spa:
+  - imbebible
+etymology_type: DERIVD
+etymology: <a href="../lexi/glu">glu</a> + <a href="../lexi/nen-">nen-</a> + <a href="../lexi/-ible">-ible</a>
+raw data:
+  term: glunenible
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: undrinkable
+    epo: netrinkebla; netrinkeble
+    spa: imbebible
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: glu + nen- + -ible
+...

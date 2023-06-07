@@ -1,0 +1,105 @@
+---
+term: faraon
+slug: faraon
+ipa: faɾaˈon
+ipa link: http://ipa-reader.xyz/?text=faɾaˈon&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - pharaoh
+  epo:
+  - - faraono
+  spa:
+  - - faraón
+  deu:
+  - - Pharao
+  fra:
+  - - pharaon
+  rus:
+  - - фараон
+  zho:
+  - - 法老
+search terms:
+  glb:
+  - faraon
+  eng:
+  - pharaoh
+  epo:
+  - faraono
+  spa:
+  - faraón
+  deu:
+  - pharao
+  fra:
+  - pharaon
+  rus:
+  - фараон
+  zho:
+  - 法老
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - pharaoh
+  Espanisa:
+  - - faraón
+  Fransesa:
+  - - pharaon
+  Rusisa:
+  - - фараон “faraon”
+  Doycisa:
+  - - Pharao
+    - Pharaonin
+  Indonesisa:
+  - - firaun
+  Pilipinasa:
+  - - paraon
+  Putunhwa:
+  - - 法老 “falaw”
+  Hindisa:
+  - - फ़िरौन “firon”
+    - फ़ैरो “fero”
+    - फिरऔन “firon”
+    - फ़िरऔन “firon”
+  Arabisa:
+  - - فِرْعَوْن “firawn”
+  Niponsa:
+  - - ファラオ “farao”
+  Telugusa:
+  - - ఫారో “paro”
+  Turkisa:
+  - - firavun
+  Hangusa:
+  - - 파라오 “parao”
+  Vyetnamsa:
+  - - pha-ra-ông
+  Parsisa:
+  - - فرعون (feron
+  Swahilisa:
+  - - firauni
+raw data:
+  term: faraon
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: pharaoh
+    epo: faraono
+    spa: faraón
+    deu: Pharao
+    fra: pharaon
+    rus: фараон
+    zho: 法老
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (pharaoh), Espanisa (faraón), Fransesa (pharaon), Rusisa (фараон
+    “faraon”), Doycisa (Pharao, Pharaonin), Indonesisa (firaun), Pilipinasa (paraon),
+    Putunhwa (法老 “falaw”), Hindisa (फ़िरौन “firon”, फ़ैरो “fero”, फिरऔन “firon”, फ़िरऔन
+    “firon”), Arabisa (فِرْعَوْن “firawn”), Niponsa (ファラオ “farao”), Telugusa (ఫారో
+    “paro”), Turkisa (firavun), Hangusa (파라오 “parao”), Vyetnamsa (pha-ra-ông), Parsisa
+    (فرعون (feron), Swahilisa (firauni)
+...

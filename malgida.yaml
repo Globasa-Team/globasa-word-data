@@ -1,0 +1,54 @@
+---
+term: malgida
+slug: malgida
+ipa: "mal\u02C8gida"
+ipa link: "http://ipa-reader.xyz/?text=mal\u02C8gida&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oj
+trans:
+  eng:
+  - - misguide
+  epo:
+  - - misgvidado
+  - - misgvidi
+  spa:
+  - - desorientar
+    - "enga\xF1ar"
+    - despistar
+    - informar mal
+search terms:
+  glb:
+  - malgida
+  eng:
+  - misguide
+  epo:
+  - misgvidado
+  - misgvidi
+  spa:
+  - desorientar
+  - "enga\xF1ar"
+  - despistar
+  - informar mal
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal-">mal-</a> + <a href="../lexi/gida">gida</a>
+raw data:
+  term: malgida
+  category: derived
+  word class: n/f.oj
+  status: false
+  trans:
+    eng: misguide
+    epo: misgvidado; misgvidi
+    spa: "desorientar, enga\xF1ar, despistar, informar mal"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal- + gida
+...

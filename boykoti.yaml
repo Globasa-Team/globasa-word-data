@@ -1,0 +1,73 @@
+---
+term: boykoti
+slug: boykoti
+ipa: bojˈkoti
+ipa link: http://ipa-reader.xyz/?text=bojˈkoti&voice=Ewa
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - boycott
+  epo:
+  - - bojkoto
+  - - bojkoti
+  spa:
+  - - boicot
+    - boicoteo
+  - - boicotear
+search terms:
+  glb:
+  - boykoti
+  eng:
+  - boycott
+  epo:
+  - bojkoto
+  - bojkoti
+  spa:
+  - boicot
+  - boicoteo
+  - boicotear
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - boycott
+    - boycotting
+  Espanisa:
+  - - boicot
+  Fransesa:
+  - - boycott
+  Doycisa: ~
+  Rusisa:
+  - - бойкот “bojkot”
+  Indonesisa:
+  - - boikot
+  Pilipinasa:
+  - - boykot
+  Turkisa: ~
+  Putunhwa:
+  - - 杯葛 “beyge”
+  Parsisa:
+  - - بایکوت “bâykot”
+raw data:
+  term: boykoti
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: boycott
+    epo: bojkoto; bojkoti
+    spa: boicot, boicoteo; boicotear
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (boycott, boycotting), Espanisa (boicot), Fransesa (boycott),
+    Doycisa, Rusisa (бойкот “bojkot”), Indonesisa (boikot), Pilipinasa (boykot), Turkisa,
+    Putunhwa (杯葛 “beyge”), Parsisa (بایکوت “bâykot”)
+...

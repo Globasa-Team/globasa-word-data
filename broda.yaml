@@ -1,0 +1,59 @@
+---
+term: broda
+slug: broda
+ipa: ˈbɾoda
+ipa link: http://ipa-reader.xyz/?text=ˈbɾoda&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - beard
+  epo:
+  - - barbo
+  spa:
+  - - barba
+search terms:
+  glb:
+  - broda
+  eng:
+  - beard
+  epo:
+  - barbo
+  spa:
+  - barba
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - beard
+  Doycisa:
+  - - Bart
+  Nederisa:
+  - - baard
+  Rusisa:
+  - - борода “boroda”
+  Polskasa:
+  - - broda
+  Eslovakisa:
+  - - brada
+raw data:
+  term: broda
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: beard
+    epo: barbo
+    spa: barba
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (beard), Doycisa (Bart), Nederisa (baard), Rusisa (борода “boroda”),
+    Polskasa (broda), Eslovakisa (brada)
+...

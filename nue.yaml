@@ -1,0 +1,55 @@
+---
+term: nue
+slug: nue
+ipa: "\u02C8nue"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8nue&voice=Ewa"
+status: true
+category: root
+word class: num
+trans:
+  eng:
+  - - nine
+  epo:
+  - - "na\u016D"
+  spa:
+  - - nueve
+search terms:
+  glb:
+  - nue
+  eng:
+  - nine
+  epo:
+  - "na\u016D"
+  spa:
+  - nueve
+etymology_type: NATLNG
+etymology:
+  Hindisa:
+  - - "\u0928\u094C \u201Cnau\u201D"
+  Doycisa:
+  - - neun
+  Espanisa:
+  - - nueve
+  Englisa:
+  - - nine
+raw data:
+  term: nue
+  category: root
+  word class: num
+  status: true
+  trans:
+    eng: nine
+    epo: "na\u016D"
+    spa: nueve
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Hindisa (\u0928\u094C \u201Cnau\u201D), Doycisa (neun), Espanisa (nueve),
+    Englisa (nine)"
+...

@@ -1,0 +1,51 @@
+---
+term: suyondom
+slug: suyondom
+ipa: "sujon\u02C8dom"
+ipa link: "http://ipa-reader.xyz/?text=sujon\u02C8dom&voice=Ewa"
+status: false
+category: derived
+word class: "n"
+trans:
+  eng:
+  - - (swimming) pool
+  epo:
+  - - "na\u011Dejo"
+  spa:
+  - - piscina
+    - alberca
+    - pileta
+search terms:
+  glb:
+  - suyondom
+  eng:
+  - swimming pool
+  - pool
+  epo:
+  - "na\u011Dejo"
+  spa:
+  - piscina
+  - alberca
+  - pileta
+etymology_type: DERIVD
+etymology: <a href="../lexi/suyon">suyon</a> + <a href="../lexi/-dom">-dom</a>
+raw data:
+  term: suyondom
+  category: derived
+  word class: "n"
+  status: false
+  trans:
+    eng: (swimming) pool
+    epo: "na\u011Dejo"
+    spa: piscina, alberca, pileta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: suyon + -dom
+...

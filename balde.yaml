@@ -1,0 +1,62 @@
+---
+term: balde
+slug: balde
+ipa: ˈbalde
+ipa link: http://ipa-reader.xyz/?text=ˈbalde&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - bucket
+  epo:
+  - - sitelo
+  spa:
+  - - cubo
+    - balde
+    - cubeta
+search terms:
+  glb:
+  - balde
+  eng:
+  - bucket
+  epo:
+  - sitelo
+  spa:
+  - cubo
+  - balde
+  - cubeta
+etymology_type: NATLNG
+etymology:
+  Espanisa:
+  - - balde
+  Portugalsa:
+  - - balde
+  Pilipinasa:
+  - - balda
+  Hindisa:
+  - - बालटी “balti”
+    - बाल्टी “balti”
+tags:
+- tul
+raw data:
+  term: balde
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: bucket
+    epo: sitelo
+    spa: cubo, balde, cubeta
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: tul
+  etymology: Espanisa (balde), Portugalsa (balde), Pilipinasa (balda), Hindisa (बालटी
+    “balti”, बाल्टी “balti”)
+...

@@ -1,0 +1,70 @@
+---
+term: posti
+slug: posti
+ipa: "\u02C8posti"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8posti&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - post
+    - display
+  epo:
+  - - "afi\u015Do"
+  - - "afi\u015Di"
+  spa:
+  - - mensaje
+    - _post_
+  - - publicar
+search terms:
+  glb:
+  - posti
+  eng:
+  - post
+  - display
+  epo:
+  - "afi\u015Do"
+  - "afi\u015Di"
+  spa:
+  - mensaje
+  - post
+  - publicar
+etymology_type: NATLNG
+etymology:
+  Doycisa:
+  - - Post
+  Englisa:
+  - - post
+  Indonesisa:
+  - - posting
+  Pilipinasa:
+  - - post
+  Hindisa:
+  - - "\u092A\u094B\u0938\u094D\u091F \u201Cpost\u201D"
+  Telugusa:
+  - - "\u0C2A\u0C4B\u0C38\u0C4D\u0C1F\u0C4D \u201Cpost\u201D"
+  Hangusa:
+  - - "\uD3EC\uC2A4\uD2B8 \u201Cposutu\u201D"
+raw data:
+  term: posti
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: post, display
+    epo: "afi\u015Do; afi\u015Di"
+    spa: mensaje, _post_; publicar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Doycisa (Post), Englisa (post), Indonesisa (posting), Pilipinasa (post),
+    Hindisa (\u092A\u094B\u0938\u094D\u091F \u201Cpost\u201D), Telugusa (\u0C2A\u0C4B\u0C38\u0C4D\u0C1F\u0C4D
+    \u201Cpost\u201D), Hangusa (\uD3EC\uC2A4\uD2B8 \u201Cposutu\u201D)"
+...

@@ -1,0 +1,55 @@
+---
+term: sakfu
+slug: sakfu
+ipa: "\u02C8sakfu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8sakfu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - roof
+    - ceiling
+  epo:
+  - - tegmento
+    - plafono
+  spa:
+  - - techo
+search terms:
+  glb:
+  - sakfu
+  eng:
+  - roof
+  - ceiling
+  epo:
+  - tegmento
+  - plafono
+  spa:
+  - techo
+etymology_type: NATLNG
+etymology:
+  Arabisa:
+  - - "\u0633\u0642\u0641 \u201Csakf\u201D"
+  Parsisa:
+  - - "\u0633\u064E\u0642\u0641 \u201Csakf\u201D"
+raw data:
+  term: sakfu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: roof, ceiling
+    epo: tegmento, plafono
+    spa: techo
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u0633\u0642\u0641 \u201Csakf\u201D), Parsisa (\u0633\u064E\u0642\u0641
+    \u201Csakf\u201D)"
+...

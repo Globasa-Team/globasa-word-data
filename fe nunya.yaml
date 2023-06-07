@@ -1,0 +1,60 @@
+---
+term: fe nunya
+slug: fe nunya
+ipa: "fe \u02C8nunja"
+ipa link: "http://ipa-reader.xyz/?text=fe \u02C8nunja&voice=Ewa"
+status: false
+category: phrase
+word class: p jm
+trans:
+  eng:
+  - - at present
+    - presently
+    - now
+  epo:
+  - - nuntempe
+    - aktuale
+    - nune
+  spa:
+  - - ahora
+    - actualmente
+    - en este momento
+search terms:
+  glb:
+  - fe nunya
+  - fe
+  - nunya
+  eng:
+  - at present
+  - presently
+  - now
+  epo:
+  - nuntempe
+  - aktuale
+  - nune
+  spa:
+  - ahora
+  - actualmente
+  - en este momento
+etymology_type: DERIVD
+etymology: <a href="../lexi/fe">fe</a>, <a href="../lexi/nun">nun</a> + <a href="../lexi/-ya">-ya</a>
+raw data:
+  term: fe nunya
+  category: phrase
+  word class: p jm
+  status: false
+  trans:
+    eng: at present, presently, now
+    epo: nuntempe, aktuale, nune
+    spa: ahora, actualmente, en este momento
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fe, nun + -ya
+...

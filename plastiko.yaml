@@ -1,0 +1,79 @@
+---
+term: plastiko
+slug: plastiko
+ipa: "plas\u02C8tiko"
+ipa link: "http://ipa-reader.xyz/?text=plas\u02C8tiko&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - plastic
+  epo:
+  - - plasto
+  spa:
+  - - "pl\xE1stico"
+search terms:
+  glb:
+  - plastiko
+  eng:
+  - plastic
+  epo:
+  - plasto
+  spa:
+  - "pl\xE1stico"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - plastic
+  Fransesa:
+  - - plastique
+  Nederisa:
+  - - plastic
+    - plastiek
+  Rusisa:
+  - - "\u043F\u043B\u0430\u0441\u0442\u0438\u043A \u201Cplastik\u201D"
+  Espanisa:
+  - - "pl\xE1stico"
+  Arabisa:
+  - - "\u0628\u0652\u0644\u064E\u0627\u0633\u0652\u062A\u0650\u064A\u0643 \u201Cblastik\u201D"
+  Hindisa:
+  - - "\u092A\u094D\u0932\u093E\u0938\u094D\u091F\u093F\u0915 \u201Cplastik\u201D"
+  Parsisa:
+  - - "\u067E\u0644\u0627\u0633\u062A\u06CC\u06A9 \u201Cpel\xE2stik\u201D"
+  Turkisa:
+  - - plastik
+  Indonesisa: ~
+  Pilipinasa: ~
+  Swahilisa:
+  - - plastiki
+  Niponsa:
+  - - "\u30D7\u30E9\u30B9\u30C1\u30C3\u30AF \u201Cpurasuchikku\u201D"
+  Hangusa:
+  - - "\uD50C\uB77C\uC2A4\uD2F1 \u201Cpeullaseutik\u201D"
+raw data:
+  term: plastiko
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: plastic
+    epo: plasto
+    spa: "pl\xE1stico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (plastic), Fransesa (plastique), Nederisa (plastic, plastiek),
+    Rusisa (\u043F\u043B\u0430\u0441\u0442\u0438\u043A \u201Cplastik\u201D), Espanisa
+    (pl\xE1stico), Arabisa (\u0628\u0652\u0644\u064E\u0627\u0633\u0652\u062A\u0650\u064A\u0643
+    \u201Cblastik\u201D), Hindisa (\u092A\u094D\u0932\u093E\u0938\u094D\u091F\u093F\u0915
+    \u201Cplastik\u201D), Parsisa (\u067E\u0644\u0627\u0633\u062A\u06CC\u06A9 \u201Cpel\xE2stik\u201D),
+    Turkisa (plastik), Indonesisa, Pilipinasa, Swahilisa (plastiki), Niponsa (\u30D7\u30E9\u30B9\u30C1\u30C3\u30AF
+    \u201Cpurasuchikku\u201D), Hangusa (\uD50C\uB77C\uC2A4\uD2F1 \u201Cpeullaseutik\u201D)"
+...

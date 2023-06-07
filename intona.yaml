@@ -1,0 +1,61 @@
+---
+term: intona
+slug: intona
+ipa: "in\u02C8tona"
+ipa link: "http://ipa-reader.xyz/?text=in\u02C8tona&voice=Ewa"
+status: true
+category: root
+word class: n/f.oj
+trans:
+  eng:
+  - - intonation
+    - inflection
+  - - intone
+    - inflect
+  epo:
+  - - intonacio
+  - - intonacii
+  spa:
+  - - "entonaci\xF3n"
+  - - modular
+search terms:
+  glb:
+  - intona
+  eng:
+  - intonation
+  - inflection
+  - intone
+  - inflect
+  epo:
+  - intonacio
+  - intonacii
+  spa:
+  - "entonaci\xF3n"
+  - modular
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: intona
+  category: root
+  word class: n/f.oj
+  status: true
+  trans:
+    eng: intonation, inflection; intone, inflect
+    epo: intonacio; intonacii
+    spa: "entonaci\xF3n; modular"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (intonation; intonate), Espanisa (entonaci\xF3n), Fransesa (intonation),
+    Rusisa (\u0438\u043D\u0442\u043E\u043D\u0430\u0446\u0438\u044F \u201Cintonatsiya\u201D),
+    Doycisa (Intonation), Portugalsa (entona\xE7\xE3o), Italisa (intonazione), Indonesisa
+    (intonasi), Pilipinasa (intonasyon), Niponsa (\u30A4\u30F3\u30C8\u30CD\u30FC\u30B7\u30E7\u30F3
+    \u201Cintonexon\u201D), Turkisa (entonasyon), Hangusa (\uC778\uD1A0\uB124\uC774\uC158
+    \u201Cintoneyxon\u201D)"
+...

@@ -1,0 +1,48 @@
+---
+term: eskrido
+slug: eskrido
+ipa: "es\u02C8k\u027Eido"
+ipa link: "http://ipa-reader.xyz/?text=es\u02C8k\u027Eido&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - written
+  epo:
+  - - skribita
+  - - skribite
+  spa:
+  - - escrito
+search terms:
+  glb:
+  - eskrido
+  eng:
+  - written
+  epo:
+  - skribita
+  - skribite
+  spa:
+  - escrito
+etymology_type: DERIVD
+etymology: <a href="../lexi/eskri">eskri</a> + <a href="../lexi/-do">-do</a>
+raw data:
+  term: eskrido
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: written
+    epo: skribita; skribite
+    spa: escrito
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: eskri + -do
+...

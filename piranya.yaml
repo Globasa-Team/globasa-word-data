@@ -1,0 +1,93 @@
+---
+term: piranya
+slug: piranya
+ipa: "pi\u02C8\u027Eanja"
+ipa link: "http://ipa-reader.xyz/?text=pi\u02C8\u027Eanja&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - piranha
+  epo:
+  - - piranjo
+    - serasalmo
+  spa:
+  - - "pira\xF1a"
+    - _Serrasalmidae_
+search terms:
+  glb:
+  - piranya
+  eng:
+  - piranha
+  epo:
+  - piranjo
+  - serasalmo
+  spa:
+  - "pira\xF1a"
+  - serrasalmidae
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - piranha
+  Espanisa:
+  - - "pira\xF1a"
+  Fransesa:
+  - - piranha
+  Rusisa:
+  - - "\u043F\u0438\u0440\u0430\u043D\u044C\u044F \"piranya\""
+  Doycisa:
+  - - Piranha
+  Portugalsa:
+  - - piranha
+  Italisa:
+  - - piranha
+  Indonesisa:
+  - - piranha
+  Pilipinasa:
+  - - piranya
+  Putunhwa:
+  - - "\u6BD4\u62C9\u9C7C \"bilayu\""
+  Hindisa:
+  - - "\u092A\u093F\u0930\u093E\u0928\u094D\u0939\u093E \"piranha\""
+  Arabisa:
+  - - "\u0628\u0650\u064A\u0631\u064E\u0627\u0646\u064E\u0627 \"birana\""
+  Niponsa:
+  - - "\u30D4\u30E9\u30CB\u30A2 \"pirania\""
+  Tamilsa:
+  - - "\u0BAA\u0BBF\u0BB0\u0BBE\u0BA9\u0BBE \u0BAE\u0BC0\u0BA9\u0BCD \"pirana min\""
+  Turkisa:
+  - - pirana
+  Hangusa:
+  - - "\uD53C\uB77C\uB0D0 \"piranya\""
+  Parsisa:
+  - - "\u067E\u06CC\u0631\u0627\u0646\u0627 \"pir\xE2n\xE2\""
+tags:
+- hewan
+raw data:
+  term: piranya
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: piranha
+    epo: piranjo, serasalmo
+    spa: "pira\xF1a, _Serrasalmidae_"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: hewan
+  etymology: "Englisa (piranha), Espanisa (pira\xF1a), Fransesa (piranha), Rusisa
+    (\u043F\u0438\u0440\u0430\u043D\u044C\u044F \"piranya\"), Doycisa (Piranha), Portugalsa
+    (piranha), Italisa (piranha), Indonesisa (piranha), Pilipinasa (piranya), Putunhwa
+    (\u6BD4\u62C9\u9C7C \"bilayu\"), Hindisa (\u092A\u093F\u0930\u093E\u0928\u094D\u0939\u093E
+    \"piranha\"), Arabisa (\u0628\u0650\u064A\u0631\u064E\u0627\u0646\u064E\u0627
+    \"birana\"), Niponsa (\u30D4\u30E9\u30CB\u30A2 \"pirania\"), Tamilsa (\u0BAA\u0BBF\u0BB0\u0BBE\u0BA9\u0BBE
+    \u0BAE\u0BC0\u0BA9\u0BCD \"pirana min\"), Turkisa (pirana), Hangusa (\uD53C\uB77C\uB0D0
+    \"piranya\"), Parsisa (\u067E\u06CC\u0631\u0627\u0646\u0627 \"pir\xE2n\xE2\")"
+...

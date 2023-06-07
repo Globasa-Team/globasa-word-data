@@ -1,0 +1,54 @@
+---
+term: turki
+slug: turki
+ipa: "\u02C8tu\u027Eki"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8tu\u027Eki&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Turkey
+    - "T\xFCrkiye"
+  epo:
+  - - Turkujo
+    - Turkio
+  spa:
+  - - "Turqu\xEDa"
+search terms:
+  glb:
+  - turki
+  eng:
+  - turkey
+  - "t\xFCrkiye"
+  epo:
+  - turkujo
+  - turkio
+  spa:
+  - "turqu\xEDa"
+etymology_type: NATLNG
+etymology:
+  Turkisa:
+  - - "T\xFCrkiye"
+tags:
+- dexa
+raw data:
+  term: Turki
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: "Turkey, T\xFCrkiye"
+    epo: Turkujo, Turkio
+    spa: "Turqu\xEDa"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: "Turkisa (T\xFCrkiye)"
+...

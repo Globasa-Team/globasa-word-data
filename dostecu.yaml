@@ -1,0 +1,48 @@
+---
+term: dostecu
+slug: dostecu
+ipa: "dos\u02C8tet\u0361\u0283u"
+ipa link: "http://ipa-reader.xyz/?text=dos\u02C8tet\u0361\u0283u&voice=Ewa"
+status: false
+category: derived
+word class: n/f.nenoj
+trans:
+  eng:
+  - - become friends
+  epo:
+  - - "amiki\u011Do"
+  - - "amiki\u011Di"
+  spa:
+  - - hacerse amigos
+search terms:
+  glb:
+  - dostecu
+  eng:
+  - become friends
+  epo:
+  - "amiki\u011Do"
+  - "amiki\u011Di"
+  spa:
+  - hacerse amigos
+etymology_type: DERIVD
+etymology: <a href="../lexi/doste">doste</a> + <a href="../lexi/-cu">-cu</a>
+raw data:
+  term: dostecu
+  category: derived
+  word class: n/f.nenoj
+  status: false
+  trans:
+    eng: become friends
+    epo: "amiki\u011Do; amiki\u011Di"
+    spa: hacerse amigos
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: doste + -cu
+...

@@ -1,0 +1,48 @@
+---
+term: sotipul
+slug: sotipul
+ipa: "soti\u02C8pul"
+ipa link: "http://ipa-reader.xyz/?text=soti\u02C8pul&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - loud
+  epo:
+  - - "la\u016Dta"
+  - - "la\u016Dte"
+  spa:
+  - - sonoro
+search terms:
+  glb:
+  - sotipul
+  eng:
+  - loud
+  epo:
+  - "la\u016Dta"
+  - "la\u016Dte"
+  spa:
+  - sonoro
+etymology_type: DERIVD
+etymology: <a href="../lexi/soti">soti</a> + <a href="../lexi/-pul">-pul</a>
+raw data:
+  term: sotipul
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: loud
+    epo: "la\u016Dta; la\u016Dte"
+    spa: sonoro
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: soti + -pul
+...

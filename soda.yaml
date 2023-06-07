@@ -1,0 +1,87 @@
+---
+term: soda
+slug: soda
+ipa: "\u02C8soda"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8soda&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - soda
+    - pop
+    - carbonated drink
+  epo:
+  - - sodo
+    - kolao
+    - "sukertrinka\u0135o"
+  spa:
+  - - refresco
+    - soda
+    - gaseosa
+search terms:
+  glb:
+  - soda
+  eng:
+  - soda
+  - pop
+  - carbonated drink
+  epo:
+  - sodo
+  - kolao
+  - "sukertrinka\u0135o"
+  spa:
+  - refresco
+  - soda
+  - gaseosa
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - soda
+  Espanisa: ~
+  Fransesa: ~
+  Doycisa: ~
+  Indonesisa. Pilipinasa: ~
+  Swahilisa: ~
+  Rusisa:
+  - - "\u0441\u043E\u0434\u0430 \u201Csoda\u201D"
+  Putunhwa:
+  - - "\u82CF\u6253 \u201Csuda\u201D"
+  Hindisa:
+  - - "\u0938\u094B\u0921\u093E \u201Csoda\u201D"
+  Arabisa:
+  - - "\u0635\u064F\u0648\u062F\u064E\u0627\u200E \u201Csoda\u201D"
+  Niponsa:
+  - - "\u30BD\u30FC\u30C0 \u201Csoda\u201D"
+  Hangusa:
+  - - "\uC18C\uB2E4 \u201Csoda\u201D"
+  Vyetnamsa:
+  - - "x\xF4-\u0111a \u201Csoda\u201D"
+  Parsisa:
+  - - "\u0633\u0648\u062F\u0627 \u201Csoda\u201D"
+raw data:
+  term: soda
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: soda, pop, carbonated drink
+    epo: "sodo, kolao, sukertrinka\u0135o"
+    spa: refresco, soda, gaseosa
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (soda), Espanisa, Fransesa, Doycisa, Indonesisa. Pilipinasa,
+    Swahilisa, Rusisa (\u0441\u043E\u0434\u0430 \u201Csoda\u201D), Putunhwa (\u82CF\u6253
+    \u201Csuda\u201D), Hindisa (\u0938\u094B\u0921\u093E \u201Csoda\u201D), Arabisa
+    (\u0635\u064F\u0648\u062F\u064E\u0627\u200E \u201Csoda\u201D), Niponsa (\u30BD\u30FC\u30C0
+    \u201Csoda\u201D), Hangusa (\uC18C\uB2E4 \u201Csoda\u201D), Hangusa (\uC18C\uB2E4
+    \u201Csoda\u201D), Vyetnamsa (x\xF4-\u0111a \u201Csoda\u201D), Parsisa (\u0633\u0648\u062F\u0627
+    \u201Csoda\u201D)"
+...

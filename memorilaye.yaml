@@ -1,0 +1,48 @@
+---
+term: memorilaye
+slug: memorilaye
+ipa: "memo\u027Ei\u02C8laje"
+ipa link: "http://ipa-reader.xyz/?text=memo\u027Ei\u02C8laje&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - memorable
+  epo:
+  - - memorinda
+  - - memorinde
+  spa:
+  - - memorable
+search terms:
+  glb:
+  - memorilaye
+  eng:
+  - memorable
+  epo:
+  - memorinda
+  - memorinde
+  spa:
+  - memorable
+etymology_type: DERIVD
+etymology: <a href="../lexi/memori">memori</a> + <a href="../lexi/-laye">-laye</a>
+raw data:
+  term: memorilaye
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: memorable
+    epo: memorinda; memorinde
+    spa: memorable
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: memori + -laye
+...

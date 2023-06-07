@@ -1,0 +1,58 @@
+---
+term: mogekal
+slug: mogekal
+ipa: "moge\u02C8kal"
+ipa link: "http://ipa-reader.xyz/?text=moge\u02C8kal&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - brainless
+    - stupid
+  epo:
+  - - sencerba
+    - stulta
+  - - sencerbe
+  spa:
+  - - sin cerebro
+    - "est\xFApido"
+search terms:
+  glb:
+  - mogekal
+  eng:
+  - brainless
+  - stupid
+  epo:
+  - sencerba
+  - stulta
+  - sencerbe
+  spa:
+  - sin cerebro
+  - "est\xFApido"
+etymology_type: DERIVD
+etymology: <a href="../lexi/moge">moge</a> + <a href="../lexi/-kal">-kal</a>
+synonyms:
+- bobo
+antonyms:
+- mogepul
+raw data:
+  term: mogekal
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: brainless, stupid
+    epo: sencerba, stulta; sencerbe
+    spa: "sin cerebro, est\xFApido"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: bobo
+  antonyms: mogepul
+  example: ""
+  tags: ""
+  etymology: moge + -kal
+...

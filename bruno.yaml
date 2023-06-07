@@ -1,0 +1,65 @@
+---
+term: bruno
+slug: bruno
+ipa: ˈbɾuno
+ipa link: http://ipa-reader.xyz/?text=ˈbɾuno&voice=Ewa
+status: true
+category: root
+word class: t
+trans:
+  eng:
+  - - brown
+  epo:
+  - - bruna
+  - - brune
+  spa:
+  - - marrón
+    - café
+search terms:
+  glb:
+  - bruno
+  eng:
+  - brown
+  epo:
+  - bruna
+  - brune
+  spa:
+  - marrón
+  - café
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - brown
+  Fransesa:
+  - - brun
+  Doycisa:
+  - - Braun
+  Arabisa:
+  - - بنى “bunaa”
+  Hindisa:
+  - - भूरा “bhoora”
+  Rusisa:
+  - - бурый “bury”
+tags:
+- kolor
+raw data:
+  term: bruno
+  category: root
+  word class: t
+  status: true
+  trans:
+    eng: brown
+    epo: bruna; brune
+    spa: marrón, café
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kolor
+  etymology: Englisa (brown), Fransesa (brun), Doycisa (Braun), Arabisa (بنى “bunaa”),
+    Hindisa (भूरा “bhoora”), Rusisa (бурый “bury”)
+...

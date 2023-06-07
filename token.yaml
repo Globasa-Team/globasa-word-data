@@ -1,0 +1,73 @@
+---
+term: token
+slug: token
+ipa: "to\u02C8ken"
+ipa link: "http://ipa-reader.xyz/?text=to\u02C8ken&voice=Ewa"
+status: false
+category: root
+word class: "n"
+trans:
+  eng:
+  - - token
+    - (game) chip
+    - counter
+  epo:
+  - - "\u0135etono"
+  spa:
+  - - ficha
+    - token
+  fra:
+  - - jeton
+search terms:
+  glb:
+  - token
+  eng:
+  - token
+  - game chip
+  - chip
+  - counter
+  epo:
+  - "\u0135etono"
+  spa:
+  - ficha
+  - token
+  fra:
+  - jeton
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - token
+  Indonesisa:
+  - - token
+  Pilipinasa:
+  - - token
+  Hindisa:
+  - - "\u091F\u094B\u0915\u0928 \"tokan\""
+  Niponsa:
+  - - "\u30C8\u30FC\u30AF\u30F3 \"tokun\""
+  Telugusa:
+  - - "\u0C1F\u0C4B\u0C15\u0C46\u0C28\u0C4D \"token\""
+  Hangusa:
+  - - "\uD1A0\uD070 \"tokun\""
+raw data:
+  term: token
+  category: root
+  word class: "n"
+  status: false
+  trans:
+    eng: token, (game) chip, counter
+    epo: "\u0135etono"
+    spa: ficha, token
+    deu: ""
+    fra: jeton
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Englisa (token), Indonesisa (token), Pilipinasa (token), Hindisa (\u091F\u094B\u0915\u0928
+    \"tokan\"), Niponsa (\u30C8\u30FC\u30AF\u30F3 \"tokun\"), Telugusa (\u0C1F\u0C4B\u0C15\u0C46\u0C28\u0C4D
+    \"token\"), Hangusa (\uD1A0\uD070 \"tokun\")"
+...

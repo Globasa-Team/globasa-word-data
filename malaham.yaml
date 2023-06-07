@@ -1,0 +1,52 @@
+---
+term: malaham
+slug: malaham
+ipa: "mala\u02C8xam"
+ipa link: "http://ipa-reader.xyz/?text=mala\u02C8xam&voice=Ewa"
+status: false
+category: derived
+word class: n/f.oro.a
+trans:
+  eng:
+  - - misunderstanding
+  - - misunderstand
+  epo:
+  - - miskompreno
+  - - miskompreni
+  spa:
+  - - malentendido
+  - - malinterpretar
+search terms:
+  glb:
+  - malaham
+  eng:
+  - misunderstanding
+  - misunderstand
+  epo:
+  - miskompreno
+  - miskompreni
+  spa:
+  - malentendido
+  - malinterpretar
+etymology_type: DERIVD
+etymology: <a href="../lexi/mal-">mal-</a> + <a href="../lexi/aham">aham</a>
+raw data:
+  term: malaham
+  category: derived
+  word class: n/f.oro.a
+  status: false
+  trans:
+    eng: misunderstanding; misunderstand
+    epo: miskompreno; miskompreni
+    spa: malentendido; malinterpretar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: mal- + aham
+...

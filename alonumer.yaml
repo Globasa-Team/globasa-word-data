@@ -1,0 +1,47 @@
+---
+term: alonumer
+slug: alonumer
+ipa: "alonu\u02C8me\u027E"
+ipa link: "http://ipa-reader.xyz/?text=alonu\u02C8me\u027E&voice=Ewa"
+status: false
+category: derived
+word class: d
+trans:
+  eng:
+  - - a different number of
+  epo:
+  - - alinombro
+  spa:
+  - - "otro n\xFAmero (de)"
+search terms:
+  glb:
+  - alonumer
+  eng:
+  - a different number of
+  epo:
+  - alinombro
+  spa:
+  - "otro n\xFAmero de"
+  - "otro n\xFAmero"
+etymology_type: DERIVD
+etymology: <a href="../lexi/alo">alo</a> + <a href="../lexi/numer">numer</a>
+raw data:
+  term: 'alonumer '
+  category: derived
+  word class: d
+  status: false
+  trans:
+    eng: a different number of
+    epo: alinombro
+    spa: "otro n\xFAmero (de)"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: alo + numer
+...

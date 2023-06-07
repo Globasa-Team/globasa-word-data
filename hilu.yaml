@@ -1,0 +1,53 @@
+---
+term: hilu
+slug: hilu
+ipa: "\u02C8xilu"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8xilu&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - heel
+  epo:
+  - - kalkamo
+    - kalkanumo
+  spa:
+  - - "tal\xF3n"
+    - "tac\xF3n"
+search terms:
+  glb:
+  - hilu
+  eng:
+  - heel
+  epo:
+  - kalkamo
+  - kalkanumo
+  spa:
+  - "tal\xF3n"
+  - "tac\xF3n"
+etymology_type: NATLNG
+etymology: BLAH
+tags:
+- jismulogi
+raw data:
+  term: hilu
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: heel
+    epo: kalkamo, kalkanumo
+    spa: "tal\xF3n, tac\xF3n"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: jismulogi
+  etymology: "Englisa (heel), Nederisa (hiel), Niponsa (\u30D2\u30FC\u30EB \"hiru\"),
+    Hangusa (\uD790 \"hil\")"
+...

@@ -1,0 +1,84 @@
+---
+term: brokoli
+slug: brokoli
+ipa: bɾoˈkoli
+ipa link: http://ipa-reader.xyz/?text=bɾoˈkoli&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - broccoli
+  epo:
+  - - brokolo
+  spa:
+  - - brócoli
+    - _Brassica oleracea var. italica_
+search terms:
+  glb:
+  - brokoli
+  eng:
+  - broccoli
+  epo:
+  - brokolo
+  spa:
+  - brócoli
+  - brassica oleracea var. italica
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - broccoli
+  Fransesa:
+  - - brocoli
+  Doycisa:
+  - - Brokkoli
+  Rusisa:
+  - - брокколи “brokkoli”
+  Espanisa:
+  - - brócoli
+  Indonesisa:
+  - - brokoli
+  Pilipinasa:
+  - - brokuli
+  Niponsa:
+  - - ブロッコリー “burokkorī”
+  Hangusa:
+  - - 브로콜리 “beurokolli”
+  Hindisa:
+  - - ब्रोकोली “brokolī”
+  Telugusa:
+  - - బ్రొక్కొలి “brokkoli”
+  Arabisa:
+  - - بروكلي “brukūlī”
+  Swahilisa:
+  - - brokoli
+  Parsisa:
+  - - بروکلی “brwkela”
+  Turkisa:
+  - - brokoli
+tags:
+- yamxey
+raw data:
+  term: brokoli
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: broccoli
+    epo: brokolo
+    spa: brócoli, _Brassica oleracea var. italica_
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: yamxey
+  etymology: Englisa (broccoli), Fransesa (brocoli), Doycisa (Brokkoli), Rusisa (брокколи
+    “brokkoli”), Espanisa (brócoli), Indonesisa (brokoli), Pilipinasa (brokuli), Niponsa
+    (ブロッコリー “burokkorī”), Hangusa (브로콜리 “beurokolli”), Hindisa (ब्रोकोली “brokolī”),
+    Telugusa (బ్రొక్కొలి “brokkoli”), Arabisa (بروكلي “brukūlī”), Swahilisa (brokoli),
+    Parsisa (بروکلی “brwkela”), Turkisa (brokoli)
+...

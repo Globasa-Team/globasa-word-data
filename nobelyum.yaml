@@ -1,0 +1,92 @@
+---
+term: nobelyum
+slug: nobelyum
+ipa: "nobe\u02C8ljum"
+ipa link: "http://ipa-reader.xyz/?text=nobe\u02C8ljum&voice=Ewa"
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - nobelium
+  epo:
+  - - nobelio
+  spa:
+  - - nobelio
+    - "No"
+search terms:
+  glb:
+  - nobelyum
+  eng:
+  - nobelium
+  epo:
+  - nobelio
+  spa:
+  - nobelio
+  - "no"
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - nobelium
+  Putunhwa:
+  - - "\u9369 \u201Cnwo\u201D"
+  Hindisa:
+  - - "\u0928\u094B\u092C\u0947\u0932\u093F\u092F\u092E \u201Cnobeliyam\u201D"
+  Espanisa:
+  - - nobelio
+  Arabisa:
+  - - "\u0646\u064F\u0648\u0628\u0650\u0644\u0652\u064A\u064F\u0648\u0645 \u201Cnubilyum\u201D"
+  Fransesa:
+  - - "nob\xE9lium"
+  Rusisa:
+  - - "\u043D\u043E\u0431\u0435\u043B\u0438\u0439 \u201Cnobeliy\u201D"
+  Indonesisa:
+  - - nobelium
+  Doycisa:
+  - - Nobelium
+  Niponsa:
+  - - "\u30CE\u30FC\u30D9\u30EA\u30A6\u30E0 \u201Cnoberiumu\u201D"
+  Telugusa:
+  - - "\u0C28\u0C4B\u0C2C\u0C46\u0C32\u0C40\u0C2E\u0C3F\u0C2F\u0C02 \u201Cnobeliyam\u201D"
+  Turkisa:
+  - - nobelyum
+  Hangusa:
+  - - "\uB178\uBCA8\uB968 \u201Cnobellyum\u201D"
+  Vyetnamsa:
+  - - nobeli
+  Parsisa:
+  - - "\u0646\u0648\u0628\u0644\u06CC\u0645 \u201Cnobeliyom\u201D"
+  Swahilisa:
+  - - nobeli
+  Pilipinasa:
+  - - nobelyo
+    - nobelyum
+tags:
+- kimikali monlari
+raw data:
+  term: nobelyum
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: nobelium
+    epo: nobelio
+    spa: nobelio, No
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: kimikali monlari
+  etymology: "Englisa (nobelium), Putunhwa (\u9369 \u201Cnwo\u201D), Hindisa (\u0928\u094B\u092C\u0947\u0932\u093F\u092F\u092E
+    \u201Cnobeliyam\u201D), Espanisa (nobelio), Arabisa (\u0646\u064F\u0648\u0628\u0650\u0644\u0652\u064A\u064F\u0648\u0645
+    \u201Cnubilyum\u201D), Fransesa (nob\xE9lium), Rusisa (\u043D\u043E\u0431\u0435\u043B\u0438\u0439
+    \u201Cnobeliy\u201D), Indonesisa (nobelium), Doycisa (Nobelium), Niponsa (\u30CE\u30FC\u30D9\u30EA\u30A6\u30E0
+    \u201Cnoberiumu\u201D), Telugusa (\u0C28\u0C4B\u0C2C\u0C46\u0C32\u0C40\u0C2E\u0C3F\u0C2F\u0C02
+    \u201Cnobeliyam\u201D), Turkisa (nobelyum), Hangusa (\uB178\uBCA8\uB968 \u201Cnobellyum\u201D),
+    Vyetnamsa (nobeli), Parsisa (\u0646\u0648\u0628\u0644\u06CC\u0645 \u201Cnobeliyom\u201D),
+    Swahilisa (nobeli), Pilipinasa (nobelyo, nobelyum)"
+...

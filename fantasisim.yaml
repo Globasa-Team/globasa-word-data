@@ -1,0 +1,54 @@
+---
+term: fantasisim
+slug: fantasisim
+ipa: "fantasi\u02C8sim"
+ipa link: "http://ipa-reader.xyz/?text=fantasi\u02C8sim&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - fantastic
+    - fantastically
+  epo:
+  - - fantasta
+    - fantazia
+  - - fantaste
+    - fantazie
+  spa:
+  - - "fant\xE1stico"
+search terms:
+  glb:
+  - fantasisim
+  eng:
+  - fantastic
+  - fantastically
+  epo:
+  - fantasta
+  - fantazia
+  - fantaste
+  - fantazie
+  spa:
+  - "fant\xE1stico"
+etymology_type: DERIVD
+etymology: <a href="../lexi/fantasi">fantasi</a> + <a href="../lexi/-sim">-sim</a>
+raw data:
+  term: fantasisim
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: fantastic, fantastically
+    epo: fantasta, fantazia; fantaste, fantazie
+    spa: "fant\xE1stico"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: fantasi + -sim
+...

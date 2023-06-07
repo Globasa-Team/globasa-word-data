@@ -1,0 +1,55 @@
+---
+term: jasusi
+slug: jasusi
+ipa: "d\u0361\u0292a\u02C8susi"
+ipa link: "http://ipa-reader.xyz/?text=d\u0361\u0292a\u02C8susi&voice=Ewa"
+status: true
+category: root
+word class: n/f.oro.a
+trans:
+  eng:
+  - - espionage
+  - - spy (on)
+  epo:
+  - - spionado
+  - - spioni
+  spa:
+  - - espionaje
+  - - espiar
+search terms:
+  glb:
+  - jasusi
+  eng:
+  - espionage
+  - spy on
+  - spy
+  epo:
+  - spionado
+  - spioni
+  spa:
+  - espionaje
+  - espiar
+etymology_type: NATLNG
+etymology: BLAH
+raw data:
+  term: jasusi
+  category: root
+  word class: n/f.oro.a
+  status: true
+  trans:
+    eng: espionage; spy (on)
+    epo: spionado; spioni
+    spa: espionaje; espiar
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: "Arabisa (\u062C\u0627\u0633\u0648\u0633 \u201Cjasus\u201D), Hindi (\u091C\u093E\u0938\u0942\u0938
+    \u201Cjasus\u201D), Parsisa (\u062C\u0627\u0633\u0648\u0633 \u201Cjasus\u201D),
+    Turkisa (casus \u201Cjasus\u201D), Swahilisa (jasusi)"
+...

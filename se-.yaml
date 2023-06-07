@@ -1,0 +1,46 @@
+---
+term: se-
+slug: se-
+ipa: "\u02C8se-"
+ipa link: "http://ipa-reader.xyz/?text=\u02C8se-&voice=Ewa"
+status: true
+category: affix
+word class: lfik
+trans:
+  eng:
+  - - self-
+  epo:
+  - - sin-
+  spa:
+  - - auto-
+search terms:
+  glb:
+  - se-
+  eng:
+  - self-
+  epo:
+  - sin-
+  spa:
+  - auto-
+etymology_type: DERIVD
+etymology: Am oko <a href="../lexi/se">se</a>.
+raw data:
+  term: se-
+  category: affix
+  word class: lfik
+  status: true
+  trans:
+    eng: self-
+    epo: sin-
+    spa: auto-
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Am oko _se_.
+...

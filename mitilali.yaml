@@ -1,0 +1,49 @@
+---
+term: mitilali
+slug: mitilali
+ipa: "miti\u02C8lali"
+ipa link: "http://ipa-reader.xyz/?text=miti\u02C8lali&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - (of) Mithila
+  epo:
+  - - maitila
+  spa:
+  - - maithili
+    - "maijil\xED"
+search terms:
+  glb:
+  - mitilali
+  eng:
+  - of mithila
+  - mithila
+  epo:
+  - maitila
+  spa:
+  - maithili
+  - "maijil\xED"
+etymology_type: DERIVD
+etymology: <a href="../lexi/Mitila">Mitila</a> + <a href="../lexi/-li">-li</a>
+raw data:
+  term: Mitilali
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: (of) Mithila
+    epo: maitila
+    spa: "maithili, maijil\xED"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Mitila + -li
+...

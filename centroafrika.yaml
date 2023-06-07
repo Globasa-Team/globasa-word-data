@@ -1,0 +1,48 @@
+---
+term: centroafrika
+slug: centroafrika
+ipa: "t\u0361\u0283ent\u027Eoa\u02C8f\u027Eika"
+ipa link: "http://ipa-reader.xyz/?text=t\u0361\u0283ent\u027Eoa\u02C8f\u027Eika&voice=Ewa"
+status: true
+category: proper noun
+word class: "n"
+trans:
+  eng:
+  - - Central African Republic
+  epo:
+  - - Centra Afriko
+  spa:
+  - - "Centro\xE1frica"
+search terms:
+  glb:
+  - centroafrika
+  eng:
+  - central african republic
+  epo:
+  - centra afriko
+  spa:
+  - "centro\xE1frica"
+etymology_type: DERIVD
+etymology: <a href="../lexi/centro">centro</a> + <a href="../lexi/Afrika">Afrika</a>
+tags:
+- dexa
+raw data:
+  term: Centroafrika
+  category: proper noun
+  word class: "n"
+  status: true
+  trans:
+    eng: Central African Republic
+    epo: Centra Afriko
+    spa: "Centro\xE1frica"
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: dexa
+  etymology: centro + Afrika
+...

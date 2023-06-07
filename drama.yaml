@@ -1,0 +1,77 @@
+---
+term: drama
+slug: drama
+ipa: ˈdɾama
+ipa link: http://ipa-reader.xyz/?text=ˈdɾama&voice=Ewa
+status: true
+category: root
+word class: "n"
+trans:
+  eng:
+  - - drama
+  epo:
+  - - dramo
+  spa:
+  - - drama
+search terms:
+  glb:
+  - drama
+  eng:
+  - drama
+  epo:
+  - dramo
+  spa:
+  - drama
+etymology_type: NATLNG
+etymology:
+  Englisa:
+  - - drama
+  Espanisa:
+  - - drama
+  Fransesa:
+  - - drame
+  Rusisa:
+  - - драма “drama”
+  Doycisa:
+  - - Drama
+  Hindisa:
+  - - ड्रामा “drama
+  Indonesisa:
+  - - drama
+  Pilipinasa:
+  - - drama
+  Niponsa:
+  - - ドラマ “dorama”
+  Hangusa:
+  - - 드라마 “durama”
+  Arabisa:
+  - - دْرَامَا “drama”
+  Parsisa:
+  - - درام “deram”
+  Turkisa:
+  - - drama
+  Swahilisa:
+  - - drama
+raw data:
+  term: drama
+  category: root
+  word class: "n"
+  status: true
+  trans:
+    eng: drama
+    epo: dramo
+    spa: drama
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: Englisa (drama), Espanisa (drama), Fransesa (drame), Rusisa (драма “drama”),
+    Doycisa (Drama), Hindisa (ड्रामा “drama), Indonesisa (drama), Pilipinasa (drama),
+    Niponsa (ドラマ “dorama”), Hangusa (드라마 “durama”), Arabisa (دْرَامَا “drama”), Parsisa
+    (درام “deram”), Turkisa (drama), Swahilisa (drama)
+...

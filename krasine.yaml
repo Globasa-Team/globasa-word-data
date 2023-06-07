@@ -1,0 +1,54 @@
+---
+term: krasine
+slug: krasine
+ipa: "k\u027Ea\u02C8sine"
+ipa link: "http://ipa-reader.xyz/?text=k\u027Ea\u02C8sine&voice=Ewa"
+status: false
+category: derived
+word class: t
+trans:
+  eng:
+  - - governing
+    - ruling
+  epo:
+  - - reganta
+  - - regante
+  spa:
+  - - gobernante
+    - reinante
+    - en el poder
+search terms:
+  glb:
+  - krasine
+  eng:
+  - governing
+  - ruling
+  epo:
+  - reganta
+  - regante
+  spa:
+  - gobernante
+  - reinante
+  - en el poder
+etymology_type: DERIVD
+etymology: <a href="../lexi/krasi">krasi</a> + <a href="../lexi/-ne">-ne</a>
+raw data:
+  term: krasine
+  category: derived
+  word class: t
+  status: false
+  trans:
+    eng: governing, ruling
+    epo: reganta; regante
+    spa: gobernante, reinante, en el poder
+    deu: ""
+    fra: ""
+    rus: ""
+    zho: ""
+  search terms eng: ""
+  synonyms: ""
+  antonyms: ""
+  example: ""
+  tags: ""
+  etymology: krasi + -ne
+...
